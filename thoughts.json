@@ -1,0 +1,497 @@
+{
+	
+	// THOUGHTS
+	"thoughtTitle_DebugGood": {
+		"english": "Good Feeling",
+		"german": "Gutes Gefühl"
+	},
+	"thoughtDesc_DebugGood": {
+		"english": "I'm just happy right now and I don't really know why.",
+		"german": "Ich bin gerade einfach glücklich und ich weiß nicht wirklich warum."
+	},
+	"thoughtTitle_DebugBad": {
+		"english": "Bad Feeling",
+		"german": "Schlechtes Gefühl"
+	},
+	"thoughtDesc_DebugBad": {
+		"english": "I'm just sad right now and I don't really know why.",
+		"german": "Ich bin gerade einfach traurig und ich weiß nicht wirklich warum."
+	},
+	"thoughtTitle_MinorPain": {
+		"english": "Minor Pain",
+		"german": "Schmerz"
+	},
+	"thoughtDesc_MinorPain": {
+		"english": "Ouch. That hurts.",
+		"german": "Aua. Das tut weh."
+	},
+	"thoughtTitle_MediumPain": {
+		"english": "Serious Pain",
+		"german": "Heftiger Schmerz"
+	},
+	"thoughtDesc_MediumPain": {
+		"english": "Ow. That hurts pretty badly.",
+		"german": "Aahh. Das tut richtig weh."
+	},
+	"thoughtTitle_ExtremePain": {
+		"english": "Extreme Pain",
+		"german": "Extremer Schmerz"
+	},
+	"thoughtDesc_ExtremePain": {
+		"english": "Ooohhh... This is unbearable!",
+		"german": "Ooohhh... Das kann ich nicht ertragen!"
+	},
+	"thoughtTitle_Hungry": {
+		"english": "Hungry",
+		"german": "Hungrig"
+	},
+	"thoughtDesc_Hungry": {
+		"english": "Man... I haven't eaten in a while.",
+		"german": "Oh mann... Ich hab schon lang nichts mehr gegessen."
+	},
+	"thoughtTitle_Exhausted": {
+		"english": "Exhausted",
+		"german": "Erschöpft"
+	},
+	"thoughtDesc_Exhausted": {
+		"english": "It has been a long day... I just want to sleep right now.",
+		"german": "Es war ein langer Tag... Jetzt möchte ich einfach nur schlafen."
+	},
+	"thoughtTitle_NewColony": {
+		"english": "New Colony",
+		"german": "Neue Kolonie"
+	},
+	"thoughtDesc_NewColony": {
+		"english": "A new beginning! Let's make ourselves at home here!",
+		"german": "Ein neuer Anfang! Lass es uns hier gemütlich machen!"
+	},
+	"thoughtTitle_WellRested": {
+		"english": "Well Rested",
+		"german": "Ausgeruht"
+	},
+	"thoughtDesc_WellRested": {
+		"english": "Oh yes. There's nothing better that being able to sleep late in a comfortable bed.",
+		"german": "Ach ja. Es geht doch nichts darüber in einem schönen Bett in Ruhe ausschlafen zu können."
+	},
+	"thoughtTitle_SleptOnGround": {
+		"english": "Slept on Ground",
+		"german": "Auf dem Boden geschlafen"
+	},
+	"thoughtDesc_SleptOnGround": {
+		"english": "Ugh. Why can't I sleep in a bed? Sleeping on the ground sucks.",
+		"german": "Oh Mann. Wieso kann ich nicht in einem Bett schlafen? Auf dem Boden schlafen ist so ungemütlich."
+	},
+	"thoughtTitle_ColonistDied": {
+		"english": "Colonist Died",
+		"german": "Kolonist gestorben"
+	},
+	"thoughtDesc_ColonistDied": {
+		"english": "My friend and fellow colonist died. Damn. I feel kind of empty now.",
+		"german": "Mein Kumpel ist gestorben. Verdammt. Ich fühle mich so leer..."
+	},
+	"thoughtTitle_FightWon": {
+		"english": "Won a Fight",
+		"german": "Kampf gewonnen"
+	},
+	"thoughtDesc_FightWon": {
+		"english": "Oh yeah! Feels good showing them who's boss!",
+		"german": "Oh ja! Dem hab ich's gezeigt!"
+	},
+	"thoughtTitle_FightLost": {
+		"english": "Lost a Fight",
+		"german": "Kampf verloren"
+	},
+	"thoughtDesc_FightLost": {
+		"english": "I just got beaten up. I can't believe it. This is not only painful, but also humiliating.",
+		"german": "Ich wurde gerade fertiggemacht. Ich kann es kaum glauben. Das tut nicht nur weh, sondern auch demütigend."
+	},
+	"thoughtTitle_ColonistKilled": {
+		"english": "Killed Colonist",
+		"german": "Kolonist umgebracht"
+	},
+	"thoughtDesc_ColonistKilled": {
+		"english": "I just killed one of our own. How could I do that?!",
+		"german": "Ich habe gerade jemanden von uns umgebracht. Wie konnte ich das nur tun?!"
+	},
+	"thoughtTitle_BlewOffSteam": {
+		"english": "Blew off Steam",
+		"german": "Abreagiert"
+	},
+	"thoughtDesc_BlewOffSteam": {
+		"english": "Ah, it feels good to have let out all my frustration. Maybe life is not so bleak after all.",
+		"german": "Ah, es fühlt sich gut an mal Dampf abgelassen zu haben. Vielleicht ist das Leben ja doch gar nicht soo schlecht."
+	},
+	"thoughtTitle_LookingForwardToNewDay": {
+		"english": "Looking forward to a new day",
+		"german": "Freut sich auf einen neuen Tag"
+	},
+	"thoughtDesc_LookingForwardToNewDay": {
+		"english": "I had a bad day recently, but I'm hopeful that it'll get better soon.",
+		"german": "Ich hatte vor kurzem einen schlechten Tag, aber ich bin mir sicher, dass es bald besser wird."
+	},
+	"thoughtTitle_MyFurnitureDestroyed": {
+		"english": "Owned furniture has been destroyed",
+		"german": "Eignen Möbel wurden zerstört"
+	},
+	"thoughtDesc_MyFurnitureDestroyed": {
+		"english": "I had some pretty nice furniture in my bedroom, but somebody completely demolished them!",
+		"german": "Ich hatte ein paar ziemlich schöne Möbelstücke in meinem Schlafzimmer, aber jemand hat sie einfach zerstört!"
+	},
+	"thoughtTitle_InspirationOver": {
+		"english": "Inspiration over",
+		"german": "Inspiration vorbei"
+	},
+	"thoughtDesc_InspirationOver": {
+		"english": "I just spent a day in the best mood ever. Normal life seems just not as good in comparison.",
+		"german": "Ich habe war gerade einen ganzen Tag in Hochstimmung. Das normale Leben ist im Vergleich einfach nicht so gut."
+	},
+	"thoughtTitle_AteRawFood": {
+		"english": "Ate Raw Food",
+		"german": "Rohe Mahlzeit gegessen"
+	},
+	"thoughtDesc_AteRawFood": {
+		"english": "Eww! I can't stand raw food!",
+		"german": "Igitt! Ich kann rohes Essen nicht ausstehen!"
+	},
+	"thoughtTitle_AteCookedFood": {
+		"english": "Ate Cooked Food",
+		"german": "Gekochte Mahlzeit gegessen"
+	},
+	"thoughtDesc_AteCookedFood": {
+		"english": "The food I just ate was delicious.",
+		"german": "Die Mahlzeit die ich gerade gegessen habe war richtig lecker."
+	},
+	"thoughtTitle_Optimist": {
+		"english": "Optimistic",
+		"german": "Optimistisch"
+	},
+	"thoughtDesc_Optimist": {
+		"english": "I just think it will all work out great in the end.",
+		"german": "Ich glaube einfach es wird zum Schluss alles gut ausgehen."
+	},
+	"thoughtTitle_Pessimist": {
+		"english": "Pessimistic",
+		"german": "Pessimistisch"
+	},
+	"thoughtDesc_Pessimist": {
+		"english": "Man, there is so much that could go wrong in the next couple of days...",
+		"german": "Oh Mann, es gibt so viel was in den nächsten Tagen schiefgehen könnte..."
+	},
+	"thoughtTitle_YeahKilledSomeone": {
+		"english": "I killed someone!",
+		"german": "Ich habe jemanden umgebracht!"
+	},
+	"thoughtDesc_YeahKilledSomeone": {
+		"english": "Ha! I killed someone! Maybe I shouldn't tell the others, but I got such an adrenaline rush from this, it's great!",
+		"german": "Ha! Ich habe gerade jemanden umgebracht! Das sollte ich zwar nicht den anderen sagen, aber es hat mich irgendwie begeistert!"
+	},
+	"thoughtTitle_PleasantConversation": {
+		"english": "Pleasant Conversation",
+		"german": "Angenehme Konversation"
+	},
+	"thoughtDesc_PleasantConversation": {
+		"english": "I enjoyed talking with my friend.",
+		"german": "Mir hat es gefallen, mich mit meinem Kumpel zu unterhalten."
+	},
+	"thoughtTitle_BadConversation": {
+		"english": "Bad Conversation",
+		"german": "Schlechte Konversation"
+	},
+	"thoughtDesc_BadConversation": {
+		"english": "This guy is so full of himself. I couldn't stand listening to him.",
+		"german": "Dieser Typ ist unglaublich eingebildet. Ich konnte es nicht mal ertragen ihm zuzuhören."
+	},
+	"thoughtTitle_GoodDream": {
+		"english": "Good Dream",
+		"german": "Schöner Traum"
+	},
+	"thoughtDesc_GoodDream": {
+		"english": "Maybe dreams have a meaning after all? I sure hope so.",
+		"german": "Vielleicht haben Träume ja doch eine Bedeutung? Ich hoffe es zumindest."
+	},
+	"thoughtTitle_BadDream": {
+		"english": "Bad Dream",
+		"german": "Schlechter Traum"
+	},
+	"thoughtDesc_BadDream": {
+		"english": "Last night I couldn't sleep that well. Had bad dreams all night.",
+		"german": "Letzte Nacht konnte ich nicht gut schlafen. Hatte die ganze Zeit schlechte Träume."
+	},
+	"thoughtTitle_Nightmare": {
+		"english": "Nightmare",
+		"german": "Alptraum"
+	},
+	"thoughtDesc_Nightmare": {
+		"english": "Last night I had a horrible nightmare about my friends. I'm still a bit shaken from it.",
+		"german": "Letzte Nacht hatte ich einen schrecklichen Alptraum von meinen Freunden. Ich bin immer noch ein bisschen aufgebracht."
+	},
+	"thoughtTitle_AteFavoriteMeal": {
+		"english": "Ate Favorite Meal",
+		"german": "Lieblingsmahlzeit gegessen"
+	},
+	"thoughtDesc_AteFavoriteMeal": {
+		"english": "Mmmm... I finally got to have my favorite food again!",
+		"german": "Mmmm... Ich habe endlich wieder mein Lieblingsessen bekommen!"
+	},
+	"thoughtTitle_AteGoodMeal": {
+		"english": "Ate Good Meal",
+		"german": "Gute Mahlzeit gegessen"
+	},
+	"thoughtDesc_AteGoodMeal": {
+		"english": "I had a good meal recently. I didn't think we could get something this tasty here.",
+		"german": "Ich habe gut gegessen. Ich dachte nicht, dass wir etwas so leckeres hier bekommen könnten."
+	},
+	"thoughtTitle_AteGreatMeal": {
+		"english": "Ate Oustanding Meal",
+		"german": "Hervorragende Mahlzeit gegessen"
+	},
+	"thoughtDesc_AteGreatMeal": {
+		"english": "This is the best food I ever tasted! Way better than what I expected of this colony!",
+		"german": "Das ist das Beste, das ich je gegessen habe! So viel besser als ich es von dieser Kolonie erwartet hätte!"
+	},
+	"thoughtTitle_AteVarietyOfGoodFood": {
+		"english": "Ate Variety of Good Food",
+		"german": "Abwechslungsreiche gute Mahlzeiten gegessen"
+	},
+	"thoughtDesc_AteVarietyOfGoodFood": {
+		"english": "There are so many kinds of foods to choose from. It's amazing!",
+		"german": "Es gibt so viel Auswahl beim Essen. Toll!"
+	},
+	"thoughtTitle_DietLacksVarietyOfGoodFood": {
+		"english": "Food lacks Variety",
+		"german": "Wenig Auswahl beim Essen"
+	},
+	"thoughtDesc_DietLacksVarietyOfGoodFood": {
+		"english": "I think this colony should be able to afford a selection of good meals from the kitchen as well as different baked goods.",
+		"german": "Ich denke, diese Kolonie sollte sich sowohl eine Auswahl an guten Mahlzeiten aus der Küche als auch verschiedene Backwaren leisten."
+	},
+	"thoughtTitle_AteRawFoodHasHigherExpectations": {
+		"english": "Had to Eat Unprepared Food",
+		"german": "Musste ungekochtes Essen ertragen"
+	},
+	"thoughtDesc_AteRawFoodHasHigherExpectations": {
+		"english": "I had to eat unprepared food. Ugh. I'd like to have better meals.",
+		"german": "Ich musste ungekochtes Essen ertragen. Argh. Da wünsche ich mir besseres."
+	},
+	"thoughtTitle_AteRawFoodHasMuchHigherExpectations": {
+		"english": "Had to eat unprepared Food!",
+		"german": "Musste ungekochtes Essen ertragen!"
+	},
+	"thoughtDesc_AteRawFoodHasMuchHigherExpectations": {
+		"english": "I had to eat unprepared food. Why?! Someone like me shouldn't have to eat food like that!",
+		"german": "Ich musste ungekochtes Essen ertragen. Warum?! Jemand wie ich sollte so etwas nicht essen müssen!"
+	},
+	"thoughtTitle_AteSimpleMealHasHigherExpectations": {
+		"english": "Had to eat simple Food",
+		"german": "Musste einfaches Essen ertragen"
+	},
+	"thoughtDesc_AteSimpleMealHasHigherExpectations": {
+		"english": "I had to eat simple food. Ugh. Why is there nothing better than campfire food in this colony?",
+		"german": "Ich musste einfaches Essen ertragen. Argh. Wieso gibt es hier nichts besseres als Essen vom Lagerfeuer?"
+	},
+	"thoughtTitle_AteSimpleMealHasMuchHigherExpectations": {
+		"english": "Had to eat simple Food!",
+		"german": "Musste einfaches Essen ertragen!"
+	},
+	"thoughtDesc_AteSimpleMealHasMuchHigherExpectations": {
+		"english": "I had to eat simple food. Someone like me should have to eat food prepared on a campfire!",
+		"german": "Ich musste einfaches Essen ertragen. Ich habe etwas besseres verdient als Essen vom Lagerfeuer!"
+	},
+	"thoughtTitle_SmallFoodRations": {
+		"english": "Small Food Rations",
+		"german": "Kleine Nahrungssrationen"
+	},
+	"thoughtDesc_SmallFoodRations": {
+		"english": "I understand that we need to watch our food consumption, but I'm feeling so weak now.",
+		"german": "Ich verstehe, dass wir auf unseren Essensverbrauch achten sollen, aber ich fühle mich jetzt so schwach."
+	},
+	"thoughtTitle_LargeFoodRations": {
+		"english": "Large Food Rations",
+		"german": "Große Nahrungsrationen"
+	},
+	"thoughtDesc_LargeFoodRations": {
+		"english": "So much food! Our colony is really doing well. Now I only need to watch out for my weight, haha.",
+		"german": "So viel Essen! Unserer Kolonie geht's echt gut. Jetzt muss ich nur noch auf mein Gewicht aufpassen, haha."
+	},
+	"thoughtTitle_WishFulfilled": {
+		"english": "Wish fulfilled",
+		"german": "Wunsch erfüllt"
+	},
+	"thoughtDesc_WishFulfilled": {
+		"english": "My wish came true! In this colony I can get what I want.",
+		"german": "Mein Wunsch ist erfüllt worden! In dieser Kolonie kann ich bekommen was ich will."
+	},
+	"thoughtTitle_WishDenied": {
+		"english": "Wish denied",
+		"german": "Wunsch abgelehnt"
+	},
+	"thoughtDesc_WishDenied": {
+		"english": "My wish has been denied. In my opinion, it should've been easily possible to fulfill! Man, now I'm mad.",
+		"german": "Mein Wunsch wurde abglehnt. Ich denke der hätte leicht erfüllt werden können! Mensch, jetzt bin ich sauer."
+	},
+	"thoughtTitle_BarelySurvivedRaid": {
+		"english": "Barely survived raid",
+		"german": "Angriff knapp überlebt"
+	},
+	"thoughtDesc_BarelySurvivedRaid": {
+		"english": "Phew, the attack is over. I can count myself lucky I survived this.",
+		"german": "Puh, der Angriff ist vorbei. Ich kann mich glücklich schätzen das überlebt zu haben."
+	},
+	"thoughtTitle_LazyDay": {
+		"english": "Having a Lazy Day",
+		"german": "Macht einen faulen Tag"
+	},
+	"thoughtDesc_LazyDay": {
+		"english": "I had a bad time recently, so today I'm taking it easy. Don't wanna work too much, right? ",
+		"german": "Vor kurzem hatte eine harte Zeit, also gehe ich es heute gemütlich an. Man will sich ja nicht überarbeiten, oder?"
+	},
+	"thoughtTitle_EnvyBedroomBeauty": {
+		"english": "Envious of %otherFirstName%'s room",
+		"german": "Neidisch auf Raum von %otherFirstName%"
+	},
+	"thoughtDesc_EnvyBedroomBeauty": {
+		"english": "%otherFullName% has such a cool bedroom, why can't I have something like that?",
+		"german": "%otherFullName% hat so ein tolles Schlafzimmer, wieso kann ich sowas nicht auch haben?"
+	},
+
+
+
+
+	// GENERIC MOOD PHRASED
+	"moodPhrase_Legendary1": {
+		"english": "This is the greatest day ever!",
+		"german": "Das ist der beste Tag, den ich je hatte!"
+	},
+	"moodPhrase_Legendary2": {
+		"english": "I'm feeling so... inspired!",
+		"german": "Ich fühle mich irgendwie so... inspriert!"
+	},
+	"moodPhrase_Legendary3": {
+		"english": "I freaking love my life!",
+		"german": "I liebe mein Leben!"
+	},
+	"moodPhrase_Legendary4": {
+		"english": "I'm feeling absolutely awesome!",
+		"german": "Ich fühle mich absolut großartig!"
+	},
+	"moodPhrase_Crazy1": {
+		"english": "I CAN'T BEAR THIS SHITTY COLONY ANYMORE!",
+		"german": "ICH HALTE DIESE KOLONIE NICHT MEHR AUS!"
+	},
+	"moodPhrase_Crazy2": {
+		"english": "NOBODY CONTROLS ME NOW!",
+		"german": "JETZT KOMMANDIERT MICH NIEMAND MEHR HERUM!"
+	},
+	"moodPhrase_Crazy3": {
+		"english": "I DO WHAT I WANT NOW!",
+		"german": "ICH TU JETZT WAS ICH WILL!"
+	},
+	"moodPhrase_Crazy4": {
+		"english": "WE ARE ALL DOOMED ANYWAYS",
+		"german": "WIR SIND ALLE DEM UNTERGANG GEWEIHT"
+	},
+	"moodPhrase_DestroyFurniture1": {
+		"english": "I'm bored and don't want to work. Let's see how I can break this.",
+		"german": "Mir ist langweilig und ich will nicht arbeiten. Mal schauen, wie ich das kaputt machen kann."
+	},
+	"moodPhrase_DestroyFurniture2": {
+		"english": "I'm just releasing some steam!",
+		"german": "Ich lasse einfach mal ein bisschen Dampf ab!"
+	},
+	"moodPhrase_DestroyFurniture3": {
+		"english": "I never liked this thing.",
+		"german": "Ich mochte dieses Ding noch nie."
+	},
+	"moodPhrase_RefusingWork1": {
+		"english": "Burnout has become the better of me. I can't work any more.",
+		"german": "Ich bin vom Burnout überwältigt. Ich kann nicht mehr arbeiten."
+	},
+	"moodPhrase_RefusingWork2": {
+		"english": "It's enough. I'm too unhappy to work any longer.",
+		"german": "Ich habe genug. Ich bin zu unzufrieden um noch weiter zu arbeiten."
+	},
+	"moodPhrase_RefusingWork3": {
+		"english": "I worked too much in bad conditions. Now I'm doing what I want.",
+		"german": "Ich habe zu lange in schlechten Bedingungen gearbeitet. Jetzt mache ich was ich will."
+	},
+	"moodPhrase_RefusingWork4": {
+		"english": "I hate it here. I don't want to work any more.",
+		"german": "Ich hasse es hier. Ich will nicht mehr arbeiten."
+	},
+	"moodPhrase_Neutral1": {
+		"english": "I'm doing alright I guess.",
+		"german": "Mir geht's ganz gut würde ich sagen."
+	},
+	"moodPhrase_Neutral2": {
+		"english": "Seems like a normal day to me.",
+		"german": "Ein ganz normaler Tag heute."
+	},
+	"moodPhrase_Neutral3": {
+		"english": "I kind of like my life. It could be better though.",
+		"german": "Ich mag mein Leben... aber es könnte noch besser sein."
+	},
+	"moodPhrase_Neutral4": {
+		"english": "What will the day bring?",
+		"german": "Was wird der Tag bringen?"
+	},
+	"moodPhrase_Neutral5": {
+		"english": "I wonder if all this work is going to pay off.",
+		"german": "Ich frage mich, ob sich diese ganze Arbeit auszahlt."
+	},
+	"moodPhrase_Good1": {
+		"english": "Somehow, I'm doing really well today!",
+		"german": "Irgendwie fühle ich mich heute richtig gut!"
+	},
+	"moodPhrase_Good2": {
+		"english": "Today is a good day.",
+		"german": "Heute ist ein guter Tag."
+	},
+	"moodPhrase_Good3": {
+		"english": "I really like my life right now.",
+		"german": "Ich finde mein Leben zurzeit echt gut."
+	},
+	"moodPhrase_Good4": {
+		"english": "I'm feeling lucky today.",
+		"german": "Mir geht's heute echt gut."
+	},
+	"moodPhrase_Bad1": {
+		"english": "This life sucks.",
+		"german": "Ich habe ein ungutes Gefühl im Magen."
+	},
+	"moodPhrase_Bad2": {
+		"english": "I don't think this colony has a future...",
+		"german": "Ich glaube nicht, dass diese Kolonie eine Zukunft hat..."
+	},
+	"moodPhrase_Bad3": {
+		"english": "Life seems kind of pointless right now.",
+		"german": "Das Leben scheint gerade irgendwie keinen Sinn zu haben."
+	},
+	"moodPhrase_Bad4": {
+		"english": "Life could be worse... but not much worse",
+		"german": "Das Leben könnte schlimmer sein... aber nicht viel schlimmer."
+	},
+	"moodPhrase_Fighting1": {
+		"english": "Just give up, fool!",
+		"german": "Gib doch einfach auf, Narr!"
+	},
+	"moodPhrase_Fighting2": {
+		"english": "You'll never get the best of me!",
+		"german": "Du wirst mich nie besiegen!"
+	},
+	"moodPhrase_Fighting3": {
+		"english": "Flee, while you still can!",
+		"german": "Flieh doch, solange du noch kannst!"
+	},
+	"moodPhrase_Unconscious1": {
+		"english": "Ughhhh...",
+		"german": "Ufff..."
+	},
+	"moodPhrase_Unconscious2": {
+		"english": "....",
+		"german": "...."
+	},
+	"moodPhrase_Unconscious3": {
+		"english": "Ohhhh...",
+		"german": "Ohhhh..."
+	},
+}

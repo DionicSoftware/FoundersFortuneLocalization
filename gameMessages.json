@@ -1,0 +1,297 @@
+{
+
+	// SMALL FEEDBACK TO PLAYER ACTIONS
+	"notEnoughResources": {
+		"english": "Not enough Resources!",
+		"german": "Nicht genug Ressourcen!"
+	},
+	"cantBuildThisCloseToWater": {
+		"english": "Can't build this close to water!",
+		"german": "Kann nicht so nah am Wasser bauen!"
+	},
+	"placeBlocked": {
+		"english": "This Place is blocked by something!",
+		"german": "Dieser Platz ist von etwas anderem belegt!"
+	},
+	"needsToBeBuiltAtWall": {
+		"english": "Needs to be built at a wall!",
+		"german": "Muss bei einer Wand gebaut werden!"
+	},
+	"notEnough": {
+		"english": "Not enough",
+		"german": "Nicht genug"
+	},
+	"needsToBePlacedInRoom": {
+		"english": "Needs to be placed in a finished room!",
+		"german": "Muss in einem fertigen Raum platziert werden!"
+	},
+
+
+	// SMALL NOTIFICATIONS ON TOP RIGHT
+	"colonistDied": {
+		"english": "A Colonist just died!",
+		"german": "Ein Kolonist ist gerade gestorben!"
+	},
+	"itIsNowSeason": {
+		"english": "It is now %season%.",
+		"german": "Es ist jetzt %season%."
+	},
+	"notificationTitle_ColonistTerribleMood": {
+		"english": "Hopelessness",
+		"german": "Hoffnungslosigkeit"
+	},
+	"notificationTitle_ColonistBadMood": {
+		"english": "Low Spirits",
+		"german": "Niedergeschlagenheit"
+	},
+	"notificationTitle_Fight": {
+		"english": "Colonist fighting",
+		"german": "Kampf ausgebrochen"
+	},
+	"notificationTitle_LostConsciousness": {
+		"english": "Colonist lost Consciousness",
+		"german": "Kolonist in Ohnmacht gefallen"
+	},
+	"notificationTitle_Death": {
+		"english": "Colonist died",
+		"german": "Kolonist gestorben"
+	},
+	"notificationTitle_LowFood": {
+		"english": "Running out of Food",
+		"german": "Nahrungsvorräte gehen zu Ende"
+	},
+	"notificationTitle_NoFood": {
+		"english": "No Food left",
+		"german": "Kein Nahrungsvorrat mehr"
+	},
+	"notificationTitle_HungryNoFoodContainer": {
+		"english": "Missing Food Storage",
+		"german": "Fehlendes Lager für Essen"
+	},
+	"notificationTitle_NoResearchSelected": {
+		"english": "No Research selected",
+		"german": "Keine Forschung ausgewählt"
+	},
+	"notificationTitle_Illness": {
+		"english": "Illness",
+		"german": "Krankheit"
+	},
+	"notificationTitle_ColonistJoined": {
+		"english": "Colonist joined",
+		"german": "Kolonist beigetreten"
+	},
+	"notificationTitle_MigrantsAreLeaving": {
+		"english": "Migrants are leaving",
+		"german": "Migranten reisen ab"
+	},
+	"notificationTitle_SeasonChanged": {
+		"english": "It is now %season%",
+		"german": "Es ist jetzt %season%"
+	},
+	"notificationTitle_LastDayOfSeason": {
+		"english": "It is the last day of %season%.",
+		"german": "Letzter Tag des %season%s."
+	},
+	"notificationTitle_AllergicReaction": {
+		"english": "Colonist has an allergic reaction",
+		"german": "Kolonist hat eine allergische Reaktion"
+	},
+	"notificationTitle_BugInfestationOver": {
+		"english": "Bug infestation over",
+		"german": "Käferbefall vorbei"
+	},
+	"notificationTitle_NeedToBuildBonfire": {
+		"english": "Need a Bonfire to get Migrants",
+		"german": "Leuchtfeuer für Migranten benötigt"
+	},
+	"notificationTitle_UnfulfilledExpectations": {
+		"english": "Need to fulfill Expectations",
+		"german": "Kolonistenerwartungen erfüllen"
+	},
+	"notificationTitle_NeedBookstand": {
+		"english": "Need a Research Book Stand",
+		"german": "Bücherständer zur Forschung benötigt"
+	},
+	"notificationTitle_NeedToSelectResearch": {
+		"english": "Need to select Research",
+		"german": "Forschung auswählen"
+	},
+	"notificationTitle_NeedCrystals": {
+		"english": "Need Crystals for Research",
+		"german": "Brauche Kristalle für Forschung"
+	},
+	"notificationTitle_NeedToAnalyzeCrystals": {
+		"english": "Analyze Crystals on the Bookstand",
+		"german": "Analysiere Kristalle auf dem Bücherständer"
+	},
+
+
+	// FLOATING TEXTS
+	"expectationFulfilled": {
+		"english": "Expectation fulfilled",
+		"german": "Erwartung erfüllt"
+	},
+	"wishFulfilled": {
+		"english": "Wish fulfilled",
+		"german": "Wunsch erfüllt"
+	},
+	"wishDenied": {
+		"english": "Wish denied",
+		"german": "Wunsch abgelehnt"
+	},
+
+
+	// BIG GAME MESSAGES
+	"messageTitle_GoblinsAttacking": {
+		"english": "The Tikigoblins are attacking!",
+		"german": "Die Tikigoblins greifen an!"
+	},
+	"messageText_GoblinsAttacking": {
+		"english": "Tikigoblins have been sighted near our settlement. They are fast and do not seem to come in peace. Arm the colonists, so they may defend their home once again!",
+		"german": "Tikigoblins wurden in der Nähe unserer Siedlung gesichtet. Sie sind schnell und scheinen nicht in Frieden zu kommen. Bewaffne die Kolonisten, damit sie ihre Heimat verteidigen können!"
+	},
+	"messageTitle_MigrantsArrived": {
+		"english": "Migrants arrived!",
+		"german": "Migranten sind angekommen!"
+	},
+	"messageText_MigrantsArrived": {
+		"english": "A few migrants have seen our fire signal and just arrived in a small boat. Send a colonist to accept them!",
+		"german": "Ein paar Migranten haben unser Leuchtfeuer gesehen und sind in einem kleinen Boot angekommen. Sende einen Kolonisten, um sie willkommen zu heißen!"
+	},
+	"messageTitle_BreakdownAttackFriends": {
+		"english": "Aggressive Trantrum!",
+		"german": "Aggressiver Wutanfall!"
+	},
+	"messageText_BreakdownAttackFriends": {
+		"english": "A colonist has been feeling horrible for a while now and just couldn't take it anymore. He has gone crazy now and is beating up random people, friend or foe.",
+		"german": "Ein Kolonist fühlt sich schon seit einer Weile schrecklich und hält es einfach nicht mehr aus. Jetzt dreht er durch und schlägt sich mit Freund oder Feind."
+	},
+	"messageTitle_BreakdownRefusingWork": {
+		"english": "Burnout!",
+		"german": "Burnout!"
+	},
+	"messageText_BreakdownRefusingWork": {
+		"english": "A colonist has worked too much under terrible conditions. He has decided he just doesn't care anymore and is going to relax for a while.",
+		"german": "Ein Kolonist hat zu lange unter entsetzlichen Bedingungen gearbeitet. Jetzt reicht es ihm und er hat entschieden mit der Arbeit aufzuhören und sich erst mal zu entspannen"
+	},
+	"messageTitle_BreakdownDestroyFurniture": {
+		"english": "Vandalism!",
+		"german": "Vandalismus!"
+	},
+	"messageText_BreakdownDestroyFurniture": {
+		"english": "Life hasn't been the greatest for %firstName%. Now he has turned to vandalism to blow off some steam.",
+		"german": "Das Leben war nicht besonders gut zu %firstName%. Jetzt randaliert er um sich abzuregen."
+	},
+	"messageTitle_BreakdownLazyDay": {
+		"english": "Lazy Day",
+		"german": "Fauler Tag"
+	},
+	"messageText_BreakdownLazyDay": {
+		"english": "Life hasn't been the greatest for %firstName%. Today he is taking it easy and will be taking a lot of long breaks.",
+		"german": "Das Leben war nicht besonders gut zu %firstName%. Heute geht er es gemütlich an und macht viele lange Pausen."
+	},
+	"messageTitle_BugInfestation": {
+		"english": "Bug Infestation!",
+		"german": "Käferbefall!"
+	},
+	"messageText_BugInfestation": {
+		"english": "A swarm of bugs has come down on your fields and is destroying the harvest. The colonists need to cut affected plants before the infestation spreads.",
+		"german": "Ein Schwarm Käfer hat sich auf deinen Feldern niedergelassen und vernichten die Ernte. Die Kolonisten müssen befallene Pflanzen schnell entfernen, bevor sich die Käfer ausbreiten."
+	},
+	"messageTitle_TutorialFood": {
+		"english": "Food and Hunger",
+		"german": "Mahlzeiten und Hunger"
+	},
+	"messageText_TutorialFood": {
+		"english": "Your colonists are hungry! You need to build something from which they can take their food, for example a food basket.",
+		"german": "Deine Kolonisten haben Hunger! Du musst etwas bauen, woraus sie ihr Essen nehmen können, zum Beispiel einen Essenskorb."
+	},
+	"messageTitle_TutorialHealing": {
+		"english": "Healing",
+		"german": "Heilung"
+	},
+	"messageText_TutorialHealing": {
+		"english": "A colonist is wounded! Make sure he gets enough sleep to rest his body. An experienced doctor can create more advanced remedies at the potion lab.",
+		"german": "Ein Kolonist ist verletzt! Stelle sicher, dass er genug Schlaf bekommt, um seinen Körper auszuruhen. Ein erfahrener Arzt kann fortgeschrittene Heilmittel am Alchemielabor herstellen."
+	},
+	"messageTitle_TutorialScience": {
+		"english": "Science",
+		"german": "Wissenschaft"
+	},
+	"messageText_TutorialScience": {
+		"english": "In order to advance your colony, you need to gather research. You can do that by mining crystals and analyzing them on the research book stand. The science panel is at the top right!",
+		"german": "Um deine Kolonie vorwärts zu bringen, musst du Forschung betreiben. Das funktioniert, indem du Kristalle abbaust und sie mithilfe des Bücherständers untersuchen lässt.  Die Wisschenschaftsanzeige ist oben rechts!"
+	},
+	"messageTitle_TutorialMigrants": {
+		"english": "Migrants",
+		"german": "Migranten"
+	},
+	"messageText_TutorialMigrants": {
+		"english": "If you want your colony to grow, you'll need to accept new people. Build a bonfire in order to attract migrants. Bonfires are unlocked via research.",
+		"german": "Wenn du willst, dass deine Kolonie wächst, musst du neue Kolonisten aufnehmen. Baue ein Leuchtfeuer, um Migranten willkommen zu heißen. Leuchtfeuer werden durch Forschung freigeschalten."
+	},
+	"messageTitle_TutorialCameraRotation": {
+		"english": "Rotating the View",
+		"german": "Die Ansicht drehen."
+	},
+	"messageText_TutorialCameraRotation": {
+		"english": "You can rotate the view by holding the middle mouse button.",
+		"german": "Du kannst die Ansicht drehen indem du die mittlere Maustaste gedrückt hältst."
+	},
+	"messageTitle_TutorialBuildConstruction": {
+		"english": "How to build walls and floors",
+		"german": "Wie man Wände und Böden baut"
+	},
+	"messageText_TutorialBuildConstruction": {
+		"english": "In the bottom left corner is a menu to select walls and floors to build. You then need to drag the cursor over the terrain.",
+		"german": "In der Ecke unten links ist ein Menü, wo du Wände und Böden auswählen kannst. Wenn du etwas ausgewählt hast, kannst du die Maus über das Terrain ziehen, um es zu platzieren."
+	},
+	"messageTitle_TutorialProfessions": {
+		"english": "Professions",
+		"german": "Berufe"
+	},
+	"messageText_TutorialProfessions": {
+		"english": "Give jobs to your colonists to automate some tasks. For example, a farmer will tend to the fields.",
+		"german": "Gib deinen Kolonisten Berufe um einige Aufgaben zu automatisieren. Zum Beispiel wird sich ein Bauer um die Felder kümmern."
+	},
+	"messageTitle_TutorialLeftClickSelect": {
+		"english": "Selecting Colonists and Objects",
+		"german": "Kolonisten und Objekte auswählen"
+	},
+	"messageText_TutorialLeftClickSelect": {
+		"english": "Click on a colonist or an object with your left mouse button to select them. That way you can see their status and give commands.",
+		"german": "Klicke mit deiner linken Maustaste auf einen Kolonisten oder ein Objekt um sie auszuwählen. So kannst du ihren Status sehen und Kommandos geben."
+	},
+	"messageTitle_TutorialRightClickCommand": {
+		"english": "Assigning tasks",
+		"german": "Aufgaben zuweisen"
+	},
+	"messageText_TutorialRightClickCommand": {
+		"english": "After you select a colonist, use the right mouse button to click on objects to assign tasks.",
+		"german": "Nachdem du einen Kolonisten ausgewählt hast, kannst du die rechte Maustaste verwenden um auf ein Objekt zu klicken und Aufgaben zu verteilen."
+	},
+	"messageTitle_TutorialHelpMenu": {
+		"english": "Help menu",
+		"german": "Hilfemenü"
+	},
+	"messageText_TutorialHelpMenu": {
+		"english": "Open the help menu with the button in the top right corner if you need more information.",
+		"german": "Öffne das Hilfemnü mit dem Button in der Ecke oben rechts, wenn du mehr Informationen benötigst."
+	},
+	"messageTitle_TechUnlocked": {
+		"english": "%techName% unlocked!",
+		"german": "%techName% erforscht!"
+	},
+	"messageText_TechUnlocked": {
+		"english": "You unlocked %techName% and can now do new stuff!\n%unlockedStuff%",
+		"german": "Du hast %techName% erforscht und kannst nun neue Dinge machen!\n%unlockedStuff%"
+	},
+	"messageTitle_JoinForum": {
+		"english": "Check out the forum!",
+		"german": "Schau dir das Forum an!"
+	},
+	"messageText_JoinForum": {
+		"english": "You've been playing for a while and we hope you're having fun!\nLet us know how it's going on the forum!",
+		"german": "Du spielst jetzt schon seit einer Weile und wir hoffen, dass es dir Spaß macht!\nIm Forum findest du mehr Infos und Diskussionen zum Spiel."
+	},
+}

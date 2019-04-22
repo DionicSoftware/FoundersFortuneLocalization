@@ -1,0 +1,365 @@
+{
+
+	// INTERACTIONS
+	"noInteraction": {
+		"english": "Do Nothing",
+		"german": "Nichts tun"
+	},
+	"eat": {
+		"english": "Eat Something",
+		"german": "Etwas essen"
+	},
+	"eatFood": {
+		"english": "Eat %food%",
+		"german": "%food% essen"
+	},
+	"giveFood": {
+		"english": "Give Food",
+		"german": "Essen geben"
+	},
+	"giveHealingPotion": {
+		"english": "Give Healing Potion",
+		"german": "Heiltrank verabreichen"
+	},
+	"repair": {
+		"english": "Repair",
+		"german": "Reparieren"
+	},
+	"goHere": {
+		"english": "Go Here",
+		"german": "Hierhin gehen"
+	},
+	"waitHere": {
+		"english": "Wait Here",
+		"german": "Hier warten"
+	},
+	"relax": {
+		"english": "Relax",
+		"german": "Entspannen"
+	},
+	"removePlant": {
+		"english": "Remove Plant",
+		"german": "Pflanze entfernen"
+	},
+	"removeInfestedPlants": {
+		"english": "Remove all Infested Plants",
+		"german": "Alle befallenen Pflanzen entfernen"
+	},
+	"removeDeadPlants": {
+		"english": "Remove all Dead Plants",
+		"german": "Alle toten Pflanzen entfernen"
+	},
+	"waterPlant": {
+		"english": "Water Plant",
+		"german": "Gießen"
+	},
+	"sow": {
+		"english": "Sow",
+		"german": "Säen"
+	},
+	"harvest": {
+		"english": "Harvest",
+		"german": "Ernten"
+	},
+	"sowObject": {
+		"english": "Sow %object%",
+		"german": "%object% säen"
+	},
+	"harvestObject": {
+		"english": "Harvest %object%",
+		"german": "%object% ernten"
+	},
+	"construct": {
+		"english": "Construct",
+		"german": "Aufbauen"
+	},
+	"fight": {
+		"english": "Fight",
+		"german": "Kämpfen"
+	},
+	"kill": {
+		"english": "Kill",
+		"german": "Umbringen"
+	},
+	"takeHealingPotion": {
+		"english": "Take Healing Potion",
+		"german": "Heiltrank nehmen"
+	},
+	"learnFarming": {
+		"english": "Learn about Farming",
+		"german": "Landwirtschaft lernen"
+	},
+	"learnForesting": {
+		"english": "Learn about Foresting",
+		"german": "Forstwirtschaft lernen"
+	},
+	"learnMining": {
+		"english": "Learn about Mining",
+		"german": "Bergbau lernen"
+	},
+	"learnCrafting": {
+		"english": "Learn about Crafting",
+		"german": "Handwerk lernen"
+	},
+	"learnFighting": {
+		"english": "Train for Combat",
+		"german": "Für den Kampf trainieren"
+	},
+	"learnMedicine": {
+		"english": "Learn about Medicine",
+		"german": " Medizin lernen"
+	},
+	"learnResearching": {
+		"english": "Learn about Researching",
+		"german": "Forschung lernen"
+	},
+	"sleep": {
+		"english": "Sleep",
+		"german": "Schlafen"
+	},
+	"sleepUntilHealthy": {
+		"english": "Sleep until completely healthy",
+		"german": "Schlafen bis vollständig gesund"
+	},
+	"sleepOnGround": {
+		"english": "Sleep on the Ground",
+		"german": "Am Boden schlafen"
+	},
+	"sit": {
+		"english": "Sit",
+		"german": "Sitzen"
+	},
+	"sitOnChair": {
+		"english": "Sit on Chair",
+		"german": "Auf Stuhl sitzen"
+	},
+	"bury": {
+		"english": "Bury",
+		"german": "Begraben"
+	},
+	"acceptMigrants": {
+		"english": "Accept Migrants",
+		"german": "Migranten akzeptieren"
+	},
+	"rejectMigrants": {
+		"english": "Reject Migrants",
+		"german": "Migranten ablehnen"
+	},
+	"leaveIsland": {
+		"english": "Leave Island",
+		"german": "Insel verlassen"
+	},
+	"bandageWounds": {
+		"english": "Bandage Wounds",
+		"german": "Wunden verbinden"
+	},
+	"destroy": {
+		"english": "Destroy",
+		"german": "Zerstören"
+	},
+	"remove": {
+		"english": "Remove",
+		"german": "Entfernen"
+	},
+	"add": {
+		"english": "Add",
+		"german": "Hinzufügen"
+	},
+	"produce": {
+		"english": "Produce",
+		"german": "Produzieren"
+	},
+	"equip": {
+		"english": "Equip",
+		"german": "Ausrüsten"
+	},
+	"unequip": {
+		"english": "Unequip",
+		"german": "Ablegen"
+	},
+	"removeWeapon": {
+		"english": "Lay down Weapon",
+		"german": "Waffe ablegen"
+	},
+	"removeArmor": {
+		"english": "Take off Armor",
+		"german": "Rüstung ausziehen"
+	},
+	"removeEquipment": {
+		"english": "Remove Equipment",
+		"german": "Ausrüstung entfernen"
+	},
+	"lightBonfire": {
+		"english": "Light Bonfire",
+		"german": "Leuchtfeuer anzünden"
+	},
+	"putOutBonfire": {
+		"english": "Put out Bonfire",
+		"german": "Leuchtfeuer löschen"
+	},
+	"gatherResource": {
+		"english": "Gather Resources",
+		"german": "Sammle Ressourcen"
+	},
+	"guard": {
+		"english": "Guard",
+		"german": "Bewachen"
+	},
+	"guardTower": {
+		"english": "Guard Tower",
+		"german": "Turm bewachen"
+	},
+	"processResource": {
+		"english": "Process Resource",
+		"german": "Ressource weiterverarbeiten"
+	},
+	"changeProfession": {
+		"english": "Change",
+		"german": "Ändern"
+	},
+	"giveProductionOrders": {
+		"english": "Give Production Orders",
+		"german": "Produktion festlegen"
+	},
+	"fillWateringCan": {
+		"english": "Fill Watering Can",
+		"german": "Gießkanne auffüllen"
+	},
+	"interaction_gatherFood": {
+		"english": "Gather Food",
+		"german": "Sammle Essen"
+	},
+	"interaction_cutTree": {
+		"english": "Cut Tree",
+		"german": "Baum fällen"
+	},
+	"interaction_mineStone": {
+		"english": "Mine Stone",
+		"german": "Stein abbauen"
+	},
+	"interaction_mineIronOre": {
+		"english": "Mine Iron Ore",
+		"german": "Eisenerz abbauen"
+	},
+	"gather": {
+		"english": "Gather",
+		"german": "Sammle"
+	},
+	"becomeA": {
+		"english": "Become a",
+		"german": "Werde zum"
+	},
+	"tryFluTreatment": {
+		"english": "Try Flu Treatment",
+		"german": "Versuche Grippebehandlung"
+	},
+	"interaction_analyzeCrystal": {
+		"english": "Analyze Crystal",
+		"german": "Kristall analysieren"
+	},
+	"interaction_cook": {
+		"english": "Cook Food",
+		"german": "Essen Kochen"
+	},
+	"interaction_forge": {
+		"english": "Forge",
+		"german": "Schmieden"
+	},
+	"interaction_makeBows": {
+		"english": "Make Bows",
+		"german": "Bögen herstellen"
+	},
+	"interaction_makeTools": {
+		"english": "Make Tools",
+		"german": "Werkzeuge herstellen"
+	},
+	"interaction_tailorClothes": {
+		"english": "Tailor Clothes",
+		"german": "Kleidung schneidern"
+	},
+	"interaction_produceMedicalPotions": {
+		"english": "Produce Healing Potions",
+		"german": "Heiltränke herstellen"
+	},
+	"interaction_produceMedicine": {
+		"english": "Produce Medicine",
+		"german": "Medizin herstellen"
+	},
+	"talk": {
+		"english": "Talk",
+		"german": "Reden"
+	},
+	"talkTo": {
+		"english": "Talk to %name%",
+		"german": "Mit %name% reden"
+	},
+	"takeOwnership": {
+		"english": "Take Ownership",
+		"german": "In Besitz nehmen"
+
+	},
+	"takeOwnershipFrom": {
+		"english": "Take Ownership from %name%",
+		"german": "%name% wegnehmen"
+	},
+	"giveUpOwnership": {
+		"english": "Give up Ownership",
+		"german": "Besitz aufgeben"
+	},
+
+
+
+	// RESTRICTED INTERACTIONS
+	"somebodyElseIsUsingThat": {
+		"english": "Somebody else is using that",
+		"german": "Jemand anderes verwendet das gerade"
+	},
+	"noProductionOrders": {
+		"english": "No production orders",
+		"german": "Keine Produktion festgelegt"
+	},
+	"notSufficientExperience": {
+		"english": "%firstName% doesn't have enough experience as %profession%",
+		"german": "%firstName% hat nicht genug Erfahrung als %profession%"
+	},
+	"notUsableInSeason": {
+		"english": "Not possible in %season%",
+		"german": "Nicht möglich im %season%"
+	},
+	"treatmentSuccessful": {
+		"english": "Treatment\nSuccessful",
+		"german": "Behandlung\nerfolgreich"
+	},
+	"treatmentFailed": {
+		"english": "Treatment\nFailed",
+		"german": "Behandlung\nfehlgeschlagen"
+	},
+	"nextTryIn": {
+		"english": "Next Try in",
+		"german": "Nächster Versuch in"
+	},
+	"seconds": {
+		"english": "seconds",
+		"german": "Sekunden"
+	},
+	"forbiddenBecauseHasTrait": {
+		"english": "Can't because of trait: %trait%",
+		"german": "Kann nicht wegen Eigenschaft: %trait%"
+	},
+	"forbiddenBecauseNotHasTrait": {
+		"english": "Missing trait: %trait%",
+		"german": "Fehlende Eigenschaft: %trait%"
+	},
+	"cantGetResourceNearby": {
+		"english": "Can't get %resource% nearby",
+		"german": "Kann in der Nähe kein %resource% holen"
+	},
+	"missingEquipmentEffect_WateringPlants": {
+		"english": "Needs a watering can",
+		"german": "Braucht eine Gießkanne"
+	},
+	"noResearchSelected": {
+		"english": "No Research selected",
+		"german": "Keine Forschung ausgewählt"
+	},
+}

@@ -1,182 +1,227 @@
 {
 	"expectations": {
 		"english": "Expectations",
-		"german": "Erwartungen"
+		"german": "Erwartungen",
+		"french": "Attentes"
 	},
 	"notUnlockedYet": {
 		"english": "Not unlocked yet",
-		"german": "Erwartungen"
+		"german": "Erwartungen",
+		"french": "Pas encore déverouillé"
 	},
 	"notRelevantYet_Title": {
 		"english": "Not relevant yet",
-		"german": "Noch nicht relevant"
+		"german": "Noch nicht relevant",
+		"french": "pas encore pertinent"
 	},
 	"notRelevantYet_Desc_home": {
 		"english": "%firstName% doesn't care about a home at the moment.",
-		"german": "%firstName% ist ein Zuhause im Moment nicht wichtig."
+		"german": "%firstName% ist ein Zuhause im Moment nicht wichtig.",
+		"french": "%firstName% ne se soucie pas d'une maison pour le moment"
 	},
 	"notRelevantYet_Desc_lifeSatisfaction": {
 		"english": "%firstName% doesn't care about Life Satisfaction at the moment.",
-		"german": "%firstName% ist Lebenszufriedenheit im Moment nicht wichtig."
+		"german": "%firstName% ist Lebenszufriedenheit im Moment nicht wichtig.",
+		"french": "%firstName% ne se soucie pas de satisfaire sa vie pour le moment"
 	},
 	"notRelevantYet_Desc_promotions": {
 		"english": "%firstName% doesn't care about Promotions at the moment.",
-		"german": "%firstName% sind Beförderungen im Moment nicht wichtig."
+		"german": "%firstName% sind Beförderungen im Moment nicht wichtig.",
+		"french": "%firstName% ne se soucie pas d'une promotion pour le moment"
 	},
 	"notRelevantYet_Desc_salary": {
 		"english": "%firstName% doesn't care about Salary at the moment.",
-		"german": "%firstName% ist Bezahlung im Moment nicht wichtig."
+		"german": "%firstName% ist Bezahlung im Moment nicht wichtig.",
+		"french": "%firstName% ne se soucie pas d'un salaire pour le moment"
 	},
 	"notRelevantYet_Desc_community": {
 		"english": "%firstName% doesn't care about Community at the moment.",
-		"german": "%firstName% ist Gemeinschaft im Moment nicht wichtig."
+		"german": "%firstName% ist Gemeinschaft im Moment nicht wichtig.",
+		"french": "%firstName% ne se soucie pas de la communauté pour le moment"
 	},
 	"foodSatisfactionAwesome": {
 		"english": "Great food",
-		"german": "Großartige Mahlzeiten"
+		"german": "Großartige Mahlzeiten",
+		"french": "Bonne nourriture"
 	},
 	"foodSatisfactionGood": {
 		"english": "Good food",
-		"german": "Gute Mahlzeiten"
+		"german": "Gute Mahlzeiten",
+		"french": "Bonne nourriture"
 	},
 	"foodSatisfactionInsufficient": {
 		"english": "Expects better food",
-		"german": "Erwartet bessere Mahlzeiten"
+		"german": "Erwartet bessere Mahlzeiten",
+		"french": "S'attend à une meilleure nourriture"
 	},
 	"foodSatisfactionBad": {
 		"english": "Expects way better food",
-		"german": "Erwartet viel bessere Mahlzeiten"
+		"german": "Erwartet viel bessere Mahlzeiten",
+		"french": "S'attend à une meilleure nourriture"
 	},
 	"homeSatisfactionAwesome": {
 		"english": "Lives in an amazing home",
-		"german": "Hat ein wunderbares Zuhause"
+		"german": "Hat ein wunderbares Zuhause",
+		"french": "Vit dans une maison suprenante"
 	},
 	"homeSatisfactionGood": {
 		"english": "Lives in a good home",
-		"german": "Zufrieden mit seinem Zuhause"
+		"german": "Zufrieden mit seinem Zuhause",
+		"french": "Vit dans une belle maison"
 	},
 	"homeSatisfactionInsufficient": {
 		"english": "Expects a better home",
-		"german": "Erwartet ein besseres Zuhause"
+		"german": "Erwartet ein besseres Zuhause",
+		"french": "S'attend à une meilleure maison"
 	},
 	"homeSatisfactionBad": {
 		"english": "Expects a much better home",
-		"german": "Erwartet ein viel besseres Zuhause"
+		"german": "Erwartet ein viel besseres Zuhause",
+		"french": "S'attend à une maison un peu meilleure"
 	},
 	"lifeSatisfactionAwesome": {
 		"english": "Very happy with life",
-		"german": "Übgerglücklich mit seinem Leben"
+		"german": "Übgerglücklich mit seinem Leben",
+		"french": "Très heureux de sa vie"
 	},
 	"lifeSatisfactionGood": {
 		"english": "Satisfied with life",
-		"german": "Zufrieden mit seinem Leben"
+		"german": "Zufrieden mit seinem Leben",
+		"french": "Satisfait de sa vie"
 	},
 	"lifeSatisfactionInsufficient": {
 		"english": "Wants more life satisfaction",
-		"german": "Will mehr Lebenszufriedenheit"
+		"german": "Will mehr Lebenszufriedenheit",
+		"french": "Veut plus de satisfaction de vie"
 	},
 	"lifeSatisfactionBad": {
 		"english": "Not satisfied with life",
-		"german": "Nicht zufrieden mit seinem Leben"
+		"german": "Nicht zufrieden mit seinem Leben",
+		"french": "N'est pas satisfait avec sa vie"
 	},
 	"promotionsSatisfactionAwesome": {
 		"english": "Mastered his profession",
-		"german": "Meister seiner Arbeit"
+		"german": "Meister seiner Arbeit",
+		"french": "Expert dans son métier"
 	},
 	"promotionsSatisfactionGood": {
 		"english": "Confident in his skills",
-		"german": "Selbstsicher in seinen Fähigkeiten"
+		"german": "Selbstsicher in seinen Fähigkeiten",
+		"french": "Confiant dans ses compétences"
 	},
 	"promotionsSatisfactionInsufficient": {
 		"english": "Unsure of his skills",
-		"german": "Unsicher in seine Fähigkeiten"
+		"german": "Unsicher in seine Fähigkeiten",
+		"french": "Incertain de ses compétences"
 	},
 	"promotionsSatisfactionBad": {
 		"english": "Unhappy with his skills",
-		"german": "Unzufrieden mit seinen Fähigkeiten"
+		"german": "Unzufrieden mit seinen Fähigkeiten",
+		"french": "Malheureux avec ses compétences"
 	},
 	"promotionsSatisfactionOk": {
 		"english": "Satisfied with his skills",
-		"german": "Zufrieden mit seinen Fähigkeiten"
+		"german": "Zufrieden mit seinen Fähigkeiten",
+		"french": "Satisfait avec ses compétences"
 	},
 	"promotionsSatisfactionOkDumb_Desc": {
 		"english": "Unfortunately, %firstName% is not the brightest and has trouble developing new skills. However, he has accepted his fate and is ok with it.",
-		"german": "Leider ist %firstName% nicht der hellstw und hat Schwierigkeiten, neue Fähigkeiten zu lernen. Er hat aber sein Schicksal akzeptiert und findet es ok."
+		"german": "Leider ist %firstName% nicht der hellstw und hat Schwierigkeiten, neue Fähigkeiten zu lernen. Er hat aber sein Schicksal akzeptiert und findet es ok.",
+		"french": "Malheureusement, %firstName% n'est pas le plus brillant et a des difficultés à développer ses compétences. Cependant, il a accepté son sort et il est ok avec cela"
 	},
 	"colonistIsALevelXProfessionGuy": {
 		"english": "%firstName% is a level %professionLevel% %professionName%",
-		"german": "%firstName% ist ein %professionName% der Stufe %professionLevel%"
+		"german": "%firstName% ist ein %professionName% der Stufe %professionLevel%",
+		"french": "%firstName% est un niveau %professionLevel% %professionName%"
 	},
 	"reachLevelX": {
 		"english": "Reach Level %requiredProfessionLevel%",
-		"german": "Stufe %requiredProfessionLevel% erreichen"
+		"german": "Stufe %requiredProfessionLevel% erreichen",
+		"french": "Atteindre le niveau %requiredProfessionLevel%"
 	},
 	"colonistNeedsMoreWorkExperience": {
 		"english": "%firstName% needs more work experience or appropriateEducation",
-		"german": "%firstName% braucht mehr Arbeitserfahrung oder entsprechende Ausbildung"
+		"german": "%firstName% braucht mehr Arbeitserfahrung oder entsprechende Ausbildung",
+		"french": "%firstName% a besoin de plus d'expérience de travail ou d'éducation appropriée"
 	},
 	"food": {
 		"english": "Food",
-		"german": "Essen"
+		"german": "Essen",
+		"french": "Nourriture"
 	},
 	"simpleMeals": {
 		"english": "Campfire food",
-		"german": "Essen vom Lagerfeuer"
+		"german": "Essen vom Lagerfeuer",
+		"french": "Nourriture cuite au feu de camp"
 	},
 	"goodOrBakedMeals": {
 		"english": "Kitchen food or baked goods",
-		"german": "Essen aus der Küche oder Backwaren"
+		"german": "Essen aus der Küche oder Backwaren",
+		"french": "Aliments cuisinés ou marchandises de boulangerie"
 	},
 	"goodAndBakedMeals": {
 		"english": "Variety of kitchen food or baked goods",
-		"german": "Essen aus der Küche und Backwaren"
+		"german": "Essen aus der Küche und Backwaren",
+		"french": "Variété d'aliments cuisinés ou marchandises de boulangerie"
 	},
 	"clickToShowSleepingSpot": {
 		"english": "Click to show sleeping spot",
-		"german": "Klicken, um den Schlafplatz anzuzeigen"
+		"german": "Klicken, um den Schlafplatz anzuzeigen",
+		"french": "Cliquer pour afficher l'endroit pour dormir"
 	},
 	"ownsSleepingSpot": {
 		"english": "Owns a Sleeping Spot",
-		"german": "Besitzt einen Schlafplatz"
+		"german": "Besitzt einen Schlafplatz",
+		"french": "A un endroit pour dormir"
 	},
 	"sleepsInside": {
 		"english": "Sleeps inside",
-		"german": "Schläft in einem Raum"
+		"german": "Schläft in einem Raum",
+		"french": "Dort à l'intérieur"
 	},
 	"ownsBed": {
 		"english": "Owns a proper bed",
-		"german": "Besitzt ein richtiges Bett"
+		"german": "Besitzt ein richtiges Bett",
+		"french": "A un lit correct"
 	},
 	"ownsBedroom": {
 		"english": "Owns a bedroom",
-		"german": "Besitzt ein eigenes Schlafzimmer"
+		"german": "Besitzt ein eigenes Schlafzimmer",
+		"french": "A une chambre"
 	},
 	"ownsHouse": {
 		"english": "Owns a house",
-		"german": "Besitzt ein eigenes Haus"
+		"german": "Besitzt ein eigenes Haus",
+		"french": "A une maison"
 	},
 	"ownsHouse3Rooms": {
 		"english": "Owns a house with 3 big rooms",
-		"german": "Besitzt ein Haus mit 3 großen Räumen"
+		"german": "Besitzt ein Haus mit 3 großen Räumen",
+		"french": "A une maison avec 3 grandes pièces"
 	},
 	"ownsHouse5Rooms": {
 		"english": "Owns a house with 5 big rooms",
-		"german": "Besitzt ein Haus mit 5 großen Räumen"
+		"german": "Besitzt ein Haus mit 5 großen Räumen",
+		"french": "A une maison avec 5 grandes pièces"
 	},
 	"lifeSatisfactionLevel": {
 		"english": "Life Satisfaction Level %number%",
-		"german": "Lebenszufriedenheit Stufe %number%"
+		"german": "Lebenszufriedenheit Stufe %number%",
+		"french": "Niveau de satisfaction de vie %number%"
 	},
 	"needToFulfillWishes": {
 		"english": "Wishes need to be fulfilled",
-		"german": "Wünsche müssen erfüllt werden"
+		"german": "Wünsche müssen erfüllt werden",
+		"french": "Les voeux doivent être satisfaits"
 	},
 	"wantsJob_Title": {
 		"english": "Wants a job",
-		"german": "Möchte einen Beruf"
+		"german": "Möchte einen Beruf",
+		"french": "Veut un métier"
 	},
 	"wantsJob_Desc": {
 		"english": "%firstName% has no job at the moment. It's making him feel unfulfilled.",
-		"german": "%firstName% hat keinen Beruf. Er fühlt sich so ziellos."
+		"german": "%firstName% hat keinen Beruf. Er fühlt sich so ziellos.",
+		"french": "%firstName% n'a pas de métier pour le moment. Il ne se sent pas accompli."
 	},
 }

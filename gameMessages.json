@@ -3,172 +3,212 @@
 	// SMALL FEEDBACK TO PLAYER ACTIONS
 	"notEnoughResources": {
 		"english": "Not enough Resources!",
-		"german": "Nicht genug Ressourcen!"
+		"german": "Nicht genug Ressourcen!",
+		"french": "Pas assez de ressources!"
 	},
 	"cantBuildThisCloseToWater": {
 		"english": "Can't build this close to water!",
-		"german": "Kann nicht so nah am Wasser bauen!"
+		"german": "Kann nicht so nah am Wasser bauen!",
+		"french": "Impossible de construire aussi proche de l'eau!"
 	},
 	"placeBlocked": {
 		"english": "This Place is blocked by something!",
-		"german": "Dieser Platz ist von etwas anderem belegt!"
+		"german": "Dieser Platz ist von etwas anderem belegt!",
+		"french": "Cet endroit est bloqué par quelque chose!"
 	},
 	"needsToBeBuiltAtWall": {
 		"english": "Needs to be built at a wall!",
-		"german": "Muss bei einer Wand gebaut werden!"
+		"german": "Muss bei einer Wand gebaut werden!",
+		"french": "A besoin d'être construit comme un mur!"
 	},
 	"notEnough": {
 		"english": "Not enough",
-		"german": "Nicht genug"
+		"german": "Nicht genug",
+		"french": "Pas assez"
 	},
 	"needsToBePlacedInRoom": {
 		"english": "Needs to be placed in a finished room!",
-		"german": "Muss in einem fertigen Raum platziert werden!"
+		"german": "Muss in einem fertigen Raum platziert werden!",
+		"french": "A besoin d'être placé dans une pièce terminée"
 	},
 
 
 	// SMALL NOTIFICATIONS ON TOP RIGHT
 	"colonistDied": {
 		"english": "A Colonist just died!",
-		"german": "Ein Kolonist ist gerade gestorben!"
+		"german": "Ein Kolonist ist gerade gestorben!",
+		"french": "Un colon vient de mourir!"
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
-		"german": "Es ist jetzt %season%."
+		"german": "Es ist jetzt %season%.",
+		"french": "C'est maintenant %season%."
 	},
 	"notificationTitle_ColonistTerribleMood": {
 		"english": "Hopelessness",
-		"german": "Hoffnungslosigkeit"
+		"german": "Hoffnungslosigkeit",
+		"french": "Désespoir"
 	},
 	"notificationTitle_ColonistBadMood": {
 		"english": "Low Spirits",
-		"german": "Niedergeschlagenheit"
+		"german": "Niedergeschlagenheit",
+		"french": "Déprime"
 	},
 	"notificationTitle_Fight": {
 		"english": "Colonist fighting",
-		"german": "Kampf ausgebrochen"
+		"german": "Kampf ausgebrochen",
+		"french": "Combatant colon"
 	},
 	"notificationTitle_LostConsciousness": {
 		"english": "Colonist lost Consciousness",
-		"german": "Kolonist in Ohnmacht gefallen"
+		"german": "Kolonist in Ohnmacht gefallen",
+		"french": "Un colon a perdu connaissance"
 	},
 	"notificationTitle_Death": {
 		"english": "Colonist died",
-		"german": "Kolonist gestorben"
+		"german": "Kolonist gestorben",
+		"french": "Un colon est mort"
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
-		"german": "Nahrungsvorräte gehen zu Ende"
+		"german": "Nahrungsvorräte gehen zu Ende",
+		"french": "Manque de nourritures"
 	},
 	"notificationTitle_NoFood": {
 		"english": "No Food left",
-		"german": "Kein Nahrungsvorrat mehr"
+		"german": "Kein Nahrungsvorrat mehr",
+		"french": "Aucune nourriture restante"
 	},
 	"notificationTitle_HungryNoFoodContainer": {
 		"english": "Missing Food Storage",
-		"german": "Fehlendes Lager für Essen"
+		"german": "Fehlendes Lager für Essen",
+		"french": "Stockage de nourriture manquant"
 	},
 	"notificationTitle_NoResearchSelected": {
 		"english": "No Research selected",
-		"german": "Keine Forschung ausgewählt"
+		"german": "Keine Forschung ausgewählt",
+		"french": "Aucune recherche sélectionnée"
 	},
 	"notificationTitle_Illness": {
 		"english": "Illness",
-		"german": "Krankheit"
+		"german": "Krankheit",
+		"french": "Malade"
 	},
 	"notificationTitle_ColonistJoined": {
 		"english": "Colonist joined",
-		"german": "Kolonist beigetreten"
+		"german": "Kolonist beigetreten",
+		"french": "Un colon a rejoint"
 	},
 	"notificationTitle_MigrantsAreLeaving": {
 		"english": "Migrants are leaving",
-		"german": "Migranten reisen ab"
+		"german": "Migranten reisen ab",
+		"french": "Les migrants partent"
 	},
 	"notificationTitle_SeasonChanged": {
 		"english": "It is now %season%",
-		"german": "Es ist jetzt %season%"
+		"german": "Es ist jetzt %season%",
+		"french": "C'est maintenant %season%"
 	},
 	"notificationTitle_LastDayOfSeason": {
 		"english": "It is the last day of %season%.",
-		"german": "Letzter Tag des %season%s."
+		"german": "Letzter Tag des %season%s.",
+		"french": "C'est le dernier jour de %season%."
 	},
 	"notificationTitle_AllergicReaction": {
 		"english": "Colonist has an allergic reaction",
-		"german": "Kolonist hat eine allergische Reaktion"
+		"german": "Kolonist hat eine allergische Reaktion",
+		"french": "Le colon a une réaction allergique"
 	},
 	"notificationTitle_BugInfestationOver": {
 		"english": "Bug infestation over",
-		"german": "Käferbefall vorbei"
+		"german": "Käferbefall vorbei",
+		"french": "Infestation d'insectes"
 	},
 	"notificationTitle_NeedToBuildBonfire": {
 		"english": "Need a Bonfire to get Migrants",
-		"german": "Leuchtfeuer für Migranten benötigt"
+		"german": "Leuchtfeuer für Migranten benötigt",
+		"french": "Besoin d'un feu pour les migrants"
 	},
 	"notificationTitle_UnfulfilledExpectations": {
 		"english": "Need to fulfill Expectations",
-		"german": "Kolonistenerwartungen erfüllen"
+		"german": "Kolonistenerwartungen erfüllen",
+		"french": "Besoin de combler les attentes"
 	},
 	"notificationTitle_NeedBookstand": {
 		"english": "Need a Research Book Stand",
-		"german": "Bücherständer zur Forschung benötigt"
+		"german": "Bücherständer zur Forschung benötigt",
+		"french": "Besoin d'un stand de livre de recherche"
 	},
 	"notificationTitle_NeedToSelectResearch": {
 		"english": "Need to select Research",
-		"german": "Forschung auswählen"
+		"german": "Forschung auswählen",
+		"french": "Besoin de sélectionner une recherche"
 	},
 	"notificationTitle_NeedCrystals": {
 		"english": "Need Crystals for Research",
-		"german": "Brauche Kristalle für Forschung"
+		"german": "Brauche Kristalle für Forschung",
+		"french": "Besoin de cristaux pour la recherche"
 	},
 	"notificationTitle_NeedToAnalyzeCrystals": {
 		"english": "Analyze Crystals on the Bookstand",
-		"german": "Analysiere Kristalle auf dem Bücherständer"
+		"german": "Analysiere Kristalle auf dem Bücherständer",
+		"french": "Analyer des cristaux sur le stand de livre"
 	},
 
 
 	// FLOATING TEXTS
 	"expectationFulfilled": {
 		"english": "Expectation fulfilled",
-		"german": "Erwartung erfüllt"
+		"german": "Erwartung erfüllt",
+		"french": "Attente comblée"
 	},
 	"wishFulfilled": {
 		"english": "Wish fulfilled",
-		"german": "Wunsch erfüllt"
+		"german": "Wunsch erfüllt",
+		"french": "Voeux accompli"
 	},
 	"wishDenied": {
 		"english": "Wish denied",
-		"german": "Wunsch abgelehnt"
+		"german": "Wunsch abgelehnt",
+		"french": "Voeux refusé"
 	},
 
 
 	// BIG GAME MESSAGES
 	"messageTitle_GoblinsAttacking": {
 		"english": "The Tikigoblins are attacking!",
-		"german": "Die Tikigoblins greifen an!"
+		"german": "Die Tikigoblins greifen an!",
+		"french": "Les Tikigoblins attaquent!"
 	},
 	"messageText_GoblinsAttacking": {
 		"english": "Tikigoblins have been sighted near our settlement. They are fast and do not seem to come in peace. Arm the colonists, so they may defend their home once again!",
-		"german": "Tikigoblins wurden in der Nähe unserer Siedlung gesichtet. Sie sind schnell und scheinen nicht in Frieden zu kommen. Bewaffne die Kolonisten, damit sie ihre Heimat verteidigen können!"
+		"german": "Tikigoblins wurden in der Nähe unserer Siedlung gesichtet. Sie sind schnell und scheinen nicht in Frieden zu kommen. Bewaffne die Kolonisten, damit sie ihre Heimat verteidigen können!",
+		"french": "Les Tikigoblins sont été vus près de notre colonie. Ils sont rapides et ne viennent pas en paix. Armez les colons, ils vont devoir encore une fois défendre leurs maisons!"
 	},
 	"messageTitle_MigrantsArrived": {
 		"english": "Migrants arrived!",
-		"german": "Migranten sind angekommen!"
+		"german": "Migranten sind angekommen!",
+		"french": "Des migrants sont arrivés!"
 	},
 	"messageText_MigrantsArrived": {
 		"english": "A few migrants have seen our fire signal and just arrived in a small boat. Send a colonist to accept them!",
-		"german": "Ein paar Migranten haben unser Leuchtfeuer gesehen und sind in einem kleinen Boot angekommen. Sende einen Kolonisten, um sie willkommen zu heißen!"
+		"german": "Ein paar Migranten haben unser Leuchtfeuer gesehen und sind in einem kleinen Boot angekommen. Sende einen Kolonisten, um sie willkommen zu heißen!",
+		"french": "Des migrants ont vu notre feu de signal et viennent d'arriver dans un petit bateau. Envoyez un colon les accueillir!"
 	},
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Trantrum!",
-		"german": "Aggressiver Wutanfall!"
+		"german": "Aggressiver Wutanfall!",
+		"french": "Trantrum agressif!"
 	},
 	"messageText_BreakdownAttackFriends": {
 		"english": "A colonist has been feeling horrible for a while now and just couldn't take it anymore. He has gone crazy now and is beating up random people, friend or foe.",
-		"german": "Ein Kolonist fühlt sich schon seit einer Weile schrecklich und hält es einfach nicht mehr aus. Jetzt dreht er durch und schlägt sich mit Freund oder Feind."
+		"german": "Ein Kolonist fühlt sich schon seit einer Weile schrecklich und hält es einfach nicht mehr aus. Jetzt dreht er durch und schlägt sich mit Freund oder Feind.",
+		"french": "Un colon s'est senti vraiment mal pendant un moemnt. Il est devenu fou et va vers les gens, amis ou ennemis."
 	},
 	"messageTitle_BreakdownRefusingWork": {
 		"english": "Burnout!",
-		"german": "Burnout!"
+		"german": "Burnout!",
+		"french": "Burnout!"
 	},
 	"messageText_BreakdownRefusingWork": {
 		"english": "A colonist has worked too much under terrible conditions. He has decided he just doesn't care anymore and is going to relax for a while.",

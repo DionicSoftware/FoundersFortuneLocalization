@@ -1,135 +1,168 @@
 {
 	"resourceName_foodRaw": {
 		"english": "Raw Food",
-		"german": "Rohes Essen"
+		"german": "Rohes Essen",
+		"french": "Nourriture périmée"
 	},
 	"resourceName_food": {
 		"english": "Food",
-		"german": "Essen"
+		"german": "Essen",
+		"french": "Nourriture"
 	},
 	"resourceDescription_foodRaw": {
 		"english": "Your colonists need food to survive. Every type you gather is raw at first and can be cooked.",
-		"german": "Deine Kolonisten brauchen Nahrung zum überleben. Jede Art von Nahrung die du sammelst ist zuerst roh und kann dann gekocht werden."
+		"german": "Deine Kolonisten brauchen Nahrung zum überleben. Jede Art von Nahrung die du sammelst ist zuerst roh und kann dann gekocht werden.",
+		"french": "Vos colons ont besoin de nourriture pour survivre. Chaque récolte est crue au début et peut être cuisinée"
 	},
 	"resourceName_apple": {
 		"english": "Apple",
-		"german": "Apfel"
+		"german": "Apfel",
+		"french": "Pomme"
 	},
 	"resourceName_tomato": {
 		"english": "Tomato",
-		"german": "Tomate"
+		"german": "Tomate",
+		"french": "Tomate"
 	},
 	"resourceName_pumpkin": {
 		"english": "Pumpkin",
-		"german": "Kürbis"
+		"german": "Kürbis",
+		"french": "Potiron"
 	},
 	"resourceName_potato": {
 		"english": "Potato",
-		"german": "Kartoffel"
+		"german": "Kartoffel",
+		"french": "Pomme de terre"
 	},
 	"resourceName_strawberry": {
 		"english": "Strawberry",
-		"german": "Erdbeere"
+		"german": "Erdbeere",
+		"french": "Fraise"
 	},
 	"resourceName_wheat": {
 		"english": "Wheat",
-		"german": "Weizen"
+		"german": "Weizen",
+		"french": "Blé"
 	},
 	"resourceName_foodCooked": {
 		"english": "Cooked Food",
-		"german": "Gekochtes Essen"
+		"german": "Gekochtes Essen",
+		"french": "Aliments cuits"
 	},
 	"resourceDescription_foodCooked": {
 		"english": "A colonist will take cooked food over raw food every time. Colonists get happy thoughts from eating cooked food.",
-		"german": "Ein Kolonist wird immer gekochtes Essen gegenüber rohem Essen bevorzugen. Durch solche Mahlzeiten bekommen sie frohe Gedanken."
+		"german": "Ein Kolonist wird immer gekochtes Essen gegenüber rohem Essen bevorzugen. Durch solche Mahlzeiten bekommen sie frohe Gedanken.",
+		"french": "Un colon prendra des aliments cuits à la place des aliments crus. Les colons sont heureux de penser qu'ils mangent des aliments cuits."
 	},
 	"resourceName_foodRawEdible": {
 		"english": "Raw Food",
-		"german": "Rohe Mahlzeit"
+		"german": "Rohe Mahlzeit",
+		"french": "Aliment cru"
 	},
 	"resourceName_simpleMeal": {
 		"english": "Campfire Food",
-		"german": "Mahlzeit vom Lagerfeuer"
+		"german": "Mahlzeit vom Lagerfeuer",
+		"french": "Aliment cuisiné au feu de camp"
 	},
 	"resourceName_goodMeal": {
 		"english": "Kitchen Food",
-		"german": "Mahlzeit aus der Küche"
+		"german": "Mahlzeit aus der Küche",
+		"french": "Aiment de la cuisine"
 	},
 	"resourceName_bakedMeal": {
 		"english": "Baked Food",
-		"german": "Mahlzeit aus der Bäckerei"
+		"german": "Mahlzeit aus der Bäckerei",
+		"french": "Aliment cuit"
 	},
 	"resourceName_bakedApple": {
 		"english": "Baked Apple",
-		"german": "Bratapfel"
+		"german": "Bratapfel",
+		"french": "Pomme cuite"
 	},
 	"resourceName_bakedPotato": {
 		"english": "Baked Potato",
-		"german": "Bratkartoffel"
+		"german": "Bratkartoffel",
+		"french": "Pomme de terre cuite"
 	},
 	"resourceName_bakedTomato": {
 		"english": "Baked Tomato",
-		"german": "Gebratene Tomate"
+		"german": "Gebratene Tomate",
+		"french": "Tomate cuite"
 	},
 	"resourceName_pumpkinStew": {
 		"english": "Pumpkin Stew",
-		"german": "Kürbiseintopf"
+		"german": "Kürbiseintopf",
+		"french": "Ragoût de citrouille"
 	},
 	"resourceName_potatoSoup": {
 		"english": "Potato Soup",
-		"german": "Kartoffelsuppe"
+		"german": "Kartoffelsuppe",
+		"french": "Soupe de pomme de terre"
 	},
 	"resourceName_fruitSalad": {
 		"english": "Fruit Salad",
-		"german": "Obstsalat"
+		"german": "Obstsalat",
+		"french": "Salade de fruit"
 	},
 	"resourceName_bread": {
 		"english": "Bread",
-		"german": "Brot"
+		"german": "Brot",
+		"french": "Pain"
 	},
 	"resourceName_strawberryCake": {
 		"english": "Strawberry Cake",
-		"german": "Erdbeerkuchen"
+		"german": "Erdbeerkuchen",
+		"french": "Gâteau aux fraises"
 	},
 	"resourceName_appleStrudel": {
 		"english": "Apple Strudel",
-		"german": "Apfelstrudel"
+		"german": "Apfelstrudel",
+		"french": "Strudel aux pommes"
 	},
 	"resourceName_ironOre": {
 		"english": "Iron Ore",
-		"german": "Eisenerz"
+		"german": "Eisenerz",
+		"french": "Minerai de fer"
 	},
 	"resourceDescription_ironOre": {
 		"english": "In order to produce more advanced tools, weapons and armor, you need to find and mine iron ore.",
-		"german": "Um fortgeschrittene Werkzeuge, Waffen und Rüstungen zu produzieren, musst du Eisenerz finden und abbauen."
+		"german": "Um fortgeschrittene Werkzeuge, Waffen und Rüstungen zu produzieren, musst du Eisenerz finden und abbauen.",
+		"french": "Pour fabriquer des outils améliorés, des armes et armures, vous devez trouver et miner du fer"
 	},
 	"resourceName_stone": {
 		"english": "Stone",
-		"german": "Stein"
+		"german": "Stein",
+		"french": "Pierre"
 	},
 	"resourceDescription_stone": {
 		"english": "Anytime you want to build something durable and fire-proof, you should prefer stone over wood.",
-		"german": "Immer wenn du etwas starkes und feuerfestes bauen willst, solltest du Stein gegenüber Holz bevorzugen."
+		"german": "Immer wenn du etwas starkes und feuerfestes bauen willst, solltest du Stein gegenüber Holz bevorzugen.",
+		"french": "A chaque fois que vous voudrez construire quelque chose de durable et résistant au feu, utilisez de la pierre à la place du bois"
 	},
 	"resourceName_healingPlant": {
 		"english": "Healing Plants",
-		"german": "Heilpflanzen"
+		"german": "Heilpflanzen",
+		"french": "Plantes médicinales"
 	},
 	"resourceDescription_healingPlant": {
 		"english": "Healing plants can be found in the wild or cultivated at home. They are a vital ingredient for most medical supplies.",
-		"german": "Heilpflanzen können in der Wildnis gefunden oder Zuhause angebaut werden. Sie sind ein wichtiger Bestandteil vieler medizinischer Rezepte."
+		"german": "Heilpflanzen können in der Wildnis gefunden oder Zuhause angebaut werden. Sie sind ein wichtiger Bestandteil vieler medizinischer Rezepte.",
+		"french": "Les plantes médicinales peuvent être trouvées dans la nature ou être culvitées à la maison. Elles sont un ingrédient vital pour les fournitures médicales"
 	},
 	"resourceName_healingPlantWild": {
 		"english": "Wild Healing Plants",
-		"german": "Wilde Heilpflanzen"
+		"german": "Wilde Heilpflanzen",
+		"french": "Plantes médicinales sauvages"
 	},
 	"resourceName_healingPlantCultivated": {
 		"english": "Cultivated Healing Plants",
-		"german": "Angebaute Heilpflanzen"
+		"german": "Angebaute Heilpflanzen",
+		"french": "Plantes médicinales cultivées"
 	},
 	"resourceName_healingPotion": {
 		"english": "Healing Potions",
-		"german": "Heiltränke"
+		"german": "Heiltränke",
+		"french": "Potions de soin"
 	},
 	"resourceDescription_healingPotion": {
 		"english": "When your colonists are wounded, it's best to give them healing potions to speed up the healing process.",
@@ -137,38 +170,47 @@
 	},
 	"resourceName_medicine": {
 		"english": "Illness Medicine",
-		"german": "Krankheitsmedizin"
+		"german": "Krankheitsmedizin",
+		"french": "Médicaments"
 	},
 	"resourceDescription_medicine": {
 		"english": "There are various illnesses your colonists can get. This medicine treats most of them.",
-		"german": "Es gibt verschiedene Krankheiten, die deine Kolonisten bekommen können. Diese Medizin heilt die meisten davon."
+		"german": "Es gibt verschiedene Krankheiten, die deine Kolonisten bekommen können. Diese Medizin heilt die meisten davon.",
+		"french": "Il y a plusieurs maladies que vos colons peuvent attraper. La médecine traite la plupart d'entre elles."
 	},
 	"resourceName_wood": {
 		"english": "Wood",
-		"german": "Holz"
+		"german": "Holz",
+		"french": "Bois"
 	},
 	"resourceDescription_wood": {
 		"english": "Most things can be made out of wood in one way or another. This includes Walls, Doors, Floors, Furniture, Tools and Weapons.",
-		"german": "Die meisten Dinge können irgendwie aus Holz hergestellt werden. Dazu gehören Wände, Türen, Böden, Möbel, Werkzeuge und Waffen."
+		"german": "Die meisten Dinge können irgendwie aus Holz hergestellt werden. Dazu gehören Wände, Türen, Böden, Möbel, Werkzeuge und Waffen.",
+		"french": "Plusierus choses peuvent être faite de bois. Cela inclut les murs, portes, sols, mobiliers, outils et armes."
 	},
 	"resourceName_cotton": {
 		"english": "Cotton",
-		"german": "Baumwolle"
+		"german": "Baumwolle",
+		"french": "Coton"
 	},
 	"resourceDescription_cotton": {
 		"english": "Cotton is used for all things that are made out of cloth. This includes stuff like beds, bandages and clothes.",
-		"german": "Baumwolle wird für alles benötigt, das aus Stoff gemacht ist. Dazu gehören Betten, Verbände und Kleidung."
+		"german": "Baumwolle wird für alles benötigt, das aus Stoff gemacht ist. Dazu gehören Betten, Verbände und Kleidung.",
+		"french": "Le coton est utilisé pour toute chose qui requiert du tissu. Cela inclut les affaires comme les lits, bandages et les vêtements."
 	},
 	"resourceName_crystal": {
 		"english": "Crystal",
-		"german": "Kristall"
+		"german": "Kristall",
+		"french": "Cristal"
 	},
 	"resourceDescription_crystal": {
 		"english": "A crystal is a gem with many interesting properties. Your colonists can gather and study them as a way of doing research.",
-		"german": "Ein Kristall ist ein Stein mit vielen interessanten Eigenschaften. Deine Kolonisten können sie sammeln und untersuchen um zu forschen."
+		"german": "Ein Kristall ist ein Stein mit vielen interessanten Eigenschaften. Deine Kolonisten können sie sammeln und untersuchen um zu forschen.",
+		"french": "Un cristal est un gemme avec des propriétés intéressantes. Vos colons peuvent les récolter et les étudier et ainsi faire de la recherche."
 	},
 	"resourceName_water": {
 		"english": "Water",
-		"german": "Wasser"
+		"german": "Wasser",
+		"french": "Eau"
 	},
 }

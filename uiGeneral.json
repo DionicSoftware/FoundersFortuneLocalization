@@ -142,7 +142,7 @@
 	"emailAddressOptional": {
 		"english": "Email Address (optional!)",
 		"german": "E-Mail Adresse (optional!)",
-		"french": "Adresse E-mail (en option!)"
+		"french": "Adresse E-mail (en option!)",
 		"spanish": "Direccion de correo electronico(Opcional)"
 
 	},
@@ -320,25 +320,25 @@
 	"english": {
 		"english": "English",
 		"german": "English",
-		"french": "Anglais",
-		"spanish": "Ingles"
+		"french": "English",
+		"spanish": "English"
 	},
 	"german": {
 		"english": "Deutsch",
 		"german": "Deutsch",
-		"french": "Allemand"
-		"spanish": "Alemán"
-			
+		"french": "Deutsch",
+		"spanish": "Deutsch"
+	},	
 	"french": {
-		"english": "french",
-		"german": "Allemand",
-		"french": "Français"
-		"spanish": "Espagnol"
-		
+		"english": "Français",
+		"german": "Français",
+		"french": "Français",
+		"spanish": "Français"
+	},	
 	"spanish": {
-		"english": "Ingles",
-		"german": "Alemán",
-		"french": "Frances"
+		"english": "Español",
+		"german": "Español",
+		"french": "Español",
 		"spanish": "Español"
 	},
 	"mouseEdgeScrolling": {
@@ -481,7 +481,7 @@
 	"rotateLeft": {
 		"english": "Rotate Left",
 		"german": "Links rotieren",
-		"french": "Tourner à gauche"
+		"french": "Tourner à gauche",
 		"spanish": "Girar a la izquierda"
 	},
 	"rotateRight": {
@@ -529,7 +529,7 @@
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
 		"german": "Mittlere Maustaste",
-		"french": "Bouton central de la souris"
+		"french": "Bouton central de la souris",
 		"spanish": "Botón central del ratón"
 	},
 	"key_Space": {
@@ -674,7 +674,7 @@
 		"english": "A more relaxing experience if you prefer creative base building over combat and survival.\nYour colonists take only half damage from all kinds of injuries.\nThe colony starts with 100 meals and colonists can survive on smaller food rations.\nWatered plants yield higher harvests.\nYour colonists will still die if you don't take care of them!",
 		"german": "Ein entspannteres Spiel falls du kreatives Bauen gegenüber Überlebenskämpfen vorziehst.\nDeine Kolonisten bekommen nur halb so viel Schaden bei allen Arten von Verletzungen.\nDie Kolonie startet mit 100 Mahlzeiten und Kolonisten überleben kleinere Essensrationen.\nBewässerte Pflanzen geben höhere Erträge.\nDeine Kolonisten werden immer noch sterben, wenn du dich nicht um sie kümmerst!",
 		"french": "Une expérience plus relaxante si vous préférez construire des bases créatives plutôt que le combat et la survie.\nVos colons prendront que la moitié des dégâts en cas de blessures.\nLa colonie démarre avec 100 repas et les colons peuvent survivre avec des faibles rations alimentaires.\nLes plantes arrosées produisent des récoltes plus élevées.\nVos colons pourront toujours mourir si vous ne prendez pas soin d'eux!",
-		"spanish": "Una experiencia más relajante si prefiere la creación de una base creativa sobre el combate y la supervivencia. \ NLos colonos solo reciben la mitad del daño de todo tipo de lesiones. \ NLa colonia comienza con 100 comidas y los colonos pueden sobrevivir con raciones de alimentos más pequeñas. \ NLas plantas cultivadas rinden más cosechas. \ n¡Tus colonos seguirán muriendo si no los cuidas! ",
+		"spanish": "Una experiencia más relajante si prefiere la creación de una base creativa sobre el combate y la supervivencia.\nLos colonos solo reciben la mitad del daño de todo tipo de lesiones.\nLa colonia comienza con 100 comidas y los colonos pueden sobrevivir con raciones de alimentos más pequeñas.\nLas plantas cultivadas rinden más cosechas.\n¡Tus colonos seguirán muriendo si no los cuidas!",
 	},
 	"difficulty_1_Title": {
 		"english": "Exciting World",
@@ -686,7 +686,7 @@
 		"english": "The typical Founders' Fortune experience, mixing base building with survival.\nThe colony starts with 40 meals.\nSometimes colonists may die even though you try your best.",
 		"german": "Die typische Founders' Fortune Mischung aus kreativem Bauen und Überlebenskampf.\nDie Kolonie startet mit 40 Mahlzeiten.\nManchmal könnten Kolonisten sterben, auch wenn du dein Bestes gibst.",
 		"french": "L'expérience classique de Founder's Fortune, un mixe entre la construction de bâtiments et la survie.\nLa colonie démarre avec 40 repas.\nParfois les colons pourront mourrir même si vous faites de votre mieux.",
-		"spanish": "La experiencia típica de los Fundadores de la Fortuna combina la construcción de bases con la supervivencia. La colonia comienza con 40 comidas. A veces, los colonos pueden morir incluso si haces tu mejor esfuerzo ".
+		"spanish": "La experiencia típica de los Fundadores de la Fortuna combina la construcción de bases con la supervivencia. La colonia comienza con 40 comidas. A veces, los colonos pueden morir incluso si haces tu mejor esfuerzo ",
 	},
 	"difficulty_2_Title": {
 		"english": "Dangerous World",
@@ -698,12 +698,12 @@
 		"english": "The world is a harsh place, so good luck trying to survive with fragile little colonists.\nYour colonists take 50% more damage from all kinds of injuries.\nThe colony starts with 10 meals.\nCatastrophes happen more often.\nA challenge for veteran players.",
 		"german": "Die Welt ist hart, also viel Glück bei dem Versuch mit verletztlichen kleinen Kolonisten zu überleben. \nDeine Kolonisten bekommen 50% mehr Schaden bei allen Arten von Verletzungen.\nDie Kolonie startet mit 10 Mahlzeiten.\nKatastrophen passieren mit höherer Wahrscheinlichkeit.\nEine Herausforderung für erfahrene Spieler.",
 		"french": "Le monde est rude, donc bon courage pour tenter de survivre avec ces petits colons fragiles.\nVos colons prendront 50% de dégâts en plus lors des blessures.\nLa colonie démarre avec 10 repas.\nLes catastrophes sont plus fréquentes.\nUn challenge pour les joueurs vétérans.",
-		"spanish": "El mundo es un lugar difícil, así que buena suerte tratando de sobrevivir con pequeños colonos frágiles. \ NLos colonos reciben un 50% más de daño de todo tipo de lesiones. \ NLa colonia comienza con 10 comidas. \ NLas catástrofes ocurren con más frecuencia. \ NUn desafío para jugadores veteranos ".
+		"spanish": "El mundo es un lugar difícil, así que buena suerte tratando de sobrevivir con pequeños colonos frágiles.\nLos colonos reciben un 50% más de daño de todo tipo de lesiones.\nLa colonia comienza con 10 comidas.\nLas catástrofes ocurren con más frecuencia.\nUn desafío para jugadores veteranos ",
 	},
 	"continue": {
 		"english": "Continue",
 		"german": "Weiter",
-		"french": "Continuer"
+		"french": "Continuer",
 		"spanish": "Continuar"
 	},
 }

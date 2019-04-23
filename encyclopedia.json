@@ -90,6 +90,7 @@ Asegúrate de que los colonos se encuentren sanos y salvos para mantener arriba 
 		"english": "Farming",
 		"german": "Landwirtschaft",
 		"spanish": "Agricultura",
+		"french": "Agriculture"
 	},
 	"helpMenuText_foodProduction_farming": {
 		"english": "Everything begins in the fields, where industrious farmers spend their days caring for your crops. Depending on the season, they can sow a different selection of plants for food or medicinal purposes. Plants grow no matter how well you care for them, but good farmers use their watering cans to keep them growing optimally and increase their yield a lot. 
@@ -106,7 +107,8 @@ Antes de ponerte a sembrar como loco, una advertencia: ¡Todas las plantas que n
 	"helpMenuTitle_foodProduction_expectations": {
 		"english": "Food Expectations",
 		"german": "Essensansprüche",
-		"spanish": "Pretensiones de comida",
+		"spanish": "Pretensiones de comida",,
+		"french": "Attentes alimentaires"
 	},
 	"helpMenuText_foodProduction_expectations": {
 		"english": "Colonists can deal with a lot of hardship, but they are not dumb. When your colony grows in size and numbers, they will start to expect better food than just eating raw plants. Using the campfire or the kitchen you can make meals of higher quality for demanding colonists. If you can run a bakery as well, they will welcome the variety!
@@ -119,7 +121,8 @@ Algunos colonos tienen platillos favoritos y se alegran mucho cuando los consigu
 	"helpMenuTitle_foodProduction_rations": {
 		"english": "Food Rations",
 		"german": "Nahrungsrationierung",
-		"spanish": "Raciones de comida"
+		"spanish": "Raciones de comida",
+		"french": "Rations alimentaires"
 	},
 	"helpMenuText_foodProduction_rations": {
 		"english": "Winter is long and even the best colonies sometimes fail to perpare adequate stockpiles. If you worry about the survival of your colony, you can limit the food rations for each colonist. While this preserves more food for later, your colonists will feel weak and are are not going to be able to work as quickly. 
@@ -132,7 +135,8 @@ Por otro lado, si tienes una gran reserva de comida y te sobra, ¡puedes increme
 	"helpMenuTitle_foodProduction_bugs": {
 		"english": "Bug Infestations",
 		"german": "Käferbefall",
-		"spanish": "Plaga de insectos",
+		"spanish": "Plaga de insectos",,
+		"french": "Infestations d'insectes"
 	},
 	"helpMenuText_foodProduction_bugs": {
 		"english": "Every year, the dreaded bugs pose a serious danger to your harvest. If a bug infestation is detected, your colonists need to be quick and remove all affected plants before the infestation spreads. You can lose all your work in seconds!",
@@ -183,7 +187,8 @@ Some may come alone or with friends to visit you and ask to join the colony.",
 	},
 	"helpMenuTitle_immigration_expectations": {
 		"english": "Expectations",
-		"german": "Erwartungen"
+		"german": "Erwartungen",
+		"french": "Attentes"
 	},
 	"helpMenuText_immigration_expectations": {
 		"english": "Once the colony starts growing and getting more and more wealthy, the colonists want to have a piece of the pie as well. They start expecting good food, a nice looking, comfortable home and a degree of general life statisfaction.
@@ -193,7 +198,8 @@ Wenn diese Erwartungen nicht erfüllt werden, wird sich kein Kolonist gegen dich
 	},
 	"helpMenuTitle_immigration_overview": {
 		"english": "Immigration Overview",
-		"german": "Immigrationsübersicht"
+		"german": "Immigrationsübersicht",
+		"french": "Vue d'ensemble de l'immigration"
 	},
 	"helpMenuText_immigration_overview": {
 		"english": "Click on your bonfire to get a detailed overview of the immigration status.
@@ -210,7 +216,8 @@ Nichtsdestoweniger kümmert sich jeder Siedler auch um deine anstehenden Bauproj
 	},
 	"helpMenuTitle_professions_experience": {
 		"english": "Job Experience and Promotions",
-		"german": "Berufserfahrung und Beförderungen"
+		"german": "Berufserfahrung und Beförderungen",
+		"french": "Expérience professionnelle et Promotions"
 	},
 	"helpMenuText_professions_experience": {
 		"english": "The colonists stage in their profession is shown with the stars in the job panel. With every completed task, your colonists gather experience for the relevant profession.\nYou can see their experience in the job panel and use the promote button to unlock the next level in their career. A higher level usually comes with new skills that allows them to use better tools and craft more advanced items.",
@@ -219,7 +226,8 @@ Die aktuelle Berufsstufe und den aktuellen Erfahrungswert kannst du im Berufefen
 	},
 	"helpMenuTitle_professions_education": {
 		"english": "Education",
-		"german": "Ausbildung"
+		"german": "Ausbildung",
+		"french": "Formation"
 	},
 	"helpMenuText_professions_education": {
 		"english": "Sometimes you just can’t wait for learning by doing and your colonists need to look up how to do more complicated stuff to advance to the next stage in their career more easily. Build a book shelf so they can pick up books about their profession and gather experience much faster.
@@ -233,7 +241,8 @@ Als Soldat jedoch ist ein praktischer Ansatz weitaus zielführender: Baue einen 
 	},
 	"helpMenuTitle_mood_rebellion": {
 		"english": "Rebellion",
-		"german": "Rebellion"
+		"german": "Rebellion",
+		"french": "Rébellion"
 	},
 	"helpMenuText_mood_rebellion": {
 		"english": "Your colonists give their best, but everyone has their breaking point. Hardships can lead to bad mood, bad mood can lead to hopelessness and hopelessness can lead to anger, apathy, or desertion (no not the dark side in this case). Your colonists may remove themselves from your command and choose to do their own thing instead.",
@@ -241,7 +250,8 @@ Als Soldat jedoch ist ein praktischer Ansatz weitaus zielführender: Baue einen 
 	},
 	"helpMenuTitle_mood_inspiration": {
 		"english": "Inspiration",
-		"german": "Inspiration"
+		"german": "Inspiration",
+		"french": "Inspiration"
 	},
 	"helpMenuText_mood_inspiration": {
 		"english": "On the other hand, your colonists could be having the time of their lives. If they are really happy, they can enter a state of inspiration in which they work with semmingly unlimited energy without needing any sleep! When they reach this rare state, they just cannot stop smiling.",
@@ -263,7 +273,8 @@ Natürlich wird es manchmal schwer sein. Aber in der Zwischenzeit möchten die K
 	},
 	"helpMenuTitle_wishes_fulfillingDenying": {
 		"english": "Fulfilling and Denying Wishes",
-		"german": "Wünsche erfüllen und ablehnen",
+		"german": "Wünsche erfüllen und ablehnen",,
+		"french": "Voeux satisfaits et refusés"
 	},
 	"helpMenuText_wishes_fulfillingDenying": {
 		"english": "It's your decision whether you make the colonists happy or not. If you fulfill the wish of a colonist, he is going to become a little happier for a while.

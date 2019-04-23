@@ -81,7 +81,7 @@
 		"english": "Let your colonists sleep and or give them healing potions to increase their health.",
 		"german": "Schicke deine Kolonisten zum Schlafen oder gib ihnen Heiltränke, um ihre Gesundheit zu erhöhen.",
 		"french": "Laisser vos colons dormir ou donner leur des potions de soin pour améliorer leur santé",
-		"spanish": "Permite a tus colonos dormir o dales pociones de recuperación para incrementar su salud."
+		"spanish": "Permite a tus colonos dormir o dales pociones de salud para incrementar su salud."
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -138,10 +138,10 @@
 		"spanish": "Abrir"
 	},
 	"dismiss": {
-		"english": "Dismiss",
+		"english": "Ok",
 		"german": "Ok",
-		"french": "Renvoyer",
-		"spanish": "Descartar"
+		"french": "Ok",
+		"spanish": "Ok"
 	},
 	"chooseNewJob": {
 		"english": "Choose New Job",
@@ -272,7 +272,8 @@
 	"wishDenyTip_Desc": {
 		"english": "You can tell your colonist that you're not going to fulfill this wish. He'll be annoyed, but he will choose a different one.",
 		"german": "Du kannst deinem Kolonisten sagen, dass du diesen Wunsch nicht erfüllen wirst. Er wird sauer sein, aber letztendlich wird er sich einen anderen ausdenken.",
-		"french": "Vous pouvez demander à votre colon de ne pas accomplir ce voeux. Il sera supprimé, mais il en choisir un autre."
+		"french": "Vous pouvez demander à votre colon de ne pas accomplir ce voeux. Il sera supprimé, mais il en choisir un autre.",
+		"spanish": "Puedes decirle a tu colono que no podrás hacer realidad su deseo. Se decepcionará, pero escogerá otro.",
 	},
 	"satisfactionPoints_Title": {
 		"english": "Satisfaction",
@@ -422,7 +423,7 @@
 		"english": "Work",
 		"german": "Arbeit",
 		"french": "Métier", 
-		"spanish": "Belleza"
+		"spanish": "Trabajo"
 	},
 	"farming": {
 		"english": "Farming",
@@ -512,7 +513,7 @@
 		"english": "Required Technology",
 		"german": "Benötigte Forschung",
 		"french": "Technologie requise", 
-		"spanish": "Requieren Tecnología"
+		"spanish": "Tecnología requerida"
 	},
 	"interactionChainIconDesc": {
 		"english": "Click to Cancel.\nClick %keyBinding% to Chain Commands.",

@@ -1,154 +1,192 @@
 {
 	"traitTitle_Pacifist": {
 		"english": "Pacifist",
-		"german": "Pazifist"
+		"german": "Pazifist", 
+		"spanish": "Pacifista"
 	},
 	"traitDesc_Pacifist": {
 		"english": "%firstName% believes in the good in the world - maybe a little too much. Refuses to fight anyone unless he is already heavily wounded.",
-		"german": "%firstName% glaubt an das Gute in der Welt - vielleicht ein bisschen zu viel. Weigert sich zu kämpfen außer er ist bereits schwer verletzt."
+		"german": "%firstName% glaubt an das Gute in der Welt - vielleicht ein bisschen zu viel. Weigert sich zu kämpfen außer er ist bereits schwer verletzt.", 
+		"spanish": "%firstName% cree en lo bueno del mundo - quizás demasiado. Se niega a pelear contra cualquiera excepto si ya ha sido gravemente herido."
 	},
 	"traitTitle_BattleHardened": {
 		"english": "Experienced in Battle",
-		"german": "Kampferfahren"
+		"german": "Kampferfahren", 
+		"spanish": "Experimentado en Batalla"
 	},
 	"traitDesc_BattleHardened": {
 		"english": "Already has much experience on the battlefield and is not scared off easily. Does not receive mood penalties for pain and death around him.",
-		"german": "Hat bereits viel Erfahrung auf dem Schlachtfeld gesammelt und kann viel ertragen. Bekommt keine negativen Gedanken bei Schmerz und Tod in seiner Umgebung."
+		"german": "Hat bereits viel Erfahrung auf dem Schlachtfeld gesammelt und kann viel ertragen. Bekommt keine negativen Gedanken bei Schmerz und Tod in seiner Umgebung.", 
+		"spanish": "Posee mucha experiencia en el campo de batalla y no se le asusta fácilmente. No recibe efectos negativos en el humor por sufrimiento y dolor cerca de él."
 	},
 	"traitTitle_Optimist": {
 		"english": "Optimist",
-		"german": "Optimist"
+		"german": "Optimist", 
+		"spanish": "Optimista"
 	},
 	"traitDesc_Optimist": {
 		"english": "Glass-half-full kind of guy. Receives a permanent mood boost.",
-		"german": "%firstName% sieht jedes Glas lieber als halb voll. Erhält einen permanenten Stimmungsbonus."
+		"german": "%firstName% sieht jedes Glas lieber als halb voll. Erhält einen permanenten Stimmungsbonus.",
+		"spanish": "%firstName% es el tipo de persona que ve el vaso medio lleno. Recibe un incremento permanente en su humor."
 	},
 	"traitTitle_Pessimist": {
 		"english": "Pessimist",
-		"german": "Pessimist"
+		"german": "Pessimist", 
+		"spanish": "Pesimista"
 	},
 	"traitDesc_Pessimist": {
 		"english": "Glass-half-empty kind of guy. Receives a permanent mood penalty.",
-		"german": "%firstName% sieht das Glas lieber als halb voll. Erhält einen permanenten Stimmungsmalus."
+		"german": "%firstName% sieht das Glas lieber als halb voll. Erhält einen permanenten Stimmungsmalus.", 
+		"spanish": "%firstName% es el tipo de persona que ve el vaso medio vacío. Recibe un descenso permanente en su humor."
 	},
 	"traitTitle_Killer": {
 		"english": "Killer",
-		"german": "Mordlustig"
+		"german": "Mordlustig", 
+		"spanish": "Asesino"
 	},
 	"traitDesc_Killer": {
 		"english": "%firstName% has a strange interest in violence. Gets positive thoughts from killing. Usually able to control himself.",
-		"german": "%firstName% hat ein sonderbares Interesse an Gewalt. Erhält positive Gedanken durch Töten. Kann sich normalerweise kontrollieren."
+		"german": "%firstName% hat ein sonderbares Interesse an Gewalt. Erhält positive Gedanken durch Töten. Kann sich normalerweise kontrollieren.", 
+		"spanish": "%firstName% tiene un extraño interés por la violencia. Obtiene buenos pensamientos al matar. Normalmente es capaz de controlarse a sí mismo."
 	},
 	"traitTitle_GoodHealth": {
 		"english": "Good Health",
-		"german": "Starke Gesundheit"
+		"german": "Starke Gesundheit", 
+		"spanish": "Buena salud"
 	},
 	"traitDesc_GoodHealth": {
 		"english": "A lifetime of exercise and healthy foods has provided %firstName% with a very robust health. Treatments are 20% more likely to succeed.",
-		"german": "Ein Leben voller Bewegung und gesundem Essen hat %firstName% eine sehr starke Gesundheit verliehen. Behandlungen sind 20% wahrscheinlicher erfolgreich."
+		"german": "Ein Leben voller Bewegung und gesundem Essen hat %firstName% eine sehr starke Gesundheit verliehen. Behandlungen sind 20% wahrscheinlicher erfolgreich.", 
+		"spanish": "Una vida de ejercicio y comida sana le ha otorgado a %firstName% una salud de hierro. Los tratamientos aumentan su probabilidad de éxito en un 20%."
 	},
 	"traitTitle_BadHealth": {
 		"english": "Bad Health",
-		"german": "Schwache Gesundheit"
+		"german": "Schwache Gesundheit", 
+		"spanish": "Mala salud"
 	},
 	"traitDesc_BadHealth": {
 		"english": "For no specific reason, %firstName%'s immune system is not as good as others. Treatments are 20% more likely to fail.",
-		"german": "Aus keinem besonderen Grund war %firstName%'s Immunsystem noch nie besonders gut. Behandlungen schlagen 20% wahrscheinlicher fehl."
+		"german": "Aus keinem besonderen Grund war %firstName%'s Immunsystem noch nie besonders gut. Behandlungen schlagen 20% wahrscheinlicher fehl.", 
+		"spanish": "Sin un motivo aparente, el sistema inmunológico de %firstName% no es tan bueno como el de otros. Los tratamientos reducen su probabilidad de éxito en un 20%."
 	},
 	"traitTitle_Overeater": {
 		"english": "Overeater",
-		"german": "Überesser"
+		"german": "Überesser", 
+		"spanish": "Tragón"
 	},
 	"traitDesc_Overeater": {
-		"english": "%firstName% loves food and he isn't always able to control himself. Sometimes he will just continue eating even though he is alreay full.",
-		"german": "%firstName% liebt Essen und kann sich nicht immer kontrollieren. Manchmal hört er einfach nicht auf zu essen, obwohl er eigentlich schon satt ist."
+		"english": "%firstName% loves food and he isn't always able to control himself. Sometimes he will just continue eating even though he is already full.",
+		"german": "%firstName% liebt Essen und kann sich nicht immer kontrollieren. Manchmal hört er einfach nicht auf zu essen, obwohl er eigentlich schon satt ist.", 
+		"spanish": "A %firstName% le encanta la comida y no siempre logra controlarse. Algunas veces continúa comiendo incluso estando lleno."
 	},
 	"traitTitle_Survivor": {
 		"english": "Survivalist",
-		"german": "Überlebenskünstler"
+		"german": "Überlebenskünstler", 
+		"spanish": "Superviviente nato"
 	},
 	"traitDesc_Survivor": {
 		"english": "%firstName% has survived quite a few sticky situations and knows what it takes. When others would die, he gets a 25% health boost and gains consciousness. (Only once in 24 hours)",
-		"german": "%firstName% hat schon einiges überlebt und er hat nicht vor das zu ändern. Wo andere sterben würden bekommt er einen 25% Gesundheitsboost und erlangt wieder das Bewusstsein (Nur einmal in 24 Stunden)"
+		"german": "%firstName% hat schon einiges überlebt und er hat nicht vor das zu ändern. Wo andere sterben würden bekommt er einen 25% Gesundheitsboost und erlangt wieder das Bewusstsein (Nur einmal in 24 Stunden)", 
+		"spanish": "%firstName% ha sobrevivido ante algunas situaciones difíciles y sabe lo que se necesita. Cuando otros morirían, él recibe un 25% extra de salud y se recupera de los desmayos. (Solo una vez cada 24 horas)"
 	},
 	"traitTitle_Insomnia": {
 		"english": "Insomnia",
-		"german": "Schlaflosigkeit"
+		"german": "Schlaflosigkeit", 
+		"spanish": "Insomnia"
 	},
 	"traitDesc_Insomnia": {
 		"english": "%firstName% has trouble sleeping and doesn't rest as well as others. Takes double the time to fully rest compared to others..",
-		"german": "%firstName% hat Schwierigkeiten beim Schlafen. Braucht doppelt so viel Zeit wie andere um komplett auszuschlafen."
+		"german": "%firstName% hat Schwierigkeiten beim Schlafen. Braucht doppelt so viel Zeit wie andere um komplett auszuschlafen.", 
+		"spanish": "%firstName% tiene problemas de sueño y no descansa tan bien como los demás. Necesitará el doble de tiempo que el resto para recuperarse completamente." 
 	},
 	"traitTitle_Tireless": {
 		"english": "Tireless",
-		"german": "Unermüdlich"
+		"german": "Unermüdlich", 
+		"spanish": "Incansable"
 	},
 	"traitDesc_Tireless": {
 		"english": "%firstName% doesn't need much sleep. Only rests half as long as others before he's completely fit again.",
-		"german": "%firstName% braucht nicht viel Schlaf. Schläft nur halb so lange wie andere bevor er wieder fit ist."
+		"german": "%firstName% braucht nicht viel Schlaf. Schläft nur halb so lange wie andere bevor er wieder fit ist.", 
+		"spanish": "%firstName% no necesita muchas horas de sueño. Solo necesita descansar la mitad que los demás para sentirse renovado de nuevo."
 	},
 	"traitTitle_Smart": {
 		"english": "Fast Learner",
-		"german": "Schlaues Köpfchen"
+		"german": "Schlaues Köpfchen", 
+		"spanish": "Aprendizaje rápido"
 	},
 	"traitDesc_Smart": {
 		"english": "%firstName% is a bright guy and he knows it. He can learn new skills in half the time.",
-		"german": "%firstName% ist ein echt schlauer Kerl. Er kann neue Fähigkeiten in der Hälfte der Zeit erlernen."
+		"german": "%firstName% ist ein echt schlauer Kerl. Er kann neue Fähigkeiten in der Hälfte der Zeit erlernen.",
+		"spanish": "%firstName% es un chico brillante y lo sabe. Puede aprender nuevas habilidades en la mitad de tiempo."
 	},
 	"traitTitle_Dumb": {
 		"english": "Dumb",
-		"german": "Dumm"
+		"german": "Dumm", 
+		"spanish": "Tonto"
 	},
 	"traitDesc_Dumb": {
 		"english": "Unfortunately, thinking has never been his strong suit. He will not gain experience and not level up in any job ever.",
-		"german": "Leider war %firstName% noch nie gut im Denken. Er kann keine Erfahrung sammeln und in keinem Beruf aufsteigen."
+		"german": "Leider war %firstName% noch nie gut im Denken. Er kann keine Erfahrung sammeln und in keinem Beruf aufsteigen.", 
+		"spanish": "Lamentablemente, pensar nunca ha sido su fuerte. No ganará experiencia o subirá de nivel en ningún trabajo, nunca. 
 	},
 	"traitTitle_FavoriteFoodPumpkingStew": {
 		"english": "Favorite Food: Pumpkin Stew",
-		"german": "Lieblingsessen: Kürbiseintopf"
+		"german": "Lieblingsessen: Kürbiseintopf", 
+		"spanish": "Comida favorita: Estofado de Calabaza"
 	},
 	"traitDesc_FavoriteFoodPumpkingStew": {
 		"english": "%firstName% just can't wait to get another bowl of delecious pumpking stew.",
-		"german": "%firstName% kann es einfach nicht abwarten, wieder eine leckere Schüssel Kürbiseintopf zu bekommen."
+		"german": "%firstName% kann es einfach nicht abwarten, wieder eine leckere Schüssel Kürbiseintopf zu bekommen.", 
+		"spanish": "%firstName% no puede esperar a recibir una ración más del delicioso estofado de calabaza."
 	},
 	"traitTitle_FavoriteFoodFruitSalad": {
 		"english": "Favorite Food: Fruit Salad",
-		"german": "Lieblingsessen: Obstsalat"
+		"german": "Lieblingsessen: Obstsalat", 
+		"spanish": "Comida favorita: Ensalada de frutas"
 	},
 	"traitDesc_FavoriteFoodFruitSalad": {
 		"english": "%firstName% just can't wait to get another bowl of delecious fruit salad.",
-		"german": "%firstName% kann es einfach nicht abwarten, wieder eine leckere Schüssel Obstsalat zu bekommen."
+		"german": "%firstName% kann es einfach nicht abwarten, wieder eine leckere Schüssel Obstsalat zu bekommen.", 
+		"spanish": "%firstName% no puede esperar a recibir una ración más de la deliciosa ensalada de frutas."
 	},
 	"traitTitle_FavoriteFoodAppleStrudel": {
 		"english": "Favorite Food: Apple Strudel",
-		"german": "Lieblingsessen: Apfelstrudel"
+		"german": "Lieblingsessen: Apfelstrudel",
+		"spanish": "Comida favorita: Strudel de manzana"
 	},
 	"traitDesc_FavoriteFoodAppleStrudel": {
 		"english": "%firstName% just can't wait to get another piece of delecious apple strudel.",
-		"german": "%firstName% kann es einfach nicht abwarten, wieder ein leckeres Stück Apfelstrudel zu bekommen."
+		"german": "%firstName% kann es einfach nicht abwarten, wieder ein leckeres Stück Apfelstrudel zu bekommen.",
+		"spanish": "%firstName% no puede esperar a recibir una ración más del delicioso strudel de manzana."
 	},
 	"traitTitle_AllergicToApples": {
 		"english": "Allergic to Apples",
-		"german": "Allergisch auf Äpfel"
+		"german": "Allergisch auf Äpfel", 
+		"spanish": "Alérgico a las Manzanas"
 	},
 	"traitDesc_AllergicToApples": {
 		"english": "%firstName% will avoid dishes that contain apples. If he is forced to eat it anyways, he is going to have an allergic reaction.",
 		"german": "%firstName% wird Gerichte meiden, die Äpfel beinalten. Wenn er trotzdem gezwungen ist es zu essen, wird er eine allergische Reaktion haben",
+		"spanish": "%firstName% evitará comer platos que contengan manzana. Si es forzado a comerlos, sufrirá una reacción alérgica."
 	},
 	"traitTitle_AllergicToPotatoes": {
 		"english": "Allergic to Potatoes",
-		"german": "Allergisch auf Kartoffeln"
+		"german": "Allergisch auf Kartoffeln", 
+		"spanish": "Alérgico a las Patatas"
 	},
 	"traitDesc_AllergicToPotatoes": {
 		"english": "%firstName% will avoid dishes that contain potatoes. If he is forced to eat it anyways, he is going to have an allergic reaction.",
 		"german": "%firstName% wird Gerichte meiden, die Kartoffeln beinalten. Wenn er trotzdem gezwungen ist es zu essen, wird er eine allergische Reaktion haben",
+		"spanish": "%firstName% evitará comer platos que contengan patata. Si es forzado a comerlos, sufrirá una reacción alérgica."
 	},
 	"traitTitle_AllergicToTomatoes": {
 		"english": "Allergic to Tomatoes",
-		"german": "Allergisch auf Tomaten"
+		"german": "Allergisch auf Tomaten",
+		"spanish": "Alérgico a los Tomates"
 	},
 	"traitDesc_AllergicToTomatoes": {
 		"english": "%firstName% will avoid dishes that contain tomatoes. If he is forced to eat it anyways, he is going to have an allergic reaction.",
 		"german": "%firstName% wird Gerichte meiden, die Tomaten beinalten. Wenn er trotzdem gezwungen ist es zu essen, wird er eine allergische Reaktion haben",
+		"spanish": "%firstName% evitará comer platos que contengan tomate. Si es forzado a comerlos, sufrirá una reacción alérgica."
 	},
 }

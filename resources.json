@@ -26,7 +26,8 @@
 	"resourceName_Tomato": {
 		"english": "Tomato",
 		"german": "Tomate",
-		"french": "Tomate"
+		"french": "Tomate",
+		"spanish": "Tomate",
 	},
 	"resourceName_Pumpkin": {
 		"english": "Pumpkin",
@@ -176,13 +177,13 @@
 		"english": "Healing plants can be found in the wild or cultivated at home. They are a vital ingredient for most medical supplies.",
 		"german": "Heilpflanzen können in der Wildnis gefunden oder Zuhause angebaut werden. Sie sind ein wichtiger Bestandteil vieler medizinischer Rezepte.",
 		"french": "Les plantes médicinales peuvent être trouvées dans la nature ou être culvitées à la maison. Elles sont un ingrédient vital pour les fournitures médicales", 
-		"spanish": "Las plantas medicinales se pueden encontrar salvajes o cultivar. Son un ingrediente principal para la mayoría de suministros médicos."
+		"spanish": "Las plantas medicinales se pueden encontrar o cultivar. Son un ingrediente principal para la mayoría de suministros médicos."
 	},
 	"resourceName_HealingPlantWild": {
 		"english": "Wild Healing Plants",
 		"german": "Wilde Heilpflanzen",
 		"french": "Plantes médicinales sauvages", 
-		"spanish": "Plantas medicinales salvajes"
+		"spanish": "Plantas medicinales silvestres"
 	},
 	"resourceName_HealingPlantCultivated": {
 		"english": "Cultivated Healing Plants",
@@ -194,12 +195,12 @@
 		"english": "Healing Potions",
 		"german": "Heiltränke",
 		"french": "Potions de soin", 
-		"spanish": "Poción de recuperación"
+		"spanish": "Poción de salud"
 	},
 	"resourceDescription_HealingPotion": {
 		"english": "When your colonists are wounded, it's best to give them healing potions to speed up the healing process.",
 		"german": "Wenn deine Kolonisten verletzt sind, solltest du ihnen Heiltränke verabreichen um die Heilung in Gang zu bringen.",
-		"spanish": "Cuando tus colonos se encuentran heridos, darles una poción de recuperación ayudará a acelerar el proceso."
+		"spanish": "Cuando tus colonos se encuentran heridos, darles una poción de salud ayudará a acelerar el proceso."
 	},
 	"resourceName_Medicine": {
 		"english": "Illness Medicine",

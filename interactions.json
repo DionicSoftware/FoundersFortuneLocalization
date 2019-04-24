@@ -4,383 +4,459 @@
 	"NoInteraction": {
 		"english": "Do Nothing",
 		"german": "Nichts tun",
-		"french": "Ne rien faire"
+		"french": "Ne rien faire",
+		"spanish": "No hacer nada"
 	},
 	"Eat": {
 		"english": "Eat Something",
 		"german": "Etwas essen",
-		"french": "Manger quelque chose"
+		"french": "Manger quelque chose",
+		"spanish": "Come algo"
 	},
 	"EatFood": {
 		"english": "Eat %food%",
 		"german": "%food% essen",
-		"french": "Manger %food%"
+		"french": "Manger %food%",
+		"spanish": "Comer% comida%"
 	},
 	"GiveFood": {
 		"english": "Give Food",
 		"german": "Essen geben",
-		"french": "Apporter de la nourriture"
+		"french": "Apporter de la nourriture",
+		"spanish": "Dar comida"
 	},
 	"GiveHealingPotion": {
 		"english": "Give Healing Potion",
 		"german": "Heiltrank verabreichen",
-		"french": "Apporter une potion de soin"
+		"french": "Apporter une potion de soin",
+		"spanish": "Administrar poción de curación"
 	},
 	"Repair": {
 		"english": "Repair",
 		"german": "Reparieren",
-		"french": "Réparer"
+		"french": "Réparer",
+		"spanish": "Reparación"
 	},
 	"GoHere": {
 		"english": "Go Here",
 		"german": "Hierhin gehen",
-		"french": "Venir ici"
+		"french": "Venir ici",
+		"spanish": "Ven aquí"
 	},
 	"WaitHere": {
 		"english": "Wait Here",
 		"german": "Hier warten",
-		"french": "Attendre ici"
+		"french": "Attendre ici",
+		"spanish": "Espera aquí"
 	},
 	"Relax": {
 		"english": "Relax",
 		"german": "Entspannen",
-		"french": "Se relaxer"
+		"french": "Se relaxer",
+		"spanish": "Relajarse"
 	},
 	"RemovePlant": {
 		"english": "Remove Plant",
 		"german": "Pflanze entfernen",
-		"french": "Supprimer la plante"
+		"french": "Supprimer la plante",
+		"spanish": "Quitar la planta"
 	},
 	"RemoveInfestedPlants": {
 		"english": "Remove all Infested Plants",
 		"german": "Alle befallenen Pflanzen entfernen",
-		"french": "Supprimer toutes les plants infectées"
+		"french": "Supprimer toutes les plants infectées",
+		"spanish": "Eliminar todas las plantas infestadas"
 	},
 	"RemoveDeadPlants": {
 		"english": "Remove all Dead Plants",
 		"german": "Alle toten Pflanzen entfernen",
-		"french": "Supprime toutes les plantes mortes"
+		"french": "Supprime toutes les plantes mortes",
+		"spanish": "Eliminar todas las plantas muertas"
 	},
 	"WaterPlant": {
 		"english": "Water Plant",
 		"german": "Gießen",
-		"french": "Arroser la plante"
+		"french": "Arroser la plante",
+		"spanish": "Regar la planta"
 	},
 	"Sow": {
 		"english": "Sow",
 		"german": "Säen",
-		"french": "Semer"
+		"french": "Semer",
+		"spanish": "Sembrar"
 	},
 	"Harvest": {
 		"english": "Harvest",
 		"german": "Ernten",
-		"french": "Récolter"
+		"french": "Récolter",
+		"spanish": "Cosechar"
 	},
 	"SowObject": {
 		"english": "Sow %object%",
 		"german": "%object% säen",
-		"french": "Semer %object%"
+		"french": "Semer %object%",
+		"spanish": "Colocar %objeto%"
 	},
 	"HarvestObject": {
 		"english": "Harvest %object%",
 		"german": "%object% ernten",
-		"french": "Récolter %object%"
+		"french": "Récolter %object%",
+		"spanish": "Recoger %objeto"
 	},
 	"Construct": {
 		"english": "Construct",
 		"german": "Aufbauen",
-		"french": "Construire"
+		"french": "Construire",
+		"spanish": "Construir"
 	},
 	"Fight": {
 		"english": "Fight",
 		"german": "Kämpfen",
-		"french": "Combattre"
+		"french": "Combattre",
+		"spanish": "Luchar"
 	},
 	"Kill": {
 		"english": "Kill",
 		"german": "Umbringen",
-		"french": "Tuer"
+		"french": "Tuer",
+		"spanish": "Matar"
 	},
 	"TakeHealingPotion": {
 		"english": "Take Healing Potion",
 		"german": "Heiltrank nehmen",
-		"french": "Prendre une potion de soin"
+		"french": "Prendre une potion de soin",
+		"spanish": "Tomar poción curativa"
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
 		"german": "Landwirtschaft lernen",
-		"french": "Apprendre l'agriculture"
+		"french": "Apprendre l'agriculture",
+		"spanish": "Aprender sobre la agricultura"
 	},
 	"LearnForesting": {
 		"english": "Learn about Foresting",
 		"german": "Forstwirtschaft lernen",
-		"french": "Apprendre la foresterie"
+		"french": "Apprendre la foresterie",
+		"spanish": "Aprender sobre forestación"
 	},
 	"LearnMining": {
 		"english": "Learn about Mining",
 		"german": "Bergbau lernen",
-		"french": "Apprendre le minage"
+		"french": "Apprendre le minage",
+		"spanish": "Aprende sobre la minería"
 	},
 	"LearnCrafting": {
 		"english": "Learn about Crafting",
 		"german": "Handwerk lernen",
-		"french": "Apprendre l'artisanat"
+		"french": "Apprendre l'artisanat",
+		"spanish": "Aprender sobre la elaboración"
 	},
 	"LearnFighting": {
 		"english": "Train for Combat",
 		"german": "Für den Kampf trainieren",
-		"french": "S'entraîner au combat"
+		"french": "S'entraîner au combat",
+		"spanish": "Entrenar para la lucha"
 	},
 	"LearnMedicine": {
 		"english": "Learn about Medicine",
 		"german": " Medizin lernen",
-		"french": "Apprendre la médecine"
+		"french": "Apprendre la médecine",
+		"spanish": "Aprende sobre medicina"
 	},
 	"LearnResearching": {
 		"english": "Learn about Researching",
 		"german": "Forschung lernen",
-		"french": "Apprendre la recherche"
+		"french": "Apprendre la recherche",
+		"spanish": "Aprender sobre la investigación"
 	},
 	"Sleep": {
 		"english": "Sleep",
 		"german": "Schlafen",
-		"french": "Dormir"
+		"french": "Dormir",
+		"spanish": "Dormir"
 	},
 	"SleepUntilHealthy": {
 		"english": "Sleep until completely healthy",
 		"german": "Schlafen bis vollständig gesund",
-		"french": "Dormir jusqu'à être en bonne santé"
+		"french": "Dormir jusqu'à être en bonne santé",
+		"spanish": "Duerme hasta que esté completamente recuperado"
 	},
 	"SleepOnGround": {
 		"english": "Sleep on the Ground",
 		"german": "Am Boden schlafen",
-		"french": "Dormir par terre"
+		"french": "Dormir par terre",
+		"spanish": "Dormir en el suelo"
 	},
 	"Sit": {
 		"english": "Sit",
 		"german": "Sitzen",
-		"french": "S'asseoir"
+		"french": "S'asseoir",
+		"spanish": "Sentarse"
 	},
 	"SitOnChair": {
 		"english": "Sit on Chair",
 		"german": "Auf Stuhl sitzen",
-		"french": "S'asseoir sur une chaise"
+		"french": "S'asseoir sur une chaise",
+		"spanish": "Siéntate en una silla"
 	},
 	"Bury": {
 		"english": "Bury",
 		"german": "Begraben",
-		"french": "Enterrer"
+		"french": "Enterrer",
+		"spanish": "Enterrar"
 	},
 	"AcceptMigrants": {
 		"english": "Accept Migrants",
 		"german": "Migranten akzeptieren",
-		"french": "Accepter les migrants"
+		"french": "Accepter les migrants",
+		"spanish": "Aceptar inmigrantes"
 	},
 	"RejectMigrants": {
 		"english": "Reject Migrants",
 		"german": "Migranten ablehnen",
-		"french": "Refuser les migrants"
+		"french": "Refuser les migrants",
+		"spanish": "Rechazar migrantes"
 	},
 	"LeaveIsland": {
 		"english": "Leave Island",
 		"german": "Insel verlassen",
-		"french": "Quitter l'île"
+		"french": "Quitter l'île",
+		"spanish": "Abandonar la isla"
 	},
 	"BandageWounds": {
 		"english": "Bandage Wounds",
 		"german": "Wunden verbinden",
-		"french": "Bander les blessures"
+		"french": "Bander les blessures",
+		"spanish": "Vendar heridas"
 	},
 	"Destroy": {
 		"english": "Destroy",
 		"german": "Zerstören",
-		"french": "Détruire"
+		"french": "Détruire",
+		"spanish": "Destruir"
 	},
 	"Remove": {
 		"english": "Remove",
 		"german": "Entfernen",
-		"french": "Supprimer"
+		"french": "Supprimer",
+		"spanish": "Retirar"
 	},
 	"Add": {
 		"english": "Add",
 		"german": "Hinzufügen",
-		"french": "Ajouter"
+		"french": "Ajouter",
+		"spanish": "Agregar"
 	},
 	"Produce": {
 		"english": "Produce",
 		"german": "Produzieren",
-		"french": "Fabriquer"
+		"french": "Fabriquer",
+		"spanish": "Fabricar"
 	},
 	"Equip": {
 		"english": "Equip",
 		"german": "Ausrüsten",
-		"french": "Equiper"
+		"french": "Equiper",
+		"spanish": "Equipar"
 	},
 	"Unequip": {
 		"english": "Unequip",
 		"german": "Ablegen",
-		"french": "Déséquiper"
+		"french": "Déséquiper",
+		"spanish": "Desequipar"
 	},
 	"RemoveWeapon": {
 		"english": "Lay down Weapon",
 		"german": "Waffe ablegen",
-		"french": "Déposer l'arme"
+		"french": "Déposer l'arme",
+		"spanish": "Soltar arma"
 	},
 	"RemoveArmor": {
 		"english": "Take off Armor",
 		"german": "Rüstung ausziehen",
-		"french": "Enlever l'armure"
+		"french": "Enlever l'armure",
+		"spanish": "Quitar armadura"
 	},
 	"RemoveEquipment": {
 		"english": "Remove Equipment",
 		"german": "Ausrüstung entfernen",
-		"french": "Détruire l'équipement"
+		"french": "Détruire l'équipement",
+		"spanish": "Quitar equipo"
 	},
 	"LightBonfire": {
 		"english": "Light Bonfire",
 		"german": "Leuchtfeuer anzünden",
-		"french": "Allumer le feu"
+		"french": "Allumer le feu",
+		"spanish": "Encender el fuego"
 	},
 	"PutOutBonfire": {
 		"english": "Put out Bonfire",
 		"german": "Leuchtfeuer löschen",
-		"french": "Eteindre le feu"
+		"french": "Eteindre le feu",
+		"spanish": "Apagar el fuego"
 	},
 	"GatherResource": {
 		"english": "Gather Resources",
 		"german": "Sammle Ressourcen",
-		"french": "Récolter les ressources"
+		"french": "Récolter les ressources",
+		"spanish": "Cosechar los recursos"
 	},
 	"Guard": {
 		"english": "Guard",
 		"german": "Bewachen",
-		"french": "Protéger"
+		"french": "Protéger",
+		"spanish": "Guardia
 	},
 	"GuardTower": {
 		"english": "Guard Tower",
 		"german": "Turm bewachen",
-		"french": "Protéger la tour"
+		"french": "Protéger la tour",
+		"spanish": "Proteger la torre"
 	},
 	"ProcessResource": {
 		"english": "Process Resource",
 		"german": "Ressource weiterverarbeiten",
-		"french": "Transformer les ressources"
+		"french": "Transformer les ressources",
+		"spanish": "Transformar recursos"
 	},
 	"ChangeProfession": {
 		"english": "Change",
 		"german": "Ändern",
-		"french": "Changer"
+		"french": "Changer",
+		"spanish": "Cambiar"
 	},
 	"GiveProductionOrders": {
 		"english": "Give Production Orders",
 		"german": "Produktion festlegen",
-		"french": "Donner des ordres de fabrication"
+		"french": "Donner des ordres de fabrication",
+		"spanish": "Dar órdenes de producción"
 	},
 	"FillWateringCan": {
 		"english": "Fill Watering Can",
 		"german": "Gießkanne auffüllen",
-		"french": "Remplir l'arrosoir"
+		"french": "Remplir l'arrosoir",
+		"spanish": "Llenar la regadera"
 	},
 	"interaction_gatherFood": {
 		"english": "Gather Food",
 		"german": "Sammle Essen",
-		"french": "Récolter la nourriture"
+		"french": "Récolter la nourriture",
+		"spanish": "Recoger comida"
 	},
 	"interaction_cutTree": {
 		"english": "Cut Tree",
 		"german": "Baum fällen",
-		"french": "Abattre un arbre"
+		"french": "Abattre un arbre",
+		"spanish": "Cortar árbol"
 	},
 	"interaction_mineStone": {
 		"english": "Mine Stone",
 		"german": "Stein abbauen",
-		"french": "Miner de la pierre"
+		"french": "Miner de la pierre",
+		"spanish": "Picar piedra"
 	},
 	"interaction_mineIronOre": {
 		"english": "Mine Iron Ore",
 		"german": "Eisenerz abbauen",
-		"french": "Miner du fer"
+		"french": "Miner du fer",
+		"spanish": "Picar hierro
 	},
 	"Gather": {
 		"english": "Gather",
 		"german": "Sammle",
-		"french": "Récolter"
+		"french": "Récolter",
+		"spanish": "Cosechar"
 	},
 	"BecomeA": {
 		"english": "Become a",
 		"german": "Werde zum",
-		"french": "Devenir"
+		"french": "Devenir",
+		"spanish": "Convertirse"
 	},
 	"TryFluTreatment": {
 		"english": "Try Flu Treatment",
 		"german": "Versuche Grippebehandlung",
-		"french": "Tester un traitement contre la grippe"
+		"french": "Tester un traitement contre la grippe",
+		"spanish": "Probar un tratamiento contra la gripe"
 	},
 	"interaction_analyzeCrystal": {
 		"english": "Analyze Crystal",
 		"german": "Kristall analysieren",
-		"french": "Analyser un cristal"
+		"french": "Analyser un cristal",
+		"spanish": "Analizar Cristal"
 	},
 	"interaction_cook": {
 		"english": "Cook Food",
 		"german": "Essen Kochen",
-		"french": "Cuisiner des aliments"
+		"french": "Cuisiner des aliments",
+		"spanish": "Cocinar comida"
 	},
 	"interaction_forge": {
 		"english": "Forge",
 		"german": "Schmieden",
-		"french": "Forger"
+		"french": "Forger",
+		"spanish": "Forjar"
 	},
 	"interaction_makeBows": {
 		"english": "Make Bows",
 		"german": "Bögen herstellen",
-		"french": "Fabriquer des arcs"
+		"french": "Fabriquer des arcs",
+		"spanish": "Fabricar arcos"
 	},
 	"interaction_makeTools": {
 		"english": "Make Tools",
 		"german": "Werkzeuge herstellen",
-		"french": "Fabriquer des outils"
+		"french": "Fabriquer des outils",
+		"spanish": "Fabricar herramientas"
 	},
 	"interaction_tailorClothes": {
 		"english": "Tailor Clothes",
 		"german": "Kleidung schneidern",
-		"french": "Coudre des vêtements"
+		"french": "Coudre des vêtements",
+		"spanish": "Fabricar ropa"
 	},
 	"interaction_produceMedicalPotions": {
 		"english": "Produce Healing Potions",
 		"german": "Heiltränke herstellen",
-		"french": "Produire des potions de soin"
+		"french": "Produire des potions de soin",
+		"spanish": "Fabricar pocion de vida"
 	},
 	"interaction_produceMedicine": {
 		"english": "Produce Medicine",
 		"german": "Medizin herstellen",
-		"french": "Fabriquer des médicaments"
+		"french": "Fabriquer des médicaments",
+		"spanish": "Fabricar medicina"
 	},
 	"Talk": {
 		"english": "Talk",
 		"german": "Reden",
-		"french": "Parler"
+		"french": "Parler",
+		"spanish": "Hablar
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
 		"german": "Mit %name% reden",
-		"french": "Parler à %name%"
+		"french": "Parler à %name%",
+		"spanish": "Hablar con#nombre#"
 	},
 	"TakeOwnership": {
 		"english": "Take Ownership",
 		"german": "In Besitz nehmen",
-		"french": "Prendre la propriété"
+		"french": "Prendre la propriété",
+		"spanish": "Toma la propiedad"
 
 	},
 	"TakeOwnershipFrom": {
 		"english": "Take Ownership from %name%",
 		"german": "%name% wegnehmen",
-		"french": "Prendre la propriété de %name%"
+		"french": "Prendre la propriété de %name%",
+		"spanish": "Tomar posesion de %nombre%"
 	},
 	"GiveUpOwnership": {
 		"english": "Give up Ownership",
 		"german": "Besitz aufgeben",
-		"french": "Abandonner la propriété"
+		"french": "Abandonner la propriété",
+		"spanish": "Renunciar a la propiedad"
 	},
 
 
@@ -389,66 +465,79 @@
 	"somebodyElseIsUsingThat": {
 		"english": "Somebody else is using that",
 		"german": "Jemand anderes verwendet das gerade",
-		"french": "Quelqu'un d'autre l'utilise"
+		"french": "Quelqu'un d'autre l'utilise",
+		"spanish": "Alguien más está usando eso."
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
 		"german": "Keine Produktion festgelegt",
-		"french": "Aucune commande de production"
+		"french": "Aucune commande de production",
+		"spanish": "No hay órdenes de producción"
 	},
 	"notSufficientExperience": {
 		"english": "%firstName% doesn't have enough experience as %profession%",
 		"german": "%firstName% hat nicht genug Erfahrung als %profession%",
-		"french": "%firstName% n'a pas assez d'expérience comme %profession%"
+		"french": "%firstName% n'a pas assez d'expérience comme %profession%",
+		"spanish": "%firstName% No tiene experiencia suficiente con esa %profession%"
 	},
 	"notUsableInSeason": {
 		"english": "Not possible in %season%",
 		"german": "Nicht möglich im %season%",
-		"french": "Impossible durant %season%"
+		"french": "Impossible durant %season%",
+		"spanish": "No es posible durante la %season%"
 	},
 	"treatmentSuccessful": {
 		"english": "Treatment\nSuccessful",
 		"german": "Behandlung\nerfolgreich",
-		"french": "Traitement\nEfficace"
+		"french": "Traitement\nEfficace",
+		"spanish": "Tratamiento \ no exitoso"
 	},
 	"treatmentFailed": {
 		"english": "Treatment\nFailed",
 		"german": "Behandlung\nfehlgeschlagen",
-		"french": "Traitement\nEchec"
+		"french": "Traitement\nEchec",
+		"spanish": "Tratamiento \ Fallido"
 	},
 	"nextTryIn": {
 		"english": "Next Try in",
 		"german": "Nächster Versuch in",
-		"french": "Prochain essai dans"
+		"french": "Prochain essai dans",
+		"spanish": "Siguiente intento en"
 	},
 	"seconds": {
 		"english": "seconds",
 		"german": "Sekunden",
-		"french": "secondes"
+		"french": "secondes",
+		"spanish": "segundos"
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",
 		"german": "Kann nicht wegen Eigenschaft: %trait%",
-		"french": "Ne peut pas parce que : %trait%"
+		"french": "Ne peut pas parce que : %trait%",
+		"spanish": "No se puede por el rasgo : %trait%"
 	},
 	"forbiddenBecauseNotHasTrait": {
 		"english": "Missing trait: %trait%",
 		"german": "Fehlende Eigenschaft: %trait%",
-		"french": "Caractéristique manquante: %trait%"
+		"french": "Caractéristique manquante: %trait%",
+		"spanish": "Rasgo faltante: %trait%"
 	},
 	"cantGetResourceNearby": {
 		"english": "Can't get %resource% nearby",
 		"german": "Kann in der Nähe kein %resource% holen",
-		"french": "Ne peut pas obtenir %resource% proche"
+		"french": "Ne peut pas obtenir %resource% proche",
+		"spanish": "No se puede obtener %resource% cerca"
 	},
 	"missingEquipmentEffect_WateringPlants": {
 		"english": "Needs a watering can",
 		"german": "Braucht eine Gießkanne",
-		"french": "A besoin d'un arrosoir"
+		"french": "A besoin d'un arrosoir",
+		"spanish": "Necesita una regadera"
 	},
 	"noResearchSelected": {
 		"english": "No Research selected",
 		"german": "Keine Forschung ausgewählt",
-		"french": "Aucune recherche sélectionnée"
+		"french": "Aucune recherche sélectionnée",
+		"spanish": "Ninguna investigación seleccionada"
 	},
 }

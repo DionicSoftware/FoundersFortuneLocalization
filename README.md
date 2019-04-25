@@ -6,6 +6,8 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 
 # Installation instruction:
 
+Tuto: https://forum.foundersfortune.com/t/how-to-help-translating-founders-fortune/89/4
+
 [EN] Put the fils in your game folder and rename it "localization" don't forget to create a "custom.txt" containing the following:
 
 [ES] Coloque los archivos en la carpeta de su juego y cámbiele el nombre a "localization". No olvide crear un "custom.txt" que contenga lo siguiente:
@@ -19,10 +21,4 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 
 # Custom.txt: (change french by your language)
 
-Game Version:
-
-Alpha 6.1
-
-Forced language:
-
-french
+https://foundersfortune.com/files/localization/custom.txt

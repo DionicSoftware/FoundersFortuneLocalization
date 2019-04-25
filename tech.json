@@ -5,12 +5,14 @@
 		"german": "Holzverarbeitung",
 		"french": "Travail du bois",
 		"spanish": "Carpintería",
+		"portuges": "Carpintaria",
 	},
 	"tech_farming": {
 		"english": "Farming",
 		"german": "Landwirtschaft",
 		"french": "Agriculture",
-		"spanish": "Agricultura"
+		"spanish": "Agricultura",
+		"portuges": "Agricultura",
 	},
 
 	// Tier II
@@ -18,31 +20,37 @@
 		"english": "Architecture I",
 		"german": "Architektur I",
 		"french": "Architecture I",
-		"spanish": "Arquitectura I"
+		"spanish": "Arquitectura I",
+		"portuges": "Arquitetura I",
 	},
 	"tech_masonry": {
 		"english": "Masonry",
 		"german": "Steinmetzerei",
 		"french": "Maçonnerie",
-		"spanish": "Albañilería"
+		"spanish": "Albañilería",
+		"portuges": "Maçonaria",
+		
 	},
 	"tech_furnitureI": {
 		"english": "Furniture I",
 		"german": "Möbel I",
 		"french": "Mobilier I",
 		"spanish": "Mobiliario I",
+		"portuges": "Móveis I",
 	},
 	"tech_gardening": {
 		"english": "Gardening",
 		"german": "Gärtnern",
 		"french": "Jardinage",
-		"spanish": "Jardinería"
+		"spanish": "Jardinería",
+		"portuges": "Jardinagem",
 	},
 	"tech_writing": {
 		"english": "Writing",
 		"german": "Schrift",
 		"french": "Écriture",
-		"spanish": "Escritura"
+		"spanish": "Escritura",
+		"portuges": "Escrita",
 	},
 
 	// Tier III
@@ -50,37 +58,43 @@
 		"english": "Ranged Weapons",
 		"german": "Fernkampfwaffen",
 		"french": "Armes à ditance", 
-		"spanish": "Armas a distancia"
+		"spanish": "Armas a distancia",
+		"portuges": "Armas de Longo Alcance",
 	},
 	"tech_architectureII": {
 		"english": "Architecture II",
 		"german": "Architektur II",
 		"french": "Architecture II", 
-		"spanish": "Arquitectura II"
+		"spanish": "Arquitectura II",
+		"portuges": "Arquitetura II",
 	},
 	"tech_furnitureII": {
 		"english": "Furniture II",
 		"german": "Möbel II",
 		"french": "Mobilier II", 
 		"spanish": "Mobiliario II",
+		"portuges": "Móveis II",
 	},
 	"tech_decoration": {
 		"english": "Decoration",
 		"german": "Dekoration",
 		"french": "Décoration", 
-		"spanish": "Decoración"
+		"spanish": "Decoración",
+		"portuges": "Decoração",
 	},
 	"tech_irrigation": {
 		"english": "Irrigation",
 		"german": "Bewässerung",
 		"french": "Irrigation", 
-		"spanish": "Riego"
+		"spanish": "Riego",
+		"portuges": "Irrigação",
 	},
 	"tech_medicine": {
 		"english": "Basic Medicine",
 		"german": "Einfache Medizin",
 		"french": "Médecine de base",
 		"spanish": "Medicina básica",
+		"portuges": "Medicina Básica",
 	},
 
 	// Tier IV
@@ -89,30 +103,35 @@
 		"german": "Turmbau",
 		"french": "Tours",
 		"spanish": "Torres"
+		"portuges": "Torres",
 	},
 	"tech_furnitureIII": {
 		"english": "Furniture III",
 		"german": "Möbel III",
 		"french": "Mobilier III", 
 		"spanish": "Mobiliario III",
+		"portuges": "Móveis III",
 	},
 	"tech_tailoring": {
 		"english": "Tailoring",
 		"german": "Schneiderei",
 		"french": "Couture",
-		"spanish": "Sastrería"
+		"spanish": "Sastrería",
+		"portuges": "Alfaiataria",
 	},
 	"tech_advancedCooking": {
 		"english": "Advanced Cooking",
 		"german": "Fortgeschrittenes Kochen",
 		"french": "Cuisine améliorée", 
-		"spanish": "Cocina avanzada"
+		"spanish": "Cocina avanzada",
+		"portuges": "Cozinha Avançada",
 	},
 	"tech_alchemy": {
 		"english": "Alchemy",
 		"german": "Alchemie",
 		"french": "Alchimie",
-		"spanish": "Alquimia"
+		"spanish": "Alquimia",
+		"portuges": "Alquimia",
 	},
 
 	// Tier V
@@ -121,17 +140,20 @@
 		"german": "Starke Wachtürme",
 		"french": "Miradors Solides", 
 		"spanish": "Atalayas reforzadas",
+		"portuges": "Torres de Vigia Fortes",
 	},
 	"tech_forging": {
 		"english": "Forging",
 		"german": "Schmieden",
 		"french": "Forge",
-		"spanish": "Forja"
+		"spanish": "Forja",
+		"portuges": "Ferreiro",
 	},
 	"tech_grainProcessing": {
 		"english": "Grain Processing",
 		"german": "Getreideverarbeitung",
 		"french": "Transformation du grain", 
 		"spanish": "Procesamiento del grano",
+		"portuges": "Processamento de grãos",
 	},
 }

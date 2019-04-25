@@ -401,25 +401,25 @@
 		"french": "Configuration des touches",
 		"spanish": "Configuracion de teclado"
 	},
-	"forward": {
+	"cameraGoForward": {
 		"english": "Forward",
 		"german": "Vorwärts",
 		"french": "En avant",
 		"spanish": "Adelante"
 	},
-	"back": {
+	"cameraGoBack": {
 		"english": "Back",
 		"german": "Rückwärts",
 		"french": "En arrière",
 		"spanish": "Atras"
 	},
-	"left": {
+	"cameraGoLeft": {
 		"english": "Left",
 		"german": "Links",
 		"french": "A gauche",
 		"spanish": "Izquierda"
 	},
-	"right": {
+	"cameraGoRight": {
 		"english": "Right",
 		"german": "Rechts",
 		"french": "A droite",
@@ -625,17 +625,11 @@
 		"french": "Nombre max. de colons",
 		"spanish": "Número máximo de colonos"
 	},
-	"backToMainMenu": {
-		"english": "Back to Main Menu",
-		"german": "Zurück zum Hauptmenü",
-		"french": "Revenir au Menu Principal",
-		"spanish": "Volver al menú principal"
-	},
-	"back": {
+	"uiStepBack": {
 		"english": "Back",
 		"german": "Zurück",
 		"french": "Retour",
-		"spanish": "Atrás"
+		"spanish": "Volver al menú principal"
 	},
 
 

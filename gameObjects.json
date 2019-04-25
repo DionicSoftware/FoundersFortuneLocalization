@@ -1165,435 +1165,523 @@
 	"bowmaker": {
 		"english": "Bowmaker's Workshop",
 		"german": "Werkbank für Bogenmacher",
-		"french": "Atelier du fabricant d'arcs"
+		"french": "Atelier du fabricant d'arcs",
+		"spanish": "Taller de arcos",
 	},
 	"bowmakerDescription": {
 		"english": "A skilled craftsman can create ranged weapons here.",
 		"german": "Hiermit können Fernkampfwaffen hergestellt werden.",
-		"french": "Un artisant qualifié peut créer des armes à distance ici."
+		"french": "Un artisant qualifié peut créer des armes à distance ici.",
+		"spanish": "Un hábil artesano puede crear armas de larga distancia aquí.",
 	},
 	"workbench": {
 		"english": "Toolmaker's Workshop",
 		"german": "Werkbank",
-		"french": "Atelier du fabricant d'outils"
+		"french": "Atelier du fabricant d'outils",
+		"spanish": "Taller de herramientas",
 	},
 	"workbenchDescription": {
 		"english": "Use this workbench to craft simple tools to improve productivity.",
 		"german": "Mit der Werkbank können arbeitsbeschleunigende Werkzeuge hergestellt werden.",
-		"french": "Utiliser cet atelier pour fabriquer des outils simples pour améliorer la productivité."
+		"french": "Utiliser cet atelier pour fabriquer des outils simples pour améliorer la productivité.",
+		"spanish": "Usa este taller para construir herramientas simples que mejoran la productividad.",
 	},
 	"tailor": {
 		"english": "Tailor's Workshop",
 		"german": "Schneiderei",
-		"french": "Atelier du tailleur"
+		"french": "Atelier du tailleur",
+		"spanish": "Sastrería",
 	},
 	"tailorDescription": {
 		"english": "Only the finest clothes get made at this tailor's workbench.",
 		"german": "Hiermit lassen sich hochwertige Kleidungsstücke anfertigen.",
-		"french": "Seulement les plus beaux vêtements sont fabriqués à cet atelier du tailleur."
+		"french": "Seulement les plus beaux vêtements sont fabriqués à cet atelier du tailleur.",
+		"spanish": "Sólo las más finas vestimentas salen de esta sastrería.",
 	},
 	"potionLab": {
 		"english": "Potion Laboratory",
 		"german": "Alchemielabor",
-		"french": "Laboratoire de potions"
+		"french": "Laboratoire de potions",
+		"spanish": "Laboratorio de pociones",
 	},
 	"potionLabDescription": {
 		"english": "Experienced doctors can use this lab to create healing potions.",
 		"german": "Erfahrene Ärzte können in diesem Alchemielabor Heiltränke herstellen.",
 		"french": "Les docteurs expérimentés utilisent ce laboratoire pour créer des potions médicinales."
+		"spanish": "Doctores experimentados pueden usar este laboratorio parar crear pociones de salud.",
 	},
 	"bonfire": {
 		"english": "Bonfire",
 		"german": "Leuchtfeuer",
-		"french": "Bûcher"
+		"french": "Bûcher",
+		"spanish": "Almenara",
 	},
 	"bonfireDescription": {
 		"english": "Bright fire that can be seen for miles. Attracts migrants and enemies.",
-		"german": "Ein helles Feuer, das bereits aus weiter Ferne ausgemacht werden kann. Neben potentiellen neuen Kolonisten lockt es aber auch Feinde an."
+		"german": "Ein helles Feuer, das bereits aus weiter Ferne ausgemacht werden kann. Neben potentiellen neuen Kolonisten lockt es aber auch Feinde an.",
+		"spanish": "Un fuego brillante que se ve desde kilómetros. Atrae migrantes y enemigos.",
 	},
 	"doorWood0": {
 		"english": "Simple Wooden Door",
 		"german": "Einfache Holztür",
-		"french": "Simple porte en bois"
+		"french": "Simple porte en bois",
+		"spanish": "Puerta simple de madera",
 	},
 	"doorWood0Description": {
 		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
 		"german": "Lässt Kolonisten durch und sperrt Feinde aus (Zumindest in der Theorie).",
-		"french": "Autorise vos colons à entrer pendant qu'ils laissent les visiteurs importuns dehors (la plupart du temps)."
+		"french": "Autorise vos colons à entrer pendant qu'ils laissent les visiteurs importuns dehors (la plupart du temps).",
+		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
 	},
 	"doorWood1": {
 		"english": "Simple Wooden Door",
 		"german": "Einfache Holztür",
-		"french": "Simple porte en bois"
+		"french": "Simple porte en bois",
+		"spanish": "Puerta simple de madera",
 	},
 	"doorWood1Description": {
 		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
 		"german": "Lässt Kolonisten durch und sperrt Feinde aus (Zumindest in der Theorie).",
-		"french": "Autorise vos colons à entrer pendant qu'ils laissent les visiteurs importuns dehors (la plupart du temps)."
+		"french": "Autorise vos colons à entrer pendant qu'ils laissent les visiteurs importuns dehors (la plupart du temps).",
+		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
 	},
 	"doorWood2": {
 		"english": "Wooden Door",
 		"german": "Holztür",
-		"french": "Porte en bois"
+		"french": "Porte en bois",
+		"spanish": "Puerta de madera",
 	},
 	"doorWood2Description": {
 		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
-		"german": "Lässt Kolonisten durch und sperrt Feinde aus (Zumindest in der Theorie)."
+		"german": "Lässt Kolonisten durch und sperrt Feinde aus (Zumindest in der Theorie).",
+		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
 	},
 	"doorWood3": {
 		"english": "Ornamented Wooden Door",
 		"german": "Verzierte Holztür",
-		"french": "Porte en bois ornementée"
+		"french": "Porte en bois ornementée",
+		"spanish": "Puerta ornamentada de madera",
 	},
 	"doorWood3Description": {
 		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
-		"german": "Lässt Kolonisten durch und sperrt Feinde aus (Zumindest in der Theorie)."
+		"german": "Lässt Kolonisten durch und sperrt Feinde aus (Zumindest in der Theorie).",
+		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
 	},
 	"windowWood0": {
 		"english": "Simple Wooden Window",
 		"german": "Einfaches Holzfenster",
-		"french": "Simple fenêtre en bois"
+		"french": "Simple fenêtre en bois",
+		"spanish": "Ventana simple de madera",
 	},
 	"windowWood0Description": {
 		"english": "This window let's in more then just sunshine. It's basicly just a whole in the wall after all...",
-		"german": "Dieses Fenster lässt nicht nur warme Sonnenstrahlen in dein Haus. Letztendlich ist es ja auch nicht viel mehr als ein Loch in der Wand."
+		"german": "Dieses Fenster lässt nicht nur warme Sonnenstrahlen in dein Haus. Letztendlich ist es ja auch nicht viel mehr als ein Loch in der Wand.",
+		"spanish": "Esta ventana no deja entrar más que el brillo del sol. Es basicamente un hoyo en la pared después de todo...",
 	},
 	"windowWood1": {
 		"english": "Wooden Window",
 		"german": "Holzfenster",
-		"french": "Fenêtre en bois"
+		"french": "Fenêtre en bois",
+		"spanish": "Ventana de madera",
 	},
 	"windowWood1Description": {
 		"english": "Let your settlers look outside without exposing them to the dangers that lure hudden somewhere in this world.",
-		"german": "Lass deine Kolonisten die Landschaft genießen, ohne sie der Gefahren auszusetzen, die draußen im Verborgenen lauern."
+		"german": "Lass deine Kolonisten die Landschaft genießen, ohne sie der Gefahren auszusetzen, die draußen im Verborgenen lauern.",
+		"spanish": "Deja a tus colonos ver hacia afuera sin exponerlos a los peligros que oculta este mundo.",
 	},
 	"windowWood2": {
 		"english": "Wooden Window",
 		"german": "Holzfenster",
-		"french": "Fenêtre en bois"
+		"french": "Fenêtre en bois",
+		"spanish": "Ventana de madera",
 	},
 	"windowWood2Description": {
 		"english": "Let your settlers look outside without exposing them to the dangers that lure hudden somewhere in this world.",
-		"german": "Lass deine Kolonisten die Landschaft genießen, ohne sie der Gefahren auszusetzen, die draußen im Verborgenen lauern."
+		"german": "Lass deine Kolonisten die Landschaft genießen, ohne sie der Gefahren auszusetzen, die draußen im Verborgenen lauern.",
+		"spanish": "Deja a tus colonos ver hacia afuera sin exponerlos a los peligros que oculta este mundo.",
 	},
 	"windowWood3": {
 		"english": "Advanced Wooden Window",
 		"german": "Fortgeschrittenes Holzfenster",
-		"french": "Fenêtre en bois améliorée"
+		"french": "Fenêtre en bois améliorée",
+		"spanish": "Ventana avanzada de madera",
 	},
 	"windowWood3Description": {
 		"english": "Show off your wealth with colored glass and maike your colonists feel special.",
 		"german": "Lass deinen Wohlstand so richtig raushängen und verschönere deine Kolonie mit diesem getönten Glassfenster.",
-		"french": "Montrer votre richesse avec des fenêtres colorées et permetter à vos colons de se sentir spéciaux."
+		"french": "Montrer votre richesse avec des fenêtres colorées et permetter à vos colons de se sentir spéciaux.",
+		"spanish": "Muestra tu prosperidad con este cristal tintado y haz que tus colonos se sientan especiales.",
 	},
 	"windowWood4": {
 		"english": "Advanced Wooden Window",
 		"german": "Fortgeschrittenes Holzfenster",
-		"french": "Fenêtre en bois améliorée"
+		"french": "Fenêtre en bois améliorée",
+		"spanish": "Ventana avanzada de madera",
 	},
 	"windowWood4Description": {
 		"english": "Show off your wealth with colored glass and maike your colonists feel special.",
 		"german": "Lass deinen Wohlstand so richtig raushängen und verschönere deine Kolonie mit diesem getönten Glassfenster.",
-		"french": "Montrer votre richesse avec des fenêtres colorées et permetter à vos colons de se sentir spéciaux."
+		"french": "Montrer votre richesse avec des fenêtres colorées et permetter à vos colons de se sentir spéciaux.",
+		"spanish": "Muestra tu prosperidad con este cristal tintado y haz que tus colonos se sientan especiales.",
 	},
 	"woodPillar0Variation0": {
 		"english": "Simple Wooden Pillar",
 		"german": "Einfache Holzsäule",
-		"french": "Simple pilier en bois"
+		"french": "Simple pilier en bois",
+		"spanish": "Pilar simple de madera",
 	},
 	"woodPillar0Variation0Description": {
 		"english": "A simple wooden beam. Get's the job done!",
 		"german": "Ein einfacher Holzbalken. Nennen wir sie mal vorsichtig die Alibisäule.", 
-		"french": "Une simple poutre en bois. Fais son travail!"
+		"french": "Une simple poutre en bois. Fais son travail!",
+		"spanish": "Una simple viga de madera. ¡Haz tu trabajo!",
 	},
 	"woodPillar0Variation1": {
 		"english": "Simple Wooden Pillar",
 		"german": "Einfache Holzsäule",
-		"french": "Simple pilier en bois"
+		"french": "Simple pilier en bois",
+		"spanish": "Pilar simple de madera"
 	},
 	"woodPillar0Variation1Description": {
 		"english": "A simple wooden beam. Get's the job done!",
 		"german": "Ein einfacher Holzbalken. Nennen wir sie mal vorsichtig die Alibisäule.",
-		"french": "Une simple poutre en bois. Fais son travail!"
+		"french": "Une simple poutre en bois. Fais son travail!",
+		"spanish": "Una simple viga de madera. ¡Haz tu trabajo!",
 	},
 	"woodPillar0Variation2": {
 		"english": "Simple Wooden Pillar",
 		"german": "Einfache Holzsäule",
-		"french": "Simple pilier en bois"
+		"french": "Simple pilier en bois",
+		"spanish": "Pilar simple de madera"
 	},
 	"woodPillar0Variation2Description": {
 		"english": "A simple wooden beam. Get's the job done!",
 		"german": "Ein einfacher Holzbalken. Nennen wir sie mal vorsichtig die Alibisäule.",
-		"french": "Une simple poutre en bois. Fais son travail!"
+		"french": "Une simple poutre en bois. Fais son travail!",
+		"spanish": "Una simple viga de madera. ¡Haz tu trabajo!",
 	},
 	"woodPillar0Variation3": {
 		"english": "Simple Wooden Pillar",
 		"german": "Einfache Holzsäule",
-		"french": "Simple pilier en bois"
+		"french": "Simple pilier en bois",
+		"spanish": "Pilar simple de madera"
 	},
 	"woodPillar0Variation3Description": {
 		"english": "A simple wooden beam. Get's the job done!",
 		"german": "Ein einfacher Holzbalken. Nennen wir sie mal vorsichtig die Alibisäule.",
-		"french": "Une simple poutre en bois. Fais son travail!"
+		"french": "Une simple poutre en bois. Fais son travail!",
+		"spanish": "Una simple viga de madera. ¡Haz tu trabajo!",
 	},
 	"woodPillar0Variation4": {
 		"english": "Simple Wooden Pillar",
 		"german": "Einfache Holzsäule",
-		"french": "Simple pilier en bois"
+		"french": "Simple pilier en bois",
+		"spanish": "Pilar simple de madera"
 	},
 	"woodPillar0Variation4Description": {
 		"english": "A simple wooden beam. Get's the job done!",
 		"german": "Ein einfacher Holzbalken. Nennen wir sie mal vorsichtig die Alibisäule.",
-		"french": "Une simple poutre en bois. Fais son travail!"
+		"french": "Une simple poutre en bois. Fais son travail!",
+		"spanish": "Una simple viga de madera. ¡Haz tu trabajo!",
 	},
 	"woodPillar0Variation5": {
 		"english": "Simple Wooden Pillar",
 		"german": "Einfache Holzsäule",
-		"french": "Simple pilier en bois"
+		"french": "Simple pilier en bois",
+		"spanish": "Pilar simple de madera"
 	},
 	"woodPillar0Variation5Description": {
 		"english": "A simple wooden beam. Get's the job done!",
 		"german": "Ein einfacher Holzbalken. Nennen wir sie mal vorsichtig die Alibisäule.",
-		"french": "Une simple poutre en bois. Fais son travail!"
+		"french": "Une simple poutre en bois. Fais son travail!",
+		"spanish": "Una simple viga de madera. ¡Haz tu trabajo!",
 	},
 	"woodPillar1Variation0": {
 		"english": "Ornamented Wooden Pillar",
 		"german": "Verzierte Holzsäule",
-		"french": "Pilier en bois ornementé"
+		"french": "Pilier en bois ornementé",
+		"spanish": "Pilar ornamentado de madera"
 	},
 	"woodPillar1Variation0Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
 		"german": "Wer braucht schon tragende Wände, wenn man sich auf tragende Säulen verlassen kann?", 
-		"french": "Qui a besoin de murs porteurs si vous pouvez faciement vous reposer sur ce pilier?"
+		"french": "Qui a besoin de murs porteurs si vous pouvez faciement vous reposer sur ce pilier?",
+		"spanish": "¿Quién necesita paredes si te puedes apoyar en este pilar?
 	},
 	"woodPillar1Variation1": {
 		"english": "Ornamented Wooden Pillar",
 		"german": "Verzierte Holzsäule",
-		"french": "Pilier en bois ornementé"
+		"french": "Pilier en bois ornementé",
+		"spanish": "Pilar ornamentado de madera"
 	},
 	"woodPillar1Variation1Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
 		"german": "Wer braucht schon tragende Wände, wenn man sich auf tragende Säulen verlassen kann?",
-		"french": "Qui a besoin de murs porteurs si vous pouvez facilement vous reposer sur ce pilier?"
+		"french": "Qui a besoin de murs porteurs si vous pouvez facilement vous reposer sur ce pilier?",
+		"spanish": "¿Quién necesita paredes si te puedes apoyar en este pilar?
 	},
 	"woodPillar1Variation2": {
 		"english": "Ornamented Wooden Pillar",
 		"german": "Verzierte Holzsäule",
-		"french": "Pilier en bois ornementé"
+		"french": "Pilier en bois ornementé",
+		"spanish": "Pilar ornamentado de madera"
 	},
 	"woodPillar1Variation2Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
 		"german": "Wer braucht schon tragende Wände, wenn man sich auf tragende Säulen verlassen kann?",
-		"french": "Qui a besoin de murs porteurs si vous pouvez facilement vous reposer sur ce pilier?"
+		"french": "Qui a besoin de murs porteurs si vous pouvez facilement vous reposer sur ce pilier?",
+		"spanish": "¿Quién necesita paredes si te puedes apoyar en este pilar?
 	},
 	"woodPillar1Variation3": {
 		"english": "Ornamented Wooden Pillar",
 		"german": "Verzierte Holzsäule",
-		"french": "Pilier en bois ornementé"
+		"french": "Pilier en bois ornementé",
+		"spanish": "Pilar ornamentado de madera"
 	},
 	"woodPillar1Variation3Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
 		"german": "Wer braucht schon tragende Wände, wenn man sich auf tragende Säulen verlassen kann?",
-		"french": "Qui a besoin de murs porteurs si vous pouvez facilement vous reposer sur ce pilier?"
+		"french": "Qui a besoin de murs porteurs si vous pouvez facilement vous reposer sur ce pilier?",
+		"spanish": "¿Quién necesita paredes si te puedes apoyar en este pilar?
 	},
 	"woodPillar1Variation4": {
 		"english": "Ornamented Wooden Pillar",
 		"german": "Verzierte Holzsäule",
-		"french": "Pilier en bois ornementé"
+		"french": "Pilier en bois ornementé",
+		"spanish": "Pilar ornamentado de madera"
 	},
 	"woodPillar1Variation4Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
 		"german": "Wer braucht schon tragende Wände, wenn man sich auf tragende Säulen verlassen kann?", 
-		"french": "Qui a besoin de murs porteurs si vous pouvez facielement vous reposer sur ce pilier?"
+		"french": "Qui a besoin de murs porteurs si vous pouvez facielement vous reposer sur ce pilier?",
+		"spanish": "¿Quién necesita paredes si te puedes apoyar en este pilar?
 	},
 	"woodPillar1Variation5": {
 		"english": "Ornamented Wooden Pillar",
 		"german": "Verzierte Holzsäule",
-		"french": "Pilier en bois ornementé"
+		"french": "Pilier en bois ornementé",
+		"spanish": "Pilar ornamentado de madera"
 	},
 	"woodPillar1Variation5Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
 		"german": "Wer braucht schon tragende Wände, wenn man sich auf tragende Säulen verlassen kann?", 
-		"french": "Qui a besoin de murs porteurs si vous pouvez facilement vous reposer sur ce pilier?"
+		"french": "Qui a besoin de murs porteurs si vous pouvez facilement vous reposer sur ce pilier?",
+		"spanish": "¿Quién necesita paredes si te puedes apoyar en este pilar?
 	},
 	"woodPillar2": {
 		"english": "Round Wooden Pillar",
 		"german": "Runde Holzsäule",
-		"french": "Pilier en bois rond"
+		"french": "Pilier en bois rond",
+		"spanish": "Pilar redondo de madera"
 	},
 	"woodPillar1Variation0Description": {
-		"english": "If this pillar was any better Atlas would lose his job!",
+		"english": "If this pillar was any better, Atlas would lose his job!",
 		"german": "Es fehlt nicht mehr viel und Atlas wäre arbeitslos!", 
-		"french": "Si ce pilier était mieux, Atlas perdrait son métier!"
+		"french": "Si ce pilier était mieux, Atlas perdrait son métier!",
+		"spanish": "¡Un pilar un poco mejor y Atlas perdería su trabajo!",
 	},
 	"stonePillar0": {
 		"english": "Simple Stone Pillar",
 		"german": "Einfache Steinsäule",
-		"french": "Simple pilier en pierre"
+		"french": "Simple pilier en pierre",
+		"spanish": "Pilar simple de piedra",
 	},
 	"stonePillar0Description": {
 		"english": "One might wonder whether this stone pillar is really capaple of carrying more weight then its wooden counterparts.",
 		"german": "Hm, ob diese Steinsäule wohl dazu in der Lage ist mehr zu tragen als ihre hölzerne Ausführung?",
-		"french": "On pourrait se demander si ce piler en pierre est vraiment capable de porter plus de poids que son homologue en bois."
+		"french": "On pourrait se demander si ce piler en pierre est vraiment capable de porter plus de poids que son homologue en bois.",
+		"spanish": "No te sorprenderá que este pilar de piedra es capaz de cargar más peso que su contraparte de madera",
 	},
 	"guardPost": {
 		"english": "Guard Post",
 		"german": "Wachposten",
-		"french": "Poste de garde"
+		"french": "Poste de garde",
+		"spanish": "Poste de vigilancia",
 	},
 	"guardPostDescription": {
 		"english": "Assign soldiers to guard this position with their lives.",
 		"german": "Weise Soldaten diesem Wachposten zu, damit sie die Stellung halten.",
-		"french": "Assigner des soldats pour protéger cette position avec leurs vies"
+		"french": "Assigner des soldats pour protéger cette position avec leurs vies",
+		"spanish": "Asigna soldados para defender esta posición con sus vidas.",
 	},
 	"watchtower": {
 		"english": "Watchtower",
 		"german": "Wachturm",
-		"french": "Mirador"
+		"french": "Mirador",
+		"spanish": "Torre de vigilancia",
 	},
 	"watchtowerDescription": {
 		"english": "Send your archers up this tower to give them a safe position to shoot from.",
 		"german": "Bietet Bogenschützen eine sichere Position, um auf unerwünschte Gäste zu schießen.",
-		"french": "Envoyer vos archers en haut de cette tour leur donnera une position en sécurité pour faire feu."
+		"french": "Envoyer vos archers en haut de cette tour leur donnera une position en sécurité pour faire feu.",
+		"spanish": "Manda a tus arqueros arriba para darles una posición segura de donde disparar.",
 	},
 	"watchtowerStone": {
 		"english": "Strong Watchtower",
 		"german": "Starker Wachturm",
-		"french": "Mirador solide"
+		"french": "Mirador solide",
+		"spanish": "Torre de vigilancia reforzada",
 	},
 	"watchtowerStoneDescription": {
 		"english": "Send your archers up this tower to give them a safe position to shoot from.",
 		"german": "Bietet Bogenschützen eine noch sicherere Position, um auf unerwünschte Gäste zu schießen.",
-		"french": "Envoyer vos archers en haut de cette tour leur donnera une position en sécurité pour faire feu."
+		"french": "Envoyer vos archers en haut de cette tour leur donnera une position en sécurité pour faire feu.",
+		"spanish": "Manda a tus arqueros arriba para darles una posición segura de donde disparar.",
 	},
 	"enemyHouse": {
 		"english": "Tikigoblin's Hut",
 		"german": "Tikigoblinhütte",
-		"french": "Hutte Tikigoblins"
+		"french": "Hutte Tikigoblins",
+		"spanish": "Choza de Tikigoblin",
 	},
 	"enemyHouseBig": {
 		"english": "Large Tikigoblin's Hut ",
 		"german": "Große Tikigoblinhütte",
-		"french": "Grande hutte Tikigoblins"
+		"french": "Grande hutte Tikigoblins",
+		"spanish": "Gran choza de Tikigoblin",
 	},
 	"enemyTotem": {
 		"english": "Tikigoblins' Totem",
 		"german": "Tikigoblintotem",
-		"french": "Totem Tikigoblins"
+		"french": "Totem Tikigoblins",
+		"spanish": "Totem de Tikigoblin",
 	},
 	"lightGroundTorch0": {
 		"english": "Simple Torch on Ground",
 		"german": "Einfache Fackel am Boden",
-		"french": "Simple torche au sol"
+		"french": "Simple torche au sol",
+		"spanish": "Antorcha simple en el suelo",
 	},
 	"lightGroundTorch0Description": {
 		"english": "The easiest way to get light in the dark.",
 		"german": "Der einfachste Weg die Nacht zu erleuchten.",
-		"french": "La manière la plus simple d'obtenir de la lumière dans l'obscurité."
+		"french": "La manière la plus simple d'obtenir de la lumière dans l'obscurité.",
+		"spanish": "La manera más sencilla de iluminar la oscuridad.",
 	},
 	"lightGroundLantern0": {
 		"english": "Wooden Street Lantern",
 		"german": "Hölzerne Straßenlaterne",
-		"french": "Lanterne rurale en bois"
+		"french": "Lanterne rurale en bois",
+		"spanish": "Farola de madera",
 	},
 	"lightGroundLantern0Description": {
 		"english": "Use this stylish lantern to light your home at night.",
 		"german": "Diese stylische Laterne sorgt dafür, dass den Kolonisten auch in der Nacht ein Licht aufgeht.",
-		"french": "Utiliser cette lanterne stylisée pour éclairer votre maison la nuit."
+		"french": "Utiliser cette lanterne stylisée pour éclairer votre maison la nuit.",
+		"spanish": "Utiliza este estilo de linterna para iluminar tu casa en la noche.",
 	},
 	"lightGroundLantern1": {
 		"english": "Wooden Street Lantern",
 		"german": "Hölzerne Straßenlaterne",
-		"french": "Lanterne rurale en bois"
+		"french": "Lanterne rurale en bois",
+		"spanish": "Farola de madera",
 	},
 	"lightGroundLantern1Description": {
 		"english": "Use this stylish lantern to light your home at night.",
 		"german": "Diese stylische Laterne sorgt dafür, dass den Kolonisten auch in der Nacht ein Licht aufgeht.",
-		"french": "Utiliser cette lanterne stylisée pour éclairer votre maison la nuit."
+		"french": "Utiliser cette lanterne stylisée pour éclairer votre maison la nuit.",
+		"spanish": "Utiliza este estilo de linterna para iluminar tu casa en la noche.",
 	},
 	"lightWallTorch0": {
 		"english": "Simple Torch on Wall",
 		"german": "Einfache Fackel an der Wand",
-		"french": "Simple torche murale"
+		"french": "Simple torche murale",
+		"spanish": "Antorcha simple de pared",
 	},
 	"lightWallTorch0Description": {
 		"english": "The easiest way to get light in the dark.",
 		"german": "Der einfachste Weg die Nacht zu erleuchten.",
-		"french": "La manière la plus simple d'obtenir de la lumière dans l'obscurité."
+		"french": "La manière la plus simple d'obtenir de la lumière dans l'obscurité.",
+		"spanish": "La manera más sencilla de iluminar la oscuridad.", 
 	},
 	"lightWallTorch1": {
 		"english": "Torch on Wall",
 		"german": "Fackel an der Wand",
-		"french": "Torche murale"
+		"french": "Torche murale",
+		"spanish": "Antorcha de pared",
 	},
 	"lightWallTorch1Description": {
 		"english": "Use this stylish torch to light your home at night.",
 		"german": "Diese stylische Fakel sorgt dafür, dass den Kolonisten auch in der Nacht ein Licht aufgeht.",
-		"french": "Utiliser cette torche stylisée pour éclairer votre maison la nuit."
+		"french": "Utiliser cette torche stylisée pour éclairer votre maison la nuit.",
+		"spanish": "Usa esta antorcha con estilo para iluminar tu casa en la noche.",
 	},
 	"lightWallTorch2": {
 		"english": "Torch on Wall",
 		"german": "Fackel an der Wand",
-		"french": "Torche murale"
+		"french": "Torche murale",
+		"spanish": "Antorcha de pared",
 	},
 	"lightWallTorch2Description": {
 		"english": "Use this stylish torch to light your home at night.",
 		"german": "Diese stylische Fakel sorgt dafür, dass den Kolonisten auch in der Nacht ein Licht aufgeht.",
-		"french": "Utiliser cette torche stylisée pour éclairer votre maison la nuit."
+		"french": "Utiliser cette torche stylisée pour éclairer votre maison la nuit.",
+		"spanish": "Usa esta antorcha con estilo para iluminar tu casa en la noche.",
 	},
 	"lightWallTorch3": {
 		"english": "Ornamented Torch on Wall",
 		"german": "Verzierte Fackel an der Wand",
-		"french": "Torche murale ornementée"
+		"french": "Torche murale ornementée",
+		"spanish": "Antorcha ornamentada de pared",
 	},
 	"lightWallTorch3Description": {
 		"english": "Use this stylish torch to light your home at night.",
 		"german": "Diese stylische Fakel sorgt dafür, dass den Kolonisten auch in der Nacht ein Licht aufgeht.",
-		"french": "Utiliser cette torche sytlisée pour éclairer votre maison la nuit."
+		"french": "Utiliser cette torche sytlisée pour éclairer votre maison la nuit.",
+		"spanish": "Usa esta antorcha con estilo para iluminar tu casa en la noche.",
 	},
 	"lightWallTorch4": {
 		"english": "Iorn Torch on Wall",
 		"german": "Eiserne Fackel an der Wand",
-		"french": "Torche en fer murale"
+		"french": "Torche en fer murale",
+		"spanish": "Antorcha de hierro de pared",
 	},
 	"lightWallTorch4Description": {
 		"english": "Use this stylish torch to light your home at night.",
 		"german": "Diese stylische Fakel sorgt dafür, dass den Kolonisten auch in der Nacht ein Licht aufgeht.",
-		"french": "Utiliser cette torche stylisée pour éclairer votre maison la nuit."
+		"french": "Utiliser cette torche stylisée pour éclairer votre maison la nuit.",
+		"spanish": "Usa esta antorcha con estilo para iluminar tu casa en la noche.",
 	},
 	"table": {
 		"english": "Table",
 		"german": "Tisch",
-		"french": "Table"
+		"french": "Table",
+		"spanish": "Mesa",
 	},
 	"tableDescription": {
 		"english": "Your colonists can meet up at this table.",
 		"german": "An diesem Tisch können sich die Kolonisten treffen.",
-		"french": "Vos colons peuvent se réunir à cette table."
+		"french": "Vos colons peuvent se réunir à cette table.",
+		"spanish": "Tus colonos se pueden reunir en esta mesa.",
 	},
 	"chair": {
 		"english": "Chair",
 		"german": "Stuhl",
-		"french": "Chaise"
+		"french": "Chaise",
+		"spanish": "Silla",
 	},
 	"chairDescription": {
 		"english": "That chair is propably as comfy as it looks like.",
 		"german": "Dieser Stuhl ist wohl so bequem wie er aussieht.",
-		"french": "Cette chaise est probablement aussi confortable qu'elle y paraît."
+		"french": "Cette chaise est probablement aussi confortable qu'elle y paraît.",
+		"Spanish": "Esta silla es tan cómoda como se ve.",
 	},
 	"trainingDummy": {
 		"english": "Training Dummy",
 		"german": "Trainings-Dummy",
-		"french": "Mannequin d'entraînement"
+		"french": "Mannequin d'entraînement",
+		"spanish": "Maniquí de entrenamiento",
 	},
 	"trainingDummyDescription": {
 		"english": "You need to train your soldiers before they can do well in battle.",
 		"german": "Soldaten können hier erste Kampferfahrungen sammeln.",
-		"french": "Vous devez entraîner vos soldats avant qu'ils soient en bataille."
+		"french": "Vous devez entraîner vos soldats avant qu'ils soient en bataille.",
+		"spanish": "Necesitarás entrenar a tus soldados antes de que lo hagan bien en batalla.",
 	},
 	"boat": {
 		"english": "Migrant Ship",
 		"german": "Migrantenschiff",
-		"french": "Navire migrant"
+		"french": "Navire migrant",
+		"spanish": "Barco migrante",
 	},
 }

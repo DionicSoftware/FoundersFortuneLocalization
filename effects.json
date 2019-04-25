@@ -5,6 +5,7 @@
 		"french": "Blessures sanglantes",
 		"spanish": "Herida Sangrando",
 		"dutch": "Bloedende wonden",
+		"portuges": "Feridas sangrentas",
 	},
 	"effectDesc_Bleeding": {
 		"english": "%firstName% bleeding! Make sure that his wounds are banadaged properly. Otherwise, %firstName% could die of blood loss.",
@@ -12,6 +13,7 @@
 		"french": "%firstName% saigne ! Assurez-vous que ses blessures soient bandées. Sinon, %firstName% pourrait mourir.",
 		"spanish": "¡%firstName% está sangrando! Asegúrate de que sus heridas sean correctamente vendadas. De otra manera %firstName% podría morir desangrado.",
 		"dutch": "%firstName% bloed! Zorg ervoor dat zijn wonden goed zijn verbonden. Anders, %firstName% kan dood gaan aan bloedverlies.",
+		"portuges": "Isso vai levar algum tempo antes de %firstName% acordar.",
 	},
 	"effectTitle_Unconscious": {
 		"english": "Unconscious",
@@ -19,6 +21,7 @@
 		"french": "Inconscient",
 		"spanish": "Desmayado",
 		"dutch": "Bewustloos",
+		"portuges": "inconsciente",
 	},
 	"effectDesc_Unconscious": {
 		"english": "It's going to take a while before %firstName% wakes up.",
@@ -26,6 +29,7 @@
 		"french": "Cela va prendre un certain temps avant que %firstName% se réveille.",
 		"spanish": "Tomará un tiempo para que %firstName% despierte.",
 		"dutch": "Het zal een tijdje duren voor %firstname% wakker wordt.",
+		"portuges": "Isso vai levar algum tempo antes de %firstName% acordar.",
 	},
 	"effectTitle_Bandage": {
 		"english": "Bandage",
@@ -33,6 +37,7 @@
 		"french": "Bandage",
 		"spanish": "Vendaje",
 		"dutch": "Verband",
+		"portuges": "Bandagem",
 	},
 	"effectDesc_Bandage": {
 		"english": "The bandage is stopping the blood loss.",
@@ -40,6 +45,7 @@
 		"french": "Le bandage a arrêté la perte de sang",
 		"spanish": "El vendaje está deteniendo la perdida de sangre.",
 		"dutch": "Het verband heeft het bloedverlies gestopt.",
+		"portuges": "A bandagem parou a perda de sangue",
 	},
 	"effectTitle_Healthy": {
 		"english": "No Effects",
@@ -47,6 +53,7 @@
 		"french": "Aucun effet",
 		"spanish": "Sin efectos",
 		"dutch": "Geen effecten",
+		"portuges": "Sem efeito",
 	},
 	"effectDesc_Healthy": {
 		"english": "%firstName% is healthy!",
@@ -54,6 +61,7 @@
 		"french": "%firstName% est en bonne santé !",
 		"spanish": "¡%firstName% está sano y salvo!",
 		"dutch": "%firstName% is gezond!",
+		"portuges": "%firstName% está de boa saúde!",
 	},
 	"effectTitle_Starving": {
 		"english": "Starving",
@@ -61,6 +69,7 @@
 		"french": "Meurt de faim",
 		"spanish": "Famélico",
 		"dutch": "Hongerig",
+		"portuges": "Morre de fome",
 	},
 	"effectDesc_Starving": {
 		"english": "%firstName% didn't eat in a long time. He needs to find something to eat soon in order to survive.",
@@ -68,6 +77,7 @@
 		"french": "%firstName% n'a pas mangé depuis longtemps. Il doit trouver quelque chose à manger rapidement pour survivre",
 		"spanish": "%firstName% lleva un buen rato sin comer. Él debe encontrar algo que comer pronto para sobrevivir.",
 		"dutch": "%firstName% heeft al lang niet gegeten. hij moet snel wat eten om te overleven.",
+		"portuges": "%firstName% não tenha comido por um longo tempo. Ele deve encontrar algo para comer rapidamente para sobreviver",
 	},
 	"effectTitle_HealingPotion": {
 		"english": "Healing Potion",
@@ -75,6 +85,7 @@
 		"french": "Potion de soin",
 		"spanish": "Poción de salud",
 		"dutch": "Genezend drankje",
+		"portuges": "Poção de saúde",
 	},
 	"effectDesc_HealingPotion": {
 		"english": "The healing potion %firstName% drank is doing it's work and restoring some health.",
@@ -82,6 +93,7 @@
 		"french": "La potion de soin que %firstName% a bu fait son travail et restaure sa santé",
 		"spanish": "La poción de salud que %firstName% se tomó está dando resultados y le da algo de salud.",
 		"dutch":"Het genezend drankje %firstName% dronk doet z'n werk en herstelt zijn gezondheid.",
+		"portuges": "A poção de saúde que %firstName% bebeu faz seu trabalho e restaura sua saúde",
 
 	},
 	"effectTitle_BrokenBone": {
@@ -90,6 +102,7 @@
 		"french": "Os cassé",
 		"spanish": "Hueso roto",
 		"dutch" : "Bot breuk",
+		"portuges": "Osso quebrado",
 		
 	},
 	"effectDesc_BrokenBone": {
@@ -98,6 +111,7 @@
 		"french": "Pas encore implanté !",
 		"spanish": "¡Aún no implementado!",
 		"dutch" : "Nog niet geïmplementeerd!",
+		"portuges": "Ainda não implementado",
 	},
 	"effectTitle_Flu": {
 		"english": "Flu",
@@ -105,6 +119,7 @@
 		"french": "Grippe",
 		"spanish": "Gripe",
 		"dutch" : "Griep",
+		"portuges": "gripe",
 	},
 	"effectDesc_Flu": {
 		"english": "%firstName% has caught the Flu. Make sure he stays in bed in the coming days and is treated with medicine by a doctor. Do not underestimate the illness!",
@@ -112,6 +127,7 @@
 		"french": "%firstName% a attrapé la grippe. Assurez-vous qu'il reste au lit les prochains jours et qu'il se soigne avec des médicaments prescrits par un docteur. Ne sous-estimez pas la maladie !",
 		"spanish": "%firstName% contrajo la gripe. Mándalo a la cama y deja que un doctor lo trate con medicina. ¡No subestimes la enfermedad!",
 		"dutch" : "%firstName% heeft de griep tepakken. zorg dat hij in bed blijft de komende dagen en dat hij medicijnen krijgt van een docter. onderschat de ziekte niet!",
+		"portuges": "%firstName% pegou a gripe. Certifique-se de que ele fique na cama pelos próximos dias e seja tratado com medicamentos prescritos por um médico. Não subestime a doença!",
 	},
 	"effectTitle_SleepingInBed": {
 		"english": "Resting in Bed",
@@ -119,6 +135,7 @@
 		"french": "Repos au lit",
 		"spanish": "Descansando en la cama",
 		"dutch" : "Slaapt in bed",
+		"portuges": "Descansar na cama",
 	},
 	"effectDesc_SleepingInBed": {
 		"english": "%firstName% is resting and slowly re-gaining health.",
@@ -126,6 +143,7 @@
 		"french": "%firstName% se repose et se rétablit doucement",
 		"spanish": "%firstName% está descansando y recupera salud lentamente.",
 		"dutch" : "%firstName% slaapt in bed en herstelt zijn gezondheid.",
+		"portuges": "%firstName% descansa e recupera lentamente",
 	},
 	"effectTitle_AllergicReaction": {
 		"english": "Allergic Reaction",
@@ -133,6 +151,7 @@
 		"french": "Réaction allergique",
 		"spanish": "Reacción alérgica",
 		"dutch" : "Allergische reactie",
+		"portuges": "Reação alérgico",
 	},
 	"effectDesc_AllergicReaction": {
 		"english": "%firstName% had to eat food he is allergic to. Now his body has an allergic reaction.",
@@ -140,6 +159,7 @@
 		"french": "%firstName a mangé de la nourriture dont il était allergique. Son corps a fait une réaction allergique",
 		"spanish": "%firstName% debió comer algo a lo que era alérgico. Ahora su cuerpo tiene una reacción alérgica.",
 		"dutch" : "%firstName% moest voedsel eten waar hij allergies voor is. Nu heeft hij een allergische reactie.",
+		"portuges": "%firstName% comeu comida que ele era alérgico. Seu corpo fez uma reação alérgica",
 	},
 	"effectStage": {
 		"english": "Stage",
@@ -147,6 +167,7 @@
 		"french": "Stade",
 		"spanish": "Etapa",
 		"dutch" : "stadium",
+		"portuges": "Etapa",
 	},
 	"effectTitle_SmallFoodRationsSlowness": {
 		"english": "Slow work",
@@ -154,6 +175,7 @@
 		"french": "Lenteur du travail",
 		"spanish": "Trabajo lento",
 		"dutch" : "langzaam werk",
+		"portuges": "Trabalho lento",
 	},
 	"effectDesc_SmallFoodRationsSlowness": {
 		"english": "%firstName% receives only small food rations, so he just lacks the energy to work properly and takes longer to complete tasks.",
@@ -161,6 +183,7 @@
 		"french": "%firstName% ne reçoit que de petites rations alimentaires, donc il manque d'énergie pour travailler et prend plus de temps pour accomplir une tâche.",
 		"spanish": "%firstName% recibe sólo pequeñas raciones de comida, por lo tanto carece de la energía para trabajar adecuadamente y tarda más en completar tareas.",
 		"dutch" : "%firstName% krijgt alleen kleine voedsel rotaties, dus hij lekt de energie om normaal te werken en doet er dus langer over om taken te voltooien.",
+		"portuges": "%firstName% recebe apenas pequenas rações de comida, então ele simplesmente não tem energia para funcionar adequadamente e leva mais tempo para concluir as tarefas.",
 	},
 
 }

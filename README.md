@@ -20,6 +20,9 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 # Custom.txt: (change french by your language)
 
 Game Version:
+
 Alpha 6.1
+
 Forced language:
+
 french

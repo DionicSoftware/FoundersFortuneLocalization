@@ -50,7 +50,7 @@
 		"english": "It is now %season%.",
 		"german": "Es ist jetzt %season%.",
 		"french": "C'est maintenant %season%.",
-		"spanish": "Esto es ahora %season%."
+		"spanish": "Ahora es %season%."
 	},
 	"notificationTitle_ColonistTerribleMood": {
 		"english": "Hopelessness",
@@ -62,7 +62,7 @@
 		"english": "Low Spirits",
 		"german": "Niedergeschlagenheit",
 		"french": "Déprime",
-		"spanish": "Deprimidos"
+		"spanish": "Depresión"
 	},
 	"notificationTitle_Fight": {
 		"english": "Colonist fighting",
@@ -74,13 +74,13 @@
 		"english": "Colonist lost Consciousness",
 		"german": "Kolonist in Ohnmacht gefallen",
 		"french": "Un colon a perdu connaissance",
-		"spanish": "El colono perdio la  conciencia"
+		"spanish": "El colono perdió la  conciencia"
 	},
 	"notificationTitle_Death": {
 		"english": "Colonist died",
 		"german": "Kolonist gestorben",
 		"french": "Un colon est mort",
-		"spanish": "El colono murio"
+		"spanish": "El colono murió"
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -110,7 +110,7 @@
 		"english": "Illness",
 		"german": "Krankheit",
 		"french": "Malade",
-		"spanish": "enfermedad"
+		"spanish": "Enfermedad"
 	},
 	"notificationTitle_ColonistJoined": {
 		"english": "Colonist joined",
@@ -128,13 +128,13 @@
 		"english": "It is now %season%",
 		"german": "Es ist jetzt %season%",
 		"french": "C'est maintenant %season%",
-		"spanish": "Esto es ahora %season%"
+		"spanish": "Ahora es %season%"
 	},
 	"notificationTitle_LastDayOfSeason": {
 		"english": "It is the last day of %season%.",
 		"german": "Letzter Tag des %season%s.",
 		"french": "C'est le dernier jour de %season%.",
-		"spanish": "Es el ultimo dia de %season%."
+		"spanish": "Es el último día de %season%."
 	},
 	"notificationTitle_AllergicReaction": {
 		"english": "Colonist has an allergic reaction",
@@ -143,10 +143,10 @@
 		"spanish": "El colono tiene una reacción alérgica."
 	},
 	"notificationTitle_BugInfestationOver": {
-		"english": "Bug infestation over",
+		"english": "Bug infestation",
 		"german": "Käferbefall vorbei",
 		"french": "Infestation d'insectes",
-		"spanish": "Infestación de escarabajos sobre"
+		"spanish": "Infestación de escarabajos"
 	},
 	"notificationTitle_NeedToBuildBonfire": {
 		"english": "Need a Bonfire to get Migrants",
@@ -170,19 +170,19 @@
 		"english": "Need to select Research",
 		"german": "Forschung auswählen",
 		"french": "Besoin de sélectionner une recherche",
-		"spanish": "Necesidad de seleccionar investigación"
+		"spanish": "Necesida seleccionar investigación"
 	},
 	"notificationTitle_NeedCrystals": {
 		"english": "Need Crystals for Research",
 		"german": "Brauche Kristalle für Forschung",
 		"french": "Besoin de cristaux pour la recherche",
-		"spanish": "Necesito cristales para la investigación"
+		"spanish": "Necesita cristales para la investigación"
 	},
 	"notificationTitle_NeedToAnalyzeCrystals": {
 		"english": "Analyze Crystals on the Bookstand",
 		"german": "Analysiere Kristalle auf dem Bücherständer",
 		"french": "Analyer des cristaux sur le stand de livre",
-		"spanish": "Analizar los cristales en el estante"
+		"spanish": "Analiza los cristales en el estante"
 	},
 
 
@@ -218,13 +218,13 @@
 		"english": "Tikigoblins have been sighted near our settlement. They are fast and do not seem to come in peace. Arm the colonists, so they may defend their home once again!",
 		"german": "Tikigoblins wurden in der Nähe unserer Siedlung gesichtet. Sie sind schnell und scheinen nicht in Frieden zu kommen. Bewaffne die Kolonisten, damit sie ihre Heimat verteidigen können!",
 		"french": "Les Tikigoblins sont été vus près de notre colonie. Ils sont rapides et ne viennent pas en paix. Armez les colons, ils vont devoir encore une fois défendre leurs maisons!",
-		"spanish": "Los tikigoblins han sido vistos cerca de nuestro asentamiento. Son rápidos y no parecen venir en paz. ¡Arma a los colonos, para que puedan defender su hogar una vez más!"
+		"spanish": "Los Tikigoblins han sido vistos cerca de nuestro asentamiento. Son rápidos y no parecen venir en paz. ¡Arma a los colonos, para que puedan defender su hogar una vez más!"
 	},
 	"messageTitle_MigrantsArrived": {
 		"english": "Migrants arrived!",
 		"german": "Migranten sind angekommen!",
 		"french": "Des migrants sont arrivés!",
-		"spanish": "Llegaron los migrantes!"
+		"spanish": "¡Llegaron los migrantes!"
 	},
 	"messageText_MigrantsArrived": {
 		"english": "A few migrants have seen our fire signal and just arrived in a small boat. Send a colonist to accept them!",
@@ -249,37 +249,37 @@
 		"english": "Burnout!",
 		"german": "Burnout!",
 		"french": "Burnout!",
-		"spanish": "Burnout!"
+		"spanish": "¡Agotamiento!"
 	},
 	"messageText_BreakdownRefusingWork": {
 		"english": "A colonist has worked too much under terrible conditions. He has decided he just doesn't care anymore and is going to relax for a while.",
 		"german": "Ein Kolonist hat zu lange unter entsetzlichen Bedingungen gearbeitet. Jetzt reicht es ihm und er hat entschieden mit der Arbeit aufzuhören und sich erst mal zu entspannen",
 		"french": "Un colon a trop travaillé dans des conditions épouvantables. Il a décidé qu'il n'avait pas pris assez soin de lui et il va se relaxer un peu.",
-		"spanish": "Un colono ha trabajado demasiado bajo condiciones terribles. Él ha decidido que ya no le importa y se va a relajar por un tiempo."
+		"spanish": "Un colono ha trabajado demasiado bajo condiciones terribles. Él ha decidido que ya no le importa más y se va a relajar por un tiempo."
 	},
 	"messageTitle_BreakdownDestroyFurniture": {
 		"english": "Vandalism!",
 		"german": "Vandalismus!",
 		"french": "Vandalisme!",
-		"spanish": "!Vandalismo¡"
+		"spanish": "¡Vandalismo!"
 	},
 	"messageText_BreakdownDestroyFurniture": {
 		"english": "Life hasn't been the greatest for %firstName%. Now he has turned to vandalism to blow off some steam.",
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Jetzt randaliert er um sich abzuregen.",
 		"french": "La vie n'a pas été la meilleure pour %firstName%. Il s'est tourné vers le vandalisme.",
-		"spanish": "La vida no ha sido la mejor para% firstName%. Ahora ha recurrido al vandalismo para desahogarse."
+		"spanish": "La vida no ha sido la mejor para %firstName%. Ahora ha recurrido al vandalismo para desahogarse."
 	},
 	"messageTitle_BreakdownLazyDay": {
 		"english": "Lazy Day",
 		"german": "Fauler Tag",
 		"french": "Jour tranquille",
-		"spanish": "Dia tranquilo"
+		"spanish": "Día tranquilo"
 	},
 	"messageText_BreakdownLazyDay": {
 		"english": "Life hasn't been the greatest for %firstName%. Today he is taking it easy and will be taking a lot of long breaks.",
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Heute geht er es gemütlich an und macht viele lange Pausen.",
 		"french": "La vie n'a pas été la meilleure pour %firstName%. Aujourd'hui c'est plus simple et il prendra de longues pauses.",
-		"spanish": "La vida no ha sido la mejor para% firstName%. Hoy se lo está tomando con calma y tomará muchos descansos largos."
+		"spanish": "La vida no ha sido la mejor para %firstName%. Hoy se lo está tomando con calma y tomará muchos descansos largos."
 	},
 	"messageTitle_BugInfestation": {
 		"english": "Bug Infestation!",
@@ -357,7 +357,7 @@
 		"english": "How to build walls and floors",
 		"german": "Wie man Wände und Böden baut",
 		"french": "Comment construire des murs et sols",
-		"spanish": "Como construir paredes y pisos."
+		"spanish": "Cómo construir paredes y pisos."
 	},
 	"messageText_TutorialBuildConstruction": {
 		"english": "In the bottom left corner is a menu to select walls and floors to build. You then need to drag the cursor over the terrain.",
@@ -417,13 +417,13 @@
 		"english": "%techName% unlocked!",
 		"german": "%techName% erforscht!",
 		"french": "%techName% déverrouillé!",
-		"spanish": "%techName% !desbloqueado¡"
+		"spanish": "¡%techName% desbloqueado!"
 	},
 	"messageText_TechUnlocked": {
 		"english": "You unlocked %techName% and can now do new stuff!\n%unlockedStuff%",
 		"german": "Du hast %techName% erforscht und kannst nun neue Dinge machen!\n%unlockedStuff%",
 		"french": "Vous avez déverouillé %techName% et vous pouvez maintenant fabriquer de nouveaux trucs!\n%unlockedStuff%",
-		"spanish": "¡Has desbloqueado% techName% y ahora puedes hacer cosas nuevas! \ N% unlockedStuff%"
+		"spanish": "¡Has desbloqueado %techName% y ahora puedes hacer cosas nuevas!\n%unlockedStuff%"
 	},
 	"messageTitle_JoinForum": {
 		"english": "Check out the forum!",
@@ -435,7 +435,7 @@
 		"english": "You've been playing for a while and we hope you're having fun!\nLet us know how it's going on the forum!",
 		"german": "Du spielst jetzt schon seit einer Weile und wir hoffen, dass es dir Spaß macht!\nIm Forum findest du mehr Infos und Diskussionen zum Spiel.",
 		"french": "Vous jouez depuis un certain temps et nous espérons que vous appréciez le jeu!\nFaites-le nous savoir sur le forum!",
-		"spanish": "Has estado jugando por un tiempo y esperamos que te estés divirtiendo! \ N ¡Haznos saber cómo va el foro!"
+		"spanish": "Has estado jugando por un tiempo y esperamos que te estés divirtiendo! \n¡En el foro encontrarás más información y discusiones!"
 
 	},
 }

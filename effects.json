@@ -6,6 +6,7 @@
 		"spanish": "Herida Sangrando",
 		"dutch": "Bloedende wonden",
 		"bulgarian": "Кървящи Рани" ,
+		"portuges": "Feridas sangrentas",
 		
 	},
 	"effectDesc_Bleeding": {
@@ -15,6 +16,7 @@
 		"spanish": "¡%firstName% está sangrando! Asegúrate de que sus heridas sean correctamente vendadas. De otra manera %firstName% podría morir desangrado.",
 		"dutch": "%firstName% bloed! Zorg ervoor dat zijn wonden goed zijn verbonden. Anders, %firstName% kan dood gaan aan bloedverlies.",
 		"bulgarian": "%firstName% кърви! Бъдете сигурни, че неговите рани са превързани правилно. Иначе, %firstName% може да умре от кръвозагоба.",
+		"portuges": "Isso vai levar algum tempo antes de %firstName% acordar.",
 		
 	},
 	"effectTitle_Unconscious": {
@@ -24,6 +26,7 @@
 		"spanish": "Desmayado",
 		"dutch": "Bewustloos",
 		"bulgarian": "Безсъзнание",
+		"portuges": "Inconsciente",
 		
 	},
 	"effectDesc_Unconscious": {
@@ -33,6 +36,7 @@
 		"spanish": "Tomará un tiempo para que %firstName% despierte.",
 		"dutch": "Het zal een tijdje duren voor %firstname% wakker wordt.",
 		"bulgarian": "Ще отнеме малко време докато %firstName% се събуди.",
+		"portuges": "Isso vai levar algum tempo antes de %firstName% acordar.",
 		
 	},
 	"effectTitle_Bandage": {
@@ -42,6 +46,7 @@
 		"spanish": "Vendaje",
 		"dutch": "Verband",
 		"bulgarian": "Превръзка",
+		"portuges": "Bandagem",
 		
 	},
 	"effectDesc_Bandage": {
@@ -51,6 +56,7 @@
 		"spanish": "El vendaje está deteniendo la perdida de sangre.",
 		"dutch": "Het verband heeft het bloedverlies gestopt.",
 		"bulgarian": "Превръзките спират кръвозагобата.",
+		"portuges": "A bandagem parou a perda de sangue",
 		
 	},
 	"effectTitle_Healthy": {
@@ -60,6 +66,7 @@
 		"spanish": "Sin efectos",
 		"dutch": "Geen effecten",
 		"bulgarian": "Няма ефекти",
+		"portuges": "Sem efeito",
 		
 	},
 	"effectDesc_Healthy": {
@@ -69,6 +76,7 @@
 		"spanish": "¡%firstName% está sano y salvo!",
 		"dutch": "%firstName% is gezond!",
 		"bulgarian": "%firstName% е здрав!",
+		"portuges": "%firstName% está de boa saúde!",
 		
 	},
 	"effectTitle_Starving": {
@@ -78,6 +86,7 @@
 		"spanish": "Famélico",
 		"dutch": "Hongerig",
 		"bulgarian": "Глад",
+		"portuges": "Morre de fome",
 		
 	},
 	"effectDesc_Starving": {
@@ -87,6 +96,7 @@
 		"spanish": "%firstName% lleva un buen rato sin comer. Él debe encontrar algo que comer pronto para sobrevivir.",
 		"dutch": "%firstName% heeft al lang niet gegeten. hij moet snel wat eten om te overleven.",
 		"bulgarian": "%firstName% не е ял от дълго време. Той трябва да намери нещо за ядене за да оцелее.",
+		"portuges": "%firstName% não tenha comido por um longo tempo. Ele deve encontrar algo para comer rapidamente para sobreviver",
 		
 	},
 	"effectTitle_HealingPotion": {
@@ -96,6 +106,7 @@
 		"spanish": "Poción de salud",
 		"dutch": "Genezend drankje",
 		"bulgarian": "Лечебна отвара",
+		"portuges": "Poção de saúde",
 		
 	},
 	"effectDesc_HealingPotion": {
@@ -105,6 +116,7 @@
 		"spanish": "La poción de salud que %firstName% se tomó está dando resultados y le da algo de salud.",
 		"dutch":"Het genezend drankje %firstName% dronk doet z'n werk en herstelt zijn gezondheid.",
 		"bulgarian": "Лечебната отвара която %firstName% изпи прави своята работа и възтановява малко от кръвта.",
+		"portuges": "A poção de saúde que %firstName% bebeu faz seu trabalho e restaura sua saúde",
 		
 	},
 	"effectTitle_BrokenBone": {
@@ -114,6 +126,7 @@
 		"spanish": "Hueso roto",
 		"dutch" : "Bot breuk",
 		"bulgarian": "Счупена кост",
+		"portuges": "Osso quebrado",
 		
 	},
 	"effectDesc_BrokenBone": {
@@ -123,6 +136,7 @@
 		"spanish": "¡Aún no implementado!",
 		"dutch" : "Nog niet geïmplementeerd!",
 		"bulgarian": "Все още не е приложена!",
+		"portuges": "Ainda não implementado",
 		
 	},
 	"effectTitle_Flu": {
@@ -132,6 +146,7 @@
 		"spanish": "Gripe",
 		"dutch" : "Griep",
 		"bulgarian": "Грип",
+		"portuges": "gripe",
 		
 	},
 	"effectDesc_Flu": {
@@ -141,6 +156,7 @@
 		"spanish": "%firstName% contrajo la gripe. Mándalo a la cama y deja que un doctor lo trate con medicina. ¡No subestimes la enfermedad!",
 		"dutch" : "%firstName% heeft de griep tepakken. zorg dat hij in bed blijft de komende dagen en dat hij medicijnen krijgt van een docter. onderschat de ziekte niet!",
 		"bulgarian": "%firstName% прихвана грип. Погрижи се той да стой в леглото в следващите дни и се лекува с лекарство от лекар. Не подценявайте болестта!",
+		"portuges": "%firstName% pegou a gripe. Certifique-se de que ele fique na cama pelos próximos dias e seja tratado com medicamentos prescritos por um médico. Não subestime a doença!",
 
 	},
 	"effectTitle_SleepingInBed": {
@@ -150,6 +166,7 @@
 		"spanish": "Descansando en la cama",
 		"dutch" : "Slaapt in bed",
 		"bulgarian": "Почивка в леглото",
+		"portuges": "Descansar na cama",
 
 	},
 	"effectDesc_SleepingInBed": {
@@ -159,6 +176,7 @@
 		"spanish": "%firstName% está descansando y recupera salud lentamente.",
 		"dutch" : "%firstName% slaapt in bed en herstelt zijn gezondheid.",
 		"bulgarian": "%firstName% си почива в леглото и бавно се възстановява.",
+		"portuges": "%firstName% descansa e recupera lentamente",
 
 	},
 	"effectTitle_AllergicReaction": {
@@ -168,6 +186,7 @@
 		"spanish": "Reacción alérgica",
 		"dutch" : "Allergische reactie",
 		"bulgarian": "Алергична реакция",
+		"portuges": "Reação alérgico",
 
 	},
 	"effectDesc_AllergicReaction": {
@@ -177,6 +196,7 @@
 		"spanish": "%firstName% debió comer algo a lo que era alérgico. Ahora su cuerpo tiene una reacción alérgica.",
 		"dutch" : "%firstName% moest voedsel eten waar hij allergies voor is. Nu heeft hij een allergische reactie.",
 		"bulgarian": "%firstName% явно е ял храна към която той е алергичен. Сега неговото тяло получава алергична реакция.",
+		"portuges": "%firstName% comeu comida que ele era alérgico. Seu corpo fez uma reação alérgica",
 	},
 	"effectStage": {
 		"english": "Stage",
@@ -185,6 +205,7 @@
 		"spanish": "Etapa",
 		"dutch" : "stadium",
 		"bulgarian": "Етап",
+		"portuges": "Etapa",
 	},
 	"effectTitle_SmallFoodRationsSlowness": {
 		"english": "Slow work",
@@ -193,6 +214,7 @@
 		"spanish": "Trabajo lento",
 		"dutch" : "langzaam werk",
 		"bulgarian": "Бавна работа",
+		"portuges": "Trabalho lento",
 	},
 	"effectDesc_SmallFoodRationsSlowness": {
 		"english": "%firstName% receives only small food rations, so he just lacks the energy to work properly and takes longer to complete tasks.",
@@ -201,6 +223,7 @@
 		"spanish": "%firstName% recibe sólo pequeñas raciones de comida, por lo tanto carece de la energía para trabajar adecuadamente y tarda más en completar tareas.",
 		"dutch" : "%firstName% krijgt alleen kleine voedsel rotaties, dus hij lekt de energie om normaal te werken en doet er dus langer over om taken te voltooien.",
 		"bulgarian": "%firstName% получава малки порции храна, такаче му липсва енергия да работи правилно и отнема по-дълго време да изпълни неговите задължения.",
+		"portuges": "%firstName% recebe apenas pequenas rações de comida, então ele simplesmente não tem energia para funcionar adequadamente e leva mais tempo para concluir as tarefas.",
 	},
 
 }

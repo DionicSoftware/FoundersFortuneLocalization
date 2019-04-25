@@ -8,7 +8,7 @@
 	"notUnlockedYet": {
 		"english": "Not unlocked yet",
 		"german": "Erwartungen",
-		"french": "Pas encore déverouillé",
+		"french": "Pas encore déverrouillé",
 		"spanish": "No desbloqueado aún"
 	},
 	"notRelevantYet_Title": {
@@ -20,37 +20,37 @@
 	"notRelevantYet_Desc_home": {
 		"english": "%firstName% doesn't care about a home at the moment.",
 		"german": "%firstName% ist ein Zuhause im Moment nicht wichtig.",
-		"french": "%firstName% ne se soucie pas d'une maison pour le moment",
+		"french": "%firstName% ne se soucie pas d'avoir une Maison pour le moment",
 		"spanish": "%firstName% no se preocupa por tener una casa por el momento."
 	},
 	"notRelevantYet_Desc_lifeSatisfaction": {
 		"english": "%firstName% doesn't care about Life Satisfaction at the moment.",
 		"german": "%firstName% ist Lebenszufriedenheit im Moment nicht wichtig.",
-		"french": "%firstName% ne se soucie pas de satisfaire sa vie pour le moment",
+		"french": "%firstName% ne se soucie pas de sa Satisfaction de Vie pour le moment",
 		"spanish": "%firstName% no se preocupa por su satisfacción con la vida por el momento."
 	},
 	"notRelevantYet_Desc_promotions": {
 		"english": "%firstName% doesn't care about Promotions at the moment.",
 		"german": "%firstName% sind Beförderungen im Moment nicht wichtig.",
-		"french": "%firstName% ne se soucie pas d'une promotion pour le moment",
+		"french": "%firstName% ne se soucie pas d'avoir une Promotion pour le moment",
 		"spanish": "%firstName% no se preocupa por ascender por el momento"
 	},
 	"notRelevantYet_Desc_salary": {
 		"english": "%firstName% doesn't care about Salary at the moment.",
 		"german": "%firstName% ist Bezahlung im Moment nicht wichtig.",
-		"french": "%firstName% ne se soucie pas d'un salaire pour le moment",
+		"french": "%firstName% ne se soucie pas de son Salaire pour le moment",
 		"spanish": "%firstName% no se preocupa por el salario por el momento"
 	},
 	"notRelevantYet_Desc_community": {
 		"english": "%firstName% doesn't care about Community at the moment.",
 		"german": "%firstName% ist Gemeinschaft im Moment nicht wichtig.",
-		"french": "%firstName% ne se soucie pas de la communauté pour le moment",
+		"french": "%firstName% ne se soucie pas de la Communauté pour le moment",
 		"spanish": "%firstName% no se preocupa por la comunidad por el momento."
 	},
 	"foodSatisfactionAwesome": {
 		"english": "Great food",
 		"german": "Großartige Mahlzeiten",
-		"french": "Bonne nourriture",
+		"french": "Très bonne nourriture",
 		"spanish": "Comida excelente"
 	},
 	"foodSatisfactionGood": {
@@ -68,7 +68,7 @@
 	"foodSatisfactionBad": {
 		"english": "Expects way better food",
 		"german": "Erwartet viel bessere Mahlzeiten",
-		"french": "S'attend à de la meilleure nourriture",
+		"french": "S'attend à de la bien meilleure nourriture",
 		"spanish": "Espera comida de mucha mejor calidad"
 	},
 	"homeSatisfactionAwesome": {
@@ -92,7 +92,7 @@
 	"homeSatisfactionBad": {
 		"english": "Expects a much better home",
 		"german": "Erwartet ein viel besseres Zuhause",
-		"french": "S'attend à une maison un peu meilleure",
+		"french": "S'attend à une bien meileure maison",
 		"spanish": "Espera una casa mucho mejor"
 	},
 	"lifeSatisfactionAwesome": {
@@ -152,13 +152,13 @@
 	"promotionsSatisfactionOkDumb_Desc": {
 		"english": "Unfortunately, %firstName% is not the brightest and has trouble developing new skills. However, he has accepted his fate and is ok with it.",
 		"german": "Leider ist %firstName% nicht der hellstw und hat Schwierigkeiten, neue Fähigkeiten zu lernen. Er hat aber sein Schicksal akzeptiert und findet es ok.",
-		"french": "Malheureusement, %firstName% n'est pas le plus brillant et a des difficultés à développer ses compétences. Cependant, il a accepté son sort et il est ok avec cela",
+		"french": "Malheureusement, %firstName% n'est pas le plus brillant et a des difficultés à développer ses compétences. Cependant, il a accepté son sort et il est d'accord avec cela",
 		"spanish": "Lamentablemente, %firstName% no es el más brillante y tiene problemas desarrollando nuevas habilidades. Sin embargo, ha aceptado su destino y está contento con ello."
 	},
 	"colonistIsALevelXProfessionGuy": {
 		"english": "%firstName% is a level %professionLevel% %professionName%",
 		"german": "%firstName% ist ein %professionName% der Stufe %professionLevel%",
-		"french": "%firstName% est un niveau %professionLevel% %professionName%",
+		"french": "%firstName% est un %professionName% de niveau %professionLevel% ",
 		"spanish": "%firstName% es un %professionName% de nivel %professionLevel%"
 	},
 	"reachLevelX": {
@@ -248,13 +248,13 @@
 	"lifeSatisfactionLevel": {
 		"english": "Life Satisfaction Level %number%",
 		"german": "Lebenszufriedenheit Stufe %number%",
-		"french": "Niveau de satisfaction de vie %number%",
+		"french": "Satisfaction de Vie Niveau %number%",
 		"spanish": "Satisfacción en la vida nivel %number%"
 	},
 	"needToFulfillWishes": {
 		"english": "Wishes need to be fulfilled",
 		"german": "Wünsche müssen erfüllt werden",
-		"french": "Les voeux doivent être satisfaits",
+		"french": "Les vœux doivent être complétés",
 		"spanish": "Necesita cumplir sus deseos"
 	},
 	"wantsJob_Title": {
@@ -266,7 +266,7 @@
 	"wantsJob_Desc": {
 		"english": "%firstName% has no job at the moment. It's making him feel unfulfilled.",
 		"german": "%firstName% hat keinen Beruf. Er fühlt sich so ziellos.",
-		"french": "%firstName% n'a pas de métier pour le moment. Il ne se sent pas accompli.",
+		"french": "%firstName% n'a pas de métier pour le moment. Il se sent insatisfait.",
 		"spanish": "%firstName% no tiene trabajo por el momento. Eso le hace sentirse insatisfecho."
 	},
 }

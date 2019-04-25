@@ -2,7 +2,7 @@
 	"wishes": {
 		"english": "Wishes",
 		"german": "Wünsche",
-		"french": "Voeux",
+		"french": "Vœux",
 		"spanish": "Deseos",
 	},
 	"discover": {
@@ -74,17 +74,15 @@
 	"furnitureCategory_ASmallShelf": {
 		"english": "a Dresser",
 		"german": "eine Kommode",
-		// TODO-french
-		// TODO-spanish
 		"french": "une Commode",
+		// TODO-spanish
 		"spanish": "una Estantería pequeña",
 	},
 	"furnitureCategory_ABigShelf": {
 		"english": "a Big Shelf or Wardrobe",
 		"german": "einen großen Schrank",
-		// TODO-french
+		"french": "une Grande Étagère ou une Armoire",
 		// TODO-spanish
-		"french": "une grande Étagère",
 		"spanish": "una Estantería grande",
 	},
 	"furnitureCategory_AChest": {
@@ -132,13 +130,13 @@
 	"getRidOfTrait": {
 		"english": "Get rid of Trait: %trait%",
 		"german": "Eigentschaft loswerden: %trait%",
-		"french": "Se débarasser d'une caractéristique : %trait%",
+		"french": "Se débarasser du trait : %trait%",
 		"spanish": "Deshacerse del atributo: %trait%",
 	},
 	"getRidOfCondition": {
 		"english": "Get rid of Condition: %condition%",
 		"german": "Zustand loswerden: %condition%",
-		"french": "Se débarasser d'un état : %condition%",
+		"french": "Se débarasser de l'état : %condition%",
 		"spanish": "Deshacerse de la condición: %condition%",
 	},
 	"getBackToFullHealth": {

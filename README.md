@@ -4,11 +4,11 @@ This project is the official community translation for the colony simulation gam
 
 Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translating-founders-fortune/89) for info on the project and its license.
 
-# Installation instruction:
+## Installation instruction
 
-Tuto: https://forum.foundersfortune.com/t/how-to-help-translating-founders-fortune/89/4
+Tutorial: https://forum.foundersfortune.com/t/how-to-help-translating-founders-fortune/89/4
 
-[EN] Put the fils in your game folder and rename it "localization" don't forget to create a "custom.txt" containing the following:
+[EN] Put the files in your game folder and rename it "localization" don't forget to create a "custom.txt" containing the following:
 
 [ES] Coloque los archivos en la carpeta de su juego y cámbiele el nombre a "localization". No olvide crear un "custom.txt" que contenga lo siguiente:
 
@@ -19,6 +19,8 @@ Tuto: https://forum.foundersfortune.com/t/how-to-help-translating-founders-fortu
 [PT] Coloque os arquivos na sua pasta do jogo e renomeá-lo como "localization", não esqueça de criar um "custom.txt" contendo o seguinte:
 
 
-# Custom.txt: (change french by your language)
+## Custom.txt
 
 https://foundersfortune.com/files/localization/custom.txt
+
+(Change french to your language)

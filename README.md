@@ -8,7 +8,7 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 
 Tutorial: https://forum.foundersfortune.com/t/how-to-help-translating-founders-fortune/89/4
 
-[EN] Put the files in your game folder and rename it "localization" don't forget to create a "custom.txt" containing the following:
+[EN] Put the files in your game folder and rename it "localization". Don't forget to create a "custom.txt" containing the following:
 
 [ES] Coloque los archivos en la carpeta de su juego y cámbiele el nombre a "localization". No olvide crear un "custom.txt" que contenga lo siguiente:
 

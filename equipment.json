@@ -5,6 +5,7 @@
 		"french": "Epée en fer",
 		"spanish": "Espada de hierro",
 		"bulgarian": "Желязен меч",
+		"turkish": "Demir kılıç",
 	},
 	"equipmentDescription_sword": {
 		"english": "It's a decent melee weapon. Forged by a skilled craftsman.",
@@ -12,6 +13,7 @@
 		"french": "C'est une arme de mêlée ordinaire. Forgée par un artisant expérimenté",
 		"spanish": "Un arma aceptable de melé. Forjada por un artesano habilidoso.",
 		"bulgarian": "Това е прилично меле оръжие. Прави се от опитен майстор.",
+		"turkish": "İyi bir yakın dövüş silahı. Kalifiye bir usta tarafından dövülmüş.",
 	},
 	"equipmentName_armorIron": {
 		"english": "Iron Armor",
@@ -19,20 +21,23 @@
 		"french": "Armure en fer",
 		"spanish": "Armadura de hierro",
 		"bulgarian": "Желязна Броня",
+		"turkish": "Demir Zırh",
 	},
 	"equipmentDescription_armorIron": {
 		"english": "Takes long to produce, but protects the bearer pretty well.",
 		"german": "Braucht lange in der Herstellung, aber schützt den Träger ziemlich gut.",
 		"french": "Prend du temps à fabriquer, mais protège le porteur assez bien",
 		"spanish": "Su producción es lenta, pero protege adecuadamente a quien la lleva",
-		"bulgarian": "Отнема много време да се направи, но предпазва носителя доста добре."
+		"bulgarian": "Отнема много време да се направи, но предпазва носителя доста добре.",
+		"turkish": "Üretmesi uzun sürüyor, ancak hamilini oldukça iyi koruyor.",
 	},
 	"equipmentName_doctorRobe": {
 		"english": "Doctor's Robe",
 		"german": "Arztrobe",
 		"french": "Blouse de docteur",
 		"spanish": "Bata de doctor",
-		"bulgarian": "Дрехата на доктора"
+		"bulgarian": "Дрехата на доктора",
+		"turkish": "Doktor Forması",
 	},
 	"equipmentDescription_doctorRobe": {
 		"english": "Protects the wearer from contagious diseases. Very useful for doctors as they have much contact with their ill patients.",
@@ -40,6 +45,7 @@
 		"french": "Protège le porteur des maladies contagieuses. Très utile pour les docteurs qui sont au contact avec leurs patients malades.",
 		"spanish": "Protege al portador de enfermedades contagiosas. Muy útil para los doctores, que tienen contacto con pacientes enfermos.",
 		"bulgarian": "Защитава носителя от заразни болести. Много полезена за лекарите, тъй като те имат много контакт с болните си пациенти.",
+		"turkish": "Kullanıcıyı bulaşıcı hastalıklardan korur. Hastaları ile çok fazla temasta oldukları için doktorlar için çok faydalıdır.",
 	},
 	"equipmentName_axe": {
 		"english": "Axe",
@@ -47,6 +53,7 @@
 		"french": "Hâche",
 		"spanish": "Hacha",
 		"bulgarian": "Брадва",
+		"turkish": "Balta",
 	},
 	"equipmentDescription_axe": {
 		"english": "With this axe, cutting wood takes half the time.",
@@ -54,6 +61,7 @@
 		"french": "Avec cette hâche, couper du bois prend deux fois moins de temps",
 		"spanish": "Con este hacha, cortar madera lleva la mitad de tiempo.",
 		"bulgarian": "С тази брадва рязането на дърва отнема половината от времето от колкото обикновено.",
+		"turkish": "Bu baltayla odun kesmek iki kat daha hızlı olur.",
 	},
 	"equipmentName_pickaxe": {
 		"english": "Pickaxe",
@@ -61,6 +69,7 @@
 		"french": "Pioche",
 		"spanish": "Pico",
 		"bulgarian": "Кирка",
+		"turkish": "Kazma",
 	},
 	"equipmentDescription_pickaxe": {
 		"english": "With this pickaxe, mining takes half the time.",
@@ -68,6 +77,7 @@
 		"french": "Avec cette pioche, miner prend deux fois moins de temps",
 		"spanish": "Con este pico, minar lleva la mitad de tiempo.",
 		"bulgarian": "С тази кирка миньорството отнема половината от времето от колкото обикновено.",
+		"turkish": "Bu kazma ile madencilik yarı zamanda tamamlanıyor",
 	},
 	"equipmentName_bow": {
 		"english": "Simple Bow",
@@ -75,6 +85,7 @@
 		"french": "Arc rudimentaire",
 		"spanish": "Arco simple",
 		"bulgarian": "Обикновен лък",
+		"turkish": "Basit Yay",
 	},
 	"equipmentDescription_bow": {
 		"english": "Each arrow deals a serious amount of damage - if it hits.",
@@ -82,6 +93,7 @@
 		"french": "Chaque flèche inflige de sérieux dégât - si elle touche sa cible",
 		"spanish": "Cada flecha hace una gran cantidad de daño - si logra acertar.",
 		"bulgarian": "Всяка стрела прави сериозно поражение, ако оцелите противника.",
+		"turkish": "Her ok, isabet etmesi halinde, ciddi miktarda hasar verir.",
 	},
 	"equipmentName_woodenClub": {
 		"english": "Wooden Club",
@@ -89,13 +101,15 @@
 		"french": "Massue en bois",
 		"spanish": "Porra",
 		"bulgarian": "Дървена Бухалка",
+		"turkish": "Ahşap sopa",
 	},
 	"equipmentDescription_woodenClub": {
 		"english": "Simple weapon. Easy to make, not much damage.",
 		"german": "Einfache Waffe. Schnell herstellbar, wenig Schaden.",
 		"french": "Une arme rudimentaire. Simple à fabriquer, n'inflige pas beaucoup de dégât.",
 		"spanish": "Un arma simple. Fácil de construir, pero no hace mucho daño.",
-		"bulgarian": "Нормално оръжие. Лесна за правене, не прави много голямо поръжение."
+		"bulgarian": "Нормално оръжие. Лесна за правене, не прави много голямо поръжение.",
+		"turkish": "Basit silah. Kolayca yapılır, fazla hasar vermez.",
 	},
 	"equipmentName_wateringCan": {
 		"english": "Watering Can",
@@ -103,13 +117,15 @@
 		"french": "Arrosoir",
 		"spanish": "Regadera",
 		"bulgarian": "Лейка",
+		"turkish": "Sulama kovası",
 	},
 	"equipmentDescription_wateringCan": {
 		"english": "You need to have a watering can to provide optimal care for your plants. Plants that have been watered correctly have been reported to yield double or triple harvests!",
 		"german": "Du benötigst eine Gießkanne, um deine Pflanzen optimal zu pflegen. Pflanzen, die korrekt gegossen werden, können den doppelten oder dreifachen Ertrag abwerfen!",
 		"french": "Vous devez avoir un arrosoir pour fournir des soins optimaux à vos plantes. Les plantes qui ont été arrosées correctement auront une récolte qui sera deux voire trois fois meilleure !",
 		"spanish": "Necesitas tener una regadera para proporcionar el cuidado necesario a las plantas. ¡Aquellas plantas que han sido regadas correctamente pueden producir el doble o el triple de cosecha!",
-		"bulgarian": "Трябва да имате лейка, за да осигурите оптимална грижа за вашите растения. Растенята които са поливани правилно добиват двойни или тройни реколти.
+		"bulgarian": "Трябва да имате лейка, за да осигурите оптимална грижа за вашите растения. Растенята които са поливани правилно добиват двойни или тройни реколти.",
+		"turkish": "Bitkilerinize en uygun bakımı sağlamak için bir sulama kovasına ihtiyacınız var. Doğru bir şekilde sulanan bitkilerin çift veya üçlü hasat verdikleri bildirildi!",
 	},
 	"equipmentName_farmerOutfit": {
 		"english": "Farmer's Clothes",
@@ -117,6 +133,7 @@
 		"french": "Tenue de fermier",
 		"spanish": "Traje de granjero",
 		"bulgarian": "Фермерски дрехи",
+		"turkish": "Çiftçi Giysileri",
 	},
 	"equipmentDescription_farmerOutfit": {
 		"english": "This robust piece of work clothing is perfectly suited for working the fields. Wearing this, most farmers can sow their fields in half the time!",
@@ -124,5 +141,6 @@
 		"french": "Ce vêtement de travail robuste est parfaitement adapté pour le travail dans les champs. En la portant, les fermiers peuvent semer leurs champs deux fois plus vite !",
 		"spanish": "Esta vestimenta de trabajo es adecuada para trabajar en los cultivos. Si un granjero lo lleva podrá sembrar en la mitad de tiempo.",
 		"bulgarian": "Това надеждно работно облекло е идеално за работа на полетата. Носеики това повечето фермери може да засаждат техните полета двойно по бързо!",
+		"turkish": "Bu sağlam iş kıyafeti tarlalarda çalışmak için mükemmel bir uyum sağlar. Bunu giyerek çoğu çiftçi tarlalarını yarı zamanda ekebilir!",
 	},
 }

@@ -6,6 +6,7 @@
 		"french": "Travail du bois",
 		"spanish": "Carpintería",
 		"portuges": "Carpintaria",
+		"turkish": "Ağaç İşleri",
 	},
 	"tech_farming": {
 		"english": "Farming",
@@ -13,6 +14,7 @@
 		"french": "Agriculture",
 		"spanish": "Agricultura",
 		"portuges": "Agricultura",
+		"turkish": "Çiftçilik",
 	},
 
 	// Tier II
@@ -22,6 +24,7 @@
 		"french": "Architecture I",
 		"spanish": "Arquitectura I",
 		"portuges": "Arquitetura I",
+		"turkish": "Mimarlık I",
 	},
 	"tech_masonry": {
 		"english": "Masonry",
@@ -29,7 +32,8 @@
 		"french": "Maçonnerie",
 		"spanish": "Albañilería",
 		"portuges": "Maçonaria",
-		
+		"turkish": "Taş İşçiliği",
+
 	},
 	"tech_furnitureI": {
 		"english": "Furniture I",
@@ -37,6 +41,7 @@
 		"french": "Mobilier I",
 		"spanish": "Mobiliario I",
 		"portuges": "Móveis I",
+		"turkish": "Mobilyacılık I",
 	},
 	"tech_gardening": {
 		"english": "Gardening",
@@ -44,6 +49,7 @@
 		"french": "Jardinage",
 		"spanish": "Jardinería",
 		"portuges": "Jardinagem",
+		"turkish": "Tarım",
 	},
 	"tech_writing": {
 		"english": "Writing",
@@ -51,6 +57,7 @@
 		"french": "Écriture",
 		"spanish": "Escritura",
 		"portuges": "Escrita",
+		"turkish": "Yazı yazma"
 	},
 
 	// Tier III
@@ -60,6 +67,7 @@
 		"french": "Armes à ditance", 
 		"spanish": "Armas a distancia",
 		"portuges": "Armas de Longo Alcance",
+		"turkish": "Menzilli Silahlar",
 	},
 	"tech_architectureII": {
 		"english": "Architecture II",
@@ -67,6 +75,7 @@
 		"french": "Architecture II", 
 		"spanish": "Arquitectura II",
 		"portuges": "Arquitetura II",
+		"turkish": "Mimarlık II",
 	},
 	"tech_furnitureII": {
 		"english": "Furniture II",
@@ -74,6 +83,7 @@
 		"french": "Mobilier II", 
 		"spanish": "Mobiliario II",
 		"portuges": "Móveis II",
+		"turkish": "Mobilyacılık II",
 	},
 	"tech_decoration": {
 		"english": "Decoration",
@@ -81,6 +91,7 @@
 		"french": "Décoration", 
 		"spanish": "Decoración",
 		"portuges": "Decoração",
+		"turkish": "Dekorasyon",
 	},
 	"tech_irrigation": {
 		"english": "Irrigation",
@@ -88,6 +99,7 @@
 		"french": "Irrigation", 
 		"spanish": "Riego",
 		"portuges": "Irrigação",
+		"turkish": "Sulama",
 	},
 	"tech_medicine": {
 		"english": "Basic Medicine",
@@ -95,6 +107,7 @@
 		"french": "Médecine de base",
 		"spanish": "Medicina básica",
 		"portuges": "Medicina Básica",
+		"turkish": "Temel Tıp",
 	},
 
 	// Tier IV
@@ -102,8 +115,9 @@
 		"english": "Towers",
 		"german": "Turmbau",
 		"french": "Tours",
-		"spanish": "Torres"
+		"spanish": "Torres",
 		"portuges": "Torres",
+		"turkish": "Kuleler",
 	},
 	"tech_furnitureIII": {
 		"english": "Furniture III",
@@ -111,6 +125,7 @@
 		"french": "Mobilier III", 
 		"spanish": "Mobiliario III",
 		"portuges": "Móveis III",
+		"turkish": "Mobilyacılık III",
 	},
 	"tech_tailoring": {
 		"english": "Tailoring",
@@ -118,6 +133,7 @@
 		"french": "Couture",
 		"spanish": "Sastrería",
 		"portuges": "Alfaiataria",
+		"turkish": "Terzicilik",
 	},
 	"tech_advancedCooking": {
 		"english": "Advanced Cooking",
@@ -125,6 +141,7 @@
 		"french": "Cuisine améliorée", 
 		"spanish": "Cocina avanzada",
 		"portuges": "Cozinha Avançada",
+		"turkish": "Gelişmiş Pişirme",
 	},
 	"tech_alchemy": {
 		"english": "Alchemy",
@@ -132,6 +149,7 @@
 		"french": "Alchimie",
 		"spanish": "Alquimia",
 		"portuges": "Alquimia",
+		"turkish": "Simyacılık",
 	},
 
 	// Tier V
@@ -141,6 +159,7 @@
 		"french": "Miradors Solides", 
 		"spanish": "Atalayas reforzadas",
 		"portuges": "Torres de Vigia Fortes",
+		"turkish": "Güçlü Gözetleme Kuleleri",
 	},
 	"tech_forging": {
 		"english": "Forging",
@@ -148,6 +167,7 @@
 		"french": "Forge",
 		"spanish": "Forja",
 		"portuges": "Ferreiro",
+		"turkish": "Metalcilik",
 	},
 	"tech_grainProcessing": {
 		"english": "Grain Processing",
@@ -155,5 +175,6 @@
 		"french": "Transformation du grain", 
 		"spanish": "Procesamiento del grano",
 		"portuges": "Processamento de grãos",
+		"turkish": "Tahıl İşleme",
 	},
 }

@@ -198,6 +198,8 @@
 	"changeProfession": {
 		"english": "Change",
 		"german": "Ändern",
+		"french": "Changer",
+		"portuges": "Mudar",
 	},
 	"promote": {
 		"english": "Promote",
@@ -773,10 +775,10 @@
 		"spanish": "Las expectativas de todos tus colonos se cumplen. Probabilidad de que aparezcan nuevos migrantes en %time%.",
 		"turkish": "Tüm kolonicilerinizin istekleri karşılandı. Yeni göçmen şansı için süre %time%.",
 	},
-    "colonistIsDumbNoExperience": {
-        "english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
-        "german": "Leider ist %firstName% nicht der Hellste und wird keine Erfahrung sammeln.",
-	"french": "Malheureusement, %firstName% est stupide et ne gagnera d'expérience dans aucun travail.",
+    	"colonistIsDumbNoExperience": {
+        	"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
+       		"german": "Leider ist %firstName% nicht der Hellste und wird keine Erfahrung sammeln.",
+		"french": "Malheureusement, %firstName% est stupide et ne gagnera d'expérience dans aucun travail.",
 		"turkish": "Ne yazık ki, %firstName% bir aptal ve çalıştığı işlerde tecrübe edinemeyecek.", 
   },
 }

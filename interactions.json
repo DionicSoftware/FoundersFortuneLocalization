@@ -7,6 +7,7 @@
 		"french": "Ne Rien Faire",
 		"spanish": "No hagas nada",
 		"turkish": "Hiçbir şey yapma",
+		"portuges": "Não faça nada",
 	},
 	"Eat": {
 		"english": "Eat Something",
@@ -14,6 +15,7 @@
 		"french": "Manger Quelque Chose",
 		"spanish": "Come algo",
 		"turkish": "Birşeyler ye",
+		"portuges": "Comer alguma coisa",
 	},
 	"EatFood": {
 		"english": "Eat %food%",
@@ -21,6 +23,7 @@
 		"french": "Manger %food%",
 		"spanish": "Comer %food%",
 		"turkish": "%food% ye",
+		"portuges": "Comer %food%",
 	},
 	"GiveFood": {
 		"english": "Give Food",
@@ -28,6 +31,7 @@
 		"french": "Apporter de la Nourriture",
 		"spanish": "Dale comida",
 		"turkish": "Yemek ver",
+		"portuges": "Dar comida",
 	},
 	"GiveHealingPotion": {
 		"english": "Give Healing Potion",
@@ -35,6 +39,7 @@
 		"french": "Apporter une Potion de Soin",
 		"spanish": "Adminístrale poción de curación",
 		"turkish": "Şifa iksiri ver",
+		"portuges": "Dê Poção de Cura",
 	},
 	"Repair": {
 		"english": "Repair",
@@ -42,6 +47,7 @@
 		"french": "Réparer",
 		"spanish": "Repara",
 		"turkish": "Tamir et",
+		"portuges": "Reparar",
 	},
 	"GoHere": {
 		"english": "Go Here",
@@ -49,6 +55,7 @@
 		"french": "Aller Ici",
 		"spanish": "Ven aquí",
 		"turkish": "Buraya git",
+		"portuges": "Vai aqui",
 	},
 	"WaitHere": {
 		"english": "Wait Here",
@@ -56,6 +63,7 @@
 		"french": "Attendre Ici",
 		"spanish": "Espera aquí",
 		"turkish": "Burada bekle",
+		"portuges": "Espere aqui",
 	},
 	"Relax": {
 		"english": "Relax",
@@ -63,6 +71,7 @@
 		"french": "Se Relaxer",
 		"spanish": "Relájate",
 		"turkish": "Rahatla",
+		"portuges": "Relaxar",
 	},
 	"RemovePlant": {
 		"english": "Remove Plant",
@@ -70,6 +79,7 @@
 		"french": "Retirer la Plante",
 		"spanish": "Quita la planta",
 		"turkish": "Bitkiyi kaldır",
+		"portuges": "Remover Planta",
 	},
 	"RemoveInfestedPlants": {
 		"english": "Remove all Infested Plants",
@@ -77,6 +87,7 @@
 		"french": "Retirer toutes les Plantes Infectées",
 		"spanish": "Elimina todas las plantas infestadas",
 		"turkish": "Tüm hastalıklı bitkileri kaldır",
+		"portuges": "Remova todas as plantas infestadas",
 	},
 	"RemoveDeadPlants": {
 		"english": "Remove all Dead Plants",
@@ -84,6 +95,7 @@
 		"french": "Retirer toutes les Plantes Mortes",
 		"spanish": "Elimina todas las plantas muertas",
 		"turkish": "Tüm ölmüş bitkileri kaldır",
+		"portuges": "Remova todas as plantas mortas",
 	},
 	"WaterPlant": {
 		"english": "Water Plant",
@@ -91,6 +103,7 @@
 		"french": "Arroser la Plante",
 		"spanish": "Riega la planta",
 		"turkish": "Bitkiyi sula",
+		"portuges": "Regar a planta",
 	},
 	"Sow": {
 		"english": "Sow",
@@ -98,6 +111,7 @@
 		"french": "Semer",
 		"spanish": "Siembra",
 		"turkish": "Toprağa ek",
+		"portuges": "Semear",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -105,6 +119,7 @@
 		"french": "Récolter",
 		"spanish": "Cosecha",
 		"turkish": "Hasat et",
+		"portuges": "Colher",
 	},
 	"SowObject": {
 		"english": "Sow %object%",
@@ -112,6 +127,7 @@
 		"french": "Semer %object%",
 		"spanish": "Siembra %object%",
 		"turkish": "%object% ek",
+		"portuges": "Semear %object%",
 	},
 	"HarvestObject": {
 		"english": "Harvest %object%",
@@ -119,6 +135,7 @@
 		"french": "Récolter %object%",
 		"spanish": "Cosecha %object%",
 		"turkish": "%object% hasat yap",
+		"portuges": "Colheita %object%",
 	},
 	"Construct": {
 		"english": "Construct",
@@ -126,6 +143,7 @@
 		"french": "Construire",
 		"spanish": "Construye",
 		"turkish": "İnşa et",
+		"portuges": "Construir",
 	},
 	"Fight": {
 		"english": "Fight",
@@ -133,6 +151,7 @@
 		"french": "Combattre",
 		"spanish": "Lucha",
 		"turkish": "Dövüş",
+		"portuges": "Luta",
 	},
 	"Kill": {
 		"english": "Kill",
@@ -140,6 +159,7 @@
 		"french": "Tuer",
 		"spanish": "Mátalo",
 		"turkish": "Öldür",
+		"portuges": "Mate",
 	},
 	"TakeHealingPotion": {
 		"english": "Take Healing Potion",
@@ -147,12 +167,14 @@
 		"french": "Prendre une Potion de Soin",
 		"spanish": "Toma poción curativa",
 		"turkish": "Tüm şifalı bitkileri topla",
+		"portuges": "Tome Poção de Cura",
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
 		"german": "Landwirtschaft lernen",
 		"french": "Apprendre l'Agriculture",
 		"spanish": "Aprende sobre agricultura",
+		"portuges": "Aprenda sobre a agricultura",
 		"turkish": "Tarım öğren",
 	},
 	"LearnForesting": {
@@ -161,6 +183,7 @@
 		"french": "Apprendre la Foresterie",
 		"spanish": "Aprende sobre forestación",
 		"turkish": "Ormancılık öğren",
+		"portuges": "Saiba mais sobre o florestamento",
 	},
 	"LearnMining": {
 		"english": "Learn about Mining",
@@ -168,6 +191,7 @@
 		"french": "Apprendre le Minage",
 		"spanish": "Aprende sobre minería",
 		"turkish": "Madencilik öğren",
+		"portuges": "Aprenda sobre mineração",
 	},
 	"LearnCrafting": {
 		"english": "Learn about Crafting",
@@ -175,6 +199,7 @@
 		"french": "Apprendre l'Artisanat",
 		"spanish": "Aprende sobre artesanía",
 		"turkish": "El işi öğren",
+		"portuges": "Saiba mais sobre o artesanato",
 	},
 	"LearnFighting": {
 		"english": "Train for Combat",
@@ -182,6 +207,7 @@
 		"french": "S'Entraîner au Combat",
 		"spanish": "Entrena para el combate",
 		"turkish": "Dövüşe hazırlan",
+		"portuges": "Treinamento para Combate",
 	},
 	"LearnMedicine": {
 		"english": "Learn about Medicine",
@@ -189,6 +215,7 @@
 		"french": "Apprendre la Médecine",
 		"spanish": "Aprende sobre medicina",
 		"turkish": "Tıp öğren",
+		"portuges": "Aprenda sobre Medicina",
 	},
 	"LearnResearching": {
 		"english": "Learn about Researching",
@@ -196,6 +223,7 @@
 		"french": "Apprendre la Recherche",
 		"spanish": "Aprende sobre investigación",
 		"turkish": "Araştırmacılık öğren",
+		"portuges": "Aprenda sobre Pesquisando",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -203,6 +231,7 @@
 		"french": "Dormir",
 		"spanish": "Duerme",
 		"turkish": "Uyu",
+		"portuges": "Dormir",
 	},
 	"SleepUntilHealthy": {
 		"english": "Sleep until completely healthy",
@@ -210,6 +239,7 @@
 		"french": "Dormir jusqu'à être en bonne santé",
 		"spanish": "Duerme hasta que estés completamente recuperado",
 		"turkish": "Tamamen iyileşene kadar uyu",
+		"portuges": "Durma até ficar completamente saudável",
 	},
 	"SleepOnGround": {
 		"english": "Sleep on the Ground",
@@ -217,6 +247,7 @@
 		"french": "Dormir par Terre",
 		"spanish": "Duerme en el suelo",
 		"turkish": "Yerde uyu",
+		"portuges": "Durma no chão",
 	},
 	"Sit": {
 		"english": "Sit",
@@ -224,6 +255,7 @@
 		"french": "S'Asseoir",
 		"spanish": "Siéntate",
 		"turkish": "Otur",
+		"portuges": "Sentar",
 	},
 	"SitOnChair": {
 		"english": "Sit on Chair",
@@ -231,6 +263,7 @@
 		"french": "S'Asseoir sur une Chaise",
 		"spanish": "Siéntate en una silla",
 		"turkish": "Sandalyeye otur",
+		"portuges": "Sente-se na cadeira",
 	},
 	"Bury": {
 		"english": "Bury",
@@ -238,6 +271,7 @@
 		"french": "Enterrer",
 		"spanish": "Entierra",
 		"turkish": "Göm",
+		"portuges": "Enterrar",
 	},
 	"AcceptMigrants": {
 		"english": "Accept Migrants",
@@ -245,6 +279,7 @@
 		"french": "Accepter les Migrants",
 		"spanish": "Acepta inmigrantes",
 		"turkish": "Göçmenleri kabul et",
+		"portuges": "Aceite migrantes",
 	},
 	"RejectMigrants": {
 		"english": "Reject Migrants",
@@ -252,6 +287,7 @@
 		"french": "Refuser les Migrants",
 		"spanish": "Rechaza inmigrantes",
 		"turkish": "Göçmenleri reddet",
+		"portuges": "Rejeitar Migrantes",
 	},
 	"LeaveIsland": {
 		"english": "Leave Island",
@@ -259,6 +295,7 @@
 		"french": "Quitter l'Île",
 		"spanish": "Abandona la isla",
 		"turkish": "Adayı terket",
+		"portuges": "Sair da ilha",
 	},
 	"BandageWounds": {
 		"english": "Bandage Wounds",
@@ -266,6 +303,7 @@
 		"french": "Bander les Blessures",
 		"spanish": "Venda heridas",
 		"turkish": "Kanamayı durdur",
+		"portuges": "Atadura Feridas",
 	},
 	"Destroy": {
 		"english": "Destroy",
@@ -273,6 +311,7 @@
 		"french": "Détruire",
 		"spanish": "Destruye",
 		"turkish": "Yok et",
+		"portuges": "Destruir",
 	},
 	"Remove": {
 		"english": "Remove",
@@ -280,6 +319,7 @@
 		"french": "Retirer",
 		"spanish": "Retira",
 		"turkish": "Kaldır",
+		"portuges": "Remover",
 	},
 	"Add": {
 		"english": "Add",
@@ -287,6 +327,7 @@
 		"french": "Ajouter",
 		"spanish": "Agrega",
 		"turkish": "Ekle",
+		"portuges": "Adicionar",
 	},
 	"Produce": {
 		"english": "Produce",
@@ -294,6 +335,7 @@
 		"french": "Fabriquer",
 		"spanish": "Fabrica",
 		"turkish": "Üret",
+		"portuges": "Produzir",
 	},
 	"Equip": {
 		"english": "Equip",
@@ -301,6 +343,7 @@
 		"french": "Équiper",
 		"spanish": "Equipa",
 		"turkish": "Donat",
+		"portuges": "Equipar",
 	},
 	"Unequip": {
 		"english": "Unequip",
@@ -308,6 +351,7 @@
 		"french": "Déséquiper",
 		"spanish": "Desequipa",
 		"turkish": "Bırak",
+		"portuges": "Desequipar",
 	},
 	"RemoveWeapon": {
 		"english": "Lay down Weapon",
@@ -315,6 +359,7 @@
 		"french": "Déposer l'Arme",
 		"spanish": "Suelta arma",
 		"turkish": "Silahı yere bırak",
+		"portuges": "Deite Arma",
 	},
 	"RemoveArmor": {
 		"english": "Take off Armor",
@@ -322,6 +367,7 @@
 		"french": "Enlever l'Armure",
 		"spanish": "Quita armadura",
 		"turkish": "Zırhı çıkar",
+		"portuges": "Tire a armadura",
 	},
 	"RemoveEquipment": {
 		"english": "Remove Equipment",
@@ -329,6 +375,7 @@
 		"french": "Retirer l'Équipement",
 		"spanish": "Quita equipo",
 		"turkish": "Ekipmanı çıkar",
+		"portuges": "Remover equipamento",
 	},
 	"LightBonfire": {
 		"english": "Light Bonfire",
@@ -336,6 +383,7 @@
 		"french": "Allumer le Feu",
 		"spanish": "Enciende el fuego",
 		"turkish": "İşaret ateşi yak",
+		"portuges": "Acenda a Fogueira",
 	},
 	"PutOutBonfire": {
 		"english": "Put out Bonfire",
@@ -343,6 +391,7 @@
 		"french": "Éteindre le Feu",
 		"spanish": "Apaga el fuego",
 		"turkish": "İşaret ateşini söndür",
+		"portuges": "Apague a Fogueira",
 	},
 	"GatherResource": {
 		"english": "Gather Resources",
@@ -350,6 +399,7 @@
 		"french": "Récolter les Ressources",
 		"spanish": "Cosecha los recursos",
 		"turkish": "Kaynakları topla",
+		"portuges": "Reunir Recursos",
 	},
 	"Guard": {
 		"english": "Guard",
@@ -357,6 +407,7 @@
 		"french": "Protéger",
 		"spanish": "Vigila",
 		"turkish": "Koru",
+		"portuges": "Guarda",
 	},
 	"GuardTower": {
 		"english": "Guard Tower",
@@ -364,6 +415,7 @@
 		"french": "Protéger la Tour",
 		"spanish": "Protege la torre",
 		"turkish": "Kuleyi koru",
+		"portuges": "Torre de guarda",
 	},
 	"ProcessResource": {
 		"english": "Process Resource",
@@ -371,6 +423,7 @@
 		"french": "Transformer les Ressources",
 		"spanish": "Transforma recursos",
 		"turkish": "Kaynakları işle",
+		"portuges": "transformar Recursos",
 	},
 	"ChangeProfession": {
 		"english": "Change",
@@ -378,6 +431,7 @@
 		"french": "Changer",
 		"spanish": "Cambia",
 		"turkish": "Değiştir",
+		"portuges": "Mudar",
 	},
 	"GiveProductionOrders": {
 		"english": "Give Production Orders",
@@ -385,6 +439,7 @@
 		"french": "Donner des Ordres de Fabrication",
 		"spanish": "Da órdenes de producción",
 		"turkish": "Üretim emri ver",
+		"portuges": "Dar ordens de produção",
 	},
 	"FillWateringCan": {
 		"english": "Fill Watering Can",
@@ -392,6 +447,7 @@
 		"french": "Remplir l'Arrosoir",
 		"spanish": "Llena la regadera",
 		"turkish": "Su kovasını doldur",
+		"portuges": "Encha o regador",
 	},
 	"interaction_gatherFood": {
 		"english": "Gather Food",
@@ -399,6 +455,7 @@
 		"french": "Récolter la Nourriture",
 		"spanish": "Recoge comida",
 		"turkish": "Yemek topla",
+		"portuges": "Recolher comida",
 	},
 	"interaction_cutTree": {
 		"english": "Cut Tree",
@@ -406,6 +463,7 @@
 		"french": "Abattre un Arbre",
 		"spanish": "Corta árbol",
 		"turkish": "Ağaç kes",
+		"portuges": "Cortar árvore",
 	},
 	"interaction_mineStone": {
 		"english": "Mine Stone",
@@ -413,6 +471,7 @@
 		"french": "Miner de la Pierre",
 		"spanish": "Pica piedra",
 		"turkish": "Taş topla",
+		"portuges": "Minar Rocha",
 	},
 	"interaction_mineIronOre": {
 		"english": "Mine Iron Ore",
@@ -420,6 +479,7 @@
 		"french": "Miner du Fer",
 		"spanish": "Pica hierro",
 		"turkish": "Demir cevheri işle",
+		"portuges": "Minar Ferro",
 	},
 	"Gather": {
 		"english": "Gather",
@@ -427,6 +487,7 @@
 		"french": "Récolter",
 		"spanish": "Recolecta",
 		"turkish": "Topla",
+		"portuges": "Coletar",
 	},
 	"BecomeA": {
 		"english": "Become a",
@@ -434,6 +495,7 @@
 		"french": "Devenir",
 		"spanish": "Conviértete en",
 		"turkish": "Meslek değiştir:",
+		"portuges": "Se tornar um",
 	},
 	"TryFluTreatment": {
 		"english": "Try Flu Treatment",
@@ -441,6 +503,7 @@
 		"french": "Tester un Traitement contre la Grippe",
 		"spanish": "Prueba un tratamiento contra la gripe",
 		"turkish": "Grip tedavisi dene",
+		"portuges": "Tentar o tratamento da gripe",
 	},
 	"interaction_analyzeCrystal": {
 		"english": "Analyze Crystal",
@@ -448,6 +511,7 @@
 		"french": "Analyser un Cristal",
 		"spanish": "Analiza cristal",
 		"turkish": "Kristal analizi yap",
+		"portuges": "Analisar Cristal",
 	},
 	"interaction_cook": {
 		"english": "Cook Food",
@@ -455,6 +519,7 @@
 		"french": "Cuisiner des Aliments",
 		"spanish": "Cocina comida",
 		"turkish": "Yemek pişir",
+		"portuges": "cozinhar alimentos",
 	},
 	"interaction_forge": {
 		"english": "Forge",
@@ -462,6 +527,7 @@
 		"french": "Forger",
 		"spanish": "Forja",
 		"turkish": "Döv",
+		"portuges": "Forjar",
 	},
 	"interaction_makeBows": {
 		"english": "Make Bows",
@@ -469,6 +535,7 @@
 		"french": "Fabriquer des Arcs",
 		"spanish": "Fabrica arcos",
 		"turkish": "Yay yap",
+		"portuges": "Faça Arcos",
 	},
 	"interaction_makeTools": {
 		"english": "Make Tools",
@@ -476,6 +543,7 @@
 		"french": "Fabriquer des Outils",
 		"spanish": "Fabrica herramientas",
 		"turkish": "Araç yap",
+		"portuges": "Fazer ferramentas",
 	},
 	"interaction_tailorClothes": {
 		"english": "Tailor Clothes",
@@ -483,6 +551,7 @@
 		"french": "Coudre des Vêtements",
 		"spanish": "Fabrica ropa",
 		"turkish": "Kyafet dik",
+		"portuges": "Criar de alfaiate",
 	},
 	"interaction_produceMedicalPotions": {
 		"english": "Produce Healing Potions",
@@ -490,6 +559,7 @@
 		"french": "Produire des Potions de Soin",
 		"spanish": "Fabrica poción de salud",
 		"turkish": "Şifa iksiri yap",
+		"portuges": "Produzir Poções de Cura",
 	},
 	"interaction_produceMedicine": {
 		"english": "Produce Medicine",
@@ -497,6 +567,7 @@
 		"french": "Fabriquer des Médicaments",
 		"spanish": "Fabrica medicina",
 		"turkish": "İlaç yap",
+		"portuges": "Produzir remédio",
 	},
 	"Talk": {
 		"english": "Talk",
@@ -504,6 +575,7 @@
 		"french": "Parler",
 		"spanish": "Habla",
 		"turkish": "Konuş",
+		"portuges": "Falar",
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
@@ -511,6 +583,7 @@
 		"french": "Parler à %name%",
 		"spanish": "Habla con %name%",
 		"turkish": "%name% ile konuş",
+		"portuges": "Falar com %name%",
 	},
 	"TakeOwnership": {
 		"english": "Take Ownership",
@@ -518,6 +591,7 @@
 		"french": "Prendre la Propriété",
 		"spanish": "Toma la propiedad",
 		"turkish": "Sahiplen",
+		"portuges": "Apropriar",
 	},
 	"TakeOwnershipFrom": {
 		"english": "Take Ownership from %name%",
@@ -525,6 +599,7 @@
 		"french": "Prendre la Propriété de %name%",
 		"spanish": "Toma posesion de %name%",
 		"turkish": "%name% in elinden al",
+		"portuges": "Apropriar de %name%",
 	},
 	"GiveUpOwnership": {
 		"english": "Give up Ownership",
@@ -532,6 +607,7 @@
 		"french": "Abandonner la Propriété",
 		"spanish": "Renuncia a la propiedad",
 		"turkish": "Sahipliği bırak",
+		"portuges": "Desistir de propriedade",
 	},
 
 
@@ -543,6 +619,7 @@
 		"french": "Quelqu'un d'autre l'utilise",
 		"spanish": "Alguien más está usando eso.",
 		"turkish": "Başkası kullanıyor",
+		"portuges": "Alguém está usando isso",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -550,6 +627,7 @@
 		"french": "Aucune commande de production",
 		"spanish": "No hay órdenes de producción",
 		"turkish": "Üretim emri yok",
+		"portuges": "Sem ordens de produção",
 	},
 	"notSufficientExperience": {
 		"english": "%firstName% doesn't have enough experience as %profession%",
@@ -557,6 +635,7 @@
 		"french": "%firstName% n'a pas assez d'expérience comme %profession%",
 		"spanish": "%firstName% no tiene experiencia suficiente con esa %profession%",
 		"turkish": "%profession% için yeteri tecrübesi yok",
+		"portuges": "%firstName% não tem experiência suficiente como %profession%",
 	},
 	"notUsableInSeason": {
 		"english": "Not possible in %season%",
@@ -564,6 +643,7 @@
 		"french": "Impossible durant %season%",
 		"spanish": "No es posible durante la %season%",
 		"turkish": "%season% mevsiminde mümkün değil",
+		"portuges": "Não é possível em %season%",
 	},
 	"treatmentSuccessful": {
 		"english": "Treatment\nSuccessful",
@@ -571,6 +651,7 @@
 		"french": "Traitement\nRéussi",
 		"spanish": "Tratamiento\nExitoso",
 		"turkish": "Tedavi\nBaşarılı",
+		"portuges": "Tratamento \nBem-sucedido",
 	},
 	"treatmentFailed": {
 		"english": "Treatment\nFailed",
@@ -578,6 +659,7 @@
 		"french": "Traitement\nRaté",
 		"spanish": "Tratamiento\nFallido",
 		"turkish": "Tedavi\nBaşarısız",
+		"portuges": "Tratamento \nFalhou",
 	},
 	"nextTryIn": {
 		"english": "Next Try in",
@@ -585,6 +667,7 @@
 		"french": "Prochain Essai dans",
 		"spanish": "Siguiente intento en",
 		"turkish": "Sonra dene",
+		"portuges": "Próxima tentativa em",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -592,6 +675,7 @@
 		"french": "secondes",
 		"spanish": "segundos",
 		"turkish": "saniye",
+		"portuges": "segundos",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",
@@ -599,6 +683,7 @@
 		"french": "Ne peut pas à cause du trait : %trait%",
 		"spanish": "No se puede por el atributo: %trait%",
 		"turkish": "%trait% nedeniyle yapılamıyor",
+		"portuges": "Não pode por causa da característica: %trait%"",
 	},
 	"forbiddenBecauseNotHasTrait": {
 		"english": "Missing trait: %trait%",
@@ -606,6 +691,7 @@
 		"french": "Trait manquant : %trait%",
 		"spanish": "Atributo faltante: %trait%",
 		"turkish": "Eksik özellik: %trait%",
+		"portuges": "Traço ausente: %trait%",
 	},
 	"cantGetResourceNearby": {
 		"english": "Can't get %resource% nearby",
@@ -613,6 +699,7 @@
 		"french": "Ne peut pas obtenir %resource% proche",
 		"spanish": "No se puede obtener %resource% cerca",
 		"turkish": "Yakınlarda %resource% toplanamıyor",
+		"portuges": "Não é possível obter %resource% nas proximidades",
 	},
 	"missingEquipmentEffect_WateringPlants": {
 		"english": "Needs a watering can",
@@ -620,6 +707,7 @@
 		"french": "A besoin d'un arrosoir",
 		"spanish": "Necesita una regadera",
 		"turkish": "Su kovasına ihtiyaç var",
+		"portuges": "Precisa de um regador",
 	},
 	"noResearchSelected": {
 		"english": "No Research selected",
@@ -627,5 +715,6 @@
 		"french": "Aucune Recherche sélectionnée",
 		"spanish": "Ninguna investigación seleccionada",
 		"turkish": "Araştırılacak alan seçilmedi",
+		"portuges": "Nenhuma pesquisa selecionada",
 	},
 }

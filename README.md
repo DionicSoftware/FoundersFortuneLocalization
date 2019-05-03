@@ -15,7 +15,7 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 ## Custom.txt:
 ```
 Game Version:
-Alpha 6.1
+Alpha 6.2
 Forced Language:
 french
 ```

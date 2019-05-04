@@ -5,6 +5,7 @@
 		"french": "Vœux",
 		"spanish": "Deseos",
 		"turkish": "Dilekler",
+		"bulgarian": "Желания",
 	},
 	"discover": {
 		"english": "Discover %tech%",
@@ -12,6 +13,7 @@
 		"french": "Découvrir %tech%",
 		"spanish": "Descubrir %tech%",
 		"turkish": "%tech% keşfet",
+		"bulgarian": "Открийте %tech%",
 	},
 	"GetProfession": {
 		"english": "Get a job",
@@ -19,6 +21,7 @@
 		"french": "Trouver un emploi",
 		"spanish": "Conseguir un trabajo",
 		"turkish": "Bir iş bul",
+		"bulgarian": "Намерете работа",
 	},
 	"GetSleepingSpot": {
 		"english": "Get a sleeping spot",
@@ -26,13 +29,15 @@
 		"french": "Avoir un endroit pour dormir",
 		"spanish": "Conseguir un sitio para dormir",
 		"turkish": "Uyuyabilmek için uygun bir yer",
+		"bulgarian": "Направи място за спане",
 	},
 	"GetBedroom": {
 		"english": "Get a bedroom",
 		"german": "Schlafzimmer bekommen",
 		"french": "Avoir une chambre",
 		"spanish": "Conseguir un dormitorio",
-		"turkish": "Yatak odası"
+		"turkish": "Yatak odası",
+		"bulgarian": "Направи спалня",
 	},
 	"reachLevelAsA": {
 		"english": "Reach level %level% as a %profession%",
@@ -40,6 +45,7 @@
 		"french": "Atteindre le niveau %level% en tant que %profession%",
 		"spanish": "Llegar al nivel %level% como %profession%",
 		"turkish": "%profession% de seviye %level% ulaş",
+		"bulgarian": "Достигане до ниво %level% като %profession%",
 	},
 	"getFurnitureInLocation": {
 		"english": "Get %furniture% in %location%",
@@ -47,6 +53,7 @@
 		"french": "Avoir %furniture% dans %location%",
 		"spanish": "Conseguir %furniture% en %location%",
 		"turkish": "%location% için %furniture%",
+		"bulgarian": "Направете %furniture% във %location%",
 	},
 	"furnitureCategory_AChair": {
 		"english": "a Chair",
@@ -54,6 +61,7 @@
 		"french": "une Chaise",
 		"spanish": "una Silla",
 		"turkish": "Sandalye",
+		"bulgarian": "Стол",
 	},
 	"furnitureCategory_ATable": {
 		"english": "a Table",
@@ -61,6 +69,7 @@
 		"french": "une Table",
 		"spanish": "una Mesa",
 		"turkish": "Masa",
+		"bulgarian": "Маса",
 	},
 	"furnitureCategory_AArmchair": {
 		"english": "an Armchair",
@@ -68,6 +77,7 @@
 		"french": "un Fauteuil",
 		"spanish": "un Sillón",
 		"turkish": "Kollu sandalye",
+		"bulgarian": "Фотьойл",
 	},
 	"furnitureCategory_ACouch": {
 		"english": "a Couch",
@@ -75,6 +85,7 @@
 		"french": "un Canapé",
 		"spanish": "un Sofá",
 		"turkish": "Kanape",
+		"bulgarian": "Диван",
 	},
 	"furnitureCategory_AFireplace": {
 		"english": "a Fireplace",
@@ -82,6 +93,7 @@
 		"french": "une Cheminée",
 		"spanish": "una Chimenea",
 		"turkish": "Şömine",
+		"bulgarian": "Камина",
 	},
 	"furnitureCategory_ASmallShelf": {
 		"english": "a Dresser",
@@ -89,7 +101,8 @@
 		"french": "une Commode",
 		// TODO-spanish
 		"spanish": "una Estantería pequeña",
-		"turkish": "Gardırop"
+		"turkish": "Gardırop",
+		"bulgarian": "Дрешник",
 	},
 	"furnitureCategory_ABigShelf": {
 		"english": "a Big Shelf or Wardrobe",
@@ -98,6 +111,7 @@
 		// TODO-spanish
 		"spanish": "una Estantería grande",
 		"turkish": "Büyük bir gardırop",
+		"bulgarian": "Гардероб",
 	},
 	"furnitureCategory_AChest": {
 		"english": "a Chest",
@@ -105,6 +119,7 @@
 		"french": "un Coffre",
 		"spanish": "un Cofre",
 		"turkish": "Sandık",
+		"bulgarian": "Чест",
 	},
 	"furnitureCategory_AFlowerPot": {
 		"english": "a Flower Pot",
@@ -112,6 +127,7 @@
 		"french": "un Pot de Fleur",
 		"spanish": "un Florero",
 		"turkish": "Saksı",
+		"bulgarian": "Саксия",
 	},
 	"furnitureCategory_AVase": {
 		"english": "a Vase",
@@ -119,6 +135,7 @@
 		"french": "un Vase",
 		"spanish": "un Jarrón",
 		"turkish": "Vazo",
+		"bulgarian": "Ваза",
 	},
 	"wishLocation_Room": {
 		"english": "his Room",
@@ -126,6 +143,7 @@
 		"french": "sa Pièce",
 		"spanish": "su Habitación",
 		"turkish": "Onun odası",
+		"bulgarian": "неговата Стая",
 	},
 	"wishLocation_House": {
 		"english": "his House",
@@ -133,6 +151,7 @@
 		"french": "sa Maison",
 		"spanish": "su Casa",
 		"turkish": "Onun evi",
+		"bulgarian": "неговата Къща",
 	},
 	"wishLocation_Colony": {
 		"english": "the Colony",
@@ -140,6 +159,7 @@
 		"french": "la Colonie",
 		"spanish": "la Colonia",
 		"turkish": "Koloni",
+		"bulgarian": "Колонията",
 	},
 	"useSatisfactionRewardPoints": {
 		"english": "Use Satisfaction Reward Points",
@@ -147,6 +167,7 @@
 		"french": "Utiliser les Points de Récompenses de Satisfaction",
 		"spanish": "Utilizar Puntos de recompensa de satisfacción",
 		"turkish": "Memnuniyet Ödül Puanlarını Kullan",
+		"bulgarian": "Използвайте Наградни Точки за Удовлетворение",
 	},
 	"getRidOfTrait": {
 		"english": "Get rid of Trait: %trait%",
@@ -154,6 +175,7 @@
 		"french": "Se débarasser du Trait : %trait%",
 		"spanish": "Deshacerse del atributo: %trait%",
 		"turkish": "%trait% özelliğinden kurtul",
+		"bulgarian": "Отърви се от черта: %trait%",
 	},
 	"getRidOfCondition": {
 		"english": "Get rid of Condition: %condition%",
@@ -161,6 +183,7 @@
 		"french": "Se débarasser de l'État : %condition%",
 		"spanish": "Deshacerse de la condición: %condition%",
 		"turkish": "%condition% kondisyonundan kurtul",
+		"bulgarian": "Отърви се от условието: %condition",
 	},
 	"getBackToFullHealth": {
 		"english": "Get back to full health",
@@ -168,5 +191,6 @@
 		"french": "Retrouver une santé complète",
 		"spanish": "Recuperar toda la salud",
 		"turkish": "Tam sağlığa kavuş",
+		"bulgarian": "Върнете се в пълно здраве",
 	},
 }

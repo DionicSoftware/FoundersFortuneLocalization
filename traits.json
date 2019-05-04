@@ -6,6 +6,7 @@
 		"french": "Pacifiste",
 		"turkish": "Pasifist",
 		"bulgarian": "Пацифист",
+		"portuges": "Pacifisto",
 	},
 	"traitDesc_Pacifist": {
 		"english": "%firstName% believes in the good in the world - maybe a little too much. Refuses to fight anyone unless he is already heavily wounded.",
@@ -13,7 +14,8 @@
 		"spanish": "%firstName% cree en lo bueno del mundo - quizás demasiado. Se niega a pelear contra alguien, excepto si ya ha sido gravemente herido.",
 		"french": "%firstName% croit à la bonté dans le monde - peut être un peu trop. Il refuse de combattre à moins qu'il soit lourdement blessé.",
 		"turkish": "%firstName%, dünyada iyiliğe inanıyor - belki haddinden fazla. Ağır şekilde yaralanmadığı sürece savaşmayı reddediyor.",
-		"bulgarian": "%firstName% вярва в доброто в света - може би малко повече. Отказва да се бие с никого, освен ако вече е тежко ранен."
+		"bulgarian": "%firstName% вярва в доброто в света - може би малко повече. Отказва да се бие с никого, освен ако вече е тежко ранен.",
+		"portuges": "%firstName% acredita no bem do mundo - talvez um pouco demais. Recusa-se a lutar contra qualquer um, a menos que ele já esteja gravemente ferido.",
 	},
 	"traitTitle_BattleHardened": {
 		"english": "Experienced in Battle",
@@ -22,6 +24,7 @@
 		"french": "Expérimenté en Bataille",
 		"turkish": "Savaşta tecrübeli",
 		"bulgarian": "Опитен във Битката",
+		"portuges": "Experiente em Batalha",
 	},
 	"traitDesc_BattleHardened": {
 		"english": "Already has much experience on the battlefield and is not scared off easily. Does not receive mood penalties for pain and death around him.",
@@ -30,6 +33,7 @@
 		"french": "A déjà une expérience sur le champ de bataille et ne prend pas peur facilement. Ne reçoit pas de pénalités d'humeur pour les blessures et les morts autour de lui.",
 		"turkish": "Savaş alanında çok fazla deneyime sahip ve kolayca korkmuyor. Etrafındaki acı ve ölümlerden dolayı psikolojisi bozulmuyor.",
 		"bulgarian": "Вече има много опит на бойното поле и не се плаши лесно. Не получава наказания за настроения за болка и смърт около него.",
+		"portuges": "Já tem muita experiência no campo de batalha e não se assusta facilmente. Não recebe penalidades de humor por dor e morte ao seu redor.",
 	},
 	"traitTitle_Optimist": {
 		"english": "Optimist",
@@ -38,6 +42,7 @@
 		"french": "Optimiste",
 		"turkish": "İyimser",
 		"bulgarian": "Оптимист",
+		"portuges": "Otimisto",
 	},
 	"traitDesc_Optimist": {
 		"english": "Glass-half-full kind of guy. Receives a permanent mood boost.",
@@ -46,6 +51,7 @@
 		"french": "Genre de mec avec un verre à moitié plein. Reçoit un boost d'humeur permanent.",
 		"turkish": "Bardağın dolu tarafını görüyor. Kalıcı ruh hali artışına sahip.",
 		"bulgarian": "Стъклен наполовина пълноценен тип. Получава постоянен тласък на настроението.",
+		"portuges": "Tipo de cara meio cheio de vidro. Recebe um impulso de humor permanente.",
 	},
 	"traitTitle_Pessimist": {
 		"english": "Pessimist",
@@ -54,6 +60,7 @@
 		"french": "Pessimiste",
 		"turkish": "Karamsar",
 		"bulgarian": "Песимист",
+		"portuges": "Pessimisto",
 	},
 	"traitDesc_Pessimist": {
 		"english": "Glass-half-empty kind of guy. Receives a permanent mood penalty.",
@@ -62,6 +69,7 @@
 		"french": "Genre de mec avec un verre à moitié vide. Reçoit une pénalité d'humeur permanente.",
 		"turkish": "Bardağın boş tarafını görüyor. Kalıcı ruh hali azalışına sahip.",
 		"bulgarian": "Стъклен наполовина пълноценен тип. Получава постоянен тласък на настроението.",
+		"portuges": "Tipo meio vazio de vidro. Recebe uma penalidade de humor permanente.",
 	},
 	"traitTitle_Killer": {
 		"english": "Killer",
@@ -70,6 +78,7 @@
 		"french": "Tueur",
 		"turkish": "Katil",
 		"bulgarian": "Убиец",
+		"portuges": "Assassino",
 	},
 	"traitDesc_Killer": {
 		"english": "%firstName% has a strange interest in violence. Gets positive thoughts from killing. Usually able to control himself.",
@@ -78,6 +87,7 @@
 		"french": "%firstName% a un intérêt étrange pour la violence. Obtient des pensées positives lorsqu'il tue. Habituellement en mesure de se contrôler.",
 		"turkish": "%firstName% şiddete garip bir ilgi duyuyor. Öldürmekten olumlu düşünceler alıyor. Genellikle kendini kontrol edebiliyor.",
 		"bulgarian": "%firstName% има странен интерес към насилието. Получава положителни мисли от убийството. Обикновено може да се контролира.",
+		"portuges": "%firstName% tem um estranho interesse pela violência. Obtém pensamentos positivos para matar. Geralmente capaz de se controlar.",
 	},
 	"traitTitle_GoodHealth": {
 		"english": "Good Health",
@@ -86,6 +96,7 @@
 		"french": "En bonne santé",
 		"turkish": "Sağlıklı",
 		"bulgarian": "Добро Здраве",
+		"portuges": "Boa saúde",
 	},
 	"traitDesc_GoodHealth": {
 		"english": "A lifetime of exercise and healthy foods has provided %firstName% with a very robust health. Treatments are 20% more likely to succeed.",
@@ -93,7 +104,8 @@
 		"spanish": "Una vida de ejercicio y comida sana le ha otorgado a %firstName% una salud de hierro. Los tratamientos aumentan su probabilidad de éxito en un 20%.",
 		"french": "Une vie d'exercice et de la nourriture saine ont fourni à %firstName% une santé robuste. Les traitements ont 20% de chance de fonctionner.",
 		"turkish": "Ömür boyu egzersiz ve sağlıklı gıdalar %firstName% için çok güçlü bir sağlık getirdi. Tedavilerin başarılı olma olasılığı %20 daha fazla.",
-		"bulgarian": "Животът на физически упражнения и здравословни храни е осигурил %firstName% с много стабилно здраве. Лечението е с 20% по-вероятно да успее. "
+		"bulgarian": "Животът на физически упражнения и здравословни храни е осигурил %firstName% с много стабилно здраве. Лечението е с 20% по-вероятно да успее. ",
+		"portuges": "Uma vida inteira de exercícios e alimentos saudáveis forneceu %firstName% com uma saúde muito robusto. Tratamentos são 20% mais propensos a ter sucesso.",
 	},
 	"traitTitle_BadHealth": {
 		"english": "Bad Health",
@@ -102,6 +114,7 @@
 		"french": "En mauvaise santé",
 		"turkish": "Sağlıksız",
 		"bulgarian": "Лошо Здраве",
+		"portuges": "Má saúde",
 	},
 	"traitDesc_BadHealth": {
 		"english": "For no specific reason, %firstName%'s immune system is not as good as others. Treatments are 20% more likely to fail.",
@@ -110,6 +123,7 @@
 		"french": "Sans raison spécifique, le système immunitaire de %firstName% n'est pas aussi bon que les autres. Les traitements ont 20% de risque d'échouer.",
 		"turkish": "Sebepsiz bir şekilde bağışıklı sistemi %firstName% için iyi çalışmıyor. Tedavilerin başarılı olma ihtimali %20 daha az.",
 		"bulgarian": "Без специфична причина, имунната система на %firstName% не е толкова добра, колкото другите. Лечението е с 20% по-вероятно да се провали.",
+		"portuges": "Por nenhuma razão específica, o sistema imunológico da %firstName% não é tão bom quanto os outros. Os tratamentos são 20% mais propensos a falhar.",
 	},
 	"traitTitle_Overeater": {
 		"english": "Overeater",
@@ -118,6 +132,7 @@
 		"french": "Gros mangeur",
 		"turkish": "Yiyici",
 		"bulgarian": "Поглъщател на мазнини",
+		"portuges": "Porquinho",
 	},
 	"traitDesc_Overeater": {
 		"english": "%firstName% loves food and he isn't always able to control himself. Sometimes he will just continue eating even though he is already full.",
@@ -126,6 +141,7 @@
 		"french": "%firstName% aime la nourriture et n'est pas capable de se contrôler. Parfois il continue de manger même s'il est déjà plein.",
 		"turkish": "%firstName% yemek yemeyi seviyor ve her zaman kendini kontrol edemiyor. Bazen dolu olsa bile yemeye devam edecek.",
 		"bulgarian": "%firstName% обича храната и не винаги е в състояние да се контролира. Понякога той просто ще продължи да яде, въпреки че вече е пълен.",
+		"portuges": "%firstName% adora comida e nem sempre consegue se controlar. Às vezes ele apenas continua comendo, embora já esteja cheio.",
 	},
 	"traitTitle_Survivor": {
 		"english": "Survivalist",
@@ -134,6 +150,7 @@
 		"french": "Survivaliste",
 		"turkish": "Hayatta kalan",
 		"bulgarian": "Оцеляващ",
+		"portuges": "Sobrevivente",
 	},
 	"traitDesc_Survivor": {
 		"english": "%firstName% has survived quite a few sticky situations and knows what it takes. When others would die, he gets a 25% health boost and gains consciousness. (Only once in 24 hours)",
@@ -142,6 +159,7 @@
 		"french": "%firstName% a survécu à des situations et sait ce que cela fait. Quand les autres mourront, il obtiendra un boost de santé de 25% et gagnera en connaissance. (Seulement une fois toute les 24 heures)",
 		"turkish": "%firstName% bir kaç zorlu duruma rağmen hala hayatta ve ne yapması gerektiğini biliyor. Başkası öldüğünde %25 sağlık kazanıyor ve bilinci açılıyor (24 saatte bir).",
 		"bulgarian": "%firstName% преживя доста лепкави ситуации и знае какво е необходимо. Когато други умират, той получава 25% повишаване на здравето и придобива съзнание. (Само веднъж на 24 часа)",
+		"portuges": "%firstName% sobreviveu a algumas situações difíceis e sabe o que é preciso. Quando os outros morrem, ele recebe um aumento de 25% na saúde e ganha consciência. (Apenas uma vez em 24 horas)",
 	},
 	"traitTitle_Insomnia": {
 		"english": "Insomnia",
@@ -150,6 +168,7 @@
 		"french": "Insomniaque",
 		"turkish": "Uykusuz",
 		"bulgarian": "Безсъние",
+		"portuges": "Insônia",
 	},
 	"traitDesc_Insomnia": {
 		"english": "%firstName% has trouble sleeping and doesn't rest as well as others. Takes double the time to fully rest compared to others..",
@@ -158,6 +177,7 @@
 		"french": "%firstName% a des troubles du sommeil et ne se repose pas aussi bien que les autres. Prend deux fois plus de temps pour se reposer comparé aux autres.",
 		"turkish": "%firstName% uyumakta sorun yaşıyor ve diğerleri kadar iyi dinlenemiyor. Tam olarak dinlenebilmesi için normalden iki kat daha fazla uykuya ihtiyacı var.",
 		"bulgarian": "%firstName% има проблеми със съня и не почива, както и другите. Удвоява времето за пълна почивка в сравнение с другите..",
+		"portuges": "%firstName% tem dificuldade em dormir e não descansa tão bem quanto os outros. Leva o dobro do tempo para descansar totalmente em comparação com os outros ..",
 	},
 	"traitTitle_Tireless": {
 		"english": "Tireless",
@@ -166,6 +186,7 @@
 		"french": "Infatigable",
 		"turkish": "Yorulmaz",
 		"bulgarian": "Неуморим",
+		"portuges": "Incansável",
 	},
 	"traitDesc_Tireless": {
 		"english": "%firstName% doesn't need much sleep. Only rests half as long as others before he's completely fit again.",
@@ -173,7 +194,8 @@
 		"spanish": "%firstName% no necesita muchas horas de sueño. Solo necesita descansar la mitad que los demás para sentirse renovado de nuevo.",
 		"french": "%firstName% n'a pas besoin de dormir beaucoup. Seulement la moitié de ce que les autres ont besoin de dormir pour une sommeil complet.",
 		"turkish": "%firstName% çok fazla uyumaya ihtiyaç duymuyor. Diğerlerinin yarısı kadar uykuyla yetinebiliyor.",
-		"bulgarian": "%firstName% не се нуждае от много сън. Остава само наполовина толкова дълго, колкото останалите, преди отново да е напълно в състояние да се справи."
+		"bulgarian": "%firstName% не се нуждае от много сън. Остава само наполовина толкова дълго, колкото останалите, преди отново да е напълно в състояние да се справи.",
+		"portuges": "%firstName% não precisa dormir muito. Só descansa metade do tempo que os outros antes que ele esteja completamente em forma novamente.",
 	},
 	"traitTitle_Smart": {
 		"english": "Fast Learner",
@@ -182,6 +204,7 @@
 		"french": "Apprend vite",
 		"turkish": "Çabuk öğrenen",
 		"bulgarian": "Бързо учащ",
+		"portuges": "Aprendiz rápido",
 	},
 	"traitDesc_Smart": {
 		"english": "%firstName% is a bright guy and he knows it. He can learn new skills in half the time.",
@@ -190,6 +213,7 @@
 		"french": "%firstName% est un mec intelligent et il le sait. Il peut apprendre de nouvelles compétences en moitié de temps.",
 		"turkish": "%firstName% parlak bir adam ve bunun farkında. Yarı sürede yeni beceriler öğrenebilir.",
 		"bulgarian": "%firstName% е светъл човек и той го знае. Той може да научи нови умения в половината от времето.",
+		"portuges": "%firstName% é um cara brilhante e ele sabe disso. Ele pode aprender novas habilidades na metade do tempo.",
 	},
 	"traitTitle_Dumb": {
 		"english": "Dumb",
@@ -198,6 +222,7 @@
 		"french": "Idiot",
 		"turkish": "Salak",
 		"bulgarian": "Тъп",
+		"portuges": "Idiota",
 	},
 	"traitDesc_Dumb": {
 		"english": "Unfortunately, thinking has never been his strong suit. He will not gain experience and not level up in any job ever.",
@@ -206,6 +231,7 @@
 		"french": "Malheureusement, penser n'a jamais été son fort. Il ne gagnera pas d'expérience et n'augmentera pas de niveau dans n'importe quel métier.",
 		"turkish": "Maalesef, düşünme hiç bir zaman onun güçlü özelliği olmadı. Deneyim kazanamayacak ve hiç bir işte seviye atlamayacak.",
 		"bulgarian": "За съжаление, мисленето никога не е било негов силен костюм. Той няма да натрупа опит и няма да се издигне до нищо в работата си.",
+		"portuges": "Infelizmente, pensar nunca foi seu forte. Ele não vai ganhar experiência e não subir de nível em qualquer trabalho de sempre.",
 	},
 	"traitTitle_FavoriteFoodPumpkingStew": {
 		"english": "Favorite Food: Pumpkin Stew",
@@ -214,6 +240,7 @@
 		"french": "Nourriture préférée : Ragoût de Potiron",
 		"turkish": "En Sevdiği Yemek: Kabak Yahni",
 		"bulgarian": "Любима Храна: Тиква",
+		"portuges": "Comida favorita: Abóbora Stew",
 	},
 	"traitDesc_FavoriteFoodPumpkingStew": {
 		"english": "%firstName% just can't wait to get another bowl of delicious pumpkin stew.",
@@ -222,6 +249,7 @@
 		"french": "%firstName% ne peut pas attendre avant de prendre un autre bol de délicieux ragoût de potiron.",
 		"turkish": "%firstName%, nefis balkabağı yahnisi daha almak için sabırsızlanıyor.",
 		"bulgarian": "%firstName% просто не мога да чакам да си намеря още една купа с вкусна тиквена яхния.",
+		"portuges": "%firstName% mal posso esperar para pegar outra tigela de delicioso ensopado de abóbora.",
 	},
 	"traitTitle_FavoriteFoodFruitSalad": {
 		"english": "Favorite Food: Fruit Salad",
@@ -230,6 +258,7 @@
 		"french": "Nourriture préférée : Salade de Fruit",
 		"turkish": "En Sevdiği Yemek: Meyve Salatası",
 		"bulgarian": "Любима Храна: Плодова Салата",
+		"portuges": "Comida favorita: Salada de Frutas",
 	},
 	"traitDesc_FavoriteFoodFruitSalad": {
 		"english": "%firstName% just can't wait to get another bowl of delicious fruit salad.",
@@ -238,6 +267,7 @@
 		"french": "%firstName% ne peut pas attendre avant de prendre un bol de délicieuse salade de fruit.",
 		"turkish": "%firstName%, bir lezzetli meyve salatası tabağı daha almak için sabırsızlanıyor.",
 		"bulgarian": "%firstName% не може да чака да получи още една купа с вкусна плодова салата.",
+		"portuges": "%firstName% apenas não posso esperar para obter outra taça de salada de fruta deliciosa.",
 	},
 	"traitTitle_FavoriteFoodAppleStrudel": {
 		"english": "Favorite Food: Apple Strudel",
@@ -246,6 +276,7 @@
 		"french": "Nourriture préférée : Strudel aux Pommes",
 		"turkish": "En Sevdiği Yemek: Elmalı Turta",
 		"bulgarian": "Любима храна: Ябълков штрудел",
+		"portuges": "Comida favorita: strudel de maçã",
 	},
 	"traitDesc_FavoriteFoodAppleStrudel": {
 		"english": "%firstName% just can't wait to get another piece of delicious apple strudel.",
@@ -254,6 +285,7 @@
 		"french": "%firstName% ne peut pas attendre avant de prendre une part de délicieux strudel aux pommes.",
 		"turkish": "%firstName%, bir parça enfes elma meyveli turta daha almak için sabırsızlanıyor.",
 		"bulgarian": "%firstName% не може да изчака още една купа с вкусна плодова салата.",
+		"portuges": "%firstName% simplesmente não posso esperar para pegar outro pedaço de strudel de maçã delicioso.",
 	},
 	"traitTitle_AllergicToApples": {
 		"english": "Allergic to Apples",
@@ -262,6 +294,7 @@
 		"french": "Allergique aux Pommes",
 		"turkish": "Elmalara Alerjik",
 		"bulgarian": "Алергичен към Ябълките",
+		"portuges": "Alérgica a maçãs",
 	},
 	"traitDesc_AllergicToApples": {
 		"english": "%firstName% will avoid dishes that contain apples. If he is forced to eat it anyways, he is going to have an allergic reaction.",
@@ -270,6 +303,7 @@
 		"french": "%firstName% évite les plats qui contiennent des pommes. S'il est forcé à en manger, il aura des réactions allergiques.",
 		"turkish": "%firstName%, elma içeren yemeklerden kaçınır. Yemek zorunda kalırsa, alerjik reaksiyona girer.",
 		"bulgarian": "%firstName% ще избегне ястия, които съдържат ябълки. Ако все пак е принуден да го яде, той ще получи алергична реакция.",
+		"portuges": "%firstName% irá evitar pratos que contenham maçãs. Se ele for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
 	},
 	"traitTitle_AllergicToPotatoes": {
 		"english": "Allergic to Potatoes",
@@ -278,6 +312,7 @@
 		"french": "Allergique aux Pommes de Terre",
 		"turkish": "Patatese alerjik",
 		"bulgarian": "Алергичен към Картофите",
+		"portuges": "Alergico a Batata",
 	},
 	"traitDesc_AllergicToPotatoes": {
 		"english": "%firstName% will avoid dishes that contain potatoes. If he is forced to eat it anyways, he is going to have an allergic reaction.",
@@ -286,6 +321,7 @@
 		"french": "%firstName% évite les plats qui contiennent des pommes de terre. S'il est forcé à en manger, il aura des réactions allergiques.",
 		"turkish": "%firstName%, patates içeren yemeklerden kaçınacaktır. Yemek zorunda kalması durumunda, alerjik reaksiyona girecek.",
 		"bulgarian": "%firstName% ще избегне ястия, които съдържат картофи. Ако все пак е принуден да го яде, той ще получи алергична реакция.",
+		"portuges": "%firstName% evitará pratos que contenham batatas. Se ele for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
 	},
 	"traitTitle_AllergicToTomatoes": {
 		"english": "Allergic to Tomatoes",
@@ -294,6 +330,7 @@
 		"french": "Allergique aux Tomates",
 		"turkish": "Domateslere alerjik",
 		"bulgarian": "Алергичен към Доматите",
+		"portuges": "Alérgico para Tomate",
 	},
 	"traitDesc_AllergicToTomatoes": {
 		"english": "%firstName% will avoid dishes that contain tomatoes. If he is forced to eat it anyways, he is going to have an allergic reaction.",
@@ -302,5 +339,6 @@
 		"french": "%firstName% évite les plats qui contiennent des tomates. S'il est forcé à en manger, il aura des réactions allergiques.",
 		"turkish": "%firstName%, domates içeren yemeklerden kaçınır. Zaten yemek zorunda kalırsa, alerjik reaksiyona girer.",
 		"bulgarian": "%firstName% ще избегне ястия, които съдържат домати. Ако все пак е принуден да го яде, той ще получи алергична реакция.",
+		"portuges": "%firstName% evitará pratos que contenham tomates. Se ele for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
 	},
 }

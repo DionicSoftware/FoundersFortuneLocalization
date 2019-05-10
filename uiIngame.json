@@ -558,6 +558,10 @@
 		"turkish": "Kolonici mutluluğu",
 		"portuges": "Felicidade do colono",
 	},
+	"worldId": { // You can just translate it to "world". It needs to be short enough
+		"english": "World ID",
+		"german": "Welt",
+	},
 	"beauty": {
 		"english": "Beauty",
 		"german": "Schönheit",
@@ -886,11 +890,24 @@
 		"turkish": "Tüm kolonicilerinizin istekleri karşılandı. Yeni göçmen şansı için süre %time%.",
 		"portuges": "Todas as expectativas de seus colonos são atendidas. Próxima oportunidade para os migrantes em %time%",
 	},
-    	"colonistIsDumbNoExperience": {
-        	"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
-       		"german": "Leider ist %firstName% nicht der Hellste und wird keine Erfahrung sammeln.",
+    "colonistIsDumbNoExperience": {
+       	"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
+    	"german": "Leider ist %firstName% nicht der Hellste und wird keine Erfahrung sammeln.",
 		"french": "Malheureusement, %firstName% est stupide et ne gagnera d'expérience dans aucun travail.",
 		"turkish": "Ne yazık ki, %firstName% bir aptal ve çalıştığı işlerde tecrübe edinemeyecek.", 
 		"portuges": "Infelizmente, %firstName% é burro e não vai ganhar experiência em nenhum trabalho.",
-  },
+	},
+	"importantPossessions": {
+		"english": "Important Possessions",
+		"german": "Wichtiges Eigentum",
+	},
+	"importantPossession": {
+		"english": "Important Possession",
+		"german": "Wichtiges Eigentum",
+	},
+	"importantPossession_Desc": {
+		"english": "%name% likes this thing a lot and does not want to give it up.\n\nYou can not use it to fulfill anyone else's wishes.",
+		"german": "%name% mag dieses Objekt sehr gern und will es nicht hergeben\n\nDu kannst es nicht verwenden, um die Wünsche von anderen zu erfüllen.",
+	},
+
 }

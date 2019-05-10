@@ -910,4 +910,38 @@
 		"german": "%name% mag dieses Objekt sehr gern und will es nicht hergeben\n\nDu kannst es nicht verwenden, um die Wünsche von anderen zu erfüllen.",
 	},
 
+
+	// Trading menu
+	"trader": {
+		"english": "Trader",
+		"german": "Händler",
+	},
+	"colonyIsSelling": {
+		"english": "Colony is Selling to the Trader",
+		"german": "Kolonie verkauft an den Händler",
+	},
+	"colonyIsBuying": {
+		"english": "Colony is Buying from the Trader",
+		"german": "Kolonie kauft vom Händler",
+	},
+	"amountStorage": { // amount means how much is being traded and in store is the maximum amount the colony or the trader has in store
+		"english": "Amount / In Store",
+		"german": "Menge / Im Lager",
+	},
+	"tradingGoodName": {
+		"english": "Name",
+		"german": "Name",
+	},
+	"price": {
+		"english": "Price",
+		"german": "Preis",
+	},
+	"totalPrice": {
+		"english": "Total",
+		"german": "Gesamt",
+	},
+	"confirmTrade": {
+		"english": "Confirm Trade",
+		"german": "Handel abschließen",
+	},
 }

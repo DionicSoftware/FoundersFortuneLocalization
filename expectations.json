@@ -118,7 +118,7 @@
 	},
 	"homeSatisfactionGood": {
 		"english": "Lives in a good home",
-		"german": "Zufrieden mit seinem Zuhause",
+		"german": "Zufrieden mit %seinemIhrem% Zuhause",
 		"french": "Vit dans une belle maison",
 		"spanish": "Vive en una casa correcta",
 		"bulgarian": "Живее в добър дом",
@@ -145,7 +145,7 @@
 	},
 	"lifeSatisfactionAwesome": {
 		"english": "Very happy with life",
-		"german": "Übgerglücklich mit seinem Leben",
+		"german": "Übgerglücklich mit %seinemIhrem% Leben",
 		"french": "Très heureux de sa vie",
 		"spanish": "Muy contento con su vida",
 		"bulgarian": "Много щастлив от живота",
@@ -154,7 +154,7 @@
 	},
 	"lifeSatisfactionGood": {
 		"english": "Satisfied with life",
-		"german": "Zufrieden mit seinem Leben",
+		"german": "Zufrieden mit %seinemIhrem% Leben",
 		"french": "Satisfait de sa vie",
 		"spanish": "Satisfecho con su vida",
 		"bulgarian": "Доволен от живота",
@@ -172,7 +172,7 @@
 	},
 	"lifeSatisfactionBad": {
 		"english": "Not satisfied with life",
-		"german": "Nicht zufrieden mit seinem Leben",
+		"german": "Nicht zufrieden mit %seinemIhrem% Leben",
 		"french": "N'est pas satisfait avec sa vie",
 		"spanish": "No está satisfecho con su vida.",
 		"bulgarian": "Не е доволен от живота",
@@ -180,8 +180,8 @@
 		"portuges": "Não satisfeito com sua vida",
 	},
 	"promotionsSatisfactionAwesome": {
-		"english": "Mastered his profession",
-		"german": "Meister seiner Arbeit",
+		"english": "Mastered %hisHer% profession",
+		"german": "Meister %seinerIhrer% Arbeit",
 		"french": "Expert dans son métier",
 		"spanish": "Maestría alcanzada en su profesión",
 		"bulgarian": "Усвоил професията си",
@@ -189,8 +189,8 @@
 		"portuges": "Dominei sua profissão",
 	},
 	"promotionsSatisfactionGood": {
-		"english": "Confident in his skills",
-		"german": "Selbstsicher in seinen Fähigkeiten",
+		"english": "Confident in %hisHer% skills",
+		"german": "Selbstsicher in %seinenIhren% Fähigkeiten",
 		"french": "Confiant dans ses compétences",
 		"spanish": "Seguro de sus habilidades",
 		"bulgarian": "Уверен в уменията си",
@@ -198,8 +198,8 @@
 		"portuges": "Confiante em suas habilidades",
 	},
 	"promotionsSatisfactionInsufficient": {
-		"english": "Unsure of his skills",
-		"german": "Unsicher in seine Fähigkeiten",
+		"english": "Unsure of %hisHer% skills",
+		"german": "Unsicher in %seinenIhren% Fähigkeiten",
 		"french": "Incertain de ses compétences",
 		"spanish": "Inseguro de sus habilidades",
 		"bulgarian": "Несигурен в уменията си",
@@ -207,8 +207,8 @@
 		"portuges": "Não tem certeza de suas habilidades",
 	},
 	"promotionsSatisfactionBad": {
-		"english": "Unhappy with his skills",
-		"german": "Unzufrieden mit seinen Fähigkeiten",
+		"english": "Unhappy with %hisHer% skills",
+		"german": "Unzufrieden mit %seinenIhren% Fähigkeiten",
 		"french": "Malheureux avec ses compétences",
 		"spanish": "Descontento con sus habilidades",
 		"bulgarian": "Недоволен от уменията си",
@@ -216,8 +216,8 @@
 		"portuges": "Infeliz com suas habilidades",
 	},
 	"promotionsSatisfactionOk": {
-		"english": "Satisfied with his skills",
-		"german": "Zufrieden mit seinen Fähigkeiten",
+		"english": "Satisfied with %hisHer% skills",
+		"german": "Zufrieden mit %seinenIhren% Fähigkeiten",
 		"french": "Satisfait avec ses compétences",
 		"spanish": "Satisfecho con sus habilidades",
 		"bulgarian": "Доволен от уменията си",
@@ -225,7 +225,7 @@
 		"portuges": "Satisfeito com suas habilidades",
 	},
 	"promotionsSatisfactionOkDumb_Desc": {
-		"english": "Unfortunately, %firstName% is not the brightest and has trouble developing new skills. However, %heShe% has accepted his fate and is ok with it.",
+		"english": "Unfortunately, %firstName% is not the brightest and has trouble developing new skills. However, %heShe% has accepted %hisHer% fate and is ok with it.",
 		"german": "Leider ist %firstName% nicht der hellste und hat Schwierigkeiten, neue Fähigkeiten zu lernen. %cap%erSie% hat aber %seinIhr% Schicksal akzeptiert und findet es ok.",
 		//TODO-french
 		//TODO-spanish
@@ -477,8 +477,8 @@
 		"portuges": "Quer um emprego",
 	},
 	"wantsJob_Desc": {
-		"english": "%firstName% has no job at the moment. It's making him feel unfulfilled.",
-		"german": "%firstName% hat keinen Beruf. Er fühlt sich so ziellos.",
+		"english": "%firstName% has no job at the moment. It's making %himHer% feel unfulfilled.",
+		"german": "%firstName% hat keinen Beruf. %cap%heShe% fühlt sich so ziellos.",
 		"french": "%firstName% n'a pas de métier pour le moment. Il se sent insatisfait.",
 		"spanish": "%firstName% no tiene trabajo por el momento. Eso le hace sentirse insatisfecho.",
 		"bulgarian": "%firstName% няма работа за момента. Това го кара да се чувства неизпълнен.",

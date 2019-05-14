@@ -119,26 +119,6 @@
 		"portuges": "A poção de saúde que %firstName% bebeu faz seu trabalho e restaura sua saúde",
 		"turkish": "%firstName% şifa iksiri içti ve sağlığını geri kazanmaya başladı.",
 	},
-	"effectTitle_BrokenBone": {
-		"english": "Broken Bone",
-		"german": "Gebrochener Knochen",
-		"french": "Fracture",
-		"spanish": "Hueso roto",
-		"dutch" : "Bot breuk",
-		"bulgarian": "Счупена кост",
-		"portuges": "Osso quebrado",
-		"turkish": "Kemik kırığı",
-	},
-	"effectDesc_BrokenBone": {
-		"english": "Not implemented yet!",
-		"german": "Noch nicht programmiert!",
-		"french": "Pas encore implanté !",
-		"spanish": "¡Aún no implementado!",
-		"dutch" : "Nog niet geïmplementeerd!",
-		"bulgarian": "Все още не е приложена!",
-		"portuges": "Ainda não implementado",
-		"turkish": "Henüz uygulanmadı!",
-	},
 	"effectTitle_Flu": {
 		"english": "Flu",
 		"german": "Grippe",
@@ -228,6 +208,30 @@
 		"bulgarian": "%firstName% получава малки порции храна, такаче му липсва енергия да работи правилно и отнема по-дълго време да изпълни неговите задължения.",
 		"portuges": "%firstName% recebe apenas pequenas rações de comida, então ele simplesmente não tem energia para funcionar adequadamente e leva mais tempo para concluir as tarefas.",
 		"turkish": "%firstName% yalnızca küçük gıda rasyonları alıyor, bu yüzden düzgün çalışması için enerjiden yoksun ve işleri tamamlaması daha uzun sürüyor.",
+	},
+	"effectTitle_LegHurt": {
+		"english": "Hurt leg"
+	},
+	"effectDesc_LegHurt": {
+		"english": "Hurt leg"
+	},
+	"effectTitle_LegBroken": {
+		"english": "Broken leg"
+	},
+	"effectDesc_LegBroken": {
+		"english": "Broken leg"
+	},
+	"effectTitle_LegSplint": {
+		"english": "Splint"
+	},
+	"effectDesc_Leg Splint": {
+		"english": "Splint"
+	},
+	"effectTitle_Arm Splint": {
+		"english": "Splint"
+	},
+	"effectDesc_Arm Splint": {
+		"english": "Splint"
 	},
 }
 

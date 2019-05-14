@@ -394,8 +394,12 @@
 		"portuges": "Conversa Ruim",
 	},
 	"thoughtDesc_BadConversation": {
-		"english": "This guy is so full of himself. I couldn't stand listening to him.",
-		"german": "Dieser Typ ist unglaublich eingebildet. Ich konnte es nicht mal ertragen ihm zuzuhön.",
+		"english": "%firstName% is so full of %himselfHerself%. I couldn't stand listening to %himHer%.",
+		"german": "%firstName% ist unglaublich eingebildet. Ich konnte es nicht mal ertragen %ihmIhr% zuzuhön.",
+		//TODO-french
+		//TODO-spanish
+		//TODO-portuges
+		//TODO-turkish
 		"spanish": "Este chico es increíblemente arrogante. Ni siquiera podía soportarlo",
 		"french": "Ce mec est si imbu de lui-même. Je ne pourrais pas l'écouter.",
 		"turkish": "Bu adam kibir dolu. Onu dinlemeye dayanamadım.",

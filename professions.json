@@ -1,3 +1,7 @@
+// To avoid gendering difficulties, feel free to have the profession description in plural
+// For example "Famers gather food. They are great." is easier than "A farmer gathers food. He or she is great."
+
+
 {
 	"professionName_NoJob": {
 		"english": "No Job",
@@ -8,7 +12,7 @@
 		"portuges": "Sem emprego",
 	},
 	"professionDesc_NoJob": {
-		"english": "Select a job for your settler so he may work more independently.",
+		"english": "Select a job for your settler so they may work more independently.",
 		"german": "Weise deinem Siedler einen Beruf zu, um ihn automatisch arbeiten zu lassen.",
 		"french": "Sélectionnez un métier pour votre colon pour qu'il travaille de manière indépendante",
 		"spanish": "Selecciona un trabajo para tu colono y podrá trabajar de manera independiente.",
@@ -24,8 +28,12 @@
 		"portuges": "Agricultor",
 	},
 	"professionDesc_Farmer": {
-		"english": "A farmer is responsible for food production and cooking food. When not busy, he also gathers cotton.",
-		"german": "Ein Bauer kümmert sich um den Anbau von Nahrungsmitteln und verarbeitet sie weiter zu gekochtem Essen. Wenn er nichts anderes zu tun hat sammelt er Baumwolle.",
+		"english": "Farmers are responsible for food production and cooking food. When not busy, they also gathers cotton.",
+		"german": "Bauern kümmern sich um den Anbau von Nahrungsmitteln und verarbeitet sie weiter zu gekochtem Essen. Wenn sie nichts anderes zu tun haben, sammeln sie Baumwolle.",
+		//TODO-french
+		//TODO-spanish
+		//TODO-portuges
+		//TODO-turkish
 		"french": "Un fermier est responsable de la production de la nourriture et de la cuisine. Lorsqu'il n'est pas occupé, il récolte aussi du coton.",
 		"spanish": "Un granjero es responsable de producir comida y cocinarla. Cuando no esté ocupado también recogerá algodón.",
 		"turkish": "Çiftçiler gıda yetiştirme ve hazırlamakla görevli. Yoğunluk yokken pamuk da toplar",
@@ -40,8 +48,8 @@
 		"portuges": "Silvicultor",
 	},
 	"professionDesc_Forester": {
-		"english": "As a forester your settler cuts down trees for wood. For Mother Nature's sake, he also takes care of saplings.",
-		"german": "Als Förster fällt dein Kolonist Bäume für die Holzproduktion. Mutter Natur zu Liebe kümmert er sich auch um neue Setzlinge.",
+		"english": "As a forester your settler cuts down trees for wood. For Mother Nature's sake, foresters also takes care of saplings.",
+		"german": "Als Förster fällt dein Kolonist Bäume für die Holzproduktion. Mutter Natur zu Liebe kümmern sich Förster auch um neue Setzlinge.",
 		"french": "En tant que forestier, votre colon abat des arbres pour du bois. Par amour de mère nature, il prend soin aussi des jeunes arbres",
 		"spanish": "Como leñador, tu colono se encarga de cortar árboles para conseguir madera. Por el bien de la naturaleza también se encarga de los retoños.",
 		"turkish": "Oduncular ağaç kesip kereste hazırlar. Ayrıca fidanlara da bakar.",
@@ -88,8 +96,8 @@
 		"portuges": "Doctor",
 	},
 	"professionDesc_Doctor": {
-		"english": "A doctor trys to keep your colonists alive. If hurt he treats them so they can go back to working for you.",
-		"german": "Ein Arzt gibt sein Bestes deine Kolonisten am Leben zu erhalten. Haben sie sich verletzt behandelt er sie, sodass sie sich weiter für dich abrackern können.",
+		"english": "A doctor trys to keep your colonists alive. If hurt, doctors treats them so they can go back to working for you.",
+		"german": "Ein Arzt gibt sein Bestes deine Kolonisten am Leben zu erhalten. Haben sie sich verletzt behandeln Ärzte sie, sodass sie sich weiter für dich abrackern können.",
 		"french": "Un docteur tente de garder vos colons en vie. S'ils sont blessés, il les soignera pour qu'ils puissent retravailler pour vous.",
 		"spanish": "Un doctor intenta mantener a los colonos con vida. Si están heridos los trata para que puedan volver a trabajar para ti.",
 		"turkish": "Doktorlar, yerleşimcileri hayatta tutmaya çalışır. Yaralıları tekrar çalışabilmeleri için iyileştirirler.",

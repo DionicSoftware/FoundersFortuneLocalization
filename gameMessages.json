@@ -279,10 +279,26 @@
 		"bulgarian": "Анализирайте кристалите на Изследователската Маса",
 	},
 	"notificationTitle_MissingPossessions": {
-		"english": "Colonist is missing %hisHer% possessions",
+		"english": "Colonist is missing %hisHer% Possessions",
 		"german": "Kolonist findet sein Eigentum nicht mehr",
 		"french": "Il manque des possessions à un colon",
 		"portuges": "Colono está faltando suas posses",
+	},
+	"notificationTitle_LegHurt": {
+		"english": "%firstName% hurt %hisHer% Leg",
+		"german": "%firstName% hat %seinIhr% Bein verletzt",
+	},
+	"notificationTitle_LegBroken": {
+		"english": "%firstName% broke %hisHer% Leg",
+		"german": "%firstName% hat %seinIhr% Bein gebrochen",
+	},
+	"notificationTitle_ArmHurt": {
+		"english": "%firstName% hurt %hisHer% Arm",
+		"german": "%firstName% hat %seinenIhren% Arm verletzt",
+	},
+	"notificationTitle_ArmBroken": {
+		"english": "%firstName% broke %hisHer% Arm",
+		"german": "%firstName% hat %seinenIhren% Bein gebrochen",
 	},
 
 	// FLOATING TEXTS

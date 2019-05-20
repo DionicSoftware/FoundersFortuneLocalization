@@ -274,6 +274,7 @@
 		"french": "Heureux avec son salaire",
 		"portuges": "Muito bem com seu salário",
 		"turkish": "Maaşından memnun",
+		"spanish": "Feliz con su sueldo",
 	},
 	"salarySatisfactionGood": {
 		"english": "Fine with %hisHer% salary",
@@ -282,7 +283,8 @@
 		//TODO-turkish
 		"french": "Bien avec son salaire",
 		"portuges": "Bem com seu salário",
-		"turkish": "Maaşıyla ilgili bir sorunu yok",		
+		"turkish": "Maaşıyla ilgili bir sorunu yok",
+		"spanish": "Bien con su sueldo",
 	},
 	"salarySatisfactionInsufficient": {
 		"english": "Didn't receive enough salary",
@@ -292,24 +294,27 @@
 	},
 	"salarySatisfactionBad": {
 		"english": "Received way too little salary",
-		"french": "A reçu un beaucoup trop petit salaire",
+		"french": "A reçu un salaire beaucoup trop bas",
 		"portuges": "Recebeu muito pouco salário",
-		"turkish": "Maaşını çok düşük buluyor",	
+		"turkish": "Maaşını çok düşük buluyor",
+		"spanish": "Ha recibido un sueldo muy bajo", // TODO-verificar tiempo
 	},
 	"salarySatisfactionNotPaidYet": {
 		"english": "Has not received a salary yet",
 		"french": "N'a pas encore reçu de salaire",
 		"portuges": "Ainda não recebeu um salário",
-		"turkish": "Henüz maaşını alamadı",		
+		"turkish": "Henüz maaşını alamadı",
+		"spanish": "No ha recibido sueldo todavía", // TODO-verificar tiempo
 	},
 	"salarySatisfactionAwesome_Desc": {
 		"english": "%firstName% didn't think %hisHer% work would be worth that much money. %heShe% expects %coins% coins per day, but the extra money brightens up %hisHer% day!",
 		//TODO-french
 		//TODO-portuges
 		//TODO-turkish
-		"french": "%firstName% ne pensait pas que son travail valait autant d'argent. Il s'attend à %coins% pièces par jour, mais l'argent supplémentaire illumine sa journée !",
-		"portuges": "%firstName% Não achava que seu trabalho valeria tanto dinheiro. Ele espera %coins% moedas por dia, mas o dinheiro extra ilumina seu dia!",
+		"french": "%firstName% ne pensait pas que son travail valait autant d'argent. %heShe% s'attend à %coins% pièces par jour, mais l'argent supplémentaire illumine sa journée !",
+		"portuges": "%firstName% Não achava que seu trabalho valeria tanto dinheiro. %heShe% espera %coins% moedas por dia, mas o dinheiro extra ilumina seu dia!",
 		"turkish": "%firstName%, yaptığı işin bu kadar maaş getireceğini düşünmemişti. Günde %coins% almayı beklerken, ilave para gününü aydınlattı!",
+		"spanish": "%firstName% no pensaba que su trabajo merecía tanto dinero. %heShe% espera %coins% por día, pero el dinero extra ilumina su día!",
 	},
 	"salarySatisfactionGood_Desc": {
 		"english": "%firstName% thinks %hisHer% last payday was adequate. %coins% coins per day is a normal salary for %himHer%.",
@@ -319,6 +324,7 @@
 		"french": "%firstName% pense que son dernier jour de paie était adéquat. %coins% pièces par jour est un salaire normal pour lui.",
 		"portuges": "%firstName% acha que seu último pagamento foi adequado. %coins% moedas por dia é um salário normal para ele.",
 		"turkish": "%firstName%, aldığı maaşın yaptığı işe göre yeterli olduğunu dşünüyor. Günde %coins% kazanmak onun için normal",
+		"spanish": "%firstName% piensa que su último día de sueldo está adecuado. %coins% moneda por día es un salario normal según él.",
 	},
 	"salarySatisfactionInsufficient_Desc": {
 		"english": "According to %firstName%, %heShe% deserves a minimum salary of %coins% coins per day.",

@@ -20,7 +20,7 @@
 		//TODO-turkish
 		"french": "%firstName% saigne ! Assurez-vous que ses blessures soient bandées. Sinon, %firstName% pourrait mourir.",
 		"spanish": "¡%firstName% está sangrando! Asegúrate de que sus heridas sean correctamente vendadas. De otra manera %firstName% podría morir desangrado.",
-		"dutch": "%firstName% bloed! Zorg ervoor dat zijn wonden goed zijn verbonden. Anders, %firstName% kan dood gaan aan bloedverlies.",
+		"dutch": "%firstName% bloed! Zorg ervoor dat zijn wonden goed zijn verbonden. Anders, kan %firstName% dood gaan aan bloedverlies.",
 		"bulgarian": "%firstName% кърви! Бъдете сигурни, че неговите рани са превързани правилно. Иначе, %firstName% може да умре от кръвозагоба.",
 		"portuges": "%firstName% sangra! Certifique-se de que seus ferimentos estejam enfaixados. Caso contrário, %firstName% poderia morrer.",
 		"turkish": "%firstName% yaralı! Yaralarının düzgün şekilde sargılandığından olduğundan emin olun. Aksi takdirde, %firstName% kan kaybından ölebilir.",
@@ -53,7 +53,7 @@
 		"dutch": "Verband",
 		"bulgarian": "Превръзка",
 		"portuges": "Bandagem",
-		"turkish": "Sargılama",
+		"turkish": "Bandaj",
 	},
 	"effectDesc_Bandage": {
 		"english": "The bandage is stopping the blood loss.",
@@ -93,7 +93,7 @@
 		"dutch": "Hongerig",
 		"bulgarian": "Глад",
 		"portuges": "Morre de fome",
-		"turkish": "Açlık çekiyor",
+		"turkish": "Acıkıyor",
 	},
 	"effectDesc_Starving": {
 		"english": "%firstName% didn't eat in a long time. %cap-heShe% needs to find something to eat soon in order to survive.",
@@ -106,7 +106,7 @@
 		//TODO-turkish
 		"french": "%firstName% n'a pas mangé depuis longtemps. Il doit trouver quelque chose à manger rapidement pour survivre",
 		"spanish": "%firstName% lleva un buen rato sin comer. Él debe encontrar algo que comer pronto para sobrevivir.",
-		"dutch": "%firstName% heeft al lang niet gegeten. hij moet snel wat eten om te overleven.",
+		"dutch": "%firstName% heeft al lang niet gegeten. Hij moet snel wat eten om te overleven.",
 		"bulgarian": "%firstName% не е ял от дълго време. Той трябва да намери нещо за ядене за да оцелее.",
 		"portuges": "%firstName% não tenha comido por um longo tempo. Ele deve encontrar algo para comer rapidamente para sobreviver",
 		"turkish": "%firstName% uzun zamandır yemek yemedi. Hayatta kalabilmek için en kısa zamanda yiyecek bir şeyler bulması gerekiyor.",
@@ -126,7 +126,7 @@
 		"german": "Der Heiltrank, den %firstName% getrunken hat, zeigt seine Wirkung und stellt ein bisschen Gesundheit wieder her",
 		"french": "La potion de soin que %firstName% a bu fait son travail et restaure sa santé",
 		"spanish": "La poción de salud que %firstName% se tomó está dando resultados y le da algo de salud.",
-		"dutch":"Het genezend drankje %firstName% dronk doet z'n werk en herstelt zijn gezondheid.",
+		"dutch":"Het genezend drankje dat %firstName% dronk doet z'n werk en herstelt zijn gezondheid.",
 		"bulgarian": "Лечебната отвара която %firstName% изпи прави своята работа и възтановява малко от кръвта.",
 		"portuges": "A poção de saúde que %firstName% bebeu faz seu trabalho e restaura sua saúde",
 		"turkish": "%firstName% şifa iksiri içti ve sağlığını geri kazanmaya başladı.",
@@ -165,7 +165,7 @@
 		"dutch" : "Slaapt in bed",
 		"bulgarian": "Почивка в леглото",
 		"portuges": "Descansar na cama",
-		"turkish": "Yatakta dinlenmek",
+		"turkish": "Yatakta dinleniyor",
 	},
 	"effectDesc_SleepingInBed": {
 		"english": "%firstName% is resting and slowly re-gaining health.",
@@ -240,10 +240,10 @@
 		//TODO-turkish
 		"french": "%firstName% ne reçoit que de petites rations alimentaires, donc il manque d'énergie pour travailler et prend plus de temps pour accomplir une tâche.",
 		"spanish": "%firstName% recibe sólo pequeñas raciones de comida, por lo tanto carece de la energía para trabajar adecuadamente y tarda más en completar tareas.",
-		"dutch" : "%firstName% krijgt alleen kleine voedsel rotaties, dus hij lekt de energie om normaal te werken en doet er dus langer over om taken te voltooien.",
+		"dutch" : "%firstName% krijgt alleen kleine voedsel rotaties, dus hij heeft niet de energie om normaal te werken en doet er dus langer over om taken te voltooien.",
 		"bulgarian": "%firstName% получава малки порции храна, такаче му липсва енергия да работи правилно и отнема по-дълго време да изпълни неговите задължения.",
 		"portuges": "%firstName% recebe apenas pequenas rações de comida, então ele simplesmente não tem energia para funcionar adequadamente e leva mais tempo para concluir as tarefas.",
-		"turkish": "%firstName% yalnızca küçük gıda rasyonları alıyor, bu yüzden düzgün çalışması için enerjiden yoksun ve işleri tamamlaması daha uzun sürüyor.",
+		"turkish": "%firstName% yalnızca küçük gıda rasyonları alıyor, bu yüzden düzgün çalışması için gerekli enerjisi yok ve işleri tamamlaması daha uzun sürüyor.",
 	},
 	"effectTitle_LegHurt": {
 		"english": "Hurt leg",

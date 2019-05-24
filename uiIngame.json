@@ -51,7 +51,7 @@
 		"spanish": "Amistades",
 		"turkish": "Arkadaşlık",
 		"portuges": "Amizades",
-		"dutch": "Vriendschap",
+		"dutch": "Vriendschappen",
 	},
 	"hunger": {
 		"english": "Hunger",
@@ -87,7 +87,7 @@
 		"spanish": "Si no mantienes a tus colonos felices, se volverán rebeldes y puede que dejen de seguir tus órdenes.",
 		"turkish": "Kolonicileri mutlu tutmazsan, sorun çıkarmaya başlayacaklar, ve emirlerini dinlemeyecekler",
 		"portuges": "Se você não mantiver seus colonos felizes, eles começarão a ser desafiadores e poderão parar de seguir seus pedidos.",
-		"dutch": "Als je je kolonisten niet blij houdt, dan beginnen ze niet blij te worden en volgen ze jouw orders misschien niet meer",
+		"dutch": "Als je je kolonisten niet blij houdt, beginnen ze uitdagend te worden en volgen ze jouw orders misschien niet meer",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -96,7 +96,7 @@
 		"spanish": "Esta necesidad todavía no ha sido incluída al completo en el juego.",
 		"turkish": "Bu ihtiyaç tam olarak henüz oyuna dahil edilmedi.",
 		"portuges": "Esta necessidade ainda não foi totalmente incluída no jogo.",
-		"dutch": "Dese benodigheid zit nog niet helemaal in het spel",
+		"dutch": "Deze benodigheid zit nog niet helemaal in het spel",
 	},
 	"needsDescriptionHunger": {
 		"english": "Gather apples or plant crops to take care of food.",
@@ -105,7 +105,7 @@
 		"spanish": "Recoge manzanas o planta cultivos para cuidar la alimentación.",
 		"turkish": "Yemek için ya elma topla ya da sebze ek",
 		"portuges": "Reúna maçãs ou plante colheitas para cuidar dos alimentos.",
-		"dutch": "Verzamel wat Appels of wat Gewassen om voor het eten te zorgen",
+		"dutch": "Verzamel wat Appels of Gewassen om voor eten te zorgen",
 	},
 	"needsDescriptionStamina": {
 		"english": "Give your colonist a break every once in a while so they can recover.",
@@ -132,7 +132,7 @@
 		"spanish": "Raciones de comida",
 		"turkish": "Gıda Rasyonları",
 		"portuges": "Rações Alimentares",
-		"dutch": "Voedselrantsoenen",
+		"dutch": "Voedsel Rantsoenen",
 	},
 	"thoughts": {
 		"english": "Thoughts",
@@ -186,7 +186,7 @@
 		"spanish": "Vista",
 		"turkish": "Görüş",
 		"portuges": "Visão",
-		"dutch": "Zicht",
+		"dutch": "Bekijken",
 	},
 	"info": {
 		"english": "Info",
@@ -222,7 +222,7 @@
 		"spanish": "Elige un nuevo trabajo",
 		"turkish": "Yeni bir iş seç",
 		"portuges": "Escolha um novo emprego",
-		"dutch": "Kies een nieuwe baan",
+		"dutch": "Kies een Nieuwe Baan",
 	},
 	"specialization": {
 		"english": "Specialization",
@@ -249,7 +249,7 @@
 		"spanish": "Exp",
 		"turkish": "Exp",
 		"portuges": "Exp.",
-		"dutch": "Erv",
+		"dutch": "Xp",
 	},
 	"changeProfession": {
 		"english": "Change",
@@ -393,7 +393,7 @@
 		"spanish": "Puntos de satisfacción",
 		"turkish": "Memnuniyet puanları",
 		"portuges": "Pontos de Satisfação",
-		"dutch": "Tevredenheidpunten ",
+		"dutch": "Tevredenheids Punten",
 	},
 	"wishPointsTip_Desc": {
 		"english": "Every fulfilled wish makes your colonist more satisfied with life.",
@@ -603,7 +603,7 @@
 		"spanish": "Con la herramienta de seleccionado puedes restringir los recursos que se recolectarán a aquellos que hayas marcado. Los colonos trabajaran en los objetos seleccionados automáticamente.",
 		"turkish": "Seçim aracıyla kaynak toplanmasını sadece seçilen objelerde yapılmasını sağlayabilirsiniz. Böylece koloniciler sadece bu objelerde çalışır",
 		"portuges": "Com a ferramenta de designação, você pode restringir a coleta de recursos aos objetos marcados com a ferramenta. Os colonos só vão trabalhar em objetos designados automaticamente.",
-		"dutch": "Met het markeer gereedschap kan je het verbieden om grondstoffen te verzamelen aan de objecten die je hebt geselecteerd met het gereedschap. De Kolonisten gaan alleen wegen aan het geselecteerde objecten automatisch",
+		"dutch": "Met het markeer gereedschap kan je het verbieden om grondstoffen te verzamelen aan de objecten die je hebt geselecteerd met het gereedschap. De Kolonisten gaan alleen automatisch werken aan geselecteerde objecten",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode"
@@ -650,6 +650,7 @@
 	"worldId": { // You can just translate it to "world". It needs to be short enough
 		"english": "World ID",
 		"german": "Welt",
+		"spanish": "Mundo ID",
 		"portuges": "Mundo ID",
 		"french": "Monde ID",
 		"turkish": "Dünya ID",
@@ -716,7 +717,7 @@
 		"spanish": "Asientos",
 		"turkish": "Oturma",
 		"portuges": "Assentos",
-		"dutch": "Zitplaats",
+		"dutch": "Zitplaatsen",
 	},
 	"tables": {
 		"english": "Tables",
@@ -725,6 +726,7 @@
 		"spanish": "Mesas",
 		"turkish": "Masalar",
 		"portuges": "Mesas",
+		"dutch": "Tafels",
 	},
 	"storage": {
 		"english": "Storage",
@@ -850,7 +852,7 @@
 		"spanish": "Recompensas por satisfacción",
 		"turkish": "Memnuniyet ödülleri",
 		"portuges": "Recompensas de Satisfação",
-		"dutch": "Tevredenheidbeloningen",
+		"dutch": "Tevredenheids Beloningen",
 	},
 	"instantMaxHealth": {
 		"english": "Instant Max Health",
@@ -868,7 +870,7 @@
 		"spanish": "Curar enfermedad",
 		"turkish": "Hastalığı tedavi et",
 		"portuges": "Curar a doença",
-		"dutch": "Ziekte genezen",
+		"dutch": "Genees Ziekte",
 	},
 	"motivationBoost": {
 		"english": "Motivation Boost",
@@ -904,7 +906,7 @@
 		"spanish": "Atributos disponibles",
 		"turkish": "Kullanılabilir özellikler",
 		"portuges": "Traços Disponíveis",
-		"dutch": "Mogelijke Eigenschappen",
+		"dutch": "Beschikbare Eigenschappen",
 	},
 	"sleepingSpot": {
 		"english": "Sleeping Spot",
@@ -913,7 +915,7 @@
 		"spanish": "Lugar para dormir",
 		"turkish": "Uyuma noktası",
 		"portuges": "Ponto de dormir",
-		"dutch": "Slaapplaats",
+		"dutch": "Slaap Plaats",
 	},
 	"isInRoom": {
 		"english": "Is in room",
@@ -1003,7 +1005,7 @@
 		"spanish": "La almenara no está ardiendo. Los migrantes no pueden encontrar la colonia.",
 		"turkish": "Uyarı ateşi yanmıyor. Göçmenler koloniyi bulamayacak",
 		"portuges": "Nenhuma fogueira está queimando. Os migrantes não conseguem encontrar a colônia.",
-		"dutch": "Er is geen Kampvuur aan. Migranten kunnen de kolonie niet vinden",
+		"dutch": "Er is geen Baken aan. Migranten kunnen de kolonie niet vinden",
 	},
 	"immigration_status_expectationsNotMet": {
 		"english": "Your colonists' expectations are not met. No migrants are going to join this colony.",
@@ -1012,7 +1014,7 @@
 		"spanish": "Las expectativas de tus colonos no se cumplen. No llegarán migrantes a unirse a la colonia.",
 		"turkish": "Kolonicilerinizin istekleri karşılanmadı. Hiçbir göçmen koloninize katılmayacak",
 		"portuges": "As expectativas dos seus colonos não são atendidas. Nenhum migrante vai se juntar a esta colônia.",
-		"dutch": "Jouw Kolonisten hun verwachtingen zijn niet behaald. Geen migranten gaan deze kolonie betreden",
+		"dutch": "De verwachting van je kolonisten zijn niet behaald. Geen migranten gaan deze kolonie betreden",
 	},
 	"immigration_status_ok": {
 		"english": "All your colonists' expectations are met. Next chance for migrants in %time%.",
@@ -1021,7 +1023,7 @@
 		"spanish": "Las expectativas de todos tus colonos se cumplen. Probabilidad de que aparezcan nuevos migrantes en %time%.",
 		"turkish": "Tüm kolonicilerinizin istekleri karşılandı. Yeni göçmen şansı için süre %time%.",
 		"portuges": "Todas as expectativas de seus colonos são atendidas. Próxima oportunidade para os migrantes em %time%",
-		"dutch": "Al jouw kolonisten hun verwachtingen zijn behaald. De volgende kans voor migranten in &time&",
+		"dutch": "Alle verwachtingen van jouw kolonisten zijn behaald. De volgende kans op migranten is in &time&",
 	},
     "colonistIsDumbNoExperience": {
        	"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
@@ -1030,7 +1032,7 @@
 	    "spanish": "Desafortunadamente, %firstName% es tonto y no ganará nada de experiencia en ningún trabajo.",
 		"turkish": "Ne yazık ki, %firstName% bir aptal ve çalıştığı işlerde tecrübe edinemeyecek.", 
 		"portuges": "Infelizmente, %firstName% é burro e não vai ganhar experiência em nenhum trabalho.",
-	    "dutch": "Jammergenoeg, %firstName% is dom en gaat geen ervaring halen in elke baan",
+	    "dutch": "Helaas, %firstName% is dom en zal geen ervaring opdoen in een baan",
 	},
 	"importantPossessions": {
 		"english": "Important Possessions",
@@ -1048,7 +1050,7 @@
 		"spanish": "Posesión importante",
 		"portuges": "Posses importantes",
 		"turkish": "Değerli Eşyalar",
-		"dutch": "Belangerijke Eigendom",
+		"dutch": "Belangerijk Eigendom",
 	},
 	"importantPossession_Desc": {
 		"english": "%name% likes this thing a lot and does not want to give it up.\n\nYou can not use it to fulfill anyone else's wishes.",

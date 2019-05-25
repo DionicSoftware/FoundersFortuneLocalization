@@ -7,6 +7,8 @@
 		"turkish": "Dilekler",
 		"bulgarian": "Желания",
 		"portuges": "Desejos",
+		"swedish": "Önskningar",
+		"dutch": "Wensen",
 	},
 	"discover": {
 		"english": "Discover %tech%",
@@ -16,6 +18,8 @@
 		"turkish": "%tech% keşfet",
 		"bulgarian": "Открийте %tech%",
 		"portuges": "Descobrir %tech%",
+		"swedish": "Upptäck %tech%",
+		"dutch": "Ontdek %tech%",
 	},
 	"GetProfession": {
 		"english": "Get a job",
@@ -25,6 +29,8 @@
 		"turkish": "Bir iş bul",
 		"bulgarian": "Намерете работа",
 		"portuges": "Conseguir um emprego",
+		"swedish": "Få ett jobb",
+		"dutch": "Krijg een baan",
 	},
 	"GetSleepingSpot": {
 		"english": "Get a sleeping spot",
@@ -34,6 +40,8 @@
 		"turkish": "Uyuyabilmek için uygun bir yer",
 		"bulgarian": "Направи място за спане",
 		"portuges": "Conseguir um lugar para dormir",
+		"swedish": "Få en bädd",
+		"dutch": "Krijg een slaap plek",
 	},
 	"GetBedroom": {
 		"english": "Get a bedroom",
@@ -43,6 +51,8 @@
 		"turkish": "Yatak odası",
 		"bulgarian": "Направи спалня",
 		"portuges": "Obter um quarto",
+		"swedish": "Få ett rum",
+		"dutch": "Krijg een slaapkamer",
 	},
 	"reachLevelAsA": {
 		"english": "Reach level %level% as a %profession%",
@@ -52,6 +62,8 @@
 		"turkish": "%profession% de seviye %level% ulaş",
 		"bulgarian": "Достигане до ниво %level% като %profession%",
 		"portuges": "Atingir nível %level% como %profession%",
+		"swedish": "Nå nivå %level% som %profession%",
+		"dutch": "Haal level %level% als een %profession%",
 	},
 	"getFurnitureInLocation": {
 		"english": "Get %furniture% in %location%",
@@ -61,6 +73,12 @@
 		"turkish": "%location% için %furniture%",
 		"bulgarian": "Направете %furniture% във %location%",
 		"portuges": "Obter %furniture% em %location%",
+		"swedish": "Få %furniture% i %location%",
+		"dutch": "Krijg %furniture% in %location%",
+	},
+	"getBackFurnitureInLocation": {
+		"english": "Get %furniture% back in %location%",
+		"german": "%furniture% in %location% zurückbekommen",
 	},
 	"furnitureCategory_AChair": {
 		"english": "a Chair",
@@ -70,6 +88,8 @@
 		"turkish": "Sandalye",
 		"bulgarian": "Стол",
 		"portuges": "uma cadeira",
+		"swedish": "en stol",
+		"dutch": "een Stoel",
 	},
 	"furnitureCategory_ATable": {
 		"english": "a Table",
@@ -79,6 +99,8 @@
 		"turkish": "Masa",
 		"bulgarian": "Маса",
 		"portuges": "uma mesa",
+		"swedish": "ett bord",
+		"dutch": "een Tafel",
 	},
 	"furnitureCategory_AArmchair": {
 		"english": "an Armchair",
@@ -88,6 +110,8 @@
 		"turkish": "Kollu sandalye",
 		"bulgarian": "Фотьойл",
 		"portuges": "uma poltrona",
+		"swedish": "en fåtölj",
+		"dutch": "een Fauteuil",
 	},
 	"furnitureCategory_ACouch": {
 		"english": "a Couch",
@@ -97,6 +121,8 @@
 		"turkish": "Kanape",
 		"bulgarian": "Диван",
 		"portuges": "um sofá",
+		"swedish": "en soffa",
+		"dutch": "een Bank",
 	},
 	"furnitureCategory_AFireplace": {
 		"english": "a Fireplace",
@@ -106,16 +132,19 @@
 		"turkish": "Şömine",
 		"bulgarian": "Камина",
 		"portuges": "uma lareira",
+		"swedish": "en eldstad",
+		"dutch": "een Openhaard",
 	},
 	"furnitureCategory_ASmallShelf": {
 		"english": "a Dresser",
 		"german": "eine Kommode",
 		"french": "une Commode",
-		// DONE
 		"spanish": "una Cómoda",
 		"turkish": "Gardırop",
 		"bulgarian": "Дрешник",
 		"portuges": "uma cômoda",
+		"swedish": " en byrå",
+		"dutch": "een Ladenkast",
 	},
 	"furnitureCategory_ABigShelf": {
 		"english": "a Big Shelf or Wardrobe",
@@ -125,6 +154,8 @@
 		"turkish": "Büyük bir gardırop",
 		"bulgarian": "Гардероб",
 		"portuges": "uma grande prateleira ou guarda-roupa",
+		"swedish": "en stor hylla eller garderob",
+		"dutch": "een Grote Planken- of Kledingkast",
 	},
 	"furnitureCategory_AChest": {
 		"english": "a Chest",
@@ -134,6 +165,8 @@
 		"turkish": "Sandık",
 		"bulgarian": "Чест",
 		"portuges": "um baú",
+		"swedish": "en kista",
+		"dutch": "een Kist",
 	},
 	"furnitureCategory_AFlowerPot": {
 		"english": "a Flower Pot",
@@ -143,6 +176,8 @@
 		"turkish": "Saksı",
 		"bulgarian": "Саксия",
 		"portuges": "um vaso de flores",
+		"swedish": "en blomkruka",
+		"dutch": "een Bloempot",
 	},
 	"furnitureCategory_AVase": {
 		"english": "a Vase",
@@ -152,15 +187,26 @@
 		"turkish": "Vazo",
 		"bulgarian": "Ваза",
 		"portuges": "um vaso",
+		"swedish": "en vas",
+		"dutch": "een Vaas",
 	},
 	"wishLocation_Room": {
-		"english": "his Room",
-		"german": "seinem Raum",
+		"english": "%hisHer% Room",
+		"german": "%seinemIhrem% Raum",
+		//TODO-french
+		//TODO-spanish
+		//TODO-turkish
+		//TODO-bulgarian
+		//TODO-portuges
+		//TODO-swedish
+		//TODO-dutch
 		"french": "sa Pièce",
 		"spanish": "su Habitación",
 		"turkish": "Onun odası",
 		"bulgarian": "неговата Стая",
 		"portuges": "seu quarto",
+		"swedish": "sitt rum",
+		"dutch": "zijn Kamer",
 	},
 	"wishLocation_House": {
 		"english": "his House",
@@ -170,6 +216,8 @@
 		"turkish": "Onun evi",
 		"bulgarian": "неговата Къща",
 		"portuges": "sua casa",
+		"swedish": "sitt hus",
+		"dutch": "zijn Huis",
 	},
 	"wishLocation_Colony": {
 		"english": "the Colony",
@@ -179,6 +227,8 @@
 		"turkish": "Koloni",
 		"bulgarian": "Колонията",
 		"portuges": "a colônia",
+		"swedish": "kolonin",
+		"dutch": "de Nederzetting",
 	},
 	"useSatisfactionRewardPoints": {
 		"english": "Use Satisfaction Reward Points",
@@ -188,6 +238,8 @@
 		"turkish": "Memnuniyet Ödül Puanlarını Kullan",
 		"bulgarian": "Използвайте Наградни Точки за Удовлетворение",
 		"portuges": "Use pontos de recompensa de satisfação",
+		"swedish": "spendera tillfredsställelsepoäng",
+		"dutch": "Gebruik Tevredenheids Belonings Punten  ",
 	},
 	"getRidOfTrait": {
 		"english": "Get rid of Trait: %trait%",
@@ -197,6 +249,8 @@
 		"turkish": "%trait% özelliğinden kurtul",
 		"bulgarian": "Отърви се от черта: %trait%",
 		"portuges": "Livrar-se do traço: %trait%",
+		"swedish": "ta bort egenskapen: %trait%",
+		"dutch": "Ontdoe je van de eigenschap: %trait%",
 	},
 	"getRidOfCondition": {
 		"english": "Get rid of Condition: %condition%",
@@ -206,6 +260,8 @@
 		"turkish": "%condition% kondisyonundan kurtul",
 		"bulgarian": "Отърви се от условието: %condition",
 		"portuges": "Livrar-se da Condição: %condition%",
+		"swedish": "ta bort tillståndet: %condition%",
+		"dutch": "Ontdoe je van de voorwaarde: %condition%",
 	},
 	"getBackToFullHealth": {
 		"english": "Get back to full health",
@@ -215,6 +271,8 @@
 		"turkish": "Tam sağlığa kavuş",
 		"bulgarian": "Върнете се в пълно здраве",
 		"portuges": "Volte para a saúde total",
+		"swedish": "få tillbaka full hälsa",
+		"dutch": "Krijg weer volle gezondheid",
 	},
 	"getBigPayday": {
 		"english": "Get a big payday of at least %coins% coins",

@@ -1,5 +1,15 @@
 {
-	"equipmentName_sword": {
+	"equipmentName_swordWood": {
+		"english": "Wooden Sword",
+		"german": "Holzschwert",
+	},
+	// TDOO: equipment desc
+	"equipmentName_swordStone": {
+		"english": "Stone Sword",
+		"german": "Steinschwert",
+	},
+	// TDOO: equipment desc
+	"equipmentName_swordIron": {
 		"english": "Iron Sword",
 		"german": "Eisenschwert",
 		"french": "Épée en Fer",
@@ -8,7 +18,7 @@
 		"turkish": "Demir kılıç",
 		"portuges": "Espada de ferro",
 	},
-	"equipmentDescription_sword": {
+	"equipmentDescription_swordIron": {
 		"english": "It's a decent melee weapon. Forged by a skilled craftsman.",
 		"german": "Es ist eine ordentliche Nahkampfwaffe. Von einem fähigen Handwerker geschmiedet.",
 		"french": "C'est une arme de mêlée ordinaire. Forgée par un artisant expérimenté",
@@ -53,7 +63,17 @@
 		"turkish": "Kullanıcıyı bulaşıcı hastalıklardan korur. Hastaları ile çok fazla temasta oldukları için doktorlar için çok faydalıdır.",
 		"portuges": "Protege o usuário de doenças contagiosas. Muito útil para os médicos, pois eles têm muito contato com seus pacientes doentes.",
 	},
-	"equipmentName_axe": {
+	"equipmentName_axeWood": {
+		"english": "Wooden Axe",
+		"german": "Holzaxt",
+	},
+	// TDOO: equipment desc
+	"equipmentName_axeStone": {
+		"english": "Stone Axe",
+		"german": "Steinaxt",
+	},
+	// TDOO: equipment desc
+	"equipmentName_axeIron": {
 		"english": "Axe",
 		"german": "Axt",
 		"french": "Hâche",
@@ -62,7 +82,7 @@
 		"turkish": "Balta",
 		"portuges": "Machado",
 	},
-	"equipmentDescription_axe": {
+	"equipmentDescription_axeIron": {
 		"english": "With this axe, cutting wood takes half the time.",
 		"german": "Mit der Axt geht Holzfällen doppelt so schnell.",
 		"french": "Avec cette hâche, couper du bois prend deux fois moins de temps",
@@ -71,7 +91,17 @@
 		"turkish": "Bu baltayla odun kesmek iki kat daha hızlı olur.",
 		"portuges": "Com esse machado, cortar madeira leva metade do tempo.",
 	},
-	"equipmentName_pickaxe": {
+	"equipmentName_pickaxeWood": {
+		"english": "Wooden Pickaxe",
+		"german": "Holzpicke",
+	},
+	// TDOO: equipment desc
+	"equipmentName_pickaxeStone": {
+		"english": "Stone Pickaxe",
+		"german": "Steinpicke",
+	},
+	// TDOO: equipment desc
+	"equipmentName_pickaxeIron": {
 		"english": "Pickaxe",
 		"german": "Picke",
 		"french": "Pioche",
@@ -80,7 +110,7 @@
 		"turkish": "Kazma",
 		"portuges": "Picareta",
 	},
-	"equipmentDescription_pickaxe": {
+	"equipmentDescription_pickaxeIron": {
 		"english": "With this pickaxe, mining takes half the time.",
 		"german": "Mit der Picke geht das Abbauen von Stein, Eisen und Kristallen doppelt so schnell.",
 		"french": "Avec cette pioche, miner prend deux fois moins de temps",

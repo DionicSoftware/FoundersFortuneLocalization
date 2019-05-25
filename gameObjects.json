@@ -12,7 +12,7 @@
 	},
 	"appleBasketDescription": {
 		"english": "Use this basket to provide your colonists with raw food. Whenever they are hungry, they will come to the basket to get something to eat - as long as you have enough food in store.",
-		"german": "Benutze diesen Korb um deine Kolonisten mit rohem Essen zu versorgen. Immer wenn sie hunger sind werden sie von selbst zum Korb kommen und sich etwas zu essen holen - solange du genug im Lager hast.",
+		"german": "Benutze diesen Korb um deine Kolonisten mit rohem Essen zu versorgen. Immer wenn sie hungrig sind werden sie von selbst zum Korb kommen und sich etwas zu essen holen - solange du genug im Lager hast.",
 		"french": "Utilisez ce panier pour fournir à vos colons des aliments crus. Lorsqu'ils auront faim, ils iront chercher de quoi manger dans le panier - aussi longtemps que vous aurez des aliments en stock.",
 		"spanish": "Utiliza esta canasta para proveer de comida cruda a tus colonos.",
 		"portuges": "Use esta cesta para fornecer alimentos crus aos seus colonos. Sempre que estiverem com fome, eles virão ao cesto para comer alguma coisa - contanto que você tenha comida suficiente na loja.",
@@ -291,8 +291,12 @@
 		"turkish": "Sağlam ve güvenilir. Bu sandık, evinizin daha rahat görünmesi için harika bir yoldur"
 	},
 	"chest1": {
-		"english": "Chest",
-		"german": "Kiste",
+		"english": "Heavy Metal Chest",
+		"german": "Schwere Metallkiste",
+		//TODO-french
+		//TODO-spanish
+		//TODO-portuges
+		//TODO-turkish
 		"french": "Coffre",
 		"spanish": "Cofre",
 		"portuges": "Cofre",
@@ -1553,6 +1557,7 @@
 		"french": "Les tomates sont de bonnes cultures pour les fermiers inexpérimentés pour assurer un approvisionnement de nourriture. Poussent du printemps jusqu'à l'été, elles fournissent la majeure partie de l'approvisionnement alimentaire du début de l'année.",
 		"spanish": "Los tomates son buenos cultivos de granjeros sin experiencia para asegurar un abastecimiento de comida estable. Crecen de primavera a verano, frecuentemente ofrecen la mayoría de la comida al principio de año.",
 		"portuges": "Os tomates são boas colheitas para os agricultores inexperientes para garantir um fornecimento estável de alimentos. Crescendo da primavera ao verão, eles geralmente fornecem a maior parte do suprimento de alimentos no começo do ano.",
+		"turkish": "Domatesler tecrübesiz çiftçilere istikrarlı bir gıda arzı sağlamak için iyi mahsuldür. İlkbahardan yaza kadar büyürler, genellikle yılın başında gıda arzının büyük kısmını sağlayabilirler.",
 	},
 	"farmPumpkinSoil": {
 		"english": "Soil for Pumpkins",
@@ -1568,6 +1573,7 @@
 		"french": "Les potirons ne sont pas bons ? Si vous en prenez soin, ils fourniront une tonne de bonne nourriture. Mais vous devez être rapide car ils ne poussent qu'en automne. Les potirons grandissent lentement mais produisent plus de nourriture par récolte.",
 		"spanish": "¿No son las calabazas grandiosas?. Si las cuidas bien, te darán bastante buena comida. Pero tendrás que ser rápido, porque sólo crecen en otoño. Las calabazas crecen lento pero dan más comida por cosecha.",
 		"portuges": "As abóboras não são ótimas? Se você cuidar bem deles, eles irão fornecer uma tonelada de boa comida. Mas você precisa ser rápido, pois eles só crescem no outono. As abóboras crescem lentamente mas produzem mais alimentos por colheita.",
+		"turkish": "Balkabakları harika değil mi? Eğer onlara iyi bakarsanız, bir ton iyi yiyecek sağlarlar. Ancak sadece sonbaharda büyüdükleri için hızlı olmalısınız. Balkabakları yavaş büyür ama hasat başına daha fazla yiyecek verir.",
 	},
 	"farmWheatSoil": {
 		"english": "Soil for Wheat",
@@ -1583,6 +1589,7 @@
 		"french": "Le blé ne peut pas être mangé directement et doit être transformé à la boulangerie. C'est pourquoi les champs de blé sont grands, les riches colonies fournissent du pain et même des gâteaux à leurs résidents. Le blé pousse de l'été jusqu'à l'automne. Le bé pousse lentement mais produit plus de nourriture par récolte.",
 		"spanish": "El trigo no se puede comer directamente, tiene que ser procesado primero en una panadería. Es la razón por la que los campos de trigo comúnmente se encuentran en grande, las colonias prósperas pueden permitirse el proveer de grandioso pan y hasta algunos pasteles a sus ciudadanos. El trigo crece del verano al otoño. El trigo crece lento pero da más comida por cosecha.", 
 		"portuges": "O trigo não pode ser consumido diretamente e precisa ser processado primeiro na padaria. É por isso que os campos de trigo são normalmente encontrados em grandes e ricas colônias que podem fornecer pão incrível e até bolos para os cidadãos. O trigo cresce do verão até o outono. O trigo cresce lentamente, mas produz mais alimentos por safra.",
+		"turkish": "Buğday doğrudan yenemez ve ilk olarak fırında işlenmesi gerekir. Bu yüzden buğday tarlaları genellikle büyük, zengin yerleşimlerde bulunur, ancak yerleşimcilerin harika ekmek ve hatta kek yapabilmelerini sağlar. Yaz sonbahar arasında yetişir. Buğday yavaş büyür ancak hasat başına daha fazla yiyecek verir.",
 	},
 	"farmPotatoSoil": {
 		"english": "Soil for Potatoes",
@@ -1598,6 +1605,7 @@
 		"french": "Les pommes de terre sont la pierre angulaire de la production alimentaire fiable. Pousse en été jusqu'à l'automne, elles font une excellente récolte en préparation pour l'hiver.",
 		"spanish": "Las patatas son la base de una producción segura de comida. Crecen de verano a otoño, son una excelente cosecha en preparación del invierno.",
 		"portuges": "As batatas são a base da produção confiável de alimentos. Crescendo do verão ao outono, eles fazem uma excelente colheita para crescer em preparação para o inverno.",
+		"turkish": "Patates güvenilir gıda üretiminin temel taşıdır.Yaz sonbahar arası yetişir, ve kışa hazır girmek için mükemmel bir üründür.",
 	},
 	"farmStrawberrySoil": {
 		"english": "Soil for Strawberries",
@@ -1613,6 +1621,7 @@
 		"french": "Les fraises sont délicieuses. vous pouvez les aimer comme elles sont, mais elles sont également l'ingrédient des meilleurs plats, comme la salade de fruit ou les gâteaux aux fraises. Les fraises ont besoin d'être semées tôt, comme elles poussent du printemps jusqu'à l'été. Les fraises poussent lentement mais produisent plus de nourriture par récolte.",
 		"spanish": "Las fresas son *deliciosas*. Puedes disfrutarlas simples, pero son también ingredientes de los mejores platillos, como ensalada de fruta o pastel de fresa. Las fresas tienen que ser plantadas temprano, ya que crecen sólo en primavera. Las fresas crecen lento pero dan más comida por cosecha.",
 		"portuges": "Morangos são *deliciosos*. Você pode apenas apreciá-los como eles são, mas eles também são os ingredientes para algumas das melhores refeições que existem, como salada de frutas ou bolo de morango. Os morangos precisam ser semeados cedo, à medida que crescem da primavera ao verão. Morangos crescem lentamente, mas produzem mais alimentos por safra.",
+		"turkish": "Çilek *çok tatlıdır*. Oldukları gibi yenilebilmekle beraber meyve salatası veya çilekli kek yapılarak da yenilebilir. Çileklerin erken ekilmesi gerekir. İlkbahardan yaza kadar büyürler. Çilekler yavaş büyür, ancak hasat başına daha fazla yiyecek verir."
 	},
 	"farmHealingPlantSoil": {
 		"english": "Soil for Healing Plants",
@@ -1628,6 +1637,7 @@
 		"french": "Les soins médicaux dépendent d'un bon docteur, c'est certain, mais même le meilleur des docteurs ne pourrait rien faire sans tous les médicaments et potions fabriqués en transformant les délicates herbes. Les plantes médicinales poussent toute l'année à l'exception de l'hiver.",
 		"spanish": "El cuidado medicinal depende de un buen doctor, seguro, pero hasta el mejor doctor no puede hacer mucho sin toda la medicina y las pociones hechas procesando esta delicada planta en un procedimiento delicado. Las plantas medicinales crecen todo el año, con excepción del invierno.",
 		"portuges": "O cuidado médico depende de um bom médico, claro, mas mesmo o maior médico não poderia fazer muito sem todos os remédios e poções feitos pelo processamento desta delicada erva em um procedimento cuidadoso. As plantas curativas crescem quase o ano todo, com exceção do inverno.",
+		"turkish": "Tıbbi bakım elbette iyi bir doktora bağlıdır, ancak en iyi doktor bile bu hassas otu dikkatli bir işlemle işleyerek yapılan tüm ilaç ve iksirler olmadan fazla bir şey yapamaz. Kış hariç her mevsimde yetişirler.",
 	},
 
 // Resources
@@ -1655,6 +1665,7 @@
 		"french": "Jeune Arbre",
 		"spanish": "Retoño de árbol",
 		"portuges": "Rebento de árvore",
+		"turkish": "Ağaç Fidanı",
 	},
 	"tree_01": {
 		"english": "Normal Tree",
@@ -1662,6 +1673,7 @@
 		"french": "Arbre Normal",
 		"spanish": "Árbol normal",
 		"portuges": "Árvore normal",
+		"turkish": "Normal Ağaç",
 	},
 	"tree_01Stump": {
 		"english": "Tree Stump",
@@ -1669,6 +1681,7 @@
 		"french": "Souche d'Arbre",
 		"spanish": "Tronco de árbol",
 		"portuges": "Toco de árvore",
+		"turkish": "Ağaç Kütüğü",
 	},
 	"tree_02": {
 		"english": "Large Tree",
@@ -1676,6 +1689,7 @@
 		"french": "Grand Arbre",
 		"spanish": "Árbol grande",
 		"portuges": "Grande árvore",
+		"turkish": "Büyük Ağaç",
 	},
 	"tree_02Stump": {
 		"english": "Tree Stump",
@@ -1683,6 +1697,7 @@
 		"french": "Souche d'Arbre",
 		"spanish": "Tronco de árbol",
 		"portuges": "Toco de árvore",
+		"turkish": "Ağaç Kütüğü",
 	},
 	"tree_03": {
 		"english": "Normal Tree",
@@ -1690,6 +1705,7 @@
 		"french": "Arbre Normal",
 		"spanish": "Árbol normal",
 		"portuges": "Árvore normal",
+		"turkish": "Normal Ağaç",
 	},
 	"tree_03Stump": {
 		"english": "Tree Stump",
@@ -1697,6 +1713,7 @@
 		"french": "Souche d'Arbre",
 		"spanish": "Tronco de árbol",
 		"portuges": "Toco de árvore",
+		"turkish": "Ağaç Kütüğü",
 	},
 	"tree_04": {
 		"english": "Small Tree",
@@ -1704,6 +1721,7 @@
 		"french": "Petit Arbre",
 		"spanish": "Árbol pequeño",
 		"portuges": "Pequena árvore",
+		"turkish": "Küçük Ağaç",
 	},
 	"tree_04Stump": {
 		"english": "Tree Stump",
@@ -1711,6 +1729,7 @@
 		"french": "Souche d'Arbre",
 		"spanish": "Tronco de árbol",
 		"portuges": "Toco de árvore",
+		"turkish": "Ağaç Kütüğü",
 	},
 	"tree_05": {
 		"english": "Small Tree",
@@ -1718,6 +1737,7 @@
 		"french": "Petit Arbre",
 		"spanish": "Árbol pequeño",
 		"portuges": "Pequena árvore",
+		"turkish": "Küçük Ağaç",
 	},
 	"tree_05Stump": {
 		"english": "Tree Stump",
@@ -1725,6 +1745,7 @@
 		"french": "Souche d'Arbre",
 		"spanish": "Tronco de árbol",
 		"portuges": "Toco de árvore",
+		"turkish": "Ağaç Kütüğü",
 	},
 	"treeBroken0": {
 		"english": "Old log",
@@ -1732,6 +1753,7 @@
 		"french": "Arbre mort",
 		"spanish": "Viejo tronco",
 		"portuges": "Árvore caindo",
+		"turkish": "Eski kütük",
 	},
 	"treeApple": {
 		"english": "Apple Tree",
@@ -1747,6 +1769,7 @@
 		"french": "Plant de Coton",
 		"spanish": "Planta de algodón",
 		"portuges": "Planta De Algodão",
+		"turkish": "Pamuk bitkisi",
 	},
 	"wildHealplant": {
 		"english": "Wild Healing Plant",
@@ -1754,6 +1777,7 @@
 		"french": "Plante Médicinale Sauvage",
 		"spanish": "Planta medicinal silvestre",
 		"portuges": "Planta curativa selvagem",
+		"turkish": "Yabani şifalı bitki",
 	},
 	"rock_01": {
 		"english": "Normal Rock",
@@ -1761,6 +1785,7 @@
 		"french": "Rocher Normal",
 		"spanish": "Roca normal",
 		"portuges": "Rocha normal",
+		"turkish": "Normal kaya",
 	},
 	"rock_02": {
 		"english": "Normal Rock",
@@ -1768,6 +1793,7 @@
 		"french": "Rocher Normal",
 		"spanish": "Roca normal",
 		"portuges": "Rocha normal",
+		"turkish": "Normal kaya",
 	},
 	"rock_03": {
 		"english": "Big Rock",
@@ -1775,6 +1801,7 @@
 		"french": "Grand Rocher",
 		"spanish": "Roca grande",
 		"portuges": "Pedra grande",
+		"turkish": "Büyük kaya",
 	},
 	"rock_04": {
 		"english": "Normal Rock",
@@ -1782,6 +1809,7 @@
 		"french": "Rocher Normal",
 		"spanish": "Roca normal",
 		"portuges": "Rocha normal",
+		"turkish": "Normal kaya",
 	},
 	"rock_05": {
 		"english": "Big Rock",
@@ -1789,6 +1817,7 @@
 		"french": "Grand Rocher",
 		"spanish": "Roca grande",
 		"portuges": "Pedra grande",
+		"turkish": "Büyük kaya",
 	},
 	"bookshelf": {
 		"english": "Bookshelf",
@@ -1804,6 +1833,7 @@
 		"french": "Vous voulez apprendre de nouvelles capacités ? Vous voulez perfectionner vos compétences ? La bibliothèque contient toutes les connaissances que vous avez besoin pour poursuivre votre formation.",
 		"spanish": "¿Desea aprender nuevos conocimientos? ¿Mejorar tus habilidades? La biblioteca contiene todo lo que necesitas saber para una buena capacitación.",
 		"portuges": "Quer aprender novas habilidades? Quer aprimorar suas habilidades? Esta estante contém todo o conhecimento necessário para promover sua educação.",
+		"turkish": "Yeni yetenekler öğrenmek ister misiniz? Becerilerinizi geliştirmek mi istiyorsunuz? Bu kitaplık eğitiminizi daha da ilerletmek için ihtiyacınız olan tüm bilgileri içerir.",
 	},
 
 // Miscellaneous Furniture
@@ -1823,6 +1853,7 @@
 		"spanish": "Algunos lo llaman sistema de riego, otros más como un agujero con agua en él. No importa cómo lo llames - juega un importante rol cuando ser trata de que tus plantas reciban un buen trato. ¡Las plantas deben ser bien regadas para que den el doble o el triple de cosecha!",
 		"french": "Certains appellent cela un système d'irrigation, d'autres y voient plutôt un trou rempli d'eau. Peu importe comment vous l'appelez, les puits jouent un rôle important lorsque vous souhaitez que vos cultures reçoivent de bons soins. Il a été rapporté que les plantes correctement arrosées donnent des récoltes doubles ou triples !",
 		"portuges": "Alguns chamam isso de sistema de irrigação, outros pensam nele mais como um buraco com água. Não importa como você o chame - os poços desempenham um papel importante quando você deseja que suas plantações recebam bons cuidados. As plantas que foram regadas corretamente produziram colheitas duplas ou triplas!",
+		"turkish": "Bazıları buna sulama sistemi diyor, bazıları ise içinde suyla dolu bir delik olduğunu düşünüyor. Nasıl adlandırırsanız adlandırın - ürünlerinizin iyi yetişmesini istediğinizde kuyular önemli bir rol oynar. Doğru şekilde sulandığında çift veya üçlü hasat elde edildiği rapor edilmiştir! ",
 	},
 	"bonfire": {
 		"english": "Bonfire",
@@ -1838,6 +1869,7 @@
 		"spanish": "Un fuego brillante que se ve desde kilómetros. Atrae migrantes y enemigos.",
 		"french": "Feu vif qui peut être vu à des kilomètres. Attire les migrants et les ennemis.",
 		"portuges": "Fogo brilhante que pode ser visto por milhas. Atrai migrantes e inimigos.",
+		"turkish": "Kilometrelerce uzaktan görülebilen parlak ateş. Göçmenleri ve düşmanları cezbeder.",
 	},
 	"guardPost": {
 		"english": "Guard Post",
@@ -1853,6 +1885,7 @@
 		"french": "Assigner des soldats pour protéger cette position avec leur vie",
 		"spanish": "Asigna soldados para defender esta posición con sus vidas.",
 		"portuges": "Designe soldados para guardarem essa posição com suas vidas.",
+		"turkish": "Bu pozisyonu hayatları ile koruyacak askerler atayın."
 	},
 	"watchtower": {
 		"english": "Watchtower",
@@ -1868,6 +1901,7 @@
 		"french": "Envoyez vos archers dans cette tour de guet pour leur donner une position de tir sûre.",
 		"spanish": "Manda a tus arqueros arriba para darles una posición segura de donde disparar.",
 		"portuges": "Envie seus arqueiros até esta torre para lhes dar uma posição segura para atirar.",
+		"turkish": "Ateş edebilecekleri güvenli bir konum vermek için okçularınızı bu kuleye gönderin."
 	},
 	"watchtowerStone": {
 		"english": "Strong Watchtower",
@@ -1875,6 +1909,7 @@
 		"french": "Tour en pierre",
 		"spanish": "Torre de vigilancia reforzada",
 		"portuges": "Sentinela Forte",
+		"turkish": "Güçlü Gözetleme Kulesi",
 	},
 	"watchtowerStoneDescription": {
 		"english": "Send your archers up this tower to give them a safe position to shoot from.",
@@ -1882,6 +1917,7 @@
 		"french": "Envoyez vos archers dans cette tour pour leur donner une position de tir sûre.",
 		"spanish": "Manda a tus arqueros arriba para darles una posición segura de donde disparar.",
 		"portuges": "Envie seus arqueiros até esta torre para lhes dar uma posição segura para atirar.",
+		"turkish": "Ateş edebilecekleri güvenli bir konum vermek için okçularınızı bu kuleye gönderin."
 	},
 	"trainingDummy": {
 		"english": "Training Dummy",

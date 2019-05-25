@@ -79,13 +79,17 @@
 		"turkish": "Yay yapabilir",
 		"portuges": "Pode fazer arcos",
 	},
-	"skillTitle_FightingSword": {
-		"english": "Can fight with a sword",
-		"german": "Kann mit einem Schwert kämpfen",
-		"french": "Peut combattre avec une épée", 
-		"spanish": "Puede pelear con una espada",
-		"turkish": "Kılıç kullanabilir",
-		"portuges": "Pode lutar com uma espada",
+	"skillTitle_FightingWoodenSwords": {
+		"english": "Can fight with a wooden sword",
+		"german": "Kann mit einem Holzschwert kämpfen",
+	},
+	"skillTitle_FightingStoneSwords": {
+		"english": "Can fight with a stone sword",
+		"german": "Kann mit einem Steinschwert kämpfen",
+	},
+	"skillTitle_FightingMetalSwords": {
+		"english": "Can fight with a metal sword",
+		"german": "Kann mit einem Metallschwert kämpfen",
 	},
 	"skillTitle_FightingBow": {
 		"english": "Can fight with a bow",
@@ -128,53 +132,21 @@
 		"portuges": "Os tratamentos são mais bem sucedidos",
 	},
 
-	"skillTitle_TreeYieldHigh": {
-		"english": "Gets 20% more wood out of trees",
-		"german": "Bekommt 20% mehr Holz aus Bäumen",
-		"french": "Obtient 20% de bois en plus des arbres", 
-		"spanish": "Obtiene un 20% más de madera de los árboles",
-		"turkish": "%20 daha fazla odun kesebilir",
-		"portuges": "Obtém 20% mais madeira de árvores",
+	"skillTitle_WoodcuttingStoneTools": {
+		"english": "Can use stone axes to cut wood",
+		"german": "Kann Steinäxte zum Holzfällen verwenden",
 	},
-	"skillTitle_TreeYieldVeryHigh": {
-		"english": "Gets 40% more wood out of trees",
-		"german": "Bekommt 40% mehr Holz aus Bäumen",
-		"french": "Obtient 40% de bois en plus des arbres", 
-		"spanish": "Obtiene un 40% más de madera de los árboles",
-		"turkish": "%40 daha fazla odun kesebilir",
-		"portuges": "Obtém 40% mais madeira de árvores",
+	"skillTitle_WoodcuttingMetalTools": {
+		"english": "Can use metal axes to cut wood",
+		"german": "Kann Metalläxte zum Holzfällen verwenden",
 	},
-	"skillTitle_TreeYieldSuperHigh": {
-		"english": "Gets 60% more wood out of trees",
-		"german": "Bekommt 60% mehr Holz aus Bäumen",
-		"french": "Obtient 60% de bois en plus des arbres", 
-		"spanish": "Obtiene un 60% más de madera de los árboles",
-		"turkish": "%60 daha fazla odun kesebilir",
-		"portuges": "Obtém 60% mais madeira de árvores",
+	"skillTitle_MiningStoneTools": {
+		"english": "Can use stone pickaxes to mine",
+		"german": "Kann Steinpicken zum Abbauen verwenden",
 	},
-	"skillTitle_MiningYieldHigh": {
-		"english": "20% chance to get double resources when mining",
-		"german": "20% Chance doppelte Ressourcen zu bekommen",
-		"french": "20% de chance d'obtenir des ressources doublées lors du minage",
-		"spanish": "20% de posibilidades de obtener el doble de recursos al minar",
-		"turkish": "%20 ihtimalle iki kat fazla maden çıkarabilir",
-		"portuges": "20% de chance de obter recursos duplos ao minerar",
-	},
-	"skillTitle_MiningYieldVeryHigh": {
-		"english": "40% chance to get double resources when mining",
-		"german": "40% Chance doppelte Ressourcen zu bekommen",
-		"french": "40% de chance d'obtenir des ressources doublées lors du minage",
-		"spanish": "40% de posibilidades de obtener el doble de recursos al minar",
-		"turkish": "%40 ihtimalle iki kat fazla maden çıkarabilir",
-		"portuges": "40% de chance de obter recursos duplos ao minerar",
-	},
-	"skillTitle_MiningYieldSuperHigh": {
-		"english": "60% chance to get double resources when mining",
-		"german": "60% Chance doppelte Ressourcen zu bekommen",
-		"french": "60% de chance d'obtenir des ressources doublée lors du minage",
-		"spanish": "60% de posibilidades de obtener el doble de recursos al minar",
-		"turkish": "%60 ihtimalle iki kat fazla maden çıkarabilir",
-		"portuges": "60% de chance de obter recursos duplos ao minerar",
+	"skillTitle_MiningMetalTools": {
+		"english": "Can use metal pickaxes to mine",
+		"german": "Kann Metallpicken zum Abbauen verwenden",
 	},
 	"skillTitle_ResearchFast": {
 		"english": "Researches 20% faster",

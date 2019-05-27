@@ -135,16 +135,21 @@
 // Watering Cans
 //**************
 
-	"equipmentName_wateringCan": {
-		"english": "Watering Can",
-		"german": "Gießkanne",
+	"equipmentName_wateringCanWood": {
+		"english": "Wooden Watering Can",
+		"german": "Holzgießkanne",
+		//TODO-french
+		//TODO-spanish
+		//TODO-bulgarian
+		//TODO-turkish
+		//TODO-portuges
 		"french": "Arrosoir",
 		"spanish": "Regadera",
 		"bulgarian": "Лейка",
 		"turkish": "Sulama kovası",
 		"portuges": "Regador",
 	},
-	"equipmentDescription_wateringCan": {
+	"equipmentDescription_wateringCanWood": {
 		"english": "You need to have a watering can to provide optimal care for your plants. Plants that have been watered correctly have been reported to yield double or triple harvests!",
 		"german": "Du benötigst eine Gießkanne, um deine Pflanzen optimal zu pflegen. Pflanzen, die korrekt gegossen werden, können den doppelten oder dreifachen Ertrag abwerfen!",
 		"french": "Vous devez avoir un arrosoir pour fournir des soins optimaux à vos plantes. Les plantes qui ont été arrosées correctement auront une récolte qui sera deux voire trois fois meilleure !",
@@ -152,6 +157,20 @@
 		"bulgarian": "Трябва да имате лейка, за да осигурите оптимална грижа за вашите растения. Растенята които са поливани правилно добиват двойни или тройни реколти.",
 		"turkish": "Bitkilerinize en uygun bakımı sağlamak için bir sulama kovasına ihtiyacınız var. Doğru bir şekilde sulanan bitkilerin çift veya üçlü hasat verdikleri bildirildi!",
 		"portuges": "Você precisa ter um regador para fornecer o melhor atendimento para suas plantas. As plantas que foram regadas corretamente produziram colheitas duplas ou triplas!",
+	},
+	"equipmentName_wateringCanStone": {
+		"english": "Stone Watering Can",
+		"german": "Steingießkanne",
+	},
+	"equipmentDescription_wateringCanStone": {
+	// Not fully implemented in the game yet	
+	},
+	"equipmentName_wateringCanIron": {
+		"english": "Iron Watering Can",
+		"german": "Eisengießkanne",
+	},
+	"equipmentDescription_wateringCanIron": {
+	// Not fully implemented in the game yet
 	},
 
 // Armors
@@ -215,6 +234,10 @@
 		"bulgarian": "Това надеждно работно облекло е идеално за работа на полетата. Носеики това повечето фермери може да засаждат техните полета двойно по бързо!",
 		"turkish": "Bu sağlam iş kıyafeti tarlalarda çalışmak için mükemmel bir uyum sağlar. Bunu giyerek çoğu çiftçi tarlalarını yarı zamanda ekebilir!",
 		"portuges": "Esta peça robusta de trabalho é perfeitamente adequada para trabalhar nos campos. Usando isso, a maioria dos agricultores pode semear seus campos na metade do tempo!",
+	},
+	"equipmentName_traderGear": {
+		"english": "Trader's Garment",
+		"german": "Händlergewand",
 	},
 	"equipmentDescription_traderGear": {
 		"english": "A magnificent garment, that is very popular with traders",

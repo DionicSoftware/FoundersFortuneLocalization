@@ -12,7 +12,7 @@
 	"effectDesc_Bleeding": {
 		"english": "%firstName% bleeding! Make sure that %hisHer% wounds are bandaged properly. Otherwise, %firstName% could die of blood loss.",
 		"german": "%firstName% blutet! Stelle sicher, dass %seineIhre% Verletzungen ordentlich verbunden werden. Ansonsten könnte %firstName% an Blutverlust sterben.",
-		"french": "%firstName% saigne ! Assurez-vous que ses blessures soient bandées proprement. Sinon, %firstName% pourrait mourir d'une perte de sang.",
+		"french": "%firstName% saigne ! Assurez-vous que ses blessures soient correctement bandées. Sinon, %firstName% pourrait mourir vidé de son sang.",
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
@@ -96,7 +96,6 @@
 	"effectDesc_Starving": {
 		"english": "%firstName% didn't eat in a long time. %cap-heShe% needs to find something to eat soon in order to survive.",
 		"german": "%firstName% hat schon lange nichts mehr gegessen. %cap-erSie% muss jetzt schnell etwas zwischen die Zähne bekommen um zu überleben.",
-		//TODO-french
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
@@ -141,7 +140,7 @@
 	"effectDesc_Flu": {
 		"english": "%firstName% has caught the Flu. Make sure %heShe% stays in bed in the coming days and is treated with medicine by a doctor. Do not underestimate the illness!",
 		"german": "%firstName% hat sich die Grippe eingefangen. Verschreibe %ihmIhr% Ruhe im Bett und lasse %ihnSie% von einem Doktor mit Medizin behandeln. Unterschätze die Krankheit nicht!",
-		"french": "%firstName a attrapé la grippe. Assurez-vous qu'%ilElle% reste au lit les prochains jours et soit traité(e) avec des médicaments prescrits par un docteur. Ne sous-estimez pas la maladie !",
+		"french": "%firstName a attrapé la grippe. Assurez-vous qu'%ilElle% reste au lit les prochains jours et soit soigné(e) avec des médicaments prescrits par un docteur. Ne sous-estimez pas la maladie !",
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
@@ -155,7 +154,7 @@
 	"effectTitle_SleepingInBed": {
 		"english": "Resting in Bed",
 		"german": "Im Bett ausruhen",
-		"french": "Repos au Lit",
+		"french": "Se reposer au Lit",
 		"spanish": "Descansando en la cama",
 		"dutch" : "Slaapt in bed",
 		"bulgarian": "Почивка в леглото",
@@ -213,7 +212,7 @@
 	"effectTitle_SmallFoodRationsSlowness": {
 		"english": "Slow work",
 		"german": "Langsame Arbeit",
-		"french": "Lenteur du travail",
+		"french": "Lenteur au travail",
 		"spanish": "Trabajo lento",
 		"dutch" : "langzaam werk",
 		"bulgarian": "Бавна работа",
@@ -277,18 +276,22 @@
 	"effectTitle_LegSplint": {
 		"english": "Splint",
 		"spanish": "Entablad%oA%",
+		"french": "Attelle",
 	},
 	"effectDesc_Leg Splint": {
 		"english": "Splint",
 		"spanish": "Entablad%oA%",
+		"french": "Attelle",
 	},
 	"effectTitle_Arm Splint": {
 		"english": "Splint",
 		"spanish": "Entablad%oA%",
+		"french": "Attelle",
 	},
 	"effectDesc_Arm Splint": {
 		"english": "Splint",
 		"spanish": "Entablad%oA%",
+		"french": "Attelle",
 	},
 }
 

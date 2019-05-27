@@ -356,18 +356,22 @@
 	"legSplintSuccessful": {
 		"english": "Leg Splint\nSuccessful",
 		"german": "Beinschienen\nerfolgreich",
+		"french": "Attelle à la jambe\nSuccès",
 	},
 	"legSplintFailed": {
 		"english": "Leg Splint\nFailed",
 		"german": "Beinschienen\nfehlgeschlagen",
+		"french": "Attelle à la jambe\nEchec",
 	},
 	"armSplintSuccessful": {
 		"english": "Arm Splint\nSuccessful",
 		"german": "Armschienen\nerfolgreich",
+		"french": "Attelle au Bras\nSuccès",
 	},
 	"armSplintFailed": {
 		"english": "Arm Splint\nFailed",
 		"german": "Armschienen\nfehlgeschlagen",
+		"french": "Attelle au Bras\nEchec",
 	},
 
 
@@ -750,10 +754,12 @@
 	"messageTitle_LimpingBecauseOfBadSplintTreatment": {
 		"english": "Treatment messed up\n%firstName% now disabled",
 		"german": "Behandlung schief gelaufen\n%firstName% jetzt behindert",
+		"french": "Traitement raté\n%firstName% est maintenant invalide",
 	},
 	"messageText_LimpingBecauseOfBadSplintTreatment": {
 		"english": "It's a begginer's mistake, but can also happen to experienced doctors: Someone messed up the splints to cure %firstName%'s broken leg. It's no longer broken, but now %heShe%'s limping permanently and can't walk as fast as %heShe% used to.",
-		"german": "Es ist ein Anfängerfehler, kann aber auch einem erfahrenen Arzt passieren: Jemand hat Mist gebaut und die Schienen für das gebrochene Bein von %firstName% falsch befestigt. Jetzt ist das Bein zwar nicht mehr gebrochen, aber %erSie% hinkt jetzt beim gehen und ist nicht mehr so schnell wie früher."
+		"german": "Es ist ein Anfängerfehler, kann aber auch einem erfahrenen Arzt passieren: Jemand hat Mist gebaut und die Schienen für das gebrochene Bein von %firstName% falsch befestigt. Jetzt ist das Bein zwar nicht mehr gebrochen, aber %erSie% hinkt jetzt beim gehen und ist nicht mehr so schnell wie früher.",
+		"french": "C'est une erreur de débutant, mais cela pourrait arriver également aux médecins: Quelqu'un a raté la pose de l'attelle pour soigner la jambe cassée de %firstName%. Ce n'est pas complètement cassé, mais %ilElle% boîtera pour toujours et ne pourra pas marcher aussi vite qu' %ilElle% voudrait.", 
 	},
 
 	

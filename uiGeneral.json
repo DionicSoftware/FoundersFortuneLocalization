@@ -446,8 +446,8 @@
 		"french": "English",
 		"spanish": "English",
 		"turkish": "English",
-		"portuges": "Inglês",
-		"dutch": "Engels",
+		"portuges": "English",
+		"dutch": "English",
 	},
 	"german": {
 		"english": "Deutsch",
@@ -456,7 +456,7 @@
 		"spanish": "Deutsch",
 		"turkish": "Deutsch",
 		"portuges": "Deutsch",
-		"dutch": "Duits",
+		"dutch": "Deutsch",
 	},	
 	"french": {
 		"english": "Français",
@@ -464,8 +464,8 @@
 		"french": "Français",
 		"spanish": "Français",
 		"turkish": "Français",
-		"portuges": "Francês",
-		"dutch": "Frans",
+		"portuges": "Français",
+		"dutch": "Français",
 	},	
 	"spanish": {
 		"english": "Español",
@@ -473,16 +473,24 @@
 		"french": "Español",
 		"spanish": "Español",
 		"turkish": "Español",
-		"portuges": "Espanhol",
-		"dutch": "Spaans",
+		"portuges": "Español",
+		"dutch": "Español",
+	},
+	"portuguese": {
+		//TODO-portuges
+		"english": "???",
+	},
+	"turkish": {
+		//TODO-turkish
+		"english": "???"
 	},
 	"dutch": { 
-		"english": "Dutch",
-		"german": "Dutch",
-		"french": "Dutch",
-		"spanish": "Dutch",
-		"turkish": "Dutch",
-		"portuges": "Dutch",
+		"english": "Nederlands",
+		"german": "Nederlands",
+		"french": "Nederlands",
+		"spanish": "Nederlands",
+		"turkish": "Nederlands",
+		"portuges": "Nederlands",
 		"dutch": "Nederlands",
 	},
 	"mouseEdgeScrolling": {

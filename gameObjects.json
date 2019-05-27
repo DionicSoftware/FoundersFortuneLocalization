@@ -2164,12 +2164,12 @@
 "equipmentRackTool0": {
 		"english": "Tool Rack",
 		"german": "Werkzeughalter",
-		"french": "Porte-Outils",
+		"french": "Râtelier",
 	},
 "equipmentRackTool0Description": {
 		"english": "The ideal repository for tools that aren't in use at the moment.",
 		"german": "Der ideale Aufbewahrungsort für Werkzeug, das gerade nicht verwendet wird.",
-		"french": "Le porte-outils idéal pour les outils qui ne sont pas utilisés pour le moment.",
+		"french": "Le râtelier idéal pour les outils qui ne sont pas utilisés.",
 	},
 "equipmentRackWeapon0": {
 		"english": "Weapon Rack",
@@ -2179,7 +2179,7 @@
 "equipmentRackWeapon0Description": {
 		"english": "The ideal repository for weapons that aren't in use at the moment.",
 		"german": "Der ideale Aufbewahrungsort für Waffen, die gerade nicht verwendet werden.",
-		"french": "Le râtelier idéal pour les armes qui ne sont pas utilisées pour le moment.",
+		"french": "Le râtelier idéal pour les armes qui ne sont pas utilisées.",
 	},
 "equipmentRackWeapon1": {
 		"english": "Weapon Display Case",
@@ -2199,12 +2199,12 @@
 "equipmentStandArmor0Description": {
 		"english": "The ideal repository for armor that isn't in use at the moment.",
 		"german": "Der ideale Aufbewahrungsort für Rüstungen, die gerade nicht verwendet werden.",
-		"french": "Le support idéal pour les armures qui ne sont pas utilisées pour le moment.",
+		"french": "Le support idéal pour les armures qui ne sont pas utilisées.",
 	},
 "equipmentStandClothes0": {
 		"english": "Clothes Stand",
 		"german": "Kleiderständer",
-		"french": "Support de Vêtements",
+		"french": "Support pour Vêtements",
 	},
 "equipmentStandArmor0Description": {
 		"english": "The ideal repository for Clothes that aren't in use at the moment.",
@@ -2240,10 +2240,12 @@
 	"bedStoneSimple0": {
 		"english": "Simple Stone Bed",
 		"german": "Einfaches Steinbett",
+		"french": "Simple lit en pierre",
 	},
 	"bedStoneSimple0Description": {
 		"english": "More comfy than it looks. The owner will sleep like a stone.",
 		"german": "Bequemer als es zunächst vielleicht aussehen mag. Der Besitzer wird schlafen wie ein Stein. ",
+		"french": "Plus confortable qu'il n'y paraît. Le propriétaire s'endormira comme un enfant",
 	},
 	"sleepingBag": {
 		"english": "Sleeping Bag",
@@ -2320,10 +2322,12 @@
 "statueFounder": {
 		"english": "Wilhelm the Great",
 		"german": "Wilhelm der Große",
+		"french": "Wilhelm le Grand",
 	},
 	"statueFounderDescription": {
 		"english": "As one of the original Founders, Wilhelm the Great contributed to make this colony possible. Eternal thanks to him. May he always have food in winter!",
 		"german": "Als einer der ursprünglichen Gründer, trug Wilhelm der Große wesentlich zur Schaffung dieser Kolonie bei. Ewiger Dank sei ihm hiermit zuteil. Mögen seine Vorratslager im Winter stets gut gefüllt sein!",
+		"french": "L'un des premiers fondateurs, Wilhelm le Grand contribua pour rendre cette colonie possible. Remerciements éternels pour lui. Puisse-t-il y avoir de la nourriture en hiver!",
 	},
 
 // Lights
@@ -2396,6 +2400,7 @@
 	"lightGroundTorchTiki0": {
 		"english": "Tiki Torch",
 		"german": "Tikifackel",
+		"french": "Torche Tiki",
 	},
 	"lightWallTorch0": {
 		"english": "Simple Torch on Wall",

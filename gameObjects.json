@@ -169,50 +169,62 @@
 	"dresserStoneBlock0Variation0": {
 		"english": "Simple Stone Dresser",
 		"german": "Einfache Steinkommode",
+		"french": "Simple Commode en Pierre",
 	},
 	"dresserStoneBlock0Variation0Description": {
 		"english": "A dresser carved out of a stone block.",
 		"german": "Eine Kommode, die aus einem Steinblock gemeißelt wurde.",
+		"french": "Une commode taillée dans un bloc de pierre.",
 	},
 	"dresserStoneBlock0Variation1": {
 		"english": "Simple Stone Dresser",
 		"german": "Einfache Steinkommode",
+		"french": "Simple Commode en Pierre",
 	},
 	"dresserStoneBlock0Variation1Description": {
 		"english": "A wide dresser carved out of a stone block.",
 		"german": "Eine breite Kommode, die aus einem Steinblock gemeißelt wurde.",
+		"french": "Une large commode taillée dans un bloc de pierre.",
 	},
 	"dresserStoneBlock0Variation2": {
 		"english": "Simple Stone Dresser",
 		"german": "Einfache Steinkommode",
+		"french": "Simple Commode en Pierre",
 	},
 	"dresserStoneBlock0Variation2Description": {
 		"english": "A tall dresser carved out of a stone block.",
 		"german": "Eine hohe Kommode, die aus einem Steinblock gemeißelt wurde.",
+		"french": "Une grande commode taillée dans un bloc de pierre.",
 	},
 	"dresserWoodPlanks1Variation0": {
 		"english": "Advanced Wooden Dresser",
 		"german": "Fortgeschrittene Holzkommode",
+		"french": "Commode en Bois Avancée"
 	},
 	"dresserWoodPlanks1Variation0Description": {
 		"english": "A dresser made out of only the finest wooden planks.",
 		"german": "Eine Kommode nur aus feinsten Holzplanken gezimmert.",
+		"french": "Une commode faite avec uniquement les meilleures planches de bois.",
 	},
 	"dresserWoodPlanks1Variation1": {
 		"english": "Advanced Wooden Dresser",
 		"german": "Fortgeschrittene Holzkommode",
+		"french": "Commode en Bois Avancée",
 	},
 	"dresserWoodPlanks1Variation1Description": {
 		"english": "A wide dresser made out of only the finest wooden planks.",
 		"german": "Eine breite Kommode nur aus feinsten Holzplanken gezimmert.",
+		"french": "Une large commode faite avec uniquement les meilleures planches de bois.",
 	},
 	"dresserWoodPlanks1Variation2": {
 		"english": "Advanced Wooden Dresser",
 		"german": "Fortgeschrittene Holzkommode",
+		"french": "Commode en Bois Avancée",
 	},
 	"dresserWoodPlanks1Variation2Description": {
 		"english": "A tall dresser made out of only the finest wooden planks.",
 		"german": "Eine hohe Kommode nur aus feinsten Holzplanken gezimmert.",
+		"french": "Une grande commode faite avec uniquement les meilleures planches de bois.",
 	},
 
 // Shelves
@@ -285,6 +297,7 @@
 	"shelfStoneBlock0Variation0": {
 		"english": "Simple Stone Shelf",
 		"german": "Einfaches Steinregal",
+		"french": "Simple Étagère en Pierre",
 		
 	},
 	"shelfStoneBlock0Variation0Description": {
@@ -298,6 +311,7 @@
 		"shelfStoneBlock0Variation1": {
 		"english": "Simple Stone Shelf",
 		"german": "Einfaches Steinregal",
+		"french": "Simple Étagère en Pierre",
 	},
 	"shelfStoneBlock0Variation1Description": {
 		"english": "Give your colonists some space to store their personal belongings.",
@@ -310,6 +324,7 @@
 	"shelfWoodPlanks1Variation0": {
 		"english": "Advanced Wooden Shelf",
 		"german": "Fortgeschrittenes Holzregal",
+		"french": "Étagère en Bois Avancée",
 	},
 	"shelfWoodPlanks1Variation1Description": {
 		"english": "Give your colonists some space to store their personal belongings.",
@@ -322,6 +337,7 @@
 	"shelfWoodPlanks1Variation1": {
 		"english": "Advanced Wooden Shelf",
 		"german": "Fortgeschrittenes Holzregal",
+		"french": "Étagère en Bois Avancée",
 	},
 	"shelfWoodPlanks1Variation0Description": {
 		"english": "Give your colonists some space to store their personal belongings.",
@@ -370,6 +386,7 @@
 	"closetStoneBlock0Variation0": {
 		"english": "Simple Stone Wardrobe",
 		"german": "Einfacher Steinschrank",
+		"french": "Simple Armoire en Pierre",
 	},
 	"closetStoneBlock0Variation0Description": {
 		"english": "Give your colonists some space to store their personal belongings.",
@@ -382,6 +399,7 @@
 	"closetWoodPlanks1Variation0": {
 		"english": "Advanced Wooden Wardrobe",
 		"german": "Fortgeschrittener Holzschrank",
+		"french": "Armoire en Bois Avancée",
 	},
 	"closetWoodPlanks1Variation0Description": {
 		"english": "Give your colonists some space to store their personal belongings.",
@@ -414,11 +432,10 @@
 	"chest1": {
 		"english": "Heavy Metal Chest",
 		"german": "Schwere Metallkiste",
-		//TODO-french
+		"french": "Coffre en Métal Lourd",
 		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
-		"french": "Coffre",
 		"spanish": "Cofre",
 		"portuguese": "Cofre",
 		"turkish": "Sandık",
@@ -955,6 +972,7 @@
 	"tableStone0": {
 		"english": "SimpleStoneTable",
 		"german": "Einfacher Steintisch",
+		"french": "Simple Table en Pierre",
 	},
 	"tablePlanks1Description": {
 		"english": "Style your colony with this piece of furniture.",
@@ -1051,10 +1069,12 @@
 	"chairStoneBlock0": {
 		"english": "Stone Block Stool",
 		"german": "Steinblockhocker",
+		"french": "Tabouret en Bloc de Pierre",
 	},
 	"chairStump3Description": {
 		"english": "A stone block that got made into a stool. Might be a bit cold in winter.",
 		"german": "Ein Steinblock der zu einem Hocker umfunktioniert wurde. Könnte im Winter etwas kalt sein.",
+		"french": "Un bloc de pierre transformé en tabouret. Peut-être un peu froid en hiver.",
 	},
 	"chairPlanks0": {
 		"english": "Simple Wooden Chair",
@@ -1091,26 +1111,32 @@
 	"chairStoneSimple0": {
 		"english": "Simple Stone Chair",
 		"german": "Einfacher Steinstuhl",
+		"french": "Simple Chaise en Pierre",
 	},
 	"chairstoneSimple0Description": {
 		"english": "One might wonder if this chair really offers any way of comfort, but this chair is made for eternity at least.",
 		"german": "Man kann wohl darüber diskutieren, ob dieser Stuhl bequem ist oder nicht. Zumindest ist er für die Ewigkeit gebaut.",
+		"french": "On peut se demander si cette chaise offre du confort, mais elle est faite pour l'éternité, au moins.",
 	},
 	"chairStoneSimple0": {
 		"english": "Simple Stone Chair",
 		"german": "Einfacher Steinstuhl",
+		"french": "Simple Chaise en Pierre",
 	},
 	"chairstoneSimple0Description": {
 		"english": "One might wonder if this chair really offers any way of comfort, but this chair is made for eternity at least.",
 		"german": "Man kann wohl darüber diskutieren, ob dieser Stuhl bequem ist oder nicht. Zumindest ist er für die Ewigkeit gebaut.",
+		"french": "On peut se demander si cette chaise offre du confort, mais elle est faite pour l'éternité, au moins.",
 	},
 	"chairStoneSimple0": {
 		"english": "Simple Stone Chair",
 		"german": "Einfacher Steinstuhl",
+		"french": "Simple Chaise en Pierre",
 	},
 	"chairstoneSimple0Description": {
 		"english": "One might wonder if this chair with armrest really offers any way of comfort, but this chair is made for eternity at least.",
 		"german": "Man kann wohl darüber diskutieren, ob dieser Stuhl mit Armlehne bequem ist oder nicht. Zumindest ist er für die Ewigkeit gebaut.",
+		"french": "On peut se demander si cette chaise offre du confort, mais elle est faite pour l'éternité, au moins.",
 	},
 	"chairPlanks2": {
 		"english": "Advanced Wooden Chair",
@@ -1155,12 +1181,11 @@
 	"chairPlanks3Description": {
 		"english": "A chair with armrest worthy of a well situated Colonist. Way more expensive then necessary but you know you have got to have it.",
 		"german": "Diesem Meisterwerk eines Stuhls mit Armlehne ist wahrlich nur der vornehmste Hintern würdig. Ja er ist nicht billig, aber gib's zu: Du musst ihn haben!",
+		"french": "Une chaise avec accoudoir digne d'un colon bien situé. Plus chère que nécessaire mais vous savez que vous pouvez l'avoir.",
 		//I added "with armrest" in the sentence instead of having it in the name above.
-		//TODO-french
 		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
-		"french": "Une chaise digne d'un colon. Plus chère que nécessaire mais vous savez que vous pouvez l'avoir.",
 		"spanish": "Una silla digna de un distinguido colono. Más cara de lo necesario, sí, pero sabes que la debes tener.",
 		"portuguese": "Uma cadeira digna de um colono bem situado. Muito mais caro do que o necessário, mas você sabe que tem que ter.",
 		"turkish": "İyi konumdaki bir yerleşimciye layık bir sandalye. Gerektiğinden çok daha pahalı, ama buna sahip olmalısın.",
@@ -1583,11 +1608,13 @@
 	},
 	"bookStandScrolls": {
 		"english": "Research Scroll Stand",
-		"german": "Schriftrollenständer zur Forschung",
+		"german": "Schriftrollenständer der Forschung",
+		"french": "Support de Rouleau de Recherche",
 	},
 	"bookStandScrollsDescription": {
 		"english": "This scroll stand can be used for research. Scrolls offer a lot of secrets to discover which can bring your colony a huge step forward.",
 		"german": "Dieser Schriftrollenständer kann zur Forschung verwendet werden. Schriftrollen bergen längst vergessene Geheimnisse, die deine Kolonie weit voranbringen können.",
+		"french": "Ce support de rouleau peut être utilisé pour la recherche. Les rouleaux offrent beaucoup de secrets à découvrir qui peuvent apporter un grand pas en avant à votre colonie.",
 	},
 	"campfire": {
 		"english": "Campfire",
@@ -2044,12 +2071,11 @@
 	"bonfireDescription": {
 		"english": "Bright fire that can be seen for miles. Attracts migrants and traders.",
 		"german": "Ein helles Feuer, das bereits aus weiter Ferne ausgemacht werden kann. Neben potentiellen neuen Kolonisten lockt es auch Händler an.",
+		"french": "Feu vif qui peut être vu à des kilomètres. Attire les migrants et les marchands.",
 		//TODO-spanish
-		//TODO-french
 		//TODO-portuges
 		//TODO-turkish
 		"spanish": "Un fuego brillante que se ve desde kilómetros. Atrae migrantes y enemigos.",
-		"french": "Feu vif qui peut être vu à des kilomètres. Attire les migrants et les ennemis.",
 		"portuguese": "Fogo brilhante que pode ser visto por milhas. Atrai migrantes e inimigos.",
 		"turkish": "Kilometrelerce uzaktan görülebilen parlak ateş. Göçmenleri ve düşmanları cezbeder.",
 	},
@@ -2099,7 +2125,7 @@
 		"french": "Envoyez vos archers dans cette tour pour leur donner une position de tir sûre.",
 		"spanish": "Manda a tus arqueros arriba para darles una posición segura de donde disparar.",
 		"portuguese": "Envie seus arqueiros até esta torre para lhes dar uma posição segura para atirar.",
-		"turkish": "Ateş edebilecekleri güvenli bir konum vermek için okçularınızı bu kuleye gönderin."
+		"turkish": "Ateş edebilecekleri güvenli bir konum vermek için okçularınızı bu kuleye gönderin.",
 	},
 	"trainingDummy": {
 		"english": "Training Dummy",
@@ -2128,6 +2154,7 @@
 	"boatTrader": {
 		"english": "Trader Ship",
 		"german": "Handelsschiff",
+		"french": "Navire Marchand",
 	},
 	
 	
@@ -2137,42 +2164,52 @@
 "equipmentRackTool0": {
 		"english": "Tool Rack",
 		"german": "Werkzeughalter",
+		"french": "Porte-Outils",
 	},
 "equipmentRackTool0Description": {
 		"english": "The ideal repository for tools that aren't in use at the moment.",
 		"german": "Der ideale Aufbewahrungsort für Werkzeug, das gerade nicht verwendet wird.",
+		"french": "Le porte-outils idéal pour les outils qui ne sont pas utilisés pour le moment.",
 	},
 "equipmentRackWeapon0": {
 		"english": "Weapon Rack",
 		"german": "Waffenhalter",
+		"french": "Râtelier d'Armes",
 	},
 "equipmentRackWeapon0Description": {
 		"english": "The ideal repository for weapons that aren't in use at the moment.",
 		"german": "Der ideale Aufbewahrungsort für Waffen, die gerade nicht verwendet werden.",
+		"french": "Le râtelier idéal pour les armes qui ne sont pas utilisées pour le moment.",
 	},
 "equipmentRackWeapon1": {
 		"english": "Weapon Display Case",
 		"german": "Waffenvitrine",
+		"french": "Présentoir d'Armes",
 	},
 "equipmentRackWeapon1Description": {
 		"english": "Extraordniary weapons have can be showcased in this fancy weapon cabinet.",
 		"german": "Für das Verwahren von Waffen, die besondere Aufmerksamkeit auf sich ziehen sollen.",
+		"french": "Des armes extraordinaires peuvent être présentées dans ce meuble sophistiqué.",
 	},
 "equipmentStandArmor0": {
 		"english": "Armor Stand",
 		"german": "Rüstungsständer",
+		"french": "Support d'Armure",
 	},
 "equipmentStandArmor0Description": {
 		"english": "The ideal repository for armor that isn't in use at the moment.",
 		"german": "Der ideale Aufbewahrungsort für Rüstungen, die gerade nicht verwendet werden.",
+		"french": "Le support idéal pour les armures qui ne sont pas utilisées pour le moment.",
 	},
 "equipmentStandClothes0": {
 		"english": "Clothes Stand",
 		"german": "Kleiderständer",
+		"french": "Support de Vêtements",
 	},
 "equipmentStandArmor0Description": {
 		"english": "The ideal repository for Clothes that aren't in use at the moment.",
 		"german": "Der ideale Aufbewahrungsort für Kleidung, die gerade nicht verwendet wird.",
+		"french": "Le support idéal pour les vêtements qui ne sont pas utilisés pour le moment."
 	},
 	
 // Beds
@@ -2181,11 +2218,10 @@
 	"bedWoodSimple0": {
 		"english": "Simple Wooden Bed",
 		"german": "Einfaches Holzbett",
-		//TODO-french
+		"french": "Simple Lit en Bois",
 		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
-		"french": "Lit",
 		"spanish": "Cama",
 		"portuguese": "Cama",
 		"turkish": "Yatak",
@@ -2193,12 +2229,11 @@
 	"bedWoodSimple0Description": {
 		"english": "While still very spartan, your colonists will prefer this bed over the sleeping bag.",
 		"german": "Zwar noch immer recht spartanisch, aber auf diesem Bett liegt es sich um einiges angenehmer als im Schlafsack.",
-		//TODO-french
+		"french": "Bien que très spartiates, vos colons préféreront ce lit au sac de couchage.",
 		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
 		"spanish": "¿Cansado de un largo día de trabajo? Relájate en esta increíblemente cómoda cama y olvídate de tus preocupaciones. Tus colonos preferirán esto antes que un saco de dormir.",
-		"french": "Fatigué après une longue journée de travail ? Détendez-vous dans ce lit incroyablement confortable et oubliez vos soucis. Vos colons aimeront cela encore plus que le sac de couchage.",
 		"portuguese": "Ficando cansado depois de um longo dia de trabalho? Relaxe nesta cama incrivelmente confortável e esqueça suas preocupações. Seus colonos vão gostar disso ainda mais que o saco de dormir.",
 		"turkish": "Uzun bir çalışma gününden sonra yorulmak mı? Bu inanılmaz konforlu yatakta endişelerinizi unutun. Yerleşimcileriniz bunu uyku tulumundan daha çok sevecekler.",
 	},

@@ -1073,6 +1073,39 @@
 		"english": "Combat Equipment",
 		"german": "Kampfausrüstung",
 	},
+	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
+		"english": "Tool Storage",
+		"german": "Werkzeughalter",
+	},
+	"ClothesStorage": {
+		"english": "Clothes Storage",
+		"german": "Kleidungshalter",
+	},
+	"WeaponStorage": {
+		"english": "Weapon Storage",
+		"german": "Waffenhalter",
+	},
+	"ArmorStorage": {
+		"english": "Armor Storage",
+		"german": "Rüstungshalter",
+	},
+	"takeOwnershipOfStorageFurniture": {
+		"english": "Take Ownership of equipment storage furniture to assign equipment",
+		"german": "Nehme Besitz von einem Ausrüstungshalter, um Ausrüstung auswählen zu können",
+	},
+	"selectEquipmentInStorageFurniture": {
+		"english": "Select equipment in the storage furniture",
+		"german": "Wähle Ausrüstung im Möbelstück",
+	},
+	"selectProduction": {
+		"english": "Select Production",
+		"german": "Produktion auswählen",
+	},
+	"noOwner": { // when a piece of furniture is not owned by any colonist
+		"english": "No Owner",
+		"german": "Kein Besitzer",
+	},
+
 
 
 	// Trading menu
@@ -1115,6 +1148,18 @@
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
 		"german": "Kauft Gegenstände mit einem Wert von %coins% Münzen",
+	},
+	"colonyIsGainingCoins": {
+		"english": "The colony is gaining %coins% coins from this deal.",
+		"german": "Die Kolonie erhält %coins% Münzen von diesem Handel.",
+	},
+	"colonyIsPayingCoins": {
+		"english": "The colony is paying %coins% coins for this deal.",
+		"german": "Die Kolonie zahlt %coins% Münzen für diesen Handel.",
+	},
+	"colonyDoesNotHaveCoins": {
+		"english": "The colony does not have %coins% coins to pay for this deal.",
+		"german": "Die Kolonie hat keine %coins% Münzen um diesen Handel zu bezahlen.",
 	},
 
 }

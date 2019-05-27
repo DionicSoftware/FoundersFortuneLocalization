@@ -12,13 +12,12 @@
 	"effectDesc_Bleeding": {
 		"english": "%firstName% bleeding! Make sure that %hisHer% wounds are bandaged properly. Otherwise, %firstName% could die of blood loss.",
 		"german": "%firstName% blutet! Stelle sicher, dass %seineIhre% Verletzungen ordentlich verbunden werden. Ansonsten könnte %firstName% an Blutverlust sterben.",
-		//TODO-french
+		"french": "%firstName% saigne ! Assurez-vous que ses blessures soient bandées proprement. Sinon, %firstName% pourrait mourir d'une perte de sang.",
 		//TODO-spanish
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"french": "%firstName% saigne ! Assurez-vous que ses blessures soient bandées. Sinon, %firstName% pourrait mourir.",
 		"spanish": "¡%firstName% está sangrando! Asegúrate de que sus heridas sean correctamente vendadas. De otra manera %firstName% podría morir desangrado.",
 		"dutch": "%firstName% bloed! Zorg ervoor dat zijn wonden goed zijn verbonden. Anders, kan %firstName% dood gaan aan bloedverlies.",
 		"bulgarian": "%firstName% кърви! Бъдете сигурни, че неговите рани са превързани правилно. Иначе, %firstName% може да умре от кръвозагоба.",
@@ -104,7 +103,7 @@
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"french": "%firstName% n'a pas mangé depuis longtemps. Il doit trouver quelque chose à manger rapidement pour survivre",
+		"french": "%firstName% n'a pas mangé depuis longtemps. %cap-ilElle% doit trouver quelque chose à manger rapidement pour survivre",
 		"spanish": "%firstName% lleva un buen rato sin comer. Él debe encontrar algo que comer pronto para sobrevivir.",
 		"dutch": "%firstName% heeft al lang niet gegeten. Hij moet snel wat eten om te overleven.",
 		"bulgarian": "%firstName% не е ял от дълго време. Той трябва да намери нещо за ядене за да оцелее.",
@@ -144,13 +143,12 @@
 	"effectDesc_Flu": {
 		"english": "%firstName% has caught the Flu. Make sure %heShe% stays in bed in the coming days and is treated with medicine by a doctor. Do not underestimate the illness!",
 		"german": "%firstName% hat sich die Grippe eingefangen. Verschreibe %ihmIhr% Ruhe im Bett und lasse %ihnSie% von einem Doktor mit Medizin behandeln. Unterschätze die Krankheit nicht!",
-		//TODO-french
+		"french": "%firstName a attrapé la grippe. Assurez-vous qu'%ilElle% reste au lit les prochains jours et soit traité(e) avec des médicaments prescrits par un docteur. Ne sous-estimez pas la maladie !",
 		//TODO-spanish
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"french": "%firstName a attrapé la grippe. Assurez-vous qu'il reste au lit les prochains jours et qu'il se soigne avec des médicaments prescrits par un docteur. Ne sous-estimez pas la maladie !",
 		"spanish": "%firstName% contrajo la gripe. Mándalo a la cama y deja que un doctor lo trate con medicina. ¡No subestimes la enfermedad!",
 		"dutch" : "%firstName% heeft de griep tepakken. zorg dat hij in bed blijft de komende dagen en dat hij medicijnen krijgt van een docter. onderschat de ziekte niet!",
 		"bulgarian": "%firstName% прихвана грип. Погрижи се той да стой в леглото в следващите дни и се лекува с лекарство от лекар. Не подценявайте болестта!",
@@ -170,13 +168,12 @@
 	"effectDesc_SleepingInBed": {
 		"english": "%firstName% is resting and slowly re-gaining health.",
 		"german": "%firstName% ruht sich aus und %seineIhre% Gesundheit wird langsam wiederhergestellt.",
-		//TODO-french
+		"french": "%firstName% se repose et se rétablit doucement",
 		//TODO-spanish
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"french": "%firstName% se repose et se rétablit doucement",
 		"spanish": "%firstName% está descansando y recupera salud lentamente.",
 		"dutch" : "%firstName% slaapt in bed en herstelt zijn gezondheid.",
 		"bulgarian": "%firstName% си почива в леглото и бавно се възстановява.",
@@ -196,13 +193,12 @@
 	"effectDesc_AllergicReaction": {
 		"english": "%firstName% had to eat food %heShe% is allergic to. Now %hisHer% body has an allergic reaction.",
 		"german": "%firstName% musste etwas essen, worauf %erSie% allergisch ist. Jetzt hat %seinIhr% Körper eine allergische Reaktion.",
-		//TODO-french
+		"french": "%firstName% a mangé de la nourriture dont %ilElle% était allergique. Son corps a fait une réaction allergique",
 		//TODO-spanish
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"french": "%firstName% a mangé de la nourriture dont il était allergique. Son corps a fait une réaction allergique",
 		"spanish": "%firstName% debió comer algo a lo que era alérgico. Ahora su cuerpo tiene una reacción alérgica.",
 		"dutch" : "%firstName% moest voedsel eten waar hij allergies voor is. Nu heeft hij een allergische reactie.",
 		"bulgarian": "%firstName% явно е ял храна към която той е алергичен. Сега неговото тяло получава алергична реакция.",
@@ -232,13 +228,12 @@
 	"effectDesc_SmallFoodRationsSlowness": {
 		"english": "%firstName% receives only small food rations, so %heShe% just lacks the energy to work properly and takes longer to complete tasks.",
 		"german": "%firstName% bekommt nur kleine Essensrationen. Deswegen fehlt %ihmIhr% die Kraft um ordentlich zu arbeiten und braucht länger um Aufgaben zu erledigen.",
-		//TODO-french
+		"french": "%firstName% ne reçoit que de petites rations alimentaires, donc %ilElle% manque d'énergie pour travailler et prend plus de temps pour accomplir une tâche.",
 		//TODO-spanish
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"french": "%firstName% ne reçoit que de petites rations alimentaires, donc il manque d'énergie pour travailler et prend plus de temps pour accomplir une tâche.",
 		"spanish": "%firstName% recibe sólo pequeñas raciones de comida, por lo tanto carece de la energía para trabajar adecuadamente y tarda más en completar tareas.",
 		"dutch" : "%firstName% krijgt alleen kleine voedsel rotaties, dus hij heeft niet de energie om normaal te werken en doet er dus langer over om taken te voltooien.",
 		"bulgarian": "%firstName% получава малки порции храна, такаче му липсва енергия да работи правилно и отнема по-дълго време да изпълни неговите задължения.",

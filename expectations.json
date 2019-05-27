@@ -268,28 +268,31 @@
 	},
 	"salarySatisfactionAwesome": {
 		"english": "Happy with %hisHer% salary",
+		"german": "Überglücklich mit %seinemIhrem% Gehalt",
 		//TODO-french
+		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
 		"french": "Heureux avec son salaire",
-		"spanish": "Contento con su salario",
+		"spanish": "Feliz con su sueldo",
 		"portuges": "Muito bem com seu salário",
 		"turkish": "Maaşından memnun",
-		"spanish": "Feliz con su sueldo",
 	},
 	"salarySatisfactionGood": {
 		"english": "Fine with %hisHer% salary",
+		"german": "Zufrieden mit %seinemIhrem% Gehalt",
 		//TODO-french
+		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
 		"french": "Bien avec son salaire",
-		"spanish": "Bien con su salario",
+		"spanish": "Bien con su sueldo",
 		"portuges": "Bem com seu salário",
 		"turkish": "Maaşıyla ilgili bir sorunu yok",
-		"spanish": "Bien con su sueldo",
 	},
 	"salarySatisfactionInsufficient": {
 		"english": "Didn't receive enough salary",
+		"german": "Unzufrieden mit %seinemIhrem% Gehalt",
 		"french": "N'a pas reçu un salaire suffisant",
 		"spanish": "No recibió el salario suficiente",
 		"portuges": "Não recebeu salário suficiente",
@@ -297,22 +300,25 @@
 	},
 	"salarySatisfactionBad": {
 		"english": "Received way too little salary",
+		"german": "Sehr unzufrieden mit %seinemIhrem% Gehalt",
 		"french": "A reçu un salaire beaucoup trop bas",
 		"spanish": "Recibió un salario muy bajo",
 		"portuges": "Recebeu muito pouco salário",
 		"turkish": "Maaşını çok düşük buluyor",
-		"spanish": "Ha recibido un sueldo muy bajo", // TODO-verificar tiempo
+		"spanish": "Ha recibido un sueldo muy bajo", // TODO-spanish verificar tiempo
 	},
 	"salarySatisfactionNotPaidYet": {
 		"english": "Has not received a salary yet",
+		"german": "Hat noch kein Gehalt bekommen",
 		"french": "N'a pas encore reçu de salaire",
 		"spanish": "Aún no ha recibido un salario",
 		"portuges": "Ainda não recebeu um salário",
 		"turkish": "Henüz maaşını alamadı",
-		"spanish": "No ha recibido sueldo todavía", // TODO-verificar tiempo
+		"spanish": "No ha recibido sueldo todavía", // TODO-spanish verificar tiempo
 	},
 	"salarySatisfactionAwesome_Desc": {
-		"english": "%firstName% didn't think %hisHer% work would be worth that much money. %heShe% expects %coins% coins per day, but the extra money brightens up %hisHer% day!",
+		"english": "%firstName% didn't think %hisHer% work would be worth that much money. %heShe% expects only %coins% coins per day, but the extra money brightens up %hisHer% day!",
+		"german": "%firstName% hätte nicht gedacht, dass %seineIhre% Arbeit so viel Gehalt wert sei. %erSie% erwartet nur %coins% Münzen pro Tag, aber das Bonusgehalt stimmt %ihnSie% glücklich!",
 		//TODO-french
 		//TODO-portuges
 		//TODO-turkish
@@ -324,6 +330,7 @@
 	},
 	"salarySatisfactionGood_Desc": {
 		"english": "%firstName% thinks %hisHer% last payday was adequate. %coins% coins per day is a normal salary for %himHer%.",
+		"german": "%firstName% hält %seinIhr% letztes Gehalt für angemessen. %coins% Münzen pro Tag ist ein normales Gehalt für %ihnSie%.",
 		//TODO-french
 		//TODO-portuges
 		//TODO-turkish
@@ -336,6 +343,7 @@
 	},
 	"salarySatisfactionInsufficient_Desc": {
 		"english": "According to %firstName%, %heShe% deserves a minimum salary of %coins% coins per day.",
+		"german": "%firstName% meint, %erSie% hätte %coins% Münzen am Tag verdient.",
 		//TODO-french
 		//TODO-portuges
 		//TODO-turkish
@@ -347,6 +355,7 @@
 	},
 	"salarySatisfactionBad_Desc": {
 		"english": "%firstName% is unhappy with %hisHer% last payday - in %hisHer% opinion, %heShe% deserves a minimum salary of %coins% coins per day.",
+		"german": "%firstName% ist unzufrieden mit %seinemIhrem% letzten Gehalt. Wenn es nach %ihmIhr% ginge, würde %erSie% mindestens %coins% Münzen pro Tag verdienen.",
 		//TODO-french
 		//TODO-portuges
 		//TODO-turkish
@@ -358,6 +367,7 @@
 	},
 	"salarySatisfactionNotPaidYet_Desc": {
 		"english": "%firstName% expects a minimum salary of %coins% coins per day.",
+		"german": "%firstName% erwartet mindestens %coins% Münzen Gehalt pro Tag.",
 		"french": "%firstName% s'attend à un salaire minimum de %coins% pièces par jour.",
 		"spanish": "%firstName% espera un salario mínimo de %coins% monedas por día.",
 		"portuges": "%firstName% espera um salário mínimo de %coins% moedas por dia.",

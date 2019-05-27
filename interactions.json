@@ -701,12 +701,15 @@
 	"CarryToBed": {
 		"english": "Carry to Bed",
 		"german": "Zu Bett tragen",
+		"french": "Transporter jusqu'au lit",
 	},
 	"PlaceTool": {
 		"english": "Unequip Tool",
+		"french": "Déséquipper l'outil",
 	},
 	"PlaceClothes": {
 		"english": "Unequip Clothes",
+		"french": "Enlever les vêtements",
 	},
 	"Trade": {
 		"english": "Trade",
@@ -732,9 +735,11 @@
 	},
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",
+		"french": "Ne peut pas marcher à cause de sa jambe cassée",
 	},
 	"cantWorkBrokenArm": {
 		"english": "Can't work because of broken arm",
+		"french": "Ne peut pas travailler à cause de son bras cassé",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -828,8 +833,10 @@
 	},
 	"resourceNotNecessaryForResearch": {
 		"english": "Doesn't need to analyze %resource% for current research",
+		"french": "Pas besoin d'analyser %resource% pour la recherche en cours",
 	},
 	"notOwnedBy": {
 		"english": "Not owned by %firstName%",
+		"french": "N'est pas la propriété de %firstName%",
 	},
 }

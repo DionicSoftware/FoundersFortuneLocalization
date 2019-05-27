@@ -209,8 +209,15 @@
 		"dutch": "zijn Kamer",
 	},
 	"wishLocation_House": {
-		"english": "his House",
-		"german": "seinem Haus",
+		"english": "%hisHer% House",
+		"german": "%seinemIhrem% Haus",
+		//TODO-french
+		//TODO-spanish
+		//TODO-turkish
+		//TODO-bulgarian
+		//TODO-portuges
+		//TODO-swedish
+		//TODO-dutch
 		"french": "sa Maison",
 		"spanish": "su Casa",
 		"turkish": "Onun evi",
@@ -279,8 +286,8 @@
 		"german": "Lohnbonus bekommen und  mindestens %coins% Münzen verdienen",
 	},
 	"defeatGoblin": {
-		"english": "Defeat Goblin",
-		"german": "Goblin besiegen",
+		"english": "Defeat Tiki Goblin",
+		"german": "Tikigoblin besiegen",
 	},
 	"storeFoodForWinter": {
 		"english": "Store at least %food% meals in preparation for winter",

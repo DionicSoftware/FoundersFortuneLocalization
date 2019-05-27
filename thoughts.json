@@ -155,7 +155,7 @@
 	"thoughtDesc_WellRested": {
 		"english": "Oh yes. There's nothing better that being able to sleep late in a comfortable bed.",
 		"german": "Ach ja. Es geht doch nichts darüber in einem schönen Bett in Ruhe ausschlafen zu können.",
-		"spanish": "Oh si. No hay como poder dormir hasta tarde en una cama cómoda.",
+		"spanish": "Oh sí. No hay como poder dormir hasta tarde en una cama cómoda.",
 		"french": "Oh oui. Il n'y a rien de mieux que de pouvoir dormir tard dans un lit confortable.",
 		"turkish": "Ah evet. Rahat bir yatakta geç saatlere kadar uyumak gibi iyisi yok.",
 		"portuges": "Ai sim. Não há nada melhor que poder dormir até tarde em uma cama confortável.",
@@ -187,7 +187,7 @@
 	"thoughtDesc_ColonistDied": {
 		"english": "My friend and fellow colonist died. Damn. I feel kind of empty now.",
 		"german": "Mein Kumpel ist gestorben. Verdammt. Ich fühle mich so leer...",
-		"spanish": "Mi amigo murió. Maldita sea. Me siento tan vacio",
+		"spanish": "Mi amigo murió. Maldita sea. Me siento tan vacío",
 		"french": "Mon ami et camarade colon est mort. Zut. Je me sens seul maintenant.",
 		"turkish": "Arkadaşım ve komşum öldü. Kahretsin. İçimde bir boşluk var.",
 		"portuges": "Meu amigo e companheiro colono morreu. Droga. Eu me sinto meio vazio agora.",
@@ -203,7 +203,7 @@
 	"thoughtDesc_FightWon": {
 		"english": "Oh yeah! Feels good showing them who's boss!",
 		"german": "Oh ja! Dem hab ich's gezeigt!",
-		"spanish": "Oh si. ¡Le mostré quién manda aquí!",
+		"spanish": "¡Oh sí!. ¡Le mostré quién manda aquí!",
 		"french": "Oh oui ! Ça fait du bien de leur montrer qui est le patron !",
 		"turkish": "Ah evet! Kimin patron olduğunu göstermek iyi hissetiriyor!",
 		"portuges": "Oh sim! É bom mostrar quem é que manda!",
@@ -395,7 +395,11 @@
 	"thoughtDesc_PleasantConversation": {
 		"english": "I enjoyed talking with my friend %firstName%.",
 		"german": "Mir hat es gefallen, mich mit %meinemMeiner% %freundFreundin% %firstName% zu unterhalten.",
-		"spanish": "Me gustaba hablar con mi amigo",
+		//TODO-french
+		//TODO-spanish
+		//TODO-portuges
+		//TODO-turkish
+		"spanish": "Me gustó hablar con mi amigo",
 		"french": "J'ai apprécié parler avec mon ami",
 		"turkish": "Arkadaşımla konuşmaktan zevk aldım.",
 		"portuges": "Eu gostava de conversar com meu amigo.",
@@ -403,7 +407,7 @@
 	"thoughtTitle_BadConversation": {
 		"english": "Bad Conversation",
 		"german": "Schlechte Konversation",
-		"spanish": "Mala conversacion",
+		"spanish": "Mala conversación",
 		"french": "Conversation Néfaste",
 		"turkish": "Kötü bir sohbet",
 		"portuges": "Conversa Ruim",
@@ -447,7 +451,7 @@
 	"thoughtDesc_BadDream": {
 		"english": "Last night I couldn't sleep that well. Had bad dreams all night.",
 		"german": "Letzte Nacht konnte ich nicht gut schlafen. Hatte die ganze Zeit schlechte Träume.",
-		"spanish": "No pude dormir bien anoche. Tenia malos sueños todo el tiempo",
+		"spanish": "No pude dormir bien anoche. Tuve malos sueños todo el tiempo",
 		"french": "La nuit dernière, je n'ai pas bien dormi. J'ai fait des mauvais rêves toute la nuit.",
 		"turkish": "Dün gece o kadar iyi uyuyamadım. Bütün gece kötü rüyalar gördüm.",
 		"portuges": "Ontem à noite não consegui dormir tão bem. Tive sonhos ruins a noite toda.",
@@ -495,7 +499,7 @@
 	"thoughtDesc_AteGoodMeal": {
 		"english": "I had a good meal recently. I didn't think we could get something this tasty here.",
 		"german": "Ich habe gut gegessen. Ich dachte nicht, dass wir etwas so leckeres hier bekommen könnten.",
-		"spanish": "Comi bien. No pensé que pudiéramos conseguir algo tan delicioso aquí.",
+		"spanish": "Comí bien. No pensé que pudiéramos conseguir algo tan delicioso aquí.",
 		"french": "J'ai mangé un bon repas récemment. Je ne pensais pas qu'un aussi bon goût était possible.",
 		"turkish": "İyi bir yemek yedim. Burada bu kadar lezzetli bir şey alabileceğimizi düşünmezdim.",
 		"portuges": "Eu tive uma boa refeição recentemente. Eu não acho que poderíamos conseguir algo tão saboroso aqui.",
@@ -527,7 +531,7 @@
 	"thoughtDesc_AteVarietyOfGoodFood": {
 		"english": "There are so many kinds of foods to choose from. It's amazing!",
 		"german": "Es gibt so viel Auswahl beim Essen. Toll!",
-		"spanish": "!Hay tanta variedad en la comida. Genial!",
+		"spanish": "Hay tanta variedad en la comida. ¡Genial!",
 		"french": "Il y a plein de nourritures à choisir. C'est surprenant !",
 		"turkish": "Aralarından seçim yapabileceğiniz çok fazla çeşit yiyecek var. Bu harika!",
 		"portuges": "Existem muitos tipos de alimentos para escolher. É incrível!",
@@ -655,7 +659,7 @@
 	"thoughtDesc_WishFulfilled": {
 		"english": "My wish came true! In this colony I can get what I want.",
 		"german": "Mein Wunsch ist erfüllt worden! In dieser Kolonie kann ich bekommen was ich will.",
-		"spanish": "Mi deseo se hizo realidad! En esta colonia puedo conseguir lo que quiero.",
+		"spanish": "¡Mi deseo se hizo realidad! En esta colonia puedo conseguir lo que quiero.",
 		"french": "Mon vœu s'est exaucé ! Dans cette colonie, je peux faire ce que je veux.",
 		"turkish": "Dileğim gerçekleşti! Bu kolonide istediğimi elde edebilirim.",
 		"portuges": "Meu desejo se tornou realidade! Nesta colônia eu posso conseguir o que eu quero.",
@@ -671,7 +675,7 @@
 	"thoughtDesc_WishDenied": {
 		"english": "My wish has been denied. In my opinion, it should've been easily possible to fulfill! Man, now I'm mad.",
 		"german": "Mein Wunsch wurde abglehnt. Ich denke der hätte leicht erfüllt werden können! Mensch, jetzt bin ich sauer.",
-		"spanish": "Mi deseo ha sido denegado. En mi opinión, ¡debería haber sido fácil de cumplir! Hombre, ahora estoy loco.",
+		"spanish": "Mi deseo ha sido denegado. En mi opinión, ¡debería haber sido fácil de cumplir! Hombre, ahora estoy enfadado.",
 		"french": "Mon voeux a été refusé. A mon avis, ça aurait du être facilement réalisable! Mec, je suis fou.",
 		"turkish": "Dileğim reddedildi. Benim düşünceme göre, kolayca yerine getirmem mümkün olmalıydı! Dostum, şimdi kızgınım.",
 		"portuges": "Meu desejo foi negado. Na minha opinião, deveria ter sido facilmente possível cumprir! Cara, agora estou com raiva.",
@@ -742,6 +746,7 @@
 //	},
 	"thoughtTitle_LowSalary": {
 		"english": "Received low salary",
+		"german": "Zu wenig Gehalt bekommen",
 		"spanish": "Recibió un bajo salario",
 		"portuges": "Recebeu baixo salário",
 		"french": "A reçu un salaire bas",
@@ -749,6 +754,7 @@
 	},
 	"thoughtDesc_LowSalary": {
 		"english": "My last payday was really small. I deserve better than that!",
+		"german": "Mein letztes Gehalt war wirklich wenig. Ich habe mehr verdient!",
 		"spanish": "Mi último pago fue bastante bajo. ¡Merezco algo mejor que eso!",
 		"portuges": "Meu último dia de pagamento foi muito pequeno. Eu mereço melhor que isso!",
 		"french": "Mon dernier jour de paie était vraiment petit. Je mérite mieux que ça !",
@@ -756,6 +762,7 @@
 	},
 	"thoughtTitle_HighSalary": {
 		"english": "Received high salary",
+		"german": "Hohes Gehalt bekommen",
 		"portuges": "Recebeu alto salário",
 		"spanish": "Recibió un alto salario",
 		"french": "A reçu un salaire haut",
@@ -763,6 +770,7 @@
 	},
 	"thoughtDesc_HighSalary": {
 		"english": "My last payday was really high. So much money!",
+		"german": "Mein letztes Gehalt hatte ein großen Bonus. So viel Geld!",
 		"spanish": "Mi último pago fue bastante alto. ¡Mucho dinero!",
 		"portuges": "Meu último dia de pagamento foi muito alto. Tanto dinheiro!",
 		"french": "Mon dernier jour de paie était vraiment grand. Tant d'argent !",
@@ -770,15 +778,19 @@
 	},
 	"thoughtTitle_MissingFloor": {
 		"english": "Floor missing in house",
+		"german": "Boden im Haus fehlt",
 	},
 	"thoughtDesc_MissingFloor": {
 		"english": "There is a room in my house that's missing a floor. It feels like a construction site.",
+		"german": "In meinem Haus gibt es einen Raum ohne Boden. Es fühlt sich an wie eine Baustelle.",
 	},
 	"thoughtTitle_UnpreparedForWinter": {
 		"english": "Unprepared for winter",
+		"german": "Unvorbereitet auf den Winter"
 	},
 	"thoughtDesc_UnpreparedForWinter": {
 		"english": "I'm worried we're not going to have enough food to get through the winter. We really should start preparing for it.",
+		"german": "Ich mache mir Sorgen, dass wir nicht genug Nahrung haben werden um durch den Winter zu kommen. Wir sollten wirklich anfangen uns vorzubereiten.",
 	},
 
 
@@ -908,7 +920,7 @@
 	"moodPhrase_Neutral1": {
 		"english": "I'm doing alright I guess.",
 		"german": "Mir geht's ganz gut würde ich sagen.",
-		"spanish": "Diria que estoy bien",
+		"spanish": "Diría que estoy bien",
 		"french": "Je pense que je vais bien.",
 		"turkish": "Fena değilim sanırım.",
 		"portuges": "Eu estou bem, eu acho.",
@@ -956,7 +968,7 @@
 	"moodPhrase_Good2": {
 		"english": "Today is a good day.",
 		"german": "Heute ist ein guter Tag.",
-		"spanish": "Hoy es un buen dia.",
+		"spanish": "Hoy es un buen día.",
 		"french": "Aujourd'hui c'est une belle journée.",
 		"turkish": "Bugün iyi bir gün.",
 		"portuges": "Hoje é um bom dia.",
@@ -1012,7 +1024,7 @@
 	"moodPhrase_Fighting1": {
 		"english": "Just give up, fool!",
 		"german": "Gib doch einfach auf, Narr!",
-		"spanish": "Sólo ríndete, tonto!",
+		"spanish": "¡Sólo ríndete, tonto!",
 		"french": "Abandonne, imbécile !",
 		"turkish": "Sadece pes et, aptal!",
 		"portuges": "Apenas desista, idiota!",

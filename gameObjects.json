@@ -1943,7 +1943,55 @@
 		"portuges": "Navio Migrante",
 		"turkish": "Mülteci Gemisi",
 	},
+	"boatTrader": {
+		"english": "Trader Ship",
+		"german": "Handelsschiff",
+	},
 	
+	
+// Equipment Storage
+//******************
+
+"equipmentRackTool0": {
+		"english": "Tool Rack",
+		"german": "Werkzeughalter",
+	},
+"equipmentRackTool0Description": {
+		"english": "The ideal repository for tools that aren't in use at the moment.",
+		"german": "Der ideale Aufbewahrungsort für Werkzeug, das gerade nicht verwendet wird.",
+	},
+"equipmentRackWeapon0": {
+		"english": "Weapon Rack",
+		"german": "Waffenhalter",
+	},
+"equipmentRackWeapon0Description": {
+		"english": "The ideal repository for weapons that aren't in use at the moment.",
+		"german": "Der ideale Aufbewahrungsort für Waffen, die gerade nicht verwendet werden.",
+	},
+"equipmentRackWeapon1": {
+		"english": "Weapon Display Case",
+		"german": "Waffenvitrine",
+	},
+"equipmentRackWeapon1Description": {
+		"english": "Extraordniary weapons have can be showcased in this fancy weapon cabinet.",
+		"german": "Für das Verwahren von Waffen, die besondere Aufmerksamkeit auf sich ziehen sollen.",
+	},
+"equipmentStandArmor0": {
+		"english": "Armor Stand",
+		"german": "Rüstungsständer",
+	},
+"equipmentStandArmor0Description": {
+		"english": "The ideal repository for armor that isn't in use at the moment.",
+		"german": "Der ideale Aufbewahrungsort für Rüstungen, die gerade nicht verwendet werden.",
+	},
+"equipmentStandClothes0": {
+		"english": "Clothes Stand",
+		"german": "Kleiderständer",
+	},
+"equipmentStandArmor0Description": {
+		"english": "The ideal repository for Clothes that aren't in use at the moment.",
+		"german": "Der ideale Aufbewahrungsort für Kleidung, die gerade nicht verwendet wird.",
+	},
 	
 // Beds
 //*****
@@ -1957,7 +2005,7 @@
 		"turkish": "Yatak",
 	},
 	"bedDescription": {
-		"english": "Getting tired after a long day of work? Wind down in this amazingly comfortable bed and forget your worries. Your colonists will like this even more then the sleeping bag.",
+		"english": "Getting tired after a long day of work? Wind down in this amazingly comfortable bed and forget your worries. Your colonists will like this even more than the sleeping bag.",
 		"german": "Zwar noch immer recht spartanisch, aber auf diesem Bett liegt es sich um einiges angenehmer als im Schlafsack.",
 		"spanish": "¿Cansado de un largo día de trabajo? Relájate en esta increíblemente cómoda cama y olvídate de tus preocupaciones. Tus colonos preferirán esto antes que un saco de dormir.",
 		"french": "Fatigué après une longue journée de travail ? Détendez-vous dans ce lit incroyablement confortable et oubliez vos soucis. Vos colons aimeront cela encore plus que le sac de couchage.",

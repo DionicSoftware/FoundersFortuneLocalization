@@ -1,14 +1,22 @@
+// Swords
+//*******
 {
 	"equipmentName_swordWood": {
 		"english": "Wooden Sword",
 		"german": "Holzschwert",
 	},
-	// TDOO: equipment desc
+	"equipmentDescription_swordWood": {
+		"english": "No comparison to a real sword but better than having to fight with your bare hands.",
+		"german": "Kein Vergleich zu einem richtigem Schwert, aber besser als ganz ohne Waffe in die Schlacht zu ziehen.",
+	},
 	"equipmentName_swordStone": {
 		"english": "Stone Sword",
 		"german": "Steinschwert",
 	},
-	// TDOO: equipment desc
+	"equipmentDescription_swordStone": {
+		"english": "Even though made out of stone, the sword's blade is sharp and dangerous.",
+		"german": "Wenn auch unregelmäßig gefertigt, ist die steinerne Klinge dieses Schwertes scharf und alles andere als ungefährlich.",
+	},
 	"equipmentName_swordIron": {
 		"english": "Iron Sword",
 		"german": "Eisenschwert",
@@ -19,106 +27,75 @@
 		"portuges": "Espada de ferro",
 	},
 	"equipmentDescription_swordIron": {
-		"english": "It's a decent melee weapon. Forged by a skilled craftsman.",
-		"german": "Es ist eine ordentliche Nahkampfwaffe. Von einem fähigen Handwerker geschmiedet.",
+		"english": "A decent melee weapon. Forged by a skilled craftsman.",
+		"german": "Eine ordentliche Nahkampfwaffe. Von einem fähigen Handwerker geschmiedet.",
 		"french": "C'est une arme de mêlée ordinaire. Forgée par un artisant expérimenté",
 		"spanish": "Un arma aceptable de melé. Forjada por un artesano habilidoso.",
 		"bulgarian": "Това е прилично меле оръжие. Прави се от опитен майстор.",
 		"turkish": "İyi bir yakın dövüş silahı. Kalifiye bir usta tarafından dövülmüş.",
 		"portuges": "É uma arma comum de combate corpo a corpo. Forjado por um artesão experiente",
 	},
-	"equipmentName_armorIron": {
-		"english": "Iron Armor",
-		"german": "Eisenrüstung",
-		"french": "Armure en Fer",
-		"spanish": "Armadura de hierro",
-		"bulgarian": "Желязна Броня",
-		"turkish": "Demir Zırh",
-		"portuges": "Armadura de ferro",
-	},
-	"equipmentDescription_armorIron": {
-		"english": "Takes long to produce, but protects the bearer pretty well.",
-		"german": "Braucht lange in der Herstellung, aber schützt den Träger ziemlich gut.",
-		"french": "Prend du temps à fabriquer, mais protège assez bien le porteur",
-		"spanish": "Su producción es lenta, pero protege adecuadamente a quien la lleva",
-		"bulgarian": "Отнема много време да се направи, но предпазва носителя доста добре.",
-		"turkish": "Üretmesi uzun sürüyor, ancak hamilini oldukça iyi koruyor.",
-		"portuges": "Leva muito tempo para produzir, mas protege o portador muito bem.",
-	},
-	"equipmentName_doctorRobe": {
-		"english": "Doctor's Robe",
-		"german": "Arztrobe",
-		"french": "Blouse de Docteur",
-		"spanish": "Bata de doctor",
-		"bulgarian": "Дрехата на доктора",
-		"turkish": "Doktor Forması",
-		"portuges": "Manto do Médico",
-	},
-	"equipmentDescription_doctorRobe": {
-		"english": "Protects the wearer from contagious diseases. Very useful for doctors as they have much contact with their ill patients.",
-		"german": "Schützt den Träger vor ansteckenden Krankheiten. Sehr nützlich für Ärzte, da sie viel Kontakt mit ihren kranken Patienten haben.",
-		"french": "Protège le porteur des maladies contagieuses. Très utile pour les docteurs qui sont au contact avec leurs patients malades.",
-		"spanish": "Protege al portador de enfermedades contagiosas. Muy útil para los doctores, que tienen contacto con pacientes enfermos.",
-		"bulgarian": "Защитава носителя от заразни болести. Много полезена за лекарите, тъй като те имат много контакт с болните си пациенти.",
-		"turkish": "Kullanıcıyı bulaşıcı hastalıklardan korur. Hastaları ile çok fazla temasta oldukları için doktorlar için çok faydalıdır.",
-		"portuges": "Protege o usuário de doenças contagiosas. Muito útil para os médicos, pois eles têm muito contato com seus pacientes doentes.",
-	},
+
+// Axes
+//*****
+
 	"equipmentName_axeWood": {
 		"english": "Wooden Axe",
 		"german": "Holzaxt",
 	},
-	// TDOO: equipment desc
+	"equipmentDescription_axeWood": {
+		"english": "Doubles the amount of wood recieved from trees.",
+		"german": "Verdoppelt den Holzertrag durch das Fällen von Bäumen",
+	},
 	"equipmentName_axeStone": {
 		"english": "Stone Axe",
 		"german": "Steinaxt",
 	},
-	// TDOO: equipment desc
+	"equipmentDescription_axeStone": {
+		"english": "Triples the amount of wood recieved from trees.",
+		"german": "Verdreifacht den Holzertrag durch das Fällen von Bäumen",
+	},
 	"equipmentName_axeIron": {
-		"english": "Axe",
-		"german": "Axt",
-		"french": "Hâche",
-		"spanish": "Hacha",
-		"bulgarian": "Брадва",
-		"turkish": "Balta",
-		"portuges": "Machado",
+		"english": "Iron Axe",
+		"german": "Eisenaxt",
+		
 	},
 	"equipmentDescription_axeIron": {
-		"english": "With this axe, cutting wood takes half the time.",
-		"german": "Mit der Axt geht Holzfällen doppelt so schnell.",
-		"french": "Avec cette hâche, couper du bois prend deux fois moins de temps",
-		"spanish": "Con esta hacha, cortar madera lleva la mitad de tiempo.",
-		"bulgarian": "С тази брадва рязането на дърва отнема половината от времето от колкото обикновено.",
-		"turkish": "Bu baltayla odun kesmek iki kat daha hızlı olur.",
-		"portuges": "Com esse machado, cortar madeira leva metade do tempo.",
+		"english": "Quadruples the amount of wood recieved from trees.",
+		"german": "Vervierfacht den Holzertrag durch das Fällen von Bäumen",
 	},
+
+// Pickaxes
+//*********
+
 	"equipmentName_pickaxeWood": {
 		"english": "Wooden Pickaxe",
 		"german": "Holzpicke",
 	},
-	// TDOO: equipment desc
+	"equipmentDescription_pickaxeWood": {
+		"english": "Doubles the amount of stone recieved from rocks.",
+		"german": "Verdoppelt den Steinertrag durch das Abbauen von Felsen",
+	},
 	"equipmentName_pickaxeStone": {
 		"english": "Stone Pickaxe",
 		"german": "Steinpicke",
 	},
-	// TDOO: equipment desc
+	"equipmentDescription_pickaxeStone": {
+		"english": "Triples the amount of stone recieved from rocks.",
+		"german": "Verdreifacht den Steinertrag durch das Abbauen von Felsen",
+	},
 	"equipmentName_pickaxeIron": {
-		"english": "Pickaxe",
-		"german": "Picke",
-		"french": "Pioche",
-		"spanish": "Pico",
-		"bulgarian": "Кирка",
-		"turkish": "Kazma",
-		"portuges": "Picareta",
+		"english": "Iorn Pickaxe",
+		"german": "Eiserne Picke",
 	},
 	"equipmentDescription_pickaxeIron": {
-		"english": "With this pickaxe, mining takes half the time.",
-		"german": "Mit der Picke geht das Abbauen von Stein, Eisen und Kristallen doppelt so schnell.",
-		"french": "Avec cette pioche, miner prend deux fois moins de temps",
-		"spanish": "Con este pico, minar lleva la mitad de tiempo.",
-		"bulgarian": "С тази кирка миньорството отнема половината от времето от колкото обикновено.",
-		"turkish": "Bu kazma ile madencilik yarı zamanda tamamlanıyor",
-		"portuges": "Com esta picareta, a mineração leva metade do tempo.",
+		"english": "Quadruples the amount of stone recieved from rocks.",
+		"german": "Vervierfacht den Steinertrag durch das Abbauen von Felsen",
 	},
+
+// Bows
+//*****
+
 	"equipmentName_bow": {
 		"english": "Simple Bow",
 		"german": "Einfacher Bogen",
@@ -137,6 +114,10 @@
 		"turkish": "Her ok, isabet etmesi halinde, ciddi miktarda hasar verir.",
 		"portuges": "Cada flecha causa uma quantidade séria de dano - se acertar.",
 	},
+
+// Clubs
+//******
+
 	"equipmentName_woodenClub": {
 		"english": "Wooden Club",
 		"german": "Holzkeule",
@@ -147,14 +128,13 @@
 		"portuges": "Clube de madeira",
 	},
 	"equipmentDescription_woodenClub": {
-		"english": "Simple weapon. Easy to make, not much damage.",
-		"german": "Einfache Waffe. Schnell herstellbar, wenig Schaden.",
-		"french": "Une arme rudimentaire. Simple à fabriquer, n'inflige pas beaucoup de dégâts.",
-		"spanish": "Un arma simple. Fácil de construir, pero no hace mucho daño.",
-		"bulgarian": "Нормално оръжие. Лесна за правене, не прави много голямо поръжение.",
-		"turkish": "Basit silah. Kolayca yapılır, fazla hasar vermez.",
-		"portuges": "Arma simples. Fácil de fazer, não muito dano.",
+		"english": "This plain club is used by Tikigoblins. It might be of special value for collectors!.",
+		"german": "Diese unscheinbare Keule wird von den Tikigoblins verwendet. Für Sammler ist sie sicher wertvoll!",
 	},
+
+// Watering Cans
+//**************
+
 	"equipmentName_wateringCan": {
 		"english": "Watering Can",
 		"german": "Gießkanne",
@@ -173,6 +153,51 @@
 		"turkish": "Bitkilerinize en uygun bakımı sağlamak için bir sulama kovasına ihtiyacınız var. Doğru bir şekilde sulanan bitkilerin çift veya üçlü hasat verdikleri bildirildi!",
 		"portuges": "Você precisa ter um regador para fornecer o melhor atendimento para suas plantas. As plantas que foram regadas corretamente produziram colheitas duplas ou triplas!",
 	},
+
+// Armors
+//*******
+
+	"equipmentName_armorIron": {
+		"english": "Iron Armor",
+		"german": "Eisenrüstung",
+		"french": "Armure en Fer",
+		"spanish": "Armadura de hierro",
+		"bulgarian": "Желязна Броня",
+		"turkish": "Demir Zırh",
+		"portuges": "Armadura de ferro",
+	},
+	"equipmentDescription_armorIron": {
+		"english": "Takes long to produce, but protects the bearer pretty well.",
+		"german": "Braucht lange in der Herstellung, aber schützt den Träger ziemlich gut.",
+		"french": "Prend du temps à fabriquer, mais protège assez bien le porteur",
+		"spanish": "Su producción es lenta, pero protege adecuadamente a quien la lleva",
+		"bulgarian": "Отнема много време да се направи, но предпазва носителя доста добре.",
+		"turkish": "Üretmesi uzun sürüyor, ancak hamilini oldukça iyi koruyor.",
+		"portuges": "Leva muito tempo para produzir, mas protege o portador muito bem.",
+	},
+
+// Work Gear
+//**********
+
+	"equipmentName_doctorRobe": {
+		"english": "Doctor's Robe",
+		"german": "Arztrobe",
+		"french": "Blouse de Docteur",
+		"spanish": "Bata de doctor",
+		"bulgarian": "Дрехата на доктора",
+		"turkish": "Doktor Forması",
+		"portuges": "Manto do Médico",
+	},
+	"equipmentDescription_doctorRobe": {
+		"english": "Protects the wearer from contagious diseases. Very useful for doctors as they have much contact with their ill patients.",
+		"german": "Schützt den Träger vor ansteckenden Krankheiten. Sehr nützlich für Ärzte, da sie viel Kontakt mit ihren kranken Patienten haben.",
+		"french": "Protège le porteur des maladies contagieuses. Très utile pour les docteurs qui sont au contact avec leurs patients malades.",
+		"spanish": "Protege al portador de enfermedades contagiosas. Muy útil para los doctores, que tienen contacto con pacientes enfermos.",
+		"bulgarian": "Защитава носителя от заразни болести. Много полезена за лекарите, тъй като те имат много контакт с болните си пациенти.",
+		"turkish": "Kullanıcıyı bulaşıcı hastalıklardan korur. Hastaları ile çok fazla temasta oldukları için doktorlar için çok faydalıdır.",
+		"portuges": "Protege o usuário de doenças contagiosas. Muito útil para os médicos, pois eles têm muito contato com seus pacientes doentes.",
+	
+	},
 	"equipmentName_farmerOutfit": {
 		"english": "Farmer's Clothes",
 		"german": "Bauernkleidung",
@@ -190,5 +215,9 @@
 		"bulgarian": "Това надеждно работно облекло е идеално за работа на полетата. Носеики това повечето фермери може да засаждат техните полета двойно по бързо!",
 		"turkish": "Bu sağlam iş kıyafeti tarlalarda çalışmak için mükemmel bir uyum sağlar. Bunu giyerek çoğu çiftçi tarlalarını yarı zamanda ekebilir!",
 		"portuges": "Esta peça robusta de trabalho é perfeitamente adequada para trabalhar nos campos. Usando isso, a maioria dos agricultores pode semear seus campos na metade do tempo!",
+	},
+	"equipmentDescription_traderGear": {
+		"english": "A magnificent garment, that is very popular with traders",
+		"german": "Ein prachtvolles Gewand, dass vor allem von Händlern getragen wird.",
 	},
 }

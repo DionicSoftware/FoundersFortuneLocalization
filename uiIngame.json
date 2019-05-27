@@ -1064,46 +1064,57 @@
 	"paymentInCoinsPerDay": {
 		"english": "Payment in coins per day",
 		"german": "Bezahlung in Münzen pro Tag",
+		"french": "Paiement en pièces par jour",
 	},
 	"civilianEquipment": {
 		"english": "Civilian Equipment",
 		"german": "Zivile Ausrüstung",
+		"french": "Équipement Civil",
 	},
 	"combatEquipment": {
 		"english": "Combat Equipment",
 		"german": "Kampfausrüstung",
+		"french": "Équipement de Combat",
 	},
 	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
 		"english": "Tool Storage",
 		"german": "Werkzeughalter",
+		"french": "Stockage d'Outils",
 	},
 	"ClothesStorage": {
 		"english": "Clothes Storage",
 		"german": "Kleidungshalter",
+		"french": "Stockage de Vêtements",
 	},
 	"WeaponStorage": {
 		"english": "Weapon Storage",
 		"german": "Waffenhalter",
+		"french": "Stockage d'Armes",
 	},
 	"ArmorStorage": {
 		"english": "Armor Storage",
 		"german": "Rüstungshalter",
+		"french": "Stockage d'Armures",
 	},
 	"takeOwnershipOfStorageFurniture": {
 		"english": "Take Ownership of equipment storage furniture to assign equipment",
 		"german": "Nehme Besitz von einem Ausrüstungshalter, um Ausrüstung auswählen zu können",
+		"french": "Prendre possession du mobilier de stockage d'équipement pour attribuer l'équipement",
 	},
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",
 		"german": "Wähle Ausrüstung im Möbelstück",
+		"french": "Sélectionner l'équipement dans le meuble de stockage",
 	},
 	"selectProduction": {
 		"english": "Select Production",
 		"german": "Produktion auswählen",
+		"french": "Sélectionner la Production",
 	},
 	"noOwner": { // when a piece of furniture is not owned by any colonist
 		"english": "No Owner",
 		"german": "Kein Besitzer",
+		"french": "Pas de Propriétaire",
 	},
 
 
@@ -1112,42 +1123,52 @@
 	"trader": {
 		"english": "Trader",
 		"german": "Händler",
+		"french": "Marchand",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
 		"german": "Kolonie verkauft an den Händler",
+		"french": "La Colonie est en train de Vendre au Marchand",
 	},
 	"colonyIsBuying": {
 		"english": "Colony is Buying from the Trader",
 		"german": "Kolonie kauft vom Händler",
+		"french": "La Colonie est en train d'Acheter au Marchand",
 	},
 	"amountStorage": { // amount means how much is being traded and in store is the maximum amount the colony or the trader has in store
 		"english": "Amount / In Store",
 		"german": "Menge / Im Lager",
+		"french": "Montant / En Stock",
 	},
 	"tradingGoodName": {
 		"english": "Name",
 		"german": "Name",
+		"french": "Nom",
 	},
 	"price": {
 		"english": "Price",
 		"german": "Preis",
+		"french": "Prix",
 	},
 	"totalPrice": {
 		"english": "Total",
 		"german": "Gesamt",
+		"french": "Total",
 	},
 	"confirmTrade": {
 		"english": "Confirm Trade",
 		"german": "Handel abschließen",
+		"french": "Confirmer Commerce",
 	},
 	"sellItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
 		"german": "Verkauft Gegenstände mit einem Wert von %coins% Münzen",
+		"french": "Vendre des objets d'une valeur de %coins% pièces",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
 		"german": "Kauft Gegenstände mit einem Wert von %coins% Münzen",
+		"french": "Acheter des objets d'une valeur de %coins% pièces",
 	},
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",

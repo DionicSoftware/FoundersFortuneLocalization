@@ -130,6 +130,7 @@
 	"equipmentDescription_woodenClub": {
 		"english": "This plain club is used by Tikigoblins. It might be of special value for collectors!.",
 		"german": "Diese unscheinbare Keule wird von den Tikigoblins verwendet. Für Sammler ist sie sicher wertvoll!",
+		"spanish": "Esta porra de madera la ocupan los Tikigoblins. ¡Es especialmente valiosa para los coleccionistas!"
 	},
 
 // Watering Cans
@@ -139,12 +140,11 @@
 		"english": "Wooden Watering Can",
 		"german": "Holzgießkanne",
 		//TODO-french
-		//TODO-spanish
 		//TODO-bulgarian
 		//TODO-turkish
 		//TODO-portuges
 		"french": "Arrosoir",
-		"spanish": "Regadera",
+		"spanish": "Regadera de madera",
 		"bulgarian": "Лейка",
 		"turkish": "Sulama kovası",
 		"portuguese": "Regador",
@@ -161,6 +161,7 @@
 	"equipmentName_wateringCanStone": {
 		"english": "Stone Watering Can",
 		"german": "Steingießkanne",
+		"spanish": "Regadera de piedra",
 	},
 	"equipmentDescription_wateringCanStone": {
 	// Not fully implemented in the game yet	
@@ -168,6 +169,7 @@
 	"equipmentName_wateringCanIron": {
 		"english": "Iron Watering Can",
 		"german": "Eisengießkanne",
+		"spanish": "Regadera de hierro",
 	},
 	"equipmentDescription_wateringCanIron": {
 	// Not fully implemented in the game yet
@@ -238,9 +240,11 @@
 	"equipmentName_traderGear": {
 		"english": "Trader's Garment",
 		"german": "Händlergewand",
+		"spanish": "Traje de comerciante",
 	},
 	"equipmentDescription_traderGear": {
 		"english": "A magnificent garment, that is very popular with traders",
 		"german": "Ein prachtvolles Gewand, dass vor allem von Händlern getragen wird.",
+		"spanish": "Un magnífico traje, muy popular entre los comerciantes.",
 	},
 }

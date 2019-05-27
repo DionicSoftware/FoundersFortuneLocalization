@@ -193,14 +193,13 @@
 	"wishLocation_Room": {
 		"english": "%hisHer% Room",
 		"german": "%seinemIhrem% Raum",
-		//TODO-french
+		"french": "sa Pièce",
 		//TODO-spanish
 		//TODO-turkish
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-swedish
 		//TODO-dutch
-		"french": "sa Pièce",
 		"spanish": "su Habitación",
 		"turkish": "Onun odası",
 		"bulgarian": "неговата Стая",
@@ -211,14 +210,13 @@
 	"wishLocation_House": {
 		"english": "%hisHer% House",
 		"german": "%seinemIhrem% Haus",
-		//TODO-french
+		"french": "sa Maison",
 		//TODO-spanish
 		//TODO-turkish
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-swedish
 		//TODO-dutch
-		"french": "sa Maison",
 		"spanish": "su Casa",
 		"turkish": "Onun evi",
 		"bulgarian": "неговата Къща",
@@ -284,13 +282,16 @@
 	"getBigPayday": {
 		"english": "Get a big payday of at least %coins% coins",
 		"german": "Lohnbonus bekommen und  mindestens %coins% Münzen verdienen",
+		"french": "Obtenir un gros jour de paie d'au moins %coins% pièces",
 	},
 	"defeatGoblin": {
 		"english": "Defeat Tiki Goblin",
 		"german": "Tikigoblin besiegen",
+		"french": "Battre un Tiki Goblin",
 	},
 	"storeFoodForWinter": {
 		"english": "Store at least %food% meals in preparation for winter",
 		"german": "Mindestens %food% Mahlzeiten als Vorbereitung auf den Winter lagern",
+		"french": "Conserver au moins %food% repas en prévision de l'hiver",
 	},
 }

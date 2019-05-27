@@ -289,18 +289,22 @@
 	"notificationTitle_LegHurt": {
 		"english": "%firstName% hurt %hisHer% Leg",
 		"german": "%firstName% hat %seinIhr% Bein verletzt",
+		"french": "%firstName% s'est bléssé%e% à la jambe",
 	},
 	"notificationTitle_LegBroken": {
 		"english": "%firstName% broke %hisHer% Leg",
 		"german": "%firstName% hat %seinIhr% Bein gebrochen",
+		"french": "%firstName% a cassé sa jambe",
 	},
 	"notificationTitle_ArmHurt": {
 		"english": "%firstName% hurt %hisHer% Arm",
 		"german": "%firstName% hat %seinenIhren% Arm verletzt",
+		"french": "%firstName% s'est bléssé%e% au bras",
 	},
 	"notificationTitle_ArmBroken": {
 		"english": "%firstName% broke %hisHer% Arm",
 		"german": "%firstName% hat %seinenIhren% Bein gebrochen",
+		"french": "%firstName% a cassé son bras",
 	},
 
 	// FLOATING TEXTS
@@ -415,6 +419,7 @@
 	},
 	"messageText_TraderArrived": {
 		"english": "A trader just made landfall on the coast. Send a colonist to haggle for some good deals!",
+		"french": "Un marchand vient d'arriver sur la côte. Envoyez un colon pour négocier de bonnes affaires !"
 	},
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Tantrum!",
@@ -428,12 +433,11 @@
 	"messageText_BreakdownAttackFriends": {
 		"english": "A colonist has been feeling horrible for a while now and just couldn't take it anymore. %cap-heShe% has gone crazy now and is beating up random people, friend or foe.",
 		"german": "Ein Kolonist fühlt sich schon seit einer Weile schrecklich und hält es einfach nicht mehr aus. Jetzt dreht %erSie% durch und schlägt sich mit Freund oder Feind.",
-		//TODO-french
+		"french": "Un colon s'est senti vraiment mal pendant un moment et n'en peut plus. %cap-ilElle% est devenu%e% %fouFolle% et va frapper des gens, amis ou ennemis.",
 		//TODO-spanish
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"french": "Un colon s'est senti vraiment mal pendant un moment. Il est devenu fou et va frapper des gens, amis ou ennemis.",
 		"spanish": "Un colono se ha estado sintiendo horrible por un tiempo y ya no podía soportarlo más. Ahora se ha vuelto loco y está golpeando a personas al azar, amigos o enemigos.",
 		"portuguese": "Um colono está se sentindo horrível há algum tempo e não aguentava mais. Ele ficou louco agora e está espancando pessoas aleatórias, amigos ou inimigos.",
 		"turkish": "Yerleşimcilerden biri bir süredir kendini kötü hissediyordu, ve artık sinirlerini kontrol edemiyor. Delirdi ve dost düşman demeden insanlara saldırıyor.",
@@ -451,12 +455,11 @@
 	"messageText_BreakdownRefusingWork": {
 		"english": "A colonist has worked too much under terrible conditions. %cap-heShe% has decided %heShe% just doesn't care anymore and is going to relax for a while.",
 		"german": "Ein Kolonist hat zu lange unter entsetzlichen Bedingungen gearbeitet. Jetzt reicht es %ihmIhr% und %erSie% hat entschieden mit der Arbeit aufzuhören und sich erst mal zu entspannen",
-		//TODO-french
+		"french": "Un colon a trop travaillé dans des conditions épouvantables. %cap-ilElle% a décidé qu'%ilElle% n'avait pas pris assez soin %deluiD'elle% et %ilElle% va se relaxer un peu.",
 		//TODO-spanish
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"french": "Un colon a trop travaillé dans des conditions épouvantables. Il a décidé qu'il n'avait pas pris assez soin de lui et il va se relaxer un peu.",
 		"spanish": "Un colono ha trabajado demasiado bajo condiciones terribles. Él ha decidido que ya no le importa más y se va a relajar por un tiempo.",
 		"portuguese": "Um colono trabalhou muito sob condições terríveis. Ele decidiu que ele simplesmente não se importa mais e vai relaxar por um tempo.",
 		"turkish": "Yerleşimcilerden biri zor koşullar altında çok fazla çalıştı. Artık umursamayacağına ve bir süre dinleneceğine karar verdi.",
@@ -474,12 +477,11 @@
 	"messageText_BreakdownDestroyFurniture": {
 		"english": "Life hasn't been the greatest for %firstName%. Now %heShe% has turned to vandalism to blow off some steam.",
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Jetzt randaliert %erSie% um sich abzuregen.",
-		//TODO-french
+		"french": "La vie n'a pas été la meilleure pour %firstName%. %cap-ilElle% s'est tourné%e% vers le vandalisme.",
 		//TODO-spanish
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"french": "La vie n'a pas été la meilleure pour %firstName%. Il s'est tourné vers le vandalisme.",
 		"spanish": "La vida no ha sido la mejor para %firstName%. Ahora ha recurrido al vandalismo para desahogarse.",
 		"portuguese": "A vida não foi a melhor para %firstName%. Agora ele se voltou para o vandalismo para desabafar.",
 		"turkish": "Hayat %firstName% için bir süredir çok iyi değildi. Sinirlerini yatıştırmak için vandalizme başladı.",
@@ -497,12 +499,11 @@
 	"messageText_BreakdownLazyDay": {
 		"english": "Life hasn't been the greatest for %firstName%. Today %heShe% is taking it easy and will be taking a lot of long breaks.",
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Heute geht %erSie% es gemütlich an und macht viele lange Pausen.",
-		//TODO-french
+		"french": "La vie n'a pas été la meilleure pour %firstName%. Aujourd'hui c'est plus simple et %ilElle% prendra de longues pauses.",
 		//TODO-spanish
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"french": "La vie n'a pas été la meilleure pour %firstName%. Aujourd'hui c'est plus simple et il prendra de longues pauses.",
 		"spanish": "La vida no ha sido la mejor para %firstName%. Hoy se lo está tomando con calma y tomará muchos descansos largos.",
 		"portuguese": "A vida não foi a melhor para %firstName%. Hoje ele está se acalmando e fará muitas pausas longas.",
 		"turkish": "Hayat %firstName% için bir süredir çok iyi değildi. Bugünü işleri hafiften alacak ve bol bol molaya çıkacak.",
@@ -556,12 +557,11 @@
 	"messageText_TutorialHealing": {
 		"english": "A colonist is wounded! Make sure they gets enough sleep to rest their body. An experienced doctor can create more advanced remedies at the potion lab.",
 		"german": "Ein Kolonist ist verletzt! Stelle sicher, dass er genug Schlaf bekommt, um seinen Körper auszuruhen. Ein erfahrener Arzt kann fortgeschrittene Heilmittel am Alchemielabor herstellen.",
-		//TODO-french
+		"french": "Un colon s'est blessé ! Assurez-vous qu'%ilElle% dorme assez pour se rétablir. Un docteur expérimenté peut créer des remèdes améliorés au laboratoire de potion.",
 		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
 		//TODO-bulgarian
-		"french": "Un colon s'est blessé ! Assurez-vous qu'il dorme assez pour se rétablir. Un docteur expérimenté peut créer des remèdes améliorés au laboratoire de potion.",
 		"spanish": "¡Un colono está herido! Asegúrate de que duerma lo suficiente para descansar su cuerpo. Un médico experimentado puede crear remedios más avanzados en el laboratorio de pociones.",
 		"portuguese": "Um colono está ferido! Certifique-se de que ele durma o suficiente para descansar seu corpo. Um médico experiente pode criar remédios mais avançados no laboratório de poções.",
 		"turkish": "Yerleşimcilerden biri yaralandı! Vücudunu dinlendirmek için yeterince uyuduğundan emin olun. Deneyimli bir doktor iksir laboratuarında daha gelişmiş ilaçlar yaratabilir.",

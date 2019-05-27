@@ -50,7 +50,7 @@
 		"english": "Needs to be placed in a finished room!",
 		"german": "Muss in einem fertigen Raum platziert werden!",
 		"french": "A besoin d'être placé dans une pièce terminée !",
-		"spanish": "!Necesita ser colocado en una habitación terminada!",
+		"spanish": "¡Necesita ser colocado en una habitación terminada!",
 		"portuguese": "Precisa ser colocado em um quarto finalizado!",
 		"turkish": "Hazır bir odaya yerleştirilmesi gerekiyor!",
 		"bulgarian": "Необходимо е да се постави в завършена стая!",
@@ -179,7 +179,7 @@
 		"english": "Migrants are leaving",
 		"german": "Migranten reisen ab",
 		"french": "Les migrants partent",
-		"spanish": "Los migrantes se van",
+		"spanish": "Migrantes partiendo",
 		"portuguese": "Migrantes estão saindo",
 		"turkish": "Yerleşimciler ayrılıyor",
 		"bulgarian": "Мигрантите си отиват",
@@ -187,6 +187,11 @@
 	"notificationTitle_TraderIsLeaving": {
 		"english": "Trader is leaving",
 		"german": "Händler reist ab",
+		"spanish": "Comerciante partiendo",
+		//TODO-french
+		//TODO-turkish
+		//TODO-portuguese
+		//TODO-bulgarian
 	},
 	"notificationTitle_SeasonChanged": {
 		"english": "It is now %season%",
@@ -290,21 +295,25 @@
 		"english": "%firstName% hurt %hisHer% Leg",
 		"german": "%firstName% hat %seinIhr% Bein verletzt",
 		"french": "%firstName% s'est bléssé%e% à la jambe",
+		"spanish": "%firstName% se lastimó una pierna",
 	},
 	"notificationTitle_LegBroken": {
 		"english": "%firstName% broke %hisHer% Leg",
 		"german": "%firstName% hat %seinIhr% Bein gebrochen",
 		"french": "%firstName% a cassé sa jambe",
+		"spanish": "%firstName% se rompió una pierna",
 	},
 	"notificationTitle_ArmHurt": {
 		"english": "%firstName% hurt %hisHer% Arm",
 		"german": "%firstName% hat %seinenIhren% Arm verletzt",
 		"french": "%firstName% s'est bléssé%e% au bras",
+		"spanish": "%firstName% se lastimó un brazo",
 	},
 	"notificationTitle_ArmBroken": {
 		"english": "%firstName% broke %hisHer% Arm",
 		"german": "%firstName% hat %seinenIhren% Bein gebrochen",
 		"french": "%firstName% a cassé son bras",
+		"spanish": "%firstName% se rompió un brazo",
 	},
 
 	// FLOATING TEXTS
@@ -356,21 +365,25 @@
 	"legSplintSuccessful": {
 		"english": "Leg Splint\nSuccessful",
 		"german": "Beinschienen\nerfolgreich",
+		"spanish": "Entablado de pierna\nExitoso",
 		"french": "Attelle à la jambe\nSuccès",
 	},
 	"legSplintFailed": {
 		"english": "Leg Splint\nFailed",
-		"german": "Beinschienen\nfehlgeschlagen",
+		"german": "Beinschienen\nfehlgeschlagen",,
+		"spanish": "Entablado de pierna\nFallido",
 		"french": "Attelle à la jambe\nEchec",
 	},
 	"armSplintSuccessful": {
 		"english": "Arm Splint\nSuccessful",
-		"german": "Armschienen\nerfolgreich",
+		"german": "Armschienen\nerfolgreich",,
+		"spanish": "Entablado de brazo\nExitoso",
 		"french": "Attelle au Bras\nSuccès",
 	},
 	"armSplintFailed": {
 		"english": "Arm Splint\nFailed",
-		"german": "Armschienen\nfehlgeschlagen",
+		"german": "Armschienen\nfehlgeschlagen",,
+		"spanish": "Entablado de brazo\nFallido",
 		"french": "Attelle au Bras\nEchec",
 	},
 
@@ -423,7 +436,8 @@
 	},
 	"messageText_TraderArrived": {
 		"english": "A trader just made landfall on the coast. Send a colonist to haggle for some good deals!",
-		"french": "Un marchand vient d'arriver sur la côte. Envoyez un colon pour négocier de bonnes affaires !"
+		"french": "Un marchand vient d'arriver sur la côte. Envoyez un colon pour négocier de bonnes affaires !",
+		"spanish": "Un comerciante ha arribado a la costa. ¡Manda a un colono a negociar algunos buenos tratos!",
 	},
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Tantrum!",
@@ -438,11 +452,10 @@
 		"english": "A colonist has been feeling horrible for a while now and just couldn't take it anymore. %cap-heShe% has gone crazy now and is beating up random people, friend or foe.",
 		"german": "Ein Kolonist fühlt sich schon seit einer Weile schrecklich und hält es einfach nicht mehr aus. Jetzt dreht %erSie% durch und schlägt sich mit Freund oder Feind.",
 		"french": "Un colon s'est senti vraiment mal pendant un moment et n'en peut plus. %cap-ilElle% est devenu%e% %fouFolle% et va frapper des gens, amis ou ennemis.",
-		//TODO-spanish
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"spanish": "Un colono se ha estado sintiendo horrible por un tiempo y ya no podía soportarlo más. Ahora se ha vuelto loco y está golpeando a personas al azar, amigos o enemigos.",
+		"spanish": "Un colono se ha estado sintiendo horrible por un tiempo y ya no podía soportarlo más. %cap-élElla% se ha vuelto loc%oA% y está golpeando a personas al azar, amigos o enemigos.",
 		"portuguese": "Um colono está se sentindo horrível há algum tempo e não aguentava mais. Ele ficou louco agora e está espancando pessoas aleatórias, amigos ou inimigos.",
 		"turkish": "Yerleşimcilerden biri bir süredir kendini kötü hissediyordu, ve artık sinirlerini kontrol edemiyor. Delirdi ve dost düşman demeden insanlara saldırıyor.",
 		"bulgarian": "Колонистът се чувстваше ужасно за известно време и просто не можеше повече да го понася. Сега той е луд и бие случайни хора, приятел или враг.",
@@ -460,11 +473,10 @@
 		"english": "A colonist has worked too much under terrible conditions. %cap-heShe% has decided %heShe% just doesn't care anymore and is going to relax for a while.",
 		"german": "Ein Kolonist hat zu lange unter entsetzlichen Bedingungen gearbeitet. Jetzt reicht es %ihmIhr% und %erSie% hat entschieden mit der Arbeit aufzuhören und sich erst mal zu entspannen",
 		"french": "Un colon a trop travaillé dans des conditions épouvantables. %cap-ilElle% a décidé qu'%ilElle% n'avait pas pris assez soin %deluiD'elle% et %ilElle% va se relaxer un peu.",
-		//TODO-spanish
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"spanish": "Un colono ha trabajado demasiado bajo condiciones terribles. Él ha decidido que ya no le importa más y se va a relajar por un tiempo.",
+		"spanish": "Un colono ha trabajado demasiado bajo condiciones terribles. %cap-élElla% ha decidido que ya no le importa más y se va a relajar por un tiempo.",
 		"portuguese": "Um colono trabalhou muito sob condições terríveis. Ele decidiu que ele simplesmente não se importa mais e vai relaxar por um tempo.",
 		"turkish": "Yerleşimcilerden biri zor koşullar altında çok fazla çalıştı. Artık umursamayacağına ve bir süre dinleneceğine karar verdi.",
 		"bulgarian": "Колонистът е работил твърде много при ужасни условия. Реши, че вече не го интересува и ще се отпусне за известно време.",
@@ -482,11 +494,10 @@
 		"english": "Life hasn't been the greatest for %firstName%. Now %heShe% has turned to vandalism to blow off some steam.",
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Jetzt randaliert %erSie% um sich abzuregen.",
 		"french": "La vie n'a pas été la meilleure pour %firstName%. %cap-ilElle% s'est tourné%e% vers le vandalisme.",
-		//TODO-spanish
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"spanish": "La vida no ha sido la mejor para %firstName%. Ahora ha recurrido al vandalismo para desahogarse.",
+		"spanish": "La vida no ha sido la mejor para %firstName%. Ahora %élElla% ha recurrido al vandalismo para desahogarse.",
 		"portuguese": "A vida não foi a melhor para %firstName%. Agora ele se voltou para o vandalismo para desabafar.",
 		"turkish": "Hayat %firstName% için bir süredir çok iyi değildi. Sinirlerini yatıştırmak için vandalizme başladı.",
 		"bulgarian": "Животът не е бил най-добрият за %firstName%. Сега той се обърна към вандализъм, за да издуха парата.",
@@ -504,11 +515,10 @@
 		"english": "Life hasn't been the greatest for %firstName%. Today %heShe% is taking it easy and will be taking a lot of long breaks.",
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Heute geht %erSie% es gemütlich an und macht viele lange Pausen.",
 		"french": "La vie n'a pas été la meilleure pour %firstName%. Aujourd'hui c'est plus simple et %ilElle% prendra de longues pauses.",
-		//TODO-spanish
 		//TODO-bulgarian
 		//TODO-portuges
 		//TODO-turkish
-		"spanish": "La vida no ha sido la mejor para %firstName%. Hoy se lo está tomando con calma y tomará muchos descansos largos.",
+		"spanish": "La vida no ha sido la mejor para %firstName%. Hoy %élElla% se lo está tomando con calma y tomará muchos descansos largos.",
 		"portuguese": "A vida não foi a melhor para %firstName%. Hoje ele está se acalmando e fará muitas pausas longas.",
 		"turkish": "Hayat %firstName% için bir süredir çok iyi değildi. Bugünü işleri hafiften alacak ve bol bol molaya çıkacak.",
 		"bulgarian": "Животът не е бил най-добър за %firstName%. Днес той се успокоява и ще взима много дълги почивки.",
@@ -517,7 +527,7 @@
 		"english": "Bug Infestation!",
 		"german": "Käferbefall!",
 		"french": "Infestation d'Insectes !",
-		"spanish": "¡Infestación de insectos!.",
+		"spanish": "¡Infestación de insectos!",
 		"portuguese": "Infestação de insetos!",
 		"turkish": "Böcek istilası",
 		"bulgarian": "Нашествие на насекоми",
@@ -562,7 +572,6 @@
 		"english": "A colonist is wounded! Make sure they gets enough sleep to rest their body. An experienced doctor can create more advanced remedies at the potion lab.",
 		"german": "Ein Kolonist ist verletzt! Stelle sicher, dass er genug Schlaf bekommt, um seinen Körper auszuruhen. Ein erfahrener Arzt kann fortgeschrittene Heilmittel am Alchemielabor herstellen.",
 		"french": "Un colon s'est blessé ! Assurez-vous qu'%ilElle% dorme assez pour se rétablir. Un docteur expérimenté peut créer des remèdes améliorés au laboratoire de potion.",
-		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
 		//TODO-bulgarian
@@ -737,7 +746,7 @@
 		"english": "Check out the forum!",
 		"german": "Schau dir das Forum an!",
 		"french": "Consultez le forum !",
-		"spanish": "!Echa un vistazo al foro!",
+		"spanish": "¡Echa un vistazo al foro!",
 		"portuguese": "Confira o fórum!",
 		"turkish": "Foruma bir göz at!",
 		"bulgarian": "Вижте форума!",
@@ -754,11 +763,13 @@
 	"messageTitle_LimpingBecauseOfBadSplintTreatment": {
 		"english": "Treatment messed up\n%firstName% now disabled",
 		"german": "Behandlung schief gelaufen\n%firstName% jetzt behindert",
+		"spanish": "El tratamiento salió mal\n%firstName% ahora discapacitado",
 		"french": "Traitement raté\n%firstName% est maintenant invalide",
 	},
 	"messageText_LimpingBecauseOfBadSplintTreatment": {
 		"english": "It's a begginer's mistake, but can also happen to experienced doctors: Someone messed up the splints to cure %firstName%'s broken leg. It's no longer broken, but now %heShe%'s limping permanently and can't walk as fast as %heShe% used to.",
 		"german": "Es ist ein Anfängerfehler, kann aber auch einem erfahrenen Arzt passieren: Jemand hat Mist gebaut und die Schienen für das gebrochene Bein von %firstName% falsch befestigt. Jetzt ist das Bein zwar nicht mehr gebrochen, aber %erSie% hinkt jetzt beim gehen und ist nicht mehr so schnell wie früher.",
+		"spanish": "Es un error de principiante, pero también le pasa a doctores experimentados: Alguien intentó entablar la pierna de %firstName% pero no lo logró. Ya no está rota, pero ahora %élElla% cojea permanentemente y no puede caminar tan rápido como antes.",
 		"french": "C'est une erreur de débutant, mais cela pourrait arriver également aux médecins: Quelqu'un a raté la pose de l'attelle pour soigner la jambe cassée de %firstName%. Ce n'est pas complètement cassé, mais %ilElle% boîtera pour toujours et ne pourra pas marcher aussi vite qu' %ilElle% voudrait.", 
 	},
 

@@ -416,11 +416,10 @@
 	"wishDenyTip_Desc": {
 		"english": "You can tell your colonists that you're not going to fulfill this wish. They'll be annoyed, but they will choose a different one.",
 		"german": "Du kannst deinen Kolonisten sagen, dass du diesen Wunsch nicht erfüllen wirst. Sie werden sauer sein, aber letztendlich werden sie sich einen anderen ausdenken.",
-		//TODO-french
+		"french": "Vous pouvez dire à vos colons que vous ne compléterez pas ce vœu. Il sera supprimé, mais ils vont en choisir un autre.",
 		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
-		"french": "Vous pouvez dire à votre colon que vous ne compléterez pas ce vœu. Il sera supprimé, mais il va en choisir un autre.",
 		"spanish": "Puedes decirle a tu colono que no podrás hacer realidad su deseo. Se decepcionará, pero escogerá otro.",
 		"turkish": "Kolonicilerine isteklerinin yerine gelmeyeceğini söyleyebilirsin. Rahatsızlık duyacaklar ama yeni bir istek seçecekler.",
 		"portuguese": "Você pode dizer ao seu colono que você não vai cumprir esse desejo. Ele ficará aborrecido, mas escolherá outro diferente.",
@@ -438,11 +437,10 @@
 	"satisfactionPoints_Desc": {
 		"english": "Fulfill your colonists' wishes and they will be satisfied with life. When the bar is full they gets one lifetime satisfaction point.",
 		"german": "Erfülle die Wünsche deiner Kolonisten und sie wird mit ihrem Leben zufrieden sein. Wenn die Leiste voll ist, bekommen sie einen Lebenszufriedenheitspunkt.",
-		//TODO-french
+		"french": "Complétez les vœux de vos colons et ils seront satisfaits de leur vie. Lorsque la barre est remplie, ils obtiennent un point de satisfaction de vie.", 
 		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
-		"french": "Complétez les vœux de vos colons et ils seront satisfaits de leur vie. Lorsque la barre est remplie, ils obtiennent un point de satisfaction.", 
 		"spanish": "Completa los deseos de tu colono y estará satisfecho con su vida. Cuando la barra se llene al máximo obtendrá un punto de satisfacción de por vida.",
 		"turkish": "Kolonicilerin isteklerini yerine getirirsen hayatlarından daha fazla zevk alacak. Seviye tamamlandığında bir memnuniyet puanı kazanacaklar.",
 		"portuguese": "Cumpra os desejos do seu colono e ele ficará satisfeito com a vida. Quando a barra está cheia, ele recebe um ponto de satisfação vitalício.",
@@ -478,11 +476,10 @@
 	"promotions_Desc": {
 		"english": "Once your colonists have gathered enough Experience, you can promote them to unlock new skills.",
 		"german": "Sobald deine Kolonisten genug Erfahrung gesammelt haben, kannst du sie befördern um neue Fähigkeiten freizuschalten.",
-		//TODO-french
+		"french": "Une fois que votre colon a assez d'expériences, vous pouvez le promouvoir pour débloquer de nouvelles compétences.",
 		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
-		"french": "Une fois que votre colon a assez d'expériences, vous pouvez le promouvoir pour débloquer de nouvelles compétences.",
 		"spanish": "Una vez el colono ha conseguido experiencia suficiente, puedes ascenderle para desbloquear nuevas habilidades.",
 		"turkish": "Koloniciniz yeteri kadar tecrübe kazandıktan sonra, onu terfi ettirerek yeni beceriler kazanmasını sağlayabilirsiniz.",
 		"portuguese": "Uma vez que seu colono tenha acumulado experiência suficiente, você pode promovê-lo para desbloquear novas habilidades.",
@@ -607,9 +604,11 @@
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode"
+		"french": "Mode Combat"
 	},
 	"combatModeTooltip_Desc": {
 		"english": "In combat mode, your colonists will put on their combat equipment and stop working on their jobs, relaxing, or talking with others. This allows you to control them better in battle."
+		"french": "En mode combat, vos colons metteront leur équipement de combat et cesseront de travailler, de se détendre ou de parler entre eux. Cela vous permet de mieux les contrôler au combat."
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -1173,14 +1172,17 @@
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",
 		"german": "Die Kolonie erhält %coins% Münzen von diesem Handel.",
+		"french": "La colonie reçoit %coins% pièces de cette transaction.",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
 		"german": "Die Kolonie zahlt %coins% Münzen für diesen Handel.",
+		"french": "La colonie paie %coins% pièces de cette transaction.",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",
 		"german": "Die Kolonie hat keine %coins% Münzen um diesen Handel zu bezahlen.",
+		"french": "La colonie n'a pas %coins% pièces à payer pour cette transaction.",
 	},
 
 }

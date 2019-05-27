@@ -26,7 +26,7 @@
 	"skillTitle_SowStrawberries": {
 		"english": "Can sow strawberries",
 		"german": "Kann Erdbeeren säen",
-		"french": "Peut semer des fraises", 
+		"french": "Peut planter des fraises", 
 		"spanish": "Puede sembrar fresas",
 		"turkish": "Çilek toplayabilir",
 		"portuguese": "Pode semear morangos",
@@ -42,7 +42,7 @@
 	"skillTitle_Baking": {
 		"english": "Can make baked goods",
 		"german": "Kann Backwaren herstellen",
-		"french": "Peut fabriquer des pâtisseries", 
+		"french": "Peut créer des pâtisseries", 
 		"spanish": "Puede hornear platos",
 		"turkish": "Yemek pişirebilir",
 		"portuguese": "Pode fazer assados",
@@ -50,7 +50,7 @@
 	"skillTitle_MiningIron": {
 		"english": "Can Mine Iron Ore",
 		"german": "Kann Eisenerz abbauen",
-		"french": "Peut miner du fer", 
+		"french": "Peut miner du minerai de fer", 
 		"spanish": "Puede picar mineral de hierro",
 		"turkish": "Demir madeninde çalışabilir",
 		"portuguese": "Pode minar minério de ferro",
@@ -82,14 +82,17 @@
 	"skillTitle_FightingWoodenSwords": {
 		"english": "Can fight with a wooden sword",
 		"german": "Kann mit einem Holzschwert kämpfen",
+		"french": "Peut combattre avec une épée en bois",
 	},
 	"skillTitle_FightingStoneSwords": {
 		"english": "Can fight with a stone sword",
 		"german": "Kann mit einem Steinschwert kämpfen",
+		"french": "Peut combattre avec une épée en pierre",
 	},
 	"skillTitle_FightingMetalSwords": {
 		"english": "Can fight with a metal sword",
 		"german": "Kann mit einem Metallschwert kämpfen",
+		"french": "Peut combattre avec une épée en métal",
 	},
 	"skillTitle_FightingBow": {
 		"english": "Can fight with a bow",
@@ -135,18 +138,22 @@
 	"skillTitle_WoodcuttingStoneTools": {
 		"english": "Can use stone axes to cut wood",
 		"german": "Kann Steinäxte zum Holzfällen verwenden",
+		"french": "Peut utiliser des haches en pierre pour couper du bois",
 	},
 	"skillTitle_WoodcuttingMetalTools": {
 		"english": "Can use metal axes to cut wood",
 		"german": "Kann Metalläxte zum Holzfällen verwenden",
+		"french": "Peut utiliser des haches en métal pour couper du bois",
 	},
 	"skillTitle_MiningStoneTools": {
 		"english": "Can use stone pickaxes to mine",
 		"german": "Kann Steinpicken zum Abbauen verwenden",
+		"french": "Peut utiliser des pioches en pierre pour miner",
 	},
 	"skillTitle_MiningMetalTools": {
 		"english": "Can use metal pickaxes to mine",
 		"german": "Kann Metallpicken zum Abbauen verwenden",
+		"french": "Peut utiliser des pioches en métal pour miner",
 	},
 	"skillTitle_ResearchFast": {
 		"english": "Researches 20% faster",
@@ -175,11 +182,14 @@
 	"skillTitle_ResearchScrolls": {
 		"english": "Can read scrolls",
 		"german": "Kann Schriftrollen lesen",
+		"french": "Peut lire des parchemins",
 	},
 	"skillTitle_ApplySplints": {
 		"english": "Can apply splints",
+		"french": "Peut poser des attelles",
 	},
 	"skillTitle_SplintMaster": {
 		"english": "Applies splints successfully more often",
+		"french": "Applique des attelles avec succès plus souvent",
 	},
 }

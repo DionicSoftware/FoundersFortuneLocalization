@@ -16,12 +16,11 @@
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "¡%firstName% está sangrando! Asegúrate de que sus heridas sean correctamente vendadas. De otra manera %firstName% podría morir desangrad%oA%.",
 		"dutch": "%firstName% bloed! Zorg ervoor dat zijn wonden goed zijn verbonden. Anders, kan %firstName% dood gaan aan bloedverlies.",
 		"bulgarian": "%firstName% кърви! Бъдете сигурни, че неговите рани са превързани правилно. Иначе, %firstName% може да умре от кръвозагоба.",
 		"portuguese": "%firstName% sangra! Certifique-se de que seus ferimentos estejam enfaixados. Caso contrário, %firstName% poderia morrer.",
-		"turkish": "%firstName% yaralı! Yaralarının düzgün şekilde sargılandığından olduğundan emin olun. Aksi takdirde, %firstName% kan kaybından ölebilir.",
+		"turkish": "%firstName% yaralı! Yaralarının düzgün şekilde sargılı olduğundan emin olun. Aksi takdirde, %firstName% kan kaybından ölebilir.",
 	},
 	"effectTitle_Unconscious": {
 		"english": "Unconscious",
@@ -91,7 +90,7 @@
 		"dutch": "Hongerig",
 		"bulgarian": "Глад",
 		"portuguese": "Morre de fome",
-		"turkish": "Acıkıyor",
+		"turkish": "Çok aç",
 	},
 	"effectDesc_Starving": {
 		"english": "%firstName% didn't eat in a long time. %cap-heShe% needs to find something to eat soon in order to survive.",
@@ -99,7 +98,6 @@
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
-		//TODO-turkish
 		"french": "%firstName% n'a pas mangé depuis longtemps. %cap-ilElle% doit trouver quelque chose à manger rapidement pour survivre",
 		"spanish": "%firstName% lleva un buen rato sin comer. %cap-élElla% debe encontrar algo que comer pronto para sobrevivir.",
 		"dutch": "%firstName% heeft al lang niet gegeten. Hij moet snel wat eten om te overleven.",
@@ -144,7 +142,6 @@
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "%firstName% contrajo la gripe. Mándal%oA% a la cama y deja que un doctor l%oA% trate con medicina. ¡No subestimes la enfermedad!",
 		"dutch" : "%firstName% heeft de griep tepakken. zorg dat hij in bed blijft de komende dagen en dat hij medicijnen krijgt van een docter. onderschat de ziekte niet!",
 		"bulgarian": "%firstName% прихвана грип. Погрижи се той да стой в леглото в следващите дни и се лекува с лекарство от лекар. Не подценявайте болестта!",
@@ -168,7 +165,6 @@
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "%firstName% está descansando y recupera salud lentamente.",
 		"dutch" : "%firstName% slaapt in bed en herstelt zijn gezondheid.",
 		"bulgarian": "%firstName% си почива в леглото и бавно се възстановява.",
@@ -192,7 +188,6 @@
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "%firstName% debió comer algo a lo que era alérgico. Ahora su cuerpo tiene una reacción alérgica.",
 		"dutch" : "%firstName% moest voedsel eten waar hij allergies voor is. Nu heeft hij een allergische reactie.",
 		"bulgarian": "%firstName% явно е ял храна към която той е алергичен. Сега неговото тяло получава алергична реакция.",
@@ -226,7 +221,6 @@
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "%firstName% recibe sólo pequeñas raciones de comida, por lo tanto carece de la energía para trabajar adecuadamente y tarda más en completar tareas.",
 		"dutch" : "%firstName% krijgt alleen kleine voedsel rotaties, dus hij heeft niet de energie om normaal te werken en doet er dus langer over om taken te voltooien.",
 		"bulgarian": "%firstName% получава малки порции храна, такаче му липсва енергия да работи правилно и отнема по-дълго време да изпълни неговите задължения.",
@@ -239,11 +233,13 @@
 		"french": "Jambe blessée : marche lente",
 		//TODO-spanish
 		"spanish": "Pierna herida",
+		"turkish": "Bacağı incinmiş: Yavaş yürüme",
 	},
 	"effectDesc_LegHurt": {
 		"english": "%firstName% has hurt %hisHer% leg. Splints will help it heal more quickly.",
 		"german": "%firstName% hat %seinIhr% Bein verletzt. Schienen können es schneller heilen lassen.",
 		"french": "%firstName% s'est bléssé%e% à la jambe. Une attelle aidera à guérir plus rapidement.",
+		"turkish": "%firstName% bacağını incitmiş. Ayak sabitleyicisi daha hızlı iyileşmesini sağlar.",
 	},
 	"effectTitle_LegBroken": {
 		"english": "Broken leg: Can't walk",
@@ -251,11 +247,13 @@
 		"french": "Jambe cassée : ne peut pas marcher",
 		//TODO-spanish
 		"spanish": "Pierna rota",
+		"turkish": "Kırık bacak",
 	},
 	"effectDesc_LegBroken": {
 		"english": "%firstName% has broken %hisHer% leg and can not walk anymore. You need to apply splints, or %firstName% may be permanently disabled!",
 		"german": "%firstName% hat $seinIhr% Bein gebrochen und kann nicht mehr gehen. Das Bein muss geschient werden, oder %firstName% könnte eine permanente Behinderung davontragen!",
 		"french": "%firstName% a cassé sa jambe et ne peut plus marcher. Vous devez appliquer une attelle, ou %firstName% pourra être invalide de manière permanente !",
+		"turkish": "%firstName% bacağını kırmış ve artık yürüyemiyor. Destekleyici uygulamak zorunda, aksi taktirde %firstName% sakat kalabilir!",
 	},
 	"effectTitle_ArmHurt": {
 		"english": "Hurt arm: Slow working",
@@ -263,21 +261,25 @@
 		"french": "Bras blessé : travail lent",
 		//TODO-spanish
 		"spanish": "Brazo herido",
+		"turkish": "İncinmiş kol: Yavaş çalışma",
 	},
 	"effectDesc_ArmHurt": {
 		"english": "%firstName% has hurt %hisHer% arm. Splints will help it heal more quickly.",
 		"german": "%firstName% hat %seinenIhren% Arm verletzt. Schienen können ihn schneller heilen lassen.",
 		"french": "%firstName% s'est bléssé%e% au bras. Une attelle aidera à guérir plus rapidement.",
+		"turkish": "%firstName% kolunu incitmiş. Destekleyici uygulamak iyileşmeyi hızlandırır.",
 	},
 	"effectTitle_ArmBroken": {
 		"english": "Broken arm: Can't work",
 		"german": "Arm gebrochen: Arbeit unmöglich",
 		"french": "Bras cassé : ne peut pas travailler",
+		"turkish": "Kırık kol: Çalışamaz",
 	},
 	"effectDesc_ArmBroken": {
 		"english": "%firstName% has broken %hisHer% arm and can not work anymore. Splints will help it heal more quickly.",
 		"german": "%firstName% hat %seinenIhren% Arm gebrochen und kann nicht mehr arbeiten. Schienen können ihn schneller heilen lassen.",
 		"french": "%firstName% a cassé son bras et ne peut plus travailler. Une attelle aidera à guérir plus rapidement.",
+		"turkish": "%firstName% kolunu kırmış ve artık çalışamıyor. Destekleyici uygulanırsa daha hızlı iyileşir",
 	},
 	"effectTitle_LegSplint": {
 		"english": "Leg splints",
@@ -285,11 +287,13 @@
 		"french": "Attelle (Jambe)",
 		//TODO-spanish
 		"spanish": "Entablad%oA%",
+		"turkish": "Bacak destekleyicileri",
 	},
 	"effectDesc_Leg Splint": {
 		"english": "The leg is stabilized now. It will heal in a short while.",
 		"german": "Das Bein ist jetzt fixiert. Er wird bald geheilt sein.",
 		"french": "La jambe est stabilisée maintenant. Cela va guérir dans peu de temps.",
+		"turkish": "Bacak sabitlendi. Kısa zaman içinde iyileşecektir.",
 	},
 	"effectTitle_Arm Splint": {
 		"english": "Arm splints",
@@ -297,11 +301,13 @@
 		"french": "Attelle (Bras)",
 		//TODO-spanish
 		"spanish": "Entablad%oA%",
+		"turkish": "Kol destekleyicileri",
 	},
 	"effectDesc_Arm Splint": {
 		"english": "The arm is stabilized now. It will heal in a short while.",
 		"german": "Der Arm ist jetzt fixiert. Er wird bald geheilt sein.",
 		"french": "Le bras est stabilisée maintenant. Cela va guérir dans peu de temps.",
+		"turkish": "Kol sabitlendi. Kısa zaman içinde iyileşecektir.",
 	},
 }
 

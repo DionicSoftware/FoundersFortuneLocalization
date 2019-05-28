@@ -241,56 +241,66 @@
 		"turkish": "%firstName% yalnızca küçük gıda rasyonları alıyor, bu yüzden düzgün çalışması için gerekli enerjisi yok ve işleri tamamlaması daha uzun sürüyor.",
 	},
 	"effectTitle_LegHurt": {
-		"english": "Hurt leg",
+		"english": "Hurt leg: Slow walking",
+		"german": "Bein verletzt: Gehen verlangsamt",
+		//TODO-french
+		//TODO-spanish
 		"french": "Jambe blessée",
 		"spanish": "Pierna herida",
 	},
 	"effectDesc_LegHurt": {
-		"english": "Hurt leg",
-		"french": "Jambe blessée",
-		"spanish": "Pierna herida",
+		"english": "%firstName% has hurt %hisHer% leg. Splints will help it heal more quickly.",
+		"german": "%firstName% hat %seinIhr% Bein verletzt. Schienen können es schneller heilen lassen.",
 	},
 	"effectTitle_LegBroken": {
-		"english": "Broken leg",
+		"english": "Broken leg: Can't walk",
+		"german": "Bein gebrochen: Gehen unmöglich",
+		//TODO-french
+		//TODO-spanish
 		"french": "Jambe cassée",
 		"spanish": "Pierna rota",
 	},
 	"effectDesc_LegBroken": {
-		"english": "Broken leg",
-		"french": "Jambe cassée",
-		"spanish": "Pierna rota",
+		"english": "%firstName% has broken %hisHer% leg and can not walk anymore. You need to apply splints, or %firstName% may be permanently disabled!",
+		"german": "%firstName% hat $seinIhr% Bein gebrochen und kann nicht mehr gehen. Das Bein muss geschient werden, oder %firstName% könnte eine permanente Behinderung davontragen!",
 	},
 	"effectTitle_ArmHurt": {
-		"english": "Hurt arm",
+		"english": "Hurt arm: Slow working",
+		"german": "Arm verletzt: Arbeit verlangsamt",
+		//TODO-french
+		//TODO-spanish
 		"french": "Bras blessé",
 		"spanish": "Brazo herido",
 	},
 	"effectDesc_ArmHurt": {
-		"english": "Hurt arm",
-		"french": "Bras blessé",
-		"spanish": "Brazo herido",
+		"english": "%firstName% has hurt %hisHer% arm. Splints will help it heal more quickly.",
+		"german": "%firstName% hat %seinenIhren% Arm verletzt. Schienen können ihn schneller heilen lassen.",
 	},
 	"effectTitle_ArmBroken": {
-		"english": "Broken arm",
+		"english": "Broken arm: Can't work",
+		"german": "Arm gebrochen: Arbeit unmöglich",
+		//TODO-french
 		"french": "Bras cassé",
-		"spanish": "Brazo roto",
 	},
 	"effectDesc_ArmBroken": {
-		"english": "Broken arm",
-		"french": "Bras cassé",
-		"spanish": "Brazo roto",
+		"english": "%firstName% has broken %hisHer% arm and can not work anymore. Splints will help it heal more quickly.",
+		"german": "%firstName% hat %seinenIhren% Arm gebrochen und kann nicht mehr arbeiten. Schienen können ihn schneller heilen lassen.",
 	},
 	"effectTitle_LegSplint": {
-		"english": "Splint"
+		"english": "Leg splints",
+		"german": "Bein geschient",
 	},
 	"effectDesc_Leg Splint": {
-		"english": "Splint"
+		"english": "The leg is stabilized now. It will heal in a short while.",
+		"german": "Das Bein ist jetzt fixiert. Er wird bald geheilt sein.",
 	},
 	"effectTitle_Arm Splint": {
-		"english": "Splint"
+		"english": "Arm splints",
+		"german": "Arm geschient",
 	},
 	"effectDesc_Arm Splint": {
-		"english": "Splint"
+		"english": "The arm is stabilized now. It will heal in a short while.",
+		"german": "Der Arm ist jetzt fixiert. Er wird bald geheilt sein.",
 	},
 }
 

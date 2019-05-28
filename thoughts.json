@@ -396,10 +396,9 @@
 		"english": "I enjoyed talking with my friend %firstName%.",
 		"german": "Mir hat es gefallen, mich mit %meinemMeiner% %freundFreundin% %firstName% zu unterhalten.",
 		"french": "J'ai apprécié parler avec mon ami%e% %firstName%",
-		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
-		"spanish": "Me gustó hablar con mi amigo",
+		"spanish": "Me gustó hablar con mi amig%oA% %firstName%",
 		"turkish": "Arkadaşımla konuşmaktan zevk aldım.",
 		"portuguese": "Eu gostava de conversar com meu amigo.",
 	},
@@ -415,10 +414,9 @@
 		"english": "%firstName% is so full of %himselfHerself%. I couldn't stand listening to %himHer%.",
 		"german": "%firstName% ist unglaublich eingebildet. Ich konnte es nicht mal ertragen %ihmIhr% zuzuhön.",
 		"french": "%firstName% est si imbu%e% %deluiD'elle%-même. Je ne pourrais pas l'écouter.",
-		//TODO-spanish
 		//TODO-portuges
 		//TODO-turkish
-		"spanish": "Este chico es increíblemente arrogante. Ni siquiera podía soportarlo",
+		"spanish": "Est%eA% %chicoChica% es increíblemente arrogante. Ni siquiera podía soportarl%oA%",
 		"turkish": "Bu adam kibir dolu. Onu dinlemeye dayanamadım.",
 		"portuguese": "Esse cara é tão cheio de si mesmo. Eu não suportava ouvir ele.",
 	},
@@ -465,7 +463,7 @@
 	"thoughtDesc_Nightmare": {
 		"english": "Last night I had a horrible nightmare about my friends. I'm still a bit shaken from it.",
 		"german": "Letzte Nacht hatte ich einen schrecklichen Alptraum von meinen Freunden. Ich bin immer noch ein bisschen aufgebracht.",
-		"spanish": "Anoche tuve una pesadilla terrible de mis amigos. Todavía estoy un poco molesto",
+		"spanish": "Anoche tuve una pesadilla terrible de mis amigos. Todavía estoy un poco molest%oA%",
 		"french": "La nuit dernière j'ai fait un horrible cauchemard à propos de mes amis. Je suis encore un peu secoué.",
 		"turkish": "Dün gece arkadaşlarım hakkında korkunç bir kabus gördüm. Hala biraz etkisindeyim.",
 		"portuguese": "Ontem à noite eu tive um pesadelo horrível sobre meus amigos. Eu ainda estou um pouco abalada com isso.",
@@ -497,7 +495,7 @@
 	"thoughtDesc_AteGoodMeal": {
 		"english": "I had a good meal recently. I didn't think we could get something this tasty here.",
 		"german": "Ich habe gut gegessen. Ich dachte nicht, dass wir etwas so leckeres hier bekommen könnten.",
-		"spanish": "Comí bien. No pensé que pudiéramos conseguir algo tan delicioso aquí.",
+		"spanish": "Comí muy bien. No pensé que pudiéramos conseguir algo tan delicioso aquí.",
 		"french": "J'ai mangé un bon repas récemment. Je ne pensais pas qu'un aussi bon goût était possible.",
 		"turkish": "İyi bir yemek yedim. Burada bu kadar lezzetli bir şey alabileceğimizi düşünmezdim.",
 		"portuguese": "Eu tive uma boa refeição recentemente. Eu não acho que poderíamos conseguir algo tão saboroso aqui.",
@@ -609,7 +607,7 @@
 	"thoughtDesc_AteSimpleMealHasMuchHigherExpectations": {
 		"english": "I had to eat simple food. Someone like me should have to eat food prepared on a campfire!",
 		"german": "Ich musste einfaches Essen ertragen. Ich habe etwas besseres verdient als Essen vom Lagerfeuer!",
-		"spanish": "Tuve que soportar la comida simple. ¡Me merezco más que la comida de la fogata!",
+		"spanish": "Tuve que soportar la comida simple. ¡Merezco más que comida de la fogata!",
 		"french": "J'ai mangé de la nourriture simple. Quelqu'un comme moi devrait avoir à manger de la nourriture préparée sur un feu de camp !",
 		"turkish": "Basit yiyecekler yemek zorunda kaldım. Benim gibi birinin en azından kamp ateşinde hazırlanmış yiyecekleri yemesi gerekiyordu!",
 		"portuguese": "Eu tive que comer comida simples. Alguém como eu deveria ter que comer comida preparada em uma fogueira!",
@@ -673,7 +671,7 @@
 	"thoughtDesc_WishDenied": {
 		"english": "My wish has been denied. In my opinion, it should've been easily possible to fulfill! Man, now I'm mad.",
 		"german": "Mein Wunsch wurde abglehnt. Ich denke der hätte leicht erfüllt werden können! Mensch, jetzt bin ich sauer.",
-		"spanish": "Mi deseo ha sido denegado. En mi opinión, ¡debería haber sido fácil de cumplir! Hombre, ahora estoy enfadado.",
+		"spanish": "Mi deseo ha sido denegado. En mi opinión, ¡debería haber sido fácil de cumplir! Hombre, ahora estoy enfadad%oA%.",
 		"french": "Mon voeux a été refusé. A mon avis, ça aurait du être facilement réalisable! Mec, je suis fou.",
 		"turkish": "Dileğim reddedildi. Benim düşünceme göre, kolayca yerine getirmem mümkün olmalıydı! Dostum, şimdi kızgınım.",
 		"portuguese": "Meu desejo foi negado. Na minha opinião, deveria ter sido facilmente possível cumprir! Cara, agora estou com raiva.",
@@ -689,7 +687,7 @@
 	"thoughtDesc_BarelySurvivedRaid": {
 		"english": "Phew, the attack is over. I can count myself lucky I survived this.",
 		"german": "Puh, der Angriff ist f. Ich kann mich glücklich schätzen das überlebt zu haben.",
-		"spanish": "Uf, el ataque ha terminado. Me considero afortunado de haber sobrevivido a esto.",
+		"spanish": "Uf, el ataque ha terminado. Me considero afortunad%oA% de haber sobrevivido a esto.",
 		"french": "Phew, l'attaque est terminée. Je peux être chanceux d'y avoir survécu.",
 		"turkish": "Oh, saldırı bitti. Bundan kurtulduğum için kendimi şanslı sayabilirim.",
 		"portuguese": "Ufa, o ataque acabou. Eu posso me considerar sortudo por ter sobrevivido a isso.",
@@ -777,18 +775,22 @@
 	"thoughtTitle_MissingFloor": {
 		"english": "Floor missing in house",
 		"german": "Boden im Haus fehlt",
+		"spanish": "Falta de piso en casa",
 	},
 	"thoughtDesc_MissingFloor": {
 		"english": "There is a room in my house that's missing a floor. It feels like a construction site.",
 		"german": "In meinem Haus gibt es einen Raum ohne Boden. Es fühlt sich an wie eine Baustelle.",
+		"spanish": "No hay piso en toda mi casa. Parece un sitio de construcción.",
 	},
 	"thoughtTitle_UnpreparedForWinter": {
 		"english": "Unprepared for winter",
-		"german": "Unvorbereitet auf den Winter"
+		"german": "Unvorbereitet auf den Winter",
+		"spanish": "Sin preparación para el invierno",
 	},
 	"thoughtDesc_UnpreparedForWinter": {
 		"english": "I'm worried we're not going to have enough food to get through the winter. We really should start preparing for it.",
 		"german": "Ich mache mir Sorgen, dass wir nicht genug Nahrung haben werden um durch den Winter zu kommen. Wir sollten wirklich anfangen uns vorzubereiten.",
+		"spanish": "Estoy preocupado de que no vamos a tener suficiente comida para todo el invierno. Realmente deberíamos empezar a prepararnos para ello.",
 	},
 
 
@@ -862,7 +864,7 @@
 	"moodPhrase_DestroyFurniture1": {
 		"english": "I'm bored and don't want to work. Let's see how I can break this.",
 		"german": "Mir ist langweilig und ich will nicht arbeiten. Mal schauen, wie ich das kaputt machen kann.",
-		"spanish": "Estoy aburrido y no quiero trabajar. Vamos a ver cómo puedo romper esto.",
+		"spanish": "Estoy aburrid%oA% y no quiero trabajar. Vamos a ver cómo puedo romper esto.",
 		"french": "Je m'ennuie et je ne veux pas travailler. Voyons comment je peux changer cela.",
 		"turkish": "Sıkıldım ve çalışmak istemiyorum. Bakalım bundan nasıl kurtulacağım.",
 		"portuguese": "Estou entediado e não quero trabalhar. Vamos ver como eu posso quebrar isso.",
@@ -886,7 +888,7 @@
 	"moodPhrase_RefusingWork1": {
 		"english": "Burnout has become the better of me. I can't work any more.",
 		"german": "Ich bin vom Burnout überwältigt. Ich kann nicht mehr arbeiten.",
-		"spanish": "Estoy abrumado por el agotamiento. Ya no puedo trabajar.",
+		"spanish": "Estoy abrumad%oA% por el agotamiento. Ya no puedo trabajar.",
 		"french": "Le burnout est devenu le meilleur de moi. Je ne peux plus travailler.",
 		"turkish": "Tükenmişlik beni bitirdi. Daha fazla çalışamam artık.",
 		"portuguese": "Burnout se tornou o melhor de mim. Eu não posso mais trabalhar.",
@@ -894,7 +896,7 @@
 	"moodPhrase_RefusingWork2": {
 		"english": "It's enough. I'm too unhappy to work any longer.",
 		"german": "Ich habe genug. Ich bin zu unzufrieden um noch weiter zu arbeiten.",
-		"spanish": "Ya fue suficiente. Estoy demasiado insatisfecho para seguir trabajando.",
+		"spanish": "Ya fue suficiente. Estoy demasiado insatisfech%oA% para seguir trabajando.",
 		"french": "Ca suffit. Je suis malheureux de travailler aussi longtemps.",
 		"turkish": "Yeter. Çalışabilmek için çok mutsuzum.",
 		"portuguese": "É suficiente. Estou muito infeliz para trabalhar por mais tempo.",
@@ -1014,7 +1016,7 @@
 	"moodPhrase_Bad4": {
 		"english": "Life could be worse... but not much worse",
 		"german": "Das Leben könnte schlimmer sein... aber nicht viel schlimmer.",
-		"spanish": "La vida podría ser peor... Pero no mucho peor.",
+		"spanish": "La vida podría ser peor... pero no mucho peor.",
 		"french": "La vie pourrait être pire... mais pas autant",
 		"turkish": "Hayat daha kötü olabilirdi ... ama daha da kötü değil",
 		"portuguese": "A vida poderia ser pior ... mas não muito pior",
@@ -1022,7 +1024,7 @@
 	"moodPhrase_Fighting1": {
 		"english": "Just give up, fool!",
 		"german": "Gib doch einfach auf, Narr!",
-		"spanish": "¡Sólo ríndete, tonto!",
+		"spanish": "¡Sólo ríndete, idiota!",
 		"french": "Abandonne, imbécile !",
 		"turkish": "Sadece pes et, aptal!",
 		"portuguese": "Apenas desista, idiota!",

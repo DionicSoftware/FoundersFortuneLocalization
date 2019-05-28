@@ -111,9 +111,13 @@
 		"portuguese": "Decoração",
 		"turkish": "Dekorasyon",
 	},
-	"tech_irrigation": {
-		"english": "Irrigation",
+	"tech_watering": { // "irrigation" was too modern and too uncommon. "Watering" is more fitting for unlocking a well.
+		"english": "Watering",
 		"german": "Bewässerung",
+		//TODO-french
+		//TODO-spanish
+		//TODO-portuguese
+		//TODO-turkish
 		"french": "Irrigation", 
 		"spanish": "Riego",
 		"portuguese": "Irrigação",

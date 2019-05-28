@@ -188,7 +188,7 @@
 		"english": "Trader is leaving",
 		"german": "Händler reist ab",
 		"spanish": "Comerciante partiendo",
-		//TODO-french
+		"french": "Le commerçant part"
 		//TODO-turkish
 		//TODO-portuguese
 		//TODO-bulgarian
@@ -223,12 +223,11 @@
 	"notificationTitle_BugInfestationOver": { // means that the bug infestation is done, it's finished, it's no longer active
 		"english": "Bug infestation over",
 		"german": "Käferbefall vorbei",
-		//TODO-french
+		"french": "Infestation d'insectes terminée",
 		//TODO-spanish
 		//TODO-portuguese
 		//TODO-turkish
 		//TODO-bulgarian
-		"french": "Infestation d'insectes",
 		"spanish": "Infestación de insectos",
 		"portuguese": "Infestação de insetos",
 		"turkish": "Böcek istilası",
@@ -377,7 +376,7 @@
 		"english": "Leg Splint\nFailed",
 		"german": "Beinschienen\nfehlgeschlagen",
 		"spanish": "Entablado de pierna\nFallido",
-		"french": "Attelle à la jambe\nEchec",
+		"french": "Attelle à la jambe\nÉchec",
 	},
 	"armSplintSuccessful": {
 		"english": "Arm Splint\nSuccessful",
@@ -389,7 +388,7 @@
 		"english": "Arm Splint\nFailed",
 		"german": "Armschienen\nfehlgeschlagen",
 		"spanish": "Entablado de brazo\nFallido",
-		"french": "Attelle au Bras\nEchec",
+		"french": "Attelle au Bras\nÉchec",
 	},
 
 
@@ -441,7 +440,7 @@
 	},
 	"messageText_TraderArrived": {
 		"english": "A trader just made landfall on the coast. Send a colonist to haggle for some good deals!",
-		"french": "Un marchand vient d'arriver sur la côte. Envoyez un colon pour négocier de bonnes affaires !",
+		"french": "Un commerçant vient d'arriver sur la côte. Envoyez un colon pour négocier de bonnes affaires !",
 		"spanish": "Un comerciante ha arribado a la costa. ¡Manda a un colono a negociar algunos buenos tratos!",
 	},
 	"messageTitle_BreakdownAttackFriends": {

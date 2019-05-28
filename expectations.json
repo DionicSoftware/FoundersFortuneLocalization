@@ -14,7 +14,7 @@
 		"french": "Pas encore déverrouillé",
 		"spanish": "No desbloqueado aún",
 		"bulgarian": "Още не е отключено",
-		"turkish": "Henüz açılmadı",
+		"turkish": "Kullanıma açılmadı",
 		"portuguese": "Ainda não desbloqueado",
 	},
 	"notRelevantYet_Title": {
@@ -23,7 +23,7 @@
 		"french": "Pas encore pertinent",
 		"spanish": "No relevante aún",
 		"bulgarian": "Все още не е приложимо",
-		"turkish": "Henüz alakalı değil",
+		"turkish": "Henüz uygun değil",
 		"portuguese": "Não relevante ainda",
 	},
 	"notRelevantYet_Desc_home": {
@@ -231,7 +231,6 @@
 		//TODO-dutch
 		//TODO-bulgarian
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "Lamentablemente, %firstName% no es %elLa% más brillante y tiene problemas desarrollando nuevas habilidades. Sin embargo, ha aceptado su destino y está content%oA% con ello.",
 		"bulgarian": "За съжаление, %firstName% не е най-яркият и има проблеми при разработването на нови умения. Въпреки това, той прие съдбата си и е съгласен с това.", 
 		"turkish": "Maalesef, %firstName% fazla parlak değil ve yeni beceriler geliştirmek konusunda sorun yaşıyor. Ancak kaderini kabul etti ve bu konuda sorun yok.",
@@ -269,7 +268,6 @@
 		"german": "Überglücklich mit %seinemIhrem% Gehalt",
 		"french": "Heur%euxEuse% de son salaire",
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "Feliz con su sueldo",
 		"portuguese": "Muito bem com seu salário",
 		"turkish": "Maaşından memnun",
@@ -279,7 +277,6 @@
 		"german": "Zufrieden mit %seinemIhrem% Gehalt",
 		"french": "Satisfait de son salaire",
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "Satisfech%oA% con su sueldo",
 		"portuguese": "Bem com seu salário",
 		"turkish": "Maaşıyla ilgili bir sorunu yok",
@@ -314,9 +311,8 @@
 		"german": "%firstName% hätte nicht gedacht, dass %seineIhre% Arbeit so viel Gehalt wert sei. %erSie% erwartet nur %coins% Münzen pro Tag, aber das Bonusgehalt stimmt %ihnSie% glücklich!",
 		"french": "%firstName% ne pensait pas que son travail valait autant d'argent. %cap-ilElle% s'attend à %coins% pièces par jour, mais l'argent supplémentaire illumine sa journée !",
 		//TODO-portuges
-		//TODO-turkish
 		"portuguese": "%firstName% Não achava que seu trabalho valeria tanto dinheiro. Ele espera %coins% moedas por dia, mas o dinheiro extra ilumina seu dia!",
-		"turkish": "%firstName%, yaptığı işin bu kadar maaş getireceğini düşünmemişti. Günde %coins% almayı beklerken, ilave para gününü aydınlattı!",
+		"turkish": "%firstName%, yaptığı işin bu kadar maaş getireceğini düşünmemişti. Günde %coins% almayı beklerken, ilave para, gününü aydınlattı!",
 		"spanish": "%firstName% no pensaba que por su trabajo mereciera tanto dinero. %cap-élElla% espera %coins% por día, ¡pero el dinero extra ilumina su día!",
 	},
 	"salarySatisfactionGood_Desc": {
@@ -324,7 +320,6 @@
 		"german": "%firstName% hält %seinIhr% letztes Gehalt für angemessen. %coins% Münzen pro Tag ist ein normales Gehalt für %ihnSie%.",
 		"french": "%firstName% pense que son dernier jour de paie était satisfaisant. %coins% pièces par jour est un salaire normal pour %luiElle%.",
 		//TODO-portuges
-		//TODO-turkish
 		"portuguese": "%firstName% acha que seu último pagamento foi adequado. %coins% moedas por dia é um salário normal para ele.",
 		"turkish": "%firstName%, aldığı maaşın yaptığı işe göre yeterli olduğunu dşünüyor. Günde %coins% kazanmak onun için normal",
 		"spanish": "%firstName% piensa que su último día de sueldo estuvo adecuado. %coins% moneda por día es un sueldo normal según %élElla%.",
@@ -334,7 +329,6 @@
 		"german": "%firstName% meint, %erSie% hätte %coins% Münzen am Tag verdient.",
 		"french": "Selon %firstName%, %ilElle% mérite un salaire minimum de %coins% pièces par jour.",
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "Según %firstName%, %élElla% se merece un sueldo mínimo de %coins% monedas por día.",
 		"portuguese": "De acordo com %firstName% ele merece um salário mínimo de %coins% moedas por dia.",
 		"turkish": "%firstName%, günde en az %coins% kazanması gerektiğini düşünüyor",	
@@ -344,7 +338,6 @@
 		"german": "%firstName% ist unzufrieden mit %seinemIhrem% letzten Gehalt. Wenn es nach %ihmIhr% ginge, würde %erSie% mindestens %coins% Münzen pro Tag verdienen.",
 		"french": "%firstName% est mécontent%e% de son dernier jour de paie - d'après %luiElle%, %ilElle% mérite un salaire minimum de %coins% pièces par jour.",
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "%firstName% no está content%oA% con su último pago - en su opinión, se merece un sueldo mínimo de %coins% monedas por día.",
 		"portuguese": "%firstName% está descontente com o seu último dia de pagamento - na sua opinião, ele merece um salário mínimo de %coins% moedas por dia.",
 		"turkish": "%firstName%, son maaşından memnun değil - onun düşüncesine göre günde en az %coins% kazanması gerekiyor.",	
@@ -399,7 +392,7 @@
 		"french": "Cliquez pour afficher l'endroit où il dort",
 		"spanish": "Clic para mostrar el lugar para dormir",
 		"bulgarian": "Натисни, за да покаже мястото за спане",
-		"turkish": "Uyuma yerini göstermek için tıklayın",
+		"turkish": "Uyuma yerini görmek için tıklayın",
 		"portuguese": "Clique para mostrar o local de dormir",
 	},
 	"ownsSleepingSpot": {

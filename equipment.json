@@ -4,18 +4,26 @@
 	"equipmentName_swordWood": {
 		"english": "Wooden Sword",
 		"german": "Holzschwert",
+		"french": "Epée en Bois",
+		"spanish": "Espada de madera",
 	},
 	"equipmentDescription_swordWood": {
 		"english": "No comparison to a real sword but better than having to fight with your bare hands.",
 		"german": "Kein Vergleich zu einem richtigem Schwert, aber besser als ganz ohne Waffe in die Schlacht zu ziehen.",
+		"french": "Aucune comparaison avec une vraie épée mais toujours mieux que de se battre à mains nues.",
+		"spanish": "Sin comparación con una espada de verdad, pero mejor que pelear con los puños.",
 	},
 	"equipmentName_swordStone": {
 		"english": "Stone Sword",
 		"german": "Steinschwert",
+		"french": "Epée en Pierre",
+		"spanish": "Espada de piedra",
 	},
 	"equipmentDescription_swordStone": {
 		"english": "Even though made out of stone, the sword's blade is sharp and dangerous.",
 		"german": "Wenn auch unregelmäßig gefertigt, ist die steinerne Klinge dieses Schwertes scharf und alles andere als ungefährlich.",
+		"french": "Bien qu'elle soit fabriquée en pierre, la lame de l'épée est tranchante et dangereuse.",
+		"spanish": "Aún hecha de piedra, la hoja de la espada es filosa y peligrosa.",
 	},
 	"equipmentName_swordIron": {
 		"english": "Iron Sword",
@@ -42,27 +50,39 @@
 	"equipmentName_axeWood": {
 		"english": "Wooden Axe",
 		"german": "Holzaxt",
+		"french": "Hache en Bois",
+		"spanish": "Hacha de madera",
 	},
 	"equipmentDescription_axeWood": {
 		"english": "Doubles the amount of wood recieved from trees.",
 		"german": "Verdoppelt den Holzertrag durch das Fällen von Bäumen",
+		"french": "Double la quantité de bois obtenu des arbres.",
+		"spanish": "Dobla la cantidad de madera recibida de los árboles.",
 	},
 	"equipmentName_axeStone": {
 		"english": "Stone Axe",
 		"german": "Steinaxt",
+		"french": "Hache en Pierre",
+		"spanish": "Hacha de piedra",
 	},
 	"equipmentDescription_axeStone": {
 		"english": "Triples the amount of wood recieved from trees.",
 		"german": "Verdreifacht den Holzertrag durch das Fällen von Bäumen",
+		"french": "Tripe la quantité de bois obtenu des arbres.",
+		"spanish": "Triplica la cantidad de madera recibida de los árboles.",
 	},
 	"equipmentName_axeIron": {
 		"english": "Iron Axe",
 		"german": "Eisenaxt",
+		"french": "Hache en Fer",
+		"spanish": "Hacha de hierro",
 		
 	},
 	"equipmentDescription_axeIron": {
 		"english": "Quadruples the amount of wood recieved from trees.",
 		"german": "Vervierfacht den Holzertrag durch das Fällen von Bäumen",
+		"french": "Quadruple la quantité de bois obtenu des arbres.",
+		"spanish": "Cuatriplica la cantidad de madera recibida de los árboles.",
 	},
 
 // Pickaxes
@@ -71,26 +91,38 @@
 	"equipmentName_pickaxeWood": {
 		"english": "Wooden Pickaxe",
 		"german": "Holzpicke",
+		"french": "Pioche en Bois",
+		"spanish": "Pico de madera",
 	},
 	"equipmentDescription_pickaxeWood": {
 		"english": "Doubles the amount of stone recieved from rocks.",
 		"german": "Verdoppelt den Steinertrag durch das Abbauen von Felsen",
+		"french": "Double la quantité de pierre obtenue des roches.",
+		"spanish": "Duplica la cantidad de piedra obtenida de las rocas.",
 	},
 	"equipmentName_pickaxeStone": {
 		"english": "Stone Pickaxe",
 		"german": "Steinpicke",
+		"french": "Pioche en Pierre",
+		"spanish": "Pico de piedra",
 	},
 	"equipmentDescription_pickaxeStone": {
 		"english": "Triples the amount of stone recieved from rocks.",
 		"german": "Verdreifacht den Steinertrag durch das Abbauen von Felsen",
+		"french": "Triple la quantité de pierre obtenue des roches.",
+		"spanish": "Triplica la cantidad de piedra obtenida de las rocas.",
 	},
 	"equipmentName_pickaxeIron": {
 		"english": "Iron Pickaxe",
 		"german": "Eiserne Picke",
+		"french": "Pioche en Fer",
+		"spanish": "Pico de hierro",
 	},
 	"equipmentDescription_pickaxeIron": {
 		"english": "Quadruples the amount of stone recieved from rocks.",
 		"german": "Vervierfacht den Steinertrag durch das Abbauen von Felsen",
+		"french": "Quadruple la quantité de pierre obtenue des roches.",
+		"spanish": "Cuatriplica la cantidad de piedra obtenida de las rocas.",
 	},
 
 // Bows
@@ -130,6 +162,7 @@
 	"equipmentDescription_woodenClub": {
 		"english": "This plain club is used by Tikigoblins. It might be of special value for collectors!.",
 		"german": "Diese unscheinbare Keule wird von den Tikigoblins verwendet. Für Sammler ist sie sicher wertvoll!",
+		"french": "Cette massue ordinaire est utilisée par les Tikigoblins. Elle pourrait être appréciée par les collectionneurs!",
 		"spanish": "Esta porra de madera la ocupan los Tikigoblins. ¡Es especialmente valiosa para los coleccionistas!"
 	},
 
@@ -139,11 +172,10 @@
 	"equipmentName_wateringCanWood": {
 		"english": "Wooden Watering Can",
 		"german": "Holzgießkanne",
-		//TODO-french
 		//TODO-bulgarian
 		//TODO-turkish
 		//TODO-portuges
-		"french": "Arrosoir",
+		"french": "Arrosoir en Bois",
 		"spanish": "Regadera de madera",
 		"bulgarian": "Лейка",
 		"turkish": "Sulama kovası",
@@ -161,6 +193,7 @@
 	"equipmentName_wateringCanStone": {
 		"english": "Stone Watering Can",
 		"german": "Steingießkanne",
+		"french": "Arrosoir en Pierre",
 		"spanish": "Regadera de piedra",
 	},
 	"equipmentDescription_wateringCanStone": {
@@ -169,6 +202,7 @@
 	"equipmentName_wateringCanIron": {
 		"english": "Iron Watering Can",
 		"german": "Eisengießkanne",
+		"french": "Arrosoir en Fer",
 		"spanish": "Regadera de hierro",
 	},
 	"equipmentDescription_wateringCanIron": {
@@ -240,11 +274,13 @@
 	"equipmentName_traderGear": {
 		"english": "Trader's Garment",
 		"german": "Händlergewand",
+		"french": "Tenue du Commerçant",
 		"spanish": "Traje de comerciante",
 	},
 	"equipmentDescription_traderGear": {
 		"english": "A magnificent garment, that is very popular with traders",
 		"german": "Ein prachtvolles Gewand, dass vor allem von Händlern getragen wird.",
+		"french": "Une tenue magnifique, très populaire des commerçants",
 		"spanish": "Un magnífico traje, muy popular entre los comerciantes.",
 	},
 }

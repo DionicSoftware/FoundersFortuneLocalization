@@ -194,7 +194,6 @@
 		"english": "%hisHer% Room",
 		"german": "%seinemIhrem% Raum",
 		"french": "sa Pièce",
-		//TODO-spanish
 		//TODO-turkish
 		//TODO-bulgarian
 		//TODO-portuges
@@ -211,7 +210,6 @@
 		"english": "%hisHer% House",
 		"german": "%seinemIhrem% Haus",
 		"french": "sa Maison",
-		//TODO-spanish
 		//TODO-turkish
 		//TODO-bulgarian
 		//TODO-portuges
@@ -283,15 +281,19 @@
 		"english": "Get a big payday of at least %coins% coins",
 		"german": "Lohnbonus bekommen und  mindestens %coins% Münzen verdienen",
 		"french": "Obtenir un gros jour de paie d'au moins %coins% pièces",
+		"spanish": "Conseguir un bono de al menos %coins% monedas",
 	},
 	"defeatGoblin": {
 		"english": "Defeat Tiki Goblin",
 		"german": "Tikigoblin besiegen",
 		"french": "Battre un Tiki Goblin",
+		"spanish": "Derrotar a un Tikigoblin",
 	},
 	"storeFoodForWinter": {
 		"english": "Store at least %food% meals in preparation for winter",
 		"german": "Mindestens %food% Mahlzeiten als Vorbereitung auf den Winter lagern",
 		"french": "Conserver au moins %food% repas en prévision de l'hiver",
+		"spanish": "Almacenar al menos %food% alimentos en preparación para el invierno",
+		
 	},
 }

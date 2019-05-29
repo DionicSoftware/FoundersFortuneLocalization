@@ -91,15 +91,6 @@
 		"portuguese": "Em construção!",
 		"dutch": "In Opbouw",
 	},
-	"saveSlot": {
-		"english": "Slot",
-		"german": "Speicherstand",
-		"french": "Emplacement",
-		"spanish": "Ubicación",
-		"turkish": "Yuva",
-		"portuguese": "Slot",
-		"dutch": "Slot",
-	},
 	"mainMenu": {
 		"english": "Main Menu",
 		"german": "Hauptmenü",
@@ -118,6 +109,50 @@
 		"portuguese": "Submeter comentários",
 		"dutch": "Geef Feedback",
 	},
+
+
+	// SAVE MENU
+	"loadSave": { // needs to be short
+		"english": "Load",
+		"german": "Laden",
+	},
+	"overwriteSave": { // needs to be short
+		"english": "Overwrite",
+		"german": "Überschreiben",
+	},
+	"newSave": {
+		"english": "New Save",
+		"german": "Neuer Speicherstand",
+	},
+	"savegameName": { // background when player enters an empty save game name
+		"english": "Savegame Name",
+		"german": "Name für Speicherstand",
+	},
+	"mostAwesomeColony": { // default name for new colony
+		"english": "Most Awesome Colony",
+		"german": "Beste Kolonie der Welt",
+	},
+	"invalidFileNameCharacters": {
+		"english": "Forbidden characters in file name",
+		"german": "Unzulässige Buchstaben im Dateinamen",
+	},
+	"fileNameTooLong": {
+		"english": "File name too long",
+		"german": "Dateiname zu lang",
+	},
+	"fileNameTooShort": {
+		"english": "File name too short",
+		"german": "Dateiname zu kurz",
+	},
+	"fileNameAlreadyUsed": {
+		"english": "File name already used",
+		"german": "Dateiname schon verwendet",
+	},
+	"modsMayBeIncompatible": {
+		"english": "Mods may be incompatible!\nMods in save:",
+		"german": "Mods könnten inkompatibel sein!\nMods im Speicherstand:",
+	},
+
 
 	// FEEDBACK
 	"feedbackDescription": {

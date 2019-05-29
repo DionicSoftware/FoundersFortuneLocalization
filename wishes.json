@@ -81,6 +81,7 @@
 		"german": "%furniture% in %location% zurückbekommen",
 		"french": "Remettre %furniture% dans %location%",
 		"spanish": "Conseguir %furniture% de vuelta en %location%",
+		"portuguese": "Recupere %furniture% de volta em %location%",
 	},
 	"furnitureCategory_AChair": {
 		"english": "a Chair",
@@ -198,7 +199,6 @@
 		"french": "sa Pièce",
 		//TODO-turkish
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-swedish
 		//TODO-dutch
 		"spanish": "su Habitación",
@@ -214,13 +214,12 @@
 		"french": "sa Maison",
 		//TODO-turkish
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-swedish
 		//TODO-dutch
 		"spanish": "su Casa",
 		"turkish": "Onun evi",
 		"bulgarian": "неговата Къща",
-		"portuguese": "sua casa",
+		"portuguese": "%seuSua% casa",
 		"swedish": "sitt hus",
 		"dutch": "zijn Huis",
 	},
@@ -284,18 +283,21 @@
 		"german": "Lohnbonus bekommen und  mindestens %coins% Münzen verdienen",
 		"french": "Obtenir un gros jour de paie d'au moins %coins% pièces",
 		"spanish": "Conseguir un bono de al menos %coins% monedas",
+		"portuguese": "Obter um grande prêmio de pelo menos %coins% moedas",
 	},
 	"defeatGoblin": {
 		"english": "Defeat Tiki Goblin",
 		"german": "Tikigoblin besiegen",
 		"french": "Battre un Tiki Goblin",
 		"spanish": "Derrotar a un Tikigoblin",
+		"portuguese": "Derrote Tiki Goblin",
 	},
 	"storeFoodForWinter": {
 		"english": "Store at least %food% meals in preparation for winter",
 		"german": "Mindestens %food% Mahlzeiten als Vorbereitung auf den Winter lagern",
 		"french": "Conserver au moins %food% repas en prévision de l'hiver",
 		"spanish": "Almacenar al menos %food% alimentos en preparación para el invierno",
+		"portuguese": "Armazene pelo menos %food% refeições em preparação para inverno",
 		
 	},
 }

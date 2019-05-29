@@ -417,11 +417,10 @@
 		"english": "You can tell your colonists that you're not going to fulfill this wish. They'll be annoyed, but they will choose a different one.",
 		"german": "Du kannst deinen Kolonisten sagen, dass du diesen Wunsch nicht erfüllen wirst. Sie werden sauer sein, aber letztendlich werden sie sich einen anderen ausdenken.",
 		"french": "Vous pouvez dire à vos colons que vous ne compléterez pas ce vœu. Il sera supprimé, mais ils vont en choisir un autre.",
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "Puedes decirle a tus colonos que no podrás hacer realidad su deseo. Se decepcionarán, pero escogerán otro.",
 		"turkish": "Kolonicilerine isteklerinin yerine gelmeyeceğini söyleyebilirsin. Rahatsızlık duyacaklar ama yeni bir istek seçecekler.",
-		"portuguese": "Você pode dizer ao seu colono que você não vai cumprir esse desejo. Ele ficará aborrecido, mas escolherá outro diferente.",
+		"portuguese": "Você pode dizer ao %seuSua% colono que você não vai cumprir esse desejo. Ele ficará aborrecido, mas escolherá outro diferente.",
 		"dutch": "Je kan je kolonist vertellen dat je niet zijn wens uit laat komen. Hij wordt wel geïriteerd, maar dan kiest hij een andere",
 	},
 	"satisfactionPoints_Title": {
@@ -437,11 +436,10 @@
 		"english": "Fulfill your colonists' wishes and they will be satisfied with life. When the bar is full they gets one lifetime satisfaction point.",
 		"german": "Erfülle die Wünsche deiner Kolonisten und sie wird mit ihrem Leben zufrieden sein. Wenn die Leiste voll ist, bekommen sie einen Lebenszufriedenheitspunkt.",
 		"french": "Complétez les vœux de vos colons et ils seront satisfaits de leur vie. Lorsque la barre est remplie, ils obtiennent un point de satisfaction de vie.", 
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "Completa los deseos de tus colonos y estarán satisfecho con su vida. Cuando la barra se llene al máximo obtendrán un punto de satisfacción de vida.",
 		"turkish": "Kolonicilerin isteklerini yerine getirirsen hayatlarından daha fazla zevk alacak. Seviye tamamlandığında bir memnuniyet puanı kazanacaklar.",
-		"portuguese": "Cumpra os desejos do seu colono e ele ficará satisfeito com a vida. Quando a barra está cheia, ele recebe um ponto de satisfação vitalício.",
+		"portuguese": "Cumpra os desejos de seus colonos e eles ficarão satisfeitos com a vida. Quando a barra está cheia, eles recebem um ponto de satisfação vitalício.",
 		"dutch": "Laat een wens van jouw kolonist uitkomen en dan zal hij tevreden zijn met het leven. Wanneer de balk vol is krijgt krijgt hij een levenslag tevredenheid punt.",
 	},
 	"satisfactionLevel_Title": {
@@ -475,11 +473,10 @@
 		"english": "Once your colonists have gathered enough Experience, you can promote them to unlock new skills.",
 		"german": "Sobald deine Kolonisten genug Erfahrung gesammelt haben, kannst du sie befördern um neue Fähigkeiten freizuschalten.",
 		"french": "Une fois que votre colon a assez d'expériences, vous pouvez le promouvoir pour débloquer de nouvelles compétences.",
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "Una vez el colono ha conseguido experiencia suficiente, puedes ascenderle para desbloquear nuevas habilidades.",
 		"turkish": "Koloniciniz yeteri kadar tecrübe kazandıktan sonra, onu terfi ettirerek yeni beceriler kazanmasını sağlayabilirsiniz.",
-		"portuguese": "Uma vez que seu colono tenha acumulado experiência suficiente, você pode promovê-lo para desbloquear novas habilidades.",
+		"portuguese": "Uma vez que seus colonos tenha acumulado experiência suficiente, você pode promovê-lo para desbloquear novas habilidades.",
 		"dutch": "Wanneer jouw kolonisten genoeg ervaring heeft gekregen, kan je hem promoveren om nieuwe vaardigheden te leren.",
 	},
 	"productionMode_Produce": {
@@ -608,6 +605,8 @@
 		"english": "In combat mode, your colonists will put on their combat equipment and stop working on their jobs, relaxing, or talking with others. This allows you to control them better in battle.",
 		"french": "En mode combat, vos colons metteront leur équipement de combat et cesseront de travailler, de se détendre ou de parler entre eux. Cela vous permet de mieux les contrôler au combat.",
 		"spanish": "En el modo combate, tus colonos se pondrá su equipo de combate y dejarán de trabajar, relajarse o hablar con otros. Esto te permite controlarlos mejor en batalla.",
+		"portuguese": "No modo de combate, seus colonos colocarão seus equipamentos de combate e deixarão de trabalhar em seus trabalhos, relaxando ou conversando com os outros. Isso permite que você os controle melhor em batalha.",
+		
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -1046,7 +1045,7 @@
 		"german": "Wichtiges Eigentum",
 		"french": "Possession Importante",
 		"spanish": "Posesión importante",
-		"portuguese": "Posses importantes",
+		"portuguese": "Posse importante",
 		"turkish": "Değerli Eşyalar",
 		"dutch": "Belangerijk Eigendom",
 	},
@@ -1064,66 +1063,77 @@
 		"german": "Bezahlung in Münzen pro Tag",
 		"french": "Paiement en pièces par jour",
 		"spanish": "Pago en monedas por día",
+		"portuguese": "Pagamento em moedas por dia",
 	},
 	"civilianEquipment": {
 		"english": "Civilian Equipment",
 		"german": "Zivile Ausrüstung",
 		"french": "Équipement Civil",
 		"spanish": "Equipo civil",
+		"portuguese": "Equipamentos Civil",
 	},
 	"combatEquipment": {
 		"english": "Combat Equipment",
 		"german": "Kampfausrüstung",
 		"french": "Équipement de Combat",
 		"spanish": "Equipo de combate",
+		"portuguese": "Equipamentos de Combate",
 	},
 	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
 		"english": "Tool Storage",
 		"german": "Werkzeughalter",
 		"french": "Stockage d'Outils",
 		"spanish": "Almacén de herramientas",
+		"portuguese": "Armazenamento de Ferramentas",
 	},
 	"ClothesStorage": {
 		"english": "Clothes Storage",
 		"german": "Kleidungshalter",
 		"french": "Stockage de Vêtements",
 		"spanish": "Almacén de ropa"
+		"portuguese": "Armazenamento de Roupas",
 	},
 	"WeaponStorage": {
 		"english": "Weapon Storage",
 		"german": "Waffenhalter",
 		"french": "Stockage d'Armes",
 		"spanish": "Almacén de armas",
+		"portuguese": "Armazenamento de Armas",
 	},
 	"ArmorStorage": {
 		"english": "Armor Storage",
 		"german": "Rüstungshalter",
 		"french": "Stockage d'Armures",
 		"spanish": "Almacén de armaduras",
+		"portuguese": "Armazenamento de Armadura",
 	},
 	"takeOwnershipOfStorageFurniture": {
 		"english": "Take Ownership of equipment storage furniture to assign equipment",
 		"german": "Nehme Besitz von einem Ausrüstungshalter, um Ausrüstung auswählen zu können",
 		"french": "Prendre possession du mobilier de stockage d'équipement pour attribuer l'équipement",
 		"spanish": "Toma posesión del almacén de equipo para asignarse equipaje",
+		"portuguese": "Assumir propriedade de móveis de armazenamento de equipamentos para atribuir equipamentos",
 	},
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",
 		"german": "Wähle Ausrüstung im Möbelstück",
 		"french": "Sélectionner l'équipement dans le meuble de stockage",
 		"spanish": "Selecciona equipaje en el mueble de almacén",
+		"portuguese": "Selecione o equipamento no mobiliário de armazenamento",
 	},
 	"selectProduction": {
 		"english": "Select Production",
 		"german": "Produktion auswählen",
 		"french": "Sélectionner la Production",
 		"spanish": "Selecciona producción",
+		"portuguese": "Selecione Produção",
 	},
 	"noOwner": { // when a piece of furniture is not owned by any colonist
 		"english": "No Owner",
 		"german": "Kein Besitzer",
 		"french": "Pas de Propriétaire",
 		"spanish": "Sin dueño",
+		"portuguese": "Nenhum proprietário",
 	},
 
 
@@ -1134,78 +1144,91 @@
 		"german": "Händler",
 		"french": "Commerçant",
 		"spanish": "Comerciante",
+		"portuguese": "Comerciante",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
 		"german": "Kolonie verkauft an den Händler",
 		"french": "La Colonie Vend au Commerçant",
 		"spanish": "La colonia está vendiendo al comerciante",
+		"portuguese": "Colônia está vendendo para o comerciante",
 	},
 	"colonyIsBuying": {
 		"english": "Colony is Buying from the Trader",
 		"german": "Kolonie kauft vom Händler",
 		"french": "La Colonie Achète au Commerçant",
 		"spanish": "La colonia está comprando al comerciante",
+		"portuguese": "Colônia está comprando do comerciante",
 	},
 	"amountStorage": { // amount means how much is being traded and in store is the maximum amount the colony or the trader has in store
 		"english": "Amount / In Store",
 		"german": "Menge / Im Lager",
 		"french": "Montant / En Stock",
 		"spanish": "Cantidad / En existencia",
+		"portuguese": "Quantidade / Na loja",
 	},
 	"tradingGoodName": {
 		"english": "Name",
 		"german": "Name",
 		"french": "Nom",
 		"spanish": "Nombre",
+		"portuguese": "Nome",
 	},
 	"price": {
 		"english": "Price",
 		"german": "Preis",
 		"french": "Prix",
 		"spanish": "Precio",
+		"portuguese": "Preço",
 	},
 	"totalPrice": {
 		"english": "Total",
 		"german": "Gesamt",
 		"french": "Total",
 		"spanish": "Total",
+		"portuguese": "Total",
 	},
 	"confirmTrade": {
 		"english": "Confirm Trade",
 		"german": "Handel abschließen",
 		"french": "Confirmer Commerce",
 		"spanish": "Confirmar transacción",
+		"portuguese": "Confirme o comércio",
 	},
 	"sellItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
 		"german": "Verkauft Gegenstände mit einem Wert von %coins% Münzen",
 		"french": "Vendre des objets d'une valeur de %coins% pièces",
 		"spanish": "Vendiendo items con un valor de %coins% monedas",
+		"portuguese": "Comprando itens com um valor de %coins% moedas",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
 		"german": "Kauft Gegenstände mit einem Wert von %coins% Münzen",
 		"french": "Acheter des objets d'une valeur de %coins% pièces",
 		"spanish": "Comprando items con un valor de %coins% monedas",
+		"portuguese": "Comprando itens com um valor de %coins% moedas",
 	},
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",
 		"german": "Die Kolonie erhält %coins% Münzen von diesem Handel.",
 		"french": "La colonie reçoit %coins% pièces de cette transaction.",
 		"spanish": "La colonia gana %coins% monedas de esta transacción.",
+		"portuguese": "A colônia está ganhando %coins% moedas deste acordo.",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
 		"german": "Die Kolonie zahlt %coins% Münzen für diesen Handel.",
 		"french": "La colonie paie %coins% pièces de cette transaction.",
 		"spanish": "La colonia paga %coins% monedas de esta transacción.",
+		"portuguese": "A colônia está pagando %coins% moedas para este negócio.",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",
 		"german": "Die Kolonie hat keine %coins% Münzen um diesen Handel zu bezahlen.",
 		"french": "La colonie n'a pas %coins% pièces à payer pour cette transaction.",
 		"spanish": "La colonia no tiene %coins% monedas para pagar esta transacción",
+		"portuguese": "A colônia não tem %coins% moedas para pagar por essa transação.",
 	},
 
 }

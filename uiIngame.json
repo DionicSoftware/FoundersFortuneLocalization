@@ -594,7 +594,7 @@
 		"english": "With the designation tool you can restrict resource gathering to the objects you have marked with the tool. The colonists are only going to work on designated objects automatically.",
 		"german": "Mit dem Ressourcenwerkzeug kannst du das Sammeln von Ressourcen auf markierte Objekte beschränken. Die Kolonisten werden automatisch nur an markierten Objekten arbeiten.",
 		"french": "Avec l'outil désigné vous pouvez restreindre les ressources aux objets que vous avez marqué avec l'outil. Les colons vont travailler automatiquement sur les objets désignés.", 
-		"spanish": "Con la herramienta de seleccionado puedes restringir los recursos que se recolectarán a aquellos que hayas marcado. Los colonos trabajaran en los objetos seleccionados automáticamente.",
+		"spanish": "Con la herramienta de seleccionado puedes restringir los recursos que se recolectarán a aquellos que hayas marcado. Los colonos trabajarán en los objetos seleccionados automáticamente.",
 		"turkish": "Seçim aracıyla kaynak toplanmasını sadece seçilen objelerde yapılmasını sağlayabilirsiniz. Böylece koloniciler sadece bu objelerde çalışır",
 		"portuguese": "Com a ferramenta de designação, você pode restringir a coleta de recursos aos objetos marcados com a ferramenta. Os colonos só vão trabalhar em objetos designados automaticamente.",
 		"dutch": "Met het markeer gereedschap kan je het verbieden om grondstoffen te verzamelen aan de objecten die je hebt geselecteerd met het gereedschap. De Kolonisten gaan alleen automatisch werken aan geselecteerde objecten",
@@ -602,10 +602,12 @@
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
 		"french": "Mode Combat"
+		"spanish": "Modo Combate",
 	},
 	"combatModeTooltip_Desc": {
 		"english": "In combat mode, your colonists will put on their combat equipment and stop working on their jobs, relaxing, or talking with others. This allows you to control them better in battle.",
 		"french": "En mode combat, vos colons metteront leur équipement de combat et cesseront de travailler, de se détendre ou de parler entre eux. Cela vous permet de mieux les contrôler au combat."
+		"spanish": "En el modo combate, tus colonos se pondrá su equipo de combate y dejarán de trabajar, relajarse o hablar con otros. Esto te permite controlarlos mejor en batalla.",
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -1025,7 +1027,7 @@
        	"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
     	"german": "Leider ist %firstName% nicht der Hellste und wird keine Erfahrung sammeln.",
 		"french": "Malheureusement, %firstName% est stupide et ne gagnera d'expérience dans aucun travail.",
-	    "spanish": "Desafortunadamente, %firstName% es tonto y no ganará nada de experiencia en ningún trabajo.",
+	    "spanish": "Desafortunadamente, %firstName% es tont%oA% y no ganará nada de experiencia en ningún trabajo.",
 		"turkish": "Ne yazık ki, %firstName% bir aptal ve çalıştığı işlerde tecrübe edinemeyecek.", 
 		"portuguese": "Infelizmente, %firstName% é burro e não vai ganhar experiência em nenhum trabalho.",
 	    "dutch": "Helaas, %firstName% is dom en zal geen ervaring opdoen in een baan",
@@ -1179,7 +1181,7 @@
 		"english": "Buying items with a value of %coins% coins",
 		"german": "Verkauft Gegenstände mit einem Wert von %coins% Münzen",
 		"french": "Vendre des objets d'une valeur de %coins% pièces",
-		"spanish": "Comprando items con valor de %coins% monedas",
+		"spanish": "Vendiendo items con un valor de %coins% monedas",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",

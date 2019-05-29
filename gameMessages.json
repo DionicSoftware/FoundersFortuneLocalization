@@ -190,7 +190,7 @@
 		"spanish": "Comerciante partiendo",
 		"french": "Le commerçant part",
 		"turkish": "Tüccar ayrılıyor",
-		//TODO-portuguese
+		"portuguese": "O comerciante está saindo",
 		//TODO-bulgarian
 	},
 	"notificationTitle_SeasonChanged": {
@@ -224,10 +224,9 @@
 		"english": "Bug infestation over",
 		"german": "Käferbefall vorbei",
 		"french": "Infestation d'insectes terminée",
-		//TODO-portuguese
 		//TODO-bulgarian
 		"spanish": "Infestación de insectos terminada",
-		"portuguese": "Infestação de insetos",
+		"portuguese": "Infestação de insetos acabou",
 		"turkish": "Böcek istilası sona erdi",
 		"bulgarian": "Зараза на насекоми",
 	},
@@ -290,7 +289,7 @@
 //		"german": "Kolonist findet sein Eigentum nicht mehr",
 //		"french": "Il manque des possessions à un colon",
 //		"spanish": "Un colono ha perdido sus posesiones",
-//		"portuguese": "Colono está faltando suas posses",
+//		"portuguese": "Colono está faltando %seusSuas% posses",
 //		"turkish": "Yerleşimci malını kaybetti",
 //	},
 	"notificationTitle_LegHurt": {
@@ -299,6 +298,7 @@
 		"french": "%firstName% s'est bléssé%e% à la jambe",
 		"spanish": "%firstName% se lastimó una pierna",
 		"turkish": "%firstName% bacağını incitti",
+		"portuguese": "%FirstName% ferido %seuSuas% perna",
 	},
 	"notificationTitle_LegBroken": {
 		"english": "%firstName% broke %hisHer% Leg",
@@ -306,6 +306,7 @@
 		"french": "%firstName% a cassé sa jambe",
 		"spanish": "%firstName% se rompió una pierna",
 		"turkish": "%firstName% bacağını kırdı",
+		"portuguese": "%FirstName% quebrou %seuSuas% perna",
 	},
 	"notificationTitle_ArmHurt": {
 		"english": "%firstName% hurt %hisHer% Arm",
@@ -313,6 +314,7 @@
 		"french": "%firstName% s'est bléssé%e% au bras",
 		"spanish": "%firstName% se lastimó un brazo",
 		"turkish": "%firstName% kolunu incitti",
+		"portuguese": "%FirstName% ferido %seuSuas% braço",
 	},
 	"notificationTitle_ArmBroken": {
 		"english": "%firstName% broke %hisHer% Arm",
@@ -320,6 +322,7 @@
 		"french": "%firstName% a cassé son bras",
 		"spanish": "%firstName% se rompió un brazo",
 		"turkish": "%firstName% kolunu kırdı",
+		"portuguese": "%FirstName% quebrou %seuSuas% braço",
 	},
 
 	// FLOATING TEXTS
@@ -374,6 +377,7 @@
 		"spanish": "Entablado de pierna\nExitoso",
 		"french": "Attelle à la jambe\nSuccès",
 		"turkish": "Bacak destekleyici \nbşarılı",
+		"portuguese": "Tala de perna\nBem sucedida",
 	},
 	"legSplintFailed": {
 		"english": "Leg Splint\nFailed",
@@ -381,6 +385,7 @@
 		"spanish": "Entablado de pierna\nFallido",
 		"french": "Attelle à la jambe\nÉchec",
 		"turkish": "Bacak destekleyici \nbşarısız",
+		"portuguese": "Tala de perna\nFalhou",
 	},
 	"armSplintSuccessful": {
 		"english": "Arm Splint\nSuccessful",
@@ -388,6 +393,7 @@
 		"spanish": "Entablado de brazo\nExitoso",
 		"french": "Attelle au Bras\nSuccès",
 		"turkish": "Kol destekleyici \nbşarılı",
+		"portuguese": "Tala de braço\nBem sucedida",
 	},
 	"armSplintFailed": {
 		"english": "Arm Splint\nFailed",
@@ -395,6 +401,7 @@
 		"spanish": "Entablado de brazo\nFallido",
 		"french": "Attelle au Bras\nÉchec",
 		"turkish": "Kol destekleyici \nbşarısız",
+		"portuguese": "Tala de braço\nFalhou",
 	},
 
 
@@ -440,11 +447,10 @@
 		"german": "Händler ist angekommen!",
 		//TODO-french
 		//TODO-spanish
-		//TODO-portuguese
 		//TODO-bulgarian
 		"french": "Des migrants sont arrivés !",
 		"spanish": "¡Llegaron migrantes!",
-		"portuguese": "Migrantes chegaram!",
+		"portuguese": "Comerciante chegou!",
 		"turkish": "Tüccar geldi!",
 		"bulgarian": "Мигрант пристигна!",
 	},
@@ -453,6 +459,7 @@
 		"french": "Un commerçant vient d'arriver sur la côte. Envoyez un colon pour négocier de bonnes affaires !",
 		"spanish": "Un comerciante ha arribado a la costa. ¡Manda a un colono a negociar algunos buenos tratos!",
 		"turkish": "Sahilde bir tüccar görüldü. Bir yerleşimci gönderip iyi bir pazarlık yaptır!",
+		"portuguese": "Um comerciante acabou de desembarcar na costa. Envie um colono para pechinchar por alguns bons negócios!",
 	},
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Tantrum!",
@@ -468,9 +475,8 @@
 		"german": "Ein Kolonist fühlt sich schon seit einer Weile schrecklich und hält es einfach nicht mehr aus. Jetzt dreht %erSie% durch und schlägt sich mit Freund oder Feind.",
 		"french": "Un colon s'est senti vraiment mal pendant un moment et n'en peut plus. %cap-ilElle% est devenu%e% %fouFolle% et va frapper des gens, amis ou ennemis.",
 		//TODO-bulgarian
-		//TODO-portuges
 		"spanish": "Un colono se ha estado sintiendo horrible por un tiempo y ya no podía soportarlo más. %cap-élElla% se ha vuelto loc%oA% y está golpeando a personas al azar, amigos o enemigos.",
-		"portuguese": "Um colono está se sentindo horrível há algum tempo e não aguentava mais. Ele ficou louco agora e está espancando pessoas aleatórias, amigos ou inimigos.",
+		"portuguese": "Um colono está se sentindo horrível há algum tempo e não aguentava mais. %cap-eleEla% ficou louco agora e está espancando pessoas aleatórias, amig%oA%s ou inimig%oA%s.",
 		"turkish": "Yerleşimcilerden biri bir süredir kendini kötü hissediyordu, ve artık sinirlerini kontrol edemiyor. Delirdi ve dost düşman demeden insanlara saldırıyor.",
 		"bulgarian": "Колонистът се чувстваше ужасно за известно време и просто не можеше повече да го понася. Сега той е луд и бие случайни хора, приятел или враг.",
 	},
@@ -488,9 +494,8 @@
 		"german": "Ein Kolonist hat zu lange unter entsetzlichen Bedingungen gearbeitet. Jetzt reicht es %ihmIhr% und %erSie% hat entschieden mit der Arbeit aufzuhören und sich erst mal zu entspannen",
 		"french": "Un colon a trop travaillé dans des conditions épouvantables. %cap-ilElle% a décidé qu'%ilElle% n'avait pas pris assez soin %deluiD'elle% et %ilElle% va se relaxer un peu.",
 		//TODO-bulgarian
-		//TODO-portuges
 		"spanish": "Un colono ha trabajado demasiado bajo condiciones terribles. %cap-élElla% ha decidido que ya no le importa más y se va a relajar por un tiempo.",
-		"portuguese": "Um colono trabalhou muito sob condições terríveis. Ele decidiu que ele simplesmente não se importa mais e vai relaxar por um tempo.",
+		"portuguese": "Um colono trabalhou muito sob condições terríveis. %cap-eleEla% decidiu que %eleEla% simplesmente não se importa mais e vai relaxar por um tempo.",
 		"turkish": "Yerleşimcilerden biri zor koşullar altında çok fazla çalıştı. Artık umursamayacağına ve bir süre dinleneceğine karar verdi.",
 		"bulgarian": "Колонистът е работил твърде много при ужасни условия. Реши, че вече не го интересува и ще се отпусне за известно време.",
 	},
@@ -508,9 +513,8 @@
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Jetzt randaliert %erSie% um sich abzuregen.",
 		"french": "La vie n'a pas été la meilleure pour %firstName%. %cap-ilElle% s'est tourné%e% vers le vandalisme.",
 		//TODO-bulgarian
-		//TODO-portuges
 		"spanish": "La vida no ha sido la mejor para %firstName%. Ahora %élElla% ha recurrido al vandalismo para desahogarse.",
-		"portuguese": "A vida não foi a melhor para %firstName%. Agora ele se voltou para o vandalismo para desabafar.",
+		"portuguese": "A vida não foi a melhor para %firstName%. Agora %eleEla% se voltou para o vandalismo para desabafar.",
 		"turkish": "Hayat %firstName% için bir süredir çok iyi değildi. Sinirlerini yatıştırmak için vandalizme başladı.",
 		"bulgarian": "Животът не е бил най-добрият за %firstName%. Сега той се обърна към вандализъм, за да издуха парата.",
 	},
@@ -528,9 +532,8 @@
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Heute geht %erSie% es gemütlich an und macht viele lange Pausen.",
 		"french": "La vie n'a pas été la meilleure pour %firstName%. Aujourd'hui c'est plus simple et %ilElle% prendra de longues pauses.",
 		//TODO-bulgarian
-		//TODO-portuges
 		"spanish": "La vida no ha sido la mejor para %firstName%. Hoy %élElla% se lo está tomando con calma y tomará muchos descansos largos.",
-		"portuguese": "A vida não foi a melhor para %firstName%. Hoje ele está se acalmando e fará muitas pausas longas.",
+		"portuguese": "A vida não foi a melhor para %firstName%. Hoje %eleEla% está se acalmando e fará muitas pausas longas.",
 		"turkish": "Hayat %firstName% için bir süredir çok iyi değildi. Bugün işleri hafiften alacak ve bol bol molaya çıkacak.",
 		"bulgarian": "Животът не е бил най-добър за %firstName%. Днес той се успокоява и ще взима много дълги почивки.",
 	},
@@ -583,10 +586,9 @@
 		"english": "A colonist is wounded! Make sure they gets enough sleep to rest their body. An experienced doctor can create more advanced remedies at the potion lab.",
 		"german": "Ein Kolonist ist verletzt! Stelle sicher, dass er genug Schlaf bekommt, um seinen Körper auszuruhen. Ein erfahrener Arzt kann fortgeschrittene Heilmittel am Alchemielabor herstellen.",
 		"french": "Un colon s'est blessé ! Assurez-vous qu'%ilElle% dorme assez pour se rétablir. Un docteur expérimenté peut créer des remèdes améliorés au laboratoire de potion.",
-		//TODO-portuges
 		//TODO-bulgarian
 		"spanish": "¡Un colono está herido! Asegúrate de que duerma lo suficiente para descansar su cuerpo. Un médico experimentado puede crear remedios más avanzados en el laboratorio de pociones.",
-		"portuguese": "Um colono está ferido! Certifique-se de que ele durma o suficiente para descansar seu corpo. Um médico experiente pode criar remédios mais avançados no laboratório de poções.",
+		"portuguese": "Um colono está ferido! Certifique-se de que %eleEla% durma o suficiente para descansar seu corpo. Um médico experiente pode criar remédios mais avançados no laboratório de poções.",
 		"turkish": "Yerleşimcilerden biri yaralandı! Vücudunu dinlendirmek için yeterince uyuduğundan emin olun. Deneyimli bir doktor iksir laboratuarında daha gelişmiş ilaçlar yaratabilir.",
 		"bulgarian": "Колонист е ранен! Уверете се, че той получава достатъчно сън, за да си почине тялото му. Опитният лекар може да създаде по-напреднали лекарства в лабораторията за отвари.",
 	},

@@ -348,11 +348,13 @@
 		"english": "Splint Leg",
 		"german": "Bein schienen",
 		"french": "Poser une attelle sur la jambe",
+		"portuguese": "Coloque uma tala na perna",
 	},
 	"SplintArm": {
 		"english": "Splint Arm",
 		"german": "Arm schienen",
 		"french": "Poser une attelle sur le bras",
+		"portuguese": "Coloque uma tala no braço",
 	},
 	"Destroy": {
 		"english": "Destroy",
@@ -591,6 +593,7 @@
 	"interaction_analyzeScroll": {
 		"english": "Analyze Scroll",
 		"german": "Schriftrolle analysieren",
+		"portuguese": "Analisar pergaminhos",
 	},
 	"interaction_cook": {
 		"english": "Cook Food",
@@ -704,14 +707,17 @@
 		"english": "Carry to Bed",
 		"german": "Zu Bett tragen",
 		"french": "Transporter jusqu'au Lit",
+		"portuguese": "Levar para a cama",
 	},
 	"PlaceTool": {
 		"english": "Unequip Tool",
 		"french": "Déséquipper l'Outil",
+		"portuguese": "Desequipar Ferramenta",
 	},
 	"PlaceClothes": {
 		"english": "Unequip Clothes",
 		"french": "Enlever les Vêtements",
+		"portuguese": "Desequipar Roupas",
 	},
 	"Trade": {
 		"english": "Trade",
@@ -738,10 +744,12 @@
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",
 		"french": "Ne peut pas marcher à cause de sa jambe cassée",
+		"portuguese": "Não pode andar por causa de perna quebrada",
 	},
 	"cantWorkBrokenArm": {
 		"english": "Can't work because of broken arm",
 		"french": "Ne peut pas travailler à cause de son bras cassé",
+		"portuguese": "Não pode andar por causa de braço quebrado",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -836,9 +844,11 @@
 	"resourceNotNecessaryForResearch": {
 		"english": "Doesn't need to analyze %resource% for current research",
 		"french": "Pas besoin d'analyser %resource% pour la recherche en cours",
+		"portuguese": "Não precisa analisar %resource% para pesquisa atual",
 	},
 	"notOwnedBy": {
 		"english": "Not owned by %firstName%",
 		"french": "N'est pas la propriété de %firstName%",
+		"portuguese": "Não pertence a %firstName%",
 	},
 }

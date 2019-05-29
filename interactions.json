@@ -349,12 +349,14 @@
 		"german": "Bein schienen",
 		"french": "Poser une attelle sur la jambe",
 		"portuguese": "Coloque uma tala na perna",
+		"turkish": "Bacak desteği", 	
 	},
 	"SplintArm": {
 		"english": "Splint Arm",
 		"german": "Arm schienen",
 		"french": "Poser une attelle sur le bras",
 		"portuguese": "Coloque uma tala no braço",
+		"turkish": "Kol desteği", 
 	},
 	"Destroy": {
 		"english": "Destroy",
@@ -708,16 +710,19 @@
 		"german": "Zu Bett tragen",
 		"french": "Transporter jusqu'au Lit",
 		"portuguese": "Levar para a cama",
+		"turkish": "Yatağa taşı", 
 	},
 	"PlaceTool": {
 		"english": "Unequip Tool",
 		"french": "Déséquipper l'Outil",
 		"portuguese": "Desequipar Ferramenta",
+		"turkish": "Aleti bırak", 
 	},
 	"PlaceClothes": {
 		"english": "Unequip Clothes",
 		"french": "Enlever les Vêtements",
 		"portuguese": "Desequipar Roupas",
+		"turkish": "Kıyafetleri çıkar", 
 	},
 	"Trade": {
 		"english": "Trade",
@@ -745,11 +750,13 @@
 		"english": "Can't walk because of broken leg",
 		"french": "Ne peut pas marcher à cause de sa jambe cassée",
 		"portuguese": "Não pode andar por causa de perna quebrada",
+		"turkish": "Bacağı kırık, yürüyemiyor", 
 	},
 	"cantWorkBrokenArm": {
 		"english": "Can't work because of broken arm",
 		"french": "Ne peut pas travailler à cause de son bras cassé",
 		"portuguese": "Não pode andar por causa de braço quebrado",
+		"turkish": "Kolu kırık, çalışamaz", 
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -845,10 +852,12 @@
 		"english": "Doesn't need to analyze %resource% for current research",
 		"french": "Pas besoin d'analyser %resource% pour la recherche en cours",
 		"portuguese": "Não precisa analisar %resource% para pesquisa atual",
+		"turkish": "Şimdiki araştırma konusu için %resource% analiz etmeye gerek yok", 
 	},
 	"notOwnedBy": {
 		"english": "Not owned by %firstName%",
 		"french": "N'est pas la propriété de %firstName%",
 		"portuguese": "Não pertence a %firstName%",
+		"turkish": "%firstName% sahipliğinde değil", 
 	},
 }

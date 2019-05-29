@@ -396,11 +396,10 @@
 		"english": "I enjoyed talking with my friend %firstName%.",
 		"german": "Mir hat es gefallen, mich mit %meinemMeiner% %freundFreundin% %firstName% zu unterhalten.",
 		"french": "J'ai apprécié parler avec mon ami%e% %firstName%",
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "Me gustó hablar con mi amig%oA% %firstName%",
 		"turkish": "Arkadaşımla konuşmaktan zevk aldım.",
-		"portuguese": "Eu gostava de conversar com meu amigo.",
+		"portuguese": "Eu gostava de conversar com meu amig%oA%.",
 	},
 	"thoughtTitle_BadConversation": {
 		"english": "Bad Conversation",
@@ -414,11 +413,10 @@
 		"english": "%firstName% is so full of %himselfHerself%. I couldn't stand listening to %himHer%.",
 		"german": "%firstName% ist unglaublich eingebildet. Ich konnte es nicht mal ertragen %ihmIhr% zuzuhön.",
 		"french": "%firstName% est si imbu%e% %deluiD'elle%-même. Je ne pourrais pas l'écouter.",
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "Est%eA% %chicoChica% es increíblemente arrogante. Ni siquiera podía soportarl%oA%",
 		"turkish": "Bu adam kibir dolu. Onu dinlemeye dayanamadım.",
-		"portuguese": "Esse cara é tão cheio de si mesmo. Eu não suportava ouvir ele.",
+		"portuguese": "Esse cara é tão cheio de si mesmo. Eu não suportava ouvir %eleEla%.",
 	},
 	"thoughtTitle_GoodDream": {
 		"english": "Good Dream",
@@ -777,24 +775,28 @@
 		"german": "Boden im Haus fehlt",
 		"spanish": "Falta de piso en casa",
 		"french": "Sol manquant dans la maison",
+		"portuguese": "Andar faltando em casa",
 	},
 	"thoughtDesc_MissingFloor": {
 		"english": "There is a room in my house that's missing a floor. It feels like a construction site.",
 		"german": "In meinem Haus gibt es einen Raum ohne Boden. Es fühlt sich an wie eine Baustelle.",
 		"spanish": "No hay piso en toda mi casa. Parece un sitio de construcción.",
 		"french": "Il y a une pièce de ma maison où il manque du sol. Cela ressemble à un chantier de construction.",
+		"portuguese": "Há uma sala na minha casa que está faltando um andar. Parece um canteiro de obras.",
 	},
 	"thoughtTitle_UnpreparedForWinter": {
 		"english": "Unprepared for winter",
 		"german": "Unvorbereitet auf den Winter",
 		"spanish": "Sin preparación para el invierno",
 		"french": "Pas préparé pour l'hiver",
+		"portuguese": "Despreparado para o inverno",
 	},
 	"thoughtDesc_UnpreparedForWinter": {
 		"english": "I'm worried we're not going to have enough food to get through the winter. We really should start preparing for it.",
 		"german": "Ich mache mir Sorgen, dass wir nicht genug Nahrung haben werden um durch den Winter zu kommen. Wir sollten wirklich anfangen uns vorzubereiten.",
 		"spanish": "Estoy preocupado de que no vamos a tener suficiente comida para todo el invierno. Realmente deberíamos empezar a prepararnos para ello.",
 		"french": "J'ai bien peur que nous n'ayons pas assez de nourriture pour passer l'hiver. Nous devrions vraiment commencer à nous préparer.",
+		"portuguese": "Estou preocupado que não tenhamos comida suficiente para passar o inverno. Nós realmente deveríamos começar a nos preparar para isso.",
 	},
 
 

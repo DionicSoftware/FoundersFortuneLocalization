@@ -82,6 +82,7 @@
 		"french": "Remettre %furniture% dans %location%",
 		"spanish": "Conseguir %furniture% de vuelta en %location%",
 		"portuguese": "Recupere %furniture% de volta em %location%",
+		"turkish": "%location% için %furniture% geri al",
 	},
 	"furnitureCategory_AChair": {
 		"english": "a Chair",
@@ -197,12 +198,11 @@
 		"english": "%hisHer% Room",
 		"german": "%seinemIhrem% Raum",
 		"french": "sa Pièce",
-		//TODO-turkish
 		//TODO-bulgarian
 		//TODO-swedish
 		//TODO-dutch
 		"spanish": "su Habitación",
-		"turkish": "Onun odası",
+		"turkish": "Odası",
 		"bulgarian": "неговата Стая",
 		"portuguese": "seu quarto",
 		"swedish": "sitt rum",
@@ -212,12 +212,11 @@
 		"english": "%hisHer% House",
 		"german": "%seinemIhrem% Haus",
 		"french": "sa Maison",
-		//TODO-turkish
 		//TODO-bulgarian
 		//TODO-swedish
 		//TODO-dutch
 		"spanish": "su Casa",
-		"turkish": "Onun evi",
+		"turkish": "Evi",
 		"bulgarian": "неговата Къща",
 		"portuguese": "%seuSua% casa",
 		"swedish": "sitt hus",
@@ -228,7 +227,7 @@
 		"german": "der Kolonie",
 		"french": "la Colonie",
 		"spanish": "la Colonia",
-		"turkish": "Koloni",
+		"turkish": "Yerleşim",
 		"bulgarian": "Колонията",
 		"portuguese": "a colônia",
 		"swedish": "kolonin",
@@ -239,7 +238,7 @@
 		"german": "Zufriedenheitspunkte einsetzen",
 		"french": "Utiliser les Points de Récompenses de Satisfaction",
 		"spanish": "Utilizar Puntos de recompensa de satisfacción",
-		"turkish": "Memnuniyet Ödül Puanlarını Kullan",
+		"turkish": "Memnuniyet ödül puanlarını kullan",
 		"bulgarian": "Използвайте Наградни Точки за Удовлетворение",
 		"portuguese": "Use pontos de recompensa de satisfação",
 		"swedish": "spendera tillfredsställelsepoäng",
@@ -284,6 +283,7 @@
 		"french": "Obtenir un gros jour de paie d'au moins %coins% pièces",
 		"spanish": "Conseguir un bono de al menos %coins% monedas",
 		"portuguese": "Obter um grande prêmio de pelo menos %coins% moedas",
+		"turkish": "En az %coin% para değerinde bir maaş al",
 	},
 	"defeatGoblin": {
 		"english": "Defeat Tiki Goblin",
@@ -291,6 +291,7 @@
 		"french": "Battre un Tiki Goblin",
 		"spanish": "Derrotar a un Tikigoblin",
 		"portuguese": "Derrote Tiki Goblin",
+		"turkish": "Tiki goblinleri mağlup et",
 	},
 	"storeFoodForWinter": {
 		"english": "Store at least %food% meals in preparation for winter",
@@ -298,6 +299,6 @@
 		"french": "Conserver au moins %food% repas en prévision de l'hiver",
 		"spanish": "Almacenar al menos %food% alimentos en preparación para el invierno",
 		"portuguese": "Armazene pelo menos %food% refeições em preparação para inverno",
-		
+		"turkish": "Kışa hazırlık için en az %food% yiyecek hazırla",
 	},
 }

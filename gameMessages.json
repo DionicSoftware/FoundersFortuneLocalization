@@ -13,7 +13,7 @@
 	"cantBuildThisCloseToWater": {
 		"english": "Can't build this close to water!",
 		"german": "Kann nicht so nah am Wasser bauen!",
-		"french": "Impossible de construire aussi proche de l'eau !",
+		"french": "Impossible de construire près de l'eau !",
 		"spanish": "¡No se puede construir esto cerca del agua!",
 		"portuguese": "Não é possível construir isso perto da água!",
 		"turkish": "Bunu suya yakın inşa edemezsin!",
@@ -124,7 +124,7 @@
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
 		"german": "Nahrungsvorräte gehen zu Ende",
-		"french": "Manque de Nourriture",
+		"french": "En pénurie de Nourriture",
 		"spanish": "La comida se acaba",
 		"portuguese": "Ficar sem comida",
 		"turkish": "Yiyecekler tükeniyor",
@@ -328,15 +328,15 @@
 		"english": "Autosave complete",
 		"german": "Automatisch gespeichert",
 		"spanish": "Autoguardado completo",
-		"portuguese": "Salvamento automático completo",
-		
+		"portuguese": "Salvamento automático completo","
+		"french": "Sauvegarde Auto terminée",
 	},
 
 	// FLOATING TEXTS
 	"expectationFulfilled": {
 		"english": "Expectation fulfilled",
 		"german": "Erwartung erfüllt",
-		"french": "Attente comblée",
+		"french": "Souhait comblé",
 		"spanish": "Expectativa cumplida",
 		"portuguese": "Expectativa cumprida",
 		"turkish": "Beklenti yerine getirildi",
@@ -372,7 +372,7 @@
 	"treatmentFailed": {
 		"english": "Treatment\nFailed",
 		"german": "Behandlung\nfehlgeschlagen",
-		"french": "Traitement\nRaté",
+		"french": "Traitement\nEchec",
 		"spanish": "Tratamiento\nFallido",
 		"turkish": "Tedavi\nBaşarısız",
 		"portuguese": "Tratamento \nFalhou",
@@ -452,7 +452,6 @@
 	"messageTitle_TraderArrived": {
 		"english": "Trader arrived!",
 		"german": "Händler ist angekommen!",
-		//TODO-french
 		//TODO-spanish
 		//TODO-bulgarian
 		"french": "Des migrants sont arrivés !",
@@ -471,7 +470,7 @@
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Tantrum!",
 		"german": "Aggressiver Wutanfall!",
-		"french": "Crise de Colère Agressive !",
+		"french": "Crise de Colère !",
 		"spanish": "¡Rabieta agresiva!",
 		"portuguese": "Birra agressivo!",
 		"turkish": "Öfke nöbeti!",
@@ -565,7 +564,7 @@
 	"messageTitle_TutorialFood": {
 		"english": "Food and Hunger",
 		"german": "Mahlzeiten und Hunger",
-		"french": "Alimentation et Faim",
+		"french": "Alimentation et Famine",
 		"spanish": "Comida y hambre",
 		"portuguese": "Comida e Fome",
 		"turkish": "Gıda ve açlık",
@@ -638,7 +637,7 @@
 	"messageTitle_TutorialCameraRotation": {
 		"english": "Rotating the View",
 		"german": "Die Ansicht drehen.",
-		"french": "Faire Tourner la Vue",
+		"french": "Faire tourner la Vue",
 		"spanish": "Girar la vista",
 		"portuguese": "Rodar a vista",
 		"turkish": "Görünümü Döndürmek",
@@ -796,10 +795,12 @@
 	"messageTitle_SupportDevelopment": {
 		"english": "Support the Development of Founders' Fortune!",
 		"german": "Unterstütze die Entwicklung von Founders' Fortune!",
+		"french": "Supportez le Développement de Founder's Fortune!",
 	},
 	"messageText_SupportDevelopment": {
 		"english": "You've been playing this colony for %hours% hours and it seems like you're enjoying the free version of Founders' Fortune! Consider checking out the store and supporting us!",
 		"german": "Du spielst diese Kolonie schon seit %hours% Stunden und es scheint als würde dir die kostenlose Version von Founders' Fortune gefallen! Schau dir mal unseren Store an, dort kannst du die Entwicklung unterstützen!",
+		"french": "Vous jouez dans cette colonie depuis %hours% heures et il sembelerait que vous appréciez la version gratuite de Founder's Fortune! Nous vous invitons à aller voir le magasin et nous soutenir!",
 	},
 
 	

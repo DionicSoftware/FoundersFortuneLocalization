@@ -12,13 +12,12 @@
 		"english": "%firstName% believes in the good in the world - maybe a little too much. Refuses to fight anyone unless %heShe% is already heavily wounded.",
 		"german": "%firstName% glaubt an das Gute in der Welt - vielleicht ein bisschen zu viel. Weigert sich zu kämpfen außer %erSie% ist bereits schwer verletzt.", 
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "%firstName% cree en lo bueno del mundo - quizás demasiado. Se niega a pelear contra alguien, excepto si ya ha sido gravemente herid%oA%.",
 		"french": "%firstName% croit à la bonté dans le monde - peut être un peu trop. Il refuse de combattre à moins qu'%ilElle% soit lourdement blessé%e%.",
 		"turkish": "%firstName%, dünyada iyiliğe inanıyor - belki haddinden fazla. Ağır şekilde yaralanmadığı sürece savaşmayı reddediyor.",
 		"bulgarian": "%firstName% вярва в доброто в света - може би малко повече. Отказва да се бие с никого, освен ако вече е тежко ранен.",
-		"portuguese": "%firstName% acredita no bem do mundo - talvez um pouco demais. Recusa-se a lutar contra qualquer um, a menos que ele já esteja gravemente ferido.",
+		"portuguese": "%firstName% acredita no bem do mundo - talvez um pouco demais. Recusa-se a lutar contra qualquer um, a menos que %eleEla% já esteja gravemente ferido.",
 	},
 	"traitTitle_BattleHardened": {
 		"english": "Experienced in Battle",
@@ -33,13 +32,12 @@
 		"english": "Already has much experience on the battlefield and is not scared off easily. Does not receive mood penalties for pain and death around %himHer%.",
 		"german": "Hat bereits viel Erfahrung auf dem Schlachtfeld gesammelt und kann viel ertragen. Bekommt keine negativen Gedanken bei Schmerz und Tod in %seinerIhrer% Umgebung.", 
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "Posee mucha experiencia en el campo de batalla y no se le asusta fácilmente. No recibe efectos negativos en el humor por sufrimiento y dolor.",
 		"french": "A déjà une expérience sur le champ de bataille et ne prend pas peur facilement. Ne reçoit pas de pénalités d'humeur pour les blessures et les morts autour %deluiD'elle%.",
 		"turkish": "Savaş alanında çok fazla deneyime sahip ve kolayca korkmuyor. Etrafındaki acı ve ölümlerden dolayı psikolojisi bozulmuyor.",
 		"bulgarian": "Вече има много опит на бойното поле и не се плаши лесно. Не получава наказания за настроения за болка и смърт около него.",
-		"portuguese": "Já tem muita experiência no campo de batalha e não se assusta facilmente. Não recebe penalidades de humor por dor e morte ao seu redor.",
+		"portuguese": "Já tem muita experiência no campo de batalha e não se assust%oA% facilmente. Não recebe penalidades de humor por dor e morte ao seu redor.",
 	},
 	"traitTitle_Optimist": {
 		"english": "Optimist",
@@ -48,14 +46,13 @@
 		"french": "Optimiste",
 		"turkish": "İyimser",
 		"bulgarian": "Оптимист",
-		"portuguese": "Otimisto",
+		"portuguese": "Otimist%oA%",
 	},
 	"traitDesc_Optimist": {
 		"english": "Glass-half-full kind of %guyGirl%. Receives a permanent mood boost.",
 		"german": "%firstName% sieht jedes Glas lieber als halb voll. Erhält einen permanenten Stimmungsbonus.",
 		"french": "Genre de personne avec un verre à moitié plein. Reçoit un boost d'humeur permanent.",
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "%firstName% es el tipo de persona que ve el vaso medio lleno. Recibe un incremento permanente en su humor.",
 		"turkish": "Bardağın dolu tarafını görüyor. Kalıcı ruh hali artışına sahip.",
@@ -69,14 +66,13 @@
 		"french": "Pessimiste",
 		"turkish": "Karamsar",
 		"bulgarian": "Песимист",
-		"portuguese": "Pessimisto",
+		"portuguese": "Pessimist%oA%",
 	},
 	"traitDesc_Pessimist": {
 		"english": "Glass-half-empty kind of %guyGirl%. Receives a permanent mood penalty.",
 		"german": "%firstName% sieht das Glas lieber als halb leer. Erhält einen permanenten Stimmungsmalus.", 
 		"french": "Genre de personne avec un verre à moitié vide. Reçoit une pénalité d'humeur permanente.",
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "%firstName% es el tipo de persona que ve el vaso medio vacío. Recibe un descenso permanente en su humor.",
 		"turkish": "Bardağın boş tarafını görüyor. Kalıcı ruh hali azalışına sahip.",
@@ -90,14 +86,13 @@
 		"french": "Tu%eurEuse%",
 		"turkish": "Katil",
 		"bulgarian": "Убиец",
-		"portuguese": "Assassino",
+		"portuguese": "Assassin%oA%",
 	},
 	"traitDesc_Killer": {
 		"english": "%firstName% has a strange interest in violence. Gets positive thoughts from killing. Usually able to control %himselfHerself%.",
 		"german": "%firstName% hat ein sonderbares Interesse an Gewalt. Erhält positive Gedanken durch Töten. Kann sich normalerweise kontrollieren.", 
 		"french": "%firstName% a un intérêt étrange pour la violence. Obtient des pensées positives lorsqu'%ilElle% tue. Habituellement en mesure de se contrôler.",
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "%firstName% tiene un extraño interés por la violencia. Obtiene buenos pensamientos al matar. Normalmente es capaz de controlarse a sí %mismoMisma%.",
 		"turkish": "%firstName% şiddete garip bir ilgi duyuyor. Öldürmekten olumlu düşünceler alıyor. Genellikle kendini kontrol edebiliyor.",
@@ -147,19 +142,18 @@
 		"french": "Gro%sSse% mang%eurEuse%",
 		"turkish": "Yiyici",
 		"bulgarian": "Поглъщател на мазнини",
-		"portuguese": "Porquinho",
+		"portuguese": "Porquinh%oA%",
 	},
 	"traitDesc_Overeater": {
 		"english": "%firstName% loves food and isn't always able to control %himselfHerself%. Sometimes %heShe% will just continue eating even though %heShe% is already full.",
 		"german": "%firstName% liebt Essen und kann sich nicht immer kontrollieren. Manchmal hört %erSie% einfach nicht auf zu essen, obwohl %erSie% eigentlich schon satt ist.", 
 		"french": "%firstName% aime la nourriture et n'est pas capable de se contrôler. Parfois %ilElle% continue de manger même s'%ilElle% est déjà plein%e%.",
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "A %firstName% le encanta la comida y no siempre logra controlarse. Algunas veces continúa comiendo incluso estando llen%oA%.",
 		"turkish": "%firstName% yemek yemeyi seviyor ve her zaman kendini kontrol edemiyor. Bazen dolu olsa bile yemeye devam edecek.",
 		"bulgarian": "%firstName% обича храната и не винаги е в състояние да се контролира. Понякога той просто ще продължи да яде, въпреки че вече е пълен.",
-		"portuguese": "%firstName% adora comida e nem sempre consegue se controlar. Às vezes ele apenas continua comendo, embora já esteja cheio.",
+		"portuguese": "%firstName% ador%oA% comida e nem sempre consegue se controlar. Às vezes ele apenas continua comendo, embora já esteja chei%oA%.",
 	},
 	"traitTitle_Survivor": {
 		"english": "Survivalist",
@@ -175,12 +169,11 @@
 		"german": "%firstName% hat schon einiges überlebt und er hat nicht vor das zu ändern. Wo andere sterben würden bekommt %erSie% einen 25% Gesundheitsboost und erlangt wieder das Bewusstsein (Nur einmal in 24 Stunden)", 
 		"french": "%firstName% a survécu à des situations et sait ce que cela fait. Quand les autres mourront, %ilElle% obtiendra un boost de santé de 25% et gagnera en connaissance. (Seulement une fois toute les 24 heures)",
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "%firstName% ha sobrevivido ante algunas situaciones complicadas y sabe lo que se necesita para ello. Cuando otros morirían, %élElla% recibe un 25% extra de salud y se recupera de los desmayos. (Solo una vez cada 24 horas)",
 		"turkish": "%firstName% bir kaç zorlu duruma rağmen hala hayatta ve ne yapması gerektiğini biliyor. Başkası öldüğünde %25 sağlık kazanıyor ve bilinci açılıyor (24 saatte bir).",
 		"bulgarian": "%firstName% преживя доста лепкави ситуации и знае какво е необходимо. Когато други умират, той получава 25% повишаване на здравето и придобива съзнание. (Само веднъж на 24 часа)",
-		"portuguese": "%firstName% sobreviveu a algumas situações difíceis e sabe o que é preciso. Quando os outros morrem, ele recebe um aumento de 25% na saúde e ganha consciência. (Apenas uma vez em 24 horas)",
+		"portuguese": "%firstName% sobreviveu a algumas situações difíceis e sabe o que é preciso. Quando os outros morrem, %eleEla% recebe um aumento de 25% na saúde e ganha consciência. (Apenas uma vez em 24 horas)",
 	},
 	"traitTitle_Insomnia": {
 		"english": "Insomnia",
@@ -214,12 +207,11 @@
 		"german": "%firstName% braucht nicht viel Schlaf. Schläft nur halb so lange wie andere bevor %erSie% wieder fit ist.", 
 		"french": "%firstName% n'a pas besoin de dormir beaucoup. Se repose moitié moins longtemps que les autres personnes avant qu'%ilElle% soit complètement en forme.",
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "%firstName% no necesita muchas horas de sueño. Solo necesita descansar la mitad que los demás para sentirse renovad%oA% de nuevo.",
 		"turkish": "%firstName% çok fazla uyumaya ihtiyaç duymuyor. Diğerlerinin yarısı kadar uykuyla yetinebiliyor.",
 		"bulgarian": "%firstName% не се нуждае от много сън. Остава само наполовина толкова дълго, колкото останалите, преди отново да е напълно в състояние да се справи.",
-		"portuguese": "%firstName% não precisa dormir muito. Só descansa metade do tempo que os outros antes que ele esteja completamente em forma novamente.",
+		"portuguese": "%firstName% não precisa dormir muito. Só descansa metade do tempo que os outros antes que %eleEla% esteja completamente em forma novamente.",
 	},
 	"traitTitle_Smart": {
 		"english": "Fast Learner",
@@ -235,12 +227,11 @@
 		"german": "%firstName% ist ein echt schlauer Kolonist. %cap-erSie% kann neue Fähigkeiten in der Hälfte der Zeit erlernen.",
 		"french": "%firstName% est quelqu'un d'intelligent et %ilElle% le sait. %cap-ilElle% peut apprendre de nouvelles compétences en moitié de temps.",
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "%firstName% es un%A% %chicoChica% brillante y lo sabe. Puede aprender nuevas habilidades en la mitad de tiempo.",
 		"turkish": "%firstName% parlak bir adam ve bunun farkında. Yarı sürede yeni beceriler öğrenebilir.",
 		"bulgarian": "%firstName% е светъл човек и той го знае. Той може да научи нови умения в половината от времето.",
-		"portuguese": "%firstName% é um cara brilhante e ele sabe disso. Ele pode aprender novas habilidades na metade do tempo.",
+		"portuguese": "%firstName% é um cara brilhante e %eleEla% sabe disso. %cap-eleEla% pode aprender novas habilidades na metade do tempo.",
 	},
 	"traitTitle_Dumb": {
 		"english": "Dumb",
@@ -249,19 +240,18 @@
 		"french": "Idiot%e%",
 		"turkish": "Salak",
 		"bulgarian": "Тъп",
-		"portuguese": "Idiota",
+		"portuguese": "Idiot%oA%",
 	},
 	"traitDesc_Dumb": {
 		"english": "Unfortunately, thinking has never been %hisHer% strong suit. %cap-heShe% will not gain experience and not level up in any job ever.",
 		"german": "Leider war %firstName% noch nie gut im Denken. %cap-erSie% kann keine Erfahrung sammeln und in keinem Beruf aufsteigen.", 
 		"french": "Malheureusement, penser n'a jamais été son fort. %cap-ilElle% ne gagnera pas d'expérience et n'augmentera pas de niveau dans n'importe quel métier.",
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "Lamentablemente, pensar nunca ha sido su fuerte. No ganará experiencia ni subirá de nivel en ningún trabajo, nunca.",
 		"turkish": "Maalesef, düşünme hiç bir zaman onun güçlü özelliği olmadı. Deneyim kazanamayacak ve hiç bir işte seviye atlamayacak.",
 		"bulgarian": "За съжаление, мисленето никога не е било негов силен костюм. Той няма да натрупа опит и няма да се издигне до нищо в работата си.",
-		"portuguese": "Infelizmente, pensar nunca foi seu forte. Ele não vai ganhar experiência e não subir de nível em qualquer trabalho de sempre.",
+		"portuguese": "Infelizmente, pensar nunca foi seu forte. %cap-eleEla% não vai ganhar experiência e não subir de nível em qualquer trabalho de sempre.",
 	},
 	"traitTitle_FavoriteFoodPumpkingStew": {
 		"english": "Favorite Food: Pumpkin Stew",
@@ -331,12 +321,11 @@
 		"german": "%firstName% wird Gerichte meiden, die Äpfel beinalten. Wenn %erSie% trotzdem gezwungen ist es zu essen, wird %erSie% eine allergische Reaktion haben",
 		"french": "%firstName% évite les plats qui contiennent des pommes. Si %ilElle% est forcé%e% à en manger, %ilElle% aura des réactions allergiques.",
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "%firstName% evitará comer platos que contengan manzana. Si es forzad%oA% a comerlos, sufrirá una reacción alérgica.",
 		"turkish": "%firstName%, elma içeren yemeklerden kaçınır. Yemek zorunda kalırsa, alerjik reaksiyona girer.",
 		"bulgarian": "%firstName% ще избегне ястия, които съдържат ябълки. Ако все пак е принуден да го яде, той ще получи алергична реакция.",
-		"portuguese": "%firstName% irá evitar pratos que contenham maçãs. Se ele for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
+		"portuguese": "%firstName% irá evitar pratos que contenham maçãs. Se %eleEla% for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
 	},
 	"traitTitle_AllergicToPotatoes": {
 		"english": "Allergic to Potatoes",
@@ -352,12 +341,11 @@
 		"german": "%firstName% wird Gerichte meiden, die Kartoffeln beinalten. Wenn %erSie% trotzdem gezwungen ist es zu essen, wird %erSie% eine allergische Reaktion haben",
 		"french": "%firstName% évite les plats qui contiennent des pommes de terre. Si %ilElle% est forcé%e% à en manger, %ilElle% aura des réactions allergiques.",
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "%firstName% evitará comer platos que contengan patata. Si es forzad%oA% a comerlos, sufrirá una reacción alérgica.",
 		"turkish": "%firstName%, patates içeren yemeklerden kaçınacaktır. Yemek zorunda kalması durumunda, alerjik reaksiyona girecek.",
 		"bulgarian": "%firstName% ще избегне ястия, които съдържат картофи. Ако все пак е принуден да го яде, той ще получи алергична реакция.",
-		"portuguese": "%firstName% evitará pratos que contenham batatas. Se ele for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
+		"portuguese": "%firstName% evitará pratos que contenham batatas. Se %eleEla% for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
 	},
 	"traitTitle_AllergicToTomatoes": {
 		"english": "Allergic to Tomatoes",
@@ -372,24 +360,25 @@
 		"english": "%firstName% will avoid dishes that contain tomatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
 		"german": "%firstName% wird Gerichte meiden, die Tomaten beinalten. Wenn %erSie% trotzdem gezwungen ist es zu essen, wird %erSie% eine allergische Reaktion haben",
 		//TODO-bulgarian
-		//TODO-portuges
 		//TODO-turkish
 		"spanish": "%firstName% evitará comer platos que contengan tomate. Si es forzad%oA% a comerlos, sufrirá una reacción alérgica.",
 		"french": "%firstName% évite les plats qui contiennent des tomates. S'%ilElle% est forcé%e% à en manger, %ilElle% aura des réactions allergiques.",
 		"turkish": "%firstName%, domates içeren yemeklerden kaçınır. Zaten yemek zorunda kalırsa, alerjik reaksiyona girer.",
 		"bulgarian": "%firstName% ще избегне ястия, които съдържат домати. Ако все пак е принуден да го яде, той ще получи алергична реакция.",
-		"portuguese": "%firstName% evitará pratos que contenham tomates. Se ele for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
+		"portuguese": "%firstName% evitará pratos que contenham tomates. Se %eleEla% for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
 	},
 	"traitTitle_Limping": {
 		"english": "Limping",
 		"german": "Hinken",
 		"spanish": "Cojo",
 		"french": "Boit%euxEuse%",
+		"portuguese": "Mancand%oA%",
 	},
 	"traitDesc_Limping": {
 		"english": "Because of an accident, %firstName% has a bad leg and is limping. %cap-heShe% walks a little slower than other colonists",
 		"german": "Durch einen Unfall hat %firstName% ein verletztes Bein und hinkt. %cap-erSie% geht ein bisschen langsamer als andere Kolonisten",
 		"spanish": "Debido a un accidente, %firstName% tiene una pierna rota y cojea. %cap-élElla% camina un poco más lento que los demás colonos",
 		"french": "En raison d'un accident, %firstName% a une jambe défectueuse et boite. %cap-ilElle% marche un peu plus lentement que les autres colons",
+		"portuguese": "Por causa de um acidente, %firstName% tem uma perna ruim e está mancando. %cap-eleEla% anda um pouco mais devagar do que outros colonos",
 	},
 }

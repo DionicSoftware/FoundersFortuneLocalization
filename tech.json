@@ -22,6 +22,9 @@
 		"english": "Weaponry",
 		"german": "Waffenfertigung",
 		"french": "Armement",
+		"spanish": "Armamento",
+		"portuguese": "Armamento",
+		"turkish": "Silahlanma",
 	},
 	"tech_architectureI": {
 		"english": "Architecture I",
@@ -94,11 +97,15 @@
 		"english": "Stone Weapons",
 		"german": "Steinwaffen",
 		"french": "Armes en Pierre",
+		"spanish": "Armas de Piedra",
+		"turkish": "Taş silahlar",
 	},
 	"tech_stoneFurniture": {
 		"english": "Stone Furniture",
 		"german": "Steinmöbel",
 		"french": "Mobilier en Pierre",
+		"spanish": "Mobiliario de Piedra",
+		"turkish": "Taş mobilya",
 	},
 	"tech_decoration": {
 		"english": "Decoration",
@@ -108,10 +115,10 @@
 		"portuguese": "Decoração",
 		"turkish": "Dekorasyon",
 	},
-	"tech_irrigation": {
-		"english": "Irrigation",
+	"tech_watering": { // "irrigation" was too modern and too uncommon. "Watering" is more fitting for unlocking a well.
+		"english": "Watering",
 		"german": "Bewässerung",
-		"french": "Irrigation", 
+		"french": "Arrosage",
 		"spanish": "Riego",
 		"portuguese": "Irrigação",
 		"turkish": "Sulama",
@@ -119,7 +126,7 @@
 	"tech_medicine": {
 		"english": "Basic Medicine",
 		"german": "Einfache Medizin",
-		"french": "Médecine rudimentaire",
+		"french": "Médecine Rudimentaire",
 		"spanish": "Medicina básica",
 		"portuguese": "Medicina Básica",
 		"turkish": "Temel Tıp",
@@ -188,11 +195,17 @@
 		"english": "Weapon Forging",
 		"german": "Waffenschmieden",
 		"french": "Forgeage d'Armes",
+		"spanish": "Forja de Armas",
+		"portuguese": "Forjamento de Arma",
+		"turkish": "Silah döküm",
 	},
 	"tech_armorForging": {
 		"english": "Armor Forging",
 		"german": "Rüstungsschmieden",
 		"french": "Forgeage d'Armures",
+		"spanish": "Forja de Armaduras",
+		"portuguese": "Forjamento de Armadura",
+		"turkish": "Zırh döküm",
 	},
 	"tech_grainProcessing": {
 		"english": "Grain Processing",

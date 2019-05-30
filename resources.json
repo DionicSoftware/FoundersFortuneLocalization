@@ -195,7 +195,7 @@
 		"english": "Iron Ore",
 		"german": "Eisenerz",
 		"french": "Minerais de Fer", 
-		"spanish": "Mineral de hierro",
+		"spanish": "Mena de hierro",
 		"turkish": "Demir cevheri",
 		"portuguese": "Minério de ferro",
 	},
@@ -266,7 +266,7 @@
 	"resourceDescription_HealingPotion": {
 		"english": "When your colonists are wounded, it's best to give them healing potions to speed up the healing process.",
 		"german": "Wenn deine Kolonisten verletzt sind, solltest du ihnen Heiltränke verabreichen um die Heilung in Gang zu bringen.",
-		"spanish": "Cuando tus colonos se encuentran heridos, darles una poción de salud ayudará a acelerar el proceso.",
+		"spanish": "Cuando tus colonos se encuentren heridos, darles una poción de salud ayudará a acelerar el proceso de curación.",
 		"french": "Lorsque vos colons sont blessés, il est préférable de leur donner des potions de soin pour accélérer le processus de guérison.",
 		"turkish": "Yerleşimcileriniz yaralandığında, iyileşme sürecini hızlandırmak için onlara iyileştirici iksir vermek en iyisidir.",
 		"portuguese": "Quando seus colonos estão feridos, é melhor dar-lhes poções de cura para acelerar o processo de cura.",
@@ -338,12 +338,18 @@
 	"resourceName_Scroll": {
 		"english": "Scroll",
 		"german": "Schriftrolle",
-		"french": "Parchemin",
+		"french": "Parchemins",
+		"spanish": "Pergamino",
+		"portuguese": "Pergaminho",
+		"turkish": "Parşömen",
 	},
 	"resourceDescription_Scroll": {
 		"english": "Ancient secrets are written on these scrolls. Experienced scholars can discover technology by carefully studying their texts.",
 		"german": "Uralte Geheimnisse stehen auf diesen Schriftrollen. Erfahrene Gelehrte können durch sorgfältige Studien Technologien entdecken.",
 		"french": "Des anciennes légendes sont écrites sur ces parchemins. Les érudits expérimentés peuvent découvrir des technologies en étudiant ces textes.",
+		"spanish": "Antiguos secretos están escritos en estos pergaminos. Los eruditos experimentados pueden descubir tecnología al estudiar cuidadosamente estos textos.",
+		"portuguese": "Segredos antigos são escritos nesses pergaminhos. Estudiosos experientes podem descobrir tecnologias estudando cuidadosamente seus textos.",
+		"turkish": "Bu parşömenlerin üzerine eski sırlar yazılmıştır. Deneyimli alimler, metinleri dikkatlice inceleyerek teknoloji keşfedebilirler.",
 	},
 	"resourceName_Water": {
 		"english": "Water",
@@ -364,6 +370,9 @@
 	"resourceDescription_Coins": {
 		"english": "Money makes the world go round. Trade with other factions, pay your colonists, or use your coins to finance extravagant furniture.",
 		"german": "Geld regiert die Welt. Handle mit anderen Völkern, bezahle deine Kolinisten oder benutze deine Münzen um extravagante Möbel zu finanzieren.",
-		"french": "L'argent fait fonctionner le monde. Echanger avec d'autres clans, payer vos colons, ou utiliser vos pièces pour financer du mobilier extravagant.",
+		"french": "L'argent fait fonctionner le monde. Échangez avec d'autres factions, payez vos colons, ou utilisez vos pièces pour financer du mobilier extravagant.",
+		"spanish": "El dinero hace al mundo girar. Comercia con facciones, paga a tus colonos o usa tus monedas para financiar mobiliario extravagante.",
+		"portuguese": "Dinheiro faz o mundo girar. Negocie com outras facções, pague seus colonos ou use suas moedas para financiar móveis extravagantes.",
+		"turkish":  "Para dünyayı döndürür. Diğer gruplarla ticaret yapın, yerleşimcilerinize para ödeyin ya da abartılı mobilyaları finanse etmek için paranızı kullanın.",
 	},
 }

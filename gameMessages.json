@@ -50,7 +50,7 @@
 		"english": "Needs to be placed in a finished room!",
 		"german": "Muss in einem fertigen Raum platziert werden!",
 		"french": "A besoin d'être placé dans une pièce terminée !",
-		"spanish": "!Necesita ser colocado en una habitación terminada!",
+		"spanish": "¡Necesita ser colocado en una habitación terminada!",
 		"portuguese": "Precisa ser colocado em um quarto finalizado!",
 		"turkish": "Hazır bir odaya yerleştirilmesi gerekiyor!",
 		"bulgarian": "Необходимо е да се постави в завършена стая!",
@@ -77,7 +77,7 @@
 		"bulgarian": "Вече е %season%.",
 	},
 	"notificationTitle_ColonistTerribleMood": {
-		"english": "Hopelessness",
+		"english": "Desparation",
 		"german": "Hoffnungslosigkeit",
 		"french": "Désespoir",
 		"spanish": "Desesperación",
@@ -91,7 +91,7 @@
 		"french": "Dépression",
 		"spanish": "Depresión",
 		"portuguese": "Depressão",
-		"turkish": "Keder",
+		"turkish": "Keyifsizlik",
 		"bulgarian": "Нисък Дух",
 	},
 	"notificationTitle_Fight": {
@@ -143,7 +143,7 @@
 		"english": "Missing Food Storage",
 		"german": "Fehlendes Lager für Essen",
 		"french": "Stockage de Nourriture Manquant",
-		"spanish": "Falta de stock para la comida.",
+		"spanish": "Falta de stock para la comida",
 		"portuguese": "Armazenamento de alimentos perdidos",
 		"turkish": "Gıda Deposu Eksik",
 		"bulgarian": "Липсва Шкаф за Храна", 
@@ -179,7 +179,7 @@
 		"english": "Migrants are leaving",
 		"german": "Migranten reisen ab",
 		"french": "Les migrants partent",
-		"spanish": "Los migrantes se van",
+		"spanish": "Migrantes partiendo",
 		"portuguese": "Migrantes estão saindo",
 		"turkish": "Yerleşimciler ayrılıyor",
 		"bulgarian": "Мигрантите си отиват",
@@ -187,6 +187,11 @@
 	"notificationTitle_TraderIsLeaving": {
 		"english": "Trader is leaving",
 		"german": "Händler reist ab",
+		"spanish": "Comerciante partiendo",
+		"french": "Le commerçant part",
+		"turkish": "Tüccar ayrılıyor",
+		"portuguese": "O comerciante está saindo",
+		//TODO-bulgarian
 	},
 	"notificationTitle_SeasonChanged": {
 		"english": "It is now %season%",
@@ -210,25 +215,26 @@
 		"english": "Colonist has an allergic reaction",
 		"german": "Kolonist hat eine allergische Reaktion",
 		"french": "Le Colon a une réaction allergique",
-		"spanish": "Un colono tiene una reacción alérgica.",
+		"spanish": "Un colono tiene una reacción alérgica",
 		"portuguese": "Colono tem uma reação alérgica",
 		"turkish": "Yerleşimcide alerjik bir reaksiyon oluştu",
 		"bulgarian": "Колонистът получи алергична реакция",
 	},
-	"notificationTitle_BugInfestationOver": {
-		"english": "Bug infestation",
+	"notificationTitle_BugInfestationOver": { // means that the bug infestation is done, it's finished, it's no longer active
+		"english": "Bug infestation over",
 		"german": "Käferbefall vorbei",
-		"french": "Infestation d'insectes",
-		"spanish": "Infestación de insectos",
-		"portuguese": "Infestação de insetos",
-		"turkish": "Böcek istilası",
+		"french": "Infestation d'insectes terminée",
+		//TODO-bulgarian
+		"spanish": "Infestación de insectos terminada",
+		"portuguese": "Infestação de insetos acabou",
+		"turkish": "Böcek istilası sona erdi",
 		"bulgarian": "Зараза на насекоми",
 	},
 	"notificationTitle_NeedToBuildBonfire": {
 		"english": "Need a Bonfire to get Migrants",
 		"german": "Leuchtfeuer für Migranten benötigt",
 		"french": "Besoin d'un grand feu pour les migrants",
-		"spanish": "Almenara necesaria para los migrantes.",
+		"spanish": "Almenara necesaria para los migrantes",
 		"portuguese": "Precisa de uma fogueira para obter Migrantes",
 		"turkish": "Yeni yerleşimci çekmek için işaret ateşine ihtiyaç var",
 		"bulgarian": "Нуждаете се от Голям Огън на Открито, за да превлечете Мигранти",
@@ -283,24 +289,47 @@
 //		"german": "Kolonist findet sein Eigentum nicht mehr",
 //		"french": "Il manque des possessions à un colon",
 //		"spanish": "Un colono ha perdido sus posesiones",
-//		"portuguese": "Colono está faltando suas posses",
+//		"portuguese": "Colono está faltando %seusSuas% posses",
 //		"turkish": "Yerleşimci malını kaybetti",
 //	},
 	"notificationTitle_LegHurt": {
 		"english": "%firstName% hurt %hisHer% Leg",
 		"german": "%firstName% hat %seinIhr% Bein verletzt",
+		"french": "%firstName% s'est bléssé%e% à la jambe",
+		"spanish": "%firstName% se lastimó una pierna",
+		"turkish": "%firstName% bacağını incitti",
+		"portuguese": "%firstName% ferido %seusSuas% perna",
 	},
 	"notificationTitle_LegBroken": {
 		"english": "%firstName% broke %hisHer% Leg",
 		"german": "%firstName% hat %seinIhr% Bein gebrochen",
+		"french": "%firstName% a cassé sa jambe",
+		"spanish": "%firstName% se rompió una pierna",
+		"turkish": "%firstName% bacağını kırdı",
+		"portuguese": "%firstName% quebrou %seusSuas% perna",
 	},
 	"notificationTitle_ArmHurt": {
 		"english": "%firstName% hurt %hisHer% Arm",
 		"german": "%firstName% hat %seinenIhren% Arm verletzt",
+		"french": "%firstName% s'est bléssé%e% au bras",
+		"spanish": "%firstName% se lastimó un brazo",
+		"turkish": "%firstName% kolunu incitti",
+		"portuguese": "%firstName% ferido %seusSuas% braço",
 	},
 	"notificationTitle_ArmBroken": {
 		"english": "%firstName% broke %hisHer% Arm",
 		"german": "%firstName% hat %seinenIhren% Bein gebrochen",
+		"french": "%firstName% a cassé son bras",
+		"spanish": "%firstName% se rompió un brazo",
+		"turkish": "%firstName% kolunu kırdı",
+		"portuguese": "%firstName% quebrou %seusSuas% braço",
+	},
+	"notificationTitle_AutosaveComplete": {
+		"english": "Autosave complete",
+		"german": "Automatisch gespeichert",
+		"spanish": "Autoguardado completo",
+		"portuguese": "Salvamento automático completo",
+		
 	},
 
 	// FLOATING TEXTS
@@ -352,18 +381,34 @@
 	"legSplintSuccessful": {
 		"english": "Leg Splint\nSuccessful",
 		"german": "Beinschienen\nerfolgreich",
+		"spanish": "Entablado de pierna\nExitoso",
+		"french": "Attelle à la jambe\nSuccès",
+		"turkish": "Bacak destekleyici \nbşarılı",
+		"portuguese": "Tala de perna\nBem sucedida",
 	},
 	"legSplintFailed": {
 		"english": "Leg Splint\nFailed",
 		"german": "Beinschienen\nfehlgeschlagen",
+		"spanish": "Entablado de pierna\nFallido",
+		"french": "Attelle à la jambe\nÉchec",
+		"turkish": "Bacak destekleyici \nbşarısız",
+		"portuguese": "Tala de perna\nFalhou",
 	},
 	"armSplintSuccessful": {
 		"english": "Arm Splint\nSuccessful",
 		"german": "Armschienen\nerfolgreich",
+		"spanish": "Entablado de brazo\nExitoso",
+		"french": "Attelle au Bras\nSuccès",
+		"turkish": "Kol destekleyici \nbşarılı",
+		"portuguese": "Tala de braço\nBem sucedida",
 	},
 	"armSplintFailed": {
 		"english": "Arm Splint\nFailed",
 		"german": "Armschienen\nfehlgeschlagen",
+		"spanish": "Entablado de brazo\nFallido",
+		"french": "Attelle au Bras\nÉchec",
+		"turkish": "Kol destekleyici \nbşarısız",
+		"portuguese": "Tala de braço\nFalhou",
 	},
 
 
@@ -407,20 +452,27 @@
 	"messageTitle_TraderArrived": {
 		"english": "Trader arrived!",
 		"german": "Händler ist angekommen!",
+		//TODO-french
+		//TODO-spanish
+		//TODO-bulgarian
 		"french": "Des migrants sont arrivés !",
-		"spanish": "¡Llegaron migrantes!",
-		"portuguese": "Migrantes chegaram!",
-		"turkish": "Yeni yerleşimciler geldi!",
+		"spanish": "¡Llegó un comerciante!",
+		"portuguese": "Comerciante chegou!",
+		"turkish": "Tüccar geldi!",
 		"bulgarian": "Мигрант пристигна!",
 	},
 	"messageText_TraderArrived": {
 		"english": "A trader just made landfall on the coast. Send a colonist to haggle for some good deals!",
+		"french": "Un commerçant vient d'arriver sur la côte. Envoyez un colon pour négocier de bonnes affaires !",
+		"spanish": "Un comerciante ha arribado a la costa. ¡Manda a un colono a negociar algunos buenos tratos!",
+		"turkish": "Sahilde bir tüccar görüldü. Bir yerleşimci gönderip iyi bir pazarlık yaptır!",
+		"portuguese": "Um comerciante acabou de desembarcar na costa. Envie um colono para pechinchar por alguns bons negócios!",
 	},
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Tantrum!",
 		"german": "Aggressiver Wutanfall!",
 		"french": "Crise de Colère Agressive !",
-		"spanish": "Rabieta agresiva",
+		"spanish": "¡Rabieta agresiva!",
 		"portuguese": "Birra agressivo!",
 		"turkish": "Öfke nöbeti!",
 		"bulgarian": "Агресивен Гняв!",
@@ -428,14 +480,10 @@
 	"messageText_BreakdownAttackFriends": {
 		"english": "A colonist has been feeling horrible for a while now and just couldn't take it anymore. %cap-heShe% has gone crazy now and is beating up random people, friend or foe.",
 		"german": "Ein Kolonist fühlt sich schon seit einer Weile schrecklich und hält es einfach nicht mehr aus. Jetzt dreht %erSie% durch und schlägt sich mit Freund oder Feind.",
-		//TODO-french
-		//TODO-spanish
+		"french": "Un colon s'est senti vraiment mal pendant un moment et n'en peut plus. %cap-ilElle% est devenu%e% %fouFolle% et va frapper des gens, amis ou ennemis.",
 		//TODO-bulgarian
-		//TODO-portuges
-		//TODO-turkish
-		"french": "Un colon s'est senti vraiment mal pendant un moment. Il est devenu fou et va frapper des gens, amis ou ennemis.",
-		"spanish": "Un colono se ha estado sintiendo horrible por un tiempo y ya no podía soportarlo más. Ahora se ha vuelto loco y está golpeando a personas al azar, amigos o enemigos.",
-		"portuguese": "Um colono está se sentindo horrível há algum tempo e não aguentava mais. Ele ficou louco agora e está espancando pessoas aleatórias, amigos ou inimigos.",
+		"spanish": "Un colono se ha estado sintiendo horrible por un tiempo y ya no podía soportarlo más. %cap-élElla% se ha vuelto loc%oA% y está golpeando a personas al azar, amigos o enemigos.",
+		"portuguese": "Um colono está se sentindo horrível há algum tempo e não aguentava mais. %cap-eleEla% ficou louco agora e está espancando pessoas aleatórias, amig%oA%s ou inimig%oA%s.",
 		"turkish": "Yerleşimcilerden biri bir süredir kendini kötü hissediyordu, ve artık sinirlerini kontrol edemiyor. Delirdi ve dost düşman demeden insanlara saldırıyor.",
 		"bulgarian": "Колонистът се чувстваше ужасно за известно време и просто не можеше повече да го понася. Сега той е луд и бие случайни хора, приятел или враг.",
 	},
@@ -451,14 +499,10 @@
 	"messageText_BreakdownRefusingWork": {
 		"english": "A colonist has worked too much under terrible conditions. %cap-heShe% has decided %heShe% just doesn't care anymore and is going to relax for a while.",
 		"german": "Ein Kolonist hat zu lange unter entsetzlichen Bedingungen gearbeitet. Jetzt reicht es %ihmIhr% und %erSie% hat entschieden mit der Arbeit aufzuhören und sich erst mal zu entspannen",
-		//TODO-french
-		//TODO-spanish
+		"french": "Un colon a trop travaillé dans des conditions épouvantables. %cap-ilElle% a décidé qu'%ilElle% n'avait pas pris assez soin %deluiD'elle% et %ilElle% va se relaxer un peu.",
 		//TODO-bulgarian
-		//TODO-portuges
-		//TODO-turkish
-		"french": "Un colon a trop travaillé dans des conditions épouvantables. Il a décidé qu'il n'avait pas pris assez soin de lui et il va se relaxer un peu.",
-		"spanish": "Un colono ha trabajado demasiado bajo condiciones terribles. Él ha decidido que ya no le importa más y se va a relajar por un tiempo.",
-		"portuguese": "Um colono trabalhou muito sob condições terríveis. Ele decidiu que ele simplesmente não se importa mais e vai relaxar por um tempo.",
+		"spanish": "Un colono ha trabajado demasiado bajo condiciones terribles. %cap-élElla% ha decidido que ya no le importa más y se va a relajar por un tiempo.",
+		"portuguese": "Um colono trabalhou muito sob condições terríveis. %cap-eleEla% decidiu que %eleEla% simplesmente não se importa mais e vai relaxar por um tempo.",
 		"turkish": "Yerleşimcilerden biri zor koşullar altında çok fazla çalıştı. Artık umursamayacağına ve bir süre dinleneceğine karar verdi.",
 		"bulgarian": "Колонистът е работил твърде много при ужасни условия. Реши, че вече не го интересува и ще се отпусне за известно време.",
 	},
@@ -474,14 +518,10 @@
 	"messageText_BreakdownDestroyFurniture": {
 		"english": "Life hasn't been the greatest for %firstName%. Now %heShe% has turned to vandalism to blow off some steam.",
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Jetzt randaliert %erSie% um sich abzuregen.",
-		//TODO-french
-		//TODO-spanish
+		"french": "La vie n'a pas été la meilleure pour %firstName%. %cap-ilElle% s'est tourné%e% vers le vandalisme.",
 		//TODO-bulgarian
-		//TODO-portuges
-		//TODO-turkish
-		"french": "La vie n'a pas été la meilleure pour %firstName%. Il s'est tourné vers le vandalisme.",
-		"spanish": "La vida no ha sido la mejor para %firstName%. Ahora ha recurrido al vandalismo para desahogarse.",
-		"portuguese": "A vida não foi a melhor para %firstName%. Agora ele se voltou para o vandalismo para desabafar.",
+		"spanish": "La vida no ha sido la mejor para %firstName%. Ahora %élElla% ha recurrido al vandalismo para desahogarse.",
+		"portuguese": "A vida não foi a melhor para %firstName%. Agora %eleEla% se voltou para o vandalismo para desabafar.",
 		"turkish": "Hayat %firstName% için bir süredir çok iyi değildi. Sinirlerini yatıştırmak için vandalizme başladı.",
 		"bulgarian": "Животът не е бил най-добрият за %firstName%. Сега той се обърна към вандализъм, за да издуха парата.",
 	},
@@ -489,7 +529,7 @@
 		"english": "Lazy Day",
 		"german": "Fauler Tag",
 		"french": "Jour Tranquille",
-		"spanish": "Día tranquilo",
+		"spanish": "Día perezoso",
 		"portuguese": "Dia de preguiça",
 		"turkish": "Tembel gün",
 		"bulgarian": "Мързелив Ден",
@@ -497,22 +537,18 @@
 	"messageText_BreakdownLazyDay": {
 		"english": "Life hasn't been the greatest for %firstName%. Today %heShe% is taking it easy and will be taking a lot of long breaks.",
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Heute geht %erSie% es gemütlich an und macht viele lange Pausen.",
-		//TODO-french
-		//TODO-spanish
+		"french": "La vie n'a pas été la meilleure pour %firstName%. Aujourd'hui c'est plus simple et %ilElle% prendra de longues pauses.",
 		//TODO-bulgarian
-		//TODO-portuges
-		//TODO-turkish
-		"french": "La vie n'a pas été la meilleure pour %firstName%. Aujourd'hui c'est plus simple et il prendra de longues pauses.",
-		"spanish": "La vida no ha sido la mejor para %firstName%. Hoy se lo está tomando con calma y tomará muchos descansos largos.",
-		"portuguese": "A vida não foi a melhor para %firstName%. Hoje ele está se acalmando e fará muitas pausas longas.",
-		"turkish": "Hayat %firstName% için bir süredir çok iyi değildi. Bugünü işleri hafiften alacak ve bol bol molaya çıkacak.",
+		"spanish": "La vida no ha sido la mejor para %firstName%. Hoy %élElla% se lo está tomando con calma y tomará muchos descansos largos.",
+		"portuguese": "A vida não foi a melhor para %firstName%. Hoje %eleEla% está se acalmando e fará muitas pausas longas.",
+		"turkish": "Hayat %firstName% için bir süredir çok iyi değildi. Bugün işleri hafiften alacak ve bol bol molaya çıkacak.",
 		"bulgarian": "Животът не е бил най-добър за %firstName%. Днес той се успокоява и ще взима много дълги почивки.",
 	},
 	"messageTitle_BugInfestation": {
 		"english": "Bug Infestation!",
 		"german": "Käferbefall!",
 		"french": "Infestation d'Insectes !",
-		"spanish": "¡Infestación de insectos!.",
+		"spanish": "¡Infestación de insectos!",
 		"portuguese": "Infestação de insetos!",
 		"turkish": "Böcek istilası",
 		"bulgarian": "Нашествие на насекоми",
@@ -556,14 +592,10 @@
 	"messageText_TutorialHealing": {
 		"english": "A colonist is wounded! Make sure they gets enough sleep to rest their body. An experienced doctor can create more advanced remedies at the potion lab.",
 		"german": "Ein Kolonist ist verletzt! Stelle sicher, dass er genug Schlaf bekommt, um seinen Körper auszuruhen. Ein erfahrener Arzt kann fortgeschrittene Heilmittel am Alchemielabor herstellen.",
-		//TODO-french
-		//TODO-spanish
-		//TODO-portuges
-		//TODO-turkish
+		"french": "Un colon s'est blessé ! Assurez-vous qu'%ilElle% dorme assez pour se rétablir. Un docteur expérimenté peut créer des remèdes améliorés au laboratoire de potion.",
 		//TODO-bulgarian
-		"french": "Un colon s'est blessé ! Assurez-vous qu'il dorme assez pour se rétablir. Un docteur expérimenté peut créer des remèdes améliorés au laboratoire de potion.",
 		"spanish": "¡Un colono está herido! Asegúrate de que duerma lo suficiente para descansar su cuerpo. Un médico experimentado puede crear remedios más avanzados en el laboratorio de pociones.",
-		"portuguese": "Um colono está ferido! Certifique-se de que ele durma o suficiente para descansar seu corpo. Um médico experiente pode criar remédios mais avançados no laboratório de poções.",
+		"portuguese": "Um colono está ferido! Certifique-se de que %eleEla% durma o suficiente para descansar seu corpo. Um médico experiente pode criar remédios mais avançados no laboratório de poções.",
 		"turkish": "Yerleşimcilerden biri yaralandı! Vücudunu dinlendirmek için yeterince uyuduğundan emin olun. Deneyimli bir doktor iksir laboratuarında daha gelişmiş ilaçlar yaratabilir.",
 		"bulgarian": "Колонист е ранен! Уверете се, че той получава достатъчно сън, за да си почине тялото му. Опитният лекар може да създаде по-напреднали лекарства в лабораторията за отвари.",
 	},
@@ -580,7 +612,7 @@
 		"english": "In order to advance your colony, you need to gather research. You can do that by mining crystals and analyzing them on the research book stand. The science panel is at the top right!",
 		"german": "Um deine Kolonie vorwärts zu bringen, musst du Forschung betreiben. Das funktioniert, indem du Kristalle abbaust und sie mithilfe des Bücherständers untersuchen lässt.  Die Wisschenschaftsanzeige ist oben rechts!",
 		"french": "Pour faire avancer votre colonie, vous devrez faire des recherches. Vous pourrez le faire en minant des cristaux et en les analysant sur le support de livre de recherche. Le panneau science est en haut à droite !",
-		"spanish": "Para poder avanzar en tu colonia, necesitas reunir información. Puedes hacerlo minando cristales y analizándolos en el estante de investigación. El panel de ciencias está en la parte superior derecha.",
+		"spanish": "Para poder avanzar en tu colonia, necesitas reunir información. Puedes hacerlo minando cristales y analizándolos en el estante de investigación. ¡El panel de ciencias está en la parte superior derecha!",
 		"portuguese": "Para avançar sua colônia, você precisa reunir pesquisas. Você pode fazer isso minerando cristais e analisando-os na bancada de pesquisa. O painel de ciência está no canto superior direito!",
 		"turkish": "Koloninizi ilerletmek için araştırma yapmanız gerekir. Bunu kristal toplayarak ve araştırma standında analiz ederek yapabilirsiniz. Bilim paneli sağ üsttedir!",
 		"bulgarian": "За да напреднете колонията си, трябва да отключвате изследвания. Можете да го направите, като копаете кристали и ги анализирате на масата на изследователската книга. Научният панел е горе вдясно!",
@@ -598,9 +630,9 @@
 		"english": "If you want your colony to grow, you'll need to accept new people. Build a bonfire in order to attract migrants. Bonfires are unlocked via research.",
 		"german": "Wenn du willst, dass deine Kolonie wächst, musst du neue Kolonisten aufnehmen. Baue ein Leuchtfeuer, um Migranten willkommen zu heißen. Leuchtfeuer werden durch Forschung freigeschalten.",
 		"french": "Si vous voulez que vos colonie grandisse, vous devrez accepter de nouvelles personnes. Construisez un grand feu pour attirer les migrants. Les grands feux sont déverouillés via la recherche.",
-		"spanish": "Si quieres que tu colonia crezca, deberás aceptar nuevas personas. Construye una hoguera para atraer migrantes. Las hogueras se desbloquean a través de la investigación.",
+		"spanish": "Si quieres que tu colonia crezca, deberás aceptar nuevas personas. Construye una almenara para atraer migrantes. Las almenaras se desbloquean a través de la investigación.",
 		"portuguese": "Se você quer que sua colônia cresça, você precisa aceitar novas pessoas. Construa uma fogueira para atrair migrantes. Fogueiras são desbloqueadas via pesquisa.",
-		"turkish": "Koloninin büyümesini istiyorsan, yeni insanları kabul etmen gerekecek. Göçmenleri çekmek için bir işaret ateşi inşa et. İşaret ateşi araştırmalarla açılır.",
+		"turkish": "Yerleşimin büyümesini istiyorsan, yeni insanları kabul etmen gerekecek. Göçmenleri çekmek için bir işaret ateşi inşa et. İşaret ateşi araştırmalarla açılır.",
 		"bulgarian": "Ако искате вашата колония да расте, ще трябва да приемете нови хора. Изградете голям огън, за да привлечете мигранти.",
 	},
 	"messageTitle_TutorialCameraRotation": {
@@ -625,7 +657,7 @@
 		"english": "How to build walls and floors",
 		"german": "Wie man Wände und Böden baut",
 		"french": "Comment construire des murs et des sols",
-		"spanish": "Cómo construir paredes y pisos.",
+		"spanish": "Cómo construir paredes y pisos",
 		"portuguese": "Como construir paredes e pisos",
 		"turkish": "Duvar ve döşeme nasıl yapılır",
 		"bulgarian": "Как да строите стени и подове",
@@ -634,7 +666,7 @@
 		"english": "In the bottom left corner is a menu to select walls and floors to build. You then need to drag the cursor over the terrain. (right click & drag cursors to delete)",
 		"german": "In der Ecke unten links ist ein Menü, wo du Wände und Böden auswählen kannst. Wenn du etwas ausgewählt hast, kannst du die Maus über das Terrain ziehen, um es zu platzieren.",
 		"french": "Dans le coin inférieur gauche, ce menu permet de construire des murs et des sols. Vous devrez faire glisser le curseur sur le terrain.",
-		"spanish": "En la esquina inferior izquierda hay un menú para seleccionar paredes y pisos para construir. A continuación, debes arrastrar el cursor sobre el terreno.",
+		"spanish": "En la esquina inferior izquierda hay un menú para seleccionar paredes y pisos para construir. A continuación, debes arrastrar el cursor sobre el terreno.(arrastra con click derecho para borrar)",
 		"portuguese": "No canto inferior esquerdo é um menu para selecionar paredes e pisos para construir. Você precisa então arrastar o cursor sobre o terreno. (clique com o botão direito & arraste cursores para excluir)",
 		"turkish": "Sol alt köşede, inşa edilecek duvarları ve döşemeleri seçmek için bir menü var. Ardından imleci arazinin üzerine sürüklemeniz gerekir. (Silmek için sağ tık & imleçleri sürükleyin)",
 		"bulgarian": "В долния ляв ъгъл има меню за избор на стени и подове за изграждане. След това трябва да плъзнете курсора върху терена. (щракнете с десния бутон и преместете курсорите за изтриване)",
@@ -652,7 +684,7 @@
 		"english": "Give jobs to your colonists to automate some tasks. For example, a farmer will tend to the fields.",
 		"german": "Gib deinen Kolonisten Berufe um einige Aufgaben zu automatisieren. Zum Beispiel wird sich ein Bauer um die Felder kümmern.",
 		"french": "Donnez des métiers à vos colons pour automatiser les tâches. Par exemple, un fermier s'occupera des champs.",
-		"spanish": "Da trabajos a sus colonos para automatizar algunas tareas. Por ejemplo, un agricultor se ocupará de los campos.",
+		"spanish": "Da trabajos a tus colonos para automatizar algunas tareas. Por ejemplo, un agricultor se ocupará de los campos.",
 		"portuguese": "Dê emprego aos seus colonos para automatizar algumas tarefas. Por exemplo, um agricultor cuidará dos campos.",
 		"turkish": "Bazı işleri otomatikleştirmek için yerleşimcilerinize iş verin. Örneğin, bir çiftçi tarlalara yönelecektir.",
 		"bulgarian": "Дайте работа на вашите колонисти, за да автоматизирате някои задачи. Например фермерът ще се стреми към полетата.",
@@ -706,7 +738,7 @@
 		"english": "Open the help menu with the button in the top right corner if you need more information.",
 		"german": "Öffne das Hilfemnü mit dem Button in der Ecke oben rechts, wenn du mehr Informationen benötigst.",
 		"french": "Ouvrez le menu d'aide dans le coin supérieur droit si vous avez besoin de plus d'information.",
-		"spanish": "Abre el menú de ayuda con el botón en la esquina superior derecha si necesitas más información",
+		"spanish": "Abre el menú de ayuda con el botón en la esquina superior derecha si necesitas más información.",
 		"portuguese": "Abra o menu de ajuda com o botão no canto superior direito, se precisar de mais informações.",
 		"turkish": "Daha fazla bilgiye ihtiyacınız olursa, yardım menüsünü sağ üst köşedeki düğmeyle açın.",
 		"bulgarian": "Отворете менюто за помощното меню с бутона в горния десен ъгъл, ако се нуждаете от повече информация.",
@@ -733,7 +765,7 @@
 		"english": "Check out the forum!",
 		"german": "Schau dir das Forum an!",
 		"french": "Consultez le forum !",
-		"spanish": "!Echa un vistazo al foro!",
+		"spanish": "¡Echa un vistazo al foro!",
 		"portuguese": "Confira o fórum!",
 		"turkish": "Foruma bir göz at!",
 		"bulgarian": "Вижте форума!",
@@ -750,10 +782,24 @@
 	"messageTitle_LimpingBecauseOfBadSplintTreatment": {
 		"english": "Treatment messed up\n%firstName% now disabled",
 		"german": "Behandlung schief gelaufen\n%firstName% jetzt behindert",
+		"spanish": "El tratamiento salió mal\n%firstName% ahora discapacitado",
+		"french": "Traitement raté\n%firstName% est maintenant invalide",
+		"turkish": "Tedavi başarısız oldu\n%firstName% sakat kaldı",
 	},
 	"messageText_LimpingBecauseOfBadSplintTreatment": {
 		"english": "It's a begginer's mistake, but can also happen to experienced doctors: Someone messed up the splints to cure %firstName%'s broken leg. It's no longer broken, but now %heShe%'s limping permanently and can't walk as fast as %heShe% used to.",
-		"german": "Es ist ein Anfängerfehler, kann aber auch einem erfahrenen Arzt passieren: Jemand hat Mist gebaut und die Schienen für das gebrochene Bein von %firstName% falsch befestigt. Jetzt ist das Bein zwar nicht mehr gebrochen, aber %erSie% hinkt jetzt beim gehen und ist nicht mehr so schnell wie früher."
+		"german": "Es ist ein Anfängerfehler, kann aber auch einem erfahrenen Arzt passieren: Jemand hat Mist gebaut und die Schienen für das gebrochene Bein von %firstName% falsch befestigt. Jetzt ist das Bein zwar nicht mehr gebrochen, aber %erSie% hinkt jetzt beim gehen und ist nicht mehr so schnell wie früher.",
+		"spanish": "Es un error de principiante, pero también le pasa a doctores experimentados: Alguien intentó entablar la pierna de %firstName% pero no lo logró. Ya no está rota, pero ahora %élElla% cojea permanentemente y no puede caminar tan rápido como antes.",
+		"french": "C'est une erreur de débutant, mais cela pourrait arriver également aux médecins: Quelqu'un a raté la pose de l'attelle pour soigner la jambe cassée de %firstName%. Ce n'est pas complètement cassé, mais %ilElle% boîtera pour toujours et ne pourra pas marcher aussi vite qu' %ilElle% voudrait.", 
+		"turkish": "Acemilik hatası, ama aynı zamanda deneyimli doktorların başına da gelebilir: Birisi %firstName%'in kırılmış bacağını tedavi etmek için hazırlanan destekleri yanlış hazırladı ve kırık düzelmesine rağmen yanlış kaynadı ve kalıcı sakatlığa sebep oldu, %firstName% eskisi kadar hızlı yürümeyecektir.",
+	},
+	"messageTitle_SupportDevelopment": {
+		"english": "Support the Development of Founders' Fortune!",
+		"german": "Unterstütze die Entwicklung von Founders' Fortune!",
+	},
+	"messageText_SupportDevelopment": {
+		"english": "You've been playing this colony for %hours% hours and it seems like you're enjoying the free version of Founders' Fortune! Consider checking out the store and supporting us!",
+		"german": "Du spielst diese Kolonie schon seit %hours% Stunden und es scheint als würde dir die kostenlose Version von Founders' Fortune gefallen! Schau dir mal unseren Store an, dort kannst du die Entwicklung unterstützen!",
 	},
 
 	

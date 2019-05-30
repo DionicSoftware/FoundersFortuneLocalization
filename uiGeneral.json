@@ -46,6 +46,14 @@
 		"portuguese": "Sair",
 		"dutch": "Beëindiggen",
 	},
+	"supportDevelopment": {
+		"english": "Support Development",
+		"german": "Unterstütze die Entwicklung",
+		"spanish": "Apoyar el Desarrollo",
+		"portuguese": "apoio ao Desenvolvimento",
+		"french": "Soutenir le développement",
+		"turkish": "Geliştiricileri destekle",
+	},
 	"updateAvailable": {
 		"english": "Update Available!",
 		"german": "Update verfügbar!",
@@ -91,15 +99,6 @@
 		"portuguese": "Em construção!",
 		"dutch": "In Opbouw",
 	},
-	"saveSlot": {
-		"english": "Slot",
-		"german": "Speicherstand",
-		"french": "Emplacement",
-		"spanish": "Ubicación",
-		"turkish": "Yuva",
-		"portuguese": "Slot",
-		"dutch": "Slot",
-	},
 	"mainMenu": {
 		"english": "Main Menu",
 		"german": "Hauptmenü",
@@ -118,6 +117,90 @@
 		"portuguese": "Submeter comentários",
 		"dutch": "Geef Feedback",
 	},
+
+
+	// SAVE MENU
+	"loadSave": { // needs to be short
+		"english": "Load",
+		"german": "Laden",
+		"spanish": "Cargar",
+		"french": "Charger",
+		"portuguese": "Carga",
+		"turkish": "Yükle",
+	},
+	"overwriteSave": { // needs to be short
+		"english": "Overwrite",
+		"german": "Überschreiben",
+		"spanish": "Sobrescribir",
+		"french": "Ecraser",
+		"portuguese": "Sobrescrever",
+		"turkish": "Üzerine yaz",
+	},
+	"newSave": {
+		"english": "New Save",
+		"german": "Neuer Speicherstand",
+		"spanish": "Nuevo Guardado",
+		"french": "Nouvelle Sauvegarde",
+		"portuguese": "Novo Salvar",
+		"turkish": "Yeni kayıt",
+	},
+	"savegameName": { // background when player enters an empty save game name
+		"english": "Savegame Name",
+		"german": "Name für Speicherstand",
+		"spanish": "Nombre de la Partida Guardada",
+		"french": "Nom de la partie sauvegardée",
+		"portuguese": "Nome do Savegame",
+		"turkish": "Kayıt adı",
+	},
+	"mostAwesomeColony": { // default name for new colony
+		"english": "Most Awesome Colony",
+		"german": "Beste Kolonie der Welt",
+		"spanish": "La Colonia más impresionante",
+		"french": "La Colonie la plus impressionnante",
+		"portuguese": "Colônia mais impressionante",
+		"turkish": "En Harika Yerleşim",
+	},
+	"invalidFileNameCharacters": {
+		"english": "Forbidden characters in file name",
+		"german": "Unzulässige Buchstaben im Dateinamen",
+		"spanish": "Caracteres no permitidos en el nombre",
+		"french": "Personnages interdits dans le nom du fichier",
+		"portuguese": "Caracteres proibidos no nome do arquivo",
+		"turkish": "Dosya adında geçersiz karakter",
+	},
+	"fileNameTooLong": {
+		"english": "File name too long",
+		"german": "Dateiname zu lang",
+		"spanish": "Nombre demasiado largo",
+		"french": "Nom de Fichier trop long",
+		"portuguese": "Nome do arquivo muito longo",
+		"turkish": "Dosya adı çok uzun",
+	},
+	"fileNameTooShort": {
+		"english": "File name too short",
+		"german": "Dateiname zu kurz",
+		"spanish": "Nombre demasiado corto",
+		"french": "Nom du Fichier trop court",
+		"portuguese": "Nome do arquivo muito curto",
+		"turkish": "Dosya adı çok kısa",
+	},
+	"fileNameAlreadyUsed": {
+		"english": "File name already used",
+		"german": "Dateiname schon verwendet",
+		"spanish": "Ya hay un archivo con ese nombre",
+		"french": "Nom du Fichier déjà utilisé",
+		"portuguese": "Nome do arquivo já usado",
+		"turkish": "Dosya adı mevcut",
+	},
+	"modsMayBeIncompatible": {
+		"english": "Mods may be incompatible!\nMods in save:",
+		"german": "Mods könnten inkompatibel sein!\nMods im Speicherstand:",
+		"spanish": "¡Los Mods pueden ser incompatibles!\nMods en guardado:",
+		"french": "Les Mods sont incompatibles!\nMods dans la sauvegarde:",
+		"portuguese": "Mods podem ser incompatíveis!\nMods em salvar:",
+		"turkish": "Modlar uyumsuz olabilir!\nKayıtta olan modlar:",
+	},
+
 
 	// FEEDBACK
 	"feedbackDescription": {
@@ -179,7 +262,7 @@
 		"english": "Enter Feedback...",
 		"german": "Feedback eingeben...",
 		"french": "Indiquer le Feedback...",
-		"spanish": "Ingresar Feedback",
+		"spanish": "Ingresar Feedback...",
 		"turkish": "Geribildiriminizi girin ...",
 		"portuguese": "Insira o comentários...",
 		"dutch": "Feedback Invoegen...",
@@ -233,7 +316,7 @@
 	"feedbackSystemBug": {
 		"english": "There seems to be a bug in the feedback system.\nPlease try again later or let us know via contact@foundersfortune.com",
 		"german": "Anscheinend gibt es einen Fehler im Feedbacksystem.\nBitte versuche es später nochmal oder sag uns Bescheid über contact@foundersfortune.com",
-		"french": "Il semble y avoir un bug dans le système de retour.\nMerci de réessayer plus tard ou faites le nous savoir via contact@foundersfortune.com",
+		"french": "Il semble y avoir un bug dans le système de feedback.\nMerci de réessayer plus tard ou faites le nous savoir via contact@foundersfortune.com",
 		"spanish": "Parece que hay un error en el sistema de comentarios. \nPor favor, inténtelo de nuevo más tarde o comuníquenoslo a través de contact@foundersfortune.com",
 		"turkish": "Geri bildirim sisteminde bir hata var gibi görünüyor. \nLütfen daha sonra tekrar deneyin veya bize contact@foundersfortune.com adresinden bildirin",
 		"portuguese": "Parece haver um erro no sistema de feedback.\nPor favor, tente novamente mais tarde ou nos avise via: contact@foundersfortune.com",
@@ -242,7 +325,7 @@
 	"feedbackConnectionIssue": {
 		"english": "There seems to be a connection issue\nCould you please check your internet connection?",
 		"german": "Anscheinend gibt es ein Verbindungsproblem.\nKönntest du bitte deine Internetverbindung überprüfen?",
-		"french": "Il semble y avoir un problème de connexion\nPourriez-vous vérifier votre connexion internet?",
+		"french": "Il semble y avoir un problème de connexion\nPourriez-vous vérifier votre connexion Internet ?",
 		"spanish": "Parece que hay un problema de conexión \n¿Podría verificar su conexión a Internet?",
 		"turkish": "Bir bağlantı sorunu var gibi görünüyor \nLütfen internet bağlantınızı kontrol edebilir misiniz?",
 		"portuguese": "Parece haver um problema de conexão\nPor favor, verifique sua conexão com a internet?",
@@ -300,7 +383,7 @@
 		"english": "Medium",
 		"german": "Mittel",
 		"french": "Moyen",
-		"spanish": "Medio",
+		"spanish": "Media",
 		"turkish": "Orta",
 		"portuguese": "Média",
 		"dutch": "Middel",
@@ -425,7 +508,7 @@
 	"other": {
 		"english": "Other",
 		"german": "Sonstiges",
-		"french": "Autre",
+		"french": "Autres",
 		"spanish": "Otros",
 		"turkish": "Diğer",
 		"portuguese": "Outros",
@@ -478,11 +561,16 @@
 	},
 	"portuguese": {
 		//TODO-portuguese
-		"english": "???",
+		"english": "Portuguese",
+		"portuguese": "Portuges",
+		"french": "Portugais",
+		"turkish": "Portuguese",
 	},
 	"turkish": {
-		//TODO-turkish
-		"english": "???"
+		"english": "Turkish",
+		"portuguese": "Turco",
+		"french": "Turque",
+		"turkish": "Türkçe",
 	},
 	"dutch": { 
 		"english": "Nederlands",
@@ -656,7 +744,7 @@
 		"english": "2x Speed",
 		"german": "Doppelte Geschwindigkeit",
 		"french": "Vitesse x2",
-		"spanish": "x2 Velocidad",
+		"spanish": "Velocidad x2",
 		"turkish": "2 kat hız",
 		"portuguese": "Velocidade 2x",
 		"dutch": "2x Snelheid",
@@ -665,7 +753,7 @@
 		"english": "4x Speed",
 		"german": "Vierfache Geschwindigkeit",
 		"french": "Vitesse x4",
-		"spanish": "x4 Velocidad",
+		"spanish": "Velocidad x4",
 		"turkish": "4 kat hız",
 		"portuguese": "Velocidade 4x",
 		"dutch": "4x Snelheid",
@@ -912,7 +1000,7 @@
 		"english": "Tikigoblins Killed",
 		"german": "Tikigoblins getötet",
 		"french": "Tikigoblins Tués",
-		"spanish": "Duendes tiki muertos",
+		"spanish": "Tikigoblins asesinados",
 		"turkish": "Tikigoblinler öldürüldü",
 		"portuguese": "Tikigoblins matados",
 		"dutch": "Tikigoblins Vermoord",
@@ -987,7 +1075,7 @@
 		"english": "A more relaxing experience if you prefer creative base building over combat and survival.\nYour colonists take only half damage from all kinds of injuries.\nThe colony starts with 100 meals, colonists need less food, and can survive on smaller food rations.\nWatered plants yield higher harvests.\nYour colonists will still die if you don't take care of them!",
 		"german": "Ein entspannteres Spiel falls du kreatives Bauen gegenüber Überlebenskämpfen vorziehst.\nDeine Kolonisten bekommen nur halb so viel Schaden bei allen Arten von Verletzungen.\nDie Kolonie startet mit 100 Mahlzeiten, Kolonisten benötigen weniger Essen und überleben kleinere Essensrationen.\nBewässerte Pflanzen geben höhere Erträge.\nDeine Kolonisten werden immer noch sterben, wenn du dich nicht um sie kümmerst!",
 		"french": "Une expérience plus relaxante si vous préférez construire des bases créatives plutôt que le combat et la survie. Vos colons prendront que la moitié des dégâts en cas de blessures.\nLa colonie démarre avec 100 repas, les colons ont besoin de moins de nourriture et peuvent survivre avec de faibles rations alimentaires.\nLes plantes arrosées produisent des récoltes + élevées. Vos colons pourront toujours mourir!",
-		"spanish": "Una experiencia más relajante si prefiere la creación de una base a su gusto, sobre el combate y la supervivencia.\nLos colonos solo reciben la mitad de daño de todo tipo de lesiones.\nLa colonia comienza con 100 de comida, los colonos necesitan menos comida y pueden sobrevivir con raciones de alimentos más pequeñas.\nLas plantas cultivadas rinden más cosechas.\n¡Tus colonos seguirán muriendo si no los cuidas!",
+		"spanish": "Una experiencia más relajante si prefieres la creación de una base a tu gusto, sobre el combate y la supervivencia.\nLos colonos solo reciben la mitad de daño de todo tipo de lesiones.\nLa colonia comienza con 100 de comida, los colonos necesitan menos comida y pueden sobrevivir con raciones de alimentos más pequeñas.\nLas plantas cultivadas rinden más cosechas.\n¡Tus colonos seguirán muriendo si no los cuidas!",
 		"turkish": "Savaş ve hayatta kalma zorlukları yerine sakin ve yaratıcı bir üs kurma imkanı.\nKolonicileriniz her türlü yaralanmadan ili kat daha az zarar görür.\nKoloni 100 yemekle başlar, kolonicileriniz daha az yemeğe ihtiyaç duyar, ve daha az yemekle hayatta kalabilir.\nSulanan bitkiler daha fazla hasat verir.\nAncak yine de onlarla ilgilenmezseniz kolonicileriniz ölebilir!",
 		"portuguese": "Uma experiência mais relaxante se você preferir construir base criativa em combate e sobrevivência.\nOs colonos sofrem apenas metade do dano causado por todos os tipos de ferimentos.\nA colônia começa com 100 refeições, colonos precisam de menos comida e podem sobreviver com rações menores./nPlantas plantadas produzem colheitas mais altas.\nOs colonos ainda morrerão se você não cuidar deles!",
 		"dutch": "Een meer ontspannende ervaring als je van creatieve Basis Bouwen houdt over vechten en Overleving.\nJouw kolonisten nemen alleen maar de helft van de schade van elke soort verwonding.\nDe kolonie begint met 100 maaltijden, Kolonisten hebben minder eten nodig, en ze kunnen overleven met kleinere voedselrantoenen.\nGewaterde planten maken grotere oogsten.\nJouw kolonisten gaan nogsteeds dood als je niet voor ze zorgt!",
@@ -1004,8 +1092,8 @@
 	"difficulty_1_Desc": {
 		"english": "The typical Founders' Fortune experience, mixing base building with survival.\nThe colony starts with 40 meals.\nSometimes colonists may die even though you try your best.",
 		"german": "Die typische Founders' Fortune Mischung aus kreativem Bauen und Überlebenskampf.\nDie Kolonie startet mit 40 Mahlzeiten.\nManchmal könnten Kolonisten sterben, auch wenn du dein Bestes gibst.",
-		"french": "L'expérience classique de Founder's Fortune, un mix entre la construction de bâtiments et la survie.\nLa colonie démarre avec 40 repas.\nParfois les colons pourront mourrir même si vous faites de votre mieux.",
-		"spanish": "La experiencia típica de Founders' Fortune combina la construcción de bases con la supervivencia. La colonia comienza con 40 de comida. A veces, los colonos pueden morir, incluso si haces tu mejor esfuerzo ",
+		"french": "L'expérience classique de Founders' Fortune, un mix entre la construction de bâtiments et la survie.\nLa colonie démarre avec 40 repas.\nParfois les colons pourront mourrir même si vous faites de votre mieux.",
+		"spanish": "La experiencia típica de Founders' Fortune, combinando la construcción de bases con la supervivencia. La colonia comienza con 40 de comida. A veces, los colonos pueden morir, incluso si haces tu mejor esfuerzo ",
 		"turkish": "Tipik Founders' Fortune deneyimi, üs kurmayla hayatta kalma karışımı.\nKoloni 40 yemekle başlar.\nElinizden geleni yapmanıza rağmen kolonicileriniz ölebilir.",
 		"portuguese": "A experiência típica dos Founder's Fortune, misturando a base com a sobrevivência.\nA colônia começa com 40 refeições.\nAlgumas vezes os colonos podem morrer mesmo que você tente o seu melhor.",
 		"dutch": "De gewoonlijke Founders' Fortune ervaring, Basis bouwen gemixed met overleven.\nDe kolonie begint met 40 maaltijden.\nSoms kunnen Kolonisten dood gaan ookal doe je je best.",
@@ -1058,6 +1146,9 @@
 	"select": {
 		"english": "Select",
 		"german": "Auswählen",
-		"french": "Sélectionner"
+		"french": "Sélectionner",
+		"spanish": "Seleccionar",
+		"portuguese": "Selecione",
+		"turkish": "Seç",
 	}
 }

@@ -17,6 +17,7 @@
 	},
 	"german": {
 		"male": {
+			"derDie": "der",
 			"erSie": "er",
 			"seinIhr": "sein",
 			"seineIhre": "seine",
@@ -29,6 +30,7 @@
 			"freundFreundin": "Freund"
 		},
 		"female": {
+			"derDie": "die",
 			"erSie": "sie",
 			"seinIhr": "ihr",
 			"seineIhre": "ihre",
@@ -45,30 +47,56 @@
 		"male": {
 			"ilElle": "il",
 			"sonSa": "son",
-			"e":"",
+			"e": "",
+			"luiElle": "lui",
+			"deluiD'elle": "de lui",
+			"mecFille": "mec",
+			"ceCette": "ce",
+			"euEuse": "eu",
+			"euxEuse": "eux",
+			"sSse": "s",
+			"eurEuse": "eur",
+			"leLa": "le",
+			"fouFolle": "fou",
 		},
 		"female": {
 			"ilElle": "elle",
 			"sonSa": "sa",
 			"e": "e",
+			"luiElle": "elle",
+			"deluiD'elle": "d'elle",
+			"mecFille": "fille",
+			"ceCette": "cette",
+			"euEuse": "euse",
+			"euxEuse": "euse",
+			"sSse": "sse",
+			"eurEuse": "euse",
+			"leLa": "la",
+			"fouFolle": "folle",
 		}
 	},
 	"spanish": {
 		"male": {
 			"élElla": "él",
 			"élmismoEllamisma": "mismo",
+			"mismoMisma": "mismo",
 			"chicoChica": "chico",
 			"oA": "o",
 			"onOna": "ón",
 			"A": "",
+			"elLa": "el",
+			"eA": "e",
 		},
 		"female": {
 			"élElla": "ella",
+			"élmismoEllamisma": "misma",
 			"mismoMisma": "misma",
 			"chicoChica": "chica",
 			"oA": "a",
 			"onOna": "ona",
 			"A": "a",
+			"elLa": "la",
+			"eA": "a",
 		}
 	},
 	"dutch": {
@@ -89,9 +117,15 @@
 	},
 	"portuguese": {
 		"male": {
+			"seusSuas": "seus",
+			"oA": "o",
+			"eleEla": "el",
 
 		},
 		"female": {
+			"seusSuas": "suas",
+			"oA": "a",
+			"eleEla": "ela",
 			
 		}
 	},

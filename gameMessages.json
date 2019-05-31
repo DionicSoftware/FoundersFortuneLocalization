@@ -491,7 +491,7 @@
 		"german": "Burnout!",
 		"french": "Burnout !",
 		"spanish": "¡Agotamiento!",
-		"portuguese": "Burnout!",
+		"portuguese": "Esgotamento!",
 		"turkish": "Tükenmişlik!",
 		"bulgarian": "Изгоря!",
 	},
@@ -594,7 +594,7 @@
 		"french": "Un colon s'est blessé ! Assurez-vous qu'%ilElle% dorme assez pour se rétablir. Un docteur expérimenté peut créer des remèdes améliorés au laboratoire de potion.",
 		//TODO-bulgarian
 		"spanish": "¡Un colono está herido! Asegúrate de que duerma lo suficiente para descansar su cuerpo. Un médico experimentado puede crear remedios más avanzados en el laboratorio de pociones.",
-		"portuguese": "Um colono está ferido! Certifique-se de que %eleEla% durma o suficiente para descansar seu corpo. Um médico experiente pode criar remédios mais avançados no laboratório de poções.",
+		"portuguese": "Um colono está ferido! Certifique-se de que ele durma o suficiente para descansar seu corpo. Um médico experiente pode criar remédios mais avançados no laboratório de poções.",
 		"turkish": "Yerleşimcilerden biri yaralandı! Vücudunu dinlendirmek için yeterince uyuduğundan emin olun. Deneyimli bir doktor iksir laboratuarında daha gelişmiş ilaçlar yaratabilir.",
 		"bulgarian": "Колонист е ранен! Уверете се, че той получава достатъчно сън, за да си почине тялото му. Опитният лекар може да създаде по-напреднали лекарства в лабораторията за отвари.",
 	},
@@ -792,6 +792,7 @@
 		"spanish": "El tratamiento salió mal\n%firstName% ahora discapacitado",
 		"french": "Traitement raté\n%firstName% est maintenant invalide",
 		"turkish": "Tedavi başarısız oldu\n%firstName% sakat kaldı",
+		"portuguese": "Tratamento desarrumada\n%firstName% agora está desativado",
 	},
 	"messageText_LimpingBecauseOfBadSplintTreatment": {
 		"english": "It's a begginer's mistake, but can also happen to experienced doctors: Someone messed up the splints to cure %firstName%'s broken leg. It's no longer broken, but now %heShe%'s limping permanently and can't walk as fast as %heShe% used to.",
@@ -799,18 +800,21 @@
 		"spanish": "Es un error de principiante, pero también le pasa a doctores experimentados: Alguien intentó entablar la pierna de %firstName% pero no lo logró. Ya no está rota, pero ahora %élElla% cojea permanentemente y no puede caminar tan rápido como antes.",
 		"french": "C'est une erreur de débutant, mais cela pourrait arriver également aux médecins: Quelqu'un a raté la pose de l'attelle pour soigner la jambe cassée de %firstName%. Ce n'est pas complètement cassé, mais %ilElle% boîtera pour toujours et ne pourra pas marcher aussi vite qu' %ilElle% voudrait.", 
 		"turkish": "Acemilik hatası, ama aynı zamanda deneyimli doktorların başına da gelebilir: Birisi %firstName%'in kırılmış bacağını tedavi etmek için hazırlanan destekleri yanlış hazırladı ve kırık düzelmesine rağmen yanlış kaynadı ve kalıcı sakatlığa sebep oldu, %firstName% eskisi kadar hızlı yürümeyecektir.",
+		"portuguese": "É um erro do iniciante, mas também pode acontecer com médicos experientes: alguém estragou as talas para curar a perna quebrada do %firstName%. Não está mais quebrado, mas agora %eleEla% está mancando permanentemente e não pode andar tão rápido quanto %eleEla% costumava.",
 	},
 	"messageTitle_SupportDevelopment": {
 		"english": "Support the Development of Founders' Fortune!",
 		"german": "Unterstütze die Entwicklung von Founders' Fortune!",
 		"french": "Supportez le Développement de Founder's Fortune!",
 		"spanish": "¡Apoya el desarrollo de Founders' Fortune!",
+		"portuguese": "Apoiar o desenvolvimento de Founders' Fortune!",
 	},
 	"messageText_SupportDevelopment": {
 		"english": "You've been playing this colony for %hours% hours and it seems like you're enjoying the free version of Founders' Fortune! Consider checking out the store and supporting us!",
 		"german": "Du spielst diese Kolonie schon seit %hours% Stunden und es scheint als würde dir die kostenlose Version von Founders' Fortune gefallen! Schau dir mal unseren Store an, dort kannst du die Entwicklung unterstützen!",
 		"french": "Vous jouez dans cette colonie depuis %hours% heures et il sembelerait que vous appréciez la version gratuite de Founder's Fortune! Nous vous invitons à aller voir le magasin et nous soutenir!",
 		"spanish": "¡Has estado jugando con esta colonia por %hours% horas y parece que estás disfrutando la versión gratuita de Founders' Fortune! ¡Considera echar un vistazo a la tienda y apoyarnos!",
+		"portuguese": "Você tem jogado essa colônia por %hours% horas e parece que você está curtindo a versão gratuita do Founders 'Fortune! Considere verificar a loja e nos apoiar!",
 	},
 
 	

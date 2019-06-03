@@ -29,7 +29,7 @@
 	"notRelevantYet_Desc_home": {
 		"english": "%firstName% doesn't care about a home at the moment.",
 		"german": "%firstName% ist ein Zuhause im Moment nicht wichtig.",
-		"french": "%firstName% ne s'intéresse pas d'avoir une Maison pour le moment",
+		"french": "%firstName% ne s'intéresse pas d'avoir une Maison pour le moment.",
 		"spanish": "%firstName% no se preocupa por tener una casa por el momento.",
 		"bulgarian": "%firstName% не се интересува от дома в момента.",
 		"turkish": "%firstName% şu anda bir evi düşünmüyor.",
@@ -38,7 +38,7 @@
 	"notRelevantYet_Desc_lifeSatisfaction": {
 		"english": "%firstName% doesn't care about Life Satisfaction at the moment.",
 		"german": "%firstName% ist Lebenszufriedenheit im Moment nicht wichtig.",
-		"french": "%firstName% ne s'intéresse pas de sa Satisfaction de Vie pour le moment",
+		"french": "%firstName% ne s'intéresse pas de sa Satisfaction de Vie pour le moment.",
 		"spanish": "%firstName% no se preocupa por su satisfacción con la vida por el momento.",
 		"bulgarian": "%firstName% не се интересува от Удовлетворението от Живота за момента.",
 		"turkish": "%firstName%, şu anda Yaşam Memnuniyeti ile ilgilenmiyor.",
@@ -47,7 +47,7 @@
 	"notRelevantYet_Desc_promotions": {
 		"english": "%firstName% doesn't care about Promotions at the moment.",
 		"german": "%firstName% sind Beförderungen im Moment nicht wichtig.",
-		"french": "%firstName% ne s'intéresse pas d'avoir une Promotion pour le moment",
+		"french": "%firstName% ne s'intéresse pas d'avoir une Promotion pour le moment.",
 		"spanish": "%firstName% no se preocupa por ascender por el momento.",
 		"bulgarian": "%firstName% не се интересува от Повишенията в момента.",
 		"turkish": "%firstName% şu anda Terfileri önemsemiyor.",
@@ -56,7 +56,7 @@
 	"notRelevantYet_Desc_salary": {
 		"english": "%firstName% doesn't care about Salary at the moment.",
 		"german": "%firstName% ist Bezahlung im Moment nicht wichtig.",
-		"french": "%firstName% ne s'intéresse pas de son Salaire pour le moment",
+		"french": "%firstName% ne s'intéresse pas de son Salaire pour le moment.",
 		"spanish": "%firstName% no se preocupa por el sueldo por el momento.",
 		"bulgarian": "%firstName% не се интересува от Заплатата в момента.",
 		"turkish": "%firstName% şu anda Maaş ile ilgilenmiyor.",
@@ -65,7 +65,7 @@
 	"notRelevantYet_Desc_community": {
 		"english": "%firstName% doesn't care about Community at the moment.",
 		"german": "%firstName% ist Gemeinschaft im Moment nicht wichtig.",
-		"french": "%firstName% ne s'intéresse pas de la Communauté pour le moment",
+		"french": "%firstName% ne s'intéresse pas de la Communauté pour le moment.",
 		"spanish": "%firstName% no se preocupa por la comunidad por el momento.",
 		"bulgarian": "%firstName% не се интересува от Общността в момента.",
 		"turkish": "%firstName% şu anda Topluluğu umursamıyor.",
@@ -146,7 +146,7 @@
 	"lifeSatisfactionAwesome": {
 		"english": "Very happy with life",
 		"german": "Übgerglücklich mit %seinemIhrem% Leben",
-		"french": "Très heureux de sa vie",
+		"french": "Très heur%euxEuse% de sa vie",
 		"spanish": "Muy content%oA% con su vida",
 		"bulgarian": "Много щастлив от живота",
 		"turkish": "Hayatından çok memnun",
@@ -155,7 +155,7 @@
 	"lifeSatisfactionGood": {
 		"english": "Satisfied with life",
 		"german": "Zufrieden mit %seinemIhrem% Leben",
-		"french": "Satisfait de sa vie",
+		"french": "Satisfait%e% de sa vie",
 		"spanish": "Satisfech%oA% con su vida",
 		"bulgarian": "Доволен от живота",
 		"turkish": "Hayattan memnun",
@@ -173,7 +173,7 @@
 	"lifeSatisfactionBad": {
 		"english": "Not satisfied with life",
 		"german": "Nicht zufrieden mit %seinemIhrem% Leben",
-		"french": "N'est pas satisfait avec sa vie",
+		"french": "N'est pas satisfait%e% avec sa vie",
 		"spanish": "No está satisfech%oA% con su vida.",
 		"bulgarian": "Не е доволен от живота",
 		"turkish": "Hayatından memnun değil",
@@ -182,7 +182,7 @@
 	"promotionsSatisfactionAwesome": {
 		"english": "Mastered %hisHer% profession",
 		"german": "Meister %seinerIhrer% Arbeit",
-		"french": "Expert dans son métier",
+		"french": "Expert%e% dans son métier",
 		"spanish": "Maestría alcanzada en su profesión",
 		"bulgarian": "Усвоил професията си",
 		"turkish": "Mesleğinde ustalaştı",
@@ -191,7 +191,7 @@
 	"promotionsSatisfactionGood": {
 		"english": "Confident in %hisHer% skills",
 		"german": "Selbstsicher in %seinenIhren% Fähigkeiten",
-		"french": "Confiant de ses compétences",
+		"french": "Confiant%e% de ses compétences",
 		"spanish": "Segur%oA% de sus habilidades",
 		"bulgarian": "Уверен в уменията си",
 		"turkish": "Yeteneklerine güveniyor",
@@ -200,7 +200,7 @@
 	"promotionsSatisfactionInsufficient": {
 		"english": "Unsure of %hisHer% skills",
 		"german": "Unsicher in %seinenIhren% Fähigkeiten",
-		"french": "Incertain de ses compétences",
+		"french": "Incertain%e% de ses compétences",
 		"spanish": "Insegur%oA% de sus habilidades",
 		"bulgarian": "Несигурен в уменията си",
 		"turkish": "Yeteneklerinden emin değil",
@@ -209,7 +209,7 @@
 	"promotionsSatisfactionBad": {
 		"english": "Unhappy with %hisHer% skills",
 		"german": "Unzufrieden mit %seinenIhren% Fähigkeiten",
-		"french": "Mécontent de ses compétences",
+		"french": "Mécontent%e% de ses compétences",
 		"spanish": "Descontent%oA% con sus habilidades",
 		"bulgarian": "Недоволен от уменията си",
 		"turkish": "Yeteneklerinden mutsuz",
@@ -218,7 +218,7 @@
 	"promotionsSatisfactionOk": {
 		"english": "Satisfied with %hisHer% skills",
 		"german": "Zufrieden mit %seinenIhren% Fähigkeiten",
-		"french": "Satisfait de ses compétences",
+		"french": "Satisfait%e% de ses compétences",
 		"spanish": "Satisfech%oA% con sus habilidades",
 		"bulgarian": "Доволен от уменията си",
 		"turkish": "Yeteneklerinden memnun",
@@ -238,7 +238,7 @@
 	"colonistIsALevelXProfessionGuy": {
 		"english": "%firstName% is a level %professionLevel% %professionName%",
 		"german": "%firstName% ist ein %professionName% der Stufe %professionLevel%",
-		"french": "%firstName% est un %professionName% de niveau %professionLevel% ",
+		"french": "%firstName% est un%e% %professionName% de niveau %professionLevel% ",
 		"spanish": "%firstName% es un%A% %professionName% de nivel %professionLevel%",
 		"bulgarian": "%firstName% е ниво %professionLevel% %professionName%",
 		"turkish": "%firstName%, %professionName% mesleğinde %professionLevel% seviyesinde",
@@ -273,7 +273,7 @@
 	"salarySatisfactionGood": {
 		"english": "Fine with %hisHer% salary",
 		"german": "Zufrieden mit %seinemIhrem% Gehalt",
-		"french": "Satisfait de son salaire",
+		"french": "Satisfait%e% de son salaire",
 		"spanish": "Satisfech%oA% con su sueldo",
 		"portuguese": "Bem com seu salário",
 		"turkish": "Maaşıyla ilgili bir sorunu yok",
@@ -382,7 +382,7 @@
 	"clickToShowSleepingSpot": {
 		"english": "Click to show sleeping spot",
 		"german": "Klicken, um den Schlafplatz anzuzeigen",
-		"french": "Cliquez pour afficher l'endroit où il dort",
+		"french": "Cliquez pour afficher l'endroit où %ilElle% dort",
 		"spanish": "Clic para mostrar el lugar para dormir",
 		"bulgarian": "Натисни, за да покаже мястото за спане",
 		"turkish": "Uyuma yerini görmek için tıklayın",
@@ -481,7 +481,7 @@
 	"wantsJob_Desc": {
 		"english": "%firstName% has no job at the moment. It's making %himHer% feel unfulfilled.",
 		"german": "%firstName% hat keinen Beruf. %cap-heShe% fühlt sich so ziellos.",
-		"french": "%firstName% n'a pas de métier pour le moment. Il se sent insatisfait.",
+		"french": "%firstName% n'a pas de métier pour le moment. %cap-ilElle% se sent insatisfait%e%.",
 		"spanish": "%firstName% no tiene trabajo por el momento. Eso le hace sentirse insatisfech%oA%.",
 		"bulgarian": "%firstName% няма работа за момента. Това го кара да се чувства неизпълнен.",
 		"turkish": "%firstName% şu anda bir işi yok. Kendisini tamamlanmamış hissettiriyor.",

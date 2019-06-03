@@ -21,7 +21,6 @@
 		"german": "%firstName% fühlt sich schrecklich. %cap-erSie% könnte jeden Moment einen Nervenzusammenbruch haben.",
 		"french": "%firstName% se sent mal. %cap-ilElle% risque de s'effondrer",
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "%firstName% se siente fatal. %cap-élElla% está a punto de tener un colapso nervioso",
 		"turkish": "%firstName% çok kötü hissediyor. Her an dağılabilir",
 		"portuguese": "%firstName% está se sentindo terrível. Ele está em risco de quebrar",
@@ -31,9 +30,8 @@
 		"german": "%firstName% hat einen Nervenzusammenbruch.",
 		"french": "%firstName% s'est effondré%e%. Plus rien ne peut %leLa% consoler maintenant",
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "%firstName% ha colapsado. Nada le puede consolar ahora.",
-		"turkish": "%firstName% kriz geçiriyor. Onu hiçbir şey rahatlatamaz artık",
+		"turkish": "%firstName% kriz geçiriyor. Onu hiçbir şey sakinleştiremez artık",
 		"portuguese": "%firstName% está tendo um colapso. Nada pode consolá-lo agora.",
 	},
 	"expectationDesc_Good": {
@@ -41,9 +39,8 @@
 		"german": "%firstName% ist zufrieden mit %seinemIhrem% Leben in der Kolonie.",
 		"french": "%firstName% est content%e% de sa vie dans la colonie",
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "%firstName% está content%oA% con su vida en la colonia.",
-		"turkish": "%firstName% kolonideki hayatından memnun",
+		"turkish": "%firstName% yerleşimdeki hayatından memnun",
 		"portuguese": "%firstName% está contente com sua vida na colônia.",
 	},
 	"expectationDesc_Neutral": {
@@ -51,7 +48,7 @@
 		"german": "%firstName% erwartet ein bisschen mehr von dieser Kolonie. Migranten werden nur kommen, wenn die Erwartungen der Kolonisten erfüllt sind.",
 		"french": "%firstName% en attend un peu plus de la colonie. Les migrants viendront seulement lorsque les attentes des colons seront remplies.",
 		"spanish": "%firstName% espera algo más de la colonia. Los inmigrantes solo vendrán si las expectativas de los colonos son cumplidas.",
-		"turkish": "%firstName% koloniden daha fazla beklentileri var. Kolonicilerin beklentileri yerine getirilmeden göçmen gelmez.",
+		"turkish": "%firstName% yerleşimden daha fazla beklentileri var. Yerleşimcilerin beklentileri yerine getirilmeden göçmen gelmez.",
 		"portuguese": "%firstName% espera um pouco mais dessa colônia. Os migrantes só virão quando as expectativas dos colonos forem satisfeitas.",
 	},
 	"expectationDesc_Bad": {
@@ -59,7 +56,7 @@
 		"german": "%firstName% erwartet viel mehr von dieser Kolonie. Migranten werden nur kommen, wenn die Erwartungen der Kolonisten erfüllt sind.",
 		"french": "%firstName% en attend un peu plus de la colonie. Les migrants viendront seulement lorsque les attentes des colons seront remplies.",
 		"spanish": "%firstName% espera mucho más de la colonia. Los inmigrantes solo vendrán si las expectativas de los colonos son cumplidas.",
-		"turkish": "%firstName% koloniden daha fazla beklentileri var. Kolonicilerin beklentileri yerine getirilmeden göçmen gelmez.",
+		"turkish": "%firstName% yerleşimden daha fazla beklentileri var. Yerleşimcilerin beklentileri yerine getirilmeden göçmen gelmez.",
 		"portuguese": "%firstName% espera muito mais desta colônia. Os migrantes só virão quando as expectativas de seus colonos forem satisfeitas.",
 	},
 	"colonistMoodDesc_destroyFurniture": {
@@ -67,9 +64,8 @@
 		"german": "%firstName% erleidet einen Nervenzusammenbruch! %cap-erSie% zerstört die Möbel von anderen Kolonisten!",
 		"french": "%firstName% a craqué ! %cap-ilElle% détruit le mobilier des autres colons!",
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "¡%firstName% está colapsando!¡%cap-élElla% está destruyendo los muebles de otros colonos!",
-		"turkish": "%firstName% kriz geçiriyor. Diğer kolonicilerin eşyalarını parçalıyor.",
+		"turkish": "%firstName% kriz geçiriyor. Diğer yerleşimcilerin eşyalarını parçalıyor.",
 		"portuguese": "%firstName% está tendo um colapso! Ele está destruindo os móveis de outros colonos!",
 	},
 	"colonistMoodDesc_crazy": {
@@ -77,9 +73,8 @@
 		"german": "%firstName% erleidet einen Nervenzusammenbruch! %cap-erSie% schlägt auf andere Kolonisten ein!",
 		"french": "%firstName% a craqué ! %cap-ilElle% frappe les autres colons!",
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "¡%firstName% está colapsando!¡%cap-élElla% está pegando a otros colonos!",
-		"turkish": "%firstName% kriz geçiriyor. Diğer kolonicilere saldırıyor.",
+		"turkish": "%firstName% kriz geçiriyor. Diğer yerleşimcilere saldırıyor.",
 		"portuguese": "%firstName% está tendo um colapso! Ele está batendo outros colonos!",
 	},
 	"colonistMoodDesc_lazyDay": {
@@ -87,7 +82,6 @@
 		"german": "%firstName% erleidet einen Nervenzusammenbruch! %cap-erSie% hat sich entschieden einen faulen Tag zu machen und viele Pausen einzulegen.",
 		"french": "%firstName% a craqué ! %cap-ilElle% a décidé d'avoir un jour de repos et de prendre du temps pour %luiElle%",
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "¡%firstName% está colapsando! %cap-élElla% ha decidido tener un día tranquilo y tomar un montón de descansos.",
 		"turkish": "%firstName% çöküş yaşıyor. Günü tembelce geçirmeye karar verdi ve bolca mola verecek.",
 		"portuguese": "%firstName% está tendo um colapso! Ele decidiu ter um dia preguiçoso e fazer muitos intervalos.",
@@ -97,9 +91,8 @@
 		"german": "%firstName% erleidet einen Nervenzusammenbruch! %cap-erSie% weigert sich zu arbeiten oder irgendwelchen Anweisungen zu folgen!",
 		"french": "%firstName% a craqué ! %cap-ilElle% refuse de travailler ou de suivre les ordres !",
 		//TODO-portuges
-		//TODO-turkish
 		"spanish": "¡%firstName% está colapsando!¡%cap-élElla% se niega a trabajar o seguir órdenes!",
-		"turkish": "%firstName% çöküş yaşıyor. Çalışmayı reddediyor ve emirleri yerine getirmeyecek.",
+		"turkish": "%firstName% çöküş yaşıyor. Çalışmayı reddediyor ve verilen emirleri yerine getirmeyecek.",
 		"portuguese": "%firstName% está tendo um colapso! Ele se recusa a trabalhar ou seguir qualquer ordem!",
 	},
 }

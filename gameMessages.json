@@ -97,7 +97,7 @@
 	"notificationTitle_Fight": {
 		"english": "Colonist fighting",
 		"german": "Kampf ausgebrochen",
-		"french": "Un colon est en train de se battre",
+		"french": "Un colon se bat",
 		"spanish": "Colonos luchando",
 		"portuguese": "Luta do colono",
 		"turkish": "Yerleşimci kavga ediyor",
@@ -327,9 +327,9 @@
 	"notificationTitle_AutosaveComplete": {
 		"english": "Autosave complete",
 		"german": "Automatisch gespeichert",
+		"french": "Sauvegarde automatique terminée",
 		"spanish": "Autoguardado completo",
 		"portuguese": "Salvamento automático completo",
-		"french": "Sauvegarde automatique terminée",
 	},
 
 	// FLOATING TEXTS
@@ -372,7 +372,7 @@
 	"treatmentFailed": {
 		"english": "Treatment\nFailed",
 		"german": "Behandlung\nfehlgeschlagen",
-		"french": "Traitement\nEchec",
+		"french": "Traitement\nÉchec",
 		"spanish": "Tratamiento\nFallido",
 		"turkish": "Tedavi\nBaşarısız",
 		"portuguese": "Tratamento \nFalhou",
@@ -610,7 +610,7 @@
 	"messageText_TutorialScience": {
 		"english": "In order to advance your colony, you need to gather research. You can do that by mining crystals and analyzing them on the research book stand. The science panel is at the top right!",
 		"german": "Um deine Kolonie vorwärts zu bringen, musst du Forschung betreiben. Das funktioniert, indem du Kristalle abbaust und sie mithilfe des Bücherständers untersuchen lässt.  Die Wisschenschaftsanzeige ist oben rechts!",
-		"french": "Pour faire avancer votre colonie, vous devrez faire des recherches. Vous pourrez le faire en minant des cristaux et en les analysant sur le support de livre de recherche. Le panneau science est en haut à droite !",
+		"french": "Pour faire avancer votre colonie, vous devez faire des recherches. Vous pouvez le faire en minant des cristaux et en les analysant sur le support de livre de recherche. Le panneau science est en haut à droite !",
 		"spanish": "Para poder avanzar en tu colonia, necesitas reunir información. Puedes hacerlo minando cristales y analizándolos en el estante de investigación. ¡El panel de ciencias está en la parte superior derecha!",
 		"portuguese": "Para avançar sua colônia, você precisa reunir pesquisas. Você pode fazer isso minerando cristais e analisando-os na bancada de pesquisa. O painel de ciência está no canto superior direito!",
 		"turkish": "Koloninizi ilerletmek için araştırma yapmanız gerekir. Bunu kristal toplayarak ve araştırma standında analiz ederek yapabilirsiniz. Bilim paneli sağ üsttedir!",
@@ -628,7 +628,7 @@
 	"messageText_TutorialMigrants": {
 		"english": "If you want your colony to grow, you'll need to accept new people. Build a bonfire in order to attract migrants. Bonfires are unlocked via research.",
 		"german": "Wenn du willst, dass deine Kolonie wächst, musst du neue Kolonisten aufnehmen. Baue ein Leuchtfeuer, um Migranten willkommen zu heißen. Leuchtfeuer werden durch Forschung freigeschalten.",
-		"french": "Si vous voulez que vos colonie grandisse, vous devrez accepter de nouvelles personnes. Construisez un grand feu pour attirer les migrants. Les grands feux sont déverouillés via la recherche.",
+		"french": "Si vous voulez que vos colonie grandisse, vous devrez accepter de nouvelles personnes. Construisez un grand feu pour attirer les migrants. Les grands feux sont déverrouillés via la recherche.",
 		"spanish": "Si quieres que tu colonia crezca, deberás aceptar nuevas personas. Construye una almenara para atraer migrantes. Las almenaras se desbloquean a través de la investigación.",
 		"portuguese": "Se você quer que sua colônia cresça, você precisa aceitar novas pessoas. Construa uma fogueira para atrair migrantes. Fogueiras são desbloqueadas via pesquisa.",
 		"turkish": "Yerleşimin büyümesini istiyorsan, yeni insanları kabul etmen gerekecek. Göçmenleri çekmek için bir işaret ateşi inşa et. İşaret ateşi araştırmalarla açılır.",
@@ -664,7 +664,7 @@
 	"messageText_TutorialBuildConstruction": {
 		"english": "In the bottom left corner is a menu to select walls and floors to build. You then need to drag the cursor over the terrain. (right click & drag cursors to delete)",
 		"german": "In der Ecke unten links ist ein Menü, wo du Wände und Böden auswählen kannst. Wenn du etwas ausgewählt hast, kannst du die Maus über das Terrain ziehen, um es zu platzieren.",
-		"french": "Dans le coin inférieur gauche, ce menu permet de construire des murs et des sols. Vous devrez faire glisser le curseur sur le terrain.",
+		"french": "Dans le coin inférieur gauche il y a un menu qui permet de construire des murs et des sols. Vous devrez faire glisser le curseur sur le terrain. (clic droit & faire glisser le curseur pour supprimer)",
 		"spanish": "En la esquina inferior izquierda hay un menú para seleccionar paredes y pisos para construir. A continuación, debes arrastrar el cursor sobre el terreno.(arrastra con click derecho para borrar)",
 		"portuguese": "No canto inferior esquerdo é um menu para selecionar paredes e pisos para construir. Você precisa então arrastar o cursor sobre o terreno. (clique com o botão direito & arraste cursores para excluir)",
 		"turkish": "Sol alt köşede, inşa edilecek duvarları ve döşemeleri seçmek için bir menü var. Ardından imleci arazinin üzerine sürüklemeniz gerekir. (Silmek için sağ tık & imleçleri sürükleyin)",
@@ -748,7 +748,7 @@
 		"spanish": "Cómo usar el equipo",
 		"turkish": "Ekipman kullanımı",
 		"portuguese": "Como usar o equipamento",
-		"french": "Comment utiliser l'équipement",
+		"french": "Comment utiliser l'Équipement",
 	},
 	"messageText_TutorialEquipment": {
 		"english": "Build a piece of furniture that can store equipment and select it to choose which equipment to put in it. Let a colonist take ownership of it so that he can equip it automatically.",
@@ -806,14 +806,14 @@
 		"english": "It's a begginer's mistake, but can also happen to experienced doctors: Someone messed up the splints to cure %firstName%'s broken leg. It's no longer broken, but now %heShe%'s limping permanently and can't walk as fast as %heShe% used to.",
 		"german": "Es ist ein Anfängerfehler, kann aber auch einem erfahrenen Arzt passieren: Jemand hat Mist gebaut und die Schienen für das gebrochene Bein von %firstName% falsch befestigt. Jetzt ist das Bein zwar nicht mehr gebrochen, aber %erSie% hinkt jetzt beim gehen und ist nicht mehr so schnell wie früher.",
 		"spanish": "Es un error de principiante, pero también le pasa a doctores experimentados: Alguien intentó entablar la pierna de %firstName% pero no lo logró. Ya no está rota, pero ahora %élElla% cojea permanentemente y no puede caminar tan rápido como antes.",
-		"french": "C'est une erreur de débutant, mais cela pourrait arriver également aux médecins: Quelqu'un a raté la pose de l'attelle pour soigner la jambe cassée de %firstName%. Ce n'est pas complètement cassé, mais %ilElle% boîtera pour toujours et ne pourra pas marcher aussi vite qu'%ilElle% voudrait.", 
+		"french": "C'est une erreur de débutant, mais cela peut également arriver aux médecins : Quelqu'un a raté la pose de l'attelle pour soigner la jambe cassée de %firstName%. Ce n'est pas complètement cassé, mais %ilElle% boîtera pour toujours et ne pourra pas marcher aussi vite qu'%ilElle% voudrait.", 
 		"turkish": "Acemilik hatası, ama aynı zamanda deneyimli doktorların başına da gelebilir: Birisi %firstName%'in kırılmış bacağını tedavi etmek için hazırlanan destekleri yanlış hazırladı ve kırık düzelmesine rağmen yanlış kaynadı ve kalıcı sakatlığa sebep oldu, %firstName% eskisi kadar hızlı yürümeyecektir.",
 		"portuguese": "É um erro do iniciante, mas também pode acontecer com médicos experientes: alguém estragou as talas para curar a perna quebrada do %firstName%. Não está mais quebrado, mas agora %eleEla% está mancando permanentemente e não pode andar tão rápido quanto %eleEla% costumava.",
 	},
 	"messageTitle_SupportDevelopment": {
 		"english": "Support the Development of Founders' Fortune!",
 		"german": "Unterstütze die Entwicklung von Founders' Fortune!",
-		"french": "Supportez le Développement de Founders' Fortune!",
+		"french": "Supportez le Développement de Founders' Fortune !",
 		"spanish": "¡Apoya el desarrollo de Founders' Fortune!",
 		"turkish": "Founder's Fortune'un gelişimine destek verin!",
 		"portuguese": "Apoiar o desenvolvimento de Founders' Fortune!",

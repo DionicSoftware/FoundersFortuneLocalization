@@ -29,7 +29,7 @@
 	"foodShelfCampfireDescription": {
 		"english": "This mixture of shelf and basket is the ideal place to store food that's been cooked on a campfire!",
 		"german": "Diese Mischung aus Regal und Korb ist der ideale Lagerort für Essen, das am Lagerfeuer zubereitet wurde!",
-		"french": "Ce mix d'étagère et de panier est idéal pour stocker de la nourriture qui a été cuite sur un feu de camp!",
+		"french": "Ce mix d'étagère et de panier est l'endroit idéal pour stocker de la nourriture qui a été cuite sur un feu de camp !",
 		"spanish": "Esta combinación de estantería y canasta es ideal para guardar la comida cocinada en una hoguera.",
 		"portuguese": "Esta mistura de prateleira e cesta é ideal para armazenar alimentos que foram preparados em uma fogueira!",
 		"turkish": "Bu raf ve sepet karışımı, kamp ateşinde pişirilmiş yiyecekleri saklamak için ideal!",
@@ -491,7 +491,7 @@
 	"chest0Description": {
 		"english": "Solid and reliable. This chest is a great way to make your home look more homely.",
 		"german": "Solide und zuverlässig. Diese Kiste macht sich sicher gut in deinem Zuhause.",
-		"french": "Solide et fiable. Ce coffre est un bon moyen pour rendre votre maison plus accueillante",
+		"french": "Solide et fiable. Ce coffre est un bon moyen pour rendre votre maison plus accueillante.",
 		"spanish": "Sólido y seguro. Este cofre seguro hará ver tu casa más acogedora.",
 		"portuguese": "Sólido e confiável. Este baú é uma ótima maneira de fazer sua casa parecer mais caseira",
 		"turkish": "Sağlam ve güvenilir. Bu sandık, evinizin daha rahat görünmesi için harika bir yoldur"
@@ -507,7 +507,7 @@
 	"chest1Description": {
 		"english": "Solid, reliable, and good looking. This chest is a great way to make your home look more homely.",
 		"german": "Solide, zuverlässig und gutaussehend. Diese Kiste macht sich sicher gut in deinem Zuhause.",
-		"french": "Solide, fiable, et beau. Ce coffre est un bon moyen de rendre votre maison plus accueillante",
+		"french": "Solide, fiable, et beau. Ce coffre est un bon moyen de rendre votre maison plus accueillante.",
 		"spanish": "Sólido, seguro y de buen aspecto. Este cofre seguro hará ver tu casa más acogedora.",
 		"portuguese": "Sólido, confiável e de boa aparência. Este baú é uma ótima maneira de fazer sua casa parecer mais caseira",
 		"turkish": "Sağlam, güvenilir ve iyi görünümlü. Bu sandık, evinizi daha sade görünmesi için harika bir yoldur",
@@ -1052,7 +1052,7 @@
 		"german": "Dieser mächtige Tisch ist letztendlich nichts anderes als ein grob beschlagener Fels. Sieht recht schwer aus.",
 		//TODO-spanish
 		//TODO-turkish
-		"french": "Taillée en pierre, cette table est juste un énorme bloc. Semble assez lourde.",
+		"french": "Taillée en pierre, cette table est juste un énorme bloc. Semble un peu lourde.",
 		"spanish": "Tallada de la piedra, esta mesa es básicamente solo un bloque grande. Se ve pesada.",
 		"portuguese": "Esculpida em pedra, esta tabela é basicamente apenas um bloco enorme. Parece meio pesado.",
 		"turkish": "Yerleşiminize bu mobilya parçasıyla tarz katın.",
@@ -1684,7 +1684,7 @@
 		"english": "This book stand can be used for research. Smart colonists can analyze crystals to generate research points. Once enough research has been conducted, new buildings are unlocked.",
 		"german": "Dieser Bücherständer kann zur Forschung verwendet werden. Findige Kolonisten können mit Hilfe des Buches Kristalle untersuchen, um Forschungspunkte zu generieren. Wenn genug Forschung erreicht wurde, werden neue Gebäude freigeschalten.",
 		"spanish": "Este atril sirve para investigar. Con la ayuda del libro, colonos inteligentes pueden analizar cristales para generar puntos de investigación. Una vez llegas a un nivel suficiente, nuevos edificios son desbloqueados.",
-		"french": "Cette bibliothèque peut être utilisée pour la recherche. À l'aide de ce livre, les colons intelligents peuvent analyser des cristaux pour générer des points de recherche. Lorsque le niveau de recherche atteint un niveau suffisant, de nouveaux bâtiments sont déverrouillés.",
+		"french": "Ce support de livre peut être utilisé pour la recherche. Les colons intelligents peuvent analyser des cristaux pour générer des points de recherche. Lorsque le niveau de recherche atteint un niveau suffisant, de nouveaux bâtiments sont déverrouillés.",
 		"portuguese": "Esta estante pode ser usada para pesquisa. Com a ajuda do livro, os colonos inteligentes podem analisar os cristais para gerar pontos de pesquisa. Ao atingir um nível de pesquisa alto o suficiente, novos edifícios são desbloqueados.",
 		"turkish": "Bu kitaplık araştırma için kullanılabilir. Akıllı yerleşimciler kitapların yardımıyla araştırma puanları oluşturmak için kristalleri analiz edebilirler. Yeterince yüksek bir araştırma seviyesine ulaşıldığında, yeni binaların kilidi açılmaktadır.",
 	},
@@ -1699,11 +1699,10 @@
 	"bookStandScrollsDescription": {
 		"english": "This impressive scroll stand is necessary for advanced research. Scrolls offer a lot of secrets to discover which can bring your colony a huge step forward.",
 		"german": "Dieser eindrucksvolle Schriftrollenständer ist notwendig für fortgeschrittene Forschung. Schriftrollen bergen längst vergessene Geheimnisse, die deine Kolonie weit voranbringen können.",
-		//TODO-french
 		//TODO-spanish
 		//TODO-turkish
 		//TODO-portuguese
-		"french": "Ce support de parchemin peut être utilisé pour la recherche. Les parchemins offrent beaucoup de secrets à découvrir qui peuvent apporter un grand pas en avant à votre colonie.",
+		"french": "Cet impressionnant support de parchemin est nécessaire pour la recherche avancée. Les parchemins offrent beaucoup de secrets à découvrir qui peuvent apporter un grand pas en avant à votre colonie.",
 		"spanish": "Este atril sirve para investigar. Los pergaminos ofrecen un montón de secretos por descubrir, lo que puede llevar a tu colonia un gran paso adelante.",
 		"turkish": "Bu araştırma standı yeni icatlar bulmak için kullanılabilir. Parşömenler, koloninizi geleceğe yönelik adımlar attırabilecek keşifler için birçok sır sunar.",
 		"portuguese": "Este suporte de rolagem pode ser usado para pesquisa. Os pergaminhos oferecem muitos segredos para descobrir, o que pode trazer à sua colônia um grande passo à frente.",
@@ -1799,11 +1798,10 @@
 	"workbenchDescription": {
 		"english": "Tired of waiting for building materials? Let a craftsman use this basic workbench to make simple tools, that make your colonists' jobs easier.",
 		"german": "Du bist es leid auf Baumaterial zu warten? Lasse einen Handwerke diese Werkbank benutzen um einfache Werkzeuge herzustellen, die deinen Kolonisten die Arbeit erleichtern",
-		//TODO-french
 		//TODO-spanish
 		//TODO-portuguese
 		//TODO-turkish
-		"french": "Utiliser cet atelier pour fabriquer des outils simples pour améliorer la productivité.",
+		"french": "Fatiqué d'attendre pour des matériaux de construction ? Laissez un artisan utiliser cet atelier pour fabriquer des outils simples, qui simplifie le travail des colons.",
 		"spanish": "Usa este taller para construir herramientas simples que mejoran la productividad.",
 		"portuguese": "Utilize este ambiente de trabalho para criar ferramentas simples para melhorar a produtividade.",
 		"turkish": "Verimliliği arttıracak basit araçlar üretmek için bu tezgahı kullanın.",
@@ -2199,7 +2197,7 @@
 	"guardPostDescription": {
 		"english": "Assign soldiers to guard this position with their lives.",
 		"german": "Weise Soldaten diesem Wachposten zu, damit sie die Stellung halten.",
-		"french": "Assigner des soldats pour protéger cette position avec leur vie",
+		"french": "Assigner des soldats pour protéger cette position avec leur vie.",
 		"spanish": "Asigna soldados para defender esta posición con sus vidas.",
 		"portuguese": "Designe soldados para guardarem essa posição com suas vidas.",
 		"turkish": "Bu pozisyonu hayatları ile koruyacak askerler atayın."
@@ -2369,7 +2367,7 @@
 	"bedWoodSimple0Description": {
 		"english": "While a little bit spartan, your colonists will prefer this bed over the sleeping bag.",
 		"german": "Zwar noch immer recht spartanisch, aber auf diesem Bett liegt es sich um einiges angenehmer als im Schlafsack.",
-		"french": "Bien que très spartiates, vos colons préféreront ce lit au sac de couchage.",
+		"french": "Bien qu'un petit peu spartiates, vos colons préféreront ce lit au sac de couchage.",
 		"spanish": "Aún siendo muy espartanos, tus colonos prefieren estas camas a un saco de dormir.",
 		"portuguese": "Embora ainda muito espartano, seus colonos preferirão esta cama sobre o saco de dormir.",
 		"turkish": "Çok basit olsa da, yerleşimciler bu yatağı uyku tulumuna tercih edecekler.",
@@ -2385,7 +2383,7 @@
 	"bedStoneSimple0Description": {
 		"english": "More comfy than it looks. The owner will sleep like a stone.",
 		"german": "Bequemer als es zunächst vielleicht aussehen mag. Der Besitzer wird schlafen wie ein Stein. ",
-		"french": "Plus confortable qu'il n'y paraît. Le propriétaire s'endormira comme un enfant",
+		"french": "Plus confortable qu'il n'y paraît. Le propriétaire s'endormira comme un enfant.",
 		"spanish": "Más cómoda de lo que parece. El dueño dormirá como una piedra.",
 		"turkish": "Göründüğünden daha rahat. Sahibi bir taş gibi uyuyacak.",
 		"portuguese": "Mais confortável do que parece. O dono vai dormir como uma pedra.",

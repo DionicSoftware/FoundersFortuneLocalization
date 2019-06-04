@@ -13,7 +13,7 @@
 		"german": "%firstName% glaubt an das Gute in der Welt - vielleicht ein bisschen zu viel. Weigert sich zu kämpfen außer %erSie% ist bereits schwer verletzt.", 
 		//TODO-bulgarian
 		"spanish": "%firstName% cree en lo bueno del mundo - quizás demasiado. Se niega a pelear contra alguien, excepto si ya ha sido gravemente herid%oA%.",
-		"french": "%firstName% croit à la bonté dans le monde - peut être un peu trop. Il refuse de combattre à moins qu'%ilElle% soit lourdement blessé%e%.",
+		"french": "%firstName% croit à la bonté dans le monde - peut-être un peu trop. %cap-ilElle% refuse de combattre à moins qu'%ilElle% soit lourdement blessé%e%.",
 		"turkish": "%firstName%, dünyada iyiliğe inanıyor - belki haddinden fazla. Ağır şekilde yaralanmadığı sürece savaşmayı reddediyor.",
 		"bulgarian": "%firstName% вярва в доброто в света - може би малко повече. Отказва да се бие с никого, освен ако вече е тежко ранен.",
 		"portuguese": "%firstName% acredita no bem do mundo - talvez um pouco demais. Recusa-se a lutar contra qualquer um, a menos que %eleEla% já esteja gravemente ferido.",
@@ -142,7 +142,7 @@
 	"traitDesc_Overeater": {
 		"english": "%firstName% loves food and isn't always able to control %himselfHerself%. Sometimes %heShe% will just continue eating even though %heShe% is already full.",
 		"german": "%firstName% liebt Essen und kann sich nicht immer kontrollieren. Manchmal hört %erSie% einfach nicht auf zu essen, obwohl %erSie% eigentlich schon satt ist.", 
-		"french": "%firstName% aime la nourriture et n'est pas capable de se contrôler. Parfois %ilElle% continue de manger même s'%ilElle% est déjà plein%e%.",
+		"french": "%firstName% aime la nourriture et n'est pas capable de se contrôler. Parfois %ilElle% continue de manger même %s'ilSielle% est déjà plein%e%.",
 		//TODO-bulgarian
 		"spanish": "A %firstName% le encanta la comida y no siempre logra controlarse. Algunas veces continúa comiendo incluso estando llen%oA%.",
 		"turkish": "%firstName% yemek yemeyi seviyor ve her zaman kendini kontrol edemiyor. Bazen tok olsa bile yemeye devam edecek.",
@@ -349,7 +349,7 @@
 		"german": "%firstName% wird Gerichte meiden, die Tomaten beinalten. Wenn %erSie% trotzdem gezwungen ist es zu essen, wird %erSie% eine allergische Reaktion haben",
 		//TODO-bulgarian
 		"spanish": "%firstName% evitará comer platos que contengan tomate. Si es forzad%oA% a comerlos, sufrirá una reacción alérgica.",
-		"french": "%firstName% évite les plats qui contiennent des tomates. S'%ilElle% est forcé%e% à en manger, %ilElle% aura des réactions allergiques.",
+		"french": "%firstName% évite les plats qui contiennent des tomates. %s'ilSielle% est forcé%e% à en manger, %ilElle% aura des réactions allergiques.",
 		"turkish": "%firstName%, domates içeren yemeklerden kaçınır. Zaten yemek zorunda kalırsa, alerjik reaksiyona girer.",
 		"bulgarian": "%firstName% ще избегне ястия, които съдържат домати. Ако все пак е принуден да го яде, той ще получи алергична реакция.",
 		"portuguese": "%firstName% evitará pratos que contenham tomates. Se %eleEla% for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",

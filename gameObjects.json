@@ -1698,11 +1698,10 @@
 		"english": "This impressive scroll stand is necessary for advanced research. Scrolls offer a lot of secrets to discover which can bring your colony a huge step forward.",
 		"german": "Dieser eindrucksvolle Schriftrollenständer ist notwendig für fortgeschrittene Forschung. Schriftrollen bergen längst vergessene Geheimnisse, die deine Kolonie weit voranbringen können.",
 		//TODO-turkish
-		//TODO-portuguese
 		"french": "Cet impressionnant support de parchemin est nécessaire pour la recherche avancée. Les parchemins offrent beaucoup de secrets à découvrir qui peuvent apporter un grand pas en avant à votre colonie.",
 		"spanish": "Este impresionante atril para pergaminos es necesario para la investigación avanzada. Los pergaminos ofrecen un montón de secretos por descubrir, lo que puede llevar a tu colonia un gran paso adelante.",
 		"turkish": "Bu araştırma standı yeni icatlar bulmak için kullanılabilir. Parşömenler, koloninizi geleceğe yönelik adımlar attırabilecek keşifler için birçok sır sunar.",
-		"portuguese": "Este suporte de rolagem pode ser usado para pesquisa. Os pergaminhos oferecem muitos segredos para descobrir, o que pode trazer à sua colônia um grande passo à frente.",
+		"portuguese": "Esta impressionante estante de rolagem é necessária para pesquisas avançadas. Os pergaminhos oferecem muitos segredos para descobrir, o que pode trazer à sua colônia um grande passo à frente.",
 	},
 	"campfire": {
 		"english": "Campfire",
@@ -1795,11 +1794,10 @@
 	"workbenchDescription": {
 		"english": "Tired of waiting for building materials? Let a craftsman use this basic workbench to make simple tools, that make your colonists' jobs easier.",
 		"german": "Du bist es leid auf Baumaterial zu warten? Lasse einen Handwerke diese Werkbank benutzen um einfache Werkzeuge herzustellen, die deinen Kolonisten die Arbeit erleichtern",
-		//TODO-portuguese
 		//TODO-turkish
 		"french": "Fatigué d'attendre pour des matériaux de construction ? Laissez un artisan utiliser cet atelier pour fabriquer des outils simples, qui simplifie le travail des colons.",
 		"spanish": "¿Cansado de esperar por materiales de construcción? Deja que un artesano use este taller básico para construir herramientas simples, que mejoran la productividad.",
-		"portuguese": "Utilize este ambiente de trabalho para criar ferramentas simples para melhorar a produtividade.",
+		"portuguese": "Cansado de esperar por materiais de construção? Deixe um artesão usar essa bancada básica para fazer ferramentas simples, que facilitam o trabalho de seus colonos.",
 		"turkish": "Verimliliği arttıracak basit araçlar üretmek için bu tezgahı kullanın.",
 	},
 	"tailor": {
@@ -2462,11 +2460,10 @@
 		//TODO-french
 		//TODO-spanish
 		//TODO-turkish
-		//TODO-portuguese
 		"french": "Wilhelm le Grand",
 		"spanish": "Wilhelm el Grande",
 		"turkish": "Büyük Wilhelm",
-		"portuguese": "Wilhelm, o Grande",
+		"portuguese": "Estátua do Fundador",
 	},
 	"statueFounderDescription": {
 		"english": "This statue honors the original Founders, which contributed to make this colony possible. Eternal thanks to them. May they always have food in winter!",
@@ -2474,11 +2471,10 @@
 		//TODO-french
 		//TODO-spanish
 		//TODO-turkish
-		//TODO-portuguese
 		"french": "L'un des premiers Fondateurs, Wilhelm le Grand contribua pour rendre cette colonie possible. Remerciements éternels pour lui. Puisse-t-il y avoir de la nourriture en hiver !",
 		"spanish": "Como uno de los primeros fundadores, Wilhelm el Grande contribuyó a hacer esta colonia posible. Gracias eternas a él. ¡Que siempre tenga comida en invierno!",
 		"turkish": "Orijinal Kuruculardan biri olarak, Büyük Wilhelm bu yerleşimi mümkün olmasına katkıda bulundu. Onun sonsuz teşekkürler. Kışın her zaman yemek bulması umuduyla!",
-		"portuguese": "Como um dos fundadores originais, Wilhelm, o Grande, contribuiu para tornar essa colônia possível. Eterno obrigado a ele. Que ele sempre tenha comida no inverno!",
+		"portuguese": "Esta estátua homenageia os fundadores originais, que contribuíram para tornar esta colônia possível. Eterno obrigado a eles. Que eles sempre tenham comida no inverno!",
 	},
 	// once the Founder's statue is built, it's dedicated to one of Founders' Fortune greatest supporters, so there name replaces %supporter% in these texts:
 	"statueFounderSupporter": {
@@ -2487,11 +2483,10 @@
 		//TODO-french
 		//TODO-spanish
 		//TODO-turkish
-		//TODO-portuguese
 		"french": "Wilhelm le Grand",
 		"spanish": "Wilhelm el Grande",
 		"turkish": "Büyük Wilhelm",
-		"portuguese": "Wilhelm, o Grande",
+		"portuguese": "%supporter% o grande",
 	},
 	"statueFounderSupporterDescription": {
 		"english": "As one of the original Founders, %supporter% the Great contributed to make this colony possible.\n\nEternal thanks to %himHer%. May %heShe% always have food in winter!",
@@ -2499,11 +2494,10 @@
 		//TODO-french
 		//TODO-spanish
 		//TODO-turkish
-		//TODO-portuguese
 		"french": "L'un des premiers Fondateurs, Wilhelm le Grand contribua pour rendre cette colonie possible. Remerciements éternels pour lui. Puisse-t-il y avoir de la nourriture en hiver !",
 		"spanish": "Como uno de los primeros fundadores, Wilhelm el Grande contribuyó a hacer esta colonia posible. Gracias eternas a él. ¡Que siempre tenga comida en invierno!",
 		"turkish": "Orijinal Kuruculardan biri olarak, Büyük Wilhelm bu yerleşimi mümkün olmasına katkıda bulundu. Onun sonsuz teşekkürler. Kışın her zaman yemek bulması umuduyla!",
-		"portuguese": "Como um dos fundadores originais, Wilhelm, o Grande, contribuiu para tornar essa colônia possível. Eterno obrigado a ele. Que ele sempre tenha comida no inverno!",
+		"portuguese": "Como um dos fundadores originais, %supporter% the Great contribuiu para tornar essa colônia possível.\n\nEterna graças a %eleEla%. Que %eleEla% sempre tem comida no inverno!",
 	},
 
 // Lights

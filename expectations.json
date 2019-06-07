@@ -245,8 +245,14 @@
 		"portuguese": "%firstName% é um nível %professionLevel% %professionName%",
 	},
 	"reachLevelX": {
-		"english": "Reach Level %requiredProfessionLevel%",
-		"german": "Stufe %requiredProfessionLevel% erreichen",
+		"english": "Reach Level %requiredProfessionLevel% in a profession",
+		"german": "Stufe %requiredProfessionLevel% in einem Beruf erreichen",
+		// any profession is fine now
+		// TODO-french
+		// TODO-spanish
+		// TODO-bulgarian
+		// TODO-turkish
+		// TODO-portuguese
 		"french": "Atteindre le Niveau %requiredProfessionLevel%",
 		"spanish": "Alcanzar nivel %requiredProfessionLevel%",
 		"bulgarian": "Достигни Ниво %requiredProfessionLevel%",
@@ -480,7 +486,7 @@
 	},
 	"wantsJob_Desc": {
 		"english": "%firstName% has no job at the moment. It's making %himHer% feel unfulfilled.",
-		"german": "%firstName% hat keinen Beruf. %cap-heShe% fühlt sich so ziellos.",
+		"german": "%firstName% hat keinen Beruf. %cap-erSie% fühlt sich so ziellos.",
 		"french": "%firstName% n'a pas de métier pour le moment. %cap-ilElle% se sent insatisfait%e%.",
 		"spanish": "%firstName% no tiene trabajo por el momento. Eso le hace sentirse insatisfech%oA%.",
 		"bulgarian": "%firstName% няма работа за момента. Това го кара да се чувства неизпълнен.",

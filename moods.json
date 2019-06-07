@@ -20,25 +20,22 @@
 		"english": "%firstName% is feeling terrible. %cap-heShe% is at risk of breaking down",
 		"german": "%firstName% fühlt sich schrecklich. %cap-erSie% könnte jeden Moment einen Nervenzusammenbruch haben.",
 		"french": "%firstName% se sent mal%e%. %cap-ilElle% risque de s'effondrer",
-		//TODO-portuges
 		"spanish": "%firstName% se siente fatal. %cap-élElla% está a punto de tener un colapso nervioso",
 		"turkish": "%firstName% çok kötü hissediyor. Her an dağılabilir",
-		"portuguese": "%firstName% está se sentindo terrível. Ele está em risco de quebrar",
+		"portuguese": "%firstName% está se sentindo terrível. %eleEla% está em risco de quebrar",
 	},
 	"moodDesc_Breakdown": {
 		"english": "%firstName% is having a breakdown. Nothing can console %himHer% now.",
 		"german": "%firstName% hat einen Nervenzusammenbruch.",
 		"french": "%firstName% s'est effondré%e%. Plus rien ne peut %leLa% consoler maintenant",
-		//TODO-portuges
 		"spanish": "%firstName% ha colapsado. Nada le puede consolar ahora.",
 		"turkish": "%firstName% kriz geçiriyor. Onu hiçbir şey sakinleştiremez artık",
-		"portuguese": "%firstName% está tendo um colapso. Nada pode consolá-lo agora.",
+		"portuguese": "%firstName% está tendo um colapso. Nada pode consolá-l%oA% agora.",
 	},
 	"expectationDesc_Good": {
 		"english": "%firstName% is content with %hisHer% life in the colony.",
 		"german": "%firstName% ist zufrieden mit %seinemIhrem% Leben in der Kolonie.",
 		"french": "%firstName% est content%e% de sa vie dans la colonie",
-		//TODO-portuges
 		"spanish": "%firstName% está content%oA% con su vida en la colonia.",
 		"turkish": "%firstName% yerleşimdeki hayatından memnun",
 		"portuguese": "%firstName% está contente com sua vida na colônia.",
@@ -63,36 +60,32 @@
 		"english": "%firstName% is having a breakdown! %cap-heShe% is destroying the furniture of other colonists!",
 		"german": "%firstName% erleidet einen Nervenzusammenbruch! %cap-erSie% zerstört die Möbel von anderen Kolonisten!",
 		"french": "%firstName% a craqué ! %cap-ilElle% détruit le mobilier des autres colons !",
-		//TODO-portuges
 		"spanish": "¡%firstName% está colapsando!¡%cap-élElla% está destruyendo los muebles de otros colonos!",
 		"turkish": "%firstName% kriz geçiriyor. Diğer yerleşimcilerin eşyalarını parçalıyor.",
-		"portuguese": "%firstName% está tendo um colapso! Ele está destruindo os móveis de outros colonos!",
+		"portuguese": "%firstName% está tendo um colapso! %eleEla% está destruindo os móveis de outros colonos!",
 	},
 	"colonistMoodDesc_crazy": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% is hitting other colonists!",
 		"german": "%firstName% erleidet einen Nervenzusammenbruch! %cap-erSie% schlägt auf andere Kolonisten ein!",
 		"french": "%firstName% a craqué ! %cap-ilElle% frappe les autres colons !",
-		//TODO-portuges
 		"spanish": "¡%firstName% está colapsando!¡%cap-élElla% está pegando a otros colonos!",
 		"turkish": "%firstName% kriz geçiriyor. Diğer yerleşimcilere saldırıyor.",
-		"portuguese": "%firstName% está tendo um colapso! Ele está batendo outros colonos!",
+		"portuguese": "%firstName% está tendo um colapso! %eleEla% está batendo outros colonos!",
 	},
 	"colonistMoodDesc_lazyDay": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% decided to have a lazy day and take a lot of breaks.",
 		"german": "%firstName% erleidet einen Nervenzusammenbruch! %cap-erSie% hat sich entschieden einen faulen Tag zu machen und viele Pausen einzulegen.",
 		"french": "%firstName% a craqué ! %cap-ilElle% a décidé d'avoir un jour de repos et de prendre du temps pour %luiElle%",
-		//TODO-portuges
 		"spanish": "¡%firstName% está colapsando! %cap-élElla% ha decidido tener un día tranquilo y tomar un montón de descansos.",
 		"turkish": "%firstName% çöküş yaşıyor. Günü tembelce geçirmeye karar verdi ve bolca mola verecek.",
-		"portuguese": "%firstName% está tendo um colapso! Ele decidiu ter um dia preguiçoso e fazer muitos intervalos.",
+		"portuguese": "%firstName% está tendo um colapso! %eleEla% decidiu ter um dia preguiçoso e fazer muitos intervalos.",
 	},
 	"colonistMoodDesc_notWorking": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% refuses to work or follow any orders!",
 		"german": "%firstName% erleidet einen Nervenzusammenbruch! %cap-erSie% weigert sich zu arbeiten oder irgendwelchen Anweisungen zu folgen!",
 		"french": "%firstName% a craqué ! %cap-ilElle% refuse de travailler ou de suivre les ordres !",
-		//TODO-portuges
 		"spanish": "¡%firstName% está colapsando!¡%cap-élElla% se niega a trabajar o seguir órdenes!",
 		"turkish": "%firstName% çöküş yaşıyor. Çalışmayı reddediyor ve verilen emirleri yerine getirmeyecek.",
-		"portuguese": "%firstName% está tendo um colapso! Ele se recusa a trabalhar ou seguir qualquer ordem!",
+		"portuguese": "%firstName% está tendo um colapso! %eleEla% se recusa a trabalhar ou seguir qualquer ordem!",
 	},
 }

@@ -2456,17 +2456,50 @@
 //statues
 //*******
 
-"statueFounder": {
-		"english": "Wilhelm the Great",
-		"german": "Wilhelm der Große",
+	"statueFounder": {
+		"english": "Founder's Statue",
+		"german": "Gründerstatue",
+		//TODO-french
+		//TODO-spanish
+		//TODO-turkish
+		//TODO-portuguese
 		"french": "Wilhelm le Grand",
 		"spanish": "Wilhelm el Grande",
 		"turkish": "Büyük Wilhelm",
 		"portuguese": "Wilhelm, o Grande",
 	},
 	"statueFounderDescription": {
-		"english": "As one of the original Founders, Wilhelm the Great contributed to make this colony possible. Eternal thanks to him. May he always have food in winter!",
-		"german": "Als einer der ursprünglichen Gründer trug Wilhelm der Große wesentlich zur Schaffung dieser Kolonie bei. Ewiger Dank sei ihm hiermit zuteil. Mögen seine Vorratslager im Winter stets gut gefüllt sein!",
+		"english": "This statue honors the original Founders, which contributed to make this colony possible. Eternal thanks to them. May they always have food in winter!",
+		"german": "Diese Statue ehrt die ursprünglichen Gründer, welche wesentlich zur Schaffung dieser Kolonie beitrugen. Ewiger Dank sei ihnen hiermit zuteil. Mögen ihre Vorratslager im Winter stets gut gefüllt sein!",
+		//TODO-french
+		//TODO-spanish
+		//TODO-turkish
+		//TODO-portuguese
+		"french": "L'un des premiers Fondateurs, Wilhelm le Grand contribua pour rendre cette colonie possible. Remerciements éternels pour lui. Puisse-t-il y avoir de la nourriture en hiver !",
+		"spanish": "Como uno de los primeros fundadores, Wilhelm el Grande contribuyó a hacer esta colonia posible. Gracias eternas a él. ¡Que siempre tenga comida en invierno!",
+		"turkish": "Orijinal Kuruculardan biri olarak, Büyük Wilhelm bu yerleşimi mümkün olmasına katkıda bulundu. Onun sonsuz teşekkürler. Kışın her zaman yemek bulması umuduyla!",
+		"portuguese": "Como um dos fundadores originais, Wilhelm, o Grande, contribuiu para tornar essa colônia possível. Eterno obrigado a ele. Que ele sempre tenha comida no inverno!",
+	},
+	// once the Founder's statue is built, it's dedicated to one of Founders' Fortune greatest supporters, so there name replaces %supporter% in these texts:
+	"statueFounderSupporter": {
+		"english": "%supporter% the Great",
+		"german": "%supporter% %derDie% Große",
+		//TODO-french
+		//TODO-spanish
+		//TODO-turkish
+		//TODO-portuguese
+		"french": "Wilhelm le Grand",
+		"spanish": "Wilhelm el Grande",
+		"turkish": "Büyük Wilhelm",
+		"portuguese": "Wilhelm, o Grande",
+	},
+	"statueFounderSupporterDescription": {
+		"english": "As one of the original Founders, %supporter% the Great contributed to make this colony possible.\n\nEternal thanks to %himHer%. May %heShe% always have food in winter!",
+		"german": "Als einer der ursprünglichen Gründer trug %supporter% %derDie% Große wesentlich zur Schaffung dieser Kolonie bei.\n\nEwiger Dank sei %ihmIhr% hiermit zuteil. Mögen %seineIhre% Vorratslager im Winter stets gut gefüllt sein!",
+		//TODO-french
+		//TODO-spanish
+		//TODO-turkish
+		//TODO-portuguese
 		"french": "L'un des premiers Fondateurs, Wilhelm le Grand contribua pour rendre cette colonie possible. Remerciements éternels pour lui. Puisse-t-il y avoir de la nourriture en hiver !",
 		"spanish": "Como uno de los primeros fundadores, Wilhelm el Grande contribuyó a hacer esta colonia posible. Gracias eternas a él. ¡Que siempre tenga comida en invierno!",
 		"turkish": "Orijinal Kuruculardan biri olarak, Büyük Wilhelm bu yerleşimi mümkün olmasına katkıda bulundu. Onun sonsuz teşekkürler. Kışın her zaman yemek bulması umuduyla!",

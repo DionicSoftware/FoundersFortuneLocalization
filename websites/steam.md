@@ -25,8 +25,8 @@ A fantasy colony simulator focusing on creative building, colonist psychology an
 Handle resources, farming, production, tools, weapons, armor, trading, defense, and research, as well as the wishes, expectations, thoughts, and possessions of every colonist.
 
 ###  German
-Ein Fantasy Koloniesimulator, der sich auf kreatives Bauen, Kolonistenpsychology und Verteidigung konzentriert.
-Gehe um mit Landwirtschaft, Produktion, Ausrüstung, Handel, Verteidigung und Forschung, sowie mit den Wünschen Erwartungen und Gedanken jedes Kolonisten.
+Ein Fantasy Koloniesimulator, der sich auf kreatives Bauen, das Umsorgen deiner Kolonisten und Basenverteidigung konzentriert.
+Kümmere dich um Landwirtschaft, Produktion, Ausrüstung, Handel, Verteidigung und Forschung, sowie um die Wünsche, Erwartungen und Gedanken deiner Kolonisten.
 
 
 
@@ -56,9 +56,9 @@ Each colonist reacts to events, happy or sad, and reflects that in their behavio
 ### German
 Kümmere dich um deine Kolonisten
 
-Die Kolonisten sind deine oberste Priorität. Anfangs musst du sie einfach mit Nahrung und einem Zuhause versorgen. Aber die Welt ist voll von Gefahren! Eine Infektion könnte tödlich für den stärksten Krieger werden und eine Seuche könnte die komplette Kolonie dahinraffen.
+Das Wohlergehen deiner Kolonisten ist deine oberste Priorität. Zu Beginn mag es zwar noch reichen sie mit roher Nahrung und einfachen Schlafplätzen zufrieden zu Stellen, doch schon bald steigen ihre Erwartungen auf immer höhere Niveaus an. Noch dazu ist die neue Welt voll von Gefahren! Vor einer Infektion ist auch der stärksten deiner Krieger nicht gefeilt, während eine Seuche deine komplette Kolonie dahinraffen lassen könnte.
 
-Jeder Kolonist reagiert auf Ereignisse - positive und negative - und spiegelt das in seinem Verhalten wider. Glückliche Kolonisten erhalten eine Steigerung in ihrer Produktivität - Gestresste Kolonisten könnten einen Wutanfall haben.
+Jeder Kolonist reagiert auf Ereignisse - positive und negative - und spiegelt das in seinem Verhalten wider. Glückliche Kolonisten erhalten eine Steigerung in ihrer Produktivität - unzufriedene Kolonisten neigen auf lange Sicht zu Nervenzusammenbrüchen.
 
 
 
@@ -77,9 +77,9 @@ You are not limited to predefined buildings! Design your own houses and style th
 ### German
 Baue deine Kolonie
 
-Wenn deine Kolonisten ankommen, haben sie nichts als die Kleidung die sie tragen. Du übernimmst die Kontrolle und befiehlst ihnen Material zu sammeln und Mauern, Böden und Möbel zu bauen.
+Als Neuankömmlinge in einer unbekannten Welt, verfügen deine Kolonisten anfangs über nicht viel mehr als ihre Kleidung, die sie am Körper tragen. Über alles weitere bestimmst du! Lasse deine Schützlinge Ressourcen sammeln aus denen sie Gebäude, Möbel und nützliche Ausrüstung anfertigen können.
 
-Du musst dich nicht auf vorgefertigte Gebäude beschränken! Designe deine eigenen Häuser und richte sie nach deinen Vorstellungen ein. Es gibt Dutzende Konstruktionselemente und Möbelstücke mit welchen du die Siedlung deiner Träume aufbauen kannst!
+Du musst dich dabei keineswegs auf vorgefertigte Bauwerke beschränken! Designe deine eigenen Häuser und richte sie nach deinen Vorstellungen ein. Es gibt Dutzende Konstruktionselemente und Möbelstücke mit denen du die Siedlung ganz nach deinen Vorstellungen gestalten kannst!
 
 
 
@@ -100,9 +100,9 @@ At That Point, All Bets Are Off…
 ### German
 Werde mit Nevenzusammenbrüchen fertig
 
-In einer perfekten Welt würden alle Wünsche erfüllt werden - zumindest glaubt das Toni. Erfüllte Wünschen können einen Bürger in eine gute Stimmung bringen, während Hunger, Verletzungen, langweilige Konversationen oder sogar Alpträume ihm diese Freude nehmen werden.
+In einer perfekten Welt würden alle Wünsche erfüllt werden - zumindest glaubt das Toni. Erfüllte Wünschen können einen Siedler in eine gute Stimmung bringen, während Hunger, Verletzungen, langweilige Konversationen oder sogar Alpträume ihm diese Freude nehmen werden.
 
-Wenn du die Bedürfnisse und Wünsche deiner Kolonisten zu lange ignorierst könnte einer von ihnen einen Nervenzusammenbruch haben. Was dann passiert, steht in den Sternen...
+Wenn du die Bedürfnisse und Wünsche deiner Kolonisten zu lange ignorierst könnte einer von ihnen einen Nervenzusammenbruch erleiden. Im Fall der Fälle solltest du besser auf alles vorbereitet sein...
 
 
 
@@ -121,7 +121,7 @@ Grow a variety of seasonal crops and set up a kitchen to make delicious meals ou
 ### German
 Baue deinen Bauernhof auf
 
-Essen ist wichtig. Gutes Essen macht Kolonisten glücklich, falsches Essen machen Kolonisten krank, wenig Essen macht Kolonisten langsam und kein Essen lässt Kolonisten sterben.
+Essen ist wichtig. Gutes Essen macht Kolonisten glücklich, falsches Essen macht Kolonisten krank, wenig Essen macht Kolonisten langsam und kein Essen lässt Kolonisten sterben.
 
 Baue eine Vielfalt von Pflanzen in verschiedenen Jahreszeiten an und koche köstliche Mahlzeiten in der Küche. Baue dir einen Vorrat auf bevor der Winter kommt und handle schnell wenn ein Schwarm hungriger Insekten sich auf deinen Feldern niederlässt!
 
@@ -142,9 +142,9 @@ When supplies dwindle and the freezing cold wind howls outside, it’s easy to l
 ### German
 Überlebe den Winter
 
-Verwende die Zeit die du hast und stelle sicher, dass du genug Essen vorrätig hast, denn der Winter kommt. Hoffen wir mal, dass du die Mahlzeiten nicht zu halben Rationen beschränken musst  denn das wird deine Kolonisten schwächen.
+Verwende die Zeit die du hast und stelle sicher, dass du genug Essen vorrätig hast, denn der Winter naht. Hoffen wir mal, dass du die Mahlzeiten nicht zu halben Rationen beschränken musst, denn das wird deine Kolonisten schwächen.
 
-Wenn die Vorräte schwinden und der eisig kalten Wind draußen heult, ist es einfach die Hoffnung zu verlieren...
+Wenn die Vorräte schwinden und der eisig kalte Wind draußen heult, ist es einfach die Hoffnung zu verlieren...
 
 
 
@@ -165,7 +165,7 @@ Handle mit Gütern und werde reich
 
 Es hat sich herumgesprochen, dass deine Kolonie angefangen hat Waren zu produzieren. Begrüße reisende Händler und versuche einen guten Preis für alte Schriftrollen zu ergattern oder kaufe zusätzliche Mahlzeiten, um die Vorräte aufzustocken.
 
-Versuche die Produktion am laufen zu halten, sodass du immer etwas zu verkaufen hast. Eine fortgeschrittene Kolonie muss gute Gehälter zahlen um jeden glücklich zu halten. Wenn die Moral im Keller ist, können zusätzliche Gehaltsboni sogar ein kleines bisschen Zufriedenheit kaufen!
+Versuche die Produktion am laufen zu halten, sodass du immer etwas zu verkaufen hast. Eine fortgeschrittene Kolonie muss gute Gehälter zahlen um jeden Einwohner bei der Stange zu halten. Wenn die Moral im Keller ist, können zusätzliche Gehaltsboni sogar ein kleines bisschen Zufriedenheit kaufen!
 
 
 
@@ -186,7 +186,7 @@ Erforsche Technologien
 
 Dein Zuhause aufzubauen ist ein langer Prozess und Ressourcen und Arbeitskräfte werden nicht die einzigen Dinge sein, die du brauchst. Kluge Siedler verbringen einen großen Teil ihrer Zeit damit, neue Technologien zu erforschen. So schalten sie bessere Ausrüstung, neue Möbel und Konstruktionselemente frei.
 
-Wähle deine Gelehrten sorgfältig aus - falls ihre Persönlichkeit nicht auf diese Art von Arbeit zugeschnitten ist, werden sie nicht viel Fortschritt machen.
+Wähle deine Gelehrten sorgfältig aus - falls ihre Persönlichkeit nicht auf diese Art von Arbeit zugeschnitten ist, werden sie nicht viel Fortschritt erzielen.
 
 
 
@@ -207,7 +207,7 @@ Verteidige deinen Außenposten
 
 Du bist nicht allein in diesem neuen Land, das du "Zuhause" nennst. Die Tikigoblins die hier leben freuen sich nicht besonders über deine Ansiedlungsversuche und werden dir möglicherweise einen Besuch abstatten, um dich davon abzuhalten.
 
-Bilde deine Kolonisten in der Kriegskunst aus und rüste sie aus mit den besten Waffen und Rüstungen in der Kolonie. Baue Wände und Türme, um die Sicherheit deiner Kolonie zu gewährleisten - so werden es deine Feinde nicht einfach haben die Kolonie ins Wanken zu bringen!
+Bilde deine Kolonisten in der Kriegskunst aus und statte sie aus mit den besten Waffen und Rüstungen in der Kolonie aus. Baue Wände und Türme, um die Sicherheit deiner Kolonie zu gewährleisten - so werden es deine Feinde nicht einfach haben die Kolonie ins Wanken zu bringen!
 
 
 
@@ -220,7 +220,7 @@ We've been running a public Alpha from our Website for a while and we're continu
 
 
 ### German
-Seit ein paar Monaten haben auf unserer Website eine öffentliche Alpha laufen und wir setzten dieses Projekt jetzt auf Steam fort. Wir haben das Feedback als Wegweiser verwendet um besser zu entscheiden welche Funktionen eingebaut werden sollten, welche Verbesserungen notwendig sind und welche Bugs zuerst gefixt werden müssen.
+Auf unserer Website hatten wir einige Monate lang eine öffentliche Alpha laufen, haben uns jetzt jedoch dazu entschieden dieses Projekt auf Steam fortzusetzen. Die Entwicklung des Spiels ist dabei stark auf das Feedback unserer Community ausgerichtet. Dieses dient uns als Wegweiser, um besser entscheiden zu können welche Funktionen eingebaut werden sollten, welche Verbesserungen notwendig sind und welche Bugs zuerst gefixt werden müssen. Zusammen mit euch streben wir so ein möglichst ideales Spielerlebnis an!
 
 
 
@@ -233,7 +233,7 @@ Depending on the amount of support we get, we plan to leave early access between
 
 
 ### German
-Abhängig von der Menge an Unterstützung die wir bekommen, planen wir Early Access zwischen September 2019 und September 2020 abzuschließen.
+Abhängig von der Menge an Unterstützung die wir bekommen, planen wir den Early Access zwischen September 2019 und September 2020 abzuschließen.
 
 
 
@@ -277,7 +277,7 @@ All features in the Trailer, Screenshots, and in the "About this game" section b
 
 
 ### German
-In der Vergangenheit haben wir auf unserer Website verschiedene Alphaversionen den Spielern zu Verfügung gestellt. Zum Zeitpunkt der Erstellung dieser Beschreibung haben wir 100-300 Spieler jeden Tag, die oft mehr als 18 Stunden spielen um alle Technologien freizuschalten und noch mehr um das Bevölkerungslimit zu erreichen.
+In der Vergangenheit hatten wir die Alpha von Founders' Fortune auf unserer Website kostenlos zur Verfügung gestellt. Zum Zeitpunkt der Erstellung dieser Beschreibung haben wir ca. 100-300 aktive Spieler pro Tag, die für einen Spieldurchgang (gemessen am Erforschen aller Technologien und dem Erreichen der maximalen Kolonistenanzahl) gerne mal 18 Stunden beschäftigt sind.
 
 Alle gezeigten Funktionen im Trailer, in den Screenshots und im "Über dieses Spiel"-Bereich sind bereits implementiert und spielbar.
 
@@ -291,7 +291,7 @@ We plan to raise the price for Founders' Fortune as we add more features to the 
 
 
 ### German
-Wir haben vor den Preis für Founders' Fortune anzuheben während wir das Spiel verbessern. Der genaue Betrag hängt von der Anzahl der neuen Funktionen ab.
+Wir haben vor den Preis für Founders' Fortune anzuheben während wir das Spiel verbessern. Der genaue Betrag hängt von der Anzahl der neuen Funktionen und der damit verbundenen Arbeit ab.
 
 
 
@@ -304,7 +304,7 @@ We have an amazing community and we're involving them quite extensively already 
 
 
 ### German
-Wir haben eine tolle Community und wir beziehen sie mit der Feddbackbox im Spiel, dem Discord Server und dem Forum aktuell schon stark mit ein. Wir waren auch mit einer bekannten Twitch Streamerin live um Fragen aus der Community zu beantworten.
+Wir haben eine tolle Community, die sich über unsere spielinteren Feedbackbox sowie unserem Forum und Discord Server schon jetzt direkt in die Entwicklung von Founders' Fortune miteinbringt. Auch über Youtuber und Twitch Streamer stellten wir uns bereits den Fragen unserer Spieler und gaben Einblicke in den Entwicklungsprozess des Spiels.
 
 
 

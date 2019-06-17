@@ -46,7 +46,7 @@ Subsitute "..." with your language
 *************************************
 
 ### English
-Take Care Of Your Colonists
+Take Care of Your Colonists
 
 The colonists are your top priority. At first, you simply need to provide them with food and shelter. But the world is full of dangers! An infection might prove fatal to the strongest warrior and a plague can wipe out your colony entirely.
 
@@ -111,7 +111,7 @@ Wenn du die Bedürfnisse und Wünsche deiner Kolonisten zu lange ignorierst kön
 *********************************
 
 ### English
-Set up your Farm
+Set up Your Farm
 
 Food matters. Good food makes colonists happy, wrong food makes colonists sick, little food makes colonists slow, and no food makes colonists die.
 
@@ -197,7 +197,7 @@ Wähle deine Gelehrten sorgfältig aus - falls ihre Persönlichkeit nicht auf di
 ### English
 Protect Your Outpost
 
-You are not alone in this new land you call ‘home’. The Tikigoblins living there are not all that happy about your settling efforts and might pay you a visit to try to get you to stop.
+You are not alone in this new land you call ‘home’. The Tikigoblins living there are not all that happy about your settling efforts and might pay you a visit to stop you.
 
 Train your colonists in the art of warfare and equip them with the best weapons and armor you have. Build walls and towers to ensure the security of your colony – that way, your enemies will have a difficult time trying to mess with you!
 

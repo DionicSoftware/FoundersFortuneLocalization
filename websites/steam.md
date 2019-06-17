@@ -56,9 +56,9 @@ Each colonist reacts to events, happy or sad, and reflects that in their behavio
 ### German
 Kümmere dich um deine Kolonisten
 
-Das Wohlergehen deiner Kolonisten ist deine oberste Priorität. Zu Beginn mag es zwar noch reichen sie mit roher Nahrung und einfachen Schlafplätzen zufrieden zu Stellen, doch schon bald steigen ihre Erwartungen auf immer höhere Niveaus an. Noch dazu ist die neue Welt voll von Gefahren! Vor einer Infektion ist auch der stärksten deiner Krieger nicht gefeilt, während eine Seuche deine komplette Kolonie dahinraffen lassen könnte.
+Das Wohlergehen deiner Kolonisten ist deine oberste Priorität. Zu Beginn mag es zwar noch reichen sie mit roher Nahrung und einfachen Schlafplätzen zufrieden zu stellen, doch schon bald steigen ihre Erwartungen auf immer höhere Niveaus an. Aber die neue Welt ist voll von Gefahren! Gegen eine Infektion ist auch der stärksten Krieger nicht gefeit, während eine Seuche deine komplette Kolonie dahinraffen könnte.
 
-Jeder Kolonist reagiert auf Ereignisse - positive und negative - und spiegelt das in seinem Verhalten wider. Glückliche Kolonisten erhalten eine Steigerung in ihrer Produktivität - unzufriedene Kolonisten neigen auf lange Sicht zu Nervenzusammenbrüchen.
+Jeder Kolonist reagiert auf Ereignisse - positive und negative - und spiegelt das in seinem Verhalten wider. Glückliche Kolonisten erhalten eine Steigerung in ihrer Produktivität - unzufriedene Kolonisten neigen zu Nervenzusammenbrüchen.
 
 
 
@@ -207,7 +207,7 @@ Verteidige deinen Außenposten
 
 Du bist nicht allein in diesem neuen Land, das du "Zuhause" nennst. Die Tikigoblins die hier leben freuen sich nicht besonders über deine Ansiedlungsversuche und werden dir möglicherweise einen Besuch abstatten, um dich davon abzuhalten.
 
-Bilde deine Kolonisten in der Kriegskunst aus und statte sie aus mit den besten Waffen und Rüstungen in der Kolonie aus. Baue Wände und Türme, um die Sicherheit deiner Kolonie zu gewährleisten - so werden es deine Feinde nicht einfach haben die Kolonie ins Wanken zu bringen!
+Bilde deine Kolonisten in der Kriegskunst aus und statte sie mit den besten Waffen und Rüstungen in der Kolonie aus. Baue Wände und Türme, um die Sicherheit deiner Kolonie zu gewährleisten - so werden es deine Feinde nicht einfach haben die Kolonie ins Wanken zu bringen!
 
 
 
@@ -216,11 +216,11 @@ Bilde deine Kolonisten in der Kriegskunst aus und statte sie aus mit den besten 
 **********************************
 
 ### English
-We've been running a public Alpha from our Website for a while and we're continuing this project on Steam. We've used the feedback as a guiding light to determine which features to implement, which quality of live improvements to make and which bugs to fix first and it's worked great so far.
+We've been running a public Alpha from our Website for a while and we're continuing this project on Steam. We've used the feedback as a guiding light to determine which features to implement, which quality of live improvements to make and which bugs to fix first. Together we're shooting for the best experience possible!
 
 
 ### German
-Auf unserer Website hatten wir einige Monate lang eine öffentliche Alpha laufen, haben uns jetzt jedoch dazu entschieden dieses Projekt auf Steam fortzusetzen. Die Entwicklung des Spiels ist dabei stark auf das Feedback unserer Community ausgerichtet. Dieses dient uns als Wegweiser, um besser entscheiden zu können welche Funktionen eingebaut werden sollten, welche Verbesserungen notwendig sind und welche Bugs zuerst gefixt werden müssen. Zusammen mit euch streben wir so ein möglichst ideales Spielerlebnis an!
+Auf unserer Website hatten wir einige Monate lang eine öffentliche Alpha laufen und werden das Projekt jetzt auf Steam fortzusetzen. Die Entwicklung des Spiels ist dabei stark auf das Feedback unserer Community ausgerichtet. Dieses dient uns als Wegweiser, um besser entscheiden zu können welche Funktionen eingebaut werden sollten, welche Verbesserungen notwendig sind und welche Bugs zuerst gefixt werden müssen. Gemeinsam streben wir so ein möglichst ideales Spielerlebnis an!
 
 
 
@@ -277,7 +277,7 @@ All features in the Trailer, Screenshots, and in the "About this game" section b
 
 
 ### German
-In der Vergangenheit hatten wir die Alpha von Founders' Fortune auf unserer Website kostenlos zur Verfügung gestellt. Zum Zeitpunkt der Erstellung dieser Beschreibung haben wir ca. 100-300 aktive Spieler pro Tag, die für einen Spieldurchgang (gemessen am Erforschen aller Technologien und dem Erreichen der maximalen Kolonistenanzahl) gerne mal 18 Stunden beschäftigt sind.
+In der Vergangenheit hatten wir die Alpha von Founders' Fortune auf unserer Website kostenlos zur Verfügung gestellt. Zum Zeitpunkt der Erstellung dieser Beschreibung haben wir ca. 100-300 aktive Spieler pro Tag. Für das Erforschen aller Technologien und das Erreichen der maximalen Kolonistenanzahl sind sie gerne mal 18 Stunden beschäftigt.
 
 Alle gezeigten Funktionen im Trailer, in den Screenshots und im "Über dieses Spiel"-Bereich sind bereits implementiert und spielbar.
 
@@ -291,7 +291,7 @@ We plan to raise the price for Founders' Fortune as we add more features to the 
 
 
 ### German
-Wir haben vor den Preis für Founders' Fortune anzuheben während wir das Spiel verbessern. Der genaue Betrag hängt von der Anzahl der neuen Funktionen und der damit verbundenen Arbeit ab.
+Wir haben vor den Preis für Founders' Fortune anzuheben während wir das Spiel verbessern. Der genaue Betrag hängt von den neuen Inhalten ab.
 
 
 
@@ -304,7 +304,7 @@ We have an amazing community and we're involving them quite extensively already 
 
 
 ### German
-Wir haben eine tolle Community, die sich über unsere spielinteren Feedbackbox sowie unserem Forum und Discord Server schon jetzt direkt in die Entwicklung von Founders' Fortune miteinbringt. Auch über Youtuber und Twitch Streamer stellten wir uns bereits den Fragen unserer Spieler und gaben Einblicke in den Entwicklungsprozess des Spiels.
+Wir haben eine tolle Community, die sich über unsere spielintere Feedbackbox sowie unserem Forum und Discord Server schon jetzt direkt in die Entwicklung von Founders' Fortune mit einbringt. Auch über Youtuber und Twitch Streamer stellten wir uns bereits den Fragen unserer Spieler und gaben Einblicke in den Entwicklungsprozess des Spiels.
 
 
 

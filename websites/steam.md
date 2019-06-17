@@ -88,13 +88,13 @@ Du musst dich dabei keineswegs auf vorgefertigte Bauwerke beschränken! Designe 
 ************************************
 
 ### English
-Deal With Tantrums
+Deal with Tantrums
 
 In an ideal life, all your wishes come true, at least that’s what Toni thinks. Fulfilled wishes can cause a citizen to have good mood, while hunger, injuries, boring conversations, or even nightmares will make him feel bad.
 
-If you ignore the needs and wishes of your colonists for too long, one of them might have a breakdown and throw a trantrum.
+If you ignore your colonists' needs and wishes for too long, one of them might have a breakdown and throw a trantrum.
 
-At That Point, All Bets Are Off…
+At that point, all bets are off…
 
 
 ### German

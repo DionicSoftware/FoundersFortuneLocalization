@@ -56,7 +56,7 @@ Each colonist reacts to events, happy or sad, and reflects that in their behavio
 ### German
 Kümmere dich um deine Kolonisten
 
-Das Wohlergehen deiner Kolonisten ist deine oberste Priorität. Zu Beginn mag es zwar noch reichen sie mit roher Nahrung und einfachen Schlafplätzen zufrieden zu stellen, doch schon bald steigen ihre Erwartungen auf immer höhere Niveaus an. Aber die neue Welt ist voll von Gefahren! Gegen eine Infektion ist auch der stärksten Krieger nicht gefeit, während eine Seuche deine komplette Kolonie dahinraffen könnte.
+Das Wohlergehen deiner Kolonisten ist deine oberste Priorität. Zu Beginn mag es zwar noch reichen sie mit roher Nahrung und einfachen Schlafplätzen zufrieden zu stellen, doch schon bald steigen ihre Erwartungen auf immer höhere Niveaus an. Aber die neue Welt ist voll von Gefahren! Gegen eine Infektion ist auch der stärkste Krieger nicht gefeit, während eine Seuche deine komplette Kolonie dahinraffen könnte.
 
 Jeder Kolonist reagiert auf Ereignisse - positive und negative - und spiegelt das in seinem Verhalten wider. Glückliche Kolonisten erhalten eine Steigerung in ihrer Produktivität - unzufriedene Kolonisten neigen zu Nervenzusammenbrüchen.
 

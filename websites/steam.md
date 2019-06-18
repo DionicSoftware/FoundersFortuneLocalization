@@ -97,6 +97,14 @@ Quando seus colonos chegam, eles não têm nada além das roupas em seus corpos.
 Você não está limitado a edifícios pré-definidos! Projetar suas próprias casas e estilo-los ao seu gosto. Existem dezenas de elementos de construção e mobiliário que você pode usar para criar o acordo que você sempre sonhou!
 
 
+### Spanish
+Construye su colonia
+
+Cuándo colonos llegan, tienen nada menos su ropa. Toma el control y ordenarles de recolectar materiales y construir paredes, suelos y muebles.
+
+No está limitado a edificios predefinido ! Diseña sus proprias casas y dale un estilo a su gusto. Hay docena construcciones y elementos de mobiliario que puede utilizar para crear la colonia de vuestro sueños !
+
+
 
 
 # Long Description - Colonist Section

@@ -42,27 +42,6 @@ Subsitute "..." with your language
 
 
 
-# Long Description - Colonist Section
-*************************************
-
-### English
-Take Care of Your Colonists
-
-The colonists are your top priority. At first, you simply need to provide them with food and shelter. But the world is full of dangers! An infection might prove fatal to the strongest warrior and a plague can wipe out your colony entirely.
-
-Each colonist reacts to events, happy or sad, and reflects that in their behavior. Happy colonists will receive a boost to their productivity – Unhappy colonists might throw a temper tantrum.
-
-
-### German
-Kümmere dich um deine Kolonisten
-
-Das Wohlergehen deiner Kolonisten ist deine oberste Priorität. Zu Beginn mag es zwar noch reichen sie mit roher Nahrung und einfachen Schlafplätzen zufrieden zu stellen, doch schon bald steigen ihre Erwartungen auf immer höhere Niveaus an. Aber die neue Welt ist voll von Gefahren! Gegen eine Infektion ist auch der stärkste Krieger nicht gefeit, während eine Seuche deine komplette Kolonie dahinraffen könnte.
-
-Jeder Kolonist reagiert auf Ereignisse - positive und negative - und spiegelt das in seinem Verhalten wider. Glückliche Kolonisten erhalten eine Steigerung in ihrer Produktivität - unzufriedene Kolonisten neigen zu Nervenzusammenbrüchen.
-
-
-
-
 # Long Description - Building Section
 *************************************
 
@@ -80,6 +59,27 @@ Baue deine Kolonie
 Als Neuankömmlinge in einer unbekannten Welt, verfügen deine Kolonisten anfangs über nicht viel mehr als ihre Kleidung, die sie am Körper tragen. Über alles weitere bestimmst du! Lasse deine Schützlinge Ressourcen sammeln aus denen sie Gebäude, Möbel und nützliche Ausrüstung anfertigen können.
 
 Du musst dich dabei keineswegs auf vorgefertigte Bauwerke beschränken! Designe deine eigenen Häuser und richte sie nach deinen Vorstellungen ein. Es gibt Dutzende Konstruktionselemente und Möbelstücke mit denen du die Siedlung ganz nach deinen Vorstellungen gestalten kannst!
+
+
+
+
+# Long Description - Colonist Section
+*************************************
+
+### English
+Take Care of Your Colonists
+
+The colonists are your top priority. At first, you simply need to provide them with food and shelter. But the world is full of dangers! An infection might prove fatal to the strongest warrior and a plague can wipe out your colony entirely.
+
+Each colonist reacts to events, happy or sad, and reflects that in their behavior. Happy colonists will receive a boost to their productivity – Unhappy colonists might throw a temper tantrum.
+
+
+### German
+Kümmere dich um deine Kolonisten
+
+Das Wohlergehen deiner Kolonisten ist deine oberste Priorität. Zu Beginn mag es zwar noch reichen sie mit roher Nahrung und einfachen Schlafplätzen zufrieden zu stellen, doch schon bald steigen ihre Erwartungen auf immer höhere Niveaus an. Aber die neue Welt ist voll von Gefahren! Gegen eine Infektion ist auch der stärkste Krieger nicht gefeit, während eine Seuche deine komplette Kolonie dahinraffen könnte.
+
+Jeder Kolonist reagiert auf Ereignisse - positive und negative - und spiegelt das in seinem Verhalten wider. Glückliche Kolonisten erhalten eine Steigerung in ihrer Produktivität - unzufriedene Kolonisten neigen zu Nervenzusammenbrüchen.
 
 
 

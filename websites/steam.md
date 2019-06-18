@@ -28,7 +28,10 @@ Handle resources, farming, production, tools, weapons, armor, trading, defense, 
 Ein Fantasy Koloniesimulator, der sich auf kreatives Bauen, das Umsorgen deiner Kolonisten und Basenverteidigung konzentriert.
 Kümmere dich um Landwirtschaft, Produktion, Ausrüstung, Handel, Verteidigung und Forschung, sowie um die Wünsche, Erwartungen und Gedanken deiner Kolonisten.
 
-
+### French
+Un simulateur de colonie fantastique focalisé sur les constructions créatives, la psychologie de colon et la défense de base.
+Gestion des ressources, agriculture, production, équipement, commerce, défense, et recherche, ainsi que les voeux, attentes,
+pensées, et les possessions de chaque colon.
 
 
 # Long Description - Translation Disclaimer
@@ -39,7 +42,8 @@ Substitute "..." with your language
 ### English
 (The ... translation was done by the community.)
 
-
+### French
+(La traduction française a été réalisée par la communauté.)
 
 
 # Long Description - Building Section
@@ -60,7 +64,12 @@ Als Neuankömmlinge in einer unbekannten Welt, verfügen deine Kolonisten anfang
 
 Du musst dich dabei keineswegs auf vorgefertigte Bauwerke beschränken! Designe deine eigenen Häuser und richte sie nach deinen Vorstellungen ein. Es gibt Dutzende Konstruktionselemente und Möbelstücke mit denen du die Siedlung ganz nach deinen Vorstellungen gestalten kannst!
 
+### French
+Construisez Votre Colonie
 
+Lorsque des colons arrivent, ils n'ont rien à part quelques vêtements. Vous prenez leur contrôle et leur ordonnez de récolter du matériels et de construire des murs, des sols et des meubles.
+
+Vous n'êtes pas limité à des bâtiments prédéfinis! Décorez vos maisons et donnez un style qui correspond à vos goûts. Il y a une douzaine de construction et d'éléments d'ameublement que vous pouvez utiliser pour créer votre colonie dont vous avez toujours rêvé!
 
 
 # Long Description - Colonist Section

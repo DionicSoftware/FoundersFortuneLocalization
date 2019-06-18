@@ -36,7 +36,10 @@ Gestion des ressources, agriculture, production, équipement, commerce, défense
 Um simulador de colônias de fantasia com foco em construção criativa, psicologia colonial e defesa de base.
 Lidar com recursos, agricultura, produção, ferramentas, armas, armaduras, comércio, defesa e pesquisa, bem como os desejos, expectativas, pensamentos e posses de cada colono.
 
-
+### Spanish
+Un simulador de colonia fantástica focalizado en construcciones creativas, psicología colonial y defensa de base.
+Gestión de recursos, agricultura, producción, herramientas, armas, armaduras, negocio, defensa e investigación, así que los deseos, 
+expectativa, pensamiento y posesión de cada colono.
 
 
 # Long Description - Translation Disclaimer

@@ -33,7 +33,7 @@ Kümmere dich um Landwirtschaft, Produktion, Ausrüstung, Handel, Verteidigung u
 
 # Long Description - Translation Disclaimer
 *******************************************
-Subsitute "..." with your language
+Substitute "..." with your language
 
 
 ### English

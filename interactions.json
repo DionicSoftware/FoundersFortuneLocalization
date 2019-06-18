@@ -745,6 +745,14 @@
 		"english": "Lock Up",
 		"german": "Einsperren",
 	},
+	"FreeColonist": {
+		"english": "Free colonist",
+		"german": "Kolonisten befreien",
+	},
+	"FreeColonistFirstName": {
+		"english": "Free %firstName%",
+		"german": "%firstName% befreien",
+	},
 
 
 
@@ -757,6 +765,18 @@
 		"turkish": "Başkası kullanıyor",
 		"portuguese": "Alguém está usando isso",
 		"dutch": "Iemand anders gebruikt dat",
+	},
+	"firstNameIsUsingThat": {
+		"english": "%firstName% is using that",
+		"german": "%firstName% verwendet das gerade",
+	},
+	"goblinIsUsingThat": {
+		"english": "Goblin is using that",
+		"german": "Ein Goblin verwendet das gerade",
+	},
+	"visitorIsUsingThat": { // visitors like migrants or traders
+		"english": "A visitor is using that",
+		"german": "Ein Besucher verwendet das gerade",
 	},
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",

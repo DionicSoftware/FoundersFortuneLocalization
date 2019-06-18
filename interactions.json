@@ -760,6 +760,7 @@
 	},
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",
+		"german": "Kann wegen gebrochenem Bein nicht gehen",
 		"french": "Ne peut pas marcher à cause de sa jambe cassée",
 		"spanish": "No puede caminar, debido a una pierna rota",
 		"portuguese": "Não pode andar por causa de perna quebrada",
@@ -767,10 +768,15 @@
 	},
 	"cantWorkBrokenArm": {
 		"english": "Can't work because of broken arm",
+		"german": "Kann wegen gebrochenem Arm nicht arbeiten",
 		"french": "Ne peut pas travailler à cause de son bras cassé",
 		"spanish": "No puede trabajar, debido a un brazo roto",
 		"portuguese": "Não pode andar por causa de braço quebrado",
 		"turkish": "Kolu kırık, çalışamaz", 
+	},
+	"cantInteractIsLockedUp": {
+		"english": "Colonist is locked up",
+		"german": "Kolonist ist eingesperrt",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",

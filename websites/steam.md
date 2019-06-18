@@ -56,6 +56,9 @@ Substitute "..." with your language
 ### Portuguese
 (A tradução portuguesa foi feita pela comunidade)
 
+### Spanish
+(La traducción española fue realizada por la comunidad)
+
 
 
 

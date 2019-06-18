@@ -141,6 +141,13 @@ Os colonos são sua principal prioridade. Em primeiro lugar, basta fornecer comi
 
 Cada colono reage a eventos, felizes ou tristes, e reflete isso em seu comportamento. Os colonos felizes receberão um impulso para sua produtividade - colonos infelizes podem ter um acesso de raiva.
 
+### Spanish
+Cuida a sus colonos
+
+Los colonos son su principal prioridad. En primer lugar, solo debe ofrecerles comida y un refugio. Pero el mundo está lleno de peligro ! Una infección puede ser fatal para el guerrero el más poderoso y una plaga puede completamente devastar su colonia.
+
+Cada colono reacciona a los eventos, feliz o triste, y se refleja en su comportamiento. Los colonos felices recebiron una ayuda para mejorar su productividad - Colonos apenados podrían tener una crisis de rabia.
+
 
 
 

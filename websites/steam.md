@@ -41,6 +41,9 @@ Un simulador de colonia fantástica focalizado en construcciones creativas, psic
 Gestión de recursos, agricultura, producción, herramientas, armas, armaduras, negocio, defensa e investigación, así que los deseos, 
 expectativa, pensamiento y posesión de cada colono.
 
+### Turkish
+Yaratıcı inşa, kolonici psikolojisi ve üs savunmasına odaklı bir fantazi koloni simülatörü.
+Adadaki kaynakları kullanarak çiftçilik, araç gereç üretimi, ticaret, savunma ve araştırma yapmanız gerekir. Ayrıca kolonicilerin mutlu tutmalısınız.
 
 # Long Description - Translation Disclaimer
 *******************************************
@@ -59,7 +62,8 @@ Substitute "..." with your language
 ### Spanish
 (La traducción española fue realizada por la comunidad)
 
-
+### Turkish
+(Çeviri topluluk tarafından yapıldı.)
 
 
 # Long Description - Building Section
@@ -104,8 +108,12 @@ Cuándo colonos llegan, tienen nada menos su ropa. Toma el control y ordenarles 
 
 No está limitado a edificios predefinido ! Diseña sus proprias casas y dale un estilo a su gusto. Hay docena construcciones y elementos de mobiliario que puede utilizar para crear la colonia de vuestro sueños !
 
+### Turkish
+Koloninizi kurun
 
+Koloniciler adaya geldiklerinde üzerlerindeki kıyafetlerden başka bir şeyleri olmaz. Kontrolü elinize alın ve onlara malzeme toplamalarını ve duvar, zemin ve mobilya yapmalarını söyleyin.
 
+Önceden tanımlanmış binalarla sınırlı değilsiniz! Kendi evlerinizi tasarlayın ve zevkinize göre stillendirin. Her zaman hayalini kurduğunuz yerleşimi oluşturmak için kullanabileceğiniz düzinelerce inşaat ve mobilya öğesi var!
 
 # Long Description - Colonist Section
 *************************************
@@ -148,8 +156,12 @@ Los colonos son su principal prioridad. En primer lugar, solo debe ofrecerles co
 
 Cada colono reacciona a los eventos, feliz o triste, y se refleja en su comportamiento. Los colonos felices recebiron una ayuda para mejorar su productividad - Colonos apenados podrían tener una crisis de rabia.
 
+### Turkish
+Kolonicilerinize iyi bakın
 
+Koloniciler senin önceliğin. İlk başta, onlara yalnızca yiyecek ve barınak sağlamalısınız. Ama dünya tehlikelerle dolu! Bir enfeksiyon en güçlü savaşçı için ölümcül olabilir ve bir veba, koloninizi tamamen yok edebilir.
 
+Koloniciler olaylara duygusal tepki verir, mutlu ya da üzgün olarak, ve davranışlarında bunu yansıtır. Mutlu koloniciler üretkenliklerini artıracaklar - Mutsuz koloniciler öfke nöbeti geçirebilirler.
 
 # Long Description - Tantrum Section
 ************************************
@@ -159,7 +171,7 @@ Deal with Tantrums
 
 In an ideal life, all your wishes come true, at least that’s what Toni thinks. Fulfilled wishes can cause a citizen to have good mood, while hunger, injuries, boring conversations, or even nightmares will make him feel bad.
 
-If you ignore your colonists' needs and wishes for too long, one of them might have a breakdown and throw a trantrum.
+If you ignore your colonists' needs and wishes for too long, one of them might have a breakdown and throw a tantrum.
 
 At that point, all bets are off…
 
@@ -191,8 +203,14 @@ Se você ignorar as necessidades e desejos de seus colonos por muito tempo, um d
 
 Nesse ponto, todas as apostas estão fora ...
 
+### Turkish
+Öfke nöbetleriyle baş etme
 
+İdeal bir hayatta, bütün isteklerin gerçekleşir, en azından Toni'nin düşündüğü bu. Yerine getirilen dilekler, bir yerleşimcinin iyi bir ruh hali olmasına, aksine ise açlık, yaralanmalar, sıkıcı konuşmalar ve hatta kabuslar bile kendisini kötü hissettirmesine neden olabilir.
 
+Yerleşimcilerinizin ihtiyaç ve isteklerini çok uzun süre görmezden gelirseniz, onlardan birinin tepesi atabilir öfke nöbetine girebilir.
+
+Bu noktada, tüm bahisler kapalı…
 
 # Long Description - Farm Section
 *********************************
@@ -228,7 +246,12 @@ Alimentos importa. A boa comida deixa os colonos felizes, a comida errada deixa 
 
 Cresça uma variedade de culturas sazonais e crie uma cozinha para fazer deliciosas refeições com elas. Certifique-se de estocar antes do inverno e agir rápido quando um enxame de insetos famintos desce sobre seus campos!
 
+### Turkish
+Çiftliğini Ayarla
 
+Yiyecekler önemlidir. İyi yemek yerleşimcileri mutlu eder, kötü yemek yerleşimcileri hasta eder, çok az yemek yerleşimcileri yavaşlatır ve yemekler bittiğinde de yerleşimciler ölür.
+
+Çeşitli mevsimlik ürünler yetiştirin ve onlardan lezzetli yemekler yapmak için bir mutfak kurun. Kış mevsimi başlamadan önce stok yapmayı unutmayın ve aç bir böcek sürüsü tarlalarınıza indiğinde hızlı davranın
 
 
 # Long Description - Winter Section
@@ -266,7 +289,12 @@ Use o tempo que você tem e certifique-se de ter comida suficiente armazenada, p
 Quando os suprimentos diminuem e o vento frio e gelado uiva para fora, é fácil perder a esperança ...
 
 
+### Turkish
+Kışı Atlatma
 
+Sahip olduğunuz zamanı kullanın ve yeterli miktarda yiyecek bulunduğundan emin olun, çünkü kış geliyor. Umalım ki, yemekleri yarım rasyonla sınırlamak zorunda kalmazsınız, çünkü bu yerleşimcilerinizi zayıflatacaktır.
+
+Tedarikler azaldığında ve dondurucu soğuk rüzgarlar çıkarsa, umudunu kaybetmek kolaydır...
 
 # Long Description - Trading Section
 ************************************
@@ -303,7 +331,12 @@ Chegou a notícia de que sua colônia começou a produzir mercadorias. Cumprimen
 Tente manter a produção ativa para que você sempre tenha algo para vender. Uma colônia madura precisa pagar bons salários para manter todos felizes. Se a moral estiver baixa, fundos adicionais podem até comprar um pouquinho de felicidade!
 
 
+### Turkish
+Ticaret Yap ve Zengin Ol
 
+Zamanla, koloninin üretim yapmaya başladığı çevrede konuşulur olur. Seyahat eden yatırımcıları selamlayın ve bazı eski yazılarda iyi bir anlaşma yapıp yapamayacağınızı veya kışa hazırlanmak için ek yiyecekler alıp alamayacağınızı görün.
+
+Üretimi sürdürmeye çalışın, böylece her zaman satılacak bir şeyleriniz olur. Olgun bir koloninin herkesi mutlu etmek için iyi maaşlar ödemesi gerekir. Eğer moral düşükse, ek fonlar küçük bir mutluluk kaynağı bile olabilir!
 
 # Long Description - Research Section
 *************************************
@@ -338,7 +371,12 @@ Construir sua casa é um processo longo e recursos e mão de obra não são as �
 Escolha cuidadosamente os acadêmicos - se a personalidade deles não se encaixa nesse tipo de trabalho, eles não farão muito progresso.
 
 
+### Turkish
+Teknoloji Araştırmaları
 
+Evinizi inşa etmek uzun bir süreçtir ve ihtiyaç duyduğunuz tek şey insan gücü ve kaynaklar değildir. Akıllı yerleşimciler, yeni teknolojileri araştırmak için çok zaman harcar, böylece daha iyi ekipman, yeni mobilya ve yapı elemanlarının kilidini açar.
+
+Bilginleri dikkatlice seçin - kişilikleri bu tür bir işe uygun değilse çok fazla ilerleme kaydetmeyeceklerdir.
 
 # Long Description - Defense Section
 ************************************
@@ -375,6 +413,12 @@ Você não está sozinho nesta nova terra que chama de "casa". Os Tikigoblins qu
 Treine seus colonos na arte da guerra e equipe-os com as melhores armas e armaduras que você tiver. Construa muros e torres para garantir a segurança de sua colônia - dessa forma, seus inimigos terão dificuldade em tentar mexer com você!
 
 
+### Turkish
+Mevzilerinizi Korumak
+
+'Ev' dediğiniz bu yeni yerde yalnız değilsiniz. Orada yaşayan Tikigoblinler, yerleşim çabalarınızdan o kadar mutlu değiller ve sizi durdurmak için bir ziyarette bulunabilirler.
+
+Yerleşimcilerinizi savaş sanatında eğit ve onları sahip olduğun en iyi silah ve zırhla donat. Koloninin güvenliğini sağlamak için duvarlar ve kuleler inşa et - bu şekilde düşmanların seninle uğraşmaya çalışırken zorlanacak!
 
 
 # Early Access - Why Early Access?
@@ -396,7 +440,8 @@ Nous exécutons une Alpha publique depuis notre site Web depuis un moment et nou
 Estamos executando um Alpha público em nosso site por um tempo e continuamos este projeto no Steam. Usamos o feedback como uma luz orientadora para determinar quais recursos implementar, qual qualidade de melhorias ao vivo para fazer e quais erros corrigir primeiro. Juntos, estamos atirando para a melhor experiência possível!
 
 
-
+### Turkish
+Bir süredir Web sitemizden halka açık bir Alpha yürütüyoruz ve Steam'deki bu projeye devam ediyoruz. Hangi özellikleri uygulayacağınızı, hangi iyileştirmeleri yapmamaız gerektiğini ve ilk olarak hangi hataları düzelteceğimizi belirlemek için geri bildiriminiz yol gösterici bir ışık olarak kullanıyoruz. Birlikte mümkün olan en iyi deneyim için uğraşıyoruz!
 
 # Early Access - Approximately how long will this game be in Early Access?
 **************************************************************************
@@ -417,6 +462,8 @@ Selon le soutiens que nous recevons, nous prévoyons de quitter l'accès anticip
 Dependendo da quantidade de apoio que recebemos, planejamos deixar o acesso antecipado entre setembro de 2019 e setembro de 2020.
 
 
+### Turkish
+Aldığımız desteğin miktarına bağlı olarak, Eylül 2019 ve Eylül 2020 arasında erken erişimden çıkmayı planlıyoruz.
 
 
 # Early Access - How is the full version planned to differ from the Early Access version?
@@ -428,7 +475,7 @@ The big items on our roadmap include
 [*]Multi-Floor Buildings and roofs
 [*]Animals and Pets
 [*]Relationships
-[*]Mutliple Islands
+[*]Multiple Islands
 [*]Other Factions
 [/list]
 
@@ -473,6 +520,17 @@ Os grandes itens do nosso roteiro incluem
 
 Essas são as coisas que gostaríamos de fazer e os resultados finais dependem da quantidade de apoio que a Founder's Fortune recebe. Se não tivermos apoio algum, mudaremos para o polimento e tornaremos a experiência atual o mais suave possível.
 
+### Turkish
+Yol haritamızdaki büyük öğeler
+[list]
+[*] Çok Katlı Binalar ve çatılar
+[*] Vahşi ve Evcil Hayvanlar
+[*] İlişkiler
+[*] Çoklu Adalar
+[*] Diğer Gruplar
+[/list]
+
+Bunlar yapmak istediğimiz şeyler ve nihai sonuçlar Founders' Fortune’unun aldığı destek miktarına bağlı. Hiç destek almazsak, cilalamaya geçip mevcut deneyimi mümkün olduğunca sorunsuz hale getireceğiz.
 
 # Early Access - What is the current state of the Early Access version?
 ***********************************************************************
@@ -501,6 +559,10 @@ No passado, disponibilizamos várias versões Alpha em nosso site para os jogado
 Todos os recursos no trailer, Screenshots, e no "Sobre o jogo" abaixo são implementadas e jogável.
 
 
+### Turkish
+Geçmişte, oyuncular için web sitemiz üzerinden çeşitli Alpha sürümleri hazırladık. Bu bilgiyi yazdığmız sırada, her gün 100-300 oyuncumuz, teknoloji ağacının kilidini açmak için ve nüfus sınırına ulaşmak için 18 saatten daha da fazla zaman harcıyor.
+
+Trailer, Ekran Görüntüleri ve aşağıdaki "Bu oyun hakkında" bölümündeki tüm özellikler uygulanır ve oynanabilirdir.
 
 # Early Access - Will the game be priced differently during and after Early Access?
 ***********************************************************************************
@@ -521,6 +583,8 @@ Nous prévoyons d'augmenter le prix de Founders' Fortune à mesure que nous ajou
 Pretendemos aumentar o preço para a Founders 'Fortune à medida que adicionamos mais recursos ao jogo. Os valores exatos dependem da quantidade de conteúdo que podemos adicionar.
 
 
+### Turkish
+Oyuna daha fazla özellik katarken, Founders' Fortune fiyatını yükseltmeyi planlıyoruz. Kesin miktarlar ekleyebileceğimiz içeriğin miktarına bağlıdır.
 
 
 # Early Access - How are you planning on involving the Community in your development process?
@@ -542,4 +606,6 @@ Nous avons une communauté incroyable et nous les impliquons déjà assez souven
 Temos uma comunidade incrível e envolvemo-los bastante já através da nossa caixa de feedback no jogo, o Discord Server e o fórum. Também nos juntamos a um Twitch Streamer para responder a perguntas da comunidade ao vivo.
 
 
+### Turkish
+Harika bir topluluğumuz var ve bunları oyun içi geri bildirim kutumuz, Discord Sunucusu ve forum aracılığıyla zaten oldukça kapsamlı bir şekilde dahil ediyoruz. Ayrıca topluluktakilerin sorularını yanıtlamak için bir Twitch Streamer'a katıldık.
 

@@ -20,4 +20,4 @@ Alpha 7.5.1
 Forced Language:
 english
 ```
-###### _(Change french to your language)_
+###### _(Change english to your language)_

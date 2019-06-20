@@ -37,9 +37,8 @@ Um simulador de colônias de fantasia com foco em construção criativa, psicolo
 Lidar com recursos, agricultura, produção, ferramentas, armas, armaduras, comércio, defesa e pesquisa, bem como os desejos, expectativas, pensamentos e posses de cada colono.
 
 ### Spanish
-Un simulador de colonia fantástica focalizado en construcciones creativas, psicología colonial y defensa de base.
-Gestión de recursos, agricultura, producción, herramientas, armas, armaduras, negocio, defensa e investigación, así que los deseos, 
-expectativa, pensamiento y posesión de cada colono.
+Un simulador de colonias de fantasía focalizado en construcciones creativas, psicología colonial y defensa de base.
+Gestiona recursos, agricultura, producción, herramientas, armas, armaduras, comercio, defensa e investigación, así como los deseos, expectativas, pensamientos y posesiones de cada colono.
 
 ### Turkish
 Yaratıcı inşa, kolonici psikolojisi ve üs savunmasına odaklı bir fantazi koloni simülatörü.
@@ -102,11 +101,11 @@ Você não está limitado a edifícios pré-definidos! Projetar suas próprias c
 
 
 ### Spanish
-Construye su colonia
+Construye tu colonia
 
-Cuándo colonos llegan, tienen nada menos su ropa. Toma el control y ordenarles de recolectar materiales y construir paredes, suelos y muebles.
+Cuando los colonos llegan, no tienen nada salvo su ropa. Toma el control y ordénales recolectar materiales y construir paredes, suelos y muebles.
 
-No está limitado a edificios predefinido ! Diseña sus proprias casas y dale un estilo a su gusto. Hay docena construcciones y elementos de mobiliario que puede utilizar para crear la colonia de vuestro sueños !
+¡No estás limitado a edificios predefinidos! Diseña tus proprias casas y dales un estilo a tu gusto. ¡Hay docenas de elementos de construcción y mobiliario que puedes utilizar para crear la colonia de que siempre soñaste!
 
 ### Turkish
 Koloninizi kurun
@@ -150,11 +149,11 @@ Os colonos são sua principal prioridade. Em primeiro lugar, basta fornecer comi
 Cada colono reage a eventos, felizes ou tristes, e reflete isso em seu comportamento. Os colonos felizes receberão um impulso para sua produtividade - colonos infelizes podem ter um acesso de raiva.
 
 ### Spanish
-Cuida a sus colonos
+Cuida a tus colonos
 
-Los colonos son su principal prioridad. En primer lugar, solo debe ofrecerles comida y un refugio. Pero el mundo está lleno de peligro ! Una infección puede ser fatal para el guerrero el más poderoso y una plaga puede completamente devastar su colonia.
+Los colonos son tu principal prioridad. En primer lugar, solo debes proveerlos de comida y refugio. ¡Pero el mundo está lleno de peligros! Una infección puede ser fatal para el guerrero más poderoso y una plaga puede devastar completamente tu colonia.
 
-Cada colono reacciona a los eventos, feliz o triste, y se refleja en su comportamiento. Los colonos felices recebiron una ayuda para mejorar su productividad - Colonos apenados podrían tener una crisis de rabia.
+Cada colono reacciona a los eventos, feliz o triste, y se refleja en su comportamiento. Los colonos felices recibirán un incremento en su productividad - Los colonos apenados podrían tener una crisis de rabia.
 
 ### Turkish
 Kolonicilerinize iyi bakın
@@ -461,6 +460,9 @@ Selon le soutiens que nous recevons, nous prévoyons de quitter l'accès anticip
 ### Portuguese
 Dependendo da quantidade de apoio que recebemos, planejamos deixar o acesso antecipado entre setembro de 2019 e setembro de 2020.
 
+
+### Spanish
+Dependiendo de la cantidad de apoyo que recibamos, estamos planeando salir del acceso anticipado entre Septiembre del 2019 y Septiembre del 2020.
 
 ### Turkish
 Aldığımız desteğin miktarına bağlı olarak, Eylül 2019 ve Eylül 2020 arasında erken erişimden çıkmayı planlıyoruz.

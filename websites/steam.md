@@ -439,6 +439,10 @@ Nous exécutons une Alpha publique depuis notre site Web depuis un moment et nou
 Estamos executando um Alpha público em nosso site por um tempo e continuamos este projeto no Steam. Usamos o feedback como uma luz orientadora para determinar quais recursos implementar, qual qualidade de melhorias ao vivo para fazer e quais erros corrigir primeiro. Juntos, estamos atirando para a melhor experiência possível!
 
 
+### Spanish
+Hemos estado ejecutando una Alfa pública desde nuestro sitio web por un tiempo y estamos continuando este proyecto en Steam. Hemos usado el feedback como una luz guía para determinar qué características implementar, qué mejoras de la calidad de vida hacer y cuáles bugs arreglar primero. ¡Juntos estamos buscando la mejor experiencia posible!
+
+
 ### Turkish
 Bir süredir Web sitemizden halka açık bir Alpha yürütüyoruz ve Steam'deki bu projeye devam ediyoruz. Hangi özellikleri uygulayacağınızı, hangi iyileştirmeleri yapmamaız gerektiğini ve ilk olarak hangi hataları düzelteceğimizi belirlemek için geri bildiriminiz yol gösterici bir ışık olarak kullanıyoruz. Birlikte mümkün olan en iyi deneyim için uğraşıyoruz!
 
@@ -522,6 +526,20 @@ Os grandes itens do nosso roteiro incluem
 
 Essas são as coisas que gostaríamos de fazer e os resultados finais dependem da quantidade de apoio que a Founder's Fortune recebe. Se não tivermos apoio algum, mudaremos para o polimento e tornaremos a experiência atual o mais suave possível.
 
+
+### Spanish
+Los grandes ítems de nuestro plan incluyen
+[list]
+[*]Edificios con pisos múltiples y techos
+[*]Animales y mascotas
+[*]Relaciones
+[*]Múltiples islas
+[*]Otras facciones
+[/list]
+
+Estas son las cosas que nos gustaría hacer y los resultados finales dependen de la cantidad de apoyo que Founders' Fortune reciba. Si no recibimos nada de apoyo, nos centraremos en pulir y hacer de la experiencia actual lo más fluida posible.
+
+
 ### Turkish
 Yol haritamızdaki büyük öğeler
 [list]
@@ -561,6 +579,12 @@ No passado, disponibilizamos várias versões Alpha em nosso site para os jogado
 Todos os recursos no trailer, Screenshots, e no "Sobre o jogo" abaixo são implementadas e jogável.
 
 
+### Spanish
+En el pasado, hemos hecho varias versiones Alfa disponibles a través de nuestro sitio web para los jugadores. Al momento de escribir esto, tenemos alrededor de entre 100-300 jugadores cada día, los que frecuentemente pasan más de 18 horas para desbloquear el árbol de tecnologías e incluso más horas para alcanzar el límite de población.
+
+Todas las características en el Tráiler, en las capturas de pantalla y en la sección "Acerca de este juego" están implementadas y son jugables.
+
+
 ### Turkish
 Geçmişte, oyuncular için web sitemiz üzerinden çeşitli Alpha sürümleri hazırladık. Bu bilgiyi yazdığmız sırada, her gün 100-300 oyuncumuz, teknoloji ağacının kilidini açmak için ve nüfus sınırına ulaşmak için 18 saatten daha da fazla zaman harcıyor.
 
@@ -585,6 +609,10 @@ Nous prévoyons d'augmenter le prix de Founders' Fortune à mesure que nous ajou
 Pretendemos aumentar o preço para a Founders 'Fortune à medida que adicionamos mais recursos ao jogo. Os valores exatos dependem da quantidade de conteúdo que podemos adicionar.
 
 
+### Spanish
+Planeamos incrementar el precio de Founders' Fortune a medida que agreguemos más características al juego. La cantidad exacta depende de la cantidad de contenido que podamos añadir.
+
+
 ### Turkish
 Oyuna daha fazla özellik katarken, Founders' Fortune fiyatını yükseltmeyi planlıyoruz. Kesin miktarlar ekleyebileceğimiz içeriğin miktarına bağlıdır.
 
@@ -606,6 +634,10 @@ Nous avons une communauté incroyable et nous les impliquons déjà assez souven
 
 ### Portuguese
 Temos uma comunidade incrível e envolvemo-los bastante já através da nossa caixa de feedback no jogo, o Discord Server e o fórum. Também nos juntamos a um Twitch Streamer para responder a perguntas da comunidade ao vivo.
+
+
+### Spanish
+Tenemos una increíble comunidad y ya los estamos involucrando de forma bastante extensiva a través de la caja de feedback en el juego, el Servidor de Discord y el foro. También nos hemos unido a una Streamer de Twitch para responder preguntas de la comunidad en vivo.
 
 
 ### Turkish

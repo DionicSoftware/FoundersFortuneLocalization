@@ -9,6 +9,7 @@
 		"portuguese": "Feridas sangrentas",
 		"turkish": "Kanayan Yaralar",
 		"polish": "Krwotok",
+		"czech": "Krvácí",
 	},
 	"effectDesc_Bleeding": {
 		"english": "%firstName% bleeding! Make sure that %hisHer% wounds are bandaged properly. Otherwise, %firstName% could die of blood loss.",
@@ -22,6 +23,7 @@
 		"portuguese": "%firstName% sangra! Certifique-se de que seus ferimentos estejam enfaixados. Caso contrário, %firstName% poderia morrer.",
 		"turkish": "%firstName% yaralı! Yaralarının düzgün şekilde sargılı olduğundan emin olun. Aksi takdirde, %firstName% kan kaybından ölebilir.",
 		"polish": "%firstName% krwawi! Upewnij się, że %jegoJej% rany zostaną odpowiednio zabandażowane. W przeciwnym razie %firstName% może umrzeć z powodu utraty krwi.",
+		"czech": "%firstName% Krvácí! Ujisti se, že %jehojejí% rány budou řádně obvázané. Jinak, %firstName% může umřít na ztrátu krve.",
 	},
 	"effectTitle_Unconscious": {
 		"english": "Unconscious",
@@ -33,6 +35,7 @@
 		"portuguese": "Inconsciente",
 		"turkish": "Bilinçsiz",
 		"polish": "Nieprzytomny",
+		"czech": "V bezvědomí",
 	},
 	"effectDesc_Unconscious": {
 		"english": "It's going to take a while before %firstName% wakes up.",
@@ -44,6 +47,7 @@
 		"portuguese": "Isso vai levar algum tempo antes de %firstName% acordar.",	
 		"turkish": "%firstName% ayılmak için zamana ihtiyacı var.",
 		"polish": "Minie trochę czasu, zanim %firstName% się obudzi.",
+		"czech": "Zabere trochu času, než se %firstName% vzbudí",
 	},
 	"effectTitle_Bandage": {
 		"english": "Bandage",
@@ -55,6 +59,7 @@
 		"portuguese": "Bandagem",
 		"turkish": "Bandaj",
 		"polish": "Bandaż",
+		"czech": "Obvaz",
 	},
 	"effectDesc_Bandage": {
 		"english": "The bandage is stopping the blood loss.",
@@ -66,6 +71,7 @@
 		"portuguese": "A bandagem parou a perda de sangue",	
 		"turkish": "Bandaj kan kaybını durduruyor.",
 		"polish": "Bandaż zapobiega utracie krwii.",
+		"czech": "Obvaz zastavuje krvácení.",
 	},
 	"effectTitle_Healthy": {
 		"english": "No Effects",
@@ -77,6 +83,7 @@
 		"portuguese": "Sem efeito",
 		"turkish": "Etki Yok",
 		"polish": "Brak efektu",
+		"czech": "Bez efektu",
 	},
 	"effectDesc_Healthy": {
 		"english": "%firstName% is healthy!",
@@ -88,6 +95,7 @@
 		"portuguese": "%firstName% está de boa saúde!",
 		"turkish": "%firstName% sağlıklı!",
 		"polish": "%firstName% jest zdrowy!",
+		"czech": "%firstName% je zdravý!",
 	},
 	"effectTitle_Starving": {
 		"english": "Starving",
@@ -99,6 +107,7 @@
 		"portuguese": "Morre de fome",
 		"turkish": "Çok aç",
 		"polish": "Głoduje",
+		"czech": "Hladový",
 	},
 	"effectDesc_Starving": {
 		"english": "%firstName% didn't eat in a long time. %cap-heShe% needs to find something to eat soon in order to survive.",
@@ -112,6 +121,7 @@
 		"portuguese": "%firstName% não tenha comido por um longo tempo. %cap-eleEla% deve encontrar algo para comer rapidamente para sobreviver",
 		"turkish": "%firstName% uzun zamandır yemek yemedi. Hayatta kalabilmek için en kısa zamanda yiyecek bir şeyler bulması gerekiyor.",
 		"polish": "%firstName% nie jadł od dłuższego czasu. Musi znaleźć coś do jedzenia aby przeżyć.",
+		"czech": "%firstName% nejedl po dlouhou dobu. Musí najít brzy něco k jídlu, aby přežil.",
 	},
 	"effectTitle_HealingPotion": {
 		"english": "Healing Potion",
@@ -123,6 +133,7 @@
 		"portuguese": "Poção de saúde",
 		"turkish": "Şifa İksiri",
 		"polish": "Eliksir życia",
+		"czech": "Léčivý Elixír",
 	},
 	"effectDesc_HealingPotion": {
 		"english": "The healing potion %firstName% drank is doing it's work and restoring some health.",
@@ -134,6 +145,7 @@
 		"portuguese": "A poção de saúde que %firstName% bebeu faz seu trabalho e restaura sua saúde",
 		"turkish": "%firstName% şifa iksiri içti ve sağlığını geri kazanmaya başladı.",
 		"polish": "Eliksir życia wypity przez %firstName% działa i przywraca %muJej% zdrowie.",
+		"czech": "Léčivý elixír který %firstName% vypil, začíná působit a obnovuje zdravý.",
 	},
 	"effectTitle_Flu": {
 		"english": "Flu",
@@ -145,6 +157,7 @@
 		"portuguese": "gripe",
 		"turkish": "Grip",
 		"polish": "Grypa",
+		"czech": "Chřipka",
 	},
 	"effectDesc_Flu": {
 		"english": "%firstName% has caught the Flu. Make sure %heShe% stays in bed in the coming days and is treated with medicine by a doctor. Do not underestimate the illness!",
@@ -158,6 +171,7 @@
 		"portuguese": "%firstName% pegou a gripe. Certifique-se de que %eleEla% fique na cama pelos próximos dias e seja tratado com medicamentos prescritos por um médico. Não subestime a doença!",
 		"turkish": "%firstName% gribe yakalandı. Önümüzdeki günlerde yatakta kaldığından ve ilaçla tedavi edildiğinden emin olun. Hastalığı küçümsemeyin!",
 		"polish": "%firstName% zachorował na grypę. Upewnij się, że w najbliższych dniach pozostanie w łóżku i będzie %leczonyLeczona% przez lekarza. Nie lekceważ choroby!",
+		"czech": "%firstName% chytil chřipku. Ujisti se, že %firstName% zůstane v posteli v následujících dnech a že bude ošetřen lékařem s léky. Nepodceňuj choroby!",
 	},
 	"effectTitle_SleepingInBed": {
 		"english": "Resting in Bed",
@@ -169,6 +183,7 @@
 		"portuguese": "Descansar na cama",
 		"turkish": "Yatakta dinleniyor",
 		"polish": "Odpoczynek w łóżku",
+		"czech": "Odpočívá v posteli"
 	},
 	"effectDesc_SleepingInBed": {
 		"english": "%firstName% is resting and slowly re-gaining health.",
@@ -182,6 +197,7 @@
 		"portuguese": "%firstName% descansa e recuper%ao% lentamente",
 		"turkish": "%firstName% dinleniyor ve yavaşça yeniden sağlığını kazanıyor.",
 		"polish": "%firstName% odpoczywa i powoli odzyskuje zdrowie.",
+		"czech": "%firstName% odpočívá v posteli a pomalu nabírá zdravý.",
 	},
 	"effectTitle_AllergicReaction": {
 		"english": "Allergic Reaction",
@@ -193,6 +209,7 @@
 		"portuguese": "Reação alérgico",
 		"turkish": "Alerjik reaksiyon",
 		"polish": "Reakcja alergiczna",
+		"czech", "Alergická Reakce",
 	},
 	"effectDesc_AllergicReaction": {
 		"english": "%firstName% had to eat food %heShe% is allergic to. Now %hisHer% body has an allergic reaction.",

@@ -107,6 +107,7 @@ Cuando los colonos llegan, no tienen nada salvo su ropa. Toma el control y ordé
 
 ¡No estás limitado a edificios predefinidos! Diseña tus proprias casas y dales un estilo a tu gusto. ¡Hay docenas de elementos de construcción y mobiliario que puedes utilizar para crear la colonia de que siempre soñaste!
 
+
 ### Turkish
 Koloninizi kurun
 
@@ -148,12 +149,14 @@ Os colonos são sua principal prioridade. Em primeiro lugar, basta fornecer comi
 
 Cada colono reage a eventos, felizes ou tristes, e reflete isso em seu comportamento. Os colonos felizes receberão um impulso para sua produtividade - colonos infelizes podem ter um acesso de raiva.
 
+
 ### Spanish
 Cuida a tus colonos
 
 Los colonos son tu principal prioridad. En primer lugar, solo debes proveerlos de comida y refugio. ¡Pero el mundo está lleno de peligros! Una infección puede ser fatal para el guerrero más poderoso y una plaga puede devastar completamente tu colonia.
 
 Cada colono reacciona a los eventos, feliz o triste, y se refleja en su comportamiento. Los colonos felices recibirán un incremento en su productividad - Los colonos apenados podrían tener una crisis de rabia.
+
 
 ### Turkish
 Kolonicilerinize iyi bakın
@@ -202,6 +205,17 @@ Se você ignorar as necessidades e desejos de seus colonos por muito tempo, um d
 
 Nesse ponto, todas as apostas estão fora ...
 
+
+### Spanish
+Lidia con rabietas
+
+En una vida ideal, todos tus deseos se vuelven realidad, al menos eso es lo que piensa Toni. Los deseos cumplidos pueden hacer que un ciudadano esté de buen humor, mientras que el hambre, las lesiones, las conversaciones aburridas, o incluso las pesadillas lo harán sentir mal.
+
+Si ignoras las necesidades y deseos de tus colonos por mucho tiempo, uno de ellos podría tener una crisis y lanzar una rabieta.
+
+En ese punto, la suerte está echada…
+
+
 ### Turkish
 Öfke nöbetleriyle baş etme
 
@@ -244,6 +258,15 @@ Configure sua fazenda
 Alimentos importa. A boa comida deixa os colonos felizes, a comida errada deixa os colonos doentes, pouca comida faz os colonos ficarem lentos e nenhum alimento faz os colonos morrerem.
 
 Cresça uma variedade de culturas sazonais e crie uma cozinha para fazer deliciosas refeições com elas. Certifique-se de estocar antes do inverno e agir rápido quando um enxame de insetos famintos desce sobre seus campos!
+
+
+### Spanish
+Establece tu granja
+
+La comida importa. La buena comida hace felices a tus colonos, la mala comida los enferma, poca comida los hace más lentos, y ninguna comida los hace morir.
+
+Haz crecer una variedad de cultivos estacionales y prepara una cocina para hacer deliciosos platillos a partir de ellos. ¡Asegúrate de abastecerte antes que llegue el invierno y actúa rápido cuando un enjambre de insectos hambrientos descienda sobre tus campos!
+
 
 ### Turkish
 Çiftliğini Ayarla
@@ -288,6 +311,14 @@ Use o tempo que você tem e certifique-se de ter comida suficiente armazenada, p
 Quando os suprimentos diminuem e o vento frio e gelado uiva para fora, é fácil perder a esperança ...
 
 
+### Spanish
+Sobrevive al invierno
+
+Usa tu tiempo y asegúrate que tengas suficiente comida almacenada, porque el invierno se acerca. Esperemos que no tengas que restringir las comidas a la mitad - porque eso hará que tus colonos se debiliten.
+
+Cuando los suministros disminuyen y el viento helado aúlla afuera, es fácil perder la esperanza...
+
+
 ### Turkish
 Kışı Atlatma
 
@@ -330,6 +361,14 @@ Chegou a notícia de que sua colônia começou a produzir mercadorias. Cumprimen
 Tente manter a produção ativa para que você sempre tenha algo para vender. Uma colônia madura precisa pagar bons salários para manter todos felizes. Se a moral estiver baixa, fundos adicionais podem até comprar um pouquinho de felicidade!
 
 
+### Spanish
+Comercia bienes y hazte rico
+
+Se corrió la voz que tu colonia ha empezado a producir mercancías. Recibe a los comerciantes viajeros y ve si puedes conseguir un buen trato en algunos viejos pergaminos o compra comida extra a fin de prepararte para el invierno.
+
+Trata de mantener la producción y así siempre tendrás algo que vender. Una colonia madura necesita pagar buenos sueldos para mantener a todos contentos. Si la moral está baja, ¡los fondos adicionales pueden comprar incluso un poco de felicidad!
+
+
 ### Turkish
 Ticaret Yap ve Zengin Ol
 
@@ -368,6 +407,14 @@ Tecnologias de pesquisa
 Construir sua casa é um processo longo e recursos e mão de obra não são as únicas coisas que você precisa. Os colonos inteligentes dedicam muito tempo à pesquisa de novas tecnologias, revelando assim melhores equipamentos, novos móveis e elementos de construção.
 
 Escolha cuidadosamente os acadêmicos - se a personalidade deles não se encaixa nesse tipo de trabalho, eles não farão muito progresso.
+
+
+### Spanish
+Investiga tecnologías
+
+Construir tu hogar es un proceso largo y los recursos y mano de obra, no son lo único que necesitas. Los colonos inteligentes dedican un montón de tiempo en investigar nuevas tecnologías, desbloqueando de esta forma mejor equipo, nuevos muebles y elementos de construcción.
+
+Elige a los eruditos con cuidado – si su personalidad no se ajusta a este tipo de trabajo, no progresarán mucho.
 
 
 ### Turkish
@@ -410,6 +457,14 @@ Proteja seu posto avançado
 Você não está sozinho nesta nova terra que chama de "casa". Os Tikigoblins que vivem lá não são tão felizes com seus esforços de assentamento e podem lhe fazer uma visita para pará-lo.
 
 Treine seus colonos na arte da guerra e equipe-os com as melhores armas e armaduras que você tiver. Construa muros e torres para garantir a segurança de sua colônia - dessa forma, seus inimigos terão dificuldade em tentar mexer com você!
+
+
+### Spanish
+Protege tu puesto avanzado
+
+No estás solo en esta nueva tierra a la que llamas "hogar". Los Tikigoblins que viven aquí no están tan contentos por tus esfuerzos de asentamiento y podrían hacerte una visita para detenerte.
+
+Entrena a tus colonos en el arte de la guerra y equípalos con las mejores armas y armaduras que tengas. Construye muros y torres para garantizar la seguridad de tu colonia – así, ¡A tus enemigos les resultará difícil tratar de meterse contigo!
 
 
 ### Turkish

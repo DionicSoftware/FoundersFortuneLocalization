@@ -38,7 +38,7 @@ Lidar com recursos, agricultura, produção, ferramentas, armas, armaduras, com�
 
 ### Spanish
 Un simulador de colonias de fantasía focalizado en construcciones creativas, psicología colonial y defensa de base.
-Gestiona recursos, agricultura, producción, herramientas, armas, armaduras, comercio, defensa e investigación, así como los deseos, expectativas, pensamientos y posesiones de cada colono.
+Gestiona recursos, agricultura, producción, herramientas, equipo, comercio, defensa e investigación, así como los deseos, expectativas, pensamientos y posesiones de cada colono.
 
 ### Turkish
 Yaratıcı inşa, kolonici psikolojisi ve üs savunmasına odaklı bir fantazi koloni simülatörü.

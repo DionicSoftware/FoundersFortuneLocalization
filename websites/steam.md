@@ -77,7 +77,7 @@ You are not limited to predefined buildings! Design your own houses and style th
 
 
 ### German
-Baue deine Kolonie
+Baue deine Kolonie auf
 
 Als Neuankömmlinge in einer unbekannten Welt, verfügen deine Kolonisten anfangs über nicht viel mehr als ihre Kleidung, die sie am Körper tragen. Über alles weitere bestimmst du! Lasse deine Schützlinge Ressourcen sammeln aus denen sie Gebäude, Möbel und nützliche Ausrüstung anfertigen können.
 

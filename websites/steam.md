@@ -1,10 +1,13 @@
 
 
 These translations will go on the official Steam Store page of Founders' Fortune.
+
 Talk to us if you're unsure about how to translate something, we want to make sure there is no confusion :)
 
 If you changed the description of something, please add
+
 //TODO-Devs
+
 in a line next to your change so we know which parts to update on the store.
 
 Please leave 4 lines of whitespace between each section to keep it organized. Thanks.
@@ -15,7 +18,9 @@ Please leave 4 lines of whitespace between each section to keep it organized. Th
 # Short Description
 *******************
 That's the short description on the top right
-DON'T MAKE IT LONGER THAN THE ENGLISH OR GERMAN TEXTS
+
+**DON'T MAKE IT LONGER THAN THE ENGLISH OR GERMAN TEXTS.**
+
 If it's too long, the text is going to be cut by Steam.
 If you can't get it short enough, replace "tools, weapons, armor" with "equipment".
 If it's still too long, talk to us.

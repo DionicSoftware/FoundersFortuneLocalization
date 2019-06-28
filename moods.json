@@ -32,6 +32,10 @@
 		"turkish": "%firstName% kriz geçiriyor. Onu hiçbir şey sakinleştiremez artık",
 		"portuguese": "%firstName% está tendo um colapso. Nada pode consolá-l%oA% agora.",
 	},
+	"moodDesc_LockedUp": {
+		"english": "%firstName% is locked up and is only concerned with freedom.",
+		"german": "%firstName% ist eingesperrt und denkt nur an die Freiheit.",
+	},
 	"expectationDesc_Good": {
 		"english": "%firstName% is content with %hisHer% life in the colony.",
 		"german": "%firstName% ist zufrieden mit %seinemIhrem% Leben in der Kolonie.",
@@ -56,6 +60,13 @@
 		"turkish": "%firstName% yerleşimden daha fazla beklentileri var. Yerleşimcilerin beklentileri yerine getirilmeden göçmen gelmez.",
 		"portuguese": "%firstName% espera muito mais desta colônia. Os migrantes só virão quando as expectativas de seus colonos forem satisfeitas.",
 	},
+	"expectationDesc_LockedUp": {
+		"english": "%firstName% is locked up by the goblins and doesn't count as part of the colony at the moment.",
+		"german": "%firstName% wurde von den Goblins eingesperrt und zählt im Moment nicht als Teil der Kolonie.",
+	},
+
+
+
 	"colonistMoodDesc_destroyFurniture": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% is destroying the furniture of other colonists!",
 		"german": "%firstName% erleidet einen Nervenzusammenbruch! %cap-erSie% zerstört die Möbel von anderen Kolonisten!",

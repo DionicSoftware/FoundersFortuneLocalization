@@ -273,6 +273,22 @@
 // Armors
 //*******
 
+	"equipmentName_armorGambeson": {
+		"english": "Gambeson",
+		"german": "Gambeson",
+	},
+	"equipmentDescription_armorGambeson": {
+		"english": "The basic equipment of every wannabe warrior.",
+		"german": "Die Basisausrüstung für jeden Möchtegern Krieger.",
+	},
+	"equipmentName_armorLight": {
+		"english": "Light Armor",
+		"german": "Leichte Rüstung",
+	},
+	"equipmentDescription_armorLight": {
+		"english": "Focusing on the essentials, this armor suits part time soldiers just fine.",
+		"german": "Beschränkt sich auf das Wesentliche. Eine Rüstung für wahre Teilzeitsoldaten.",
+	},
 	"equipmentName_armorIron": {
 		"english": "Iron Armor",
 		"german": "Eisenrüstung",
@@ -297,8 +313,80 @@
 // Work Gear
 //**********
 
-	"equipmentName_doctorRobe": {
-		"english": "Doctor's Robe",
+	"equipmentName_craftsmanGear0": {
+		"english": "Simple Craftsman's Clothes",
+		"german": "Einfache Handwerkerkleidung",
+	},
+	"equipmentDescription_craftsmanGear0": {
+		"english": "With these comfortable clothes, craftsmen work a bit faster.",
+		"german": "Mit dieser bequemen Arbeitskleidung können Handwerker etwas schneller arbeiten.",	
+	},
+	"equipmentName_craftsmanGear1": {
+		"english": "Craftsman's Clothes",
+		"german": "Handwerkerkleidung",
+	},
+	"equipmentDescription_craftsmanGear1": {
+		"english": "Clothing for true master craftsmen. Your settlers will work significantly faster",
+		"german": "Kleidung für wahre Handwerksmeister. Deine Siedler arbeitet um einiges schneller.",	
+	},
+	"equipmentName_foresterGear0": {
+		"english": "Simple Forester's Clothes",
+		"german": "Einfache Försterkleidung",
+	},
+	"equipmentDescription_foresterGear0": {
+		"english": "With the right Equipment, forest work is so much easier. These clothes will enable your Foresters to work a little bit faster.",
+		"german": "Mit der richtigen Ausstattung wird die Forstarbeit doch gleich viel leichter. Förster arbeiten etwas schneller.",	
+	},
+	"equipmentName_foresterGear1": {
+		"english": "Forester's Clothes",
+		"german": "Försterkleidung",
+	},
+	"equipmentDescription_foresterGear1": {
+		"english": "Working gear that will scare the hell out of all trees nearby.",
+		"german": "Eine Arbeitsmontur, die alle Bäume im näheren Umkreis vor Angst erstarren lassen wird. Förster arbeiten viel schneller.",	
+	},
+	"equipmentName_minerGear0": {
+		"english": "Simple Miner's Clothes",
+		"german": "Einfache Bergarbeiterkleidung",
+	},
+	"equipmentDescription_minerGear0": {
+		"english": "Makes all the hard work slightly more bearable. Miners will work a bit faster.",
+		"german": "Macht all die harte Arbeit etwas erträglicher. Bergarbeiter erledigen ihre Arbeit etwas schneller.",	
+	},
+	"equipmentName_minerGear1": {
+		"english": "Miner's Clothes",
+		"german": "Bergarbeiterkleidung",
+	},
+	"equipmentDescription_minerGear1": {
+		"english": "For passionate miners that can't imagine life without a pickaxe in their hands. Mining stone, crystals and iron ore takes way less time. \"Rock and stone brother!\"", // The last sentence is a quote from Deep Rock Galactic. As it is only voiced in English, we decided not to include this easter egg to other languages. Just ignore it. ;)
+		"german": "Für all jene, die den Bergbau als ihre einzig wahre Berufung betrachten. Der Abbau von Stein, Kristallen und Eisenerz nimmt viel weniger Zeit in Anspruch.  ",	
+	},
+	"equipmentName_scholarRobe0": {
+		"english": "Simple Scholar's Robes",
+		"german": "Einfache Gelehrtenrobe",
+	},
+	"equipmentDescription_scholarRobe0": {
+		"english": "With these airy and comfortable robes, your scholars will do their research slightly faster.",
+		"german": "Mit dieser luftigen wie bequemen Robe forschen deine Gelehrten etwas schneller.",	
+	},
+	"equipmentName_scholarRobe1": {
+		"english": "Simple Doctor's Robes",
+		"german": "Einfache Gelehrtenrobe",
+	},
+	"equipmentDescription_scholarRobe1": {
+		"english": "These noble robes emphazize the high rank of their bearer. Scholars resach new technologies way faster.",
+		"german": "Diese edle Robe betont den hohen Rang ihres Trägers. Gelehrte erforschen neue Technologien in Windeseile.",	
+	},
+	"equipmentName_doctorRobe0": {
+		"english": "Simple Doctor's Robes",
+		"german": "Einfache Arztrobe",
+	},
+	"equipmentDescription_doctorRobe0": {
+		"english": "Offers minor protection agains contageous diseases. Very useful for doctors as they have much contact with their ill patients.",
+		"german": "Bietet einen geringen Schutz gegen ansteckende Krankheiten. Sehr nützlich für Ärzte, da sie viel Kontakt mit ihren kranken Patienten haben.",	
+	},
+	"equipmentName_doctorRobe1": {
+		"english": "Doctor's Robes",
 		"german": "Arztrobe",
 		"french": "Blouse de Docteur",
 		"spanish": "Bata de doctor",
@@ -307,7 +395,7 @@
 		"portuguese": "Manto do Médico",
 		"polish": "Szata lekarza",
 	},
-	"equipmentDescription_doctorRobe": {
+	"equipmentDescription_doctorRobe1": {
 		"english": "Protects the wearer from contagious diseases. Very useful for doctors as they have much contact with their ill patients.",
 		"german": "Schützt den Träger vor ansteckenden Krankheiten. Sehr nützlich für Ärzte, da sie viel Kontakt mit ihren kranken Patienten haben.",
 		"french": "Protège le porteur des maladies contagieuses. Très utile pour les docteurs qui sont au contact avec leurs patients malades.",
@@ -317,7 +405,15 @@
 		"portuguese": "Protege o usuário de doenças contagiosas. Muito útil para os médicos, pois eles têm muito contato com seus pacientes doentes.",
 		"polish": "Chroni użytkownika przed chorobami zakaźnymi. Bardzo przydatne dla lekarzy, ponieważ mają dużo kontaktu z chorymi pacjentami.",
 	},
-	"equipmentName_farmerOutfit": {
+	"equipmentName_farmerGear0": {
+		"english": "Simple Farmer's Clothes",
+		"german": "Einfache Bauernkleidung",
+	},
+	"equipmentDescription_farmerOutfit0": {
+		"english": "Equipped With this piece of work clothing farmers work more efficiently. Sowing and watering takes a little less time!",
+		"german": "Mit dieser Arbeitskleidung können sich deine Bauern etwas mehr ins Zeug legen. Säen und Gießen nimmt etwas weniger Zeit in Anspruch!",
+	},
+	"equipmentName_farmerGear1": {
 		"english": "Farmer's Clothes",
 		"german": "Bauernkleidung",
 		"french": "Tenue de Fermier",
@@ -327,18 +423,24 @@
 		"portuguese": "Roupas de agricultor",
 		"polish": "Ubranie rolnika",
 	},
-	"equipmentDescription_farmerOutfit": {
+	"equipmentDescription_farmerOutfit1": {
 		"english": "This robust piece of work clothing is perfectly suited for working the fields. Wearing this, most farmers can sow their fields in half the time!",
-		"german": "Dieses robuste Stück Arbeitskleidung eignet sich perfekt für Feldarbeit. Die meisten Farmer können mit dieser Ausrüstung ihre Pflanzen in der Hälfte der Zeit ansäen!",
-		"french": "Ce vêtement de travail robuste est parfaitement adapté pour le travail dans les champs. En le portant, les fermiers peuvent semer leurs champs deux fois plus vite !",
-		"spanish": "Esta vestimenta de trabajo es adecuada para trabajar en los cultivos. Si un granjero lo lleva podrá sembrar en la mitad de tiempo.",
-		"bulgarian": "Това надеждно работно облекло е идеално за работа на полетата. Носеики това повечето фермери може да засаждат техните полета двойно по бързо!",
-		"turkish": "Bu sağlam iş kıyafeti tarlalarda çalışmak için mükemmel bir uyum sağlar. Bunu giyerek çoğu çiftçi tarlalarını yarı zamanda ekebilir!",
-		"portuguese": "Esta peça robusta de trabalho é perfeitamente adequada para trabalhar nos campos. Usando isso, a maioria dos agricultores pode semear seus campos na metade do tempo!",
-		"polish": "Ta solidna odzież robocza doskonale nadaje się do pracy na polach. Nosząc ją, większość rolników może zasiać pole dwa razy szbciej!",
+		"german": "Dieses robuste Stück Arbeitskleidung eignet sich perfekt für Feldarbeit. Säen und Gießen nimmt viel weniger Zeit in Anspruch!",
+		//TODO-french
+		//TODO-spanish
+		//TODO-bulgarian
+		//TODO-turkish
+		//TODO-portugese
+		//TODO-polish
+		"french": "Ce vêtement de travail robuste est parfaitement adapté pour le travail dans les champs.",
+		"spanish": "Esta vestimenta de trabajo es adecuada para trabajar en los cultivos.",
+		"bulgarian": "Това надеждно работно облекло е идеално за работа на полетата.",
+		"turkish": "Bu sağlam iş kıyafeti tarlalarda çalışmak için mükemmel bir uyum sağlar.",
+		"portuguese": "Esta peça robusta de trabalho é perfeitamente adequada para trabalhar nos campos. ",
+		"polish": "Ta solidna odzież robocza doskonale nadaje się do pracy na polach.",
 	},
 	"equipmentName_traderGear": {
-		"english": "Trader's Garment",
+		"english": "Trader's Garments",
 		"german": "Händlergewand",
 		"french": "Tenue du Marchand",
 		"spanish": "Traje de comerciante",

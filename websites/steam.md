@@ -84,9 +84,9 @@ You are not limited to predefined buildings! Design your own houses and style th
 ### German
 Baue deine Kolonie auf
 
-Als Neuankömmlinge in einer unbekannten Welt, verfügen deine Kolonisten anfangs über nicht viel mehr als ihre Kleidung, die sie am Körper tragen. Über alles weitere bestimmst du! Lasse deine Schützlinge Ressourcen sammeln aus denen sie Gebäude, Möbel und nützliche Ausrüstung anfertigen können.
+Als Neuankömmlinge in einer unbekannten Welt, verfügen deine Kolonisten anfangs über nicht viel mehr als ihre Kleidung, die sie am Körper tragen. Über alles Weitere bestimmst du! Lasse deine Schützlinge Ressourcen sammeln aus denen sie Gebäude, Möbel und nützliche Ausrüstung anfertigen können.
 
-Du musst dich dabei keineswegs auf vorgefertigte Bauwerke beschränken! Designe deine eigenen Häuser und richte sie nach deinen Vorstellungen ein. Es gibt Dutzende Konstruktionselemente und Möbelstücke mit denen du die Siedlung ganz nach deinen Vorstellungen gestalten kannst!
+Du musst dich dabei keineswegs auf vorgefertigte Bauwerke beschränken! Designe deine eigenen Häuser und richte sie nach deinen Vorlieben ein. Es gibt Dutzende Konstruktionselemente und Möbelstücke mit denen du die Siedlung ganz nach deinen Vorstellungen gestalten kannst!
 
 
 ### French
@@ -134,7 +134,7 @@ Each colonist reacts to events, happy or sad, and reflects that in their behavio
 ### German
 Kümmere dich um deine Kolonisten
 
-Das Wohlergehen deiner Kolonisten ist deine oberste Priorität. Zu Beginn mag es zwar noch reichen sie mit roher Nahrung und einfachen Schlafplätzen zufrieden zu stellen, doch schon bald steigen ihre Erwartungen auf immer höhere Niveaus an. Aber die neue Welt ist voll von Gefahren! Gegen eine Infektion ist auch der stärkste Krieger nicht gefeit, während eine Seuche deine komplette Kolonie dahinraffen könnte.
+Das Wohlergehen deiner Kolonisten ist deine oberste Priorität. Reichen zu Beginn noch Rohkost und einfache Schlafplätze um deine Kolonisten zufrieden zu stellen, steigen ihre Erwartungen bald auf immer höhere Niveaus an. Dabei ist die neue Welt auch noch voll von Gefahren! Gegen eine Infektion ist auch der stärkste Krieger nicht gefeit, und eine Seuche könnte eine unvorbereitete Kolonie dahinraffen.
 
 Jeder Kolonist reagiert auf Ereignisse - positive und negative - und spiegelt das in seinem Verhalten wider. Glückliche Kolonisten erhalten eine Steigerung in ihrer Produktivität - unzufriedene Kolonisten neigen zu Nervenzusammenbrüchen.
 
@@ -188,7 +188,7 @@ Werde mit Nevenzusammenbrüchen fertig
 
 In einer perfekten Welt würden alle Wünsche erfüllt werden - zumindest glaubt das Toni. Erfüllte Wünschen können einen Siedler in eine gute Stimmung bringen, während Hunger, Verletzungen, langweilige Konversationen oder sogar Alpträume ihm diese Freude nehmen werden.
 
-Wenn du die Bedürfnisse und Wünsche deiner Kolonisten zu lange ignorierst könnte einer von ihnen einen Nervenzusammenbruch erleiden. Im Fall der Fälle solltest du besser auf alles vorbereitet sein...
+Wenn du die Bedürfnisse und Wünsche deiner Kolonisten zu lange ignorierst, könnte einer von ihnen einen Nervenzusammenbruch erleiden. Im Fall der Fälle solltest du besser auf alles vorbereitet sein...
 
 
 ### French
@@ -244,7 +244,7 @@ Grow a variety of seasonal crops and set up a kitchen to make delicious meals ou
 ### German
 Baue deinen Bauernhof auf
 
-Essen ist wichtig. Gutes Essen macht Kolonisten glücklich, falsches Essen macht Kolonisten krank, wenig Essen macht Kolonisten langsam und kein Essen lässt Kolonisten sterben.
+Essen ist wichtig. Gutes Essen macht Kolonisten glücklich, falsches Essen macht Kolonisten krank, wenig Essen macht Kolonisten langsam und fehlendes Essen lässt Kolonisten sterben.
 
 Baue eine Vielfalt von Pflanzen in verschiedenen Jahreszeiten an und koche köstliche Mahlzeiten in der Küche. Baue dir einen Vorrat auf bevor der Winter kommt und handle schnell wenn ein Schwarm hungriger Insekten sich auf deinen Feldern niederlässt!
 
@@ -345,9 +345,9 @@ Try to keep production up so you’ll always have something to sell. A mature co
 ### German
 Handle mit Gütern und werde reich
 
-Es hat sich herumgesprochen, dass deine Kolonie angefangen hat Waren zu produzieren. Begrüße reisende Händler und versuche einen guten Preis für alte Schriftrollen zu ergattern oder kaufe zusätzliche Mahlzeiten, um die Vorräte aufzustocken.
+Es hat sich herumgesprochen, dass deine Kolonie angefangen hat Waren zu produzieren. Begrüße reisende Händler und versuche einen guten Preis für alte Schriftrollen zu ergattern oder kaufe zusätzliche Mahlzeiten, um deine Vorräte aufzustocken.
 
-Versuche die Produktion am laufen zu halten, sodass du immer etwas zu verkaufen hast. Eine fortgeschrittene Kolonie muss gute Gehälter zahlen um jeden Einwohner bei der Stange zu halten. Wenn die Moral im Keller ist, können zusätzliche Gehaltsboni sogar ein kleines bisschen Zufriedenheit kaufen!
+Versuche die Produktion am Laufen zu halten, sodass du immer etwas zu verkaufen hast. Eine fortgeschrittene Kolonie muss gute Gehälter zahlen um jeden Einwohner bei der Stange zu halten. Wenn die Moral im Keller ist, können zusätzliche Gehaltsboni sogar ein kleines bisschen Zufriedenheit erkaufen!
 
 
 ### French
@@ -488,7 +488,7 @@ We've been running a public Alpha from our Website for a while and we're continu
 
 
 ### German
-Auf unserer Website hatten wir einige Monate lang eine öffentliche Alpha laufen und werden das Projekt jetzt auf Steam fortzusetzen. Die Entwicklung des Spiels ist dabei stark auf das Feedback unserer Community ausgerichtet. Dieses dient uns als Wegweiser, um besser entscheiden zu können welche Funktionen eingebaut werden sollten, welche Verbesserungen notwendig sind und welche Bugs zuerst gefixt werden müssen. Gemeinsam streben wir so ein möglichst ideales Spielerlebnis an!
+Auf unserer Website hatten wir einige Monate lang eine öffentliche Alpha laufen und werden das Projekt jetzt auf Steam fortsetzen. Die Entwicklung des Spiels ist dabei stark auf das Feedback unserer Community ausgerichtet. Dieses dient uns als Wegweiser, um besser entscheiden zu können welche Funktionen eingebaut werden sollten, welche Verbesserungen notwendig sind und welche Bugs zuerst gefixt werden müssen. Gemeinsam streben wir so ein möglichst ideales Spielerlebnis an!
 
 
 ### French
@@ -622,7 +622,7 @@ All features in the Trailer, Screenshots, and in the "About this game" section b
 
 
 ### German
-In der Vergangenheit hatten wir die Alpha von Founders' Fortune auf unserer Website kostenlos zur Verfügung gestellt. Zum Zeitpunkt der Erstellung dieser Beschreibung haben wir ca. 100-300 aktive Spieler pro Tag. Für das Erforschen aller Technologien und das Erreichen der maximalen Kolonistenanzahl sind sie gerne mal 18 Stunden beschäftigt.
+Bisher hatten wir die Alpha von Founders' Fortune auf unserer Website kostenlos zur Verfügung gestellt. Zum Zeitpunkt der Erstellung dieser Beschreibung haben wir ca. 100-300 aktive Spieler pro Tag. Für das Erforschen aller Technologien und das Erreichen der maximalen Kolonistenanzahl sind sie gerne mal 18 Stunden beschäftigt.
 
 Alle gezeigten Funktionen im Trailer, in den Screenshots und im "Über dieses Spiel"-Bereich sind bereits implementiert und spielbar.
 

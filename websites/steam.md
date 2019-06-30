@@ -76,7 +76,7 @@ Substitute "..." with your language
 ### English
 Build Your Colony
 
-When your colonists arrive, they have nothing but the clothes on their body. You take control and tell them to gather materials and build walls, floors and furniture.
+When your colonists arrive, they have nothing but the clothes on their backs. You take control and tell them to gather materials and build walls, floors and furniture.
 
 You are not limited to predefined buildings! Design your own houses and style them to your liking. There are dozens of construction and furniture elements that you can use to create the settlement you’ve always dreamed of!
 
@@ -126,7 +126,7 @@ Koloniciler adaya geldiklerinde üzerlerindeki kıyafetlerden başka bir şeyler
 ### English
 Take Care of Your Colonists
 
-The colonists are your top priority. At first, you simply need to provide them with food and shelter. But the world is full of dangers! An infection might prove fatal to the strongest warrior and a plague can wipe out your colony entirely.
+The colonists are your top priority. At first, you simply need to provide them with food and shelter. But the world is full of dangers! An infection might prove fatal to the strongest warrior and a plague can wipe out your entire colony.
 
 Each colonist reacts to events, happy or sad, and reflects that in their behavior. Happy colonists will receive a boost to their productivity – Unhappy colonists might throw a temper tantrum.
 
@@ -176,7 +176,7 @@ Koloniciler olaylara duygusal tepki verir, mutlu ya da üzgün olarak, ve davran
 ### English
 Deal with Tantrums
 
-In an ideal life, all your wishes come true, at least that’s what Toni thinks. Fulfilled wishes can cause a citizen to have good mood, while hunger, injuries, boring conversations, or even nightmares will make him feel bad.
+In an ideal life, all your wishes come true, at least that’s what Toni thinks. Fulfilled wishes can promote good moods, while hunger, injuries, boring conversations, or even nightmares will make your citizens feel bad.
 
 If you ignore your colonists' needs and wishes for too long, one of them might have a breakdown and throw a tantrum.
 
@@ -238,7 +238,7 @@ Set up Your Farm
 
 Food matters. Good food makes colonists happy, wrong food makes colonists sick, little food makes colonists slow, and no food makes colonists die.
 
-Grow a variety of seasonal crops and set up a kitchen to make delicious meals out of them. Be sure to stock up before winter hits and act quick when a swarm of hungry bugs descends upon your fields!
+Grow a variety of seasonal crops and set up a kitchen to make delicious meals. Be sure to stock up before winter hits and act quick when a swarm of hungry bugs descends upon your fields!
 
 
 ### German
@@ -287,7 +287,7 @@ Yiyecekler önemlidir. İyi yemek yerleşimcileri mutlu eder, kötü yemek yerle
 ### English
 Survive Winter
 
-Use the time you have and make sure you have enough food stored away, because winter is coming. Let’s hope you won’t have to restrict meals to half rations – because that will make your colonists weak.
+Use the time you have and make sure you have enough food stored away, for winter is coming. Let’s hope you won’t have to halve rations – because that will make your colonists weak.
 
 When supplies dwindle and the freezing cold wind howls outside, it’s easy to lose hope...
 
@@ -387,7 +387,7 @@ Zamanla, koloninin üretim yapmaya başladığı çevrede konuşulur olur. Seyah
 ### English
 Research Technologies
 
-Building your home is a long process and resources and manpower are not the only things you need. Smart Settlers dedicate a lot of time to research new technologies, thereby unlocking better equipment, new furniture and construction elements.
+Building your home is a long process and resources and manpower are not the only things you need. Smart Settlers dedicate a lot of time to researching new technologies, thereby unlocking better equipment, new furniture and construction elements.
 
 Select scholars carefully – if their personality doesn’t fit this type of work, they are not going to make a lot of progress.
 
@@ -484,7 +484,7 @@ Yerleşimcilerinizi savaş sanatında eğit ve onları sahip olduğun en iyi sil
 **********************************
 
 ### English
-We've been running a public Alpha from our Website for a while and we're continuing this project on Steam. We've used the feedback as a guiding light to determine which features to implement, which quality of live improvements to make and which bugs to fix first. Together we're shooting for the best experience possible!
+We've been running a public Alpha from our Website for a while and we're continuing this project on Steam. We've used the feedback as a guiding light to determine which features to implement, which quality of live improvements to make, and which bugs to fix first. Together we're shooting for the best experience possible!
 
 
 ### German
@@ -654,7 +654,7 @@ Trailer, Ekran Görüntüleri ve aşağıdaki "Bu oyun hakkında" bölümündeki
 ***********************************************************************************
 
 ### English
-We plan to raise the price for Founders' Fortune as we add more features to the game. The exact amounts depends on the amount of content we can add.
+We plan to raise the price for Founders' Fortune as we add more features to the game. The exact amounts depend on how much content we can add.
 
 
 ### German

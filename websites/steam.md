@@ -654,7 +654,7 @@ Trailer, Ekran Görüntüleri ve aşağıdaki "Bu oyun hakkında" bölümündeki
 ***********************************************************************************
 
 ### English
-We plan to raise the price for Founders' Fortune as we add more features to the game. The exact amounts depend on how much content we can add.
+We plan to raise the price for Founders' Fortune as we add more features to the game. The exact amount depends on how much content we can add.
 
 
 ### German

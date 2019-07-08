@@ -10,6 +10,7 @@
 		"turkish": "Kanayan Yaralar",
 		"polish": "Krwotok",
 		"czech": "Krvácí",
+		"russian": "Кровотечение",
 	},
 	"effectDesc_Bleeding": {
 		"english": "%firstName% bleeding! Make sure that %hisHer% wounds are bandaged properly. Otherwise, %firstName% could die of blood loss.",
@@ -24,6 +25,7 @@
 		"turkish": "%firstName% yaralı! Yaralarının düzgün şekilde sargılı olduğundan emin olun. Aksi takdirde, %firstName% kan kaybından ölebilir.",
 		"polish": "%firstName% krwawi! Upewnij się, że %jegoJej% rany zostaną odpowiednio zabandażowane. W przeciwnym razie %firstName% może umrzeć z powodu utraty krwi.",
 		"czech": "%firstName% Krvácí! Ujisti se, že %jehojejí% rány budou řádně obvázané. Jinak, %firstName% může umřít na ztrátu krve.",
+		"russian": "%firstName% кровоточит! Убедитесь, что %hisHer% раны перевязаны правильно, иначе %firstName% может умереть от потери крови.",
 	},
 	"effectTitle_Unconscious": {
 		"english": "Unconscious",
@@ -36,6 +38,7 @@
 		"turkish": "Bilinçsiz",
 		"polish": "Nieprzytomny",
 		"czech": "V bezvědomí",
+		"russian": "Без сознания",
 	},
 	"effectDesc_Unconscious": {
 		"english": "It's going to take a while before %firstName% wakes up.",
@@ -48,6 +51,7 @@
 		"turkish": "%firstName% ayılmak için zamana ihtiyacı var.",
 		"polish": "Minie trochę czasu, zanim %firstName% się obudzi.",
 		"czech": "Zabere trochu času, než se %firstName% vzbudí",
+		"russian": "Нужно некоторое время, чтобы %firstName% смог%sheLA% проснуться.",
 	},
 	"effectTitle_Bandage": {
 		"english": "Bandage",
@@ -60,6 +64,7 @@
 		"turkish": "Bandaj",
 		"polish": "Bandaż",
 		"czech": "Obvaz",
+		"russian": "Повязка",
 	},
 	"effectDesc_Bandage": {
 		"english": "The bandage is stopping the blood loss.",
@@ -72,6 +77,7 @@
 		"turkish": "Bandaj kan kaybını durduruyor.",
 		"polish": "Bandaż zapobiega utracie krwii.",
 		"czech": "Obvaz zastavuje krvácení.",
+		"russian": "Повязка останавливает кровотечение.",
 	},
 	"effectTitle_Healthy": {
 		"english": "No Effects",
@@ -84,6 +90,7 @@
 		"turkish": "Etki Yok",
 		"polish": "Brak efektu",
 		"czech": "Bez efektu",
+		"russian": "Без эффектов",
 	},
 	"effectDesc_Healthy": {
 		"english": "%firstName% is healthy!",
@@ -96,6 +103,7 @@
 		"turkish": "%firstName% sağlıklı!",
 		"polish": "%firstName% jest zdrowy!",
 		"czech": "%firstName% je zdravý!",
+		"russian": "%firstName% здоров%surnameA%!",
 	},
 	"effectTitle_Starving": {
 		"english": "Starving",
@@ -108,6 +116,7 @@
 		"turkish": "Çok aç",
 		"polish": "Głoduje",
 		"czech": "Hladový",
+		"russian": "Голодание",
 	},
 	"effectDesc_Starving": {
 		"english": "%firstName% didn't eat in a long time. %cap-heShe% needs to find something to eat soon in order to survive.",
@@ -122,6 +131,7 @@
 		"turkish": "%firstName% uzun zamandır yemek yemedi. Hayatta kalabilmek için en kısa zamanda yiyecek bir şeyler bulması gerekiyor.",
 		"polish": "%firstName% nie jadł od dłuższego czasu. Musi znaleźć coś do jedzenia aby przeżyć.",
 		"czech": "%firstName% nejedl po dlouhou dobu. Musí najít brzy něco k jídlu, aby přežil.",
+		"russian": "%firstName% не ел%surnameA% долгое время. %cap-heShe% нужно найти что-нибудь поесть, иначе %heShe% умрет от голода.",
 	},
 	"effectTitle_HealingPotion": {
 		"english": "Healing Potion",
@@ -134,6 +144,7 @@
 		"turkish": "Şifa İksiri",
 		"polish": "Eliksir życia",
 		"czech": "Léčivý Elixír",
+		"russian": "Лечебное зелье",
 	},
 	"effectDesc_HealingPotion": {
 		"english": "The healing potion %firstName% drank is doing it's work and restoring some health.",
@@ -146,6 +157,7 @@
 		"turkish": "%firstName% şifa iksiri içti ve sağlığını geri kazanmaya başladı.",
 		"polish": "Eliksir życia wypity przez %firstName% działa i przywraca %muJej% zdrowie.",
 		"czech": "Léčivý elixír který %firstName% vypil, začíná působit a obnovuje zdravý.",
+		"russian": "Если %firstName% выпьет лечебное зелье, %hisHer% здоровье начнет восстанавливаться.",
 	},
 	"effectTitle_Flu": {
 		"english": "Flu",
@@ -158,6 +170,7 @@
 		"turkish": "Grip",
 		"polish": "Grypa",
 		"czech": "Chřipka",
+		"russian": "Грипп",
 	},
 	"effectDesc_Flu": {
 		"english": "%firstName% has caught the Flu. Make sure %heShe% stays in bed in the coming days and is treated with medicine by a doctor. Do not underestimate the illness!",
@@ -172,6 +185,7 @@
 		"turkish": "%firstName% gribe yakalandı. Önümüzdeki günlerde yatakta kaldığından ve ilaçla tedavi edildiğinden emin olun. Hastalığı küçümsemeyin!",
 		"polish": "%firstName% zachorował na grypę. Upewnij się, że w najbliższych dniach pozostanie w łóżku i będzie %leczonyLeczona% przez lekarza. Nie lekceważ choroby!",
 		"czech": "%firstName% chytil chřipku. Ujisti se, že %firstName% zůstane v posteli v následujících dnech a že bude ošetřen lékařem s léky. Nepodceňuj choroby!",
+		"russian": "%firstName% заболел%surnameA% гриппом. Убедитесь, что %heShe% будет лежать в кровати под присмотром врача. Не стоит не дооценивать болезнь!",
 	},
 	"effectTitle_SleepingInBed": {
 		"english": "Resting in Bed",
@@ -183,7 +197,8 @@
 		"portuguese": "Descansar na cama",
 		"turkish": "Yatakta dinleniyor",
 		"polish": "Odpoczynek w łóżku",
-		"czech": "Odpočívá v posteli"
+		"czech": "Odpočívá v posteli",
+		"russian": "Отдыхает в кровати",
 	},
 	"effectDesc_SleepingInBed": {
 		"english": "%firstName% is resting and slowly re-gaining health.",
@@ -198,6 +213,7 @@
 		"turkish": "%firstName% dinleniyor ve yavaşça yeniden sağlığını kazanıyor.",
 		"polish": "%firstName% odpoczywa i powoli odzyskuje zdrowie.",
 		"czech": "%firstName% odpočívá v posteli a pomalu nabírá zdravý.",
+		"russian": "%firstName% отдыхает и медленно восстанавливает здоровье.",
 	},
 	"effectTitle_AllergicReaction": {
 		"english": "Allergic Reaction",
@@ -210,6 +226,7 @@
 		"turkish": "Alerjik reaksiyon",
 		"polish": "Reakcja alergiczna",
 		"czech": "Alergická Reakce",
+		"russian": "Аллергическая реакция",
 	},
 	"effectDesc_AllergicReaction": {
 		"english": "%firstName% had to eat food %heShe% is allergic to. Now %hisHer% body has an allergic reaction.",
@@ -223,6 +240,7 @@
 		"portuguese": "%firstName% comeu comida que %eleEla% era alérgico. Seu corpo fez uma reação alérgica",
 		"turkish": "%firstName% alerjisi olan yiyecekleri yemek zorunda kaldı. Şimdi vücudunda alerjik reaksiyon var.",
 		"polish": "%firstName% zjadł jedzenie na które jest %uczulonyUczulona%. Teraz %jegoJej% ciało ma reakcję alergiczną.",
+		"russian": "%firstName% съел%surnameA% еду, на которую у %himHer% аллергия. Сейчас у %himHer% проходит аллергическая реакция.",
 	},
 	"effectStage": {
 		"english": "Stage",
@@ -234,6 +252,7 @@
 		"portuguese": "Etapa",
 		"turkish": "Etap",
 		"polish": "Stadium",
+		"russian": "Этап",
 	},
 	"effectTitle_SmallFoodRationsSlowness": {
 		"english": "Slow work",
@@ -245,6 +264,7 @@
 		"portuguese": "Trabalho lento",
 		"turkish": "Yavaş iş",
 		"polish": "Powolna praca",
+		"russian": "Медленная работа",
 	},
 	"effectDesc_SmallFoodRationsSlowness": {
 		"english": "%firstName% receives only small food rations, so %heShe% just lacks the energy to work properly and takes longer to complete tasks.",
@@ -258,6 +278,7 @@
 		"portuguese": "%firstName% recebe apenas pequenas rações de comida, então %eleEla% simplesmente não tem energia para funcionar adequadamente e leva mais tempo para concluir as tarefas.",
 		"turkish": "%firstName% yalnızca küçük gıda rasyonları alıyor, bu yüzden düzgün çalışması için gerekli enerjisi yok ve işleri tamamlaması daha uzun sürüyor.",
 		"polish": "%firstName% otrzymuje małe porcje żywieniowe, dlatego brakuje %muJej% energii żeby dobrze wykonywać pracę i zadania zabierają %muJej% więcej czasu.",
+		"russian": "%firstName% получает мало еды, поэтому %heshe1% не хватает энергии для эффективной работы. %cap-heShe% будет работать медленнее и дольше выполнять задания.",
 	},
 	"effectTitle_LegHurt": {
 		"english": "Hurt leg: Slow walking",
@@ -267,6 +288,7 @@
 		"portuguese": "Perna ferida: Caminhada lenta",
 		"turkish": "Bacağı incinmiş: Yavaş yürüme",
 		"polish": "Zraniona noga: powolne chodzenie",
+		"russian": "Поврежденная нога: Медленно передвигается",
 	},
 	"effectDesc_LegHurt": {
 		"english": "%firstName% has hurt %hisHer% leg. Splints will help it heal more quickly.",
@@ -276,6 +298,7 @@
 		"turkish": "%firstName% bacağını incitmiş. Ayak sabitleyicisi daha hızlı iyileşmesini sağlar.",
 		"portuguese": "%firstName% feriu %deleDela% perna. Talas vai ajudar a curar mais rapidamente.",
 		"polish": "%firstName% %zraniłZraniła% się w nogę. Szyna pomoże szybciej ją leczyć.",
+		"russian": "%firstName% поранил%surnameA% свою ногу. Шина поможет %heshe1% выздороветь быстрее.",
 	},
 	"effectTitle_LegBroken": {
 		"english": "Broken leg: Can't walk",
@@ -285,6 +308,7 @@
 		"portuguese": "Perna quebrada: não pode andar",
 		"turkish": "Kırık bacak: Yürüyemiyor",
 		"polish": "Złamana noga: nie może chodzić",
+		"russian": "Сломанная нога: Не может передвигаться",
 	},
 	"effectDesc_LegBroken": {
 		"english": "%firstName% has broken %hisHer% leg and can not walk anymore. You need to apply splints, or %firstName% may be permanently disabled!",
@@ -294,6 +318,7 @@
 		"turkish": "%firstName% bacağını kırmış ve artık yürüyemiyor. Destekleyici uygulamak zorunda, aksi taktirde %firstName% sakat kalabilir!",
 		"portuguese": "%firstName% quebrou %seuSua% perna e não pode mais andar. Você precisa aplicar talas, ou %firstName% pode ser permanentemente desabilitado!",
 		"polish": "%firstName% %złamałZłamała% nogę i nie może chodzić. Musisz założyć %muJej% szynę, albo %firstName% będzie trwale %unieruchomionyUnieruchomiona%!",
+		"russian": "%firstName% сломал%surnameA% свою ногу и не может больше передвигаться. Вам нужно наложить шину, иначе %firstName% может потерять возможность ходить!",
 	},
 	"effectTitle_ArmHurt": {
 		"english": "Hurt arm: Slow working",
@@ -303,6 +328,7 @@
 		"turkish": "İncinmiş kol: Yavaş çalışma",
 		"portuguese": "braço ferido: trabalho lento",
 		"polish": "Zranione ramię: powolna praca",
+		"russian": "Поврежденная рука: Медленная работа",
 	},
 	"effectDesc_ArmHurt": {
 		"english": "%firstName% has hurt %hisHer% arm. Splints will help it heal more quickly.",
@@ -312,6 +338,7 @@
 		"turkish": "%firstName% kolunu incitmiş. Destekleyici uygulamak iyileşmeyi hızlandırır.",
 		"portuguese": "%firstName% feriu %seuSua% braço. Talas vai ajudar a curar mais rapidamente.",
 		"polish": "%firstName% %zraniłZraniła% się w ramię. Szyna pomoże szybciej ją leczyć.",
+		"russian": "%firstName% повредил%surnameA% свою руку. Шина поможет %heshe1% выздороветь быстрее.",
 	},
 	"effectTitle_ArmBroken": {
 		"english": "Broken arm: Can't work",
@@ -321,6 +348,7 @@
 		"turkish": "Kırık kol: Çalışamaz",
 		"portuguese": "Braço quebrado: Não é possível trabalhar",
 		"polish": "Złamane ramię: nie może pracować",
+		"russian": "Сломанная рука: Не может работать",
 	},
 	"effectDesc_ArmBroken": {
 		"english": "%firstName% has broken %hisHer% arm and can not work anymore. Splints will help it heal more quickly.",
@@ -330,6 +358,7 @@
 		"turkish": "%firstName% kolunu kırmış ve artık çalışamıyor. Destekleyici uygulanırsa daha hızlı iyileşir",
 		"portuguese": "%firstName% quebrou %seuSua% braço e não pode mais trabalhar. Talas vai ajudar a curar mais rapidamente.",
 		"polish": "%firstName% %złamałZłamała% ramię i nie może pracować. Szyna pomoże szybciej ją leczyć.",
+		"russian": "%firstName% сломал%surnameA% свою руку. Шина поможет %heshe1% выздороветь быстрее.",
 	},
 	"effectTitle_LegSplint": {
 		"english": "Leg splints",
@@ -339,6 +368,7 @@
 		"turkish": "Bacak destekleyicileri",
 		"portuguese": "Talas de perna",
 		"polish": "Szyna na nodze",
+		"russian": "Шины на ноге",
 	},
 	"effectDesc_LegSplint": {
 		"english": "The leg is stabilized now. It will heal in a short while.",
@@ -348,6 +378,7 @@
 		"turkish": "Bacak sabitlendi. Kısa zaman içinde iyileşecektir.",
 		"portuguese": "A perna está estabilizada agora. Vai curar em pouco tempo.",
 		"polish": "Noga jest teraz ustabilizowana. Zagoi się w krótkim czasie.",
+		"russian": "Нога стабилизирована, она скоро заживет.",
 	},
 	"effectTitle_ArmSplint": {
 		"english": "Arm splints",
@@ -357,6 +388,7 @@
 		"turkish": "Kol destekleyicileri",
 		"portuguese": "Talas de braço",
 		"polish": "Szyna na ramieniu",
+		"russian": "Шины на руке",
 	},
 	"effectDesc_ArmSplint": {
 		"english": "The arm is stabilized now. It will heal in a short while.",
@@ -366,6 +398,7 @@
 		"turkish": "Kol sabitlendi. Kısa zaman içinde iyileşecektir.",
 		"portuguese": "O braço está estabilizado agora. Vai curar em pouco tempo.",
 		"polish": "Ramię jest teraz ustabilizowane. Zagoi się w krótkim czasie.",
+		"russian": "Рука стабилизирована, она скоро заживет.",
 	},
 }
 

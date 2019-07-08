@@ -1,4 +1,4 @@
-{
+﻿{
 	"wishes": {
 		"english": "Wishes",
 		"german": "Wünsche",
@@ -9,7 +9,7 @@
 		"portuguese": "Desejos",
 		"swedish": "Önskningar",
 		"dutch": "Wensen",
-		"ukrainian":"",
+		"ukrainian":"Бажання",
 		"russian":"Пожелания",
 	},
 	"discover": {
@@ -22,7 +22,7 @@
 		"portuguese": "Descobrir %tech%",
 		"swedish": "Upptäck %tech%",
 		"dutch": "Ontdek %tech%",
-		"ukrainian":"",
+		"ukrainian":"Дослідити %tech%",
 		"russian":"Исследовать %tech%",
 	},
 	"GetProfession": {
@@ -35,7 +35,7 @@
 		"portuguese": "Conseguir um emprego",
 		"swedish": "Få ett jobb",
 		"dutch": "Krijg een baan",
-		"ukrainian":"",
+		"ukrainian":"Получити роботу",
 		"russian":"Получить работу",
 	},
 	"GetSleepingSpot": {
@@ -48,7 +48,7 @@
 		"portuguese": "Conseguir um lugar para dormir",
 		"swedish": "Få en bädd",
 		"dutch": "Krijg een slaap plek",
-		"ukrainian":"",
+		"ukrainian":"Получити ліжко",
 		"russian":"Получить койку",
 	},
 	"GetBedroom": {
@@ -61,7 +61,7 @@
 		"portuguese": "Obter um quarto",
 		"swedish": "Få ett rum",
 		"dutch": "Krijg een slaapkamer",
-		"ukrainian":"",
+		"ukrainian":"Получити спальню",
 		"russian":"Получить спальню",
 	},
 	"reachLevelAsA": {
@@ -74,7 +74,7 @@
 		"portuguese": "Atingir nível %level% como %profession%",
 		"swedish": "Nå nivå %level% som %profession%",
 		"dutch": "Haal level %level% als een %profession%",
-		"ukrainian":"",
+		"ukrainian":"Достигнути %level% рівня в професії %profession%",
 		"russian":"Достигнуть %level% уровня в профессии %profession%",
 	},
 	"getFurnitureInLocation": {
@@ -87,7 +87,7 @@
 		"portuguese": "Obter %furniture% em %location%",
 		"swedish": "Få %furniture% i %location%",
 		"dutch": "Krijg %furniture% in %location%",
-		"ukrainian":"",
+		"ukrainian":"Получити %furniture% в %location%",
 		"russian":"Получить %furniture% в %location%",
 	},
 	"getBackFurnitureInLocation": {
@@ -97,7 +97,7 @@
 		"spanish": "Conseguir %furniture% de vuelta en %location%",
 		"portuguese": "Recupere %furniture% de volta em %location%",
 		"turkish": "%location% için %furniture% geri al",
-		"ukrainian":"",
+		"ukrainian":"Получити %furniture% назад в %location%",
 		"russian":"Получить %furniture% обратно в %location%",
 	},
 	"furnitureCategory_AChair": {
@@ -110,7 +110,7 @@
 		"portuguese": "uma cadeira",
 		"swedish": "en stol",
 		"dutch": "een Stoel",
-		"ukrainian":"",
+		"ukrainian":"Стілець",
 		"russian":"Стул",
 	},
 	"furnitureCategory_ATable": {
@@ -123,7 +123,7 @@
 		"portuguese": "uma mesa",
 		"swedish": "ett bord",
 		"dutch": "een Tafel",
-		"ukrainian":"",
+		"ukrainian":"Стіл",
 		"russian":"Стол",
 	},
 	"furnitureCategory_AArmchair": {
@@ -136,7 +136,7 @@
 		"portuguese": "uma poltrona",
 		"swedish": "en fåtölj",
 		"dutch": "een Fauteuil",
-		"ukrainian":"",
+		"ukrainian":"Крісло",
 		"russian":"Кресло",
 	},
 	"furnitureCategory_ACouch": {
@@ -149,7 +149,7 @@
 		"portuguese": "um sofá",
 		"swedish": "en soffa",
 		"dutch": "een Bank",
-		"ukrainian":"",
+		"ukrainian":"Диван",
 		"russian":"Диван",
 	},
 	"furnitureCategory_AFireplace": {
@@ -162,7 +162,7 @@
 		"portuguese": "uma lareira",
 		"swedish": "en eldstad",
 		"dutch": "een Openhaard",
-		"ukrainian":"",
+		"ukrainian":"Камін",
 		"russian":"Камин",
 	},
 	"furnitureCategory_ASmallShelf": {
@@ -175,7 +175,7 @@
 		"portuguese": "uma cômoda",
 		"swedish": " en byrå",
 		"dutch": "een Ladenkast",
-		"ukrainian":"",
+		"ukrainian":"Туалет",
 		"russian":"Туалетный столик",
 	},
 	"furnitureCategory_ABigShelf": {
@@ -188,7 +188,7 @@
 		"portuguese": "uma grande prateleira ou guarda-roupa",
 		"swedish": "en stor hylla eller garderob",
 		"dutch": "een Grote Planken- of Kledingkast",
-		"ukrainian":"",
+		"ukrainian":"Велика полиця або шафа",
 		"russian":"Большая полка или шкаф",
 	},
 	"furnitureCategory_AChest": {
@@ -201,7 +201,7 @@
 		"portuguese": "um baú",
 		"swedish": "en kista",
 		"dutch": "een Kist",
-		"ukrainian":"",
+		"ukrainian":"Скриня",
 		"russian":"Сундук",
 	},
 	"furnitureCategory_AFlowerPot": {
@@ -214,7 +214,7 @@
 		"portuguese": "um vaso de flores",
 		"swedish": "en blomkruka",
 		"dutch": "een Bloempot",
-		"ukrainian":"",
+		"ukrainian":"Квітковий горшок",
 		"russian":"Цветочный горшок",
 	},
 	"furnitureCategory_AVase": {
@@ -227,7 +227,7 @@
 		"portuguese": "um vaso",
 		"swedish": "en vas",
 		"dutch": "een Vaas",
-		"ukrainian":"",
+		"ukrainian":"Ваза",
 		"russian":"Ваза",
 	},
 	"furnitureCategory_AToolStorage": {
@@ -237,7 +237,7 @@
 		"spanish": "un lugar para guardar herramientas",
 		"portuguese": "um lugar para armazenar ferramentas",
 		"turkish": "aletleri saklayabileceği bir yer",
-		"ukrainian":"",
+		"ukrainian":"місце для зберігання інструментів",
 		"russian":"место для хранения инструментов",
 	},
 	"furnitureCategory_AWeaponStorage": {
@@ -247,7 +247,7 @@
 		"spanish": "un lugar para guardar armas",
 		"portuguese": "um lugar para armazenar armas",
 		"turkish": "silahları saklayabileceği bir yer",
-		"ukrainian":"",
+		"ukrainian":"місце для зберігання зброї",
 		"russian":"место для хранения оружия",
 	},
 	"furnitureCategory_AClothesStorage": {
@@ -257,7 +257,7 @@
 		"spanish": "un lugar para guardar ropa",
 		"portuguese": "um lugar para guardar roupas",
 		"turkish": "kıyafetleri saklayabileceği bir yer",
-		"ukrainian":"",
+		"ukrainian":"місце для зберігання одягу",
 		"russian":"место для хранения одежды",
 	},
 	"furnitureCategory_AArmorStorage": {
@@ -267,7 +267,7 @@
 		"spanish": "un lugar para guardar una armadura",
 		"portuguese": "um lugar para armazenar armadura",
 		"turkish": "zrıhları saklayabileceği bir yer",
-		"ukrainian":"",
+		"ukrainian":"місце для зберігання броні",
 		"russian":"место для хранения брони",
 	},
 	"wishLocation_Room": {
@@ -283,7 +283,7 @@
 		"portuguese": "seu quarto",
 		"swedish": "sitt rum",
 		"dutch": "zijn Kamer",
-		"ukrainian":"",
+		"ukrainian":"%hisHer% Кімната",
 		"russian":"%hisHer% Комната",
 	},
 	"wishLocation_House": {
@@ -299,7 +299,7 @@
 		"portuguese": "%seuSua% casa",
 		"swedish": "sitt hus",
 		"dutch": "zijn Huis",
-		"ukrainian":"",
+		"ukrainian":"%hisHer% Дім",
 		"russian":"%hisHer% Дом",
 	},
 	"wishLocation_Colony": {
@@ -312,7 +312,7 @@
 		"portuguese": "a colônia",
 		"swedish": "kolonin",
 		"dutch": "de Nederzetting",
-		"ukrainian":"",
+		"ukrainian":"Колонія",
 		"russian":"Колония",
 	},
 	"useSatisfactionRewardPoints": {
@@ -325,7 +325,7 @@
 		"portuguese": "Use pontos de recompensa de satisfação",
 		"swedish": "spendera tillfredsställelsepoäng",
 		"dutch": "Gebruik Tevredenheids Belonings Punten  ",
-		"ukrainian":"",
+		"ukrainian":"Використайте очки задоволення",
 		"russian":"Используйте очки удовлетворения",
 	},
 	"getRidOfTrait": {
@@ -338,7 +338,7 @@
 		"portuguese": "Livrar-se do traço: %trait%",
 		"swedish": "ta bort egenskapen: %trait%",
 		"dutch": "Ontdoe je van de eigenschap: %trait%",
-		"ukrainian":"",
+		"ukrainian":"Позбутись від риси: %trait%",
 		"russian":"Избавиться от черты: %trait%",
 	},
 	"getRidOfCondition": {
@@ -351,7 +351,7 @@
 		"portuguese": "Livrar-se da Condição: %condition%",
 		"swedish": "ta bort tillståndet: %condition%",
 		"dutch": "Ontdoe je van de voorwaarde: %condition%",
-		"ukrainian":"",
+		"ukrainian":"Позбутись від стану: %condition%",
 		"russian":"Избавиться от состояния: %condition%",
 	},
 	"getBackToFullHealth": {
@@ -364,7 +364,7 @@
 		"portuguese": "Volte para a saúde total",
 		"swedish": "få tillbaka full hälsa",
 		"dutch": "Krijg weer volle gezondheid",
-		"ukrainian":"",
+		"ukrainian":"Відновити здоров'я",
 		"russian":"Восстановить здоровье",
 	},
 	"getBigPayday": {
@@ -374,7 +374,7 @@
 		"spanish": "Conseguir un bono de al menos %coins% monedas",
 		"portuguese": "Obter um grande prêmio de pelo menos %coins% moedas",
 		"turkish": "En az %coins% para değerinde bir maaş al",
-		"ukrainian":"",
+		"ukrainian":"Получити зарплату не менше %coins% монет",
 		"russian":"Получить зарплату не менее %coins% монет",
 	},
 	"defeatGoblin": {
@@ -384,7 +384,7 @@
 		"spanish": "Derrotar a un Tikigoblin",
 		"portuguese": "Derrote Tiki Goblin",
 		"turkish": "Tiki goblinleri mağlup et",
-		"ukrainian":"",
+		"ukrainian":"Розгромити Тікігоблина",
 		"russian":"Разгомить Тикигоблина",
 	},
 	"storeFoodForWinter": {
@@ -394,7 +394,7 @@
 		"spanish": "Almacenar al menos %food% alimentos en preparación para el invierno",
 		"portuguese": "Armazene pelo menos %food% refeições em preparação para inverno",
 		"turkish": "Kışa hazırlık için en az %food% yiyecek hazırla",
-		"ukrainian":"",
+		"ukrainian":"Запастись не менше %food% од. їжі на зиму",
 		"russian":"Запастись не менее %food% ед. еды на зиму",
 	},
 }

@@ -590,7 +590,7 @@
 		"turkish": "Toplam Ses Düzeyi",
 		"portuguese": "Volume total",
 		"dutch": "Totaal Volume",
-		"ukrainian":"Загальні налаштування звуку",
+		"ukrainian":"Загальний звук",
 		"russian":"Общая громкость",
 	},
 	"soundEffects": {
@@ -893,7 +893,7 @@
 		"turkish": "Döndür",
 		"portuguese": "Girar",
 		"dutch": "Roteren",
-		"ukrainian":"Повернути",
+		"ukrainian":"Поворот",
 		"russian":"Поворот",
 	},
 	"timeControl": {
@@ -904,7 +904,7 @@
 		"turkish": "Zaman kontrolü",
 		"portuguese": "Controle do tempo",
 		"dutch": "Tijd Controle",
-		"ukrainian":"Контроль Часу",
+		"ukrainian":"Управління Часом",
 		"russian":"Управление временем",
 	},
 	"pause": {
@@ -926,7 +926,7 @@
 		"turkish": "Normal hız",
 		"portuguese": "Velocidade normal",
 		"dutch": "Normale snelheid",
-		"ukrainian":"Нормальна Швидкість",
+		"ukrainian":"Звичайна Швидкість",
 		"russian":"Обычная Скорость",
 	},
 	"2xSpeed": {
@@ -981,7 +981,7 @@
 		"turkish": "Mobilya taşıma",
 		"portuguese": "Movimentação de Móveis",
 		"dutch": "Meubel Beweging",
-		"ukrainian":"Обробка меблів",
+		"ukrainian":"Поворот меблів",
 		"russian":"Поворот мебели",
 	},
 	"rotateLeft": {
@@ -1047,7 +1047,7 @@
 		"turkish": "FPS göster",
 		"portuguese": "Mostrar FPS",
 		"dutch": "Laat de FPS zien",
-		"ukrainian":"Показувати кількість кадрів в секунду",
+		"ukrainian":"Показати FPS",
 		"russian":"Показать FPS",
 	},
 	"key_Mouse0": {
@@ -1237,7 +1237,7 @@
 		"turkish": "Araştırma tamamlandı",
 		"portuguese": "Pesquisa coletada",
 		"dutch": "Onderzoek Verzameld",
-		"ukrainian":"Дослідження зібрані",
+		"ukrainian":"Зібрані дослідження ",
 		"russian":"Собранные исследования",
 		
 	},
@@ -1249,7 +1249,7 @@
 		"turkish": "Tikigoblinler öldürüldü",
 		"portuguese": "Tikigoblins matados",
 		"dutch": "Tikigoblins Vermoord",
-		"ukrainian":"Тікігобліни загинули",
+		"ukrainian":"Тікігоблінів вбито",
 		"russian":"Тикигоблинов убито",
 	},
 	"maxNumberOfColonists": {
@@ -1340,8 +1340,8 @@
 		"turkish": "Savaş ve hayatta kalma zorlukları yerine sakin ve yaratıcı bir üs kurma imkanı.\nKolonicileriniz her türlü yaralanmadan ili kat daha az zarar görür.\nKoloni 100 yemekle başlar, kolonicileriniz daha az yemeğe ihtiyaç duyar, ve daha az yemekle hayatta kalabilir.\nSulanan bitkiler daha fazla hasat verir.\nAncak yine de onlarla ilgilenmezseniz kolonicileriniz ölebilir!",
 		"portuguese": "Uma experiência mais relaxante se você preferir construir base criativa em combate e sobrevivência.\nOs colonos sofrem apenas metade do dano causado por todos os tipos de ferimentos.\nA colônia começa com 100 refeições, colonos precisam de menos comida e podem sobreviver com rações menores.\nPlantas plantadas produzem colheitas mais altas.\nOs colonos ainda morrerão se você não cuidar deles!",
 		"dutch": "Een meer ontspannende ervaring als je van creatieve Basis Bouwen houdt over vechten en Overleving.\nJouw kolonisten nemen alleen maar de helft van de schade van elke soort verwonding.\nDe kolonie begint met 100 maaltijden, Kolonisten hebben minder eten nodig, en ze kunnen overleven met kleinere voedselrantoenen.\nGewaterde planten maken grotere oogsten.\nJouw kolonisten gaan nogsteeds dood als je niet voor ze zorgt!",
-		"ukrainian":"Більш розслабляюча гра, якщо ви віддаєте перевагу легкому проходженні то ця важкість для Вас.\nВаші колоністи получають лише половину шкоди від усіх видів травм.\nКолонія починається з 100 страв, колоністам потрібно менше їжі і може вижити на менших раціонах їжі.\nВаші колоністи все одно помирають, якщо ви не піклуєтесь про них!",
-		"russian":"Более расслабляющая игра для тех, кто предпочитает строительство сражению и выживанию.\nВаши колонисты получают лишь половину урона от любых травм.\nВ начале игры колония имеет 100 ед. пищи, колонистам требуется меньше еды для выживания.\nПолив растений дает более высокие урожаи.\nВаши колонисты будут умирать, если вы не будете о них заботиться!",
+		"ukrainian":"Більш розслабляюча гра для тих, хто надають перевагу будівництву чим бою та виживанню.\nВаші колоністи получають лише половину шкоди від усіх видів травм.\nКолонія починається з 100 од. їжі, колоністам потрібно менше їжі щоб вижити.\nПолив рослин дає більш високі врожаї.\nВаші колоністи все одно помирають, якщо ви не піклуєтесь про них!",
+		"russian":"Более расслабляющая игра для тех, кто предпочитает строительство чем сражению и выживанию.\nВаши колонисты получают лишь половину урона от любых травм.\nВ начале игры колония имеет 100 ед. пищи, колонистам требуется меньше еды для выживания.\nПолив растений дает более высокие урожаи.\nВаши колонисты будут умирать, если вы не будете о них заботиться!",
 	},
 	"difficulty_1_Title": {
 		"english": "Exciting World",
@@ -1362,7 +1362,7 @@
 		"turkish": "Tipik Founders' Fortune deneyimi, üs kurmayla hayatta kalma karışımı.\nKoloni 40 yemekle başlar.\nElinizden geleni yapmanıza rağmen kolonicileriniz ölebilir.",
 		"portuguese": "A experiência típica dos Founder's Fortune, misturando a base com a sobrevivência.\nA colônia começa com 40 refeições.\nAlgumas vezes os colonos podem morrer mesmo que você tente o seu melhor.",
 		"dutch": "De gewoonlijke Founders' Fortune ervaring, Basis bouwen gemixed met overleven.\nDe kolonie begint met 40 maaltijden.\nSoms kunnen Kolonisten dood gaan ookal doe je je best.",
-		"ukrainian":"Середній досвід гри в Founder's Fortune, змішуючи будівництво бази з виживанням.\nКолонія починається з 40 страв.\nІноді колоністи можуть померти, навіть якщо ви намагаєтеся зробити все можливе.",
+		"ukrainian":"Середнія важкість гри в Founder's Fortune, змішуючи будівництво бази з виживанням.\nКолонія починається з 40 од. їжі.\nІноді колоністи можуть померти, навіть якщо ви стараєтесь зробити все можливе.",
 		"russian":"Средняя сложность игры в Founders' Fortune, которая совмещает строительство и выживание.\nВ начале игры колония имеет 40 ед. пищи.\nИногда колонисты могут умереть, даже если вы стараетесь изо всех сил.",
 	},
 	"difficulty_2_Title": {
@@ -1384,7 +1384,7 @@
 		"turkish": "Dünya zorlu bir yer, küçük, kırılgan kolonicilerinizle hayatta kalmanız için bol şansa ihtiyacınız var.\nKolonicileriniz yaralanmalardan %50 daha fazla hasar görür.\nKoloni 10 yemekle başlar, ve kolonicileriniz daha çabuk acıkır.\nDaha sık facia yaşanır.\nTecrübeli oyuncular için zorlu bir deneyim.",
 		"portuguese": "O mundo é um lugar difícil, por isso boa sorte tentando sobreviver com pequenos colonos frágeis. \nOs colonos recebem 50% a mais de dano de todos os tipos de ferimentos. \nA colônia começa com 10 refeições e os colonos ficam com fome mais rapidamente. \nAs catástrofes acontecem mais muitas vezes. \nUm desafio para jogadores veteranos.",
 		"dutch": "De wereld is een harde plek, dus veel geluk met het overleven met zwakke kolonisten.\nJouw kolonisten nemen 50% meer schade van alle soorten Verwondingen.\nDe Kolonie begint met 10 maaltijden en kolonisten krijgen sneller honger.\nCatastrofaale dingen gebeuren vaker.\nEen uitdaging voor veteraan spelers",
-		"ukrainian":"Світ - це суворе місце, тому удача з якою намагаєтись вижити з маленькими колоністами дуже знадобиться.\nВаші колоністи отримують на 50% більше шкоди від усіх видів травм.\nКолонія починається з 10 страв, і колоністи швидше голодують.\nЧасто трапляються катастрофи.\nВиклик для гравців-ветеранів",
+		"ukrainian":"Світ - це суворе місце, тому бажаємо вам удачі вижити з слабкими колоністами.\nВаші колоністи отримують на 50% більше шкоди від усіх видів травм.\nКолонія починається з 10 од. їжі, колоністам потрібно більше добавок для виживання.\nКатастрофи трапляються частіше .\nВиклик для гравців-ветеранів",
 		"russian":"Мир - это суровое место, так что желаем вам удачи выжить со слабыми колонистами.\nВаши колонисты получают на 50% больше урона от любых травм.\nВ начале игры колония имеет 10 ед. пищи, колонистам требуется больше еды для выживания.\nКатастрофы случаются чаще.\nПодходит для опытных игроков.",
 	},
 	"continue": {
@@ -1445,7 +1445,7 @@
 		"french": "Le jeu n'a pas pu charge la sauvegarde. Désolé !\nVeuillez d'abord réessayer. Si cela se reproduit, veuillez envoyer votre fichier de sauvegarde à daniel@foundersfortune.com pour que je puisse enquêter sur l'erreur et essayer de la corriger dans la prochaine mise à jour.\nMerci pour votre aide !",
 		"spanish": "El juego no pudo leer tu archivo de guardado. ¡Lo sentimos!\nPor favor intenta de nuevo. Si esto sigue ocurriendo, envía tu archivo de guardado a daniel@foundersfortune.com y así podremos investigar el error y trataremos de arreglarlo en la siguiente actualización.\n¡Gracias por tu ayuda!", 
 		"turkish": "Kaydınız okunamadı. Üzgünüz!\nLütfen tekrar deneyin. Eğer sorun devam ederse, kaydınızı daniel@foundersfortune.com adresine gönderebilirsiniz, böylece sorunuzu inceleyip ona göre yeni güncellemede olmaması için uğraşabiliriz.\nYardımınız için teşekkürler!",
-		"ukrainian":"Гра не може прочитати ваш файл збереження. Вибачте! \nПовторіть спробу знову. Якщо це продовжує відбуватися, надішліть файл збереження на daniel@foundersfortune.com, щоб я міг дослідити помилку і спробувати вирішити цю проблему в наступному оновленні.\nСпасибі за вашу допомогу!",
+		"ukrainian":"Вибачте! Гра не змогла прочитати ваш файл збереження.\nПовторіть спробу знову. Якщо це продовжує відбуватися, надішліть файл збереження на daniel@foundersfortune.com, щоб я міг дослідити помилку і спробувати вирішити цю проблему в наступному оновленні.\nСпасибі за вашу допомогу!",
 		"russian":"К сожалению, игра не смогла прочитать ваш файл сохранения! .\nПожалуйста, попробуйте снова. Если это повторится, отправьте файл сохранения по адресу daniel@foundersfortune.com, чтобы я мог исследовать ошибку и попытаться исправить ее в следующем обновлении.\nСпасибо за вашу помощь!",
 	}
 }

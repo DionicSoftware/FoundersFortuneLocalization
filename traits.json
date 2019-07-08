@@ -8,7 +8,7 @@
 		"bulgarian": "Пацифист",
 		"portuguese": "Pacifisto",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Пацифист",
 	},
 	"traitDesc_Pacifist": {
 		"english": "%firstName% believes in the good in the world - maybe a little too much. Refuses to fight anyone unless %heShe% is already heavily wounded.",
@@ -20,7 +20,7 @@
 		"bulgarian": "%firstName% вярва в доброто в света - може би малко повече. Отказва да се бие с никого, освен ако вече е тежко ранен.",
 		"portuguese": "%firstName% acredita no bem do mundo - talvez um pouco demais. Recusa-se a lutar contra qualquer um, a menos que %eleEla% já esteja gravemente ferido.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% верит в то, что все можно решить мирным путем. Отказывается сражаться до тех пор, пока %heShe% не будет сильно ранен",
 	},
 	"traitTitle_BattleHardened": {
 		"english": "Experienced in Battle",
@@ -31,7 +31,7 @@
 		"bulgarian": "Опитен във Битката",
 		"portuguese": "Experiente em Batalha",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Опытный боец",
 	},
 	"traitDesc_BattleHardened": {
 		"english": "Already has much experience on the battlefield and is not scared off easily. Does not receive mood penalties for pain and death around %himHer%.",
@@ -43,7 +43,7 @@
 		"bulgarian": "Вече има много опит на бойното поле и не се плаши лесно. Не получава наказания за настроения за болка и смърт около него.",
 		"portuguese": "Já tem muita experiência no campo de batalha e não se assust%oA% facilmente. Não recebe penalidades de humor por dor e morte ao seu redor.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Уже имеет опыт в сражениях и не отступает просто так. Не снижается настроение за боль и смерть вокруг %himHer%.",
 	},
 	"traitTitle_Optimist": {
 		"english": "Optimist",
@@ -54,7 +54,7 @@
 		"bulgarian": "Оптимист",
 		"portuguese": "Otimist%oA%",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Оптимист",
 	},
 	"traitDesc_Optimist": {
 		"english": "Glass-half-full kind of %guyGirl%. Receives a permanent mood boost.",
@@ -66,7 +66,7 @@
 		"bulgarian": "Стъклен наполовина пълноценен тип. Получава постоянен тласък на настроението.",
 		"portuguese": "Tipo de cara meio cheio de vidro. Recebe um impulso de humor permanente.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Оптимистичный тип %guyGirl%. Настроение постоянно растет.",
 	},
 	"traitTitle_Pessimist": {
 		"english": "Pessimist",
@@ -77,7 +77,7 @@
 		"bulgarian": "Песимист",
 		"portuguese": "Pessimist%oA%",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Пессимист",
 	},
 	"traitDesc_Pessimist": {
 		"english": "Glass-half-empty kind of %guyGirl%. Receives a permanent mood penalty.",
@@ -89,7 +89,7 @@
 		"bulgarian": "Стъклен наполовина пълноценен тип. Получава постоянен тласък на настроението.",
 		"portuguese": "Tipo meio vazio de vidro. Recebe uma penalidade de humor permanente.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Пессимистичный тип %guyGirl%. Настроение постоянно снижается.",
 	},
 	"traitTitle_Killer": {
 		"english": "Killer",
@@ -100,7 +100,7 @@
 		"bulgarian": "Убиец",
 		"portuguese": "Assassin%oA%",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Убийца",
 	},
 	"traitDesc_Killer": {
 		"english": "%firstName% has a strange interest in violence. Gets positive thoughts from killing. Usually able to control %himselfHerself%.",
@@ -112,7 +112,7 @@
 		"bulgarian": "%firstName% има странен интерес към насилието. Получава положителни мисли от убийството. Обикновено може да се контролира.",
 		"portuguese": "%firstName% tem um estranho interesse pela violência. Obtém pensamentos positivos para matar. Geralmente capaz de se controlar.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% имеет сдержанный интерес к насилию. Получает позитивные мысли от убийства. Обычно может %himselfHerself% контролировать.",
 	},
 	"traitTitle_GoodHealth": {
 		"english": "Good Health",
@@ -123,7 +123,7 @@
 		"bulgarian": "Добро Здраве",
 		"portuguese": "Boa saúde",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Здоровый",
 	},
 	"traitDesc_GoodHealth": {
 		"english": "A lifetime of exercise and healthy foods has provided %firstName% with a very robust health. Treatments are 20% more likely to succeed.",
@@ -134,7 +134,7 @@
 		"bulgarian": "Животът на физически упражнения и здравословни храни е осигурил %firstName% с много стабилно здраве. Лечението е с 20% по-вероятно да успее. ",
 		"portuguese": "Uma vida inteira de exercícios e alimentos saudáveis forneceu %firstName% com uma saúde muito robusto. Tratamentos são 20% mais propensos a ter sucesso.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Усиленные тренировки и здоровое питание обеспечили %firstName% крепким здоровьем. Шанс на успешное лечение на 20% выше.",
 	},
 	"traitTitle_BadHealth": {
 		"english": "Bad Health",
@@ -145,7 +145,7 @@
 		"bulgarian": "Лошо Здраве",
 		"portuguese": "Má saúde",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Больной",
 	},
 	"traitDesc_BadHealth": {
 		"english": "For no specific reason, %firstName%'s immune system is not as good as others. Treatments are 20% more likely to fail.",
@@ -156,7 +156,7 @@
 		"bulgarian": "Без специфична причина, имунната система на %firstName% не е толкова добра, колкото другите. Лечението е с 20% по-вероятно да се провали.",
 		"portuguese": "Por nenhuma razão específica, o sistema imunológico da %firstName% não é tão bom quanto os outros. Os tratamentos são 20% mais propensos a falhar.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"По некоторым причинам, иммунитет у %firstName% хуже, чем у остальных. Шанс на успешное лечение на 20% ниже.",
 	},
 	"traitTitle_Overeater": {
 		"english": "Overeater",
@@ -167,7 +167,7 @@
 		"bulgarian": "Поглъщател на мазнини",
 		"portuguese": "Porquinh%oA%",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Обжора",
 	},
 	"traitDesc_Overeater": {
 		"english": "%firstName% loves food and isn't always able to control %himselfHerself%. Sometimes %heShe% will just continue eating even though %heShe% is already full.",
@@ -179,7 +179,7 @@
 		"bulgarian": "%firstName% обича храната и не винаги е в състояние да се контролира. Понякога той просто ще продължи да яде, въпреки че вече е пълен.",
 		"portuguese": "%firstName% ador%oA% comida e nem sempre consegue se controlar. Às vezes ele apenas continua comendo, embora já esteja chei%oA%.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% любит еду и не всегда в состоянии %himselfHerself% контролировать. Иногда %heShe% просто продолжает есть когда %heShe% уже сыт.",
 	},
 	"traitTitle_Survivor": {
 		"english": "Survivalist",
@@ -190,7 +190,7 @@
 		"bulgarian": "Оцеляващ",
 		"portuguese": "Sobrevivente",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Выживальщик",
 	},
 	"traitDesc_Survivor": {
 		"english": "%firstName% has survived quite a few sticky situations and knows what it takes. When others would die, %heShe% gets a 25% health boost and gains consciousness. (Only once in 24 hours)",
@@ -202,7 +202,7 @@
 		"bulgarian": "%firstName% преживя доста лепкави ситуации и знае какво е необходимо. Когато други умират, той получава 25% повишаване на здравето и придобива съзнание. (Само веднъж на 24 часа)",
 		"portuguese": "%firstName% sobreviveu a algumas situações difíceis e sabe o que é preciso. Quando os outros morrem, %eleEla% recebe um aumento de 25% na saúde e ganha consciência. (Apenas uma vez em 24 horas)",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% пережил не мало неприятных ситуаций и знает что нужно делать. Когда кто-то умирает, %heShe% получает +25% к здоровью и прирост к сознанию. (раз в 24 часа)",
 	},
 	"traitTitle_Insomnia": {
 		"english": "Insomnia",
@@ -213,7 +213,7 @@
 		"bulgarian": "Безсъние",
 		"portuguese": "Insônia",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Бессонница",
 	},
 	"traitDesc_Insomnia": {
 		"english": "%firstName% has trouble sleeping and doesn't rest as well as others. Takes double the time to fully rest compared to others..",
@@ -224,7 +224,7 @@
 		"bulgarian": "%firstName% има проблеми със съня и не почива, както и другите. Удвоява времето за пълна почивка в сравнение с другите..",
 		"portuguese": "%firstName% tem dificuldade em dormir e não descansa tão bem quanto os outros. Leva o dobro do tempo para descansar totalmente em comparação com os outros ..",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% имеет проблемы со сном и отдыхает не так хорошо, как остальные. Требуется в два раза больше времени для отдыха в сравнении с остальными.",
 	},
 	"traitTitle_Tireless": {
 		"english": "Tireless",
@@ -235,7 +235,7 @@
 		"bulgarian": "Неуморим",
 		"portuguese": "Incansável",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Неутомимый",
 	},
 	"traitDesc_Tireless": {
 		"english": "%firstName% doesn't need much sleep. Only rests half as long as others before %heShe%'s completely fit again.",
@@ -247,7 +247,7 @@
 		"bulgarian": "%firstName% не се нуждае от много сън. Остава само наполовина толкова дълго, колкото останалите, преди отново да е напълно в състояние да се справи.",
 		"portuguese": "%firstName% não precisa dormir muito. Só descansa metade do tempo que os outros antes que %eleEla% esteja completamente em forma novamente.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% не нужно много спать. Для полного восстановления требуется вдвое меньше времени по сравнению с остальными.",
 	},
 	"traitTitle_Smart": {
 		"english": "Fast Learner",
@@ -258,7 +258,7 @@
 		"bulgarian": "Бързо учащ",
 		"portuguese": "Aprendiz rápido",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Быстрообучаемый",
 	},
 	"traitDesc_Smart": {
 		"english": "%firstName% is a bright %guyGirl% and %heShe% knows it. %cap-heShe% can learn new skills in half the time.",
@@ -270,7 +270,7 @@
 		"bulgarian": "%firstName% е светъл човек и той го знае. Той може да научи нови умения в половината от времето.",
 		"portuguese": "%firstName% é um cara brilhante e %eleEla% sabe disso. %cap-eleEla% pode aprender novas habilidades na metade do tempo.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% одаренный %guyGirl%, и %heShe% это знает. %cap-heShe% обучается новым навыкам вдвое быстрее.",
 	},
 	"traitTitle_Dumb": {
 		"english": "Dumb",
@@ -281,7 +281,7 @@
 		"bulgarian": "Тъп",
 		"portuguese": "Idiot%oA%",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Тупой",
 	},
 	"traitDesc_Dumb": {
 		"english": "Unfortunately, thinking has never been %hisHer% strong suit. %cap-heShe% will not gain experience and not level up in any job ever.",
@@ -293,7 +293,7 @@
 		"bulgarian": "За съжаление, мисленето никога не е било негов силен костюм. Той няма да натрупа опит и няма да се издигне до нищо в работата си.",
 		"portuguese": "Infelizmente, pensar nunca foi seu forte. %cap-eleEla% não vai ganhar experiência e não subir de nível em qualquer trabalho de sempre.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"К сожалению, ум никогда не был %hisHer% сильной стороной. %cap-heShe% не будет получать опыта и повышения уровня в любой работе.",
 	},
 	"traitTitle_FavoriteFoodPumpkingStew": {
 		"english": "Favorite Food: Pumpkin Stew",
@@ -304,7 +304,7 @@
 		"bulgarian": "Любима Храна: Тиква",
 		"portuguese": "Comida favorita: Abóbora Stew",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Любимая еда: Тыквенное рагу",
 	},
 	"traitDesc_FavoriteFoodPumpkingStew": {
 		"english": "%firstName% just can't wait to get another bowl of delicious pumpkin stew.",
@@ -315,7 +315,7 @@
 		"bulgarian": "%firstName% просто не мога да чакам да си намеря още една купа с вкусна тиквена яхния.",
 		"portuguese": "%firstName% mal posso esperar para pegar outra tigela de delicioso ensopado de abóbora.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% не может дождаться еще одной порции рагу из тыквы.",
 	},
 	"traitTitle_FavoriteFoodFruitSalad": {
 		"english": "Favorite Food: Fruit Salad",
@@ -326,7 +326,7 @@
 		"bulgarian": "Любима Храна: Плодова Салата",
 		"portuguese": "Comida favorita: Salada de Frutas",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Любимая еда: Фруктовый салат",
 	},
 	"traitDesc_FavoriteFoodFruitSalad": {
 		"english": "%firstName% just can't wait to get another bowl of delicious fruit salad.",
@@ -337,7 +337,7 @@
 		"bulgarian": "%firstName% не може да чака да получи още една купа с вкусна плодова салата.",
 		"portuguese": "%firstName% apenas não posso esperar para obter outra taça de salada de fruta deliciosa.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% не может дождаться еще одной порции фруктового салата.",
 	},
 	"traitTitle_FavoriteFoodAppleStrudel": {
 		"english": "Favorite Food: Apple Strudel",
@@ -348,7 +348,7 @@
 		"bulgarian": "Любима храна: Ябълков штрудел",
 		"portuguese": "Comida favorita: strudel de maçã",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Любимая еда: Яблочный штрудель",
 	},
 	"traitDesc_FavoriteFoodAppleStrudel": {
 		"english": "%firstName% just can't wait to get another piece of delicious apple strudel.",
@@ -359,7 +359,7 @@
 		"bulgarian": "%firstName% не може да изчака още една купа с вкусна плодова салата.",
 		"portuguese": "%firstName% simplesmente não posso esperar para pegar outro pedaço de strudel de maçã delicioso.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% не может дождаться еще одного ломтика яблочного штруделя.",
 	},
 	"traitTitle_AllergicToApples": {
 		"english": "Allergic to Apples",
@@ -370,7 +370,7 @@
 		"bulgarian": "Алергичен към Ябълките",
 		"portuguese": "Alérgica a maçãs",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Аллергия на яблоко",
 	},
 	"traitDesc_AllergicToApples": {
 		"english": "%firstName% will avoid dishes that contain apples. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -382,7 +382,7 @@
 		"bulgarian": "%firstName% ще избегне ястия, които съдържат ябълки. Ако все пак е принуден да го яде, той ще получи алергична реакция.",
 		"portuguese": "%firstName% irá evitar pratos que contenham maçãs. Se %eleEla% for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% будет избегать блюд, в составе которых есть яблоко. Если %heShe% все же съест его, у %heShe% начнется аллергическая реакция.",
 	},
 	"traitTitle_AllergicToPotatoes": {
 		"english": "Allergic to Potatoes",
@@ -393,7 +393,7 @@
 		"bulgarian": "Алергичен към Картофите",
 		"portuguese": "Alergico a Batata",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Аллергия на картошку",
 	},
 	"traitDesc_AllergicToPotatoes": {
 		"english": "%firstName% will avoid dishes that contain potatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -405,7 +405,7 @@
 		"bulgarian": "%firstName% ще избегне ястия, които съдържат картофи. Ако все пак е принуден да го яде, той ще получи алергична реакция.",
 		"portuguese": "%firstName% evitará pratos que contenham batatas. Se %eleEla% for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% будет избегать блюд, в составе которых есть картошка. Если %heShe% все же съест его, у %heShe% начнется аллергическая реакция.",
 	},
 	"traitTitle_AllergicToTomatoes": {
 		"english": "Allergic to Tomatoes",
@@ -416,7 +416,7 @@
 		"bulgarian": "Алергичен към Доматите",
 		"portuguese": "Alérgico para Tomate",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Аллергия на Помидоры",
 	},
 	"traitDesc_AllergicToTomatoes": {
 		"english": "%firstName% will avoid dishes that contain tomatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -428,7 +428,7 @@
 		"bulgarian": "%firstName% ще избегне ястия, които съдържат домати. Ако все пак е принуден да го яде, той ще получи алергична реакция.",
 		"portuguese": "%firstName% evitará pratos que contenham tomates. Se %eleEla% for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"%firstName% будет избегать блюд, в составе которых есть помидор. Если %heShe% все же съест его, у %heShe% начнется аллергическая реакция.",
 	},
 	"traitTitle_Limping": {
 		"english": "Limping",
@@ -438,7 +438,7 @@
 		"portuguese": "Mancand%oA%",
 		"turkish": "Topallıyor",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Хромой",
 	},
 	"traitDesc_Limping": {
 		"english": "Because of an accident, %firstName% has a bad leg and is limping. %cap-heShe% walks a little slower than other colonists",
@@ -448,6 +448,6 @@
 		"portuguese": "Por causa de um acidente, %firstName% tem uma perna ruim e está mancando. %cap-eleEla% anda um pouco mais devagar do que outros colonos",
 		"turkish": "Bir kazadan dolayı %firstName%'in ayağından sıkıntısı var ve topallıyor. Diğer yerleşimcilerden daha yavaş yürür",
 		"ukrainian":"",
-		"russian":"",
+		"russian":"Из-за некоторого инцидента, у %firstName% больная нога и теперь он хромает. %cap-heShe% ходит чуть медленнее, чем остальные.",
 	},
 }

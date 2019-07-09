@@ -65,7 +65,7 @@
 		"turkish": "Bardağın dolu tarafını görüyor. Kalıcı ruh hali artışına sahip.",
 		"bulgarian": "Стъклен наполовина пълноценен тип. Получава постоянен тласък на настроението.",
 		"portuguese": "Tipo de cara meio cheio de vidro. Recebe um impulso de humor permanente.",
-		"ukrainian":"Оптимістичн%hesheEnd% %guyGirl%. Настрій завжди росте.",
+		"ukrainian":"Оптимістичн%heshe_IY_A% %guyGirl%. Настрій завжди росте.",
 		"russian":"Оптимистичн%hesheEnd% %guyGirl%. Настроение постоянно растет.",
 	},
 	"traitTitle_Pessimist": {
@@ -88,7 +88,7 @@
 		"turkish": "Bardağın boş tarafını görüyor. Kalıcı ruh hali azalışına sahip.",
 		"bulgarian": "Стъклен наполовина пълноценен тип. Получава постоянен тласък на настроението.",
 		"portuguese": "Tipo meio vazio de vidro. Recebe uma penalidade de humor permanente.",
-		"ukrainian":"Песимістичн%hesheEnd% %guyGirl%. Настрій завжди падає.",
+		"ukrainian":"Песимістичн%heshe_IY_A% %guyGirl%. Настрій завжди падає.",
 		"russian":"Пессимистичн%hesheEnd% %guyGirl%. Настроение постоянно снижается.",
 	},
 	"traitTitle_Killer": {
@@ -234,7 +234,7 @@
 		"turkish": "Yorulmaz",
 		"bulgarian": "Неуморим",
 		"portuguese": "Incansável",
-		"ukrainian":"Невтомний",
+		"ukrainian":"Невтомн%heshe_IY_A%",
 		"russian":"Неутомим%hesheEnd%",
 	},
 	"traitDesc_Tireless": {
@@ -269,7 +269,7 @@
 		"turkish": "%firstName% parlak birisi ve bunun farkında. Yarı sürede yeni beceriler öğrenebilir.",
 		"bulgarian": "%firstName% е светъл човек и той го знае. Той може да научи нови умения в половината от времето.",
 		"portuguese": "%firstName% é um cara brilhante e %eleEla% sabe disso. %cap-eleEla% pode aprender novas habilidades na metade do tempo.",
-		"ukrainian":"%firstName% обдарован%surnameA% %guyGirl%, та %heShe% це знає. %cap-heShe% навчається новим навичкам вдвічі швидше.",
+		"ukrainian":"%firstName% обдарован%heshe_IY_A% %guyGirl%, та %heShe% це знає. %cap-heShe% навчається новим навичкам вдвічі швидше.",
 		"russian":"%firstName% одаренн%hesheEnd% %guyGirl%, и %heShe% это знает. %cap-heShe% обучается новым навыкам вдвое быстрее.",
 	},
 	"traitTitle_Dumb": {
@@ -280,7 +280,7 @@
 		"turkish": "Salak",
 		"bulgarian": "Тъп",
 		"portuguese": "Idiot%oA%",
-		"ukrainian":"Тупий",
+		"ukrainian":"Туп%heshe_IY_A%",
 		"russian":"Туп%hesheEnd2%",
 	},
 	"traitDesc_Dumb": {
@@ -437,7 +437,7 @@
 		"french": "Boit%euxEuse%",
 		"portuguese": "Mancand%oA%",
 		"turkish": "Topallıyor",
-		"ukrainian":"Хромий",
+		"ukrainian":"Хром%heshe_IY_A%",
 		"russian":"Хром%hesheEnd%",
 	},
 	"traitDesc_Limping": {
@@ -447,7 +447,7 @@
 		"french": "En raison d'un accident, %firstName% a une jambe défectueuse et boite. %cap-ilElle% marche un peu plus lentement que les autres colons",
 		"portuguese": "Por causa de um acidente, %firstName% tem uma perna ruim e está mancando. %cap-eleEla% anda um pouco mais devagar do que outros colonos",
 		"turkish": "Bir kazadan dolayı %firstName%'in ayağından sıkıntısı var ve topallıyor. Diğer yerleşimcilerden daha yavaş yürür",
-		"ukrainian":"%firstName%, після нещасного випадку, пошкоди%surnameA% ногу і накульгує. %cap-heShe% ходить трохи повільніше, ніж інші.",
+		"ukrainian":"%firstName%, після нещасного випадку, пошкоди%hesheEnd% ногу і накульгує. %cap-heShe% ходить трохи повільніше, ніж інші.",
 		"russian":"%firstName%, после несчастного случая, повредил%surnameA% ногу и прихрамывает. %cap-heShe% ходит чуть медленнее, чем остальные.",
 	},
 }

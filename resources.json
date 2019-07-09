@@ -1,4 +1,4 @@
-{
+﻿{
 	"xUnitsOfResource": {
 		"english": "%amount% %resource%",
 		"russian": "%amount% ед. %resource%"
@@ -11,7 +11,7 @@
 		"turkish": "Çiğ yemek",
 		"portuguese": "Comida crua",
 		"russian": "Сырая пища",
-		"ukrainian":"",
+		"ukrainian":"Cира їжа",
 	},
 	"resourceName_Food": {
 		"english": "Food",
@@ -21,7 +21,7 @@
 		"turkish": "Yemek",
 		"portuguese": "Comida",
 		"russian": "Еда",
-		"ukrainian":"",
+		"ukrainian":"їжа",
 	},
 	"resourceDescription_FoodRaw": {
 		"english": "Your colonists need food to survive. Every type you gather is raw at first and can be cooked.",
@@ -30,8 +30,8 @@
 		"spanish": "Tus colonos necesitan sobrevivir. Cualquier tipo de cultivo que recolectes está crudo y puede ser cocinado.",
 		"turkish": "Yerleşimcilerin hayatta kalmak için yiyeceğe ihtiyaçları var. Topladığınız yiyecekler çiğ ancak pişirilebilir.",
 		"portuguese": "Seus colonos precisam de comida para sobreviver. Cada tipo que você coleta é cru a princípio e pode ser cozido.",
-		"russian": "Вашим колонистам нужна еда для выживания. Каждый тип еды, который вы собираете, сырой и может быть приготовлен.",
-		"ukrainian":"",
+		"russian": "Вашим колонистам нужна еда для выживания. Каждый тип еды, который вы собираете, поначалу сырой и может быть приготовлен.",
+		"ukrainian":"Вашим колоністам потрібна їжа, щоб вижити. Кожен тип, який ви збираєте, спочатку є сирим і може бути приготовленим.",
 	},
 	"resourceName_Apple": {
 		"english": "Apple",
@@ -41,7 +41,7 @@
 		"turkish": "Elma",
 		"portuguese": "Maçã",
 		"russian": "Яблоко",
-		"ukrainian":"",
+		"ukrainian":"Яблуко",
 	},
 	"resourceName_Tomato": {
 		"english": "Tomato",
@@ -51,7 +51,7 @@
 		"turkish": "Domates",
 		"portuguese": "Tomate",
 		"russian": "Помидор",
-		"ukrainian":"",
+		"ukrainian":"Помідор",
 	},
 	"resourceName_Pumpkin": {
 		"english": "Pumpkin",
@@ -61,7 +61,7 @@
 		"turkish": "Kabak",
 		"portuguese": "Abóbora",
 		"russian": "Тыква",
-		"ukrainian":"",
+		"ukrainian":"Гарбуз",
 	},
 	"resourceName_Potato": {
 		"english": "Potato",
@@ -71,7 +71,7 @@
 		"turkish": "Patates",
 		"portuguese": "Batata",
 		"russian": "Картошка",
-		"ukrainian":"",
+		"ukrainian":"Картопля",
 	},
 	"resourceName_Strawberry": {
 		"english": "Strawberry",
@@ -81,7 +81,7 @@
 		"turkish": "Çilek",
 		"portuguese": "Morango",
 		"russian": "Клубника",
-		"ukrainian":"",
+		"ukrainian":"Полуниця",
 	},
 	"resourceName_Wheat": {
 		"english": "Wheat",
@@ -91,7 +91,7 @@
 		"turkish": "Buğday",
 		"portuguese": "Trigo",
 		"russian": "Пшеница",
-		"ukrainian":"",
+		"ukrainian":"Пшениця",
 	},
 	"resourceName_FoodCooked": {
 		"english": "Cooked Food",
@@ -101,7 +101,7 @@
 		"turkish": "Pişmiş yemek",
 		"portuguese": "Comida Cozida",
 		"russian": "Приготовленная пища",
-		"ukrainian":"",
+		"ukrainian":"Приготовлена їжа",
 	},
 	"resourceDescription_FoodCooked": {
 		"english": "A colonist will take cooked food over raw food every time. Colonists get happy thoughts from eating cooked food.",
@@ -110,8 +110,8 @@
 		"spanish": "Un colono siempre preferirá comida cocinada a comida cruda. Además, obtienen buenos pensamientos al comer comida cocinada.",
 		"turkish": "Yerleşimciler pişmiş yemekleri çiğ yemelere tercih eder ve ilk önce pişmiş olanlara gider. Pişmiş yiyecekler onları mutlu eder.",
 		"portuguese": "Um colono levará comida cozida sobre comida crua toda vez. Os colonos têm pensamentos felizes de comer comida cozida.",
-		"russian": "Колонисты всегда будут предпочитать приготовленную пищу сырой. Приготовленная пища делает колонистов счастливыми.",
-		"ukrainian":"",
+		"russian": "Колонисты всегда будут предпочитать приготовленную пищу чем сырую. Приготовленная пища делает колонистов счастливыми.",
+		"ukrainian":"Колоністи завжди вважатимуть за краще приготовлену чим сиру їжу. Приготована їжа робить колоністів щасливими.",
 	},
 	"resourceName_FoodRawEdible": {
 		"english": "Raw Food",
@@ -121,7 +121,7 @@
 		"turkish": "Çiğ yemek",
 		"portuguese": "Comida crua",
 		"russian": "Сырая пища",
-		"ukrainian":"",
+		"ukrainian":"Сира їжа",
 	},
 	"resourceName_SimpleMeal": {
 		"english": "Campfire Food",
@@ -131,7 +131,7 @@
 		"turkish": "Kamp ateşinde pişmiş yemek",
 		"portuguese": "Comida de fogueira",
 		"russian": "Еда с костра",
-		"ukrainian":"",
+		"ukrainian":"Їжа з багаття",
 	},
 	"resourceName_GoodMeal": {
 		"english": "Kitchen Food",
@@ -141,7 +141,7 @@
 		"turkish": "Mutfak yemeği",
 		"portuguese": "Cozinha Comida",
 		"russian": "Кухонная еда",
-		"ukrainian":"",
+		"ukrainian":"Кухонна їжа",
 	},
 	"resourceName_BakedMeal": {
 		"english": "Baked Food",
@@ -151,7 +151,7 @@
 		"turkish": "Pişmiş yemek",
 		"portuguese": "Comida Assada",
 		"russian": "Запеченная еда",
-		"ukrainian":"",
+		"ukrainian":"Запечена їжа",
 	},
 	"resourceName_BakedApple": {
 		"english": "Baked Apple",
@@ -161,7 +161,7 @@
 		"turkish": "Pişmiş elma",
 		"portuguese": "Maça assada",
 		"russian": "Запеченное яблоко",
-		"ukrainian":"",
+		"ukrainian":"Запечене яблуко",
 	},
 	"resourceDescription_BakedApple": {
 		"english": "Especially tasty on cold winter days.",
@@ -171,7 +171,7 @@
 		"turkish": "Özellikle soğuk kış günlerinde çok lezzetli.",
 		"portuguese": "Especialmente saboroso em dias frios de inverno.",
 		"russian": "Особенно вкусно в холодные зимние дни.",
-		"ukrainian":"",
+		"ukrainian":"Особливо смачно в холодні зимові дні.",
 	},
 	"resourceName_BakedPotato": {
 		"english": "Baked Potato",
@@ -181,7 +181,7 @@
 		"turkish": "Pişmiş patates",
 		"portuguese": "Batata assada",
 		"russian": "Запеченная картошка",
-		"ukrainian":"",
+		"ukrainian":"Запечена картопля",
 	},
 	"resourceDescription_BakedPotato": {
 		"english": "Every hard working settler loves baked potatoes for their fluffy interior and crisp skin.",
@@ -191,7 +191,7 @@
 		"turkish": "Her çalışkan yerleşimci pamuksu içeriği ve kırtıklı kabuğuyla pişmiş patatesi sever.",
 		"portuguese": "Cada colono que trabalha duro adora batatas cozidas pelo seu interior fofo e pele nítida.",
 		"russian": "Каждый трудолюбивый поселенец любит печеный картофель за его невероятный вкус.",
-		"ukrainian":"",
+		"ukrainian":"Кожен працьовитий поселенець любить печену картоплю за її неймовірний смак.",
 	},
 	"resourceName_BakedTomato": {
 		"english": "Baked Tomato",
@@ -201,7 +201,7 @@
 		"turkish": "Pişmiş domates",
 		"portuguese": "Tomate Assado",
 		"russian": "Запеченный помидор",
-		"ukrainian":"",
+		"ukrainian":"Запечений помідор",
 	},
 	"resourceDescription_BakedTomato": {
 		"english": "So simple to make but so tasty. A good way to start the day!",
@@ -211,7 +211,7 @@
 		"turkish": "Yapılması çok basit olsa da son derece lezzetli. Güne başlamak için iyi bir yol!",
 		"portuguese": "Tão simples de fazer, mas tão saboroso. Uma boa maneira de começar o dia!",
 		"russian": "Так просто готовится, но так вкусно. Хороший способ начать день!",
-		"ukrainian":"",
+		"ukrainian":"Так просто готується, але так смачно. Хороший спосіб почати день!",
 	},
 	"resourceName_PumpkinStew": {
 		"english": "Pumpkin Stew",
@@ -221,7 +221,7 @@
 		"turkish": "Kabak Yahni",
 		"portuguese": "Guisado de abóbora",
 		"russian": "Тыквенное рагу",
-		"ukrainian":"",
+		"ukrainian":"Гарбузове рагу",
 	},
 	"resourceDescription_PumpkinStew": {
 		"english": "Fresh pumpkins cooked together with potatoes. This is why your colonists can't wait for fall to arrive!",
@@ -231,7 +231,7 @@
 		"turkish": "Patatesle birlikte pişirilmiş taze kabaklar. Yerleşimcilerinizin sonbaharı dört gözle bekleme sebeplerinden biri!",
 		"portuguese": "Abóboras frescas cozidas junto com batatas. É por isso que os colonos não podem esperar a chegada do outono!",
 		"russian": "Свежие тыквы, приготовленные вместе с картофелем. Вот почему ваши колонисты не могут дождаться наступления осени!",
-		"ukrainian":"",
+		"ukrainian":"Свіжі гарбуза, приготовані разом з картоплею. Ось чому ваші колоністи не можуть дочекатися настання осені!",
 	},
 	"resourceName_PotatoSoup": {
 		"english": "Potato Soup",
@@ -241,7 +241,7 @@
 		"turkish": "Patates çorbası",
 		"portuguese": "Sopa de batata",
 		"russian": "Картофельный суп",
-		"ukrainian":"",
+		"ukrainian":"Картопляний суп",
 	},
 	"resourceDescription_PotatoSoup": {
 		"english": "Nutritious and tasty! A plate of potato soup always works for your settlers.",
@@ -251,7 +251,7 @@
 		"turkish": "Besleyici ve lezzetli! Bir tabak patates çorbası yerleşimcilerinizin her zaman hoşuna gider.",
 		"portuguese": "Nutritivo e saboroso! Um prato de sopa de batata sempre funciona para seus colonos.",
 		"russian": "Питательно и вкусно! Тарелка картофельного супа всегда любима поселенцами.",
-		"ukrainian":"",
+		"ukrainian":"Поживно і смачно! Тарілка картопляного супу завжди любима поселенцями.",
 	},
 	"resourceName_FruitSalad": {
 		"english": "Fruit Salad",
@@ -261,7 +261,7 @@
 		"turkish": "Meyve salatası",
 		"portuguese": "Salada de frutas",
 		"russian": "Фруктовый салат",
-		"ukrainian":"",
+		"ukrainian":"Фруктовий салат",
 	},
 	"resourceDescription_FruitSalad": {
 		"english": "A very popular dish among colonists with a sweet tooth.",
@@ -271,7 +271,7 @@
 		"turkish": "Tatlıya düşkün yerleşimciler arasında çok popüler bir yemek.",
 		"portuguese": "Um prato muito popular entre os colonos com um dente doce.",
 		"russian": "Очень популярное блюдо среди колонистов, которые не безразличны к сладкому.",
-		"ukrainian":"",
+		"ukrainian":"Дуже популярна страва серед колоністів, які не байдужі до солодкого.",
 	},
 	"resourceName_Bread": {
 		"english": "Bread",
@@ -281,7 +281,7 @@
 		"turkish": "Ekmek",
 		"portuguese": "Pão",
 		"russian": "Хлеб",
-		"ukrainian":"",
+		"ukrainian":"Хліб",
 	},
 	"resourceDescription_Bread": {
 		"english": "Crispy on the outside, fluffy on the inside. What would life be without bread?",
@@ -291,7 +291,7 @@
 		"turkish": "Dışından çıtır, içinden yumuşacık. Ekmek olmasaydı hayat nasıl olurdu?",
 		"portuguese": "Crocante por fora, fofo por dentro. O que seria a vida sem pão?",
 		"russian": "Хрустящий снаружи, пушистый изнутри. Что за жизнь была бы без хлеба?",
-		"ukrainian":"",
+		"ukrainian":"Хрусткий зовні, пухнастий зсередини. Що за життя було б без хліба?",
 	},
 	"resourceName_StrawberryCake": {
 		"english": "Strawberry Cake",
@@ -301,7 +301,7 @@
 		"turkish": "Çilekli pasta",
 		"portuguese": "Bolo de morango",
 		"russian": "Клубничный пирог",
-		"ukrainian":"",
+		"ukrainian":"Полуничний пиріг",
 	},
 	"resourceDescription_StrawberryCake": {
 		"english": "The taste of spring - or at least as close as it can get.",
@@ -311,7 +311,7 @@
 		"turkish": "İlkbaharın lezzeti - en azından olabildiğince.",
 		"portuguese": "O gosto da primavera - ou pelo menos tão perto quanto possível.",
 		"russian": "Вкус весны - или, по крайней мере, настолько близкий, насколько это возможно.",
-		"ukrainian":"",
+		"ukrainian":"Смак весни - або, принаймні, настільки близький, наскільки це можливо.",
 	},
 	"resourceName_AppleStrudel": {
 		"english": "Apple Strudel",
@@ -321,7 +321,7 @@
 		"turkish": "Elmalı Strudel",
 		"portuguese": "Strudel de maçã",
 		"russian": "Яблочный штрудель",
-		"ukrainian":"",
+		"ukrainian":"Яблучний штрудель",
 	},
 	"resourceDescription_AppleStrudel": {
 		"english": "With an amazing length of 752 meters, the longest apple strudel got made in a country far far away on the 15th of August. One can simply not have enough of this tasty dish!",
@@ -330,7 +330,7 @@
 		"spanish": "Con una increíble longitud de 752 metros, el strudel de manzana más largo se hizo en un país muy muy lejano un 15 de Agosto. ¡Uno simplemente no puede tener suficiente de este sabroso plato!",
 		"portuguese": "Com um incrível comprimento de 752 metros, o maior strudel de maçã foi feito em um país muito distante no dia 15 de agosto. Pode-se simplesmente não ter o suficiente deste prato saboroso!",
 		"russian": "Давным-давно, 15 августа, в далекой стране бьл испечен яблочный штрудель невероятной длины - 752 метра! Простой, но в то же время очень вкусный десерт.",
-		"ukrainian":"",
+		"ukrainian":"Давним-давно, 15 серпня, в далекій країні бьл випечений яблучний штрудель неймовірною довжини - 752 метра! Простий, але в той же час дуже смачний десерт.",
 	},
 	"resourceName_IronOre": {
 		"english": "Iron Ore",
@@ -340,7 +340,7 @@
 		"turkish": "Demir cevheri",
 		"portuguese": "Minério de ferro",
 		"russian": "Железная руда",
-		"ukrainian":"",
+		"ukrainian":"Залізна руда",
 	},
 	"resourceDescription_IronOre": {
 		"english": "In order to produce more advanced tools, weapons and armor, you need to find and mine iron ore.",
@@ -350,7 +350,7 @@
 		"turkish": "Daha gelişmiş aletler, silahlar ve zırhlar üretmek için demir cevheri bulmanız ve çıkarmanız gerekiyor.",
 		"portuguese": "Para produzir ferramentas mais avançadas, armas e armaduras, você precisa encontrar e extrair minério de ferro.",
 		"russian": "Чтобы производить улучшенные инструменты, оружие и доспехи, вам нужно найти и добыть железную руду.",
-		"ukrainian":"",
+		"ukrainian":"Щоб виробляти поліпшені інструменти, зброю і обладунки, вам потрібно знайти і добути залізну руду.",
 	},
 	"resourceName_Stone": {
 		"english": "Stone",
@@ -360,7 +360,7 @@
 		"turkish": "Taş",
 		"portuguese": "Pedra",
 		"russian": "Камень",
-		"ukrainian":"",
+		"ukrainian":"Камінь",
 	},
 	"resourceDescription_Stone": {
 		"english": "Anytime you want to build something durable and fire-proof, you should prefer stone over wood.",
@@ -370,7 +370,7 @@
 		"turkish": "Dayanıklı ve yangına dayanıklı bir şey inşa etmek istediğinizde, ahşap üzerine taş tercih etmelisiniz.",
 		"portuguese": "Sempre que você quiser construir algo durável e à prova de fogo, você deve preferir pedra em vez de madeira.",
 		"russian": "Каждый раз, когда вы захотите построить что-то прочное и пожаростойкое, предпочтите камень дереву.",
-		"ukrainian":"",
+		"ukrainian":"Кожен раз, коли ви захочете побудувати щось міцне і пожежостійкість, віддайте перевагу камінь дереву.",
 	},
 	"resourceName_HealingPlant": {
 		"english": "Healing Plants",
@@ -380,7 +380,7 @@
 		"turkish": "Şifalı bitkiler",
 		"portuguese": "Plantas curativas",
 		"russian": "Целебные растения",
-		"ukrainian":"",
+		"ukrainian":"Цілющі рослини",
 	},
 	"resourceDescription_HealingPlant": {
 		"english": "Healing plants can be found in the wild or cultivated at home. They are a vital ingredient for most medical supplies.",
@@ -390,7 +390,7 @@
 		"turkish": "Şifalı bitkiler vahşi doğada bulunabilir veya bahçede yetiştirilebilir. Çoğu tıbbi malzeme için hayati bir unsurdur.",
 		"portuguese": "Plantas curativas podem ser encontradas na natureza ou cultivadas em casa. Eles são um ingrediente vital para a maioria dos suprimentos médicos.",
 		"russian": "Целебные растения можно найти в дикой природе или выращивать дома. Они являются жизненно важным компонентом для большинства предметов медицинского назначения.",
-		"ukrainian":"",
+		"ukrainian":"Цілющі рослини можна знайти в дикій природі або вирощувати вдома. Вони є життєво важливим компонентом для більшості предметів медичного призначення.",
 	},
 	"resourceName_HealingPlantWild": {
 		"english": "Wild Healing Plants",
@@ -400,7 +400,7 @@
 		"turkish": "Yabani Şifalı Bitkiler",
 		"portuguese": "Plantas curativas selvagens",
 		"russian": "Дикие целебные растения",
-		"ukrainian":"",
+		"ukrainian":"Дикие целебные растения",
 	},
 	"resourceName_HealingPlantCultivated": {
 		"english": "Cultivated Healing Plants",
@@ -410,7 +410,7 @@
 		"turkish": "Kültür Şifalı Bitkiler",
 		"portuguese": "Plantas de cura cultivadas",
 		"russian": "Обработанные целебные растения",
-		"ukrainian":"",
+		"ukrainian":"Оброблені цілющі рослини",
 	},
 	"resourceName_HealingPotion": {
 		"english": "Healing Potions",
@@ -420,7 +420,7 @@
 		"turkish": "İyileştirici İksirler",
 		"portuguese": "Poções de Cura",
 		"russian": "Лечебные зелья",
-		"ukrainian":"",
+		"ukrainian":"Лікувальне зілля",
 	},
 	"resourceDescription_HealingPotion": {
 		"english": "When your colonists are wounded, it's best to give them healing potions to speed up the healing process.",
@@ -430,7 +430,7 @@
 		"turkish": "Yerleşimcileriniz yaralandığında, iyileşme sürecini hızlandırmak için onlara iyileştirici iksir vermek en iyisidir.",
 		"portuguese": "Quando seus colonos estão feridos, é melhor dar-lhes poções de cura para acelerar o processo de cura.",
 		"russian": "Если ваши колонисты ранены, можно дать им лечебное зелье для ускорения процесса заживления.",
-		"ukrainian":"",
+		"ukrainian":"Якщо ваші колоністи поранені, можна дати їм зілля для прискорення процесу загоєння.",
 	},
 	"resourceName_Medicine": {
 		"english": "Illness Medicine",
@@ -440,7 +440,7 @@
 		"turkish": "Hastalık İlacı",
 		"portuguese": "Remédio",
 		"russian": "Лекарство от болезней",
-		"ukrainian":"",
+		"ukrainian":"Ліки від хвороб",
 	},
 	"resourceDescription_Medicine": {
 		"english": "There are various illnesses your colonists can get. This medicine treats most of them.",
@@ -450,7 +450,7 @@
 		"turkish": "Yerleşimcilerinizin kapabileceği çeşitli hastalıklar var. Bu ilaç çoğunu tedavi ediyor.",
 		"portuguese": "Existem várias doenças que seus colonos podem ter. Este medicamento trata a maioria deles.",
 		"russian": "Существуют различные болезни, которые могут получить ваши колонисты. Это лекарство лечит большинство из них.",
-		"ukrainian":"",
+		"ukrainian":"Існують різні хвороби, які можуть отримати ваші колоністи. Ці ліки лікують більшість з них.",
 	},
 	"resourceName_Wood": {
 		"english": "Wood",
@@ -460,7 +460,7 @@
 		"turkish": "Odun",
 		"portuguese": "Madeira",
 		"russian": "Бревно",
-		"ukrainian":"",
+		"ukrainian":"Колода",
 	},
 	"resourceDescription_Wood": {
 		"english": "Most things can be made out of wood in one way or another. This includes Walls, Doors, Floors, Furniture, Tools and Weapons.",
@@ -470,7 +470,7 @@
 		"turkish": "Çoğu şey tahtadan bir şekilde yapılabilir. Buna Duvarlar, Kapılar, Döşemeler, Mobilya, Araçlar ve Silahlar dahildir.",
 		"portuguese": "A maioria das coisas pode ser feita de madeira de uma forma ou de outra. Isso inclui paredes, portas, pisos, móveis, ferramentas e armas.",
 		"russian": "Большинство вещей может быть сделано из дерева тем или иным способом. Это стены, двери, полы, мебель, инструменты и оружие.",
-		"ukrainian":"",
+		"ukrainian":"Це стіни, двері, підлоги, меблі, інструменти та зброя.",
 	},
 	"resourceName_Cotton": {
 		"english": "Cotton",
@@ -480,7 +480,7 @@
 		"turkish": "Pamuk",
 		"portuguese": "Algodão",
 		"russian": "Хлопок",
-		"ukrainian":"",
+		"ukrainian":"Бавовна",
 	},
 	"resourceDescription_Cotton": {
 		"english": "Cotton is used for all things that are made out of cloth. This includes stuff like beds, bandages and clothes.",
@@ -490,7 +490,7 @@
 		"turkish": "Pamuk, kumaştan yapılmış her şey için kullanılır. Buna yatak, bandaj ve kıyafet gibi şeyler dahildir.",
 		"portuguese": "O algodão é usado para todas as coisas que são feitas de pano. Isso inclui coisas como camas, bandagens e roupas.",
 		"russian": "Хлопок используется для всех вещей, которые сделаны из ткани. Это такие вещи, как кровати, бинты и одежда.",
-		"ukrainian":"",
+		"ukrainian":"Бавовна використовується для всіх речей, які зроблені з тканини. Це такі речі, як ліжка, бинти та одяг.",
 	},
 	"resourceName_Crystal": {
 		"english": "Crystal",
@@ -500,7 +500,7 @@
 		"turkish": "Kristal",
 		"portuguese": "Cristal",
 		"russian": "Кристалл",
-		"ukrainian":"",
+		"ukrainian":"Кристал",
 	},
 	"resourceDescription_Crystal": {
 		"english": "A crystal is a gem with many interesting properties. Your colonists can gather and study them as a way of doing research.",
@@ -510,7 +510,7 @@
 		"turkish": "Kristal, birçok ilginç özelliğe sahip bir mücevherdir. Kolonistler, onları araştırma yapmanın bir yolu olarak toplayabilir ve çalışabilir.",
 		"portuguese": "A crystal is a gem with many interesting properties. Your colonists can gather and study them as a way of doing research.",
 		"russian": "Кристалл - это драгоценный камень с множеством интересных свойств. Ваши колонисты могут собирать и изучать их для продвижения исследований.",
-		"ukrainian":"",
+		"ukrainian":"Кристал - це дорогоцінний камінь з безліччю цікавих властивостей. Ваші колоністи можуть збирати і вивчати їх для просування досліджень.",
 	},
 	"resourceName_Scroll": {
 		"english": "Scroll",
@@ -520,7 +520,7 @@
 		"portuguese": "Pergaminho",
 		"turkish": "Parşömen",
 		"russian": "Свиток",
-		"ukrainian":"",
+		"ukrainian":"Свиток",
 	},
 	"resourceDescription_Scroll": {
 		"english": "Ancient secrets are written on these scrolls. Experienced scholars can discover technology by carefully studying their texts. Some traders sell them at a high price",
@@ -531,7 +531,7 @@
 		"portuguese": "Segredos antigos são escritos nesses pergaminhos. Estudiosos experientes podem descobrir tecnologias estudando cuidadosamente seus textos. Alguns comerciantes os vendem a um preço alto",
 		"turkish": "Bu parşömenlerin üzerine eski sırlar yazılmıştır. Deneyimli alimler, metinleri dikkatlice inceleyerek teknoloji keşfedebilirler.",
 		"russian": "Древние секреты написаны на этих свитках. Опытные ученые могут открыть технологию, внимательно изучая их тексты. Некоторые торговцы продают их по высокой цене.",
-		"ukrainian":"",
+		"ukrainian":"Стародавні секрети написані на цих свитках. Досвідчені вчені можуть відкрити технологію, уважно вивчаючи їх тексти. Деякі торговці продають їх за високою ціною.",
 	},
 	"resourceName_Water": {
 		"english": "Water",
@@ -541,7 +541,7 @@
 		"turkish": "Su",
 		"portuguese": "Agua",
 		"russian": "Вода",
-		"ukrainian":"",
+		"ukrainian":"Вода",
 	},
 	"resourceName_Coins": {
 		"english": "Coins",
@@ -551,7 +551,7 @@
 		"french": "Pièces",
 		"turkish": "Paralar",
 		"russian": "Монеты",
-		"ukrainian":"",
+		"ukrainian":"Монети",
 	},
 	"resourceDescription_Coins": {
 		"english": "Money makes the world go round. Trade with other factions, pay your colonists, or use your coins to finance extravagant furniture.",
@@ -561,6 +561,6 @@
 		"portuguese": "Dinheiro faz o mundo girar. Negocie com outras facções, pague seus colonos ou use suas moedas para financiar móveis extravagantes.",
 		"turkish":  "Para dünyayı döndürür. Diğer gruplarla ticaret yapın, yerleşimcilerinize para ödeyin ya da abartılı mobilyaları finanse etmek için paranızı kullanın.",
 		"russian": "Деньги заставляют мир вертеться. Торгуйте с другими фракциями, платите колонистам или используйте монеты для покупки экстравагантной мебели.",
-		"ukrainian":"",
+		"ukrainian":"Гроші змушують світ крутитися. Торгуйте з іншими фракціями, платите колоністам або використовуйте монети для покупки екстравагантної меблів.",
 	},
 }

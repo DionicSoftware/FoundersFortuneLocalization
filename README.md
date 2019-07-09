@@ -12,6 +12,7 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 ###### - **[FR]** Placez les fichiers dans votre dossier de jeu et renommez-le en "**localization**". N'oubliez pas de **créer un "custom.txt"** contenant les éléments suivants :
 ###### - **[PT]** Coloque os arquivos na sua pasta do jogo e renomeá-lo como "**localization**", não esqueça de **criar um "custom.txt"** contendo o seguinte:
 ###### - **[TR]** Dosyaları oyunun bulunduğu yerde yeni bir klasör açıp yerleştirin ve klasörün ismini "**localization**" olarak değiştirin. Aşağıdaki verileri içeren **"custom.txt" dosyası oluşturmayı unutmayın**:
+###### - **[RU]** Создайте папку "**localization**" в папке игры и поместите туда эти файлы. Не забудьте **создать "custom.txt"**, со следующим содержимым:
 
 ## Custom.txt:
 ```

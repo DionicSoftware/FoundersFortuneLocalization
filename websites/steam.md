@@ -50,6 +50,10 @@ Gestiona recursos, agricultura, producción, herramientas, equipo, comercio, def
 Yaratıcı inşa, kolonici psikolojisi ve üs savunmasına odaklı bir fantazi koloni simülatörü.
 Adadaki kaynakları kullanarak çiftçilik, araç gereç üretimi, ticaret, savunma ve araştırma yapmanız gerekir. Ayrıca kolonicilerin mutlu tutmalısınız.
 
+### Russian
+Фэнтезийный симулятор колонии, основными аспектами которого являются строительство, защита базы и управление психологическими характеристиками ваших колонистов.
+Управляйте ресурсами, сельским хозяйством, производством, инструментами, оружием, броней, торговлей, защитой и исследованиями, а также пожеланиями, мечтами, мыслями и имуществом каждого колониста.
+
 # Long Description - Translation Disclaimer
 *******************************************
 Substitute "..." with your language
@@ -70,6 +74,8 @@ Substitute "..." with your language
 ### Turkish
 (Çeviri topluluk tarafından yapıldı.)
 
+### Russian
+(Перевод на русский язык выполнен сообществом.)
 
 # Long Description - Building Section
 *************************************
@@ -122,6 +128,13 @@ Koloniciler adaya geldiklerinde üzerlerindeki kıyafetlerden başka bir şeyler
 
 Önceden tanımlanmış binalarla sınırlı değilsiniz! Kendi evlerinizi tasarlayın ve zevkinize göre stillendirin. Her zaman hayalini kurduğunuz yerleşimi oluşturmak için kullanabileceğiniz düzinelerce inşaat ve mobilya öğesi var!
 
+### Russian
+Постройте свою колонию
+
+Ваши колонисты прибывают на пустой остров с почти пустыми руками. Вы можете управлять ими, приказывать собирать ресурсы, строить стены, полы и мебель.
+
+Вы не ограничены в творчестве! Стройте дома вручную из основных компонентов. В игре есть десятки различных элементов для постройки дома, а так же куча мебели. Все это позволит вам создать именно ту колонию, о которой вы мечтали!
+
 # Long Description - Colonist Section
 *************************************
 
@@ -172,6 +185,13 @@ Kolonicilerinize iyi bakın
 Koloniciler senin önceliğin. İlk başta, onlara yalnızca yiyecek ve barınak sağlamalısınız. Ama dünya tehlikelerle dolu! Bir enfeksiyon en güçlü savaşçı için ölümcül olabilir ve bir veba, koloninizi tamamen yok edebilir.
 
 Koloniciler olaylara duygusal tepki verir, mutlu ya da üzgün olarak, ve davranışlarında bunu yansıtır. Mutlu koloniciler üretkenliklerini artıracaklar - Mutsuz koloniciler öfke nöbeti geçirebilirler.
+
+### Russian
+Заботьтесь о ваших колонистах
+
+Колонисты - ваш главный приоритет. Сначала вам просто нужно обеспечить их едой и жильем. Но мир полон опасностей! Даже самого сильного война может заразить инфекцией, а чума может уничтожить всю вашу колонию!
+
+Все колонисты реагируют на события, произошедшие в игре. Счастливые колонисты работают более эффективно, а вот несчастные могут получить нервный срыв.
 
 # Long Description - Tantrum Section
 ************************************
@@ -234,6 +254,15 @@ Yerleşimcilerinizin ihtiyaç ve isteklerini çok uzun süre görmezden gelirsen
 
 Bu noktada, tüm bahisler kapalı…
 
+### Russian
+Нервный срыв
+
+В идеальных условиях, все мечты и пожелания жителей выполняются. Выполненные желания улучшают настроение колонистов, в то время как голод, травмы, или даже скучные разговоры или страшный сон портят настроение колонистов.
+
+Если вы длительное время будете игнорировать нужды и желания своих колонистов, у них может произойти нервный срыв.
+
+В этом случае вам мало что поможет...
+
 # Long Description - Farm Section
 *********************************
 
@@ -284,6 +313,12 @@ Yiyecekler önemlidir. İyi yemek yerleşimcileri mutlu eder, kötü yemek yerle
 
 Çeşitli mevsimlik ürünler yetiştirin ve onlardan lezzetli yemekler yapmak için bir mutfak kurun. Kış mevsimi başlamadan önce stok yapmayı unutmayın ve aç bir böcek sürüsü tarlalarınıza indiğinde hızlı davranın
 
+### Russian
+Создайте свою ферму
+
+Еда важна. Еда делает колонистов счастливыми, из-за испорченной еды колонисты могут заболеть, из-за маленьких порций начать работать менее эффективно, а при отсутствии пищи колонисты умирают.
+
+Выращивайте разнообразные виды растений в зависимости от сезона и используйте кухню для приготовления блюд. Запасайтесь едой на зиму и спасайте урожай в случае нашествия жуков!
 
 # Long Description - Winter Section
 ***********************************
@@ -336,6 +371,13 @@ Sahip olduğunuz zamanı kullanın ve yeterli miktarda yiyecek bulunduğundan em
 
 Tedarikler azaldığında ve dondurucu soğuk rüzgarlar çıkarsa, umudunu kaybetmek kolaydır...
 
+### Russian
+Переживите зиму
+
+У вас есть некоторое время перед приходом зимы для создания продовольственных запасов на зиму. Надеемся, что вам не придется сокращать порции колонистов вдвое, т.к в этом случае они начнут работать медленнее.
+
+Если у вас не осталось запасов, а за окном зима, вам поможет только надежда...
+
 # Long Description - Trading Section
 ************************************
 
@@ -386,6 +428,13 @@ Zamanla, koloninin üretim yapmaya başladığı çevrede konuşulur olur. Seyah
 
 Üretimi sürdürmeye çalışın, böylece her zaman satılacak bir şeyleriniz olur. Olgun bir koloninin herkesi mutlu etmek için iyi maaşlar ödemesi gerekir. Eğer moral düşükse, ek fonlar küçük bir mutluluk kaynağı bile olabilir!
 
+### Russian
+Торгуйте и богатейте
+
+Прошел слушок, что ваша колония начала производить товары. Поприветствуйте путешествующих торговцев и поторгуйтесь с ними, возможно вы сможете купить у них древний свиток или продовольственных запасов на зиму.
+
+Делайте свои запасы так, чтобы у вас всегда было чем торговать. Колонисты требуют достойную зарплату за свой труд. Если настроение в вашей колонии низкое, вы сможете улучшить его за дополнительные средства.
+
 # Long Description - Research Section
 *************************************
 
@@ -433,6 +482,13 @@ Teknoloji Araştırmaları
 Evinizi inşa etmek uzun bir süreçtir ve ihtiyaç duyduğunuz tek şey insan gücü ve kaynaklar değildir. Akıllı yerleşimciler, yeni teknolojileri araştırmak için çok zaman harcar, böylece daha iyi ekipman, yeni mobilya ve yapı elemanlarının kilidini açar.
 
 Bilginleri dikkatlice seçin - kişilikleri bu tür bir işe uygun değilse çok fazla ilerleme kaydetmeyeceklerdir.
+
+### Russian
+Занимайтесь исследованиями
+
+Строительство дома - долгий процесс и рабочая сила и ресурсы не единственное, что вам для этого нужно. Умные поселенцы занимаются исследованиями новых технологий, что позволяет открывать новые строительные элементы, мебель и снаряжение.
+
+Тщательно подбирайте ученых! Если его навыки не подходят под этот тип работы, он не добьется успеха в исследованиях.
 
 # Long Description - Defense Section
 ************************************
@@ -484,6 +540,13 @@ Mevzilerinizi Korumak
 
 Yerleşimcilerinizi savaş sanatında eğit ve onları sahip olduğun en iyi silah ve zırhla donat. Koloninin güvenliğini sağlamak için duvarlar ve kuleler inşa et - bu şekilde düşmanların seninle uğraşmaya çalışırken zorlanacak!
 
+### Russian
+Защищайте ваше поселение
+
+Вы не одни на этом острове, который теперь называете домом. На этом острове обитают тикигоблины, которые не особо рады вашему приезду.
+
+Обучайте своих колонистов сражению и вооружите их лучшим снаряжением и броней. Стройте стены и башни, чтобы тикигоблины не смогли пробраться к вам!
+
 
 # Early Access - Why Early Access?
 **********************************
@@ -512,6 +575,9 @@ Hemos estado ejecutando una Alfa pública desde nuestro sitio web por un tiempo 
 ### Turkish
 Bir süredir Web sitemizden halka açık bir Alpha yürütüyoruz ve Steam'deki bu projeye devam ediyoruz. Hangi özellikleri uygulayacağınızı, hangi iyileştirmeleri yapmamaız gerektiğini ve ilk olarak hangi hataları düzelteceğimizi belirlemek için geri bildiriminiz yol gösterici bir ışık olarak kullanıyoruz. Birlikte mümkün olan en iyi deneyim için uğraşıyoruz!
 
+### English
+До релиза в Steam у нас было открытое альфа-тестирование на нашем сайте. Вместе с сообществом мы решали, какие функции добавлять в игру, исправляли ошибки и всячески улучшали игру. Вместе с вами мы сможем активно заниматься развитием игры!
+
 # Early Access - Approximately how long will this game be in Early Access?
 **************************************************************************
 
@@ -537,6 +603,8 @@ Dependiendo de la cantidad de apoyo que recibamos, estamos planeando salir del a
 ### Turkish
 Aldığımız desteğin miktarına bağlı olarak, Eylül 2019 ve Eylül 2020 arasında erken erişimden çıkmayı planlıyoruz.
 
+### English
+В зависимости от вашей поддержки, мы планируем выйти из раннего доступа в период с сентября 2019 до сентября 2020 года.
 
 # Early Access - How is the full version planned to differ from the Early Access version?
 *****************************************************************************************
@@ -618,6 +686,18 @@ Yol haritamızdaki büyük öğeler
 
 Bunlar yapmak istediğimiz şeyler ve nihai sonuçlar Founders' Fortune’unun aldığı destek miktarına bağlı. Hiç destek almazsak, cilalamaya geçip mevcut deneyimi mümkün olduğunca sorunsuz hale getireceğiz.
 
+### Russian
+В планы нашего дальнейшего развития игры входят
+[list]
+[*]Многоэтажные постройки и крыши
+[*]Животные и питомцы
+[*]Отношения
+[*]Игра на нескольких островах
+[*]Другие фракции
+[/list]
+
+Это список того, что мы хотели бы сделать, но все зависит от того, насколько большую поддержку сообщества получит Founders' Fortune. Если мы не получим достаточно поддержки, мы будем заниматься отшлифовкой уже существующих функций до идеала.
+
 # Early Access - What is the current state of the Early Access version?
 ***********************************************************************
 
@@ -656,6 +736,11 @@ Geçmişte, oyuncular için web sitemiz üzerinden çeşitli Alpha sürümleri h
 
 Trailer, Ekran Görüntüleri ve aşağıdaki "Bu oyun hakkında" bölümündeki tüm özellikler uygulanır ve oynanabilirdir.
 
+### Russian
+До этого момента у нас была альфа версия игры на нашем сайте с дневным онлайном в 100-300 человек в день. Некоторые из игроков тратили по 18 часов в день на разблокирование ветки технологий.
+
+Весь функционал, который вы можете увидеть в трейлерах, скриншотах и во вкладке "Об этой игре", уже реализован и доступен в игре.
+
 # Early Access - Will the game be priced differently during and after Early Access?
 ***********************************************************************************
 
@@ -683,6 +768,8 @@ Planeamos incrementar el precio de Founders' Fortune a medida que agreguemos má
 ### Turkish
 Oyuna daha fazla özellik katarken, Founders' Fortune fiyatını yükseltmeyi planlıyoruz. Kesin miktarlar ekleyebileceğimiz içeriğin miktarına bağlıdır.
 
+### Russian
+В дальнейшем мы планируем поднимать цену на игру по мере добавления нового функционала. Конечная сумма зависит от того, сколько функционала мы сможем реализовать.
 
 # Early Access - How are you planning on involving the Community in your development process?
 **********************************
@@ -710,3 +797,5 @@ Tenemos una increíble comunidad y ya los estamos involucrando de forma bastante
 ### Turkish
 Harika bir topluluğumuz var ve bunları oyun içi geri bildirim kutumuz, Discord Sunucusu ve forum aracılığıyla zaten oldukça kapsamlı bir şekilde dahil ediyoruz. Ayrıca topluluktakilerin sorularını yanıtlamak için bir Twitch Streamer'a katıldık.
 
+### English
+У нас замечательное сообщество! Мы общаемся с игроками с помощью внутриигровой системы обратной связи, через наш форум и сервер Discord. Так же мы заходим на стримы по нашей игре на Twitch и отвечаем на вопросы игроков в прямом эфире.

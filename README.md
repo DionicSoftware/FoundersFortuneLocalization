@@ -1,4 +1,4 @@
-# Founders' Fortune Community Localization
+﻿# Founders' Fortune Community Localization
 
 This project is the official community translation for the colony simulation game Founders' Fortune.
 
@@ -13,6 +13,7 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 ###### - **[PT]** Coloque os arquivos na sua pasta do jogo e renomeá-lo como "**localization**", não esqueça de **criar um "custom.txt"** contendo o seguinte:
 ###### - **[TR]** Dosyaları oyunun bulunduğu yerde yeni bir klasör açıp yerleştirin ve klasörün ismini "**localization**" olarak değiştirin. Aşağıdaki verileri içeren **"custom.txt" dosyası oluşturmayı unutmayın**:
 ###### - **[RU]** Создайте папку "**localization**" в каталоге игры и поместите туда эти файлы. Не забудьте **создать "custom.txt"** со следующим содержимым:
+###### - **[UA]** Cтворіть папку "**localization**" в каталозі гры та помістіть туди ці файли. Не забудьте ** створити "custom.txt" ** з наступним змістом:
 
 ## Custom.txt:
 ```

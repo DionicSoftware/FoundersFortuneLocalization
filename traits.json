@@ -8,7 +8,7 @@
 		"bulgarian": "Пацифист",
 		"portuguese": "Pacifisto",
 		"ukrainian":"Пацифіст",
-		"russian":"Пацифист",
+		"russian":"Пацифист%sheKA%",
 	},
 	"traitDesc_Pacifist": {
 		"english": "%firstName% believes in the good in the world - maybe a little too much. Refuses to fight anyone unless %heShe% is already heavily wounded.",
@@ -54,7 +54,7 @@
 		"bulgarian": "Оптимист",
 		"portuguese": "Otimist%oA%",
 		"ukrainian":"Оптиміст",
-		"russian":"Оптимист",
+		"russian":"Оптимист%sheKA%",
 	},
 	"traitDesc_Optimist": {
 		"english": "Glass-half-full kind of %guyGirl%. Receives a permanent mood boost.",
@@ -77,7 +77,7 @@
 		"bulgarian": "Песимист",
 		"portuguese": "Pessimist%oA%",
 		"ukrainian":"Песиміст",
-		"russian":"Пессимист",
+		"russian":"Пессимист%sheKA%",
 	},
 	"traitDesc_Pessimist": {
 		"english": "Glass-half-empty kind of %guyGirl%. Receives a permanent mood penalty.",
@@ -123,7 +123,7 @@
 		"bulgarian": "Добро Здраве",
 		"portuguese": "Boa saúde",
 		"ukrainian":"Здоровий",
-		"russian":"Здоровый",
+		"russian":"Крепкое здоровье",
 	},
 	"traitDesc_GoodHealth": {
 		"english": "A lifetime of exercise and healthy foods has provided %firstName% with a very robust health. Treatments are 20% more likely to succeed.",
@@ -145,7 +145,7 @@
 		"bulgarian": "Лошо Здраве",
 		"portuguese": "Má saúde",
 		"ukrainian":"Хворий",
-		"russian":"Больной",
+		"russian":"Часто болеет",
 	},
 	"traitDesc_BadHealth": {
 		"english": "For no specific reason, %firstName%'s immune system is not as good as others. Treatments are 20% more likely to fail.",
@@ -190,7 +190,7 @@
 		"bulgarian": "Оцеляващ",
 		"portuguese": "Sobrevivente",
 		"ukrainian":"Виживальщик",
-		"russian":"Выживальщик",
+		"russian":"Выживальщ%sheCA%",
 	},
 	"traitDesc_Survivor": {
 		"english": "%firstName% has survived quite a few sticky situations and knows what it takes. When others would die, %heShe% gets a 25% health boost and gains consciousness. (Only once in 24 hours)",
@@ -235,7 +235,7 @@
 		"bulgarian": "Неуморим",
 		"portuguese": "Incansável",
 		"ukrainian":"Невтомний",
-		"russian":"Неутомимый",
+		"russian":"Неутомим%hesheEnd%",
 	},
 	"traitDesc_Tireless": {
 		"english": "%firstName% doesn't need much sleep. Only rests half as long as others before %heShe%'s completely fit again.",
@@ -258,7 +258,7 @@
 		"bulgarian": "Бързо учащ",
 		"portuguese": "Aprendiz rápido",
 		"ukrainian":"Заучка",
-		"russian":"Быстрообучаемый",
+		"russian":"Быстрообучаем%hesheEnd%",
 	},
 	"traitDesc_Smart": {
 		"english": "%firstName% is a bright %guyGirl% and %heShe% knows it. %cap-heShe% can learn new skills in half the time.",
@@ -281,7 +281,7 @@
 		"bulgarian": "Тъп",
 		"portuguese": "Idiot%oA%",
 		"ukrainian":"Тупий",
-		"russian":"Тупой",
+		"russian":"Туп%hesheEnd%",
 	},
 	"traitDesc_Dumb": {
 		"english": "Unfortunately, thinking has never been %hisHer% strong suit. %cap-heShe% will not gain experience and not level up in any job ever.",
@@ -370,7 +370,7 @@
 		"bulgarian": "Алергичен към Ябълките",
 		"portuguese": "Alérgica a maçãs",
 		"ukrainian":"Алергія на яблуко",
-		"russian":"Аллергия на яблоко",
+		"russian":"Аллергия на яблоки",
 	},
 	"traitDesc_AllergicToApples": {
 		"english": "%firstName% will avoid dishes that contain apples. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -438,7 +438,7 @@
 		"portuguese": "Mancand%oA%",
 		"turkish": "Topallıyor",
 		"ukrainian":"Хромий",
-		"russian":"Хромой",
+		"russian":"Хром%hesheEnd%",
 	},
 	"traitDesc_Limping": {
 		"english": "Because of an accident, %firstName% has a bad leg and is limping. %cap-heShe% walks a little slower than other colonists",

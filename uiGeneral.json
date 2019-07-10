@@ -1,4 +1,4 @@
-{
+﻿{
 
 	// MAIN MENU
 	"newGame": {
@@ -9,6 +9,8 @@
 		"spanish": "Nueva Partida",
 		"turkish": "Yeni oyun",
 		"portuguese": "Novo jogo",
+		"ukrainian":"Нова гра",
+		"russian":"Новая игра",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -18,6 +20,8 @@
 		"turkish": "Oyunu kaydet",
 		"portuguese": "Salvar jogo",
 		"dutch": "Spel Opslaan",
+		"ukrainian":"Зберегти гру",
+		"russian":"Сохранить игру",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -27,6 +31,8 @@
 		"turkish": "Oyunu yükle",
 		"portuguese": "Carregar jogo",
 		"dutch": "Spel Laden",
+		"ukrainian":"Завантажити гру",
+		"russian":"Загрузить игру",
 	},
 	"settings": {
 		"english": "Settings",
@@ -36,6 +42,8 @@
 		"turkish": "Ayarlar",
 		"portuguese": "Definições",
 		"dutch": "Instellingen",
+		"ukrainian":"Налаштування",
+		"russian":"Настройки",
 	},
 	"quit": {
 		"english": "Quit",
@@ -45,6 +53,8 @@
 		"turkish": "Çıkış",
 		"portuguese": "Sair",
 		"dutch": "Beëindiggen",
+		"ukrainian":"Вихід",
+		"russian":"Выход",
 	},
 	"supportDevelopment": {
 		"english": "Support Development",
@@ -53,6 +63,8 @@
 		"portuguese": "apoio ao Desenvolvimento",
 		"french": "Soutenir le Développement",
 		"turkish": "Geliştiricileri destekle",
+		"ukrainian":"Підтримка розробників",
+		"russian":"Поддержка разработчика",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -62,6 +74,8 @@
 		"turkish": "Güncelleme mevcut",
 		"portuguese": "Atualização disponível!",
 		"dutch": "Update Beschikbaar",
+		"ukrainian":"Доступно оновлення!",
+		"russian":"Доступно обновление!",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -71,6 +85,8 @@
 		"turkish": "Son güncellemeyi indir",
 		"portuguese": "Obtenha a versão mais recente",
 		"dutch": "Krijg de nieuwste versie",
+		"ukrainian":"Отримати нову версію",
+		"russian":"Получить новую версию",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -80,6 +96,8 @@
 		"turkish": "Yüklü sürüm",
 		"portuguese": "Sua versão",
 		"dutch": "Jouw Versie",
+		"ukrainian":"Ваша версія",
+		"russian":"Ваша версия",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -89,6 +107,8 @@
 		"turkish": "Geçerli sürüm",
 		"portuguese": "Versão Atual",
 		"dutch": "Actuele versie",
+		"ukrainian":"Поточна версія",
+		"russian":"Текущая версия",
 	},
 	"underConstruction": {
 		"english": "Under Construction!",
@@ -98,6 +118,8 @@
 		"turkish": "Yapım aşamasında",
 		"portuguese": "Em construção!",
 		"dutch": "In Opbouw",
+		"ukrainian":"У розробці!",
+		"russian":"В разработке!",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -107,6 +129,8 @@
 		"turkish": "Ana menü",
 		"portuguese": "Menu principal",
 		"dutch": "Hoofd Menu",
+		"ukrainian":"Головне Меню",
+		"russian":"Главное Меню",
 	},
 	"giveFeedback": {
 		"english": "Give Feedback",
@@ -116,6 +140,8 @@
 		"turkish": "Geri bildirimde bulun",
 		"portuguese": "Submeter comentários",
 		"dutch": "Geef Feedback",
+		"ukrainian":"Надіслати відгук",
+		"russian":"Обратная связь",
 	},
 
 
@@ -127,6 +153,8 @@
 		"french": "Charger",
 		"portuguese": "Carga",
 		"turkish": "Yükle",
+		"ukrainian":"Завантажити гру",
+		"russian":"Загрузить игру",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -135,6 +163,8 @@
 		"french": "Écraser",
 		"portuguese": "Sobrescrever",
 		"turkish": "Üzerine yaz",
+		"ukrainian":"Перезаписати",
+		"russian":"Перезаписать",
 	},
 	"newSave": {
 		"english": "New Save",
@@ -143,6 +173,8 @@
 		"french": "Nouvelle Sauvegarde",
 		"portuguese": "Novo Salvar",
 		"turkish": "Yeni kayıt",
+		"ukrainian":"Нове збереження",
+		"russian":"Новое сохранение",
 	},
 	"savegameName": { // background when player enters an empty save game name
 		"english": "Savegame Name",
@@ -151,6 +183,8 @@
 		"french": "Nom de la Sauvegarde",
 		"portuguese": "Nome do Savegame",
 		"turkish": "Kayıt adı",
+		"ukrainian":"Назва збереженої гри",
+		"russian":"Название сохранения",
 	},
 	"mostAwesomeColony": { // default name for new colony
 		"english": "Most Awesome Colony",
@@ -159,6 +193,8 @@
 		"french": "La Colonie la plus Impressionnante",
 		"portuguese": "Colônia mais impressionante",
 		"turkish": "En Harika Yerleşim",
+		"ukrainian":"Найбільш колосальна колонія",
+		"russian":"Самая удивительная колония",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -167,6 +203,8 @@
 		"french": "Caractères interdits dans le nom du fichier",
 		"portuguese": "Caracteres proibidos no nome do arquivo",
 		"turkish": "Dosya adında geçersiz karakter",
+		"ukrainian":"Заборонені символи в імені файлу",
+		"russian":"Запрещенные символы в имени файла",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -175,6 +213,8 @@
 		"french": "Nom du Fichier trop long",
 		"portuguese": "Nome do arquivo muito longo",
 		"turkish": "Dosya adı çok uzun",
+		"ukrainian":"Ім'я файлу задовге",
+		"russian":"Имя файла слишком длинное",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -183,6 +223,8 @@
 		"french": "Nom du Fichier trop court",
 		"portuguese": "Nome do arquivo muito curto",
 		"turkish": "Dosya adı çok kısa",
+		"ukrainian":"Ім'я файлу занадто коротке",
+		"russian":"Имя файла слишком короткое",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -191,6 +233,8 @@
 		"french": "Nom du Fichier déjà utilisé",
 		"portuguese": "Nome do arquivo já usado",
 		"turkish": "Dosya adı mevcut",
+		"ukrainian":"Ім'я файлу вже використовується",
+		"russian":"Имя файла уже используется",
 	},
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
@@ -199,6 +243,8 @@
 		"french": "Les Mods peuvent être incompatibles !\nMods dans la sauvegarde :",
 		"portuguese": "Mods podem ser incompatíveis!\nMods em salvar:",
 		"turkish": "Modlar uyumsuz olabilir!\nKayıtta olan modlar:",
+		"ukrainian":"Моди можуть бути несумісними!\nМоди в збережених:",
+		"russian":"Моды могут быть несовместимы!\nМоды в сохранении:",
 	},
 
 
@@ -262,6 +308,8 @@
 		"turkish": "Her geri bildirim, sizin için oyunu geliştirmemize yardımcı oluyor!",
 		"portuguese": "Cada commentários nos ajuda a melhorar o jogo para você!",
 		"dutch": "Elk beetje Feedback helpt ons het spel te verbeteren",
+		"ukrainian":"Кожен відгук допомагає нам покращити гру для вас!",
+		"russian":"Каждый отзыв помогает нам улучшать игру для вас!",
 	},
 	"feedbackType": {
 		"english": "Category",
@@ -271,6 +319,8 @@
 		"turkish": "Kategori",
 		"portuguese": "Categoria",
 		"dutch": "Catergorie",
+		"ukrainian":"Категорія",
+		"russian":"Категория",
 	},
 	"general": {
 		"english": "General",
@@ -280,6 +330,8 @@
 		"turkish": "Genel",
 		"portuguese": "Geral",
 		"dutch": "Algemeen",
+		"ukrainian":"Загальні",
+		"russian":"Общая",
 	},
 	"bugReport": {
 		"english": "Bug Report",
@@ -289,6 +341,8 @@
 		"turkish": "Hata raporu",
 		"portuguese": "Relatório de erro",
 		"dutch": "Bug report",
+		"ukrainian":"Повідомити про помилку",
+		"russian":"Ошибка",
 	},
 	"framerate": {
 		"english": "Framerate",
@@ -298,6 +352,8 @@
 		"turkish": "FPS",
 		"portuguese": "FPS",
 		"dutch": "FPS",
+		"ukrainian":"FPS",
+		"russian":"FPS",
 	},
 	"feedback": {
 		"english": "Feedback",
@@ -307,7 +363,8 @@
 		"turkish": "Geri bildirim",
 		"portuguese": "Comentários",
 		"dutch": "Feedback",
-
+		"ukrainian":"Зворотній зв'язок",
+		"russian":"Обратная связь",
 	},
 	"enterFeedback": {
 		"english": "Enter Feedback...",
@@ -317,7 +374,8 @@
 		"turkish": "Geribildiriminizi girin ...",
 		"portuguese": "Insira o comentários...",
 		"dutch": "Feedback Invoegen...",
-
+		"ukrainian":"Введіть відгук ...",
+		"russian":"Введите отзыв ...",
 	},
 	"emailAddressOptional": {
 		"english": "Email Address (optional!)",
@@ -327,6 +385,8 @@
 		"turkish": "E-posta Adresi (isteğe bağlı!)",
 		"portuguese": "Endereço de e-mail (opcional!)",
 		"dutch": "E-mail Adres (Optioneel)",
+		"ukrainian":"Адреса електронної пошти (необов'язково!)",
+		"russian":"Адрес электронной почты (необязательно!)",
 	},
 	"clickToSubmit": {
 		"english": "Click to submit",
@@ -336,6 +396,8 @@
 		"turkish": "Göndermek için tıklayın",
 		"portuguese": "Clique para enviar",
 		"dutch": "Klik om te versturen",
+		"ukrainian":"Натисніть, щоб подати",
+		"russian":"Нажмите, чтобы отправить",
 	},
 	"thankYou": {
 		"english": "Thank you!",
@@ -345,6 +407,8 @@
 		"turkish": "Teşekkürler",
 		"portuguese": "Obrigado!",
 		"dutch": "Bedankt",
+		"ukrainian":"Дякуємо!",
+		"russian":"Спасибо!",
 	},
 	"feedbackSubmittedSuccessfully": {
 		"english": "Feedback submitted successfully",
@@ -354,6 +418,8 @@
 		"turkish": "Geri bildirim başarıyla gönderildi",
 		"portuguese": "Feedback enviado com sucesso",
 		"dutch": "Feedback succesvol verzonden",
+		"ukrainian":"Відгук успішно надіслано",
+		"russian":"Отзыв успешно отправлен",
 	},
 	"Oops": {
 		"english": "Oops...",
@@ -363,6 +429,8 @@
 		"turkish": "Hata ...",
 		"portuguese": "Opa ...",
 		"dutch": "Oeps...",
+		"ukrainian":"Ой...",
+		"russian":"Ой...",
 	},
 	"feedbackSystemBug": {
 		"english": "There seems to be a bug in the feedback system.\nPlease try again later or let us know via contact@foundersfortune.com",
@@ -372,15 +440,19 @@
 		"turkish": "Geri bildirim sisteminde bir hata var gibi görünüyor. \nLütfen daha sonra tekrar deneyin veya bize contact@foundersfortune.com adresinden bildirin",
 		"portuguese": "Parece haver um erro no sistema de feedback.\nPor favor, tente novamente mais tarde ou nos avise via: contact@foundersfortune.com",
 		"dutch": "Er is een bug in het feedback systeen.\nProbeer het opnieuw later of laat het ons weten via contact@foundersfortune.com",
+		"ukrainian":"Здається, у системі зворотного зв'язку є помилка.\nПовторіть спробу пізніше або повідомте нам про це на contact@foundersfortune.com",
+		"russian":"Кажется, есть ошибка в системе обратной связи.\nПожалуйста, попробуйте позже или сообщите нам об этом по адресу contact@foundersfortune.com",
 	},
 	"feedbackConnectionIssue": {
 		"english": "There seems to be a connection issue\nCould you please check your internet connection?",
 		"german": "Anscheinend gibt es ein Verbindungsproblem.\nKönntest du bitte deine Internetverbindung überprüfen?",
 		"french": "Il semble y avoir un problème de connexion.\nPourriez-vous vérifier votre connexion Internet ?",
-		"spanish": "Parece que hay un problema de conexión \n¿Podría verificar su conexión a Internet?",
+		"spanish": "Parece que hay un problema de conexión \n¿Podrías verificar tu conexión a Internet?",
 		"turkish": "Bir bağlantı sorunu var gibi görünüyor \nLütfen internet bağlantınızı kontrol edebilir misiniz?",
 		"portuguese": "Parece haver um problema de conexão\nPor favor, verifique sua conexão com a internet?",
 		"dutch": "Het blijkt dat er een connectie fout is opgetreden.\nKan je je internet connectie alsjeblieft even checken?",
+		"ukrainian":"Здається, у системі зворотного зв'язку є помилка.\nБудь ласка, спробуйте ще раз пізніше.",
+		"russian":"Кажется, есть проблема с подключением.\nНе могли бы вы проверить подключение к Интернету?",
 	},
 	"youreWelcome": {
 		"english": "You're Welcome",
@@ -390,6 +462,8 @@
 		"turkish": "Rica ederiz",
 		"portuguese": "Seja bem-vindo",
 		"dutch": "Graag Gedaan",
+		"ukrainian":"Ласкаво Просимо",
+		"russian":"Добро Пожаловать",
 	},
 	"retry": {
 		"english": "retry",
@@ -399,6 +473,8 @@
 		"turkish": "Tekrar dene",
 		"portuguese": "tentar novamente",
 		"dutch": "Probeer opnieuw",
+		"ukrainian":"Повторіть спробу",
+		"russian":"Повторить попытку",
 	},
 
 
@@ -411,6 +487,8 @@
 		"turkish": "Vidyo",
 		"portuguese": "Vídeo",
 		"dutch": "Video",
+		"ukrainian":"Відео",
+		"russian":"Видео",
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -420,6 +498,8 @@
 		"turkish": "Grafik Kalitesi",
 		"portuguese": "Qualidade grafica",
 		"dutch": "Grafische Qualiteit",
+		"ukrainian":"Якість графіки",
+		"russian":"Качество графики",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -429,6 +509,8 @@
 		"turkish": "Düşük",
 		"portuguese": "Baixa",
 		"dutch": "Laag",
+		"ukrainian":"Низько",
+		"russian":"Низкое",
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -438,6 +520,8 @@
 		"turkish": "Orta",
 		"portuguese": "Média",
 		"dutch": "Middel",
+		"ukrainian":"Середньо",
+		"russian":"Среднее",
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -447,6 +531,8 @@
 		"turkish": "Yüksek",
 		"portuguese": "Alta",
 		"dutch": "Hoog",
+		"ukrainian":"Високо",
+		"russian":"Высокое",
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -456,6 +542,8 @@
 		"turkish": "Çözünürlük",
 		"portuguese": "Resolução",
 		"dutch": "Resolutie",
+		"ukrainian":"Роздільна здатність",
+		"russian":"Разрешение",
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -465,6 +553,8 @@
 		"turkish": "Görüntü Modu",
 		"portuguese": "Modo de exibição",
 		"dutch": "Weergavemodus",
+		"ukrainian":"Режим відображення",
+		"russian":"Режим отображения",
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -474,6 +564,8 @@
 		"turkish": "Pencerede Aç",
 		"portuguese": "Janela",
 		"dutch": "Venster",
+		"ukrainian":"У Вікні",
+		"russian":"Оконный",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -483,6 +575,8 @@
 		"turkish": "Tam ekran",
 		"portuguese": "Ecrã completo",
 		"dutch": "Volledigscherm",
+		"ukrainian":"Повноекранний режим",
+		"russian":"Полноэкранный режим",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -492,6 +586,8 @@
 		"turkish": "Vsync",
 		"portuguese": "Vsync",
 		"dutch": "Vsync",
+		"ukrainian":"Vsync",
+		"russian":"Vsync",
 	},
 	"on": {
 		"english": "On",
@@ -501,6 +597,8 @@
 		"turkish": "Açık",
 		"portuguese": "Ativado",
 		"dutch": "Aan",
+		"ukrainian":"Увімкнено",
+		"russian":"Включено",
 	},
 	"off": {
 		"english": "Off",
@@ -510,6 +608,8 @@
 		"turkish": "Kapalı",
 		"portuguese": "Desligado",
 		"dutch": "Uit",
+		"ukrainian":"Вимкнено",
+		"russian":"Выключено",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -519,6 +619,8 @@
 		"turkish": "Parlaklık",
 		"portuguese": "Brilho",
 		"dutch": "Helderheid",
+		"ukrainian":"Яскравість",
+		"russian":"Яркость",
 	},
 	"audio": {
 		"english": "Audio",
@@ -528,6 +630,8 @@
 		"turkish": "Ses",
 		"portuguese": "Audio",
 		"dutch": "Audio",
+		"ukrainian":"Аудіо",
+		"russian":"Аудио",
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -537,6 +641,8 @@
 		"turkish": "Toplam Ses Düzeyi",
 		"portuguese": "Volume total",
 		"dutch": "Totaal Volume",
+		"ukrainian":"Загальний звук",
+		"russian":"Общая громкость",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -546,6 +652,8 @@
 		"turkish": "Ses Efektleri", 
 		"portuguese": "Efeitos sonoros",
 		"dutch": "Geluid Effecten",
+		"ukrainian":"Звукові ефекти",
+		"russian":"Звуковые эффекты",
 	},
 	"music": {
 		"english": "Music",
@@ -555,6 +663,8 @@
 		"turkish": "Müzik",
 		"portuguese": "Música",
 		"dutch": "Muziek",
+		"ukrainian":"Музика",
+		"russian":"Музыка",
 	},
 	"other": {
 		"english": "Other",
@@ -564,6 +674,8 @@
 		"turkish": "Diğer",
 		"portuguese": "Outros",
 		"dutch": "Anders",
+		"ukrainian":"Інше",
+		"russian":"Другое",
 	},
 	"language": {
 		"english": "Language",
@@ -573,6 +685,8 @@
 		"turkish": "Dil",
 		"portuguese": "Idioma",
 		"dutch": "Taal",
+		"ukrainian":"Мова",
+		"russian":"Язык",
 	},
 	"english": {
 		"english": "English",
@@ -582,6 +696,8 @@
 		"turkish": "English",
 		"portuguese": "English",
 		"dutch": "English",
+		"ukrainian":"English",
+		"russian":"English",
 	},
 	"german": {
 		"english": "Deutsch",
@@ -591,6 +707,8 @@
 		"turkish": "Deutsch",
 		"portuguese": "Deutsch",
 		"dutch": "Deutsch",
+		"ukrainian":"Deutsch",
+		"russian":"Deutsch",
 	},	
 	"french": {
 		"english": "Français",
@@ -600,6 +718,8 @@
 		"turkish": "Français",
 		"portuguese": "Français",
 		"dutch": "Français",
+		"ukrainian":"Français",
+		"russian":"Français",
 	},	
 	"spanish": {
 		"english": "Español",
@@ -609,15 +729,19 @@
 		"turkish": "Español",
 		"portuguese": "Español",
 		"dutch": "Español",
+		"ukrainian":"Español",
+		"russian":"Español",
 	},
 	"portuguese": {
 		"english": "Portuguese",
 		"german": "Portugiesisch",
 		"french": "Portuges",
 		"spanish": "Portugués",
-		"turkish": "Portekizce",
+		"turkish": "Portuges",
 		"portuguese": "Portuges",
 		"dutch": "Portuguese",
+		"ukrainian":"Portuguese",
+		"russian":"Portuguese",
 	},
 	"turkish": {
 		"english": "Turkish",
@@ -627,6 +751,8 @@
 		"turkish": "Türkçe",
 		"portuguese": "Turco",
 		"dutch": "Turkish",
+		"ukrainian":"Turkish",
+		"russian":"Turkish",
 	},
 	"dutch": { 
 		"english": "Nederlands",
@@ -636,6 +762,30 @@
 		"turkish": "Nederlands",
 		"portuguese": "Nederlands",
 		"dutch": "Nederlands",
+		"ukrainian":"Nederlands",
+		"russian":"Nederlands",
+	},
+	"ukrainian": { 
+		"english": "Українська",
+		"german": "Українська",
+		"french": "Українська",
+		"spanish": "Українська",
+		"turkish": "Українська",
+		"portuguese": "Українська",
+		"dutch": "Українська",
+		"ukrainian":"Українська",
+		"russian":"Українська",
+	},
+	"russian": { 
+		"english": "Русский",
+		"german": "Русский",
+		"french": "Русский",
+		"spanish": "Русский",
+		"turkish": "Русский",
+		"portuguese": "Русский",
+		"dutch": "Русский",
+		"ukrainian":"Русский",
+		"russian":"Русский",
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -645,6 +795,8 @@
 		"turkish": "Fare kenar kaydırma",
 		"portuguese": "Rolagem de borda com mouse",
 		"dutch": "Muisrand Scrollen",
+		"ukrainian":"Прокрутка краю миші",
+		"russian":"Прокрутка мыши",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -654,6 +806,8 @@
 		"turkish": "Oyun arka planda etkin",
 		"portuguese": "Jogo ativo em background",
 		"dutch": "Spel actief in achtergrond",
+		"ukrainian":"Гра активна у фоновому режимі",
+		"russian":"Игра активна в фоне",
 	},
 
 
@@ -666,6 +820,8 @@
 		"turkish": "Yükleniyor...",
 		"portuguese": "Carregando o mundo ...",
 		"dutch": "Wereld aan het laden...",
+		"ukrainian":"Завантаження світу...",
+		"russian":"Загрузка Мира ...",
 	},
 	"reset": {
 		"english": "Reset",
@@ -675,6 +831,8 @@
 		"turkish": "Sıfırla",
 		"portuguese": "Restabelecer",
 		"dutch": "Resetten",
+		"ukrainian":"Скинути",
+		"russian":"Сбросить",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -684,6 +842,8 @@
 		"turkish": "Onayla",
 		"portuguese": "Confirmar",
 		"dutch": "Bevestigen",
+		"ukrainian":"Підтвердити",
+		"russian":"Подтвердить",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -693,6 +853,8 @@
 		"turkish": "İptal et",
 		"portuguese": "Cancelar",
 		"dutch": "Annuleren",
+		"ukrainian":"Скасувати",
+		"russian":"Отменить",
 	},
 	"apply": {
 		"english": "Apply",
@@ -702,6 +864,8 @@
 		"turkish": "Uygula",
 		"portuguese": "Aplique",
 		"dutch": "Toepassen",
+		"ukrainian":"Застосувати",
+		"russian":"Применить",
 	},
 
 
@@ -714,6 +878,8 @@
 		"turkish": "Kamera kontrolü",
 		"portuguese": "Controle da câmera",
 		"dutch": "Camera besturing",
+		"ukrainian":"Керування камерою",
+		"russian":"Управление камерой",
 	},
 	"keyBindings": {
 		"english": "Key Bindings",
@@ -723,6 +889,8 @@
 		"turkish": "Tuş ayarları",
 		"portuguese": "Combinações de teclas",
 		"dutch": "Sneltoetsen",
+		"ukrainian":"Налаштування управління",
+		"russian":"Настройки управления",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -732,6 +900,8 @@
 		"turkish": "İleri",
 		"portuguese": "Frente",
 		"dutch": "Voorwaards",
+		"ukrainian":"Вперед",
+		"russian":"Вперед",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -741,6 +911,8 @@
 		"turkish": "Geri",
 		"portuguese": "Voltar",
 		"dutch": "Achterwaards",
+		"ukrainian":"Назад",
+		"russian":"Назад",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -750,6 +922,8 @@
 		"turkish": "Sol",
 		"portuguese": "Esquerda",
 		"dutch": "Links",
+		"ukrainian":"Ліворуч",
+		"russian":"Влево",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -759,6 +933,8 @@
 		"turkish": "Sağ",
 		"portuguese": "Direita",
 		"dutch": "Rechts",
+		"ukrainian":"Праворуч",
+		"russian":"Вправо",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -768,6 +944,8 @@
 		"turkish": "Döndür",
 		"portuguese": "Girar",
 		"dutch": "Roteren",
+		"ukrainian":"Поворот",
+		"russian":"Поворот",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -777,6 +955,8 @@
 		"turkish": "Zaman kontrolü",
 		"portuguese": "Controle do tempo",
 		"dutch": "Tijd Controle",
+		"ukrainian":"Управління Часом",
+		"russian":"Управление временем",
 	},
 	"pause": {
 		"english": "Pause",
@@ -786,6 +966,8 @@
 		"turkish": "Bekletme",
 		"portuguese": "Pausa",
 		"dutch": "Pauze",
+		"ukrainian":"Пауза",
+		"russian":"Пауза",
 	},
 	"normalSpeed": {
 		"english": "Normal Speed",
@@ -795,6 +977,8 @@
 		"turkish": "Normal hız",
 		"portuguese": "Velocidade normal",
 		"dutch": "Normale snelheid",
+		"ukrainian":"Звичайна Швидкість",
+		"russian":"Обычная Скорость",
 	},
 	"2xSpeed": {
 		"english": "2x Speed",
@@ -804,6 +988,8 @@
 		"turkish": "2 kat hız",
 		"portuguese": "Velocidade 2x",
 		"dutch": "2x Snelheid",
+		"ukrainian":"2х Швидкість",
+		"russian":"2х Скорость",
 	},
 	"4xSpeed": {
 		"english": "4x Speed",
@@ -813,6 +999,8 @@
 		"turkish": "4 kat hız",
 		"portuguese": "Velocidade 4x",
 		"dutch": "4x Snelheid",
+		"ukrainian":"4х Швидкість",
+		"russian":"4х Скорость",
 	},
 	"colonistInteraction": {
 		"english": "Colonist Interaction",
@@ -822,6 +1010,8 @@
 		"turkish": "Kolonici etkileşimi",
 		"portuguese": "Interação Colono",
 		"dutch": "Kolonist Interactie",
+		"ukrainian":"Взаємодія колоністів",
+		"russian":"Управление колонистами",
 	},
 	"multipleOrders": {
 		"english": "Multiple Orders",
@@ -831,6 +1021,8 @@
 		"turkish": "Çoklu emir",
 		"portuguese": "Pedidos múltiplos",
 		"dutch": "Meerdere orders",
+		"ukrainian":"Кілька замовлень",
+		"russian":"Выбор нескольких действий",
 	},
 	"furnitureHandling": {
 		"english": "Furniture Handling",
@@ -840,6 +1032,8 @@
 		"turkish": "Mobilya taşıma",
 		"portuguese": "Movimentação de Móveis",
 		"dutch": "Meubel Beweging",
+		"ukrainian":"Поворот меблів",
+		"russian":"Поворот мебели",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -849,6 +1043,8 @@
 		"turkish": "Sola çevir",
 		"portuguese": "Vire à esquerda",
 		"dutch": "Naar links draaien",
+		"ukrainian":"Поворот ліворуч",
+		"russian":"Поворот влево",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -858,6 +1054,8 @@
 		"turkish": "Sağa çevir",
 		"portuguese": "Vire à direita",
 		"dutch": "Naar rechts draaien",
+		"ukrainian":"Поворот праворуч",
+		"russian":"Поворот вправо",
 	},
 	"precisionPlacement": {
 		"english": "Precision Placement",
@@ -871,6 +1069,8 @@
 		"turkish": "Diğer",
 		"portuguese": "Diversos",
 		"dutch": "Diverse",
+		"ukrainian":"Різне",
+		"russian":"Разное",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -880,6 +1080,8 @@
 		"turkish": "Ekran görüntüsü",
 		"portuguese": "Screenshot",
 		"dutch": "Schermafbeelding",
+		"ukrainian":"Знімок екрана",
+		"russian":"Скриншот",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -889,6 +1091,8 @@
 		"turkish": "Ekran görüntüsü klasörü",
 		"portuguese": "Abrir pasta de imagens",
 		"dutch": "Open Schermafbeeldingen map",
+		"ukrainian":"Відкрити папку скріншотів",
+		"russian":"Открыть папку скриншотов",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -898,6 +1102,8 @@
 		"turkish": "FPS göster",
 		"portuguese": "Mostrar FPS",
 		"dutch": "Laat de FPS zien",
+		"ukrainian":"Показати FPS",
+		"russian":"Показать FPS",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -907,6 +1113,8 @@
 		"turkish": "Fare sol tuş",
 		"portuguese": "Botão esquerdo do mouse",
 		"dutch": "Linker muisknop",
+		"ukrainian":"Ліва кнопка миші",
+		"russian":"Левая кнопка мыши",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -916,6 +1124,8 @@
 		"turkish": "Fare sağ tuş",
 		"portuguese": "Botão direito do mouse",
 		"dutch": "Rechter muis nop",
+		"ukrainian":"Права кнопка миші",
+		"russian":"Правая кнопка мыши",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -925,6 +1135,8 @@
 		"turkish": "Fare orta tuş",
 		"portuguese": "Botão do meio do mouse",
 		"dutch": "Middelmuis knop",
+		"ukrainian":"Середня кнопка миші",
+		"russian":"Средняя кнопка мыши",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -934,6 +1146,8 @@
 		"turkish": "Boşluk",
 		"portuguese": "Espaço",
 		"dutch": "Spatie",
+		"ukrainian":"Space",
+		"russian":"Пробел",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -943,6 +1157,8 @@
 		"turkish": "Shift (sol)",
 		"portuguese": "Shift (esquerda)",
 		"dutch": "Shift (links)",
+		"ukrainian":"Shift (ліворуч)",
+		"russian":"Shift (слева)",
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
@@ -952,6 +1168,8 @@
 		"turkish": "Shift (sağ)",
 		"portuguese": "Shift (direita)",
 		"dutch": "Shift (rechts)",
+		"ukrainian":"Shift (праворуч)",
+		"russian":"Shift (справа)",
 	},
 	"key_LeftAlt": {
 		"english": "Alt (left)",
@@ -961,6 +1179,8 @@
 		"turkish": "Alt (sol)",
 		"portuguese": "Alt (esquerda)",
 		"dutch": "Alt (left)",
+		"ukrainian":"Alt (ліворуч)",
+		"russian":"Alt (слева)",
 	},
 	"key_RightAlt": {
 		"english": "Alt (right)",
@@ -970,6 +1190,8 @@
 		"turkish": "Alt (sağ)",
 		"portuguese": "Alt (direita)",
 		"dutch": "Alt Gr (right)",
+		"ukrainian":"Alt (праворуч)",
+		"russian":"Alt (справа)",
 	},
 	"key_LeftControl": {
 		"english": "Control (left)",
@@ -979,6 +1201,8 @@
 		"turkish": "Ctrl (sol)",
 		"portuguese": "CTRL (esquerda)",
 		"dutch": "Ctrl (left)",
+		"ukrainian":"Ctrl (ліворуч)",
+		"russian":"Ctrl (слева)",
 	},
 	"key_RightControl": {
 		"english": "Control (right)",
@@ -988,6 +1212,8 @@
 		"turkish": "Ctrl (sağ)",
 		"portuguese": "CTRL (direita)",
 		"dutch": "Ctrl (Rechts)",
+		"ukrainian":"Ctrl (праворуч)",
+		"russian":"Ctrl (справа)",
 	},
 	"key_CapsLock": {
 		"english": "Caps Lock",
@@ -997,6 +1223,8 @@
 		"turkish": "Caps lock",
 		"portuguese": "Caps Lock",
 		"dutch": "Caps lock",
+		"ukrainian":"Caps Lock",
+		"russian":"Caps Lock",
 	},
 
 
@@ -1009,6 +1237,8 @@
 		"turkish": "Oyun sona erdi",
 		"portuguese": "Fim de jogo!",
 		"dutch": "Spel Voorbij",
+		"ukrainian":"Гра завершена!",
+		"russian":"Игра окончена!",
 	},
 	"backToMainMenu": {
 		"english": "Back to the Main Menu",
@@ -1018,6 +1248,8 @@
 		"portuguese": "Voltar ao Menu Principal",
 		"turkish": "Ana menüye geri dön",
 		"dutch": "Terug naar hoofdmenu",
+		"ukrainian":"Повернутися до головного Меню",
+		"russian":"Вернуться в главное меню",
 	},
 	"yourColonyHasPerished": {
 		"english": "Your Colony has perished!",
@@ -1027,6 +1259,8 @@
 		"turkish": "Koloniniz yok oldu!",
 		"portuguese": "Sua colônia pereceu!",
 		"dutch": "Jouw kolonie is ten onder gegaan",
+		"ukrainian":"Ваша колонія загинула!",
+		"russian":"Ваша колония погибла!",
 	},
 	"totalPlayTime": {
 		"english": "Total Play Time",
@@ -1036,6 +1270,8 @@
 		"turkish": "Toplam oyun zamanı",
 		"portuguese": "Tempo total de jogo",
 		"dutch": "Totale speeltijd",
+		"ukrainian":"Загальний час гри",
+		"russian":"Общее время в игре",
 	},
 	"averageHappiness": {
 		"english": "Average Happiness",
@@ -1045,6 +1281,8 @@
 		"turkish": "Ortalama mutluluk",
 		"portuguese": "Felicidade Média",
 		"dutch": "Gemiddelde blijheid",
+		"ukrainian":"Середнє Щастя",
+		"russian":"Среднее Счастье",
 	},
 	"totalResearchCollected": {
 		"english": "Research collected",
@@ -1054,6 +1292,8 @@
 		"turkish": "Araştırma tamamlandı",
 		"portuguese": "Pesquisa coletada",
 		"dutch": "Onderzoek Verzameld",
+		"ukrainian":"Зібрані дослідження ",
+		"russian":"Собранные исследования",
 		
 	},
 	"totalNativesKilled": {
@@ -1064,6 +1304,8 @@
 		"turkish": "Tikigoblinler öldürüldü",
 		"portuguese": "Tikigoblins matados",
 		"dutch": "Tikigoblins Vermoord",
+		"ukrainian":"Тікігоблінів вбито",
+		"russian":"Тикигоблинов убито",
 	},
 	"maxNumberOfColonists": {
 		"english": "Max. Number of Colonists",
@@ -1073,6 +1315,8 @@
 		"turkish": "En fazla kolonici sayısı",
 		"portuguese": "Max. Número de colonos",
 		"dutch": "Max. nummer van Kolonisten",
+		"ukrainian":"Макс. Кількість Колоністів",
+		"russian":"Макс. Количество Колонистов",
 	},
 	"uiStepBack": {
 		"english": "Back",
@@ -1082,6 +1326,8 @@
 		"turkish": "Geri",
 		"portuguese": "Voltar",
 		"dutch": "Terug",
+		"ukrainian":"Назад",
+		"russian":"Назад",
 	},
 
 
@@ -1094,6 +1340,8 @@
 		"turkish": "Oyuna başla",
 		"portuguese": "Iniciar jogo",
 		"dutch": "Spel Starten",
+		"ukrainian":"Почати Гру",
+		"russian":"Начать игру",
 	},
 	"selectStartingColonists": {
 		"english": "Select Starting Colonists",
@@ -1103,6 +1351,8 @@
 		"turkish": "İlk kolonicileri seç",
 		"portuguese": "Selecione colonos iniciais",
 		"dutch": "Selecteer Kolonisten om mee te beginnen",
+		"ukrainian":"Виберіть Стартових Колоністів",
+		"russian":"Выберите Стартовых Колонистов",
 	},
 	"randomColonist": {
 		"english": "Random Colonist",
@@ -1112,6 +1362,8 @@
 		"turkish": "Rasgele kolonici",
 		"portuguese": "Colono Aleatório",
 		"dutch": "Willekeurge Kolonist",
+		"ukrainian":"Випадковий колоніст",
+		"russian":"Случайный Колонист",
 	},
 	"selectDifficulty": {
 		"english": "Select Difficulty",
@@ -1121,6 +1373,8 @@
 		"turkish": "Zorluk seviyesi seç",
 		"portuguese": "Selecione Dificuldade",
 		"dutch": "Selecteer Moeilijkheid",
+		"ukrainian":"Виберіть Складність",
+		"russian":"Выберите Сложность",
 	},
 	"difficulty_0_Title": {
 		"english": "Calm World",
@@ -1130,6 +1384,8 @@
 		"turkish": "Sakin dünya",
 		"portuguese": "Mundo calmo",
 		"dutch": "Rustige Wereld",
+		"ukrainian":"Спокійний світ",
+		"russian":"Спокойный мир",
 	},
 	"difficulty_0_Desc": {
 		"english": "A more relaxing experience if you prefer creative base building over combat and survival.\nYour colonists take only half damage from all kinds of injuries.\nThe colony starts with 100 meals, colonists need less food, and can survive on smaller food rations.\nWatered plants yield higher harvests.\nYour colonists will still die if you don't take care of them!",
@@ -1139,6 +1395,8 @@
 		"turkish": "Savaş ve hayatta kalma zorlukları yerine sakin ve yaratıcı bir üs kurma imkanı.\nKolonicileriniz her türlü yaralanmadan ili kat daha az zarar görür.\nKoloni 100 yemekle başlar, kolonicileriniz daha az yemeğe ihtiyaç duyar, ve daha az yemekle hayatta kalabilir.\nSulanan bitkiler daha fazla hasat verir.\nAncak yine de onlarla ilgilenmezseniz kolonicileriniz ölebilir!",
 		"portuguese": "Uma experiência mais relaxante se você preferir construir base criativa em combate e sobrevivência.\nOs colonos sofrem apenas metade do dano causado por todos os tipos de ferimentos.\nA colônia começa com 100 refeições, colonos precisam de menos comida e podem sobreviver com rações menores.\nPlantas plantadas produzem colheitas mais altas.\nOs colonos ainda morrerão se você não cuidar deles!",
 		"dutch": "Een meer ontspannende ervaring als je van creatieve Basis Bouwen houdt over vechten en Overleving.\nJouw kolonisten nemen alleen maar de helft van de schade van elke soort verwonding.\nDe kolonie begint met 100 maaltijden, Kolonisten hebben minder eten nodig, en ze kunnen overleven met kleinere voedselrantoenen.\nGewaterde planten maken grotere oogsten.\nJouw kolonisten gaan nogsteeds dood als je niet voor ze zorgt!",
+		"ukrainian":"Більш розслабляюча гра для тих, хто надають перевагу будівництву чим бою та виживанню.\nВаші колоністи получають лише половину шкоди від усіх видів травм.\nКолонія починається з 100 од. їжі, колоністам потрібно менше їжі щоб вижити.\nПолив рослин дає більш високі врожаї.\nВаші колоністи все одно помирають, якщо ви не піклуєтесь про них!",
+		"russian":"Более расслабляющая игра для тех, кто предпочитает строительство чем сражению и выживанию.\nВаши колонисты получают лишь половину урона от любых травм.\nВ начале игры колония имеет 100 ед. пищи, колонистам требуется меньше еды для выживания.\nПолив растений дает более высокие урожаи.\nВаши колонисты будут умирать, если вы не будете о них заботиться!",
 	},
 	"difficulty_1_Title": {
 		"english": "Exciting World",
@@ -1148,6 +1406,8 @@
 		"turkish": "Heyecan verici dünya",
 		"portuguese": "Mundo emocionante",
 		"dutch": "Spannende Wereld",
+		"ukrainian":"Захоплюючий світ",
+		"russian":"Захватывающий мир",
 	},
 	"difficulty_1_Desc": {
 		"english": "The typical Founders' Fortune experience, mixing base building with survival.\nThe colony starts with 40 meals.\nSometimes colonists may die even though you try your best.",
@@ -1157,6 +1417,8 @@
 		"turkish": "Tipik Founders' Fortune deneyimi, üs kurmayla hayatta kalma karışımı.\nKoloni 40 yemekle başlar.\nElinizden geleni yapmanıza rağmen kolonicileriniz ölebilir.",
 		"portuguese": "A experiência típica dos Founder's Fortune, misturando a base com a sobrevivência.\nA colônia começa com 40 refeições.\nAlgumas vezes os colonos podem morrer mesmo que você tente o seu melhor.",
 		"dutch": "De gewoonlijke Founders' Fortune ervaring, Basis bouwen gemixed met overleven.\nDe kolonie begint met 40 maaltijden.\nSoms kunnen Kolonisten dood gaan ookal doe je je best.",
+		"ukrainian":"Середнія важкість гри в Founder's Fortune, змішуючи будівництво бази з виживанням.\nКолонія починається з 40 од. їжі.\nІноді колоністи можуть померти, навіть якщо ви стараєтесь зробити все можливе.",
+		"russian":"Средняя сложность игры в Founders' Fortune, которая совмещает строительство и выживание.\nВ начале игры колония имеет 40 ед. пищи.\nИногда колонисты могут умереть, даже если вы стараетесь изо всех сил.",
 	},
 	"difficulty_2_Title": {
 		"english": "Dangerous World",
@@ -1166,6 +1428,8 @@
 		"turkish": "Tehlikeli dünya",
 		"portuguese": "Mundo Perigoso",
 		"dutch": "Gevaarlijke wereld",
+		"ukrainian":"Небезпечний світ",
+		"russian":"Опасный мир",
 	},
 	"difficulty_2_Desc": {
 		"english": "The world is a harsh place, so good luck trying to survive with fragile little colonists.\nYour colonists take 50% more damage from all kinds of injuries.\nThe colony starts with 10 meals and colonists get hungry more quickly.\nCatastrophes happen more often.\nA challenge for veteran players.",
@@ -1175,6 +1439,8 @@
 		"turkish": "Dünya zorlu bir yer, küçük, kırılgan kolonicilerinizle hayatta kalmanız için bol şansa ihtiyacınız var.\nKolonicileriniz yaralanmalardan %50 daha fazla hasar görür.\nKoloni 10 yemekle başlar, ve kolonicileriniz daha çabuk acıkır.\nDaha sık facia yaşanır.\nTecrübeli oyuncular için zorlu bir deneyim.",
 		"portuguese": "O mundo é um lugar difícil, por isso boa sorte tentando sobreviver com pequenos colonos frágeis. \nOs colonos recebem 50% a mais de dano de todos os tipos de ferimentos. \nA colônia começa com 10 refeições e os colonos ficam com fome mais rapidamente. \nAs catástrofes acontecem mais muitas vezes. \nUm desafio para jogadores veteranos.",
 		"dutch": "De wereld is een harde plek, dus veel geluk met het overleven met zwakke kolonisten.\nJouw kolonisten nemen 50% meer schade van alle soorten Verwondingen.\nDe Kolonie begint met 10 maaltijden en kolonisten krijgen sneller honger.\nCatastrofaale dingen gebeuren vaker.\nEen uitdaging voor veteraan spelers",
+		"ukrainian":"Світ - це суворе місце, тому бажаємо вам удачі вижити з слабкими колоністами.\nВаші колоністи отримують на 50% більше шкоди від усіх видів травм.\nКолонія починається з 10 од. їжі, колоністам потрібно більше добавок для виживання.\nКатастрофи трапляються частіше .\nВиклик для гравців-ветеранів",
+		"russian":"Мир - это суровое место, так что желаем вам удачи выжить со слабыми колонистами.\nВаши колонисты получают на 50% больше урона от любых травм.\nВ начале игры колония имеет 10 ед. пищи, колонистам требуется больше еды для выживания.\nКатастрофы случаются чаще.\nПодходит для опытных игроков.",
 	},
 	"continue": {
 		"english": "Continue",
@@ -1184,6 +1450,8 @@
 		"turkish": "Devam et",
 		"portuguese": "Continuar",
 		"dutch": "Verdergaan",
+		"ukrainian":"Продовжити",
+		"russian":"Продолжить",
 	},
 	"add": {
 		"english": "Add",
@@ -1193,6 +1461,8 @@
 		"turkish": "Ekle",
 		"portuguese": "Adicionar",
 		"dutch": "Toevoegen",
+		"ukrainian":"Додати",
+		"russian":"Добавить",
 	},
 	"remove": {
 		"english": "Remove",
@@ -1202,6 +1472,8 @@
 		"turkish": "Çıkar",
 		"portuguese": "Remover",
 		"dutch": "Verwijderen",
+		"ukrainian":"Видалити",
+		"russian":"Удалить",
 	},
 	"select": {
 		"english": "Select",
@@ -1210,15 +1482,25 @@
 		"spanish": "Seleccionar",
 		"portuguese": "Selecione",
 		"turkish": "Seç",
+		"ukrainian":"Вибрати",
+		"russian":"Выбрать",
 	},
 	"unableToLoadSaveFile": {
 		"english": "Unable to load save file",
 		"german": "Kann Speicherstand nicht laden",
 		"french": "Impossible de charger le fichier de sauvegarde",
+		"spanish": "No se pudo cargar tu archivo de guardado",
+		"turkish": "Kayıt yüklenemedi",
+		"ukrainian":"Не вдається завантажити файл збереження",
+		"russian":"Невозможно загрузить файл сохранения",
 	},
 	"unableToLoadSaveFileText": {
 		"english": "The game could not read your save file. Sorry!\nPlease try again first. If it keeps happening, send your save file to daniel@foundersfortune.com so I can investigate the error and try to get a fix into the next update.\nThanks for your help!",
 		"german": "Das Spiel konnte deinen Speicherstand nicht laden. Sorry!\nBitte versuche es zuerst nochmal. Falls es immer noch nicht funktioniert, schicke deinen Spielstand an daniel@foundersfortune.com, damit ich mir den Fehler anschauen kann und einen Bugfix in das nächste Update bringen kann.\nDanke für deine Hilfe!",
 		"french": "Le jeu n'a pas pu charge la sauvegarde. Désolé !\nVeuillez d'abord réessayer. Si cela se reproduit, veuillez envoyer votre fichier de sauvegarde à daniel@foundersfortune.com pour que je puisse enquêter sur l'erreur et essayer de la corriger dans la prochaine mise à jour.\nMerci pour votre aide !",
+		"spanish": "El juego no pudo leer tu archivo de guardado. ¡Lo sentimos!\nPor favor intenta de nuevo. Si esto sigue ocurriendo, envía tu archivo de guardado a daniel@foundersfortune.com y así podremos investigar el error y trataremos de arreglarlo en la siguiente actualización.\n¡Gracias por tu ayuda!", 
+		"turkish": "Kaydınız okunamadı. Üzgünüz!\nLütfen tekrar deneyin. Eğer sorun devam ederse, kaydınızı daniel@foundersfortune.com adresine gönderebilirsiniz, böylece sorunuzu inceleyip ona göre yeni güncellemede olmaması için uğraşabiliriz.\nYardımınız için teşekkürler!",
+		"ukrainian":"Вибачте! Гра не змогла прочитати ваш файл збереження.\nПовторіть спробу знову. Якщо це продовжує відбуватися, надішліть файл збереження на daniel@foundersfortune.com, щоб я міг дослідити помилку і спробувати вирішити цю проблему в наступному оновленні.\nСпасибі за вашу допомогу!",
+		"russian":"К сожалению, игра не смогла прочитать ваш файл сохранения! .\nПожалуйста, попробуйте снова. Если это повторится, отправьте файл сохранения по адресу daniel@foundersfortune.com, чтобы я мог исследовать ошибку и попытаться исправить ее в следующем обновлении.\nСпасибо за вашу помощь!",
 	}
 }

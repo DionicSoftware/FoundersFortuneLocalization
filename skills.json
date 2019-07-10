@@ -220,36 +220,6 @@
 		"russian": "Сможет использовать железную кирку для добычи",
 		"ukrainian":"Може використовувати залізну кирку для видобутку",
 	},
-	"skillTitle_ResearchFast": {
-		"english": "Researches 20% faster",
-		"german": "Forscht 20% schneller",
-		"french": "Recherche 20% plus rapide", 
-		"spanish": "Investiga un 20% más rápido",
-		"turkish": "%20 daha hızlı araştırma yapabilir",
-		"portuguese": "Pesquisa 20% mais rápida",
-		"russian": "Исследования будут протекать на 20% быстрее",
-		"ukrainian":"Досліджує на 20% швидше",
-	},
-	"skillTitle_ResearchVeryFast": {
-		"english": "Researches 40% faster",
-		"german": "Forscht 40% schneller",
-		"french": "Recherche 40% plus rapide", 
-		"spanish": "Investiga un 40% más rápido",
-		"turkish": "%40 daha hızlı araştırma yapabilir",
-		"portuguese": "Pesquisa 40% mais rápida",
-		"russian": "Исследования будут протекать на 40% быстрее",
-		"ukrainian":"Досліджує на 40% швидше",
-	},
-	"skillTitle_ResearchSuperFast": {
-		"english": "Researches 60% faster",
-		"german": "Forscht 60% schneller",
-		"french": "Recherche 60% plus rapide", 
-		"spanish": "Investiga un 60% más rápido",
-		"turkish": "%60 daha hızlı araştırma yapabilir",
-		"portuguese": "Pesquisa 60% mais rápida",
-		"russian": "Исследования будут протекать на 60% быстрее",
-		"ukrainian":"Досліджує на 60% швидше",
-	},
 	"skillTitle_ResearchScrolls": {
 		"english": "Can read scrolls",
 		"german": "Kann Schriftrollen lesen",
@@ -279,5 +249,50 @@
 		"turkish": "Kırık-çıkık desteği uygulamakta başarı ihtimali daha yüksek",
 		"russian": "Шины чаще будут применяться успешно",
 		"ukrainian":"Шини частіше застосовуються успішно",
+	},
+
+
+
+	// OUTFITS
+
+	"skillTitle_ForesterMasterOutfit": {
+		"english": "Can wear master forester clothes",
+		"german": "Kann Meisterförsterkleidung tragen",
+	},
+	"skillTitle_MinerMasterOutfit": {
+		"english": "Can wear master miner clothes",
+		"german": "Kann Meisterbergarbeiterkleidung tragen",
+	},
+	"skillTitle_CraftsmanMasterOutfit": {
+		"english": "Can wear master craftsman clothes",
+		"german": "Kann Meisterhandwerkerkleidung tragen",
+	},
+	"skillTitle_FarmerMasterOutfit": {
+		"english": "Can wear master farmer clothes",
+		"german": "Kann Meisterbaueranzug tragen",
+	},
+	"skillTitle_DoctorMasterOutfit": {
+		"english": "Can wear master doctor robes",
+		"german": "Kann Meisterarztroben tragen",
+	},
+	"skillTitle_ScholarBaseOutfit": {
+		"english": "Can wear apprentice scholar robes",
+		"german": "Kann Lehrlingsrobe tragen",
+	},
+	"skillTitle_ScholarMasterOutfit": {
+		"english": "Can wear master scholar clothes",
+		"german": "Kann Meisterroben tragen",
+	},
+	"skillTitle_LightArmor": {
+		"english": "Can wear light armor",
+		"german": "Kann leichte Rüstung tragen",
+	},
+	"skillTitle_MediumArmor": {
+		"english": "Can wear medium armor",
+		"german": "Kann mittlere Rüstung tragen",
+	},
+	"skillTitle_HeavyArmor": {
+		"english": "Can wear heavy armor",
+		"german": "Kann schwere Rüstung tragen",
 	},
 }

@@ -1,4 +1,4 @@
-{
+﻿{
 
 	// INTERACTIONS
 	"NoInteraction": {
@@ -10,7 +10,7 @@
 		"portuguese": "Não faça nada",
 		"dutch": "Doe Niks",
 		"russian": "Ничего не делать",
-		"ukrainian":"",
+		"ukrainian":"Нічого не робити",
 	},
 	"Eat": {
 		"english": "Eat Something",
@@ -21,7 +21,7 @@
 		"portuguese": "Comer alguma coisa",
 		"dutch": "Eet Iets",
 		"russian": "Съесть что-нибудь",
-		"ukrainian":"",
+		"ukrainian":"З'їсти що небудь",
 	},
 	"EatFood": {
 		"english": "Eat %food%",
@@ -32,7 +32,7 @@
 		"portuguese": "Comer %food%",
 		"dutch": "Eet %food%",
 		"russian": "Съесть %food%",
-		"ukrainian":"",
+		"ukrainian":"З'їсти їжу",
 	},
 	"GiveFood": {
 		"english": "Give Food",
@@ -43,7 +43,7 @@
 		"portuguese": "Dar comida",
 		"dutch": "Geef Eten",
 		"russian": "Дать еду",
-		"ukrainian":"",
+		"ukrainian":"Дати їжу",
 	},
 	"GiveHealingPotion": {
 		"english": "Give Healing Potion",
@@ -54,7 +54,7 @@
 		"portuguese": "Dê Poção de Cura",
 		"dutch": "Geef genezend drankje",
 		"russian": "Дать лечебное зелье",
-		"ukrainian":"",
+		"ukrainian":"Дати лікувальне зілля",
 	},
 	"Repair": {
 		"english": "Repair",
@@ -65,7 +65,7 @@
 		"portuguese": "Reparar",
 		"dutch": "Repareer",
 		"russian": "Ремонтировать",
-		"ukrainian":"",
+		"ukrainian":"Ремонтувати",
 	},
 	"GoHere": {
 		"english": "Go Here",
@@ -76,7 +76,7 @@
 		"portuguese": "Vai aqui",
 		"dutch": "Ga Hierheen",
 		"russian": "Идти сюда",
-		"ukrainian":"",
+		"ukrainian":"Йди сюди",
 	},
 	"WaitHere": {
 		"english": "Wait Here",
@@ -87,7 +87,7 @@
 		"portuguese": "Espere aqui",
 		"dutch": "Wacht Hier",
 		"russian": "Ждать здесь",
-		"ukrainian":"",
+		"ukrainian":"Чекай тут",
 	},
 	"Relax": {
 		"english": "Relax",
@@ -98,7 +98,7 @@
 		"portuguese": "Relaxar",
 		"dutch": "Ontspan",
 		"russian": "Отдыхать",
-		"ukrainian":"",
+		"ukrainian":"Віддихати",
 	},
 	"RemovePlant": {
 		"english": "Remove Plant",
@@ -109,7 +109,7 @@
 		"portuguese": "Remover Planta",
 		"dutch": "Haal De Plant Weg",
 		"russian": "Удалить растение",
-		"ukrainian":"",
+		"ukrainian":"Видалити рослину",
 	},
 	"RemoveInfestedPlants": {
 		"english": "Remove all Infested Plants",
@@ -120,7 +120,7 @@
 		"portuguese": "Remova todas as plantas infestadas",
 		"dutch": "Haal alle Geïnfecteerde Planten Weg",
 		"russian": "Удалить все зараженные растения",
-		"ukrainian":"",
+		"ukrainian":"Видалити всі заражені рослини",
 	},
 	"RemoveDeadPlants": {
 		"english": "Remove all Dead Plants",
@@ -131,7 +131,7 @@
 		"portuguese": "Remova todas as plantas mortas",
 		"dutch": "Haal alle Dode Planten Weg",
 		"russian": "Удалить все мертвые растения",
-		"ukrainian":"",
+		"ukrainian":"Видалити всі мертві рослини",
 	},
 	"WaterPlant": {
 		"english": "Water Plant",
@@ -142,7 +142,7 @@
 		"portuguese": "Regar a planta",
 		"dutch": "Geef Water",
 		"russian": "Полить растение",
-		"ukrainian":"",
+		"ukrainian":"Полити рослину",
 	},
 	"Sow": {
 		"english": "Sow",
@@ -153,7 +153,7 @@
 		"portuguese": "Semear",
 		"dutch": "Zaaien",
 		"russian": "Сеять",
-		"ukrainian":"",
+		"ukrainian":"Сіяти",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -164,7 +164,7 @@
 		"portuguese": "Colher",
 		"dutch": "Oogsten",
 		"russian": "Собирать",
-		"ukrainian":"",
+		"ukrainian":"Збирати",
 	},
 	"SowObject": {
 		"english": "Sow %object%",
@@ -175,7 +175,7 @@
 		"portuguese": "Semear %object%",
 		"dutch": "%object% zaaien",
 		"russian": "Сеять %object%",
-		"ukrainian":"",
+		"ukrainian":"Сіяти %object%",
 	},
 	"HarvestObject": {
 		"english": "Harvest %object%",
@@ -186,7 +186,7 @@
 		"portuguese": "Colheita %object%",
 		"dutch": "%object% oogsten",
 		"russian": "Собирать %object%",
-		"ukrainian":"",
+		"ukrainian":"Збирати %object%",
 	},
 	"Construct": {
 		"english": "Construct",
@@ -197,7 +197,7 @@
 		"portuguese": "Construir",
 		"dutch": "Bouwen",
 		"russian": "Строить",
-		"ukrainian":"",
+		"ukrainian":"Будувати",
 	},
 	"Fight": {
 		"english": "Fight",
@@ -208,7 +208,7 @@
 		"portuguese": "Luta",
 		"dutch": "Vechten",
 		"russian": "Сражаться",
-		"ukrainian":"",
+		"ukrainian":"Битися",
 	},
 	"Kill": {
 		"english": "Kill",
@@ -219,7 +219,7 @@
 		"portuguese": "Mate",
 		"dutch": "Doden",
 		"russian": "Убить",
-		"ukrainian":"",
+		"ukrainian":"Вбити",
 	},
 	"TakeHealingPotion": {
 		"english": "Take Healing Potion",
@@ -230,7 +230,7 @@
 		"portuguese": "Tome Poção de Cura",
 		"dutch": "Neem Genezend drankje",
 		"russian": "Взять лечебное зелье",
-		"ukrainian":"",
+		"ukrainian":"Взяти лікувальне зілля",
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
@@ -241,7 +241,7 @@
 		"turkish": "Tarım öğren",
 		"dutch": "Leer over de Landbouw",
 		"russian": "Узнать о фермерстве",
-		"ukrainian":"",
+		"ukrainian":"Дізнатися про фермерство",
 	},
 	"LearnForesting": {
 		"english": "Learn about Foresting",
@@ -252,7 +252,7 @@
 		"portuguese": "Saiba mais sobre o florestamento",
 		"dutch": "Leer over het Bosbeheer",
 		"russian": "Узнать о лесоводстве",
-		"ukrainian":"",
+		"ukrainian":"Дізнатися про лісівництво",
 	},
 	"LearnMining": {
 		"english": "Learn about Mining",
@@ -263,7 +263,7 @@
 		"portuguese": "Aprenda sobre mineração",
 		"dutch": "Leer over het Mijnen",
 		"russian": "Узнать о шахтерстве",
-		"ukrainian":"",
+		"ukrainian":"Дізнатися про шахтерство",
 	},
 	"LearnCrafting": {
 		"english": "Learn about Crafting",
@@ -274,7 +274,7 @@
 		"portuguese": "Saiba mais sobre o artesanato",
 		"dutch": "Leer over het Knutselen",
 		"russian": "Узнать о ремесле",
-		"ukrainian":"",
+		"ukrainian":"Дізнатися про ремесло",
 	},
 	"LearnFighting": {
 		"english": "Train for Combat",
@@ -285,7 +285,7 @@
 		"portuguese": "Treinamento para Combate",
 		"dutch": "Oefenen voor het Vechten",
 		"russian": "Обучаться сражению",
-		"ukrainian":"",
+		"ukrainian":"Навчатись бою",
 	},
 	"LearnMedicine": {
 		"english": "Learn about Medicine",
@@ -296,7 +296,7 @@
 		"portuguese": "Aprenda sobre Medicina",
 		"dutch": "Leer over Medicijnen",
 		"russian": "Узнать о медицине",
-		"ukrainian":"",
+		"ukrainian":"Дізнатись про медицину",
 	},
 	"LearnResearching": {
 		"english": "Learn about Researching",
@@ -307,7 +307,7 @@
 		"portuguese": "Aprenda sobre Pesquisando",
 		"dutch": "Leer over Onderzoeken",
 		"russian": "Узнать о исследованиях",
-		"ukrainian":"",
+		"ukrainian":"Дізнатися про дослідженнях",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -318,7 +318,7 @@
 		"portuguese": "Dormir",
 		"dutch": "Slapen",
 		"russian": "Спать",
-		"ukrainian":"",
+		"ukrainian":"Спати",
 	},
 	"SleepUntilHealthy": {
 		"english": "Sleep until completely healthy",
@@ -329,7 +329,7 @@
 		"portuguese": "Durma até ficar completamente saudável",
 		"dutch": "Slaap tot volledige gezondheid",
 		"russian": "Спать до тех пор, пока не восстановится здоровье.",
-		"ukrainian":"",
+		"ukrainian":"Спати до тих пір, поки не відновиться здоров'я.",
 	},
 	"SleepOnGround": {
 		"english": "Sleep on the Ground",
@@ -340,7 +340,7 @@
 		"portuguese": "Durma no chão",
 		"dutch": "Slaap op de grond",
 		"russian": "Спать на земле",
-		"ukrainian":"",
+		"ukrainian":"Спати на землі",
 	},
 	"Sit": {
 		"english": "Sit",
@@ -351,7 +351,7 @@
 		"portuguese": "Sentar",
 		"dutch": "Zit",
 		"russian": "Сидеть",
-		"ukrainian":"",
+		"ukrainian":"Сидіти",
 	},
 	"SitOnChair": {
 		"english": "Sit on Chair",
@@ -361,8 +361,8 @@
 		"turkish": "Sandalyeye otur",
 		"portuguese": "Sente-se na cadeira",
 		"dutch": "Op de stoel zitten",
-		"russian": "Сидеть на стуле",
-		"ukrainian":"",
+		"russian": "Посидеть на стуле",
+		"ukrainian":"Сидіти на кріслі",
 	},
 	"Bury": {
 		"english": "Bury",
@@ -373,7 +373,7 @@
 		"portuguese": "Enterrar",
 		"dutch": "Begraaf",
 		"russian": "Хоронить",
-		"ukrainian":"",
+		"ukrainian":"Ховати",
 	},
 	"AcceptMigrants": {
 		"english": "Accept Migrants",
@@ -384,7 +384,7 @@
 		"portuguese": "Aceite migrantes",
 		"dutch": "Migranten accepteren",
 		"russian": "Принять мигрантов",
-		"ukrainian":"",
+		"ukrainian":"Прийняти мігрантів",
 	},
 	"RejectMigrants": {
 		"english": "Reject Migrants",
@@ -395,7 +395,7 @@
 		"portuguese": "Rejeitar Migrantes",
 		"dutch": "Migranten Weigeren",
 		"russian": "Отказаться от мигрантов",
-		"ukrainian":"",
+		"ukrainian":"Відмовитися від мігрантів",
 	},
 	"LeaveIsland": {
 		"english": "Leave Island",
@@ -406,7 +406,7 @@
 		"portuguese": "Sair da ilha",
 		"dutch": "Eiland verlaten",
 		"russian": "Покинуть остров",
-		"ukrainian":"",
+		"ukrainian":"Покинути острів",
 	},
 	"BandageWounds": {
 		"english": "Bandage Wounds",
@@ -417,7 +417,7 @@
 		"portuguese": "Atadura Feridas",
 		"dutch": "Wonden verbinden",
 		"russian": "Перевязать рану",
-		"ukrainian":"",
+		"ukrainian":"Перев'язати рану",
 	},
 	"SplintLeg": {
 		"english": "Splint Leg",
@@ -427,7 +427,7 @@
 		"portuguese": "Coloque uma tala na perna",
 		"turkish": "Bacak desteği",
 		"russian": "Наложить шину на ногу",
-		"ukrainian":"",
+		"ukrainian":"Накласти шину на ногу",
 	},
 	"SplintArm": {
 		"english": "Splint Arm",
@@ -437,7 +437,7 @@
 		"portuguese": "Coloque uma tala no braço",
 		"turkish": "Kol desteği",
 		"russian": "Наложить шину на руку",
-		"ukrainian":"",
+		"ukrainian":"Накласти шину на руку",
 	},
 	"Destroy": {
 		"english": "Destroy",
@@ -448,7 +448,7 @@
 		"portuguese": "Destruir",
 		"dutch": "Verwoesten",
 		"russian": "Сломать",
-		"ukrainian":"",
+		"ukrainian":"Зламати",
 	},
 	"Remove": {
 		"english": "Remove",
@@ -459,7 +459,7 @@
 		"portuguese": "Remover",
 		"dutch": "Verwijderen",
 		"russian": "Удалить",
-		"ukrainian":"",
+		"ukrainian":"Видалити",
 	},
 	"Add": {
 		"english": "Add",
@@ -470,7 +470,7 @@
 		"portuguese": "Adicionar",
 		"dutch": "Toevoegen",
 		"russian": "Добавить",
-		"ukrainian":"",
+		"ukrainian":"Добавити",
 	},
 	"Produce": {
 		"english": "Produce",
@@ -481,7 +481,7 @@
 		"portuguese": "Produzir",
 		"dutch": "Produceren",
 		"russian": "Произвести",
-		"ukrainian":"",
+		"ukrainian":"Виготовити",
 	},
 	"Equip": {
 		"english": "Equip",
@@ -492,7 +492,7 @@
 		"portuguese": "Equipar",
 		"dutch": "Uitrusten",
 		"russian": "Снарядить",
-		"ukrainian":"",
+		"ukrainian":"Спорядити",
 	},
 	"Unequip": {
 		"english": "Unequip",
@@ -503,7 +503,7 @@
 		"portuguese": "Desequipar",
 		"dutch": "Unequip",
 		"russian": "Снять снаряжение",
-		"ukrainian":"",
+		"ukrainian":"Зняти спорядження",
 	},
 	"RemoveWeapon": {
 		"english": "Lay down Weapon",
@@ -514,7 +514,7 @@
 		"portuguese": "Deite Arma",
 		"dutch": "Wapen Wegleggen",
 		"russian": "Сложить оружие",
-		"ukrainian":"",
+		"ukrainian":"Скласти зброю",
 	},
 	"RemoveArmor": {
 		"english": "Take off Armor",
@@ -525,7 +525,7 @@
 		"portuguese": "Tire a armadura",
 		"dutch": "Harnas Uitdoen",
 		"russian": "Снять броню",
-		"ukrainian":"",
+		"ukrainian":"Зняти броню",
 	},
 	"RemoveEquipment": {
 		"english": "Remove Equipment",
@@ -535,8 +535,8 @@
 		"turkish": "Ekipmanı çıkar",
 		"portuguese": "Remover equipamento",
 		"dutch": "Uitrusting wegdoen",
-		"russian": "Удалить снаряжение",
-		"ukrainian":"",
+		"russian": "Снять снаряжение",
+		"ukrainian":"Зняти спорядження",
 	},
 	"LightBonfire": {
 		"english": "Light Bonfire",
@@ -547,7 +547,7 @@
 		"portuguese": "Acenda a Fogueira",
 		"dutch": "Baken aansteken",
 		"russian": "Зажечь костер",
-		"ukrainian":"",
+		"ukrainian":"Запалити багаття",
 	},
 	"PutOutBonfire": {
 		"english": "Put out Bonfire",
@@ -558,7 +558,7 @@
 		"portuguese": "Apague a Fogueira",
 		"dutch": "Baken Uitdoen",
 		"russian": "Потушить костер",
-		"ukrainian":"",
+		"ukrainian":"Загасити вогонь",
 	},
 	"GatherResource": {
 		"english": "Gather Resources",
@@ -569,7 +569,7 @@
 		"portuguese": "Reunir Recursos",
 		"dutch": "Grondstof Verzamelen",
 		"russian": "Собирать ресурсы",
-		"ukrainian":"",
+		"ukrainian":"Збирати ресурси",
 	},
 	"Guard": {
 		"english": "Guard",
@@ -580,7 +580,7 @@
 		"portuguese": "Guarda",
 		"dutch": "Bewaak",
 		"russian": "Защищать",
-		"ukrainian":"",
+		"ukrainian":"Захищати",
 	},
 	"GuardTower": {
 		"english": "Guard Tower",
@@ -591,7 +591,7 @@
 		"portuguese": "Torre de guarda",
 		"dutch": "Wachttoren",
 		"russian": "Защищать башню",
-		"ukrainian":"",
+		"ukrainian":"Захищати вежу",
 	},
 	"ProcessResource": {
 		"english": "Process Resource",
@@ -602,7 +602,7 @@
 		"portuguese": "transformar Recursos",
 		"dutch": "Grondstof verwerking",
 		"russian": "Обработка ресурса",
-		"ukrainian":"",
+		"ukrainian":"Обробка ресурсу",
 	},
 	"ChangeProfession": {
 		"english": "Change",
@@ -613,7 +613,7 @@
 		"portuguese": "Mudar",
 		"dutch": "Verander",
 		"russian": "Изменить",
-		"ukrainian":"",
+		"ukrainian":"Змінити",
 	},
 	"GiveProductionOrders": {
 		"english": "Give Production Orders",
@@ -624,7 +624,7 @@
 		"portuguese": "Dar ordens de produção",
 		"dutch": "Geef productie opdrachten",
 		"russian": "Добавить заказ",
-		"ukrainian":"",
+		"ukrainian":"Додати замовлення",
 	},
 	"FillWateringCan": {
 		"english": "Fill Watering Can",
@@ -635,7 +635,7 @@
 		"portuguese": "Encha o regador",
 		"dutch": "Vul gieter",
 		"russian": "Наполнить лейку",
-		"ukrainian":"",
+		"ukrainian":"Наповнити лійку",
 	},
 	"interaction_gatherFood": {
 		"english": "Gather Food",
@@ -646,7 +646,7 @@
 		"portuguese": "Recolher comida",
 		"dutch": "Verzamel voedsel",
 		"russian": "Собирать еду",
-		"ukrainian":"",
+		"ukrainian":"Збирати їжу",
 	},
 	"interaction_cutTree": {
 		"english": "Cut Tree",
@@ -657,7 +657,7 @@
 		"portuguese": "Cortar árvore",
 		"dutch": "Boom omkappen",
 		"russian": "Срубить дерево",
-		"ukrainian":"",
+		"ukrainian":"Зрубати дерево",
 	},
 	"interaction_mineStone": {
 		"english": "Mine Stone",
@@ -668,7 +668,7 @@
 		"portuguese": "Minar Rocha",
 		"dutch": "Steen mijnen",
 		"russian": "Добывать камень",
-		"ukrainian":"",
+		"ukrainian":"Добувати камінь",
 	},
 	"interaction_mineIronOre": {
 		"english": "Mine Iron Ore",
@@ -679,7 +679,7 @@
 		"portuguese": "Minar Ferro",
 		"dutch": "Ijzererts mijnen",
 		"russian": "Добывать железную руду",
-		"ukrainian":"",
+		"ukrainian":"Добувати залізну руду",
 	},
 	"Gather": {
 		"english": "Gather",
@@ -690,7 +690,7 @@
 		"portuguese": "Coletar",
 		"dutch": "Verzamel",
 		"russian": "Собирать",
-		"ukrainian":"",
+		"ukrainian":"Збирати",
 	},
 	"BecomeA": {
 		"english": "Become a",
@@ -701,7 +701,7 @@
 		"portuguese": "Se tornar um",
 		"dutch": "Wordt een",
 		"russian": "Стать",
-		"ukrainian":"",
+		"ukrainian":"Стати",
 	},
 	"TryFluTreatment": {
 		"english": "Try Flu Treatment",
@@ -712,7 +712,7 @@
 		"portuguese": "Tentar o tratamento da gripe",
 		"dutch": "Probeer een griepbehandeling",
 		"russian": "Попробовать вылечить грипп",
-		"ukrainian":"",
+		"ukrainian":"Спробувати вилікувати грип",
 	},
 	"interaction_analyzeCrystal": {
 		"english": "Analyze Crystal",
@@ -723,7 +723,7 @@
 		"portuguese": "Analisar Cristal",
 		"dutch": "Kristal Analyzeren",
 		"russian": "Анализировать кристалл",
-		"ukrainian":"",
+		"ukrainian":"Аналізувати кристал",
 	},
 	"interaction_analyzeScroll": {
 		"english": "Analyze Scroll",
@@ -733,7 +733,7 @@
 		"portuguese": "Analisar pergaminhos",
 		"turkish": "Parşömeni incele",
 		"russian": "Анализировать свиток",
-		"ukrainian":"",
+		"ukrainian":"Аналізувати сувій",
 	},
 	"interaction_cook": {
 		"english": "Cook Food",
@@ -744,7 +744,7 @@
 		"portuguese": "cozinhar alimentos",
 		"dutch": "Voedsel koken",
 		"russian": "Приготовить еду",
-		"ukrainian":"",
+		"ukrainian":"Приготувати їжу",
 	},
 	"interaction_forge": {
 		"english": "Forge",
@@ -755,7 +755,7 @@
 		"portuguese": "Forjar",
 		"dutch": "Smeden",
 		"russian": "Ковать",
-		"ukrainian":"",
+		"ukrainian":"Кувати",
 	},
 	"interaction_makeBows": {
 		"english": "Make Bows",
@@ -766,7 +766,7 @@
 		"portuguese": "Faça Arcos",
 		"dutch": "Maak bogen",
 		"russian": "Сделать лук",
-		"ukrainian":"",
+		"ukrainian":"Зробити лук",
 	},
 	"interaction_makeTools": {
 		"english": "Make Tools",
@@ -777,7 +777,7 @@
 		"portuguese": "Fazer ferramentas",
 		"dutch": "Maak gereedschap",
 		"russian": "Сделать инструменты",
-		"ukrainian":"",
+		"ukrainian":"Зробити інструменти",
 	},
 	"interaction_tailorClothes": {
 		"english": "Tailor Clothes",
@@ -788,7 +788,7 @@
 		"portuguese": "Criar de alfaiate",
 		"dutch": "Kleding maken",
 		"russian": "Сшить одежду",
-		"ukrainian":"",
+		"ukrainian":"Зшити одяг",
 	},
 	"interaction_produceMedicalPotions": {
 		"english": "Produce Healing Potions",
@@ -799,7 +799,7 @@
 		"portuguese": "Produzir Poções de Cura",
 		"dutch": "Genezende Drankjes maken",
 		"russian": "Сделать лечебные зелья",
-		"ukrainian":"",
+		"ukrainian":"Зробити лікувальні зілля",
 	},
 	"interaction_produceMedicine": {
 		"english": "Produce Medicine",
@@ -810,7 +810,7 @@
 		"portuguese": "Produzir remédio",
 		"dutch": "Produceer Medicijnen",
 		"russian": "Сделать лекарство",
-		"ukrainian":"",
+		"ukrainian":"Зробити ліки",
 	},
 	"Talk": {
 		"english": "Talk",
@@ -821,7 +821,7 @@
 		"portuguese": "Falar",
 		"dutch": "Praat",
 		"russian": "Общаться",
-		"ukrainian":"",
+		"ukrainian":"Спілкуватись",
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
@@ -832,7 +832,7 @@
 		"portuguese": "Falar com %name%",
 		"dutch": "Praat tegen %name%",
 		"russian": "Поговорить с %name%",
-		"ukrainian":"",
+		"ukrainian":"Поговорить з %name%",
 	},
 	"TakeOwnership": {
 		"english": "Take Ownership",
@@ -843,7 +843,7 @@
 		"portuguese": "Apropriar",
 		"dutch": "Wordt Eigenaar",
 		"russian": "Стать владельцем",
-		"ukrainian":"",
+		"ukrainian":"Стати власником",
 	},
 	"TakeOwnershipFrom": {
 		"english": "Take Ownership from %name%",
@@ -854,7 +854,7 @@
 		"portuguese": "Apropriar de %name%",
 		"dutch": "Neem het Eigendom van %name% af",
 		"russian": "Стать владельцем от %name%",
-		"ukrainian":"",
+		"ukrainian":"Стати власником від %name%",
 	},
 	"GiveUpOwnership": {
 		"english": "Give up Ownership",
@@ -865,7 +865,7 @@
 		"portuguese": "Desistir de propriedade",
 		"dutch": "Eigenschap opgeven",
 		"russian": "Передать во владение",
-		"ukrainian":"",
+		"ukrainian":"Передати у володіння",
 	},
 	"CarryToBed": {
 		"english": "Carry to Bed",
@@ -874,8 +874,8 @@
 		"spanish": "Lleva a la cama",
 		"portuguese": "Levar para a cama",
 		"turkish": "Yatağa taşı", 
-		"russian": "Перенести кровать",
-		"ukrainian":"",
+		"russian": "Отнести на кровать",
+		"ukrainian":"Перенести на ліжко",
 	},
 	"PlaceTool": {
 		"english": "Unequip Tool",
@@ -884,8 +884,8 @@
 		"spanish": "Desequipa la herramienta",
 		"portuguese": "Desequipar Ferramenta",
 		"turkish": "Aleti bırak", 
-		"russian": "Сложить инструент",
-		"ukrainian":"",
+		"russian": "Сложить инструмент",
+		"ukrainian":"Скласти інструмент",
 	},
 	"PlaceClothes": {
 		"english": "Unequip Clothes",
@@ -895,7 +895,7 @@
 		"portuguese": "Desequipar Roupas",
 		"turkish": "Kıyafetleri çıkar", 
 		"russian": "Снять одежду",
-		"ukrainian":"",
+		"ukrainian":"Зняти одяг",
 	},
 	"Trade": {
 		"english": "Trade",
@@ -906,7 +906,7 @@
 		"dutch": "Ruil",
 		"turkish": "Takas",
 		"russian": "Торговаться",
-		"ukrainian":"",
+		"ukrainian":"Торгуватись",
 	},
 	"LockUp": {
 		"english": "Lock Up",
@@ -961,7 +961,7 @@
 		"portuguese": "Alguém está usando isso",
 		"dutch": "Iemand anders gebruikt dat",
 		"russian": "Кто-то еще использует это",
-		"ukrainian":"",
+		"ukrainian":"Хтось ще використовує це",
 	},
 	"firstNameIsUsingThat": {
 		"english": "%firstName% is using that",
@@ -983,7 +983,7 @@
 		"portuguese": "Não pode andar por causa de perna quebrada",
 		"turkish": "Bacağı kırık, yürüyemiyor", 
 		"russian": "Вы не можете передвигаться со сломанной ногой.",
-		"ukrainian":"",
+		"ukrainian":"Ви не можете пересуватися зі зламаною ногою.",
 	},
 	"cantWorkBrokenArm": {
 		"english": "Can't work because of broken arm",
@@ -993,7 +993,7 @@
 		"portuguese": "Não pode andar por causa de braço quebrado",
 		"turkish": "Kolu kırık, çalışamaz", 
 		"russian": "Не может работать из-за сломанной руки",
-		"ukrainian":"",
+		"ukrainian":"Не може працювати через зламану руки",
 	},
 	"cantInteractIsLockedUp": {
 		"english": "Colonist is locked up",
@@ -1008,7 +1008,7 @@
 		"portuguese": "Sem ordens de produção",
 		"dutch": "Geen productie opdrachten",
 		"russian": "Нет заказов",
-		"ukrainian":"",
+		"ukrainian":"Немає замовлень",
 	},
 	"notSufficientExperience": {
 		"english": "%firstName% doesn't have enough experience as %profession%",
@@ -1019,7 +1019,7 @@
 		"portuguese": "%firstName% não tem experiência suficiente como %profession%",
 		"dutch": "%firstname % heeft niet genoeg ervaring als %profession%",
 		"russian": "%firstName% не имеет достаточного уровня в %profession%",
-		"ukrainian":"",
+		"ukrainian":"%firstName% не має достатнього рівня в %profession%",
 	},
 	"notUsableInSeason": {
 		"english": "Not possible in %season%",
@@ -1030,7 +1030,7 @@
 		"portuguese": "Não é possível em %season%",
 		"dutch": "Niet mogelijk in %season%",
 		"russian": "Невозможно в сезоне %season%",
-		"ukrainian":"",
+		"ukrainian":"Неможливо в сезоні %season%",
 	},
 	"noTimeBeforeSeasonChanges": {
 		"english": "Not enough time before season changes",
@@ -1039,7 +1039,7 @@
 		"spanish": "No hay suficiente tiempo antes del cambio de estación",
 		"turkish": "Sezon değişiminden önce yeterli zaman yok",
 		"russian": "Недостаточно времени до смены сезона",
-		"ukrainian":"",
+		"ukrainian":"Недостатньо часу до зміни сезону",
 	},
 	"nextTryIn": {
 		"english": "Next Try in",
@@ -1050,7 +1050,7 @@
 		"portuguese": "Próxima tentativa em",
 		"dutch": "Probeer nog een keer in",
 		"russian": "Следующая попытка через",
-		"ukrainian":"",
+		"ukrainian":"Наступна спроба через",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -1061,7 +1061,7 @@
 		"portuguese": "segundos",
 		"dutch": "Seconden",
 		"russian": "секунд",
-		"ukrainian":"",
+		"ukrainian":"секунд",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",
@@ -1072,7 +1072,7 @@
 		"portuguese": "Não pode por causa da característica: %trait%",
 		"dutch": "Kan niet vanwege de eigenschap %trait%",
 		"russian": "Не может из-за черты: %trait%",
-		"ukrainian":"",
+		"ukrainian":"Не може через рису: %trait%",
 	},
 	"forbiddenBecauseNotHasTrait": {
 		"english": "Missing trait: %trait%",
@@ -1083,7 +1083,7 @@
 		"portuguese": "Traço ausente: %trait%",
 		"dutch": "Mist eigenschap: %trait%",
 		"russian": "Отсутствует черта: %trait%",
-		"ukrainian":"",
+		"ukrainian":"Відсутня риса: %trait%",
 	},
 	"cantGetResourceNearby": {
 		"english": "Can't get %resource% nearby",
@@ -1094,7 +1094,7 @@
 		"portuguese": "Não é possível obter %resource% nas proximidades",
 		"dutch": "Kan in de buurt geen %resource% krijgen ",
 		"russian": "Не могу собрать %resource% поблизости",
-		"ukrainian":"",
+		"ukrainian":"Не можу зібрати %resource% поблизу",
 	},
 	"missingEquipmentEffect_WateringPlants": {
 		"english": "Needs a watering can",
@@ -1105,7 +1105,7 @@
 		"portuguese": "Precisa de um regador",
 		"dutch": "Heeft een gieter nodig",
 		"russian": "Нужна лейка",
-		"ukrainian":"",
+		"ukrainian":"Потрібна лійка",
 	},
 	"noResearchSelected": {
 		"english": "No Research selected",
@@ -1116,7 +1116,7 @@
 		"portuguese": "Nenhuma pesquisa selecionada",
 		"dutch": "Geen onderzoek geselecteerd",
 		"russian": "Исследование не выбрано",
-		"ukrainian":"",
+		"ukrainian":"Дослідження не вибрано",
 	},
 	"resourceNotNecessaryForResearch": {
 		"english": "Doesn't need to analyze %resource% for current research",
@@ -1125,7 +1125,7 @@
 		"portuguese": "Não precisa analisar %resource% para pesquisa atual",
 		"turkish": "Şimdiki araştırma konusu için %resource% analiz etmeye gerek yok",
 		"russian": "Не нужно анализировать %resource% в текущем исследовании",
-		"ukrainian":"", 
+		"ukrainian":"Не потрібно аналізувати %resource% в поточному дослідженні", 
 	},
 	"notOwnedBy": {
 		"english": "Not owned by %firstName%",
@@ -1134,6 +1134,6 @@
 		"portuguese": "Não pertence a %firstName%",
 		"turkish": "%firstName% sahipliğinde değil", 
 		"russian": "Не принадлежит %firstName%",
-		"ukrainian":"",
+		"ukrainian":"Не належить %firstName%",
 	},
 }

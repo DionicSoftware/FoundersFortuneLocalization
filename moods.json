@@ -8,7 +8,7 @@
 		"turkish": "%firstName% mutlu",
 		"portuguese": "%firstName% é feliz",
 		"russian": "%firstName% счастлив",
-		"ukrainian":"",
+		"ukrainian":"%firstName% щасливий",
 	},
 	"moodDesc_Bad": {
 		"english": "%firstName% is not having a good time",
@@ -18,7 +18,7 @@
 		"turkish": "%firstName% iyi bir zaman geçirmiyor",
 		"portuguese": "%firstName% não está se divertindo",
 		"russian": "%firstName% недоволен",
-		"ukrainian":"",
+		"ukrainian":"%firstName% незадоволений",
 	},
 	"moodDesc_Terrible": {
 		"english": "%firstName% is feeling terrible. %cap-heShe% is at risk of breaking down",
@@ -28,7 +28,7 @@
 		"turkish": "%firstName% çok kötü hissediyor. Her an dağılabilir",
 		"portuguese": "%firstName% está se sentindo terrível. %eleEla% está em risco de quebrar",
 		"russian": "%firstName% чувствует себя ужасно. %cap-heShe% рискует получить нервный срыв.",
-		"ukrainian":"",
+		"ukrainian":"%firstName% відчуває себе жахливо, %heShe% ризикує отримати нервовий зрив.",
 	},
 	"moodDesc_Breakdown": {
 		"english": "%firstName% is having a breakdown. Nothing can console %himHer% now.",
@@ -38,7 +38,7 @@
 		"turkish": "%firstName% kriz geçiriyor. Onu hiçbir şey sakinleştiremez artık",
 		"portuguese": "%firstName% está tendo um colapso. Nada pode consolá-l%oA% agora.",
 		"russian": "%firstName% испытывает нервный срыв. Ничто не сможет утешить %himHer% сейчас.",
-		"ukrainian":"",
+		"ukrainian":"%firstName% відчуває нервовий зрив. Ніщо не зможе втішити %hisHer% зараз",
 	},
 	"moodDesc_LockedUp": {
 		"english": "%firstName% is locked up and is only concerned with freedom.",
@@ -52,7 +52,7 @@
 		"turkish": "%firstName% yerleşimdeki hayatından memnun",
 		"portuguese": "%firstName% está contente com sua vida na colônia.",
 		"russian": "%firstName% доволен жизнью в колонии.",
-		"ukrainian":"",
+		"ukrainian":"%firstName% задоволений життям в колонії.",
 	},
 	"expectationDesc_Neutral": {
 		"english": "%firstName% expects a little more of this colony. Migrants will only come when the expectations of the colonists are fulfilled.",
@@ -62,7 +62,7 @@
 		"turkish": "%firstName% yerleşimden daha fazla beklentileri var. Yerleşimcilerin beklentileri yerine getirilmeden göçmen gelmez.",
 		"portuguese": "%firstName% espera um pouco mais dessa colônia. Os migrantes só virão quando as expectativas dos colonos forem satisfeitas.",
 		"russian": "%firstName% ожидал большего от колонии. Мигранты начнут приходить только тогда, когда колонисты будут довольны своей жизнью в колонии.",
-		"ukrainian":"",
+		"ukrainian":"%firstName% очікував більшого від колонії. Мігранти почнуть приходити тільки тоді, коли колоністи будуть задоволені своїм життям в колонії.",
 	},
 	"expectationDesc_Bad": {
 		"english": "%firstName% expects a lot more of this colony. Migrants will only come when the expectations of your colonists are fulfilled.",
@@ -72,7 +72,7 @@
 		"turkish": "%firstName% yerleşimden daha fazla beklentileri var. Yerleşimcilerin beklentileri yerine getirilmeden göçmen gelmez.",
 		"portuguese": "%firstName% espera muito mais desta colônia. Os migrantes só virão quando as expectativas de seus colonos forem satisfeitas.",
 		"russian": "%firstName% ожидал намного большего от колонии. Мигранты начнут приходить только тогда, когда колонисты будут довольны своей жизнью в колонии.",
-		"ukrainian":"",
+		"ukrainian":"%firstName% очікував набагато більшого від колонії. Мігранти почнуть приходити тільки тоді, коли колоністи будуть задоволені своїм життям в колонії.",
 	},
 	"expectationDesc_LockedUp": {
 		"english": "%firstName% is locked up by the goblins and doesn't count as part of the colony at the moment.",
@@ -89,7 +89,7 @@
 		"turkish": "%firstName% kriz geçiriyor. Diğer yerleşimcilerin eşyalarını parçalıyor.",
 		"portuguese": "%firstName% está tendo um colapso! %eleEla% está destruindo os móveis de outros colonos!",
 		"russian": "%firstName% получил нервный срыв! %cap-heShe% крушит мебель других колонистов!",
-		"ukrainian":"",
+		"ukrainian":"%firstName% отримав нервовий зрив, %heShe% трощить меблі інших колоністів!",
 	},
 	"colonistMoodDesc_crazy": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% is hitting other colonists!",
@@ -99,7 +99,7 @@
 		"turkish": "%firstName% kriz geçiriyor. Diğer yerleşimcilere saldırıyor.",
 		"portuguese": "%firstName% está tendo um colapso! %eleEla% está batendo outros colonos!",
 		"russian": "%firstName% получил нервный срыв! %cap-heShe% бьет других колонистов!",
-		"ukrainian":"",
+		"ukrainian":"%firstName% отримав нервовий зрив, %heShe% б'є інших колоністів!",
 	},
 	"colonistMoodDesc_lazyDay": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% decided to have a lazy day and take a lot of breaks.",
@@ -109,7 +109,7 @@
 		"turkish": "%firstName% çöküş yaşıyor. Günü tembelce geçirmeye karar verdi ve bolca mola verecek.",
 		"portuguese": "%firstName% está tendo um colapso! %eleEla% decidiu ter um dia preguiçoso e fazer muitos intervalos.",
 		"russian": "%firstName% получил нервный срыв! %cap-heShe% решает провести ленивый день и много отдыхать.",
-		"ukrainian":"",
+		"ukrainian":"%firstName% отримав нервовий зрив, %heShe% вирішує провести ледачий день і багато відпочивати.",
 	},
 	"colonistMoodDesc_notWorking": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% refuses to work or follow any orders!",
@@ -119,6 +119,6 @@
 		"turkish": "%firstName% çöküş yaşıyor. Çalışmayı reddediyor ve verilen emirleri yerine getirmeyecek.",
 		"portuguese": "%firstName% está tendo um colapso! %eleEla% se recusa a trabalhar ou seguir qualquer ordem!",
 		"russian": "%firstName% получил нервный срыв! %cap-heShe% отказывается работать или выполнять любые приказы!",
-		"ukrainian":"",
+		"ukrainian":"%firstName% отримав нервовий зрив, %heShe% відмовляється працювати або виконувати будь-які накази!",
 	},
 }

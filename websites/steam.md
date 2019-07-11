@@ -51,7 +51,7 @@ Yaratıcı inşa, kolonici psikolojisi ve üs savunmasına odaklı bir fantazi k
 Adadaki kaynakları kullanarak çiftçilik, araç gereç üretimi, ticaret, savunma ve araştırma yapmanız gerekir. Ayrıca kolonicilerin mutlu tutmalısınız.
 
 ### Russian
-Фэнтезийный симулятор колонии, основными аспектами которого являются строительство, защита базы и управление психологией ваших колонистов.
+Фэнтезийный симулятор колонии, основными аспектами которого являются строительство, защита базы и психология колонистов.
 Управляйте ресурсами, производством, снаряжением, торговлей и исследованиями, а также пожеланиями, мечтами, мыслями и имуществом каждого колониста.
 
 ### Ukrainian

@@ -1,4 +1,4 @@
-{
+﻿{
 	"english": {
 		"male": {
 			"heShe": "he",
@@ -169,4 +169,76 @@
 			"złamałZłamała": "złamała",
 		}
 	},
+	"ukrainian": {
+		"male": {
+			"surnameA": "",
+			"heShe": "він",
+			"cap-heShe": "нього",
+			"heshe1":"йому",
+			"hisHer": "його",
+			"himHer": "ним",
+			"wordEnd": "ся",
+			"himselfHerself": "себе",
+			"guyGirl": "хлопець",
+			"hesheEnd": "в",
+			"sheLA": "іг",
+			"heShe_T_TKA":"т",
+			"heSheCA_K":"к",
+			"heshe_EN_NA":"ен",
+			"heshe_IY_A":"ий",
+		},
+		"female": {
+			"surnameA": "а",
+			"heShe": "вона",
+			"cap-heShe": "неї",
+			"heshe1":"їй",
+			"hisHer": "її",
+			"himHer": "нею",
+			"wordEnd": "ась",
+			"himselfHerself": "себе",
+			"guyGirl": "дівчинка",
+			"hesheEnd": "ла",
+			"sheLA": "огла",
+			"heShe_T_TKA":"тка",
+			"heSheCA_K":"ця",
+			"heshe_EN_NA":"на",
+			"heshe_IY_A":"а",
+		}
+	},
+	"russian": {
+		"male": {
+			"surnameA": "",
+			"heShe": "он",
+			"cap-heShe": "Он",
+			"heshe1": "ему",
+			"hisHer": "его",
+			"himHer": "него",
+			"wordEnd": "ся",
+			"himselfHerself": "себя",
+			"guyGirl": "парень",
+			"hesheEnd": "ый",
+			"hesheEnd1": "ен",
+			"hesheEnd2": "ой",
+			"sheLA": "в",
+			"sheKA":"",
+			"sheCA":"ик"
+		},
+		"female": {
+			"surnameA": "а",
+			"heShe": "она",
+			"cap-heShe": "Она",
+			"heshe1": "ей",
+			"hisHer": "ее",
+			"himHer": "нее",
+			"wordEnd": "ась",
+			"himselfHerself": "себя",
+			"guyGirl": "девочка",
+			"hesheEnd": "ая",
+			"hesheEnd1": "на",
+			"hesheEnd2": "ая",
+			"sheLA": "ла",
+			"sheKA":"ка",
+			"sheCA":"ица"
+		}
+	}
 }

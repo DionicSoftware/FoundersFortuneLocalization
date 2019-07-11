@@ -7,6 +7,8 @@
 		"spanish": "Carpintería",
 		"portuguese": "Carpintaria",
 		"turkish": "Ağaç İşleri",
+		"russian": "Обработка дерева",
+		"ukrainian":"Обробка дерева",
 	},
 	"tech_farming": {
 		"english": "Farming",
@@ -15,6 +17,8 @@
 		"spanish": "Agricultura",
 		"portuguese": "Agricultura",
 		"turkish": "Çiftçilik",
+		"russian": "Фермерство",
+		"ukrainian":"Фермерство",
 	},
 
 	// Tier II
@@ -25,6 +29,8 @@
 		"spanish": "Armamento",
 		"portuguese": "Armamento",
 		"turkish": "Silahlanma",
+		"russian": "Вооружение",
+		"ukrainian":"Озброєння",
 	},
 	"tech_architectureI": {
 		"english": "Architecture I",
@@ -33,6 +39,8 @@
 		"spanish": "Arquitectura I",
 		"portuguese": "Arquitetura I",
 		"turkish": "Mimarlık I",
+		"russian": "Архитектура I",
+		"ukrainian":"Архітектура I",
 	},
 	"tech_masonry": {
 		"english": "Masonry",
@@ -41,7 +49,8 @@
 		"spanish": "Albañilería",
 		"portuguese": "Maçonaria",
 		"turkish": "Taş İşçiliği",
-
+		"russian": "Кирпичная кладка",
+		"ukrainian":"Цегляна кладка",
 	},
 	"tech_furnitureI": {
 		"english": "Furniture I",
@@ -50,6 +59,8 @@
 		"spanish": "Mobiliario I",
 		"portuguese": "Móveis I",
 		"turkish": "Mobilyacılık I",
+		"russian": "Мебель I",
+		"ukrainian":"Меблi I",
 	},
 	"tech_gardening": {
 		"english": "Gardening",
@@ -58,6 +69,8 @@
 		"spanish": "Jardinería",
 		"portuguese": "Jardinagem",
 		"turkish": "Tarım",
+		"russian": "Садоводство",
+		"ukrainian":"Садівництво",
 	},
 	"tech_writing": {
 		"english": "Writing",
@@ -66,6 +79,8 @@
 		"spanish": "Escritura",
 		"portuguese": "Escrita",
 		"turkish": "Yazı yazma",
+		"russian": "Письменность",
+		"ukrainian":"Писемність",
 	},
 
 	// Tier III
@@ -76,6 +91,8 @@
 		"spanish": "Armas a distancia",
 		"portuguese": "Armas de Longo Alcance",
 		"turkish": "Menzilli Silahlar",
+		"russian": "Оружие дальнего боя",
+		"ukrainian":"Зброя дальнього бою",
 	},
 	"tech_architectureII": {
 		"english": "Architecture II",
@@ -84,6 +101,8 @@
 		"spanish": "Arquitectura II",
 		"portuguese": "Arquitetura II",
 		"turkish": "Mimarlık II",
+		"russian": "Архитектура II",
+		"ukrainian":"Архітектура II",
 	},
 	"tech_furnitureII": {
 		"english": "Furniture II",
@@ -92,6 +111,8 @@
 		"spanish": "Mobiliario II",
 		"portuguese": "Móveis II",
 		"turkish": "Mobilyacılık II",
+		"russian": "Мебель II",
+		"ukrainian":"Меблi II",
 	},
 	"tech_stoneWeapons": {
 		"english": "Stone Weapons",
@@ -99,6 +120,8 @@
 		"french": "Armes en Pierre",
 		"spanish": "Armas de Piedra",
 		"turkish": "Taş silahlar",
+		"russian": "Каменное оружие",
+		"ukrainian":"Кам'яна зброя",
 	},
 	"tech_stoneFurniture": {
 		"english": "Stone Furniture",
@@ -106,6 +129,8 @@
 		"french": "Mobilier en Pierre",
 		"spanish": "Mobiliario de Piedra",
 		"turkish": "Taş mobilya",
+		"russian": "Каменная мебель",
+		"ukrainian":"Кам'яні меблі",
 	},
 	"tech_decoration": {
 		"english": "Decoration",
@@ -114,6 +139,8 @@
 		"spanish": "Decoración",
 		"portuguese": "Decoração",
 		"turkish": "Dekorasyon",
+		"russian": "Декорация",
+		"ukrainian":"Декорації",
 	},
 	"tech_watering": { // "irrigation" was too modern and too uncommon. "Watering" is more fitting for unlocking a well.
 		"english": "Watering",
@@ -122,6 +149,8 @@
 		"spanish": "Riego",
 		"portuguese": "Irrigação",
 		"turkish": "Sulama",
+		"russian": "Полив",
+		"ukrainian":"Полив",
 	},
 	"tech_medicine": {
 		"english": "Basic Medicine",
@@ -130,6 +159,12 @@
 		"spanish": "Medicina básica",
 		"portuguese": "Medicina Básica",
 		"turkish": "Temel Tıp",
+		"russian": "Основы медицины",
+		"ukrainian":"Основи медицини",
+	},
+	"tech_brewery": {
+		"english": "Brewery",
+		"german": "Brauerei",
 	},
 
 	// Tier IV
@@ -140,6 +175,8 @@
 		"spanish": "Torres",
 		"portuguese": "Torres",
 		"turkish": "Kuleler",
+		"russian": "Башни",
+		"ukrainian":"Башні",
 	},
 	"tech_furnitureIII": {
 		"english": "Furniture III",
@@ -148,6 +185,8 @@
 		"spanish": "Mobiliario III",
 		"portuguese": "Móveis III",
 		"turkish": "Mobilyacılık III",
+		"russian": "Мебель III",
+		"ukrainian":"Меблi II",
 	},
 	"tech_tailoring": {
 		"english": "Tailoring",
@@ -156,6 +195,12 @@
 		"spanish": "Sastrería",
 		"portuguese": "Alfaiataria",
 		"turkish": "Terzicilik",
+		"russian": "Портняжное дело",
+		"ukrainian":"Кравецька справа",
+	},
+	"tech_advancedTailoring": {
+		"english": "Advanced Tailoring",
+		"german": "Fortgeschreittene Schneiderei",
 	},
 	"tech_advancedCooking": {
 		"english": "Advanced Cooking",
@@ -164,6 +209,8 @@
 		"spanish": "Cocina avanzada",
 		"portuguese": "Cozinha Avançada",
 		"turkish": "Gelişmiş Pişirme",
+		"russian": "Улучшенная готовка",
+		"ukrainian":"Покращене приготування",
 	},
 	"tech_alchemy": {
 		"english": "Alchemy",
@@ -172,6 +219,8 @@
 		"spanish": "Alquimia",
 		"portuguese": "Alquimia",
 		"turkish": "Simyacılık",
+		"russian": "Алхимия",
+		"ukrainian":"Алхімія",
 	},
 
 	// Tier V
@@ -182,6 +231,8 @@
 		"spanish": "Atalayas reforzadas",
 		"portuguese": "Torres de Vigia Fortes",
 		"turkish": "Güçlü Gözetleme Kuleleri",
+		"russian": "Крепкие сторожевые башни",
+		"ukrainian":"Міцні сторожові башти",
 	},
 	"tech_forging": {
 		"english": "Forging",
@@ -190,6 +241,8 @@
 		"spanish": "Forja",
 		"portuguese": "Ferreiro",
 		"turkish": "Metalcilik",
+		"russian": "Ковка",
+		"ukrainian":"Кування",
 	},
 	"tech_weaponForging": {
 		"english": "Weapon Forging",
@@ -198,6 +251,8 @@
 		"spanish": "Forja de Armas",
 		"portuguese": "Forjamento de Arma",
 		"turkish": "Silah döküm",
+		"russian": "Ковка оружия",
+		"ukrainian":"Кування зброї",
 	},
 	"tech_armorForging": {
 		"english": "Armor Forging",
@@ -206,6 +261,8 @@
 		"spanish": "Forja de Armaduras",
 		"portuguese": "Forjamento de Armadura",
 		"turkish": "Zırh döküm",
+		"russian": "Ковка брони",
+		"ukrainian":"Кування броні",
 	},
 	"tech_grainProcessing": {
 		"english": "Grain Processing",
@@ -214,5 +271,7 @@
 		"spanish": "Procesamiento del grano",
 		"portuguese": "Processamento de grãos",
 		"turkish": "Tahıl İşleme",
+		"russian": "Переработка зерна",
+		"ukrainian":"Переробка зерна",
 	},
 }

@@ -9,6 +9,8 @@
 		"turkish": "Tahta kılıç",
 		"portuguese": "Espada de madeira",
 		"polish": "Drewniany miecz",
+		"russian": "Деревянный меч",
+		"ukrainian": "Дерев'яний меч",
 	},
 	"equipmentDescription_swordWood": {
 		"english": "No comparison to a real sword but better than having to fight with your bare hands.",
@@ -18,6 +20,8 @@
 		"turkish": "Gerçek bir kılıçla mukayese edilemez ama çıplak elle dövüşmekten de daha iyi olduğu kesin.",
 		"portuguese": "Nenhuma comparação com uma espada real, mas melhor do que ter que lutar com as próprias mãos.",
 		"polish": "Bez porównania z prawdziwym mieczem, ale lepszy niż walka gołymi rękami.",
+		"russian": "Даже близко не настоящий меч, но всяко лучше, чем сражаться руками.",
+		"ukrainian": "Навіть близько не справжній меч, але всяко краще, ніж боротися руками.",
 	},
 	"equipmentName_swordStone": {
 		"english": "Stone Sword",
@@ -27,6 +31,8 @@
 		"turkish": "Taştan kılıç",
 		"portuguese": "Espada de pedra",
 		"polish": "Kamienny miecz",
+		"russian": "Каменный меч",
+		"ukrainian": "Кам'яний меч",
 	},
 	"equipmentDescription_swordStone": {
 		"english": "Even though made out of stone, the sword's blade is sharp and dangerous.",
@@ -36,6 +42,8 @@
 		"turkish": "Taştan yapılmış olmasına rağmen kılıcın ağızı keskin ve tehlikeli.",
 		"portuguese": "Mesmo sendo feita de pedra, a lâmina da espada é afiada e perigosa.",
 		"polish": "Pomimo że ostrze miecza jest wykonane z kamienia, jest ostre i niebezpieczne.",
+		"russian": "Несмотря на то, что меч изготовлен из камня, он вполне острый и внушает страх.",
+		"ukrainian": "Незважаючи на те, що меч виготовлений з каменю, він цілком гострий і вселяє страх.",
 	},
 	"equipmentName_swordIron": {
 		"english": "Iron Sword",
@@ -46,6 +54,8 @@
 		"turkish": "Demir kılıç",
 		"portuguese": "Espada de ferro",
 		"polish": "Żelazny miecz",
+		"russian": "Железный меч",
+		"ukrainian": "Залізний меч",
 	},
 	"equipmentDescription_swordIron": {
 		"english": "A decent melee weapon. Forged by a skilled craftsman.",
@@ -56,6 +66,8 @@
 		"turkish": "İyi bir yakın dövüş silahı. Kalifiye bir usta tarafından dövülmüş.",
 		"portuguese": "É uma arma comum de combate corpo a corpo. Forjado por um artesão experiente",
 		"polish": "Przyzwoita broń do walki w zwarciu. Wykuta przez wykwalifikowanego rzemieślnika.",
+		"russian": "Хорошее оружие для ближнего боя. Выкован опытным ремесленником.",
+		"ukrainian": "Хороша зброя для ближнього бою. Викуваний досвідченим ремісником.",
 	},
 
 // Axes
@@ -69,15 +81,12 @@
 		"turkish": "Tahta balta",
 		"portuguese": "Machado de madeira",
 		"polish": "Drewniana siekiera",
+		"russian": "Деревянный топор",
+		"ukrainian": "Дерев'яна сокиру",
 	},
 	"equipmentDescription_axeWood": {
-		"english": "Doubles the amount of wood received  from trees.",
-		"german": "Verdoppelt den Holzertrag durch das Fällen von Bäumen",
-		"french": "Double la quantité de bois obtenu des arbres.",
-		"spanish": "Dobla la cantidad de madera recibida de los árboles.",
-		"turkish": "Ağaçlardan alınan odun miktarını iki katına çıkarır.",
-		"portuguese": "Duplica a quantidade de madeira recebida das árvores.",
-		"polish": "Podwaja ilość ścinanego drewna.",
+		"english": "Gets 30% more wood out of trees. It's better than nothing.",
+		"german": "Erhält 30% mehr Holz aus Bäumen. Es ist besser als nichts.",
 	},
 	"equipmentName_axeStone": {
 		"english": "Stone Axe",
@@ -87,15 +96,12 @@
 		"turkish": "Taş balta",
 		"portuguese": "Machado de pedra",
 		"polish": "Kamienna siekiera",
+		"russian": "Каменный топор",
+		"ukrainian": "Кам'яна сокира",
 	},
 	"equipmentDescription_axeStone": {
-		"english": "Triples the amount of wood received  from trees.",
-		"german": "Verdreifacht den Holzertrag durch das Fällen von Bäumen",
-		"french": "Triple la quantité de bois obtenu des arbres.",
-		"spanish": "Triplica la cantidad de madera recibida de los árboles.",
-		"turkish": "Ağaçlardan alınan odun miktarını üç katına çıkarır.",
-		"portuguese": "Triplica a quantidade de madeira recebida das árvores.",
-		"polish": "Potraja ilość ścinanego drewna.",
+		"english": "Gets 60% more wood out of trees. Finally we can do some serious construction!",
+		"german": "Erhält 60% mehr Holz aus Bäumen. Zeit für den Ausbau!",
 	},
 	"equipmentName_axeIron": {
 		"english": "Iron Axe",
@@ -105,15 +111,12 @@
 		"turkish": "Demir balta",
 		"portuguese": "Machado de ferro",
 		"polish": "Żelazna siekiera",
+		"russian": "Железный топор",
+		"ukrainian": "Залізна сокира",
 	},
 	"equipmentDescription_axeIron": {
-		"english": "Quadruples the amount of wood received  from trees.",
-		"german": "Vervierfacht den Holzertrag durch das Fällen von Bäumen",
-		"french": "Quadruple la quantité de bois obtenu des arbres.",
-		"spanish": "Cuatriplica la cantidad de madera recibida de los árboles.",
-		"turkish": "Ağaçlardan alınan odun miktarını dört katına çıkarır.",
-		"portuguese": "Quadruplica a quantidade de madeira recebida das árvores.",
-		"polish": "Zwiększa czterokrotnie ilość ścinanego drewna.",
+		"english": "Gets double the amount of wood out of trees. Are you ready to build an empire out of wood?",
+		"german": "Erhält den doppelten Betrag an Holz aus Bäumen. Bist du bereit ein Imperium aus Holz zu bauen?",
 	},
 
 // Pickaxes
@@ -127,15 +130,12 @@
 		"turkish": "Ahşap Kazma",
 		"portuguese": "Picareta De Madeira",
 		"polish": "Drewniany kilof",
+		"russian": "Деревянная кирка",
+		"ukrainian": "Дерев'яна кирка",
 	},
 	"equipmentDescription_pickaxeWood": {
-		"english": "Doubles the amount of stone received  from rocks.",
-		"german": "Verdoppelt den Steinertrag durch das Abbauen von Felsen",
-		"french": "Double la quantité de pierre obtenue des roches.",
-		"spanish": "Duplica la cantidad de piedra obtenida de las rocas.",
-		"turkish": "Kayalardan elde edilen taş miktarını iki katına çıkarır.",
-		"portuguese": "Dobra a quantidade de pedra recebida das rochas.",
-		"polish": "Podwaja ilość wydobywanego kamienia.",
+		"english": "Gets 30% more resources out of mining. Someone said kicking wasn't that healthy.",
+		"german": "Erhält 30% mehr Ressourcen aus Bergarbeit. Jemand meinte, das Treten von Steinen sei nicht so gesund.",
 	},
 	"equipmentName_pickaxeStone": {
 		"english": "Stone Pickaxe",
@@ -145,15 +145,12 @@
 		"turkish": "Taş Kazma",
 		"portuguese": "Picareta de Pedra",
 		"polish": "Kamienny kilof",
+		"russian": "Каменная кирка",
+		"ukrainian": "Кам'яна кирка",
 	},
 	"equipmentDescription_pickaxeStone": {
-		"english": "Triples the amount of stone received  from rocks.",
-		"german": "Verdreifacht den Steinertrag durch das Abbauen von Felsen",
-		"french": "Triple la quantité de pierre obtenue des roches.",
-		"spanish": "Triplica la cantidad de piedra obtenida de las rocas.",
-		"turkish": "Kayalardan elde edilen taş miktarını üç katına çıkarır.",
-		"portuguese": "Triplica a quantidade de pedra recebida das rochas.",
-		"polish": "Potraja ilość wydobywanego kamienia.",
+		"english": "Gets 60% more resources out of mining. What are you going to do with all this stone and iron?",
+		"german": "Erhält 60% mehr Ressourcen aus Bergarbeit. Was wirst du mit all dem Stein und Eisen machen?",
 	},
 	"equipmentName_pickaxeIron": {
 		"english": "Iron Pickaxe",
@@ -163,15 +160,12 @@
 		"turkish": "Demir Kazma",
 		"portuguese": "Picareta de Ferro",
 		"polish": "Żelazny kilof",
+		"russian": "Железная кирка",
+		"ukrainian": "Залізна кирка",
 	},
 	"equipmentDescription_pickaxeIron": {
-		"english": "Quadruples the amount of stone received  from rocks.",
-		"german": "Vervierfacht den Steinertrag durch das Abbauen von Felsen",
-		"french": "Quadruple la quantité de pierre obtenue des roches.",
-		"spanish": "Cuatriplica la cantidad de piedra obtenida de las rocas.",
-		"turkish": "Kayalardan elde edilen taş miktarını dört katına çıkarır.",
-		"portuguese": "Quadruplica a quantidade de pedra recebida das rochas.",
-		"polish": "Zwiększa czterokrotnie ilość wydobywanego kamienia.",
+		"english": "Gets double the amount of resources out of mining. No pebble left untouched!",
+		"german": "Erhält den doppelten Betrag an Ressourcen aus Bergarbeit. Kein Kiesel wird zurückgelassen!",
 	},
 
 // Bows
@@ -186,6 +180,8 @@
 		"turkish": "Basit Yay",
 		"portuguese": "Arco simples",
 		"polish": "Prosty łuk",
+		"russian": "Простой лук",
+		"ukrainian": "Простий лук",
 	},
 	"equipmentDescription_bow": {
 		"english": "Each arrow deals a serious amount of damage - if it hits.",
@@ -196,6 +192,8 @@
 		"turkish": "Her ok, isabet etmesi halinde, ciddi miktarda hasar verir.",
 		"portuguese": "Cada flecha causa uma quantidade séria de dano - se acertar.",
 		"polish": "Każda strzała zadaje poważne obrażenia - jeśli trafi.",
+		"russian": "Каждая стрела наносит серьезный урон. Если, конечно, она попадает.",
+		"ukrainian": "Кожна стріла завдає серйозної шкоди. Якщо звичайно, вона потрапляє.",
 	},
 
 // Clubs
@@ -210,6 +208,8 @@
 		"turkish": "Ahşap sopa",
 		"portuguese": "Clube de madeira",
 		"polish": "Drewniany kij",
+		"russian": "Деревянная дубинка",
+		"ukrainian": "Дерев'яна палиця",
 	},
 	"equipmentDescription_woodenClub": {
 		"english": "This plain club is used by Tikigoblins. It might be of special value for collectors!",
@@ -219,6 +219,8 @@
 		"turkish": "Bu sade sopa Tikigoblins tarafından kullanılıyor. Koleksiyoncular için özel bir değeri olabilir!",
 		"portuguese": "Este clube simples é usado por Tikigoblins. Pode ser de valor especial para colecionadores!",
 		"polish": "Ten zwykły kij jest używany przez Tikigoblinów. Może mieć szczególną wartość dla kolekcjonerów!",
+		"russian": "Эти дубинки используют тикогоблины. Может иметь ценность для коллекционеров!",
+		"ukrainian": "Цю палицю використовують тікогобліни. Може мати цінність для колекціонерів!",
 	},
 
 // Watering Cans
@@ -234,6 +236,8 @@
 		"turkish": "Ahşap su kovası",
 		"portuguese": "Regador de madera",
 		"polish": "Drewniana konewka",
+		"russian": "Деревянная лейка",
+		"ukrainian": "Дерев'яна лійка",
 	},
 	"equipmentDescription_wateringCanWood": {
 		"english": "You need to have a watering can to provide optimal care for your plants. Plants that have been watered correctly have been reported to yield double or triple harvests!",
@@ -244,6 +248,8 @@
 		"turkish": "Bitkilerinize en uygun bakımı sağlamak için bir sulama kovasına ihtiyacınız var. Doğru bir şekilde sulanan bitkilerin çift veya üçlü hasat verdikleri bildirildi!",
 		"portuguese": "Você precisa ter um regador para fornecer o melhor atendimento para suas plantas. As plantas que foram regadas corretamente produziram colheitas duplas ou triplas!",
 		"polish": "Musisz mieć konewkę, aby zapewnić optymalną pielęgnację roślin. Doniesiono, że rośliny podlewane prawidłowo dają podwójne lub potrójne zbiory!",
+		"russian": "Вам нужна лейка для обеспечения хорошего ухода за растениями. Говорят, что правильно орошенные растения дают двойной, а то и тройной урожай!",
+		"ukrainian": "Вам потрібна лійка для забезпечення гарного догляду за рослинами. Кажуть, що правильно политі рослини дають подвійний, а то й потрійний урожай!",
 	},
 	"equipmentName_wateringCanStone": {
 		"english": "Stone Watering Can",
@@ -253,6 +259,8 @@
 		"turkish": "Taş su kovası",
 		"portuguese": "Regador de pedra",
 		"polish": "Kamienna konewka",
+		"russian": "Каменная лейка",
+		"ukrainian": "Кам'яна лійка",
 	},
 	"equipmentDescription_wateringCanStone": {
 	// Not fully implemented in the game yet	
@@ -265,6 +273,8 @@
 		"turkish": "Demir su kovası",
 		"portuguese": "Regador de ferro",
 		"polish": "Żelazna konewka",
+		"russian": "Железная лейка",
+		"ukrainian": "Залізна лійка",
 	},
 	"equipmentDescription_wateringCanIron": {
 	// Not fully implemented in the game yet
@@ -279,8 +289,9 @@
 	},
 	"equipmentDescription_armorGambeson": {
 		"english": "The basic equipment of every wannabe warrior.",
-		"german": "Die Basisausrüstung für jeden Möchtegern Krieger.",
+		"german": "Die Basisausrüstung für jeden Möchtegern-Krieger.",
 	},
+
 	"equipmentName_armorSimplePlate": {
 		"english": "Simple Plate Armor",
 		"german": "Einfache Plattenrüstung",
@@ -298,6 +309,8 @@
 		"turkish": "Demir Zırh",
 		"portuguese": "Armadura de ferro",
 		"polish": "Żelazna zbroja",
+		"russian": "Железная броня",
+		"ukrainian": "Залізна броня",
 	},
 	"equipmentDescription_armorIron": {
 		"english": "Takes long to produce, but protects the bearer pretty well.",
@@ -308,13 +321,15 @@
 		"turkish": "Üretmesi uzun sürüyor, ancak hamilini oldukça iyi koruyor.",
 		"portuguese": "Leva muito tempo para produzir, mas protege o portador muito bem.",
 		"polish": "Produkcja zajmuje dużo czasu, ale bardzo dobrze chroni posiadacza.",
+		"russian": "Долго изготавливается, зато хорошо защищает владельца.",
+		"ukrainian": "Довго виготовляється, зате добре захищає власника.",
 	},
 
 // Work Gear
 //**********
 
 	"equipmentName_craftsmanGear0": {
-		"english": "Simple Craftsman's Clothes",
+		"english": "Apprentice Craftsman's Clothes",
 		"german": "Einfache Handwerkerkleidung",
 	},
 	"equipmentDescription_craftsmanGear0": {
@@ -322,31 +337,31 @@
 		"german": "Mit dieser bequemen Arbeitskleidung können Handwerker etwas schneller arbeiten.",	
 	},
 	"equipmentName_craftsmanGear1": {
-		"english": "Craftsman's Clothes",
-		"german": "Handwerkerkleidung",
+		"english": "Master Craftsman's Clothes",
+		"german": "Meisterhandwerkerkleidung",
 	},
 	"equipmentDescription_craftsmanGear1": {
-		"english": "Clothing for true master craftsmen. Your settlers will work significantly faster",
+		"english": "Clothing for true master craftsmen. Your settlers will work significantly faster.",
 		"german": "Kleidung für wahre Handwerksmeister. Deine Siedler arbeitet um einiges schneller.",	
 	},
 	"equipmentName_foresterGear0": {
-		"english": "Simple Forester's Clothes",
+		"english": "Apprentice Forester's Clothes",
 		"german": "Einfache Försterkleidung",
 	},
 	"equipmentDescription_foresterGear0": {
-		"english": "With the right Equipment, forest work is so much easier. These clothes will enable your Foresters to work a little bit faster.",
+		"english": "With the right equipment, forest work is so much easier. These clothes will enable your Foresters to work a little bit faster.",
 		"german": "Mit der richtigen Ausstattung wird die Forstarbeit doch gleich viel leichter. Förster arbeiten etwas schneller.",	
 	},
 	"equipmentName_foresterGear1": {
-		"english": "Forester's Clothes",
-		"german": "Försterkleidung",
+		"english": "Master Forester's Clothes",
+		"german": "Meisterförsterkleidung",
 	},
 	"equipmentDescription_foresterGear1": {
-		"english": "Working gear that will scare the hell out of all trees nearby.",
+		"english": "Working gear that will scare the hell out of all nearby trees. Foresters work a lot faster",
 		"german": "Eine Arbeitsmontur, die alle Bäume im näheren Umkreis vor Angst erstarren lassen wird. Förster arbeiten viel schneller.",	
 	},
 	"equipmentName_minerGear0": {
-		"english": "Simple Miner's Clothes",
+		"english": "Apprentice Miner's Clothes",
 		"german": "Einfache Bergarbeiterkleidung",
 	},
 	"equipmentDescription_minerGear0": {
@@ -354,15 +369,15 @@
 		"german": "Macht all die harte Arbeit etwas erträglicher. Bergarbeiter erledigen ihre Arbeit etwas schneller.",	
 	},
 	"equipmentName_minerGear1": {
-		"english": "Miner's Clothes",
-		"german": "Bergarbeiterkleidung",
+		"english": "Master Miner's Clothes",
+		"german": "Meisterbergarbeiterkleidung",
 	},
 	"equipmentDescription_minerGear1": {
-		"english": "For passionate miners that can't imagine life without a pickaxe in their hands. Mining stone, crystals and iron ore takes way less time. \"Rock and stone brother!\"", // The last sentence is a quote from Deep Rock Galactic. As it is only voiced in English, we decided not to include this easter egg to other languages. Just ignore it. ;)
+		"english": "For passionate miners that can't imagine life without a pickaxe in their hands. Mining stone, crystals and iron ore takes way less time. \"Rock and stone, brother!\"", // The last sentence is a quote from Deep Rock Galactic. As it is only voiced in English, we decided not to include this easter egg to other languages. Just ignore it. ;)
 		"german": "Für all jene, die den Bergbau als ihre einzig wahre Berufung betrachten. Der Abbau von Stein, Kristallen und Eisenerz nimmt viel weniger Zeit in Anspruch.  ",	
 	},
 	"equipmentName_scholarRobe0": {
-		"english": "Simple Scholar's Robes",
+		"english": "Apprentice Scholar's Robes",
 		"german": "Einfache Gelehrtenrobe",
 	},
 	"equipmentDescription_scholarRobe0": {
@@ -370,33 +385,35 @@
 		"german": "Mit dieser luftigen wie bequemen Robe forschen deine Gelehrten etwas schneller.",	
 	},
 	"equipmentName_scholarRobe1": {
-		"english": "Scholar's Robes",
-		"german": "Gelehrtenrobe",
+		"english": "Master Scholar's Robes",
+		"german": "Meistergelehrtenrobe",
 	},
 	"equipmentDescription_scholarRobe1": {
 		"english": "These noble robes emphazize the high rank of their bearer. Scholars resach new technologies way faster.",
 		"german": "Diese edle Robe betont den hohen Rang ihres Trägers. Gelehrte erforschen neue Technologien in Windeseile.",	
 	},
 	"equipmentName_doctorRobe0": {
-		"english": "Simple Doctor's Robes",
+		"english": "Apprentice Doctor's Robes",
 		"german": "Einfache Arztrobe",
 	},
 	"equipmentDescription_doctorRobe0": {
-		"english": "Offers minor protection agains contageous diseases. Very useful for doctors as they have much contact with their ill patients.",
+		"english": "Offers minor protection against contagious diseases. Very useful for doctors as they have a lot of contact with their ill patients.",
 		"german": "Bietet einen geringen Schutz gegen ansteckende Krankheiten. Sehr nützlich für Ärzte, da sie viel Kontakt mit ihren kranken Patienten haben.",	
 	},
 	"equipmentName_doctorRobe1": {
-		"english": "Doctor's Robes",
-		"german": "Arztrobe",
+		"english": "Master Doctor's Robes",
+		"german": "Meisterarztrobe",
 		"french": "Blouse de Docteur",
 		"spanish": "Bata de doctor",
 		"bulgarian": "Дрехата на доктора",
 		"turkish": "Doktor Forması",
 		"portuguese": "Manto do Médico",
 		"polish": "Szata lekarza",
+		"russian": "Белый халат",
+		"ukrainian": "Білий халат",
 	},
 	"equipmentDescription_doctorRobe1": {
-		"english": "Protects the wearer from contagious diseases. Very useful for doctors as they have much contact with their ill patients.",
+		"english": "Protects the wearer from contagious diseases. Very useful for doctors as they have a lot of contact with their ill patients.",
 		"german": "Schützt den Träger vor ansteckenden Krankheiten. Sehr nützlich für Ärzte, da sie viel Kontakt mit ihren kranken Patienten haben.",
 		"french": "Protège le porteur des maladies contagieuses. Très utile pour les docteurs qui sont au contact avec leurs patients malades.",
 		"spanish": "Protege al portador de enfermedades contagiosas. Muy útil para los doctores, que tienen contacto con pacientes enfermos.",
@@ -404,40 +421,40 @@
 		"turkish": "Kullanıcıyı bulaşıcı hastalıklardan korur. Hastaları ile çok fazla temasta oldukları için doktorlar için çok faydalıdır.",
 		"portuguese": "Protege o usuário de doenças contagiosas. Muito útil para os médicos, pois eles têm muito contato com seus pacientes doentes.",
 		"polish": "Chroni użytkownika przed chorobami zakaźnymi. Bardzo przydatne dla lekarzy, ponieważ mają dużo kontaktu z chorymi pacjentami.",
+		"russian": "Защищает владельца от заразных болезней. Очень полезно для врачей, так как они много общаются со своими больными пациентами.",
+		"ukrainian": "Захищає власника від заразних хвороб. Дуже корисно для лікарів, так як вони багато спілкуються зі своїми хворими пацієнтами.",
 	},
 	"equipmentName_farmerGear0": {
-		"english": "Simple Farmer's Clothes",
+		"english": "Apprentice Farmer's Clothes",
 		"german": "Einfache Bauernkleidung",
 	},
-	"equipmentDescription_farmerOutfit0": {
-		"english": "Equipped With this piece of work clothing farmers work more efficiently. Sowing and watering takes a little less time!",
+	"equipmentDescription_farmerGear0": {
+		"english": "Equipped with this piece of clothing, farmers work more efficiently. Sowing and watering takes a little less time!",
 		"german": "Mit dieser Arbeitskleidung können sich deine Bauern etwas mehr ins Zeug legen. Säen und Gießen nimmt etwas weniger Zeit in Anspruch!",
 	},
 	"equipmentName_farmerGear1": {
-		"english": "Farmer's Clothes",
-		"german": "Bauernkleidung",
+		"english": "Master Farmer's Clothes",
+		"german": "Meisterbauernkleidung",
 		"french": "Tenue de Fermier",
 		"spanish": "Traje de granjero",
 		"bulgarian": "Фермерски дрехи",
 		"turkish": "Çiftçi Giysileri",
 		"portuguese": "Roupas de agricultor",
 		"polish": "Ubranie rolnika",
+		"russian": "Фермерская одежда",
+		"ukrainian": "Фермерський одяг",
 	},
-	"equipmentDescription_farmerOutfit1": {
-		"english": "This robust piece of work clothing is perfectly suited for working the fields. Wearing this, most farmers can sow their fields in half the time!",
+	"equipmentDescription_farmerGear1": {
+		"english": "This robust piece of clothing is perfectly suited for working the fields. Wearing this, farmers can sow their fields in almost half the time!",
 		"german": "Dieses robuste Stück Arbeitskleidung eignet sich perfekt für Feldarbeit. Säen und Gießen nimmt viel weniger Zeit in Anspruch!",
-		//TODO-french
-		//TODO-spanish
-		//TODO-bulgarian
-		//TODO-turkish
-		//TODO-portugese
-		//TODO-polish
-		"french": "Ce vêtement de travail robuste est parfaitement adapté pour le travail dans les champs.",
-		"spanish": "Esta vestimenta de trabajo es adecuada para trabajar en los cultivos.",
-		"bulgarian": "Това надеждно работно облекло е идеално за работа на полетата.",
-		"turkish": "Bu sağlam iş kıyafeti tarlalarda çalışmak için mükemmel bir uyum sağlar.",
-		"portuguese": "Esta peça robusta de trabalho é perfeitamente adequada para trabalhar nos campos. ",
-		"polish": "Ta solidna odzież robocza doskonale nadaje się do pracy na polach.",
+		"french": "Ce vêtement de travail robuste est parfaitement adapté pour le travail dans les champs. En le portant, les fermiers peuvent semer leurs champs deux fois plus vite !",
+		"spanish": "Esta vestimenta de trabajo es adecuada para trabajar en los cultivos. Si un granjero lo lleva podrá sembrar en la mitad de tiempo.",
+		"bulgarian": "Това надеждно работно облекло е идеално за работа на полетата. Носеики това повечето фермери може да засаждат техните полета двойно по бързо!",
+		"turkish": "Bu sağlam iş kıyafeti tarlalarda çalışmak için mükemmel bir uyum sağlar. Bunu giyerek çoğu çiftçi tarlalarını yarı zamanda ekebilir!",
+		"portuguese": "Esta peça robusta de trabalho é perfeitamente adequada para trabalhar nos campos. Usando isso, a maioria dos agricultores pode semear seus campos na metade do tempo!",
+		"polish": "Ta solidna odzież robocza doskonale nadaje się do pracy na polach. Nosząc ją, większość rolników może zasiać pole dwa razy szbciej!",
+		"russian": "Эта рабочая одежда идеально подходит для работы на полях. При этом большинство фермеров смогут высеивать поля вдвое быстрее!",
+		"ukrainian": "Ця робочий одяг ідеально підходить для роботи на полях. При цьому більшість фермерів зможуть висівати поля вдвічі швидше!",
 	},
 	"equipmentName_traderGear": {
 		"english": "Trader's Garments",
@@ -447,14 +464,18 @@
 		"turkish": "Tüccar giysisi",
 		"portuguese": "Roupas do comerciante",
 		"polish": "Ubiór przedsiębiorcy",
+		"russian": "Одежда торговца",
+		"ukrainian": "Одяг торговця",
 	},
 	"equipmentDescription_traderGear": {
-		"english": "A magnificent garment, that is very popular with traders",
+		"english": "A magnificent garment, that is very popular with traders.",
 		"german": "Ein prachtvolles Gewand, dass vor allem von Händlern getragen wird.",
-		"french": "Une tenue magnifique, très populaire des marchands",
+		"french": "Une tenue magnifique, très populaire des marchands.",
 		"spanish": "Un magnífico traje, muy popular entre los comerciantes.",
-		"turkish": "Tüccarlar arasında çok popüler olan muhteşem bir giysi",
-		"portuguese": "Uma peça magnífica, muito popular entre os comerciantes",
-		"polish": "Wspaniały strój, który jest bardzo popularny wśród kupców",
+		"turkish": "Tüccarlar arasında çok popüler olan muhteşem bir giysi.",
+		"portuguese": "Uma peça magnífica, muito popular entre os comerciantes.",
+		"polish": "Wspaniały strój, który jest bardzo popularny wśród kupców.",
+		"russian": "Изумительная одежда. Пользуется популярностью у торговцев.",
+		"ukrainian": "Дивовижний одяг. Користується популярністю у торговців.",
 	},
 }

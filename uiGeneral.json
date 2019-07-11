@@ -56,6 +56,14 @@
 		"ukrainian":"Вихід",
 		"russian":"Выход",
 	},
+	"website": {
+		"english": "Website",
+		"german": "Webseite",
+	},
+	"forum": {
+		"english": "Forum",
+		"german": "Forum",
+	},
 	"supportDevelopment": {
 		"english": "Support Development",
 		"german": "Unterstütze die Entwicklung",
@@ -694,6 +702,9 @@
 		"ukrainian":"Мова",
 		"russian":"Язык",
 	},
+
+
+	// Don't translate the languages names from their original. Keep spanish "Español" for every language for example.
 	"english": {
 		"english": "English",
 		"german": "English",
@@ -739,26 +750,26 @@
 		"russian":"Español",
 	},
 	"portuguese": {
-		"english": "Portuguese",
-		"german": "Portugiesisch",
+		"english": "Portuges",
+		"german": "Portuges",
 		"french": "Portuges",
-		"spanish": "Portugués",
+		"spanish": "Portuges",
 		"turkish": "Portuges",
 		"portuguese": "Portuges",
-		"dutch": "Portuguese",
-		"ukrainian":"Portuguese",
-		"russian":"Portuguese",
+		"dutch": "Portuges",
+		"ukrainian":"Portuges",
+		"russian":"Portuges",
 	},
 	"turkish": {
-		"english": "Turkish",
-		"german": "Türkisch",
+		"english": "Türkçe",
+		"german": "Türkçe",
 		"french": "Türkçe",
-		"spanish": "Turco",
+		"spanish": "Türkçe",
 		"turkish": "Türkçe",
-		"portuguese": "Turco",
-		"dutch": "Turkish",
-		"ukrainian":"Turkish",
-		"russian":"Turkish",
+		"portuguese": "Türkçe",
+		"dutch": "Türkçe",
+		"ukrainian":"Türkçe",
+		"russian":"Türkçe",
 	},
 	"dutch": { 
 		"english": "Nederlands",

@@ -59,10 +59,12 @@
 	"website": {
 		"english": "Website",
 		"german": "Webseite",
+		"russian":"Сайт",
 	},
 	"forum": {
 		"english": "Forum",
 		"german": "Forum",
+		"russian":"Форум",
 	},
 	"supportDevelopment": {
 		"english": "Support Development",
@@ -257,6 +259,7 @@
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
 		"german": "Keine",
+		"russian":"Отсутствуют",
 	},
 
 
@@ -266,50 +269,62 @@
 	"modsAndExtraContent": {
 		"english": "Mods and Extra Content",
 		"german": "Mods und Zusatzinhalte",
+		"russian":"Моды и доп. контент",
 	},
 	"modsAndExtraContent": {
 		"english": "Mods and Extra Content",
 		"german": "Mods und Zusatzinhalte",
+		"russian":"Моды и доп. контент",
 	},
 	"author": {
 		"english": "Author",
 		"german": "Autor",
+		"russian":"Автор",
 	},
 	"active": {
 		"english": "Active",
 		"german": "aktiv",
+		"russian":"Активен",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
 		"german": "Du hast keine Mods oder Zusatzinhalte installiert.",
+		"russian":"У вас нет установленных модификаций или доп. контента.",
 	},
 	"modsOnRoadmap": {
 		"english": "Mod Support is currently on our Roadmap.\nOur supporters use this menu to manage their supporter packages.",
 		"german": "Modunterstützung ist auf unserer Roadmap.\nUnsere Unterstützer benutzen dieses Menü, um ihre Supporter Packages zu verwalten.",
+		"russian":"Поддержка модификаций будет реализована в будующем.\nЭто меню используют наши помощники для управления их пакетами.",
 	},
 	"openModFolder": {
 		"english": "Open Mod Folder",
 		"german": "Modordner öffnen",
+		"russian":"Открыть католог",
 	},
 	"modCompatible_Title": {
 		"english": "Content compatible",
 		"german": "Inhalt kompatibel",
+		"russian":"Контент совместим",
 	},
 	"modCompatible_Text": {
 		"english": "This content has been marked by the developers as compatible.",
 		"german": "Dieser Inhalt wurde von den Entwicklern als kompatibel markiert.",
+		"russian":"Этот контент был отмечен разработчиками как совместимый.",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
 		"german": "Inhalt inkompatibel",
+		"russian":"Контент не совместим",
 	},
 	"modIncompatible_Text": {
 		"english": "This content has been marked by the developers as incompatible.\nYou need to update it in order to activate it.",
 		"german": "Dieser Inhalt wurde von den Entwicklern als inkompatibel markiert.\nDu benötigst ein Update um ihn zu aktivieren.",
+		"russian":"Этот контент был отмечен разработчиками как несовместимый.\nВам нужно обновить его перед активацией.",
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
 		"german": "Anwenden und Neustarten",
+		"russian":"Применить и перезапустить",
 	},
 	
 
@@ -1077,6 +1092,7 @@
 	"precisionPlacement": {
 		"english": "Precision Placement",
 		"german": "Präzise Platzierung",
+		"russian":"Точность размещения",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",

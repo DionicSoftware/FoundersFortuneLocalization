@@ -2,6 +2,7 @@
 	"xUnitsOfResource": { // For example "+1 wood": The "+1" is %amount% and "wood" is %resource%
 		"english": "%amount% %resource%",
 		"german": "%amount% %resource%",
+		"french": "%amount% %resource%",
 		"ukrainian":"%amount% од. %resource%",
 		"russian": "%amount% ед. %resource%"
 	},
@@ -568,9 +569,11 @@
 	"resourceName_Beer": {
 		"english": "Beer",
 		"german": "Bier",
+		"french": "Bière",
 	},
 	"resourceDescription_Beer": {
 		"english": "Made out of carefully selected pumpkins and only the finest wheat grain. Has a rich and roasty flavor",
 		"german": "Aus handverlesenen Kürbisen und bestem Weizenkorn gebraut. Characktervoll und feinwürzig im Trunk.",
+		"french": "Fabriquée à partir de citrouilles soigneusement sélectionnées et avec le meilleur grain de blé. A une saveur riche et torréfiée",
 	},
 }

@@ -1,6 +1,7 @@
 ﻿{
-	"xUnitsOfResource": {
+	"xUnitsOfResource": { // For example "+1 wood": The "+1" is %amount% and "wood" is %resource%
 		"english": "%amount% %resource%",
+		"german": "%amount% %resource%",
 		"ukrainian":"%amount% од. %resource%",
 		"russian": "%amount% ед. %resource%"
 	},
@@ -567,13 +568,6 @@
 	"resourceName_Beer": {
 		"english": "Beer",
 		"german": "Bier",
-	},
-	"resourceDescription_Coins": {
-	},
-	"resourceName_Beer": {
-		"english": "Beer",
-		"german": "Bier",
-		
 	},
 	"resourceDescription_Beer": {
 		"english": "Made out of carefully selected pumpkins and only the finest wheat grain. Has a rich and roasty flavor",

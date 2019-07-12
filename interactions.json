@@ -202,6 +202,7 @@
 	"Deconstruct": { // letting a colonist remove furniture
 		"english": "Remove",
 		"german": "Abbauen",
+		"russian": "Сломать",
 	},
 	"Fight": {
 		"english": "Fight",
@@ -819,6 +820,7 @@
 	"interaction_brewBeer": {
 		"english": "Brew Beer",
 		"german": "Bier brauen",
+		"russian": "Варить пиво",
 	},
 	"Talk": {
 		"english": "Talk",
@@ -919,42 +921,52 @@
 	"LockUp": {
 		"english": "Lock Up",
 		"german": "Einsperren",
+		"russian": "Запереть",
 	},
 	"FreeColonist": {
 		"english": "Free colonist",
 		"german": "Kolonisten befreien",
+		"russian": "Освободить колониста",
 	},
 	"FreeColonistFirstName": {
 		"english": "Free %firstName%",
 		"german": "%firstName% befreien",
+		"russian": "Освободить %firstName%",
 	},
 	"DrinkBeer": {
 		"english": "Drink Beer",
 		"german": "Bier trinken",
+		"russian": "Выпить пиво",
 	},
 	"Dance": {
 		"english": "Dance",
 		"german": "Tanzen",
+		"russian": "Танцевать",
 	},
 	"Enjoy": {
 		"english": "Enjoy",
 		"german": "Genießen",
+		"russian": "Наслаждаться",
 	},
 	"EnjoyFire": {
 		"english": "Enjoy Fire",
 		"german": "Feuer genießen",
+		"russian": "Наслаждаться огнем",
 	},
 	"Drum": {
 		"english": "Drum",
 		"german": "Trommeln",
+		"russian": "Барабан",
 	},
 	"Hug": {
 		"english": "Hug",
 		"german": "Umarmen",
+		"russian": "Обнять",
 	},
 	"Cheer": {
 		"english": "Cheer",
 		"german": "Jubeln",
+		"russian": "За ваше здоровье!",
 	},
 
 
@@ -974,14 +986,17 @@
 	"firstNameIsUsingThat": {
 		"english": "%firstName% is using that",
 		"german": "%firstName% verwendet das gerade",
+		"russian": "%firstName% использует это",
 	},
 	"goblinIsUsingThat": {
 		"english": "Goblin is using that",
 		"german": "Ein Goblin verwendet das gerade",
+		"russian": "Гоблин использует это",
 	},
 	"visitorIsUsingThat": { // visitors like migrants or traders
 		"english": "A visitor is using that",
 		"german": "Ein Besucher verwendet das gerade",
+		"russian": "Посетитель использует это",
 	},
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",
@@ -1006,6 +1021,7 @@
 	"cantInteractIsLockedUp": {
 		"english": "Colonist is locked up",
 		"german": "Kolonist ist eingesperrt",
+		"russian": "Колонист взаперти",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",

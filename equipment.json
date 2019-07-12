@@ -87,6 +87,7 @@
 	"equipmentDescription_axeWood": {
 		"english": "Gets 50% more wood out of trees. It's better than nothing.",
 		"german": "Erhält 50% mehr Holz aus Bäumen. Es ist besser als nichts.",
+		"russian": "Позволяет получать на 50% больше бревен с деревьев. Это лучше, чем ничего.",
 	},
 	"equipmentName_axeStone": {
 		"english": "Stone Axe",
@@ -102,6 +103,7 @@
 	"equipmentDescription_axeStone": {
 		"english": "Gets double the amount of wood out of trees. Finally we can do some serious construction!",
 		"german": "Erhält den doppelten Betrag an Holz aus Bäumen. Zeit für den Ausbau!",
+		"russian": "Позволяет получать в два раза больше бревен с дерева. Теперь мы сможем серьезно заняться строительством!",
 	},
 	"equipmentName_axeIron": {
 		"english": "Iron Axe",
@@ -117,6 +119,7 @@
 	"equipmentDescription_axeIron": {
 		"english": "Gets 150% more wood out of trees. Are you ready to build an empire out of wood?",
 		"german": "Erhält 150% mehr Holz aus Bäumen. Bist du bereit ein Imperium aus Holz zu bauen?",
+		"russian": "Позволяет получать на 150% больше бревен с деревьев. Вы уже готовы построить свою деревянную империю?",
 	},
 
 // Pickaxes
@@ -136,6 +139,7 @@
 	"equipmentDescription_pickaxeWood": {
 		"english": "Gets 50% more resources out of mining. Someone said kicking wasn't that healthy.",
 		"german": "Erhält 50% mehr Ressourcen aus Bergarbeit. Jemand meinte, das Treten von Steinen sei nicht so gesund.",
+		"russian": "Позволяет получать на 50% больше ресурсов с добычи. Кто-то сказал, что добыча ресурсов ногой - не лучшая идея.",
 	},
 	"equipmentName_pickaxeStone": {
 		"english": "Stone Pickaxe",
@@ -151,6 +155,7 @@
 	"equipmentDescription_pickaxeStone": {
 		"english": "Gets double the amount of resources out of mining. What are you going to do with all this stone and iron?",
 		"german": "Erhält den doppelten Betrag an Ressourcen aus Bergarbeit. Was wirst du mit all dem Stein und Eisen machen?",
+		"russian": "Позволяет получать в два раза больше ресурсов с добычи. Что же делать с таким количеством камня и железа?",
 	},
 	"equipmentName_pickaxeIron": {
 		"english": "Iron Pickaxe",
@@ -166,6 +171,7 @@
 	"equipmentDescription_pickaxeIron": {
 		"english": "Gets 150% more resources out of mining. No pebble left untouched!",
 		"german": "Erhält 150% mehr Ressourcen aus Bergarbeit. Kein Kiesel wird zurückgelassen!",
+		"russian": "Позволяет получать на 150% больше ресурсов с добычи. Ни один камень не останется нетронутым!",
 	},
 
 // Bows
@@ -286,19 +292,23 @@
 	"equipmentName_armorGambeson": {
 		"english": "Gambeson",
 		"german": "Gambeson",
+		"russian": "Гамбезон",
 	},
 	"equipmentDescription_armorGambeson": {
 		"english": "The basic equipment of every wannabe warrior.",
 		"german": "Die Basisausrüstung für jeden Möchtegern-Krieger.",
+		"russian": "Базовое снаряжение для войнов.",
 	},
 
 	"equipmentName_armorSimplePlate": {
 		"english": "Simple Plate Armor",
 		"german": "Einfache Plattenrüstung",
+		"russian": "Простая латная броня",
 	},
 	"equipmentDescription_armorLight": {
 		"english": "Focusing on the essentials, this armor suits part time soldiers just fine.",
 		"german": "Beschränkt sich auf das Wesentliche. Eine Rüstung für wahre Teilzeitsoldaten.",
+		"russian": "Ориентируясь на нужды, эта броня отлично подойдет солдатам, занятым неполный рабочий день.",
 	},
 	"equipmentName_armorIron": {
 		"english": "Iron Armor",
@@ -331,74 +341,92 @@
 	"equipmentName_craftsmanGear0": {
 		"english": "Apprentice Craftsman's Clothes",
 		"german": "Einfache Handwerkerkleidung",
+		"russian": "Одежда начинающего ремесленника",
 	},
 	"equipmentDescription_craftsmanGear0": {
 		"english": "With these comfortable clothes, craftsmen work a bit faster.",
 		"german": "Mit dieser bequemen Arbeitskleidung können Handwerker etwas schneller arbeiten.",	
+		"russian": "С этой удобной одеждой ремесленники работают немного быстрее.",
 	},
 	"equipmentName_craftsmanGear1": {
 		"english": "Master Craftsman's Clothes",
 		"german": "Meisterhandwerkerkleidung",
+		"russian": "Одежда продвинутого ремесленника",
 	},
 	"equipmentDescription_craftsmanGear1": {
 		"english": "Clothing for true master craftsmen. Your settlers will work significantly faster.",
 		"german": "Kleidung für wahre Handwerksmeister. Deine Siedler arbeitet um einiges schneller.",	
+		"russian": "Одежда для настоящего ремесленника. Ваши поселенцы будут работать значительно быстрее.",
 	},
 	"equipmentName_foresterGear0": {
 		"english": "Apprentice Forester's Clothes",
 		"german": "Einfache Försterkleidung",
+		"russian": "Одежда начинающего лесоруба",
 	},
 	"equipmentDescription_foresterGear0": {
 		"english": "With the right equipment, forest work is so much easier. These clothes will enable your Foresters to work a little bit faster.",
 		"german": "Mit der richtigen Ausstattung wird die Forstarbeit doch gleich viel leichter. Förster arbeiten etwas schneller.",	
+		"russian": "С экипировкой работать в лесу намного проще. Эта одежда позволит вашим лесорубам работать немного быстрее.",
 	},
 	"equipmentName_foresterGear1": {
 		"english": "Master Forester's Clothes",
 		"german": "Meisterförsterkleidung",
+		"russian": "Одежда продвинутого лесоруба",
 	},
 	"equipmentDescription_foresterGear1": {
 		"english": "Working gear that will scare the hell out of all nearby trees. Foresters work a lot faster",
 		"german": "Eine Arbeitsmontur, die alle Bäume im näheren Umkreis vor Angst erstarren lassen wird. Förster arbeiten viel schneller.",	
+		"russian": "Эта экипировка заставит деревья дрожать перед вами! Ваши лесорубы будут работать значительно быстрее.",
 	},
 	"equipmentName_minerGear0": {
 		"english": "Apprentice Miner's Clothes",
 		"german": "Einfache Bergarbeiterkleidung",
+		"russian": "Одежда начинающего шахтера",
 	},
 	"equipmentDescription_minerGear0": {
 		"english": "Makes all the hard work slightly more bearable. Miners will work a bit faster.",
 		"german": "Macht all die harte Arbeit etwas erträglicher. Bergarbeiter erledigen ihre Arbeit etwas schneller.",	
+		"russian": "Делает тяжелые будни шахтера не такими уж и тяжелыми. Шахтеры будут работать немного быстрее.",
 	},
 	"equipmentName_minerGear1": {
 		"english": "Master Miner's Clothes",
 		"german": "Meisterbergarbeiterkleidung",
+		"russian": "Одежда продвинутого шахтера.",
 	},
 	"equipmentDescription_minerGear1": {
 		"english": "For passionate miners that can't imagine life without a pickaxe in their hands. Mining stone, crystals and iron ore takes way less time. \"Rock and stone, brother!\"", // The last sentence is a quote from Deep Rock Galactic. As it is only voiced in English, we decided not to include this easter egg to other languages. Just ignore it. ;)
 		"german": "Für all jene, die den Bergbau als ihre einzig wahre Berufung betrachten. Der Abbau von Stein, Kristallen und Eisenerz nimmt viel weniger Zeit in Anspruch.  ",	
+		"russian": "Для шахтеров, которые не могут представить свою жизнь без кирки в руках. Добыча камня, кристаллов и железной руды занимает гораздо меньше времени.",
 	},
 	"equipmentName_scholarRobe0": {
 		"english": "Apprentice Scholar's Robes",
 		"german": "Einfache Gelehrtenrobe",
+		"russian": "Одежда начинающего ученого",
 	},
 	"equipmentDescription_scholarRobe0": {
 		"english": "With these airy and comfortable robes, your scholars will do their research slightly faster.",
 		"german": "Mit dieser luftigen wie bequemen Robe forschen deine Gelehrten etwas schneller.",	
+		"russian": "С такой невероятно удобной одеждой ваши ученые будут проводить свои исследования немного быстрее.",
 	},
 	"equipmentName_scholarRobe1": {
 		"english": "Master Scholar's Robes",
 		"german": "Meistergelehrtenrobe",
+		"russian": "Одежда продвинутого ученого",
 	},
 	"equipmentDescription_scholarRobe1": {
 		"english": "These noble robes emphazize the high rank of their bearer. Scholars resach new technologies way faster.",
-		"german": "Diese edle Robe betont den hohen Rang ihres Trägers. Gelehrte erforschen neue Technologien in Windeseile.",	
+		"german": "Diese edle Robe betont den hohen Rang ihres Trägers. Gelehrte erforschen neue Technologien in Windeseile.",
+		"russian": "Эта благородная одежда подчеркивает высокий статус своего носителя. Ученые будут проводить исследования намного быстрее.",	
 	},
 	"equipmentName_doctorRobe0": {
 		"english": "Apprentice Doctor's Robes",
 		"german": "Einfache Arztrobe",
+		"russian": "Одежда начинающего врача",
 	},
 	"equipmentDescription_doctorRobe0": {
 		"english": "Offers minor protection against contagious diseases. Very useful for doctors as they have a lot of contact with their ill patients.",
 		"german": "Bietet einen geringen Schutz gegen ansteckende Krankheiten. Sehr nützlich für Ärzte, da sie viel Kontakt mit ihren kranken Patienten haben.",	
+		"russian": "Предоставляет незначительную защиту от заболеваний. Очень полезно для врачей, так как они много общаются со своими больными пациентами.",
 	},
 	"equipmentName_doctorRobe1": {
 		"english": "Master Doctor's Robes",
@@ -409,7 +437,7 @@
 		"turkish": "Doktor Forması",
 		"portuguese": "Manto do Médico",
 		"polish": "Szata lekarza",
-		"russian": "Белый халат",
+		"russian": "Одежда продвинутого врача",
 		"ukrainian": "Білий халат",
 	},
 	"equipmentDescription_doctorRobe1": {
@@ -427,10 +455,12 @@
 	"equipmentName_farmerGear0": {
 		"english": "Apprentice Farmer's Clothes",
 		"german": "Einfache Bauernkleidung",
+		"russian": "Одежда начинающего фермера",
 	},
 	"equipmentDescription_farmerGear0": {
 		"english": "Equipped with this piece of clothing, farmers work more efficiently. Sowing and watering takes a little less time!",
 		"german": "Mit dieser Arbeitskleidung können sich deine Bauern etwas mehr ins Zeug legen. Säen und Gießen nimmt etwas weniger Zeit in Anspruch!",
+		"russian": "С этой одеждой фермеры работают более эффективно. Посев и полив занимает чуть меньше времени.",
 	},
 	"equipmentName_farmerGear1": {
 		"english": "Master Farmer's Clothes",
@@ -441,7 +471,7 @@
 		"turkish": "Çiftçi Giysileri",
 		"portuguese": "Roupas de agricultor",
 		"polish": "Ubranie rolnika",
-		"russian": "Фермерская одежда",
+		"russian": "Одежда продвинутого фермера",
 		"ukrainian": "Фермерський одяг",
 	},
 	"equipmentDescription_farmerGear1": {

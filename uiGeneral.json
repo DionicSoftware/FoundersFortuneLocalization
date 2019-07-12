@@ -1,4 +1,4 @@
-﻿{
+{
 
 	// MAIN MENU
 	"newGame": {
@@ -61,12 +61,14 @@
 		"german": "Webseite",
 		"french": "Site Internet",
 		"russian":"Сайт",
+		"portuguese": "Site",
 	},
 	"forum": {
 		"english": "Forum",
 		"german": "Forum",
 		"french": "Forum",
 		"russian":"Форум",
+		"portuguese": "Fórum",
 	},
 	"supportDevelopment": {
 		"english": "Support Development",
@@ -263,6 +265,7 @@
 		"german": "Keine",
 		"french": "Aucun",
 		"russian":"Отсутствуют",
+		"portuguese": "Nenhum",
 	},
 
 
@@ -274,72 +277,84 @@
 		"german": "Mods und Zusatzinhalte",
 		"french": "Mods et Contenu Supplémentaire",
 		"russian":"Моды и доп. контент",
+		"portuguese": "Mods e Conteúdo Extra",
 	},
 	"modsAndExtraContent": {
 		"english": "Mods and Extra Content",
 		"german": "Mods und Zusatzinhalte",
 		"french": "Mods et Contenu Supplémentaire",
 		"russian":"Моды и доп. контент",
+		"portuguese": "Mods e Conteúdo Extra",
 	},
 	"author": {
 		"english": "Author",
 		"german": "Autor",
 		"french": "Auteur",
 		"russian":"Автор",
+		"portuguese": "Autor",
 	},
 	"active": {
 		"english": "Active",
 		"german": "aktiv",
 		"french": "Actif",
 		"russian":"Активен",
+		"portuguese": "Ativo",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
 		"german": "Du hast keine Mods oder Zusatzinhalte installiert.",
 		"french": "Vous n'avez aucun mods ou contenu supplémentaire installé",
 		"russian":"У вас нет установленных модификаций или доп. контента.",
+		"portuguese": "Você não tem nenhum mod ou conteúdo extra instalado.",
 	},
 	"modsOnRoadmap": {
 		"english": "Mod Support is currently on our Roadmap.\nOur supporters use this menu to manage their supporter packages.",
 		"german": "Modunterstützung ist auf unserer Roadmap.\nUnsere Unterstützer benutzen dieses Menü, um ihre Supporter Packages zu verwalten.",
 		"french": "Le Mod Support est actuellement sur notre Roadmap.\nNos supporters utilise ce menu pour gérer leurs packs de supporter",
 		"russian":"Поддержка модификаций будет реализована в будующем.\nЭто меню используется для управления модификациями.",
+		"portuguese": "O Suporte a Mods está atualmente em nosso Roteiro. \nNossos apoiadores usam esse menu para gerenciar seus pacotes de suporte.",
 	},
 	"openModFolder": {
 		"english": "Open Mod Folder",
 		"german": "Modordner öffnen",
 		"french": "Ouvrir le Dossier du Mod",
 		"russian":"Открыть католог",
+		"portuguese": "Abra a pasta Mod",
 	},
 	"modCompatible_Title": {
 		"english": "Content compatible",
 		"german": "Inhalt kompatibel",
 		"french": "Contenu Compatible",
 		"russian":"Контент совместим",
+		"portuguese": "Conteúdo Compatível",
 	},
 	"modCompatible_Text": {
 		"english": "This content has been marked by the developers as compatible.",
 		"german": "Dieser Inhalt wurde von den Entwicklern als kompatibel markiert.",
 		"french": "Ce contenu a été signalé par les développeurs comme compatible.",
 		"russian":"Этот контент был отмечен разработчиками как совместимый.",
+		"portuguese": "Este conteúdo foi marcado pelos desenvolvedores como compatível.",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
 		"german": "Inhalt inkompatibel",
 		"french": "Contenu Incompatible",
 		"russian":"Контент не совместим",
+		"portuguese": "Conteúdo incompatível",
 	},
 	"modIncompatible_Text": {
 		"english": "This content has been marked by the developers as incompatible.\nYou need to update it in order to activate it.",
 		"german": "Dieser Inhalt wurde von den Entwicklern als inkompatibel markiert.\nDu benötigst ein Update um ihn zu aktivieren.",
 		"french": "Ce contenu a été signalé par les développeurs comme incompatible.\nVous devez le mettre à jour pour l'activer.",
 		"russian":"Этот контент был отмечен разработчиками как несовместимый.\nВам нужно обновить его перед активацией.",
+		"portuguese": "Este conteúdo foi marcado pelos desenvolvedores como incompatível. \nVocê precisa atualizá-lo para ativá-lo.",
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
 		"german": "Anwenden und Neustarten",
 		"french": "Appliquer et Redémarrer",
 		"russian":"Применить и перезапустить",
+		"portuguese": "Aplicar e reiniciar",
 	},
 	
 
@@ -1108,6 +1123,7 @@
 		"english": "Precision Placement",
 		"german": "Präzise Platzierung",
 		"russian":"Точность размещения",
+		"portuguese": "Posicionamento de Precisão",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -1541,6 +1557,7 @@
 		"turkish": "Kayıt yüklenemedi",
 		"ukrainian":"Не вдається завантажити файл збереження",
 		"russian":"Невозможно загрузить файл сохранения",
+		"portuguese": "Não é possível carregar o arquivo salvo",
 	},
 	"unableToLoadSaveFileText": {
 		"english": "The game could not read your save file. Sorry!\nPlease try again first. If it keeps happening, send your save file to daniel@foundersfortune.com so I can investigate the error and try to get a fix into the next update.\nThanks for your help!",
@@ -1550,5 +1567,6 @@
 		"turkish": "Kaydınız okunamadı. Üzgünüz!\nLütfen tekrar deneyin. Eğer sorun devam ederse, kaydınızı daniel@foundersfortune.com adresine gönderebilirsiniz, böylece sorunuzu inceleyip ona göre yeni güncellemede olmaması için uğraşabiliriz.\nYardımınız için teşekkürler!",
 		"ukrainian":"Вибачте! Гра не змогла прочитати ваш файл збереження.\nПовторіть спробу знову. Якщо це продовжує відбуватися, надішліть файл збереження на daniel@foundersfortune.com, щоб я міг дослідити помилку і спробувати вирішити цю проблему в наступному оновленні.\nСпасибі за вашу допомогу!",
 		"russian":"К сожалению, игра не смогла прочитать ваш файл сохранения! .\nПожалуйста, попробуйте снова. Если это повторится, отправьте файл сохранения по адресу daniel@foundersfortune.com, чтобы я мог исследовать ошибку и попытаться исправить ее в следующем обновлении.\nСпасибо за вашу помощь!",
+		"portuguese": "O jogo não pôde ler seu arquivo salvo. Desculpe! \nPor favor, tente novamente primeiro. Se continuar acontecendo, envie seu arquivo salvo para daniel@foundersfortune.com para que eu possa investigar o erro e tentar corrigir a próxima atualização. \nAgradecemos sua ajuda!",
 	}
 }

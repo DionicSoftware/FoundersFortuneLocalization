@@ -1,4 +1,4 @@
-﻿{
+{
 
 	// INTERACTIONS
 	"NoInteraction": {
@@ -203,6 +203,7 @@
 		"english": "Remove",
 		"german": "Abbauen",
 		"russian": "Сломать",
+		"portuguese": "Retirar",
 	},
 	"Fight": {
 		"english": "Fight",
@@ -922,51 +923,61 @@
 		"english": "Lock Up",
 		"german": "Einsperren",
 		"russian": "Запереть",
+		"portuguese": "Trancado",
 	},
 	"FreeColonist": {
 		"english": "Free colonist",
 		"german": "Kolonisten befreien",
 		"russian": "Освободить колониста",
+		"portuguese": "Colono livre",
 	},
 	"FreeColonistFirstName": {
 		"english": "Free %firstName%",
 		"german": "%firstName% befreien",
 		"russian": "Освободить %firstName%",
+		"portuguese": "Livre %firstName%",
 	},
 	"DrinkBeer": {
 		"english": "Drink Beer",
 		"german": "Bier trinken",
 		"russian": "Выпить пиво",
+		"portuguese": "Beber cerveja",
 	},
 	"Dance": {
 		"english": "Dance",
 		"german": "Tanzen",
 		"russian": "Танцевать",
+		"portuguese": "Dança",
 	},
 	"Enjoy": {
 		"english": "Enjoy",
 		"german": "Genießen",
 		"russian": "Наслаждаться",
+		"portuguese": "Apreciar",
 	},
 	"EnjoyFire": {
 		"english": "Enjoy Fire",
 		"german": "Feuer genießen",
 		"russian": "Наслаждаться огнем",
+		"portuguese": "Desfrute de fogo",
 	},
 	"Drum": {
 		"english": "Drum",
 		"german": "Trommeln",
 		"russian": "Барабан",
+		"portuguese": "Tambor",
 	},
 	"Hug": {
 		"english": "Hug",
 		"german": "Umarmen",
 		"russian": "Обнять",
+		"portuguese": "Abraço",
 	},
 	"Cheer": {
 		"english": "Cheer",
 		"german": "Jubeln",
 		"russian": "За ваше здоровье!",
+		"portuguese": "Alegria",
 	},
 
 
@@ -987,16 +998,19 @@
 		"english": "%firstName% is using that",
 		"german": "%firstName% verwendet das gerade",
 		"russian": "%firstName% использует это",
+		"portuguese": "%firstName% está usando isso",
 	},
 	"goblinIsUsingThat": {
 		"english": "Goblin is using that",
 		"german": "Ein Goblin verwendet das gerade",
 		"russian": "Гоблин использует это",
+		"portuguese": "Goblin está usando isso",
 	},
 	"visitorIsUsingThat": { // visitors like migrants or traders
 		"english": "A visitor is using that",
 		"german": "Ein Besucher verwendet das gerade",
 		"russian": "Посетитель использует это",
+		"portuguese": "Um visitante está usando isso",
 	},
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",
@@ -1022,6 +1036,7 @@
 		"english": "Colonist is locked up",
 		"german": "Kolonist ist eingesperrt",
 		"russian": "Колонист взаперти",
+		"portuguese": "Colono está trancado",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -1064,6 +1079,7 @@
 		"turkish": "Sezon değişiminden önce yeterli zaman yok",
 		"russian": "Недостаточно времени до смены сезона",
 		"ukrainian":"Недостатньо часу до зміни сезону",
+		"portuguese": "Não há tempo suficiente antes das mudanças da temporada",
 	},
 	"nextTryIn": {
 		"english": "Next Try in",

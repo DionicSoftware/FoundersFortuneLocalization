@@ -77,12 +77,14 @@
         "beerRefillBarrel": {
 		"english": "Beer Barrel",
 		"german": "Bierfass",
+		"french": "Baril de Bière",
 		"russian": "Пивная бочка",
 		"portuguese": "Barril de cerveja",
 	},
 	"beerRefillBarrelDescription": {
 		"english": "As a means of storage and the origin of fresh beer, beer barrel is of high importance to all colonies out there (Well, as long as there is some left in there...). You'll see how happy your colonists get when you allow them to fill up their mugs. Cheers!",
 		"german": "Als Aufbewahrungsort und Quelle des goldenen Gerstensaftes haben Bierfässer einen ganz hohen Stellenwert in jeder Kolonie (Naja, zumindest solange sie auch wohl gefüllt sind...). Du wirst sehen mit welcher Vorfreude deine Kolonisten zum Zapfen schreiten werden. Zum Wohl!",
+		"french": "En tant que moyen de stockage et origine de la bière fraîche, le tonneau de bière revêt une grande importance pour toutes les colonies qui s'y trouvent (tant qu’il en restera dedans ...). Vous verrez à quel point vos colons sont heureux lorsque vous leur permettez de remplir leur tasse. À votre santé !",
 		"russian": "Пивная бочка отлично подойдет для хранения и изготовления пива. Она очень востребованна колонистами (Ну, пока она не опустошится...). Вы сразу увидите, как настроение ваших колонистов поднимется после употребления этого пшеничного напитка. Ура!",
 		"portuguese": "Como um meio de armazenamento e a origem da cerveja fresca, barril de cerveja é de grande importância para todas as colônias lá fora (Bem, contanto que haja algum deixado lá ...). Você verá como seus colonos ficam felizes quando você lhes permite encher suas canecas. Felicidades!",
 	},
@@ -1194,12 +1196,14 @@
 	"tableBeer0": {
 		"english": "Beer Table",
 		"german": "Biertisch",
+		"french": "Table de bière",
 		"russian": "Пивной стол",
 		"portuguese": "Mesa de cerveja",
 	},
 	"tableBeer0Description": {
 		"english": "The perfect table to enjoy a cold, smooth beer. Has a \"Oktoberfest\" vibe to it!",
 		"german": "Der perfekte Tisch, um ein gekühltes, süffiges Bier zu genießen. Da kommt Volksfeststimmung auf!",
+		"french": "La table parfaite pour savourer une bière dousse et froide. A une ambiance Oktoberfest !",
 		"russian": "Идеальное место для употребления холодного, вкусного пива. Почувствуйте себя на Октоберфесте!",
 		"portuguese": "A mesa perfeita para desfrutar de uma cerveja gelada e suave. Tem uma vibe Oktoberfest para ele!",
 	},
@@ -1504,12 +1508,14 @@
 	"benchBeer0": {
 		"english": "Beer Table",
 		"german": "Biertisch",
+		"french": "Table de Bière",
 		"russian": "Пивной стол",
 		"portuguese": "Mesa de cerveja",
 	},
 	"benchBeer0Description": {
 		"english": "The perfect table to enjoy a cold, smooth beer. Has a \"Oktoberfest\" vibe to it!",
 		"german": "Der perfekte Tisch, um ein gekühltes, süffiges Bier zu genießen. Da kommt Volksfeststimmung auf!",
+		"french": "La table parfaite pour savourer une bière dousse et froide. A une ambiance Oktoberfest !",
 		"russian": "Идеальное место для употребления холодного, вкусного пива. Почувствуйте себя на Октоберфесте!",
 		"portuguese": "A mesa perfeita para desfrutar de uma cerveja gelada e suave. Tem um Oktoberfest vibe para ele!",
 	},
@@ -1983,6 +1989,7 @@
 	"brewery": {
 		"english": "Brewery",
 		"german": "Brauerei",
+		"french": "Brasserie",
 		"russian": "Пивоварня",
 		"portuguese": "Cervejaria",
 	},
@@ -1992,12 +1999,14 @@
 	"brewery": {
 		"english": "Brewery",
 		"german": "Brauerei",
+		"french": "Brasserie",
 		"russian": "Пивоварня",
 		"portuguese": "Cervejaria",
 	},
 	"breweryDescription": {
 		"english": "This masterpiece of brewing technology enables you to brewing the finest beer for your colony. All you need now is an experienced brewmaster and you can get started!",
 		"german": "Mit diesem Wunderwerk der Brautechnik lässt sich das feinste Bier für deine Kolonie herstellen. Alles was du jetzt noch brauchst ist ein erfahrener Braumeister und es kann losgehen!",
+		"french": "Ce chef-d’œuvre de la technologie brassicole vous permet de brasser la meilleure bière pour votre colonie. Tout ce dont vous avez besoin maintenant, c'est d'un maître brasseur expérimenté et vous pouvez commencer !",
 		"russian": "Это прекрасное приспособление позволит вам изготавливать лучшее пиво для своей колонии! Для работы необходим опытный пивовар.",
 		"portuguese": "Esta obra-prima da tecnologia cervejeira permite preparar a melhor cerveja para a sua colônia. Tudo que você precisa agora é um mestre cervejeiro experiente e você pode começar!",
 	},
@@ -2179,10 +2188,9 @@
 	"farmStrawberrySoilDescription": {
 		"english": "Strawberries are *delicious*. You can just enjoy them as they are, but they are also the ingredients to some of the best meals there are, like fruit salad or strawberry cake. Strawberries need to be sown early, as they only grow in spring. They grow slowly but yield more food per harvest.",
 		"german": "Erdbeeren sind *köstlich*. Du kannst sie einfach so genießen, aber sie sind auch Zutaten für einige der besten Mahlzeiten die es gibt, wie Obstsalat oder Erdbeerkuchen. Erdbeeren müssen früh gesät werden, da sie nur im Frühling wachsen. Zwar dauert es recht lange bis sie reif sind, dafür bringen sie aber einen höheren Ertrag.",
-		//TODO-french
 		//TODO-spanish
 		//TODO-turkish
-		"french": "Les fraises sont délicieuses. Vous pouvez les aimer comme elles sont, mais elles sont également l'ingrédient des meilleurs plats, comme la salade de fruit ou les gâteaux aux fraises. Les fraises ont besoin d'être semées tôt, comme elles poussent du printemps jusqu'à l'été. Elles poussent lentement mais produisent plus de nourriture par récolte.",
+		"french": "Les fraises sont *délicieuses*. Vous pouvez les aimer comme elles sont, mais elles sont également l'ingrédient des meilleurs plats, comme la salade de fruit ou les gâteaux aux fraises. Les fraises ont besoin d'être semées tôt, comme elles poussent seulement au printemps. Elles poussent lentement mais produisent plus de nourriture par récolte.",
 		"spanish": "Las fresas son *deliciosas*. Puedes disfrutarlas simples, pero son también ingredientes de los mejores platillos, como ensalada de fruta o pastel de fresa. Las fresas tienen que ser plantadas temprano, ya que crecen sólo en primavera. Las fresas crecen lento pero dan más comida por cosecha.",
 		"portuguese": "Morangos são *deliciosos*. Você pode apenas apreciá-los como eles são, mas eles também são os ingredientes para algumas das melhores refeições que existem, como salada de frutas ou bolo de morango. Os morangos precisam ser semeados cedo, pois só crescem na primavera. Eles crescem lentamente, mas produzem mais alimentos por safra.",
 		"turkish": "Çilek *çok tatlıdır*. Oldukları gibi yenilebilmekle beraber meyve salatası veya çilekli kek yapılarak da yenilebilir. Çileklerin erken ekilmesi gerekir. İlkbahardan yaza kadar büyürler. Çilekler yavaş büyür, ancak hasat başına daha fazla yiyecek verir.",
@@ -2924,48 +2932,56 @@
 	"lightGroundLantern2": {
 		"english": "Iron Street Lantern",
 		"german": "Eiserne Straßenlaterne",
+		"french": "Réverbère en Fer",
 		"russian": "Железный уличный фонарь",
 		"portuguese": "Lanterna de ferro da rua",
 	},
 	"lightGroundLantern2Description": {
 		"english": "Show how modern your colony is by using this fancy iron street lantern to light up your colony at night.",
 		"german": "Setze ein Zeichen für Modernität und erleuchte deine Kolonie mit dieser schmiedeeisernen Straßenlaterne.",
+		"french": "Montrez à quel point votre colonie est moderne en utilisant ce réverbère en fer pour illuminer votre colonie la nuit.",
 		"russian": "Покажите всем насколько развита ваша колония с помощью этого стильного железного уличного фонаря, который поможет вам освещать поселение ночью.",
 		"portuguese": "Mostre como sua colônia é moderna usando esta lanterna de ferro para iluminar sua colônia à noite.",
 	},
 	"lightGroundLantern3": {
 		"english": "Iron Lantern",
 		"german": "Eiserne Laterne",
+		"french": "Lanterne en Fer",
 		"russian": "Железный фонарь",
 		"portuguese": "Lanterna de ferro",
 	},
 	"lightGroundLantern3Description": {
 		"english": "Show how modern your colony is by using this fancy iron lantern to light up your colony at night.",
 		"german": "Setze ein Zeichen für Modernität und erleuchte deine Kolonie mit dieser schmiedeeisernen Laterne.",
+		"french": "Montrez à quel point votre colonie est moderne en utilisant cette lanterne en fer pour éclairer votre colonie la nuit.",
 		"russian": "Покажите всем насколько развита ваша колония с помощью этого стильного железного уличного фонаря, который поможет вам освещать поселение ночью.",
 		"portuguese": "Mostre como sua colônia é moderna usando esta lanterna de ferro para iluminar sua colônia à noite.",
 	},
 	"lightGroundLantern4": {
 		"english": "Stone Street Lantern",
 		"german": "Steinerne Straßenlaterne",
+		"french": "Réverbère en Pierre",
 		"russian": "Каменный уличный фонарь",
 		"portuguese": "Lanterna de pedra da rua",
 	},
 	"lightGroundLantern4Description": {
 		"english": "Built for eternity so that its light may shine forever.",
 		"german": "Gebaut für die Ewigkeit, auf dass ihr Licht auf ewig erstrahlen möge.",
+		"french": "Construit pour l'éternité afin que sa lumière puisse briller pour toujours.",
 		"russian": "Создан на века! Он сможет освещать вашу колонию целыми тысячелетиями!",
 		"portuguese": "Construído para a eternidade, para que sua luz brilhe para sempre.",
 	},
 	"lightGroundLantern5": {
 		"english": "Stone Lantern",
 		"german": "Steinerne Laterne",
+		"french": "Lanterne en Pierre",
 		"russian": "Каменный фонарь",
 		"portuguese": "Lanterna de pedra",
 	},
 	"lightGroundLantern5Description": {
 		"english": "Built for eternity so that its light may shine forever.",
 		"german": "Gebaut für die Ewigkeit, auf dass ihr Licht auf ewig erstrahlen möge.",
+		"french": "Construit pour l'éternité afin que sa lumière puisse briller pour toujours.",
 		"russian": "Создан на века! Он сможет освещать вашу колонию целыми тысячелетиями!",
 		"portuguese": "Construído para a eternidade, para que sua luz brilhe para sempre.",
 	},

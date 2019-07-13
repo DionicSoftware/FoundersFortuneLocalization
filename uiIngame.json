@@ -503,7 +503,7 @@
 		"portuguese": "Todo desejo realizado deixa seu colono mais satisfeito com a vida.",
 		"dutch": "Elke wens die je uit laat komen maakt jouw kolonisten meer tevreden met hun leven",
 		"ukrainian":"Кожне виконане бажання робить вашого колоніста більш задоволеним життям.",
-		"russian":"Каждое исполненное желание делает вашего колониста более довольным жизнью.",
+		"russian":"Каждое исполненное желание увеличивает заполненность полосы удовлетворенности.",
 	},
 	"wishDenyTip_Title": {
 		"english": "Deny Wish",
@@ -1282,7 +1282,7 @@
 		"turkish": "Değerli Eşyalar",
 		"dutch": "Belangerijke Eigendommen",
 		"ukrainian":"",
-		"russian":"Важные владения",
+		"russian":"Предметы во владении",
 	},
 	"importantPossession": {
 		"english": "Important Possession",
@@ -1293,7 +1293,7 @@
 		"turkish": "Değerli Eşyalar",
 		"dutch": "Belangerijk Eigendom",
 		"ukrainian":"",
-		"russian":"Важные владения",
+		"russian":"Предметы во владении",
 	},
 	"importantPossession_Desc": {
 		"english": "%name% likes this thing a lot and does not want to give it up.\n\nYou can not use it to fulfill anyone else's wishes.",
@@ -1324,7 +1324,7 @@
 		"portuguese": "Equipamentos Civil",
 		"turkish": "Sivil ekipman",
 		"ukrainian":"Спорядження поселенців",
-		"russian":"Снаряжение поселенцев",
+		"russian":"Рабочее снаряжение",
 	},
 	"combatEquipment": {
 		"english": "Combat Equipment",
@@ -1334,7 +1334,7 @@
 		"portuguese": "Equipamentos de Combate",
 		"turkish": "Askeri ekipman",
 		"ukrainian":"Спорядження військ",
-		"russian":"Снаряжение войск",
+		"russian":"Военное снаряжение",
 	},
 	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
 		"english": "Tool Storage",
@@ -1384,7 +1384,7 @@
 		"portuguese": "Assumir propriedade de móveis de armazenamento de equipamentos para atribuir equipamentos",
 		"turkish": "Ekipmanı atamak için ekipman depoları sahipliğini al",
 		"ukrainian":"Передайте права на меблі для поселенця, щоб він зміг одягатись автоматично.",
-		"russian":"Передайте права на мебель поселенцу, чтобы он смог снаряжаться автоматически.",
+		"russian":"Передайте мебель во владение поселенцу, чтобы он смог снаряжаться автоматически.",
 	},
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",

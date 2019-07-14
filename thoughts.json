@@ -9,7 +9,7 @@
 		"portuguese": "Sentimento bom",
 		"dutch": "Goed gevoel",
 		"russian": "Хорошее настроение",
-		"ukrainian":"Хороший настрій",
+		"ukrainian":"Гарний настрій",
 	},
 	"thoughtDesc_DebugGood": {
 		"english": "I'm just happy right now and I don't really know why.",
@@ -140,8 +140,8 @@
 		"turkish": "Btikin",
 		"portuguese": "Exausto",
 		"dutch": "Uitgeput",
-		"russian": "Усталость",
-		"ukrainian":"Втома",
+		"russian": "Истощен",
+		"ukrainian":"Виснажений",
 		
 		// When you go further with the Dutch coding. Remove this. This is an Indicator to show where to resume with the Dutch names.
 	},
@@ -705,7 +705,7 @@
 		"turkish": "Hazırlanmamış yemek yemek zorunda kaldım!",
 		"portuguese": "Tive que comer comida despreparada!",
 		"russian": "Пришлось съесть не приготовленную пищу",
-		"ukrainian":"Довелося з'їсти не приготована їжу",
+		"ukrainian":"Довелося з'їсти не приготовану їжу",
 	},
 	"thoughtDesc_AteRawFoodHasMuchHigherExpectations": {
 		"english": "I had to eat unprepared food. Why?! Someone like me shouldn't have to eat food like that!",
@@ -754,8 +754,8 @@
 		"french": "J'ai mangé de la nourriture simple. Quelqu'un comme moi devrait avoir à manger de la nourriture préparée sur un feu de camp !",
 		"turkish": "Basit yiyecekler yemek zorunda kaldım. Benim gibi birinin en azından kamp ateşinde hazırlanmış yiyecekleri yemesi gerekiyordu!",
 		"portuguese": "Eu tive que comer comida simples. Alguém como eu deveria ter que comer comida preparada em uma fogueira!",
-		"russian": "Мне пришлось съесть простую еду. Таким как я стыдно питаться едой, приготовленной на костре!",
-		"ukrainian":"Мені довелося з'їсти просту їжу. Таким як я соромно харчуватися їжею, приготованою на вогнищі!",
+		"russian": "Мне пришлось съесть простую еду. Таким как я следует питаться едой, приготовленной на костре!",
+		"ukrainian":"Мені довелося з'їсти просту їжу. Таким як я слід харчуватися їжею, приготованою на вогнищі!",
 	},
 	"thoughtTitle_SmallFoodRations": {
 		"english": "Small Food Rations",
@@ -935,7 +935,7 @@
 		"french": "Mon dernier jour de paie était vraiment petit. Je mérite mieux que ça !",
 		"turkish": "Son maaşım gerçekten çok azdı. Ben bundan daha iyisini hakediyorum!",
 		"russian": "Моя предыдущая зарплата была слишком маленькой. Я заслуживаю большего!",
-		"ukrainian":"Моя попередня зарплата була дуже маленькою. Я заслуговую більшого!",
+		"ukrainian": "Моя попередня зарплата була дуже маленькою. Я заслуговую більшого!",
 	},
 	"thoughtTitle_HighSalary": {
 		"english": "Received high salary",
@@ -945,7 +945,7 @@
 		"french": "A reçu un salaire haut",
 		"turkish": "Yüksek maaş aldı",
 		"russian": "Большая зарплата",
-		"ukrainian":"Велика зарплата",
+		"ukrainian": "Велика зарплата",
 	},
 	"thoughtDesc_HighSalary": {
 		"english": "My last payday was really high. So much money!",
@@ -955,7 +955,7 @@
 		"french": "Mon dernier jour de paie était vraiment grand. Tant d'argent !",
 		"turkish": "Son maaşım gerçekten çok yüksekti. Çok param var!",
 		"russian": "Моя предыдущая зарплата была и вправду достойной. Так много денег!",
-		"ukrainian":"Моя попередня зарплата була і справді гідною. Так багато грошей!",
+		"ukrainian": "Моя попередня зарплата була і справді гідною. Так багато грошей!",
 	},
 	"thoughtTitle_MissingFloor": {
 		"english": "Floor missing in house",
@@ -965,7 +965,7 @@
 		"portuguese": "Andar faltando em casa",
 		"turkish": "Evde yer döşemesi yok",
 		"russian": "Отсутствует пол в доме",
-		"ukrainian":"Відсутня підлогу в будинку",
+		"ukrainian": "Відсутня підлога в будинку",
 	},
 	"thoughtDesc_MissingFloor": {
 		"english": "There is a room in my house that's missing a floor. It feels like a construction site.",
@@ -974,7 +974,7 @@
 		"french": "Il y a une pièce de ma maison où il manque du sol. Cela ressemble à un chantier de construction.",
 		"portuguese": "Há uma sala na minha casa que está faltando um andar. Parece um canteiro de obras.",
 		"turkish": "Evde yer döşemesi olmayan oda var. Sanki bir inşaat alanı.",
-		"russian": "В моем доме есть комната, которой не хватает пола. Напоминает стройку.",
+		"russian": "В моем доме есть комната, в которой не хватает пола. Напоминает стройку.",
 		"ukrainian":"У моєму будинку є кімната, в якій не вистачає підлоги. Нагадує будівництво.",
 	},
 	"thoughtTitle_UnpreparedForWinter": {
@@ -984,7 +984,7 @@
 		"french": "Pas préparé pour l'hiver",
 		"portuguese": "Despreparado para o inverno",
 		"turkish": "Kışa hazırlıksız",
-		"russian": "Неподготовлен к зиме",
+		"russian": "Не готов к зиме",
 		"ukrainian":"Не підготовлен%heshe_IY_A% до зими",
 	},
 	"thoughtDesc_UnpreparedForWinter": {
@@ -1002,7 +1002,7 @@
 		"german": "Genießt die Feier",
 		"french": "Profite d'une fête",
 		"spanish": "Disfrutando la fiesta",
-		"russian": "Наслаждение вечеринкой",
+		"russian": "Наслаждается вечеринкой",
 		"portuguese": "Curtindo festa",
 		"ukrainian":"Насолоджується вечіркою",
 
@@ -1012,7 +1012,7 @@
 		"german": "Endlich habe ich mal Zeit etwas abzuschalten und micht den schönen Dingne des Lebens zu widmen. Heute wird gefeiert!",
 		"french": "Enfin, je me laisse un peu de temps pour me détendre et être heureux avec mes collègues colons ! Je me sens bien de ne pas m'inquiéter pendant un moment.",
 		"spanish": "¡Por fin tengo tiempo para relajarme y solo ser feliz con mis compañeros colonos! Se siente genial no tener que preocuparse por un rato.",
-		"russian": "Наконец-то я могу немножко расслабиться и просто получать удовольствия от времяпрепровождения с моими друзьями! Чувствую себя прекрасно!",
+		"russian": "Наконец-то я могу немножко расслабиться и просто получать удовольствие от времяпрепровождения с моими друзьями! Чувствую себя прекрасно!",
 		"portuguese": "Finalmente, estou conseguindo algum tempo para me descontrair e ficar feliz com meus colegas colonos! É ótimo não se preocupar por um tempo.",
 		"ukrainian":"Нарешті я можу трошки розслабитися і просто отримувати задоволення від проведення часу з моїми друзями! Відчуваю себе чудово!",
 	},
@@ -1057,7 +1057,7 @@
 		"german": "Genoß das Lagerfeuer",
 		"french": "Feu apprécié",
 		"spanish": "Disfrutó el fuego",
-		"russian": "Наслаждаться пламенем",
+		"russian": "Любоваться огнем",
 		"portuguese": "fogo apreciado",
 		"ukrainian":"Насолоджуватися полум'ям",
 	},
@@ -1067,7 +1067,7 @@
 		"german": "Ahhh... Jetzt bin ich so richtig durchgewärmt. Eine wahre Wohltat.",
 		"french": "Ahhh ... Je me suis vraiment senti%e% à l'aise de me réchauffer près du feu.",
 		"spanish": "Ahhh... Calentarse al fuego me hizo sentir muy cómodo.",
-		"russian": "Да... Наслаждаться пламенем - бесценно.",
+		"russian": "Да... Любоваться огнем - бесценно.",
 		"portuguese": "Ahhh ... O aquecimento no incêndio me fez sentir muito confortável.",
 		"ukrainian":"Так... Підігріваючись біля вогню, я відчуваю себе дуже комфортно.",
 	},

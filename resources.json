@@ -7,6 +7,7 @@
 		"ukrainian":"%amount% од. %resource%",
 		"russian": "%amount% ед. %resource%",
 		"portuguese": "%amount% %resource%",
+		"turkish": "%amount% %resource%",
 	},
 	"resourceName_FoodRaw": {
 		"english": "Raw Food",
@@ -336,6 +337,7 @@
 		"portuguese": "Com um incrível comprimento de 752 metros, o maior strudel de maçã foi feito em um país muito distante no dia 15 de agosto. Pode-se simplesmente não ter o suficiente deste prato saboroso!",
 		"russian": "Давным-давно, 15 августа, в далекой стране бьл испечен яблочный штрудель невероятной длины - 752 метра! Простой, но в то же время очень вкусный десерт.",
 		"ukrainian":"Давним-давно, 15 серпня, в далекій країні бьл випечений яблучний штрудель неймовірною довжини - 752 метра! Простий, але в той же час дуже смачний десерт.",
+		"turkish": "752 metrelik uzunluğuyla dünyanın en uzun elmalı strudeli Ağustosun 15inden çok uzak bir ülkede yapıldı. Biri bu lezzetli yemeğin tadına doyamaz",
 	},
 	"resourceName_IronOre": {
 		"english": "Iron Ore",
@@ -530,11 +532,10 @@
 	"resourceDescription_Scroll": {
 		"english": "Ancient secrets are written on these scrolls. Experienced scholars can discover technology by carefully studying their texts. Some traders sell them at a high price",
 		"german": "Uralte Geheimnisse stehen auf diesen Schriftrollen. Erfahrene Gelehrte können durch sorgfältige Studien Technologien entdecken. Manche Händler verkaufen sie zu einem hohen Preis.",
-		//TODO-turkish
 		"french": "Des secrets antiques sont écrits sur ces parchemins. Les érudits expérimentés peuvent découvrir des technologies en étudiant soigneusement leurs textes. Certains marchands les vendent à un prix élevé.",
 		"spanish": "Antiguos secretos están escritos en estos pergaminos. Los eruditos experimentados pueden descubir tecnología al estudiar cuidadosamente estos textos. Algunos comerciantes los venden a altos precios.",
 		"portuguese": "Segredos antigos são escritos nesses pergaminhos. Estudiosos experientes podem descobrir tecnologias estudando cuidadosamente seus textos. Alguns comerciantes os vendem a um preço alto",
-		"turkish": "Bu parşömenlerin üzerine eski sırlar yazılmıştır. Deneyimli alimler, metinleri dikkatlice inceleyerek teknoloji keşfedebilirler.",
+		"turkish": "Bu parşömenlerin üzerine eski sırlar yazılmıştır. Deneyimli alimler, metinleri dikkatlice inceleyerek teknoloji keşfedebilirler. Bazı tüccarlar bunları yüksek fiyattan satar",
 		"russian": "Древние секреты написаны на этих свитках. Опытные ученые могут открыть технологию, внимательно изучая их тексты. Некоторые торговцы продают их по высокой цене.",
 		"ukrainian":"Стародавні секрети написані на цих свитках. Досвідчені вчені можуть відкрити технологію, уважно вивчаючи їх тексти. Деякі торговці продають їх за високою ціною.",
 	},
@@ -575,6 +576,7 @@
 		"spanish": "Cerveza",
 		"russian": "Пиво",
 		"portuguese": "Cerveja",
+		"turkish": "Bira",
 	},
 	"resourceDescription_Beer": {
 		"english": "Made out of carefully selected pumpkins and only the finest wheat grain. Has a rich and roasty flavor",
@@ -583,5 +585,6 @@
 		"spanish": "Hecha de calabazas cuidadosamente seleccionadas y solo los más finos granos de trigo. Tiene un delicioso y tostado sabor.",
 		"russian": "Сделано из тщательно отобранных тыкв и только самого лучшего зерна. Обладает насыщенным вкусом",
 		"portuguese": "Feito de abóboras cuidadosamente selecionadas e apenas o melhor grão de trigo. Tem um sabor rico e saboroso",
+		"turkish": "Dikkatlice seçilmiş balkabaklarından ve sadece en iyi buğday tanesinden yapılmıştır. Zengin ve kızarmış bir tada sahiptir.",
 	},
 }

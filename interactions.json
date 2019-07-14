@@ -205,6 +205,7 @@
 		"spanish": "Retira",
 		"russian": "Сломать",
 		"portuguese": "Retirar",
+		"turkish": "Kaldır",
 	},
 	"Fight": {
 		"english": "Fight",
@@ -826,6 +827,7 @@
 		"spanish": "Prepara cerveza",
 		"russian": "Варить пиво",
 		"portuguese": "Cerveja fermentada",
+		"turkish": "Bira yap",
 	},
 	"Talk": {
 		"english": "Talk",
@@ -930,6 +932,7 @@
 		"spanish": "Encierra",
 		"russian": "Запереть",
 		"portuguese": "Trancado",
+		"turkish": "Kilitle",
 	},
 	"FreeColonist": {
 		"english": "Free colonist",
@@ -938,6 +941,7 @@
 		"spanish": "Libera al colono",
 		"russian": "Освободить колониста",
 		"portuguese": "Colono livre",
+		"turkish": "Serbest bırak",
 	},
 	"FreeColonistFirstName": {
 		"english": "Free %firstName%",
@@ -946,6 +950,7 @@
 		"spanish": "Libera a %firstName%",
 		"russian": "Освободить %firstName%",
 		"portuguese": "Livre %firstName%",
+		"turkish": "%firstName%'i serbest bırak",
 	},
 	"DrinkBeer": {
 		"english": "Drink Beer",
@@ -954,6 +959,7 @@
 		"spanish": "Bebe cerveza",
 		"russian": "Выпить пиво",
 		"portuguese": "Beber cerveja",
+		"turkish": "Bira iç",
 	},
 	"Dance": {
 		"english": "Dance",
@@ -962,6 +968,7 @@
 		"spanish": "Baila",
 		"russian": "Танцевать",
 		"portuguese": "Dança",
+		"turkish": "Dans et",
 	},
 	"Enjoy": {
 		"english": "Enjoy",
@@ -970,6 +977,7 @@
 		"spanish": "Disfruta",
 		"russian": "Наслаждаться",
 		"portuguese": "Apreciar",
+		"turkish": "Keyfini çıkar",
 	},
 	"EnjoyFire": {
 		"english": "Enjoy Fire",
@@ -978,6 +986,7 @@
 		"spanish": "Disfruta el fuego",
 		"russian": "Наслаждаться огнем",
 		"portuguese": "Desfrute de fogo",
+		"turkish": "Ateşin keyfini çıkar",
 	},
 	"Drum": {
 		"english": "Drum",
@@ -986,6 +995,7 @@
 		"spanish": "Toca el tambor",
 		"russian": "Барабан",
 		"portuguese": "Tambor",
+		"turkish": "Davul",
 	},
 	"Hug": {
 		"english": "Hug",
@@ -994,6 +1004,7 @@
 		"spanish": "Abraza",
 		"russian": "Обнять",
 		"portuguese": "Abraço",
+		"turkish": "Sarıl",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1002,6 +1013,7 @@
 		"spanish": "Anima",
 		"russian": "Радоваться",
 		"portuguese": "Alegria",
+		"turkish": "Alkışla",
 	},
 
 
@@ -1025,6 +1037,7 @@
 		"spanish": "%firstName% está usando eso",
 		"russian": "%firstName% использует это",
 		"portuguese": "%firstName% está usando isso",
+		"turkish": "%firstName% tarafından kullanılıyor",
 	},
 	"goblinIsUsingThat": {
 		"english": "Goblin is using that",
@@ -1033,6 +1046,7 @@
 		"spanish": "Un Goblin está usando eso",
 		"russian": "Гоблин использует это",
 		"portuguese": "Goblin está usando isso",
+		"turkish": "Onu goblin kullanıyor",
 	},
 	"visitorIsUsingThat": { // visitors like migrants or traders
 		"english": "A visitor is using that",
@@ -1041,6 +1055,7 @@
 		"spanish": "Un visitante está usando eso",
 		"russian": "Посетитель использует это",
 		"portuguese": "Um visitante está usando isso",
+		"turkish": "Onu bir ziyaretçi kullanıyor",
 	},
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",
@@ -1069,6 +1084,7 @@
 		"spanish": "El colono está encerrado",
 		"russian": "Колонист взаперти",
 		"portuguese": "Colono está trancado",
+		"turkish": "Yerleşimci kilit altında",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -1086,7 +1102,7 @@
 		"german": "%firstName% hat nicht genug Erfahrung als %profession%",
 		"french": "%firstName% n'a pas assez d'expérience comme %profession%",
 		"spanish": "%firstName% no tiene experiencia suficiente como %profession%",
-		"turkish": "%profession% için yeteri tecrübesi yok",
+		"turkish": "%firstName%'in %profession% için yeterli tecrübesi yok",
 		"portuguese": "%firstName% não tem experiência suficiente como %profession%",
 		"dutch": "%firstname % heeft niet genoeg ervaring als %profession%",
 		"russian": "%firstName% не имеет достаточного уровня в %profession%",

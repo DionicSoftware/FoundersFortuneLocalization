@@ -61,6 +61,7 @@
 		"french": "Site Internet",
 		"russian":"Сайт",
 		"portuguese": "Site",
+		"turkish": "Website",
 	},
 	"forum": {
 		"english": "Forum",
@@ -68,6 +69,7 @@
 		"french": "Forum",
 		"russian":"Форум",
 		"portuguese": "Fórum",
+		"turkish": "Fórum",
 	},
 	"supportDevelopment": {
 		"english": "Support Development",
@@ -266,6 +268,7 @@
 		"spanish": "Ninguno",
 		"russian":"Отсутствуют",
 		"portuguese": "Nenhum",
+		"turkish": "Yok",
 	},
 
 
@@ -279,6 +282,7 @@
 		"spanish": "Mods y Contenido Adicional",
 		"russian":"Моды и доп. контент",
 		"portuguese": "Mods e Conteúdo Extra",
+		"turkish": "Modlar ve İlave İçerik",
 	},
 	"modsAndExtraContent": {
 		"english": "Mods and Extra Content",
@@ -287,6 +291,7 @@
 		"spanish": "Mods y Contenido Adicional",
 		"russian":"Моды и доп. контент",
 		"portuguese": "Mods e Conteúdo Extra",
+		"turkish": "Modlar ve İlave İçerik",
 	},
 	"author": {
 		"english": "Author",
@@ -295,6 +300,7 @@
 		"spanish": "Autor",
 		"russian":"Автор",
 		"portuguese": "Autor",
+		"turkish": "Yazar",
 	},
 	"active": {
 		"english": "Active",
@@ -303,6 +309,7 @@
 		"spanish": "Activo",
 		"russian":"Активен",
 		"portuguese": "Ativo",
+		"turkish": "Aktif",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -311,6 +318,7 @@
 		"spanish": "No tienes ningún mod ni contenido adicional instalado.",
 		"russian":"У вас нет установленных модификаций или доп. контента.",
 		"portuguese": "Você não tem nenhum mod ou conteúdo extra instalado.",
+		"turkish": "Yüklü bir mod veya ilave içeriğe sahip değilsiniz",
 	},
 	"modsOnRoadmap": {
 		"english": "Mod Support is currently on our Roadmap.\nOur supporters use this menu to manage their supporter packages.",
@@ -319,6 +327,7 @@
 		"spanish": "El Soporte de Mods está actualmente en nuestros planes.\nNuestros contribuyentes usan este menú para gestionar sus paquetes de soporte.",
 		"russian":"Поддержка модификаций будет реализована в будущем.\nЭто меню используется для управления модификациями.",
 		"portuguese": "O Suporte a Mods está atualmente em nosso Roteiro. \nNossos apoiadores usam esse menu para gerenciar seus pacotes de suporte.",
+		"turkish": "Mod desteği yapılacaklar arasında.\nDestekçilerimiz bu menüyü kullanarak destekçi paketlerini yönetebilirler",
 	},
 	"openModFolder": {
 		"english": "Open Mod Folder",
@@ -327,6 +336,7 @@
 		"spanish": "Abrir Carpeta de Mods",
 		"russian":"Открыть католог",
 		"portuguese": "Abra a pasta Mod",
+		"turkish": "Mod klasörünü aç",
 	},
 	"modCompatible_Title": {
 		"english": "Content compatible",
@@ -335,6 +345,7 @@
 		"spanish": "Contenido Compatible",
 		"russian":"Контент совместим",
 		"portuguese": "Conteúdo Compatível",
+		"turkish": "Uyumlu İçerik",
 	},
 	"modCompatible_Text": {
 		"english": "This content has been marked by the developers as compatible.",
@@ -343,6 +354,7 @@
 		"spanish": "Este contenido ha sido marcado por los desarrolladores como compatible.",
 		"russian":"Этот контент был отмечен разработчиками как совместимый.",
 		"portuguese": "Este conteúdo foi marcado pelos desenvolvedores como compatível.",
+		"turkish": "Bu içerik yapımcılar tarafından uyumlu olarak işaretlendi",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
@@ -351,6 +363,7 @@
 		"spanish": "Contenido Incompatible",
 		"russian":"Контент не совместим",
 		"portuguese": "Conteúdo incompatível",
+		"turkish": "Uyumsuz İçerik",
 	},
 	"modIncompatible_Text": {
 		"english": "This content has been marked by the developers as incompatible.\nYou need to update it in order to activate it.",
@@ -359,6 +372,7 @@
 		"spanish": "Este contenido ha sido marcado por los desarrolladores como incompatible.\nNecesitas actualizarlo para activarlo.",
 		"russian":"Этот контент был отмечен разработчиками как несовместимый.\nВам нужно обновить его перед активацией.",
 		"portuguese": "Este conteúdo foi marcado pelos desenvolvedores como incompatível. \nVocê precisa atualizá-lo para ativá-lo.",
+		"turkish": "Bu içerik yapımcılar tarafından uyumsuz olarak işaretlendi.\nKullanabilmek için güncellemeniz gerekir.",
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
@@ -367,6 +381,7 @@
 		"spanish": "Aplicar y Reiniciar",
 		"russian":"Применить и перезапустить",
 		"portuguese": "Aplicar e reiniciar",
+		"turkish": "Uygula ve yeniden başlat",
 	},
 	
 
@@ -1081,7 +1096,7 @@
 		"german": "Kolonistensteuerung",
 		"french": "Interaction des Colons",
 		"spanish": "Control de colonos",
-		"turkish": "Kolonici etkileşimi",
+		"turkish": "Yerleşimci etkileşimi",
 		"portuguese": "Interação Colono",
 		"dutch": "Kolonist Interactie",
 		"ukrainian":"Керування колоністами",
@@ -1138,6 +1153,7 @@
 		"spanish": "Posicionamiento de Precisión",
 		"russian":"Точное размещение",
 		"portuguese": "Posicionamento de Precisão",
+		"turkish": "Hassas Yerleştirme",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -1390,7 +1406,7 @@
 		"german": "Max. Anzahl an Kolonisten",
 		"french": "Nombre max. de Colons",
 		"spanish": "Número máximo de colonos",
-		"turkish": "En fazla kolonici sayısı",
+		"turkish": "Azami yerleşimci sayısı",
 		"portuguese": "Max. Número de colonos",
 		"dutch": "Max. nummer van Kolonisten",
 		"ukrainian":"Макс. Кількість Колоністів",

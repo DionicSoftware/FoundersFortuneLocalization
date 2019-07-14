@@ -206,6 +206,7 @@
 		"russian": "Сломать",
 		"portuguese": "Retirar",
 		"turkish": "Kaldır",
+		"ukrainian":"Зломати"
 	},
 	"Fight": {
 		"english": "Fight",
@@ -828,6 +829,7 @@
 		"russian": "Варить пиво",
 		"portuguese": "Cerveja fermentada",
 		"turkish": "Bira yap",
+		"ukrainian":"Варити пиво",
 	},
 	"Talk": {
 		"english": "Talk",
@@ -933,6 +935,7 @@
 		"russian": "Запереть",
 		"portuguese": "Trancado",
 		"turkish": "Kilitle",
+		"ukrainian":"Замикати",
 	},
 	"FreeColonist": {
 		"english": "Free colonist",
@@ -942,6 +945,7 @@
 		"russian": "Освободить колониста",
 		"portuguese": "Colono livre",
 		"turkish": "Serbest bırak",
+		"ukrainian":"Звільнити Колоніста",
 	},
 	"FreeColonistFirstName": {
 		"english": "Free %firstName%",
@@ -951,6 +955,7 @@
 		"russian": "Освободить %firstName%",
 		"portuguese": "Livre %firstName%",
 		"turkish": "%firstName%'i serbest bırak",
+		"ukrainian":"Звільнити %firstName%",
 	},
 	"DrinkBeer": {
 		"english": "Drink Beer",
@@ -960,6 +965,7 @@
 		"russian": "Выпить пиво",
 		"portuguese": "Beber cerveja",
 		"turkish": "Bira iç",
+		"ukrainian":"Випити Пиво",
 	},
 	"Dance": {
 		"english": "Dance",
@@ -969,6 +975,7 @@
 		"russian": "Танцевать",
 		"portuguese": "Dança",
 		"turkish": "Dans et",
+		"ukrainian":"Танцювати",
 	},
 	"Enjoy": {
 		"english": "Enjoy",
@@ -978,6 +985,8 @@
 		"russian": "Наслаждаться",
 		"portuguese": "Apreciar",
 		"turkish": "Keyfini çıkar",
+		"ukrainian":"Насолоджуватись",
+
 	},
 	"EnjoyFire": {
 		"english": "Enjoy Fire",
@@ -987,6 +996,7 @@
 		"russian": "Наслаждаться огнем",
 		"portuguese": "Desfrute de fogo",
 		"turkish": "Ateşin keyfini çıkar",
+		"ukrainian":"Насолоджується Вогнем",
 	},
 	"Drum": {
 		"english": "Drum",
@@ -996,6 +1006,7 @@
 		"russian": "Барабан",
 		"portuguese": "Tambor",
 		"turkish": "Davul",
+		"ukrainian":"Барабан",
 	},
 	"Hug": {
 		"english": "Hug",
@@ -1004,7 +1015,7 @@
 		"spanish": "Abraza",
 		"russian": "Обнять",
 		"portuguese": "Abraço",
-		"turkish": "Sarıl",
+		"ukrainian":"Обняти",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1014,6 +1025,7 @@
 		"russian": "Радоваться",
 		"portuguese": "Alegria",
 		"turkish": "Alkışla",
+		"ukrainian":"Радуватись",
 	},
 
 
@@ -1037,7 +1049,8 @@
 		"spanish": "%firstName% está usando eso",
 		"russian": "%firstName% использует это",
 		"portuguese": "%firstName% está usando isso",
-		"turkish": "%firstName% tarafından kullanılıyor",
+		"ukrainian":"%firstName% використовує це",
+
 	},
 	"goblinIsUsingThat": {
 		"english": "Goblin is using that",
@@ -1046,7 +1059,7 @@
 		"spanish": "Un Goblin está usando eso",
 		"russian": "Гоблин использует это",
 		"portuguese": "Goblin está usando isso",
-		"turkish": "Onu goblin kullanıyor",
+		"ukrainian":"Гоблін використовує це",
 	},
 	"visitorIsUsingThat": { // visitors like migrants or traders
 		"english": "A visitor is using that",
@@ -1055,7 +1068,7 @@
 		"spanish": "Un visitante está usando eso",
 		"russian": "Посетитель использует это",
 		"portuguese": "Um visitante está usando isso",
-		"turkish": "Onu bir ziyaretçi kullanıyor",
+		"ukrainian":"Відвідувач використовує це",
 	},
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",
@@ -1084,7 +1097,7 @@
 		"spanish": "El colono está encerrado",
 		"russian": "Колонист взаперти",
 		"portuguese": "Colono está trancado",
-		"turkish": "Yerleşimci kilit altında",
+		"ukrainian":"Колоніст під замком",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -1102,7 +1115,7 @@
 		"german": "%firstName% hat nicht genug Erfahrung als %profession%",
 		"french": "%firstName% n'a pas assez d'expérience comme %profession%",
 		"spanish": "%firstName% no tiene experiencia suficiente como %profession%",
-		"turkish": "%firstName%'in %profession% için yeterli tecrübesi yok",
+		"turkish": "%profession% için yeteri tecrübesi yok",
 		"portuguese": "%firstName% não tem experiência suficiente como %profession%",
 		"dutch": "%firstname % heeft niet genoeg ervaring als %profession%",
 		"russian": "%firstName% не имеет достаточного уровня в %profession%",

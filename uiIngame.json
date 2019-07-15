@@ -1,4 +1,4 @@
-{
+﻿{
 	"research": {
 		"english": "Research",
 		"german": "Forschung",
@@ -348,6 +348,7 @@
 		"turkish": "Mesleklerinde yeteri kadar tecrübe edindikten sonra yerleşimcileri terfi ettirebilirsin.",
 		"portuguese": "Uma vez que seus colonos acumulem experiência suficiente em sua profissão, você pode promovê-los para desbloquear novas habilidades.",
 		"dutch": "Wanneer jouw kolonisten genoeg ervaring hebben in hun beroep, kan je ze promoveren om nieuwe vaardigheden vrij te spelen",
+		"ukrainian":"Як тільки ваші колоністи наберуть достатньо досвіду у своїй професії, ви зможете підвищити їх, щоб розблокувати нові навички.",
 		"russian":"Как только ваши колонисты наберут достаточно опыта в своей профессии, вы сможете повысить их, чтобы разблокировать новые навыки.",
 	},
 	"combat": {
@@ -489,6 +490,7 @@
 		"turkish": "Memnuniyet puanları",
 		"portuguese": "Pontos de Satisfação",
 		"dutch": "Tevredenheids Punten",
+		"ukrainian":"Очки Задоволеності",
 		"russian":"Очки удовлетворенности",
 	},
 	"wishPointsTip_Desc": {
@@ -1223,6 +1225,7 @@
 		"turkish": "Yerleşiminiz azami nüfusa ulaştı. Tebrikler! Forumda resim paylaşmayı unutmayın!",
 		"portuguese": "Sua colônia atingiu seu tamanho máximo. Parabéns! Certifique-se de postar uma foto nos fóruns!",
 		"dutch": "Jouw kolonie heeft zijn maximale grootte behaald. Gefeliciteerd! Zorg ervoor dat je een foto op de forums zet!",
+		"ukrainian":"Ваша колонія досягла максимального розміру. Вітаємо! Обов'язково викладіть скріншот на форум!",
 		"russian":"Ваша колония достигла максимального размера. Поздравляем! Обязательно выложите скриншот на форум!",
 	},
 	"immigration_status_noBonfire": {
@@ -1233,7 +1236,8 @@
 		"turkish": "Uyarı ateşi yanmıyor. Göçmenler yerleşimi bulamayacak",
 		"portuguese": "Nenhuma fogueira está queimando. Os migrantes não conseguem encontrar a colônia.",
 		"dutch": "Er is geen Baken aan. Migranten kunnen de kolonie niet vinden",
-		"russian":"Сигнальный костер не горит. Мигнанты не смогут найти вашу колонию.",
+		"ukrainian":"Сигнальний багаття не горить. Мігранти не можуть знайти вашу колонію.",
+		"russian":"Сигнальный костер не горит. Мигранты не смогут найти вашу колонию.",
 	},
 	"immigration_status_expectationsNotMet": {
 		"english": "Your colonists' expectations are not met. No migrants are going to join this colony.",
@@ -1244,6 +1248,7 @@
 		"portuguese": "As expectativas dos seus colonos não são atendidas. Nenhum migrante vai se juntar a esta colônia.",
 		"dutch": "De verwachting van je kolonisten zijn niet behaald. Geen migranten gaan deze kolonie betreden",
 		"russian":"Колонисты недовольны жизнью в колонии. Новые мигранты не будут прибывать на остров.",
+		"ukrainian":"Колоністи незадоволені життям в колонії. Нові мігранти не будуть прибувати на острів.",
 	},
 	"immigration_status_ok": {
 		"english": "All your colonists' expectations are met. Next chance for migrants in %time%.",
@@ -1253,6 +1258,7 @@
 		"turkish": "Tüm yerleşimcilerinizin istekleri karşılandı. Yeni göçmen şansı için süre %time%.",
 		"portuguese": "Todas as expectativas de seus colonos são atendidas. Próxima oportunidade para os migrantes em %time%",
 		"dutch": "Alle verwachtingen van jouw kolonisten zijn behaald. De volgende kans op migranten is in &time&",
+		"ukrainian":"Колоністи задоволені життям в колонії. Нові мігранти прибудуть на острів через %time%.",
 		"russian":"Колонисты довольны жизнью в колонии. Новые мигранты прибудут на остров через %time%.",
 	},
     "colonistIsDumbNoExperience": {
@@ -1263,6 +1269,7 @@
 		"turkish": "Ne yazık ki, %firstName% bir aptal ve çalıştığı işlerde tecrübe edinemeyecek.", 
 		"portuguese": "Infelizmente, %firstName% é burro e não vai ganhar experiência em nenhum trabalho.",
 	    "dutch": "Helaas, %firstName% is dom en zal geen ervaring opdoen in een baan",
+		"ukrainian":"На жаль, %firstName% тупий і не може отримувати досвід в будь-якій роботі.",
 		"russian":"К сожалению, %firstName% тупой и не может получать опыт в любой работе.",
 	},
 	"importantPossessions": {
@@ -1273,6 +1280,7 @@
 		"portuguese": "Posses importantes",
 		"turkish": "Değerli Eşyalar",
 		"dutch": "Belangerijke Eigendommen",
+		"ukrainian":"Предмети у володінні",
 		"russian":"Предметы во владении",
 	},
 	"importantPossession": {
@@ -1283,6 +1291,7 @@
 		"portuguese": "Posse importante",
 		"turkish": "Değerli Eşyalar",
 		"dutch": "Belangerijk Eigendom",
+		"ukrainian":"Предмети у володінні",
 		"russian":"Предметы во владении",
 	},
 	"importantPossession_Desc": {
@@ -1600,38 +1609,47 @@
 	"partiesTitle": {
 		"english": "Parties",
 		"german": "Feier",
+		"russian": "Вечеринка",
 	},
 	"partiesDesc": {
 		"english": "Parties give your colonists a chance to relax and socialize. The more time your colonists spend dancing, eating, and drinking, the higher their mood is going to rise.",
 		"german": "Feiern geben deine Kolonisten eine Gelegenheit zur Erholung. Je mehr Zeit deine Kolonisten mit Tanzen, Essen und Trinken verbringen, desto besser ihre Stimmung.",
+		"russian": "Вечеринки дают вашим колонистам возможность расслабиться. Большую часть времени колонисты будут танцевать, есть и пить, из-за чего их настроение будет повышаться.",
 	},
 	"startPartyButton": {
 		"english": "Start Party",
 		"german": "Feier starten",
+		"russian": "Начать вечеринку!",
 	},
 	"cantStartPartyDuringReady": {
 		"english": "Can't start party during raid",
 		"german": "Kann Feier nicht während einem Überfall starten",
+		"russian": "Нельзя начать вечеринку во время набега",
 	},
 	"cantStartPartyBecauseAlreadyPartying": {
 		"english": "Can't start party while colonists are already celebrating",
 		"german": "Kann Feier nicht starten, weil schon eine Feier läuft",
+		"russian": "Нельзя начать вечеринку во время другой вечеринки",
 	},
 	"coinsToStartParty": {
 		"english": "%coins% Coins to start party",
 		"german": "%coins% Münzen um Feier zu starten",
+		"russian": "%coins% монет для начала вечеринки",
 	},
 	"atLeastBeerInStock": {
 		"english": "At least %beer% beer in stock",
 		"german": "Mindestens %beer% Bier im Lager",
+		"russian": "Хотя бы %beer% пива в запасах",
 	},
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
 		"german": "Mindestens %food% Essen im Lager",
+		"russian": "Хотя бы %food% еды в запасах",
 	},
 	"partyRequirements": {
 		"english": "Party Requirements",
 		"german": "Feier Voraussetzungen",
+		"russian": "Требования вечеринки",
 	},
 
 

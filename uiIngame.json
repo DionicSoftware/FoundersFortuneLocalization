@@ -1571,5 +1571,35 @@
 		"ukrainian":"Ціна продажу",
 		"russian":"Цена продажи",
 	},
+	"seconds": {
+		"english": "seconds",
+		"german": "Sekunden",
+		"french": "secondes",
+		"spanish": "segundos",
+		"turkish": "saniye",
+		"portuguese": "segundos",
+		"dutch": "Seconden",
+		"russian": "секунд",
+		"ukrainian":"секунд",
+	},
+	"seconds": {
+		"english": "seconds",
+		"german": "Sekunden",
+		"french": "secondes",
+		"spanish": "segundos",
+		"turkish": "saniye",
+		"portuguese": "segundos",
+		"dutch": "Seconden",
+		"russian": "секунд",
+		"ukrainian":"секунд",
+	},
+	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
+		"english": "s",
+		"german": "s",
+	},
+	"second_Sec": { // optional longer abbreviation for seconds
+		"english": "sec",
+		"german": "s",
+	},
 
 }

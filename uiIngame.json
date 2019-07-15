@@ -1614,6 +1614,7 @@
 		"english": "Parties",
 		"german": "Feier",
 		"french": "Fêtes",
+		"portuguese": "Festas",
 		"spanish": "Fiestas",
 		"ukrainian":"Вечірка",
 		"russian": "Вечеринка",
@@ -1625,6 +1626,7 @@
 		"spanish": "Las fiestas le dan a tus colonos una oportunidad de relajarse y socializar. Mientras más tiempo pasen bailando, comiendo y bebiendo, más se incrementará su estado de ánimo.",
 		"ukrainian":"Вечірки дають вашим колоністам можливість розслабитися та поспілкуватися. Чим більше часу ваші колоністи проводять в танцях, їжі та випивці, тим більше їх настрій буде рости.",
 		"russian": "Вечеринки дают вашим колонистам возможность расслабиться. Большую часть времени колонисты будут танцевать, есть и пить, из-за чего их настроение будет повышаться.",
+		"portuguese": "As festas dão aos colonos a chance de relaxar e socializar. Quanto mais tempo seus colonos passarem dançando, comendo e bebendo, maior será o humor deles.",
 	},
 	"startPartyButton": {
 		"english": "Start Party",
@@ -1633,6 +1635,7 @@
 		"spanish": "Comenzar Fiesta",
 		"ukrainian":"Розпочати Вечірку",
 		"russian": "Начать вечеринку!",
+		"portuguese": "Iniciar uma festa",
 	},
 	"cantStartPartyDuringReady": {
 		"english": "Can't start party during raid",
@@ -1641,6 +1644,7 @@
 		"spanish": "No se puede empezar una fiesta durante un ataque",
 		"ukrainian":"Неможливо розпочати вечірку під час нападу Тікігоблінів",
 		"russian": "Нельзя начать вечеринку во время набега",
+		"portuguese": "Não consigo iniciar a festa durante o ataque",
 	},
 	"cantStartPartyBecauseAlreadyPartying": {
 		"english": "Can't start party while colonists are already celebrating",
@@ -1649,6 +1653,7 @@
 		"spanish": "No se puede empezar una fiesta mientras los colonos ya están celebrando",
 		"ukrainian":"Неможливо розпочати вечірку коли вона вже почалась",
 		"russian": "Нельзя начать вечеринку во время другой вечеринки",
+		"portuguese": "Não pode começar a festa enquanto os colonos já estão comemorando",
 	},
 	"coinsToStartParty": {
 		"english": "%coins% Coins to start party",
@@ -1657,6 +1662,7 @@
 		"spanish": "%coins% monedas para empezar una fiesta",
 		"ukrainian":"Необхідно %coins% монет для початку вечірки",
 		"russian": "%coins% монет",
+		"portuguese": "%coins% Moedas para começar a festa",
 	},
 	"atLeastBeerInStock": {
 		"english": "At least %beer% beer in stock",
@@ -1665,6 +1671,7 @@
 		"spanish": "Al menos %beer% cervezas en existencia",
 		"ukrainian":"Потрібно %beer% пива на складі",
 		"russian": "Хотя бы %beer% пива",
+		"portuguese": "Pelo menos %beer% cerveja em estoque",
 	},
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
@@ -1673,6 +1680,7 @@
 		"spanish": "Al menos %food% de comida en existencia",
 		"ukrainian":"Потрібно %food% їжі на складі",
 		"russian": "Хотя бы %food% еды",
+		"portuguese": "Pelo menos %food% comida em estoque",
 	},
 	"partyRequirements": {
 		"english": "Party Requirements",
@@ -1681,24 +1689,28 @@
 		"spanish": "Requisitos de Fiesta",
 		"ukrainian":"Щоб розпочати вечірку",
 		"russian": "Требования:",
+		"portuguese": "Requisitos para festas",
 	},
 	"customCamera": { // activated with F4
 		"english": "Custom Camera", // or free-flying camera
 		"german": "Freifliegende Kamera",
 		"russian": "Пользовательская камера",
 		"ukrainian":"Користувацька камера",
+		"portuguese": "câmera de vôo livre",
 	},
 	"customCameraHotkeys": {
 		"english": "Open/close info panel: R\nToggle wall movement: T\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
 		"german": "Infomenü: R\nWandbewegung: T\nFilmmodus: C\nKamerageschwindigkeit: Mausrad\nHoch und runter: Hochstell- und Steuerungstasten",
 		"russian": "Открыть/Закрыть меню информации: R\nПереключить движение стены: T\nКинематографический режим: C\nИзменить скорость камеры: Mouse wheel\nВверх, вниз: Левый Shift и левый Ctrl",
 		"ukrainian":"Відкрити/Закрити меню інформації: R\nПереключити рух стіни: T\nКінематографічний режим: С\nЗмінити швидкість камери: Mouse wheel\nВверх, вниз: Left shift та Left Ctrl",
+		"portuguese": "Abra / feche o painel de informações: R\nAlternar movimento da parede:  T\nModo cinematográfico: C\nAlterar a velocidade da câmera: roda do mouse\nPara cima e para baixo: SHIFT esquerdo e CTRL esquerdo",
 	},
 	"camSpeed": {
 		"english": "Cam speed",
 		"german": "Kamerageschwindigkeit",
 		"russian": "Скорость камеры",
 		"ukrainian":"Швидкість камери",
+		"portuguese": "Velocidade de Cam",
 
 	},
 

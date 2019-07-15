@@ -1613,6 +1613,7 @@
 	"partiesTitle": {
 		"english": "Parties",
 		"german": "Feier",
+		"french": "Fêtes",
 		"spanish": "Fiestas",
 		"ukrainian":"Вечірка",
 		"russian": "Вечеринка",
@@ -1620,6 +1621,7 @@
 	"partiesDesc": {
 		"english": "Parties give your colonists a chance to relax and socialize. The more time your colonists spend dancing, eating, and drinking, the higher their mood is going to rise.",
 		"german": "Feiern geben deine Kolonisten eine Gelegenheit zur Erholung. Je mehr Zeit deine Kolonisten mit Tanzen, Essen und Trinken verbringen, desto besser ihre Stimmung.",
+		"french": "Les fêtes permettent à vos colons de se détendre et de socialiser. Plus vos colons passent du temps à danser, manger et boire, plus leur humeur va s'élever.",
 		"spanish": "Las fiestas le dan a tus colonos una oportunidad de relajarse y socializar. Mientras más tiempo pasen bailando, comiendo y bebiendo, más se incrementará su estado de ánimo.",
 		"ukrainian":"Вечірки дають вашим колоністам можливість розслабитися та поспілкуватися. Чим більше часу ваші колоністи проводять в танцях, їжі та випивці, тим більше їх настрій буде рости.",
 		"russian": "Вечеринки дают вашим колонистам возможность расслабиться. Большую часть времени колонисты будут танцевать, есть и пить, из-за чего их настроение будет повышаться.",
@@ -1627,6 +1629,7 @@
 	"startPartyButton": {
 		"english": "Start Party",
 		"german": "Feier starten",
+		"french": "Commencer une fête",
 		"spanish": "Comenzar Fiesta",
 		"ukrainian":"Розпочати Вечірку",
 		"russian": "Начать вечеринку!",
@@ -1634,6 +1637,7 @@
 	"cantStartPartyDuringReady": {
 		"english": "Can't start party during raid",
 		"german": "Kann Feier nicht während einem Überfall starten",
+		"french": "Impossible de lancer une fête pendant une attaque",
 		"spanish": "No se puede empezar una fiesta durante un ataque",
 		"ukrainian":"Неможливо розпочати вечірку під час нападу Тікігоблінів",
 		"russian": "Нельзя начать вечеринку во время набега",
@@ -1641,6 +1645,7 @@
 	"cantStartPartyBecauseAlreadyPartying": {
 		"english": "Can't start party while colonists are already celebrating",
 		"german": "Kann Feier nicht starten, weil schon eine Feier läuft",
+		"french": "Impossible de commencer une fête lorsque les colons célèbrent déjà",
 		"spanish": "No se puede empezar una fiesta mientras los colonos ya están celebrando",
 		"ukrainian":"Неможливо розпочати вечірку коли вона вже почалась",
 		"russian": "Нельзя начать вечеринку во время другой вечеринки",
@@ -1648,6 +1653,7 @@
 	"coinsToStartParty": {
 		"english": "%coins% Coins to start party",
 		"german": "%coins% Münzen um Feier zu starten",
+		"french": "%coins% pièces pour commencer une fête",
 		"spanish": "%coins% monedas para empezar una fiesta",
 		"ukrainian":"Необхідно %coins% монет для початку вечірки",
 		"russian": "%coins% монет для начала вечеринки",
@@ -1655,6 +1661,7 @@
 	"atLeastBeerInStock": {
 		"english": "At least %beer% beer in stock",
 		"german": "Mindestens %beer% Bier im Lager",
+		"french": "Au moins %beer% bières en stock",
 		"spanish": "Al menos %beer% cervezas en existencia",
 		"ukrainian":"Потрібно %beer% пива на складі",
 		"russian": "Хотя бы %beer% пива в запасах",
@@ -1662,6 +1669,7 @@
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
 		"german": "Mindestens %food% Essen im Lager",
+		"french": "Au moins %food% aliments en stock",
 		"spanish": "Al menos %food% de comida en existencia",
 		"ukrainian":"Потрібно %food% їжі на складі",
 		"russian": "Хотя бы %food% еды в запасах",
@@ -1669,9 +1677,22 @@
 	"partyRequirements": {
 		"english": "Party Requirements",
 		"german": "Feier Voraussetzungen",
+		"french": "Exigences de la fête",
 		"spanish": "Requisitos de Fiesta",
 		"ukrainian":"Щоб розпочати вечірку",
 		"russian": "Требования вечеринки",
+	},
+	"customCamera": { // activated with F4
+		"english": "Custom Camera", // or free-flying camera
+		"german": "Freifliegende Kamera",
+	},
+	"customCameraHotkeys": {
+		"english": "Open/close info panel: R\nToggle wall movement: T\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
+		"german": "Infomenü: R\nWandbewegung: T\nFilmmodus: C\nKamerageschwindigkeit: Mausrad\nHoch und runter: Hochstell- und Steuerungstasten",
+	},
+	"camSpeed": {
+		"english": "Cam speed",
+		"german": "Kamerageschwindigkeit",
 	},
 
 

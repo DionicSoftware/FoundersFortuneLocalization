@@ -820,7 +820,7 @@
 		"portuguese": "Beleza",
 		"dutch": "Schoonheid",
 		"ukrainian":"Краса",
-		"russian":"Украшение",
+		"russian":"Красота",
 	},
 	"work": {
 		"english": "Work",
@@ -1596,10 +1596,12 @@
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
 		"german": "s",
+		"russian": "с",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
 		"german": "s",
+		"russian": "сек",
 	},
 
 }

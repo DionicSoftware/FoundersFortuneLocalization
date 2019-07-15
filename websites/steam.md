@@ -36,7 +36,6 @@ Kümmere dich um Landwirtschaft, Produktion, Ausrüstung, Handel, Verteidigung u
 ### French
 Un simulateur de colonie fantastique focalisé sur la construction créative, la psychologie de colon et la défense de base.
 Gestion des ressources, agriculture, production, équipement, commerce, défense, et recherche, ainsi que vœux, attentes, pensées, et possessions de chaque colon.
-//TODO-Devs
 
 ### Portuguese
 Um simulador de colônias de fantasia com foco em construção criativa, psicologia colonial e defesa de base.
@@ -107,7 +106,6 @@ Du musst dich dabei keineswegs auf vorgefertigte Bauwerke beschränken! Designe 
 Construisez votre colonie
 
 Lorsque des colons arrivent, ils n'ont rien à part quelques vêtements sur le dos. Vous prenez leur contrôle et leur ordonnez de récolter du matériel et de construire des murs, du sol et des meubles.
-//TODO-Devs
 
 Vous n'êtes pas limité à des bâtiments prédéfinis ! Décorez vos maisons et donnez un style qui correspond à vos goûts. Il y a une douzaine de construction et d'éléments d'ameublement que vous pouvez utiliser pour créer votre colonie dont vous avez toujours rêvé !
 
@@ -172,7 +170,6 @@ Jeder Kolonist reagiert auf Ereignisse - positive und negative - und spiegelt da
 Prenez soin de vos colons
 
 Les colons sont votre priorité absolue. Au début, vous devez simplement leur fournir de la nourriture et un abri. Mais le monde est plein de dangers ! Une infection peut s'avérer fatale au guerrier le plus puissant et une peste peut anéantir votre colonie entière.
-//TODO-Devs
 
 Chaque colon réagit aux événements, heureux ou triste, et le reflète dans son comportement. Les colons heureux recevront un coup de pouce pour améliorer leur productivité - Des colons malheureux pourraient avoir une crise de colère.
 
@@ -239,7 +236,6 @@ Wenn du die Bedürfnisse und Wünsche deiner Kolonisten zu lange ignorierst, kö
 Traitez les crises de colère
 
 Dans une vie idéale, tous vos souhaits se réalisent, du moins c’est ce que pense Toni. Les vœux exaucés peuvent favoriser la bonne humeur, tandis que la faim, les blessures, les conversations ennuyeuses ou même les cauchemars feront que les citoyens se sentent mal.
-//TODO-Devs
 
 Si vous ignorez les besoins et les souhaits de vos colons pendant trop longtemps, l'un d'entre eux risque d'avoir une crise de colère.
 
@@ -380,7 +376,6 @@ Wenn die Vorräte schwinden und der eisig kalte Wind draußen heult, ist es einf
 Survivez à l'hiver
 
 Utilisez le temps dont vous disposez et assurez-vous d'avoir assez de nourriture en réserve, car l'hiver arrive. Espérons que vous n’aurez pas besoin de réduire de moitié les rations, car cela affaiblira vos colons.
-//TODO-Devs
 
 Lorsque les stocks diminuent et que le vent glacial souffle à l’extérieur, il est facile de perdre espoir...
 
@@ -610,7 +605,7 @@ Yerleşimcilerinizi savaş sanatında eğit ve onları sahip olduğun en iyi sil
 
 Ви не одні на цьому острові, який тепер називаєте будинком. На цьому острові живуть тікігобліни, які не особливо раді вашому приїзду.
 
-Навчайте своїх колоністів бою і озбройте їх найкращим спорядженням і бронею. Будуйте стіни і башти, щоб тікігобліни не змогли пробратися до вас!
+Навчайте своїх колоністів бою і озбройте їх найкращим спорядженням і бронею. Будуйте стіни і вежі, щоб тікігобліни не змогли пробратися до вас!
 
 
 # Early Access - Why Early Access?
@@ -626,7 +621,6 @@ Auf unserer Website hatten wir einige Monate lang eine öffentliche Alpha laufen
 
 ### French
 Nous exécutons une Alpha publique depuis notre site Web depuis un moment et nous continuons ce projet sur Steam. Nous avons utilisé le système de feedback en guise de guide pour déterminer les fonctionnalités à implémenter, les améliorations de la qualité de jeu à apporter et les bugs à corriger en premier. Ensemble, nous visons la meilleure expérience possible !
-//TODO-Devs
 
 
 ### Portuguese
@@ -842,7 +836,6 @@ Wir haben vor den Preis für Founders' Fortune anzuheben während wir das Spiel 
 
 ### French
 Nous prévoyons d'augmenter le prix de Founders' Fortune à mesure que nous ajouterons plus de fonctionnalités au jeu. Le montant exact dépend de la quantité de contenu que nous pouvons ajouter.
-//TODO-Devs
 
 
 ### Portuguese

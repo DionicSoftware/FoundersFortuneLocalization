@@ -1,5 +1,4 @@
-{
-	
+﻿{	
 	// THOUGHTS
 	"thoughtTitle_DebugGood": {
 		"english": "Good Feeling",
@@ -10,7 +9,7 @@
 		"portuguese": "Sentimento bom",
 		"dutch": "Goed gevoel",
 		"russian": "Хорошее настроение",
-		"ukrainian":"Хороший настрій",
+		"ukrainian":"Гарний настрій",
 	},
 	"thoughtDesc_DebugGood": {
 		"english": "I'm just happy right now and I don't really know why.",
@@ -20,7 +19,7 @@
 		"turkish": "Şu anda nedensiz bir şekilde mutluyum.",
 		"portuguese": "Estou feliz agora e não sei por quê.",
 		"dutch": "Ik ben gewoon blij nu en ik weet niet echt waarom.",
-		"russian": "Я просто счастливл%surnameA% и не знаю почему.",
+		"russian": "Я просто счастлив%surnameA% и не знаю почему.",
 		"ukrainian":"Я просто щаслив%heshe_IY_A% і не знаю чому.",
 	},
 	"thoughtTitle_DebugBad": {
@@ -141,8 +140,8 @@
 		"turkish": "Btikin",
 		"portuguese": "Exausto",
 		"dutch": "Uitgeput",
-		"russian": "Усталость",
-		"ukrainian":"Втома",
+		"russian": "Истощен%surnameA%",
+		"ukrainian":"Виснажений",
 		
 		// When you go further with the Dutch coding. Remove this. This is an Indicator to show where to resume with the Dutch names.
 	},
@@ -631,7 +630,7 @@
 	"thoughtDesc_AteGreatMeal": {
 		"english": "This is the best food I ever tasted! Way better than what I expected of this colony!",
 		"german": "Das ist das Beste, das ich je gegessen habe! So viel besser als ich es von dieser Kolonie erwartet hätte!",
-		"spanish": "¡Esta es la mejor comida que he probado! ¡Mucho mejor de lo que esperaba de esta colonia!",
+		"spanish": "¡Esta es la mejor comida que he probado! ¡Mucho mejor que lo que esperaba de esta colonia!",
 		"french": "C'est la meilleure nourriture que j'ai goûté ! Encore mieux que ce que j'espérais de cette colonie !",
 		"turkish": "Bu tattığım en iyi yemek! Bu yerleşimden beklediğimden çok daha iyi!",
 		"portuguese": "Esta é a melhor comida que eu já provei! Muito melhor do que eu esperava desta colônia!",
@@ -706,7 +705,7 @@
 		"turkish": "Hazırlanmamış yemek yemek zorunda kaldım!",
 		"portuguese": "Tive que comer comida despreparada!",
 		"russian": "Пришлось съесть не приготовленную пищу",
-		"ukrainian":"Довелося з'їсти не приготована їжу",
+		"ukrainian":"Довелося з'їсти не приготовану їжу",
 	},
 	"thoughtDesc_AteRawFoodHasMuchHigherExpectations": {
 		"english": "I had to eat unprepared food. Why?! Someone like me shouldn't have to eat food like that!",
@@ -755,8 +754,8 @@
 		"french": "J'ai mangé de la nourriture simple. Quelqu'un comme moi devrait avoir à manger de la nourriture préparée sur un feu de camp !",
 		"turkish": "Basit yiyecekler yemek zorunda kaldım. Benim gibi birinin en azından kamp ateşinde hazırlanmış yiyecekleri yemesi gerekiyordu!",
 		"portuguese": "Eu tive que comer comida simples. Alguém como eu deveria ter que comer comida preparada em uma fogueira!",
-		"russian": "Мне пришлось съесть простую еду. Таким как я стыдно питаться едой, приготовленной на костре!",
-		"ukrainian":"Мені довелося з'їсти просту їжу. Таким як я соромно харчуватися їжею, приготованою на вогнищі!",
+		"russian": "Мне пришлось съесть простую еду. Таким как я следует питаться едой, приготовленной на костре!",
+		"ukrainian":"Мені довелося з'їсти просту їжу. Таким як я слід харчуватися їжею, приготованою на вогнищі!",
 	},
 	"thoughtTitle_SmallFoodRations": {
 		"english": "Small Food Rations",
@@ -936,7 +935,7 @@
 		"french": "Mon dernier jour de paie était vraiment petit. Je mérite mieux que ça !",
 		"turkish": "Son maaşım gerçekten çok azdı. Ben bundan daha iyisini hakediyorum!",
 		"russian": "Моя предыдущая зарплата была слишком маленькой. Я заслуживаю большего!",
-		"ukrainian":"Моя попередня зарплата була дуже маленькою. Я заслуговую більшого!",
+		"ukrainian": "Моя попередня зарплата була дуже маленькою. Я заслуговую більшого!",
 	},
 	"thoughtTitle_HighSalary": {
 		"english": "Received high salary",
@@ -946,7 +945,7 @@
 		"french": "A reçu un salaire haut",
 		"turkish": "Yüksek maaş aldı",
 		"russian": "Большая зарплата",
-		"ukrainian":"Велика зарплата",
+		"ukrainian": "Велика зарплата",
 	},
 	"thoughtDesc_HighSalary": {
 		"english": "My last payday was really high. So much money!",
@@ -956,7 +955,7 @@
 		"french": "Mon dernier jour de paie était vraiment grand. Tant d'argent !",
 		"turkish": "Son maaşım gerçekten çok yüksekti. Çok param var!",
 		"russian": "Моя предыдущая зарплата была и вправду достойной. Так много денег!",
-		"ukrainian":"Моя попередня зарплата була і справді гідною. Так багато грошей!",
+		"ukrainian": "Моя попередня зарплата була і справді гідною. Так багато грошей!",
 	},
 	"thoughtTitle_MissingFloor": {
 		"english": "Floor missing in house",
@@ -966,7 +965,7 @@
 		"portuguese": "Andar faltando em casa",
 		"turkish": "Evde yer döşemesi yok",
 		"russian": "Отсутствует пол в доме",
-		"ukrainian":"Відсутня підлогу в будинку",
+		"ukrainian": "Відсутня підлога в будинку",
 	},
 	"thoughtDesc_MissingFloor": {
 		"english": "There is a room in my house that's missing a floor. It feels like a construction site.",
@@ -975,7 +974,7 @@
 		"french": "Il y a une pièce de ma maison où il manque du sol. Cela ressemble à un chantier de construction.",
 		"portuguese": "Há uma sala na minha casa que está faltando um andar. Parece um canteiro de obras.",
 		"turkish": "Evde yer döşemesi olmayan oda var. Sanki bir inşaat alanı.",
-		"russian": "В моем доме есть комната, которой не хватает пола. Напоминает стройку.",
+		"russian": "В моем доме есть комната, в которой не хватает пола. Напоминает стройку.",
 		"ukrainian":"У моєму будинку є кімната, в якій не вистачає підлоги. Нагадує будівництво.",
 	},
 	"thoughtTitle_UnpreparedForWinter": {
@@ -985,7 +984,7 @@
 		"french": "Pas préparé pour l'hiver",
 		"portuguese": "Despreparado para o inverno",
 		"turkish": "Kışa hazırlıksız",
-		"russian": "Неподготовлен к зиме",
+		"russian": "Не готов к зиме",
 		"ukrainian":"Не підготовлен%heshe_IY_A% до зими",
 	},
 	"thoughtDesc_UnpreparedForWinter": {
@@ -1002,72 +1001,94 @@
 		"english": "Enjoying party",
 		"german": "Genießt die Feier",
 		"french": "Profite d'une fête",
-		"russian": "Наслаждение вечеринкой",
+		"spanish": "Disfrutando la fiesta",
+		"russian": "Наслаждается вечеринкой",
 		"portuguese": "Curtindo festa",
+		"ukrainian":"Насолоджується вечіркою",
+
 	},
 	"thoughtDesc_EnjoyingParty": {
 		"english": "Finally I'm getting some time to unwind and just be happy with my fellow colonists! Feels great to just not worry for a while.",
 		"german": "Endlich habe ich mal Zeit etwas abzuschalten und micht den schönen Dingne des Lebens zu widmen. Heute wird gefeiert!",
 		"french": "Enfin, je me laisse un peu de temps pour me détendre et être heureux avec mes collègues colons ! Je me sens bien de ne pas m'inquiéter pendant un moment.",
-		"russian": "Наконец-то я могу немножко расслабиться и просто получать удовольствия от времяпрепровождения с моими друзьями! Чувствую себя прекрасно!",
+		"spanish": "¡Por fin tengo tiempo para relajarme y solo ser feliz con mis compañeros colonos! Se siente genial no tener que preocuparse por un rato.",
+		"russian": "Наконец-то я могу немножко расслабиться и просто получать удовольствие от времяпрепровождения с моими друзьями! Чувствую себя прекрасно!",
 		"portuguese": "Finalmente, estou conseguindo algum tempo para me descontrair e ficar feliz com meus colegas colonos! É ótimo não se preocupar por um tempo.",
+		"ukrainian":"Нарешті я можу трошки розслабитися і просто отримувати задоволення від проведення часу з моїми друзями! Відчуваю себе чудово!",
 	},
 	"thoughtTitle_HadFunAtParty": {
 		"english": "Had fun at party",
 		"german": "Hatte Spaß auf der Feier",
 		"french": "S'est amusé%e% à une fête",
+		"spanish": "Se dicirtió en la fiesta",
 		"russian": "Веселая вечеринка",
 		"portuguese": "Diverti-me na festa",
+		"ukrainian":"Весела вечірка",
 	},
 	"thoughtDesc_HadFunAtParty": {
 		"english": "The last party we had was amazing! I'm glad we can find the time to slow down and celebrate our life here from time to time.",
 		"german": "Die letzte Feier war der Hammer! Was bin ich froh, dass wir uns diesen Spaß hin und wieder leisten können.",
 		"french": "La dernière fête que nous avons eue était incroyable ! Je suis heur%euxEuse% que nous puissions trouver le temps de ralentir et de célébrer notre vie ici de temps en temps.",
+		"spanish": "¡La última fiesta que tuvimos fue increíble! Me alegra que pueda encontrar el tiempo para ir más despacio y celebrar nuestra vida aquí de vez en cuando.",
 		"russian": "Предыдущая вечеринка была невероятной! Я рад, что мы можем найти время для отдыха и отпраздновать свои успехи.",
 		"portuguese": "A última festa que tivemos foi incrível! Fico feliz que podemos encontrar tempo para desacelerar e celebrar nossa vida aqui de vez em quando.",
+		"ukrainian":"Попередня вечірка була неймовірною! Я радий, що ми можемо знайти час для відпочинку і відсвяткувати свої успіхи.",
 	},
 	"thoughtTitle_DrankBeer": {
 		"english": "Had a beer",
 		"german": "Hatte ein Bier",
 		"french": "A bu une bière",
+		"spanish": "Se sirvió una cerveza",
 		"russian": "Выпил пива",
 		"portuguese": "Teve uma cerveja",
+		"ukrainian":"Випив пива",
 	},
 	"thoughtDesc_DrankBeer": {
 		"english": "Mmmm, I enjoy drinking a special beverage from time to time.",
 		"german": "Mmmm! Vollmundig im Geschmack und leicht herb im Abgang. So muss Bier schmecken!",
 		"french": "Mmmm, j'aime boire une boisson spéciale de temps en temps.",
+		"spanish": "Mmmm, disfruto una bebida especial de vez en cuando.",
 		"russian": "Мммм, я обожаю попивать этот чудесный напиток время от времени!",
 		"portuguese": "Mmmm, eu gosto de beber uma bebida especial de vez em quando.",
+		"ukrainian":"Мммм... я обожнюю попивати цей чудовий напій час від часу!",
 	},
 	"thoughtTitle_EnjoyedFire": {
 		"english": "Enjoyed fire",
 		"german": "Genoß das Lagerfeuer",
 		"french": "Feu apprécié",
-		"russian": "Наслаждаться пламенем",
+		"spanish": "Disfrutó el fuego",
+		"russian": "Любоваться огнем",
 		"portuguese": "fogo apreciado",
+		"ukrainian":"Насолоджуватися полум'ям",
 	},
 	"thoughtDesc_EnjoyedFire": {
 
 		"english": "Ahhh... Warming up at the fire made me feel really comfortable.",
 		"german": "Ahhh... Jetzt bin ich so richtig durchgewärmt. Eine wahre Wohltat.",
 		"french": "Ahhh ... Je me suis vraiment senti%e% à l'aise de me réchauffer près du feu.",
-		"russian": "Да... Наслаждаться пламенем - бесценно.",
+		"spanish": "Ahhh... Calentarse al fuego me hizo sentir muy cómodo.",
+		"russian": "Да... Любоваться огнем - бесценно.",
 		"portuguese": "Ahhh ... O aquecimento no incêndio me fez sentir muito confortável.",
+		"ukrainian":"Так... Підігріваючись біля вогню, я відчуваю себе дуже комфортно.",
 	},
 	"thoughtTitle_Hugged": {
 		"english": "Received a hug",
 		"german": "´Wurde umarmt",
 		"french": "A reçu un câlin",
-		"russian": "Получил обнимажки",
+		"spanish": "Recibió un abrazo",
+		"russian": "Получил%surnameA% обнимашки",
 		"portuguese": "Recebi um abraço",
+		"ukrainian":"Отрима%hesheEnd% обійми",
+
 	},
 	"thoughtDesc_Hugged": {
 		"english": "I'm glad I have some friends in the colony. We're in this together.",
 		"german": "Wie schön, dass ich hier so gute Freunde habe. Zusammen sind wir stark!",
 		"french": "Je suis content%e% d'avoir des amis dans la colonie. Nous sommes dans le même bateau.",
-		"russian": "Я рад, что у меня есть друзья в колонии. Мне было так приятно получить это объятие!",
+		"spanish": "Me alegra tener algunos amigos en la colonia. Estamos juntos en esto.",
+		"russian": "Я рад%surnameA%, что у меня есть друзья в колонии. Мне было так приятно получить это объятие!",
 		"portuguese": "Estou feliz por ter alguns amigos na colônia. Estamos nisso juntos.",
+		"ukrainian":"Я рад%heshe_IY_A%, що у мене є друзі в колонії. Мені було так приємно отримати ці обійми!",
 	},
 
 
@@ -1148,7 +1169,7 @@
 		"french": "PERSONNE NE ME CONTRÔLE MAINTENANT !",
 		"turkish": "BENİ KİMSE KONTROL EDEMEZ ARTIK",
 		"portuguese": "NINGUÉM ME CONTROLA AGORA!",
-		"russian": "ТЕПЕРЬ МЕНЯ НИКТО НЕ СМОЖЕТ КОНТРОЛИРОВАТЬ!",
+		"russian": "ТЕПЕРЬ МЕНЯ НИКТО НЕ МОЖЕТ КОНТРОЛИРОВАТЬ!",
 		"ukrainian":"ТЕПЕР МЕНЕ НІХТО НЕ МОЖЕ КОНТРОЛЮВАТИ!",
 	},
 	"moodPhrase_Crazy3": {
@@ -1199,7 +1220,7 @@
 		//TODO-turkish
 		//TODO-russian
 		//TODO-ukrainian
-		"spanish": "Nunca quise esta cosa.",
+		"spanish": "Nunca quise este mueble.",
 		"turkish": "Bu şeyi hiç sevmemiştim zaten.",
 		"portuguese": "Eu nunca gostei dessa peça de mobília.",
 		"russian": "Мне никогда не нравилась эта вещь.",

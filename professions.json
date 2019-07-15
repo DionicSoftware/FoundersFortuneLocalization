@@ -1,5 +1,5 @@
 // To avoid gendering difficulties, feel free to have the profession description in plural
-// For example "Famers gather food. They are great." is easier than "A farmer gathers food. He or she is great."
+// For example "Farmers gather food. They are great." is easier than "A farmer gathers food. He or she is great."
 
 
 {
@@ -38,7 +38,7 @@
 		"german": "Bauern kümmern sich um den Anbau von Nahrungsmitteln und verarbeitet sie weiter zu gekochtem Essen. Wenn sie nichts anderes zu tun haben, sammeln sie Baumwolle.",
 		"french": "Un fermier est responsable de la production de la nourriture et de la cuisine. Lorsqu'il n'est pas occupé, il récolte aussi du coton.",
 		"spanish": "Los granjeros son responsables de producir comida y cocinarla. Cuando no estén ocupados también recogerán algodón.",
-		"turkish": "Çiftçiler gıda yetiştirme ve hazırlamakla görevli. Yoğunluk yokken pamuk da toplar",
+		"turkish": "Çiftçiler gıda yetiştirme ve hazırlamakla görevli. İş yoğunluğu yokken pamuk da toplar",
 		"portuguese": "Os agricultores são responsáveis pela produção de alimentos e cozinhar alimentos. Quando não estão ocupados, eles também reúnem algodão.",
 		"russian": "Фермеры ответственны за добычу и приготовление пищи. Когда они не заняты, они так же собирают хлопок.",
 		"ukrainian":"Фермери відповідальні за видобуток і приготування їжі. Коли вони не зайняті, вони так само збирають бавовну.",
@@ -50,7 +50,7 @@
 		"spanish": "Leñador",
 		"turkish": "Oduncu",
 		"portuguese": "Silvicultor",
-		"russian":"Лесоруб",
+		"russian":"Дровосек",
 		"ukrainian":"Лісоруб",
 	},
 	"professionDesc_Forester": {
@@ -60,7 +60,7 @@
 		"spanish": "Como leñador, tu colono se encarga de cortar árboles para conseguir madera. Por el bien de la naturaleza también se encarga de los retoños.",
 		"turkish": "Oduncular ağaç kesip kereste hazırlar. Ayrıca fidanlara da bakar.",
 		"portuguese": "Como um silvicultor seu colono corta árvores para madeira. Por causa da mãe natureza, ele também cuida de mudas.",
-		"russian": "Лесорубы вырубают деревья для получения дерева. Они так же не забывают о саженцах.",
+		"russian": "Дровосеки вырубают деревья для получения дерева. Они так же не забывают о саженцах.",
 		"ukrainian":"Лісоруби вирубують дерева для отримання дерева. Вони так само не забувають про саджанці.",
 	},
 	"professionName_Miner": {
@@ -227,7 +227,7 @@
 		"english": "Tend to Fields",
 		"german": "Felder bewirtschaften",
 		"french": "S'occuper des Champs",
-		"spanish": "Atender cultivos",
+		"spanish": "Atender Cultivos",
 		"turkish": "Tarlalara bakım",
 		"portuguese": "Tendem a campos",
 		"russian": "Ухаживать за полями",
@@ -247,7 +247,7 @@
 		"english": "Gather cotton",
 		"german": "Baumwolle sammeln",
 		"french": "Récolter du Coton",
-		"spanish": "Recolectar algodón",
+		"spanish": "Recolectar Algodón",
 		"turkish": "Pamuk toplama",
 		"portuguese": "Reúna algodão",
 		"russian": "Собирать хлопок",
@@ -257,7 +257,7 @@
 		"english": "Harvest Apples",
 		"german": "Äpfel ernten",
 		"french": "Récolter des Pommes",
-		"spanish": "Cosechar manzanas",
+		"spanish": "Cosechar Manzanas",
 		"turkish": "Elma toplama",
 		"portuguese": "Colheir de maçãs",
 		"russian": "Собирать яблоки",
@@ -266,7 +266,7 @@
 	"professionSpecialization_DoctorProduceMedicine": {
 		"english": "Produce Medicine",
 		"german": "Medizin produzieren",
-		"spanish": "Producir medicina",
+		"spanish": "Producir Medicina",
 		"portuguese": "Produzir remédio",
 		"french": "Fabriquer des Remèdes",
 		"turkish": "İlaç üret",
@@ -276,29 +276,32 @@
 	"professionSpecialization_DoctorTendToPatients": {
 		"english": "Tend to Injured Colonists",
 		"german": "Um verletzte Kolonisten kümmern",
-		"spanish": "Atender a los colonos heridos",
+		"spanish": "Atender a los Colonos Heridos",
 		"portuguese": "Tendem a feridos colonos",
 		"french": "Soigner les Colons Blessés",
 		"turkish": "Yaralı yerleşimcilerle ilgilen",
-		"russian": "Ухаживать за больными колонистами",
+		"russian": "Ухаживать за больными",
 		"ukrainian":"Доглядати за хворими колоністами",
 	},
 	"professionSpecialization_DoctorBuryDead": {
 		"english": "Bury Dead",
 		"german": "Verstorbene begraben",
-		"spanish": "Enterrar muertos",
+		"spanish": "Enterrar Muertos",
 		"portuguese": "Enterrar morto",
 		"french": "Enterrer des Cadavres",
 		"turkish": "Ölmüşleri göm",
-		"russian": "Похоронить мертвых",
+		"russian": "Хоронить мертвых",
 		"ukrainian":"Поховати мертвих",
 	},
 	"professionSpecialization_DoctorBrewBeer": {
 		"english": "Brew Beer",
 		"german": "Bier brauen",
 		"french": "Brasser de la Bière",
+		"spanish": "Preparar Cerveza",
 		"russian": "Варить пиво",
 		"portuguese": "Cerveja fermentada",
+		"turkish": "Bira yap",
+		"ukrainian":"Варить пиво",
 	},
 	"professionSpecialization_ScholarAnalyzeCrystals": {
 		"english": "Analyze Crystals",

@@ -1656,7 +1656,7 @@
 		"french": "%coins% pièces pour commencer une fête",
 		"spanish": "%coins% monedas para empezar una fiesta",
 		"ukrainian":"Необхідно %coins% монет для початку вечірки",
-		"russian": "%coins% монет для начала вечеринки",
+		"russian": "%coins% монет",
 	},
 	"atLeastBeerInStock": {
 		"english": "At least %beer% beer in stock",
@@ -1664,7 +1664,7 @@
 		"french": "Au moins %beer% bières en stock",
 		"spanish": "Al menos %beer% cervezas en existencia",
 		"ukrainian":"Потрібно %beer% пива на складі",
-		"russian": "Хотя бы %beer% пива в запасах",
+		"russian": "Хотя бы %beer% пива",
 	},
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
@@ -1672,7 +1672,7 @@
 		"french": "Au moins %food% aliments en stock",
 		"spanish": "Al menos %food% de comida en existencia",
 		"ukrainian":"Потрібно %food% їжі на складі",
-		"russian": "Хотя бы %food% еды в запасах",
+		"russian": "Хотя бы %food% еды",
 	},
 	"partyRequirements": {
 		"english": "Party Requirements",
@@ -1680,19 +1680,22 @@
 		"french": "Exigences de la fête",
 		"spanish": "Requisitos de Fiesta",
 		"ukrainian":"Щоб розпочати вечірку",
-		"russian": "Требования вечеринки",
+		"russian": "Требования:",
 	},
 	"customCamera": { // activated with F4
 		"english": "Custom Camera", // or free-flying camera
 		"german": "Freifliegende Kamera",
+		"russian": "Пользовательская камера",
 	},
 	"customCameraHotkeys": {
 		"english": "Open/close info panel: R\nToggle wall movement: T\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
 		"german": "Infomenü: R\nWandbewegung: T\nFilmmodus: C\nKamerageschwindigkeit: Mausrad\nHoch und runter: Hochstell- und Steuerungstasten",
+		"russian": "Открыть/Закрыть меню информации: R\nПереключить движение стены: T\nКинематографический режим: C\nИзменить скорость камеры: Mouse wheel\nВверх, вниз: Левый Shift и левый Ctrl",
 	},
 	"camSpeed": {
 		"english": "Cam speed",
 		"german": "Kamerageschwindigkeit",
+		"russian": "Скорость камеры",
 	},
 
 

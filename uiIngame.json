@@ -1694,6 +1694,8 @@
 	"customCamera": { // activated with F4
 		"english": "Custom Camera", // or free-flying camera
 		"german": "Freifliegende Kamera",
+		"french": "Caméra libre",
+		"spanish": "Cámara libre",
 		"russian": "Пользовательская камера",
 		"ukrainian":"Користувацька камера",
 		"portuguese": "câmera de vôo livre",
@@ -1701,6 +1703,8 @@
 	"customCameraHotkeys": {
 		"english": "Open/close info panel: R\nToggle wall movement: T\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
 		"german": "Infomenü: R\nWandbewegung: T\nFilmmodus: C\nKamerageschwindigkeit: Mausrad\nHoch und runter: Hochstell- und Steuerungstasten",
+		"french": "Ouvrir/fermer le panneau d'information : R\nActiver/désactiver le mouvement des murs : T\nMode cinématique : C\nChanger la vitesse de la caméra : molette de la souris\nHaut et bas : MAJ gauche et CTRL gauche",
+		"spanish": "Abrir/cerrar panel de información: R\nAlternar movimiento de muros: T\nModo Cinemática: C\nCambiar velocidad de cámara: Rueda del ratón\nArriba y abajo: Shift izquierdo y Control izquierdo",
 		"russian": "Открыть/Закрыть меню информации: R\nПереключить движение стены: T\nКинематографический режим: C\nИзменить скорость камеры: Mouse wheel\nВверх, вниз: Левый Shift и левый Ctrl",
 		"ukrainian":"Відкрити/Закрити меню інформації: R\nПереключити рух стіни: T\nКінематографічний режим: С\nЗмінити швидкість камери: Mouse wheel\nВверх, вниз: Left shift та Left Ctrl",
 		"portuguese": "Abra / feche o painel de informações: R\nAlternar movimento da parede:  T\nModo cinematográfico: C\nAlterar a velocidade da câmera: roda do mouse\nPara cima e para baixo: SHIFT esquerdo e CTRL esquerdo",
@@ -1708,7 +1712,9 @@
 	"camSpeed": {
 		"english": "Cam speed",
 		"german": "Kamerageschwindigkeit",
+		"french": "Vitesse de la caméra",
 		"russian": "Скорость камеры",
+		"spanish": "Velocidad de cámara",
 		"ukrainian":"Швидкість камери",
 		"portuguese": "Velocidade de Cam",
 

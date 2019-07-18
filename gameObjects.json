@@ -2316,7 +2316,7 @@
 		//TODO-french (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
 		"french": "Atelier du Fabricant d'Outils",
 		//TODO-spanish (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
-		"spanish": "Taller de herramientas",
+		"spanish": "Taller de carpintero",
 		"portuguese": "Oficina de carpinteiro",
 		//TODO-turkish (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
 		"turkish": "Takım Atölyesi",
@@ -2330,8 +2330,7 @@
 		"german": "Du bist es leid auf Baumaterial zu warten? Lasse einen Schreiner mit dieser Werkbank einfache Werkzeuge herstellen, die deinen Kolonisten die Arbeit erleichtern",
 		//TODO-french (changed to Let a carpenter; simple wooden tools!)
 		"french": "Fatigué d'attendre pour des matériaux de construction ? Laissez un artisan utiliser cet atelier pour fabriquer des outils simples, qui simplifie le travail des colons.",
-		//TODO-spanish (changed to Let a carpenter; simple wooden tools!)
-		"spanish": "¿Cansado de esperar por materiales de construcción? Deja que un artesano use este taller básico para construir herramientas simples, que mejoran la productividad.",
+		"spanish": "¿Cansado de esperar por materiales de construcción? Deja que un carpintero use este taller básico para fabricar herramientas simples de madera, que mejoran la productividad.",
 		"portuguese": "Cansado de esperar por materiais de construção? Deixe um carpinteiro usar essa bancada básica para fazer ferramentas simples de madeira, que facilitam o trabalho de seus colonos.",
 		//TODO-turkish (changed to Let a carpenter; simple wooden tools!)
 		"turkish": "Araç gereç beklemekten bıktınız mı? Bu tezgahla zanaatkarlarınıza verimliliği arttıracak basit araçlar ürettirebilirsiniz.",
@@ -2343,11 +2342,13 @@
 	"masonsWorkbench": {
 		"english": "Mason's Workshop",
 		"german": "Steinwerkbank",
+		"spanish": "Taller de albañil",
 		"portuguese": "Oficina de Mason",
 	},
 	"masonsWorkbenchDescription": {
 		"english": "Do you remember the productivity boost when you introduced wooden tools? Just imagine what will happen once you upgrade to stone tools! All you need is this workshop and a skilled craftsman and you should be good to go!",
 		"german": "Ist die Produktivität zu klein, wird Steinwerkzeug dein Retter sein! Alles was du brauchst ist diese Werkbank und einen geschulten Handwerker.",
+		"spanish": "¿Recuerdas el incremento en la productividad cuando introdujiste las herramientas de madera? ¡Imagina lo que pasará cuando mejores a herramientas de piedra! ¡Todo lo que necesitas es este taller y un artesano experimentado y estarás listo!",
 		"portuguese": "Você se lembra do aumento de produtividade quando introduziu ferramentas de madeira? Imagine o que acontecerá quando você atualizar para ferramentas de pedra! Tudo que você precisa é esta oficina e um artesão habilidoso e você deve estar pronto!",
 	},
 	"tailor": {
@@ -3689,61 +3690,73 @@
 	"windowBoxWood0Variation0": {
 		"english": "Wooden Window Box",
 		"german": "Hölzener Blumenkasten",
+		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
 	},
 	"windowBoxWood0Variation0Description": {
 		"english": "Flowers are beautiful, right? These white spring flowers will make looking out the window an even more satisfying experience.",
 		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen weißen Frühlingsblumen.",
+		"spanish": "Las flores son hermosas, ¿no? Estas flores blancas de primavera harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores brancas da primavera farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
 	},
 	"windowBoxWood0Variation1": {
 		"english": "Wooden Window Box",
 		"german": "Hölzener Blumenkasten",
+		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
 	},
 	"windowBoxWood0Variation1Description": {
 		"english": "Flowers are beautiful, right? These purple spring flowers will make looking out the window an even more satisfying experience.",
 		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen weißen Frühlingsblumen.",
+		"spanish": "Las flores son hermosas, ¿no? Estas flores moradas de primavera harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores roxas da primavera farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
 	},
 	"windowBoxWood0Variation2": {
 		"english": "Wooden Window Box",
 		"german": "Hölzener Blumenkasten",
+		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
 	},
 	"windowBoxWood0Variation2Description": {
 		"english": "Flowers are beautiful, right? These yellow summer flowers will make looking out the window an even more satisfying experience.",
 		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen gelben Sommersblumen.",
+		"spanish": "Las flores son hermosas, ¿no? Estas flores amarillas de verano harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores amarelas de verão farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
 	},
 	"windowBoxWood0Variation3": {
 		"english": "Wooden Window Box",
 		"german": "Hölzener Blumenkasten",
+		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
 	},
 	"windowBoxWood0Variation3Description": {
 		"english": "Flowers are beautiful, right? These blue summer flowers will make looking out the window an even more satisfying experience.",
 		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen blauen Sommersblumen.",
+		"spanish": "Las flores son hermosas, ¿no? Estas flores azules de verano harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores azuis do verão farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
 	},
 	"windowBoxWood0Variation4": {
 		"english": "Wooden Window Box",
 		"german": "Hölzener Blumenkasten",
+		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
 	},
 	"windowBoxWood0Variation4Description": {
 		"english": "Flowers are beautiful, right? These red fall flowers will make looking out the window an even more satisfying experience.",
 		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen roten Herbstblumen.",
+		"spanish": "Las flores son hermosas, ¿no? Estas flores rojas de otoño harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Essas flores de outono vermelho farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
 	},
 	"windowBoxWood0Variation5": {
 		"english": "Wooden Window Box",
 		"german": "Hölzener Blumenkasten",
+		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
 	},
 	"windowBoxWood0Variation5Description": {
 		"english": "Flowers are beautiful, right? These orange fall flowers will make looking out the window an even more satisfying experience.",
 		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen orangen Herbstblumen.",
+		"spanish": "Las flores son hermosas, ¿no? Estas flores anaranjadas de otoño harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores alaranjadas da queda farão a vista da janela uma experiência ainda mais satisfying.",
 	},
 

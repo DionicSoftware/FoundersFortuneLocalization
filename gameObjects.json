@@ -66,9 +66,9 @@
 		"english": "Shelf for Baked Food",
 		"german": "Regal für Backwaren",
 		"french": "Étagère pour Aliments Cuits",
-	    "spanish": "Estantería para comida horneada",
-	   	"portuguese": "Prateleira para comida assada",
-	   	"turkish": "Pişmiş Yemek Rafı",
+	  "spanish": "Estantería para comida horneada",
+	  "portuguese": "Prateleira para comida assada",
+	  "turkish": "Pişmiş Yemek Rafı",
 		"russian": "Полка для выпечки",
 		"ukrainian":"Полиця для випеченої їжі",
 	},
@@ -85,10 +85,20 @@
 	"potionMedicineStorage": {
 		"english": "Healing Potion Cabinet",
 		"german": "Schrank für Heiltränke",
+		"french": "Armoire de Potions de Soins",
+		"spanish": "Gabinete de Pociones Curativas",
+		"portuguese": "Gabinete de Poção de Cura",
+		"russian": "Шкаф с лечебными зельями",
+		"ukrainian":"Шафа з лікувальним зіллям",
 	},
 	"potionMedicineStorageDescription": {
 		"english": "Does your leg hurt? Are you sick? Losing blood? No matter what kind of harm has fallen upon you, a healing potion is always a good idea. Even if it doesn't really cure your condition, at least it numbs the pain. And these potions taste good, too.",
 		"german": "Schmerzt dein Bein? Bist du krank? Verlierst Blut? Egal welches Unglück dich heimsucht, ein Heiltrank ist immer eine gute Idee. Selbst wenn er nicht die Ursache behebt, wird zumindest der Schmerz betäubt. Und gut schmecken diese Tränke auch.",
+		"french": "Vous avez mal à la jambe ? Vous êtes malade ? Vous perdez du sang ? Peu importe le mal que vous avez, une potion de guérison est toujours une bonne idée. Même si cela ne vous guérit pas vraiment, au moins, cela atténue la douleur. Et ces potions ont bon goût, aussi.",
+		"spanish": "¿Te duele la pierna? ¿Estás enfermo? ¿Perdiendo sangre? Sin importar el tipo de daño que ha caído sobre ti, una poción curativa es siempre una buena idea. Incluso si realmente no cura tu condición, al menos adormece el dolor. Y además, saben bien.",
+		"portuguese": "Sua perna está doendo? Você está doente? Perder sangue? Não importa que tipo de dano tenha caído sobre você, uma poção de cura é sempre uma boa ideia. Mesmo que não cure realmente a sua condição, pelo menos isso amortece a dor. E essas poções também são boas.",
+		"russian": "У вас болит нога? Вы болеете? Потеряли много крови? Независимо от того, какой вред вам нанесен, лечебное зелье всегда будет хорошей идеей. Оно не лечит, однако, оно помогает ослабить боль. А еще, эти зелья такие вкусные!",
+		"ukrainian":"У вас болить нога? Ви хворієте? Втратили багато крові? Незалежно від того, якої шкоди вам завдано, лікувальне зілля завжди буде гарною ідеєю. Воно не лікує, проте воно допомагає послабити біль. А ще ці зілля такі смачні!",
 	},
     "beerRefillBarrel": {
 		"english": "Beer Barrel",
@@ -1685,7 +1695,6 @@
 		"english": "Beer Bench",
 		"german": "Bierbank",
 		//TODO-russian
-		//TODO-portuguese
 		//TODO-ukrainian
 		"french": "Banc de Bière",
 		"spanish": "Banco de cerveza",
@@ -1698,7 +1707,6 @@
 		"english": "The perfect bench to enjoy a cold, smooth beer. Has a \"Oktoberfest\" vibe to it!",
 		"german": "Der perfekte Bank, um ein gekühltes, süffiges Bier zu genießen. Da kommt Volksfeststimmung auf!",
 		//TODO-russian
-		//TODO-portuguese
 		//TODO-ukrainian
 		"french": "Le banc parfait pour savourer une bière dousse et froide. A une ambiance Oktoberfest !",
 		"spanish": "El banco perfecto para disfrutar una fría y suave cerveza. ¡Tiene un ambiente de Oktoberfest en ella!",
@@ -2301,24 +2309,44 @@
 		"ukrainian":"Досвідчений майстер зможе створювати тут зброї для дальнього бою.",
 	},
 	"workbench": {
-		"english": "Toolmaker's Workshop",
-		"german": "Werkbank",
+		"english": "Carpenter's Workshop",
+		"german": "Holzwerkbank",
+		//TODO-french (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
 		"french": "Atelier du Fabricant d'Outils",
+		//TODO-spanish (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
 		"spanish": "Taller de herramientas",
-		"portuguese": "Oficina de Ferramentaria",
+		"portuguese": "Oficina de carpinteiro",
+		//TODO-turkish (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
 		"turkish": "Takım Atölyesi",
+		//TODO-russian (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
 		"russian": "Инструментальная мастерская",
+		//TODO-ukranian (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
 		"ukrainian":"Інструментальна майстерня",
 	},
 	"workbenchDescription": {
-		"english": "Tired of waiting for building materials? Let a craftsman use this basic workbench to make simple tools, that make your colonists' jobs easier.",
-		"german": "Du bist es leid auf Baumaterial zu warten? Lasse einen Handwerke diese Werkbank benutzen um einfache Werkzeuge herzustellen, die deinen Kolonisten die Arbeit erleichtern",
+		"english": "Tired of waiting for building materials? Let a carpenter use this basic workbench to make simple wooden tools, that make your colonists' jobs easier.",
+		"german": "Du bist es leid auf Baumaterial zu warten? Lasse einen Schreiner mit dieser Werkbank einfache Werkzeuge herstellen, die deinen Kolonisten die Arbeit erleichtern",
+		//TODO-french (changed to Let a carpenter; simple wooden tools!)
 		"french": "Fatigué d'attendre pour des matériaux de construction ? Laissez un artisan utiliser cet atelier pour fabriquer des outils simples, qui simplifie le travail des colons.",
+		//TODO-spanish (changed to Let a carpenter; simple wooden tools!)
 		"spanish": "¿Cansado de esperar por materiales de construcción? Deja que un artesano use este taller básico para construir herramientas simples, que mejoran la productividad.",
-		"portuguese": "Cansado de esperar por materiais de construção? Deixe um artesão usar essa bancada básica para fazer ferramentas simples, que facilitam o trabalho de seus colonos.",
+		"portuguese": "Cansado de esperar por materiais de construção? Deixe um carpinteiro usar essa bancada básica para fazer ferramentas simples de madeira, que facilitam o trabalho de seus colonos.",
+		//TODO-turkish (changed to Let a carpenter; simple wooden tools!)
 		"turkish": "Araç gereç beklemekten bıktınız mı? Bu tezgahla zanaatkarlarınıza verimliliği arttıracak basit araçlar ürettirebilirsiniz.",
+		//TODO-russian (changed to Let a carpenter; simple wooden tools!)
 		"russian": "Устали ждать пока колонисты собирают ресурсы руками? Постройте эту мастерскую, в которой ремесленник сможет создавать инструменты, которые облегчат работу ваших колонистов.",
+		//TODO-ukranian (changed to Let a carpenter; simple wooden tools!)
 		"ukrainian":"Втомилися чекати поки колоністи збирають ресурси руками? Побудуйте цю майстерню, в якій ремісник зможе створювати інструменти, які полегшать роботу ваших колоністів.",
+	},
+	"masonsWorkbench": {
+		"english": "Mason's Workshop",
+		"german": "Steinwerkbank",
+		"portuguese": "Oficina de Mason",
+	},
+	"masonsWorkbenchDescription": {
+		"english": "Do you remember the productivity boost when you introduced wooden tools? Just imagine what will happen once you upgrade to stone tools! All you need is this workshop and a skilled craftsman and you should be good to go!",
+		"german": "Ist die Produktivität zu klein, wird Steinwerkzeug dein Retter sein! Alles was du brauchst ist diese Werkbank und einen geschulten Handwerker.",
+		"portuguese": "Você se lembra do aumento de produtividade quando introduziu ferramentas de madeira? Imagine o que acontecerá quando você atualizar para ferramentas de pedra! Tudo que você precisa é esta oficina e um artesão habilidoso e você deve estar pronto!",
 	},
 	"tailor": {
 		"english": "Tailor's Workshop",
@@ -3178,7 +3206,7 @@
 		"spanish": "%supporter% %elLa% Grande",
 		"turkish": "Büyük %supporter%",
 		"portuguese": "%supporter% %oA% grande",
-		"russian": "%supporter% Велик%hesheEnd%",
+		"russian": "%supporter% Велик%hesheEnd6%",
 		"ukrainian":"%supporter% Велик%heshe_IY_A%",
 	},
 	"statueFounderSupporterDescription": {
@@ -3654,6 +3682,69 @@
 		"ukrainian":"Покажіть свій статус за допомогою вікна зі склом! Змушуйте інших вам заздрити!",
 	},
 	
+// WindowBoxes
+//************
+	"windowBoxWood0Variation0": {
+		"english": "Wooden Window Box",
+		"german": "Hölzener Blumenkasten",
+		"portuguese": "Caixa de janela de madeira",
+	},
+	"windowBoxWood0Variation0Description": {
+		"english": "Flowers are beautiful, right? These white spring flowers will make looking out the window an even more satisfying experience.",
+		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen weißen Frühlingsblumen.",
+		"portuguese": "As flores são lindas, certo? Estas flores brancas da primavera farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+	},
+	"windowBoxWood0Variation1": {
+		"english": "Wooden Window Box",
+		"german": "Hölzener Blumenkasten",
+		"portuguese": "Caixa de janela de madeira",
+	},
+	"windowBoxWood0Variation1Description": {
+		"english": "Flowers are beautiful, right? These purple spring flowers will make looking out the window an even more satisfying experience.",
+		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen weißen Frühlingsblumen.",
+		"portuguese": "As flores são lindas, certo? Estas flores roxas da primavera farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+	},
+	"windowBoxWood0Variation2": {
+		"english": "Wooden Window Box",
+		"german": "Hölzener Blumenkasten",
+		"portuguese": "Caixa de janela de madeira",
+	},
+	"windowBoxWood0Variation2Description": {
+		"english": "Flowers are beautiful, right? These yellow summer flowers will make looking out the window an even more satisfying experience.",
+		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen gelben Sommersblumen.",
+		"portuguese": "As flores são lindas, certo? Estas flores amarelas de verão farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+	},
+	"windowBoxWood0Variation3": {
+		"english": "Wooden Window Box",
+		"german": "Hölzener Blumenkasten",
+		"portuguese": "Caixa de janela de madeira",
+	},
+	"windowBoxWood0Variation3Description": {
+		"english": "Flowers are beautiful, right? These blue summer flowers will make looking out the window an even more satisfying experience.",
+		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen blauen Sommersblumen.",
+		"portuguese": "As flores são lindas, certo? Estas flores azuis do verão farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+	},
+	"windowBoxWood0Variation4": {
+		"english": "Wooden Window Box",
+		"german": "Hölzener Blumenkasten",
+		"portuguese": "Caixa de janela de madeira",
+	},
+	"windowBoxWood0Variation4Description": {
+		"english": "Flowers are beautiful, right? These red fall flowers will make looking out the window an even more satisfying experience.",
+		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen roten Herbstblumen.",
+		"portuguese": "As flores são lindas, certo? Essas flores de outono vermelho farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+	},
+	"windowBoxWood0Variation5": {
+		"english": "Wooden Window Box",
+		"german": "Hölzener Blumenkasten",
+		"portuguese": "Caixa de janela de madeira",
+	},
+	"windowBoxWood0Variation5Description": {
+		"english": "Flowers are beautiful, right? These orange fall flowers will make looking out the window an even more satisfying experience.",
+		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen orangen Herbstblumen.",
+		"portuguese": "As flores são lindas, certo? Estas flores alaranjadas da queda farão a vista da janela uma experiência ainda mais satisfying.",
+	},
+
 // Pillars
 //********
 

@@ -1695,7 +1695,6 @@
 		"english": "Beer Bench",
 		"german": "Bierbank",
 		//TODO-russian
-		//TODO-portuguese
 		//TODO-ukrainian
 		"french": "Banc de Bière",
 		"spanish": "Banco de cerveza",
@@ -1708,7 +1707,6 @@
 		"english": "The perfect bench to enjoy a cold, smooth beer. Has a \"Oktoberfest\" vibe to it!",
 		"german": "Der perfekte Bank, um ein gekühltes, süffiges Bier zu genießen. Da kommt Volksfeststimmung auf!",
 		//TODO-russian
-		//TODO-portuguese
 		//TODO-ukrainian
 		"french": "Le banc parfait pour savourer une bière dousse et froide. A une ambiance Oktoberfest !",
 		"spanish": "El banco perfecto para disfrutar una fría y suave cerveza. ¡Tiene un ambiente de Oktoberfest en ella!",
@@ -2317,8 +2315,7 @@
 		"french": "Atelier du Fabricant d'Outils",
 		//TODO-spanish (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
 		"spanish": "Taller de herramientas",
-		//TODO-portuguese (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
-		"portuguese": "Oficina de Ferramentaria",
+		"portuguese": "Oficina de carpinteiro",
 		//TODO-turkish (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
 		"turkish": "Takım Atölyesi",
 		//TODO-russian (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
@@ -2333,8 +2330,7 @@
 		"french": "Fatigué d'attendre pour des matériaux de construction ? Laissez un artisan utiliser cet atelier pour fabriquer des outils simples, qui simplifie le travail des colons.",
 		//TODO-spanish (changed to Let a carpenter; simple wooden tools!)
 		"spanish": "¿Cansado de esperar por materiales de construcción? Deja que un artesano use este taller básico para construir herramientas simples, que mejoran la productividad.",
-		//TODO-portuguese (changed to Let a carpenter; simple wooden tools!)
-		"portuguese": "Cansado de esperar por materiais de construção? Deixe um artesão usar essa bancada básica para fazer ferramentas simples, que facilitam o trabalho de seus colonos.",
+		"portuguese": "Cansado de esperar por materiais de construção? Deixe um carpinteiro usar essa bancada básica para fazer ferramentas simples de madeira, que facilitam o trabalho de seus colonos.",
 		//TODO-turkish (changed to Let a carpenter; simple wooden tools!)
 		"turkish": "Araç gereç beklemekten bıktınız mı? Bu tezgahla zanaatkarlarınıza verimliliği arttıracak basit araçlar ürettirebilirsiniz.",
 		//TODO-russian (changed to Let a carpenter; simple wooden tools!)
@@ -2345,10 +2341,12 @@
 	"masonsWorkbench": {
 		"english": "Mason's Workshop",
 		"german": "Steinwerkbank",
+		"portuguese": "Oficina de Mason",
 	},
 	"masonsWorkbenchDescription": {
 		"english": "Do you remember the productivity boost when you introduced wooden tools? Just imagine what will happen once you upgrade to stone tools! All you need is this workshop and a skilled craftsman and you should be good to go!",
 		"german": "Ist die Produktivität zu klein, wird Steinwerkzeug dein Retter sein! Alles was du brauchst ist diese Werkbank und einen geschulten Handwerker.",
+		"portuguese": "Você se lembra do aumento de produtividade quando introduziu ferramentas de madeira? Imagine o que acontecerá quando você atualizar para ferramentas de pedra! Tudo que você precisa é esta oficina e um artesão habilidoso e você deve estar pronto!",
 	},
 	"tailor": {
 		"english": "Tailor's Workshop",

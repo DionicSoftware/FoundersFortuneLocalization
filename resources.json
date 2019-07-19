@@ -31,7 +31,7 @@
 	},
 	"resourceDescription_FoodRaw": {
 		"english": "Your colonists need food to survive. Every type you gather is raw at first and can be cooked.",
-		"german": "Deine Kolonisten brauchen Nahrung zum überleben. Jede Art von Nahrung die du sammelst ist zuerst roh und kann dann gekocht werden.",
+		"german": "Deine Kolonisten brauchen Nahrung zum Überleben. Jede Art von Nahrung die du sammelst ist zunächst roh und kann dann gekocht werden.",
 		"french": "Vos colons ont besoin de nourriture pour survivre. Chaque récolte est crue au début et peut être cuisinée.", 
 		"spanish": "Tus colonos necesitan sobrevivir. Cualquier tipo de cultivo que recolectes está crudo y puede ser cocinado.",
 		"turkish": "Yerleşimcilerin hayatta kalmak için yiyeceğe ihtiyaçları var. Topladığınız yiyecekler çiğ ancak pişirilebilir.",
@@ -490,8 +490,15 @@
 		"ukrainian":"Бавовна",
 	},
 	"resourceDescription_Cotton": {
-		"english": "Cotton is used for all things that are made out of cloth. This includes stuff like beds, bandages and clothes.",
-		"german": "Baumwolle wird für alles benötigt, das aus Stoff gemacht ist. Dazu gehören Betten, Verbände und Kleidung.",
+		"english": "Cotton is used for all things that are made out of cloth. This includes stuff like beds, armchairs, and clothes.",
+		"german": "Baumwolle wird für alles benötigt, das aus Stoff gemacht ist. Dazu gehören Betten, Sessel, und Kleidung.",
+		// TODO: no bandages, they existed in a super old alpha version
+		// TODO-french
+		// TODO-spanish
+		// TODO-turkish
+		// TODO-portuguese
+		// TODO-russian
+		// TODO-ukrainian
 		"french": "Le coton est utilisé pour toute chose qui requiert du tissu. Cela inclut les affaires comme les lits, les bandages et les vêtements.", 
 		"spanish": "El algodón se usa para todo aquello que requiera tela. Esto incluye camas, vendas y ropa.",
 		"turkish": "Pamuk, kumaştan yapılmış her şey için kullanılır. Buna yatak, bandaj ve kıyafet gibi şeyler dahildir.",
@@ -510,8 +517,8 @@
 		"ukrainian":"Кристал",
 	},
 	"resourceDescription_Crystal": {
-		"english": "A crystal is a gem with many interesting properties. Your colonists can gather and study them as a way of doing research.",
-		"german": "Ein Kristall ist ein Stein mit vielen interessanten Eigenschaften. Deine Kolonisten können sie sammeln und untersuchen um zu forschen.",
+		"english": "Crystals are gems with many interesting properties. Your colonists can gather and study them as a way of doing research.",
+		"german": "Kristalle sind Steine mit vielen interessanten Eigenschaften. Deine Kolonisten können sie sammeln und untersuchen um zu forschen.",
 		"french": "Un cristal est une gemme avec des propriétés intéressantes. Vos colons peuvent les récolter et les étudier et ainsi faire de la recherche.", 
 		"spanish": "Un cristal es una gema con muchas propiedades interesantes. Tus colonos pueden recolectarlos y estudiarlos para sus investigaciones.",
 		"turkish": "Kristal, birçok ilginç özelliğe sahip bir mücevherdir. Kolonistler, onları araştırma yapmanın bir yolu olarak toplayabilir ve çalışabilir.",

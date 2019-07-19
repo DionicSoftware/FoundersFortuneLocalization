@@ -2319,8 +2319,7 @@
 		"portuguese": "Oficina de carpinteiro",
 		//TODO-turkish (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
 		"turkish": "Takım Atölyesi",
-		//TODO-russian (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
-		"russian": "Инструментальная мастерская",
+		"russian": "Мастерская ремесленника",
 		//TODO-ukranian (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
 		"ukrainian":"Інструментальна майстерня",
 	},
@@ -2332,8 +2331,7 @@
 		"portuguese": "Cansado de esperar por materiais de construção? Deixe um carpinteiro usar essa bancada básica para fazer ferramentas simples de madeira, que facilitam o trabalho de seus colonos.",
 		//TODO-turkish (changed to Let a carpenter; simple wooden tools!)
 		"turkish": "Araç gereç beklemekten bıktınız mı? Bu tezgahla zanaatkarlarınıza verimliliği arttıracak basit araçlar ürettirebilirsiniz.",
-		//TODO-russian (changed to Let a carpenter; simple wooden tools!)
-		"russian": "Устали ждать пока колонисты собирают ресурсы руками? Постройте эту мастерскую, в которой ремесленник сможет создавать инструменты, которые облегчат работу ваших колонистов.",
+		"russian": "Колонисты долго собрают ресурсы руками? Позвольте ремесленнику создать базовые деревянные инструменты в этом верстаке.",
 		//TODO-ukranian (changed to Let a carpenter; simple wooden tools!)
 		"ukrainian":"Втомилися чекати поки колоністи збирають ресурси руками? Побудуйте цю майстерню, в якій ремісник зможе створювати інструменти, які полегшать роботу ваших колоністів.",
 	},
@@ -2343,6 +2341,7 @@
 		"french": "Atelier du Mason",
 		"spanish": "Taller de albañil",
 		"portuguese": "Oficina de Mason",
+		"russian": "Мастерская каменщика",
 	},
 	"masonsWorkbenchDescription": {
 		"english": "Do you remember the productivity boost when you introduced wooden tools? Just imagine what will happen once you upgrade to stone tools! All you need is this workshop and a skilled craftsman and you should be good to go!",
@@ -2350,6 +2349,7 @@
 		"french": "Vous souvenez-vous de l'augmentation de la productivité lorsque vous avez introduit les outils en bois ? Imaginez ce qui se passera une fois que vous passerez aux outils en pierre ! Tout ce dont vous avez besoin, c'est de cet atelier et d'un artisan qualifié et vous serez prêt !",
 		"spanish": "¿Recuerdas el incremento en la productividad cuando introdujiste las herramientas de madera? ¡Imagina lo que pasará cuando mejores a herramientas de piedra! ¡Todo lo que necesitas es este taller y un artesano experimentado y estarás listo!",
 		"portuguese": "Você se lembra do aumento de produtividade quando introduziu ferramentas de madeira? Imagine o que acontecerá quando você atualizar para ferramentas de pedra! Tudo que você precisa é esta oficina e um artesão habilidoso e você deve estar pronto!",
+		"russian": "Вы помните тот буст производительности, когда вы дали своим колонистам деревянные инструменты? Только представьте что случится, если они смогут улучшить их до каменных! Для этого вам нужен этот верстак и опытный ремесленник.",
 	},
 	"tailor": {
 		"english": "Tailor's Workshop",
@@ -3693,6 +3693,7 @@
 		"french": "Jardinière de Fenêtre en Bois",
 		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
+		"russian": "Деревянный оконный ящик",
 	},
 	"windowBoxWood0Variation0Description": {
 		"english": "Flowers are beautiful, right? These white spring flowers will make looking out the window an even more satisfying experience.",
@@ -3700,6 +3701,7 @@
 		"french": "Ces fleurs sont belles, n'est-ce pas ? Ces fleurs blanches printanières rendront l'expérience encore plus plaisante lorsque vous regarderez par la fenêtre.",
 		"spanish": "Las flores son hermosas, ¿no? Estas flores blancas de primavera harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores brancas da primavera farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+		"russian": "Цветы красивые, правда? Эти белые весенние цветки будут радовать вас каждый раз, когда вы будете выглядывать в окошко.",
 	},
 	"windowBoxWood0Variation1": {
 		"english": "Wooden Window Box",
@@ -3707,6 +3709,7 @@
 		"french": "Jardinière de Fenêtre en Bois",
 		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
+		"russian": "Деревянный оконный ящик",
 	},
 	"windowBoxWood0Variation1Description": {
 		"english": "Flowers are beautiful, right? These purple spring flowers will make looking out the window an even more satisfying experience.",
@@ -3714,6 +3717,7 @@
 		"french": "Ces fleurs sont belles, n'est-ce pas ? Ces fleurs violettes printanières rendront l'expérience encore plus plaisante lorsque vous regarderez par la fenêtre.",
 		"spanish": "Las flores son hermosas, ¿no? Estas flores moradas de primavera harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores roxas da primavera farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+		"russian": "Цветы красивые, правда? Эти фиолетовые весенние цветки будут радовать вас каждый раз, когда вы будете выглядывать в окошко.",
 	},
 	"windowBoxWood0Variation2": {
 		"english": "Wooden Window Box",
@@ -3721,6 +3725,7 @@
 		"french": "Jardinière de Fenêtre en Bois",
 		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
+		"russian": "Деревянный оконный ящик",
 	},
 	"windowBoxWood0Variation2Description": {
 		"english": "Flowers are beautiful, right? These yellow summer flowers will make looking out the window an even more satisfying experience.",
@@ -3728,6 +3733,7 @@
 		"french": "Ces fleurs sont belles, n'est-ce pas ? Ces fleurs jaunes d'été rendront l'expérience encore plus plaisante lorsque vous regarderez par la fenêtre.",
 		"spanish": "Las flores son hermosas, ¿no? Estas flores amarillas de verano harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores amarelas de verão farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+		"russian": "Цветы красивые, правда? Эти желтые летние цветки будут радовать вас каждый раз, когда вы будете выглядывать в окошко.",
 	},
 	"windowBoxWood0Variation3": {
 		"english": "Wooden Window Box",
@@ -3735,6 +3741,7 @@
 		"french": "Jardinière de Fenêtre en Bois",
 		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
+		"russian": "Деревянный оконный ящик",
 	},
 	"windowBoxWood0Variation3Description": {
 		"english": "Flowers are beautiful, right? These blue summer flowers will make looking out the window an even more satisfying experience.",
@@ -3742,6 +3749,7 @@
 		"french": "Ces fleurs sont belles, n'est-ce pas ? Ces fleurs bleues d'été rendront l'expérience encore plus plaisante lorsque vous regarderez par la fenêtre.",
 		"spanish": "Las flores son hermosas, ¿no? Estas flores azules de verano harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores azuis do verão farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+		"russian": "Цветы красивые, правда? Эти синие летние цветки будут радовать вас каждый раз, когда вы будете выглядывать в окошко.",
 	},
 	"windowBoxWood0Variation4": {
 		"english": "Wooden Window Box",
@@ -3749,6 +3757,7 @@
 		"french": "Jardinière de Fenêtre en Bois",
 		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
+		"russian": "Деревянный оконный ящик",
 	},
 	"windowBoxWood0Variation4Description": {
 		"english": "Flowers are beautiful, right? These red fall flowers will make looking out the window an even more satisfying experience.",
@@ -3756,6 +3765,7 @@
 		"french": "Ces fleurs sont belles, n'est-ce pas ? Ces fleurs rouges automnales rendront l'expérience encore plus plaisante lorsque vous regarderez par la fenêtre.",
 		"spanish": "Las flores son hermosas, ¿no? Estas flores rojas de otoño harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Essas flores de outono vermelho farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+		"russian": "Цветы красивые, правда? Эти красные осенние цветки будут радовать вас каждый раз, когда вы будете выглядывать в окошко.",
 	},
 	"windowBoxWood0Variation5": {
 		"english": "Wooden Window Box",
@@ -3763,6 +3773,7 @@
 		"french": "Jardinière de Fenêtre en Bois",
 		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
+		"russian": "Деревянный оконный ящик",
 	},
 	"windowBoxWood0Variation5Description": {
 		"english": "Flowers are beautiful, right? These orange fall flowers will make looking out the window an even more satisfying experience.",
@@ -3770,6 +3781,7 @@
 		"french": "Ces fleurs sont belles, n'est-ce pas ? Ces fleurs oranges automnales rendront l'expérience encore plus plaisante lorsque vous regarderez par la fenêtre.",
 		"spanish": "Las flores son hermosas, ¿no? Estas flores anaranjadas de otoño harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores alaranjadas da queda farão a vista da janela uma experiência ainda mais satisfying.",
+		"russian": "Цветы красивые, правда? Эти оранжевые осенние цветки будут радовать вас каждый раз, когда вы будете выглядывать в окошко.",
 	},
 
 // Pillars

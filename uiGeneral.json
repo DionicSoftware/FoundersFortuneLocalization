@@ -10,6 +10,7 @@
 		"portuguese": "Novo jogo",
 		"ukrainian":"Нова гра",
 		"russian":"Новая игра",
+		"chinese": "新游戏",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -21,6 +22,7 @@
 		"dutch": "Spel Opslaan",
 		"ukrainian":"Зберегти гру",
 		"russian":"Сохранить игру",
+		"chinese": "保存游戏",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -32,6 +34,7 @@
 		"dutch": "Spel Laden",
 		"ukrainian":"Завантажити гру",
 		"russian":"Загрузить игру",
+		"chinese": "加载游戏",
 	},
 	"settings": {
 		"english": "Settings",
@@ -43,6 +46,7 @@
 		"dutch": "Instellingen",
 		"ukrainian":"Налаштування",
 		"russian":"Настройки",
+		"chinese": "设置",
 	},
 	"quit": {
 		"english": "Quit",
@@ -54,16 +58,17 @@
 		"dutch": "Beëindigen",
 		"ukrainian":"Вихід",
 		"russian":"Выход",
+		"chinese": "退出",
 	},
 	"website": {
 		"english": "Website",
 		"german": "Webseite",
 		"french": "Site Internet",
 		"russian":"Сайт",
-		"spanish": "Sitio Web",
 		"portuguese": "Site",
 		"turkish": "Website",
 		"ukrainian":"ВебСайт",
+		"chinese": "网站",
 	},
 	"forum": {
 		"english": "Forum",
@@ -74,6 +79,7 @@
 		"portuguese": "Fórum",
 		"turkish": "Fórum",
 		"ukrainian":"Форум",
+		"chinese": "论坛",
 	},
 	"supportDevelopment": {
 		"english": "Support Development",
@@ -84,6 +90,7 @@
 		"turkish": "Geliştiricileri destekle",
 		"ukrainian":"Підтримати розробників",
 		"russian":"Поддержать разработчика",
+		"chinese": "支持开发者",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -95,6 +102,7 @@
 		"dutch": "Update Beschikbaar",
 		"ukrainian":"Доступно оновлення!",
 		"russian":"Доступно обновление!",
+		"chinese": "可用更新",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -106,6 +114,7 @@
 		"dutch": "Krijg de nieuwste versie",
 		"ukrainian":"Отримати нову версію",
 		"russian":"Получить новую версию",
+		"chinese": "获取最新版本",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -117,6 +126,7 @@
 		"dutch": "Jouw Versie",
 		"ukrainian":"Ваша версія",
 		"russian":"Ваша версия",
+		"chinese": "你的版本",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -128,6 +138,7 @@
 		"dutch": "Actuele versie",
 		"ukrainian":"Поточна версія",
 		"russian":"Текущая версия",
+		"chinese": "当前版本",
 	},
 	"underConstruction": {
 		"english": "Under Construction!",
@@ -139,6 +150,7 @@
 		"dutch": "In Opbouw",
 		"ukrainian":"У розробці!",
 		"russian":"В разработке!",
+		"chinese": "施工中!",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -150,6 +162,7 @@
 		"dutch": "Hoofd Menu",
 		"ukrainian":"Головне Меню",
 		"russian":"Главное Меню",
+		"chinese": "主菜单",
 	},
 	"giveFeedback": {
 		"english": "Give Feedback",
@@ -161,6 +174,7 @@
 		"dutch": "Geef Feedback",
 		"ukrainian":"Надіслати відгук",
 		"russian":"Обратная связь",
+		"chinese": "意见反馈",
 	},
 
 
@@ -174,6 +188,7 @@
 		"turkish": "Yükle",
 		"ukrainian":"Завантажити гру",
 		"russian":"Загрузить игру",
+		"chinese": "加载",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -184,6 +199,7 @@
 		"turkish": "Üzerine yaz",
 		"ukrainian":"Перезаписати",
 		"russian":"Перезаписать",
+		"chinese": "覆盖",
 	},
 	"newSave": {
 		"english": "New Save",
@@ -194,6 +210,7 @@
 		"turkish": "Yeni kayıt",
 		"ukrainian":"Нове збереження",
 		"russian":"Новое сохранение",
+		"chinese": "新存档",
 	},
 	"savegameName": { // background when player enters an empty save game name
 		"english": "Savegame Name",
@@ -204,6 +221,7 @@
 		"turkish": "Kayıt adı",
 		"ukrainian":"Назва збереженої гри",
 		"russian":"Название сохранения",
+		"chinese": "存档名称",
 	},
 	"mostAwesomeColony": { // default name for new colony
 		"english": "Most Awesome Colony",
@@ -214,6 +232,7 @@
 		"turkish": "En Harika Yerleşim",
 		"ukrainian":"Найбільш колосальна колонія",
 		"russian":"Самая удивительная колония",
+		"chinese": "令人敬畏的殖民地",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -224,6 +243,7 @@
 		"turkish": "Dosya adında geçersiz karakter",
 		"ukrainian":"Заборонені символи в імені файлу",
 		"russian":"Запрещенные символы в имени файла",
+		"chinese": "文件名禁使用字符",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -234,6 +254,7 @@
 		"turkish": "Dosya adı çok uzun",
 		"ukrainian":"Ім'я файлу задовге",
 		"russian":"Имя файла слишком длинное",
+		"chinese": "文件名太长",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -244,6 +265,7 @@
 		"turkish": "Dosya adı çok kısa",
 		"ukrainian":"Ім'я файлу занадто коротке",
 		"russian":"Имя файла слишком короткое",
+		"chinese": "文件名太短",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -254,6 +276,7 @@
 		"turkish": "Dosya adı mevcut",
 		"ukrainian":"Ім'я файлу вже використовується",
 		"russian":"Имя файла уже используется",
+		"chinese": "文件名已使用",
 	},
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
@@ -264,6 +287,7 @@
 		"turkish": "Modlar uyumsuz olabilir!\nKayıtta olan modlar:",
 		"ukrainian":"Моди можуть бути несумісними!\nМоди в збережених:",
 		"russian":"Моды могут быть несовместимы!\nМоды в сохранении:",
+		"chinese": "模组可能不兼容!\n存档已用模组:",
 	},
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
@@ -274,6 +298,7 @@
 		"portuguese": "Nenhum",
 		"turkish": "Yok",
 		"ukrainian":"Відсутні",
+		"chinese": "无",
 	},
 
 
@@ -289,6 +314,7 @@
 		"portuguese": "Mods e Conteúdo Extra",
 		"turkish": "Modlar ve İlave İçerik",
 		"ukrainian":"Моди та дод. контент",
+		"chinese": "模组和附加内容",
 	},
 	"modsAndExtraContent": {
 		"english": "Mods and Extra Content",
@@ -299,6 +325,7 @@
 		"portuguese": "Mods e Conteúdo Extra",
 		"turkish": "Modlar ve İlave İçerik",
 		"ukrainian":"Моди та дод. контент",
+		"chinese": "模组和附加内容",
 	},
 	"author": {
 		"english": "Author",
@@ -309,6 +336,7 @@
 		"portuguese": "Autor",
 		"turkish": "Yazar",
 		"ukrainian":"Автор",
+		"chinese": "作者",
 	},
 	"active": {
 		"english": "Active",
@@ -319,6 +347,7 @@
 		"portuguese": "Ativo",
 		"turkish": "Aktif",
 		"ukrainian":"Активний",
+		"chinese": "已启用",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -329,6 +358,7 @@
 		"portuguese": "Você não tem nenhum mod ou conteúdo extra instalado.",
 		"turkish": "Yüklü bir mod veya ilave içeriğe sahip değilsiniz",
 		"ukrainian":"У вас немає встановлених модифікацій або дод. контенту.",
+		"chinese": "您没有安装任何模组或附加内容",
 	},
 	"modsOnRoadmap": {
 		"english": "Mod Support is currently on our Roadmap.\nOur supporters use this menu to manage their supporter packages.",
@@ -339,6 +369,7 @@
 		"portuguese": "O Suporte a Mods está atualmente em nosso Roteiro. \nNossos apoiadores usam esse menu para gerenciar seus pacotes de suporte.",
 		"turkish": "Mod desteği yapılacaklar arasında.\nDestekçilerimiz bu menüyü kullanarak destekçi paketlerini yönetebilirler",
 		"ukrainian":"Підтримка модифікацій буде реалізована в майбутньому.\nЦе меню використовується для управління модифікаціями.",
+		"chinese": "模组支持目前在我们的开发路线图中.众筹支持者使用这个菜单来管理他们的众筹附加包.",
 	},
 	"openModFolder": {
 		"english": "Open Mod Folder",
@@ -349,6 +380,7 @@
 		"portuguese": "Abra a pasta Mod",
 		"turkish": "Mod klasörünü aç",
 		"ukrainian":"Відкрити папку з модом",
+		"chinese": "打开模组文件夹",
 	},
 	"modCompatible_Title": {
 		"english": "Content compatible",
@@ -359,6 +391,7 @@
 		"portuguese": "Conteúdo Compatível",
 		"turkish": "Uyumlu İçerik",
 		"ukrainian":"Контент сумісний",
+		"chinese": "模组兼容",
 	},
 	"modCompatible_Text": {
 		"english": "This content has been marked by the developers as compatible.",
@@ -369,6 +402,7 @@
 		"portuguese": "Este conteúdo foi marcado pelos desenvolvedores como compatível.",
 		"turkish": "Bu içerik yapımcılar tarafından uyumlu olarak işaretlendi",
 		"ukrainian":"Цей контент був відзначений розробниками як сумісний.",
+		"chinese": "开发人员已经将此内容标记为兼容.",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
@@ -379,6 +413,7 @@
 		"portuguese": "Conteúdo incompatível",
 		"turkish": "Uyumsuz İçerik",
 		"ukrainian":"Контент не сумісний",
+		"chinese": "模组不兼容",
 	},
 	"modIncompatible_Text": {
 		"english": "This content has been marked by the developers as incompatible.\nYou need to update it in order to activate it.",
@@ -389,6 +424,7 @@
 		"portuguese": "Este conteúdo foi marcado pelos desenvolvedores como incompatível. \nVocê precisa atualizá-lo para ativá-lo.",
 		"turkish": "Bu içerik yapımcılar tarafından uyumsuz olarak işaretlendi.\nKullanabilmek için güncellemeniz gerekir.",
 		"ukrainian":"Цей контент був відзначений розробниками як несумісний.\nВам потрібно оновити його перед активацією.",
+		"chinese": "开发人员将此内容标记为不兼容.你需要更新它来激活它.",
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
@@ -399,7 +435,7 @@
 		"portuguese": "Aplicar e reiniciar",
 		"turkish": "Uygula ve yeniden başlat",
 		"ukrainian":"Застосувати і перезапустити",
-
+		"chinese": "应用并重启",
 	},
 	
 
@@ -414,6 +450,7 @@
 		"dutch": "Elk beetje Feedback helpt ons het spel te verbeteren",
 		"ukrainian":"Кожен відгук допомагає нам покращити гру для вас!",
 		"russian":"Каждый отзыв помогает нам улучшать игру для вас!",
+		"chinese": "每一条反馈都有助于我们为您改进游戏!",
 	},
 	"feedbackType": {
 		"english": "Category",
@@ -425,6 +462,7 @@
 		"dutch": "Catergorie",
 		"ukrainian":"Категорія",
 		"russian":"Категория",
+		"chinese": "类别",
 	},
 	"general": {
 		"english": "General",
@@ -436,6 +474,7 @@
 		"dutch": "Algemeen",
 		"ukrainian":"Загальні",
 		"russian":"Общая",
+		"chinese": "一般",
 	},
 	"bugReport": {
 		"english": "Bug Report",
@@ -447,6 +486,7 @@
 		"dutch": "Bug report",
 		"ukrainian":"Помилка",
 		"russian":"Ошибка",
+		"chinese": "Bug报告",
 	},
 	"framerate": {
 		"english": "Framerate",
@@ -458,6 +498,7 @@
 		"dutch": "FPS",
 		"ukrainian":"FPS",
 		"russian":"FPS",
+		"chinese": "帧率",
 	},
 	"feedback": {
 		"english": "Feedback",
@@ -469,6 +510,7 @@
 		"dutch": "Feedback",
 		"ukrainian":"Зворотній зв'язок",
 		"russian":"Обратная связь",
+		"chinese": "反馈",
 	},
 	"enterFeedback": {
 		"english": "Enter Feedback...",
@@ -480,6 +522,7 @@
 		"dutch": "Feedback Invoegen...",
 		"ukrainian":"Залиште відгук ...",
 		"russian":"Оставьте отзыв ...",
+		"chinese": "输入反馈...",
 	},
 	"emailAddressOptional": {
 		"english": "Email Address (optional!)",
@@ -491,6 +534,7 @@
 		"dutch": "E-mail Adres (Optioneel)",
 		"ukrainian":"Адреса електронної пошти (необов'язково!)",
 		"russian":"Адрес электронной почты (необязательно!)",
+		"chinese": "邮箱地址(可选!)",
 	},
 	"clickToSubmit": {
 		"english": "Click to submit",
@@ -502,6 +546,7 @@
 		"dutch": "Klik om te versturen",
 		"ukrainian":"Натисніть, щоб подати",
 		"russian":"Нажмите, чтобы отправить",
+		"chinese": "点击提交",
 	},
 	"thankYou": {
 		"english": "Thank you!",
@@ -513,6 +558,7 @@
 		"dutch": "Bedankt",
 		"ukrainian":"Дякуємо!",
 		"russian":"Спасибо!",
+		"chinese": "感谢!",
 	},
 	"feedbackSubmittedSuccessfully": {
 		"english": "Feedback submitted successfully",
@@ -524,6 +570,7 @@
 		"dutch": "Feedback succesvol verzonden",
 		"ukrainian":"Відгук успішно надіслано",
 		"russian":"Отзыв успешно отправлен",
+		"chinese": "反馈提交成功",
 	},
 	"Oops": {
 		"english": "Oops...",
@@ -535,6 +582,7 @@
 		"dutch": "Oeps...",
 		"ukrainian":"Ой...",
 		"russian":"Ой...",
+		"chinese": "哎呦...",
 	},
 	"feedbackSystemBug": {
 		"english": "There seems to be a bug in the feedback system.\nPlease try again later or let us know via contact@foundersfortune.com",
@@ -546,6 +594,7 @@
 		"dutch": "Er is een bug in het feedback systeen.\nProbeer het opnieuw later of laat het ons weten via contact@foundersfortune.com",
 		"ukrainian":"Здається, у системі зворотного зв'язку є помилка.\nПовторіть спробу пізніше або повідомте нам про це на contact@foundersfortune.com",
 		"russian":"Кажется, есть ошибка в системе обратной связи.\nПожалуйста, попробуйте позже или сообщите нам об этом по адресу contact@foundersfortune.com",
+		"chinese": "反馈系统似乎出现了问题.\n请稍后再试或通过 contact@foundersfortune.com 告知我们",
 	},
 	"feedbackConnectionIssue": {
 		"english": "There seems to be a connection issue\nCould you please check your internet connection?",
@@ -557,6 +606,7 @@
 		"dutch": "Het blijkt dat er een connectie fout is opgetreden.\nKan je je internet connectie alsjeblieft even checken?",
 		"ukrainian":"Здається, у системі зворотного зв'язку є помилка.\nБудь ласка, спробуйте ще раз пізніше.",
 		"russian":"Кажется, есть проблема с подключением.\nНе могли бы вы проверить подключение к Интернету?",
+		"chinese": "似乎是连接问题.\n你能检查一下你的网络连接吗?",
 	},
 	"youreWelcome": {
 		"english": "You're Welcome",
@@ -568,6 +618,7 @@
 		"dutch": "Graag Gedaan",
 		"ukrainian":"Ласкаво Просимо",
 		"russian":"Добро Пожаловать",
+		"chinese": "不客气",
 	},
 	"retry": {
 		"english": "retry",
@@ -579,6 +630,7 @@
 		"dutch": "Probeer opnieuw",
 		"ukrainian":"Повторіть спробу",
 		"russian":"Повторить попытку",
+		"chinese": "重试",
 	},
 
 
@@ -593,6 +645,7 @@
 		"dutch": "Video",
 		"ukrainian":"Відео",
 		"russian":"Видео",
+		"chinese": "图像",
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -604,6 +657,7 @@
 		"dutch": "Grafische Qualiteit",
 		"ukrainian":"Якість графіки",
 		"russian":"Качество графики",
+		"chinese": "画面质量",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -615,6 +669,7 @@
 		"dutch": "Laag",
 		"ukrainian":"Низько",
 		"russian":"Низкое",
+		"chinese": "低",
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -626,6 +681,7 @@
 		"dutch": "Middel",
 		"ukrainian":"Середньо",
 		"russian":"Среднее",
+		"chinese": "中",
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -637,6 +693,7 @@
 		"dutch": "Hoog",
 		"ukrainian":"Високо",
 		"russian":"Высокое",
+		"chinese": "高",
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -648,6 +705,7 @@
 		"dutch": "Resolutie",
 		"ukrainian":"Роздільна здатність",
 		"russian":"Разрешение",
+		"chinese": "分辨率",
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -659,6 +717,7 @@
 		"dutch": "Weergavemodus",
 		"ukrainian":"Режим відображення",
 		"russian":"Режим отображения",
+		"chinese": "显示模式",
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -670,6 +729,7 @@
 		"dutch": "Venster",
 		"ukrainian":"У Вікні",
 		"russian":"Оконный",
+		"chinese": "窗口",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -681,6 +741,7 @@
 		"dutch": "Volledigscherm",
 		"ukrainian":"Повноекранний режим",
 		"russian":"Полноэкранный режим",
+		"chinese": "全屏",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -692,6 +753,7 @@
 		"dutch": "Vsync",
 		"ukrainian":"Vsync",
 		"russian":"Vsync",
+		"chinese": "垂直同步",
 	},
 	"on": {
 		"english": "On",
@@ -703,6 +765,7 @@
 		"dutch": "Aan",
 		"ukrainian":"Увімкнено",
 		"russian":"Включено",
+		"chinese": "开",
 	},
 	"off": {
 		"english": "Off",
@@ -714,6 +777,7 @@
 		"dutch": "Uit",
 		"ukrainian":"Вимкнено",
 		"russian":"Выключено",
+		"chinese": "关",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -725,6 +789,7 @@
 		"dutch": "Helderheid",
 		"ukrainian":"Яскравість",
 		"russian":"Яркость",
+		"chinese": "亮度",
 	},
 	"audio": {
 		"english": "Audio",
@@ -736,6 +801,7 @@
 		"dutch": "Audio",
 		"ukrainian":"Аудіо",
 		"russian":"Аудио",
+		"chinese": "音频",
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -747,6 +813,7 @@
 		"dutch": "Totaal Volume",
 		"ukrainian":"Загальний звук",
 		"russian":"Общая громкость",
+		"chinese": "总音量",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -758,6 +825,7 @@
 		"dutch": "Geluid Effecten",
 		"ukrainian":"Звукові ефекти",
 		"russian":"Звуковые эффекты",
+		"chinese": "音效",
 	},
 	"music": {
 		"english": "Music",
@@ -769,6 +837,7 @@
 		"dutch": "Muziek",
 		"ukrainian":"Музика",
 		"russian":"Музыка",
+		"chinese": "音乐",
 	},
 	"other": {
 		"english": "Other",
@@ -780,6 +849,7 @@
 		"dutch": "Anders",
 		"ukrainian":"Інше",
 		"russian":"Другое",
+		"chinese": "其他",
 	},
 	"language": {
 		"english": "Language",
@@ -791,6 +861,7 @@
 		"dutch": "Taal",
 		"ukrainian":"Мова",
 		"russian":"Язык",
+		"chinese": "语言",
 	},
 
 
@@ -805,6 +876,7 @@
 		"dutch": "English",
 		"ukrainian":"English",
 		"russian":"English",
+		"chinese": "English",
 	},
 	"german": {
 		"english": "Deutsch",
@@ -816,6 +888,7 @@
 		"dutch": "Deutsch",
 		"ukrainian":"Deutsch",
 		"russian":"Deutsch",
+		"chinese": "Deutsch",
 	},	
 	"french": {
 		"english": "Français",
@@ -827,6 +900,7 @@
 		"dutch": "Français",
 		"ukrainian":"Français",
 		"russian":"Français",
+		"chinese": "Français",
 	},	
 	"spanish": {
 		"english": "Español",
@@ -838,6 +912,7 @@
 		"dutch": "Español",
 		"ukrainian":"Español",
 		"russian":"Español",
+		"chinese": "Español",
 	},
 	"portuguese": {
 		"english": "Portuges",
@@ -849,6 +924,7 @@
 		"dutch": "Portuges",
 		"ukrainian":"Portuges",
 		"russian":"Portuges",
+		"chinese": "Portuges",
 	},
 	"turkish": {
 		"english": "Türkçe",
@@ -860,6 +936,7 @@
 		"dutch": "Türkçe",
 		"ukrainian":"Türkçe",
 		"russian":"Türkçe",
+		"chinese": "Türkçe",
 	},
 	"dutch": { 
 		"english": "Nederlands",
@@ -871,6 +948,7 @@
 		"dutch": "Nederlands",
 		"ukrainian":"Nederlands",
 		"russian":"Nederlands",
+		"chinese": "Nederlands",
 	},
 	"ukrainian": { 
 		"english": "Українська",
@@ -882,6 +960,7 @@
 		"dutch": "Українська",
 		"ukrainian":"Українська",
 		"russian":"Українська",
+		"chinese": "Українська",
 	},
 	"russian": { 
 		"english": "Русский",
@@ -893,6 +972,19 @@
 		"dutch": "Русский",
 		"ukrainian":"Русский",
 		"russian":"Русский",
+		"chinese": "Русский",
+	},
+	"chinese": { 
+		"english": "简体中文",
+		"german": "简体中文",
+		"french": "简体中文",
+		"spanish": "简体中文",
+		"turkish": "简体中文",
+		"portuguese": "简体中文",
+		"dutch": "简体中文",
+		"ukrainian":"简体中文",
+		"russian":"简体中文",
+		"chinese": "简体中文",
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -904,6 +996,7 @@
 		"dutch": "Muisrand Scrollen",
 		"ukrainian":"Прокрутка краю миші",
 		"russian":"Прокрутка мыши",
+		"chinese": "鼠标边界滚动",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -915,6 +1008,7 @@
 		"dutch": "Spel actief in achtergrond",
 		"ukrainian":"Гра активна у фоновому режимі",
 		"russian":"Активность игры в фоне",
+		"chinese": "开启游戏背景",
 	},
 
 
@@ -929,6 +1023,7 @@
 		"dutch": "Wereld aan het laden...",
 		"ukrainian":"Завантаження світу...",
 		"russian":"Загрузка Мира ...",
+		"chinese": "加载世界...",
 	},
 	"reset": {
 		"english": "Reset",
@@ -940,6 +1035,7 @@
 		"dutch": "Resetten",
 		"ukrainian":"Скинути",
 		"russian":"Сбросить",
+		"chinese": "重置",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -951,6 +1047,7 @@
 		"dutch": "Bevestigen",
 		"ukrainian":"Підтвердити",
 		"russian":"Подтвердить",
+		"chinese": "继续",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -962,6 +1059,7 @@
 		"dutch": "Annuleren",
 		"ukrainian":"Скасувати",
 		"russian":"Отменить",
+		"chinese": "取消",
 	},
 	"apply": {
 		"english": "Apply",
@@ -973,6 +1071,7 @@
 		"dutch": "Toepassen",
 		"ukrainian":"Застосувати",
 		"russian":"Применить",
+		"chinese": "应用",
 	},
 
 
@@ -987,6 +1086,7 @@
 		"dutch": "Camera besturing",
 		"ukrainian":"Керування камерою",
 		"russian":"Управление камерой",
+		"chinese": "镜头控制",
 	},
 	"keyBindings": {
 		"english": "Key Bindings",
@@ -998,6 +1098,7 @@
 		"dutch": "Sneltoetsen",
 		"ukrainian":"Налаштування управління",
 		"russian":"Настройки управления",
+		"chinese": "绑定按键",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1009,6 +1110,7 @@
 		"dutch": "Voorwaards",
 		"ukrainian":"Вперед",
 		"russian":"Вперед",
+		"chinese": "向前",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -1020,6 +1122,7 @@
 		"dutch": "Achterwaards",
 		"ukrainian":"Назад",
 		"russian":"Назад",
+		"chinese": "向后",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -1031,6 +1134,7 @@
 		"dutch": "Links",
 		"ukrainian":"Ліворуч",
 		"russian":"Влево",
+		"chinese": "向左",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -1042,6 +1146,7 @@
 		"dutch": "Rechts",
 		"ukrainian":"Праворуч",
 		"russian":"Вправо",
+		"chinese": "向右",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -1053,6 +1158,7 @@
 		"dutch": "Roteren",
 		"ukrainian":"Поворот",
 		"russian":"Поворот",
+		"chinese": "旋转",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1064,6 +1170,7 @@
 		"dutch": "Tijd Controle",
 		"ukrainian":"Управління Часом",
 		"russian":"Управление временем",
+		"chinese": "时间控制",
 	},
 	"pause": {
 		"english": "Pause",
@@ -1075,6 +1182,7 @@
 		"dutch": "Pauze",
 		"ukrainian":"Пауза",
 		"russian":"Пауза",
+		"chinese": "暂停",
 	},
 	"normalSpeed": {
 		"english": "Normal Speed",
@@ -1086,6 +1194,7 @@
 		"dutch": "Normale snelheid",
 		"ukrainian":"Звичайна Швидкість",
 		"russian":"Обычная Скорость",
+		"chinese": "普通速度",
 	},
 	"2xSpeed": {
 		"english": "2x Speed",
@@ -1097,6 +1206,7 @@
 		"dutch": "2x Snelheid",
 		"ukrainian":"2х Швидкість",
 		"russian":"2х Скорость",
+		"chinese": "2倍速度",
 	},
 	"4xSpeed": {
 		"english": "4x Speed",
@@ -1108,6 +1218,7 @@
 		"dutch": "4x Snelheid",
 		"ukrainian":"4х Швидкість",
 		"russian":"4х Скорость",
+		"chinese": "4倍速度",
 	},
 	"colonistInteraction": {
 		"english": "Colonist Interaction",
@@ -1119,6 +1230,7 @@
 		"dutch": "Kolonist Interactie",
 		"ukrainian":"Керування колоністами",
 		"russian":"Управление колонистами",
+		"chinese": "殖民者交互",
 	},
 	"multipleOrders": {
 		"english": "Multiple Orders",
@@ -1130,6 +1242,7 @@
 		"dutch": "Meerdere orders",
 		"ukrainian":"Вибір кількох замовлень",
 		"russian":"Выбор нескольких действий",
+		"chinese": "多任务",
 	},
 	"furnitureHandling": {
 		"english": "Furniture Handling",
@@ -1141,6 +1254,7 @@
 		"dutch": "Meubel Beweging",
 		"ukrainian":"Поворот меблів",
 		"russian":"Поворот мебели",
+		"chinese": "家具处理",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -1152,6 +1266,7 @@
 		"dutch": "Naar links draaien",
 		"ukrainian":"Поворот ліворуч",
 		"russian":"Поворот влево",
+		"chinese": "向左旋转",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -1163,6 +1278,7 @@
 		"dutch": "Naar rechts draaien",
 		"ukrainian":"Поворот праворуч",
 		"russian":"Поворот вправо",
+		"chinese": "向右旋转",
 	},
 	"precisionPlacement": {
 		"english": "Precision Placement",
@@ -1173,6 +1289,7 @@
 		"portuguese": "Posicionamento de Precisão",
 		"turkish": "Hassas Yerleştirme",
 		"ukrainian":"Точне розміщення",
+		"chinese": "精确放置",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -1184,6 +1301,7 @@
 		"dutch": "Diverse",
 		"ukrainian":"Різне",
 		"russian":"Разное",
+		"chinese": "杂项",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -1195,6 +1313,7 @@
 		"dutch": "Schermafbeelding",
 		"ukrainian":"Знімок екрана",
 		"russian":"Скриншот",
+		"chinese": "截图",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1206,6 +1325,7 @@
 		"dutch": "Open Schermafbeeldingen map",
 		"ukrainian":"Відкрити папку скріншотів",
 		"russian":"Открыть папку скриншотов",
+		"chinese": "打开截图文件夹",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -1217,6 +1337,7 @@
 		"dutch": "Laat de FPS zien",
 		"ukrainian":"Показати FPS",
 		"russian":"Показать FPS",
+		"chinese": "显示FPS",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -1228,6 +1349,7 @@
 		"dutch": "Linker muisknop",
 		"ukrainian":"Ліва кнопка миші",
 		"russian":"Левая кнопка мыши",
+		"chinese": "鼠标左键",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -1239,6 +1361,7 @@
 		"dutch": "Rechter muis nop",
 		"ukrainian":"Права кнопка миші",
 		"russian":"Правая кнопка мыши",
+		"chinese": "鼠标右键",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -1250,6 +1373,7 @@
 		"dutch": "Middelmuis knop",
 		"ukrainian":"Середня кнопка миші",
 		"russian":"Средняя кнопка мыши",
+		"chinese": "鼠标中键",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -1261,6 +1385,7 @@
 		"dutch": "Spatie",
 		"ukrainian":"Space",
 		"russian":"Пробел",
+		"chinese": "空格",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -1272,6 +1397,7 @@
 		"dutch": "Shift (links)",
 		"ukrainian":"Shift (ліворуч)",
 		"russian":"Shift (слева)",
+		"chinese": "Shift (左)",
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
@@ -1283,6 +1409,7 @@
 		"dutch": "Shift (rechts)",
 		"ukrainian":"Shift (праворуч)",
 		"russian":"Shift (справа)",
+		"chinese": "Shift (右)",
 	},
 	"key_LeftAlt": {
 		"english": "Alt (left)",
@@ -1294,6 +1421,7 @@
 		"dutch": "Alt (left)",
 		"ukrainian":"Alt (ліворуч)",
 		"russian":"Alt (слева)",
+		"chinese": "Alt (左)",
 	},
 	"key_RightAlt": {
 		"english": "Alt (right)",
@@ -1305,6 +1433,7 @@
 		"dutch": "Alt Gr (right)",
 		"ukrainian":"Alt (праворуч)",
 		"russian":"Alt (справа)",
+		"chinese": "Alt (右)",
 	},
 	"key_LeftControl": {
 		"english": "Control (left)",
@@ -1316,6 +1445,7 @@
 		"dutch": "Ctrl (left)",
 		"ukrainian":"Ctrl (ліворуч)",
 		"russian":"Ctrl (слева)",
+		"chinese": "Ctrl (左)",
 	},
 	"key_RightControl": {
 		"english": "Control (right)",
@@ -1327,6 +1457,7 @@
 		"dutch": "Ctrl (Rechts)",
 		"ukrainian":"Ctrl (праворуч)",
 		"russian":"Ctrl (справа)",
+		"chinese": "Ctrl (右)",
 	},
 	"key_CapsLock": {
 		"english": "Caps Lock",
@@ -1338,6 +1469,7 @@
 		"dutch": "Caps lock",
 		"ukrainian":"Caps Lock",
 		"russian":"Caps Lock",
+		"chinese": "大写锁定键",
 	},
 
 
@@ -1352,6 +1484,7 @@
 		"dutch": "Spel Voorbij",
 		"ukrainian":"Гра завершена!",
 		"russian":"Игра окончена!",
+		"chinese": "游戏结束!",
 	},
 	"backToMainMenu": {
 		"english": "Back to the Main Menu",
@@ -1363,6 +1496,7 @@
 		"dutch": "Terug naar hoofdmenu",
 		"ukrainian":"Повернутися до головного Меню",
 		"russian":"Вернуться в главное меню",
+		"chinese": "返回主菜单",
 	},
 	"yourColonyHasPerished": {
 		"english": "Your Colony has perished!",
@@ -1374,6 +1508,7 @@
 		"dutch": "Jouw kolonie is ten onder gegaan",
 		"ukrainian":"Ваша колонія загинула!",
 		"russian":"Ваша колония погибла!",
+		"chinese": "你的殖民者已死亡!",
 	},
 	"totalPlayTime": {
 		"english": "Total Play Time",
@@ -1385,6 +1520,7 @@
 		"dutch": "Totale speeltijd",
 		"ukrainian":"Загальний час гри",
 		"russian":"Общее время в игре",
+		"chinese": "总游戏时间",
 	},
 	"averageHappiness": {
 		"english": "Average Happiness",
@@ -1396,6 +1532,7 @@
 		"dutch": "Gemiddelde blijheid",
 		"ukrainian":"Середнє Щастя",
 		"russian":"Среднее Счастье",
+		"chinese": "平均幸福",
 	},
 	"totalResearchCollected": {
 		"english": "Research collected",
@@ -1407,7 +1544,7 @@
 		"dutch": "Onderzoek Verzameld",
 		"ukrainian":"Зібрані дослідження ",
 		"russian":"Собранные исследования",
-		
+		"chinese": "研究收集",
 	},
 	"totalNativesKilled": {
 		"english": "Tikigoblins Killed",
@@ -1419,6 +1556,7 @@
 		"dutch": "Tikigoblins Vermoord",
 		"ukrainian":"Тікігоблінів вбито",
 		"russian":"Тикигоблинов убито",
+		"chinese": "击杀哥布林",
 	},
 	"maxNumberOfColonists": {
 		"english": "Max. Number of Colonists",
@@ -1430,6 +1568,7 @@
 		"dutch": "Max. nummer van Kolonisten",
 		"ukrainian":"Макс. Кількість Колоністів",
 		"russian":"Макс. Количество Колонистов",
+		"chinese": "殖民者人数上限",
 	},
 	"uiStepBack": {
 		"english": "Back",
@@ -1441,6 +1580,7 @@
 		"dutch": "Terug",
 		"ukrainian":"Назад",
 		"russian":"Назад",
+		"chinese": "返回",
 	},
 
 
@@ -1455,6 +1595,7 @@
 		"dutch": "Spel Starten",
 		"ukrainian":"Почати Гру",
 		"russian":"Начать игру",
+		"chinese": "开始游戏",
 	},
 	"selectStartingColonists": {
 		"english": "Select Starting Colonists",
@@ -1466,6 +1607,7 @@
 		"dutch": "Selecteer Kolonisten om mee te beginnen",
 		"ukrainian":"Виберіть Стартових Колоністів",
 		"russian":"Выберите Стартовых Колонистов",
+		"chinese": "选择初始殖民者",
 	},
 	"randomColonist": {
 		"english": "Random Colonist",
@@ -1477,6 +1619,7 @@
 		"dutch": "Willekeurge Kolonist",
 		"ukrainian":"Випадковий колоніст",
 		"russian":"Случайный Колонист",
+		"chinese": "随机殖民者",
 	},
 	"selectDifficulty": {
 		"english": "Select Difficulty",
@@ -1488,6 +1631,7 @@
 		"dutch": "Selecteer Moeilijkheid",
 		"ukrainian":"Виберіть Складність",
 		"russian":"Выберите Сложность",
+		"chinese": "选择难度",
 	},
 	"difficulty_0_Title": {
 		"english": "Calm World",
@@ -1499,6 +1643,7 @@
 		"dutch": "Rustige Wereld",
 		"ukrainian":"Спокійний світ",
 		"russian":"Спокойный мир",
+		"chinese": "和平世界",
 	},
 	"difficulty_0_Desc": {
 		"english": "A more relaxing experience if you prefer creative base building over combat and survival.\nYour colonists take only half damage from all kinds of injuries.\nThe colony starts with 100 meals, colonists need less food, and can survive on smaller food rations.\nWatered plants yield higher harvests.\nYour colonists will still die if you don't take care of them!",
@@ -1510,6 +1655,7 @@
 		"dutch": "Een meer ontspannende ervaring als je van creatieve Basis Bouwen houdt over vechten en Overleving.\nJouw kolonisten nemen alleen maar de helft van de schade van elke soort verwonding.\nDe kolonie begint met 100 maaltijden, Kolonisten hebben minder eten nodig, en ze kunnen overleven met kleinere voedselrantoenen.\nGewaterde planten maken grotere oogsten.\nJouw kolonisten gaan nogsteeds dood als je niet voor ze zorgt!",
 		"ukrainian":"Більш розслабляюча гра для тих, хто надають перевагу будівництву чим бою та виживанню.\nВаші колоністи получають лише половину шкоди від усіх видів травм.\nКолонія починається з 100 од. їжі, колоністам потрібно менше їжі щоб вижити.\nПолив рослин дає більш високі врожаї.\nВаші колоністи все одно помирають, якщо ви не піклуєтесь про них!",
 		"russian":"Более расслабляющая игра для тех, кто предпочитает строительство сражению и выживанию.\nВаши колонисты получают лишь половину урона от любых травм.\nВ начале игры колония имеет 100 ед. пищи, колонистам требуется меньше еды для выживания.\nПолив растений дает более высокие урожаи.\nВаши колонисты будут умирать, если вы не будете о них заботиться!",
+		"chinese": "如果您更喜欢创造性的建设而不是战斗和生存,那么您将获得更轻松的体验.\n您的殖民者只会受到各种伤害的一半.\n殖民地开始时有100食物,殖民者需要的食物较少,且能够在较小的食物分配下生存.\n水生植物会有更高的收成.\n但如果你不照顾它们,你的殖民者仍会死!",
 	},
 	"difficulty_1_Title": {
 		"english": "Exciting World",
@@ -1521,6 +1667,7 @@
 		"dutch": "Spannende Wereld",
 		"ukrainian":"Захоплюючий світ",
 		"russian":"Захватывающий мир",
+		"chinese": "正常世界",
 	},
 	"difficulty_1_Desc": {
 		"english": "The typical Founders' Fortune experience, mixing base building with survival.\nThe colony starts with 40 meals.\nSometimes colonists may die even though you try your best.",
@@ -1532,6 +1679,7 @@
 		"dutch": "De gewoonlijke Founders' Fortune ervaring, Basis bouwen gemixed met overleven.\nDe kolonie begint met 40 maaltijden.\nSoms kunnen Kolonisten dood gaan ookal doe je je best.",
 		"ukrainian":"Середнія важкість гри в Founder's Fortune, змішуючи будівництво бази з виживанням.\nКолонія починається з 40 од. їжі.\nІноді колоністи можуть померти, навіть якщо ви стараєтесь зробити все можливе.",
 		"russian":"Средняя сложность игры в Founders' Fortune, которая совмещает строительство и выживание.\nВ начале игры колония имеет 40 ед. пищи.\nИногда колонисты могут умереть, даже если вы стараетесь изо всех сил.",
+		"chinese": "正常的 Founders' Fortune 游戏体验,将基地建设与生存相结合.\n殖民地开始有40食物.\n有时殖民者可能会死,即使你尽力而为.",
 	},
 	"difficulty_2_Title": {
 		"english": "Dangerous World",
@@ -1543,6 +1691,7 @@
 		"dutch": "Gevaarlijke wereld",
 		"ukrainian":"Небезпечний світ",
 		"russian":"Опасный мир",
+		"chinese": "危险世界",
 	},
 	"difficulty_2_Desc": {
 		"english": "The world is a harsh place, so good luck trying to survive with fragile little colonists.\nYour colonists take 50% more damage from all kinds of injuries.\nThe colony starts with 10 meals and colonists get hungry more quickly.\nCatastrophes happen more often.\nA challenge for veteran players.",
@@ -1554,6 +1703,7 @@
 		"dutch": "De wereld is een harde plek, dus veel geluk met het overleven met zwakke kolonisten.\nJouw kolonisten nemen 50% meer schade van alle soorten Verwondingen.\nDe Kolonie begint met 10 maaltijden en kolonisten krijgen sneller honger.\nCatastrofaale dingen gebeuren vaker.\nEen uitdaging voor veteraan spelers",
 		"ukrainian":"Світ - це суворе місце, тому бажаємо вам удачі вижити з слабкими колоністами.\nВаші колоністи отримують на 50% більше шкоди від усіх видів травм.\nКолонія починається з 10 од. їжі, колоністам потрібно більше добавок для виживання.\nКатастрофи трапляються частіше .\nВиклик для гравців-ветеранів",
 		"russian":"Мир - это суровое место, так что желаем вам удачи выжить со слабыми колонистами.\nВаши колонисты получают на 50% больше урона от любых травм.\nВ начале игры колония имеет 10 ед. пищи, колонистам требуется больше еды для выживания.\nКатастрофы случаются чаще.\nПодходит для опытных игроков.",
+		"chinese": "这个世界十分凶险,祝你好运,带着你弱小的殖民者生存下来.\n你的殖民者受到各种伤害的伤害增加50%.\n殖民地开始有10食物,殖民者更快地饥饿.\n灾难经常发生.\n资深玩家的挑战.",
 	},
 	"continue": {
 		"english": "Continue",
@@ -1565,6 +1715,7 @@
 		"dutch": "Verdergaan",
 		"ukrainian":"Продовжити",
 		"russian":"Продолжить",
+		"chinese": "继续",
 	},
 	"add": {
 		"english": "Add",
@@ -1576,6 +1727,7 @@
 		"dutch": "Toevoegen",
 		"ukrainian":"Додати",
 		"russian":"Добавить",
+		"chinese": "添加",
 	},
 	"remove": {
 		"english": "Remove",
@@ -1587,6 +1739,7 @@
 		"dutch": "Verwijderen",
 		"ukrainian":"Видалити",
 		"russian":"Удалить",
+		"chinese": "移除",
 	},
 	"select": {
 		"english": "Select",
@@ -1597,6 +1750,7 @@
 		"turkish": "Seç",
 		"ukrainian":"Вибрати",
 		"russian":"Выбрать",
+		"chinese": "选择",
 	},
 	"unableToLoadSaveFile": {
 		"english": "Unable to load save file",
@@ -1607,6 +1761,7 @@
 		"ukrainian":"Не вдається завантажити файл збереження",
 		"russian":"Невозможно загрузить файл сохранения",
 		"portuguese": "Não é possível carregar o arquivo salvo",
+		"chinese": "无法加载存档文件",
 	},
 	"unableToLoadSaveFileText": {
 		"english": "The game could not read your save file. Sorry!\nPlease try again first. If it keeps happening, send your save file to daniel@foundersfortune.com so I can investigate the error and try to get a fix into the next update.\nThanks for your help!",
@@ -1617,5 +1772,6 @@
 		"ukrainian":"Вибачте! Гра не змогла прочитати ваш файл збереження.\nПовторіть спробу знову. Якщо це продовжує відбуватися, надішліть файл збереження на daniel@foundersfortune.com, щоб я міг дослідити помилку і спробувати вирішити цю проблему в наступному оновленні.\nСпасибі за вашу допомогу!",
 		"russian":"К сожалению, игра не смогла прочитать ваш файл сохранения! .\nПожалуйста, попробуйте снова. Если это повторится, отправьте файл сохранения по адресу daniel@foundersfortune.com, чтобы я мог исследовать ошибку и попытаться исправить ее в следующем обновлении.\nСпасибо за вашу помощь!",
 		"portuguese": "O jogo não pôde ler seu arquivo salvo. Desculpe! \nPor favor, tente novamente primeiro. Se continuar acontecendo, envie seu arquivo salvo para daniel@foundersfortune.com para que eu possa investigar o erro e tentar corrigir a próxima atualização. \nAgradecemos sua ajuda!",
+		"chinese": "游戏无法读取您的存档文件. 对不起!\n请再试试. 如果它一直无法读取,请将您的存档文件发送到邮箱:daniel@foundersfortune.com,以便我可以在调查错误并尝试在下一次更新时修复.\n感谢您的帮助!",
 	}
 }

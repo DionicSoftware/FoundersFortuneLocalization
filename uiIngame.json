@@ -9,6 +9,7 @@
 		"dutch": "Onderzoek",
 		"ukrainian":"Дослідження",
 		"russian":"Исследования",
+		"chinese": "研究",
 	},
 	"researchOverview": {
 		"english": "Research Overview",
@@ -20,6 +21,7 @@
 		"dutch": "Onderzoek overzicht",
 		"ukrainian":"Обзор досліджень",
 		"russian":"Обзор исследований",
+		"chinese": "研究概述",
 	},
 	"nothingUnlocked": {
 		"english": "Nothing unlocked.",
@@ -31,6 +33,7 @@
 		"dutch": "Niks vrijgespeeld",
 		"ukrainian":"Нічого розблокувати.",
 		"russian":"Нечего разблокировать.",
+		"chinese": "没有解锁.",
 	},
 	"unlockedObjects": {
 		"english": "Unlocked Objects:",
@@ -42,6 +45,7 @@
 		"dutch": "Vrijgespeelde objecten",
 		"ukrainian":"Буде розблоковано:",
 		"russian":"Будет разблокировано:",
+		"chinese": "解锁物品:",
 	},
 	"mood": {
 		"english": "Mood",
@@ -53,6 +57,7 @@
 		"dutch": "Stemming",
 		"ukrainian":"Настрій",
 		"russian":"Настроение",
+		"chinese": "心情",
 	},
 	"friendships": {
 		"english": "Friendships",
@@ -64,6 +69,7 @@
 		"dutch": "Vriendschappen",
 		"ukrainian":"Дружелюбність",
 		"russian":"Дружелюбность",
+		"chinese": "友谊",
 	},
 	"hunger": {
 		"english": "Hunger",
@@ -75,6 +81,7 @@
 		"dutch": "Honger",
 		"ukrainian":"Голод",
 		"russian":"Голод",
+		"chinese": "饥饿",
 	},
 	"stamina": {
 		"english": "Stamina",
@@ -86,6 +93,7 @@
 		"dutch": "Energie",
 		"ukrainian":"Виносливість",
 		"russian":"Выносливость",
+		"chinese": "耐力",
 	},
 	"health": {
 		"english": "Health",
@@ -97,6 +105,7 @@
 		"dutch": "Gezondheid",
 		"ukrainian":"Здоров'я",
 		"russian":"Здоровье",
+		"chinese": "生命",
 	},
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -108,6 +117,7 @@
 		"dutch": "Als je je kolonisten niet blij houdt, beginnen ze uitdagend te worden en volgen ze jouw orders misschien niet meer",
 		"ukrainian":"Якщо не підтримувати гарний настрій поселенців, вони можуть розізлитись і перестати виконувати ваші накази.",
 		"russian":"Если не поддерживать хорошее настроение поселенцев, они могут вспылить и перестать выполнять ваши приказы.",
+		"chinese": "如果你的殖民者不保持开心的状态,他们会开始反抗,可能会停止服从你的命令.",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -119,6 +129,7 @@
 		"dutch": "Deze benodigheid zit nog niet helemaal in het spel",
 		"ukrainian":"Ця потреба ще не була повністю включена в гру.",
 		"russian":"Эта потребность еще не полностью реализована в игре.",
+		"chinese": "这种需求还没有完全在游戏中实现.",
 	},
 	"needsDescriptionHunger": {
 		"english": "Gather apples or plant crops to take care of food.",
@@ -130,6 +141,7 @@
 		"dutch": "Verzamel wat Appels of Gewassen om voor eten te zorgen",
 		"ukrainian":"Збирайте яблука або рослинні культури, щоб підтримувати запаси їжі.",
 		"russian":"Собирайте яблоки или высаживайте растения, чтобы поддерживать запасы пищи.",
+		"chinese": "收集苹果或种植庄稼来提供食物.",
 	},
 	"needsDescriptionStamina": {
 		"english": "Give your colonist a break every once in a while so they can recover.",
@@ -141,6 +153,7 @@
 		"dutch": "Om de zoveel tijd hebben jouw kolonisten een pauze nodig zodat ze bij kunnen komen",
 		"ukrainian":"Дозволяйте іноді відпочивати вашим колоністам, щоб вони змогли відновити сили.",
 		"russian":"Позволяйте иногда отдыхать вашим колонистам, чтобы они смогли восстанавливаться.",
+		"chinese": "每隔一段时间让你的殖民者休息一下,这样他们就可以恢复体力了.",
 	},
 	"needsDescriptionHealth": {
 		"english": "Let your colonists sleep and or give them healing potions to increase their health.",
@@ -152,6 +165,7 @@
 		"dutch": "Laat je kolonisten slapen en of geef ze genezende drankjes om hun gezondheid omhoog te halen",
 		"ukrainian":"Щоб відновити здоров'я колоністу потрібно поспати або використовувати лікувальні зілля.",
 		"russian":"Чтобы восстановить здоровье колонисту нужно поспать или использовать лечебное зелье.",
+		"chinese": "让你的殖民者睡觉,或者给他们治疗药水来治疗生命值.",
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -163,6 +177,7 @@
 		"dutch": "Voedsel Rantsoenen",
 		"ukrainian":"Харчові раціони",
 		"russian":"Порции пищи",
+		"chinese": "食物分配",
 	},
 	"thoughts": {
 		"english": "Thoughts",
@@ -174,6 +189,7 @@
 		"dutch": "Gedachten",
 		"ukrainian":"Думки",
 		"russian":"Мысли",
+		"chinese": "想法",
 	},
 	"personality": {
 		"english": "Personality",
@@ -185,6 +201,7 @@
 		"dutch": "Persoonlijkheid",
 		"ukrainian":"Риси характеру",
 		"russian":"Черты характера",
+		"chinese": "个性",
 	},
 	"saveChanges": {
 		"english": "Save Changes",
@@ -196,6 +213,7 @@
 		"dutch": "Veranderingen opslaan",
 		"ukrainian":"Зберегти зміни",
 		"russian":"Сохранить изменения",
+		"chinese": "保存变更",
 	},
 	"name": {
 		"english": "Name",
@@ -207,6 +225,7 @@
 		"dutch": "Naam",
 		"ukrainian":"Ім'я",
 		"russian":"Имя",
+		"chinese": "名称",
 	},
 	"experience": {
 		"english": "Experience",
@@ -218,6 +237,7 @@
 		"dutch": "Ervaring",
 		"ukrainian":"Навички",
 		"russian":"Навыки",
+		"chinese": "经验",
 	},
 	"view": {
 		"english": "View",
@@ -229,6 +249,7 @@
 		"dutch": "Bekijken",
 		"ukrainian":"Переглянути",
 		"russian":"Просмотреть",
+		"chinese": "查看",
 	},
 	"info": {
 		"english": "Info",
@@ -240,6 +261,7 @@
 		"dutch": "Info",
 		"ukrainian":"Інформація",
 		"russian":"Информация",
+		"chinese": "信息",
 	},
 	"openWebsiteShort": {
 		"english": "Open",
@@ -251,6 +273,7 @@
 		"dutch": "Open",
 		"ukrainian":"Відкрити",
 		"russian":"Открыть",
+		"chinese": "打开",
 	},
 	"dismiss": {
 		"english": "Ok",
@@ -262,6 +285,7 @@
 		"dutch": "Oké",
 		"ukrainian":"ОК",
 		"russian":"ОК",
+		"chinese": "确定",
 	},
 	"chooseNewJob": {
 		"english": "Choose New Job",
@@ -273,6 +297,7 @@
 		"dutch": "Kies een Nieuwe Baan",
 		"ukrainian":"Виберіть нову роботу",
 		"russian":"Выберите новую работу",
+		"chinese": "选择新职业",
 	},
 	"specialization": {
 		"english": "Specialization",
@@ -284,6 +309,7 @@
 		"dutch": "Specializering",
 		"ukrainian":"Обов'язки",
 		"russian":"Обязанности",
+		"chinese": "特长",
 	},
 	"nextLevel": {
 		"english": "Next Level",
@@ -295,6 +321,7 @@
 		"dutch": "Volgend level",
 		"ukrainian":"Новий рівень",
 		"russian":"Новый уровень",
+		"chinese": "下一等级",
 	},
 	"experienceAcroynom": {
 		"english": "Exp",
@@ -306,6 +333,7 @@
 		"dutch": "Xp",
 		"ukrainian":"Досвід",
 		"russian":"Опыт",
+		"chinese": "经验值",
 	},
 	"changeProfession": {
 		"english": "Change",
@@ -317,6 +345,7 @@
 		"dutch": "Verander",
 		"ukrainian":"Змінити",
 		"russian":"Изменить",
+		"chinese": "改变",
 	},
 	"promote": {
 		"english": "Promote",
@@ -328,6 +357,7 @@
 		"dutch": "Promoveren",
 		"ukrainian":"Підвищення",
 		"russian":"Повышение",
+		"chinese": "转职",
 	},
 	"promototions_Title": {
 		"english": "Promotions",
@@ -339,6 +369,7 @@
 		"dutch": "Promoties",
 		"ukrainian":"Підвищення",
 		"russian":"Повышение",
+		"chinese": "转职",
 	},
 	"promototions_Desc": {
 		"english": "Once your colonists gather enough experience in their profession, you can promote them to unlock new skills",
@@ -350,6 +381,7 @@
 		"dutch": "Wanneer jouw kolonisten genoeg ervaring hebben in hun beroep, kan je ze promoveren om nieuwe vaardigheden vrij te spelen",
 		"ukrainian":"Як тільки ваші колоністи наберуть достатньо досвіду у своїй професії, ви зможете підвищити їх, щоб розблокувати нові навички.",
 		"russian":"Как только ваши колонисты наберут достаточно опыта в своей профессии, вы сможете повысить их, чтобы разблокировать новые навыки.",
+		"chinese": "一旦你的殖民者在他们的职业中积累了足够的经验,你就可以让他们转职开启新的技能",
 	},
 	"combat": {
 		"english": "Combat",
@@ -358,9 +390,9 @@
 		"french": "Combat",
 		"portuguese": "Combate",
 		"turkish": "Savaş",
-		"dutch": "Vechten",
 		"ukrainian":"Бій",
 		"russian":"Сражение",
+		"chinese": "战斗",
 	},
 	"equipment": {
 		"english": "Equipment",
@@ -372,6 +404,7 @@
 		"dutch": "Uitusting",
 		"ukrainian":"Спорядження",
 		"russian":"Снаряжение",
+		"chinese": "装备",
 	},
 	"tool": {
 		"english": "Tool",
@@ -383,6 +416,7 @@
 		"dutch": "Gereedschap",
 		"ukrainian":"Інструменти",
 		"russian":"Инструмент",
+		"chinese": "工具",
 	},
 	"clothing": {
 		"english": "Clothing",
@@ -394,6 +428,7 @@
 		"dutch": "Kleding",
 		"ukrainian":"Одяг",
 		"russian":"Одежда",
+		"chinese": "服装",
 	},
 	"damage": {
 		"english": "Damage",
@@ -405,6 +440,7 @@
 		"dutch": "Schade",
 		"ukrainian":"Атака",
 		"russian":"Урон",
+		"chinese": "伤害",
 	},
 	"protection": {
 		"english": "Protection",
@@ -416,6 +452,7 @@
 		"dutch": "Bescherming",
 		"ukrainian":"Захист",
 		"russian":"Защита",
+		"chinese": "保护",
 	},
 	"Spring": {
 		"english": "Spring",
@@ -427,6 +464,7 @@
 		"dutch": "Lente",
 		"ukrainian":"Весна",
 		"russian":"Весна",
+		"chinese": "春天",
 	},
 	"Summer": {
 		"english": "Summer",
@@ -438,6 +476,7 @@
 		"dutch": "Zomer",
 		"ukrainian":"Літо",
 		"russian":"Лето",
+		"chinese": "夏天",
 	},
 	"Fall": {
 		"english": "Fall",
@@ -449,6 +488,7 @@
 		"dutch": "Herfst",
 		"ukrainian":"Осінь",
 		"russian":"Осень",
+		"chinese": "秋天",
 	},
 	"Winter": {
 		"english": "Winter",
@@ -460,6 +500,7 @@
 		"dutch": "Winter",
 		"ukrainian":"Зима",
 		"russian":"Зима",
+		"chinese": "冬天",
 	},
 	"seasons": {
 		"english": "Seasons",
@@ -471,6 +512,7 @@
 		"dutch": "Seizoenen",
 		"ukrainian":"Сезони",
 		"russian":"Сезоны",
+		"chinese": "季节",
 	},
 	"seasonsDescription": {
 		"english": "This bar shows how much time is left until the seasons change.",
@@ -482,6 +524,7 @@
 		"dutch": "Deze balk laat zien hoeveel tijd over is todat de seizoenen veranderen",
 		"ukrainian":"Ця смуга показує скільки часу залишилося до зміни сезону.",
 		"russian":"Эта полоса показывает сколько времени осталось до смены сезона.",
+		"chinese": "这个进度条显示了距离变换季节还有多少时间.",
 	},
 	"wishPointsTip_Title": {
 		"english": "Satisfaction Points",
@@ -493,6 +536,7 @@
 		"dutch": "Tevredenheids Punten",
 		"ukrainian":"Очки Задоволеності",
 		"russian":"Очки удовлетворенности",
+		"chinese": "满意值",
 	},
 	"wishPointsTip_Desc": {
 		"english": "Every fulfilled wish makes your colonist more satisfied with life.",
@@ -504,6 +548,7 @@
 		"dutch": "Elke wens die je uit laat komen maakt jouw kolonisten meer tevreden met hun leven",
 		"ukrainian":"Кожне виконане бажання робить вашого колоніста більш задоволеним життям.",
 		"russian":"Каждое исполненное желание увеличивает заполненность полосы удовлетворенности.",
+		"chinese": "每一个愿望的实现都会让你的殖民者对生活更加满意.",
 	},
 	"wishDenyTip_Title": {
 		"english": "Deny Wish",
@@ -515,6 +560,7 @@
 		"dutch": "Wens afwijzen",
 		"ukrainian":"Відмовити у виконанні мрії",
 		"russian":"Отказать в исполнении мечты",
+		"chinese": "拒绝请求",
 	},
 	"wishDenyTip_Desc": {
 		"english": "You can tell your colonists that you're not going to fulfill this wish. They'll be annoyed, but they will choose a different one.",
@@ -526,6 +572,7 @@
 		"dutch": "Je kan je kolonist vertellen dat je niet zijn wens uit laat komen. Hij wordt wel geïriteerd, maar dan kiest hij een andere",
 		"ukrainian":"Ви можете сказати своїм колоністам, що не збираєтесь виконувати їхню мрію. Вони будуть засмучені, але виберуть собі іншу мрію.",
 		"russian":"Вы можете сказать своим колонистам, что не собираетесь исполнять их мечту. Они будут расстроены, но выберут себе другую мечту.",
+		"chinese": "你可以告诉你的殖民者你不会实现这个愿望.他们会生气,但他们会另外选择一个不同的愿望.",
 	},
 	"satisfactionPoints_Title": {
 		"english": "Satisfaction",
@@ -537,6 +584,7 @@
 		"dutch": "Tevredenheid",
 		"ukrainian":"Задоволення",
 		"russian":"Удовлетворение",
+		"chinese": "满意",
 	},
 	"satisfactionPoints_Desc": {
 		"english": "Fulfill your colonists' wishes and they will be satisfied with life. When the bar is full they gets one lifetime satisfaction point.",
@@ -548,6 +596,7 @@
 		"dutch": "Laat een wens van jouw kolonist uitkomen en dan zal hij tevreden zijn met het leven. Wanneer de balk vol is krijgt krijgt hij een levenslag tevredenheid punt.",
 		"ukrainian":"Виконуйте бажання ваших колоністів, і вони будуть задоволені життям. Коли бар буде заповнений, вони отримують одне очко задоволеності.",
 		"russian":"Исполняйте желания ваших колонистов, и они будут довольны жизнью. Когда бар будет заполнен, они получают одно очко удовлетворенности.",
+		"chinese": "满足殖民者的愿望,他们就会对生活感到满意.当进度条满了,他们得到永久的满意度",
 	},
 	"satisfactionLevel_Title": {
 		"english": "Satisfaction Level",
@@ -559,6 +608,7 @@
 		"dutch": "Tevredenheidniveau",
 		"ukrainian":"Рівень задоволеності",
 		"russian":"Уровень удовлетворения",
+		"chinese": "满意等级",
 	},
 	"satisfactionLevel_Desc": {
 		"english": "Represents the total lifetime satisfaction of your colonist.",
@@ -570,6 +620,7 @@
 		"dutch": "Geeft de totale tevredenheid van jouw kolonisten weer in hun hele leven",
 		"ukrainian":"Показує рівень задоволеності життям вашого колоніста.",
 		"russian":"Показывает уровень удовлетворенности жизнью вашего колониста.",
+		"chinese": "表示殖民者的总体满意度",
 	},
 	"promotions_Title": {
 		"english": "Promotions",
@@ -581,6 +632,7 @@
 		"dutch": "Promoties",
 		"ukrainian":"Підвищення",
 		"russian":"Повышения",
+		"chinese": "转职",
 	},
 	"promotions_Desc": {
 		"english": "Once your colonists have gathered enough Experience, you can promote them to unlock new skills.",
@@ -592,6 +644,7 @@
 		"dutch": "Wanneer jouw kolonisten genoeg ervaring heeft gekregen, kan je hem promoveren om nieuwe vaardigheden te leren.",
 		"ukrainian":"Як тільки ваші колоністи наберуть достатньо досвіду у своїй професії, ви зможете підвищити їх, щоб розблокувати нові навички.",
 		"russian":"Как только ваши колонисты наберут достаточно опыта в своей профессии, вы сможете повысить их, чтобы разблокировать новые навыки.",
+		"chinese": "一旦你的殖民者在他们的职业中积累了足够的经验,你就可以让他们转职开启新的技能.",
 	},
 	"productionMode_Produce": {
 		"english": "Produce",
@@ -603,6 +656,7 @@
 		"dutch": "Produceren",
 		"ukrainian":"Виробництво",
 		"russian":"Производство",
+		"chinese": "产品",
 	},
 	"productionMode_ProduceInfinite": {
 		"english": "Produce Infinite",
@@ -614,6 +668,7 @@
 		"dutch": "Oneindig Produceren",
 		"ukrainian":"Постійне виготовлення",
 		"russian":"Постоянное изг.",
+		"chinese": "持续生产",
 	},
 	"productionMode_KeepInStock": {
 		"english": "Keep in Stock",
@@ -625,6 +680,7 @@
 		"dutch": "Op voorraad houden",
 		"ukrainian":"Тримати на складі",
 		"russian":"Держать на складе",
+		"chinese": "保持库存",
 	},
 	"cost": {
 		"english": "Cost",
@@ -636,6 +692,7 @@
 		"dutch": "Kosten",
 		"ukrainian":"Вартість",
 		"russian":"Стоимость",
+		"chinese": "消耗",
 	},
 	"totalCost": {
 		"english": "Total Cost",
@@ -647,6 +704,7 @@
 		"dutch": "Totale Kosten",
 		"ukrainian":"Повна вартість",
 		"russian":"Полная стоимость",
+		"chinese": "总消耗",
 	},
 	"costPerItem": {
 		"english": "Cost per Item",
@@ -658,6 +716,7 @@
 		"dutch": "Kosten per Object",
 		"ukrainian":"Вартість за предмет",
 		"russian":"Стоимость за предмет",
+		"chinese": "单项成本",
 	},
 	"colonySettings": {
 		"english": "Colony Settings",
@@ -669,6 +728,7 @@
 		"dutch": "Kolonie Opties",
 		"ukrainian":"Налаштування колонії",
 		"russian":"Настройки колонии",
+		"chinese": "殖民者设置",
 	},
 	"onlyCutDesignatedTrees": {
 		"english": "Only cut designated trees",
@@ -680,6 +740,7 @@
 		"dutch": "Alleen geselecteerde bomen omkappen",
 		"ukrainian":"Вирубувати тільки позначені дерева",
 		"russian":"Вырубать только обозначенные деревья",
+		"chinese": "砍伐指定的树木",
 	},
 	"onlyMineDesignatedRocksOres": {
 		"english": "Only mine designated rocks/ores",
@@ -691,6 +752,7 @@
 		"dutch": "Alleen geselecteerde Stenen/Erts mijnen",
 		"ukrainian":"Добувати тільки обрані камні/руди",
 		"russian":"Добывать только выбранные камни/руды",
+		"chinese": "开采指定的岩石/矿物",
 	},
 	"onlyGatherDesignatedPlants": {
 		"english": "Only gather designated plants",
@@ -702,6 +764,7 @@
 		"dutch": "Alleen geselecteerde planten verzamelen",
 		"ukrainian":"Збирати тільки обрані рослини",
 		"russian":"Собирать только выбранные растения",
+		"chinese": "采集指定的植物",
 	},
 	"designations": {
 		"english": "Designations",
@@ -713,6 +776,7 @@
 		"dutch": "Markeringen",
 		"ukrainian":"Вказівка",
 		"russian":"Указание",
+		"chinese": "指定",
 	},
 	"designationTooltip_Title": {
 		"english": "Select specific resources to gather",
@@ -724,6 +788,7 @@
 		"dutch": "Selecteer specifieke grondstoffen om te verzamelen",
 		"ukrainian":"Виберіть конкретні ресурси для збору",
 		"russian":"Выберите конкретные ресурсы для сбора",
+		"chinese": "选择要指定收集的资源",
 	},
 	"designationTooltip_Desc": {
 		"english": "With the designation tool you can restrict resource gathering to the objects you have marked with the tool. The colonists are only going to work on designated objects automatically.",
@@ -735,6 +800,7 @@
 		"dutch": "Met het markeer gereedschap kan je het verbieden om grondstoffen te verzamelen aan de objecten die je hebt geselecteerd met het gereedschap. De Kolonisten gaan alleen automatisch werken aan geselecteerde objecten",
 		"ukrainian":"За допомогою інструменту вказівки ви можете обмежити збір ресурсів для об'єктів, які ви позначили за допомогою інструменту. Колоністи будуть автоматично працювати тільки з позначеними об'єктами.",
 		"russian":"С помощью инструмента указания вы можете ограничить сбор ресурсов для объектов, которые вы пометили с помощью инструмента. Колонисты будут автоматически работать только с обозначенными объектами.",
+		"chinese": "使用指定工具,您可以将资源收集限制到使用该工具标记的对象.殖民者只会自动处理指定的物品.",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -743,9 +809,9 @@
 		"spanish": "Modo Combate",
 		"turkish": "Savaş modu",
 		"ukrainian":"Бойовий режим",
-		"dutch": "Gevechts modus",
 		"russian":"Боевой режим",
 		"portuguese": "Modo de Combate",
+		"chinese": "战斗模式",
 	},
 	"combatModeTooltip_Desc": {
 		"english": "In combat mode, your colonists will put on their combat equipment and stop working on their jobs, relaxing, or talking with others. This allows you to control them more easily in battle.",
@@ -754,9 +820,9 @@
 		"spanish": "En el modo combate, tus colonos se pondrán sus equipos de combate y dejarán de trabajar, relajarse o hablar con otros. Esto te permite controlarlos mejor en batalla.",
 		"portuguese": "No modo de combate, seus colonos colocarão seus equipamentos de combate e deixarão de trabalhar em seus trabalhos, relaxando ou conversando com os outros. Isso permite que você os controle melhor em batalha.",
 		"turkish": "Savaş modunda, yerleşimciler savaş ekipmanlarını donanacak ve işleri üzerinde çalışmayı, gevşemeyi ya da başkalarıyla konuşmayı bırakacaklar. Bu onların savaşta daha iyi kontrol edilmelerini sağlayacak.",
-		"dutch": "In gevechts modus zullen je kolonisten al hun gevechts uitrusting aandoen en ze houden op met werken, relaxen, of praten met andere. Dit geeft jou de mogelijkheid om ze makkelijker te controleren tijdens gevechten.",
 		"ukrainian":"У бойовому режимі ваші колоністи споряджаються бронею і зброєю. Перестають робити свою роботу, відпочивати або розмовляти з іншими поселенцями. Це дозволяє легше контролювати їх в битві.",
 		"russian":"В боевом режиме ваши колонисты снаряжаются броней и оружием и перестают делать свою работу, отдыхать или разговаривать с другими поселенцами. Это позволяет легче контролировать их в сражении.",
+		"chinese": "在战斗模式下,你的殖民者将穿上他们的战斗装备并停止工作,休息,交谈.这让你在战斗中更容易控制他们.",
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -768,6 +834,7 @@
 		"dutch": "Spel Info en Statestieken",
 		"ukrainian":"Інформація та статистика",
 		"russian":"Информация и статистика",
+		"chinese": "游戏信息及统计",
 	},
 	"difficulty": {
 		"english": "Difficulty",
@@ -779,6 +846,7 @@
 		"dutch": "Moeilijkheid",
 		"ukrainian":"Важкість",
 		"russian":"Сложность",
+		"chinese": "难度",
 	},
 	"colonyWealth": {
 		"english": "Colony Wealth",
@@ -790,6 +858,7 @@
 		"dutch": "Waarde van de Kolonie",
 		"ukrainian":"Багацтво колонії",
 		"russian":"Благосостояние колонии",
+		"chinese": "殖民地财富",
 	},
 	"colonistHappiness": {
 		"english": "Colonist Happiness",
@@ -801,6 +870,7 @@
 		"dutch": "Kolonisten Blijheid",
 		"ukrainian":"Щастя колонії",
 		"russian":"Счастье колонии",
+		"chinese": "殖民者幸福度",
 	},
 	"worldId": { // You can just translate it to "world". It needs to be short enough
 		"english": "World ID",
@@ -812,6 +882,7 @@
 		"dutch": "Wereld ID",
 		"ukrainian":"ID світу",
 		"russian":"ID мира",
+		"chinese": "世界 ID",
 	},
 	"beauty": {
 		"english": "Beauty",
@@ -823,6 +894,7 @@
 		"dutch": "Schoonheid",
 		"ukrainian":"Краса",
 		"russian":"Красота",
+		"chinese": "美丽",
 	},
 	"work": {
 		"english": "Work",
@@ -834,6 +906,7 @@
 		"dutch": "Werk",
 		"ukrainian":"Робота",
 		"russian":"Работа",
+		"chinese": "工作",
 	},
 	"farming": {
 		"english": "Farming",
@@ -845,6 +918,7 @@
 		"dutch": "Landbouw",
 		"ukrainian":"Фермерство",
 		"russian":"Фермерство",
+		"chinese": "农业",
 	},
 	"life": {
 		"english": "Life",
@@ -856,6 +930,7 @@
 		"dutch": "Leven",
 		"ukrainian":"Основне",
 		"russian":"Основное",
+		"chinese": "生活",
 	},
 	"military": {
 		"english": "Military",
@@ -867,6 +942,7 @@
 		"dutch": "Militair",
 		"ukrainian":"Воєнне ремесло",
 		"russian":"Сражения",
+		"chinese": "军事",
 	},
 	"lights": {
 		"english": "Lights",
@@ -878,6 +954,7 @@
 		"dutch": "Lichten",
 		"ukrainian":"Освітлення",
 		"russian":"Освещение",
+		"chinese": "灯光",
 	},
 	"seating": {
 		"english": "Seating",
@@ -889,6 +966,7 @@
 		"dutch": "Zitplaatsen",
 		"ukrainian":"Крісла",
 		"russian":"Стулья",
+		"chinese": "进食",
 	},
 	"tables": {
 		"english": "Tables",
@@ -900,6 +978,7 @@
 		"dutch": "Tafels",
 		"ukrainian":"Столи",
 		"russian":"Столы",
+		"chinese": "桌子",
 	},
 	"storage": {
 		"english": "Storage",
@@ -911,6 +990,7 @@
 		"dutch": "Opslag",
 		"ukrainian":"Зберігання",
 		"russian":"Хранение",
+		"chinese": "存储",
 	},
 	"decoration": {
 		"english": "Decoration",
@@ -922,6 +1002,7 @@
 		"dutch": "Decoratie",
 		"ukrainian":"Декорації",
 		"russian":"Декорация",
+		"chinese": "装饰",
 	},
 	"floors": {
 		"english": "Floors",
@@ -933,6 +1014,7 @@
 		"dutch": "Vloeren",
 		"ukrainian":"Підлога",
 		"russian":"Полы",
+		"chinese": "楼板",
 	},
 	"walls": {
 		"english": "Walls",
@@ -944,6 +1026,7 @@
 		"dutch": "Muren",
 		"ukrainian":"Стіни",
 		"russian":"Стены",
+		"chinese": "墙体",
 	},
 	"fortifications": {
 		"english": "Fortifications",
@@ -951,9 +1034,9 @@
 		"french": "Fortifications",
 		"spanish": "Fortificaciones",
 		"portuguese": "Fortificações",
-		"dutch": "Versterking",
 		"russian":"Укрепления",
 		"ukrainian":"Укріплення",
+		"chinese": "防御工事",
 	},
 	"doors": {
 		"english": "Doors",
@@ -965,6 +1048,7 @@
 		"dutch": "Deuren",
 		"ukrainian":"Двері",
 		"russian":"Двери",
+		"chinese": "门",
 	},
 	"windows": {
 		"english": "Windows",
@@ -976,6 +1060,7 @@
 		"dutch": "Ramen",
 		"ukrainian":"Вікна",
 		"russian":"Окна",
+		"chinese": "窗",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -987,6 +1072,7 @@
 		"dutch": "Pilaren",
 		"ukrainian":"Стовпи",
 		"russian":"Столбы",
+		"chinese": "柱子",
 	},
 	"requiredTech": {
 		"english": "Required Technology",
@@ -998,6 +1084,7 @@
 		"dutch": "Benodigde Technologie",
 		"ukrainian":"Необхідна технологія",
 		"russian":"Требуемая технология",
+		"chinese": "需要科技",
 	},
 	"interactionChainIconDesc": {
 		"english": "Click to Cancel.\nClick %keyBinding% to Chain Commands.",
@@ -1009,6 +1096,7 @@
 		"dutch": "Klik om te Annuleren.\n%KeyBinding% klikken om commandos aan elkaar te koppelen",
 		"ukrainian":"Натисніть для відміни.\nНатисніть на %keyBinding%, щоб створити послідовність дій.",
 		"russian":"Нажмите для отмены.\nНажмите на %keyBinding%, чтобы создать последовательность действий.",
+		"chinese": "点击取消.\n点击 %keyBinding% 锁住命令",
 	},
 	"satisfaction": {
 		"english": "Satisfaction",
@@ -1020,6 +1108,7 @@
 		"dutch": "Tevredenheid",
 		"ukrainian":"Задоволеність",
 		"russian":"Удовлетворенность",
+		"chinese": "满意度",
 	},
 	"rewards": {
 		"english": "Rewards",
@@ -1031,6 +1120,7 @@
 		"dutch": "Beloningen",
 		"ukrainian":"Нагороди",
 		"russian":"Награды",
+		"chinese": "奖励",
 	},
 	"point": {
 		"english": "Point",
@@ -1042,6 +1132,7 @@
 		"dutch": "Punt",
 		"ukrainian":"Очко",
 		"russian":"Очко",
+		"chinese": "点数",
 	},
 	"points": {
 		"english": "Points",
@@ -1053,6 +1144,7 @@
 		"dutch": "Punten",
 		"ukrainian":"Очки",
 		"russian":"Очки",
+		"chinese": "点数",
 	},
 	"satisfactionRewards": {
 		"english": "Satisfaction Rewards",
@@ -1064,6 +1156,7 @@
 		"dutch": "Tevredenheids Beloningen",
 		"ukrainian":"Нагорода за задоволення",
 		"russian":"Награды за удовлетворение",
+		"chinese": "满意奖励",
 	},
 	"instantMaxHealth": {
 		"english": "Instant Max Health",
@@ -1075,6 +1168,7 @@
 		"dutch": "Gelijk Maximale Gezondheid",
 		"ukrainian":"Моментальне відновлення здоров'я",
 		"russian":"Моментальное восстановление здоровья",
+		"chinese": "瞬间满生命",
 	},
 	"cureIllness": {
 		"english": "Cure Illness",
@@ -1086,6 +1180,7 @@
 		"dutch": "Genees Ziekte",
 		"ukrainian":"Зцілення хвороби",
 		"russian":"Исцеление болезни",
+		"chinese": "治疗疾病",
 	},
 	"motivationBoost": {
 		"english": "Motivation Boost",
@@ -1097,6 +1192,7 @@
 		"dutch": "Motivatie Boost",
 		"ukrainian":"Підвищення мотивації",
 		"russian":"Повышение мотивации",
+		"chinese": "增加移速",
 	},
 	"forgetAllBadThoughts": {
 		"english": "Forget negative Thoughts",
@@ -1108,6 +1204,7 @@
 		"dutch": "Negative gedachten vergeten",
 		"ukrainian":"Видалити негативні риси",
 		"russian":"Удалить негативные черты",
+		"chinese": "忘记消极想法",
 	},
 	"activeTraits": {
 		"english": "Active Traits",
@@ -1119,6 +1216,7 @@
 		"dutch": "Actieve Eigenshappen",
 		"ukrainian":"Активні риси",
 		"russian":"Активные черты",
+		"chinese": "当前特性",
 	},
 	"availableTraits": {
 		"english": "Available Traits",
@@ -1130,6 +1228,7 @@
 		"dutch": "Beschikbare Eigenschappen",
 		"ukrainian":"Доступні риси",
 		"russian":"Доступные черты",
+		"chinese": "可用特性",
 	},
 	"sleepingSpot": {
 		"english": "Sleeping Spot",
@@ -1141,6 +1240,7 @@
 		"dutch": "Slaap Plaats",
 		"ukrainian":"Спальне місце",
 		"russian":"Спальное место",
+		"chinese": "睡觉地点",
 	},
 	"isInRoom": {
 		"english": "Is in room",
@@ -1152,6 +1252,7 @@
 		"dutch": "Is in Kamer",
 		"ukrainian":"Знаходиться в кімнаті",
 		"russian":"Находится в комнате",
+		"chinese": "是否室内",
 	},
 	"yes": {
 		"english": "Yes",
@@ -1163,6 +1264,7 @@
 		"dutch": "Ja",
 		"ukrainian":"Так",
 		"russian":"Да",
+		"chinese": "是的",
 	},
 	"no": {
 		"english": "No",
@@ -1174,6 +1276,7 @@
 		"dutch": "Nee",
 		"ukrainian":"Ні",
 		"russian":"Нет",
+		"chinese": "不是",
 	},
 	"bedroomBeauty": {
 		"english": "Bedroom beauty",
@@ -1185,6 +1288,7 @@
 		"dutch": "Schoonheid in Slaapkamer",
 		"ukrainian":"Краса спальні",
 		"russian":"Красота спальни",
+		"chinese": "美观的房间",
 	},
 	"houseBeauty": {
 		"english": "House beauty",
@@ -1196,6 +1300,7 @@
 		"dutch": "Schoonheid in het Huis",
 		"ukrainian":"Краса будинку",
 		"russian":"Красота дома",
+		"chinese": "美观的房子",
 	},
 	"owner": {
 		"english": "Owner",
@@ -1207,6 +1312,7 @@
 		"dutch": "Eigenaar",
 		"ukrainian":"Власник",
 		"russian":"Владелец",
+		"chinese": "拥有者",
 	},
 	"nobody": {
 		"english": "Nobody",
@@ -1218,6 +1324,7 @@
 		"dutch": "Niemand",
 		"ukrainian":"Ніхто",
 		"russian":"Никто",
+		"chinese": "无人",
 	},
 	"immigration": {
 		"english": "Immigration",
@@ -1229,6 +1336,7 @@
 		"dutch": "Immigratie",
 		"ukrainian":"Імміграція",
 		"russian":"Иммиграция",
+		"chinese": "移民",
 	},
 	"immigration_status_maxColonists": {
 		"english": "Your colony has reached its maximum size. Congratulations! Be sure to post a picture in the forums!",
@@ -1240,6 +1348,7 @@
 		"dutch": "Jouw kolonie heeft zijn maximale grootte behaald. Gefeliciteerd! Zorg ervoor dat je een foto op de forums zet!",
 		"ukrainian":"Ваша колонія досягла максимального розміру. Вітаємо! Обов'язково викладіть скріншот на форум!",
 		"russian":"Ваша колония достигла максимального размера. Поздравляем! Обязательно выложите скриншот на форум!",
+		"chinese": "你的殖民地已经达到了它的最大规模.恭喜你!一定要在论坛上发表图片哦!",
 	},
 	"immigration_status_noBonfire": {
 		"english": "No Bonfire is burning. Migrants are not able to find the colony.",
@@ -1251,6 +1360,7 @@
 		"dutch": "Er is geen Baken aan. Migranten kunnen de kolonie niet vinden",
 		"ukrainian":"Сигнальний багаття не горить. Мігранти не можуть знайти вашу колонію.",
 		"russian":"Сигнальный костер не горит. Мигранты не смогут найти вашу колонию.",
+		"chinese": "没有篝火.移民们无法找到殖民地.",
 	},
 	"immigration_status_expectationsNotMet": {
 		"english": "Your colonists' expectations are not met. No migrants are going to join this colony.",
@@ -1262,6 +1372,7 @@
 		"dutch": "De verwachting van je kolonisten zijn niet behaald. Geen migranten gaan deze kolonie betreden",
 		"russian":"Колонисты недовольны жизнью в колонии. Новые мигранты не будут прибывать на остров.",
 		"ukrainian":"Колоністи незадоволені життям в колонії. Нові мігранти не будуть прибувати на острів.",
+		"chinese": "你们殖民者的愿望没有得到满足.没有移民会加入这个殖民地.",
 	},
 	"immigration_status_ok": {
 		"english": "All your colonists' expectations are met. Next chance for migrants in %time%.",
@@ -1270,9 +1381,10 @@
 		"spanish": "Las expectativas de todos tus colonos se cumplen. Probabilidad de que aparezcan nuevos migrantes en %time%.",
 		"turkish": "Tüm yerleşimcilerinizin istekleri karşılandı. Yeni göçmen şansı için süre %time%.",
 		"portuguese": "Todas as expectativas de seus colonos são atendidas. Próxima oportunidade para os migrantes em %time%",
-		"dutch": "Alle verwachtingen van jouw kolonisten zijn behaald. De volgende kans op migranten is in %time%",
+		"dutch": "Alle verwachtingen van jouw kolonisten zijn behaald. De volgende kans op migranten is in &time&",
 		"ukrainian":"Колоністи задоволені життям в колонії. Нові мігранти прибудуть на острів через %time%.",
 		"russian":"Колонисты довольны жизнью в колонии. Новые мигранты прибудут на остров через %time%.",
+		"chinese": "你们所有殖民者的愿望都得到了满足.下一次出现移民将会在 %time% 后.",
 	},
     "colonistIsDumbNoExperience": {
        		"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
@@ -1284,6 +1396,7 @@
 	    	"dutch": "Helaas, %firstName% is dom en zal geen ervaring opdoen in een baan",
 		"ukrainian":"На жаль, %firstName% тупий і не може отримувати досвід в будь-якій роботі.",
 		"russian":"К сожалению, %firstName% туп%hesheEnd2% и не может получать опыт в любой работе.",
+		"chinese": "非常不幸, %firstName% 实在太蠢了,任何职业都不会获得经验.",
 	},
 	"importantPossessions": {
 		"english": "Important Possessions",
@@ -1295,6 +1408,7 @@
 		"dutch": "Belangerijke Eigendommen",
 		"ukrainian":"Предмети у володінні",
 		"russian":"Предметы во владении",
+		"chinese": "贵重物品",
 	},
 	"importantPossession": {
 		"english": "Important Possession",
@@ -1306,6 +1420,7 @@
 		"dutch": "Belangerijk Eigendom",
 		"ukrainian":"Предмети у володінні",
 		"russian":"Предметы во владении",
+		"chinese": "拥有物品",
 	},
 	"importantPossession_Desc": {
 		"english": "%name% likes this thing a lot and does not want to give it up.\n\nYou can not use it to fulfill anyone else's wishes.",
@@ -1317,6 +1432,7 @@
 		"dutch": "%name% vindt dit ding erg leuk en hij wilt het niet opgeven.\n\nJe kan het niet meer gebruiken om iemand anders zijn wens uit te laten komen",
 		"ukrainian":"%name% обожнює цю річ і не збирається нікому її віддавати.\n\nВи не можете використовувати її для виконання чужих мрій.",
 		"russian":"%name% обожает эту вещь и не собирается никому ее отдавать.\n\nВы не можете использовать ее для исполнения чужих мечт.",
+		"chinese": "%name% 很喜欢该愿望,不想放弃.你不能用它来满足别人的愿望.",
 	},
 	"paymentInCoinsPerDay": {
 		"english": "Payment in coins per day",
@@ -1325,9 +1441,9 @@
 		"spanish": "Pago en monedas por día",
 		"portuguese": "Pagamento em moedas por dia",
 		"turkish": "Günlük ücret",
-		"dutch": "Betaling in munten per dag",
 		"ukrainian":"Зарплата монет в день",
 		"russian":"Зарплата монет в день",
+		"chinese": "每天支付硬币",
 	},
 	"civilianEquipment": {
 		"english": "Civilian Equipment",
@@ -1336,9 +1452,9 @@
 		"spanish": "Equipo civil",
 		"portuguese": "Equipamentos Civil",
 		"turkish": "Sivil ekipman",
-		"dutch": "Burgerlijke uitrusting",
 		"ukrainian":"Спорядження поселенців",
 		"russian":"Рабочее снаряжение",
+		"chinese": "民用装备",
 	},
 	"combatEquipment": {
 		"english": "Combat Equipment",
@@ -1347,9 +1463,9 @@
 		"spanish": "Equipo de combate",
 		"portuguese": "Equipamentos de Combate",
 		"turkish": "Askeri ekipman",
-		"dutch": "Gevechts uitrusting",
 		"ukrainian":"Спорядження військ",
 		"russian":"Военное снаряжение",
+		"chinese": "战斗装备",
 	},
 	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
 		"english": "Tool Storage",
@@ -1358,9 +1474,9 @@
 		"spanish": "Almacén de herramientas",
 		"portuguese": "Armazenamento de Ferramentas",
 		"turkish": "Araç deposu",
-		"dutch": "Gereedschaps Opslag",
 		"ukrainian":"Сховище інструментів",
 		"russian":"Хранилище инструментов",
+		"chinese": "工具箱",
 	},
 	"ClothesStorage": {
 		"english": "Clothes Storage",
@@ -1369,9 +1485,9 @@
 		"spanish": "Almacén de ropa",
 		"portuguese": "Armazenamento de Roupas",
 		"turkish": "Kıyafet deposu",
-		"dutch": "Kleding Opslag",
 		"ukrainian":"Сховище одягу",
 		"russian":"Хранилище одежды",
+		"chinese": "衣柜",
 	},
 	"WeaponStorage": {
 		"english": "Weapon Storage",
@@ -1380,9 +1496,9 @@
 		"spanish": "Almacén de armas",
 		"portuguese": "Armazenamento de Armas",
 		"turkish": "Silah deposu",
-		"dutch": "Wapen Opslag",
 		"ukrainian":"Сховище зброї",
 		"russian":"Хранилище оружия",
+		"chinese": "武器箱",
 	},
 	"ArmorStorage": {
 		"english": "Armor Storage",
@@ -1391,9 +1507,9 @@
 		"spanish": "Almacén de armaduras",
 		"portuguese": "Armazenamento de Armadura",
 		"turkish": "Zırh deposu",
-		"dutch": "Wapenrustings Opslag",
 		"ukrainian":"Сховище броні",
 		"russian":"Хранилище брони",
+		"chinese": "盔甲柜",
 	},
 	"takeOwnershipOfStorageFurniture": {
 		"english": "Take Ownership of equipment storage furniture to assign equipment",
@@ -1402,9 +1518,9 @@
 		"spanish": "Toma posesión del almacén de equipo para asignarse equipaje",
 		"portuguese": "Assumir propriedade de móveis de armazenamento de equipamentos para atribuir equipamentos",
 		"turkish": "Ekipmanı atamak için ekipman depoları sahipliğini al",
-		"dutch": "Word Eigenaar van een uitrustings opslag voor het toewijzen van uitrusting",
 		"ukrainian":"Передайте права на меблі для поселенця, щоб він зміг одягатись автоматично.",
 		"russian":"Передайте мебель во владение поселенцу, чтобы он смог снаряжаться автоматически.",
+		"chinese": "设置存储家具的所有权来分配装备",
 	},
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",
@@ -1413,9 +1529,9 @@
 		"spanish": "Selecciona equipaje en el mueble de almacén",
 		"portuguese": "Selecione o equipamento no mobiliário de armazenamento",
 		"turkish": "Depodan ekipman seç",
-		"dutch": "Selecteer uitrusting in een opslag meubel",
 		"ukrainian":"Виберіть спорядження в сховище",
 		"russian":"Выберите снаряжение в хранилище",
+		"chinese": "选择存放的装备",
 	},
 	"selectProduction": {
 		"english": "Select Production",
@@ -1424,9 +1540,9 @@
 		"spanish": "Selecciona producción",
 		"portuguese": "Selecione Produção",
 		"turkish": "Üretim seç",
-		"dutch": "Selecteer Productie",
 		"ukrainian":"Виберіть замовлення",
 		"russian":"Выберите производство",
+		"chinese": "选择生产",
 	},
 	"noOwner": { // when a piece of furniture is not owned by any colonist
 		"english": "No Owner",
@@ -1435,9 +1551,9 @@
 		"spanish": "Sin dueño",
 		"portuguese": "Nenhum proprietário",
 		"turkish": "Sahipsiz",
-		"dutch": "Geen Eigenaar",
 		"ukrainian":"Немає Власника",
 		"russian":"Нет владельца",
+		"chinese": "无人认领",
 	},
 
 
@@ -1450,9 +1566,9 @@
 		"spanish": "Comerciante",
 		"portuguese": "Comerciante",
 		"turkish": "Tüccar",
-		"dutch": "Handelaar",
 		"ukrainian":"Торговець",
 		"russian":"Торговец",
+		"chinese": "商人",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
@@ -1461,9 +1577,9 @@
 		"spanish": "La colonia está vendiendo al comerciante",
 		"portuguese": "Colônia está vendendo para o comerciante",
 		"turkish": "Yerleşim tüccara satıyor",
-		"dutch": "Kolonie Verkoopt aan de Handelaar",
 		"ukrainian":"Колонія продає",
 		"russian":"Колония продает",
+		"chinese": "殖民者正在出售物资给商人",
 	},
 	"colonyIsBuying": {
 		"english": "Colony is Buying from the Trader",
@@ -1472,9 +1588,9 @@
 		"spanish": "La colonia está comprando al comerciante",
 		"portuguese": "Colônia está comprando do comerciante",
 		"turkish": "Yerleşim tüccardan satın alıyor",
-		"dutch": "Kolonie Koopt van de Handelaar",
 		"ukrainian":"Колонія купує",
 		"russian":"Колония покупает",
+		"chinese": "殖民者正在商人处购买物资",
 	},
 	"amountStorage": { // amount means how much is being traded and in store is the maximum amount the colony or the trader has in store
 		"english": "Amount / In Store",
@@ -1483,9 +1599,9 @@
 		"spanish": "Cantidad / En existencia",
 		"portuguese": "Quantidade / Na loja",
 		"turkish": "Satış miktarı / Depo miktarı",
-		"dutch": "Aantal / Op Voorraad",
 		"ukrainian":"Доступно / У торговця",
 		"russian":"Доступно",
+		"chinese": "数量/库存",
 	},
 	"tradingGoodName": {
 		"english": "Name",
@@ -1494,9 +1610,9 @@
 		"spanish": "Nombre",
 		"portuguese": "Nome",
 		"turkish": "İsim",
-		"dutch": "Naam",
 		"ukrainian":"Ім'я",
 		"russian":"Имя",
+		"chinese": "名称",
 	},
 	"price": {
 		"english": "Price",
@@ -1505,9 +1621,9 @@
 		"spanish": "Precio",
 		"portuguese": "Preço",
 		"turkish": "Fiyat",
-		"dutch": "Prijs",
 		"ukrainian":"Ціна",
 		"russian":"Цена",
+		"chinese": "价格",
 	},
 	"totalPrice": {
 		"english": "Total",
@@ -1516,9 +1632,9 @@
 		"spanish": "Total",
 		"portuguese": "Total",
 		"turkish": "Toplam",
-		"dutch": "Totaal",
 		"ukrainian":"Всього",
 		"russian":"Всего",
+		"chinese": "合计",
 	},
 	"confirmTrade": {
 		"english": "Confirm Trade",
@@ -1527,9 +1643,9 @@
 		"spanish": "Confirmar transacción",
 		"portuguese": "Confirme o comércio",
 		"turkish": "Satışı onayla",
-		"dutch": "Bevestig Ruil",
 		"ukrainian":"Обмінятись",
 		"russian":"Обменяться",
+		"chinese": "确认交易",
 	},
 	"sellItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -1538,9 +1654,9 @@
 		"spanish": "Vendiendo items con un valor de %coins% monedas",
 		"portuguese": "Comprando itens com um valor de %coins% moedas",
 		"turkish": "%coins% para değerinde malzeme satılıyor",
-		"dutch": "Verkoopt items met een waarde van %coins% munten",
 		"ukrainian":"Купівля предметів за ціною %coins% монет",
 		"russian":"Продажа предметов за %coins% монет",
+		"chinese": "出售的物品价值 %coins%硬币",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -1549,9 +1665,9 @@
 		"spanish": "Comprando items con un valor de %coins% monedas",
 		"portuguese": "Comprando itens com um valor de %coins% moedas",
 		"turkish": "%coins% para değerinde malzeme satın alınıyor",
-		"dutch": "Koopt items met een waarde van %coins% munten",
 		"ukrainian":"Купівля предметів за ціною %coins% монет",
 		"russian":"Покупка предметов по цене %coins% монет",
+		"chinese": "购买的物品价值 %coins%硬币",
 	},
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",
@@ -1560,9 +1676,9 @@
 		"spanish": "La colonia gana %coins% monedas de esta transacción.",
 		"portuguese": "A colônia está ganhando %coins% moedas deste acordo.",
 		"turkish": "Yerleşiminiz bu alışverişten %coins% para kazanacak",
-		"dutch": "De Kolonie verdient %coins% munten van deze ruil",
 		"ukrainian":"Колонія отримає %coins% монет з цієї угоди.",
 		"russian":"Колония получит %coins% монет с этой сделки.",
+		"chinese": "本次交易获得 %coins%硬币",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
@@ -1571,9 +1687,9 @@
 		"spanish": "La colonia paga %coins% monedas de esta transacción.",
 		"portuguese": "A colônia está pagando %coins% moedas para este negócio.",
 		"turkish": "Yerleşiminiz bu alışveriş için %coins% para ödemesinde bulunuyor",
-		"dutch": "De Kolonie betaalt %coins% munten voor deze ruil",
 		"ukrainian":"Колонія заплатить %coins% монет за цю угоду.",
 		"russian":"Колония заплатит %coins% монет за эту сделку.",
+		"chinese": "本次交易花费 %coins%硬币",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",
@@ -1582,9 +1698,9 @@
 		"spanish": "La colonia no tiene %coins% monedas para pagar esta transacción",
 		"portuguese": "A colônia não tem %coins% moedas para pagar por essa transação.",
 		"turkish": "Yerleşiminiz bu alışverişi yapmak için %coins% paraya ihtiyacı var",
-		"dutch": "De Kolonie heeft niet %coins% munten om te betalen voor deze ruil",
 		"ukrainian":"У колонії немає %coins% монет для укладення угоди",
 		"russian":"У колонии нет %coins% монет для заключения сделки.",
+		"chinese": "本次交易还欠缺 %coins%硬币",
 	},
 
 
@@ -1594,9 +1710,9 @@
 		"portuguese": "Ou você não produziram qualquer equipamento ainda\nou todo o seu equipamento é usado atualmente por seus colonos.",
 		"french": "Soit vous n'avez pas encore produit d'équipement,\nsoit tout votre équipement est actuellement utilisé par vos colons.",
 		"spanish": "O no has producido ningún equipo aún,\no todo tu equipo ya está siendo usado por tus colonos.",
-		"dutch": "Je hebt geen uitrusting geproduceerd\nof al je uitrusting wordt op dit moment gebruikt door je kolonisten ",
 		"ukrainian":"Або ви ще не виробляли жодного спорядження,\n або все ваше спорядження в даний час використовується вашими колоністами.",
 		"russian":"Либо вы еще не производили никакого снаряжения,\n либо все ваше снаряжение в настоящее время используется вашими колонистами.",
+		"chinese": "要么没有生产任何装备,要么所有装备目前都被你的殖民者使用.",
 	},
 	"sellPrice": {
 		"english": "Selling Price",
@@ -1605,30 +1721,9 @@
 		"spanish": "Precio de venta",
 		"portuguese": "Preço de venda",
 		"turkish": "Satış Fiyatı",
-		"dutch": "Verkoop prijs",
 		"ukrainian":"Ціна продажу",
 		"russian":"Цена продажи",
-	},
-	"seconds": {
-		"english": "seconds",
-		"german": "Sekunden",
-		"french": "secondes",
-		"spanish": "segundos",
-		"turkish": "saniye",
-		"portuguese": "segundos",
-		"dutch": "seconden",
-		"russian": "секунд",
-		"ukrainian":"секунд",
-	},
-	"minutes": {
-		"english": "minutes",
-		"german": "Minuten",
-		"french": "minutes",
-		"spanish": "minutos",
-		"portuguese": "minutos",
-		"dutch": "minuten",
-		"russian": "минут",
-		"ukrainian":"хвилин",
+		"chinese": "售价",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -1640,6 +1735,29 @@
 		"dutch": "Seconden",
 		"russian": "секунд",
 		"ukrainian":"секунд",
+		"chinese": "秒",
+	},
+	"minutes": {
+		"english": "minutes",
+		"german": "Minuten",
+		"french": "minutes",
+		"spanish": "minutos",
+		"portuguese": "minutos",
+		"russian": "минут",
+		"ukrainian":"хвилин",
+		"chinese": "分钟",
+	},
+	"seconds": {
+		"english": "seconds",
+		"german": "Sekunden",
+		"french": "secondes",
+		"spanish": "segundos",
+		"turkish": "saniye",
+		"portuguese": "segundos",
+		"dutch": "Seconden",
+		"russian": "секунд",
+		"ukrainian":"секунд",
+		"chinese": "秒",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -1647,9 +1765,9 @@
 		"french": "s",
 		"spanish": "s",
 		"russian": "с",
-		"dutch": "s",
 		"portuguese": "s",
 		"ukrainian":"с",
+		"chinese": "秒",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -1657,9 +1775,9 @@
 		"french": "sec",
 		"spanish": "seg",
 		"russian": "сек",
-		"dutch": "sec",
 		"portuguese": "s",
 		"ukrainian":"сек",
+		"chinese": "秒",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -1667,9 +1785,9 @@
 		"french": "Fêtes",
 		"portuguese": "Festas",
 		"spanish": "Fiestas",
-		"dutch": "Feesten",
 		"ukrainian":"Вечірка",
 		"russian": "Вечеринка",
+		"chinese": "聚会",
 	},
 	"partiesDesc": {
 		"english": "Parties give your colonists a chance to relax and socialize. The more time your colonists spend dancing, eating, and drinking, the higher their mood is going to rise.",
@@ -1677,9 +1795,9 @@
 		"french": "Les fêtes permettent à vos colons de se détendre et de socialiser. Plus vos colons passent du temps à danser, manger et boire, plus leur humeur va s'élever.",
 		"spanish": "Las fiestas le dan a tus colonos una oportunidad de relajarse y socializar. Mientras más tiempo pasen bailando, comiendo y bebiendo, más se incrementará su estado de ánimo.",
 		"ukrainian":"Вечірки дають вашим колоністам можливість розслабитися та поспілкуватися. Чим більше часу ваші колоністи проводять в танцях, їжі та випивці, тим більше їх настрій буде рости.",
-		"dutch": "Feesten geven je kolonisten een kans om te relaxen en te socializen. Hoe meer tijd je kolonisten spenderen aan dansen, eten, en drinken, hoe hoger hun humeur zal stijgen",
 		"russian": "Вечеринки дают вашим колонистам возможность расслабиться. Большую часть времени колонисты будут танцевать, есть и пить, из-за чего их настроение будет повышаться.",
 		"portuguese": "As festas dão aos colonos a chance de relaxar e socializar. Quanto mais tempo seus colonos passarem dançando, comendo e bebendo, maior será o humor deles.",
+		"chinese": "聚会给你的殖民者一个放松和社交的机会.你的殖民者花在跳舞、吃饭和喝酒上的时间越多,他们的情绪就会越高涨.",
 	},
 	"startPartyButton": {
 		"english": "Start Party",
@@ -1687,9 +1805,9 @@
 		"french": "Commencer une fête",
 		"spanish": "Comenzar Fiesta",
 		"ukrainian":"Розпочати Вечірку",
-		"dutch": "Start Feest",
 		"russian": "Начать вечеринку!",
 		"portuguese": "Iniciar uma festa",
+		"chinese": "开始聚会",
 	},
 	"cantStartPartyDuringReady": {
 		"english": "Can't start party during raid",
@@ -1697,9 +1815,9 @@
 		"french": "Impossible de lancer une fête pendant une attaque",
 		"spanish": "No se puede empezar una fiesta durante un ataque",
 		"ukrainian":"Неможливо розпочати вечірку під час нападу Тікігоблінів",
-		"dutch": "Kan geen feest starten tijdens een aanval",
 		"russian": "Нельзя начать вечеринку во время набега",
 		"portuguese": "Não consigo iniciar a festa durante o ataque",
+		"chinese": "不要在袭击期间开始聚会",
 	},
 	"cantStartPartyBecauseAlreadyPartying": {
 		"english": "Can't start party while colonists are already celebrating",
@@ -1707,9 +1825,9 @@
 		"french": "Impossible de commencer une fête lorsque les colons célèbrent déjà",
 		"spanish": "No se puede empezar una fiesta mientras los colonos ya están celebrando",
 		"ukrainian":"Неможливо розпочати вечірку коли вона вже почалась",
-		"dutch": "Kan geen feest starten terwijl kolonisten al aan het vieren zijn",
 		"russian": "Нельзя начать вечеринку во время другой вечеринки",
 		"portuguese": "Não pode começar a festa enquanto os colonos já estão comemorando",
+		"chinese": "不能在殖民者庆祝时开始聚会",
 	},
 	"coinsToStartParty": {
 		"english": "%coins% Coins to start party",
@@ -1717,9 +1835,9 @@
 		"french": "%coins% pièces pour commencer une fête",
 		"spanish": "%coins% monedas para empezar una fiesta",
 		"ukrainian":"Потрібно %coins% монет",
-		"dutch": "%coins% Munten om een feest te starten",
 		"russian": "%coins% монет",
 		"portuguese": "%coins% Moedas para começar a festa",
+		"chinese": "花费 %coins%硬币开始聚会",
 	},
 	"atLeastBeerInStock": {
 		"english": "At least %beer% beer in stock",
@@ -1727,9 +1845,9 @@
 		"french": "Au moins %beer% bières en stock",
 		"spanish": "Al menos %beer% cervezas en existencia",
 		"ukrainian":"Потрібно %beer% пива на складі",
-		"dutch": "Tenminste %beer% bier op voorraad",
 		"russian": "Хотя бы %beer% пива",
 		"portuguese": "Pelo menos %beer% cerveja em estoque",
+		"chinese": "库存至少要有 %beer%啤酒",
 	},
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
@@ -1737,9 +1855,9 @@
 		"french": "Au moins %food% aliments en stock",
 		"spanish": "Al menos %food% de comida en existencia",
 		"ukrainian":"Потрібно %food% їжі на складі",
-		"dutch": "Tenminste %food% maaltijden op voorraad",
 		"russian": "Хотя бы %food% еды",
 		"portuguese": "Pelo menos %food% comida em estoque",
+		"chinese": "库存至少要有 %food%食物",
 	},
 	"partyRequirements": {
 		"english": "Party Requirements",
@@ -1747,9 +1865,9 @@
 		"french": "Exigences de la fête",
 		"spanish": "Requisitos de Fiesta",
 		"ukrainian":"Щоб розпочати вечірку",
-		"dutch": "Feest Vereisten",
 		"russian": "Требования:",
 		"portuguese": "Requisitos para festas",
+		"chinese": "聚会要求",
 	},
 	"customCamera": { // activated with F4
 		"english": "Custom Camera", // or free-flying camera
@@ -1757,9 +1875,9 @@
 		"french": "Caméra libre",
 		"spanish": "Cámara libre",
 		"russian": "Пользовательская камера",
-		"dutch": "Aangepaste Camera",
 		"ukrainian":"Користувацька камера",
 		"portuguese": "câmera de vôo livre",
+		"chinese": "自由镜头",
 	},
 	"customCameraHotkeys": {
 		"english": "Open/close info panel: R\nToggle wall movement: T\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
@@ -1767,9 +1885,9 @@
 		"french": "Ouvrir/fermer le panneau d'information : R\nActiver/désactiver le mouvement des murs : T\nMode cinématique : C\nChanger la vitesse de la caméra : molette de la souris\nHaut et bas : MAJ gauche et CTRL gauche",
 		"spanish": "Abrir/cerrar panel de información: R\nAlternar movimiento de muros: T\nModo Cinemática: C\nCambiar velocidad de cámara: Rueda del ratón\nArriba y abajo: Shift izquierdo y Control izquierdo",
 		"russian": "Открыть/Закрыть меню информации: R\nПереключить движение стены: T\nКинематографический режим: C\nИзменить скорость камеры: Колесико мыши\nВверх, вниз: Левый Shift и левый Ctrl",
-		"dutch": "Open/Sluit info paneel: R\nToggle Muur beweging: T\nFilmtechnische modus: C\nVerander camera snelheid: Scrollwiel\nOp en neer: Linker shift en linker control",
 		"ukrainian":"Відкрити/Закрити меню інформації: R\nПереключити рух стіни: T\nКінематографічний режим: С\nЗмінити швидкість камери: Mouse wheel\nВверх, вниз: Left shift та Left Ctrl",
 		"portuguese": "Abra / feche o painel de informações: R\nAlternar movimento da parede:  T\nModo cinematográfico: C\nAlterar a velocidade da câmera: roda do mouse\nPara cima e para baixo: SHIFT esquerdo e CTRL esquerdo",
+		"chinese": "打开/关闭 信息面板:R\n切换墙壁移动:T\n电影模式:C\n镜头速度:鼠标滚轮\n上和下:左shift和右ctrl",
 	},
 	"camSpeed": {
 		"english": "Cam speed",
@@ -1777,10 +1895,9 @@
 		"french": "Vitesse de la caméra",
 		"russian": "Скорость камеры",
 		"spanish": "Velocidad de cámara",
-		"dutch": "Cam snelheid",
 		"ukrainian":"Швидкість камери",
 		"portuguese": "Velocidade de Cam",
-
+		"chinese": "镜头速度",
 	},
 
 

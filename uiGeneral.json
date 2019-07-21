@@ -11,6 +11,7 @@
 		"ukrainian":"Нова гра",
 		"russian":"Новая игра",
 		"chinese": "新游戏",
+		"korean": "새 게임",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -23,6 +24,7 @@
 		"ukrainian":"Зберегти гру",
 		"russian":"Сохранить игру",
 		"chinese": "保存游戏",
+		"korean": "저장하기",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -35,6 +37,7 @@
 		"ukrainian":"Завантажити гру",
 		"russian":"Загрузить игру",
 		"chinese": "加载游戏",
+		"korean": "불러오기",
 	},
 	"settings": {
 		"english": "Settings",
@@ -47,6 +50,7 @@
 		"ukrainian":"Налаштування",
 		"russian":"Настройки",
 		"chinese": "设置",
+		"korean": "설정",
 	},
 	"quit": {
 		"english": "Quit",
@@ -59,6 +63,7 @@
 		"ukrainian":"Вихід",
 		"russian":"Выход",
 		"chinese": "退出",
+		"korean": "종료",
 	},
 	"website": {
 		"english": "Website",
@@ -69,6 +74,7 @@
 		"turkish": "Website",
 		"ukrainian":"ВебСайт",
 		"chinese": "网站",
+		"korean": "홈페이지",
 	},
 	"forum": {
 		"english": "Forum",
@@ -80,6 +86,7 @@
 		"turkish": "Fórum",
 		"ukrainian":"Форум",
 		"chinese": "论坛",
+		"korean": "게시판",
 	},
 	"supportDevelopment": {
 		"english": "Support Development",
@@ -91,6 +98,7 @@
 		"ukrainian":"Підтримати розробників",
 		"russian":"Поддержать разработчика",
 		"chinese": "支持开发者",
+		"korean": "개발자 후원하기",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -103,6 +111,7 @@
 		"ukrainian":"Доступно оновлення!",
 		"russian":"Доступно обновление!",
 		"chinese": "可用更新",
+		"korean": "업데이트 가능!",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -115,6 +124,7 @@
 		"ukrainian":"Отримати нову версію",
 		"russian":"Получить новую версию",
 		"chinese": "获取最新版本",
+		"korean": "최신 버전 다운받기",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -127,6 +137,7 @@
 		"ukrainian":"Ваша версія",
 		"russian":"Ваша версия",
 		"chinese": "你的版本",
+		"korean": "설치된 버전",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -139,6 +150,7 @@
 		"ukrainian":"Поточна версія",
 		"russian":"Текущая версия",
 		"chinese": "当前版本",
+		"korean": "현재 버전",
 	},
 	"underConstruction": {
 		"english": "Under Construction!",
@@ -151,6 +163,7 @@
 		"ukrainian":"У розробці!",
 		"russian":"В разработке!",
 		"chinese": "施工中!",
+		"korean": "공사중!",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -163,6 +176,7 @@
 		"ukrainian":"Головне Меню",
 		"russian":"Главное Меню",
 		"chinese": "主菜单",
+		"korean": "메인 메뉴",
 	},
 	"giveFeedback": {
 		"english": "Give Feedback",
@@ -175,6 +189,7 @@
 		"ukrainian":"Надіслати відгук",
 		"russian":"Обратная связь",
 		"chinese": "意见反馈",
+		"korean": "피드백 보내기",
 	},
 
 
@@ -189,6 +204,7 @@
 		"ukrainian":"Завантажити гру",
 		"russian":"Загрузить игру",
 		"chinese": "加载",
+		"korean": "불러오기",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -200,6 +216,7 @@
 		"ukrainian":"Перезаписати",
 		"russian":"Перезаписать",
 		"chinese": "覆盖",
+		"korean": "덮어쓰기",
 	},
 	"newSave": {
 		"english": "New Save",
@@ -211,6 +228,7 @@
 		"ukrainian":"Нове збереження",
 		"russian":"Новое сохранение",
 		"chinese": "新存档",
+		"korean": "새로 저장",
 	},
 	"savegameName": { // background when player enters an empty save game name
 		"english": "Savegame Name",
@@ -222,6 +240,7 @@
 		"ukrainian":"Назва збереженої гри",
 		"russian":"Название сохранения",
 		"chinese": "存档名称",
+		"korean": "저장된 게임",
 	},
 	"mostAwesomeColony": { // default name for new colony
 		"english": "Most Awesome Colony",
@@ -233,6 +252,7 @@
 		"ukrainian":"Найбільш колосальна колонія",
 		"russian":"Самая удивительная колония",
 		"chinese": "令人敬畏的殖民地",
+		"korean": "가장 멋진 개척지",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -244,6 +264,7 @@
 		"ukrainian":"Заборонені символи в імені файлу",
 		"russian":"Запрещенные символы в имени файла",
 		"chinese": "文件名禁使用字符",
+		"korean": "사용할 수 없는 문자가 포함되어 있습니다",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -255,6 +276,7 @@
 		"ukrainian":"Ім'я файлу задовге",
 		"russian":"Имя файла слишком длинное",
 		"chinese": "文件名太长",
+		"korean": "파일 이름이 너무 깁니다",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -266,6 +288,7 @@
 		"ukrainian":"Ім'я файлу занадто коротке",
 		"russian":"Имя файла слишком короткое",
 		"chinese": "文件名太短",
+		"korean": "파일 이름이 너무 짧습니다",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -277,6 +300,7 @@
 		"ukrainian":"Ім'я файлу вже використовується",
 		"russian":"Имя файла уже используется",
 		"chinese": "文件名已使用",
+		"korean": "이미 같은 이름의 파일이 있습니다",
 	},
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
@@ -288,6 +312,7 @@
 		"ukrainian":"Моди можуть бути несумісними!\nМоди в збережених:",
 		"russian":"Моды могут быть несовместимы!\nМоды в сохранении:",
 		"chinese": "模组可能不兼容!\n存档已用模组:",
+		"korean": "모드가 호환되지 않을 수 있습니다!\n모드:",
 	},
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
@@ -299,6 +324,7 @@
 		"turkish": "Yok",
 		"ukrainian":"Відсутні",
 		"chinese": "无",
+		"korean": "없음",
 	},
 
 
@@ -315,17 +341,7 @@
 		"turkish": "Modlar ve İlave İçerik",
 		"ukrainian":"Моди та дод. контент",
 		"chinese": "模组和附加内容",
-	},
-	"modsAndExtraContent": {
-		"english": "Mods and Extra Content",
-		"german": "Mods und Zusatzinhalte",
-		"french": "Mods et Contenu Supplémentaire",
-		"spanish": "Mods y Contenido Adicional",
-		"russian":"Моды и доп. контент",
-		"portuguese": "Mods e Conteúdo Extra",
-		"turkish": "Modlar ve İlave İçerik",
-		"ukrainian":"Моди та дод. контент",
-		"chinese": "模组和附加内容",
+		"korean": "모드와 부가 콘텐츠",
 	},
 	"author": {
 		"english": "Author",
@@ -337,6 +353,7 @@
 		"turkish": "Yazar",
 		"ukrainian":"Автор",
 		"chinese": "作者",
+		"korean": "작성자",
 	},
 	"active": {
 		"english": "Active",
@@ -348,6 +365,7 @@
 		"turkish": "Aktif",
 		"ukrainian":"Активний",
 		"chinese": "启用",
+		"korean": "활성화",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -359,6 +377,7 @@
 		"turkish": "Yüklü bir mod veya ilave içeriğe sahip değilsiniz",
 		"ukrainian":"У вас немає встановлених модифікацій або дод. контенту.",
 		"chinese": "您没有安装任何模组或附加内容",
+		"korean": "설치된 모드나 부가 콘텐츠가 없습니다.",
 	},
 	"modsOnRoadmap": {
 		"english": "Mod Support is currently on our Roadmap.\nOur supporters use this menu to manage their supporter packages.",
@@ -370,6 +389,7 @@
 		"turkish": "Mod desteği yapılacaklar arasında.\nDestekçilerimiz bu menüyü kullanarak destekçi paketlerini yönetebilirler",
 		"ukrainian":"Підтримка модифікацій буде реалізована в майбутньому.\nЦе меню використовується для управління модифікаціями.",
 		"chinese": "模组支持目前在我们的开发路线图中.众筹支持者使用这个菜单来管理他们的众筹附加包.",
+		"korean": "아직은 모드를 지원할 계획입니다.\n이 메뉴는 우리를 후원해준 분들이 후원자 패키지를 관리하기 위해 사용합니다.",
 	},
 	"openModFolder": {
 		"english": "Open Mod Folder",
@@ -381,6 +401,7 @@
 		"turkish": "Mod klasörünü aç",
 		"ukrainian":"Відкрити папку з модом",
 		"chinese": "打开模组文件夹",
+		"korean": "모드 폴더 열기",
 	},
 	"modCompatible_Title": {
 		"english": "Content compatible",
@@ -392,6 +413,7 @@
 		"turkish": "Uyumlu İçerik",
 		"ukrainian":"Контент сумісний",
 		"chinese": "模组兼容",
+		"korean": "호환 가능",
 	},
 	"modCompatible_Text": {
 		"english": "This content has been marked by the developers as compatible.",
@@ -403,6 +425,7 @@
 		"turkish": "Bu içerik yapımcılar tarafından uyumlu olarak işaretlendi",
 		"ukrainian":"Цей контент був відзначений розробниками як сумісний.",
 		"chinese": "开发人员已经将此内容标记为兼容.",
+		"korean": "이 콘텐츠는 개발자가 호환 가능하다고 표시한 콘텐츠입니다.",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
@@ -414,6 +437,7 @@
 		"turkish": "Uyumsuz İçerik",
 		"ukrainian":"Контент не сумісний",
 		"chinese": "模组不兼容",
+		"korean": "호환 불가능",
 	},
 	"modIncompatible_Text": {
 		"english": "This content has been marked by the developers as incompatible.\nYou need to update it in order to activate it.",
@@ -425,6 +449,7 @@
 		"turkish": "Bu içerik yapımcılar tarafından uyumsuz olarak işaretlendi.\nKullanabilmek için güncellemeniz gerekir.",
 		"ukrainian":"Цей контент був відзначений розробниками як несумісний.\nВам потрібно оновити його перед активацією.",
 		"chinese": "开发人员将此内容标记为不兼容.你需要更新它来激活它.",
+		"korean": "이 콘텐츠는 개발자가 호환이 불가능하다고 표시한 콘텐츠입니다.\n활성화하려면 업데이트가 필요합니다.",
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
@@ -436,6 +461,7 @@
 		"turkish": "Uygula ve yeniden başlat",
 		"ukrainian":"Застосувати і перезапустити",
 		"chinese": "应用并重启",
+		"korean": "적용 후 재시작",
 	},
 	
 
@@ -451,6 +477,7 @@
 		"ukrainian":"Кожен відгук допомагає нам покращити гру для вас!",
 		"russian":"Каждый отзыв помогает нам улучшать игру для вас!",
 		"chinese": "每一条反馈都有助于我们为您改进游戏!",
+		"korean": "작은 피드백도 당신을 위해 게임을 더 좋게 만드는 데에 도움을 줍니다!",
 	},
 	"feedbackType": {
 		"english": "Category",
@@ -463,6 +490,7 @@
 		"ukrainian":"Категорія",
 		"russian":"Категория",
 		"chinese": "类别",
+		"korean": "카테고리",
 	},
 	"general": {
 		"english": "General",
@@ -475,6 +503,7 @@
 		"ukrainian":"Загальні",
 		"russian":"Общая",
 		"chinese": "一般",
+		"korean": "일반",
 	},
 	"bugReport": {
 		"english": "Bug Report",
@@ -487,6 +516,7 @@
 		"ukrainian":"Помилка",
 		"russian":"Ошибка",
 		"chinese": "Bug报告",
+		"korean": "버그 신고",
 	},
 	"framerate": {
 		"english": "Framerate",
@@ -499,6 +529,7 @@
 		"ukrainian":"FPS",
 		"russian":"FPS",
 		"chinese": "帧率",
+		"korean": "FPS",
 	},
 	"feedback": {
 		"english": "Feedback",
@@ -511,6 +542,7 @@
 		"ukrainian":"Зворотній зв'язок",
 		"russian":"Обратная связь",
 		"chinese": "反馈",
+		"korean": "피드백",
 	},
 	"enterFeedback": {
 		"english": "Enter Feedback...",
@@ -523,6 +555,7 @@
 		"ukrainian":"Залиште відгук ...",
 		"russian":"Оставьте отзыв ...",
 		"chinese": "输入反馈...",
+		"korean": "피드백을 입력해주세요...",
 	},
 	"emailAddressOptional": {
 		"english": "Email Address (optional!)",
@@ -535,6 +568,7 @@
 		"ukrainian":"Адреса електронної пошти (необов'язково!)",
 		"russian":"Адрес электронной почты (необязательно!)",
 		"chinese": "邮箱地址(可选!)",
+		"korean": "이메일 주소 (선택!)",
 	},
 	"clickToSubmit": {
 		"english": "Click to submit",
@@ -547,6 +581,7 @@
 		"ukrainian":"Натисніть, щоб подати",
 		"russian":"Нажмите, чтобы отправить",
 		"chinese": "点击提交",
+		"korean": "보내려면 여기를 클릭",
 	},
 	"thankYou": {
 		"english": "Thank you!",
@@ -559,6 +594,7 @@
 		"ukrainian":"Дякуємо!",
 		"russian":"Спасибо!",
 		"chinese": "感谢!",
+		"korean": "감사합니다!",
 	},
 	"feedbackSubmittedSuccessfully": {
 		"english": "Feedback submitted successfully",
@@ -571,6 +607,7 @@
 		"ukrainian":"Відгук успішно надіслано",
 		"russian":"Отзыв успешно отправлен",
 		"chinese": "反馈提交成功",
+		"korean": "피드백이 정상적으로 접수되었습니다",
 	},
 	"Oops": {
 		"english": "Oops...",
@@ -583,6 +620,7 @@
 		"ukrainian":"Ой...",
 		"russian":"Ой...",
 		"chinese": "哎呦...",
+		"korean": "이런...",
 	},
 	"feedbackSystemBug": {
 		"english": "There seems to be a bug in the feedback system.\nPlease try again later or let us know via contact@foundersfortune.com",
@@ -595,6 +633,7 @@
 		"ukrainian":"Здається, у системі зворотного зв'язку є помилка.\nПовторіть спробу пізніше або повідомте нам про це на contact@foundersfortune.com",
 		"russian":"Кажется, есть ошибка в системе обратной связи.\nПожалуйста, попробуйте позже или сообщите нам об этом по адресу contact@foundersfortune.com",
 		"chinese": "反馈系统似乎出现了问题.\n请稍后再试或通过 contact@foundersfortune.com 告知我们",
+		"korean": "피드백 시스템에 문제가 있는 것 같습니다.\n다음에 다시 시도해주시거나, contact@foundersfortune.com 로 직접 메일을 보내주세요",
 	},
 	"feedbackConnectionIssue": {
 		"english": "There seems to be a connection issue\nCould you please check your internet connection?",
@@ -607,6 +646,7 @@
 		"ukrainian":"Здається, у системі зворотного зв'язку є помилка.\nБудь ласка, спробуйте ще раз пізніше.",
 		"russian":"Кажется, есть проблема с подключением.\nНе могли бы вы проверить подключение к Интернету?",
 		"chinese": "似乎是连接问题.\n你能检查一下你的网络连接吗?",
+		"korean": "인터넷 연결에 문제가 있는 것 같습니다\n인터넷 연결을 한번 확인해주시겠어요?",
 	},
 	"youreWelcome": {
 		"english": "You're Welcome",
@@ -619,6 +659,7 @@
 		"ukrainian":"Ласкаво Просимо",
 		"russian":"Добро Пожаловать",
 		"chinese": "不客气",
+		"korean": "천만에요",
 	},
 	"retry": {
 		"english": "retry",
@@ -631,6 +672,7 @@
 		"ukrainian":"Повторіть спробу",
 		"russian":"Повторить попытку",
 		"chinese": "重试",
+		"korean": "재시도",
 	},
 
 
@@ -646,6 +688,7 @@
 		"ukrainian":"Відео",
 		"russian":"Видео",
 		"chinese": "图像",
+		"korean": "화면",
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -658,6 +701,7 @@
 		"ukrainian":"Якість графіки",
 		"russian":"Качество графики",
 		"chinese": "画面质量",
+		"korean": "그래픽 품질",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -669,7 +713,7 @@
 		"dutch": "Laag",
 		"ukrainian":"Низько",
 		"russian":"Низкое",
-		"chinese": "低",
+		"korean": "낮음",
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -681,7 +725,7 @@
 		"dutch": "Middel",
 		"ukrainian":"Середньо",
 		"russian":"Среднее",
-		"chinese": "中",
+		"korean": "보통",
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -693,7 +737,7 @@
 		"dutch": "Hoog",
 		"ukrainian":"Високо",
 		"russian":"Высокое",
-		"chinese": "高",
+		"korean": "높음",
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -706,6 +750,7 @@
 		"ukrainian":"Роздільна здатність",
 		"russian":"Разрешение",
 		"chinese": "分辨率",
+		"korean": "해상도",
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -718,6 +763,7 @@
 		"ukrainian":"Режим відображення",
 		"russian":"Режим отображения",
 		"chinese": "显示模式",
+		"korean": "화면 모드",
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -730,6 +776,7 @@
 		"ukrainian":"У Вікні",
 		"russian":"Оконный",
 		"chinese": "窗口",
+		"korean": "창 모드",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -742,6 +789,7 @@
 		"ukrainian":"Повноекранний режим",
 		"russian":"Полноэкранный режим",
 		"chinese": "全屏",
+		"korean": "전체화면 모드",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -754,6 +802,7 @@
 		"ukrainian":"Vsync",
 		"russian":"Vsync",
 		"chinese": "垂直同步",
+		"korean": "수직동기화",
 	},
 	"on": {
 		"english": "On",
@@ -766,6 +815,7 @@
 		"ukrainian":"Увімкнено",
 		"russian":"Включено",
 		"chinese": "开",
+		"korean": "켬",
 	},
 	"off": {
 		"english": "Off",
@@ -778,6 +828,7 @@
 		"ukrainian":"Вимкнено",
 		"russian":"Выключено",
 		"chinese": "关",
+		"korean": "끔",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -790,6 +841,7 @@
 		"ukrainian":"Яскравість",
 		"russian":"Яркость",
 		"chinese": "亮度",
+		"korean": "밝기",
 	},
 	"audio": {
 		"english": "Audio",
@@ -802,6 +854,7 @@
 		"ukrainian":"Аудіо",
 		"russian":"Аудио",
 		"chinese": "音频",
+		"korean": "소리",
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -814,6 +867,7 @@
 		"ukrainian":"Загальний звук",
 		"russian":"Общая громкость",
 		"chinese": "总音量",
+		"korean": "전체 볼륨",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -826,6 +880,7 @@
 		"ukrainian":"Звукові ефекти",
 		"russian":"Звуковые эффекты",
 		"chinese": "音效",
+		"korean": "음향 효과",
 	},
 	"music": {
 		"english": "Music",
@@ -838,6 +893,7 @@
 		"ukrainian":"Музика",
 		"russian":"Музыка",
 		"chinese": "音乐",
+		"korean": "배경음악",
 	},
 	"other": {
 		"english": "Other",
@@ -850,6 +906,7 @@
 		"ukrainian":"Інше",
 		"russian":"Другое",
 		"chinese": "其他",
+		"korean": "기타",
 	},
 	"language": {
 		"english": "Language",
@@ -862,6 +919,7 @@
 		"ukrainian":"Мова",
 		"russian":"Язык",
 		"chinese": "语言",
+		"korean": "언어",
 	},
 
 
@@ -877,6 +935,7 @@
 		"ukrainian":"English",
 		"russian":"English",
 		"chinese": "English",
+		"korean": "English",
 	},
 	"german": {
 		"english": "Deutsch",
@@ -889,6 +948,7 @@
 		"ukrainian":"Deutsch",
 		"russian":"Deutsch",
 		"chinese": "Deutsch",
+		"korean": "Deutsch",
 	},	
 	"french": {
 		"english": "Français",
@@ -901,6 +961,7 @@
 		"ukrainian":"Français",
 		"russian":"Français",
 		"chinese": "Français",
+		"korean": "Français",
 	},	
 	"spanish": {
 		"english": "Español",
@@ -913,6 +974,7 @@
 		"ukrainian":"Español",
 		"russian":"Español",
 		"chinese": "Español",
+		"korean": "Español",
 	},
 	"portuguese": {
 		"english": "Portuges",
@@ -925,6 +987,7 @@
 		"ukrainian":"Portuges",
 		"russian":"Portuges",
 		"chinese": "Portuges",
+		"korean": "Portuges",
 	},
 	"turkish": {
 		"english": "Türkçe",
@@ -937,6 +1000,7 @@
 		"ukrainian":"Türkçe",
 		"russian":"Türkçe",
 		"chinese": "Türkçe",
+		"korean": "Türkçe",
 	},
 	"dutch": { 
 		"english": "Nederlands",
@@ -949,6 +1013,7 @@
 		"ukrainian":"Nederlands",
 		"russian":"Nederlands",
 		"chinese": "Nederlands",
+		"korean": "Nederlands",
 	},
 	"ukrainian": { 
 		"english": "Українська",
@@ -961,6 +1026,7 @@
 		"ukrainian":"Українська",
 		"russian":"Українська",
 		"chinese": "Українська",
+		"korean": "Українська",
 	},
 	"russian": { 
 		"english": "Русский",
@@ -973,6 +1039,7 @@
 		"ukrainian":"Русский",
 		"russian":"Русский",
 		"chinese": "Русский",
+		"korean": "Русский",
 	},
 	"chinese": { 
 		"english": "简体中文",
@@ -985,6 +1052,20 @@
 		"ukrainian":"简体中文",
 		"russian":"简体中文",
 		"chinese": "简体中文",
+		"korean": "简体中文",
+	},
+	"korean": { 
+		"english": "한국어",
+		"german": "한국어",
+		"french": "한국어",
+		"spanish": "한국어",
+		"turkish": "한국어",
+		"portuguese": "한국어",
+		"dutch": "한국어",
+		"ukrainian":"한국어",
+		"russian":"한국어",
+		"chinese": "한국어",
+		"korean": "한국어",
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -997,6 +1078,7 @@
 		"ukrainian":"Прокрутка краю миші",
 		"russian":"Прокрутка мыши",
 		"chinese": "鼠标边界滚动",
+		"korean": "가장자리에서 화면 끌기",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -1009,6 +1091,7 @@
 		"ukrainian":"Гра активна у фоновому режимі",
 		"russian":"Активность игры в фоне",
 		"chinese": "开启游戏背景",
+		"korean": "백그라운드에서 게임 활성화",
 	},
 
 
@@ -1024,6 +1107,7 @@
 		"ukrainian":"Завантаження світу...",
 		"russian":"Загрузка Мира ...",
 		"chinese": "加载世界...",
+		"korean": "세상을 불러오는 중...",
 	},
 	"reset": {
 		"english": "Reset",
@@ -1036,6 +1120,7 @@
 		"ukrainian":"Скинути",
 		"russian":"Сбросить",
 		"chinese": "重置",
+		"korean": "초기화",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -1048,6 +1133,7 @@
 		"ukrainian":"Підтвердити",
 		"russian":"Подтвердить",
 		"chinese": "继续",
+		"korean": "확인",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -1060,6 +1146,7 @@
 		"ukrainian":"Скасувати",
 		"russian":"Отменить",
 		"chinese": "取消",
+		"korean": "취소",
 	},
 	"apply": {
 		"english": "Apply",
@@ -1072,6 +1159,7 @@
 		"ukrainian":"Застосувати",
 		"russian":"Применить",
 		"chinese": "应用",
+		"korean": "적용",
 	},
 
 
@@ -1087,6 +1175,7 @@
 		"ukrainian":"Керування камерою",
 		"russian":"Управление камерой",
 		"chinese": "镜头控制",
+		"korean": "카메라 컨트롤",
 	},
 	"keyBindings": {
 		"english": "Key Bindings",
@@ -1099,6 +1188,7 @@
 		"ukrainian":"Налаштування управління",
 		"russian":"Настройки управления",
 		"chinese": "绑定按键",
+		"korean": "키보드 매핑",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1111,6 +1201,7 @@
 		"ukrainian":"Вперед",
 		"russian":"Вперед",
 		"chinese": "向前",
+		"korean": "앞으로",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -1123,6 +1214,7 @@
 		"ukrainian":"Назад",
 		"russian":"Назад",
 		"chinese": "向后",
+		"korean": "뒤로",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -1135,6 +1227,7 @@
 		"ukrainian":"Ліворуч",
 		"russian":"Влево",
 		"chinese": "向左",
+		"korean": "왼쪽으로",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -1147,6 +1240,7 @@
 		"ukrainian":"Праворуч",
 		"russian":"Вправо",
 		"chinese": "向右",
+		"korean": "오른쪽으로",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -1159,6 +1253,7 @@
 		"ukrainian":"Поворот",
 		"russian":"Поворот",
 		"chinese": "旋转",
+		"korean": "회전",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1171,6 +1266,7 @@
 		"ukrainian":"Управління Часом",
 		"russian":"Управление временем",
 		"chinese": "时间控制",
+		"korean": "빠르기 조절",
 	},
 	"pause": {
 		"english": "Pause",
@@ -1183,6 +1279,7 @@
 		"ukrainian":"Пауза",
 		"russian":"Пауза",
 		"chinese": "暂停",
+		"korean": "일시정지",
 	},
 	"normalSpeed": {
 		"english": "Normal Speed",
@@ -1195,6 +1292,7 @@
 		"ukrainian":"Звичайна Швидкість",
 		"russian":"Обычная Скорость",
 		"chinese": "普通速度",
+		"korean": "일반 속도",
 	},
 	"2xSpeed": {
 		"english": "2x Speed",
@@ -1207,6 +1305,7 @@
 		"ukrainian":"2х Швидкість",
 		"russian":"2х Скорость",
 		"chinese": "2倍速度",
+		"korean": "2배속",
 	},
 	"4xSpeed": {
 		"english": "4x Speed",
@@ -1219,6 +1318,7 @@
 		"ukrainian":"4х Швидкість",
 		"russian":"4х Скорость",
 		"chinese": "4倍速度",
+		"korean": "4배속",
 	},
 	"colonistInteraction": {
 		"english": "Colonist Interaction",
@@ -1231,6 +1331,7 @@
 		"ukrainian":"Керування колоністами",
 		"russian":"Управление колонистами",
 		"chinese": "殖民者交互",
+		"korean": "거주민과 상호작용",
 	},
 	"multipleOrders": {
 		"english": "Multiple Orders",
@@ -1243,6 +1344,7 @@
 		"ukrainian":"Вибір кількох замовлень",
 		"russian":"Выбор нескольких действий",
 		"chinese": "多任务",
+		"korean": "여러개의 명령 내리기",
 	},
 	"furnitureHandling": {
 		"english": "Furniture Handling",
@@ -1255,6 +1357,7 @@
 		"ukrainian":"Поворот меблів",
 		"russian":"Поворот мебели",
 		"chinese": "家具处理",
+		"korean": "가구 움직이기",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -1267,6 +1370,7 @@
 		"ukrainian":"Поворот ліворуч",
 		"russian":"Поворот влево",
 		"chinese": "向左旋转",
+		"korean": "왼쪽으로 회전",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -1279,6 +1383,7 @@
 		"ukrainian":"Поворот праворуч",
 		"russian":"Поворот вправо",
 		"chinese": "向右旋转",
+		"korean": "오른쪽으로 회전",
 	},
 	"precisionPlacement": {
 		"english": "Precision Placement",
@@ -1290,6 +1395,7 @@
 		"turkish": "Hassas Yerleştirme",
 		"ukrainian":"Точне розміщення",
 		"chinese": "精确放置",
+		"korean": "정밀한 배치",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -1302,6 +1408,7 @@
 		"ukrainian":"Різне",
 		"russian":"Разное",
 		"chinese": "杂项",
+		"korean": "기타",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -1314,6 +1421,7 @@
 		"ukrainian":"Знімок екрана",
 		"russian":"Скриншот",
 		"chinese": "截图",
+		"korean": "스크린샷",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1326,6 +1434,7 @@
 		"ukrainian":"Відкрити папку скріншотів",
 		"russian":"Открыть папку скриншотов",
 		"chinese": "打开截图文件夹",
+		"korean": "스크린샷 폴더 열기",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -1338,6 +1447,7 @@
 		"ukrainian":"Показати FPS",
 		"russian":"Показать FPS",
 		"chinese": "显示FPS",
+		"korean": "FPS 확인",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -1350,6 +1460,7 @@
 		"ukrainian":"Ліва кнопка миші",
 		"russian":"Левая кнопка мыши",
 		"chinese": "鼠标左键",
+		"korean": "마우스 왼쪽 버튼",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -1362,6 +1473,7 @@
 		"ukrainian":"Права кнопка миші",
 		"russian":"Правая кнопка мыши",
 		"chinese": "鼠标右键",
+		"korean": "마우스 오른쪽 버튼",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -1374,6 +1486,7 @@
 		"ukrainian":"Середня кнопка миші",
 		"russian":"Средняя кнопка мыши",
 		"chinese": "鼠标中键",
+		"korean": "마우스 가운데 버튼",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -1386,6 +1499,7 @@
 		"ukrainian":"Space",
 		"russian":"Пробел",
 		"chinese": "空格",
+		"korean": "스페이스",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -1398,6 +1512,7 @@
 		"ukrainian":"Shift (ліворуч)",
 		"russian":"Shift (слева)",
 		"chinese": "Shift (左)",
+		"korean": "Shift (왼쪽)",
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
@@ -1410,6 +1525,7 @@
 		"ukrainian":"Shift (праворуч)",
 		"russian":"Shift (справа)",
 		"chinese": "Shift (右)",
+		"korean": "Shift (오른쪽)",
 	},
 	"key_LeftAlt": {
 		"english": "Alt (left)",
@@ -1422,6 +1538,7 @@
 		"ukrainian":"Alt (ліворуч)",
 		"russian":"Alt (слева)",
 		"chinese": "Alt (左)",
+		"korean": "Alt (왼쪽)",
 	},
 	"key_RightAlt": {
 		"english": "Alt (right)",
@@ -1434,6 +1551,7 @@
 		"ukrainian":"Alt (праворуч)",
 		"russian":"Alt (справа)",
 		"chinese": "Alt (右)",
+		"korean": "Alt (오른쪽)",
 	},
 	"key_LeftControl": {
 		"english": "Control (left)",
@@ -1446,6 +1564,7 @@
 		"ukrainian":"Ctrl (ліворуч)",
 		"russian":"Ctrl (слева)",
 		"chinese": "Ctrl (左)",
+		"korean": "Ctrl (왼쪽)",
 	},
 	"key_RightControl": {
 		"english": "Control (right)",
@@ -1458,6 +1577,7 @@
 		"ukrainian":"Ctrl (праворуч)",
 		"russian":"Ctrl (справа)",
 		"chinese": "Ctrl (右)",
+		"korean": "Ctrl (오른쪽)",
 	},
 	"key_CapsLock": {
 		"english": "Caps Lock",
@@ -1470,6 +1590,7 @@
 		"ukrainian":"Caps Lock",
 		"russian":"Caps Lock",
 		"chinese": "大写锁定键",
+		"korean": "Caps Lock",
 	},
 
 
@@ -1485,6 +1606,7 @@
 		"ukrainian":"Гра завершена!",
 		"russian":"Игра окончена!",
 		"chinese": "游戏结束!",
+		"korean": "게임 오버!",
 	},
 	"backToMainMenu": {
 		"english": "Back to the Main Menu",
@@ -1497,6 +1619,7 @@
 		"ukrainian":"Повернутися до головного Меню",
 		"russian":"Вернуться в главное меню",
 		"chinese": "返回主菜单",
+		"korean": "메인 메뉴로 돌아가기",
 	},
 	"yourColonyHasPerished": {
 		"english": "Your Colony has perished!",
@@ -1509,6 +1632,7 @@
 		"ukrainian":"Ваша колонія загинула!",
 		"russian":"Ваша колония погибла!",
 		"chinese": "你的殖民者已死亡!",
+		"korean": "당신의 정착지가 소멸했습니다!",
 	},
 	"totalPlayTime": {
 		"english": "Total Play Time",
@@ -1521,6 +1645,7 @@
 		"ukrainian":"Загальний час гри",
 		"russian":"Общее время в игре",
 		"chinese": "总游戏时间",
+		"korean": "총 플레이 시간",
 	},
 	"averageHappiness": {
 		"english": "Average Happiness",
@@ -1533,6 +1658,7 @@
 		"ukrainian":"Середнє Щастя",
 		"russian":"Среднее Счастье",
 		"chinese": "平均幸福",
+		"korean": "평균 행복도",
 	},
 	"totalResearchCollected": {
 		"english": "Research collected",
@@ -1545,6 +1671,7 @@
 		"ukrainian":"Зібрані дослідження ",
 		"russian":"Собранные исследования",
 		"chinese": "研究收集",
+		"korean": "총 연구량",
 	},
 	"totalNativesKilled": {
 		"english": "Tikigoblins Killed",
@@ -1557,6 +1684,7 @@
 		"ukrainian":"Тікігоблінів вбито",
 		"russian":"Тикигоблинов убито",
 		"chinese": "击杀土著哥布林",
+		"korean": "죽인 티키고블린 수",
 	},
 	"maxNumberOfColonists": {
 		"english": "Max. Number of Colonists",
@@ -1569,6 +1697,7 @@
 		"ukrainian":"Макс. Кількість Колоністів",
 		"russian":"Макс. Количество Колонистов",
 		"chinese": "殖民者人数上限",
+		"korean": "최대 거주민 수",
 	},
 	"uiStepBack": {
 		"english": "Back",
@@ -1581,6 +1710,7 @@
 		"ukrainian":"Назад",
 		"russian":"Назад",
 		"chinese": "返回",
+		"korean": "뒤로가기",
 	},
 
 
@@ -1596,6 +1726,7 @@
 		"ukrainian":"Почати Гру",
 		"russian":"Начать игру",
 		"chinese": "开始游戏",
+		"korean": "시작하기",
 	},
 	"selectStartingColonists": {
 		"english": "Select Starting Colonists",

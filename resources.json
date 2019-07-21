@@ -9,6 +9,7 @@
 		"portuguese": "%amount% %resource%",
 		"turkish": "%amount% %resource%",
 		"chinese": "%amount% %resource%",
+		"korean": "%anount% %resource%",
 	},
 	"resourceName_FoodRaw": {
 		"english": "Raw Food",
@@ -21,6 +22,7 @@
 		"russian": "Сырая пища",
 		"ukrainian":"Cира їжа",
 		"chinese": "生食",
+		"korean": "생식",
 	},
 	"resourceName_Food": {
 		"english": "Food",
@@ -33,6 +35,7 @@
 		"russian": "Еда",
 		"ukrainian":"їжа",
 		"chinese": "食物",
+		"korean": "음식",
 	},
 	"resourceDescription_FoodRaw": {
 		"english": "Your colonists need food to survive. Every type you gather is raw at first and can be cooked.",
@@ -45,6 +48,7 @@
 		"russian": "Вашим колонистам нужна еда для выживания. Каждый тип еды, который вы собираете, поначалу сырой и может быть приготовлен.",
 		"ukrainian":"Вашим колоністам потрібна їжа, щоб вижити. Кожен тип, який ви збираєте, спочатку є сирим і може бути приготовленим.",
 		"chinese": "你们的殖民者需要食物来生存.你收集食材都是生的需要烹饪.",
+		"korean": "거주민들이 살아남기 위해서는 음식이 필요합니다. 자연에서 채취하는 모든 음식은 생식으로 취급되며, 요리의 재료가 됩니다.",
 	},
 	"resourceName_Apple": {
 		"english": "Apple",
@@ -57,6 +61,7 @@
 		"russian": "Яблоко",
 		"ukrainian":"Яблуко",
 		"chinese": "苹果",
+		"korean": "사과",
 	},
 	"resourceName_Tomato": {
 		"english": "Tomato",
@@ -69,6 +74,7 @@
 		"russian": "Помидор",
 		"ukrainian":"Помідор",
 		"chinese": "西红柿",
+		"korean": "토마토",
 	},
 	"resourceName_Pumpkin": {
 		"english": "Pumpkin",
@@ -81,6 +87,7 @@
 		"russian": "Тыква",
 		"ukrainian":"Гарбуз",
 		"chinese": "南瓜",
+		"korean": "호박",
 	},
 	"resourceName_Potato": {
 		"english": "Potato",
@@ -93,6 +100,7 @@
 		"russian": "Картошка",
 		"ukrainian":"Картопля",
 		"chinese": "土豆",
+		"korean": "감자",
 	},
 	"resourceName_Strawberry": {
 		"english": "Strawberry",
@@ -105,6 +113,7 @@
 		"russian": "Клубника",
 		"ukrainian":"Полуниця",
 		"chinese": "草莓",
+		"korean": "딸기",
 	},
 	"resourceName_Wheat": {
 		"english": "Wheat",
@@ -117,6 +126,7 @@
 		"russian": "Пшеница",
 		"ukrainian":"Пшениця",
 		"chinese": "小麦",
+		"korean": "밀",
 	},
 	"resourceName_FoodCooked": {
 		"english": "Cooked Food",
@@ -129,6 +139,7 @@
 		"russian": "Приготовленная пища",
 		"ukrainian":"Приготовлена їжа",
 		"chinese": "烹饪食物",
+		"korean": "조리된 음식",
 	},
 	"resourceDescription_FoodCooked": {
 		"english": "A colonist will take cooked food over raw food every time. Colonists get happy thoughts from eating cooked food.",
@@ -141,6 +152,7 @@
 		"russian": "Колонисты всегда будут предпочитать приготовленную пищу чем сырую. Приготовленная пища делает колонистов счастливыми.",
 		"ukrainian":"Колоністи завжди вважатимуть за краще приготовлену чим сиру їжу. Приготована їжа робить колоністів щасливими.",
 		"chinese": "殖民者吃熟食优先度会超过生食.吃熟食会产生快乐的想法.",
+		"korean": "거주민들은 항상 생식보다는 조리된 음식을 먹습니다. 거주민들은 조리된 음식을 먹으며 행복한 상상을 합니다.",
 	},
 	"resourceName_FoodRawEdible": {
 		"english": "Raw Food",
@@ -153,6 +165,7 @@
 		"russian": "Сырая пища",
 		"ukrainian":"Сира їжа",
 		"chinese": "生食",
+		"korean": "생식",
 	},
 	"resourceName_SimpleMeal": {
 		"english": "Campfire Food",
@@ -165,6 +178,7 @@
 		"russian": "Еда с костра",
 		"ukrainian":"Їжа з багаття",
 		"chinese": "烤食物",
+		"korean": "간단히 구운 음식",
 	},
 	"resourceName_GoodMeal": {
 		"english": "Kitchen Food",
@@ -177,6 +191,7 @@
 		"russian": "Кухонная еда",
 		"ukrainian":"Кухонна їжа",
 		"chinese": "烹饪食品",
+		"korean": "제대로 익힌 음식",
 	},
 	"resourceName_BakedMeal": {
 		"english": "Baked Food",
@@ -189,6 +204,7 @@
 		"russian": "Запеченная еда",
 		"ukrainian":"Запечена їжа",
 		"chinese": "焙烤食品",
+		"korean": "오븐에 구운 음식",
 	},
 	"resourceName_BakedApple": {
 		"english": "Baked Apple",
@@ -201,6 +217,7 @@
 		"russian": "Запеченное яблоко",
 		"ukrainian":"Запечене яблуко",
 		"chinese": "烤苹果",
+		"korean": "구운 사과",
 	},
 	"resourceDescription_BakedApple": {
 		"english": "Especially tasty on cold winter days.",
@@ -213,6 +230,7 @@
 		"russian": "Особенно вкусно в холодные зимние дни.",
 		"ukrainian":"Особливо смачно в холодні зимові дні.",
 		"chinese": "在寒冷的冬天特别好吃.",
+		"korean": "추운 겨울날 특히 맛있습니다.",
 	},
 	"resourceName_BakedPotato": {
 		"english": "Baked Potato",
@@ -225,6 +243,7 @@
 		"russian": "Запеченная картошка",
 		"ukrainian":"Запечена картопля",
 		"chinese": "烤土豆",
+		"korean": "구운 감자",
 	},
 	"resourceDescription_BakedPotato": {
 		"english": "Every hard working settler loves baked potatoes for their fluffy interior and crisp skin.",
@@ -237,6 +256,7 @@
 		"russian": "Каждый трудолюбивый поселенец любит печеный картофель за его невероятный вкус.",
 		"ukrainian":"Кожен працьовитий поселенець любить печену картоплю за її неймовірний смак.",
 		"chinese": "每个辛勤工作的殖民者都喜欢烤土豆的那松软的内部和酥脆的外皮.",
+		"korean": "열심히 일한 정착민들은 겉은 바삭하고 속은 촉촉한 구운 감자를 굉장히 좋아합니다.",
 	},
 	"resourceName_BakedTomato": {
 		"english": "Baked Tomato",
@@ -249,6 +269,7 @@
 		"russian": "Запеченный помидор",
 		"ukrainian":"Запечений помідор",
 		"chinese": "烤西红柿",
+		"korean": "구운 토마토",
 	},
 	"resourceDescription_BakedTomato": {
 		"english": "So simple to make but so tasty. A good way to start the day!",
@@ -261,6 +282,7 @@
 		"russian": "Так просто готовится, но так вкусно. Хороший способ начать день!",
 		"ukrainian":"Так просто готується, але так смачно. Хороший спосіб почати день!",
 		"chinese": "做起来很简单,但是很好吃.这是开始一天的好方法!",
+		"korean": "만들기 참 쉬우면서도 정말 맛있습니다. 하루를 시작하기에 좋은 출발점이죠!",
 	},
 	"resourceName_PumpkinStew": {
 		"english": "Pumpkin Stew",
@@ -273,6 +295,7 @@
 		"russian": "Тыквенное рагу",
 		"ukrainian":"Гарбузове рагу",
 		"chinese": "炖南瓜",
+		"korean": "호박 스튜",
 	},
 	"resourceDescription_PumpkinStew": {
 		"english": "Fresh pumpkins cooked together with potatoes. This is why your colonists can't wait for fall to arrive!",
@@ -285,6 +308,7 @@
 		"russian": "Свежие тыквы, приготовленные вместе с картофелем. Вот почему ваши колонисты не могут дождаться наступления осени!",
 		"ukrainian":"Свіжі гарбуза, приготовані разом з картоплею. Ось чому ваші колоністи не можуть дочекатися настання осені!",
 		"chinese": "新鲜的南瓜和土豆一起煮.这就是为什么殖民者等不及秋天的到来的原因!",
+		"korean": "싱싱한 호박을 감자와 함께 요리했습니다. 이곳의 거주민들이 가을을 목빠지게 기다리는 이유입니다.",
 	},
 	"resourceName_PotatoSoup": {
 		"english": "Potato Soup",
@@ -297,6 +321,7 @@
 		"russian": "Картофельный суп",
 		"ukrainian":"Картопляний суп",
 		"chinese": "土豆汤",
+		"korean": "감자 수프",
 	},
 	"resourceDescription_PotatoSoup": {
 		"english": "Nutritious and tasty! A plate of potato soup always works for your settlers.",
@@ -309,6 +334,7 @@
 		"russian": "Питательно и вкусно! Тарелка картофельного супа всегда любима поселенцами.",
 		"ukrainian":"Поживно і смачно! Тарілка картопляного супу завжди любима поселенцями.",
 		"chinese": "营养又美味!土豆汤很适合你的殖民者.",
+		"korean": "영양분도 풍족하고, 맛도 있습니다! 한 그릇의 감자 수프면 완벽합니다.",
 	},
 	"resourceName_FruitSalad": {
 		"english": "Fruit Salad",
@@ -321,6 +347,7 @@
 		"russian": "Фруктовый салат",
 		"ukrainian":"Фруктовий салат",
 		"chinese": "水果沙拉",
+		"korean": "과일 샐러드",
 	},
 	"resourceDescription_FruitSalad": {
 		"english": "A very popular dish among colonists with a sweet tooth.",
@@ -333,6 +360,7 @@
 		"russian": "Очень популярное блюдо среди колонистов, которые не безразличны к сладкому.",
 		"ukrainian":"Дуже популярна страва серед колоністів, які не байдужі до солодкого.",
 		"chinese": "这道菜很受甜食爱好者的欢迎.",
+		"korean": "단것을 좋아하는 거주민들이 가장 선호하는 음식.",
 	},
 	"resourceName_Bread": {
 		"english": "Bread",
@@ -345,6 +373,7 @@
 		"russian": "Хлеб",
 		"ukrainian":"Хліб",
 		"chinese": "面包",
+		"korean": "빵",
 	},
 	"resourceDescription_Bread": {
 		"english": "Crispy on the outside, fluffy on the inside. What would life be without bread?",
@@ -357,6 +386,7 @@
 		"russian": "Хрустящий снаружи, пушистый изнутри. Что за жизнь была бы без хлеба?",
 		"ukrainian":"Хрусткий зовні, пухнастий зсередини. Що за життя було б без хліба?",
 		"chinese": "外皮酥脆,里面松软.没有面包的生活会是什么样子?",
+		"korean": "바삭한 겉면, 말랑한 속감. 빵 없이 어떻게 살죠?",
 	},
 	"resourceName_StrawberryCake": {
 		"english": "Strawberry Cake",
@@ -369,6 +399,7 @@
 		"russian": "Клубничный пирог",
 		"ukrainian":"Полуничний пиріг",
 		"chinese": "草莓蛋糕",
+		"korean": "딸기 케이크",
 	},
 	"resourceDescription_StrawberryCake": {
 		"english": "The taste of spring - or at least as close as it can get.",
@@ -381,6 +412,7 @@
 		"russian": "Вкус весны - или, по крайней мере, настолько близкий, насколько это возможно.",
 		"ukrainian":"Смак весни - або, принаймні, настільки близький, наскільки це можливо.",
 		"chinese": "春天的味道 - 或者至少是最接近春天的味道.",
+		"korean": "봄날의 맛 - 에 가장 가깝다고 할 수 있죠.",
 	},
 	"resourceName_AppleStrudel": {
 		"english": "Apple Strudel",
@@ -393,6 +425,7 @@
 		"russian": "Яблочный штрудель",
 		"ukrainian":"Яблучний штрудель",
 		"chinese": "苹果卷",
+		"korean": "사과 슈트루델",
 	},
 	"resourceDescription_AppleStrudel": {
 		"english": "With an amazing length of 752 meters, the longest apple strudel got made in a country far far away on the 15th of August. One can simply not have enough of this tasty dish!",
@@ -405,6 +438,7 @@
 		"ukrainian":"Давним-давно, 15 серпня, в далекій країні бьл випечений яблучний штрудель неймовірною довжини - 752 метра! Простий, але в той же час дуже смачний десерт.",
 		"turkish": "752 metrelik uzunluğuyla dünyanın en uzun elmalı strudeli Ağustosun 15inden çok uzak bir ülkede yapıldı. Biri bu lezzetli yemeğin tadına doyamaz",
 		"chinese": "8月15日,世界上最长的苹果馅卷饼诞生于遥远的国度,长达752米.一个人根本吃不完这美味的食品!",
+		"korean": "8월 15일, 어떤 먼 나라에서 세계에서 가장 긴 사과 슈트루델이 구워졌습니다. 752미터라는 놀라운 길이였죠. 이 맛있는 음식을 딱 한 접시만 먹기엔 부족했던거죠!",
 	},
 	"resourceName_IronOre": {
 		"english": "Iron Ore",
@@ -417,6 +451,7 @@
 		"russian": "Железная руда",
 		"ukrainian":"Залізна руда",
 		"chinese": "铁矿",
+		"korean": "철광석",
 	},
 	"resourceDescription_IronOre": {
 		"english": "In order to produce more advanced tools, weapons and armor, you need to find and mine iron ore.",

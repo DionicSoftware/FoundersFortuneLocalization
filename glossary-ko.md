@@ -1,0 +1,7 @@
+- colony / colonist : 식민지로 번역하긴 뭐하니, 개척지 / 개척자
+- mood : 기분
+- point : 점수 대신 "포인트"로
+- expectations : 기대
+- wish : 소원
+- Bonfire : 화톳불. 봉화..보다는 화톳불이 낫겠지.
+- beauty : 일단은 "아름다움".

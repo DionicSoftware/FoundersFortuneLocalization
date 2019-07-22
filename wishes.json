@@ -12,6 +12,7 @@
 		"ukrainian":"Мрії",
 		"russian":"Мечты",
 		"chinese": "愿望",
+		"korean": "소원",
 	},
 	"discover": {
 		"english": "Discover %tech%",
@@ -26,6 +27,7 @@
 		"ukrainian":"Дослідити %tech%",
 		"russian":"Исследовать %tech%",
 		"chinese": "发现 %tech%",
+		"korean": "%tech% 발견",
 	},
 	"GetProfession": {
 		"english": "Get a job",
@@ -40,6 +42,7 @@
 		"ukrainian":"Получити роботу",
 		"russian":"Получить работу",
 		"chinese": "获得职业",
+		"korean": "직업 얻기",
 	},
 	"GetSleepingSpot": {
 		"english": "Get a sleeping spot",
@@ -54,6 +57,7 @@
 		"ukrainian":"Получити ліжко",
 		"russian":"Получить койку",
 		"chinese": "有地方睡觉",
+		"korean": "나만의 잠자리 가지기",
 	},
 	"GetBedroom": {
 		"english": "Get a bedroom",
@@ -68,6 +72,7 @@
 		"ukrainian":"Получити спальню",
 		"russian":"Получить спальню",
 		"chinese": "拥有一间卧室",
+		"korean": "나만의 침실 가지기",
 	},
 	"reachLevelAsA": {
 		"english": "Reach level %level% as a %profession%",
@@ -82,6 +87,7 @@
 		"ukrainian":"Достигнути %level% рівня в професії %profession%",
 		"russian":"Достигнуть %level% уровня в профессии %profession%",
 		"chinese": "%profession%达到了%level%等级",
+		"korean": "%profession%에서 %level% 레벨 달성하기",
 	},
 	"getFurnitureInLocation": {
 		"english": "Get %furniture% in %location%",
@@ -96,6 +102,7 @@
 		"ukrainian":"Поставити %furniture% в %location%",
 		"russian":"Разместить %furniture% в %location%",
 		"chinese": "在%location% 拥有 %furniture%",
+		"korean": "%furniture%를 %location%에 두기",
 	},
 	"getBackFurnitureInLocation": {
 		"english": "Get %furniture% back in %location%",
@@ -108,6 +115,7 @@
 		"ukrainian":"Повернути %furniture% назад в %location%",
 		"russian":"Вернуть %furniture% обратно в %location%",
 		"chinese": "在%location% 返回 %furniture%",
+		"korean": "%furniture%를 %location%에 다시 두기",
 	},
 	"furnitureCategory_AChair": {
 		"english": "a Chair",
@@ -122,6 +130,7 @@
 		"ukrainian":"Стілець",
 		"russian":"Стул",
 		"chinese": "椅子",
+		"korean": "의자",
 	},
 	"furnitureCategory_ATable": {
 		"english": "a Table",
@@ -136,6 +145,7 @@
 		"ukrainian":"Стіл",
 		"russian":"Стол",
 		"chinese": "桌子",
+		"korean": "탁자",
 	},
 	"furnitureCategory_AArmchair": {
 		"english": "an Armchair",
@@ -150,6 +160,7 @@
 		"ukrainian":"Крісло",
 		"russian":"Кресло",
 		"chinese": "扶手椅",
+		"korean": "안락의자",
 	},
 	"furnitureCategory_ACouch": {
 		"english": "a Couch",
@@ -164,6 +175,7 @@
 		"ukrainian":"Диван",
 		"russian":"Диван",
 		"chinese": "躺椅",
+		"korean": "소파",
 	},
 	"furnitureCategory_AFireplace": {
 		"english": "a Fireplace",
@@ -178,6 +190,7 @@
 		"ukrainian":"Камін",
 		"russian":"Камин",
 		"chinese": "壁炉",
+		"korean": "난로",
 	},
 	"furnitureCategory_ASmallShelf": {
 		"english": "a Dresser",
@@ -192,6 +205,7 @@
 		"ukrainian":"Туалет",
 		"russian":"комод",
 		"chinese": "化妆台",
+		"korean": "서랍장",
 	},
 	"furnitureCategory_ABigShelf": {
 		"english": "a Big Shelf or Wardrobe",
@@ -206,6 +220,7 @@
 		"ukrainian":"Велика полиця або шафа",
 		"russian":"Большая полка или шкаф",
 		"chinese": "大的架子或衣橱",
+		"korean": "큰 선반이나 옷장",
 	},
 	"furnitureCategory_AChest": {
 		"english": "a Chest",
@@ -220,6 +235,7 @@
 		"ukrainian":"Скриня",
 		"russian":"Сундук",
 		"chinese": "柜子",
+		"korean": "상자",
 	},
 	"furnitureCategory_AFlowerPot": {
 		"english": "a Flower Pot",
@@ -234,6 +250,7 @@
 		"ukrainian":"Квітковий горшок",
 		"russian":"Цветочный горшок",
 		"chinese": "花盆",
+		"korean": "화분",
 	},
 	"furnitureCategory_AVase": {
 		"english": "a Vase",
@@ -248,6 +265,7 @@
 		"ukrainian":"Ваза",
 		"russian":"Ваза",
 		"chinese": "花瓶",
+		"korean": "꽃병",
 	},
 	"furnitureCategory_AToolStorage": {
 		"english": "a place to store tools",
@@ -260,6 +278,7 @@
 		"ukrainian":"місце для зберігання інструментів",
 		"russian":"место для хранения инструментов",
 		"chinese": "存放工具的地方",
+		"korean": "도구를 둘 공간",
 	},
 	"furnitureCategory_AWeaponStorage": {
 		"english": "a place to store weapons",
@@ -272,6 +291,7 @@
 		"ukrainian":"місце для зберігання зброї",
 		"russian":"место для хранения оружия",
 		"chinese": "存放武器的地方",
+		"korean": "무기를 둘 공간",
 	},
 	"furnitureCategory_AClothesStorage": {
 		"english": "a place to store clothes",
@@ -284,6 +304,7 @@
 		"ukrainian":"місце для зберігання одягу",
 		"russian":"место для хранения одежды",
 		"chinese": "存放衣服的地方",
+		"korean": "옷을 둘 공간",
 	},
 	"furnitureCategory_AArmorStorage": {
 		"english": "a place to store armor",
@@ -296,6 +317,7 @@
 		"ukrainian":"місце для зберігання броні",
 		"russian":"место для хранения брони",
 		"chinese": "储存盔甲的地方",
+		"korean": "갑옷을 둘 공간",
 	},
 	"wishLocation_Room": {
 		"english": "%hisHer% Room",
@@ -313,6 +335,7 @@
 		"ukrainian":"%hisHer% кімната",
 		"russian":"своей комнате",
 		"chinese": "%hisHer%的房间",
+		"korean": "%heShe%의 방",
 	},
 	"wishLocation_House": {
 		"english": "%hisHer% House",
@@ -330,6 +353,7 @@
 		"ukrainian":"%hisHer% Дім",
 		"russian":"своем доме",
 		"chinese": "%hisHer%的房子",
+		"korean": "%heShe%의 집",
 	},
 	"wishLocation_Colony": {
 		"english": "the Colony",
@@ -344,6 +368,7 @@
 		"ukrainian":"колонії",
 		"russian":"колонии",
 		"chinese": "殖民地",
+		"korean": "개척지",
 	},
 	"useSatisfactionRewardPoints": {
 		"english": "Use Satisfaction Reward Points",
@@ -358,6 +383,7 @@
 		"ukrainian":"Використайте очки задоволення",
 		"russian":"Используйте очки удовлетворения",
 		"chinese": "使用满意奖励点数",
+		"korean": "만족 포인트 사용하기",
 	},
 	"getRidOfTrait": {
 		"english": "Get rid of Trait: %trait%",
@@ -372,6 +398,7 @@
 		"ukrainian":"Позбутись від риси: %trait%",
 		"russian":"Избавиться от черты: %trait%",
 		"chinese": "移除特性:%trait%",
+		"korean": "특성 제거하기: %trait%",
 	},
 	"getRidOfCondition": {
 		"english": "Get rid of Condition: %condition%",
@@ -386,6 +413,7 @@
 		"ukrainian":"Позбутись від стану: %condition%",
 		"russian":"Избавиться от состояния: %condition%",
 		"chinese": "移除状态: %condition%",
+		"korean": "상태 제거하기: %condition%",
 	},
 	"getBackToFullHealth": {
 		"english": "Get back to full health",
@@ -400,6 +428,7 @@
 		"ukrainian":"Відновити здоров'я",
 		"russian":"Восстановить здоровье",
 		"chinese": "恢复健康",
+		"korean": "생명력 모두 회복하기",
 	},
 	"getBigPayday": {
 		"english": "Get a big payday of at least %coins% coins",
@@ -412,6 +441,7 @@
 		"ukrainian":"Получити зарплату не менше %coins% монет",
 		"russian":"Получить зарплату не менее %coins% монет",
 		"chinese": "今日大收获,获得至少%coins%硬币",
+		"korean": "하루쯤 %coins% 이상의 코인을 일당으로 받기",
 	},
 	"defeatGoblin": {
 		"english": "Defeat Tiki Goblin",
@@ -424,6 +454,7 @@
 		"ukrainian":"Розгромити Тікігоблина",
 		"russian":"Разгромить Тикигоблина",
 		"chinese": "击败土著哥布林",
+		"korean": "티키고블린과 싸워 이기기",
 	},
 	"storeFoodForWinter": {
 		"english": "Store at least %food% meals in preparation for winter",
@@ -436,5 +467,6 @@
 		"ukrainian":"Запастись не менше %food% од. їжі на зиму",
 		"russian":"Запастись не менее %food% ед. еды на зиму",
 		"chinese": "储存至少%food%的食物,为冬天做准备",
+		"korean": "겨울을 대비해 %food% 이상의 음식을 저장해두기",
 	},
 }

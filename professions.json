@@ -13,6 +13,7 @@
 		"russian": "Без работы",
 		"ukrainian":"Назначте роботу",
 		"chinese": "无职业",
+		"korean": "무직",
 	},
 	"professionDesc_NoJob": {
 		"english": "Select a job for your settler so they may work more independently.",
@@ -24,6 +25,7 @@
 		"russian": "Выберите работу для вашего поселенца, чтобы он смог работать самостоятельно.",
 		"ukrainian":"Виберіть роботу для вашого поселенця, щоб він зміг працювати самостійно.",
 		"chinese": "为你的殖民者选择一份职业,这样他们可以更好地分工合作.",
+		"korean": "개척자에게 직업을 정해주고 나면, 알아서 자신의 할 일을 찾아가기 시작합니다.",
 	},
 	"professionName_Farmer": {
 		"english": "Farmer",
@@ -35,6 +37,7 @@
 		"russian": "Фермер",
 		"ukrainian":"Фермер",
 		"chinese": "农民",
+		"korean": "농부",
 	},
 	"professionDesc_Farmer": {
 		"english": "Farmers are responsible for food production and cooking food. When not busy, they also gathers cotton.",
@@ -46,6 +49,7 @@
 		"russian": "Фермеры ответственны за добычу и приготовление пищи. Когда они не заняты, они так же собирают хлопок.",
 		"ukrainian":"Фермери відповідальні за видобуток і приготування їжі. Коли вони не зайняті, вони так само збирають бавовну.",
 		"chinese": "农民负责食品的生产和烹饪.空闲时他们也会采摘棉花.",
+		"korean": "농부는 식재료를 마련하고 음식을 요리할 책임이 있습니다. 바쁘지 않으면, 목화를 채집하러 나가기도 하죠.",
 	},
 	"professionName_Forester": {
 		"english": "Forester",
@@ -57,6 +61,7 @@
 		"russian":"Дровосек",
 		"ukrainian":"Лісоруб",
 		"chinese": "伐木工",
+		"korean": "나무꾼",
 	},
 	"professionDesc_Forester": {
 		"english": "As a forester your settler cuts down trees for wood. For Mother Nature's sake, foresters also takes care of saplings.",
@@ -68,6 +73,7 @@
 		"russian": "Дровосеки вырубают деревья для получения дерева. Они так же не забывают о саженцах.",
 		"ukrainian":"Лісоруби вирубують дерева для отримання дерева. Вони так само не забувають про саджанці.",
 		"chinese": "伐木工砍伐树木获取木材.为了生态,也会种植树苗.",
+		"korean": "나무꾼은 나무를 베어 목재를 만들어냅니다. 대자연을 위해, 묘목을 건드리지는 않습니다.",
 	},
 	"professionName_Miner": {
 		"english": "Miner",
@@ -79,6 +85,7 @@
 		"russian": "Шахтер",
 		"ukrainian":"Шахтар",
 		"chinese": "矿工",
+		"korean": "광부",
 	},
 	"professionDesc_Miner": {
 		"english": "Miners gather stones, mine for iron and collect crystals.",
@@ -90,6 +97,7 @@
 		"russian": "Шахтеры собирают камни, добывают железо и кристаллы.",
 		"ukrainian":"Шахтарі збирають каміння, добувають залізо та кристали.",
 		"chinese": "矿工收集石头,挖掘铁矿和水晶.",
+		"korean": "광부는 돌을 채집하고, 철광석을 캐거나 크리스탈을 수집합니다.",
 	},
 	"professionName_Craftsman": {
 		"english": "Craftsman",
@@ -101,6 +109,7 @@
 		"russian": "Ремесленник",
 		"ukrainian":"Ремісник",
 		"chinese": "工匠",
+		"korean": "수공업자",
 	},
 	"professionDesc_Craftsman": {
 		"english": "As a craftsman your settler produces all the goods that you order at one of your workshops.",
@@ -112,6 +121,7 @@
 		"russian": "Ремесленники производят товары, которые вы закажите в верстаках.",
 		"ukrainian":"Ремісники виробляють товари, які ви замовите в верстатах.",
 		"chinese": "工匠生产工坊定制的所有商品.",
+		"korean": "수공업자는 당신이 작업대에 지시해둔 물품들을 생산해냅니다.",
 	},
 	"professionName_Doctor": {
 		"english": "Doctor",
@@ -123,6 +133,7 @@
 		"russian": "Врач",
 		"ukrainian":"Лікар",
 		"chinese": "医生",
+		"korean": "의사",
 	},
 	"professionDesc_Doctor": {
 		"english": "A doctor trys to keep your colonists alive. If hurt, doctors treats them so they can go back to working for you.",
@@ -134,6 +145,7 @@
 		"russian": "Врачи стараются поддерживать ваших поселенцев живыми. Если поселенцы получают ранения, врач лечит их, после чего они снова смогут вернуться к работе.",
 		"ukrainian":"Лікарі намагаються підтримувати ваших поселенців живими. Якщо поселенці отримують поранення, лікар лікує їх, після чого вони знову зможуть повернутися до роботи.",
 		"chinese": "医生会保障你的殖民者的生命.如果他们受伤了,医生会对他们进行治疗,这样他们就可以继续为你工作了.",
+		"korean": "의사는 개척자들이 죽지 않게 하려고 노력합니다. 만약 다친 사람이 있다면, 의사는 그들을 치료해 다시 일할 수 있게 합니다.",
 	},
 	"professionName_Soldier": {
 		"english": "Soldier",
@@ -145,6 +157,7 @@
 		"russian": "Солдат",
 		"ukrainian":"Солдат",
 		"chinese": "战士",
+		"korean": "군인",
 	},
 	"professionDesc_Soldier": {
 		"english": "Soldiers keep your colony safe. As they have more experience with fighting than the average settler, they can use advanced weapons.",
@@ -156,6 +169,7 @@
 		"russian": "Солдаты охраняют ваше поселение. Поскольку они более опытны в бою, чем обычные поселенцы, они могут использовать продвинутое оружие.",
 		"ukrainian":"Солдати охороняють ваше поселення. Оскільки вони більш вправні в бою, ніж звичайні поселенці, вони можуть використовувати кращу зброю.",
 		"chinese": "战士保护你的领地安全.因为他们比普通殖民者有更多的战斗经验,并且他们可以使用先进的武器.",
+		"korean": "군인은 개척지를 안전하게 지킵니다. 그들은 다른 평범한 개척자보다 더 많은 전투를 겪었기 때문에, 더 나은 무기를 사용할 수 있습니다.",
 	},
 	"professionName_Scholar": {
 		"english": "Scholar",
@@ -167,6 +181,7 @@
 		"russian": "Ученый",
 		"ukrainian":"Вчений",
 		"chinese": "学者",
+		"korean": "학자",
 	},
 	"professionDesc_Scholar": {
 		"english": "As a scholar your colonist research new technologies to advance your colony.",
@@ -178,6 +193,7 @@
 		"russian": "Ученый исследует новые технологии для развития вашего поселения.",
 		"ukrainian":"Вчений досліджує нові технології для розвитку вашого поселення.",
 		"chinese": "学者研究新技术来发展你的殖民地.",
+		"korean": "학자는 개척지를 발전시키기 위해 새로운 기술을 연구합니다.",
 	},
 	"professionSpecialization_CraftsmanCarpenting": {
 		"english": "Carpenting",
@@ -189,6 +205,7 @@
 		"russian": "Создавать",
 		"ukrainian":"Створювати",
 		"chinese": "制造",
+		"korean": "목공일 하기",
 	},
 	"professionSpecialization_CraftsmanMasonry": {
 		"english": "Masonry",
@@ -204,6 +221,7 @@
 		"russian": "Кирпичная кладка",
 		"ukrainian":"Цегляна кладка",
 		"chinese": "砖石建筑",
+		"korean": "석공일 하기",
 	},
 	"professionSpecialization_CraftsmanForging": {
 		"english": "Forging",
@@ -215,6 +233,7 @@
 		"russian": "Ковать",
 		"ukrainian":"Кувати",
 		"chinese": "锻造",
+		"korean": "대장 작업",
 	},
 	"professionSpecialization_CraftsmanTailoring": {
 		"english": "Tailoring",
@@ -226,6 +245,7 @@
 		"russian": "Шить",
 		"ukrainian":"Шити",
 		"chinese": "裁缝",
+		"korean": "재봉 작업",
 	},
 	"professionSpecialization_MinerStone": {
 		"english": "Mine Stone",
@@ -237,6 +257,7 @@
 		"russian": "Добывать камень",
 		"ukrainian":"Добувати камінь",
 		"chinese": "挖掘石头",
+		"korean": "돌 캐기",
 	},
 	"professionSpecialization_MinerIronOre": {
 		"english": "Mine Iron Ore",
@@ -248,6 +269,7 @@
 		"russian": "Добывать железную руду",
 		"ukrainian":"Добувати залізну руду",
 		"chinese": "挖掘铁矿",
+		"korean": "철광석 캐기",
 	},
 	"professionSpecialization_MinerCrystal": {
 		"english": "Mine Crystals",
@@ -259,6 +281,7 @@
 		"russian": "Добывать кристаллы",
 		"ukrainian":"Добувати кристали",
 		"chinese": "挖掘水晶",
+		"korean": "크리스탈 캐기",
 	},
 	"professionSpecialization_FarmerTendToFields": {
 		"english": "Tend to Fields",
@@ -270,6 +293,7 @@
 		"russian": "Ухаживать за полями",
 		"ukrainian":"Доглядати за полями",
 		"chinese": "照料农田",
+		"korean": "밭일 하기",
 	},
 	"professionSpecialization_FarmerCook": {
 		"english": "Cook Food",
@@ -281,6 +305,7 @@
 		"russian": "Готовить еду",
 		"ukrainian":"Готувати їжу",
 		"chinese": "烹饪食物",
+		"korean": "음식 요리하기",
 	},
 	"professionSpecialization_FarmerCotton": {
 		"english": "Gather cotton",
@@ -292,6 +317,7 @@
 		"russian": "Собирать хлопок",
 		"ukrainian":"Збирати бавовну",
 		"chinese": "采摘棉花",
+		"korean": "목화 채집하기",
 	},
 	"professionSpecialization_FarmerApples": {
 		"english": "Harvest Apples",
@@ -303,6 +329,7 @@
 		"russian": "Собирать яблоки",
 		"ukrainian":"Збирати яблука",
 		"chinese": "采摘苹果",
+		"korean": "사과 따기",
 	},
 	"professionSpecialization_DoctorProduceMedicine": {
 		"english": "Produce Medicine",
@@ -314,6 +341,7 @@
 		"russian": "Производить лекарства",
 		"ukrainian":"Виробляти ліки",
 		"chinese": "生产药品",
+		"korean": "치료약 만들기",
 	},
 	"professionSpecialization_DoctorTendToPatients": {
 		"english": "Tend to Injured Colonists",
@@ -325,6 +353,7 @@
 		"russian": "Ухаживать за больными",
 		"ukrainian":"Доглядати за хворими колоністами",
 		"chinese": "照顾伤者",
+		"korean": "부상자 보살피기",
 	},
 	"professionSpecialization_DoctorBuryDead": {
 		"english": "Bury Dead",
@@ -336,6 +365,7 @@
 		"russian": "Хоронить мертвых",
 		"ukrainian":"Поховати мертвих",
 		"chinese": "埋葬死者",
+		"korean": "시체 매장하기",
 	},
 	"professionSpecialization_DoctorBrewBeer": {
 		"english": "Brew Beer",
@@ -347,6 +377,7 @@
 		"turkish": "Bira yap",
 		"ukrainian":"Варить пиво",
 		"chinese": "酿酒",
+		"korean": "맥주 양조하기",
 	},
 	"professionSpecialization_ScholarAnalyzeCrystals": {
 		"english": "Analyze Crystals",
@@ -358,5 +389,6 @@
 		"russian": "Исследовать кристаллы",
 		"ukrainian":"Дослідити кристали",
 		"chinese": "分析水晶",
+		"korean": "크리스탈 조사하기",
 	},
 }

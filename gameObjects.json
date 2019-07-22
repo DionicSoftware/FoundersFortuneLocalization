@@ -14,7 +14,7 @@
 	},
 	"appleBasketDescription": {
 		"english": "Use this basket to provide your colonists with raw food. Whenever they are hungry, they will come to the basket to get something to eat - as long as you have enough food in store.",
-		"german": "Benutze diesen Korb um deine Kolonisten mit rohem Essen zu versorgen. Immer wenn sie hungrig sind werden sie von selbst zum Korb kommen und sich etwas zu Essen holen - solange du genug im Lager hast.",
+		"german": "Benutze diesen Korb um deine Kolonisten mit rohem Essen zu versorgen. Immer wenn sie hungrig sind werden sie von selbst zum Korb kommen und sich etwas zu essen holen - solange du genug im Lager hast.",
 		"french": "Utilisez ce panier pour fournir à vos colons des aliments crus. Lorsqu'ils auront faim, ils iront chercher de quoi manger dans le panier - aussi longtemps que vous aurez des aliments en stock.",
 		"spanish": "Utiliza esta canasta para proveer de comida cruda a tus colonos. Cuando tengan hambre, vendrán aquí para conseguir algo que comer - mientras tengas suficiente comida almacenada.",
 		"portuguese": "Use esta cesta para fornecer alimentos crus aos seus colonos. Sempre que estiverem com fome, eles virão ao cesto para comer alguma coisa - contanto que você tenha comida suficiente na loja.",
@@ -108,6 +108,7 @@
 		"portuguese": "Barril de cerveja",
 		"ukrainian":"Бочка з Пивом ",
 		"turkish": "Bira Fıçısı",
+	    "spanish": "Barril de cerveza",
 	},
 	"beerRefillBarrelDescription": {
 		"english": "As a means of storage and the origin of fresh beer, beer barrel is of high importance to all colonies out there (Well, as long as there is some left in there...). You'll see how happy your colonists get when you allow them to fill up their mugs. Cheers!",
@@ -117,6 +118,7 @@
 		"portuguese": "Como um meio de armazenamento e a origem da cerveja fresca, barril de cerveja é de grande importância para todas as colônias lá fora (Bem, contanto que haja algum deixado lá ...). Você verá como seus colonos ficam felizes quando você lhes permite encher suas canecas. Felicidades!",
 		"ukrainian":"Пивна бочка відмінно підійде для зберігання і виготовлення пива. Вона дуже потрібна колоністами (Ну, поки вона не спустошиться ...). Ви відразу побачите, як настрій ваших колоністів підніметься після вживання цього пшеничного напою. Ура!",
 		"turkish": "Saklama aracı ve taze biranın kaynağı olarak, bira fıçısı tüm yerleşimler için büyük önem taşıyor (En azından içinde biraz kaldığı sürece ...). Yerleşimcilerinizin bardaklarını doldurmalarına izin verildiğinde ne kadar mutlu olduklarını göreceksiniz. Şerefe!",
+		"spanish": "Como medio de almacenamiento y el origen de la cerveza fresca, el barril de cerveza tiene una grande importancia para todas las colonias (Bueno, mientras haya quedado algo dentro...). Verás hasta que punto tus colonos estarán felices cuando los permitas rellenar sus cañas. ¡Salud!",
 	},
 
 
@@ -2365,7 +2367,7 @@
 	"forgeDescription": {
 		"english": "This forge is suited for professional blacksmiths who want to create masterpieces with their tools.",
 		"german": "Mit dieser Schmiede lassen sich wahre Meisterwerke der Schmiedekunst anfertigen.",
-		"french": "Cette forge convient aux forgerons professionnels qui veulent créer des pièces maîtresses avec leurs outils.",
+		"french": "Cette forge convient aux forgerons professionnels qui veulent créer des chefs-d'oeuvre avec leurs outils.",
 		"spanish": "Esta forja está hecha para herreros profesionales que quieren crear piezas maestras con sus herramientas.",
 		"portuguese": "Este Forge é adequado para ferreiros profissionais que querem criar obras-primas com suas ferramentas.",
 		"turkish": "Bu demirci imalathanesi, araçlarıyla başyapıtlar yaratmak isteyen profesyonel demirciler için uygundur.",
@@ -2395,42 +2397,45 @@
 	"workbench": {
 		"english": "Carpenter's Workshop",
 		"german": "Holzwerkbank",
-		//TODO-french (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
-		"french": "Atelier du Fabricant d'Outils",
+		"french": "Atelier du Charpentier",
 		//TODO-spanish (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
-		"spanish": "Taller de herramientas",
+		"spanish": "Taller de carpintero",
 		"portuguese": "Oficina de carpinteiro",
 		//TODO-turkish (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
 		"turkish": "Takım Atölyesi",
-		//TODO-russian (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
-		"russian": "Инструментальная мастерская",
+		"russian": "Мастерская ремесленника",
 		//TODO-ukranian (changed to Carpenter's Workshop!) Thank you so much for your awesome work! ;)
-		"ukrainian":"Інструментальна майстерня",
+		"ukrainian":"Ремеснича майстерня",
 	},
 	"workbenchDescription": {
 		"english": "Tired of waiting for building materials? Let a carpenter use this basic workbench to make simple wooden tools, that make your colonists' jobs easier.",
 		"german": "Du bist es leid auf Baumaterial zu warten? Lasse einen Schreiner mit dieser Werkbank einfache Werkzeuge herstellen, die deinen Kolonisten die Arbeit erleichtern",
-		//TODO-french (changed to Let a carpenter; simple wooden tools!)
-		"french": "Fatigué d'attendre pour des matériaux de construction ? Laissez un artisan utiliser cet atelier pour fabriquer des outils simples, qui simplifie le travail des colons.",
-		//TODO-spanish (changed to Let a carpenter; simple wooden tools!)
-		"spanish": "¿Cansado de esperar por materiales de construcción? Deja que un artesano use este taller básico para construir herramientas simples, que mejoran la productividad.",
+		"french": "Fatigué d'attendre pour des matériaux de construction ? Laissez un charpentier utiliser cet atelier basique pour fabriquer des outils en bois simples, qui simplifie le travail des colons.",
+		"spanish": "¿Cansado de esperar por materiales de construcción? Deja que un carpintero use este taller básico para fabricar herramientas simples de madera, que mejoran la productividad.",
 		"portuguese": "Cansado de esperar por materiais de construção? Deixe um carpinteiro usar essa bancada básica para fazer ferramentas simples de madeira, que facilitam o trabalho de seus colonos.",
 		//TODO-turkish (changed to Let a carpenter; simple wooden tools!)
 		"turkish": "Araç gereç beklemekten bıktınız mı? Bu tezgahla zanaatkarlarınıza verimliliği arttıracak basit araçlar ürettirebilirsiniz.",
-		//TODO-russian (changed to Let a carpenter; simple wooden tools!)
-		"russian": "Устали ждать пока колонисты собирают ресурсы руками? Постройте эту мастерскую, в которой ремесленник сможет создавать инструменты, которые облегчат работу ваших колонистов.",
+		"russian": "Колонисты долго собрают ресурсы руками? Позвольте ремесленнику создать базовые деревянные инструменты в этом верстаке.",
 		//TODO-ukranian (changed to Let a carpenter; simple wooden tools!)
 		"ukrainian":"Втомилися чекати поки колоністи збирають ресурси руками? Побудуйте цю майстерню, в якій ремісник зможе створювати інструменти, які полегшать роботу ваших колоністів.",
 	},
 	"masonsWorkbench": {
 		"english": "Mason's Workshop",
 		"german": "Steinwerkbank",
+		"french": "Atelier du Mason",
+		"spanish": "Taller de albañil",
 		"portuguese": "Oficina de Mason",
+		"russian": "Мастерская каменщика",
+		"ukrainian":"Майстерня муляра",
 	},
 	"masonsWorkbenchDescription": {
 		"english": "Do you remember the productivity boost when you introduced wooden tools? Just imagine what will happen once you upgrade to stone tools! All you need is this workshop and a skilled craftsman and you should be good to go!",
 		"german": "Ist die Produktivität zu klein, wird Steinwerkzeug dein Retter sein! Alles was du brauchst ist diese Werkbank und einen geschulten Handwerker.",
+		"french": "Vous souvenez-vous de l'augmentation de la productivité lorsque vous avez introduit les outils en bois ? Imaginez ce qui se passera une fois que vous passerez aux outils en pierre ! Tout ce dont vous avez besoin, c'est de cet atelier et d'un artisan qualifié et vous serez prêt !",
+		"spanish": "¿Recuerdas el incremento en la productividad cuando introdujiste las herramientas de madera? ¡Imagina lo que pasará cuando mejores a herramientas de piedra! ¡Todo lo que necesitas es este taller y un artesano experimentado y estarás listo!",
 		"portuguese": "Você se lembra do aumento de produtividade quando introduziu ferramentas de madeira? Imagine o que acontecerá quando você atualizar para ferramentas de pedra! Tudo que você precisa é esta oficina e um artesão habilidoso e você deve estar pronto!",
+		"russian": "Вы помните тот прирост производительности, когда вы дали своим колонистам деревянные инструменты? Только представьте что случится, если они смогут улучшить их до каменных! Для этого вам нужен этот верстак и опытный ремесленник.",
+		"ukrainian":"Ви пам'ятаєте той буст продуктивності, коли ви дали своїм колоністам дерев'яні інструменти? Тільки уявіть що трапиться, якщо вони зможуть поліпшити їх до кам'яних! Для цього вам потрібен цей верстак і досвідчений ремісник.",
 	},
 	"tailor": {
 		"english": "Tailor's Workshop",
@@ -3771,62 +3776,110 @@
 	"windowBoxWood0Variation0": {
 		"english": "Wooden Window Box",
 		"german": "Hölzener Blumenkasten",
+		"french": "Jardinière de Fenêtre en Bois",
+		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
+		"russian": "Деревянный оконный ящик",
+		"ukrainian":"Дерев'яний віконний ящик",
 	},
 	"windowBoxWood0Variation0Description": {
 		"english": "Flowers are beautiful, right? These white spring flowers will make looking out the window an even more satisfying experience.",
 		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen weißen Frühlingsblumen.",
+		"french": "Ces fleurs sont belles, n'est-ce pas ? Ces fleurs blanches printanières rendront l'expérience encore plus plaisante lorsque vous regarderez par la fenêtre.",
+		"spanish": "Las flores son hermosas, ¿no? Estas flores blancas de primavera harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores brancas da primavera farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+		"russian": "Цветы красивые, правда? Эти белые весенние цветки будут радовать вас каждый раз, когда вы будете выглядывать в окошко.",
+		"ukrainian":"Квіти гарні, правда? Ці білі весняні квіти будуть радувати вас кожен раз, коли ви будете виглядати у віконце.",
 	},
 	"windowBoxWood0Variation1": {
 		"english": "Wooden Window Box",
 		"german": "Hölzener Blumenkasten",
+		"french": "Jardinière de Fenêtre en Bois",
+		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
+		"russian": "Деревянный оконный ящик",
+		"ukrainian":"Дерев'яний віконний ящик",
 	},
 	"windowBoxWood0Variation1Description": {
 		"english": "Flowers are beautiful, right? These purple spring flowers will make looking out the window an even more satisfying experience.",
 		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen weißen Frühlingsblumen.",
+		"french": "Ces fleurs sont belles, n'est-ce pas ? Ces fleurs violettes printanières rendront l'expérience encore plus plaisante lorsque vous regarderez par la fenêtre.",
+		"spanish": "Las flores son hermosas, ¿no? Estas flores moradas de primavera harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores roxas da primavera farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+		"russian": "Цветы красивые, правда? Эти фиолетовые весенние цветки будут радовать вас каждый раз, когда вы будете выглядывать в окошко.",
+		"ukrainian":"Квіти гарні, правда? Ці білі весняні квіти будуть радувати вас кожен раз, коли ви будете виглядати у віконце.",
 	},
 	"windowBoxWood0Variation2": {
 		"english": "Wooden Window Box",
 		"german": "Hölzener Blumenkasten",
+		"french": "Jardinière de Fenêtre en Bois",
+		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
+		"russian": "Деревянный оконный ящик",
+		"ukrainian":"Дерев'яний віконний ящик",
 	},
 	"windowBoxWood0Variation2Description": {
 		"english": "Flowers are beautiful, right? These yellow summer flowers will make looking out the window an even more satisfying experience.",
 		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen gelben Sommersblumen.",
+		"french": "Ces fleurs sont belles, n'est-ce pas ? Ces fleurs jaunes d'été rendront l'expérience encore plus plaisante lorsque vous regarderez par la fenêtre.",
+		"spanish": "Las flores son hermosas, ¿no? Estas flores amarillas de verano harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores amarelas de verão farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+		"russian": "Цветы красивые, правда? Эти желтые летние цветки будут радовать вас каждый раз, когда вы будете выглядывать в окошко.",
+		"ukrainian":"Квіти гарні, правда? Ці білі весняні квіти будуть радувати вас кожен раз, коли ви будете виглядати у віконце.",
 	},
 	"windowBoxWood0Variation3": {
 		"english": "Wooden Window Box",
 		"german": "Hölzener Blumenkasten",
+		"french": "Jardinière de Fenêtre en Bois",
+		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
+		"russian": "Деревянный оконный ящик",
+		"ukrainian":"Дерев'яний віконний ящик",
 	},
 	"windowBoxWood0Variation3Description": {
 		"english": "Flowers are beautiful, right? These blue summer flowers will make looking out the window an even more satisfying experience.",
 		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen blauen Sommersblumen.",
+		"french": "Ces fleurs sont belles, n'est-ce pas ? Ces fleurs bleues d'été rendront l'expérience encore plus plaisante lorsque vous regarderez par la fenêtre.",
+		"spanish": "Las flores son hermosas, ¿no? Estas flores azules de verano harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores azuis do verão farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+		"russian": "Цветы красивые, правда? Эти синие летние цветки будут радовать вас каждый раз, когда вы будете выглядывать в окошко.",
+		"ukrainian":"Квіти гарні, правда? Ці білі весняні квіти будуть радувати вас кожен раз, коли ви будете виглядати у віконце.",
 	},
 	"windowBoxWood0Variation4": {
 		"english": "Wooden Window Box",
 		"german": "Hölzener Blumenkasten",
+		"french": "Jardinière de Fenêtre en Bois",
+		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
+		"russian": "Деревянный оконный ящик",
+		"ukrainian":"Дерев'яний віконний ящик",
 	},
 	"windowBoxWood0Variation4Description": {
 		"english": "Flowers are beautiful, right? These red fall flowers will make looking out the window an even more satisfying experience.",
 		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen roten Herbstblumen.",
+		"french": "Ces fleurs sont belles, n'est-ce pas ? Ces fleurs rouges automnales rendront l'expérience encore plus plaisante lorsque vous regarderez par la fenêtre.",
+		"spanish": "Las flores son hermosas, ¿no? Estas flores rojas de otoño harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Essas flores de outono vermelho farão com que olhar pela janela seja uma experiência ainda mais satisfatória.",
+		"russian": "Цветы красивые, правда? Эти красные осенние цветки будут радовать вас каждый раз, когда вы будете выглядывать в окошко.",
+		"ukrainian":"Квіти гарні, правда? Ці білі весняні квіти будуть радувати вас кожен раз, коли ви будете виглядати у віконце.",
 	},
 	"windowBoxWood0Variation5": {
 		"english": "Wooden Window Box",
 		"german": "Hölzener Blumenkasten",
+		"french": "Jardinière de Fenêtre en Bois",
+		"spanish": "Jardinera de madera",
 		"portuguese": "Caixa de janela de madeira",
+		"russian": "Деревянный оконный ящик",
+		"ukrainian":"Дерев'яний віконний ящик",
 	},
 	"windowBoxWood0Variation5Description": {
 		"english": "Flowers are beautiful, right? These orange fall flowers will make looking out the window an even more satisfying experience.",
 		"german": "Blumen sind wunderschön, nicht wahr? Bring etwas Farbe in deine Kolonie mit diesen orangen Herbstblumen.",
+		"french": "Ces fleurs sont belles, n'est-ce pas ? Ces fleurs oranges automnales rendront l'expérience encore plus plaisante lorsque vous regarderez par la fenêtre.",
+		"spanish": "Las flores son hermosas, ¿no? Estas flores anaranjadas de otoño harán que ver por la ventana sea una experiencia aún más satisfactoria.",
 		"portuguese": "As flores são lindas, certo? Estas flores alaranjadas da queda farão a vista da janela uma experiência ainda mais satisfying.",
+		"russian": "Цветы красивые, правда? Эти оранжевые осенние цветки будут радовать вас каждый раз, когда вы будете выглядывать в окошко.",
+		"ukrainian":"Квіти гарні, правда? Ці білі весняні квіти будуть радувати вас кожен раз, коли ви будете виглядати у віконце.",
 	},
 
 // Pillars

@@ -264,7 +264,7 @@
 		"ukrainian":"%firstName% має проблеми з сном і відпочиває не так добре, як інші. Потрібно в два раза більше часу для відпочинку порівняно з іншими.",
 		"dutch": "%firstName% heeft problemen met slapen en rust niet zo goed uit als andere. In vergelijking met andere heeft %hijZij% dubbel zoveel rust nodig",
 		"russian":"%firstName% имеет проблемы со сном и отдыхает не так хорошо, как остальные. Требуется в два раза больше времени для отдыха в сравнении с остальными.",
-		"chinese": "--",
+		"chinese": "%firstName%患有失眠症,不能很好的入睡休息.和他人相比,完全休息需要两倍的时间.",
 	},
 	"traitTitle_Tireless": {
 		"english": "Tireless",
@@ -291,7 +291,7 @@
 		"portuguese": "%firstName% não precisa dormir muito. Só descansa metade do tempo que os outros antes que %eleEla% esteja completamente em forma novamente.",
 		"ukrainian":"%firstName% не потребує довгого сна. Для повного відновлення %heshe1% потрібно вдвічі менше часу в порівнянні з іншими.",
 		"russian":"%firstName% не нуждается в длительном сне. Для полного восстановления %heshe1% требуется вдвое меньше времени по сравнению с остальными.",
-		"chinese": "--",
+		"chinese": "%firstName%不需要太多睡眠时间.%heShe%只需要休息一半的时间就能恢复好健康.",
 	},
 	"traitTitle_Smart": {
 		"english": "Fast Learner",
@@ -304,7 +304,7 @@
 		"dutch": "Snelle leerling",
 		"ukrainian":"Заучка",
 		"russian":"Быстрообучаем%hesheEnd%",
-		"chinese": "学习能力强",
+		"chinese": "快速学习",
 	},
 	"traitDesc_Smart": {
 		"english": "%firstName% is a bright %guyGirl% and %heShe% knows it. %cap-heShe% can learn new skills in half the time.",
@@ -318,7 +318,7 @@
 		"portuguese": "%firstName% é um cara brilhante e %eleEla% sabe disso. %cap-eleEla% pode aprender novas habilidades na metade do tempo.",
 		"ukrainian":"%firstName% обдарован%heshe_IY_A% %guyGirl%, та %heShe% це знає. %cap-heShe% навчається новим навичкам вдвічі швидше.",
 		"russian":"%firstName% одаренн%hesheEnd% %guyGirl%, и %heShe% это знает. %cap-heShe% обучается новым навыкам вдвое быстрее.",
-		"chinese": "--",
+		"chinese": "%firstName%是个聪明的%guyGirl%,%heShe%只用一半的时间就能学会技能.",
 	},
 	"traitTitle_Dumb": {
 		"english": "Dumb",
@@ -331,7 +331,7 @@
 		"portuguese": "Idiot%oA%",
 		"ukrainian":"Туп%heshe_IY_A%",
 		"russian":"Туп%hesheEnd2%",
-		"chinese": "哑巴",
+		"chinese": "愚蠢",
 	},
 	"traitDesc_Dumb": {
 		"english": "Unfortunately, thinking has never been %hisHer% strong suit. %cap-heShe% will not gain experience and not level up in any job ever.",
@@ -345,7 +345,7 @@
 		"portuguese": "Infelizmente, pensar nunca foi seu forte. %cap-eleEla% não vai ganhar experiência e não subir de nível em qualquer trabalho de sempre.",
 		"ukrainian":"На жаль, розум ніколи не був %hisHer% сильною стороною. %cap-heShe% не отримуватиме досвіду і підвищення рівня в будь-якій роботі.",
 		"russian":"К сожалению, ум никогда не был %hisHer% сильной стороной. %cap-heShe% не будет получать опыта и повышения уровня в любой работе.",
-		"chinese": "--",
+		"chinese": "不幸的是,思考不是他的强项.%heShe%将不会获得经验,也不会在任何工作中得到升级.",
 	},
 	"traitTitle_FavoriteFoodPumpkingStew": {
 		"english": "Favorite Food: Pumpkin Stew",
@@ -371,7 +371,7 @@
 		"dutch": "%firstName% kan gewoon niet wachten op een andere kom met heerlijke pompoen stoofpot.",
 		"ukrainian":"%firstName% не може дочекатися ще однієї порції рагу з гарбуза.",
 		"russian":"%firstName% не может дождаться еще одной порции рагу из тыквы.",
-		"chinese": "--",
+		"chinese": "%firstName% 迫不及待想再来一碗美味的炖南瓜了.",
 	},
 	"traitTitle_FavoriteFoodFruitSalad": {
 		"english": "Favorite Food: Fruit Salad",
@@ -397,7 +397,7 @@
 		"dutch": "%firstName% kan gewoon niet wachten op een andere kom met heerlijke fruit salade.",
 		"ukrainian":"%firstName% не може дочекатися ще однієї порції фруктового салату.",
 		"russian":"%firstName% не может дождаться еще одной порции фруктового салата.",
-		"chinese": "--",
+		"chinese": "%firstName% 迫不及待想再来一碗美味的水果沙拉了",
 	},
 	"traitTitle_FavoriteFoodAppleStrudel": {
 		"english": "Favorite Food: Apple Strudel",
@@ -423,7 +423,7 @@
 		"portuguese": "%firstName% simplesmente não posso esperar para pegar outro pedaço de strudel de maçã delicioso.",
 		"ukrainian":"%firstName% не може дочекатися ще одного скибочки яблучного штруделя.",
 		"russian":"%firstName% не может дождаться еще одного ломтика яблочного штруделя.",
-		"chinese": "--",
+		"chinese": "%firstName% 迫不及待想再来一块美味的苹果卷了",
 	},
 	"traitTitle_AllergicToApples": {
 		"english": "Allergic to Apples",
@@ -436,7 +436,7 @@
 		"dutch": "Allergisch voor Appels",
 		"ukrainian":"Алергія на яблуко",
 		"russian":"Аллергия на яблоки",
-		"chinese": "厌恶苹果",
+		"chinese": "苹果过敏",
 	},
 	"traitDesc_AllergicToApples": {
 		"english": "%firstName% will avoid dishes that contain apples. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -450,7 +450,7 @@
 		"portuguese": "%firstName% irá evitar pratos que contenham maçãs. Se %eleEla% for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
 		"ukrainian":"%firstName% уникатиме страв, у складі яких є яблуко. Якщо %heShe% все ж з'їсть його, у %heShe% почнеться алергічна реакція.",
 		"russian":"%firstName% будет избегать блюд, в составе которых есть яблоко. Если %heShe% все же съест его, у %himHer% начнется аллергическая реакция.",
-		"chinese": "--",
+		"chinese": "%firstName% 会拒绝吃含有苹果的食物.如果%heShe%不小心吃到了,%heShe%将会有过敏反应.",
 	},
 	"traitTitle_AllergicToPotatoes": {
 		"english": "Allergic to Potatoes",
@@ -463,7 +463,7 @@
 		"dutch": "Allergisch voor Aardappels",
 		"ukrainian":"Алергія на картоплю",
 		"russian":"Аллергия на картошку",
-		"chinese": "厌恶土豆",
+		"chinese": "土豆过敏",
 	},
 	"traitDesc_AllergicToPotatoes": {
 		"english": "%firstName% will avoid dishes that contain potatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -477,7 +477,7 @@
 		"portuguese": "%firstName% evitará pratos que contenham batatas. Se %eleEla% for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
 		"ukrainian":"%firstName% уникатиме страв, у складі яких є картопля. Якщо %heShe% все ж з'їсть його, у %cap-heShe% почнеться алергічна реакція.",
 		"russian":"%firstName% будет избегать блюд, в составе которых есть картошка. Если %heShe% все же съест его, у %himHer% начнется аллергическая реакция.",
-		"chinese": "--",
+		"chinese": "%firstName% 会拒绝吃含有土豆的食物.如果%heShe%不小心吃到了,%heShe%将会有过敏反应.",
 	},
 	"traitTitle_AllergicToTomatoes": {
 		"english": "Allergic to Tomatoes",
@@ -490,7 +490,7 @@
 		"portuguese": "Alérgico para Tomate",
 		"ukrainian":"Алергія на Помідори",
 		"russian":"Аллергия на Помидоры",
-		"chinese": "厌恶西红柿",
+		"chinese": "西红柿过敏",
 	},
 	"traitDesc_AllergicToTomatoes": {
 		"english": "%firstName% will avoid dishes that contain tomatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -504,7 +504,7 @@
 		"portuguese": "%firstName% evitará pratos que contenham tomates. Se %eleEla% for forçado a comê-lo de qualquer maneira, ele terá uma reação alérgica.",
 		"ukrainian":"%firstName% уникатиме страв, у складі яких є помідор. Якщо %heShe% все ж з'їсть його, у %heShe% почнеться алергічна реакція.",
 		"russian":"%firstName% будет избегать блюд, в составе которых есть помидор. Если %heShe% все же съест его, у %himHer% начнется аллергическая реакция.",
-		"chinese": "--",
+		"chinese": "%firstName% 会拒绝吃含有西红柿的食物.如果%heShe%不小心吃到了,%heShe%将会有过敏反应.",
 	},
 	"traitTitle_Limping": {
 		"english": "Limping",
@@ -528,6 +528,6 @@
 		"dutch": "Vanwege een ongeluk heeft %firstName% een slecht been en hinkt hij. %cap-hijZij% loopt een beetje langzamer dan andere kolonisten",
 		"ukrainian":"%firstName%, після нещасного випадку, пошкоди%hesheEnd% ногу і накульгує. %cap-heShe% ходить трохи повільніше, ніж інші.",
 		"russian":"%firstName%, после несчастного случая, повредил%surnameA% ногу и прихрамывает. %cap-heShe% ходит чуть медленнее, чем остальные.",
-		"chinese": "--",
+		"chinese": "因为事故导致%firstName%走路一瘸一拐的.%heShe%走路会比其他人稍慢一些.",
 	},
 }

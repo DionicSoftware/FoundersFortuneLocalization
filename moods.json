@@ -9,6 +9,7 @@
 		"portuguese": "%firstName% é feliz",
 		"russian": "%firstName% счастлив%surnameA%",
 		"ukrainian":"%firstName% щаслив%heshe_IY_A%",
+		"chinese": "%firstName%现在很开心",
 	},
 	"moodDesc_Bad": {
 		"english": "%firstName% is not having a good time",
@@ -19,6 +20,7 @@
 		"portuguese": "%firstName% não está se divertindo",
 		"russian": "%firstName% недовол%hesheEnd5%",
 		"ukrainian":"%firstName% незадоволен%heshe_IY_A%",
+		"chinese": "%firstName%过得不是很好",
 	},
 	"moodDesc_Terrible": {
 		"english": "%firstName% is feeling terrible. %cap-heShe% is at risk of breaking down",
@@ -29,6 +31,7 @@
 		"portuguese": "%firstName% está se sentindo terrível. %eleEla% está em risco de quebrar",
 		"russian": "%firstName% чувствует себя ужасно. %cap-heShe% рискует получить нервный срыв.",
 		"ukrainian":"%firstName% відчуває себе жахливо, %heShe% ризикує отримати нервовий зрив.",
+		"chinese": "%firstName%感觉糟透了.%heShe%快要崩溃了",
 	},
 	"moodDesc_Breakdown": {
 		"english": "%firstName% is having a breakdown. Nothing can console %himHer% now.",
@@ -39,6 +42,7 @@
 		"portuguese": "%firstName% está tendo um colapso. Nada pode consolá-l%oA% agora.",
 		"russian": "%firstName% испытывает нервный срыв. Ничто не сможет утешить %himHer% сейчас.",
 		"ukrainian":"%firstName% відчуває нервовий зрив. Ніщо не зможе втішити %hisHer% зараз",
+		"chinese": "%firstName%崩溃了.现在没人能控制%himHer%了",
 	},
 	"moodDesc_LockedUp": {
 		"english": "%firstName% is locked up and is only concerned with freedom.",
@@ -49,6 +53,7 @@
 		"portuguese": "%firstName% está preso e só está preocupado com a liberdade.",
 		"turkish": "%firstName% kilit altında ve sadece özgürlüğünü düşünüyor.",
 		"ukrainian":"%firstName% під замком і %hisHer% турбує тільки можливість звільнення.",
+		"chinese": "%firstName%被锁住了,现在满脑子都想着自由.",
 	},
 	"expectationDesc_Good": {
 		"english": "%firstName% is content with %hisHer% life in the colony.",
@@ -59,6 +64,7 @@
 		"portuguese": "%firstName% está contente com sua vida na colônia.",
 		"russian": "%firstName% довол%hesheEnd5% жизнью в колонии.",
 		"ukrainian":"%firstName% задоволен%heshe_IY_A% життям в колонії.",
+		"chinese": "%firstName%对其在这个殖民地中的生活很满意",
 	},
 	"expectationDesc_Neutral": {
 		"english": "%firstName% expects a little more of this colony. Migrants will only come when the expectations of the colonists are fulfilled.",
@@ -69,6 +75,7 @@
 		"portuguese": "%firstName% espera um pouco mais dessa colônia. Os migrantes só virão quando as expectativas dos colonos forem satisfeitas.",
 		"russian": "%firstName% ожидал%surnameA% большего от колонии. Мигранты начнут приходить только тогда, когда колонисты будут довольны своей жизнью в колонии.",
 		"ukrainian":"%firstName% очікува%hesheEnd% більшого від колонії. Мігранти почнуть приходити тільки тоді, коли колоністи будуть задоволені своїм життям в колонії.",
+		"chinese": "%firstName%希望能多从这个殖民地中获得一些东西.只有殖民者的期望满足了,才会有移民过来.",
 	},
 	"expectationDesc_Bad": {
 		"english": "%firstName% expects a lot more of this colony. Migrants will only come when the expectations of your colonists are fulfilled.",
@@ -79,6 +86,7 @@
 		"portuguese": "%firstName% espera muito mais desta colônia. Os migrantes só virão quando as expectativas de seus colonos forem satisfeitas.",
 		"russian": "%firstName% ожидал%surnameA% намного большего от колонии. Мигранты начнут приходить только тогда, когда колонисты будут довольны своей жизнью в колонии.",
 		"ukrainian":"%firstName% очікува%hesheEnd% набагато більшого від колонії. Мігранти почнуть приходити тільки тоді, коли колоністи будуть задоволені своїм життям в колонії.",
+		"chinese": "%firstName%想要的东西这个殖民地远远无法满足.只有殖民者的期望满足了,才会有移民过来.",
 	},
 	"expectationDesc_LockedUp": {
 		"english": "%firstName% is locked up by the goblins and doesn't count as part of the colony at the moment.",
@@ -89,6 +97,7 @@
 		"portuguese": "%firstName% é bloqueado pelos goblins e não conta como parte da colônia no momento.",
 		"turkish": "%firstName% goblinler tarafından tutsak edildi ve şu anda yerleşime dahil gözükmüyor.",
 		"ukrainian":"%firstName% взят%heshe_IY_A% в заручники гоблінами і в даний момент не є частиною колонії.",
+		"chinese": "%firstName%被哥布林囚禁起来了,暂时不属于这个殖民地的一份子.",
 	},
 
 
@@ -102,6 +111,7 @@
 		"portuguese": "%firstName% está tendo um colapso! %eleEla% está destruindo os móveis de outros colonos!",
 		"russian": "%firstName% получил нервный срыв! %cap-heShe% крушит мебель других колонистов!",
 		"ukrainian":"%firstName% отрима%hesheEnd% нервовий зрив, %heShe% трощить меблі інших колоністів!",
+		"chinese": "%firstName%崩溃了!%heShe%在破坏其他殖民者的家具!",
 	},
 	"colonistMoodDesc_crazy": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% is hitting other colonists!",
@@ -112,6 +122,7 @@
 		"portuguese": "%firstName% está tendo um colapso! %eleEla% está batendo outros colonos!",
 		"russian": "%firstName% получил нервный срыв! %cap-heShe% бьет других колонистов!",
 		"ukrainian":"%firstName% отрима%hesheEnd% нервовий зрив, %heShe% б'є інших колоністів!",
+		"chinese": "%firstName%崩溃了!%heShe%在攻击其他殖民者!",
 	},
 	"colonistMoodDesc_lazyDay": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% decided to have a lazy day and take a lot of breaks.",
@@ -122,6 +133,7 @@
 		"portuguese": "%firstName% está tendo um colapso! %eleEla% decidiu ter um dia preguiçoso e fazer muitos intervalos.",
 		"russian": "%firstName% получил нервный срыв! %cap-heShe% решает провести ленивый день и много отдыхать.",
 		"ukrainian":"%firstName% отрима%hesheEnd% нервовий зрив, %heShe% вирішує провести ледачий день і багато відпочивати.",
+		"chinese": "%firstName%崩溃了!%heShe%决定慵懒一天,随意休息.",
 	},
 	"colonistMoodDesc_notWorking": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% refuses to work or follow any orders!",
@@ -132,5 +144,6 @@
 		"portuguese": "%firstName% está tendo um colapso! %eleEla% se recusa a trabalhar ou seguir qualquer ordem!",
 		"russian": "%firstName% получил нервный срыв! %cap-heShe% отказывается работать или выполнять любые приказы!",
 		"ukrainian":"%firstName% отрима%hesheEnd% нервовий зрив, %heShe% відмовляється працювати або виконувати будь-які накази!",
+		"chinese": "%firstName%崩溃了!%heShe%拒绝工作或服从任何命令.",
 	},
 }

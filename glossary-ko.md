@@ -1,4 +1,5 @@
-- colony / colonist : 식민지로 번역하긴 뭐하니, 개척지 / 개척자. 아직 거주민으로 번역된 부분 남아있음...
+- colony / colonist : 식민지로 번역하긴 뭐하니, 개척지 / 개척자. 
+- base : 마을
 - mood : 기분
 - point : 점수 대신 "포인트"로
 - expectations : 기대
@@ -7,3 +8,5 @@
 - beauty : 일단은 "아름다움".
 - coin: 코인
 - %heShe%: 그/그녀. %himHer% 같은 경우도 모두 이것으로 대체하고 조사를 알맞게 붙이는 방향으로.
+- Apple Sturudel: 사과 슈트루델. 독일어가 원 단어라고 함.
+- Tikigoblins: 티키고블린

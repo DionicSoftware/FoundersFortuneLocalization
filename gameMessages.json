@@ -117,14 +117,13 @@
 	"notificationTitle_Fight": { // when a colonist or colony construction or furniture is attacked
 		"english": "Fighting",
 		"german": "Kampf ausgebrochen",
-		// TODO-turkish
 		// TODO-bulgarian
 		// TODO-russian
 		// TODO-ukrainian
 		"french": "Combat",
 		"spanish": "Pelea",
 		"portuguese": "Combate",
-		"turkish": "Yerleşimci kavga ediyor",
+		"turkish": "Saldırı var",
 		"bulgarian": "Колонистите се бият",
 		"russian": "Колонисты сражаются",
 		"ukrainian": "Колоністи б'ються",
@@ -416,6 +415,7 @@
 		"russian": "Вечеринка!    %timeLeft%",
 		"portuguese": "Festa!    %timeLeft%",
 		"ukrainian": "Вечірка! %timeLeft%",
+		"turkish": "Parti!    %timeLeft%",
 	},
 
 	// FLOATING TEXTS
@@ -946,6 +946,7 @@
 		"portuguese": "Como mover móveis e outros objetos",
 		"russian": "Как передвигать мебель и другие объекты",
 		"ukrainian": "Як пересувати меблі та інші об'єкти",
+		"turkish": "Mobilyalar ve diğer eşyaların taşınması",
 	},
 	"messageText_TutorialMovingFurniture": {
 		"english": "Drag the object with your mouse to its new location. Right clicking during dragging will delete the object.",
@@ -955,6 +956,7 @@
 		"portuguese": "Arraste o objeto com o mouse para o novo local. clicando com o botão direito durante arrastando irá excluir o objeto.",
 		"russian": "Выберите объект, зажмите ЛКМ и переместите его на новое место. ПКМ во время перемещения удалит объект.",
 		"ukrainian": "Виберіть об'єкт, затисніть ЛКМ і перемістіть його на нове місце. ПКМ під час переміщення видалить об'єкт.",
+		"turkish": "Nesneyi farenizle yeni konumuna sürükleyin. Sürükleme sırasında sağ tıklamak nesneyi siler.",
 	},
 	"messageTitle_TechUnlocked": {
 		"english": "%techName% unlocked!",

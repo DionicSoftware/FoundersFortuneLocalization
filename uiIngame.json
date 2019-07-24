@@ -1123,6 +1123,7 @@
 		"russian":"Укрепления",
 		"ukrainian":"Укріплення",
 		"chinese": "防御工事",
+		"turkish": "Güçlendirme",
 		"korean": "요새화",
 	},
 	"doors": {
@@ -1856,6 +1857,7 @@
 		"ukrainian":"Або ви ще не виробляли жодного спорядження,\n або все ваше спорядження в даний час використовується вашими колоністами.",
 		"russian":"Либо вы еще не производили никакого снаряжения,\n либо все ваше снаряжение в настоящее время используется вашими колонистами.",
 		"chinese": "要么没有生产任何装备,要么所有装备目前都被你的殖民者使用.",
+		"turkish": "Henüz bir ekipman üretmediniz\nveya tüm ekipmanlarınız şu anda yerleşimciler tarafından kullanılıyor.",
 		"korean": "아직 아무런 장비를 만든 적이 없거나,\n모든 장비를 개척자가 사용중입니다.",
 	},
 	"sellPrice": {
@@ -1892,6 +1894,7 @@
 		"russian": "минут",
 		"ukrainian":"хвилин",
 		"chinese": "分钟",
+		"turkish": "dakika",
 		"korean": "분",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
@@ -1903,6 +1906,7 @@
 		"portuguese": "s",
 		"ukrainian":"с",
 		"chinese": "秒",
+		"turkish": "s",
 		"korean": "초",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
@@ -1914,6 +1918,7 @@
 		"portuguese": "s",
 		"ukrainian":"сек",
 		"chinese": "秒",
+		"turkish": "sn",
 		"korean": "초",
 	},
 	"partiesTitle": {
@@ -1925,6 +1930,7 @@
 		"ukrainian":"Вечірка",
 		"russian": "Вечеринка",
 		"chinese": "聚会",
+		"turkish": "Partiler",
 		"korean": "축제",
 	},
 	"partiesDesc": {
@@ -1936,6 +1942,7 @@
 		"russian": "Вечеринки дают вашим колонистам возможность расслабиться. Большую часть времени колонисты будут танцевать, есть и пить, из-за чего их настроение будет повышаться.",
 		"portuguese": "As festas dão aos colonos a chance de relaxar e socializar. Quanto mais tempo seus colonos passarem dançando, comendo e bebendo, maior será o humor deles.",
 		"chinese": "聚会给你的殖民者一个放松和社交的机会.你的殖民者花在跳舞、吃饭和喝酒上的时间越多,他们的情绪就会越高涨.",
+		"turkish": "Partiler yerleşimcilerinize rahatlama ve sosyalleşme şansı verir. Dans etmek, yemek yemek ve içmek için harcanan zaman arttıkça yerleşimcilerin ruh halleri yükselir.",
 		"korean": "축제는 개척자들이 쉬며 사회적 교류를 할 기회를 제공합니다. 개척자들이 더 오래 춤추고 먹고 마실수록 기분이 좋아집니다.",
 	},
 	"startPartyButton": {
@@ -1947,6 +1954,7 @@
 		"russian": "Начать вечеринку!",
 		"portuguese": "Iniciar uma festa",
 		"chinese": "开始聚会",
+		"turkish": "Partiyi başlat",
 		"korean": "축제 시작하기",
 	},
 	"cantStartPartyDuringReady": {
@@ -1958,6 +1966,7 @@
 		"russian": "Нельзя начать вечеринку во время набега",
 		"portuguese": "Não consigo iniciar a festa durante o ataque",
 		"chinese": "不要在袭击期间开始聚会",
+		"turkish": "Baskın sırasında partiye başlanamaz",
 		"korean": "침략중에는 축제를 시작할 수 없습니다.",
 	},
 	"cantStartPartyBecauseAlreadyPartying": {
@@ -1969,6 +1978,7 @@
 		"russian": "Нельзя начать вечеринку во время другой вечеринки",
 		"portuguese": "Não pode começar a festa enquanto os colonos já estão comemorando",
 		"chinese": "不能在殖民者庆祝时开始聚会",
+		"turkish": "Şu anda zaten bir kutlama var. Yeni bir partiye başlanamaz",
 		"korean": "축제 중에는 축제를 시작할 수 없습니다.",
 	},
 	"coinsToStartParty": {
@@ -1980,6 +1990,7 @@
 		"russian": "%coins% монет",
 		"portuguese": "%coins% Moedas para começar a festa",
 		"chinese": "花费 %coins%硬币开始聚会",
+		"turkish": "Partiye başlamak için %coins% para",
 		"korean": "축제를 시작하려면 %coins% 코인이 필요합니다.",
 	},
 	"atLeastBeerInStock": {
@@ -1991,6 +2002,7 @@
 		"russian": "Хотя бы %beer% пива",
 		"portuguese": "Pelo menos %beer% cerveja em estoque",
 		"chinese": "库存至少要有 %beer%啤酒",
+		"turkish": "En azından %beer% bira stokta",
 		"korean": "최소한 %beer% 통의 맥주가 있어야 합니다",
 	},
 	"atLeastFoodInStock": {
@@ -2002,6 +2014,7 @@
 		"russian": "Хотя бы %food% еды",
 		"portuguese": "Pelo menos %food% comida em estoque",
 		"chinese": "库存至少要有 %food%食物",
+		"turkish": "En azından %food% yemek stokta",
 		"korean": "최소한 %food% 음식이 있어야 합니다",
 	},
 	"partyRequirements": {
@@ -2013,6 +2026,7 @@
 		"russian": "Требования:",
 		"portuguese": "Requisitos para festas",
 		"chinese": "聚会要求",
+		"turkish": "Parti gereksinimleri",
 		"korean": "축제 요구조건",
 	},
 	"customCamera": { // activated with F4
@@ -2024,6 +2038,7 @@
 		"ukrainian":"Користувацька камера",
 		"portuguese": "câmera de vôo livre",
 		"chinese": "自由镜头",
+		"turkish": "Serbest kamera",
 		"korean": "자유로운 촬영",
 	},
 	"customCameraHotkeys": {
@@ -2035,6 +2050,7 @@
 		"ukrainian":"Відкрити/Закрити меню інформації: R\nПереключити рух стіни: T\nКінематографічний режим: С\nЗмінити швидкість камери: Mouse wheel\nВверх, вниз: Left shift та Left Ctrl",
 		"portuguese": "Abra / feche o painel de informações: R\nAlternar movimento da parede:  T\nModo cinematográfico: C\nAlterar a velocidade da câmera: roda do mouse\nPara cima e para baixo: SHIFT esquerdo e CTRL esquerdo",
 		"chinese": "打开/关闭 信息面板:R\n切换墙壁移动:T\n电影模式:C\n镜头速度:鼠标滚轮\n上和下:左shift和右ctrl",
+		"turkish":  "Bilgi panelini aç/kapat: R\nDuvar hareketini değiştir: T\n Sinematik mod: C\nKamera hızını değiştir: Fare tekerleği\nYukarı ve aşağı: Sol shift ve sol CTRL",
 		"korean": "패널 열기/닫기: R\n벽 움직임 켜고끄기: T\n시네마틱 모드: C\n카메라 스피드 변경: 마우스 휠\n위아래로 움직이기: 왼쪽 쉬프트와 컨트롤 키",
 	},
 	"camSpeed": {
@@ -2046,6 +2062,7 @@
 		"ukrainian":"Швидкість камери",
 		"portuguese": "Velocidade de Cam",
 		"chinese": "镜头速度",
+		"turkish": "Kamera hızı",
 		"korean": "카메라 스피드",
 	},
 

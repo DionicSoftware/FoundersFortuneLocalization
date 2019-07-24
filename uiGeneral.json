@@ -12,6 +12,7 @@
 		"russian":"Новая игра",
 		"chinese": "新游戏",
 		"korean": "새 게임",
+		"arabic": "لعبة جديدة",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -25,6 +26,7 @@
 		"russian":"Сохранить игру",
 		"chinese": "保存游戏",
 		"korean": "저장하기",
+		"arabic": "حفظ اللعبة",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -38,6 +40,7 @@
 		"russian":"Загрузить игру",
 		"chinese": "加载游戏",
 		"korean": "불러오기",
+		"arabic": "تحميل اللعبة",
 	},
 	"settings": {
 		"english": "Settings",
@@ -51,6 +54,7 @@
 		"russian":"Настройки",
 		"chinese": "设置",
 		"korean": "설정",
+		"arabic": "الإعدادات",
 	},
 	"quit": {
 		"english": "Quit",
@@ -64,6 +68,7 @@
 		"russian":"Выход",
 		"chinese": "退出",
 		"korean": "종료",
+		"arabic": "خروج",
 	},
 	"website": {
 		"english": "Website",
@@ -75,6 +80,7 @@
 		"ukrainian":"ВебСайт",
 		"chinese": "网站",
 		"korean": "홈페이지",
+		"arabic": "الموقع",
 	},
 	"forum": {
 		"english": "Forum",
@@ -87,6 +93,7 @@
 		"ukrainian":"Форум",
 		"chinese": "论坛",
 		"korean": "게시판",
+		"arabic": "المنتدى",
 	},
 	"supportDevelopment": {
 		"english": "Support Development",
@@ -99,6 +106,7 @@
 		"russian":"Поддержать разработчика",
 		"chinese": "支持开发者",
 		"korean": "개발자 후원하기",
+		"arabic": "دعم التطوير",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -112,6 +120,7 @@
 		"russian":"Доступно обновление!",
 		"chinese": "可用更新",
 		"korean": "업데이트 가능!",
+		"arabic": "تحديث متوفر!",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -125,6 +134,7 @@
 		"russian":"Получить новую версию",
 		"chinese": "获取最新版本",
 		"korean": "최신 버전 다운받기",
+		"arabic": "احصل على أحدث إصدار",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -138,6 +148,7 @@
 		"russian":"Ваша версия",
 		"chinese": "你的版本",
 		"korean": "설치된 버전",
+		"arabic": "إصدارك",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -151,6 +162,7 @@
 		"russian":"Текущая версия",
 		"chinese": "当前版本",
 		"korean": "현재 버전",
+		"arabic": "الإصدار الحالي",
 	},
 	"underConstruction": {
 		"english": "Under Construction!",
@@ -164,6 +176,7 @@
 		"russian":"В разработке!",
 		"chinese": "施工中!",
 		"korean": "공사중!",
+		"arabic": "قيد الإنشاء",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -177,6 +190,7 @@
 		"russian":"Главное Меню",
 		"chinese": "主菜单",
 		"korean": "메인 메뉴",
+		"arabic": "القائمة الرئيسية",
 	},
 	"giveFeedback": {
 		"english": "Give Feedback",
@@ -190,6 +204,7 @@
 		"russian":"Обратная связь",
 		"chinese": "意见反馈",
 		"korean": "피드백 보내기",
+		"arabic": "تقديم ملاحظة",
 	},
 
 
@@ -205,6 +220,7 @@
 		"russian":"Загрузить игру",
 		"chinese": "加载",
 		"korean": "불러오기",
+		"arabic": "تحميل",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -217,6 +233,7 @@
 		"russian":"Перезаписать",
 		"chinese": "覆盖",
 		"korean": "덮어쓰기",
+		"arabic": "إستبدال",
 	},
 	"newSave": {
 		"english": "New Save",
@@ -229,6 +246,7 @@
 		"russian":"Новое сохранение",
 		"chinese": "新存档",
 		"korean": "새로 저장",
+		"arabic": "حفظ جديد",
 	},
 	"savegameName": { // background when player enters an empty save game name
 		"english": "Savegame Name",
@@ -241,6 +259,7 @@
 		"russian":"Название сохранения",
 		"chinese": "存档名称",
 		"korean": "저장된 게임",
+		"arabic": "اسم الحفظ",
 	},
 	"mostAwesomeColony": { // default name for new colony
 		"english": "Most Awesome Colony",
@@ -253,6 +272,7 @@
 		"russian":"Самая удивительная колония",
 		"chinese": "令人敬畏的殖民地",
 		"korean": "가장 멋진 개척지",
+		"arabic": "المستعمرة الأكثر روعة",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -265,6 +285,7 @@
 		"russian":"Запрещенные символы в имени файла",
 		"chinese": "文件名禁使用字符",
 		"korean": "사용할 수 없는 문자가 포함되어 있습니다",
+		"arabic": "أحرف غير صالحة لإسم الملف",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -277,6 +298,7 @@
 		"russian":"Имя файла слишком длинное",
 		"chinese": "文件名太长",
 		"korean": "파일 이름이 너무 깁니다",
+		"arabic": "اسم الملف طويل جدا",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -289,6 +311,7 @@
 		"russian":"Имя файла слишком короткое",
 		"chinese": "文件名太短",
 		"korean": "파일 이름이 너무 짧습니다",
+		"arabic": "اسم الملف قصير جدا",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -301,6 +324,7 @@
 		"russian":"Имя файла уже используется",
 		"chinese": "文件名已使用",
 		"korean": "이미 같은 이름의 파일이 있습니다",
+		"arabic": "اسم الملف مستعمل مسبقا",
 	},
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
@@ -313,6 +337,7 @@
 		"russian":"Моды могут быть несовместимы!\nМоды в сохранении:",
 		"chinese": "模组可能不兼容!\n存档已用模组:",
 		"korean": "모드가 호환되지 않을 수 있습니다!\n모드:",
+		"arabic": "التعديلات قد تكون غير متوافقة! \nتعديلات في الحفظ",
 	},
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
@@ -325,6 +350,7 @@
 		"ukrainian":"Відсутні",
 		"chinese": "无",
 		"korean": "없음",
+		"arabic": "لا يوجد",
 	},
 
 
@@ -342,6 +368,18 @@
 		"ukrainian":"Моди та дод. контент",
 		"chinese": "模组和附加内容",
 		"korean": "모드와 부가 콘텐츠",
+		"arabic": "التعديلات والمحتويات الإضافية",
+	},
+	"modsAndExtraContent": {
+		"english": "Mods and Extra Content",
+		"german": "Mods und Zusatzinhalte",
+		"french": "Mods et Contenu Supplémentaire",
+		"spanish": "Mods y Contenido Adicional",
+		"russian":"Моды и доп. контент",
+		"portuguese": "Mods e Conteúdo Extra",
+		"turkish": "Modlar ve İlave İçerik",
+		"ukrainian":"Моди та дод. контент",
+		"chinese": "模组和附加内容",
 	},
 	"author": {
 		"english": "Author",
@@ -354,6 +392,7 @@
 		"ukrainian":"Автор",
 		"chinese": "作者",
 		"korean": "작성자",
+		"arabic": "المؤلف",
 	},
 	"active": {
 		"english": "Active",
@@ -366,6 +405,7 @@
 		"ukrainian":"Активний",
 		"chinese": "启用",
 		"korean": "활성화",
+		"arabic": "نشط",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -378,6 +418,7 @@
 		"ukrainian":"У вас немає встановлених модифікацій або дод. контенту.",
 		"chinese": "您没有安装任何模组或附加内容",
 		"korean": "설치된 모드나 부가 콘텐츠가 없습니다.",
+		"arabic": "لا تملك أي تعديلات أو محتوى إضافي مثبت",
 	},
 	"modsOnRoadmap": {
 		"english": "Mod Support is currently on our Roadmap.\nOur supporters use this menu to manage their supporter packages.",
@@ -390,6 +431,7 @@
 		"ukrainian":"Підтримка модифікацій буде реалізована в майбутньому.\nЦе меню використовується для управління модифікаціями.",
 		"chinese": "模组支持目前在我们的开发路线图中.众筹支持者使用这个菜单来管理他们的众筹附加包.",
 		"korean": "아직은 모드를 지원할 계획입니다.\n이 메뉴는 우리를 후원해준 분들이 후원자 패키지를 관리하기 위해 사용합니다.",
+		"arabic": "دعم التعديلات جزء من خطتنا. \nالداعمون يستخدمون هذة القائمة لإدارة حزم الداعمين",
 	},
 	"openModFolder": {
 		"english": "Open Mod Folder",
@@ -402,6 +444,7 @@
 		"ukrainian":"Відкрити папку з модом",
 		"chinese": "打开模组文件夹",
 		"korean": "모드 폴더 열기",
+		"arabic": "افتح مجلد التعديلات",
 	},
 	"modCompatible_Title": {
 		"english": "Content compatible",
@@ -414,6 +457,7 @@
 		"ukrainian":"Контент сумісний",
 		"chinese": "模组兼容",
 		"korean": "호환 가능",
+		"arabic": "محتوى متوافق",
 	},
 	"modCompatible_Text": {
 		"english": "This content has been marked by the developers as compatible.",
@@ -426,6 +470,7 @@
 		"ukrainian":"Цей контент був відзначений розробниками як сумісний.",
 		"chinese": "开发人员已经将此内容标记为兼容.",
 		"korean": "이 콘텐츠는 개발자가 호환 가능하다고 표시한 콘텐츠입니다.",
+		"arabic": "أشار المطور إليه كحمتوى متوافق",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
@@ -438,6 +483,7 @@
 		"ukrainian":"Контент не сумісний",
 		"chinese": "模组不兼容",
 		"korean": "호환 불가능",
+		"arabic": "محتوى غير متوافق",
 	},
 	"modIncompatible_Text": {
 		"english": "This content has been marked by the developers as incompatible.\nYou need to update it in order to activate it.",
@@ -450,6 +496,7 @@
 		"ukrainian":"Цей контент був відзначений розробниками як несумісний.\nВам потрібно оновити його перед активацією.",
 		"chinese": "开发人员将此内容标记为不兼容.你需要更新它来激活它.",
 		"korean": "이 콘텐츠는 개발자가 호환이 불가능하다고 표시한 콘텐츠입니다.\n활성화하려면 업데이트가 필요합니다.",
+		"arabic": "أشار المطور إليه كمحتوى غير متوافق. \nتحتاج إلى تحديثه لكي تستطيع تفعليه",
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
@@ -462,6 +509,7 @@
 		"ukrainian":"Застосувати і перезапустити",
 		"chinese": "应用并重启",
 		"korean": "적용 후 재시작",
+		"arabic": "تطبيق وإعادة تشغيل",
 	},
 	
 
@@ -478,6 +526,7 @@
 		"russian":"Каждый отзыв помогает нам улучшать игру для вас!",
 		"chinese": "每一条反馈都有助于我们为您改进游戏!",
 		"korean": "작은 피드백도 당신을 위해 게임을 더 좋게 만드는 데에 도움을 줍니다!",
+		"arabic": "كل ملاحظة صغيرة تساعدنا على تحسين اللعبة لأجلك!",
 	},
 	"feedbackType": {
 		"english": "Category",
@@ -491,6 +540,7 @@
 		"russian":"Категория",
 		"chinese": "类别",
 		"korean": "카테고리",
+		"arabic": "الفئة",
 	},
 	"general": {
 		"english": "General",
@@ -504,6 +554,7 @@
 		"russian":"Общая",
 		"chinese": "一般",
 		"korean": "일반",
+		"arabic": "عام",
 	},
 	"bugReport": {
 		"english": "Bug Report",
@@ -517,6 +568,7 @@
 		"russian":"Ошибка",
 		"chinese": "Bug报告",
 		"korean": "버그 신고",
+		"arabic": "إبلاغ عن مشكلة",
 	},
 	"framerate": {
 		"english": "Framerate",
@@ -530,6 +582,7 @@
 		"russian":"FPS",
 		"chinese": "帧率",
 		"korean": "FPS",
+		"arabic": "معدل الإطارات",
 	},
 	"feedback": {
 		"english": "Feedback",
@@ -543,6 +596,7 @@
 		"russian":"Обратная связь",
 		"chinese": "反馈",
 		"korean": "피드백",
+		"arabic": "ملاحظة",
 	},
 	"enterFeedback": {
 		"english": "Enter Feedback...",
@@ -556,6 +610,7 @@
 		"russian":"Оставьте отзыв ...",
 		"chinese": "输入反馈...",
 		"korean": "피드백을 입력해주세요...",
+		"arabic": "أدخل الملاحظة...",
 	},
 	"emailAddressOptional": {
 		"english": "Email Address (optional!)",
@@ -569,6 +624,7 @@
 		"russian":"Адрес электронной почты (необязательно!)",
 		"chinese": "邮箱地址(可选!)",
 		"korean": "이메일 주소 (선택!)",
+		"arabic": "البريد الإلكتروني (اختياري)",
 	},
 	"clickToSubmit": {
 		"english": "Click to submit",
@@ -582,6 +638,7 @@
 		"russian":"Нажмите, чтобы отправить",
 		"chinese": "点击提交",
 		"korean": "보내려면 여기를 클릭",
+		"arabic": "إضغط للإرسال",
 	},
 	"thankYou": {
 		"english": "Thank you!",
@@ -595,6 +652,7 @@
 		"russian":"Спасибо!",
 		"chinese": "感谢!",
 		"korean": "감사합니다!",
+		"arabic": "شكرا!",
 	},
 	"feedbackSubmittedSuccessfully": {
 		"english": "Feedback submitted successfully",
@@ -608,6 +666,7 @@
 		"russian":"Отзыв успешно отправлен",
 		"chinese": "反馈提交成功",
 		"korean": "피드백이 정상적으로 접수되었습니다",
+		"arabic": "تم إرسال الملاحظة بنجاح",
 	},
 	"Oops": {
 		"english": "Oops...",
@@ -621,6 +680,7 @@
 		"russian":"Ой...",
 		"chinese": "哎呦...",
 		"korean": "이런...",
+		"arabic": "اووبس",
 	},
 	"feedbackSystemBug": {
 		"english": "There seems to be a bug in the feedback system.\nPlease try again later or let us know via contact@foundersfortune.com",
@@ -634,6 +694,7 @@
 		"russian":"Кажется, есть ошибка в системе обратной связи.\nПожалуйста, попробуйте позже или сообщите нам об этом по адресу contact@foundersfortune.com",
 		"chinese": "反馈系统似乎出现了问题.\n请稍后再试或通过 contact@foundersfortune.com 告知我们",
 		"korean": "피드백 시스템에 문제가 있는 것 같습니다.\n다음에 다시 시도해주시거나, contact@foundersfortune.com 로 직접 메일을 보내주세요",
+		"arabic": "يبدو ان هنالك خطأ في نظام الملاحظات. \nالرجاء المحاولة لاحقا أو اخبرنا عبر contact@foundersfortune.com",
 	},
 	"feedbackConnectionIssue": {
 		"english": "There seems to be a connection issue\nCould you please check your internet connection?",
@@ -647,6 +708,7 @@
 		"russian":"Кажется, есть проблема с подключением.\nНе могли бы вы проверить подключение к Интернету?",
 		"chinese": "似乎是连接问题.\n你能检查一下你的网络连接吗?",
 		"korean": "인터넷 연결에 문제가 있는 것 같습니다\n인터넷 연결을 한번 확인해주시겠어요?",
+		"arabic": "يبدو ان هنالك مشكلة في الإتصال \nهل يمكنك التحقق من إتصالك رجاءا؟",
 	},
 	"youreWelcome": {
 		"english": "You're Welcome",
@@ -660,6 +722,7 @@
 		"russian":"Добро Пожаловать",
 		"chinese": "不客气",
 		"korean": "천만에요",
+		"arabic": "عفوا",
 	},
 	"retry": {
 		"english": "retry",
@@ -673,6 +736,7 @@
 		"russian":"Повторить попытку",
 		"chinese": "重试",
 		"korean": "재시도",
+		"arabic": "إعادة المحاولة",
 	},
 
 
@@ -689,6 +753,7 @@
 		"russian":"Видео",
 		"chinese": "图像",
 		"korean": "화면",
+		"arabic": "فيديو",
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -702,6 +767,7 @@
 		"russian":"Качество графики",
 		"chinese": "画面质量",
 		"korean": "그래픽 품질",
+		"arabic": "جودة الرسومات",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -714,6 +780,8 @@
 		"ukrainian":"Низько",
 		"russian":"Низкое",
 		"korean": "낮음",
+		"chinese": "低",
+		"arabic": "منخفض",
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -726,6 +794,8 @@
 		"ukrainian":"Середньо",
 		"russian":"Среднее",
 		"korean": "보통",
+		"chinese": "中",
+		"arabic": "متوسط",
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -738,6 +808,8 @@
 		"ukrainian":"Високо",
 		"russian":"Высокое",
 		"korean": "높음",
+		"chinese": "高",
+		"arabic": "عالي",
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -751,6 +823,7 @@
 		"russian":"Разрешение",
 		"chinese": "分辨率",
 		"korean": "해상도",
+		"arabic": "الدقة",
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -764,6 +837,7 @@
 		"russian":"Режим отображения",
 		"chinese": "显示模式",
 		"korean": "화면 모드",
+		"arabic": "نمط الشاشة",
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -777,6 +851,7 @@
 		"russian":"Оконный",
 		"chinese": "窗口",
 		"korean": "창 모드",
+		"arabic": "نافذة",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -790,6 +865,7 @@
 		"russian":"Полноэкранный режим",
 		"chinese": "全屏",
 		"korean": "전체화면 모드",
+		"arabic": "ملء الشاشة",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -803,6 +879,7 @@
 		"russian":"Vsync",
 		"chinese": "垂直同步",
 		"korean": "수직동기화",
+		"arabic": "Vsync",
 	},
 	"on": {
 		"english": "On",
@@ -816,6 +893,7 @@
 		"russian":"Включено",
 		"chinese": "开",
 		"korean": "켬",
+		"arabic": "تشغيل",
 	},
 	"off": {
 		"english": "Off",
@@ -829,6 +907,7 @@
 		"russian":"Выключено",
 		"chinese": "关",
 		"korean": "끔",
+		"arabic": "تعطيل",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -842,6 +921,7 @@
 		"russian":"Яркость",
 		"chinese": "亮度",
 		"korean": "밝기",
+		"arabic": "السطوع",
 	},
 	"audio": {
 		"english": "Audio",
@@ -855,6 +935,7 @@
 		"russian":"Аудио",
 		"chinese": "音频",
 		"korean": "소리",
+		"arabic": "الصوت",
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -868,6 +949,7 @@
 		"russian":"Общая громкость",
 		"chinese": "总音量",
 		"korean": "전체 볼륨",
+		"arabic": "الصوت الكلي",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -881,6 +963,7 @@
 		"russian":"Звуковые эффекты",
 		"chinese": "音效",
 		"korean": "음향 효과",
+		"arabic": "صوت التأثيرات",
 	},
 	"music": {
 		"english": "Music",
@@ -894,6 +977,7 @@
 		"russian":"Музыка",
 		"chinese": "音乐",
 		"korean": "배경음악",
+		"arabic": "الموسيقى",
 	},
 	"other": {
 		"english": "Other",
@@ -907,6 +991,7 @@
 		"russian":"Другое",
 		"chinese": "其他",
 		"korean": "기타",
+		"arabic": "أخرى",
 	},
 	"language": {
 		"english": "Language",
@@ -920,6 +1005,7 @@
 		"russian":"Язык",
 		"chinese": "语言",
 		"korean": "언어",
+		"arabic": "اللغة",
 	},
 
 
@@ -936,6 +1022,7 @@
 		"russian":"English",
 		"chinese": "English",
 		"korean": "English",
+		"arabic": "English",
 	},
 	"german": {
 		"english": "Deutsch",
@@ -949,6 +1036,7 @@
 		"russian":"Deutsch",
 		"chinese": "Deutsch",
 		"korean": "Deutsch",
+		"arabic": "Deutsch",
 	},	
 	"french": {
 		"english": "Français",
@@ -962,6 +1050,7 @@
 		"russian":"Français",
 		"chinese": "Français",
 		"korean": "Français",
+		"arabic": "Français",
 	},	
 	"spanish": {
 		"english": "Español",
@@ -975,6 +1064,7 @@
 		"russian":"Español",
 		"chinese": "Español",
 		"korean": "Español",
+		"arabic": "Español",
 	},
 	"portuguese": {
 		"english": "Portuges",
@@ -988,6 +1078,7 @@
 		"russian":"Portuges",
 		"chinese": "Portuges",
 		"korean": "Portuges",
+		"arabic": "Portuges",
 	},
 	"turkish": {
 		"english": "Türkçe",
@@ -1001,6 +1092,7 @@
 		"russian":"Türkçe",
 		"chinese": "Türkçe",
 		"korean": "Türkçe",
+		"arabic": "Türkçe",
 	},
 	"dutch": { 
 		"english": "Nederlands",
@@ -1014,6 +1106,7 @@
 		"russian":"Nederlands",
 		"chinese": "Nederlands",
 		"korean": "Nederlands",
+		"arabic": "Nederlands",
 	},
 	"ukrainian": { 
 		"english": "Українська",
@@ -1027,6 +1120,7 @@
 		"russian":"Українська",
 		"chinese": "Українська",
 		"korean": "Українська",
+		"arabic": "Українська",
 	},
 	"russian": { 
 		"english": "Русский",
@@ -1040,6 +1134,7 @@
 		"russian":"Русский",
 		"chinese": "Русский",
 		"korean": "Русский",
+		"arabic": "Русский",
 	},
 	"chinese": { 
 		"english": "简体中文",
@@ -1052,6 +1147,7 @@
 		"ukrainian":"简体中文",
 		"russian":"简体中文",
 		"chinese": "简体中文",
+		"arabic": "简体中文",
 		"korean": "简体中文",
 	},
 	"korean": { 
@@ -1066,6 +1162,21 @@
 		"russian":"한국어",
 		"chinese": "한국어",
 		"korean": "한국어",
+		"arabic": "한국어",
+	},
+	"arabic": { 
+		"english": "العربية",
+		"german": "العربية",
+		"french": "العربية",
+		"spanish": "العربية",
+		"turkish": "العربية",
+		"portuguese": "العربية",
+		"dutch": "العربية",
+		"ukrainian":"العربية",
+		"russian":"العربية",
+		"chinese": "العربية",
+		"korean": "العربية",
+		"arabic": "العربية",
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -1079,6 +1190,7 @@
 		"russian":"Прокрутка мыши",
 		"chinese": "鼠标边界滚动",
 		"korean": "가장자리에서 화면 끌기",
+		"arabic": "تحريك الفأرة على الأطراف",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -1092,6 +1204,7 @@
 		"russian":"Активность игры в фоне",
 		"chinese": "开启游戏背景",
 		"korean": "백그라운드에서 게임 활성화",
+		"arabic": "اللعبة نشطة في الخلفية",
 	},
 
 
@@ -1108,6 +1221,7 @@
 		"russian":"Загрузка Мира ...",
 		"chinese": "加载世界...",
 		"korean": "세상을 불러오는 중...",
+		"arabic": "تحميل العالم...",
 	},
 	"reset": {
 		"english": "Reset",
@@ -1121,6 +1235,7 @@
 		"russian":"Сбросить",
 		"chinese": "重置",
 		"korean": "초기화",
+		"arabic": "إعادة تعيين",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -1134,6 +1249,7 @@
 		"russian":"Подтвердить",
 		"chinese": "继续",
 		"korean": "확인",
+		"arabic": "تأكيد",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -1147,6 +1263,7 @@
 		"russian":"Отменить",
 		"chinese": "取消",
 		"korean": "취소",
+		"arabic": "إلغاء",
 	},
 	"apply": {
 		"english": "Apply",
@@ -1160,6 +1277,7 @@
 		"russian":"Применить",
 		"chinese": "应用",
 		"korean": "적용",
+		"arabic": "تطبيق",
 	},
 
 
@@ -1176,6 +1294,7 @@
 		"russian":"Управление камерой",
 		"chinese": "镜头控制",
 		"korean": "카메라 컨트롤",
+		"arabic": "التحكم بالكاميرا",
 	},
 	"keyBindings": {
 		"english": "Key Bindings",
@@ -1189,6 +1308,7 @@
 		"russian":"Настройки управления",
 		"chinese": "绑定按键",
 		"korean": "키보드 매핑",
+		"arabic": "اختصارات لوحة المفاتيح",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1202,6 +1322,7 @@
 		"russian":"Вперед",
 		"chinese": "向前",
 		"korean": "앞으로",
+		"arabic": "أمام",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -1215,6 +1336,7 @@
 		"russian":"Назад",
 		"chinese": "向后",
 		"korean": "뒤로",
+		"arabic": "خلف",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -1228,6 +1350,7 @@
 		"russian":"Влево",
 		"chinese": "向左",
 		"korean": "왼쪽으로",
+		"arabic": "يسار",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -1241,6 +1364,7 @@
 		"russian":"Вправо",
 		"chinese": "向右",
 		"korean": "오른쪽으로",
+		"arabic": "يمين",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -1254,6 +1378,7 @@
 		"russian":"Поворот",
 		"chinese": "旋转",
 		"korean": "회전",
+		"arabic": "استدارة",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1267,6 +1392,7 @@
 		"russian":"Управление временем",
 		"chinese": "时间控制",
 		"korean": "빠르기 조절",
+		"arabic": "التحكم بالوقت",
 	},
 	"pause": {
 		"english": "Pause",
@@ -1280,6 +1406,7 @@
 		"russian":"Пауза",
 		"chinese": "暂停",
 		"korean": "일시정지",
+		"arabic": "إيقاف",
 	},
 	"normalSpeed": {
 		"english": "Normal Speed",
@@ -1293,6 +1420,7 @@
 		"russian":"Обычная Скорость",
 		"chinese": "普通速度",
 		"korean": "일반 속도",
+		"arabic": "سرعة عادية",
 	},
 	"2xSpeed": {
 		"english": "2x Speed",
@@ -1306,6 +1434,7 @@
 		"russian":"2х Скорость",
 		"chinese": "2倍速度",
 		"korean": "2배속",
+		"arabic": "سرعة x2",
 	},
 	"4xSpeed": {
 		"english": "4x Speed",
@@ -1319,6 +1448,7 @@
 		"russian":"4х Скорость",
 		"chinese": "4倍速度",
 		"korean": "4배속",
+		"arabic": "سرعة x4",
 	},
 	"colonistInteraction": {
 		"english": "Colonist Interaction",
@@ -1332,6 +1462,7 @@
 		"russian":"Управление колонистами",
 		"chinese": "殖民者交互",
 		"korean": "개척자와 상호작용",
+		"arabic": "تفاعل المستعمر",
 	},
 	"multipleOrders": {
 		"english": "Multiple Orders",
@@ -1345,6 +1476,7 @@
 		"russian":"Выбор нескольких действий",
 		"chinese": "多任务",
 		"korean": "여러개의 명령 내리기",
+		"arabic": "أوامر متعددة",
 	},
 	"furnitureHandling": {
 		"english": "Furniture Handling",
@@ -1358,6 +1490,7 @@
 		"russian":"Поворот мебели",
 		"chinese": "家具处理",
 		"korean": "가구 움직이기",
+		"arabic": "التعامل مع الأثاث",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -1371,6 +1504,7 @@
 		"russian":"Поворот влево",
 		"chinese": "向左旋转",
 		"korean": "왼쪽으로 회전",
+		"arabic": "استدارة لليسار",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -1384,6 +1518,7 @@
 		"russian":"Поворот вправо",
 		"chinese": "向右旋转",
 		"korean": "오른쪽으로 회전",
+		"arabic": "استدارة لليمين",
 	},
 	"precisionPlacement": {
 		"english": "Precision Placement",
@@ -1396,6 +1531,7 @@
 		"ukrainian":"Точне розміщення",
 		"chinese": "精确放置",
 		"korean": "정밀한 배치",
+		"arabic": "موضع دقيق",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -1409,6 +1545,7 @@
 		"russian":"Разное",
 		"chinese": "杂项",
 		"korean": "기타",
+		"arabic": "متنوع",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -1422,6 +1559,7 @@
 		"russian":"Скриншот",
 		"chinese": "截图",
 		"korean": "스크린샷",
+		"arabic": "لقطة شاشة",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1435,6 +1573,7 @@
 		"russian":"Открыть папку скриншотов",
 		"chinese": "打开截图文件夹",
 		"korean": "스크린샷 폴더 열기",
+		"arabic": "افتح مجلد لقطات الشاشة",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -1448,6 +1587,7 @@
 		"russian":"Показать FPS",
 		"chinese": "显示FPS",
 		"korean": "FPS 확인",
+		"arabic": "اظهر معدل الإطارات",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -1461,6 +1601,7 @@
 		"russian":"Левая кнопка мыши",
 		"chinese": "鼠标左键",
 		"korean": "마우스 왼쪽 버튼",
+		"arabic": "زر الفأرة الأيسر",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -1474,6 +1615,7 @@
 		"russian":"Правая кнопка мыши",
 		"chinese": "鼠标右键",
 		"korean": "마우스 오른쪽 버튼",
+		"arabic": "زر الفأرة الأيمن",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -1487,6 +1629,7 @@
 		"russian":"Средняя кнопка мыши",
 		"chinese": "鼠标中键",
 		"korean": "마우스 가운데 버튼",
+		"arabic": "زر الفأرة الأوسط",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -1500,6 +1643,7 @@
 		"russian":"Пробел",
 		"chinese": "空格",
 		"korean": "스페이스",
+		"arabic": "مسافة",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -1513,6 +1657,7 @@
 		"russian":"Shift (слева)",
 		"chinese": "Shift (左)",
 		"korean": "Shift (왼쪽)",
+		"arabic": "Shift (يسار)",
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
@@ -1526,6 +1671,7 @@
 		"russian":"Shift (справа)",
 		"chinese": "Shift (右)",
 		"korean": "Shift (오른쪽)",
+		"arabic": "Shift (يمين)",
 	},
 	"key_LeftAlt": {
 		"english": "Alt (left)",
@@ -1539,6 +1685,7 @@
 		"russian":"Alt (слева)",
 		"chinese": "Alt (左)",
 		"korean": "Alt (왼쪽)",
+		"arabic": "Alt (يسار)",
 	},
 	"key_RightAlt": {
 		"english": "Alt (right)",
@@ -1552,6 +1699,7 @@
 		"russian":"Alt (справа)",
 		"chinese": "Alt (右)",
 		"korean": "Alt (오른쪽)",
+		"arabic": "Alt (يمين)",
 	},
 	"key_LeftControl": {
 		"english": "Control (left)",
@@ -1565,6 +1713,7 @@
 		"russian":"Ctrl (слева)",
 		"chinese": "Ctrl (左)",
 		"korean": "Ctrl (왼쪽)",
+		"arabic": "Ctrl (يسار)",
 	},
 	"key_RightControl": {
 		"english": "Control (right)",
@@ -1578,6 +1727,7 @@
 		"russian":"Ctrl (справа)",
 		"chinese": "Ctrl (右)",
 		"korean": "Ctrl (오른쪽)",
+		"arabic": "Ctrl (يمين)",
 	},
 	"key_CapsLock": {
 		"english": "Caps Lock",
@@ -1591,6 +1741,7 @@
 		"russian":"Caps Lock",
 		"chinese": "大写锁定键",
 		"korean": "Caps Lock",
+		"arabic": "Caps Lock",
 	},
 
 
@@ -1607,6 +1758,7 @@
 		"russian":"Игра окончена!",
 		"chinese": "游戏结束!",
 		"korean": "게임 오버!",
+		"arabic": "انتهت اللعبة!",
 	},
 	"backToMainMenu": {
 		"english": "Back to the Main Menu",
@@ -1620,6 +1772,7 @@
 		"russian":"Вернуться в главное меню",
 		"chinese": "返回主菜单",
 		"korean": "메인 메뉴로 돌아가기",
+		"arabic": "العودة للقائمة الرئيسية",
 	},
 	"yourColonyHasPerished": {
 		"english": "Your Colony has perished!",
@@ -1633,6 +1786,7 @@
 		"russian":"Ваша колония погибла!",
 		"chinese": "你的殖民者已死亡!",
 		"korean": "당신의 개척지가 소멸했습니다!",
+		"arabic": "مستعمرتك هلكت!",
 	},
 	"totalPlayTime": {
 		"english": "Total Play Time",
@@ -1646,6 +1800,7 @@
 		"russian":"Общее время в игре",
 		"chinese": "总游戏时间",
 		"korean": "총 플레이 시간",
+		"arabic": "وقت اللعبة الكلي",
 	},
 	"averageHappiness": {
 		"english": "Average Happiness",
@@ -1659,6 +1814,7 @@
 		"russian":"Среднее Счастье",
 		"chinese": "平均幸福",
 		"korean": "평균 행복도",
+		"arabic": "متوسط السعادة",
 	},
 	"totalResearchCollected": {
 		"english": "Research collected",
@@ -1672,6 +1828,7 @@
 		"russian":"Собранные исследования",
 		"chinese": "研究收集",
 		"korean": "총 연구량",
+		"arabic": "الأبحاث التي جمعت",
 	},
 	"totalNativesKilled": {
 		"english": "Tikigoblins Killed",
@@ -1685,6 +1842,7 @@
 		"russian":"Тикигоблинов убито",
 		"chinese": "击杀土著哥布林",
 		"korean": "죽인 티키고블린 수",
+		"arabic": "عفريت تيكي مقتول",
 	},
 	"maxNumberOfColonists": {
 		"english": "Max. Number of Colonists",
@@ -1698,6 +1856,7 @@
 		"russian":"Макс. Количество Колонистов",
 		"chinese": "殖民者人数上限",
 		"korean": "최대 개척자 수",
+		"arabic": "العدد الأقصى للمستعمرين",
 	},
 	"uiStepBack": {
 		"english": "Back",
@@ -1711,6 +1870,7 @@
 		"russian":"Назад",
 		"chinese": "返回",
 		"korean": "뒤로가기",
+		"arabic": "رجوع",
 	},
 
 
@@ -1727,32 +1887,35 @@
 		"russian":"Начать игру",
 		"chinese": "开始游戏",
 		"korean": "시작하기",
+		"arabic": "بدء اللعبة",
 	},
 	"selectStartingColonists": {
 		"english": "Select Starting Colonists",
 		"german": "Wähle Kolonisten aus",
 		"french": "Sélectionner les Colons de Départ",
 		"spanish": "Seleccionar colonos iniciales",
-		"turkish": "İlk kolonicileri seç",
+		"turkish": "İlk yerleşimcileri seç",
 		"portuguese": "Selecione colonos iniciais",
 		"dutch": "Selecteer Kolonisten om mee te beginnen",
 		"ukrainian":"Виберіть Стартових Колоністів",
 		"russian":"Выберите Стартовых Колонистов",
 		"chinese": "选择初始殖民者",
 		"korean": "시작시 함께할 개척자를 골라주세요.",
+		"arabic": "حدد مستعمرين للبدء بهم",
 	},
 	"randomColonist": {
 		"english": "Random Colonist",
 		"german": "Zufälliger Kolonist",
 		"french": "Colon Aléatoire",
 		"spanish": "Colono aleatorio",
-		"turkish": "Rasgele kolonici",
+		"turkish": "Rasgele yerleşimci",
 		"portuguese": "Colono Aleatório",
 		"dutch": "Willekeurge Kolonist",
 		"ukrainian":"Випадковий колоніст",
 		"russian":"Случайный Колонист",
 		"chinese": "随机殖民者",
 		"korean": "랜덤 개척자",
+		"arabic": "مستعمر عشوائي",
 	},
 	"selectDifficulty": {
 		"english": "Select Difficulty",
@@ -1766,6 +1929,7 @@
 		"russian":"Выберите Сложность",
 		"chinese": "选择难度",
 		"korean": "난이도 선택",
+		"arabic": "اختر الصعوبة",
 	},
 	"difficulty_0_Title": {
 		"english": "Calm World",
@@ -1779,19 +1943,21 @@
 		"russian":"Спокойный мир",
 		"chinese": "和平世界",
 		"korean": "조용한 세계",
+		"arabic": "عالم هادئ",
 	},
 	"difficulty_0_Desc": {
 		"english": "A more relaxing experience if you prefer creative base building over combat and survival.\nYour colonists take only half damage from all kinds of injuries.\nThe colony starts with 100 meals, colonists need less food, and can survive on smaller food rations.\nWatered plants yield higher harvests.\nYour colonists will still die if you don't take care of them!",
 		"german": "Ein entspannteres Spiel falls du kreatives Bauen gegenüber Überlebenskämpfen vorziehst.\nDeine Kolonisten bekommen nur halb so viel Schaden bei allen Arten von Verletzungen.\nDie Kolonie startet mit 100 Mahlzeiten, Kolonisten benötigen weniger Essen und überleben kleinere Essensrationen.\nBewässerte Pflanzen geben höhere Erträge.\nDeine Kolonisten werden immer noch sterben, wenn du dich nicht um sie kümmerst!",
 		"french": "Une expérience plus relaxante si vous préférez construire des bases créatives plutôt que le combat et la survie. Vos colons prendront seulement la moitié des dégâts en cas de blessures.\nLa colonie démarre avec 100 repas, les colons ont besoin de moins de nourriture et peuvent survivre avec de faibles rations alimentaires.\nLes plantes arrosées produisent des récoltes plus élevées. Vos colons pourront toujours mourir !",
 		"spanish": "Una experiencia más relajante si prefieres la creación de una base a tu gusto, sobre el combate y la supervivencia.\nLos colonos solo reciben la mitad de daño de todo tipo de lesiones.\nLa colonia comienza con 100 de comida, los colonos necesitan menos comida y pueden sobrevivir con raciones de alimentos más pequeñas.\nLas plantas cultivadas rinden más cosechas.\n¡Tus colonos seguirán muriendo si no los cuidas!",
-		"turkish": "Savaş ve hayatta kalma zorlukları yerine sakin ve yaratıcı bir üs kurma imkanı.\nKolonicileriniz her türlü yaralanmadan ili kat daha az zarar görür.\nKoloni 100 yemekle başlar, kolonicileriniz daha az yemeğe ihtiyaç duyar, ve daha az yemekle hayatta kalabilir.\nSulanan bitkiler daha fazla hasat verir.\nAncak yine de onlarla ilgilenmezseniz kolonicileriniz ölebilir!",
+		"turkish": "Savaş ve hayatta kalma zorlukları yerine sakin ve yaratıcı bir üs kurma imkanı.\nYerleşimcileriniz her türlü yaralanmadan ili kat daha az zarar görür.\nYerleşim 100 yemekle başlar, yerleşimcileriniz daha az yemeğe ihtiyaç duyar, ve daha az yemekle hayatta kalabilir.\nSulanan bitkiler daha fazla hasat verir.\nAncak yine de onlarla ilgilenmezseniz yerleşimcileriniz ölebilir!",
 		"portuguese": "Uma experiência mais relaxante se você preferir construir base criativa em combate e sobrevivência.\nOs colonos sofrem apenas metade do dano causado por todos os tipos de ferimentos.\nA colônia começa com 100 refeições, colonos precisam de menos comida e podem sobreviver com rações menores.\nPlantas plantadas produzem colheitas mais altas.\nOs colonos ainda morrerão se você não cuidar deles!",
 		"dutch": "Een meer ontspannende ervaring als je van creatieve Basis Bouwen houdt over vechten en Overleving.\nJouw kolonisten nemen alleen maar de helft van de schade van elke soort verwonding.\nDe kolonie begint met 100 maaltijden, Kolonisten hebben minder eten nodig, en ze kunnen overleven met kleinere voedselrantoenen.\nGewaterde planten maken grotere oogsten.\nJouw kolonisten gaan nogsteeds dood als je niet voor ze zorgt!",
 		"ukrainian":"Більш розслабляюча гра для тих, хто надають перевагу будівництву чим бою та виживанню.\nВаші колоністи получають лише половину шкоди від усіх видів травм.\nКолонія починається з 100 од. їжі, колоністам потрібно менше їжі щоб вижити.\nПолив рослин дає більш високі врожаї.\nВаші колоністи все одно помирають, якщо ви не піклуєтесь про них!",
 		"russian":"Более расслабляющая игра для тех, кто предпочитает строительство сражению и выживанию.\nВаши колонисты получают лишь половину урона от любых травм.\nВ начале игры колония имеет 100 ед. пищи, колонистам требуется меньше еды для выживания.\nПолив растений дает более высокие урожаи.\nВаши колонисты будут умирать, если вы не будете о них заботиться!",
 		"chinese": "如果您更喜欢创造性的建设而不是战斗和生存,那么您将获得更轻松的体验.\n您的殖民者只会受到各种伤害的一半.\n殖民地开始时有100食物,殖民者需要的食物较少,且能够在较小的食物分配下生存.\n水生植物会有更高的收成.\n但如果你不照顾它们,你的殖民者仍会死!",
 		"korean": "여유로운 플레이를 즐길 수 있습니다. 만약 전투와 생존보다 창의적인 건물을 짓는 것에 관심이 있다면 이 세계를 선택하세요.\n당신의 개척자들은 모든 종류의 부상에서 절반의 대미지만을 입습니다.\n개척지는 100의 식량을 가지고 시작하며, 개척자들은 음식을 덜 먹으며, 적은 배급량으로도 생존할 수 있습니다.\n물을 뿌린 식물에서 더 많이 수확할 수 있습니다.\n그렇다고 개척자들을 돌보지 않는다면, 죽음에 이를 수 있습니다!",
+		"arabic": "تجربة أكثر راحة إذا كنت تفضل البناء الإبداعي على القتال والنجاة.\nمستعمريك يتلقون نصف الضرر من كل أنواع الإصابات.\nالمستعمرة تبدأ مع 100 وجبة والمستعمرين يحتاجون طعام أقل ويستطيعون النجاة مع دورات طعام اصغر.\nالنباتات تنتج محصول أكثر.\nما زالت إمكانية موت مستعمريك إذا لم تعتني بهم!",
 	},
 	"difficulty_1_Title": {
 		"english": "Exciting World",
@@ -1805,19 +1971,21 @@
 		"russian":"Захватывающий мир",
 		"chinese": "正常世界",
 		"korean": "흥미로운 세계",
+		"arabic": "عالم مثير",
 	},
 	"difficulty_1_Desc": {
 		"english": "The typical Founders' Fortune experience, mixing base building with survival.\nThe colony starts with 40 meals.\nSometimes colonists may die even though you try your best.",
 		"german": "Die typische Founders' Fortune Mischung aus kreativem Bauen und Überlebenskampf.\nDie Kolonie startet mit 40 Mahlzeiten.\nManchmal könnten Kolonisten sterben, auch wenn du dein Bestes gibst.",
 		"french": "L'expérience classique de Founders' Fortune, un mix entre la construction de bâtiments et la survie.\nLa colonie démarre avec 40 repas.\nParfois les colons pourront mourrir même si vous faites de votre mieux.",
 		"spanish": "La experiencia típica de Founders' Fortune, combinando la construcción de bases con la supervivencia. La colonia comienza con 40 de comida. A veces, los colonos pueden morir, incluso si haces tu mejor esfuerzo ",
-		"turkish": "Tipik Founders' Fortune deneyimi, üs kurmayla hayatta kalma karışımı.\nKoloni 40 yemekle başlar.\nElinizden geleni yapmanıza rağmen kolonicileriniz ölebilir.",
+		"turkish": "Tipik Founders' Fortune deneyimi, üs kurmayla hayatta kalma karışımı.\nYerleşim 40 yemekle başlar.\nElinizden geleni yapmanıza rağmen yerleşimcileriniz ölebilir.",
 		"portuguese": "A experiência típica dos Founder's Fortune, misturando a base com a sobrevivência.\nA colônia começa com 40 refeições.\nAlgumas vezes os colonos podem morrer mesmo que você tente o seu melhor.",
 		"dutch": "De gewoonlijke Founders' Fortune ervaring, Basis bouwen gemixed met overleven.\nDe kolonie begint met 40 maaltijden.\nSoms kunnen Kolonisten dood gaan ookal doe je je best.",
 		"ukrainian":"Середнія важкість гри в Founder's Fortune, змішуючи будівництво бази з виживанням.\nКолонія починається з 40 од. їжі.\nІноді колоністи можуть померти, навіть якщо ви стараєтесь зробити все можливе.",
 		"russian":"Средняя сложность игры в Founders' Fortune, которая совмещает строительство и выживание.\nВ начале игры колония имеет 40 ед. пищи.\nИногда колонисты могут умереть, даже если вы стараетесь изо всех сил.",
 		"chinese": "正常的 Founders' Fortune 游戏体验,将基地建设与生存相结合.\n殖民地开始有40食物.\n有时殖民者可能会死,即使你尽力而为.",
 		"korean": "마을을 만들고 생존을 추구하는 전형적인 Founder's Fortune을 경험할 수 있습니다.\n개척지는 40의 식량을 가지고 시작합니다.\n최선을 다하지 않는다면, 가끔 개척자들이 죽음을 마주할지도 모릅니다.",
+		"arabic": "التجربة النموذجية لـFounders' Fortune، مزج بين البناء والنجاة.\nالمستعمرة تبدأ مع 40 وجبة.\nاحيانا يموت المستعمرون حتى مع محاولتك بأفضل ما لديك",
 	},
 	"difficulty_2_Title": {
 		"english": "Dangerous World",
@@ -1831,19 +1999,21 @@
 		"russian":"Опасный мир",
 		"chinese": "危险世界",
 		"korean": "위험한 세계",
+		"arabic": "عالم خطير",
 	},
 	"difficulty_2_Desc": {
 		"english": "The world is a harsh place, so good luck trying to survive with fragile little colonists.\nYour colonists take 50% more damage from all kinds of injuries.\nThe colony starts with 10 meals and colonists get hungry more quickly.\nCatastrophes happen more often.\nA challenge for veteran players.",
 		"german": "Die Welt ist hart, also viel Glück bei dem Versuch mit verletztlichen kleinen Kolonisten zu überleben. \nDeine Kolonisten bekommen 50% mehr Schaden bei allen Arten von Verletzungen.\nDie Kolonie startet mit 10 Mahlzeiten und Kolonisten werden schneller hungrig.\nKatastrophen passieren mit höherer Wahrscheinlichkeit.\nEine Herausforderung für erfahrene Spieler.",
 		"french": "Le monde est rude, donc bon courage pour tenter de survivre avec ces petits colons fragiles.\nVos colons prendront 50% de dégâts en plus lors des blessures.\nLa colonie démarre avec 10 repas et les colons ont faim plus rapidement.\nLes catastrophes sont plus fréquentes. Un challenge pour les joueurs vétérans.",
 		"spanish": "El mundo es un lugar difícil, así que buena suerte tratando de sobrevivir con estos frágiles colonos.\nLos colonos reciben un 50% más de daño de todo tipo de lesiones.\nLa colonia comienza con 10 de comida y los colonos tienen hambre más rápido.\nLas catástrofes ocurren con más frecuencia.\nUn desafío para jugadores veteranos.",
-		"turkish": "Dünya zorlu bir yer, küçük, kırılgan kolonicilerinizle hayatta kalmanız için bol şansa ihtiyacınız var.\nKolonicileriniz yaralanmalardan %50 daha fazla hasar görür.\nKoloni 10 yemekle başlar, ve kolonicileriniz daha çabuk acıkır.\nDaha sık facia yaşanır.\nTecrübeli oyuncular için zorlu bir deneyim.",
+		"turkish": "Dünya zorlu bir yer, küçük, kırılgan yerleşimcilerinizle hayatta kalmanız için bol şansa ihtiyacınız var.\nYerleşimcileriniz yaralanmalardan %50 daha fazla hasar görür.\nYerleşim 10 yemekle başlar, ve yerleşimcileriniz daha çabuk acıkır.\nDaha sık facia yaşanır.\nTecrübeli oyuncular için zorlu bir deneyim.",
 		"portuguese": "O mundo é um lugar difícil, por isso boa sorte tentando sobreviver com pequenos colonos frágeis. \nOs colonos recebem 50% a mais de dano de todos os tipos de ferimentos. \nA colônia começa com 10 refeições e os colonos ficam com fome mais rapidamente. \nAs catástrofes acontecem mais muitas vezes. \nUm desafio para jogadores veteranos.",
 		"dutch": "De wereld is een harde plek, dus veel geluk met het overleven met zwakke kolonisten.\nJouw kolonisten nemen 50% meer schade van alle soorten Verwondingen.\nDe Kolonie begint met 10 maaltijden en kolonisten krijgen sneller honger.\nCatastrofaale dingen gebeuren vaker.\nEen uitdaging voor veteraan spelers",
 		"ukrainian":"Світ - це суворе місце, тому бажаємо вам удачі вижити з слабкими колоністами.\nВаші колоністи отримують на 50% більше шкоди від усіх видів травм.\nКолонія починається з 10 од. їжі, колоністам потрібно більше добавок для виживання.\nКатастрофи трапляються частіше .\nВиклик для гравців-ветеранів",
 		"russian":"Мир - это суровое место, так что желаем вам удачи выжить со слабыми колонистами.\nВаши колонисты получают на 50% больше урона от любых травм.\nВ начале игры колония имеет 10 ед. пищи, колонистам требуется больше еды для выживания.\nКатастрофы случаются чаще.\nПодходит для опытных игроков.",
 		"chinese": "这个世界十分凶险,祝你好运,带着你弱小的殖民者生存下来.\n你的殖民者受到各种伤害的伤害增加50%.\n殖民地开始有10食物,殖民者更快地饥饿.\n灾难经常发生.\n资深玩家的挑战.",
 		"korean": "세계는 가혹한 곳입니다. 그러니 연약한 작은 개척자들과 생존해나가려는 당신에게 행운을 빕니다.\n개척자들은 모든 종류의 부상에서 50% 더 많은 대미지를 입습니다.\n개척지는 10의 식량을 가지고 시작하며, 배가 빠르게 꺼집니다.\n자연재해가 좀 더 자주 일어납니다.\n도전하는 베테랑 플레이어들을 위한 세계입니다.",
+		"arabic": "العالم مكان قاس، لذلك حظا موفقا في النجاة مع مستعمرين صغار هشين",
 	},
 	"continue": {
 		"english": "Continue",
@@ -1857,6 +2027,7 @@
 		"russian":"Продолжить",
 		"chinese": "继续",
 		"korean": "계속",
+		"arabic": "اكمل",
 	},
 	"add": {
 		"english": "Add",
@@ -1870,6 +2041,7 @@
 		"russian":"Добавить",
 		"chinese": "添加",
 		"korean": "추가",
+		"arabic": "أضف",
 	},
 	"remove": {
 		"english": "Remove",
@@ -1883,6 +2055,7 @@
 		"russian":"Удалить",
 		"chinese": "移除",
 		"korean": "제거",
+		"arabic": "أزل",
 	},
 	"select": {
 		"english": "Select",
@@ -1895,6 +2068,7 @@
 		"russian":"Выбрать",
 		"chinese": "选择",
 		"korean": "선택",
+		"arabic": "اختر",
 	},
 	"unableToLoadSaveFile": {
 		"english": "Unable to load save file",
@@ -1907,6 +2081,7 @@
 		"portuguese": "Não é possível carregar o arquivo salvo",
 		"chinese": "无法加载存档文件",
 		"korean": "세이브 파일을 불러올 수 없습니다.",
+		"arabic": "غير قادر على تحميل ملف الحفظ",
 	},
 	"unableToLoadSaveFileText": {
 		"english": "The game could not read your save file. Sorry!\nPlease try again first. If it keeps happening, send your save file to daniel@foundersfortune.com so I can investigate the error and try to get a fix into the next update.\nThanks for your help!",
@@ -1919,5 +2094,6 @@
 		"portuguese": "O jogo não pôde ler seu arquivo salvo. Desculpe! \nPor favor, tente novamente primeiro. Se continuar acontecendo, envie seu arquivo salvo para daniel@foundersfortune.com para que eu possa investigar o erro e tentar corrigir a próxima atualização. \nAgradecemos sua ajuda!",
 		"chinese": "游戏无法读取您的存档文件. 对不起!\n请再试试. 如果它一直无法读取,请将您的存档文件发送到邮箱:daniel@foundersfortune.com,以便我可以在调查错误并尝试在下一次更新时修复.\n感谢您的帮助!",
 		"korean": "세이브 파일을 읽을 수 없습니다. 죄송해요!\n일단 다시 시도해보세요. 증상이 반복된다면, 세이브 파일을 daniel@foundersfortune.com 으로 보내주세요. 제가 조사해보고 다음 업데이트땐 이런 일이 없도록 고치려고 노력해볼게요.\n도움을 주셔서 고맙습니다!",
+		"arabic": "اللعبة لم تستطع قراءة ملف الحفظ. نأسف!\nالرجاء المحاولة مرة اخرى اولا. اذا تكررت المشكلة، أرسل ملف الحفظ إلى daniel@foundersfortune.com لكي استطيع تفحص الخطأ ومحاولة حله في التحديث القادم.\nشكرا لمساعدتك!",
 	}
 }

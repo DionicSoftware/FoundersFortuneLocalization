@@ -2,6 +2,7 @@
 - colony / colonist : 식민지로 번역하긴 뭐하니, 개척지 / 개척자. 
 - settler: 똑같이 개척자로 번역
 - base : 마을
+- migrant : 이주자
 
 ## 개척자 상태
 - mood : 기분

@@ -18,7 +18,7 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 ## Custom.txt:
 ```
 Game Version:
-Alpha 8.0.3
+Alpha 8.0.5
 Forced Language:
 english
 ```

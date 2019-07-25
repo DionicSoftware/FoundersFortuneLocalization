@@ -3,6 +3,7 @@
 	// SMALL FEEDBACK TO PLAYER ACTIONS
 	"notEnoughResources": {
 		"english": "Not enough Resources!",
+		"dutch": "Niet genoeg middelen!",
 		"german": "Nicht genug Ressourcen!",
 		"french": "Pas assez de ressources !",
 		"spanish": "¡No hay suficientes recursos!",
@@ -14,6 +15,7 @@
 	},
 	"cantBuildThisCloseToWater": {
 		"english": "Can't build this close to water!",
+		"dutch":  "Kan dit niet dicht bij water bouwen!",
 		"german": "Kann nicht so nah am Wasser bauen!",
 		"french": "Impossible de construire près de l'eau !",
 		"spanish": "¡No se puede construir esto cerca del agua!",
@@ -25,6 +27,7 @@
 	},
 	"placeBlocked": {
 		"english": "This Place is blocked by something!",
+		"dutch":  "Deze plaats is geblokkeerd door iets!",
 		"german": "Dieser Platz ist von etwas anderem belegt!",
 		"french": "Cet endroit est bloqué par quelque chose !",
 		"spanish": "¡Este lugar está bloqueado por algo!",
@@ -36,6 +39,7 @@
 	},
 	"needsToBeBuiltAtWall": {
 		"english": "Needs to be built at a wall!",
+		"dutch":  "Moet tegen een muur worden gebouwd!",
 		"german": "Muss bei einer Wand gebaut werden!",
 		"french": "A besoin d'être construit comme un mur !",
 		"spanish": "¡Necesita ser construido en una pared!",
@@ -47,6 +51,7 @@
 	},
 	"notEnough": {
 		"english": "Not enough",
+		"dutch":  "Niet genoeg",
 		"german": "Nicht genug",
 		"french": "Pas assez",
 		"spanish": "No es suficiente",
@@ -58,6 +63,7 @@
 	},
 	"needsToBePlacedInRoom": {
 		"english": "Needs to be placed in a finished room!",
+		"dutch":  "Moet in een afgewerkte kamer worden geplaatst!",
 		"german": "Muss in einem fertigen Raum platziert werden!",
 		"french": "A besoin d'être placé dans une pièce terminée !",
 		"spanish": "¡Necesita ser colocado en una habitación terminada!",
@@ -72,6 +78,7 @@
 	// SMALL NOTIFICATIONS ON TOP RIGHT
 	"colonistDied": {
 		"english": "A Colonist just died!",
+		"dutch":  "Een kolonist is net overleden!",
 		"german": "Ein Kolonist ist gerade gestorben!",
 		"french": "Un colon vient de mourir !",
 		"spanish": "¡Un colono acaba de morir!",
@@ -83,6 +90,7 @@
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
+		"dutch":  "Het is nu %season%.",
 		"german": "Es ist jetzt %season%.",
 		"french": "C'est maintenant %season%.",
 		"spanish": "Ahora es %season%.",
@@ -94,6 +102,7 @@
 	},
 	"notificationTitle_ColonistTerribleMood": {
 		"english": "Desparation",
+		"dutch":  "wanhoop",
 		"german": "Hoffnungslosigkeit",
 		"french": "Désespoir",
 		"spanish": "Desesperación",
@@ -105,6 +114,7 @@
 	},
 	"notificationTitle_ColonistBadMood": {
 		"english": "Low Spirits",
+		"dutch":  "Weinig moed",
 		"german": "Niedergeschlagenheit",
 		"french": "Dépression",
 		"spanish": "Depresión",
@@ -116,6 +126,7 @@
 	},
 	"notificationTitle_Fight": { // when a colonist or colony construction or furniture is attacked
 		"english": "Fighting",
+		"dutch",  "vechten",
 		"german": "Kampf ausgebrochen",
 		// TODO-bulgarian
 		// TODO-russian
@@ -130,6 +141,7 @@
 	},
 	"notificationTitle_LostConsciousness": {
 		"english": "Colonist lost Consciousness",
+		"dutch":  "Kolonist verloor bewustzijn",
 		"german": "Kolonist in Ohnmacht gefallen",
 		"french": "Un colon a perdu connaissance",
 		"spanish": "Un colono perdió la conciencia",
@@ -141,6 +153,7 @@
 	},
 	"notificationTitle_Death": {
 		"english": "Colonist died",
+		"dutch",  "Kolonist gestorven",
 		"german": "Kolonist gestorben",
 		"french": "Un colon est mort",
 		"spanish": "Un colono murió",
@@ -152,6 +165,7 @@
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
+		"dutch":  "Eten bijna op",
 		"german": "Nahrungsvorräte gehen zu Ende",
 		"french": "En pénurie de nourriture",
 		"spanish": "La comida se acaba",
@@ -163,6 +177,7 @@
 	},
 	"notificationTitle_NoFood": {
 		"english": "No Food left",
+		"dutch":  "Geen eten meer",
 		"german": "Kein Nahrungsvorrat mehr",
 		"french": "Aucune nourriture restante",
 		"spanish": "Ya no hay comida",
@@ -174,6 +189,7 @@
 	},
 	"notificationTitle_HungryNoFoodContainer": {
 		"english": "Missing Food Storage",
+		"duch":  "Ontbrekende voedselopslag",
 		"german": "Fehlendes Lager für Essen",
 		"french": "Stockage de nourriture manquant",
 		"spanish": "Falta de stock para la comida",
@@ -185,6 +201,7 @@
 	},
 	"notificationTitle_NoResearchSelected": { // used not only as notification, but also as tooltip title
 		"english": "No Research selected",
+		"dutch":  "Geen onderzoek geselecteerd",
 		"german": "Keine Forschung ausgewählt",
 		"french": "Aucune recherche sélectionnée",
 		"spanish": "Ninguna investigación seleccionada",
@@ -196,6 +213,7 @@
 	},
 	"notificationTitle_Illness": {
 		"english": "Illness",
+		"dutch":  "ziekte",
 		"german": "Krankheit",
 		"french": "Malade",
 		"spanish": "Enfermedad",
@@ -207,6 +225,7 @@
 	},
 	"notificationTitle_ColonistJoined": {
 		"english": "Colonist joined",
+		"dutch":  "kolonist sloot zich aan",
 		"german": "Kolonist beigetreten",
 		"french": "Un colon a rejoint la colonie",
 		"spanish": "Un colono se ha unido",
@@ -218,6 +237,7 @@
 	},
 	"notificationTitle_MigrantsAreLeaving": {
 		"english": "Migrants are leaving",
+		"dutch":  "Migranten vertrekken",
 		"german": "Migranten reisen ab",
 		"french": "Le migrant part",
 		"spanish": "Migrantes partiendo",
@@ -229,6 +249,7 @@
 	},
 	"notificationTitle_TraderIsLeaving": {
 		"english": "Trader is leaving",
+		"dutch":  "Handelaar vertrekt",
 		"german": "Händler reist ab",
 		"spanish": "Comerciante partiendo",
 		"french": "Le marchand part",
@@ -240,6 +261,7 @@
 	},
 	"notificationTitle_SeasonChanged": {
 		"english": "It is now %season%",
+		"dutch":  "Het is nu %season%",
 		"german": "Es ist jetzt %season%",
 		"french": "C'est maintenant %season%",
 		"spanish": "Ahora es %season%",
@@ -251,6 +273,7 @@
 	},
 	"notificationTitle_LastDayOfSeason": {
 		"english": "It is the last day of %season%.",
+		"dutch":  "Het is de laatste dag of %season%",
 		"german": "Letzter Tag des %season%s.",
 		"french": "C'est le dernier jour de %season%.",
 		"spanish": "Es el último día de %season%.",
@@ -262,6 +285,7 @@
 	},
 	"notificationTitle_AllergicReaction": {
 		"english": "Colonist has an allergic reaction",
+		"dutch":  "Kolonist heeft een allergische reactie",
 		"german": "Kolonist hat eine allergische Reaktion",
 		"french": "Le colon a une réaction allergique",
 		"spanish": "Un colono tiene una reacción alérgica",
@@ -273,6 +297,7 @@
 	},
 	"notificationTitle_BugInfestationOver": { // means that the bug infestation is done, it's finished, it's no longer active
 		"english": "Bug infestation over",
+		"dutch":  "Bugplaag voorbij",
 		"german": "Käferbefall vorbei",
 		"french": "Infestation d'insectes terminée",
 		//TODO-bulgarian
@@ -285,6 +310,7 @@
 	},
 	"notificationTitle_NeedToBuildBonfire": {
 		"english": "Need a Bonfire to get Migrants",
+		"dutch":  "Heeft een vreugdevuur nodig om migranten te krijgen",
 		"german": "Leuchtfeuer für Migranten benötigt",
 		"french": "Besoin d'un grand feu pour les migrants",
 		"spanish": "Almenara necesaria para los migrantes",
@@ -296,6 +322,7 @@
 	},
 	"notificationTitle_UnfulfilledExpectations": {
 		"english": "Need to fulfill Expectations",
+		"dutch":  "Moeten aan verwachtingen voldoen",
 		"german": "Kolonistenerwartungen erfüllen",
 		"french": "Besoin de combler les attentes",
 		"spanish": "Expectativas de colonos sin completar",
@@ -307,6 +334,7 @@
 	},
 	"notificationTitle_NeedBookstand": {
 		"english": "Need a Research Book Stand",
+		"dutch":  "Noodzaak van een onderzoeksboekstandaard",
 		"german": "Bücherständer zur Forschung benötigt",
 		"french": "Besoin d'un support de livre de recherche",
 		"spanish": "Necesita un puesto de investigación",
@@ -318,6 +346,7 @@
 	},
 	"notificationTitle_NeedToSelectResearch": {
 		"english": "Need to select Research",
+		"dutch":  "Moet Onderzoek selecteren",
 		"german": "Forschung auswählen",
 		"french": "Besoin de sélectionner une recherche",
 		"spanish": "Necesita seleccionar investigación",
@@ -329,6 +358,7 @@
 	},
 	"notificationTitle_NeedCrystals": {
 		"english": "Need Crystals for Research",
+		"dutch":  "Kristals nodig voor onderzoek",
 		"german": "Brauche Kristalle für Forschung",
 		"french": "Besoin de cristaux pour la recherche",
 		"spanish": "Necesita cristales para la investigación",
@@ -340,6 +370,7 @@
 	},
 	"notificationTitle_NeedToAnalyzeCrystals": {
 		"english": "Analyze Crystals on the Bookstand",
+		"dutch":  "Analyseer kristallen op de boekenstand",
 		"german": "Analysiere Kristalle auf dem Bücherständer",
 		"french": "Analyser des cristaux sur le support de livre",
 		"spanish": "Analiza los cristales en el atril",
@@ -351,6 +382,7 @@
 	},
 //	"notificationTitle_MissingPossessions": {
 //		"english": "Colonist is missing %hisHer% Possessions",
+	        "dutch":  "Kolonist ontbreekt %zijnHaar% bezittingen",
 //		"german": "Kolonist findet sein Eigentum nicht mehr",
 //		"french": "Il manque des possessions à un colon",
 //		"spanish": "Un colono ha perdido sus posesiones",
@@ -359,6 +391,7 @@
 //	},
 	"notificationTitle_LegHurt": {
 		"english": "%firstName% hurt %hisHer% Leg",
+		"dutch":  "%firstName% Heeft pijn in %zijnHaar leg",
 		"german": "%firstName% hat %seinIhr% Bein verletzt",
 		"french": "%firstName% s'est bléssé%e% à la jambe",
 		"spanish": "%firstName% se lastimó una pierna",
@@ -369,6 +402,7 @@
 	},
 	"notificationTitle_LegBroken": {
 		"english": "%firstName% broke %hisHer% Leg",
+		"dutch":  "%firstName% breekt %zijnHaar% leg",
 		"german": "%firstName% hat %seinIhr% Bein gebrochen",
 		"french": "%firstName% a cassé sa jambe",
 		"spanish": "%firstName% se rompió una pierna",
@@ -379,6 +413,7 @@
 	},
 	"notificationTitle_ArmHurt": {
 		"english": "%firstName% hurt %hisHer% Arm",
+		"dutch":  "%firstName% verwoned %zijnHaar% arm",
 		"german": "%firstName% hat %seinenIhren% Arm verletzt",
 		"french": "%firstName% s'est bléssé%e% au bras",
 		"spanish": "%firstName% se lastimó un brazo",
@@ -389,6 +424,7 @@
 	},
 	"notificationTitle_ArmBroken": {
 		"english": "%firstName% broke %hisHer% Arm",
+		"dutch":  "%firstName% Breekt %zijnHaar% arm",
 		"german": "%firstName% hat %seinenIhren% Arm gebrochen",
 		"french": "%firstName% a cassé son bras",
 		"spanish": "%firstName% se rompió un brazo",
@@ -399,6 +435,7 @@
 	},
 	"notificationTitle_AutosaveComplete": {
 		"english": "Autosave complete",
+		"dutch":  "automatisch opslaan voltooid",
 		"german": "Automatisch gespeichert",
 		"french": "Sauvegarde automatique terminée",
 		"spanish": "Autoguardado completo",
@@ -409,6 +446,7 @@
 	},
 	"notificationTitle_Party": {
 		"english": "Party!    %timeLeft%",
+		"dutch":  "feest!    %timeleft%",
 		"german": "Party!    %timeLeft%",
 		"french": "Fête !    %timeLeft%",
 		"spanish": "¡Fiesta!    %timeLeft%",
@@ -421,6 +459,7 @@
 	// FLOATING TEXTS
 	"expectationFulfilled": {
 		"english": "Expectation fulfilled",
+		"dutch":  "Verwactingen vervuld",
 		"german": "Erwartung erfüllt",
 		"french": "Souhait comblé",
 		"spanish": "Expectativa cumplida",
@@ -432,6 +471,7 @@
 	},
 	"wishFulfilled": {
 		"english": "Wish fulfilled",
+		"dutch":  "Wens vervuld",
 		"german": "Wunsch erfüllt",
 		"french": "Vœu accompli",
 		"spanish": "Deseo cumplido",
@@ -443,6 +483,7 @@
 	},
 	"wishDenied": {
 		"english": "Wish denied",
+		"dutch":  "Wens onzegt",
 		"german": "Wunsch abgelehnt",
 		"french": "Vœu refusé",
 		"spanish": "Deseo negado",
@@ -454,6 +495,7 @@
 	},
 	"treatmentSuccessful": {
 		"english": "Treatment\nSuccessful",
+		"dutch":  "Behandeling\nGelukt",
 		"german": "Behandlung\nerfolgreich",
 		"french": "Traitement\nRéussi",
 		"spanish": "Tratamiento\nExitoso",
@@ -465,6 +507,7 @@
 	},
 	"treatmentFailed": {
 		"english": "Treatment\nFailed",
+		"dutch":  "Behandeling\nMislukt",
 		"german": "Behandlung\nfehlgeschlagen",
 		"french": "Traitement\nÉchec",
 		"spanish": "Tratamiento\nFallido",
@@ -476,6 +519,7 @@
 	},
 	"legSplintSuccessful": {
 		"english": "Leg Splint\nSuccessful",
+		"dutch":  "Been spalk\nGelukt",
 		"german": "Beinschienen\nerfolgreich",
 		"spanish": "Entablado de pierna\nExitoso",
 		"french": "Attelle à la jambe\nSuccès",
@@ -486,6 +530,7 @@
 	},
 	"legSplintFailed": {
 		"english": "Leg Splint\nFailed",
+		"dutch":  "Been spalk\nMislukt",
 		"german": "Beinschienen\nfehlgeschlagen",
 		"spanish": "Entablado de pierna\nFallido",
 		"french": "Attelle à la jambe\nÉchec",
@@ -496,6 +541,7 @@
 	},
 	"armSplintSuccessful": {
 		"english": "Arm Splint\nSuccessful",
+		"dutch":  "Arm spalk\nGelukt",
 		"german": "Armschienen\nerfolgreich",
 		"spanish": "Entablado de brazo\nExitoso",
 		"french": "Attelle au Bras\nSuccès",
@@ -506,6 +552,7 @@
 	},
 	"armSplintFailed": {
 		"english": "Arm Splint\nFailed",
+		"dutch":  "Arm spalk\nMislukt",
 		"german": "Armschienen\nfehlgeschlagen",
 		"spanish": "Entablado de brazo\nFallido",
 		"french": "Attelle au Bras\nÉchec",
@@ -519,6 +566,7 @@
 	// BIG GAME MESSAGES
 	"messageTitle_GoblinsAttacking": {
 		"english": "The Tikigoblins are attacking!",
+		"dutch":  "De Tikigoblins vallen aan!",
 		"german": "Die Tikigoblins greifen an!",
 		"french": "Les Tikigoblins attaquent !",
 		"spanish": "¡Los Tikigoblins están atacando!",
@@ -530,6 +578,7 @@
 	},
 	"messageText_GoblinsAttacking": {
 		"english": "Tikigoblins have been sighted near our settlement. They are fast and do not seem to come in peace. Arm the colonists, so they may defend their home once again!",
+		"dutch":  "Tikigoblins zijn waargenomen in de buurt van onze nederzetting. Ze zijn snel en lijken niet in vrede te komen. Bewapen de kolonisten, zodat ze hun huis opnieuw kunnen verdedigen!",
 		"german": "Tikigoblins wurden in der Nähe unserer Siedlung gesichtet. Sie sind schnell und scheinen nicht in Frieden zu kommen. Bewaffne die Kolonisten, damit sie ihre Heimat verteidigen können!",
 		"french": "Des Tikigoblins ont été vus près de notre colonie. Ils sont rapides et ne viennent pas en paix. Armez les colons, ils vont devoir encore une fois défendre leurs maisons !",
 		"spanish": "Los Tikigoblins han sido vistos cerca de nuestro asentamiento. Son rápidos y no parecen venir en paz. ¡Arma a los colonos para que puedan defender su hogar!",
@@ -541,6 +590,7 @@
 	},
 	"messageTitle_MigrantsArrived": {
 		"english": "Migrants arrived!",
+		"dutch":  "Migranten aangekomen!",
 		"german": "Migranten sind angekommen!",
 		"french": "Un migrant est arrivé !",
 		"spanish": "¡Llegaron migrantes!",
@@ -552,6 +602,7 @@
 	},
 	"messageText_MigrantsArrived": {
 		"english": "A few migrants have seen our fire signal and just arrived in a small boat. Send a colonist to accept them!",
+		"dutch":  "Enkele migranten hebben ons vuursignaal gezien en zijn net aangekomen in een kleine boot. Stuur een kolonist om ze te accepteren!",
 		"german": "Ein paar Migranten haben unser Leuchtfeuer gesehen und sind in einem kleinen Boot angekommen. Sende einen Kolonisten, um sie willkommen zu heißen!",
 		"french": "Un migrant a vu notre feu de signal et vient d'arriver dans un petit bateau. Envoyez un colon l'accueillir !",
 		"spanish": "Unos pocos migrantes han visto nuestra señal de fuego y acaban de llegar en un bote pequeño. ¡Envía a un colono para que los acepte!",
@@ -563,6 +614,7 @@
 	},
 	"messageTitle_TraderArrived": {
 		"english": "Trader arrived!",
+		"dutch":  "Handelaar aangekomen",
 		"german": "Händler ist angekommen!",
 		//TODO-bulgarian
 		"french": "Un marchand est arrivé !",
@@ -575,6 +627,7 @@
 	},
 	"messageText_TraderArrived": {
 		"english": "A trader just made landfall on the coast. Send a colonist to haggle for some good deals!",
+		"dutch":  "Een handelaar lande net aan de kust. Stuur een kolonist om te onderhandelen voor een aantal goede deals!",
 		"german": "Ein Händler hat gerade an der Küste angelegt. Schicke einen Kolonisten, um die Waren zu begutachten!",
 		"french": "Un marchand vient d'arriver sur la côte. Envoyez un colon pour négocier de bonnes affaires !",
 		"spanish": "Un comerciante ha arribado a la costa. ¡Manda a un colono a negociar algunos buenos tratos!",
@@ -585,6 +638,7 @@
 	},
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Tantrum!",
+		"dutch":  "Agressieve driftbui!",
 		"german": "Aggressiver Wutanfall!",
 		"french": "Crise de colère !",
 		"spanish": "¡Rabieta agresiva!",
@@ -596,6 +650,7 @@
 	},
 	"messageText_BreakdownAttackFriends": {
 		"english": "A colonist has been feeling horrible for a while now and just couldn't take it anymore. %cap-heShe% has gone crazy now and is beating up random people, friend or foe.",
+		"dutch":  "Een kolonist voelt zich al een tijdje verschrikkelijk en kon het gewoon niet meer aan. %cap-heShe% is nu gek geworden en slaat willekeurige mensen, vrienden of vijanden in elkaar.",
 		"german": "Ein Kolonist fühlt sich schon seit einer Weile schrecklich und hält es einfach nicht mehr aus. Jetzt dreht %erSie% durch und schlägt sich mit Freund oder Feind.",
 		"french": "Un colon s'est senti vraiment mal pendant un moment et n'en peut plus. %cap-ilElle% est devenu%e% %fouFolle% et va frapper des gens, amis ou ennemis.",
 		//TODO-bulgarian
@@ -608,6 +663,7 @@
 	},
 	"messageTitle_BreakdownRefusingWork": {
 		"english": "Burnout!",
+		"dutch":  "burnout!",
 		"german": "Burnout!",
 		"french": "Burnout !",
 		"spanish": "¡Agotamiento!",
@@ -619,6 +675,7 @@
 	},
 	"messageText_BreakdownRefusingWork": {
 		"english": "A colonist has worked too much under terrible conditions. %cap-heShe% has decided %heShe% just doesn't care anymore and is going to relax for a while.",
+		"dutch":  "Een kolonist heeft te veel gewerkt onder vreselijke omstandigheden. %cap-heShe% heeft besloten% heShe% maakt het gewoon niet meer uit en gaat een tijdje ontspannen.",
 		"german": "Ein Kolonist hat zu lange unter entsetzlichen Bedingungen gearbeitet. Jetzt reicht es %ihmIhr% und %erSie% hat entschieden mit der Arbeit aufzuhören und sich erst mal zu entspannen",
 		"french": "Un colon a trop travaillé dans des conditions épouvantables. %cap-ilElle% a décidé qu'%ilElle% n'avait pas pris assez soin %deluiD'elle% et %ilElle% va se relaxer un peu.",
 		//TODO-bulgarian
@@ -631,6 +688,7 @@
 	},
 	"messageTitle_BreakdownDestroyFurniture": {
 		"english": "Vandalism!",
+		"dutch":  "Vandalisme!",
 		"german": "Vandalismus!",
 		"french": "Vandalisme !",
 		"spanish": "¡Vandalismo!",
@@ -642,6 +700,7 @@
 	},
 	"messageText_BreakdownDestroyFurniture": {
 		"english": "Life hasn't been the greatest for %firstName%. Now %heShe% has turned to vandalism to blow off some steam.",
+		"dutch":  "Het leven is niet het beste geweest voor %firstName%. Nu is %heShe% overgegaan op vandalisme om wat stoom af te blazen.",
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Jetzt randaliert %erSie% um sich abzuregen.",
 		"french": "La vie n'a pas été la meilleure pour %firstName%. %cap-ilElle% s'est tourné%e% vers le vandalisme.",
 		//TODO-bulgarian
@@ -654,6 +713,7 @@
 	},
 	"messageTitle_BreakdownLazyDay": {
 		"english": "Lazy Day",
+		"dutch":  "Luie dag",
 		"german": "Fauler Tag",
 		"french": "Jour tranquille",
 		"spanish": "Día perezoso",
@@ -665,6 +725,7 @@
 	},
 	"messageText_BreakdownLazyDay": {
 		"english": "Life hasn't been the greatest for %firstName%. Today %heShe% is taking it easy and will be taking a lot of long breaks.",
+		"dutch":  "Het leven is niet het beste geweest voor %firstName%. Vandaag doet %heShe% het rustig aan en zal het veel lange pauzes nemen.",
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Heute geht %erSie% es gemütlich an und macht viele lange Pausen.",
 		"french": "La vie n'a pas été la meilleure pour %firstName%. Aujourd'hui c'est plus simple et %ilElle% prendra de longues pauses.",
 		//TODO-bulgarian
@@ -677,6 +738,7 @@
 	},
 	"messageTitle_BugInfestation": {
 		"english": "Bug Infestation!",
+		"dutch":  "Insectenplaag!",
 		"german": "Käferbefall!",
 		"french": "Infestation d'insectes !",
 		"spanish": "¡Infestación de insectos!",
@@ -688,6 +750,7 @@
 	},
 	"messageText_BugInfestation": {
 		"english": "A swarm of bugs has come down on your fields and is destroying the harvest. The colonists need to cut affected plants before the infestation spreads.",
+		"dutch":  "Een zwerm insecten is neergedaald op je velden en vernietigt de oogst. De kolonisten moeten de aangetaste planten snijden voordat de besmetting zich verspreidt.",
 		"german": "Ein Schwarm Käfer hat sich auf deinen Feldern niedergelassen und vernichten die Ernte. Die Kolonisten müssen befallene Pflanzen schnell entfernen, bevor sich die Käfer ausbreiten.",
 		"french": "Un essaim d'insectes est apparu sur vos champs et ils détruisent les récoltes. Les colons doivent couper les plantes touchées avant que l'infestation se propage.",
 		"spanish": "Un enjambre de insectos ha caído sobre tus campos y está destruyendo la cosecha. Los colonos necesitan cortar las plantas afectadas antes de que se extienda la infestación.",
@@ -699,6 +762,7 @@
 	},
 	"messageTitle_TutorialFood": {
 		"english": "Food and Hunger",
+		"dutch":  "Eten en honger",
 		"german": "Mahlzeiten und Hunger",
 		"french": "Alimentation et Famine",
 		"spanish": "Comida y hambre",
@@ -710,6 +774,7 @@
 	},
 	"messageText_TutorialFood": {
 		"english": "Your colonists are hungry! You need to build something from which they can take their food, for example a food basket.",
+		"dutch":  "Je kolonisten hebben honger! Je moet iets bouwen waaruit ze hun eten kunnen nemen, bijvoorbeeld een voedselmand.",
 		"german": "Deine Kolonisten haben Hunger! Du musst etwas bauen, woraus sie ihr Essen nehmen können, zum Beispiel einen Essenskorb.",
 		"french": "Vos colons ont faim ! Vous devez construire quelque chose pour qu'ils ramassent leur nourriture, par exemple un panier à nourriture.",
 		"spanish": "¡Tus colonos tienen hambre! Necesitas construir algo de lo que puedan tomar su comida, por ejemplo, una canasta de alimentos.",
@@ -721,6 +786,7 @@
 	},
 	"messageTitle_TutorialHealing": {
 		"english": "Healing",
+		"dutch":  "Genezing",
 		"german": "Heilung",
 		"french": "Guérison",
 		"spanish": "Curación",
@@ -732,6 +798,7 @@
 	},
 	"messageText_TutorialHealing": {
 		"english": "A colonist is wounded! Make sure they gets enough sleep to rest their body. An experienced doctor can create more advanced remedies at the potion lab.",
+		"dutch":  "Een kolonist is gewond! Zorg ervoor dat ze voldoende slaap krijgen om hun lichaam te laten rusten. Een ervaren arts kan geavanceerdere remedies maken in het drankjeslaboratorium.",
 		"german": "Ein Kolonist ist verletzt! Stelle sicher, dass er genug Schlaf bekommt, um seinen Körper auszuruhen. Ein erfahrener Arzt kann fortgeschrittene Heilmittel am Alchemielabor herstellen.",
 		"french": "Un colon s'est blessé ! Assurez-vous qu'il dorme assez pour se rétablir. Un docteur expérimenté peut créer plus de remèdes avancés au laboratoire de potion.",
 		//TODO-bulgarian
@@ -744,6 +811,7 @@
 	},
 	"messageTitle_TutorialScience": {
 		"english": "Science",
+		"dutch":  "Wetenschap",
 		"german": "Wissenschaft",
 		"french": "Science",
 		"spanish": "Ciencia",
@@ -755,6 +823,7 @@
 	},
 	"messageText_TutorialScience": {
 		"english": "In order to advance your colony, you need to gather research. You can do that by mining crystals and analyzing them on the research book stand. The science panel is at the top right!",
+		"dutch":  "Om je kolonie vooruit te helpen, moet je onderzoek verzamelen. Je kunt dat doen door kristallen te ontginnen en te analyseren op de standaard van het onderzoeksboek. Het wetenschapspanel bevindt zich rechtsboven!",
 		"german": "Um deine Kolonie vorwärts zu bringen, musst du Forschung betreiben. Das funktioniert, indem du Kristalle abbaust und sie mithilfe des Bücherständers untersuchen lässt.  Die Wisschenschaftsanzeige ist oben rechts!",
 		"french": "Pour faire avancer votre colonie, vous devez faire des recherches. Vous pouvez le faire en minant des cristaux et en les analysant sur le support de livre de recherche. Le panneau science est en haut à droite !",
 		"spanish": "Para poder avanzar en tu colonia, necesitas reunir información. Puedes hacerlo minando cristales y analizándolos en el estante de investigación. ¡El panel de ciencias está en la parte superior derecha!",
@@ -766,6 +835,7 @@
 	},
 	"messageTitle_TutorialMigrants": {
 		"english": "Migrants",
+		"dutch":  "Migranten",
 		"german": "Migranten",
 		"french": "Migrants",
 		"spanish": "Migrantes",
@@ -777,6 +847,7 @@
 	},
 	"messageText_TutorialMigrants": {
 		"english": "If you want your colony to grow, you'll need to accept new people. Build a bonfire in order to attract migrants. Bonfires are unlocked via research.",
+		"dutch":  "Als je wilt dat je kolonie groeit, moet je nieuwe mensen accepteren. Bouw een vreugdevuur om migranten aan te trekken. Vreugdevuren worden ontgrendeld via onderzoek.",
 		"german": "Wenn du willst, dass deine Kolonie wächst, musst du neue Kolonisten aufnehmen. Baue ein Leuchtfeuer, um Migranten willkommen zu heißen. Leuchtfeuer werden durch Forschung freigeschalten.",
 		"french": "Si vous voulez que vos colonie grandisse, vous devrez accepter de nouvelles personnes. Construisez un grand feu pour attirer les migrants. Les grands feux sont déverrouillés via la recherche.",
 		"spanish": "Si quieres que tu colonia crezca, deberás aceptar nuevas personas. Construye una almenara para atraer migrantes. Las almenaras se desbloquean a través de la investigación.",
@@ -788,6 +859,7 @@
 	},
 	"messageTitle_TutorialCameraRotation": {
 		"english": "Rotating the View",
+		"dutch":  "De weergave draaien",
 		"german": "Die Ansicht drehen.",
 		"french": "Faire tourner la Vue",
 		"spanish": "Girar la vista",
@@ -799,6 +871,7 @@
 	},
 	"messageText_TutorialCameraRotation": {
 		"english": "You can rotate the view by holding the middle mouse button.",
+		"dutch":  "U kunt de weergave roteren door de middelste muisknop ingedrukt te houden.",
 		"german": "Du kannst die Ansicht drehen indem du die mittlere Maustaste gedrückt hältst.",
 		"french": "Vous pouvez faire tourner la vue en maintenant le bouton central de la souris.",
 		"spanish": "Puedes girar la vista manteniendo pulsado el botón central del ratón",
@@ -810,6 +883,7 @@
 	},
 	"messageTitle_TutorialBuildConstruction": {
 		"english": "How to build walls and floors",
+		"dutch":  "Hoe muren en vloeren bouwen",
 		"german": "Wie man Wände und Böden baut",
 		"french": "Comment construire des murs et des sols",
 		"spanish": "Cómo construir paredes y pisos",
@@ -821,6 +895,7 @@
 	},
 	"messageText_TutorialBuildConstruction": {
 		"english": "In the bottom left corner is a menu to select walls and floors to build. You then need to drag the cursor over the terrain. (right click & drag cursors to delete)",
+		"dutch":  "In de linkerbenedenhoek is een menu om muren en vloeren te selecteren om te bouwen. U moet dan de cursor over het terrein slepen. (klik met de rechtermuisknop en sleep cursors om te verwijderen)",
 		"german": "In der Ecke unten links ist ein Menü, wo du Wände und Böden auswählen kannst. Wenn du etwas ausgewählt hast, kannst du die Maus über das Terrain ziehen, um es zu platzieren.",
 		"french": "Dans le coin inférieur gauche il y a un menu qui permet de construire des murs et des sols. Vous devrez faire glisser le curseur sur le terrain. (clic droit & faire glisser le curseur pour supprimer)",
 		"spanish": "En la esquina inferior izquierda hay un menú para seleccionar paredes y pisos para construir. A continuación, debes arrastrar el cursor sobre el terreno.(arrastra con click derecho para borrar)",
@@ -832,6 +907,7 @@
 	},
 	"messageTitle_TutorialProfessions": {
 		"english": "Professions",
+		"dutch":  "Beroepen",
 		"german": "Berufe",
 		"french": "Métiers",
 		"spanish": "Profesiones",
@@ -843,6 +919,7 @@
 	},
 	"messageText_TutorialProfessions": {
 		"english": "Give jobs to your colonists to automate some tasks. For example, a farmer will tend to the fields.",
+		"dutch":  "Geef taken aan uw kolonisten om sommige taken te automatiseren. Een boer neigt bijvoorbeeld naar de velden.",
 		"german": "Gib deinen Kolonisten Berufe um einige Aufgaben zu automatisieren. Zum Beispiel wird sich ein Bauer um die Felder kümmern.",
 		"french": "Donnez des métiers à vos colons pour automatiser les tâches. Par exemple, un fermier s'occupera des champs.",
 		"spanish": "Da trabajos a tus colonos para automatizar algunas tareas. Por ejemplo, un agricultor se ocupará de los campos.",
@@ -854,6 +931,7 @@
 	},
 	"messageTitle_TutorialLeftClickSelect": {
 		"english": "Selecting Colonists and Objects",
+		"dutch":  "Kolonisten en objecten selecteren",
 		"german": "Kolonisten und Objekte auswählen",
 		"french": "Sélectionner des Colons et des Objets",
 		"spanish": "Seleccionando colonos y objetos",
@@ -865,6 +943,7 @@
 	},
 	"messageText_TutorialLeftClickSelect": {
 		"english": "Click on a colonist or an object with your left mouse button to select them. That way you can see their status and give commands.",
+		"dutch":  "Klik met de linkermuisknop op een kolonist of een object om ze te selecteren. Op die manier kunt u hun status bekijken en opdrachten geven.",
 		"german": "Klicke mit deiner linken Maustaste auf einen Kolonisten oder ein Objekt um sie auszuwählen. So kannst du ihren Status sehen und Kommandos geben.",
 		"french": "Cliquez sur un colon ou un objet avec le bouton gauche de la souris pour les sélectionner. De cette manière vous pourrez voir leur état et donner des ordres.",
 		"spanish": "Haz clic en un colono o un objeto con el botón izquierdo del ratón para seleccionarlos. De esa manera puedes ver su estado y dar órdenes.",
@@ -876,6 +955,7 @@
 	},
 	"messageTitle_TutorialRightClickCommand": {
 		"english": "Assigning tasks",
+		"dutch":  "Taken toewijzen",
 		"german": "Aufgaben zuweisen",
 		"french": "Assigner des tâches",
 		"spanish": "Asignando tareas",
@@ -887,6 +967,7 @@
 	},
 	"messageText_TutorialRightClickCommand": {
 		"english": "After you select a colonist, use the right mouse button to click on objects to assign tasks.",
+		"dutch":  "Nadat u een kolonist heeft geselecteerd, gebruikt u de rechtermuisknop om op objecten te klikken om taken toe te wijzen.",
 		"german": "Nachdem du einen Kolonisten ausgewählt hast, kannst du die rechte Maustaste verwenden um auf ein Objekt zu klicken und Aufgaben zu verteilen.",
 		"french": "Après avoir sélectionné un colon, utilisez le bouton droit de la souris pour cliquer sur les objets à assigner à la tâche.",
 		"spanish": "Después de seleccionar un colono, usa el botón derecho del ratón para hacer clic en los objetos para asignar tareas.",
@@ -898,6 +979,7 @@
 	},
 	"messageTitle_TutorialHelpMenu": {
 		"english": "Help menu",
+		"dutch":  "Hulp menu",
 		"german": "Hilfemenü",
 		"french": "Menu d'aide",
 		"spanish": "Menú de ayuda",
@@ -909,6 +991,7 @@
 	},
 	"messageText_TutorialHelpMenu": {
 		"english": "Open the help menu with the button in the top right corner if you need more information.",
+		"dutch":  "Open het helpmenu met de knop in de rechterbovenhoek als u meer informatie nodig hebt.",
 		"german": "Öffne das Hilfemnü mit dem Button in der Ecke oben rechts, wenn du mehr Informationen benötigst.",
 		"french": "Ouvrez le menu d'aide dans le coin supérieur droit si vous avez besoin de plus d'information.",
 		"spanish": "Abre el menú de ayuda con el botón en la esquina superior derecha si necesitas más información.",
@@ -920,6 +1003,7 @@
 	},
 	"messageTitle_TutorialEquipment": {
 		"english": "How to use Equipment",
+		"dutch":  "Hoe apparatuur gebruiken",
 		"german": "Wie man Ausrüstung verwendet",
 		"spanish": "Cómo usar el equipo",
 		"turkish": "Ekipman kullanımı",
@@ -930,6 +1014,7 @@
 	},
 	"messageText_TutorialEquipment": {
 		"english": "Build a piece of furniture that can store equipment and select it to choose which equipment to put in it. Let a colonist take ownership of it so that he can equip it automatically.",
+		"dutch":  "Bouw een meubel waarin apparatuur kan worden opgeborgen en selecteer het om te kiezen welke apparatuur u erin wilt plaatsen. Laat een kolonist er eigenaar van worden, zodat hij het automatisch kan uitrusten.",
 		"german": "Baue ein Möbelstück, das Ausrüstung lagern kann und wähle aus welche Ausrüstung dort gelagert werden soll. Lasse einen Kolonisten den Besitz darüber ergreifen, sodass er es automatisch ausrüsten kann.",
 		"spanish": "Construye un mueble que pueda guardar equipo y selecciónalo para elegir qué equipo usar. Deja que un colono tome la posesión de él para que pueda equiparse de forma automática.",
 		"turkish": "Ekipmanı saklayabileceğiniz bir mobilya kurun ve saklamak istediğiniz ekipmanı belirlemek için mobilyayı seçin. Eğer bir yerleşimcinin sahipliğine verirseniz saklamayı otomatik yapacaktır.",
@@ -940,6 +1025,7 @@
 	},
 	"messageTitle_TutorialMovingFurniture": {
 		"english": "How to move furniture and other objects",
+		"dutch":  "Hoe meubels en andere objecten verplaatsen",
 		"german": "Wie man Möbel und Gegenstände verschiebt",
 		"french": "Comment déplacer des meubles et autres objets",
 		"spanish": "Cómo mover muebles y otros objetos",
@@ -950,6 +1036,7 @@
 	},
 	"messageText_TutorialMovingFurniture": {
 		"english": "Drag the object with your mouse to its new location. Right clicking during dragging will delete the object.",
+		"dutch":  "Sleep het object met uw muis naar de nieuwe locatie. Als u tijdens het slepen met de rechtermuisknop klikt, wordt het object verwijderd.",
 		"german": "Ziehe das Objekt mit deiner Maus zur neuen Position. Ein Rechtsklick während dem Ziehen löscht das Objekt.",
 		"french": "Faites glisser l'objet avec votre souris vers son nouvel emplacement. Un clic droit pendant le glisser-déposer supprimera l'objet.",
 		"spanish": "Arrastra el objeto con tu ratón a su nueva ubicación. Hacer click con el botón derecho durante el arrastre borrará el objeto.",
@@ -960,6 +1047,7 @@
 	},
 	"messageTitle_TechUnlocked": {
 		"english": "%techName% unlocked!",
+		"dutch":  "%techName% ontgrendeld!",
 		"german": "%techName% erforscht!",
 		"french": "%techName% déverrouillé !",
 		"spanish": "¡%techName% desbloqueado!",
@@ -971,6 +1059,7 @@
 	},
 	"messageText_TechUnlocked": {
 		"english": "You unlocked %techName% and can now do new stuff!\n%unlockedStuff%",
+		"dutch":  "Je hebt %techName% ontgrendeld en je kunt nu nieuwe dingen doen!\n%unlockedStuff%",
 		"german": "Du hast %techName% erforscht und kannst nun neue Dinge machen!\n%unlockedStuff%",
 		"french": "Vous avez déverrouillé %techName% et vous pouvez maintenant fabriquer de nouvelles choses !\n%unlockedStuff%",
 		"spanish": "¡Has desbloqueado %techName% y ahora puedes hacer cosas nuevas!\n%unlockedStuff%",
@@ -982,6 +1071,7 @@
 	},
 	"messageTitle_JoinForum": {
 		"english": "Check out the forum!",
+		"dutch":  "Bekijk het forum!",
 		"german": "Schau dir das Forum an!",
 		"french": "Consultez le forum !",
 		"spanish": "¡Echa un vistazo al foro!",
@@ -993,6 +1083,7 @@
 	},
 	"messageText_JoinForum": {
 		"english": "You've been playing for a while and we hope you're having fun!\nLet us know how it's going on the forum!",
+		"dutch":  "Je speelt al een tijdje en we hopen dat je plezier hebt!\nLaat ons weten hoe het op het forum gaat!",
 		"german": "Du spielst jetzt schon seit einer Weile und wir hoffen, dass es dir Spaß macht!\nIm Forum findest du mehr Infos und Diskussionen zum Spiel.",
 		"french": "Vous jouez depuis un certain temps et nous espérons que vous appréciez le jeu !\nFaites-le nous savoir sur le forum !",
 		"spanish": "Has estado jugando por un tiempo y esperamos que te estés divirtiendo! \n¡En el foro encontrarás más información y discusiones!",
@@ -1004,6 +1095,7 @@
 	},
 	"messageTitle_LimpingBecauseOfBadSplintTreatment": {
 		"english": "Treatment messed up\n%firstName% now disabled",
+		"dutch":  "Behandeling verknald\n%firstName% nu invalide",
 		"german": "Behandlung schief gelaufen\n%firstName% jetzt behindert",
 		"spanish": "El tratamiento salió mal\n%firstName% ahora discapacitado",
 		"french": "Traitement raté\n%firstName% est maintenant invalide",
@@ -1014,6 +1106,7 @@
 	},
 	"messageText_LimpingBecauseOfBadSplintTreatment": {
 		"english": "It's a begginer's mistake, but can also happen to experienced doctors: Someone messed up the splints to cure %firstName%'s broken leg. It's no longer broken, but now %heShe%'s limping permanently and can't walk as fast as %heShe% used to.",
+		"dutch":  "Het is een fout van een beginner, maar kan ook ervaren artsen overkomen: iemand heeft de spalken verknald om het gebroken been van %firstName% te genezen. Het is niet meer kapot, maar nu hinkt %hijZei% permanent en kan niet meer zo snel lopen als %hijZei% vroeger.",
 		"german": "Es ist ein Anfängerfehler, kann aber auch einem erfahrenen Arzt passieren: Jemand hat Mist gebaut und die Schienen für das gebrochene Bein von %firstName% falsch befestigt. Jetzt ist das Bein zwar nicht mehr gebrochen, aber %erSie% hinkt jetzt beim gehen und ist nicht mehr so schnell wie früher.",
 		"spanish": "Es un error de principiante, pero también le pasa a doctores experimentados: Alguien intentó entablar la pierna de %firstName% pero no lo logró. Ya no está rota, pero ahora %élElla% cojea permanentemente y no puede caminar tan rápido como antes.",
 		"french": "C'est une erreur de débutant, mais cela peut également arriver aux médecins : Quelqu'un a raté la pose de l'attelle pour soigner la jambe cassée de %firstName%. Ce n'est pas complètement cassé, mais %ilElle% boîtera pour toujours et ne pourra pas marcher aussi vite qu'%ilElle% voudrait.", 
@@ -1024,6 +1117,7 @@
 	},
 	"messageTitle_SupportDevelopment": {
 		"english": "Support the Development of Founders' Fortune!",
+		"dutch":  "Steun de ontwikkeling van Founders 'Fortune!",
 		"german": "Unterstütze die Entwicklung von Founders' Fortune!",
 		"french": "Supportez le Développement de Founders' Fortune !",
 		"spanish": "¡Apoya el desarrollo de Founders' Fortune!",
@@ -1034,6 +1128,7 @@
 	},
 	"messageText_SupportDevelopment": {
 		"english": "You've been playing this colony for %hours% hours and it seems like you're enjoying the free version of Founders' Fortune! Consider checking out the store and supporting us!",
+		"dutch":  "Je speelt deze kolonie al %uur% uur en het lijkt alsof je geniet van de gratis versie van Founders 'Fortune! Overweeg de winkel te bezoeken en ons te steunen!",
 		"german": "Du spielst diese Kolonie schon seit %hours% Stunden und es scheint als würde dir die kostenlose Version von Founders' Fortune gefallen! Schau dir mal unseren Store an, dort kannst du die Entwicklung unterstützen!",
 		"french": "Vous jouez dans cette colonie depuis %hours% heures et il sembelerait que vous appréciez la version gratuite de Founders' Fortune! Nous vous invitons à aller voir le magasin et à nous soutenir !",
 		"spanish": "¡Has estado jugando con esta colonia por %hours% horas y parece que estás disfrutando la versión gratuita de Founders' Fortune! ¡Considera echar un vistazo a la tienda y apoyarnos!",

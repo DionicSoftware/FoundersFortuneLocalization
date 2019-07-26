@@ -360,7 +360,7 @@
 		"german": "Inspiration vorbei",
 		"spanish": "Inspiración terminada",
 		"french": "Inspiration terminée",
-		"turkish": "İlham",
+		"turkish": "İlham gitti",
 		"portuguese": "A inspiração acabou",
 		"russian": "Вдохновение закончилось",
 		"ukrainian":"Натхнення закінчилося",
@@ -400,7 +400,7 @@
 		"german": "Gekochte Mahlzeit gegessen",
 		"spanish": "Comió comida cocinada",
 		"french": "A Mangé des Aliments Cuits",
-		"turkish": "Pişmiş Yemek Yedim",
+		"turkish": "Pişmiş yemek yedim",
 		"portuguese": "Comeu comida cozida",
 		"russian": "Съел приготовленную пищу",
 		"ukrainian":"З'ї%hesheEnd% приготовлену їжу",
@@ -489,9 +489,8 @@
 		"english": "I enjoyed talking with my friend %firstName%.",
 		"german": "Mir hat es gefallen, mich mit %meinemMeiner% %freundFreundin% %firstName% zu unterhalten.",
 		"french": "J'ai apprécié parler avec mon ami%e% %firstName%",
-		//TODO-turkish
 		"spanish": "Me gustó hablar con mi amig%oA% %firstName%",
-		"turkish": "Arkadaşımla konuşmaktan zevk aldım.",
+		"turkish": "Arkadaşım %firstName% ile konuşmaktan zevk aldım.",
 		"portuguese": "Eu gostava de conversar com meu amig%oA%.",
 		"russian": "%firstName% такой приятный собеседник!",
 		"ukrainian":"%firstName% так%heshe_IY_A% приємн%heshe_IY_A% у спілкуванні!",
@@ -510,9 +509,8 @@
 		"english": "%firstName% is so full of %himselfHerself%. I couldn't stand listening to %himHer%.",
 		"german": "%firstName% ist unglaublich eingebildet. Ich konnte es nicht mal ertragen %ihmIhr% zuzuhön.",
 		"french": "%firstName% est si imbu%e% %deluiD'elle%-même. Je ne pourrais pas l'écouter.",
-		//TODO-turkish
 		"spanish": "Est%eA% %chicoChica% es increíblemente arrogante. Ni siquiera podía soportarl%oA%",
-		"turkish": "Bu adam kibir dolu. Onu dinlemeye dayanamadım.",
+		"turkish": "%firstName% kibir dolu. Onu dinlemeye dayanamadım.",
 		"portuguese": "Esse cara é tão cheio de si mesmo. Eu não suportava ouvir %eleEla%.",
 		"russian": "%firstName% так%hesheEnd2% ЧСВ! Я не могу продолжать %hisHer% слушать!",
 		"ukrainian":"%firstName% так%heshe_IY_A% високомірн%heshe_IY_A%! Я не можу продовжувати спілкуватись з %himHer%.",
@@ -602,7 +600,7 @@
 		"german": "Gute Mahlzeit gegessen",
 		"spanish": "Comió buena comida",
 		"french": "A Mangé un Bon Repas",
-		"turkish": "İyi Yemekler Yedim",
+		"turkish": "İyi yemekler yedim",
 		"portuguese": "Comeu boa refeição",
 		"russian": "Съел хорошую еду",
 		"ukrainian":"З'ї%hesheEnd% смачну їжу",
@@ -762,7 +760,7 @@
 		"german": "Kleine Nahrungssrationen",
 		"spanish": "Pequeñas raciones de comida",
 		"french": "Petites Rations Alimentaires",
-		"turkish": "Küçük Gıda Rasyonları",
+		"turkish": "Küçük gıda rasyonları",
 		"portuguese": "Rações de Alimentos Pequenos",
 		"russian": "Маленькие порции",
 		"ukrainian":"Маленькі порції",
@@ -782,7 +780,7 @@
 		"german": "Große Nahrungsrationen",
 		"spanish": "Grandes raciones de comida",
 		"french": "Grandes Rations Alimentaires",
-		"turkish": "Büyük Gıda Rasyonları",
+		"turkish": "Büyük gıda rasyonları",
 		"portuguese": "Grandes rações alimentares",
 		"russian": "Большие порции",
 		"ukrainian":"Великі порції",
@@ -1005,6 +1003,7 @@
 		"russian": "Наслаждается вечеринкой",
 		"portuguese": "Curtindo festa",
 		"ukrainian":"Насолоджується вечіркою",
+		"turkish": "Partinin zevkini çıkarıyor",
 
 	},
 	"thoughtDesc_EnjoyingParty": {
@@ -1015,6 +1014,7 @@
 		"russian": "Наконец-то я могу немножко расслабиться и просто получать удовольствие от времяпрепровождения с моими друзьями! Чувствую себя прекрасно!",
 		"portuguese": "Finalmente, estou conseguindo algum tempo para me descontrair e ficar feliz com meus colegas colonos! É ótimo não se preocupar por um tempo.",
 		"ukrainian":"Нарешті я можу трошки розслабитися і просто отримувати задоволення від проведення часу з моїми друзями! Відчуваю себе чудово!",
+		"turkish": "Sonunda gevşemek için biraz zaman var ve yerleşimdeki arkadaşlarımla mutlu oluyorum! Bir süre endişelenmemek harika.",
 	},
 	"thoughtTitle_HadFunAtParty": {
 		"english": "Had fun at party",
@@ -1024,6 +1024,7 @@
 		"russian": "Веселая вечеринка",
 		"portuguese": "Diverti-me na festa",
 		"ukrainian":"Весела вечірка",
+		"turkish": "Partiden zevk aldı",
 	},
 	"thoughtDesc_HadFunAtParty": {
 		"english": "The last party we had was amazing! I'm glad we can find the time to slow down and celebrate our life here from time to time.",
@@ -1033,6 +1034,7 @@
 		"russian": "Предыдущая вечеринка была невероятной! Я рад%surnameA%, что мы можем найти время для отдыха и отпраздновать свои успехи.",
 		"portuguese": "A última festa que tivemos foi incrível! Fico feliz que podemos encontrar tempo para desacelerar e celebrar nossa vida aqui de vez em quando.",
 		"ukrainian":"Попередня вечірка була неймовірною! Я рад%heshe_IY_A%, що ми можемо знайти час для відпочинку і відсвяткувати свої успіхи.",
+		"turkish": "Son parti harikaydı! Zaman zaman sakinleşip buradaki hayatımızı kutlayabildiğimiz için memnunum.",
 	},
 	"thoughtTitle_DrankBeer": {
 		"english": "Had a beer",
@@ -1042,6 +1044,7 @@
 		"russian": "Выпил пива",
 		"portuguese": "Teve uma cerveja",
 		"ukrainian":"Випи%hesheEnd% пива",
+		"turkish": "Bir bira içti",
 	},
 	"thoughtDesc_DrankBeer": {
 		"english": "Mmmm, I enjoy drinking a special beverage from time to time.",
@@ -1051,6 +1054,7 @@
 		"russian": "Мммм, я обожаю попивать этот чудесный напиток время от времени!",
 		"portuguese": "Mmmm, eu gosto de beber uma bebida especial de vez em quando.",
 		"ukrainian":"Мммм... я обожнюю попивати цей чудовий напій час від часу!",
+		"turkish": "Mmmm, zaman zaman özel bir içecek içmekten zevk alıyorum.",
 	},
 	"thoughtTitle_EnjoyedFire": {
 		"english": "Enjoyed fire",
@@ -1060,6 +1064,7 @@
 		"russian": "Любоваться огнем",
 		"portuguese": "fogo apreciado",
 		"ukrainian":"Насолоджуватися полум'ям",
+		"turkish": "Ateş eğlenceliydi",
 	},
 	"thoughtDesc_EnjoyedFire": {
 
@@ -1070,6 +1075,7 @@
 		"russian": "Да... Любоваться огнем - бесценно.",
 		"portuguese": "Ahhh ... O aquecimento no incêndio me fez sentir muito confortável.",
 		"ukrainian":"Так... Підігріваючись біля вогню, я відчуваю себе дуже комфортно.",
+		"turkish": "Ahhh ... Ateşin yanında ısınmak beni gerçekten rahat hissettirdi.",
 	},
 	"thoughtTitle_Hugged": {
 		"english": "Received a hug",
@@ -1079,7 +1085,7 @@
 		"russian": "Получил%surnameA% обнимашки",
 		"portuguese": "Recebi um abraço",
 		"ukrainian":"Отрима%hesheEnd% обійми",
-
+		"turkish": "Sarıldım",
 	},
 	"thoughtDesc_Hugged": {
 		"english": "I'm glad I have some friends in the colony. We're in this together.",
@@ -1089,23 +1095,8 @@
 		"russian": "Я рад%surnameA%, что у меня есть друзья в колонии. Мне было так приятно получить это объятие!",
 		"portuguese": "Estou feliz por ter alguns amigos na colônia. Estamos nisso juntos.",
 		"ukrainian":"Я рад%heshe_IY_A%, що у мене є друзі в колонії. Мені було так приємно отримати ці обійми!",
+		"turkish": "Yerleşimde arkadaşlarım olduğu için mutluyum. Bu işte beraberiz.",
 	},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1217,11 +1208,10 @@
 		"german": "Ich mochte dieses Möbelstück noch nie.",
 		"french": "Je n'ai jamais aimé ce meuble.",
 		//TODO-spanish
-		//TODO-turkish
 		//TODO-russian
 		//TODO-ukrainian
 		"spanish": "Nunca quise este mueble.",
-		"turkish": "Bu şeyi hiç sevmemiştim zaten.",
+		"turkish": "Bu mobilyayı hiç sevmemiştim zaten.",
 		"portuguese": "Eu nunca gostei dessa peça de mobília.",
 		"russian": "Мне никогда не нравилась эта вещь.",
 		"ukrainian":"Мені ніколи не подобалась ця річ.",

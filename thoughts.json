@@ -10,6 +10,7 @@
 		"dutch": "Goed gevoel",
 		"russian": "Хорошее настроение",
 		"ukrainian":"Гарний настрій",
+		"korean": "기분 좋음",
 	},
 	"thoughtDesc_DebugGood": {
 		"english": "I'm just happy right now and I don't really know why.",
@@ -21,6 +22,7 @@
 		"dutch": "Ik ben gewoon blij nu en ik weet niet echt waarom.",
 		"russian": "Я просто счастлив%surnameA% и не знаю почему.",
 		"ukrainian":"Я просто щаслив%heshe_IY_A% і не знаю чому.",
+		"korean": "지금 그냥 기분이 좋은데, 왜 그런진 모르겠어요.",
 	},
 	"thoughtTitle_DebugBad": {
 		"english": "Bad Feeling",
@@ -32,6 +34,7 @@
 		"dutch": "Slecht gevoel",
 		"russian": "Плохое настроение",
 		"ukrainian":"Поганий настрій.",
+		"korean": "기분 나쁨",
 	},
 	"thoughtDesc_DebugBad": {
 		"english": "I'm just sad right now and I don't really know why.",
@@ -43,6 +46,7 @@
 		"dutch": "Ik ben verdrietig nu en ik weet niet zeker waarom",
 		"russian": "Я просто груст%hesheEnd% и не знаю почему.",
 		"ukrainian":"Я просто сумн%heshe_IY_A% і не знаю чому",
+		"korean": "조금 슬픈 기분이 드는데, 왜 그런진 모르겠어요.",
 	},
 	"thoughtTitle_MinorPain": {
 		"english": "Minor Pain",
@@ -54,6 +58,7 @@
 		"dutch": "Beetje pijn",
 		"russian": "Незначительная боль",
 		"ukrainian":"Незначна біль",
+		"korean": "약간의 고통",
 	},
 	"thoughtDesc_MinorPain": {
 		"english": "Ouch. That hurts.",
@@ -65,6 +70,7 @@
 		"dutch": "AU, Dat doet pijn",
 		"russian": "Ай. Это больно.",
 		"ukrainian":"Ай. Це боляче.",
+		"korean": "아얏. 좀 아파요.",
 	},
 	"thoughtTitle_MediumPain": {
 		"english": "Serious Pain",
@@ -76,6 +82,7 @@
 		"dutch": "Serieuze pijn",
 		"russian": "Серьезная боль",
 		"ukrainian":"Серйозна біль",
+		"korean": "심각한 고통",
 	},
 	"thoughtDesc_MediumPain": {
 		"english": "Ow. That hurts pretty badly.",
@@ -87,6 +94,7 @@
 		"dutch": "AU, Dat doet best wel pijn",
 		"russian": "АЙ! Это очень больно.",
 		"ukrainian":"АЙ! Це дуже боляче.",
+		"korean": "으악. 꽤 심하게 아프네요.",
 	},
 	"thoughtTitle_ExtremePain": {
 		"english": "Extreme Pain",
@@ -98,6 +106,7 @@
 		"dutch": "Extreme pijn",
 		"russian": "Невыносимая боль",
 		"ukrainian":"Нестерпна біль",
+		"korean": "엄청난 고통",
 	},
 	"thoughtDesc_ExtremePain": {
 		"english": "Ooohhh... This is unbearable!",
@@ -109,6 +118,7 @@
 		"dutch": "Aaahh... Dit is niet te verdragen",
 		"russian": "Аааааааай... Это невыносимо!",
 		"ukrainian":"ААААААААА ... Це нестерпно!",
+		"korean": "으아아아아... 참을 수 없이 아파요!",
 	},
 	"thoughtTitle_Hungry": {
 		"english": "Hungry",
@@ -120,6 +130,7 @@
 		"dutch": "Hongerig",
 		"russian": "Голод",
 		"ukrainian":"Голод",
+		"korean": "배고픔",
 	},
 	"thoughtDesc_Hungry": {
 		"english": "Man... I haven't eaten in a while.",
@@ -131,6 +142,7 @@
 		"dutch": "Oh man, Ik heb niet gegeten in een lange tijd",
 		"russian": "Блин.... Я не ел%surnameA% уже довольно давно.",
 		"ukrainian":"Ей.... Я не ї%hesheEnd% уже досить давно.",
+		"korean": "저기... 뭘 먹은지 꽤 된 것 같아요.",
 	},
 	"thoughtTitle_Exhausted": {
 		"english": "Exhausted",
@@ -142,6 +154,7 @@
 		"dutch": "Uitgeput",
 		"russian": "Истощен%surnameA%",
 		"ukrainian":"Виснажен%heshe_IY_A%",
+		"korean": "탈진함",
 		
 		// When you go further with the Dutch coding. Remove this. This is an Indicator to show where to resume with the Dutch names.
 	},
@@ -154,6 +167,7 @@
 		"portuguese": "Foi um dia longo ... Eu só quero dormir agora.",
 		"russian": "Это был долгий день... Я просто хочу спать.",
 		"ukrainian":"Це був довгий день ... Я просто хочу спати.",
+		"korean": "하루가 너무 길었어요... 지금 당장 잠들고 싶어요.",
 	},
 	"thoughtTitle_NewColony": {
 		"english": "New Colony",
@@ -164,6 +178,7 @@
 		"portuguese": "Nova colônia",
 		"russian": "Новая колония",
 		"ukrainian":"Нова колонія",
+		"korean": "새 개척지",
 	},
 	"thoughtDesc_NewColony": {
 		"english": "A new beginning! Let's make ourselves at home here!",
@@ -174,6 +189,7 @@
 		"portuguese": "Um novo começo! Vamos nos sentir em casa aqui!",
 		"russian": "Новое начало! Давайте жить здесь!",
 		"ukrainian":"Новий початок! Давайте жити тут!",
+		"korean": "새로운 시작! 우리의 집을 만들어봐요!",
 	},
 	"thoughtTitle_WellRested": {
 		"english": "Well Rested",
@@ -184,6 +200,7 @@
 		"portuguese": "Bem descansado",
 		"russian": "Хороший отдых",
 		"ukrainian":"Гарний відпочинок",
+		"korean": "푹 쉬었음",
 	},
 	"thoughtDesc_WellRested": {
 		"english": "Oh yes. There's nothing better than being able to sleep late in a comfortable bed.",
@@ -194,6 +211,7 @@
 		"portuguese": "Ai sim. Não há nada melhor que poder dormir até tarde em uma cama confortável.",
 		"russian": "О даааа. Нет ничего лучше, чем долго спать в удобной кровати.",
 		"ukrainian":"О так. Немає нічого кращого, ніж довго спати в зручному ліжку.",
+		"korean": "오 맞아요. 편안한 침대에서 늘어지게 자는 것만큼 좋은 게 있을까요.",
 	},
 	"thoughtTitle_SleptOnGround": {
 		"english": "Slept on Ground",
@@ -204,6 +222,7 @@
 		"portuguese": "Dormiu no chão",
 		"russian": "Сон на земле",
 		"ukrainian":"Сон на землі",
+		"korean": "바닥에서 잠",
 	},
 	"thoughtDesc_SleptOnGround": {
 		"english": "Ugh. Why can't I sleep in a bed? Sleeping on the ground sucks.",
@@ -214,6 +233,7 @@
 		"portuguese": "Ugh Por que eu não posso dormir em uma cama? Dormir no chão é uma merda.",
 		"russian": "Тьфу! Почему я не могу спать на кровати? Сон на земле - отстой.",
 		"ukrainian":"Тьху! Чому я не можу спати на ліжку? Сон на землі - відстій.",
+		"korean": "어으. 왜 침대에서 잘 수 없는거죠? 땅바닥에서 자는건 고약해요.",
 	},
 	"thoughtTitle_ColonistDied": {
 		"english": "Colonist Died",
@@ -224,6 +244,7 @@
 		"portuguese": "Colono morreu",
 		"russian": "Смерть Колониста",
 		"ukrainian":"Колоніст Помер",
+		"korean": "개척자가 죽음",
 	},
 	"thoughtDesc_ColonistDied": {
 		"english": "My friend and fellow colonist died. Damn. I feel kind of empty now.",
@@ -234,6 +255,7 @@
 		"portuguese": "Meu amigo e companheiro colono morreu. Droga. Eu me sinto meio vazio agora.",
 		"russian": "Мой друг и коллега умер. Черт. Я чувствую себя опустошенн%hesheEnd2%.",
 		"ukrainian":"Мій друг і колега помер. Чорт. Я у відчаї.",
+		"korean": "내 친구이자 동료인 개척자가 죽었어요. 제기랄. 마음 속이 텅 빈 느낌이에요.",
 	},
 	"thoughtTitle_FightWon": {
 		"english": "Won a Fight",
@@ -244,6 +266,7 @@
 		"portuguese": "Ganhou uma luta",
 		"russian": "Победа в сражении",
 		"ukrainian":"Перемога в битві",
+		"korean": "싸움에서 승리",
 	},
 	"thoughtDesc_FightWon": {
 		"english": "Oh yeah! Feels good showing them who's boss!",
@@ -254,6 +277,7 @@
 		"portuguese": "Oh sim! É bom mostrar quem é que manda!",
 		"russian": "О да! Ну и кто теперь тут босс?",
 		"ukrainian":"О так! Ну і хто тепер тут бос?",
+		"korean": "오 예! 누가 승자인지 보여줬어요!",
 	},
 	"thoughtTitle_FightLost": {
 		"english": "Lost a Fight",
@@ -264,6 +288,7 @@
 		"portuguese": "Perdeu uma briga",
 		"russian": "Поражение в сражении",
 		"ukrainian":"Поразка в битві",
+		"korean": "싸움에서 패배",
 	},
 	"thoughtDesc_FightLost": {
 		"english": "I just got beaten up. I can't believe it. This is not only painful, but also humiliating.",
@@ -274,6 +299,7 @@
 		"portuguese": "Eu acabei de ser espancado. Eu não posso acreditar. Isso não é apenas doloroso, mas também humilhante.",
 		"russian": "Меня только что избили. Я не могу в это поверить. Это не только больно, но и унизительно.",
 		"ukrainian":"Мене тільки що побили. Я не можу в це повірити. Це не тільки боляче, але і принизливо.",
+		"korean": "마구 두들겨 맞았어요. 믿을 수가 없네요. 단순히 아픈 것 뿐만 아니라 모욕적이에요.",
 	},
 	"thoughtTitle_ColonistKilled": {
 		"english": "Killed Colonist",
@@ -284,6 +310,7 @@
 		"portuguese": "Matou colono",
 		"russian": "Убийство колониста",
 		"ukrainian":"Вбивство колоніста",
+		"korean": "개척자를 죽임",
 	},
 	"thoughtDesc_ColonistKilled": {
 		"english": "I just killed one of our own. How could I do that?!",
@@ -294,6 +321,7 @@
 		"portuguese": "Acabei de matar um dos nossos. Como eu pude fazer isso ?!",
 		"russian": "Я только что убил%surnameA% одного из наших. Как я мог%sheLA% это сделать?!",
 		"ukrainian":"Я тільки що вби%hesheEnd% одного з наших. Як я м%heShe_IG_OGLA% це зробити ?!",
+		"korean": "방금 우리 중의 한 명을 죽였어요. 어떻게 내가 그럴 수 있죠?!",
 	},
 	"thoughtTitle_BlewOffSteam": {
 		"english": "Blew off Steam",
@@ -304,6 +332,7 @@
 		"portuguese": "Desabafar",
 		"russian": "Выпуск пара",
 		"ukrainian":"Випуск пара",
+		"korean": "분노를 분출함",
 	},
 	"thoughtDesc_BlewOffSteam": {
 		"english": "Ah, it feels good to have let out all my frustration. Maybe life is not so bleak after all.",
@@ -314,6 +343,7 @@
 		"portuguese": "Ah, é bom ter deixado escapar toda a minha frustração. Talvez a vida não seja tão sombria depois de tudo.",
 		"russian": "Ах, как хорошо, что я выпустил%surnameA% пар. Может быть, жизнь не так уж и мрачна?",
 		"ukrainian":"Ах, як добре, що я випусти%hesheEnd% пар. Може бути, життя не так вже й похмуре",
+		"korean": "아, 나의 불만을 모두 풀어버리고 나니 기분이 좋네요. 어쨌든 삶이 그렇게 암울하지만은 않을거에요.",
 	},
 	"thoughtTitle_LookingForwardToNewDay": {
 		"english": "Looking forward to a new day",
@@ -324,6 +354,7 @@
 		"portuguese": "Olhando para a frente para um novo dia",
 		"russian": "В ожидании нового дня",
 		"ukrainian":"В очікуванні нового дня",
+		"korean": "새로운 날을 고대함",
 	},
 	"thoughtDesc_LookingForwardToNewDay": {
 		"english": "I had a bad day recently, but I'm hopeful that it'll get better soon.",
@@ -334,6 +365,7 @@
 		"portuguese": "Eu tive um mau dia recentemente, mas eu estou esperançoso de que ele vai ficar melhor em breve.",
 		"russian": "Недавно у меня был плохой день, но я надеюсь, что в дальнейшем все будет хорошо.",
 		"ukrainian":"Нещодавно у мене був поганий день, але я сподіваюся, що надалі все буде добре.",
+		"korean": "좋지 않은 하루였어요. 하지만 조만간 더 나아질 거라고 기대합니다.",
 	},
 	"thoughtTitle_MyFurnitureDestroyed": {
 		"english": "Owned furniture has been destroyed",
@@ -344,6 +376,7 @@
 		"portuguese": "Móveis de propriedade foram destruídos",
 		"russian": "Разрушенная мебель",
 		"ukrainian":"Мої меблі були зруйновані",
+		"korean": "내 가구가 파괴됨",
 	},
 	"thoughtDesc_MyFurnitureDestroyed": {
 		"english": "I had some pretty nice furniture in my bedroom, but somebody completely demolished them!",
@@ -354,6 +387,7 @@
 		"portuguese": "Eu tinha alguns móveis bonitos no meu quarto, mas alguém os demoliu completamente!",
 		"russian": "У меня была прекрасная мебель в моей спальне, но кто-то ее сломал!",
 		"ukrainian":"У мене були прекрасні меблі в моїй спальні, але хтось її зламав!",
+		"korean": "",
 	},
 	"thoughtTitle_InspirationOver": {
 		"english": "Inspiration over",

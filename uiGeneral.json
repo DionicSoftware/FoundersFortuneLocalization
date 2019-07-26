@@ -1,4 +1,4 @@
-﻿{
+{
 	// MAIN MENU
 	"newGame": {
 		"english": "New Game",
@@ -438,6 +438,20 @@
 		"ukrainian":"Цей контент був відзначений розробниками як сумісний.",
 		"chinese": "开发人员已经将此内容标记为兼容.",
 		"arabic": "ﻖﻓﺍﻮﺘﻣ ﻯﻮﺘﻤﺤﻛ ﻪﻴﻟﺇ ﺭﻮﻄﻤﻟﺍ ﺭﺎﺷﺃ",
+	},
+	"modMostlyCompatible_Title": {
+		"english": "Content mostly compatible",
+		"german": "Inhalt mehr oder weniger kompatibel",
+		"french": "Contenu principalement compatible",
+		"spanish": "Contenido mayormente compatible",
+		"portuguese": "Conteúdo principalmente compatível",
+	},
+	"modMostlyCompatible_Text": {
+		"english": "This content has been marked by the developers as mostly compatible. It could contain bugs, but you can use it anyways.",
+		"german": "Dieser Inhalt wurde von den Entwicklern als kompatibel markiert. Sie könnten Bugs beinhalten, aber du kannst sie trotzdem verwenden.",
+		"french": "Ce contenu a été marqué par les développeurs comme étant le plus souvent compatible. Il pourrait contenir des bugs, mais vous pouvez tout de même l'utiliser.",
+		"spanish": "Este contenido ha sido marcado por los desarrolladores como mayormente compatible. Podría contener errores, pero puedes usarlo de todas formas.",
+		"portuguese": "Este conteúdo foi marcado pelos desenvolvedores como compatível. Pode conter bugs, mas você pode usá-lo de qualquer maneira.",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
@@ -1114,6 +1128,7 @@
 		"french": "Vitesse de la Caméra",
 		"spanish": "Velocidad de cámara",
 		"russian":"Скорость камеры",
+		"portuguese": "Velocidade da câmera",
 	},
 
 
@@ -1283,6 +1298,7 @@
 		"french": "Zoomer",
 		"spanish": "Acercar la vista",
 		"russian":"Приблизить",
+		"portuguese": "Mais Zoom",
 	},
 	"zoomOut": {
 		"english": "Zoom Out",
@@ -1290,6 +1306,7 @@
 		"french": "Dézoomer",
 		"spanish": "Alejar la vista",
 		"russian":"Отдалить",
+		"portuguese": "Reduzir o zoom",
 	},
 	"timeControl": {
 		"english": "Time Control",

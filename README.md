@@ -14,6 +14,7 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 ###### - **[TR]** Dosyaları oyunun bulunduğu yerde yeni bir klasör açıp yerleştirin ve klasörün ismini "**localization**" olarak değiştirin. Aşağıdaki verileri içeren **"custom.txt" dosyası oluşturmayı unutmayın**:
 ###### - **[RU]** Создайте папку "**localization**" в каталоге игры и поместите туда эти файлы. Не забудьте **создать "custom.txt"** со следующим содержимым:
 ###### - **[UA]** Cтворіть папку "**localization**" в каталозі гры та помістіть туди ці файли. Не забудьте ** створити "custom.txt" ** з наступним змістом:
+##### - **[NL]** Plaats de bestanden in je gamemap en hernoem het "** lokalisatie **". Vergeet niet ** een "custom.txt" ** te maken met het volgende:
 
 ## Custom.txt:
 ```

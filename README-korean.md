@@ -16,14 +16,22 @@ This is korean glossary for korean translator.
 - Satisfaction (Reward) Points: 만족 포인트
 - Satisfaction level: 만족도
 - expectations : 기대
+- Life: 삶 이라고 번역해뒀는데, "생활"로 고치는 게 적절할 듯
 - wish : 소원
 - coin: 코인
+- skill: 기술
+
+### 건강
+- Health: 생명력
+- Stamina: 체력
+- Healing Potion: 회복약
+- Illness medicine: 치료약
 
 ## 아이템 용어
 - Food / Meal: 아이템 분류를 말할 땐 통일해서 음식으로 번역. 문장 속에서 쓰읠 땐 meal은 식사로 번역
 - Raw Food: 생식, 조리되지 않은 음식
-- Campfire Food(Simple Meal): 간단히 구운 음식.
-- Kitchen Food(Good Meal): 제대로 익힌 음식.
+- Campfire Food(Simple Meal): 간단히 구운 음식. -> "모닥불에 구운 음식"
+- Kitchen Food(Good Meal): 제대로 익힌 음식. -> "조리된 음식"
 - Baked Food: 오븐에 구운 음식.
 - Apple Sturudel: 사과 슈트루델. 독일어가 원 단어라고 함.
 - Bonfire : 화톳불. 봉화..보다는 화톳불이 낫겠지.
@@ -38,19 +46,13 @@ This is korean glossary for korean translator.
 ## 게임 용어
 - beauty : (가구에서) 일단은 "아름다움".
 - Tikigoblins: 티키고블린. 중국어는 토착고블린으로 표현함. 흠.
-- master: 달인
 - Craftsman: 수공업자
+- job: 직업 이라고 번역해뒀는데, "임무" 정도가 적절하지 않을까?
 - Salary: 일당. 
 - payday: 일당 받는 날... 적당히 번역하기
 - Breakout, Lazy day: 파업
 
-## 건강
-- Health: 생명력
-- Stamina: 체력
-- Healing Potion: 회복약
-- Illness medicine: 치료약
-
 ## 문장 구성
-- %heShe%: 그/그녀. %himHer% 같은 경우도 모두 이것으로 대체하고 조사를 알맞게 붙이는 방향으로.
+- %heShe%: 그/그녀. %himHer% 같은 경우도 모두 이것으로 대체하고 "%heShe%의" 로 쓰기.
 - at least ~: ~ 이상의. 최소한 ~ 으로 번역하면 어색해짐.
-- 은/는 이/가 등의 조사: (준비중)
+- 은/는 이/가 등의 조사: #{은} #{는} 식으로 사용하면 알아서 적절한 조사로(#{은} -> 은 또는 는) 변형됨.

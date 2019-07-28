@@ -1,3 +1,8 @@
+# 한글 번역 단어집
+This is korean glossary for korean translator.
+
+한국어 번역자를 위한 단어집입니다. 단어가 햇갈리거나 명확하지 않을 때는 이 곳을 참고해주세요. 토론이 필요하다면 [여기](https://github.com/FourwingsY/FoundersFortuneLocalization-ko/issues)에 이슈 달아주세요 :) 
+
 ## 마을 관련
 - colony / colonist : 식민지로 번역하긴 뭐하니, 개척지 / 개척자. 
 - settler: 똑같이 개척자로 번역

@@ -43,7 +43,7 @@
 		"dutch": "Voedsel productie",
 		"portuguese": "Produção de alimentos",
 		"turkish": "Yiyecek üretimi",
-		"polish": "Produkcja ",
+		"polish": "Produkcja żywności",
 		"russian": "Производство еды",
 		"ukrainian":"Виробництво їжі",
 	},
@@ -91,7 +91,7 @@
 		"dutch": "Humeur",
 		"portuguese": "Humor",
 		"turkish": "Ruh hali",
-		"polish": "Nastrój",
+		"polish": "Humor",
 		"russian": "Настроение",
 		"ukrainian":"Настрій",
 	},
@@ -167,7 +167,15 @@ Veel geluk op dit eiland!",
 Слідкуйте за здоров'ям і безпекою колоністів. Агресивні жителі, виснажливі хвороби і сувора погода - ось лише деякі з проблем, з якими вам доведеться зустрітися. Якщо ви занадто довго піддаєте своїх колоністів незручностей, то вони можуть перестати виконувати ваші накази і почати робити все, що захочуть.
 
 Удачі з поселенням на цьому острові!",
-		//TODO polish translation
+		"polish": "Witaj!
+
+Musisz zadbać o swoich kolonistów, jeśli chcesz by Twoja osada się rozrosła.
+Najważniejsze jest, abyś zapewnił wystarczając ilość jedzenia dla kolonistów, szczególnie gdy zbliża się zima! Wydawaj bezpośrednio polecenia kolonistom lub przydziel im zawody, by pracowali automatycznie. Farmerzy i rzemieślnicy, żołnierze i uczeni - wszyscy odgrywają rolę w kolonii. Wydaj polecenie uczonym, by zaczęli badania nad nowymi technologiami by odblokować bardziej zaawansowane budynki, wyposażenie i umięjętności.
+
+Dbaj o bezpieczeństwo i zdrowie kolonistów, by utrzymać dobry nastrój w kolonii. Agresywni rdzenni mieszkańcy, Aggressive Natives, osłabiające choroby i zła pogoda to tylko niektóre z wyzwań, z którymi przyjdzie Ci się zmierzyć. Jeśli wystawisz kolonistów na trudności przez zbyt długi czas, zrezygnują oni z obowiązków na rzecz rzeczy, które chcą robić w danej chwili.
+											
+Powodzenia w zaludnianiu Twojej kolonii!"
+,
 	},
 	"helpMenuText_research": {
 		"english": "Your scholars come up with new technologies by studying the magic crystals scattered all around your settlement. Send out miners to collect some and build a book stand so your scholars may read up on techniques to analize the crystals. Make sure to select the next technology in the research panel in the top right corner.",
@@ -179,7 +187,7 @@ Veel geluk op dit eiland!",
 		"turkish": "Araştırmacılarınız adanın dört köşesinde dağılı bulunan kristalleri inceleyerek yeni teknolojiler geliştirirler. Madencilerinizle bu kristalleri topladıktan sonra bir kitap tezgahı kurarak araştırmacılarınızın kristalleri incelemelerini sağlayabilirsiniz. Sağ üst köşedeki araştırma panelinden bir teknoloji hedefi seçmeyi unutmayın.",
 		"russian": "Ваши ученые исследуют новые технологии, изучая магические кристаллы, разбросанные по всему вашему поселению. Разошлите шахтеров собирать кристаллы и постройте стол исследований, чтобы ваши ученые смогли начать изучать кристаллы. Обязательно выберите технологию на панели исследований в правом верхнем углу.",
 		"ukrainian":"Ваші вчені досліджують нові технології, вивчаючи магічні кристали, розкидані по всьому вашому поселенню. Розішліть шахтарів збирати кристали і побудуйте стіл досліджень, щоб ваші вчені змогли почати вивчати кристали. Обов'язково виберіть технологію на панелі досліджень в правому верхньому куті.",
-		//TODO polish translation
+		"polish": "Twoi uczeni odkrywają nowe technologie dzięki wykorzystaniu magicznych kryształów rozsianych dookoła Twojej koloni. Wyślij górników, by zebrali kryształy oraz zbuduj stanowisko badawcze by uczeni mogli zdobywać technologie dzięki analizie kryształów. Zaznacz następną technologię do odkrycia w górnym, prawym narożniku.",
 	},
 	"helpMenuText_foodProduction": {
 		"english": "Food matters. Good food makes colonists happy, wrong food makes colonists sick, little food makes colonists slow, and no food makes colonists die. So make sure you've got your production chain set up to provide for everyone!",
@@ -203,7 +211,7 @@ Veel geluk op dit eiland!",
 		"turkish": "Tarım",
 		"russian": "Фермерство",
 		"ukrainian":"Фермерство",
-		//TODO polish translation
+		"polish": "Uprawa",
 	},
 	"helpMenuText_foodProduction_farming": {
 		"english": "Everything begins in the fields, where industrious farmers spend their days caring for your crops. Depending on the season, they can sow a different selection of plants for food or medicinal purposes. Plants grow no matter how well you care for them, but good farmers use their watering cans to keep them growing optimally and increase their yield a lot. 
@@ -246,7 +254,7 @@ Gelukkige Landbouw!.",
 		"turkish": "Yiyecek beklentileri",
 		"russian": "Продовольственные ожидания",
 		"ukrainian":"Продовольчі очікування",
-		//TODO polish translation
+		"polish": "Oczekiwania żywieniowe",
 	},
 	"helpMenuText_foodProduction_expectations": {
 		"english": "Colonists can deal with a lot of hardship, but they are not dumb. When your colony grows in size and numbers, they will start to expect better food than just eating raw plants. Using the campfire or the kitchen you can make meals of higher quality for demanding colonists. If you can run a bakery as well, they will welcome the variety!

@@ -15,11 +15,12 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 ###### - **[RU]** Создайте папку "**localization**" в каталоге игры и поместите туда эти файлы. Не забудьте **создать "custom.txt"** со следующим содержимым:
 ###### - **[UA]** Cтворіть папку "**localization**" в каталозі гры та помістіть туди ці файли. Не забудьте ** створити "custom.txt" ** з наступним змістом:
 ###### - **[KO]** 파일들을 게임 폴더에 저장한 후, "**localization**"으로 저장하세요. **"custom.txt"를 생성**하고 아래 내용을 포함하는걸 잊지 마세요:
+###### - **[NL]** Plaats de bestanden in je gamemap en hernoem het "**lokalisatie **". Vergeet niet ** een "custom.txt" ** te maken met het volgende:
 
 ## Custom.txt:
 ```
 Game Version:
-Alpha 8.0.3
+Alpha 8.0.5
 Forced Language:
 english
 ```

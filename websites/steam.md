@@ -29,6 +29,9 @@ If it's still too long, talk to us.
 A fantasy colony simulator focusing on creative building, colonist psychology and base defense.
 Handle resources, farming, production, tools, weapons, armor, trading, defense, and research, as well as the wishes, expectations, thoughts, and possessions of every colonist.
 
+### Dutch
+Een fantasie koloniesimulator gericht op creatief bouwen, kolonistische psychologie en basisverdediging. Behandel middelen, landbouw, productie, gereedschap, wapens, bepantsering, handel, defensie en onderzoek, evenals de wensen, verwachtingen, gedachten en bezittingen van elke kolonist.
+
 ###  German
 Ein Fantasy Koloniesimulator, der sich auf kreatives Bauen, das Umsorgen deiner Kolonisten und Basenverteidigung konzentriert.
 Kümmere dich um Landwirtschaft, Produktion, Ausrüstung, Handel, Verteidigung und Forschung, sowie um die Wünsche, Erwartungen und Gedanken deiner Kolonisten.
@@ -69,6 +72,9 @@ Substitute "..." with your language
 ### English
 (The ... translation was done by the community.)
 
+### Dutch
+(De ... vertaling werd gedaan door de community.)
+
 ### French
 (La traduction française a été réalisée par la communauté.)
 
@@ -96,6 +102,14 @@ Build Your Colony
 When your colonists arrive, they have nothing but the clothes on their backs. You take control and tell them to gather materials and build walls, floors and furniture.
 
 You are not limited to predefined buildings! Design your own houses and style them to your liking. There are dozens of construction and furniture elements that you can use to create the settlement you’ve always dreamed of!
+
+
+### Dutch
+Bouw je kolonie
+
+Wanneer je kolonisten aankomen, hebben ze niets anders dan de kleding op hun rug. Jij neemt de controle en vertelt hen om materialen te verzamelen en muren, vloeren en meubels te bouwen.
+
+U bent niet beperkt tot vooraf gedefinieerde gebouwen! Ontwerp je eigen huizen en stijl ze naar wens. Er zijn tientallen constructie en meubelelementen die je kunt gebruiken om de nederzetting te maken waar je altijd van hebt gedroomd!
 
 
 ### German
@@ -160,6 +174,13 @@ Take Care of Your Colonists
 The colonists are your top priority. At first, you simply need to provide them with food and shelter. But the world is full of dangers! An infection might prove fatal to the strongest warrior and a plague can wipe out your entire colony.
 
 Each colonist reacts to events, happy or sad, and reflects that in their behavior. Happy colonists will receive a boost to their productivity – Unhappy colonists might throw a temper tantrum.
+
+### Dutch
+Zorg voor uw kolonisten
+
+De kolonisten hebben uw hoogste prioriteit. In het begin moet je ze gewoon van voedsel en onderdak voorzien. Maar de wereld is vol gevaren! Een infectie kan fataal zijn voor de sterkste krijger en een pest kan je hele kolonie teniet doen.
+
+Elke kolonist reageert op gebeurtenissen, blij of verdrietig, en weerspiegelt dat in hun gedrag. Gelukkige kolonisten krijgen een boost voor hun productiviteit - Ongelukkige kolonisten kunnen een driftbui krijgen.
 
 
 ### German
@@ -227,6 +248,15 @@ If you ignore your colonists' needs and wishes for too long, one of them might h
 
 At that point, all bets are off…
 
+
+### Dutch
+Pak driftbuien aan
+
+In een ideaal leven komen al je wensen uit, althans dat is wat Toni denkt. Vervulde wensen kunnen een goed humeur bevorderen, terwijl honger, verwondingen, saaie gesprekken of zelfs nachtmerries ervoor zorgen dat je burgers zich slecht voelen.
+
+Als je de behoeften en wensen van je kolonisten te lang negeert, kan een van hen een pech hebben en een driftbui krijgen.
+
+Op dat moment zijn alle weddenschappen uitgeschakeld...
 
 ### German
 Werde mit Nevenzusammenbrüchen fertig
@@ -304,6 +334,14 @@ Food matters. Good food makes colonists happy, wrong food makes colonists sick, 
 Grow a variety of seasonal crops and set up a kitchen to make delicious meals. Be sure to stock up before winter hits and act quick when a swarm of hungry bugs descends upon your fields!
 
 
+### Dutch
+Je boerderij opzetten
+
+Eten is belangrijk. Goed voedsel maakt kolonisten gelukkig, verkeerd voedsel maakt kolonisten ziek, weinig voedsel maakt kolonisten langzaam en geen voedsel laat kolonisten sterven!
+
+Kweek een verscheidenheid aan seizoensgebonden gewassen en zet een keuken op om heerlijke maaltijden te bereiden. Zorg ervoor dat je je voorraad inslaat voordat de winter toeslaat en snel handelen wanneer een zwerm hongerige insecten op je velden neerdaalt!
+
+
 ### German
 Baue deinen Bauernhof auf
 
@@ -366,6 +404,14 @@ Survive Winter
 Use the time you have and make sure you have enough food stored away, for winter is coming. Let’s hope you won’t have to halve rations – because that will make your colonists weak.
 
 When supplies dwindle and the freezing cold wind howls outside, it’s easy to lose hope...
+
+
+### Dutch
+Overleef de winter
+
+Gebruik de tijd die je hebt en zorg ervoor dat je voldoende voedsel hebt opgeslagen, want de winter komt eraan. Laten we hopen dat u het rantsoen niet hoeft te halveren - omdat uw kolonisten hierdoor zwak worden.
+
+Wanneer de voorraad afneemt en de ijskoude wind buiten huilt, is het gemakkelijk om de hoop te verliezen ...
 
 
 ### German
@@ -432,6 +478,14 @@ Word got around that your colony has started producing wares. Greet traveling tr
 Try to keep production up so you’ll always have something to sell. A mature colony needs to pay good salaries to keep everyone happy. If morale is low, additional funds can even buy a tiny bit of happiness!
 
 
+### Dutch
+handel in goederen en word rijk
+
+Er is bekend geworden dat je kolonie producten is gaan produceren. Begroet reizende handelaren en kijk of je een goede deal kunt krijgen voor enkele oude rollen of extra voedsel kunt kopen om je voor te bereiden op de winter.
+
+Probeer de productie hoog te houden zodat je altijd iets te verkopen hebt. Een volwassen kolonie moet goede salarissen betalen om iedereen gelukkig te houden. Als het moreel laag is, kunnen extra fondsen zelfs een klein beetje geluk kopen!
+
+
 ### German
 Handle mit Gütern und werde reich
 
@@ -496,6 +550,14 @@ Building your home is a long process and resources and manpower are not the only
 Select scholars carefully – if their personality doesn’t fit this type of work, they are not going to make a lot of progress.
 
 
+### Dutch
+onderzoekstechnologieën
+
+Het bouwen van je huis is een lang proces en middelen en mankracht zijn niet de enige dingen die je nodig hebt. Smart Settlers besteden veel tijd aan onderzoek naar nieuwe technologieën, waardoor betere apparatuur, nieuwe meubels en constructie elementen worden ontgrendeld.
+
+Selecteer wetenschappers zorgvuldig - als hun persoonlijkheid niet bij dit soort werk past, zullen ze niet veel vooruitgang boeken.
+
+
 ### German
 Erforsche Technologien
 
@@ -556,6 +618,14 @@ Protect Your Outpost
 You are not alone in this new land you call ‘home’. The Tikigoblins living there are not all that happy about your settling efforts and might pay you a visit to stop you.
 
 Train your colonists in the art of warfare and equip them with the best weapons and armor you have. Build walls and towers to ensure the security of your colony – that way, your enemies will have a difficult time trying to mess with you!
+
+
+### Dutch
+Bescherm uw buitenpost
+
+Je bent niet alleen in dit nieuwe land dat je 'thuis' noemt. De Tikigoblins die er wonen zijn niet zo blij met je afwikkelingsinspanningen en kunnen je een bezoek brengen om je te stoppen.
+
+Train je kolonisten in de kunst van het oorlogvoeren en rust ze uit met de beste wapens en bepantsering die je hebt. Bouw muren en torens om de veiligheid van je kolonie te waarborgen - op die manier zullen je vijanden het moeilijk hebben om met je te rotzooien!
 
 
 ### German
@@ -619,6 +689,10 @@ Yerleşimcilerinizi savaş sanatında eğit ve onları sahip olduğun en iyi sil
 We've been running a public Alpha from our Website for a while and we're continuing this project on Steam. We've used the feedback as a guiding light to determine which features to implement, which quality of live improvements to make, and which bugs to fix first. Together we're shooting for the best experience possible!
 
 
+### Dutch
+We hebben al een tijdje een openbare Alpha vanaf onze Website en we gaan door met dit project op Steam. We hebben de feedback gebruikt als leidraad om te bepalen welke functies we moeten implementeren, welke kwaliteit van live verbeteringen moet worden aangebracht en welke bugs eerst moeten worden opgelost. Samen streven we voor de best mogelijke ervaring!
+
+
 ### German
 Auf unserer Website hatten wir einige Monate lang eine öffentliche Alpha laufen und werden das Projekt jetzt auf Steam fortsetzen. Die Entwicklung des Spiels ist dabei stark auf das Feedback unserer Community ausgerichtet. Dieses dient uns als Wegweiser, um besser entscheiden zu können welche Funktionen eingebaut werden sollten, welche Verbesserungen notwendig sind und welche Bugs zuerst gefixt werden müssen. Gemeinsam streben wir so ein möglichst ideales Spielerlebnis an!
 
@@ -649,6 +723,10 @@ Bir süredir Web sitemizden halka açık bir Alpha yürütüyoruz ve Steam'deki 
 
 ### English
 Depending on the amount of support we get, we plan to leave early access between September 2019 and September 2020.
+
+
+### Dutch
+Afhankelijk van de hoeveelheid ondersteuning die we krijgen, zijn we van plan om vroege toegang te verlaten tussen september 2019 en september 2020.
 
 
 ### German
@@ -690,6 +768,18 @@ The big items on our roadmap include
 
 These are things we'd like to do and the final results depends on the amount of support Founders' Fortune gets. If we get no support at all, we'll switch to polishing and make the current experience as smooth as possible.
 
+
+### Dutch
+De grote items op onze routekaart zijn onder meer
+[lijst]
+[*] Gebouwen met meerdere verdiepingen en daken
+[*] Dieren en huisdieren
+[*]Relaties
+[*] Meerdere eilanden
+[*] Andere facties
+[lijst]
+
+Dit zijn dingen die we graag zouden willen doen en het uiteindelijke resultaat hangt af van de hoeveelheid steun die Founders 'Fortune krijgt. Als we helemaal geen ondersteuning krijgen, schakelen we over op polijsten en maken we de huidige ervaring zo soepel mogelijk.
 
 ### German
 Die großen Punkte auf unserer Roadmap beinhalten
@@ -788,6 +878,11 @@ In the past, we've made various Alpha versions available via our website for pla
 All features in the Trailer, Screenshots, and in the "About this game" section below are implemented and playable.
 
 
+### Dutch
+In het verleden hebben we via onze website verschillende alfa versies beschikbaar gemaakt voor spelers. Op het moment van schrijven hebben we elke dag 100-300 spelers die vaak meer dan 18 uur spenderen om de technische boom te ontgrendelen en nog meer tijd om de bevolkingslimiet te bereiken.
+
+Alle functies in de trailer, screenshots en in het gedeelte 'Over deze game' zijn geïmplementeerd en speelbaar
+
 ### German
 Bisher hatten wir die Alpha von Founders' Fortune auf unserer Website kostenlos zur Verfügung gestellt. Zum Zeitpunkt der Erstellung dieser Beschreibung haben wir ca. 100-300 aktive Spieler pro Tag. Für das Erforschen aller Technologien und das Erreichen der maximalen Kolonistenanzahl sind sie gerne mal 18 Stunden beschäftigt.
 
@@ -834,6 +929,10 @@ Trailer, Ekran Görüntüleri ve aşağıdaki "Bu oyun hakkında" bölümündeki
 We plan to raise the price for Founders' Fortune as we add more features to the game. The exact amount depends on how much content we can add.
 
 
+## Dutch
+We zijn van plan de prijs voor Founders 'Fortune te verhogen naarmate we meer functies aan het spel toevoegen. Het exacte bedrag hangt af van hoeveel inhoud we kunnen toevoegen.
+
+
 ### German
 Wir haben vor den Preis für Founders' Fortune anzuheben während wir das Spiel verbessern. Der genaue Betrag hängt von den neuen Inhalten ab.
 
@@ -864,6 +963,10 @@ Oyuna daha fazla özellik katarken, Founders' Fortune fiyatını yükseltmeyi pl
 
 ### English
 We have an amazing community and we're involving them quite extensively already via our in-game feedback box, the Discord Server and the forum. We've also joined a Twitch Streamer to answer questions from the community live.
+
+
+### Dutch
+We hebben een geweldige community en we betrekken ze al behoorlijk uitgebreid via onze in-game feedbackbox, de Discord Server en het forum. We zijn ook lid geworden van een Twitch Streamer om vragen van de community live te beantwoorden.
 
 
 ### German

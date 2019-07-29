@@ -123,6 +123,7 @@
 		"russian":"Вернуть %furniture% обратно в %location%",
 		"chinese": "在%location% 返回 %furniture%",
 		"arabic": "ﻊﺟﺭﺍ %furniture% ﻰﻟﺇ %location%",
+		"polish": "Mieć %furniture% z powrotem w %location%",
 	},
 	"furnitureCategory_AChair": {
 		"english": "a Chair",
@@ -214,7 +215,7 @@
 		"portuguese": "uma cômoda",
 		"swedish": " en byrå",
 		"dutch": "een Ladenkast",
-		"ukrainian":"Комод",
+		"ukrainian":"Туалет",
 		"russian":"комод",
 		"chinese": "化妆台",
 		"arabic": "ﻦﻳﺰﺨﺗ ﺝﺍﺭﺩﺃ",
@@ -234,6 +235,7 @@
 		"russian":"Большая полка или шкаф",
 		"chinese": "大的架子或衣橱",
 		"arabic": "ﺲﺑﻼﻣ ﺏﻻﻭﺩ ﻭﺃ ﺮﻴﺒﻛ ﻑﺭ",
+		"polish": "Duża szafa lub garderoba",
 	},
 	"furnitureCategory_AChest": {
 		"english": "a Chest",
@@ -249,6 +251,7 @@
 		"russian":"Сундук",
 		"chinese": "柜子",
 		"arabic": "ﻕﻭﺪﻨﺻ",
+		"polish": "Skrzynia",
 	},
 	"furnitureCategory_AFlowerPot": {
 		"english": "a Flower Pot",
@@ -264,6 +267,7 @@
 		"russian":"Цветочный горшок",
 		"chinese": "花盆",
 		"arabic": "ﺭﻮﻫﺰﻠﻟ ﺀﺎﻧﺇ",
+		"polish": "Doniczka",
 	},
 	"furnitureCategory_AVase": {
 		"english": "a Vase",
@@ -279,6 +283,7 @@
 		"russian":"Ваза",
 		"chinese": "花瓶",
 		"arabic": "ﺔﻳﺮﻫﺰﻣ",
+		"polish": "Waza",
 	},
 	"furnitureCategory_AToolStorage": {
 		"english": "a place to store tools",
@@ -292,6 +297,7 @@
 		"russian":"место для хранения инструментов",
 		"chinese": "存放工具的地方",
 		"arabic": "ﺕﺍﻭﺩﻷﺍ ﻦﻳﺰﺨﺘﻟ ﻥﺎﻜﻣ",
+		"polish": "miejsce do trzymania narzędzi",
 	},
 	"furnitureCategory_AWeaponStorage": {
 		"english": "a place to store weapons",
@@ -305,6 +311,7 @@
 		"russian":"место для хранения оружия",
 		"chinese": "存放武器的地方",
 		"arabic": "ﺔﺤﻠﺳﻷﺍ ﻦﻳﺰﺨﺘﻟ ﻥﺎﻜﻣ",
+		"polish": "miejsce do trzymania broni",
 	},
 	"furnitureCategory_AClothesStorage": {
 		"english": "a place to store clothes",
@@ -318,6 +325,7 @@
 		"russian":"место для хранения одежды",
 		"chinese": "存放衣服的地方",
 		"arabic": "ﺲﺑﻼﻤﻟﺍ ﻦﻳﺰﺨﺘﻟ ﻥﺎﻜﻣ",
+		"polish": "miejsce do trzymania ubrań",
 	},
 	"furnitureCategory_AArmorStorage": {
 		"english": "a place to store armor",
@@ -331,6 +339,7 @@
 		"russian":"место для хранения брони",
 		"chinese": "储存盔甲的地方",
 		"arabic": "ﻉﻭﺭﺪﻟﺍ ﻦﻳﺰﺨﺘﻟ ﻥﺎﻜﻣ",
+		"polish": "miejsce do trzymania zbroji",
 	},
 	"wishLocation_Room": {
 		"english": "%hisHer% Room",
@@ -349,6 +358,7 @@
 		"russian":"своей комнате",
 		"chinese": "%hisHer%房间",
 		"arabic": "ﺔﻓﺮﻏ %hisHer%",
+		"polish": "%jegoJej% pokój",
 	},
 	"wishLocation_House": {
 		"english": "%hisHer% House",
@@ -367,6 +377,7 @@
 		"russian":"своем доме",
 		"chinese": "%hisHer%房子",
 		"arabic": "ﺖﻴﺑ %hisHer%",
+		"polish": "%jegoJej dom%",
 	},
 	"wishLocation_Colony": {
 		"english": "the Colony",
@@ -382,6 +393,7 @@
 		"russian":"колонии",
 		"chinese": "殖民地",
 		"arabic": "ﺓﺮﻤﻌﺘﺴﻤﻟﺍ",
+		"polish": "Kolonia",
 	},
 	"useSatisfactionRewardPoints": {
 		"english": "Use Satisfaction Reward Points",
@@ -397,6 +409,7 @@
 		"russian":"Используйте очки удовлетворения",
 		"chinese": "使用满意奖励点数",
 		"arabic": "ﺎﺿﺮﻟﺍ ﺓﺄﻓﺎﻜﻣ ﻁﺎﻘﻧ ﻡﺪﺨﺘﺳﺍ",
+		"polish": "Użyj punktów nagród zadowolenia",
 	},
 	"getRidOfTrait": {
 		"english": "Get rid of Trait: %trait%",
@@ -412,6 +425,7 @@
 		"russian":"Избавиться от черты: %trait%",
 		"chinese": "移除特性:%trait%",
 		"arabic": ":ﺔﻤﺴﻟﺍ ﻦﻣ ﺺﻠﺨﺘﻟﺍ %trait%",
+		"polish": "Pozbądź się cechy: %trait%",
 	},
 	"getRidOfCondition": {
 		"english": "Get rid of Condition: %condition%",
@@ -427,6 +441,7 @@
 		"russian":"Избавиться от состояния: %condition%",
 		"chinese": "移除状态: %condition%",
 		"arabic": ":%condition% :ﺔﻟﺎﺤﻟﺍ ﻦﻣ ﺺﻠﺨﺘﻟﺍ",
+		"polish": "Pozbądź się warunku %condition%",
 	},
 	"getBackToFullHealth": {
 		"english": "Get back to full health",
@@ -442,6 +457,7 @@
 		"russian":"Восстановить здоровье",
 		"chinese": "恢复健康",
 		"arabic": "ﺔﻠﻣﺎﻛ ﺔﺤﺻ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ",
+		"polish": "Wróć do pełni zdrowia",
 	},
 	"getBigPayday": {
 		"english": "Get a big payday of at least %coins% coins",
@@ -455,6 +471,7 @@
 		"russian":"Получить зарплату не менее %coins% монет",
 		"chinese": "今日大收获,获得至少%coins%硬币",
 		"arabic": "ﻞﻗﻷﺍ ﻰﻠﻋ ﺔﻴﻧﺪﻌﻣ ﺔﻠﻤﻋ %coins% ﺐﺗﺍﺭ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ",
+		"polish": "Otrzymać dużą wypłatę, co najmniej %coins% monet",
 	},
 	"defeatGoblin": {
 		"english": "Defeat Tiki Goblin",
@@ -468,6 +485,7 @@
 		"russian":"Разгромить Тикигоблина",
 		"chinese": "击败土著哥布林",
 		"arabic": "ﻲﻜﻴﺗ ﺖﻳﺮﻔﻋ ﻡﺰﻫﺍ",
+		"polish": "Pokonać Goblina Tiki",
 	},
 	"storeFoodForWinter": {
 		"english": "Store at least %food% meals in preparation for winter",
@@ -481,5 +499,6 @@
 		"russian":"Запастись не менее %food% ед. еды на зиму",
 		"chinese": "储存至少%food%的食物,为冬天做准备",
 		"arabic": "ﺀﺎﺘﺸﻠﻟ ﺍﺩﺍﺪﻌﺘﺳﺇ ، ﻞﻗﻷﺍ ﻰﻠﻋ ﺔﺒﺟﻭ %food% ﻥﺰﺧ",
+		"polish": "Mieć w magazynie przynajmniej %food% posiłków przygotowanych na zimę",
 	},
 }

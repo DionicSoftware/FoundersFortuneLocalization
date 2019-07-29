@@ -4,8 +4,8 @@ This is korean glossary for korean translator.
 한국어 번역자를 위한 단어집입니다. 단어가 햇갈리거나 명확하지 않을 때는 이 곳을 참고해주세요. 토론이 필요하다면 [여기](https://github.com/FourwingsY/FoundersFortuneLocalization-ko/issues)에 이슈 달아주세요 :) 
 
 ## 마을 관련
-- colony / colonist : 식민지로 번역하긴 뭐하니, 개척지 / 개척자. 
-- settler: 똑같이 개척자로 번역
+- colony / colonist : 식민지로 번역하긴 뭐하니, 개척지 -> "정착지" / 개척자. 
+- settler / founder: 똑같이 개척자로 번역할 생각.
 - base : 마을
 - migrant : 이주자
 - party: 축제
@@ -42,6 +42,7 @@ This is korean glossary for korean translator.
 - metal (sword): 철검/쇠도끼/쇠곡괭이. 쇠칼만 어색해서 이런 식으로.
 - Apprentice (Forester)'s Clothes: 풋내기 (나무꾼)의 옷. 다른 후보: 수습, 초보 등. 혹은 아예 순서를 뒤바꿔서 벌목 풋내기의 옷. 이 경우, 나무꾼 풋내기 같은 표현을 쓸 수 없으므로 직업 대신 행동으로 표현해야 한다.
 - Master (Forester)'s Clothes: 전문 (나무꾼)의 옷. 다른 후보: 수석, 일류. 순서를 뒤바꾼다면 벌목 달인의 옷. 전문-의 경우 이 분야에 통달했다기보다는 이 분야에 특화되어있다는 느낌이 강해서 어색하긴 한데, 수석 농부보다는 전문 농부가 나을 것 같음. 예외) master scholar: 박사로 표현
+- Book stand: 연구대
 
 ## 게임 용어
 - beauty : (가구에서) 일단은 "아름다움".
@@ -51,6 +52,7 @@ This is korean glossary for korean translator.
 - Salary: 일당. 
 - payday: 일당 받는 날... 적당히 번역하기
 - Breakout, Lazy day: 파업
+- Bug Infestations: 병충해 발생
 
 ## 문장 구성
 - %heShe%: 그/그녀. %himHer% 같은 경우도 모두 이것으로 대체하고 "%heShe%의" 로 쓰기.

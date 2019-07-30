@@ -48,6 +48,7 @@ This is korean glossary for korean translator.
 - beauty : (가구에서) 일단은 "아름다움".
 - Tikigoblins: 티키고블린. 중국어는 토착고블린으로 표현함. 흠.
 - Craftsman: 수공업자
+- profession: "직업"
 - job: 직업 이라고 번역해뒀는데, "임무" 정도가 적절하지 않을까?
 - Salary: 일당. 
 - payday: 일당 받는 날... 적당히 번역하기

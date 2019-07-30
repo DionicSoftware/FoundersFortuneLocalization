@@ -20,6 +20,7 @@ This is korean glossary for korean translator.
 - wish : 소원
 - coin: 코인
 - skill: 기술
+- trait: 성질, 성향
 
 ### 건강
 - Health: 생명력

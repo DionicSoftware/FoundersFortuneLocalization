@@ -686,7 +686,7 @@ Os soldados são aconselhados a treinar em combate com um manequim de treinament
 		"polish": "Z drugiej strony, twoi koloniści powinnie mieć czas dla siebie. Jeśli są naprawdę szczęśliwi, mogą wejść w stan inspiracji, w którym pracują z niesamowicie nieograniczoną energią bez potrzeby snu! Kiedy osiągną ten rzadki stan, nie mogą przestać się uśmiechać.",
 		"russian": "С другой стороны, ваши колонисты могут хорошо проводить время. Если они очень счастливы, они могут впасть в состояние вдохновения и работать с безлимитной энергией без желания спать! Когда они достигают этого редкого состояния, они просто не могут перестать улыбаться.",
 		"ukrainian":"З іншого боку, ваші колоністи можуть добре проводити час. Якщо вони дуже щасливі, вони можуть впасти в стан натхнення і працювати з безлімітного енергією без бажання спати! Коли вони досягають цього рідкісного стану, вони просто не можуть перестати посміхатися.",
-		"korean": "",
+		"korean": "반면, 개척자들은 자신을 위한 시간을 보낼 수 있습니다. 정말로 행복할 때면, 개척자는 영감의 단계에 진입하게 될 수도 있습니다. 이 단계에서, 그들은 잠도 필요없는 거의 무제한의 에너지를 가진 것처럼 일할 수 있습니다! 드물게 이 상태에 진입한 개척자들에게서는, 미소가 지워지지 않습니다.",
 	},
 	
 	"helpMenuTitle_wishes": {
@@ -699,7 +699,7 @@ Os soldados são aconselhados a treinar em combate com um manequim de treinament
 		"polish": "Życzenia",
 		"russian": "Мечты",
 		"ukrainian":"Мрії",
-		"korean": "",
+		"korean": "소원",
 	},
 	"helpMenuText_wishes": {
 		"english": "Every inhabitant in the colony is here because of a dream.
@@ -726,7 +726,9 @@ Claro, isso às vezes pode ser difícil. Mas durante esse tempo, os colonos quer
 Мрії про краще життя.
 Звичайно, їх виконання іноді важко. Але в той же час, колоністи хочуть побудувати будинок, який їм подобається, в якому вони відчувають себе комфортно. Про що саме мріють колоністи можна подивитися в панелі Мрії.",
 		//TODO polish translation
-		"korean": "",
+		"korean": "이 개척지에 있는 모든 주민들은 어떤 꿈이 있어서 여기에 왔습니다.
+더 나은 삶에 대한 꿈이죠.
+물론, 때로는 어려울 겁니다. 하지만 평소엔, 개척자들은 그들이 좋아하는 집을 짓고 싶어합니다. 자신을 편안하게 할 수 있는 공간이요. 정확하게 말하자면, 모든 개척자들의 소원 패널에 표시된 것 말이죠.",
 	},
 	"helpMenuTitle_wishes_fulfillingDenying": {
 		"english": "Fulfilling and Denying Wishes",
@@ -738,7 +740,7 @@ Claro, isso às vezes pode ser difícil. Mas durante esse tempo, os colonos quer
 		"polish": "Spełnianie i odrzucanie życzeń",
 		"russian": "Исполнение и Отклонение мечт",
 		"ukrainian":"Виконання і Відхилення мрій",
-		"korean": "",
+		"korean": "소원을 들어주거나 거부하는 것",
 	},
 	"helpMenuText_wishes_fulfillingDenying": {
 		"english": "It's your decision whether you make the colonists happy or not. If you fulfill the wish of a colonist, they are going to become a little happier for a while.
@@ -758,7 +760,8 @@ Por outro lado, você também pode optar por recusar os votos. É assim que voc�
 		"ukrainian":"Це ваше рішення - виконувати мрії колоністів чи ні. Однак, якщо ви виконаєте мрію колоніста, він стане щасливий на деякий час.
 Або ви можете сказати йому, що його мрія не буде виконана. Він засмутиться і почне мріяти про щось інше.",
 		//TODO polish translation
-		"korean": "",
+		"korean": "개척자들을 행복하게 할지, 혹은 하지 않을지는 당신의 선택입니다. 개척자들의 소원을 들어준다면, 그들은 잠시동안 좀 더 행복할겁니다.
+반대로, 소원을 들어주길 거부할 수도 있습니다. 그건 개척자들에게 이 소원이 이루어지지 않을 것이라고 말하는 것과 같습니다. 그러면 그들은 다른 소원을 생각해 볼 것입니다. 그래도 기분이 나쁘긴 할 겁니다.",
 	},
 	"helpMenuTitle_wishes_satisfaction": {
 		"english": "Life satisfaction",
@@ -770,7 +773,7 @@ Por outro lado, você também pode optar por recusar os votos. É assim que voc�
 		"polish": "Zadowolenie z życia",
 		"russian": "Удовлетворенность жизнью",
 		"ukrainian":"Задоволеність життям",
-		"korean": "",
+		"korean": "생활 만족도",
 	},
 	"helpMenuText_wishes_satisfaction": {
 		"english": "If you fulfill more and more wishes of your colonist, they are going to become ever more satisfied with the life in the colony. This satisfaction is not only necessary for attracting new migrants, but has some long term impact as well: With each satisfaction level, your colonist earns a life satisfaction point. Once the colonist has enough of them, these points can be used to change one of their fundamental traits.
@@ -790,6 +793,7 @@ Por exemplo, uma pessoa que sofre de pessimismo pode ser um verdadeiro obstácul
 		"ukrainian":"Якщо ви будете виконувати все більше і більше мрій свого колоніста, він буде все більше і більше задоволений життям в колонії. Це задоволення не тільки необхідно для залучення нових мігрантів, а й надає довгострокове вплив: з кожним новим рівнем задоволеності ваш колоніст заробляє бал задоволеності життям. Коли у колоніста їх досить, їх можна використовувати для зміни однієї з основних рис.
 Наприклад, песиміст може стати важким тягарем для колонії. Однак, якщо колоніст накопичує достатню кількість очок задоволеності життям, ви можете замінити песимістичну ознаку на що-небудь позитивне.",
 		//TODO polish translation
-		"korean": "",
+		"korean": "만약 당신이 개척자들의 소원을 더 많이 들어준다면, 개척자들은 정착지에서의 생활에 더욱 만족감을 느낄 겁니다. 이 만족이라는 개념은 새로운 이주민을 끌어들이는 데에 필수적일 뿐 아니라, 장기적인 영향도 발휘합니다: 각자의 만족도 레벨이 올라갈 때마다, 개척자는 생활 만족 포인트를 얻습니다. 충분한 포인트가 모이면, 이 포인트는 개척자의 근본적인 성향을 변화시키는 데에 사용될 수 있습니다.
+예를 들자면, 비관주의로 고통받는 누군가는 정착지의 방해물일 지도 모릅니다. 그렇지만 개척자가 충분한 생활 만족 포인트를 모으로 나면, 당신은 그에게서 비관주의 성향을 지워내고, 긍정적인 무언가로 대체할 수도 있습니다.",
 	},
 }

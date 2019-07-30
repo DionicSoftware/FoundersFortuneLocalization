@@ -1,7 +1,6 @@
 // To avoid gendering difficulties, feel free to have the profession description in plural
 // For example "Farmers gather food. They are great." is easier than "A farmer gathers food. He or she is great."
 
-
 {
 	"professionName_NoJob": {
 		"english": "No Job",
@@ -16,6 +15,7 @@
 		"chinese": "无职业",
 		"arabic": "ﺔﻔﻴﻇﻭ ﻼﺑ",
 		"korean": "무직",
+		"polish": "Bez zawodu",
 	},
 	"professionDesc_NoJob": {
 		"english": "Select a job for your settler so they may work more independently.",
@@ -30,6 +30,7 @@
 		"chinese": "为你的殖民者选择一份职业,这样他们可以更好地分工合作.",
 		"arabic": ".ﺔﻴﻟﻼﻘﺘﺳﺍ ﺮﺜﻛﺃ ﻞﻜﺸﺑ ﻞﻤﻌﻟﺍ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻰﺘﺣ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺔﻔﻴﻇﻭ ﺩﺪﺣ",
 		"korean": "개척자에게 직업을 정해주고 나면, 알아서 자신의 할 일을 찾아가기 시작합니다.",
+		"polish": "Wybierz zawód swojemu osadnikowi, aby zaczął pracować bardziej niezależnie.",
 	},
 	"professionName_Farmer": {
 		"english": "Farmer",
@@ -44,6 +45,7 @@
 		"chinese": "农民",
 		"arabic": "ﻉﺭﺍﺰﻣ",
 		"korean": "농부",
+		"polish": "Rolnik",
 	},
 	"professionDesc_Farmer": {
 		"english": "Farmers are responsible for food production and cooking food. When not busy, they also gathers cotton.",
@@ -58,6 +60,7 @@
 		"chinese": "农民负责食品的生产和烹饪.空闲时他们也会采摘棉花.",
 		"arabic": ".ﺎًﻀﻳﺍ ﻦﻄﻘﻟﺍ ﻊﻤﺠﺑ ﻥﻮﻣﻮﻘﻳ ،ﻥﻮﻟﻮﻐﺸﻣ ﻥﻮﻧﻮﻜﻳ ﻻ ﺎﻣﺪﻨﻋ .ﺦﺒﻄﻟﺍﻭ ﻡﺎﻌﻄﻟﺍ ﺝﺎﺘﻧﺇ ﻦﻋ ﻥﻮﻟﻭﺆﺴﻣ ﻥﻮﻋﺭﺍﺰﻤﻟﺍ",
 		"korean": "농부는 식재료를 마련하고 음식을 요리할 책임이 있습니다. 바쁘지 않으면, 목화를 채집하러 나가기도 하죠.",
+		"polish": "Rolnicy są odpowiedzialni za produkcję jedzenia i gotowanie go. Kiedy nie są zajęci, będą także zbierać bawełnę.",
 	},
 	"professionName_Forester": {
 		"english": "Forester",
@@ -72,6 +75,7 @@
 		"chinese": "伐木工",
 		"arabic": "ﺮّﺠَﺸُﻣ",
 		"korean": "나무꾼",
+		"polish": "Drwal",
 	},
 	"professionDesc_Forester": {
 		"english": "As a forester your settler cuts down trees for wood. For Mother Nature's sake, foresters also takes care of saplings.",
@@ -86,6 +90,7 @@
 		"chinese": "伐木工砍伐树木获取木材.为了生态,也会种植树苗.",
 		"arabic": ".ﺕﻼﺘﺸﻟﺎﺑ ﻲﻨﺘﻌﻳ ،ﻡﻷﺍ ﺔﻌﻴﺒﻄﻟﺍ ﻞﺟﺃ ﻦﻣﻭ .ﺐﺸﺨﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺭﺎﺠﺷﻷﺍ ﻊﻄﻘﺑ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻳ ﺮّﺠَﺸُﻤﻛ",
 		"korean": "나무꾼은 나무를 베어 목재를 만들어냅니다. 대자연을 위해, 묘목을 건드리지는 않습니다.",
+		"polish": "Jako drwal, Twój osadnik ścina drzewa na drewno. W celu wyrównania środowiska, drwale także dbają o sadzenie nowych drzew.",
 	},
 	"professionName_Miner": {
 		"english": "Miner",
@@ -100,6 +105,7 @@
 		"chinese": "矿工",
 		"arabic": "ﻢﺠﻨﻣ ﻞﻣﺎﻋ",
 		"korean": "광부",
+		"polish": "Górnik",
 	},
 	"professionDesc_Miner": {
 		"english": "Miners gather stones, mine for iron and collect crystals.",
@@ -114,6 +120,7 @@
 		"chinese": "矿工收集石头,挖掘铁矿和水晶.",
 		"arabic": ".ﺕﺍﺭﻮﻠﺒﻟﺍ ﻊﻤﺟﻭ ﺪﻳﺪﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺘﻟﺍ ،ﺓﺭﺎﺠﺤﻟﺍ ﻊﻤﺠﺑ ﻥﻮﻣﻮﻘﻳ ﻢﺟﺎﻨﻤﻟﺍ ﻝﺎﻤﻋ",
 		"korean": "광부는 돌을 채집하고, 철광석을 캐거나 크리스탈을 수집합니다.",
+		"polish": "Górnicy zbierają kamienie, wydobywają żelazo i zdobywają kryształy.",
 	},
 	"professionName_Craftsman": {
 		"english": "Craftsman",
@@ -128,6 +135,7 @@
 		"chinese": "工匠",
 		"arabic": "ﻲﻓَﺮِﺣ",
 		"korean": "수공업자",
+		"polish": "Rzemieślnik",
 	},
 	"professionDesc_Craftsman": {
 		"english": "As a craftsman your settler produces all the goods that you order at one of your workshops.",
@@ -142,6 +150,7 @@
 		"chinese": "工匠生产工坊定制的所有商品.",
 		"arabic": ".ﻞﻤﻌﻟﺍ ﺵﺭﻭ ﻯﺪﺣﺇ ﻲﻓ ﺎﻬﺒﻠﻄﺗ ﻲﺘﻟﺍ ﻊﺋﺎﻀﺒﻟﺍ ﻊﻴﻤﺟ ﻦﻃﻮﺘﺴﻤﻟﺍ ﺞﺘﻨﻳ ﻲﻓَﺮِﺤﻛ",
 		"korean": "수공업자는 당신이 작업대에 지시해둔 물품들을 생산해냅니다.",
+		"polish": "Jako rzemieślnik, twój kolonista produkuje dobra, które zamawiasz w jednym z warsztatów.",
 	},
 	"professionName_Doctor": {
 		"english": "Doctor",
@@ -156,6 +165,7 @@
 		"chinese": "医生",
 		"arabic": "ﺐﻴﺒﻃ",
 		"korean": "의사",
+		"polish": "Lekarz",
 	},
 	"professionDesc_Doctor": {
 		"english": "A doctor tries to keep your colonists alive. If hurt, doctors treat them so they can go back to working for you.",
@@ -169,6 +179,7 @@
 		"chinese": "医生会保障你的殖民者的生命.如果他们受伤了,医生会对他们进行治疗,这样他们就可以继续为你工作了.",
 		"arabic": ".ﻚﻠﺟﺃ ﻦﻣ ﻞﻤﻌﻟﺍ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻰﺘﺣ ﺀﺎﺒﻃﻷﺍ ﻢﻬﺠﻟﺎﻌﻳ ، ﺔﺑﺎﺻﻹﺍ ﺔﻟﺎﺣ ﻲﻓ .ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﺎﻘﺑﺇ ﺐﻴﺒﻄﻟﺍ ﻝﻭﺎﺤﻳ",
 		"korean": "의사는 개척자들이 죽지 않게 하려고 노력합니다. 만약 다친 사람이 있다면, 의사는 그들을 치료해 다시 일할 수 있게 합니다.",
+		"polish": "Lekarz próbuje utrzymywać twoich kolonistów przy życiu. Jeśli zostaną zranieni, lekarze leczą ich, aby mogli powrócić do pracy dla Ciebie.",
 	},
 	"professionName_Soldier": {
 		"english": "Soldier",
@@ -183,6 +194,7 @@
 		"chinese": "战士",
 		"arabic": "ﻱﺪﻨﺟ",
 		"korean": "군인",
+		"polish": "Żołnierz",
 	},
 	"professionDesc_Soldier": {
 		"english": "Soldiers keep your colony safe. As they have more experience with fighting than the average settler, they can use advanced weapons.",
@@ -197,6 +209,7 @@
 		"chinese": "战士保护你的领地安全.因为他们比普通殖民者有更多的战斗经验,并且他们可以使用先进的武器.",
 		"arabic": ".ﺔﻣﺪﻘﺘﻤﻟﺍ ﺔﺤﻠﺳﻷﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻢﻬﻨﻜﻤﻴﻓ ، ﻱﺩﺎﻌﻟﺍ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ ﺮﺜﻛﺃ ﻝﺎﺘﻘﻟﺍ ﻲﻓ ﺓﺮﺒﺧ ﻢﻬﻳﺪﻟ ﻥﻷﻭ .ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻥﺎﻣﺃ ﻰﻠﻋ ﻥﻮﻈﻓﺎﺤﻳ ﺩﻮﻨﺠﻟﺍ",
 		"korean": "군인은 개척지를 안전하게 지킵니다. 그들은 다른 평범한 개척자보다 더 많은 전투를 겪었기 때문에, 더 나은 무기를 사용할 수 있습니다.",
+		"polish": "Żołnierze utrzymują Twoją kolonię w bezpieczeństwie. Wraz ze wzrostem doświadczenia walczą oni lepiej niż przeciętni osadnicy, mogą oni używać bardziej zaawansowanej broni.",
 	},
 	"professionName_Scholar": {
 		"english": "Scholar",
@@ -211,6 +224,7 @@
 		"chinese": "学者",
 		"arabic": "ﻢﻟﺎﻋ",
 		"korean": "학자",
+		"polish": "Uczony",
 	},
 	"professionDesc_Scholar": {
 		"english": "As a scholar your colonist research new technologies to advance your colony.",
@@ -225,6 +239,7 @@
 		"chinese": "学者研究新技术来发展你的殖民地.",
 		"arabic": ".ﻚﺗﺮﻤﻌﺘﺴﻣ ﺰﻳﺰﻌﺘﻟ ﺓﺪﻳﺪﺟ ﺕﺎﻴﻨﻘﺗ ﻦﻋ ﺚﺤﺒﻟﺎﺑ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻳ ﻢﻟﺎﻌﻛ",
 		"korean": "학자는 개척지를 발전시키기 위해 새로운 기술을 연구합니다.",
+		"polish": "Jako uczony, twój kolonista odkrywa nowe technologie, aby rozwijać kolonię.",
 	},
 	"professionSpecialization_CraftsmanCarpenting": {
 		"english": "Carpenting",
@@ -235,27 +250,26 @@
 		"turkish": "Marangoz",
 		"portuguese": "Carpinteiro",
 		"russian": "Плотничество",
-		"ukrainian":"Створювати",
+		"ukrainian":"Теслярство",
 		"chinese": "制造",
 		"arabic": "ﺓﺭﺎﺠﻨﻟﺍ",
 		"korean": "목공일 하기",
+		"polish": "Stolarstwo",
 	},
 	"professionSpecialization_CraftsmanMasonry": {
 		"english": "Masonry",
 		"dutch":  "metselwerk",
 		"german": "Steinmetzerei",
-		// I just copy pasted these languages, correct if necessary
-		// TODO-russian
-		// TODO-ukrainian
 		"french": "Maçonnerie",
 		"spanish": "Albañilería",
 		"portuguese": "Alvenaria",
 		"turkish": "Taş İşçiliği",
 		"russian": "Обработка камня",
-		"ukrainian":"Цегляна кладка",
+		"ukrainian":"Обробка камня",
 		"chinese": "砖石建筑",
 		"arabic": "ﺀﺎﻨﺒﻟﺍ",
 		"korean": "석공일 하기",
+		"polish": "Kamieniarstwo",
 	},
 	"professionSpecialization_CraftsmanForging": {
 		"english": "Forging",
@@ -266,10 +280,11 @@
 		"turkish": "Demircilik",
 		"portuguese": "Forjamento",
 		"russian": "Ковка",
-		"ukrainian":"Кувати",
+		"ukrainian":"Ковка",
 		"chinese": "锻造",
 		"arabic": "ﺓﺩﺍﺪﺤﻟﺍ",
 		"korean": "대장 작업",
+		"polish": "Wykuwanie",
 	},
 	"professionSpecialization_CraftsmanTailoring": {
 		"english": "Tailoring",
@@ -280,10 +295,11 @@
 		"turkish": "Terzicilik",
 		"portuguese": "Alfaiataria",
 		"russian": "Шитье",
-		"ukrainian":"Шити",
+		"ukrainian":"Шиття",
 		"chinese": "裁缝",
 		"arabic": "ﺔﻃﺎﻴﺨﻟﺍ",
 		"korean": "재봉 작업",
+		"polish": "Krawiectwo",
 	},
 	"professionSpecialization_MinerStone": {
 		"english": "Mine Stone",
@@ -298,6 +314,7 @@
 		"chinese": "挖掘石头",
 		"arabic": "ﺓﺭﺎﺠﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 		"korean": "돌 캐기",
+		"polish": "Wydobywaj kamień",
 	},
 	"professionSpecialization_MinerIronOre": {
 		"english": "Mine Iron Ore",
@@ -312,6 +329,7 @@
 		"chinese": "挖掘铁矿",
 		"arabic": "ﺪﻳﺪﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 		"korean": "철광석 캐기",
+		"polish": "Wydobywaj żelazo",
 	},
 	"professionSpecialization_MinerCrystal": {
 		"english": "Mine Crystals",
@@ -326,6 +344,7 @@
 		"chinese": "挖掘水晶",
 		"arabic": "ﺕﺍﺭﻮﻠﺒﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 		"korean": "크리스탈 캐기",
+		"polish": "Wydobywaj kryształy",
 	},
 	"professionSpecialization_FarmerTendToFields": {
 		"english": "Tend to Fields",
@@ -340,6 +359,7 @@
 		"chinese": "照料农田",
 		"arabic": "ﻝﻮﻘﺤﻟﺍ ﺔﻳﺎﻋﺭ",
 		"korean": "밭일 하기",
+		"polish": "Dbaj o uprawy",
 	},
 	"professionSpecialization_FarmerCook": {
 		"english": "Cook Food",
@@ -354,6 +374,7 @@
 		"chinese": "烹饪食物",
 		"arabic": "ﻡﺎﻌﻄﻟﺍ ﻲﻬﻃ",
 		"korean": "음식 요리하기",
+		"polish": "Gotuj jedzenie",
 	},
 	"professionSpecialization_FarmerCotton": {
 		"english": "Gather cotton",
@@ -368,6 +389,7 @@
 		"chinese": "采摘棉花",
 		"arabic": "ﻦﻄﻘﻟﺍ ﻊﻤﺟ",
 		"korean": "목화 채집하기",
+		"polish": "Zbieraj bawełnę",
 	},
 	"professionSpecialization_FarmerApples": {
 		"english": "Harvest Apples",
@@ -382,6 +404,7 @@
 		"chinese": "采摘苹果",
 		"arabic": "ﺡﺎﻔﺘﻟﺍ ﺩﺎﺼﺣ",
 		"korean": "사과 따기",
+		"polish": "Zbieraj jabłka",
 	},
 	"professionSpecialization_DoctorProduceMedicine": {
 		"english": "Produce Medicine",
@@ -396,6 +419,7 @@
 		"chinese": "生产药品",
 		"arabic": "ﺀﺍﻭﺪﻟﺍ ﺝﺎﺘﻧﺇ",
 		"korean": "치료약 만들기",
+		"polish": "Produkuj leki",
 	},
 	"professionSpecialization_DoctorTendToPatients": {
 		"english": "Tend to Injured Colonists",
@@ -410,6 +434,7 @@
 		"chinese": "照顾伤者",
 		"arabic": "ﻦﻴﺑﺎﺼﻤﻟﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺔﻳﺎﻋﺭ",
 		"korean": "부상자 보살피기",
+		"polish": "Lecz zranionych kolonistów",
 	},
 	"professionSpecialization_DoctorBuryDead": {
 		"english": "Bury Dead",
@@ -424,6 +449,7 @@
 		"chinese": "埋葬死者",
 		"arabic": "ﻰﺗﻮﻤﻟﺍ ﻦﻓﺩ",
 		"korean": "시체 매장하기",
+		"polish": "Grzeb martwych",
 	},
 	"professionSpecialization_DoctorBrewBeer": {
 		"english": "Brew Beer",
@@ -438,6 +464,7 @@
 		"chinese": "酿酒",
 		"arabic": "ﺓﺮﻴﺒﻟﺍ ﺮﻴﻤﺨﺗ",
 		"korean": "맥주 양조하기",
+		"polish": "Waż piwo",
 	},
 	"professionSpecialization_ScholarAnalyzeCrystals": {
 		"english": "Analyze Crystals",
@@ -452,5 +479,6 @@
 		"chinese": "分析水晶",
 		"arabic": "ﺕﺍﺭﻮﻠﺒﻟﺍ ﻞﻴﻠﺤﺗ",
 		"korean": "크리스탈 조사하기",
+		"polish": "Analizuj kryształy",
 	},
 }

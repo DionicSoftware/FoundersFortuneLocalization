@@ -1,4 +1,4 @@
-{
+﻿{
 	// Tier I
 	"tech_woodworking": {
 		"english": "Woodworking",
@@ -12,6 +12,7 @@
 		"ukrainian":"Обробка дерева",
 		"chinese": "木工",
 		"korean": "목공예",
+		"arabic": "ﺓﺭﺎﺠﻨﻟﺍ",
 	},
 	"tech_farming": {
 		"english": "Farming",
@@ -25,6 +26,7 @@
 		"ukrainian":"Фермерство",
 		"chinese": "农业",
 		"korean": "농업",
+		"arabic": "ﺔﻋﺍﺭﺰﻟﺍ",
 	},
 
 	// Tier II
@@ -40,6 +42,7 @@
 		"ukrainian":"Озброєння",
 		"chinese": "武器",
 		"korean": "무기 제작",
+		"arabic": "ﺔﺤﻠﺳﻷﺍ",
 	},
 	"tech_architectureI": {
 		"english": "Architecture I",
@@ -53,6 +56,7 @@
 		"ukrainian":"Архітектура I",
 		"chinese": "建筑学 I",
 		"korean": "건축 I",
+		"arabic": "I ﺓﺭﺎﻤﻌﻟﺍ",
 	},
 	"tech_masonry": {
 		"english": "Masonry",
@@ -66,6 +70,7 @@
 		"ukrainian":"Цегляна кладка",
 		"chinese": "砖石建筑",
 		"korean": "석공 기술",
+		"arabic": "ﺀﺎﻨﺒﻟﺍ",
 	},
 	"tech_furnitureI": {
 		"english": "Furniture I",
@@ -79,6 +84,7 @@
 		"ukrainian":"Меблi I",
 		"chinese": "家具 I",
 		"korean": "가구 I",
+		"arabic": "I ﺙﺎﺛﻷﺍ",
 	},
 	"tech_gardening": {
 		"english": "Gardening",
@@ -92,6 +98,7 @@
 		"ukrainian":"Садівництво",
 		"chinese": "园艺",
 		"korean": "원예",
+		"arabic": "ﺔﻨﺘﺴﺒﻟﺍ",
 	},
 	"tech_writing": {
 		"english": "Writing",
@@ -105,6 +112,7 @@
 		"ukrainian":"Писемність",
 		"chinese": "书写",
 		"korean": "출판",
+		"arabic": "ﺔﺑﺎﺘﻜﻟﺍ",
 	},
 
 	// Tier III
@@ -120,6 +128,7 @@
 		"ukrainian":"Зброя дальнього бою",
 		"chinese": "远程武器",
 		"korean": "원거리 무기",
+		"arabic": "ﻯﺪﻣ ﺕﺍﺫ ﺔﺤﻠﺳﺃ",
 	},
 	"tech_architectureII": {
 		"english": "Architecture II",
@@ -133,6 +142,7 @@
 		"ukrainian":"Архітектура II",
 		"chinese": "建筑学 II",
 		"korean": "건축 II",
+		"arabic": "II ﺓﺭﺎﻤﻌﻟﺍ",
 	},
 	"tech_furnitureII": {
 		"english": "Furniture II",
@@ -146,6 +156,7 @@
 		"ukrainian":"Меблi II",
 		"chinese": "家具 II",
 		"korean": "가구 II",
+		"arabic": "II ﺙﺎﺛﻷﺍ",
 	},
 	"tech_stoneWeapons": {
 		"english": "Stone Weapons",
@@ -159,6 +170,7 @@
 		"ukrainian":"Кам'яна зброя",
 		"chinese": "石制武器",
 		"korean": "석재 무기",
+		"arabic": "ﺔﻳﺮﺠﺣ ﺔﺤﻠﺳﺃ",
 	},
 	"tech_stoneFurniture": {
 		"english": "Stone Furniture",
@@ -172,6 +184,7 @@
 		"ukrainian":"Кам'яні меблі",
 		"chinese": "石制家具",
 		"korean": "석재 가구",
+		"arabic": "ﻱﺮﺠﺣ ﺙﺎﺛﺃ",
 	},
 	"tech_decoration": {
 		"english": "Decoration",
@@ -182,9 +195,10 @@
 		"portuguese": "Decoração",
 		"turkish": "Dekorasyon",
 		"russian": "Декор",
-		"ukrainian":"Декорації",
+		"ukrainian":"Декор",
 		"chinese": "装饰物",
 		"korean": "장식물 제작",
+		"arabic": "ﺭﻮﻜﻳﺪﻟﺍ",
 	},
 	"tech_watering": { // "irrigation" was too modern and too uncommon. "Watering" is more fitting for unlocking a well.
 		"english": "Watering",
@@ -198,6 +212,7 @@
 		"ukrainian":"Полив",
 		"chinese": "灌溉",
 		"korean": "급수",
+		"arabic": "ﻱَّﺮﻟﺍ",
 	},
 	"tech_medicine": {
 		"english": "Basic Medicine",
@@ -211,6 +226,7 @@
 		"ukrainian":"Основи медицини",
 		"chinese": "基础医学",
 		"korean": "기본 의약품",
+		"arabic": "ﻲﺳﺎﺳﻷﺍ ﺐﻄﻟﺍ",
 	},
 	"tech_brewery": {
 		"english": "Brewery",
@@ -224,6 +240,7 @@
 		"ukrainian":"Броварство",
 		"chinese": "啤酒厂",
 		"korean": "양조",
+		"arabic": "ﺓﺮﻴﺒﻟﺍ ﻊﻨﺼﻣ",
 	},
 
 	// Tier IV
@@ -239,6 +256,7 @@
 		"ukrainian":"Вежі",
 		"chinese": "塔楼",
 		"korean": "탑 건축",
+		"arabic": "ﺝﺍﺮﺑﻷﺍ",
 	},
 	"tech_furnitureIII": {
 		"english": "Furniture III",
@@ -252,6 +270,7 @@
 		"ukrainian":"Меблi III",
 		"chinese": "家具 III",
 		"korean": "가구 III",
+		"arabic": "III ﺙﺎﺛﻷﺍ",
 	},
 	"tech_tailoring": {
 		"english": "Tailoring",
@@ -265,6 +284,7 @@
 		"ukrainian":"Кравецька справа",
 		"chinese": "裁缝",
 		"korean": "재봉",
+		"arabic": "ﺔﻃﺎﻴﺨﻟﺍ",
 	},
 	"tech_advancedTailoring": {
 		"english": "Advanced Tailoring",
@@ -278,6 +298,7 @@
 		"ukrainian":"Покращена Кравецька справа",
 		"chinese": "高级裁缝",
 		"korean": "고급 재봉",
+		"arabic": "ﺔﻣﺪﻘﺘﻤﻟﺍ ﺔﻃﺎﻴﺨﻟﺍ",
 	},
 	"tech_advancedCooking": {
 		"english": "Advanced Cooking",
@@ -291,6 +312,7 @@
 		"ukrainian":"Покращене приготування",
 		"chinese": "高级烹饪",
 		"korean": "고급 조리법",
+		"arabic": "ﻡﺪﻘﺘﻤﻟﺍ ﺦﺒﻄﻟﺍ",
 	},
 	"tech_alchemy": {
 		"english": "Alchemy",
@@ -304,6 +326,7 @@
 		"ukrainian":"Алхімія",
 		"chinese": "炼金术",
 		"korean": "연금술",
+		"arabic": "ﺀﺎﻴﻤﻴﺨﻟﺍ",
 	},
 
 	// Tier V
@@ -319,6 +342,7 @@
 		"ukrainian":"Міцні сторожові вежі",
 		"chinese": "加强瞭望塔",
 		"korean": "튼튼한 감시탑",
+		"arabic": "ﺔﻳﻮﻗ ﺔﺒﻗﺍﺮﻣ ﺝﺍﺮﺑﺃ",
 	},
 	"tech_forging": {
 		"english": "Forging",
@@ -332,6 +356,7 @@
 		"ukrainian":"Кування",
 		"chinese": "锻造",
 		"korean": "대장 기술",
+		"arabic": "ﺓﺩﺍﺪﺤﻟﺍ",
 	},
 	"tech_weaponForging": {
 		"english": "Weapon Forging",
@@ -345,6 +370,7 @@
 		"ukrainian":"Кування зброї",
 		"chinese": "锻造武器",
 		"korean": "무기 단조",
+		"arabic": "ﺔﺤﻠﺳﻷﺍ ﻊﻴﻨﺼﺗ",
 	},
 	"tech_armorForging": {
 		"english": "Armor Forging",
@@ -358,6 +384,7 @@
 		"ukrainian":"Кування броні",
 		"chinese": "锻造盔甲",
 		"korean": "갑옷 단조",
+		"arabic": "ﻉﻭﺭﺪﻟﺍ ﻊﻴﻨﺼﺗ",
 	},
 	"tech_grainProcessing": {
 		"english": "Grain Processing",
@@ -371,5 +398,6 @@
 		"ukrainian":"Переробка зерна",
 		"chinese": "粮食加工",
 		"korean": "제분 기술",
+		"arabic": "ﺏﻮﺒﺤﻟﺍ ﺔﺠﻟﺎﻌﻣ",
 	},
 }

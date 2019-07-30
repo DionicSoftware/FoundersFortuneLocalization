@@ -12,6 +12,7 @@
 		"bulgarian": "Не достатачно ресурси!",
 		"russian": "Недостаточно ресурсов!",
 		"ukrainian": "Недостатньо ресурсів!",
+		"korean": "자원이 부족합니다!",
 	},
 	"cantBuildThisCloseToWater": {
 		"english": "Can't build this close to water!",
@@ -24,6 +25,7 @@
 		"bulgarian": "Не може да се строи толкова близко до водата!",
 		"russian": "Невозможно построить это вблизи воды!",
 		"ukrainian": "Неможливо побудувати це поблизу води!",
+		"korean": "여기에 지을 수 없습니다. 물에 너무 가깝습니다!",
 	},
 	"placeBlocked": {
 		"english": "This Place is blocked by something!",
@@ -36,6 +38,7 @@
 		"bulgarian": "Това място е блокирано от нещо!",
 		"russian": "Что-то мешает постройке!",
 		"ukrainian": "Щось заважає будівництві!",
+		"korean": "이 곳은 무언가로 막혀있습니다!",
 	},
 	"needsToBeBuiltAtWall": {
 		"english": "Needs to be built at a wall!",
@@ -48,6 +51,7 @@
 		"bulgarian": "Необходимо е да се изгради в стена!",
 		"russian": "Нужно разместить на стену!",
 		"ukrainian": "Повинен бути побудований на стіні!",
+		"korean": "벽 위에 지어야 합니다!",
 	},
 	"notEnough": {
 		"english": "Not enough",
@@ -60,6 +64,7 @@
 		"bulgarian": "Не достатачно",
 		"russian": "Недостаточно",
 		"ukrainian": "Недостатньо",
+		"korean": "부족합니다",
 	},
 	"needsToBePlacedInRoom": {
 		"english": "Needs to be placed in a finished room!",
@@ -72,6 +77,7 @@
 		"bulgarian": "Необходимо е да се постави в завършена стая!",
 		"russian": "Нужно разместить в завершенной комнате!",
 		"ukrainian": "Повинен бути розміщений в завершеною кімнаті!",
+		"korean": "완성된 방 안에 위치시켜야 합니다!",
 	},
 
 
@@ -87,6 +93,7 @@
 		"bulgarian": "Колонистът просто умря!",
 		"russian": "Колонист только что умер!",
 		"ukrainian": "Колоніст тільки що помер!",
+		"korean": "개척자가 방금 죽었습니다!",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -99,6 +106,7 @@
 		"bulgarian": "Вече е %season%.",
 		"russian": "Сейчас %season%.",
 		"ukrainian": "Зараз %season%.",
+		"korean": "이제 %season%입니다.",
 	},
 	"notificationTitle_ColonistTerribleMood": {
 		"english": "Desparation",
@@ -111,6 +119,7 @@
 		"bulgarian": "Безнадеждност",
 		"russian": "Отчаяние",
 		"ukrainian": "Відчай",
+		"korean": "절망",
 	},
 	"notificationTitle_ColonistBadMood": {
 		"english": "Low Spirits",
@@ -123,6 +132,7 @@
 		"bulgarian": "Нисък Дух",
 		"russian": "Уныние",
 		"ukrainian": "Зневіра",
+		"korean": "우울",
 	},
 	"notificationTitle_Fight": { // when a colonist or colony construction or furniture is attacked
 		"english": "Fighting",
@@ -138,6 +148,7 @@
 		"bulgarian": "Колонистите се бият",
 		"russian": "Колонисты сражаются",
 		"ukrainian": "Колоністи б'ються",
+		"korean": "전투중",
 	},
 	"notificationTitle_LostConsciousness": {
 		"english": "Colonist lost Consciousness",
@@ -150,6 +161,7 @@
 		"bulgarian": "Колонист изгуби съзнание",
 		"russian": "Колонист потерял сознание",
 		"ukrainian": "Колоніст знепритомнів",
+		"korean": "개척자가 의식을 잃었습니다",
 	},
 	"notificationTitle_Death": {
 		"english": "Colonist died",
@@ -162,6 +174,7 @@
 		"bulgarian": "Колонист умря",
 		"russian": "Колонист умер",
 		"ukrainian": "Колоніст помер",
+		"korean": "개척자가 죽었습니다",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -174,6 +187,7 @@
 		"bulgarian": "Храната намалява",
 		"russian": "Не хватает еды",
 		"ukrainian": "Бракує їжі",
+		"korean": "식량이 바닥을 보이고 있습니다",
 	},
 	"notificationTitle_NoFood": {
 		"english": "No Food left",
@@ -186,6 +200,7 @@
 		"bulgarian": "Няма останала храна",
 		"russian": "Еда закончилась",
 		"ukrainian": "Їжа закінчилася",
+		"korean": "남은 식량이 없습니다",
 	},
 	"notificationTitle_HungryNoFoodContainer": {
 		"english": "Missing Food Storage",
@@ -198,6 +213,7 @@
 		"bulgarian": "Липсва Шкаф за Храна", 
 		"russian": "Отсутствует хранилище еды",
 		"ukrainian": "Відсутнє сховище їжі",
+		"korean": "식량을 저장할 공간이 없습니다",
 	},
 	"notificationTitle_NoResearchSelected": { // used not only as notification, but also as tooltip title
 		"english": "No Research selected",
@@ -210,6 +226,7 @@
 		"bulgarian": "Няма избрано Изследване",
 		"russian": "Исследование не выбрано",
 		"ukrainian": "Дослідження не вибрано",
+		"korean": "진행중인 연구가 없습니다",
 	},
 	"notificationTitle_Illness": {
 		"english": "Illness",
@@ -222,6 +239,7 @@
 		"bulgarian": "Заболяване",
 		"russian": "Болезнь",
 		"ukrainian": "Хвороба",
+		"korean": "아픔",
 	},
 	"notificationTitle_ColonistJoined": {
 		"english": "Colonist joined",
@@ -234,6 +252,7 @@
 		"bulgarian": "Колонист се присъедини",
 		"russian": "Присоединился колонист",
 		"ukrainian": "Приєднався колоніст",
+		"korean": "개척자가 합류했습니다",
 	},
 	"notificationTitle_MigrantsAreLeaving": {
 		"english": "Migrants are leaving",
@@ -246,6 +265,7 @@
 		"bulgarian": "Мигрантите си отиват",
 		"russian": "Мигранты уходят",
 		"ukrainian": "Мігранти йдуть",
+		"korean": "이주민이 떠나갑니다",
 	},
 	"notificationTitle_TraderIsLeaving": {
 		"english": "Trader is leaving",
@@ -258,6 +278,7 @@
 		"russian": "Торговец уходит",
 		"ukrainian": "Торговець йде",
 		//TODO-bulgarian
+		"korean": "상인이 떠나갑니다",
 	},
 	"notificationTitle_SeasonChanged": {
 		"english": "It is now %season%",
@@ -270,6 +291,7 @@
 		"bulgarian": "Вече е %season%",
 		"russian": "Сейчас %season%",
 		"ukrainian": "Зараз %season%",
+		"korean": "이제 %season%입니다",
 	},
 	"notificationTitle_LastDayOfSeason": {
 		"english": "It is the last day of %season%.",
@@ -282,6 +304,7 @@
 		"bulgarian": "Днес е последния ден от %season%.",
 		"russian": "Это последний день %season%.",
 		"ukrainian": "Це останній день %season%.",
+		"korean": "오늘은 %season%의 마지막 날입니다",
 	},
 	"notificationTitle_AllergicReaction": {
 		"english": "Colonist has an allergic reaction",
@@ -294,6 +317,7 @@
 		"bulgarian": "Колонистът получи алергична реакция",
 		"russian": "Колонист получил аллергическую реакцию",
 		"ukrainian": "Колоніст отримав алергічну реакцію",
+		"korean": "개척자가 알레르기 반응을 보이고 있습니다",
 	},
 	"notificationTitle_BugInfestationOver": { // means that the bug infestation is done, it's finished, it's no longer active
 		"english": "Bug infestation over",
@@ -307,6 +331,7 @@
 		"bulgarian": "Зараза на насекоми",
 		"russian": "Нашествие жуков прошло",
 		"ukrainian": "Нашестя жуків пройшло",
+		"korean": "병충해가 사라졌습니다",
 	},
 	"notificationTitle_NeedToBuildBonfire": {
 		"english": "Need a Bonfire to get Migrants",
@@ -319,6 +344,7 @@
 		"bulgarian": "Нуждаете се от Голям Огън на Открито, за да превлечете Мигранти",
 		"russian": "Нужно построить сигнальный костер, чтобы привлечь мигрантов",
 		"ukrainian": "Потрібно побудувати сигнальне вогнище, щоб привернути мігрантів",
+		"korean": "이주민이 찾아오려면 화톳불이 필요합니다",
 	},
 	"notificationTitle_UnfulfilledExpectations": {
 		"english": "Need to fulfill Expectations",
@@ -331,6 +357,7 @@
 		"bulgarian": "Необходимост от изпълнение на Очакванията",
 		"russian": "Нужно выполнить пожелание",
 		"ukrainian": "Потрібно виконати побажання",
+		"korean": "기대를 충족시켜야 합니다",
 	},
 	"notificationTitle_NeedBookstand": {
 		"english": "Need a Research Book Stand",
@@ -343,6 +370,7 @@
 		"bulgarian": "Нуждаете се от изследователска маса",
 		"russian": "Нужен стол для исследований",
 		"ukrainian": "Потрібен стіл для досліджень",
+		"korean": "연구대가 필요합니다",
 	},
 	"notificationTitle_NeedToSelectResearch": {
 		"english": "Need to select Research",
@@ -355,6 +383,7 @@
 		"bulgarian": "Трябва да изберете Изследване",
 		"russian": "Нужно выбрать исследование",
 		"ukrainian": "Потрібно вибрати дослідження",
+		"korean": "연구를 선택해야 합니다",
 	},
 	"notificationTitle_NeedCrystals": {
 		"english": "Need Crystals for Research",
@@ -367,6 +396,7 @@
 		"bulgarian": "Нуждаете се от кристали за Изследването",
 		"russian": "Необходимы кристаллы для исследования",
 		"ukrainian": "",
+		"korean": "연구를 위해서 크리스탈이 필요합니다",
 	},
 	"notificationTitle_NeedToAnalyzeCrystals": {
 		"english": "Analyze Crystals on the Bookstand",
@@ -379,6 +409,7 @@
 		"bulgarian": "Анализирайте кристалите на Изследователската Маса",
 		"russian": "Анализируйте кристаллы на столе для исследований",
 		"ukrainian": "Необхідні кристали для дослідження",
+		"korean": "연구대에서 크리스탈을 분석하세요",
 	},
 //	"notificationTitle_MissingPossessions": {
 //		"english": "Colonist is missing %hisHer% Possessions",
@@ -399,6 +430,7 @@
 		"portuguese": "%firstName% ferido %seusSuas% perna",
 		"russian": "%firstName% повредил%surnameA% свою ногу",
 		"ukrainian": "%firstName% порани%hesheEnd% свою ногу",
+		"korean": "%firstName%이 다리를 다쳤습니다",
 	},
 	"notificationTitle_LegBroken": {
 		"english": "%firstName% broke %hisHer% Leg",
@@ -410,6 +442,7 @@
 		"portuguese": "%firstName% quebrou %seusSuas% perna",
 		"russian": "%firstName% сломал%surnameA% свою ногу",
 		"ukrainian": "%firstName% злома%hesheEnd% свою ногу",
+		"korean": "%firstName%의 다리가 부러졌습니다",
 	},
 	"notificationTitle_ArmHurt": {
 		"english": "%firstName% hurt %hisHer% Arm",
@@ -421,6 +454,7 @@
 		"portuguese": "%firstName% ferido %seusSuas% braço",
 		"russian": "%firstName% повредил%surnameA% свою руку",
 		"ukrainian": "%firstName% порани%hesheEnd% свою руку",
+		"korean": "%firstName%이 팔을 다쳤습니다",
 	},
 	"notificationTitle_ArmBroken": {
 		"english": "%firstName% broke %hisHer% Arm",
@@ -432,6 +466,7 @@
 		"portuguese": "%firstName% quebrou %seusSuas% braço",
 		"russian": "%firstName% сломал%surnameA% свою руку",
 		"ukrainian": "%firstName% злома%hesheEnd% свою руку",
+		"korean": "%firstName%의 팔이 부러졌습니다",
 	},
 	"notificationTitle_AutosaveComplete": {
 		"english": "Autosave complete",
@@ -443,6 +478,7 @@
 		"turkish": "Otomatik kaydetme tamamlandı",
 		"russian": "Автосохранение завершено",
 		"ukrainian": "Автозбереження завершено",
+		"korean": "자동으로 저장되었습니다",
 	},
 	"notificationTitle_Party": {
 		"english": "Party!    %timeLeft%",
@@ -454,6 +490,7 @@
 		"portuguese": "Festa!    %timeLeft%",
 		"ukrainian": "Вечірка! %timeLeft%",
 		"turkish": "Parti!    %timeLeft%",
+		"korean": "축제!    %timeLeft%",
 	},
 
 	// FLOATING TEXTS
@@ -468,6 +505,7 @@
 		"bulgarian": "Очакването е изпълнено",
 		"russian": "Пожелание выполнено",
 		"ukrainian": "Побажання виконано",
+		"korean": "기대가 충족됨",
 	},
 	"wishFulfilled": {
 		"english": "Wish fulfilled",
@@ -480,6 +518,7 @@
 		"bulgarian": "Желанието е изпълнено",
 		"russian": "Мечта сбылась",
 		"ukrainian": "Мрія здійснилася",
+		"korean": "소원이 이뤄짐",
 	},
 	"wishDenied": {
 		"english": "Wish denied",
@@ -492,6 +531,7 @@
 		"bulgarian": "Желанието е отказано",
 		"russian": "Мечте не суждено сбыться",
 		"ukrainian": "Мрії не судилося збутися",
+		"korean": "소원이 거부됨",
 	},
 	"treatmentSuccessful": {
 		"english": "Treatment\nSuccessful",
@@ -504,6 +544,7 @@
 		"dutch": "Behandeling\nSuccesvol",
 		"russian": "Лечение\nУспешно",
 		"ukrainian": "Лікування\nУспішне",
+		"korean": "치료\n성공",
 	},
 	"treatmentFailed": {
 		"english": "Treatment\nFailed",
@@ -516,6 +557,7 @@
 		"dutch": "Behandeling\nGefaald",
 		"russian": "Лечение\nНе удалось",
 		"ukrainian": "Не вдалося\nВилікувати",
+		"korean": "치료\n실패",
 	},
 	"legSplintSuccessful": {
 		"english": "Leg Splint\nSuccessful",
@@ -527,6 +569,7 @@
 		"portuguese": "Tala de perna\nBem sucedida",
 		"russian": "Шина для ноги\nУспешно",
 		"ukrainian": "Шина для ноги\nУспішно",
+		"korean": "다리 부목\n성공",
 	},
 	"legSplintFailed": {
 		"english": "Leg Splint\nFailed",
@@ -538,6 +581,7 @@
 		"portuguese": "Tala de perna\nFalhou",
 		"russian": "Шина для ноги\nНе удалось",
 		"ukrainian": "Шина для ноги\nНеможливо",
+		"korean": "다리 부목\n실패",
 	},
 	"armSplintSuccessful": {
 		"english": "Arm Splint\nSuccessful",
@@ -549,6 +593,7 @@
 		"portuguese": "Tala de braço\nBem sucedida",
 		"russian": "Шина для руки\nУспешно",
 		"ukrainian": "Шина для руки\nУспішно",
+		"korean": "팔 부목\n성공",
 	},
 	"armSplintFailed": {
 		"english": "Arm Splint\nFailed",
@@ -560,6 +605,7 @@
 		"portuguese": "Tala de braço\nFalhou",
 		"russian": "Шина для руки\nНе удалось",
 		"ukrainian": "Шина для руки\nНе вдалося",
+		"korean": "팔 부목\n실패",
 	},
 
 
@@ -575,6 +621,7 @@
 		"bulgarian": "Тики Гоблините атакуват!",
 		"russian": "Тикигоблины атакуют!",
 		"ukrainian": "Тікігобліни атакують!",
+		"korean": "티키고블린들이 공격해옵니다!",
 	},
 	"messageText_GoblinsAttacking": {
 		"english": "Tikigoblins have been sighted near our settlement. They are fast and do not seem to come in peace. Arm the colonists, so they may defend their home once again!",
@@ -587,6 +634,7 @@
 		"bulgarian": "Тики Гоблини са видяни близо до нашето селище. Те са бързи и изглежда, че не идват в мир. Подгответе колонистите, за да могат отново да защитят дома си!",
 		"russian": "Тикигоблины были замечены возле нашего поселения. Они быстры и, кажется, пришли не с миром. Вооружите колонистов, чтобы они могли защитить свой дом!",
 		"ukrainian": "Тікігобліни були помічені біля нашого поселення. Вони швидкі і здається прийшли не з миром. Приготуйте на бій колоністів, щоб вони могли захистити свій будинок!",
+		"korean": "정착지 근처에서 티키고블린이 목격되었습니다. 그들을 빠르게 움직이고 있지만, 평화를 위해 오는 것 같진 않습니다. 주거지를 방어할 수 있도록 개척자들을 무장시키세요!",
 	},
 	"messageTitle_MigrantsArrived": {
 		"english": "Migrants arrived!",
@@ -599,6 +647,7 @@
 		"bulgarian": "Мигрант пристигна!",
 		"russian": "Прибыли мигранты!",
 		"ukrainian": "Прибули мігранти!",
+		"korean": "이주민이 도착했습니다!",
 	},
 	"messageText_MigrantsArrived": {
 		"english": "A few migrants have seen our fire signal and just arrived in a small boat. Send a colonist to accept them!",
@@ -611,6 +660,7 @@
 		"bulgarian": "Мигрант видя сигнала ни от големия огън и току-що пристигна в малка лодка. Изпратете колонист да ги приеме!",
 		"russian": "Несколько мигрантов увидели наш пламенный сигнал и только что прибыли на маленькой лодке. Отправьте колониста, чтобы принять их",
 		"ukrainian": "Кілька мігрантів побачили наш полум'яний сигнал і щойно прибули на маленькому човні. Надішліть колоніста, щоб прийняти їх",
+		"korean": "어떤 이주자가 우리의 불꽃 신호를 보았고, 막 작은 배를 타고 이곳에 도달했습니다. 개척자를 보내 그들을 받아들이세요!",
 	},
 	"messageTitle_TraderArrived": {
 		"english": "Trader arrived!",
@@ -624,6 +674,7 @@
 		"bulgarian": "Мигрант пристигна!",
 		"russian": "Прибыл торговец!",
 		"ukrainian": "Прибув торговець!",
+		"korean": "상인이 도착했습니다!",
 	},
 	"messageText_TraderArrived": {
 		"english": "A trader just made landfall on the coast. Send a colonist to haggle for some good deals!",
@@ -635,6 +686,7 @@
 		"portuguese": "Um comerciante acabou de desembarcar na costa. Envie um colono para pechinchar por alguns bons negócios!",
 		"russian": "Торговец только что причалил на побережье. Отправьте колониста, чтобы поторговаться!",
 		"ukrainian": "Торговець тільки що причалив на узбережжі. Надішліть колоніста, щоб поторгуватись!",
+		"korean": "상인이 막 해안에 상륙했습니다. 개척자를 보내 좋은 거래를 위해 흥정하세요!",
 	},
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Tantrum!",
@@ -647,6 +699,7 @@
 		"bulgarian": "Агресивен Гняв!",
 		"russian": "Вспышка агрессии",
 		"ukrainian": "Спалах агресії",
+		"korean": "성질을 부립니다!",
 	},
 	"messageText_BreakdownAttackFriends": {
 		"english": "A colonist has been feeling horrible for a while now and just couldn't take it anymore. %cap-heShe% has gone crazy now and is beating up random people, friend or foe.",
@@ -660,6 +713,7 @@
 		"bulgarian": "Колонистът се чувстваше ужасно за известно време и просто не можеше повече да го понася. Сега той е луд и бие случайни хора, приятел или враг.",
 		"russian": "Колонист долго терпел ужасные условия и теперь он просто не может больше это выносить. %cap-heShe% обезумел%surnameA% и теперь избивает всех, кто попадет под руку - жителей, друзей, врагов.",
 		"ukrainian": "Колоніс%heShe_T_TKA% довго терпі%hesheEnd% жахливі умови і тепер він просто не може більше це виносити. %heShe% збожеволі%hesheEnd% і тепер б'є всіх, хто потрапить під руку - жителів, друзів, ворогів.",
+		"korean": "이 개척자는 최근 끔찍한 기분 속에서 살아왔으며 더 이상은 견디지 못했습니다. %heShe%는 미쳐버렸고, 친구과 적을 구분하지 않고 아무에게나 주먹을 휘두르고 있습니다.",
 	},
 	"messageTitle_BreakdownRefusingWork": {
 		"english": "Burnout!",
@@ -672,6 +726,7 @@
 		"bulgarian": "Изгоря!",
 		"russian": "Надоело!",
 		"ukrainian": "Набридло!",
+		"korean": "파업!",
 	},
 	"messageText_BreakdownRefusingWork": {
 		"english": "A colonist has worked too much under terrible conditions. %cap-heShe% has decided %heShe% just doesn't care anymore and is going to relax for a while.",
@@ -685,6 +740,7 @@
 		"bulgarian": "Колонистът е работил твърде много при ужасни условия. Реши, че вече не го интересува и ще се отпусне за известно време.",
 		"russian": "Колонист слишком долго работал в ужасных условиях. %cap-heShe% решил%surnameA%, что %hisHer% это больше не заботит и решил%surnameA% отдохнуть немного.",
 		"ukrainian": "Колоніст занадто довго працював в жахливих умовах. %heShe% виріши%hesheEnd%, що не буде більше працювати та пішо%hesheEnd% відпочивати.",
+		"korean": "이 개척자는 끔찍한 환경 속에서 너무 많이 일했습니다. %heShe%는 이제 아무것도 신경쓰지 않고, 잠시간 휴식을 취하려고 합니다.",
 	},
 	"messageTitle_BreakdownDestroyFurniture": {
 		"english": "Vandalism!",
@@ -697,6 +753,7 @@
 		"bulgarian": "Вандализъм",
 		"russian": "Вандализм!",
 		"ukrainian": "Вандалізм!",
+		"korean": "기물 파손!",
 	},
 	"messageText_BreakdownDestroyFurniture": {
 		"english": "Life hasn't been the greatest for %firstName%. Now %heShe% has turned to vandalism to blow off some steam.",
@@ -710,6 +767,7 @@
 		"bulgarian": "Животът не е бил най-добрият за %firstName%. Сега той се обърна към вандализъм, за да издуха парата.",
 		"russian": "%firstName% не был%surnameA% удовлетворен%surnameA% свой жизнью. Теперь %heShe% выпускает пар с помощью вандализма.",
 		"ukrainian": "%firstName% не бу%hesheEnd% задоволен%heshe_IY_A% своїм життям. Тепер  %heShe% випускає пар за допомогою вандалізму.",
+		"korean": "%firstName%의 생활은 최고의 생활이 아니었습니다. %heShe%는 화를 풀기 위해 기물들을 파손하기 시작했습니다.",
 	},
 	"messageTitle_BreakdownLazyDay": {
 		"english": "Lazy Day",
@@ -722,6 +780,7 @@
 		"bulgarian": "Мързелив Ден",
 		"russian": "День лени",
 		"ukrainian": "Лінивий день",
+		"korean": "느긋한 하루",
 	},
 	"messageText_BreakdownLazyDay": {
 		"english": "Life hasn't been the greatest for %firstName%. Today %heShe% is taking it easy and will be taking a lot of long breaks.",
@@ -735,6 +794,7 @@
 		"bulgarian": "Животът не е бил най-добър за %firstName%. Днес той се успокоява и ще взима много дълги почивки.",
 		"russian": "%firstName% не был%surnameA% удовлетворен%surnameA% свой жизнью. Сегодня %heShe% отдыхает и делает много перерывов.",
 		"ukrainian": "%firstName% не бу%hesheEnd% задоволен%heshe_IY_A% своїм життям. Сьогодні %heShe% відпочиває і робить багато перерв.",
+		"korean": "%firstName%의 생활은 그렇게 좋지만은 않았습니다. 오늘 %heShe%는 긴장을 풀고 긴 휴식을 자주 취하려 합니다.",
 	},
 	"messageTitle_BugInfestation": {
 		"english": "Bug Infestation!",
@@ -747,6 +807,7 @@
 		"bulgarian": "Нашествие на насекоми",
 		"russian": "Нашествие жуков!",
 		"ukrainian": "Нашестя жуків!",
+		"korean": "병충해 발생!",
 	},
 	"messageText_BugInfestation": {
 		"english": "A swarm of bugs has come down on your fields and is destroying the harvest. The colonists need to cut affected plants before the infestation spreads.",
@@ -759,6 +820,7 @@
 		"bulgarian": "Рояк от буболечки се спусна на полетата ви и унищожава реколтата. Колонистите трябва да отрежат засегнатите растения преди разпространението на заразата.",
 		"russian": "Рой жуков напал на ваши поля и уничтожает урожай. Колонисты должны срезать пораженные растения, иначе заражение распространится.",
 		"ukrainian": "Рой жуків напав на ваші поля і знищує врожай. Колоністи повинні зрізати уражені рослини, інакше зараження пошириться.",
+		"korean": "벌레때가 밭에 나타나 수확물을 망치고 있습니다. 개척자를 보내 감염이 번지기 전에 감염된 작물을 잘라내세요.",
 	},
 	"messageTitle_TutorialFood": {
 		"english": "Food and Hunger",
@@ -771,6 +833,7 @@
 		"bulgarian": "Храна и глад",
 		"russian": "Еда и голод",
 		"ukrainian": "Їжа та голод",
+		"korean": "음식과 허기",
 	},
 	"messageText_TutorialFood": {
 		"english": "Your colonists are hungry! You need to build something from which they can take their food, for example a food basket.",
@@ -783,6 +846,7 @@
 		"bulgarian": "Колонистите ви са гладни! Трябва да изградите нещо, от което да вземат храната си, например кошница с храна.",
 		"russian": "Ваши колонисты голодны! Вы должны построить что-то, из чего они смогут взять еду, например, продовольственную корзину.",
 		"ukrainian": "Ваші колоністи голодні! Ви повинні побудувати щось, з чого вони зможуть взяти їжу, наприклад, продовольчий кошик.",
+		"korean": "개척자가 배고파합니다! 그들이 음식을 가져갈 수 있는 무언가를 만드세요. 예를 들면, 음식 바구니 같은거요.",
 	},
 	"messageTitle_TutorialHealing": {
 		"english": "Healing",
@@ -795,6 +859,7 @@
 		"bulgarian": "Лечебен",
 		"russian": "Лечение",
 		"ukrainian": "Лікування",
+		"korean": "회복",
 	},
 	"messageText_TutorialHealing": {
 		"english": "A colonist is wounded! Make sure they gets enough sleep to rest their body. An experienced doctor can create more advanced remedies at the potion lab.",
@@ -808,6 +873,7 @@
 		"bulgarian": "Колонист е ранен! Уверете се, че той получава достатъчно сън, за да си почине тялото му. Опитният лекар може да създаде по-напреднали лекарства в лабораторията за отвари.",
 		"russian": "Колонист ранен! Убедитесь, что он высыпается. Опытный врач может создать лекарства в столе зельеварения.",
 		"ukrainian": "Колоніст%heShe_T_TKA% поранен%heshe_IY_A%! Переконайтеся, що %heShe% висипається. Досвідчений лікар може створити ліки в столі зіллєваріння.",
+		"korean": "개척자가 부상을 입었습니다! 몸을 쉬게 하고 충분한 잠을 잘 수 있도록 해 주세요. 숙련된 의사는 고도의 약품을 만들어낼 수 있습니다.",
 	},
 	"messageTitle_TutorialScience": {
 		"english": "Science",
@@ -820,6 +886,7 @@
 		"bulgarian": "Наука",
 		"russian": "Наука",
 		"ukrainian": "Наука",
+		"korean": "과학",
 	},
 	"messageText_TutorialScience": {
 		"english": "In order to advance your colony, you need to gather research. You can do that by mining crystals and analyzing them on the research book stand. The science panel is at the top right!",
@@ -832,6 +899,7 @@
 		"bulgarian": "За да напреднете колонията си, трябва да отключвате изследвания. Можете да го направите, като копаете кристали и ги анализирате на масата на изследователската книга. Научният панел е горе вдясно!",
 		"russian": "Чтобы развивать свою колонию, вам нужно заниматься исследованиями. Вы можете сделать это, добывая кристаллы и анализируя их в столе исследований. Научная панель располагается вверху справа!",
 		"ukrainian": "Щоб розвивати свою колонію, вам потрібно займатися дослідженнями. Ви можете зробити це, добуваючи кристали і аналізуючи їх в столі досліджень. Наукова панель розташовується вгорі праворуч!",
+		"korean": "정착지를 발전시키려면 연구를 해야 합니다. 크리스탈을 캐고 연구대에서 크리스탈을 분석하면 연구를 할 수 있습니다. 과학 패널은 우측 상단에 있습니다!",
 	},
 	"messageTitle_TutorialMigrants": {
 		"english": "Migrants",
@@ -844,6 +912,7 @@
 		"bulgarian": "Мигранти",
 		"russian": "Мигранты",
 		"ukrainian": "Мігранти",
+		"korean": "이주민",
 	},
 	"messageText_TutorialMigrants": {
 		"english": "If you want your colony to grow, you'll need to accept new people. Build a bonfire in order to attract migrants. Bonfires are unlocked via research.",
@@ -856,6 +925,7 @@
 		"bulgarian": "Ако искате вашата колония да расте, ще трябва да приемете нови хора. Изградете голям огън, за да привлечете мигранти.",
 		"russian": "Если вы хотите, чтобы ваша колония росла, вам нужно привлечь новых жителей. Разведите костер, чтобы привлечь мигрантов. Костры открываются с помощью исследований.",
 		"ukrainian": "Якщо ви хочете, щоб ваша колонія росла, вам потрібно залучити нових жителів. Розведіть вогнище, щоб привернути мігрантів. Багаття відкриваються за допомогою досліджень.",
+		"korean": "정착지를 키우고 싶다면, 새로운 사람을 받아들여야 합니다. 화톳불을 피워 이주민들을 끌어들이세요. 화톳불은 연구를 통해 발견할 수 있습니다.",
 	},
 	"messageTitle_TutorialCameraRotation": {
 		"english": "Rotating the View",
@@ -868,6 +938,7 @@
 		"bulgarian": "Завъртане на изгледа",
 		"russian": "Поворот камеры",
 		"ukrainian": "Поворот камери",
+		"korean": "화면 회전",
 	},
 	"messageText_TutorialCameraRotation": {
 		"english": "You can rotate the view by holding the middle mouse button.",
@@ -880,6 +951,7 @@
 		"bulgarian": "Можете да завъртите изгледа, като задържите средния бутон на мишката.",
 		"russian": "Вы можете поворачивать камеру удерживая среднюю кнопку мыши.",
 		"ukrainian": "Ви можете повертати камеру утримуючи середню кнопку миші.",
+		"korean": "마우스 가운데 버튼을 누른 채로 마우스를 움직여 화면을 회전시킬 수 있습니다.",
 	},
 	"messageTitle_TutorialBuildConstruction": {
 		"english": "How to build walls and floors",
@@ -892,6 +964,7 @@
 		"bulgarian": "Как да строите стени и подове",
 		"russian": "Как строить стены и полы",
 		"ukrainian": "Як будувати стіни і підлоги",
+		"korean": "벽과 바닥을 짓는 방법",
 	},
 	"messageText_TutorialBuildConstruction": {
 		"english": "In the bottom left corner is a menu to select walls and floors to build. You then need to drag the cursor over the terrain. (right click & drag cursors to delete)",
@@ -904,6 +977,7 @@
 		"bulgarian": "В долния ляв ъгъл има меню за избор на стени и подове за изграждане. След това трябва да плъзнете курсора върху терена. (щракнете с десния бутон и преместете курсорите за изтриване)",
 		"russian": "В левом нижнем углу вы можете выбрать стены и полы для строительства. Затем вам нужно перетащить курсор на местность. (щелкните ПКМ и перемещайте курсор для удаления)",
 		"ukrainian": "У лівому нижньому кутку ви можете вибрати стіни і підлоги для будівництва. Потім вам потрібно перемістити курсор на місцевість. (Клацніть ПКМ і переміщайте курсор для видалення)",
+		"korean": "좌측 하단에 보이는 메뉴에서 벽이나 바닥을 선택하세요. 지면에서 클릭하고 드래그하면 됩니다. (우클릭 한 채로 드래그하면 부술 수 있습니다)",
 	},
 	"messageTitle_TutorialProfessions": {
 		"english": "Professions",
@@ -916,6 +990,7 @@
 		"bulgarian": "Професии",
 		"russian": "Профессии",
 		"ukrainian": "Професії",
+		"korean": "직업",
 	},
 	"messageText_TutorialProfessions": {
 		"english": "Give jobs to your colonists to automate some tasks. For example, a farmer will tend to the fields.",
@@ -928,6 +1003,7 @@
 		"bulgarian": "Дайте работа на вашите колонисти, за да автоматизирате някои задачи. Например фермерът ще се стреми към полетата.",
 		"russian": "Выдайте работу вашим колонистам, чтобы автоматизировать некоторые задачи. Например, фермер будет ухаживать за полями.",
 		"ukrainian": "Видайте роботу вашим колоністам, щоб автоматизувати деякі завдання. Наприклад, фермер буде доглядати за полями.",
+		"korean": "개척자에게 직업을 할당하면 일의 일부가 자동화됩니다. 예를 들자면, 농부는 밭일을 하겠죠.",
 	},
 	"messageTitle_TutorialLeftClickSelect": {
 		"english": "Selecting Colonists and Objects",
@@ -940,6 +1016,7 @@
 		"bulgarian": "Избиране на колонисти и обекти",
 		"russian": "Выбор Колонистов и Объектов",
 		"ukrainian": "Вибір Колоністів та Об'єктів",
+		"korean": "개척자와 사물 선택",
 	},
 	"messageText_TutorialLeftClickSelect": {
 		"english": "Click on a colonist or an object with your left mouse button to select them. That way you can see their status and give commands.",
@@ -952,6 +1029,7 @@
 		"bulgarian": "Кликнете върху колонист или обект с левия бутон на мишката, за да ги изберете. По този начин можете да видите техния статус и да може да давате команди.",
 		"russian": "Кликните на колониста или объект ЛКМ и выберите его. Теперь вы можете видеть их состояние и выдавать команды.",
 		"ukrainian": "Натисніть на колоніста або об'єкт ЛКМ і виберіть його. Тепер ви можете бачити їх стан і видавати команди.",
+		"korean": "사물이나 개척자를 마우스 왼쪽 버튼으로 클릭하면 선택할 수 있습니다. 선택한 개척자나 물건의 상태를 보거나 명령을 내릴 수 있습니다.",
 	},
 	"messageTitle_TutorialRightClickCommand": {
 		"english": "Assigning tasks",
@@ -964,6 +1042,7 @@
 		"bulgarian": "Задаване на задачи",
 		"russian": "Назначение заданий",
 		"ukrainian": "Призначення завдань",
+		"korean": "작업 할당",
 	},
 	"messageText_TutorialRightClickCommand": {
 		"english": "After you select a colonist, use the right mouse button to click on objects to assign tasks.",
@@ -976,6 +1055,7 @@
 		"bulgarian": "След като изберете колонист, използвайте десния бутон на мишката, за да кликнете върху обекти, за да зададете задачи.",
 		"russian": "После того, как вы выбрали колониста, используйте ПКМ для выдачи заданий.",
 		"ukrainian": "Після того, як ви вибрали колоніста, використовуйте ПКМ для видачі завдань.",
+		"korean": "개척자를 선택한 뒤에, 사물을 우클릭하면 개척자에게 작업을 할당할 수 있습니다.",
 	},
 	"messageTitle_TutorialHelpMenu": {
 		"english": "Help menu",
@@ -988,6 +1068,7 @@
 		"bulgarian": "Помощно меню",
 		"russian": "Меню справки",
 		"ukrainian": "Меню допомоги",
+		"korean": "도움말 메뉴",
 	},
 	"messageText_TutorialHelpMenu": {
 		"english": "Open the help menu with the button in the top right corner if you need more information.",
@@ -1000,6 +1081,7 @@
 		"bulgarian": "Отворете менюто за помощното меню с бутона в горния десен ъгъл, ако се нуждаете от повече информация.",
 		"russian": "Откройте меню справки с помощью кнопки в правом верхнем углу, если вам нужна дополнительная информация.",
 		"ukrainian": "Відкрийте меню допомоги за допомогою кнопки в правому верхньому куті, якщо вам потрібна додаткова інформація.",
+		"korean": "더 많은 정보가 궁금하다면 우측 상단 모서리에 있는 버튼을 눌러 도움말 메뉴를 여세요.",
 	},
 	"messageTitle_TutorialEquipment": {
 		"english": "How to use Equipment",
@@ -1011,6 +1093,7 @@
 		"french": "Comment utiliser l'Équipement",
 		"russian": "Как использовать снаряжение",
 		"ukrainian": "Як використовувати спорядження",
+		"korean": "장비를 사용하는 방법",
 	},
 	"messageText_TutorialEquipment": {
 		"english": "Build a piece of furniture that can store equipment and select it to choose which equipment to put in it. Let a colonist take ownership of it so that he can equip it automatically.",
@@ -1022,6 +1105,7 @@
 		"french": "Construisez un meuble pouvant stocker de l'équipement et sélectionnez-le pour choisir l'équipement à mettre. Laissez un colon en prendre possession afin qu'il puisse l'équiper automatiquement.",
 		"russian": "Постройте мебель, в которой вы сможете хранить снаряжение. Затем кликните по ней и выберите какой тип снаряжения вы будете хранить. Передайте колонистам мебель во владение, чтобы они смогли экипироваться автоматически.",
 		"ukrainian": "Побудуйте меблі, в яких ви зможете зберігати устаткування. Потім клікніть по ньому і виберіть який тип спорядження ви будете зберігати. Дайте колоністам права на меблі, щоб вони змогли екіпіруватися автоматично.",
+		"korean": "장비를 보관할 수 있는 가구를 하나 만드세요. 그리고 가구를 선택해 어떤 장비를 보관할 지 정해주세요. 한 개척자에게 소유권을 주면, 그 사람이 자동으로 장비를 착용할 수 있게 됩니다.",
 	},
 	"messageTitle_TutorialMovingFurniture": {
 		"english": "How to move furniture and other objects",
@@ -1033,6 +1117,7 @@
 		"russian": "Как передвигать мебель и другие объекты",
 		"ukrainian": "Як пересувати меблі та інші об'єкти",
 		"turkish": "Mobilyalar ve diğer eşyaların taşınması",
+		"korean": "물건이나 가구를 옮기는 방법",
 	},
 	"messageText_TutorialMovingFurniture": {
 		"english": "Drag the object with your mouse to its new location. Right clicking during dragging will delete the object.",
@@ -1044,6 +1129,7 @@
 		"russian": "Выберите объект, зажмите ЛКМ и переместите его на новое место. ПКМ во время перемещения удалит объект.",
 		"ukrainian": "Виберіть об'єкт, затисніть ЛКМ і перемістіть його на нове місце. ПКМ під час переміщення видалить об'єкт.",
 		"turkish": "Nesneyi farenizle yeni konumuna sürükleyin. Sürükleme sırasında sağ tıklamak nesneyi siler.",
+		"korean": "마우스를 사용해 물건을 다른 장소로 드래그하세요. 드래그 도중에 우클릭을 하면 사물을 지워버립니다.",
 	},
 	"messageTitle_TechUnlocked": {
 		"english": "%techName% unlocked!",
@@ -1056,6 +1142,7 @@
 		"bulgarian": "%techName% е отключено!",
 		"russian": "%techName% разблокировано!",
 		"ukrainian": "%techName% розблоковано!",
+		"korean": "%techName% 발견!",
 	},
 	"messageText_TechUnlocked": {
 		"english": "You unlocked %techName% and can now do new stuff!\n%unlockedStuff%",
@@ -1068,6 +1155,7 @@
 		"bulgarian": "Отключихте %techName% и вече можете да правите нови неща!\n%unlockedStuff%",
 		"russian": "Вы разблокировали %techName% и теперь можете создавать новые вещи!\n%unlockedStuff%",
 		"ukrainian": "Ви розблокували %techName% і тепер можете створювати нові речі\n%unlockedStuff%",
+		"korean": "%techName%을 발견했습니다! 이제 새로운 것을 할 수 있겠어요!\n%unlockedStuff%",
 	},
 	"messageTitle_JoinForum": {
 		"english": "Check out the forum!",
@@ -1080,6 +1168,7 @@
 		"bulgarian": "Вижте форума!",
 		"russian": "Посетите наш форум!",
 		"ukrainian": "Відвідайте наш форум!",
+		"korean": "포럼을 확인해보세요!",
 	},
 	"messageText_JoinForum": {
 		"english": "You've been playing for a while and we hope you're having fun!\nLet us know how it's going on the forum!",
@@ -1092,6 +1181,7 @@
 		"bulgarian": "Играеш за известно време и се надяваме да се забавляваш!\nКажете ни какво се случва във форума!",
 		"russian": "Вы играете некоторое время и мы надеемся, что вы получаете от этого удовольствие!\n Дайте нам знать какого это на форуме!",
 		"ukrainian": "Ви граєте деякий час і ми сподіваємося, що ви отримуєте від цього задоволення!\nДайте нам знати це на форумі!",
+		"korean": "꽤 오랫동안 게임을 즐겨주셨네요. 재미있으셨길 바랍니다!\n포럼에 방문하셔서 게임이 어땠는지 알려주세요!",
 	},
 	"messageTitle_LimpingBecauseOfBadSplintTreatment": {
 		"english": "Treatment messed up\n%firstName% now disabled",
@@ -1103,6 +1193,7 @@
 		"portuguese": "Tratamento desarrumada\n%firstName% agora está desativado",
 		"russian": "Лечение не помогло\n%firstName% теперь инвалид",
 		"ukrainian": "Лікування не допомогло \n%firstName% тепер інвалід",
+		"korean": "치료가 엉망입니다\n%firstName%이 장애를 가지게 되었습니다",
 	},
 	"messageText_LimpingBecauseOfBadSplintTreatment": {
 		"english": "It's a begginer's mistake, but can also happen to experienced doctors: Someone messed up the splints to cure %firstName%'s broken leg. It's no longer broken, but now %heShe%'s limping permanently and can't walk as fast as %heShe% used to.",
@@ -1114,6 +1205,7 @@
 		"portuguese": "É um erro do iniciante, mas também pode acontecer com médicos experientes: alguém estragou as talas para curar a perna quebrada do %firstName%. Não está mais quebrado, mas agora %eleEla% está mancando permanentemente e não pode andar tão rápido quanto %eleEla% costumava.",
 		"russian": "Это ошибка начинающего врача, но она может случится и с опытным: кто-то испортил шины, которые использовались для лечения ноги. %firstName% теперь будет всегда хромать и %heShe% не сможет ходить так быстро, как раньше.",
 		"ukrainian": "Це помилка початківця лікаря, але вона може трапиться і з досвідченим: хтось зіпсував шини, які використовувалися для лікування ноги. %firstName% тепер буде завжди кульгати та не зможе ходити так швидко, як раніше.",
+		"korean": "초보자의 실수입니다. 물론 경험있는 의사도 저지를 수 있는 실수죠: 누군가 %firstName%의 다리를 치료하려고 부목을 대다 망쳐버렸습니다. 더이상 다친 건 아니지만, %heShe%는 이제부터 평생 다리를 절뚝거리며 걷게 되었습니다. 전처럼 빠르게 걷지는 못하겠네요.",
 	},
 	"messageTitle_SupportDevelopment": {
 		"english": "Support the Development of Founders' Fortune!",
@@ -1125,6 +1217,7 @@
 		"portuguese": "Apoiar o desenvolvimento de Founders' Fortune!",
 		"russian": "Поддержи разработку Founders' Fortune!",
 		"ukrainian": "Підтримай розробку Founders 'Fortune!",
+		"korean": "Founders' Fortune의 개발을 후원해주세요!",
 	},
 	"messageText_SupportDevelopment": {
 		"english": "You've been playing this colony for %hours% hours and it seems like you're enjoying the free version of Founders' Fortune! Consider checking out the store and supporting us!",
@@ -1136,6 +1229,7 @@
 		"portuguese": "Você tem jogado essa colônia por %hours% horas e parece que você está curtindo a versão gratuita do Founders 'Fortune! Considere verificar a loja e nos apoiar!",
 		"russian": "Вы играете этой колонией уже %hours% часов и нам кажется, что вам нравится наша бесплатная версия Founders' Fortune! Вы можете зайти в наш магазин и поддержать нас!",
 		"ukrainian": "Ви граєте цієї колонією вже %hours% годин і нам здається, що вам подобається наша безкоштовна версія Founders 'Fortune! Ви можете зайти в наш магазин і підтримати нас!",
+		"korean": "이 정착지를 %hours% 시간동안 플레이하셨습니다. Founders' Fortune의 무료 버전을 잘 즐기고 계신 것 같아요. 스토어를 확인하고 저희에게 도움을 주는 걸 고려해보세요!",
 	},
 
 	

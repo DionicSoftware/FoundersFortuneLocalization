@@ -12,6 +12,7 @@ This is korean glossary for korean translator.
 
 ## 개척자 상태
 - mood : 기분
+- spirits: 기분
 - point : 점수 대신 "포인트"로
 - Satisfaction (Reward) Points: 만족 포인트
 - Satisfaction level: 만족도
@@ -53,7 +54,8 @@ This is korean glossary for korean translator.
 - job: 직업 이라고 번역해뒀는데, "임무" 정도가 적절하지 않을까?
 - Salary: 일당. 
 - payday: 일당 받는 날... 적당히 번역하기
-- Breakout, Lazy day: 파업
+- Breakout: 파업
+- Lazy day: 느긋한 하루. 명령을 받긴 하지만 멋대로 휴식을 취하러 쌩하고 가버리는 하루.
 - Bug Infestations: 병충해 발생
 
 ## 문장 구성

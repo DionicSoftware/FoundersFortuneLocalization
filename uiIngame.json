@@ -752,6 +752,7 @@
 		"russian":"Как только ваши колонисты наберут достаточно опыта в своей профессии, вы сможете повысить их, чтобы разблокировать новые навыки.",
 		"chinese": "一旦你的殖民者在他们的职业中积累了足够的经验,你就可以让他们转职开启新的技能.",
 		"arabic": ".ﺓﺪﻳﺪﺟ ﺕﺍﺭﺎﻬﻣ ﺢﺘﻔﻟ ﻢﻬﺘﻴﻗﺮﺗ ﻚﻨﻜﻤﻳ ، ﺓﺮﺒﺨﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻚﻳﺪﻟ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻊﻤﺠﻳ ﻥﺃ ﺩﺮﺠﻤﺑ",
+		"polish": "Kiedy Twoi kolońsici zbiorą wystarczająco punktów doświadczenia, możesz dać im awans, aby odblokować im nowe umiejętności.",
 	},
 	"productionMode_Produce": {
 		"english": "Produce",
@@ -765,6 +766,7 @@
 		"russian":"Производство",
 		"chinese": "产品",
 		"arabic": "ﺝﺎﺘﻧﺇ",
+		"polish": "Produkuj",
 	},
 	"productionMode_ProduceInfinite": {
 		"english": "Produce Infinite",
@@ -778,6 +780,7 @@
 		"russian":"Постоянное изг.",
 		"chinese": "持续生产",
 		"arabic": "ﺔﻳﺎﻬﻧ ﻼﺑ ﺝﺎﺘﻧﺇ",
+		"polish": "Produkuj w nieskończoność",
 	},
 	"productionMode_KeepInStock": {
 		"english": "Keep in Stock",
@@ -791,6 +794,7 @@
 		"russian":"Держать на складе",
 		"chinese": "保持库存",
 		"arabic": "إبقاء في المخازن",
+		"polish": "Trzymaj w zapasie",
 	},
 	"cost": {
 		"english": "Cost",
@@ -804,6 +808,7 @@
 		"russian":"Стоимость",
 		"chinese": "消耗",
 		"arabic": "ﺔﻔﻠﻜﺘﻟﺍ",
+		"polish": "Koszt",
 	},
 	"totalCost": {
 		"english": "Total Cost",
@@ -817,6 +822,7 @@
 		"russian":"Полная стоимость",
 		"chinese": "总消耗",
 		"arabic": "ﺔﻴﻠﻜﻟﺍ ﺔﻔﻠﻜﺘﻟﺍ",
+		"polish": "Łączny koszt",
 	},
 	"costPerItem": {
 		"english": "Cost per Item",
@@ -830,6 +836,7 @@
 		"russian":"Стоимость за предмет",
 		"chinese": "单项成本",
 		"arabic": "ﺪﺣﺍﻮﻠﻟ ﺔﻔﻠﻜﺘﻟﺍ",
+		"polish": "Koszt za jednostkę",
 	},
 	"colonySettings": {
 		"english": "Colony Settings",
@@ -843,6 +850,7 @@
 		"russian":"Настройки колонии",
 		"chinese": "殖民者设置",
 		"arabic": "ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ",
+		"polish": "Ustawienia kolonii",
 	},
 	"onlyCutDesignatedTrees": {
 		"english": "Only cut designated trees",
@@ -856,6 +864,7 @@
 		"russian":"Вырубать только обозначенные деревья",
 		"chinese": "砍伐指定的树木",
 		"arabic": "ﻂﻘﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗ",
+		"polish": "Wycinaj tylko zaznaczone drzewa",
 	},
 	"onlyMineDesignatedRocksOres": {
 		"english": "Only mine designated rocks/ores",
@@ -869,6 +878,7 @@
 		"russian":"Добывать только выбранные камни/руды",
 		"chinese": "开采指定的岩石/矿物",
 		"arabic": "ﻂﻘﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺪﻳﺪﺤﻟﺍ/ﺭﻮﺨﺼﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺘﻟﺍ",
+		"polish": "Wydobywaj tylko wybrane kamienie/rudy",
 	},
 	"onlyGatherDesignatedPlants": {
 		"english": "Only gather designated plants",
@@ -882,6 +892,7 @@
 		"russian":"Собирать только выбранные растения",
 		"chinese": "采集指定的植物",
 		"arabic": "ﻂﻘﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻤﺟ",
+		"polish": "Zbieraj tylko wybrane roślin",
 	},
 	"designations": {
 		"english": "Designations",
@@ -895,6 +906,7 @@
 		"russian":"Указание",
 		"chinese": "指定",
 		"arabic": "ﺕﺎﻨﻴﻴﻌﺘﻟﺍ",
+		"polish": "Oznaczenia",
 	},
 	"designationTooltip_Title": {
 		"english": "Select specific resources to gather",
@@ -908,6 +920,7 @@
 		"russian":"Выберите конкретные ресурсы для сбора",
 		"chinese": "选择要指定收集的资源",
 		"arabic": "ﺎﻬﻌﻤﺠﻟ ﺓﺩﺪﺤﻣ ﺩﺭﺍﻮﻣ ﺩﺪﺣ",
+		"polish": "Zaznacz właściwe surowce do zbierania",
 	},
 	"designationTooltip_Desc": {
 		"english": "With the designation tool you can restrict resource gathering to the objects you have marked with the tool. The colonists are only going to work on designated objects automatically.",
@@ -921,6 +934,7 @@
 		"russian":"С помощью инструмента указания вы можете ограничить сбор ресурсов для объектов, которые вы пометили с помощью инструмента. Колонисты будут автоматически работать только с обозначенными объектами.",
 		"chinese": "使用指定工具,您可以将资源收集限制到使用该工具标记的对象.殖民者只会自动处理指定的物品.",
 		"arabic": ".ﺓﺍﺩﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺎﻫﺰﻴﻴﻤﺘﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻰﻠﻋ ﺩﺭﺍﻮﻤﻟﺍ ﻊﻴﻤﺠﺗ ﺪﻴﻴﻘﺗ ﻚﻨﻜﻤﻳ ، ﻦﻴﻴﻌﺘﻟﺍ ﺓﺍﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ",
+		"polish": "Z narzędziem oznaczania możesz ograniczyć zbieranie surowców, do obiektów, które zaznaczono przy pomocy narzędzia. Koloniści będą pracować tylko z oznaczonymi obiektami automatycznie.",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -933,6 +947,7 @@
 		"portuguese": "Modo de Combate",
 		"chinese": "战斗模式",
 		"arabic": "ﻝﺎﺘﻘﻟﺍ ﻊﺿﻭ",
+		"polish": "Tryb walki",
 	},
 	"combatModeTooltip_Desc": {
 		"english": "In combat mode, your colonists will put on their combat equipment and stop working on their jobs, relaxing, or talking with others. This allows you to control them more easily in battle.",
@@ -945,6 +960,7 @@
 		"russian":"В боевом режиме ваши колонисты снаряжаются броней и оружием и перестают делать свою работу, отдыхать или разговаривать с другими поселенцами. Это позволяет легче контролировать их в сражении.",
 		"chinese": "在战斗模式下,你的殖民者将穿上他们的战斗装备并停止工作,休息,交谈.这让你在战斗中更容易控制他们.",
 		"arabic": ".ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺮﺒﻛﺃ ﺔﻟﻮﻬﺴﺑ ﻢﻬﺑ ﻢﻜﺤﺘﻟﺍ ﻚﻟ ﺢﻴﺘﻳ ﺍﺬﻫ .ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﺙﺪﺤﺘﻟﺍ ﻭﺃ ﺀﺎﺧﺮﺘﺳﻻﺍ ﻭﺃ ﻢﻬﻔﺋﺎﻇﻭ ﻲﻓ ﻞﻤﻌﻟﺍ ﻦﻋ ﻒﻗﻮﺘﻟﺍﻭ ﺔﻴﻟﺎﺘﻘﻟﺍ ﻢﻬﺗﺍﺪﻌﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻡﻮﻘﻴﺳ ، ﻝﺎﺘﻘﻟﺍ ﻊﺿﻭ ﻲﻓ",
+		"polish": "W trybie walki, Twoi koloniści ubiorą swój ubiór do walki i przestaną wykonywać swoje zadania, relaksować się albo rozmawiać ze sobą. Pozwali Ci to kotrolować kolonistów znacznie łatwiej w walce.",
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -958,6 +974,7 @@
 		"russian":"Информация и статистика",
 		"chinese": "游戏信息及统计",
 		"arabic": "ﺔﺒﻌﻠﻟﺍ ﺕﺎﻴﺋﺎﺼﺣﺇﻭ ﺕﺎﻣﻮﻠﻌﻣ",
+		"polish": "Informacje o grze i statystyki",
 	},
 	"difficulty": {
 		"english": "Difficulty",
@@ -971,6 +988,7 @@
 		"russian":"Сложность",
 		"chinese": "难度",
 		"arabic": "ﺔﺑﻮﻌﺼﻟﺍ",
+		"polish": "Trudność",
 	},
 	"colonyWealth": {
 		"english": "Colony Wealth",
@@ -984,6 +1002,7 @@
 		"russian":"Благосостояние колонии",
 		"chinese": "殖民地财富",
 		"arabic": "ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﻭﺮﺛ",
+		"polish": "Bogactwo kolonii",
 	},
 	"colonistHappiness": {
 		"english": "Colonist Happiness",
@@ -997,6 +1016,7 @@
 		"russian":"Счастье колонии",
 		"chinese": "殖民者幸福度",
 		"arabic": "ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﺩﺎﻌﺳ",
+		"polish": "Szczęście kolonisty",
 	},
 	"worldId": { // You can just translate it to "world". It needs to be short enough
 		"english": "World ID",
@@ -1010,6 +1030,7 @@
 		"russian":"ID мира",
 		"chinese": "世界 ID",
 		"arabic": "ID ﻢﻟﺎﻌﻟﺍ",
+		"polish": "ID świata",
 	},
 	"beauty": {
 		"english": "Beauty",
@@ -1023,6 +1044,7 @@
 		"russian":"Красота",
 		"chinese": "美丽",
 		"arabic": "ﻝﺎﻤﺠﻟﺍ",
+		"polish": "Piękno",
 	},
 	"objectStrength": { // to describe how difficult it is to destruct an object, like a wall, in a fight
 		"english": "Strength",
@@ -1034,6 +1056,7 @@
 		"turkish": "Dayanıklılık",
 		"arabic": "ﺔﻧﺎﺘﻤﻟﺍ",
 		"ukrainian":"Міцність",
+		"polish": "Wytrzymałość",
 	},
 	"work": {
 		"english": "Work",
@@ -1047,6 +1070,7 @@
 		"russian":"Работа",
 		"chinese": "工作",
 		"arabic": "ﻞﻤﻌﻟﺍ",
+		"polish": "Praca",
 	},
 	"farming": {
 		"english": "Farming",
@@ -1060,6 +1084,7 @@
 		"russian":"Фермерство",
 		"chinese": "农业",
 		"arabic": "ﺔﻋﺍﺭﺰﻟﺍ",
+		"polish": "Rolnictwo",
 	},
 	"life": {
 		"english": "Life",
@@ -1073,6 +1098,7 @@
 		"russian":"Основное",
 		"chinese": "生活",
 		"arabic": "ﺓﺎﻴﺤﻟﺍ",
+		"polish": "Życie",
 	},
 	"military": {
 		"english": "Military",
@@ -1086,6 +1112,7 @@
 		"russian":"Сражения",
 		"chinese": "军事",
 		"arabic": "ﺶﻴﺠﻟﺍ",
+		"polish": "Militaria",
 	},
 	"lights": {
 		"english": "Lights",
@@ -1099,6 +1126,7 @@
 		"russian":"Освещение",
 		"chinese": "灯光",
 		"arabic": "ﺀﺍﻮﺿﻷﺍ",
+		"polish": "Światła",
 	},
 	"seating": {
 		"english": "Seating",
@@ -1112,6 +1140,7 @@
 		"russian":"Стулья",
 		"chinese": "进食",
 		"arabic": "ﺪﻋﺎﻘﻤﻟﺍ",
+		"polish": "Siedzenia",
 	},
 	"tables": {
 		"english": "Tables",
@@ -1125,6 +1154,7 @@
 		"russian":"Столы",
 		"chinese": "桌子",
 		"arabic": "ﺕﻻﻭﺎﻄﻟﺍ",
+		"polish": "Stoły",
 	},
 	"storage": {
 		"english": "Storage",
@@ -1138,6 +1168,7 @@
 		"russian":"Хранение",
 		"chinese": "存储",
 		"arabic": "ﻦﻳﺰﺨﺘﻟﺍ",
+		"polish": "Przechowywanie",
 	},
 	"decoration": {
 		"english": "Decoration",
@@ -1151,6 +1182,7 @@
 		"russian":"Декор",
 		"chinese": "装饰",
 		"arabic": "ﺭﻮﻜﻳﺪﻟﺍ",
+		"polish": "Dekoracja",
 	},
 	"floors": {
 		"english": "Floors",
@@ -1164,6 +1196,7 @@
 		"russian":"Полы",
 		"chinese": "楼板",
 		"arabic": "ﺕﺎﻴﺿﺭﻷﺍ",
+		"polish": "Podłogi",
 	},
 	"walls": {
 		"english": "Walls",
@@ -1177,6 +1210,7 @@
 		"russian":"Стены",
 		"chinese": "墙体",
 		"arabic": "ﻥﺍﺭﺪﺠﻟﺍ",
+		"polish": "Ściany",
 	},
 	"fortifications": {
 		"english": "Fortifications",
@@ -1189,6 +1223,7 @@
 		"chinese": "防御工事",
 		"turkish": "Güçlendirme",
 		"arabic": "ﺕﺎﻨﻴﺼﺤﺘﻟﺍ",
+		"polish": "Fortyfikacje",
 	},
 	"doors": {
 		"english": "Doors",
@@ -1202,6 +1237,7 @@
 		"russian":"Двери",
 		"chinese": "门",
 		"arabic": "ﺏﺍﻮﺑﻷﺍ",
+		"polish": "Drzwi",
 	},
 	"windows": {
 		"english": "Windows",
@@ -1215,6 +1251,7 @@
 		"russian":"Окна",
 		"chinese": "窗",
 		"arabic": "ﺬﻓﺍﻮﻨﻟﺍ",
+		"polish": "Okna",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -1228,6 +1265,7 @@
 		"russian":"Столбы",
 		"chinese": "柱子",
 		"arabic": "ﺓﺪﻤﻋﻷﺍ",
+		"polish": "Filary",
 	},
 	"requiredTech": {
 		"english": "Required Technology",
@@ -1241,6 +1279,7 @@
 		"russian":"Требуемая технология",
 		"chinese": "需要科技",
 		"arabic": "ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻴﻨﻘﺘﻟﺍ",
+		"polish": "Wymagana technologia",
 	},
 	"interactionChainIconDesc": {
 		"english": "Click to Cancel.\nClick %keyBinding% to Chain Commands.",
@@ -1253,7 +1292,8 @@
 		"ukrainian":"Натисніть для відміни.\nНатисніть на %keyBinding%, щоб створити послідовність дій.",
 		"russian":"Нажмите для отмены.\nНажмите на %keyBinding%, чтобы создать последовательность действий.",
 		"chinese": "点击取消.\n点击 %keyBinding% 锁住命令",
-		"arabic": "",
+		// "arabic": "",
+		"polish": "Naciśnij, aby anulować.\nKliknij %keyBinding% do łańcucha poleceń.",
 	},
 	"satisfaction": {
 		"english": "Satisfaction",
@@ -1267,6 +1307,7 @@
 		"russian":"Удовлетворенность",
 		"chinese": "满意度",
 		"arabic": "ﺎﺿﺮﻟﺍ",
+		"polish": "Zadowolenie",
 	},
 	"rewards": {
 		"english": "Rewards",
@@ -1280,6 +1321,7 @@
 		"russian":"Награды",
 		"chinese": "奖励",
 		"arabic": "ﺕﺂﻓﺎﻜﻤﻟﺍ",
+		"polish": "Nagrody",
 	},
 	"point": {
 		"english": "Point",
@@ -1293,6 +1335,7 @@
 		"russian":"Очко",
 		"chinese": "点数",
 		"arabic": "ﺔﻄﻘﻧ",
+		"polish": "Punkt",
 	},
 	"points": {
 		"english": "Points",
@@ -1306,6 +1349,7 @@
 		"russian":"Очки",
 		"chinese": "点数",
 		"arabic": "ﻁﺎﻘﻧ",
+		"polish": "Punkty",
 	},
 	"satisfactionRewards": {
 		"english": "Satisfaction Rewards",
@@ -1319,6 +1363,7 @@
 		"russian":"Награды за удовлетворение",
 		"chinese": "满意奖励",
 		"arabic": "ﺎﺿﺮﻟﺍ ﺕﺂﻓﺎﻜﻣ",
+		"polish": "Nagrody zadowolenia",
 	},
 	"instantMaxHealth": {
 		"english": "Instant Max Health",
@@ -1332,6 +1377,7 @@
 		"russian":"Моментальное восстановление здоровья",
 		"chinese": "瞬间满生命",
 		"arabic": "ﺔﻳﺭﻮﻓ ﺔﻠﻣﺎﻛ ﺔﺤﺻ",
+		"polish": "Natychmiastowe maksymalne zdrowie",
 	},
 	"cureIllness": {
 		"english": "Cure Illness",
@@ -1345,6 +1391,7 @@
 		"russian":"Исцеление болезни",
 		"chinese": "治疗疾病",
 		"arabic": "ﺽﺮﻤﻟﺍ ﺝﻼﻋ",
+		"polish": "Wylecz chorobę",
 	},
 	"motivationBoost": {
 		"english": "Motivation Boost",
@@ -1358,6 +1405,7 @@
 		"russian":"Повышение мотивации",
 		"chinese": "增加移速",
 		"arabic": "ﺕﺎﻳﻮﻨﻌﻤﻟﺍ ﻢﻋﺩ",
+		"polish": "Zwiększenie motywacji",
 	},
 	"forgetAllBadThoughts": {
 		"english": "Forget negative Thoughts",
@@ -1371,6 +1419,7 @@
 		"russian":"Удалить негативные мысли",
 		"chinese": "忘记消极想法",
 		"arabic": "ﺔﻴﺒﻠﺴﻟﺍ ﺭﺎﻜﻓﻷﺍ ﻥﺎﻴﺴﻧ",
+		"polish": "Zapomnij o negatywnych myślach",
 	},
 	"activeTraits": {
 		"english": "Active Traits",
@@ -1384,6 +1433,7 @@
 		"russian":"Активные черты",
 		"chinese": "当前特性",
 		"arabic": "ﺔﻄﺸﻨﻟﺍ ﺕﺎﻤﺴﻟﺍ",
+		"polish": "Aktywne cechy",
 	},
 	"availableTraits": {
 		"english": "Available Traits",
@@ -1397,6 +1447,7 @@
 		"russian":"Доступные черты",
 		"chinese": "可用特性",
 		"arabic": "ﺓﺮﻓﻮﺘﻤﻟﺍ ﺕﺎﻤﺴﻟﺍ",
+		"polish": "Dostępne cechy",
 	},
 	"sleepingSpot": {
 		"english": "Sleeping Spot",
@@ -1410,6 +1461,7 @@
 		"russian":"Спальное место",
 		"chinese": "睡觉地点",
 		"arabic": "ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ",
+		"polish": "Miejsce do spania",
 	},
 	"isInRoom": {
 		"english": "Is in room",
@@ -1423,6 +1475,7 @@
 		"russian":"Находится в комнате",
 		"chinese": "是否室内",
 		"arabic": "ﺔﻓﺮﻏ ﻲﻓ",
+		"polish": "Jest w pokoju",
 	},
 	"yes": {
 		"english": "Yes",
@@ -1436,6 +1489,7 @@
 		"russian":"Да",
 		"chinese": "是的",
 		"arabic": "ﻢﻌﻧ",
+		"polish": "Tak",
 	},
 	"no": {
 		"english": "No",
@@ -1449,6 +1503,7 @@
 		"russian":"Нет",
 		"chinese": "不是",
 		"arabic": "ﻻ",
+		"polish": "Nie",
 	},
 	"bedroomBeauty": {
 		"english": "Bedroom beauty",
@@ -1462,6 +1517,7 @@
 		"russian":"Красота спальни",
 		"chinese": "美观的房间",
 		"arabic": "ﻡﻮﻨﻟﺍ ﺔﻓﺮﻏ ﻝﺎﻤﺟ",
+		"polish": "Piękno sypialni",
 	},
 	"houseBeauty": {
 		"english": "House beauty",
@@ -1475,6 +1531,7 @@
 		"russian":"Красота дома",
 		"chinese": "美观的房子",
 		"arabic": "ﺖﻴﺒﻟﺍ ﻝﺎﻤﺟ",
+		"polish": "Piękno domu",
 	},
 	"owner": {
 		"english": "Owner",
@@ -1488,6 +1545,7 @@
 		"russian":"Владелец",
 		"chinese": "拥有者",
 		"arabic": "ﻚﻟﺎﻤﻟﺍ",
+		"polish": "Właściciel",
 	},
 	"nobody": {
 		"english": "Nobody",
@@ -1501,6 +1559,7 @@
 		"russian":"Никто",
 		"chinese": "无人",
 		"arabic": "ﺪﺣﺃ ﻻ",
+		"polish": "Nikt",
 	},
 	"immigration": {
 		"english": "Immigration",
@@ -1514,6 +1573,7 @@
 		"russian":"Иммиграция",
 		"chinese": "移民",
 		"arabic": "ﺓﺮﺠﻬﻟﺍ",
+		"polish": "Imigracja",
 	},
 	"immigration_status_maxColonists": {
 		"english": "Your colony has reached its maximum size. Congratulations! Be sure to post a picture in the forums!",
@@ -1526,7 +1586,8 @@
 		"ukrainian":"Ваша колонія досягла максимального розміру. Вітаємо! Обов'язково викладіть скріншот на форум!",
 		"russian":"Ваша колония достигла максимального размера. Поздравляем! Обязательно выложите скриншот на форум!",
 		"chinese": "你的殖民地已经达到了它的最大规模.恭喜你!一定要在论坛上发表图片哦!",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Twoja kolonia osiągnęła swój maksymalny rozmiar. Gratulacje! Upewnij się, aby dodać post na naszym forum!",
 	},
 	"immigration_status_noBonfire": {
 		"english": "No Bonfire is burning. Migrants are not able to find the colony.",
@@ -1539,7 +1600,8 @@
 		"ukrainian":"Сигнальний багаття не горить. Мігранти не можуть знайти вашу колонію.",
 		"russian":"Сигнальный костер не горит. Мигранты не смогут найти вашу колонию.",
 		"chinese": "没有篝火.移民们无法找到殖民地.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Brak płonącego ogniska. Migranci nie znajdą Twojej kolonii.",
 	},
 	"immigration_status_expectationsNotMet": {
 		"english": "Your colonists' expectations are not met. No migrants are going to join this colony.",
@@ -1552,7 +1614,8 @@
 		"russian":"Колонисты недовольны жизнью в колонии. Новые мигранты не будут прибывать на остров.",
 		"ukrainian":"Колоністи незадоволені життям в колонії. Нові мігранти не будуть прибувати на острів.",
 		"chinese": "你们殖民者的愿望没有得到满足.没有移民会加入这个殖民地.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Oczekiwania Twoich kolonistów nie są spełnione. Żaden nowy migrant nie dołączy do kolonii.",
 	},
 	"immigration_status_ok": {
 		"english": "All your colonists' expectations are met. Next chance for migrants in %time%.",
@@ -1565,7 +1628,8 @@
 		"ukrainian":"Колоністи задоволені життям в колонії. Нові мігранти прибудуть на острів через %time%.",
 		"russian":"Колонисты довольны жизнью в колонии. Новые мигранты прибудут на остров через %time%.",
 		"chinese": "你们所有殖民者的愿望都得到了满足.下一次出现移民将会在 %time% 后.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Oczekiwania wszystkich kolonistów są zrealizowane. Następna szansa na migrantów za %time%.",
 	},
     "colonistIsDumbNoExperience": {
        	"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",

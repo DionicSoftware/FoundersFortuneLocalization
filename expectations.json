@@ -1,4 +1,4 @@
-{
+﻿{
 	"expectations": {
 		"english": "Expectations",
 		"dutch":  "verwachtingen",
@@ -235,7 +235,7 @@
 		"russian": "Очень счастлив своей жизнью",
 		"ukrainian": "Дуже щасливий своїм життям",
 		"chinese": "非常快乐的生活",
-		"polish": "Bardzo %zadowolonyZadowolona% z życia",
+		"polish": "Bardzo %zadowolon%yA% z życia",
 	},
 	"lifeSatisfactionGood": {
 		"english": "Satisfied with life",
@@ -249,7 +249,7 @@
 		"russian": "Счастлив своей жизнью",
 		"ukrainian": "Щасливий своїм життям",
 		"chinese": "满意的生活",
-		"polish": "%zadowolonyZadowolona% z życia",
+		"polish": "%zadowolon%yA% z życia",
 	},
 	"lifeSatisfactionInsufficient": {
 		"english": "Wants more life satisfaction",
@@ -277,7 +277,7 @@
 		"russian": "Хочет намного более удовлетворенную жизнь",
 		"ukrainian": "Хоче набагато більш задоволене життя",
 		"chinese": "对现状不满意",
-		"polish": "%niezadowolonyNiezadowolona% z życia",
+		"polish": "%niezadowolon%yA% z życia",
 	},
 	"promotionsSatisfactionAwesome": {
 		"english": "Mastered %hisHer% profession",
@@ -291,7 +291,7 @@
 		"russian": "Мастер в %hisHer% профессии",
 		"ukrainian": "Майстер в %hisHer% профессии",
 		"chinese": "精通职业",
-		//"polish": "",
+		"polish": "Osiągn%ąłĘła% mistrzostwo w %jegoJej% zawodzie",
 	},
 	"promotionsSatisfactionGood": {
 		"english": "Confident in %hisHer% skills",
@@ -303,9 +303,9 @@
 		"turkish": "Yeteneklerine güveniyor",
 		"portuguese": "Confiante em suas habilidades",
 		"russian": "Уверен%surnameA% в своих навыках",
-		"ukrainian": "Впевнений в %hisHer% навичках",
+		"ukrainian": "Впевнен%heshe_IY_A% в %hisHer% навичках",
 		"chinese": "对%hisHer%技能满意",
-		//"polish": "",
+		"polish": "Pewn%yA% w %jegoJej% umiejętnościach",
 	},
 	"promotionsSatisfactionInsufficient": {
 		"english": "Unsure of %hisHer% skills",
@@ -317,9 +317,9 @@
 		"turkish": "Yeteneklerinden emin değil",
 		"portuguese": "Não tem certeza de suas habilidades",
 		"russian": "Не уверен%surnameA% в своих навыках",
-		"ukrainian": "Не певнений в %hisHer% навичках",
+		"ukrainian": "Не певнен%heshe_IY_A% в %hisHer% навичках",
 		"chinese": "不满意%hisHer%技能",
-		//"polish": "",
+		"polish": "Niepewn%yA% %jegoJej% umiejętności",
 	},
 	"promotionsSatisfactionBad": {
 		"english": "Unhappy with %hisHer% skills",
@@ -331,9 +331,9 @@
 		"turkish": "Yeteneklerinden mutsuz",
 		"portuguese": "Infeliz com suas habilidades",
 		"russian": "Недовол%hesheEnd5% своими навыками",
-		"ukrainian": "Незадоволений %hisHer% навичками",
+		"ukrainian": "Незадоволен%heshe_IY_A% %hisHer% навичками",
 		"chinese": "对%hisHer%技能不满意",
-		//"polish": "",
+		"polish": "Niezadowolony z %jegoJej% umiejętności",
 	},
 	"promotionsSatisfactionOk": {
 		"english": "Satisfied with %hisHer% skills",
@@ -345,9 +345,9 @@
 		"turkish": "Yeteneklerinden memnun",
 		"portuguese": "Satisfeito com suas habilidades",
 		"russian": "Удовлетворен%surnameA% своими навыками",
-		"ukrainian": "Задоволений %hisHer% навичками",
+		"ukrainian": "Задоволен%heshe_IY_A% %hisHer% навичками",
 		"chinese": "对%hisHer%技能感到满意",
-		//"polish": "",
+		"polish": "Zadowolony z %jegoJej% umiejętności",
 	},
 	"promotionsSatisfactionOkDumb_Desc": {
 		"english": "Unfortunately, %firstName% is not the brightest and has trouble developing new skills. However, %heShe% has accepted %hisHer% fate and is ok with it.",
@@ -362,7 +362,7 @@
 		"russian": "%firstName%, к сожалению, не сам%hesheEnd% умн%hesheEnd% и имеет проблемы с развитием навыков. Однако, %hisHer% смирил%wordEnd% с этим и радуется.",
 		"ukrainian": "%firstName% нажаль, не сам%heshe_IY_A% розумн%heshe_IY_A% і має проблеми з розвитком навичок. Однак, %hisHer% це не турбує та  %heShe% прийня%hesheEnd% цю долю та радується.",
 		"chinese": "不幸的是,%firstName%并不是最聪明的,而且在发展新技能方面也有点困难.然而%heShe%已经接受了%hisHer%的命运,并接受了该技能.",
-		//"polish": "",
+		"polish": "Niestety, %firstName% nie jest najmądrzejsz%yA% i ma trudności w rozwijaniu nowych umiejętności. Jednak, %onOna% zaakceptował %jegoJej% los i się z nim pogodził%nicA%.",
 	},
 	"colonistIsALevelXProfessionGuy": {
 		"english": "%firstName% is a level %professionLevel% %professionName%",
@@ -376,7 +376,7 @@
 		"russian": "%firstName% имеет %professionLevel% уровень в %professionName%",
 		"ukrainian": "%firstName% має %professionLevel% рівень у %professionName%",
 		"chinese": "%firstName%是一名%professionLevel%级的%professionName%",
-		//"polish": "",
+		"polish": "%firstName% to %professionName% poziomu %professionLevel%",
 	},
 	"reachLevelX": {
 		"english": "Reach Level %requiredProfessionLevel% in a profession",
@@ -392,7 +392,7 @@
 		"russian": "Достиг%sheLA% %requiredProfessionLevel% уровня в профессии",
 		"ukrainian": "Достигну%hesheEnd% %requiredProfessionLevel% рівня в професії",
 		"chinese": "职业达到%requiredProfessionLevel%级",
-		//"polish": "",
+		"polish": "Osiągn%ąłĘła% poziom %requiredProfessionLevel% w zawodzie",
 	},
 	"colonistNeedsMoreWorkExperience": {
 		"english": "%firstName% needs more work experience or appropriate Education",
@@ -406,7 +406,7 @@
 		"russian": "%firstName% долж%hesheEnd1% иметь больше опыта работы или соотвествующее образование",
 		"ukrainian": "%firstName% повин%heshe_EN_NA% мати більше досвіду роботи або відповідна освіта",
 		"chinese": "%firstName%需要更多的工作经验或适当的教育",
-		//"polish": "",
+		"polish": "%firstName% potrzebuje więcej doświadczenia zawodowego lub właściwej edukacji.",
 	},
 	"salarySatisfactionAwesome": {
 		"english": "Happy with %hisHer% salary",
@@ -537,7 +537,7 @@
 		"russian": "%firstName% ожидает зарплату минимум %coins% монет в день.",
 		"ukrainian": "%firstName% очікує зарплату мінімум %coins% монет в день.",
 		"chinese": "%firstName%希望每天能有%coins%硬币的工资.",
-		"polish": "%firstName% chce minimalną wypłatę %coins% na dzień.",
+		"polish": "%firstName% chce wypłatę minimum %coins% na dzień.",
 	},
 	"food": {
 		"english": "Food",
@@ -761,6 +761,6 @@
 		"russian": "%firstName% не имеет работы в данный момент. Это заставляет его чуствовать себя неполноценным.",
 		"ukrainian": "%firstName% не має роботи в даний час. Це заставляє %hisHer% почувати себе неповноцінним",
 		"chinese": "%firstName%目前没有职业.这让他感到不满意",
-		"polish": "%firstName% nie ma pracy w tym momencie. Przez to %onOna% czuje się %niezadowolonyNiezadowolona%.",
+		"polish": "%firstName% nie ma pracy w tym momencie. Przez to %onOna% czuje się %niezadowolon%yA%.",
 	},
 }

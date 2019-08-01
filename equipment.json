@@ -101,6 +101,7 @@
 		"portuguese": "Obtém 50% a mais de madeira das árvores. É melhor que nada.",
 		"ukrainian": "Дозволяє отримувати на 50% більше колод з дерев. Це краще, ніж нічого.",
 		"polish": "Wydobywa 50% więcej drewna z drzew. Lepsza taka, niż żadna.",
+		"turkish": "Ağaçlardan %50 daha fazla odun verimi alıyor. Hiç yoktan iyidir.",
 	},
 	"equipmentName_axeStone": {
 		"english": "Stone Axe",
@@ -124,6 +125,7 @@
 		"portuguese": "Obtém o dobro da quantidade de madeira das árvores. Finalmente podemos fazer alguma construção séria!",
 		"ukrainian": "Дозволяє отримувати в два рази більше колод з дерева. Тепер ми зможемо серйозно зайнятися будівництвом!",
 		"polish": "Wydobywa dwa razy więcej drewna z drzew. W końcu możemy postawić coś porządnego!",
+		"turkish": "Ağaçlardan iki kat daha fazla odun verimi alıyor. En sonunda ciddi bir inşa işine girebiliriz.",
 	},
 	"equipmentName_axeIron": {
 		"english": "Iron Axe",
@@ -146,7 +148,8 @@
 		"russian": "Позволяет получать на 150% больше бревен с деревьев. Вы уже готовы построить свою деревянную империю?",
 		"portuguese": "Obtém 150% mais madeira de árvores. Você está pronto para construir um império de madeira?",
 		"ukrainian": "Дозволяє отримувати на 150% більше колод з дерев. Ви вже готові побудувати свою дерев'яну імперію?",
-		"polish": "Wydobywa 150% więcej drewna z drzew. Jesteś gotowy zbudować swoje drewinane imperium?"
+		"polish": "Wydobywa 150% więcej drewna z drzew. Jesteś gotowy zbudować swoje drewinane imperium?",
+		"turkish": "Ağaçlardan %150 daha fazla odun verimi alıyor. Odundan bir imparatorluk kurmaya hazır mıyız?",
 	},
 
 // Pickaxes
@@ -174,6 +177,7 @@
 		"portuguese": "Obtém 50% mais recursos de mineração. Alguém disse que chutar não era tão saudável.",
 		"ukrainian": "Дозволяє отримувати на 50% більше ресурсів з видобутку. Хтось сказав, що видобуток ресурсів ногою - не найкраща ідея.",
 		"polish": "Wydobywa 50% więcej materiałów z górnictwa. Ktoś powiedział, że kopanie nie jest zbyt zdrowe.",
+		"turkish": "Madencilikten %50 daha fazla kaynak alıyor. Birisi tekmelemenin o kadar da sağlıklı olmadığını söyledi."
 	},
 	"equipmentName_pickaxeStone": {
 		"english": "Stone Pickaxe",
@@ -197,6 +201,7 @@
 		"portuguese": "Obtém o dobro da quantidade de recursos da mineração. O que você vai fazer com toda essa pedra e ferro?",
 		"ukrainian": "Дозволяє отримувати в два рази більше ресурсів з видобутку. Що ж робити з такою кількістю каменю та заліза?",
 		"polish": "Podwaja wydobycie materiałów z górnictwa. Co zamierzasz zrobić z tym kamieniem i żelazem, co?",
+		"turkish": "Madencilikten iki kat daha fazla kaynak alıyor. Bu kadar demir ve taşla ne yapacaksın?"
 	},
 	"equipmentName_pickaxeIron": {
 		"english": "Iron Pickaxe",
@@ -220,6 +225,7 @@
 		"portuguese": "Obtém 150% mais recursos de mineração. Nenhuma pedrinha deixada intocada!",
 		"ukrainian": "Дозволяє отримувати на 150% більше ресурсів з видобутку. Жоден камінь не залишиться недоторканим!",
 		"polish": "Zwiększa wydobycie z górnictwa o 150%. Żaden kamyczek nie zostanie pominięty!",
+		"turkish": "Madencilikten %150 daha fazla kaynak alıyor. Dokunulmamış çakıl kalmayacak!"
 	},
 
 // Bows
@@ -255,7 +261,7 @@
 // Clubs
 //******
 
-	"equipmentName_woodenClub": {
+	"equipmentName_clubWood": {
 		"english": "Wooden Club",
 		"dutch":  "Houten knots",
 		"german": "Holzkeule",
@@ -268,7 +274,7 @@
 		"russian": "Деревянная дубинка",
 		"ukrainian": "Дерев'яна палиця",
 	},
-	"equipmentDescription_woodenClub": {
+	"equipmentDescription_clubWood": {
 		"english": "This plain club is used by Tikigoblins. It might be of special value for collectors!",
 		"dutch":  "Deze vlakte knots is gebruikt bij Tikigoblins. Het is meschien van bijzondere waarden voor verzamelaars!",
 		"german": "Diese unscheinbare Keule wird von den Tikigoblins verwendet. Für Sammler ist sie sicher wertvoll!",
@@ -279,6 +285,22 @@
 		"polish": "Ta zwykła pałka jest używana przez Tikigoblinów. Może mieć szczególną wartość dla kolekcjonerów!",
 		"russian": "Эти дубинки используют тикогоблины. Может иметь ценность для коллекционеров!",
 		"ukrainian": "Цю палицю використовують тікогобліни. Може мати цінність для колекціонерів!",
+	},
+	"equipmentName_clubStone": {
+		"english": "Stone Club",
+		"german": "Steinkeule",
+	},
+	"equipmentDescription_clubStone": {
+		"english": "Yes, this stone club might look a bit primitive. Don't underestimate its effectiveness when it comes to dealing damage!",
+		"german": "Diese Steinkeule mag etwas primitiv wirken, ja. Wenn es darum geht Schaden auszuteilen ist sie alledings doch ganz brauchbar.",
+	},
+	"equipmentName_clubWoodTotem": {
+		"english": "Tiki Club",
+		"german": "Tikikeule",
+	},
+	"equipmentDescription_WoodTotem": {
+		"english": "Tikigoblins make ritual clubs like this to fight very specific foes. Once they've been victorious, the club is used as a memento of their defeated enemies!",
+		"german": "Ritualkeulen wie diese fertigen Tikigoblins extra für einen bestimmten Feind an. Ist dieser besiegt, so dient sie als Erinnerung an den gloreichen Sieg.",
 	},
 
 // Watering Cans
@@ -355,6 +377,7 @@
 		"portuguese": "Gambeson",
 		"ukrainian": "Гамбезон",
 		"polish": "Przeszywanica",
+		"turkish": "Pamuklu zırh",
 	},
 	"equipmentDescription_armorGambeson": {
 		"english": "The basic equipment of every wannabe warrior.",
@@ -366,6 +389,7 @@
 		"portuguese": "O equipamento básico de todo guerreiro aspirante.",
 		"ukrainian": "Базовое снаряжение для воїнів.",
 		"polish": "Podstawowa zbroja dla każdego początkującego wojownika",
+		"turkish": "Yeni yetme savaşçıların temel ekipmanı.",
 	},
 
 	"equipmentName_armorSimplePlate": {
@@ -378,6 +402,7 @@
 		"portuguese": "Armadura de Placa Simples",
 		"ukrainian": "Латна броня",
 		"polish": "Prosta zbroja płytowa",
+		"turkish": "Basit Plaka Zırhı",
 	},
 	"equipmentDescription_armorSimplePlate": {
 		"english": "Focusing on the essentials, this armor suits part time soldiers just fine.",
@@ -389,6 +414,7 @@
 		"portuguese": "Concentrando-se no essencial, esta armadura combina com soldados a tempo parcial.",
 		"ukrainian": "Орієнтуючись на потреби, ця броня відмінно підійде солдатам, зайнятим неповний робочий день.",
 		"polish": "Skupmy się na podstawach, ta zbroja nadaje się dla żołnierzy na pół etatu.",
+		"turkish": "Temellere odaklanarak, bu zırh yarı zamanlı askere çok uygun gider.",
 	},
 	"equipmentName_armorIron": {
 		"english": "Iron Armor",
@@ -431,6 +457,7 @@
 		"portuguese": "Roupa do Aprendiz Artesão",
 		"ukrainian": "Одяг Ремісника",
 		"polish": "Ubranie ucznia rzemieślnika",
+		"turkish": "Çırak zanaatkar elbisesi",
 	},
 	"equipmentDescription_craftsmanGear0": {
 		"english": "With these comfortable clothes, craftsmen work a bit faster.",
@@ -442,6 +469,7 @@
 		"portuguese": "Com estas roupas confortáveis, os artesãos trabalham um pouco mais rápido.",
 		"ukrainian": "З цим зручним одягом ремісники працюють трохи швидше.",
 		"polish": "Z tym wygodnym ubraniem rzemieślnik może pracować nieco szybciej",
+		"turkish": "Bu rahat kıyafetlerle, zanaatkarlar biraz daha hızlı çalışıyor.",
 	},
 	"equipmentName_craftsmanGear1": {
 		"english": "Master Craftsman's Clothes",
@@ -449,10 +477,11 @@
 		"german": "Meisterhandwerkerkleidung",
 		"french": "Vêtements du Maître Artisan",
 		"spanish": "Ropas de Maestro Artesano",
-		"russian": "Одежда продвинутого ремесленника",
+		"russian": "Одежда опытного ремесленника",
 		"portuguese": "Roupa do Mestre Artesão",
 		"ukrainian": "Одяг Майстра Ремісника",
 		"polish": "Ubranie rzemieślnika",
+		"turkish": "Usta Zanaatkar Giysileri",
 	},
 	"equipmentDescription_craftsmanGear1": {
 		"english": "Clothing for true master craftsmen. Your settlers will work significantly faster.",
@@ -464,6 +493,7 @@
 		"portuguese": "Roupas para verdadeiros mestres artesãos. Seus colonos trabalharão significativamente mais rápido.",
 		"ukrainian": "Одяг для справжнього ремісника. Ваші поселенці будуть працювати значно швидше.",
 		"polish": "Ubranie dla prawdziwego mistrza rzemieślnictwa. Twoi koloniści będą pracować znacznie szybciej.",
+		"turkish": "Gerçek usta zanaatkarlar için giyim. Yerleşimcileriniz çok daha hızlı çalışacak.",
 	},
 	"equipmentName_foresterGear0": {
 		"english": "Apprentice Forester's Clothes",
@@ -475,6 +505,7 @@
 		"portuguese": "Roupas de Aprendiz Forester",
 		"ukrainian": "Одяг Лісника",
 		"polish": "Ubranie ucznia drwala",
+		"turkish": "Çırak ormancının giysileri",
 	},
 	"equipmentDescription_foresterGear0": {
 		"english": "With the right equipment, forest work is so much easier. These clothes will enable your Foresters to work a little bit faster.",
@@ -486,6 +517,7 @@
 		"portuguese": "Com o equipamento certo, o trabalho na floresta é muito mais fácil. Essas roupas permitirão que seus Foresters trabalhem um pouco mais rápido.",
 		"ukrainian": "З екіпіровкою працювати в лісі набагато простіше. Цей одяг дозволить вашим лісникам працювати трохи швидше.",
 		"polish": "Z właściwym wyposażeniem, drwal może pracować dużo łatwiej. Te ciuchy umożliwą Twoim drwalom nieco szybszą pracę.",
+		"turkish": "Doğru ekipmanla odunculuk çok daha kolay. Bu kıyafetler oduncularınızın biraz daha hızlı çalışmasını sağlayacak.",
 	},
 	"equipmentName_foresterGear1": {
 		"english": "Master Forester's Clothes",
@@ -493,10 +525,11 @@
 		"german": "Meisterförsterkleidung",
 		"french": "Vêtements du Maître Forestier",
 		"spanish": "Ropas de Maestro Leñador",
-		"russian": "Одежда продвинутого дровосека",
+		"russian": "Одежда опытного дровосека",
 		"portuguese": "Roupas de Mestre Forester",
 		"ukrainian": "Одяг Вмілого Лісника",
 		"polish": "Ubranie drwala",
+		"turkish": "Usta oduncu giysileri",
 
 	},
 	"equipmentDescription_foresterGear1": {
@@ -509,6 +542,7 @@
 		"portuguese": "Equipamento de trabalho que vai assustar o inferno fora de todas as árvores próximas. Os silvicultores trabalham muito mais rápido",
 		"ukrainian": "Ця екіпірування змусить дерева боятись вас! Ваші лісники працюватимуть значно швидше.",
 		"polish": "Odzienie robocze, które potrafi wystarszyć wszystkie pobliskie drzewa. Drwa będzie pracował znacznie szybciej",
+		"turkish": "Etraftaki ağaçları korkutacak giysiler. Oduncular çok daha hızlı çalışıyor",
 	},
 	"equipmentName_minerGear0": {
 		"english": "Apprentice Miner's Clothes",
@@ -520,6 +554,7 @@
 		"portuguese": "Roupa do Aprendiz Mineiro",
 		"ukrainian": "Одяг Шахтаря",
 		"polish": "Ubranie ucznia górnictwa",
+		"turkish": "Çırak madenci giysileri",
 
 	},
 	"equipmentDescription_minerGear0": {
@@ -532,6 +567,7 @@
 		"portuguese": "Torna todo o trabalho duro um pouco mais suportável. Os mineiros vão trabalhar um pouco mais rápido.",
 		"ukrainian": "Робить важкі будні шахтаря не такими вже й важкими. Шахтарі будуть працювати трохи швидше.",
 		"polish": "Sprawia, że ciężka praca staje się nieco bardziej znośna. Górnicy będą pracować nieco szybciej",
+		"turkish": "Tüm zor işleri biraz daha kolay hale getiriyor. Madenciler biraz daha hızlı çalışacaklar.",
 	},
 	"equipmentName_minerGear1": {
 		"english": "Master Miner's Clothes",
@@ -539,10 +575,11 @@
 		"german": "Meisterbergarbeiterkleidung",
 		"french": "Vêtements du Maître Mineur",
 		"spanish": "Ropas de Maestro Minero",
-		"russian": "Одежда продвинутого шахтера.",
+		"russian": "Одежда опытного шахтера.",
 		"portuguese": "Roupa do Mestre Mineiro",
 		"ukrainian": "Одяг Сильного Шахтаря.",
 		"polish": "Ubranie górnika",
+		"turkish": "Usta Madenci Giysileri",
 	},
 	"equipmentDescription_minerGear1": {
 		"english": "For passionate miners that can't imagine life without a pickaxe in their hands. Mining stone, crystals and iron ore takes way less time. \"Rock and stone, brother!\"", // The last sentence is a quote from Deep Rock Galactic. As it is only voiced in English, we decided not to include this easter egg to other languages. Just ignore it. ;)
@@ -554,6 +591,7 @@
 		"portuguese": "Para mineiros apaixonados que não conseguem imaginar a vida sem uma picareta nas mãos. Mineração de pedra, cristais e minério de ferro leva menos tempo.",
 		"ukrainian": "Для шахтарів, які не можуть уявити своє життя без кирки в руках. Видобуток каменю, кристалів і залізної руди займає набагато менше часу.",
 		"polish": "Dla pasjonatów górnictwa, którzy nie mogą wyobrazić sobie życia bez kilofa w dłoni. Wydobycie kamienia, kryształów i żelaza zabiera znacznie mniej czasu.",
+		"turkish": "Ellerinde kazma olmayan bir hayatı hayal edemeyen tutkulu madenciler için. Taş, kristal ve demir cevheri madenciliği daha az zaman alır.",
 	},
 	"equipmentName_scholarRobe0": {
 		"english": "Apprentice Scholar's Robes",
@@ -565,6 +603,7 @@
 		"portuguese": "Vestes de Acadêmico Aprendiz",
 		"ukrainian": "Одяг Вченого",
 		"polish": "Szata ucznia uczonego",
+		"turkish": "Çırak bilginlerin cüppesi",
 	},
 	"equipmentDescription_scholarRobe0": {
 		"english": "With these airy and comfortable robes, your scholars will do their research slightly faster.",
@@ -576,6 +615,7 @@
 		"portuguese": "Com essas vestes arejadas e confortáveis, seus estudiosos farão suas pesquisas um pouco mais rápido.",
 		"ukrainian": "З таким неймовірним зручним одягом ваші вчені будуть проводити свої дослідження трохи швидше.",
 		"polish": "Z tymi przewiewnymi i wygodnymi szatami, Twoi uczeni będą przeprowadzać badania nieco szybciej",
+		"turkish": "Bu havadar ve rahat cüppeyle, alimleriniz araştırmalarını biraz daha hızlı yapacaklar.",
 	},
 	"equipmentName_scholarRobe1": {
 		"english": "Master Scholar's Robes",
@@ -583,10 +623,11 @@
 		"german": "Meistergelehrtenrobe",
 		"french": "Tenue du Maître Érudit",
 		"spanish": "Túnicas de Maestro Erudito",
-		"russian": "Одежда продвинутого ученого",
+		"russian": "Одежда опытного ученого",
 		"portuguese": "Vestes do Mestre Estudioso",
 		"ukrainian": "Одяг Верховного Вченого",
 		"polish": "Szata uczonego",
+		"turkish": "Usta alim cüppesi",
 	},
 	"equipmentDescription_scholarRobe1": {
 		"english": "These noble robes emphasize the high rank of their bearer. Scholars research new technologies way faster.",
@@ -598,6 +639,7 @@
 		"portuguese": "Estas vestes nobres enfatizam o alto grau de seu portador. Os estudiosos pesquisam novas tecnologias de maneira mais rápida.",
 		"ukrainian": "Ця шляхетний одяг підкреслює високий статус свого носія. Вчені будуть проводити дослідження набагато швидше.",
 		"polish": "Te dostojne szaty podkreślają wysoką rangę noszącego je. Uczeni odkyrwają nowe technologie znacznie szybciej.",
+		"turkish": "Bu soylu cüppeler, giyenlerinin yüksek rütbelerine dikkat çekiyor. Alimler yeni teknolojileri daha hızlı araştırıyorlar.",
 	},
 	"equipmentName_doctorRobe0": {
 		"english": "Apprentice Doctor's Robes",
@@ -609,6 +651,7 @@
 		"portuguese": "Robes do Doutor Aprendiz",
 		"ukrainian": "Одяг Лікаря",
 		"polish": "Szata ucznia lekarza",
+		"turkish": "Çırak doktor cüppesi",
 	},
 	"equipmentDescription_doctorRobe0": {
 		"english": "Offers minor protection against contagious diseases. Very useful for doctors as they have a lot of contact with their ill patients.",
@@ -620,6 +663,7 @@
 		"portuguese": "Oferece menor proteção contra doenças contagiosas. Muito útil para os médicos, pois eles têm muito contato com seus pacientes doentes.",
 		"ukrainian": "Надає незначну захист від захворювань. Дуже корисно для лікарів, так як вони багато спілкуються зі своїми хворими пацієнтами.",
 		"polish": "Oferuje niewielką ochronę przeciwko chorobom zakaźnym. Bardzo przydatne dla lekarzy odwiedzających swoich chorych pacjentów.",
+		"turkish": "Bulaşıcı hastalıklara karşı küçük de olsa bir koruma sağlar. Hastaları ile çok fazla temasta oldukları için doktorlar için çok faydalıdır.",
 	},
 	"equipmentName_doctorRobe1": {
 		"english": "Master Doctor's Robes",
@@ -628,10 +672,10 @@
 		"french": "Blouse de Docteur",
 		"spanish": "Túnicas de Maestro Doctor",
 		"bulgarian": "Дрехата на доктора",
-		"turkish": "Doktor Forması",
+		"turkish": "Usta doktor cüppesi",
 		"portuguese": "Manto do Médico",
 		"polish": "Szata lekarza",
-		"russian": "Одежда продвинутого врача",
+		"russian": "Одежда опытного врача",
 		"ukrainian": "Одяг Головного Лікаря",
 	},
 	"equipmentDescription_doctorRobe1": {
@@ -657,6 +701,7 @@
 		"portuguese": "Roupa do aprendiz fazendeiro",
 		"ukrainian": "Одяг Фермера",
 		"polish": "Ubranie ucznia rolnictwa",
+		"turkish": "Çırak çiftçi giysileri",
 	},
 	"equipmentDescription_farmerGear0": {
 		"english": "Equipped with this piece of clothing, farmers work more efficiently. Sowing and watering takes a little less time!",
@@ -668,6 +713,7 @@
 		"portuguese": "Equipado com esta peça de roupa, os agricultores trabalham de forma mais eficiente. Semear e regar leva um pouco menos de tempo!",
 		"ukrainian": "З цим одягом фермери працюють більш ефективно. Посів і полив займає трохи менше часу.",
 		"polish": "Ubrany w to odzienie rolnik pracuje efektywniej. Sianie oraz nawodnienie zajmuje mnie czasu!",
+		"turkish": "Bu kıyafetle donatılan çiftçiler daha verimli çalışıyor. Ekim ve sulama biraz daha az zaman alıyor!",
 	},
 	"equipmentName_farmerGear1": {
 		"english": "Master Farmer's Clothes",
@@ -676,10 +722,10 @@
 		"french": "Tenue de Fermier",
 		"spanish": "Ropas de Maestro Granjero",
 		"bulgarian": "Фермерски дрехи",
-		"turkish": "Çiftçi Giysileri",
+		"turkish": "Usta çiftçi giysileri",
 		"portuguese": "Roupas de agricultor",
-		// "polish": "Ubranie rolnika",
-		"russian": "Одежда продвинутого фермера",
+		"polish": "Ubranie rolnika",
+		"russian": "Одежда опытного фермера",
 		"ukrainian": "Одяг Аккуратного Фермера",
 	},
 	"equipmentDescription_farmerGear1": {

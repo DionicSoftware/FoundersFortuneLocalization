@@ -136,14 +136,16 @@
 	"portuguese": {
 		"male": {
 			"seusSuas": "seus",
+			"seuSua": "seu",
 			"oA": "o",
 			"eleEla": "el",
 
 		},
 		"female": {
 			"seusSuas": "suas",
+			"seuSua": "sua",
 			"oA": "a",
-			"eleEla": "ela",
+			"eleEla": "ela",			
 			
 		}
 	},
@@ -165,24 +167,24 @@
 	},
 	"polish": {
 		"male": {
+			"yA": "y",
+			"nicA": "",
 			"onOna": "on",
 			"jegoJej": "jego",
 			"muJej": "mu",
-			"zachorowałZachorowała": "zachorował",
-			"leczonyLeczona": "leczony",
-			"uczulonyUczulona": "uczulony",
-			"zraniłZraniła": "zranił",
-			"złamałZłamała": "złamał",
+			"jegoJą": "jego",
+			"ąłĘła": "ął",
+			"iA": "i",
 		},
 		"female": {
+			"yA": "a",
+			"nicA": "a",
 			"onOna": "ona",
 			"jegoJej": "jej",
 			"muJej": "jej",
-			"zachorowałZachorowała": "zachorowała",
-			"leczonyLeczona": "leczona",
-			"uczulonyUczulona": "uczulona",
-			"zraniłZraniła": "zraniła",
-			"złamałZłamała": "złamała",
+			"jegoJą": "ją",
+			"ąłĘłą": "ęła",
+			"iA": "a",
 		}
 	},
 	"ukrainian": {
@@ -285,6 +287,22 @@
 			"himHer": "她",
 			"himselfHerself": "他自己",
 			"guyGirl": "女孩"
+		}
+	},
+	"arabic": {
+		"male": {
+			"heShe": "he",
+			"hisHer": "his",
+			"himHer": "him",
+			"himselfHerself": "himself",
+			"guyGirl": "guy"
+		},
+		"female": {
+			"heShe": "she",
+			"hisHer": "her",
+			"himHer": "her",
+			"himselfHerself": "herself",
+			"guyGirl": "girl"
 		}
 	}
 }

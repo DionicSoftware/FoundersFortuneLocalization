@@ -10,6 +10,7 @@
 		"dutch": "Doe Niks",
 		"russian": "Ничего не делать",
 		"ukrainian":"Нічого не робити",
+		"arabic": "ﺎًﺌﻴﺷ ﻞﻌﻔﺗ ﻻ",
 	},
 	"Eat": {
 		"english": "Eat Something",
@@ -21,6 +22,7 @@
 		"dutch": "Eet Iets",
 		"russian": "Съесть что-нибудь",
 		"ukrainian":"З'їсти що небудь",
+		"arabic": "ﺎﻣ ﺎًﺌﻴﺷ ﻞﻛ",
 	},
 	"EatFood": {
 		"english": "Eat %food%",
@@ -32,6 +34,7 @@
 		"dutch": "Eet %food%",
 		"russian": "Съесть %food%",
 		"ukrainian":"З'їсти їжу",
+		"arabic": "%food% ﻞﻛ",
 	},
 	"GiveFood": {
 		"english": "Give Food",
@@ -43,6 +46,7 @@
 		"dutch": "Geef Eten",
 		"russian": "Дать еду",
 		"ukrainian":"Дати їжу",
+		"arabic": "ﻡﺎﻌﻄﻟﺍ ﻂﻋﺃ",
 	},
 	"GiveHealingPotion": {
 		"english": "Give Healing Potion",
@@ -54,6 +58,7 @@
 		"dutch": "Geef genezend drankje",
 		"russian": "Дать лечебное зелье",
 		"ukrainian":"Дати лікувальне зілля",
+		"arabic": "ﺀﺎﻔﺷ ﺔﻋﺮﺟ ﻂﻋﺃ",
 	},
 	"Repair": {
 		"english": "Repair",
@@ -65,6 +70,7 @@
 		"dutch": "Repareer",
 		"russian": "Ремонтировать",
 		"ukrainian":"Ремонтувати",
+		"arabic": "ﺡﻼﺻﺇ",
 	},
 	"GoHere": {
 		"english": "Go Here",
@@ -76,6 +82,7 @@
 		"dutch": "Ga Hierheen",
 		"russian": "Идти сюда",
 		"ukrainian":"Йди Сюди",
+		"arabic": "ﺎﻨﻫ ﺐﻫﺫﺍ",
 	},
 	"WaitHere": {
 		"english": "Wait Here",
@@ -87,6 +94,7 @@
 		"dutch": "Wacht Hier",
 		"russian": "Ждать здесь",
 		"ukrainian":"Чекай Тут",
+		"arabic": "ﺎﻨﻫ ﺮﻈﺘﻧﺍ",
 	},
 	"Relax": {
 		"english": "Relax",
@@ -98,6 +106,7 @@
 		"dutch": "Ontspan",
 		"russian": "Отдыхать",
 		"ukrainian":"Відпочити",
+		"arabic": "ﺡﺮﺘﺳﺍ",
 	},
 	"RemovePlant": {
 		"english": "Remove Plant",
@@ -109,6 +118,7 @@
 		"dutch": "Haal De Plant Weg",
 		"russian": "Удалить растение",
 		"ukrainian":"Видалити рослину",
+		"arabic": "ﺕﺎﺒﻨﻟﺍ ﻝﺯﺃ",
 	},
 	"RemoveInfestedPlants": {
 		"english": "Remove all Infested Plants",
@@ -120,6 +130,7 @@
 		"dutch": "Haal alle Geïnfecteerde Planten Weg",
 		"russian": "Удалить все зараженные растения",
 		"ukrainian":"Видалити всі заражені рослини",
+		"arabic": "ﺔﺑﺎﺼﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻴﻤﺟ ﻝﺯﺃ",
 	},
 	"RemoveDeadPlants": {
 		"english": "Remove all Dead Plants",
@@ -131,6 +142,7 @@
 		"dutch": "Haal alle Dode Planten Weg",
 		"russian": "Удалить все мертвые растения",
 		"ukrainian":"Видалити всі мертві рослини",
+		"arabic": "ﺔﺘﻴﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻴﻤﺟ ﻝﺯﺃ",
 	},
 	"WaterPlant": {
 		"english": "Water Plant",
@@ -142,6 +154,7 @@
 		"dutch": "Geef Water",
 		"russian": "Полить растение",
 		"ukrainian":"Полити рослину",
+		"arabic": "ﺕﺎﺒﻨﻟﺍ ﻱﺭ",
 	},
 	"Sow": {
 		"english": "Sow",
@@ -153,6 +166,7 @@
 		"dutch": "Zaaien",
 		"russian": "Сеять",
 		"ukrainian":"Сіяти",
+		"arabic": "ﻉﺭﺯﺍ",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -164,6 +178,7 @@
 		"dutch": "Oogsten",
 		"russian": "Собирать",
 		"ukrainian":"Збирати",
+		"arabic": "ﺪﺼﺣﺍ",
 	},
 	"SowObject": {
 		"english": "Sow %object%",
@@ -175,6 +190,7 @@
 		"dutch": "%object% zaaien",
 		"russian": "Сеять %object%",
 		"ukrainian":"Сіяти %object%",
+		"arabic": "%object% ﻉﺭﺯﺍ",
 	},
 	"HarvestObject": {
 		"english": "Harvest %object%",
@@ -186,6 +202,7 @@
 		"dutch": "%object% oogsten",
 		"russian": "Собирать %object%",
 		"ukrainian":"Збирати %object%",
+		"arabic": "%object% ﺪﺼﺣﺍ",
 	},
 	"Construct": {
 		"english": "Construct",
@@ -197,6 +214,7 @@
 		"dutch": "Bouwen",
 		"russian": "Строить",
 		"ukrainian":"Будувати",
+		"arabic": "ﺀﺎﻨﺒﻟﺎﺑ ﻢﻗ",
 	},
 	"Deconstruct": { // letting a colonist remove furniture
 		"english": "Remove",
@@ -206,7 +224,8 @@
 		"russian": "Сломать",
 		"portuguese": "Retirar",
 		"turkish": "Kaldır",
-		"ukrainian":"Зломати"
+		"ukrainian":"Зломати",
+		"arabic": "ﻝﺯﺃ",
 	},
 	"Fight": {
 		"english": "Fight",
@@ -218,6 +237,7 @@
 		"dutch": "Vechten",
 		"russian": "Сражаться",
 		"ukrainian":"Битися",
+		"arabic": "ﻞﺗﺎﻗ",
 	},
 	"Kill": {
 		"english": "Kill",
@@ -229,6 +249,7 @@
 		"dutch": "Doden",
 		"russian": "Убить",
 		"ukrainian":"Вбити",
+		"arabic": "ﻞﺘﻗﺃ",
 	},
 	"TakeHealingPotion": {
 		"english": "Take Healing Potion",
@@ -240,6 +261,7 @@
 		"dutch": "Neem Genezend drankje",
 		"russian": "Взять лечебное зелье",
 		"ukrainian":"Взяти лікувальне зілля",
+		"arabic": "ﺀﺎﻔﺷ ﺔﻋﺮﺟ ﺬﺧ",
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
@@ -251,6 +273,7 @@
 		"dutch": "Leer over de Landbouw",
 		"russian": "Узнать о фермерстве",
 		"ukrainian":"Дізнатися про фермерство",
+		"arabic": "ﺔﻋﺍﺭﺰﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 	},
 	"LearnForesting": {
 		"english": "Learn about Foresting",
@@ -262,6 +285,7 @@
 		"dutch": "Leer over het Bosbeheer",
 		"russian": "Узнать о лесоводстве",
 		"ukrainian":"Дізнатися про лісівництво",
+		"arabic": "ﺮﻴﺠﺸﺘﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 	},
 	"LearnMining": {
 		"english": "Learn about Mining",
@@ -273,6 +297,7 @@
 		"dutch": "Leer over het Mijnen",
 		"russian": "Узнать о шахтерстве",
 		"ukrainian":"Дізнатися про шахтерство",
+		"arabic": "ﺐﻴﻘﻨﺘﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 	},
 	"LearnCrafting": {
 		"english": "Learn about Crafting",
@@ -284,6 +309,7 @@
 		"dutch": "Leer over het Knutselen",
 		"russian": "Узнать о ремесле",
 		"ukrainian":"Дізнатися про ремесло",
+		"arabic": "ﺔﻋﺎﻨﺼﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 	},
 	"LearnFighting": {
 		"english": "Train for Combat",
@@ -295,6 +321,7 @@
 		"dutch": "Oefenen voor het Vechten",
 		"russian": "Тренироваться",
 		"ukrainian":"Навчатись бою",
+		"arabic": "ﻝﺎﺘﻘﻠﻟ ﺏﺭﺪﺗ",
 	},
 	"LearnMedicine": {
 		"english": "Learn about Medicine",
@@ -306,6 +333,7 @@
 		"dutch": "Leer over Medicijnen",
 		"russian": "Узнать о медицине",
 		"ukrainian":"Дізнатись про медицину",
+		"arabic": "ﺔﻳﻭﺩﻷﺍ ﻦﻋ ﻢﻠﻌﺗ",
 	},
 	"LearnResearching": {
 		"english": "Learn about Researching",
@@ -317,6 +345,7 @@
 		"dutch": "Leer over Onderzoeken",
 		"russian": "Узнать о исследованиях",
 		"ukrainian":"Дізнатися про дослідженнях",
+		"arabic":"ﺚﺤﺒﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -328,6 +357,7 @@
 		"dutch": "Slapen",
 		"russian": "Спать",
 		"ukrainian":"Спати",
+		"arabic":"ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 	},
 	"SleepUntilHealthy": {
 		"english": "Sleep until completely healthy",
@@ -339,6 +369,7 @@
 		"dutch": "Slaap tot volledige gezondheid",
 		"russian": "Спать до полного восстановления здоровья",
 		"ukrainian":"Спати до повного відновлення здоров'я.",
+		"arabic":"ﺔﻠﻣﺎﻛ ﺔﺤﺼﺑ ﻥﻮﻜﺗ ﻰﺘﺣ ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 	},
 	"SleepOnGround": {
 		"english": "Sleep on the Ground",
@@ -350,6 +381,7 @@
 		"dutch": "Slaap op de grond",
 		"russian": "Спать на земле",
 		"ukrainian":"Спати на землі",
+		"arabic":"ﺽﺭﻷﺍ ﻰﻠﻋ ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 	},
 	"Sit": {
 		"english": "Sit",
@@ -361,6 +393,7 @@
 		"dutch": "Zit",
 		"russian": "Сидеть",
 		"ukrainian":"Сидіти",
+		"arabic":"ﺲﻠﺟﺍ",
 	},
 	"SitOnChair": {
 		"english": "Sit on Chair",
@@ -372,6 +405,7 @@
 		"dutch": "Op de stoel zitten",
 		"russian": "Посидеть на стуле",
 		"ukrainian":"Сидіти на кріслі",
+		"arabic":"ﻲﺳﺮﻛ ﻰﻠﻋ ﺲﻠﺟﺍ",
 	},
 	"Bury": {
 		"english": "Bury",
@@ -383,6 +417,7 @@
 		"dutch": "Begraaf",
 		"russian": "Похоронить",
 		"ukrainian":"Ховати",
+		"arabic":"ﻦﻓﺩﺍ",
 	},
 	"AcceptMigrants": {
 		"english": "Accept Migrants",
@@ -394,6 +429,7 @@
 		"dutch": "Migranten accepteren",
 		"russian": "Принять мигрантов",
 		"ukrainian":"Прийняти мігранта",
+		"arabic":"ﺮﺟﺎﻬﻤﻟﺍ ﻞﺒﻗﺍ",
 	},
 	"RejectMigrants": {
 		"english": "Reject Migrants",
@@ -405,6 +441,7 @@
 		"dutch": "Migranten Weigeren",
 		"russian": "Отказаться от мигрантов",
 		"ukrainian":"Відмовитися від мігранта",
+		"arabic":"ﺮﺟﺎﻬﻤﻟﺍ ﺾﻓﺭﺍ",
 	},
 	"LeaveIsland": {
 		"english": "Leave Island",
@@ -416,6 +453,7 @@
 		"dutch": "Eiland verlaten",
 		"russian": "Покинуть остров",
 		"ukrainian":"Покинути острів",
+		"arabic":"ﺓﺮﻳﺰﺠﻟﺍ ﺭﺩﺎﻏ",
 	},
 	"BandageWounds": {
 		"english": "Bandage Wounds",
@@ -427,6 +465,7 @@
 		"dutch": "Wonden verbinden",
 		"russian": "Перевязать рану",
 		"ukrainian":"Перев'язати рану",
+		"arabic":"ﺡﻭﺮﺠﻟﺍ ﺪﻤﺿ",
 	},
 	"SplintLeg": {
 		"english": "Splint Leg",
@@ -437,6 +476,7 @@
 		"turkish": "Bacak desteği",
 		"russian": "Наложить шину на ногу",
 		"ukrainian":"Накласти шину на ногу",
+		"arabic":"ﻕﺎﺴﻟﺍ ﻰﻠﻋ ﺓﺮﻴﺒﺟ ﻊﺿ",
 	},
 	"SplintArm": {
 		"english": "Splint Arm",
@@ -447,6 +487,7 @@
 		"turkish": "Kol desteği",
 		"russian": "Наложить шину на руку",
 		"ukrainian":"Накласти шину на руку",
+		"arabic":"ﻉﺍﺭﺬﻟﺍ ﻰﻠﻋ ﺓﺮﻴﺒﺟ ﻊﺿ",
 	},
 	"Destroy": {
 		"english": "Destroy",
@@ -458,6 +499,7 @@
 		"dutch": "Verwoesten",
 		"russian": "Сломать",
 		"ukrainian":"Зламати",
+		"arabic":"ﺮﻣﺩ",
 	},
 	"Remove": {
 		"english": "Remove",
@@ -469,6 +511,7 @@
 		"dutch": "Verwijderen",
 		"russian": "Удалить",
 		"ukrainian":"Видалити",
+		"arabic":"ﻝﺯﺃ",
 	},
 	"Add": {
 		"english": "Add",
@@ -480,6 +523,7 @@
 		"dutch": "Toevoegen",
 		"russian": "Добавить",
 		"ukrainian":"Добавити",
+		"arabic":"ﻒﺿﺃ",
 	},
 	"Produce": {
 		"english": "Produce",
@@ -491,6 +535,7 @@
 		"dutch": "Produceren",
 		"russian": "Произвести",
 		"ukrainian":"Виготовити",
+		"arabic":"ﺝﺎﺘﻧﺇ",
 	},
 	"Equip": {
 		"english": "Equip",
@@ -502,6 +547,7 @@
 		"dutch": "Uitrusten",
 		"russian": "Снарядиться",
 		"ukrainian":"Спорядити",
+		"arabic":"ﻱﺪﺗﺭﺍ",
 	},
 	"Unequip": {
 		"english": "Unequip",
@@ -513,6 +559,7 @@
 		"dutch": "Unequip",
 		"russian": "Снять снаряжение",
 		"ukrainian":"Зняти спорядження",
+		"arabic":"ﻊﻠﺧﺍ",
 	},
 	"RemoveWeapon": {
 		"english": "Lay down Weapon",
@@ -524,6 +571,7 @@
 		"dutch": "Wapen Wegleggen",
 		"russian": "Сложить оружие",
 		"ukrainian":"Скласти зброю",
+		"arabic":"ﺡﻼﺴﻟﺍ ﺀﺎﻘﻟﺍ",
 	},
 	"RemoveArmor": {
 		"english": "Take off Armor",
@@ -535,6 +583,7 @@
 		"dutch": "Harnas Uitdoen",
 		"russian": "Снять броню",
 		"ukrainian":"Зняти броню",
+		"arabic":"ﻉﺭﺪﻟﺍ ﻊﻠﺧ",
 	},
 	"RemoveEquipment": {
 		"english": "Remove Equipment",
@@ -546,6 +595,7 @@
 		"dutch": "Uitrusting wegdoen",
 		"russian": "Снять снаряжение",
 		"ukrainian":"Зняти спорядження",
+		"arabic":"ﺕﺍﺪﻌﻤﻟﺍ ﺔﻟﺍﺯﺇ",
 	},
 	"LightBonfire": {
 		"english": "Light Bonfire",
@@ -557,6 +607,7 @@
 		"dutch": "Baken aansteken",
 		"russian": "Зажечь костер",
 		"ukrainian":"Запалити багаття",
+		"arabic":"ﺔﻠﻌﺸﻟﺍ ﻝﺎﻌﺷﺇ",
 	},
 	"PutOutBonfire": {
 		"english": "Put out Bonfire",
@@ -568,6 +619,7 @@
 		"dutch": "Baken Uitdoen",
 		"russian": "Потушить костер",
 		"ukrainian":"Загасити вогонь",
+		"arabic":"ﺔﻠﻌﺸﻟﺍ ﺩﺎﻤﺧﺇ",
 	},
 	"GatherResource": {
 		"english": "Gather Resources",
@@ -579,6 +631,7 @@
 		"dutch": "Grondstof Verzamelen",
 		"russian": "Собирать ресурсы",
 		"ukrainian":"Збирати ресурси",
+		"arabic":"ﺩﺭﺍﻮﻤﻟﺍ ﻊﻤﺟ",
 	},
 	"Guard": {
 		"english": "Guard",
@@ -590,6 +643,7 @@
 		"dutch": "Bewaak",
 		"russian": "Защищать",
 		"ukrainian":"Захищати",
+		"arabic":"ﺔﻳﺎﻤﺣ",
 	},
 	"GuardTower": {
 		"english": "Guard Tower",
@@ -601,6 +655,7 @@
 		"dutch": "Wachttoren",
 		"russian": "Защищать башню",
 		"ukrainian":"Захищати вежу",
+		"arabic":"ﺔﺳﺍﺮﺤﻟﺍ ﺝﺮﺑ",
 	},
 	"ProcessResource": {
 		"english": "Process Resource",
@@ -612,6 +667,7 @@
 		"dutch": "Grondstof verwerking",
 		"russian": "Обработка ресурса",
 		"ukrainian":"Обробка ресурсу",
+		"arabic":"ﺩﺭﺍﻮﻤﻟﺍ ﺔﺠﻟﺎﻌﻣ",
 	},
 	"ChangeProfession": {
 		"english": "Change",
@@ -623,6 +679,7 @@
 		"dutch": "Verander",
 		"russian": "Изменить",
 		"ukrainian":"Змінити",
+		"arabic":"ﺮﻴﻴﻐﺗ",
 	},
 	"GiveProductionOrders": {
 		"english": "Give Production Orders",
@@ -634,6 +691,7 @@
 		"dutch": "Geef productie opdrachten",
 		"russian": "Добавить заказ",
 		"ukrainian":"Додати замовлення",
+		"arabic":"ﺝﺎﺘﻧﻹﺍ ﺮﻣﺍﻭﺃ ﺀﺎﻄﻋﺇ",
 	},
 	"FillWateringCan": {
 		"english": "Fill Watering Can",
@@ -645,6 +703,7 @@
 		"dutch": "Vul gieter",
 		"russian": "Наполнить лейку",
 		"ukrainian":"Наповнити лійку",
+		"arabic":"ﻱﺮﻟﺍ ﻮﻟﺩ ﺀﻞﻣ",
 	},
 	"interaction_gatherFood": {
 		"english": "Gather Food",
@@ -656,6 +715,7 @@
 		"dutch": "Verzamel voedsel",
 		"russian": "Собирать еду",
 		"ukrainian":"Збирати їжу",
+		"arabic":"ﻡﺎﻌﻄﻟﺍ ﻊﻤﺟ",
 	},
 	"interaction_cutTree": {
 		"english": "Cut Tree",
@@ -667,6 +727,7 @@
 		"dutch": "Boom omkappen",
 		"russian": "Срубить дерево",
 		"ukrainian":"Зрубати дерево",
+		"arabic":"ﺓﺮﺠﺸﻟﺍ ﻊﻄﻗ",
 	},
 	"interaction_mineStone": {
 		"english": "Mine Stone",
@@ -678,6 +739,7 @@
 		"dutch": "Steen mijnen",
 		"russian": "Добывать камень",
 		"ukrainian":"Добувати камінь",
+		"arabic":"ﺓﺭﺎﺠﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 	},
 	"interaction_mineIronOre": {
 		"english": "Mine Iron Ore",
@@ -689,6 +751,7 @@
 		"dutch": "Ijzererts mijnen",
 		"russian": "Добывать железную руду",
 		"ukrainian":"Добувати залізну руду",
+		"arabic":"ﺪﻳﺪﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 	},
 	"Gather": {
 		"english": "Gather",
@@ -700,6 +763,7 @@
 		"dutch": "Verzamel",
 		"russian": "Собирать",
 		"ukrainian":"Збирати",
+		"arabic":"ﻊﻤﺟ",
 	},
 	"BecomeA": {
 		"english": "Become a",
@@ -711,6 +775,7 @@
 		"dutch": "Wordt een",
 		"russian": "Стать",
 		"ukrainian":"Встати",
+		"arabic":"ﺢﺒﺻﺃ",
 	},
 	"TryFluTreatment": {
 		"english": "Try Flu Treatment",
@@ -722,6 +787,7 @@
 		"dutch": "Probeer een griepbehandeling",
 		"russian": "Попробовать вылечить грипп",
 		"ukrainian":"Спробувати вилікувати грип",
+		"arabic":"ﺍﺰﻧﻮﻠﻔﻧﻻﺍ ﺝﻼﻋ ﺔﻟﻭﺎﺤﻣ",
 	},
 	"interaction_analyzeCrystal": {
 		"english": "Analyze Crystal",
@@ -733,6 +799,7 @@
 		"dutch": "Kristal Analyzeren",
 		"russian": "Анализировать кристалл",
 		"ukrainian":"Аналізувати кристал",
+		"arabic":"ﺕﺍﺭﻮﻠﺒﻟﺍ ﻞﻴﻠﺤﺗ",
 	},
 	"interaction_analyzeScroll": {
 		"english": "Analyze Scroll",
@@ -743,6 +810,7 @@
 		"turkish": "Parşömeni incele",
 		"russian": "Анализировать свиток",
 		"ukrainian":"Аналізувати сувій",
+		"arabic":"ﺕﺎﻃﻮﻄﺨﻤﻟﺍ ﻞﻴﻠﺤﺗ",
 	},
 	"interaction_cook": {
 		"english": "Cook Food",
@@ -754,6 +822,7 @@
 		"dutch": "Voedsel koken",
 		"russian": "Приготовить еду",
 		"ukrainian":"Приготувати їжу",
+		"arabic":"ﻡﺎﻌﻄﻟﺍ ﻮﻬﻃ",
 	},
 	"interaction_forge": {
 		"english": "Forge",
@@ -765,6 +834,7 @@
 		"dutch": "Smeden",
 		"russian": "Ковать",
 		"ukrainian":"Кувати",
+		"arabic":"ﻊﻨﺻ",
 	},
 	"interaction_makeBows": {
 		"english": "Make Bows",
@@ -776,6 +846,7 @@
 		"dutch": "Maak bogen",
 		"russian": "Сделать лук",
 		"ukrainian":"Зробити лук",
+		"arabic":"ﺱﺍﻮﻗﺃ ﻊﻨﺻ",
 	},
 	"interaction_makeTools": {
 		"english": "Make Tools",
@@ -787,6 +858,7 @@
 		"dutch": "Maak gereedschap",
 		"russian": "Сделать инструменты",
 		"ukrainian":"Зробити інструменти",
+		"arabic":"ﺕﺍﻭﺩﺃ ﻊﻨﺻ",
 	},
 	"interaction_tailorClothes": {
 		"english": "Tailor Clothes",
@@ -798,6 +870,7 @@
 		"dutch": "Kleding maken",
 		"russian": "Сшить одежду",
 		"ukrainian":"Зшити одяг",
+		"arabic":"ﺲﺑﻼﻣ ﺔﻃﺎﻴﺧ",
 	},
 	"interaction_produceMedicalPotions": {
 		"english": "Produce Healing Potions",
@@ -809,6 +882,7 @@
 		"dutch": "Genezende Drankjes maken",
 		"russian": "Сделать лечебные зелья",
 		"ukrainian":"Зробити лікувальні зілля",
+		"arabic":"ﺀﺎﻔﺷ ﺕﺎﻋﺮﺟ ﺝﺎﺘﻧﺇ",
 	},
 	"interaction_produceMedicine": {
 		"english": "Produce Medicine",
@@ -820,6 +894,7 @@
 		"dutch": "Produceer Medicijnen",
 		"russian": "Сделать лекарство",
 		"ukrainian":"Зробити ліки",
+		"arabic":"ﺔﻳﻭﺩﺃ ﺝﺎﺘﻧﺇ",
 	},
 	"interaction_brewBeer": {
 		"english": "Brew Beer",
@@ -830,6 +905,7 @@
 		"portuguese": "Cerveja fermentada",
 		"turkish": "Bira yap",
 		"ukrainian":"Варити пиво",
+		"arabic":"ﺓﺮﻴﺒﻟﺍ ﺮﻴﻤﺨﺗ",
 	},
 	"Talk": {
 		"english": "Talk",
@@ -841,6 +917,7 @@
 		"dutch": "Praat",
 		"russian": "Общаться",
 		"ukrainian":"Спілкуватись",
+		"arabic":"ﺙﺪﺤﺗ",
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
@@ -852,6 +929,7 @@
 		"dutch": "Praat tegen %name%",
 		"russian": "Поговорить с %name%",
 		"ukrainian":"Поговорить з %name%",
+		"arabic":"%name% ﻰﻟﺇ ﺙﺪﺤﺗ",
 	},
 	"TakeOwnership": {
 		"english": "Take Ownership",
@@ -863,6 +941,7 @@
 		"dutch": "Wordt Eigenaar",
 		"russian": "Завладеть",
 		"ukrainian":"Стати власником",
+		"arabic":"ﺔﻴﻜﻠﻤﻟﺍ ﺬﺧ",
 	},
 	"TakeOwnershipFrom": {
 		"english": "Take Ownership from %name%",
@@ -873,7 +952,8 @@
 		"portuguese": "Apropriar de %name%",
 		"dutch": "Neem het Eigendom van %name% af",
 		"russian": "Стать владельцем вместо %name%",
-		"ukrainian":"Стати власником від %name%",
+		"ukrainian":"Стати власником замість %name%",
+		"arabic":"%name% ﻦﻣ ﺔﻴﻜﻠﻤﻟﺍ ﺬﺧ",
 	},
 	"GiveUpOwnership": {
 		"english": "Give up Ownership",
@@ -884,7 +964,8 @@
 		"portuguese": "Desistir de propriedade",
 		"dutch": "Eigenschap opgeven",
 		"russian": "Сменить владельца",
-		"ukrainian":"Передати у володіння",
+		"ukrainian":"Передати володіння",
+		"arabic":"ﺔﻴﻜﻠﻤﻟﺍ ﻦﻋ ﻝﺯﺎﻨﺗ",
 	},
 	"CarryToBed": {
 		"english": "Carry to Bed",
@@ -895,6 +976,7 @@
 		"turkish": "Yatağa taşı", 
 		"russian": "Отнести на кровать",
 		"ukrainian":"Перенести на ліжко",
+		"arabic":"ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ ﻞﻤﺣﺍ",
 	},
 	"PlaceTool": {
 		"english": "Unequip Tool",
@@ -905,6 +987,7 @@
 		"turkish": "Aleti bırak", 
 		"russian": "Сложить инструмент",
 		"ukrainian":"Скласти інструмент",
+		"arabic":"ﺓﺍﺩﻷﺍ ﻊﻠﺧ",
 	},
 	"PlaceClothes": {
 		"english": "Unequip Clothes",
@@ -915,6 +998,7 @@
 		"turkish": "Kıyafetleri çıkar", 
 		"russian": "Снять одежду",
 		"ukrainian":"Зняти одяг",
+		"arabic":"ﺲﺑﻼﻤﻟﺍ ﻊﻠﺧ",
 	},
 	"Trade": {
 		"english": "Trade",
@@ -925,7 +1009,8 @@
 		"dutch": "Ruil",
 		"turkish": "Takas",
 		"russian": "Торговать",
-		"ukrainian":"Торгуватись",
+		"ukrainian":"Торгувати",
+		"arabic":"ﺓﺮﺟﺎﺘﻣ",
 	},
 	"LockUp": {
 		"english": "Lock Up",
@@ -936,6 +1021,7 @@
 		"portuguese": "Trancado",
 		"turkish": "Kilitle",
 		"ukrainian":"Замикати",
+		"arabic":"ﻦﺠﺳﺍ",
 	},
 	"FreeColonist": {
 		"english": "Free colonist",
@@ -946,6 +1032,7 @@
 		"portuguese": "Colono livre",
 		"turkish": "Serbest bırak",
 		"ukrainian":"Звільнити Колоніста",
+		"arabic":"ﺮﻤﻌﺘﺴﻤﻟﺍ ﺭﺮﺣ",
 	},
 	"FreeColonistFirstName": {
 		"english": "Free %firstName%",
@@ -956,6 +1043,7 @@
 		"portuguese": "Livre %firstName%",
 		"turkish": "%firstName%'i serbest bırak",
 		"ukrainian":"Звільнити %firstName%",
+		"arabic":"%firstName% ﺭﺮﺣ",
 	},
 	"DrinkBeer": {
 		"english": "Drink Beer",
@@ -966,6 +1054,7 @@
 		"portuguese": "Beber cerveja",
 		"turkish": "Bira iç",
 		"ukrainian":"Випити Пиво",
+		"arabic":"ﺓﺮﻴﺑ ﺏﺮﺷﺍ",
 	},
 	"Dance": {
 		"english": "Dance",
@@ -976,6 +1065,7 @@
 		"portuguese": "Dança",
 		"turkish": "Dans et",
 		"ukrainian":"Танцювати",
+		"arabic":"ﺺﻗﺭﺍ",
 	},
 	"Enjoy": {
 		"english": "Enjoy",
@@ -986,6 +1076,7 @@
 		"portuguese": "Apreciar",
 		"turkish": "Keyfini çıkar",
 		"ukrainian":"Насолоджуватись",
+		"arabic":"ﻊﺘﻤﺘﺳﺍ",
 
 	},
 	"EnjoyFire": {
@@ -997,6 +1088,7 @@
 		"portuguese": "Desfrute de fogo",
 		"turkish": "Ateşin keyfini çıkar",
 		"ukrainian":"Насолоджується Вогнем",
+		"arabic":"ﺭﺎﻨﻟﺎﺑ ﻊﺘﻤﺘﺳﺍ",
 	},
 	"Drum": {
 		"english": "Drum",
@@ -1007,6 +1099,7 @@
 		"portuguese": "Tambor",
 		"turkish": "Davul",
 		"ukrainian":"Барабан",
+		"arabic":"ﻞﺒﻄﻟﺍ ﻉﺮﻗﺍ",
 	},
 	"Hug": {
 		"english": "Hug",
@@ -1017,6 +1110,7 @@
 		"portuguese": "Abraço",
 		"ukrainian":"Обняти",
 		"turkish": "Sarılma",
+		"arabic":"ﻦﻀﺣﺍ",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1027,6 +1121,7 @@
 		"portuguese": "Alegria",
 		"turkish": "Alkışla",
 		"ukrainian":"Радуватись",
+		"arabic":"ﻒﺘﻫﺍ",
 	},
 
 
@@ -1042,6 +1137,7 @@
 		"dutch": "Iemand anders gebruikt dat",
 		"russian": "Кто-то еще использует это",
 		"ukrainian":"Хтось ще використовує це",
+		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ ﺮﺧﺁ ﺺﺨﺷ",
 	},
 	"firstNameIsUsingThat": {
 		"english": "%firstName% is using that",
@@ -1052,6 +1148,7 @@
 		"portuguese": "%firstName% está usando isso",
 		"ukrainian":"%firstName% використовує це",
 		"turkish": "Onu %firstName% kullanıyor",
+		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ %firstName%",
 	},
 	"goblinIsUsingThat": {
 		"english": "Goblin is using that",
@@ -1062,6 +1159,7 @@
 		"portuguese": "Goblin está usando isso",
 		"ukrainian":"Гоблін використовує це",
 		"turkish": "Onu goblin kullanıyor",
+		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ ﺖﻳﺮﻔﻋ",
 	},
 	"visitorIsUsingThat": { // visitors like migrants or traders
 		"english": "A visitor is using that",
@@ -1072,6 +1170,7 @@
 		"portuguese": "Um visitante está usando isso",
 		"ukrainian":"Відвідувач використовує це",
 		"turkish": "Onu bir ziyaretçi kullanıyor",
+		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ ﺮﺋﺍﺯ",
 	},
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",
@@ -1082,6 +1181,7 @@
 		"turkish": "Bacağı kırık, yürüyemiyor", 
 		"russian": "Вы не можете передвигаться со сломанной ногой.",
 		"ukrainian":"Ви не можете пересуватися зі зламаною ногою.",
+		"arabic":"ﻕﺎﺴﻟﺍ ﻲﻓ ﺮﺴﻛ ﺐﺒﺴﺑ ﻲﺸﻤﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻻ",
 	},
 	"cantWorkBrokenArm": {
 		"english": "Can't work because of broken arm",
@@ -1092,6 +1192,7 @@
 		"turkish": "Kolu kırık, çalışamaz", 
 		"russian": "Не может работать из-за сломанной руки",
 		"ukrainian":"Не може працювати через зламану руки",
+		"arabic":"ﻉﺍﺭﺬﻟﺍ ﻲﻓ ﺮﺴﻛ ﺐﺒﺴﺑ ﻞﻤﻌﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻻ",
 	},
 	"cantInteractIsLockedUp": {
 		"english": "Colonist is locked up",
@@ -1102,6 +1203,7 @@
 		"portuguese": "Colono está trancado",
 		"ukrainian":"Колоніст під замком",
 		"turkish": "Yerleşimci kilit altında",
+		"arabic":"ﻥﻮﺠﺴﻣ ﺮﻤﻌﺘﺴﻤﻟﺍ",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -1113,6 +1215,7 @@
 		"dutch": "Geen productie opdrachten",
 		"russian": "Нет заказов",
 		"ukrainian":"Немає замовлень",
+		"arabic":"ﺝﺎﺘﻧﺇ ﺮﻣﺍﻭﺃ ﻻ",
 	},
 	"notSufficientExperience": {
 		"english": "%firstName% doesn't have enough experience as %profession%",
@@ -1124,6 +1227,7 @@
 		"dutch": "%firstname % heeft niet genoeg ervaring als %profession%",
 		"russian": "%firstName% не имеет достаточного уровня в %profession%",
 		"ukrainian":"%firstName% не має достатнього рівня в %profession%",
+		"arabic":"%profession%ـﻛ ﺔﻴﻓﺎﻛ ﺓﺮﺒﺧ ﻚﻠﻤﻳ ﻻ %firstName%",
 	},
 	"notUsableInSeason": {
 		"english": "Not possible in %season%",
@@ -1135,6 +1239,7 @@
 		"dutch": "Niet mogelijk in %season%",
 		"russian": "Невозможно в сезоне %season%",
 		"ukrainian":"Неможливо в сезоні %season%",
+		"arabic":"%season% ﻲﻓ ﻦﻜﻤﻣ ﺮﻴﻏ",
 	},
 	"noTimeBeforeSeasonChanges": {
 		"english": "Not enough time before season changes",
@@ -1145,6 +1250,7 @@
 		"russian": "Недостаточно времени до смены сезона",
 		"ukrainian":"Недостатньо часу до зміни сезону",
 		"portuguese": "Não há tempo suficiente antes das mudanças da temporada",
+		"arabic":"ﻢﺳﻮﻤﻟﺍ ﺮﻴﻐﺗ ﻞﺒﻗ ﻲﻓﺎﻛ ﺮﻴﻏ ﺖﻗﻭ",
 	},
 	"nextTryIn": {
 		"english": "Next Try in",
@@ -1156,6 +1262,7 @@
 		"dutch": "Probeer nog een keer in",
 		"russian": "Следующая попытка через",
 		"ukrainian":"Наступна спроба через",
+		"arabic":"ﻲﻓ ﻝﻭﺎﺣ ﺔﻠﺒﻘﻤﻟﺍ ﺓﺮﻤﻟﺍ",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",
@@ -1167,6 +1274,7 @@
 		"dutch": "Kan niet vanwege de eigenschap %trait%",
 		"russian": "Не может из-за черты: %trait%",
 		"ukrainian":"Не може через рису: %trait%",
+		"arabic":"%trait% :ﺔﻤﺴﻟﺍ ﺐﺒﺴﺑ ﻦﻜﻤﻣ ﺮﻴﻏ",
 	},
 	"forbiddenBecauseNotHasTrait": {
 		"english": "Missing trait: %trait%",
@@ -1178,6 +1286,7 @@
 		"dutch": "Mist eigenschap: %trait%",
 		"russian": "Отсутствует черта: %trait%",
 		"ukrainian":"Відсутня риса: %trait%",
+		"arabic":"%trait% :ﺓﺩﻮﻘﻔﻣ ﺔﻤﺳ",
 	},
 	"cantGetResourceNearby": {
 		"english": "Can't get %resource% nearby",
@@ -1189,6 +1298,7 @@
 		"dutch": "Kan in de buurt geen %resource% krijgen ",
 		"russian": "Не могу собрать %resource% поблизости",
 		"ukrainian":"Не можу зібрати %resource% поблизу",
+		"arabic":"ﺎﻨﻫ ﻦﻣ ﺏﺮﻘﻟﺎﺑ %resource% ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ ﻻ",
 	},
 	"missingEquipmentEffect_WateringPlants": {
 		"english": "Needs a watering can",
@@ -1200,6 +1310,7 @@
 		"dutch": "Heeft een gieter nodig",
 		"russian": "Нужна лейка",
 		"ukrainian":"Потрібна лійка",
+		"arabic":"ﻱﺮﻟﺍ ﻮﻟﺩ ﻰﻟﺇ ﺝﺎﺘﺤﻳ",
 	},
 	"noResearchSelected": {
 		"english": "No Research selected",
@@ -1211,6 +1322,7 @@
 		"dutch": "Geen onderzoek geselecteerd",
 		"russian": "Исследование не выбрано",
 		"ukrainian":"Дослідження не вибрано",
+		"arabic":"ﺚﺤﺑ ﺭﺎﻴﺘﺧﺍ ﻢﺘﻳ ﻢﻟ",
 	},
 	"resourceNotNecessaryForResearch": {
 		"english": "Doesn't need to analyze %resource% for current research",
@@ -1221,6 +1333,7 @@
 		"turkish": "Şimdiki araştırma konusu için %resource% analiz etmeye gerek yok",
 		"russian": "Не нужно анализировать %resource% в текущем исследовании",
 		"ukrainian":"Не потрібно аналізувати %resource% в поточному дослідженні", 
+		"arabic":"ﻲﻟﺎﺤﻟﺍ ﺚﺤﺒﻠﻟ %resource% ﻞﻴﻠﺤﺘﻟ ﺔﺟﺎﺣ ﻻ",
 	},
 	"notOwnedBy": {
 		"english": "Not owned by %firstName%",
@@ -1231,6 +1344,7 @@
 		"turkish": "%firstName% sahipliğinde değil", 
 		"russian": "Не принадлежит %firstName%",
 		"ukrainian":"Не належить %firstName%",
+		"arabic":"%firstName% ﻦﻣ ﺔﻛﻮﻠﻤﻣ ﺮﻴﻏ",
 	},
 	"cantWearClothesBecauseOfBodyShape": { // For example, goblins can't wear clothes with hats because of their head shape
 		"english": "Can't wear this type of clothing",

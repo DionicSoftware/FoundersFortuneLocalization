@@ -12,6 +12,7 @@
 		"russian":"Новая игра",
 		"chinese": "新游戏",
 		"arabic": "ﺓﺪﻳﺪﺟ ﺔﺒﻌﻟ",
+		"polish": "Nowa gra",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -25,6 +26,7 @@
 		"russian":"Сохранить игру",
 		"chinese": "保存游戏",
 		"arabic": "ﺔﺒﻌﻠﻟﺍ ﻆﻔﺣ",
+		"polish": "Zapisz grę",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -38,6 +40,7 @@
 		"russian":"Загрузить игру",
 		"chinese": "加载游戏",
 		"arabic": "ﺔﺒﻌﻠﻟﺍ ﻞﻴﻤﺤﺗ",
+		"polish": "Wczytaj grę",
 	},
 	"settings": {
 		"english": "Settings",
@@ -51,6 +54,7 @@
 		"russian":"Настройки",
 		"chinese": "设置",
 		"arabic": "ﺕﺍﺩﺍﺪﻋﻹﺍ",
+		"polish": "Ustawienia",
 	},
 	"quit": {
 		"english": "Quit",
@@ -64,6 +68,7 @@
 		"russian":"Выход",
 		"chinese": "退出",
 		"arabic": "ﺝﻭﺮﺧ",
+		"polish": "Wyjdź",
 	},
 	"website": {
 		"english": "Website",
@@ -75,6 +80,7 @@
 		"ukrainian":"ВебСайт",
 		"chinese": "网站",
 		"arabic": "ﻊﻗﻮﻤﻟﺍ",
+		"polish": "Strona internetowa",
 	},
 	"forum": {
 		"english": "Forum",
@@ -87,6 +93,7 @@
 		"ukrainian":"Форум",
 		"chinese": "论坛",
 		"arabic": "ﻯﺪﺘﻨﻤﻟﺍ",
+		"polish": "Forum",
 	},
 	"supportDevelopment": {
 		"english": "Support Development",
@@ -99,6 +106,7 @@
 		"russian":"Поддержать разработчика",
 		"chinese": "支持开发者",
 		"arabic": "ﺮﻳﻮﻄﺘﻟﺍ ﻢﻋﺩ",
+		"polish": "Wspieraj rozwój",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -112,6 +120,7 @@
 		"russian":"Доступно обновление!",
 		"chinese": "可用更新",
 		"arabic": "!ﺮﻓﻮﺘﻣ ﺚﻳﺪﺤﺗ",
+		"polish": "Aktualizacja dostępna",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -125,6 +134,7 @@
 		"russian":"Получить новую версию",
 		"chinese": "获取最新版本",
 		"arabic": "ﺭﺍﺪﺻﺇ ﺙﺪﺣﺃ ﻰﻠﻋ ﻞﺼﺣﺍ",
+		"polish": "Ściągnij najnowszą wersję",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -138,6 +148,7 @@
 		"russian":"Ваша версия",
 		"chinese": "你的版本",
 		"arabic": "ﻙﺭﺍﺪﺻﺇ",
+		"polish": "Twoja wersja",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -151,6 +162,7 @@
 		"russian":"Текущая версия",
 		"chinese": "当前版本",
 		"arabic": "ﻲﻟﺎﺤﻟﺍ ﺭﺍﺪﺻﻹﺍ",
+		"polish": "Obecna wersja",
 	},
 	"underConstruction": {
 		"english": "Under Construction!",
@@ -164,6 +176,7 @@
 		"russian":"В разработке!",
 		"chinese": "施工中!",
 		"arabic": "ﺀﺎﺸﻧﻹﺍ ﺪﻴﻗ",
+		"polish": "W budowie!",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -177,6 +190,7 @@
 		"russian":"Главное Меню",
 		"chinese": "主菜单",
 		"arabic": "ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻟﺍ",
+		"polish": "Główne menu",
 	},
 	"giveFeedback": {
 		"english": "Give Feedback",
@@ -190,6 +204,7 @@
 		"russian":"Обратная связь",
 		"chinese": "意见反馈",
 		"arabic": "ﺔﻈﺣﻼﻣ ﻢﻳﺪﻘﺗ",
+		"polish": "Podziel się opinią",
 	},
 
 
@@ -205,6 +220,7 @@
 		"russian":"Загрузить игру",
 		"chinese": "加载",
 		"arabic": "ﻞﻴﻤﺤﺗ",
+		"polish": "Wczytaj",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -217,6 +233,7 @@
 		"russian":"Перезаписать",
 		"chinese": "覆盖",
 		"arabic": "ﻝﺍﺪﺒﺘﺳﺇ",
+		"polish": "Nadpisz",
 	},
 	"newSave": {
 		"english": "New Save",
@@ -229,6 +246,7 @@
 		"russian":"Новое сохранение",
 		"chinese": "新存档",
 		"arabic": "ﺪﻳﺪﺟ ﻆﻔﺣ",
+		"polish": "Nowy zapis",
 	},
 	"savegameName": { // background when player enters an empty save game name
 		"english": "Savegame Name",
@@ -241,6 +259,7 @@
 		"russian":"Название сохранения",
 		"chinese": "存档名称",
 		"arabic": "ﻆﻔﺤﻟﺍ ﻢﺳﺍ",
+		"polish": "Nazwa zapisu",
 	},
 	"mostAwesomeColony": { // default name for new colony
 		"english": "Most Awesome Colony",
@@ -253,6 +272,7 @@
 		"russian":"Самая удивительная колония",
 		"chinese": "令人敬畏的殖民地",
 		"arabic": "ﺔﻋﻭﺭ ﺮﺜﻛﻷﺍ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ",
+		"polish": "Najbardziej cudowna kolonia",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -265,6 +285,7 @@
 		"russian":"Запрещенные символы в имени файла",
 		"chinese": "文件名禁使用字符",
 		"arabic": "ﻒﻠﻤﻟﺍ ﻢﺳﻹ ﺔﺤﻟﺎﺻ ﺮﻴﻏ ﻑﺮﺣﺃ",
+		"polish": "Zabronione znaki w nazwie pliku",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -277,6 +298,7 @@
 		"russian":"Имя файла слишком длинное",
 		"chinese": "文件名太长",
 		"arabic": "ﺍﺪﺟ ﻞﻳﻮﻃ ﻒﻠﻤﻟﺍ ﻢﺳﺍ",
+		"polish": "Nazwa pliku zbyt długa",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -289,6 +311,7 @@
 		"russian":"Имя файла слишком короткое",
 		"chinese": "文件名太短",
 		"arabic": "ﺍﺪﺟ ﺮﻴﺼﻗ ﻒﻠﻤﻟﺍ ﻢﺳﺍ",
+		"polish": "Nazwa pliku zbyt krótka",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -301,6 +324,7 @@
 		"russian":"Имя файла уже используется",
 		"chinese": "文件名已使用",
 		"arabic": "ﺎﻘﺒﺴﻣ ﻞﻤﻌﺘﺴﻣ ﻒﻠﻤﻟﺍ ﻢﺳﺍ",
+		"polish": "Nazwa pliku już w użyciu",
 	},
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
@@ -313,6 +337,7 @@
 		"russian":"Моды могут быть несовместимы!\nМоды в сохранении:",
 		"chinese": "模组可能不兼容!\n存档已用模组:",
 		"arabic": "!ﺔﻘﻓﺍﻮﺘﻣ ﺮﻴﻏ ﻥﻮﻜﺗ ﺪﻗ ﺕﻼﻳﺪﻌﺘﻟﺍ\n ﻆﻔﺤﻟﺍ ﻲﻓ ﺕﻼﻳﺪﻌﺗ",
+		"polish": "Mody mogą być niekompatybilne\nMody w zapisie:",
 	},
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
@@ -325,6 +350,8 @@
 		"ukrainian":"Відсутні",
 		"chinese": "无",
 		"arabic": "ﺪﺟﻮﻳ ﻻ",
+		"polish": "Brak",
+		
 	},
 
 
@@ -342,6 +369,7 @@
 		"ukrainian":"Моди та дод. контент",
 		"chinese": "模组和附加内容",
 		"arabic": "ﺔﻴﻓﺎﺿﻹﺍ ﺕﺎﻳﻮﺘﺤﻤﻟﺍﻭ ﺕﻼﻳﺪﻌﺘﻟﺍ",
+		"polish": "Mody i dodatkowa zawartość",
 	},
 	"modsAndExtraContent": {
 		"english": "Mods and Extra Content",
@@ -354,6 +382,7 @@
 		"ukrainian":"Моди та дод. контент",
 		"chinese": "模组和附加内容",
 		"arabic": "ﺔﻴﻓﺎﺿﻹﺍ ﺕﺎﻳﻮﺘﺤﻤﻟﺍﻭ ﺕﻼﻳﺪﻌﺘﻟﺍ",
+		"polish": "Mody i dodatkowa zawartość",
 	},
 	"author": {
 		"english": "Author",
@@ -366,6 +395,7 @@
 		"ukrainian":"Автор",
 		"chinese": "作者",
 		"arabic": "ﻒﻟﺆﻤﻟﺍ",
+		"polish": "Autor",
 	},
 	"active": {
 		"english": "Active",
@@ -378,6 +408,7 @@
 		"ukrainian":"Активний",
 		"chinese": "启用",
 		"arabic": "ﻂﺸﻧ",
+		"polish": "Aktywny",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -390,6 +421,7 @@
 		"ukrainian":"У вас немає встановлених модифікацій або дод. контенту.",
 		"chinese": "您没有安装任何模组或附加内容",
 		"arabic": "ﺖﺒﺜﻣ ﻲﻓﺎﺿﺇ ﻯﻮﺘﺤﻣ ﻭﺃ ﺕﻼﻳﺪﻌﺗ ﻱﺃ ﻚﻠﻤﺗ ﻻ",
+		"polish": "Nie masz zainstalowanych żadnych modów ani dodatkowej zawartości.",
 	},
 	"modsOnRoadmap": {
 		"english": "Mod Support is currently on our Roadmap.\nOur supporters use this menu to manage their supporter packages.",
@@ -402,6 +434,7 @@
 		"ukrainian":"Підтримка модифікацій буде реалізована в майбутньому.\nЦе меню використовується для управління модифікаціями.",
 		"chinese": "模组支持目前在我们的开发路线图中.众筹支持者使用这个菜单来管理他们的众筹附加包.",
 		"arabic": " .ﺎﻨﺘﻄﺧ ﻦﻣ ﺀﺰﺟ ﺕﻼﻳﺪﻌﺘﻟﺍ ﻢﻋﺩ\n ﻦﻴﻤﻋﺍﺪﻟﺍ ﻡﺰﺣ ﺓﺭﺍﺩﻹ ﺔﻤﺋﺎﻘﻟﺍ ﺓﺬﻫ ﻥﻮﻣﺪﺨﺘﺴﻳ ﻥﻮﻤﻋﺍﺪﻟﺍ",
+		"polish": "Wsparcie modów jest obecnie w planach.\nNasi współtwórcy używają tego menu aby zarządzać ich pakietami.",
 	},
 	"openModFolder": {
 		"english": "Open Mod Folder",
@@ -414,6 +447,7 @@
 		"ukrainian":"Відкрити папку з модом",
 		"chinese": "打开模组文件夹",
 		"arabic": "ﺕﻼﻳﺪﻌﺘﻟﺍ ﺪﻠﺠﻣ ﺢﺘﻓﺍ",
+		"polish": "Otwórz folder z modami",
 	},
 	"modCompatible_Title": {
 		"english": "Content compatible",
@@ -426,6 +460,7 @@
 		"ukrainian":"Контент сумісний",
 		"chinese": "模组兼容",
 		"arabic": "ﻖﻓﺍﻮﺘﻣ ﻯﻮﺘﺤﻣ",
+		"polish": "Zawartość kompatybilna",
 	},
 	"modCompatible_Text": {
 		"english": "This content has been marked by the developers as compatible.",
@@ -438,6 +473,7 @@
 		"ukrainian":"Цей контент був відзначений розробниками як сумісний.",
 		"chinese": "开发人员已经将此内容标记为兼容.",
 		"arabic": "ﻖﻓﺍﻮﺘﻣ ﻯﻮﺘﻤﺤﻛ ﻪﻴﻟﺇ ﺭﻮﻄﻤﻟﺍ ﺭﺎﺷﺃ",
+		"polish": "Ta zawartość została oznaczona przez deweloperów jako kompatybilna",
 	},
 	"modMostlyCompatible_Title": {
 		"english": "Content mostly compatible",
@@ -448,6 +484,7 @@
 		"russian":"Контент в основном совместимый",
 		"turkish": "İçerik çoğunlukla uyumlu",
 		"ukrainian":"Вміст сумісний",
+		"polish": "Zawartość w większości kompatybilna",
 	},
 	"modMostlyCompatible_Text": {
 		"english": "This content has been marked by the developers as mostly compatible. It could contain bugs, but you can use it anyways.",

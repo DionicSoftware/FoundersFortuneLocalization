@@ -806,6 +806,7 @@
 		"chinese": "一旦你的殖民者在他们的职业中积累了足够的经验,你就可以让他们转职开启新的技能.",
 		"korean": "개척자가 자신의 전공에서 충분한 경험을 쌓고 나면, 그들을 진급시켜 새로운 능력을 개방하세요.",
 		"arabic": ".ﺓﺪﻳﺪﺟ ﺕﺍﺭﺎﻬﻣ ﺢﺘﻔﻟ ﻢﻬﺘﻴﻗﺮﺗ ﻚﻨﻜﻤﻳ ، ﺓﺮﺒﺨﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻚﻳﺪﻟ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻊﻤﺠﻳ ﻥﺃ ﺩﺮﺠﻤﺑ",
+		"polish": "Kiedy Twoi kolońsici zbiorą wystarczająco punktów doświadczenia, możesz dać im awans, aby odblokować im nowe umiejętności.",
 	},
 	"productionMode_Produce": {
 		"english": "Produce",
@@ -820,6 +821,7 @@
 		"chinese": "产品",
 		"korean": "생산",
 		"arabic": "ﺝﺎﺘﻧﺇ",
+		"polish": "Produkuj",
 	},
 	"productionMode_ProduceInfinite": {
 		"english": "Produce Infinite",
@@ -834,6 +836,7 @@
 		"chinese": "持续生产",
 		"korean": "끊임없이 생산",
 		"arabic": "ﺔﻳﺎﻬﻧ ﻼﺑ ﺝﺎﺘﻧﺇ",
+		"polish": "Produkuj w nieskończoność",
 	},
 	"productionMode_KeepInStock": {
 		"english": "Keep in Stock",
@@ -848,6 +851,7 @@
 		"chinese": "保持库存",
 		"korean": "재고 채우기",
 		"arabic": "إبقاء في المخازن",
+		"polish": "Trzymaj w zapasie",
 	},
 	"cost": {
 		"english": "Cost",
@@ -862,6 +866,7 @@
 		"chinese": "消耗",
 		"korean": "비용",
 		"arabic": "ﺔﻔﻠﻜﺘﻟﺍ",
+		"polish": "Koszt",
 	},
 	"totalCost": {
 		"english": "Total Cost",
@@ -876,6 +881,7 @@
 		"chinese": "总消耗",
 		"korean": "총 비용",
 		"arabic": "ﺔﻴﻠﻜﻟﺍ ﺔﻔﻠﻜﺘﻟﺍ",
+		"polish": "Łączny koszt",
 	},
 	"costPerItem": {
 		"english": "Cost per Item",
@@ -890,6 +896,7 @@
 		"chinese": "单项成本",
 		"korean": "개당 비용",
 		"arabic": "ﺪﺣﺍﻮﻠﻟ ﺔﻔﻠﻜﺘﻟﺍ",
+		"polish": "Koszt za jednostkę",
 	},
 	"colonySettings": {
 		"english": "Colony Settings",
@@ -904,6 +911,7 @@
 		"chinese": "殖民者设置",
 		"korean": "개척지 설정",
 		"arabic": "ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ",
+		"polish": "Ustawienia kolonii",
 	},
 	"onlyCutDesignatedTrees": {
 		"english": "Only cut designated trees",
@@ -918,6 +926,7 @@
 		"chinese": "砍伐指定的树木",
 		"korean": "지정한 나무만 벌목",
 		"arabic": "ﻂﻘﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗ",
+		"polish": "Wycinaj tylko zaznaczone drzewa",
 	},
 	"onlyMineDesignatedRocksOres": {
 		"english": "Only mine designated rocks/ores",
@@ -932,6 +941,7 @@
 		"chinese": "开采指定的岩石/矿物",
 		"korean": "지정한 암석/광석만 채광",
 		"arabic": "ﻂﻘﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺪﻳﺪﺤﻟﺍ/ﺭﻮﺨﺼﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺘﻟﺍ",
+		"polish": "Wydobywaj tylko wybrane kamienie/rudy",
 	},
 	"onlyGatherDesignatedPlants": {
 		"english": "Only gather designated plants",
@@ -946,6 +956,7 @@
 		"chinese": "采集指定的植物",
 		"korean": "지정한 식물만 채집",
 		"arabic": "ﻂﻘﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻤﺟ",
+		"polish": "Zbieraj tylko wybrane roślin",
 	},
 	"designations": {
 		"english": "Designations",
@@ -960,6 +971,7 @@
 		"chinese": "指定",
 		"korean": "지정",
 		"arabic": "ﺕﺎﻨﻴﻴﻌﺘﻟﺍ",
+		"polish": "Oznaczenia",
 	},
 	"designationTooltip_Title": {
 		"english": "Select specific resources to gather",
@@ -974,6 +986,7 @@
 		"chinese": "选择要指定收集的资源",
 		"korean": "특정 자원만 채집하도록 지정",
 		"arabic": "ﺎﻬﻌﻤﺠﻟ ﺓﺩﺪﺤﻣ ﺩﺭﺍﻮﻣ ﺩﺪﺣ",
+		"polish": "Zaznacz właściwe surowce do zbierania",
 	},
 	"designationTooltip_Desc": {
 		"english": "With the designation tool you can restrict resource gathering to the objects you have marked with the tool. The colonists are only going to work on designated objects automatically.",
@@ -988,6 +1001,7 @@
 		"chinese": "使用指定工具,您可以将资源收集限制到使用该工具标记的对象.殖民者只会自动处理指定的物品.",
 		"korean": "지정 툴을 사용하면 지정한 자원만 채집하도록 제한할 수 있습니다. 개척자들이 채집할 때, 자동으로 지정한 자원으로만 이동합니다.",
 		"arabic": ".ﺓﺍﺩﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺎﻫﺰﻴﻴﻤﺘﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻰﻠﻋ ﺩﺭﺍﻮﻤﻟﺍ ﻊﻴﻤﺠﺗ ﺪﻴﻴﻘﺗ ﻚﻨﻜﻤﻳ ، ﻦﻴﻴﻌﺘﻟﺍ ﺓﺍﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ",
+		"polish": "Z narzędziem oznaczania możesz ograniczyć zbieranie surowców, do obiektów, które zaznaczono przy pomocy narzędzia. Koloniści będą pracować tylko z oznaczonymi obiektami automatycznie.",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -1001,6 +1015,7 @@
 		"chinese": "战斗模式",
 		"korean": "전투 모드",
 		"arabic": "ﻝﺎﺘﻘﻟﺍ ﻊﺿﻭ",
+		"polish": "Tryb walki",
 	},
 	"combatModeTooltip_Desc": {
 		"english": "In combat mode, your colonists will put on their combat equipment and stop working on their jobs, relaxing, or talking with others. This allows you to control them more easily in battle.",
@@ -1014,6 +1029,7 @@
 		"chinese": "在战斗模式下,你的殖民者将穿上他们的战斗装备并停止工作,休息,交谈.这让你在战斗中更容易控制他们.",
 		"korean": "전투 모드에서는, 모든 개척자들이 일하다가, 쉬다가, 대화하다가도 하던 일을 멈추고 전투 장비를 입습니다. 전투에서 개척자들을 조종하기 쉬워질겁니다.",
 		"arabic": ".ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺮﺒﻛﺃ ﺔﻟﻮﻬﺴﺑ ﻢﻬﺑ ﻢﻜﺤﺘﻟﺍ ﻚﻟ ﺢﻴﺘﻳ ﺍﺬﻫ .ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﺙﺪﺤﺘﻟﺍ ﻭﺃ ﺀﺎﺧﺮﺘﺳﻻﺍ ﻭﺃ ﻢﻬﻔﺋﺎﻇﻭ ﻲﻓ ﻞﻤﻌﻟﺍ ﻦﻋ ﻒﻗﻮﺘﻟﺍﻭ ﺔﻴﻟﺎﺘﻘﻟﺍ ﻢﻬﺗﺍﺪﻌﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻡﻮﻘﻴﺳ ، ﻝﺎﺘﻘﻟﺍ ﻊﺿﻭ ﻲﻓ",
+		"polish": "W trybie walki, Twoi koloniści ubiorą swój ubiór do walki i przestaną wykonywać swoje zadania, relaksować się albo rozmawiać ze sobą. Pozwali Ci to kotrolować kolonistów znacznie łatwiej w walce.",
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -1028,6 +1044,7 @@
 		"chinese": "游戏信息及统计",
 		"korean": "게임 정보 및 통계",
 		"arabic": "ﺔﺒﻌﻠﻟﺍ ﺕﺎﻴﺋﺎﺼﺣﺇﻭ ﺕﺎﻣﻮﻠﻌﻣ",
+		"polish": "Informacje o grze i statystyki",
 	},
 	"difficulty": {
 		"english": "Difficulty",
@@ -1042,6 +1059,7 @@
 		"chinese": "难度",
 		"korean": "난이도",
 		"arabic": "ﺔﺑﻮﻌﺼﻟﺍ",
+		"polish": "Trudność",
 	},
 	"colonyWealth": {
 		"english": "Colony Wealth",
@@ -1056,6 +1074,7 @@
 		"chinese": "殖民地财富",
 		"korean": "개척지의 부",
 		"arabic": "ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﻭﺮﺛ",
+		"polish": "Bogactwo kolonii",
 	},
 	"colonistHappiness": {
 		"english": "Colonist Happiness",
@@ -1070,6 +1089,7 @@
 		"chinese": "殖民者幸福度",
 		"korean": "개척자의 행복도",
 		"arabic": "ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﺩﺎﻌﺳ",
+		"polish": "Szczęście kolonii",
 	},
 	"worldId": { // You can just translate it to "world". It needs to be short enough
 		"english": "World ID",
@@ -1084,6 +1104,7 @@
 		"chinese": "世界 ID",
 		"korean": "세계 ID",
 		"arabic": "ID ﻢﻟﺎﻌﻟﺍ",
+		"polish": "ID świata",
 	},
 	"beauty": {
 		"english": "Beauty",
@@ -1098,6 +1119,7 @@
 		"chinese": "美丽",
 		"korean": "아름다움",
 		"arabic": "ﻝﺎﻤﺠﻟﺍ",
+		"polish": "Piękno",
 	},
 	"objectStrength": { // to describe how difficult it is to destruct an object, like a wall, in a fight
 		"english": "Strength",
@@ -1109,6 +1131,7 @@
 		"turkish": "Dayanıklılık",
 		"arabic": "ﺔﻧﺎﺘﻤﻟﺍ",
 		"ukrainian":"Міцність",
+		"polish": "Wytrzymałość",
 	},
 	"work": {
 		"english": "Work",
@@ -1123,6 +1146,7 @@
 		"chinese": "工作",
 		"korean": "작업",
 		"arabic": "ﻞﻤﻌﻟﺍ",
+		"polish": "Praca",
 	},
 	"farming": {
 		"english": "Farming",
@@ -1137,6 +1161,7 @@
 		"chinese": "农业",
 		"korean": "농사",
 		"arabic": "ﺔﻋﺍﺭﺰﻟﺍ",
+		"polish": "Rolnictwo",
 	},
 	"life": {
 		"english": "Life",
@@ -1151,6 +1176,7 @@
 		"chinese": "生活",
 		"korean": "생활",
 		"arabic": "ﺓﺎﻴﺤﻟﺍ",
+		"polish": "Życie",
 	},
 	"military": {
 		"english": "Military",
@@ -1165,6 +1191,7 @@
 		"chinese": "军事",
 		"korean": "전투",
 		"arabic": "ﺶﻴﺠﻟﺍ",
+		"polish": "Wojskowe",
 	},
 	"lights": {
 		"english": "Lights",
@@ -1179,6 +1206,7 @@
 		"chinese": "灯光",
 		"korean": "광원",
 		"arabic": "ﺀﺍﻮﺿﻷﺍ",
+		"polish": "Światła",
 	},
 	"seating": {
 		"english": "Seating",
@@ -1193,6 +1221,7 @@
 		"chinese": "进食",
 		"korean": "의자",
 		"arabic": "ﺪﻋﺎﻘﻤﻟﺍ",
+		"polish": "Siedzenia",
 	},
 	"tables": {
 		"english": "Tables",
@@ -1207,6 +1236,7 @@
 		"chinese": "桌子",
 		"korean": "탁자",
 		"arabic": "ﺕﻻﻭﺎﻄﻟﺍ",
+		"polish": "Stoły",
 	},
 	"storage": {
 		"english": "Storage",
@@ -1221,6 +1251,7 @@
 		"chinese": "存储",
 		"korean": "보관",
 		"arabic": "ﻦﻳﺰﺨﺘﻟﺍ",
+		"polish": "Przechowywanie",
 	},
 	"decoration": {
 		"english": "Decoration",
@@ -1235,6 +1266,7 @@
 		"chinese": "装饰",
 		"korean": "장식",
 		"arabic": "ﺭﻮﻜﻳﺪﻟﺍ",
+		"polish": "Dekoracje",
 	},
 	"floors": {
 		"english": "Floors",
@@ -1249,6 +1281,7 @@
 		"chinese": "楼板",
 		"korean": "바닥",
 		"arabic": "ﺕﺎﻴﺿﺭﻷﺍ",
+		"polish": "Podłogi",
 	},
 	"walls": {
 		"english": "Walls",
@@ -1263,6 +1296,7 @@
 		"chinese": "墙体",
 		"korean": "벽",
 		"arabic": "ﻥﺍﺭﺪﺠﻟﺍ",
+		"polish": "Ściany",
 	},
 	"fortifications": {
 		"english": "Fortifications",
@@ -1276,6 +1310,7 @@
 		"turkish": "Güçlendirme",
 		"korean": "요새화",
 		"arabic": "ﺕﺎﻨﻴﺼﺤﺘﻟﺍ",
+		"polish": "Fortyfikacje",
 	},
 	"doors": {
 		"english": "Doors",
@@ -1290,6 +1325,7 @@
 		"chinese": "门",
 		"korean": "문",
 		"arabic": "ﺏﺍﻮﺑﻷﺍ",
+		"polish": "Drzwi",
 	},
 	"windows": {
 		"english": "Windows",
@@ -1304,6 +1340,7 @@
 		"chinese": "窗",
 		"korean": "창문",
 		"arabic": "ﺬﻓﺍﻮﻨﻟﺍ",
+		"polish": "Okna",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -1318,6 +1355,7 @@
 		"chinese": "柱子",
 		"korean": "기둥",
 		"arabic": "ﺓﺪﻤﻋﻷﺍ",
+		"polish": "Filary",
 	},
 	"requiredTech": {
 		"english": "Required Technology",
@@ -1332,6 +1370,7 @@
 		"chinese": "需要科技",
 		"korean": "필요한 기술",
 		"arabic": "ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻴﻨﻘﺘﻟﺍ",
+		"polish": "Wymagana technologia",
 	},
 	"interactionChainIconDesc": {
 		"english": "Click to Cancel.\nClick %keyBinding% to Chain Commands.",
@@ -1345,7 +1384,8 @@
 		"russian":"Нажмите для отмены.\nНажмите на %keyBinding%, чтобы создать последовательность действий.",
 		"chinese": "点击取消.\n点击 %keyBinding% 锁住命令",
 		"korean": "취소하려면 클릭하세요.\n%keyBinding%#{을} 클릭해 연속 명령을 내리세요.",
-		"arabic": "",
+		// "arabic": "",
+		"polish": "Naciśnij, aby anulować.\nKliknij %keyBinding% do łańcucha poleceń.",
 	},
 	"satisfaction": {
 		"english": "Satisfaction",
@@ -1360,6 +1400,7 @@
 		"chinese": "满意度",
 		"korean": "만족",
 		"arabic": "ﺎﺿﺮﻟﺍ",
+		"polish": "Zadowolenie",
 	},
 	"rewards": {
 		"english": "Rewards",
@@ -1374,6 +1415,7 @@
 		"chinese": "奖励",
 		"korean": "보상",
 		"arabic": "ﺕﺂﻓﺎﻜﻤﻟﺍ",
+		"polish": "Nagrody",
 	},
 	"point": {
 		"english": "Point",
@@ -1388,6 +1430,7 @@
 		"chinese": "点数",
 		"korean": "포인트",
 		"arabic": "ﺔﻄﻘﻧ",
+		"polish": "Punkt",
 	},
 	"points": {
 		"english": "Points",
@@ -1402,6 +1445,7 @@
 		"chinese": "点数",
 		"korean": "포인트",
 		"arabic": "ﻁﺎﻘﻧ",
+		"polish": "Punkty",
 	},
 	"satisfactionRewards": {
 		"english": "Satisfaction Rewards",
@@ -1416,6 +1460,7 @@
 		"chinese": "满意奖励",
 		"korean": "만족 보상",
 		"arabic": "ﺎﺿﺮﻟﺍ ﺕﺂﻓﺎﻜﻣ",
+		"polish": "Nagrody zadowolenia",
 	},
 	"instantMaxHealth": {
 		"english": "Instant Max Health",
@@ -1430,6 +1475,7 @@
 		"chinese": "瞬间满生命",
 		"korean": "즉시 생명력 회복",
 		"arabic": "ﺔﻳﺭﻮﻓ ﺔﻠﻣﺎﻛ ﺔﺤﺻ",
+		"polish": "Natychmiastowe maksymalne zdrowie",
 	},
 	"cureIllness": {
 		"english": "Cure Illness",
@@ -1444,6 +1490,7 @@
 		"chinese": "治疗疾病",
 		"korean": "질병 치료",
 		"arabic": "ﺽﺮﻤﻟﺍ ﺝﻼﻋ",
+		"polish": "Wylecz chorobę",
 	},
 	"motivationBoost": {
 		"english": "Motivation Boost",
@@ -1458,6 +1505,7 @@
 		"chinese": "增加移速",
 		"korean": "동기 부여",
 		"arabic": "ﺕﺎﻳﻮﻨﻌﻤﻟﺍ ﻢﻋﺩ",
+		"polish": "Zwiększenie motywacji",
 	},
 	"forgetAllBadThoughts": {
 		"english": "Forget negative Thoughts",
@@ -1472,6 +1520,7 @@
 		"chinese": "忘记消极想法",
 		"korean": "부정적인 생각 잊어버리기",
 		"arabic": "ﺔﻴﺒﻠﺴﻟﺍ ﺭﺎﻜﻓﻷﺍ ﻥﺎﻴﺴﻧ",
+		"polish": "Zapomnij o negatywnych myślach",
 	},
 	"activeTraits": {
 		"english": "Active Traits",
@@ -1486,6 +1535,7 @@
 		"chinese": "当前特性",
 		"korean": "특성 활성화",
 		"arabic": "ﺔﻄﺸﻨﻟﺍ ﺕﺎﻤﺴﻟﺍ",
+		"polish": "Aktywne cechy",
 	},
 	"availableTraits": {
 		"english": "Available Traits",
@@ -1500,6 +1550,7 @@
 		"chinese": "可用特性",
 		"korean": "가능한 특성",
 		"arabic": "ﺓﺮﻓﻮﺘﻤﻟﺍ ﺕﺎﻤﺴﻟﺍ",
+		"polish": "Dostępne cechy",
 	},
 	"sleepingSpot": {
 		"english": "Sleeping Spot",
@@ -1514,6 +1565,7 @@
 		"chinese": "睡觉地点",
 		"korean": "잠자리",
 		"arabic": "ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ",
+		"polish": "Miejsce do spania",
 	},
 	"isInRoom": {
 		"english": "Is in room",
@@ -1528,6 +1580,7 @@
 		"chinese": "是否室内",
 		"korean": "실내",
 		"arabic": "ﺔﻓﺮﻏ ﻲﻓ",
+		"polish": "Jest w pokoju",
 	},
 	"yes": {
 		"english": "Yes",
@@ -1542,6 +1595,7 @@
 		"chinese": "是的",
 		"korean": "네",
 		"arabic": "ﻢﻌﻧ",
+		"polish": "Tak",
 	},
 	"no": {
 		"english": "No",
@@ -1556,6 +1610,7 @@
 		"chinese": "不是",
 		"korean": "아니오",
 		"arabic": "ﻻ",
+		"polish": "Nie",
 	},
 	"bedroomBeauty": {
 		"english": "Bedroom beauty",
@@ -1570,6 +1625,7 @@
 		"chinese": "美观的房间",
 		"korean": "침실의 아름다움",
 		"arabic": "ﻡﻮﻨﻟﺍ ﺔﻓﺮﻏ ﻝﺎﻤﺟ",
+		"polish": "Piękno sypialni",
 	},
 	"houseBeauty": {
 		"english": "House beauty",
@@ -1584,6 +1640,7 @@
 		"chinese": "美观的房子",
 		"korean": "집의 아름다움",
 		"arabic": "ﺖﻴﺒﻟﺍ ﻝﺎﻤﺟ",
+		"polish": "Piękno domu",
 	},
 	"owner": {
 		"english": "Owner",
@@ -1598,6 +1655,7 @@
 		"chinese": "拥有者",
 		"korean": "소유주",
 		"arabic": "ﻚﻟﺎﻤﻟﺍ",
+		"polish": "Właściciel",
 	},
 	"nobody": {
 		"english": "Nobody",
@@ -1612,6 +1670,7 @@
 		"chinese": "无人",
 		"korean": "없음",
 		"arabic": "ﺪﺣﺃ ﻻ",
+		"polish": "Nikt",
 	},
 	"immigration": {
 		"english": "Immigration",
@@ -1626,6 +1685,7 @@
 		"chinese": "移民",
 		"korean": "이주",
 		"arabic": "ﺓﺮﺠﻬﻟﺍ",
+		"polish": "Imigracja",
 	},
 	"immigration_status_maxColonists": {
 		"english": "Your colony has reached its maximum size. Congratulations! Be sure to post a picture in the forums!",
@@ -1639,7 +1699,8 @@
 		"russian":"Ваша колония достигла максимального размера. Поздравляем! Обязательно выложите скриншот на форум!",
 		"chinese": "你的殖民地已经达到了它的最大规模.恭喜你!一定要在论坛上发表图片哦!",
 		"korean": "개척지가 최대 크기에 도달했습니다. 축하합니다! 포럼에 오셔서 스크린샷을 올리는걸 잊지 마세요!",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Twoja kolonia osiągnęła swój maksymalny rozmiar. Gratulacje! Upewnij się, aby dodać post na naszym forum!",
 	},
 	"immigration_status_noBonfire": {
 		"english": "No Bonfire is burning. Migrants are not able to find the colony.",
@@ -1653,7 +1714,8 @@
 		"russian":"Сигнальный костер не горит. Мигранты не смогут найти вашу колонию.",
 		"chinese": "没有篝火.移民们无法找到殖民地.",
 		"korean": "타고 있는 화톳불이 없습니다. 이주자가 개척지를 찾지 못합니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Brak płonącego ogniska. Migranci nie znajdą Twojej kolonii.",
 	},
 	"immigration_status_expectationsNotMet": {
 		"english": "Your colonists' expectations are not met. No migrants are going to join this colony.",
@@ -1667,7 +1729,8 @@
 		"ukrainian":"Колоністи незадоволені життям в колонії. Нові мігранти не будуть прибувати на острів.",
 		"chinese": "你们殖民者的愿望没有得到满足.没有移民会加入这个殖民地.",
 		"korean": "개척자들의 기대를 충족시키지 못하고 있습니다. 이주자들이 개척지에 오려고 하지 않습니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Oczekiwania Twoich kolonistów nie są spełnione. Żaden nowy migrant nie dołączy do kolonii.",
 	},
 	"immigration_status_ok": {
 		"english": "All your colonists' expectations are met. Next chance for migrants in %time%.",
@@ -1681,21 +1744,23 @@
 		"russian":"Колонисты довольны жизнью в колонии. Новые мигранты прибудут на остров через %time%.",
 		"chinese": "你们所有殖民者的愿望都得到了满足.下一次出现移民将会在 %time% 后.",
 		"korean": "모든 개척자들의 기대가 충족되었습니다. 다음 이주자는 %time% 후에 옵니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Oczekiwania wszystkich kolonistów są zrealizowane. Następna szansa na migrantów za %time%.",
 	},
     "colonistIsDumbNoExperience": {
        	"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
     	"german": "Leider ist %firstName% nicht %derDie% Hellste und wird keine Erfahrung sammeln.",
-		"french": "Malheureusement, %firstName% est stupide et ne gagnera aucune expérience dans n'importe quel métier.",
-	    "spanish": "Desafortunadamente, %firstName% es tont%oA% y no ganará nada de experiencia en ningún trabajo.",
-		"turkish": "Ne yazık ki, %firstName% bir aptal ve çalıştığı işlerde tecrübe edinemeyecek.", 
-		"portuguese": "Infelizmente, %firstName% é burro e não vai ganhar experiência em nenhum trabalho.",
-	    "dutch": "Helaas, %firstName% is dom en zal geen ervaring opdoen in een baan",
-		"ukrainian":"На жаль, %firstName% туп%heshe_IY_A% і не може отримувати досвід в будь-якій роботі.",
-		"russian":"К сожалению, %firstName% туп%hesheEnd2% и не может получать опыт в любой работе.",
+	"french": "Malheureusement, %firstName% est stupide et ne gagnera aucune expérience dans n'importe quel métier.",
+	 "spanish": "Desafortunadamente, %firstName% es tont%oA% y no ganará nada de experiencia en ningún trabajo.",
+	 "turkish": "Ne yazık ki, %firstName% bir aptal ve çalıştığı işlerde tecrübe edinemeyecek.", 
+	"portuguese": "Infelizmente, %firstName% é burro e não vai ganhar experiência em nenhum trabalho.",
+	 "dutch": "Helaas, %firstName% is dom en zal geen ervaring opdoen in een baan",
+	"ukrainian":"На жаль, %firstName% туп%heshe_IY_A% і не може отримувати досвід в будь-якій роботі.",
+	"russian":"К сожалению, %firstName% туп%hesheEnd2% и не может получать опыт в любой работе.",
 		"chinese": "非常不幸, %firstName% 实在太蠢了,任何职业都不会获得经验.",
 		"korean": "불행하게도, %firstName%#{는} 멍청이여서 어떤 직업에서도 경험치를 얻을 수 없습니다.",
-	   	"arabic": "",
+	   	//"arabic": "",
+	    "polish": "Niestety, %firstName% jest głup%iA% i nie będzie zdobywać żadnego doświadczenia z żadnej pracy.",
 	},
 	"importantPossessions": {
 		"english": "Important Possessions",
@@ -1709,7 +1774,8 @@
 		"russian":"Предметы во владении",
 		"chinese": "贵重物品",
 		"korean": "중요한 소유물",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Istotne własności",
 	},
 	"importantPossession": {
 		"english": "Important Possession",
@@ -1723,7 +1789,8 @@
 		"russian":"Предметы во владении",
 		"chinese": "拥有物品",
 		"korean": "중요한 소유물",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Istotna własność",
 	},
 	"importantPossession_Desc": {
 		"english": "%name% likes this thing a lot and does not want to give it up.\n\nYou can not use it to fulfill anyone else's wishes.",
@@ -1737,7 +1804,8 @@
 		"russian":"%name% обожает эту вещь и не собирается никому ее отдавать.\n\nВы не можете использовать ее для исполнения чужих мечт.",
 		"chinese": "%name% 很喜欢该愿望,不想放弃.你不能用它来满足别人的愿望.",
 		"korean": "%name%#{는} 이 물건을 많이 좋아합니다. 놓치고 싶지 않아 합니다.\n\n이 물건을 다른 개척자의 소원을 들어주기 위해 사용할 수 없습니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "%name% lubi bardzo tą rzecz i nie chce się poddać. \n\nNie możesz tego użyć, aby wypełnić życzenie kogokolwiek innego.",		
 	},
 	"paymentInCoinsPerDay": {
 		"english": "Payment in coins per day",
@@ -1750,7 +1818,8 @@
 		"russian":"Зарплата монет в день",
 		"chinese": "每天支付硬币",
 		"korean": "일당으로 지불할 코인",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Wypłata w monetach na dzień",
 	},
 	"civilianEquipment": {
 		"english": "Civilian Equipment",
@@ -1763,7 +1832,8 @@
 		"russian":"Рабочее снаряжение",
 		"chinese": "民用装备",
 		"korean": "일상 장비",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Wyposażenie robocze",
 	},
 	"combatEquipment": {
 		"english": "Combat Equipment",
@@ -1776,7 +1846,8 @@
 		"russian":"Военное снаряжение",
 		"chinese": "战斗装备",
 		"korean": "전투 장비",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Wyposażenie do walki",
 	},
 	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
 		"english": "Tool Storage",
@@ -1789,7 +1860,8 @@
 		"russian":"Хранилище инструментов",
 		"chinese": "工具箱",
 		"korean": "도구함",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Miejsce na narzędzie",
 	},
 	"ClothesStorage": {
 		"english": "Clothes Storage",
@@ -1802,7 +1874,8 @@
 		"russian":"Хранилище одежды",
 		"chinese": "衣柜",
 		"korean": "의상 걸이",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Miejsce na ubrania",
 	},
 	"WeaponStorage": {
 		"english": "Weapon Storage",
@@ -1815,7 +1888,8 @@
 		"russian":"Хранилище оружия",
 		"chinese": "武器箱",
 		"korean": "무기 거치대",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Miejsce na broń",
 	},
 	"ArmorStorage": {
 		"english": "Armor Storage",
@@ -1828,7 +1902,8 @@
 		"russian":"Хранилище брони",
 		"chinese": "盔甲柜",
 		"korean": "갑옷 거치대",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Miejsce na zbroję",
 	},
 	"takeOwnershipOfStorageFurniture": {
 		"english": "Take Ownership of equipment storage furniture to assign equipment",
@@ -1841,7 +1916,8 @@
 		"russian":"Передайте мебель во владение поселенцу, чтобы он смог экипироваться автоматически.",
 		"chinese": "设置存储家具的所有权来分配装备",
 		"korean": "장비 보관함을 소유하면, 그 안에 담긴 장비를 가질 수 있습니다",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Przejmij własność tego mebla do trzymania ekwipunku, aby go założyć.",
 	},
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",
@@ -1854,7 +1930,8 @@
 		"russian":"Выберите снаряжение в хранилище",
 		"chinese": "选择存放的装备",
 		"korean": "장비 보관함에 보관할 장비를 선택하세요",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Zaznacz ekwipunek w meblu do przechowywania",
 	},
 	"selectProduction": {
 		"english": "Select Production",
@@ -1867,7 +1944,8 @@
 		"russian":"Выберите производство",
 		"chinese": "选择生产",
 		"korean": "생산 예약",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Wybierz produkcję",
 	},
 	"noOwner": { // when a piece of furniture is not owned by any colonist
 		"english": "No Owner",
@@ -1880,7 +1958,8 @@
 		"russian":"Нет владельца",
 		"chinese": "无人认领",
 		"korean": "주인 없음",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Brak właściciela",
 	},
 
 
@@ -1897,7 +1976,8 @@
 		"russian":"Торговец",
 		"chinese": "商人",
 		"korean": "상인",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Handlarz",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
@@ -1910,7 +1990,8 @@
 		"russian":"Колония продает",
 		"chinese": "殖民者正在出售物资给商人",
 		"korean": "개척지의 물품을 상인에게 팝니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Kolonia sprzedaje handlarzowi",
 	},
 	"colonyIsBuying": {
 		"english": "Colony is Buying from the Trader",
@@ -1923,7 +2004,8 @@
 		"russian":"Колония покупает",
 		"chinese": "殖民者正在商人处购买物资",
 		"korean": "상인에게서 물품을 삽니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Kolonia kupuje od handlarza",
 	},
 	"amountStorage": { // amount means how much is being traded and in store is the maximum amount the colony or the trader has in store
 		"english": "Amount / In Store",
@@ -1936,7 +2018,8 @@
 		"russian":"Доступно",
 		"chinese": "数量/库存",
 		"korean": "구매 / 재고",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Ilość / W magazynie",
 	},
 	"tradingGoodName": {
 		"english": "Name",
@@ -1949,7 +2032,8 @@
 		"russian":"Имя",
 		"chinese": "名称",
 		"korean": "명칭",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Nazwa",
 	},
 	"price": {
 		"english": "Price",
@@ -1962,7 +2046,8 @@
 		"russian":"Цена",
 		"chinese": "价格",
 		"korean": "가격",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Cena",
 	},
 	"totalPrice": {
 		"english": "Total",
@@ -1975,7 +2060,8 @@
 		"russian":"Всего",
 		"chinese": "合计",
 		"korean": "총",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Łączna cena",
 	},
 	"confirmTrade": {
 		"english": "Confirm Trade",
@@ -1988,7 +2074,8 @@
 		"russian":"Обменяться",
 		"chinese": "确认交易",
 		"korean": "거래 승인",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Potwierdź handel",
 	},
 	"sellItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -2001,7 +2088,8 @@
 		"russian":"Продажа предметов за %coins% монет",
 		"chinese": "出售的物品价值 %coins%硬币",
 		"korean": "총 %coins% 코인을 받고 아이템을 팝니다",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Sprzedajesz przedmioty o wartości %coins% monet",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -2014,7 +2102,8 @@
 		"russian":"Покупка предметов по цене %coins% монет",
 		"chinese": "购买的物品价值 %coins%硬币",
 		"korean": "총 %coins% 코인을 주고 아이템을 삽니다",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Kupujesz przedmiot o wartości %coins% monet",
 	},
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",
@@ -2027,7 +2116,8 @@
 		"russian":"Колония получит %coins% монет с этой сделки.",
 		"chinese": "本次交易获得 %coins%硬币",
 		"korean": "개척지는 이 거래로 %coins% 코인을 받습니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Kolonia zarobi z tego handlu %coins% monet.",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
@@ -2040,7 +2130,8 @@
 		"russian":"Колония заплатит %coins% монет за эту сделку.",
 		"chinese": "本次交易花费 %coins%硬币",
 		"korean": "개척지는 이 거래로 %coins% 코인을 지불합니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Kolonia płaci %coins% monet za ten handel.",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",
@@ -2053,7 +2144,8 @@
 		"russian":"У колонии нет %coins% монет для заключения сделки.",
 		"chinese": "本次交易还欠缺 %coins%硬币",
 		"korean": "거래에 필요한 %coins% 코인이 충분하지 않습니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Kolonia nie ma %coins% moent by dokonać handlu.",
 	},
 
 
@@ -2068,7 +2160,8 @@
 		"chinese": "要么没有生产任何装备,要么所有装备目前都被你的殖民者使用.",
 		"turkish": "Henüz bir ekipman üretmediniz\nveya tüm ekipmanlarınız şu anda yerleşimciler tarafından kullanılıyor.",
 		"korean": "아직 아무런 장비를 만든 적이 없거나,\n모든 장비를 개척자가 사용중입니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Albo nie wyprodukowano jeszcze żadnego ekwipunku\nAlbo wszystkie przedmioty są obecnie używane przez kolonistów.",
 	},
 	"sellPrice": {
 		"english": "Selling Price",
@@ -2081,7 +2174,8 @@
 		"russian":"Цена продажи",
 		"chinese": "售价",
 		"korean": "판매 가격",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Cena sprzedaży",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -2095,7 +2189,8 @@
 		"ukrainian":"секунд",
 		"chinese": "秒",
 		"korean": "초",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "sekund",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -2108,7 +2203,8 @@
 		"chinese": "分钟",
 		"turkish": "dakika",
 		"korean": "분",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "minut",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -2121,7 +2217,8 @@
 		"russian": "секунд",
 		"ukrainian":"секунд",
 		"chinese": "秒",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "sekund",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -2134,7 +2231,8 @@
 		"chinese": "秒",
 		"turkish": "s",
 		"korean": "초",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "s",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -2147,7 +2245,8 @@
 		"chinese": "秒",
 		"turkish": "sn",
 		"korean": "초",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "sek",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -2160,7 +2259,8 @@
 		"chinese": "聚会",
 		"turkish": "Partiler",
 		"korean": "축제",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Imprezy",
 	},
 	"partiesDesc": {
 		"english": "Parties give your colonists a chance to relax and socialize. The more time your colonists spend dancing, eating, and drinking, the higher their mood is going to rise.",
@@ -2173,7 +2273,8 @@
 		"chinese": "聚会给你的殖民者一个放松和社交的机会.你的殖民者花在跳舞、吃饭和喝酒上的时间越多,他们的情绪就会越高涨.",
 		"turkish": "Partiler yerleşimcilerinize rahatlama ve sosyalleşme şansı verir. Dans etmek, yemek yemek ve içmek için harcanan zaman arttıkça yerleşimcilerin ruh halleri yükselir.",
 		"korean": "축제는 개척자들이 쉬며 사회적 교류를 할 기회를 제공합니다. 개척자들이 더 오래 춤추고 먹고 마실수록 기분이 좋아집니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Imprezy dają kolonistom szanse na relaks i integrację. Im więcej czasu koloniści spędzą tańcząc, jedząc oraz pijąc, tym bardziej ich humor się poprawi.",
 	},
 	"startPartyButton": {
 		"english": "Start Party",
@@ -2186,7 +2287,8 @@
 		"chinese": "开始聚会",
 		"turkish": "Partiyi başlat",
 		"korean": "축제 시작하기",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Zacznij imprezę",
 	},
 	"cantStartPartyDuringReady": {
 		"english": "Can't start party during raid",
@@ -2199,7 +2301,8 @@
 		"chinese": "不要在袭击期间开始聚会",
 		"turkish": "Baskın sırasında partiye başlanamaz",
 		"korean": "침략중에는 축제를 시작할 수 없습니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Nie można zacząć imprezy w trakcie najazdu",
 	},
 	"cantStartPartyBecauseAlreadyPartying": {
 		"english": "Can't start party while colonists are already celebrating",
@@ -2212,7 +2315,8 @@
 		"chinese": "不能在殖民者庆祝时开始聚会",
 		"turkish": "Şu anda zaten bir kutlama var. Yeni bir partiye başlanamaz",
 		"korean": "축제 중에는 축제를 시작할 수 없습니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Nie można zacząć imprezy, ponieważ koloniści już się bawią",
 	},
 	"coinsToStartParty": {
 		"english": "%coins% Coins to start party",
@@ -2225,7 +2329,8 @@
 		"chinese": "花费 %coins%硬币开始聚会",
 		"turkish": "Partiye başlamak için %coins% para",
 		"korean": "축제를 시작하려면 %coins% 코인이 필요합니다.",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "%coins% monet by zacząć imprezę",
 	},
 	"atLeastBeerInStock": {
 		"english": "At least %beer% beer in stock",
@@ -2238,7 +2343,8 @@
 		"chinese": "库存至少要有 %beer%啤酒",
 		"turkish": "En azından %beer% bira stokta",
 		"korean": "최소한 %beer% 통의 맥주가 있어야 합니다",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Przynajmniej %beer% piwa w magazynie",
 	},
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
@@ -2251,7 +2357,8 @@
 		"chinese": "库存至少要有 %food%食物",
 		"turkish": "En azından %food% yemek stokta",
 		"korean": "최소한 %food% 음식이 있어야 합니다",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Przynajmniej %food% jedzenia w magazynie",
 	},
 	"partyRequirements": {
 		"english": "Party Requirements",
@@ -2264,7 +2371,8 @@
 		"chinese": "聚会要求",
 		"turkish": "Parti gereksinimleri",
 		"korean": "축제 요구조건",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Wymagania imprezowe",
 	},
 	"customCamera": { // activated with F4
 		"english": "Custom Camera", // or free-flying camera
@@ -2277,7 +2385,8 @@
 		"chinese": "自由镜头",
 		"turkish": "Serbest kamera",
 		"korean": "자유로운 촬영",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Własna kamera",
 	},
 	"customCameraHotkeys": {
 		"english": "Open/close info panel: R\nToggle wall movement: T\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
@@ -2290,7 +2399,8 @@
 		"chinese": "打开/关闭 信息面板:R\n切换墙壁移动:T\n电影模式:C\n镜头速度:鼠标滚轮\n上和下:左shift和右ctrl",
 		"turkish":  "Bilgi panelini aç/kapat: R\nDuvar hareketini değiştir: T\n Sinematik mod: C\nKamera hızını değiştir: Fare tekerleği\nYukarı ve aşağı: Sol shift ve sol CTRL",
 		"korean": "패널 열기/닫기: R\n벽 움직임 켜고끄기: T\n시네마틱 모드: C\n카메라 스피드 변경: 마우스 휠\n위아래로 움직이기: 왼쪽 쉬프트와 컨트롤 키",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Otwórz/zamknij panel informacyjny: R\nWłącz przesuwanie ścian: T\nTryb kinowy: C\nZmień szybkość kamery: Kółko myszki\nW Górę i w dół: Lewy shift i lewy control",
 	},
 	"camSpeed": {
 		"english": "Cam speed",
@@ -2303,7 +2413,8 @@
 		"chinese": "镜头速度",
 		"turkish": "Kamera hızı",
 		"korean": "카메라 스피드",
-		"arabic": "",
+		//"arabic": "",
+		"polish": "Szybkość kamery",
 	},
 
 

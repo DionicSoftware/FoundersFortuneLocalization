@@ -11,6 +11,7 @@
 		"russian": "Обработка дерева",
 		"ukrainian":"Обробка дерева",
 		"chinese": "木工",
+		"korean": "목공예",
 		"arabic": "ﺓﺭﺎﺠﻨﻟﺍ",
 	},
 	"tech_farming": {
@@ -24,6 +25,7 @@
 		"russian": "Фермерство",
 		"ukrainian":"Фермерство",
 		"chinese": "农业",
+		"korean": "농업",
 		"arabic": "ﺔﻋﺍﺭﺰﻟﺍ",
 	},
 
@@ -39,6 +41,7 @@
 		"russian": "Вооружение",
 		"ukrainian":"Озброєння",
 		"chinese": "武器",
+		"korean": "무기 제작",
 		"arabic": "ﺔﺤﻠﺳﻷﺍ",
 	},
 	"tech_architectureI": {
@@ -52,6 +55,7 @@
 		"russian": "Архитектура I",
 		"ukrainian":"Архітектура I",
 		"chinese": "建筑学 I",
+		"korean": "건축 I",
 		"arabic": "I ﺓﺭﺎﻤﻌﻟﺍ",
 	},
 	"tech_masonry": {
@@ -65,6 +69,7 @@
 		"russian": "Кирпичная кладка",
 		"ukrainian":"Цегляна кладка",
 		"chinese": "砖石建筑",
+		"korean": "석공 기술",
 		"arabic": "ﺀﺎﻨﺒﻟﺍ",
 	},
 	"tech_furnitureI": {
@@ -78,6 +83,7 @@
 		"russian": "Мебель I",
 		"ukrainian":"Меблi I",
 		"chinese": "家具 I",
+		"korean": "가구 I",
 		"arabic": "I ﺙﺎﺛﻷﺍ",
 	},
 	"tech_gardening": {
@@ -91,6 +97,7 @@
 		"russian": "Садоводство",
 		"ukrainian":"Садівництво",
 		"chinese": "园艺",
+		"korean": "원예",
 		"arabic": "ﺔﻨﺘﺴﺒﻟﺍ",
 	},
 	"tech_writing": {
@@ -104,6 +111,7 @@
 		"russian": "Письменность",
 		"ukrainian":"Писемність",
 		"chinese": "书写",
+		"korean": "출판",
 		"arabic": "ﺔﺑﺎﺘﻜﻟﺍ",
 	},
 
@@ -119,6 +127,7 @@
 		"russian": "Оружие дальнего боя",
 		"ukrainian":"Зброя дальнього бою",
 		"chinese": "远程武器",
+		"korean": "원거리 무기",
 		"arabic": "ﻯﺪﻣ ﺕﺍﺫ ﺔﺤﻠﺳﺃ",
 	},
 	"tech_architectureII": {
@@ -132,6 +141,7 @@
 		"russian": "Архитектура II",
 		"ukrainian":"Архітектура II",
 		"chinese": "建筑学 II",
+		"korean": "건축 II",
 		"arabic": "II ﺓﺭﺎﻤﻌﻟﺍ",
 	},
 	"tech_furnitureII": {
@@ -145,6 +155,7 @@
 		"russian": "Мебель II",
 		"ukrainian":"Меблi II",
 		"chinese": "家具 II",
+		"korean": "가구 II",
 		"arabic": "II ﺙﺎﺛﻷﺍ",
 	},
 	"tech_stoneWeapons": {
@@ -158,6 +169,7 @@
 		"russian": "Каменное оружие",
 		"ukrainian":"Кам'яна зброя",
 		"chinese": "石制武器",
+		"korean": "석재 무기",
 		"arabic": "ﺔﻳﺮﺠﺣ ﺔﺤﻠﺳﺃ",
 	},
 	"tech_stoneFurniture": {
@@ -171,6 +183,7 @@
 		"russian": "Каменная мебель",
 		"ukrainian":"Кам'яні меблі",
 		"chinese": "石制家具",
+		"korean": "석재 가구",
 		"arabic": "ﻱﺮﺠﺣ ﺙﺎﺛﺃ",
 	},
 	"tech_decoration": {
@@ -184,6 +197,7 @@
 		"russian": "Декор",
 		"ukrainian":"Декор",
 		"chinese": "装饰物",
+		"korean": "장식물 제작",
 		"arabic": "ﺭﻮﻜﻳﺪﻟﺍ",
 	},
 	"tech_watering": { // "irrigation" was too modern and too uncommon. "Watering" is more fitting for unlocking a well.
@@ -197,6 +211,7 @@
 		"russian": "Полив",
 		"ukrainian":"Полив",
 		"chinese": "灌溉",
+		"korean": "급수",
 		"arabic": "ﻱَّﺮﻟﺍ",
 	},
 	"tech_medicine": {
@@ -210,6 +225,7 @@
 		"russian": "Основы медицины",
 		"ukrainian":"Основи медицини",
 		"chinese": "基础医学",
+		"korean": "기본 의약품",
 		"arabic": "ﻲﺳﺎﺳﻷﺍ ﺐﻄﻟﺍ",
 	},
 	"tech_brewery": {
@@ -223,6 +239,7 @@
 		"turkish": "Biracılık",
 		"ukrainian":"Броварство",
 		"chinese": "啤酒厂",
+		"korean": "양조",
 		"arabic": "ﺓﺮﻴﺒﻟﺍ ﻊﻨﺼﻣ",
 	},
 
@@ -238,6 +255,7 @@
 		"russian": "Башни",
 		"ukrainian":"Вежі",
 		"chinese": "塔楼",
+		"korean": "탑 건축",
 		"arabic": "ﺝﺍﺮﺑﻷﺍ",
 	},
 	"tech_furnitureIII": {
@@ -251,6 +269,7 @@
 		"russian": "Мебель III",
 		"ukrainian":"Меблi III",
 		"chinese": "家具 III",
+		"korean": "가구 III",
 		"arabic": "III ﺙﺎﺛﻷﺍ",
 	},
 	"tech_tailoring": {
@@ -264,6 +283,7 @@
 		"russian": "Портняжное дело",
 		"ukrainian":"Кравецька справа",
 		"chinese": "裁缝",
+		"korean": "재봉",
 		"arabic": "ﺔﻃﺎﻴﺨﻟﺍ",
 	},
 	"tech_advancedTailoring": {
@@ -277,6 +297,7 @@
 		"turkish": "Gelişmiş Terzicilik",
 		"ukrainian":"Покращена Кравецька справа",
 		"chinese": "高级裁缝",
+		"korean": "고급 재봉",
 		"arabic": "ﺔﻣﺪﻘﺘﻤﻟﺍ ﺔﻃﺎﻴﺨﻟﺍ",
 	},
 	"tech_advancedCooking": {
@@ -290,6 +311,7 @@
 		"russian": "Улучшенная готовка",
 		"ukrainian":"Покращене приготування",
 		"chinese": "高级烹饪",
+		"korean": "고급 조리법",
 		"arabic": "ﻡﺪﻘﺘﻤﻟﺍ ﺦﺒﻄﻟﺍ",
 	},
 	"tech_alchemy": {
@@ -303,6 +325,7 @@
 		"russian": "Алхимия",
 		"ukrainian":"Алхімія",
 		"chinese": "炼金术",
+		"korean": "연금술",
 		"arabic": "ﺀﺎﻴﻤﻴﺨﻟﺍ",
 	},
 
@@ -318,6 +341,7 @@
 		"russian": "Крепкие сторожевые башни",
 		"ukrainian":"Міцні сторожові вежі",
 		"chinese": "加强瞭望塔",
+		"korean": "튼튼한 감시탑",
 		"arabic": "ﺔﻳﻮﻗ ﺔﺒﻗﺍﺮﻣ ﺝﺍﺮﺑﺃ",
 	},
 	"tech_forging": {
@@ -331,6 +355,7 @@
 		"russian": "Ковка",
 		"ukrainian":"Кування",
 		"chinese": "锻造",
+		"korean": "대장 기술",
 		"arabic": "ﺓﺩﺍﺪﺤﻟﺍ",
 	},
 	"tech_weaponForging": {
@@ -344,6 +369,7 @@
 		"russian": "Ковка оружия",
 		"ukrainian":"Кування зброї",
 		"chinese": "锻造武器",
+		"korean": "무기 단조",
 		"arabic": "ﺔﺤﻠﺳﻷﺍ ﻊﻴﻨﺼﺗ",
 	},
 	"tech_armorForging": {
@@ -357,6 +383,7 @@
 		"russian": "Ковка брони",
 		"ukrainian":"Кування броні",
 		"chinese": "锻造盔甲",
+		"korean": "갑옷 단조",
 		"arabic": "ﻉﻭﺭﺪﻟﺍ ﻊﻴﻨﺼﺗ",
 	},
 	"tech_grainProcessing": {
@@ -370,6 +397,7 @@
 		"russian": "Переработка зерна",
 		"ukrainian":"Переробка зерна",
 		"chinese": "粮食加工",
+		"korean": "제분 기술",
 		"arabic": "ﺏﻮﺒﺤﻟﺍ ﺔﺠﻟﺎﻌﻣ",
 	},
 }

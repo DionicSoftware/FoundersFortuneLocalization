@@ -10,6 +10,7 @@
 		"dutch": "Doe Niks",
 		"russian": "Ничего не делать",
 		"ukrainian":"Нічого не робити",
+		"korean": "아무것도 안 하기",
 		"arabic": "ﺎًﺌﻴﺷ ﻞﻌﻔﺗ ﻻ",
 	},
 	"Eat": {
@@ -22,6 +23,7 @@
 		"dutch": "Eet Iets",
 		"russian": "Съесть что-нибудь",
 		"ukrainian":"З'їсти що небудь",
+		"korean": "무언가 먹기",
 		"arabic": "ﺎﻣ ﺎًﺌﻴﺷ ﻞﻛ",
 	},
 	"EatFood": {
@@ -34,6 +36,7 @@
 		"dutch": "Eet %food%",
 		"russian": "Съесть %food%",
 		"ukrainian":"З'їсти їжу",
+		"korean": "%food% 먹기",
 		"arabic": "%food% ﻞﻛ",
 	},
 	"GiveFood": {
@@ -46,6 +49,7 @@
 		"dutch": "Geef Eten",
 		"russian": "Дать еду",
 		"ukrainian":"Дати їжу",
+		"korean": "음식 건네기",
 		"arabic": "ﻡﺎﻌﻄﻟﺍ ﻂﻋﺃ",
 	},
 	"GiveHealingPotion": {
@@ -58,6 +62,7 @@
 		"dutch": "Geef genezend drankje",
 		"russian": "Дать лечебное зелье",
 		"ukrainian":"Дати лікувальне зілля",
+		"korean": "회복약 건네기",
 		"arabic": "ﺀﺎﻔﺷ ﺔﻋﺮﺟ ﻂﻋﺃ",
 	},
 	"Repair": {
@@ -70,6 +75,7 @@
 		"dutch": "Repareer",
 		"russian": "Ремонтировать",
 		"ukrainian":"Ремонтувати",
+		"korean": "고치기",
 		"arabic": "ﺡﻼﺻﺇ",
 	},
 	"GoHere": {
@@ -82,6 +88,7 @@
 		"dutch": "Ga Hierheen",
 		"russian": "Идти сюда",
 		"ukrainian":"Йди Сюди",
+		"korean": "여기로 가기",
 		"arabic": "ﺎﻨﻫ ﺐﻫﺫﺍ",
 	},
 	"WaitHere": {
@@ -94,6 +101,7 @@
 		"dutch": "Wacht Hier",
 		"russian": "Ждать здесь",
 		"ukrainian":"Чекай Тут",
+		"korean": "여기에서 기다리기",
 		"arabic": "ﺎﻨﻫ ﺮﻈﺘﻧﺍ",
 	},
 	"Relax": {
@@ -106,6 +114,7 @@
 		"dutch": "Ontspan",
 		"russian": "Отдыхать",
 		"ukrainian":"Відпочити",
+		"korean": "휴식",
 		"arabic": "ﺡﺮﺘﺳﺍ",
 	},
 	"RemovePlant": {
@@ -118,6 +127,7 @@
 		"dutch": "Haal De Plant Weg",
 		"russian": "Удалить растение",
 		"ukrainian":"Видалити рослину",
+		"korean": "식물 제거하기",
 		"arabic": "ﺕﺎﺒﻨﻟﺍ ﻝﺯﺃ",
 	},
 	"RemoveInfestedPlants": {
@@ -130,6 +140,7 @@
 		"dutch": "Haal alle Geïnfecteerde Planten Weg",
 		"russian": "Удалить все зараженные растения",
 		"ukrainian":"Видалити всі заражені рослини",
+		"korean": "모든 감염된 작물 뽑아내기",
 		"arabic": "ﺔﺑﺎﺼﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻴﻤﺟ ﻝﺯﺃ",
 	},
 	"RemoveDeadPlants": {
@@ -142,6 +153,7 @@
 		"dutch": "Haal alle Dode Planten Weg",
 		"russian": "Удалить все мертвые растения",
 		"ukrainian":"Видалити всі мертві рослини",
+		"korean": "모든 죽은 작물 뽑아내기",
 		"arabic": "ﺔﺘﻴﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻴﻤﺟ ﻝﺯﺃ",
 	},
 	"WaterPlant": {
@@ -154,6 +166,7 @@
 		"dutch": "Geef Water",
 		"russian": "Полить растение",
 		"ukrainian":"Полити рослину",
+		"korean": "작물에 물 주기",
 		"arabic": "ﺕﺎﺒﻨﻟﺍ ﻱﺭ",
 	},
 	"Sow": {
@@ -166,6 +179,7 @@
 		"dutch": "Zaaien",
 		"russian": "Сеять",
 		"ukrainian":"Сіяти",
+		"korean": "심기",
 		"arabic": "ﻉﺭﺯﺍ",
 	},
 	"Harvest": {
@@ -178,6 +192,7 @@
 		"dutch": "Oogsten",
 		"russian": "Собирать",
 		"ukrainian":"Збирати",
+		"korean": "수확하기",
 		"arabic": "ﺪﺼﺣﺍ",
 	},
 	"SowObject": {
@@ -190,6 +205,7 @@
 		"dutch": "%object% zaaien",
 		"russian": "Сеять %object%",
 		"ukrainian":"Сіяти %object%",
+		"korean": "%object% 심기",
 		"arabic": "%object% ﻉﺭﺯﺍ",
 	},
 	"HarvestObject": {
@@ -202,6 +218,7 @@
 		"dutch": "%object% oogsten",
 		"russian": "Собирать %object%",
 		"ukrainian":"Збирати %object%",
+		"korean": "%object% 수확하기",
 		"arabic": "%object% ﺪﺼﺣﺍ",
 	},
 	"Construct": {
@@ -214,6 +231,7 @@
 		"dutch": "Bouwen",
 		"russian": "Строить",
 		"ukrainian":"Будувати",
+		"korean": "건설",
 		"arabic": "ﺀﺎﻨﺒﻟﺎﺑ ﻢﻗ",
 	},
 	"Deconstruct": { // letting a colonist remove furniture
@@ -225,6 +243,7 @@
 		"portuguese": "Retirar",
 		"turkish": "Kaldır",
 		"ukrainian":"Зломати",
+		"korean": "제거",
 		"arabic": "ﻝﺯﺃ",
 	},
 	"Fight": {
@@ -237,6 +256,7 @@
 		"dutch": "Vechten",
 		"russian": "Сражаться",
 		"ukrainian":"Битися",
+		"korean": "싸우기",
 		"arabic": "ﻞﺗﺎﻗ",
 	},
 	"Kill": {
@@ -249,6 +269,7 @@
 		"dutch": "Doden",
 		"russian": "Убить",
 		"ukrainian":"Вбити",
+		"korean": "죽이기",
 		"arabic": "ﻞﺘﻗﺃ",
 	},
 	"TakeHealingPotion": {
@@ -261,6 +282,7 @@
 		"dutch": "Neem Genezend drankje",
 		"russian": "Взять лечебное зелье",
 		"ukrainian":"Взяти лікувальне зілля",
+		"korean": "회복약 받기",
 		"arabic": "ﺀﺎﻔﺷ ﺔﻋﺮﺟ ﺬﺧ",
 	},
 	"LearnFarming": {
@@ -273,6 +295,7 @@
 		"dutch": "Leer over de Landbouw",
 		"russian": "Узнать о фермерстве",
 		"ukrainian":"Дізнатися про фермерство",
+		"korean": "농사 공부하기",
 		"arabic": "ﺔﻋﺍﺭﺰﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 	},
 	"LearnForesting": {
@@ -285,6 +308,7 @@
 		"dutch": "Leer over het Bosbeheer",
 		"russian": "Узнать о лесоводстве",
 		"ukrainian":"Дізнатися про лісівництво",
+		"korean": "벌목 공부하기",
 		"arabic": "ﺮﻴﺠﺸﺘﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 	},
 	"LearnMining": {
@@ -297,6 +321,7 @@
 		"dutch": "Leer over het Mijnen",
 		"russian": "Узнать о шахтерстве",
 		"ukrainian":"Дізнатися про шахтерство",
+		"korean": "채광 공부하기",
 		"arabic": "ﺐﻴﻘﻨﺘﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 	},
 	"LearnCrafting": {
@@ -309,6 +334,7 @@
 		"dutch": "Leer over het Knutselen",
 		"russian": "Узнать о ремесле",
 		"ukrainian":"Дізнатися про ремесло",
+		"korean": "수공예 공부하기",
 		"arabic": "ﺔﻋﺎﻨﺼﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 	},
 	"LearnFighting": {
@@ -321,6 +347,7 @@
 		"dutch": "Oefenen voor het Vechten",
 		"russian": "Тренироваться",
 		"ukrainian":"Навчатись бою",
+		"korean": "전투 연습하기",
 		"arabic": "ﻝﺎﺘﻘﻠﻟ ﺏﺭﺪﺗ",
 	},
 	"LearnMedicine": {
@@ -333,6 +360,7 @@
 		"dutch": "Leer over Medicijnen",
 		"russian": "Узнать о медицине",
 		"ukrainian":"Дізнатись про медицину",
+		"korean": "의학 공부하기",
 		"arabic": "ﺔﻳﻭﺩﻷﺍ ﻦﻋ ﻢﻠﻌﺗ",
 	},
 	"LearnResearching": {
@@ -345,6 +373,7 @@
 		"dutch": "Leer over Onderzoeken",
 		"russian": "Узнать о исследованиях",
 		"ukrainian":"Дізнатися про дослідженнях",
+		"korean": "연구법 공부하기",
 		"arabic":"ﺚﺤﺒﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 	},
 	"Sleep": {
@@ -357,6 +386,7 @@
 		"dutch": "Slapen",
 		"russian": "Спать",
 		"ukrainian":"Спати",
+		"korean": "자기",
 		"arabic":"ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 	},
 	"SleepUntilHealthy": {
@@ -369,6 +399,7 @@
 		"dutch": "Slaap tot volledige gezondheid",
 		"russian": "Спать до полного восстановления здоровья",
 		"ukrainian":"Спати до повного відновлення здоров'я.",
+		"korean": "완전히 회복될 때까지 자기",
 		"arabic":"ﺔﻠﻣﺎﻛ ﺔﺤﺼﺑ ﻥﻮﻜﺗ ﻰﺘﺣ ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 	},
 	"SleepOnGround": {
@@ -381,6 +412,7 @@
 		"dutch": "Slaap op de grond",
 		"russian": "Спать на земле",
 		"ukrainian":"Спати на землі",
+		"korean": "바닥에서 자기",
 		"arabic":"ﺽﺭﻷﺍ ﻰﻠﻋ ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 	},
 	"Sit": {
@@ -393,6 +425,7 @@
 		"dutch": "Zit",
 		"russian": "Сидеть",
 		"ukrainian":"Сидіти",
+		"korean": "앉기",
 		"arabic":"ﺲﻠﺟﺍ",
 	},
 	"SitOnChair": {
@@ -405,6 +438,7 @@
 		"dutch": "Op de stoel zitten",
 		"russian": "Посидеть на стуле",
 		"ukrainian":"Сидіти на кріслі",
+		"korean": "의자에 앉기",
 		"arabic":"ﻲﺳﺮﻛ ﻰﻠﻋ ﺲﻠﺟﺍ",
 	},
 	"Bury": {
@@ -417,6 +451,7 @@
 		"dutch": "Begraaf",
 		"russian": "Похоронить",
 		"ukrainian":"Ховати",
+		"korean": "묻기",
 		"arabic":"ﻦﻓﺩﺍ",
 	},
 	"AcceptMigrants": {
@@ -429,6 +464,7 @@
 		"dutch": "Migranten accepteren",
 		"russian": "Принять мигрантов",
 		"ukrainian":"Прийняти мігранта",
+		"korean": "이주자 수락",
 		"arabic":"ﺮﺟﺎﻬﻤﻟﺍ ﻞﺒﻗﺍ",
 	},
 	"RejectMigrants": {
@@ -441,6 +477,7 @@
 		"dutch": "Migranten Weigeren",
 		"russian": "Отказаться от мигрантов",
 		"ukrainian":"Відмовитися від мігранта",
+		"korean": "이주자 거절",
 		"arabic":"ﺮﺟﺎﻬﻤﻟﺍ ﺾﻓﺭﺍ",
 	},
 	"LeaveIsland": {
@@ -453,6 +490,7 @@
 		"dutch": "Eiland verlaten",
 		"russian": "Покинуть остров",
 		"ukrainian":"Покинути острів",
+		"korean": "섬 떠나기",
 		"arabic":"ﺓﺮﻳﺰﺠﻟﺍ ﺭﺩﺎﻏ",
 	},
 	"BandageWounds": {
@@ -465,6 +503,7 @@
 		"dutch": "Wonden verbinden",
 		"russian": "Перевязать рану",
 		"ukrainian":"Перев'язати рану",
+		"korean": "상처에 붕대감기",
 		"arabic":"ﺡﻭﺮﺠﻟﺍ ﺪﻤﺿ",
 	},
 	"SplintLeg": {
@@ -476,6 +515,7 @@
 		"turkish": "Bacak desteği",
 		"russian": "Наложить шину на ногу",
 		"ukrainian":"Накласти шину на ногу",
+		"korean": "다리에 부목대기",
 		"arabic":"ﻕﺎﺴﻟﺍ ﻰﻠﻋ ﺓﺮﻴﺒﺟ ﻊﺿ",
 	},
 	"SplintArm": {
@@ -487,6 +527,7 @@
 		"turkish": "Kol desteği",
 		"russian": "Наложить шину на руку",
 		"ukrainian":"Накласти шину на руку",
+		"korean": "팔에 부목대기",
 		"arabic":"ﻉﺍﺭﺬﻟﺍ ﻰﻠﻋ ﺓﺮﻴﺒﺟ ﻊﺿ",
 	},
 	"Destroy": {
@@ -499,6 +540,7 @@
 		"dutch": "Verwoesten",
 		"russian": "Сломать",
 		"ukrainian":"Зламати",
+		"korean": "파괴하기",
 		"arabic":"ﺮﻣﺩ",
 	},
 	"Remove": {
@@ -511,6 +553,7 @@
 		"dutch": "Verwijderen",
 		"russian": "Удалить",
 		"ukrainian":"Видалити",
+		"korean": "제거",
 		"arabic":"ﻝﺯﺃ",
 	},
 	"Add": {
@@ -523,6 +566,7 @@
 		"dutch": "Toevoegen",
 		"russian": "Добавить",
 		"ukrainian":"Добавити",
+		"korean": "추가",
 		"arabic":"ﻒﺿﺃ",
 	},
 	"Produce": {
@@ -535,6 +579,7 @@
 		"dutch": "Produceren",
 		"russian": "Произвести",
 		"ukrainian":"Виготовити",
+		"korean": "생산",
 		"arabic":"ﺝﺎﺘﻧﺇ",
 	},
 	"Equip": {
@@ -547,6 +592,7 @@
 		"dutch": "Uitrusten",
 		"russian": "Снарядиться",
 		"ukrainian":"Спорядити",
+		"korean": "착용하기",
 		"arabic":"ﻱﺪﺗﺭﺍ",
 	},
 	"Unequip": {
@@ -559,6 +605,7 @@
 		"dutch": "Unequip",
 		"russian": "Снять снаряжение",
 		"ukrainian":"Зняти спорядження",
+		"korean": "착용 해제",
 		"arabic":"ﻊﻠﺧﺍ",
 	},
 	"RemoveWeapon": {
@@ -571,6 +618,7 @@
 		"dutch": "Wapen Wegleggen",
 		"russian": "Сложить оружие",
 		"ukrainian":"Скласти зброю",
+		"korean": "무기 내려놓기",
 		"arabic":"ﺡﻼﺴﻟﺍ ﺀﺎﻘﻟﺍ",
 	},
 	"RemoveArmor": {
@@ -583,6 +631,7 @@
 		"dutch": "Harnas Uitdoen",
 		"russian": "Снять броню",
 		"ukrainian":"Зняти броню",
+		"korean": "갑옷 벗기",
 		"arabic":"ﻉﺭﺪﻟﺍ ﻊﻠﺧ",
 	},
 	"RemoveEquipment": {
@@ -595,6 +644,7 @@
 		"dutch": "Uitrusting wegdoen",
 		"russian": "Снять снаряжение",
 		"ukrainian":"Зняти спорядження",
+		"korean": "장비 내려놓기",
 		"arabic":"ﺕﺍﺪﻌﻤﻟﺍ ﺔﻟﺍﺯﺇ",
 	},
 	"LightBonfire": {
@@ -607,6 +657,7 @@
 		"dutch": "Baken aansteken",
 		"russian": "Зажечь костер",
 		"ukrainian":"Запалити багаття",
+		"korean": "화톳불에 불 붙이기",
 		"arabic":"ﺔﻠﻌﺸﻟﺍ ﻝﺎﻌﺷﺇ",
 	},
 	"PutOutBonfire": {
@@ -619,6 +670,7 @@
 		"dutch": "Baken Uitdoen",
 		"russian": "Потушить костер",
 		"ukrainian":"Загасити вогонь",
+		"korean": "화톳불 꺼트리기",
 		"arabic":"ﺔﻠﻌﺸﻟﺍ ﺩﺎﻤﺧﺇ",
 	},
 	"GatherResource": {
@@ -631,6 +683,7 @@
 		"dutch": "Grondstof Verzamelen",
 		"russian": "Собирать ресурсы",
 		"ukrainian":"Збирати ресурси",
+		"korean": "자원 수집하기",
 		"arabic":"ﺩﺭﺍﻮﻤﻟﺍ ﻊﻤﺟ",
 	},
 	"Guard": {
@@ -643,6 +696,7 @@
 		"dutch": "Bewaak",
 		"russian": "Защищать",
 		"ukrainian":"Захищати",
+		"korean": "순찰하기",
 		"arabic":"ﺔﻳﺎﻤﺣ",
 	},
 	"GuardTower": {
@@ -655,6 +709,7 @@
 		"dutch": "Wachttoren",
 		"russian": "Защищать башню",
 		"ukrainian":"Захищати вежу",
+		"korean": "탑에서 보초서기",
 		"arabic":"ﺔﺳﺍﺮﺤﻟﺍ ﺝﺮﺑ",
 	},
 	"ProcessResource": {
@@ -667,6 +722,7 @@
 		"dutch": "Grondstof verwerking",
 		"russian": "Обработка ресурса",
 		"ukrainian":"Обробка ресурсу",
+		"korean": "자원 처리",
 		"arabic":"ﺩﺭﺍﻮﻤﻟﺍ ﺔﺠﻟﺎﻌﻣ",
 	},
 	"ChangeProfession": {
@@ -679,6 +735,7 @@
 		"dutch": "Verander",
 		"russian": "Изменить",
 		"ukrainian":"Змінити",
+		"korean": "변경",
 		"arabic":"ﺮﻴﻴﻐﺗ",
 	},
 	"GiveProductionOrders": {
@@ -691,6 +748,7 @@
 		"dutch": "Geef productie opdrachten",
 		"russian": "Добавить заказ",
 		"ukrainian":"Додати замовлення",
+		"korean": "제작 주문하기",
 		"arabic":"ﺝﺎﺘﻧﻹﺍ ﺮﻣﺍﻭﺃ ﺀﺎﻄﻋﺇ",
 	},
 	"FillWateringCan": {
@@ -703,6 +761,7 @@
 		"dutch": "Vul gieter",
 		"russian": "Наполнить лейку",
 		"ukrainian":"Наповнити лійку",
+		"korean": "물뿌리개에 물 채우기",
 		"arabic":"ﻱﺮﻟﺍ ﻮﻟﺩ ﺀﻞﻣ",
 	},
 	"interaction_gatherFood": {
@@ -715,6 +774,7 @@
 		"dutch": "Verzamel voedsel",
 		"russian": "Собирать еду",
 		"ukrainian":"Збирати їжу",
+		"korean": "음식 수집하기",
 		"arabic":"ﻡﺎﻌﻄﻟﺍ ﻊﻤﺟ",
 	},
 	"interaction_cutTree": {
@@ -727,6 +787,7 @@
 		"dutch": "Boom omkappen",
 		"russian": "Срубить дерево",
 		"ukrainian":"Зрубати дерево",
+		"korean": "나무 자르기",
 		"arabic":"ﺓﺮﺠﺸﻟﺍ ﻊﻄﻗ",
 	},
 	"interaction_mineStone": {
@@ -739,6 +800,7 @@
 		"dutch": "Steen mijnen",
 		"russian": "Добывать камень",
 		"ukrainian":"Добувати камінь",
+		"korean": "돌 캐기",
 		"arabic":"ﺓﺭﺎﺠﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 	},
 	"interaction_mineIronOre": {
@@ -751,6 +813,7 @@
 		"dutch": "Ijzererts mijnen",
 		"russian": "Добывать железную руду",
 		"ukrainian":"Добувати залізну руду",
+		"korean": "철광석 캐기",
 		"arabic":"ﺪﻳﺪﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 	},
 	"Gather": {
@@ -763,6 +826,7 @@
 		"dutch": "Verzamel",
 		"russian": "Собирать",
 		"ukrainian":"Збирати",
+		"korean": "수집하기",
 		"arabic":"ﻊﻤﺟ",
 	},
 	"BecomeA": {
@@ -775,6 +839,7 @@
 		"dutch": "Wordt een",
 		"russian": "Стать",
 		"ukrainian":"Встати",
+		"korean": "되기",
 		"arabic":"ﺢﺒﺻﺃ",
 	},
 	"TryFluTreatment": {
@@ -787,6 +852,7 @@
 		"dutch": "Probeer een griepbehandeling",
 		"russian": "Попробовать вылечить грипп",
 		"ukrainian":"Спробувати вилікувати грип",
+		"korean": "감기 치료하기",
 		"arabic":"ﺍﺰﻧﻮﻠﻔﻧﻻﺍ ﺝﻼﻋ ﺔﻟﻭﺎﺤﻣ",
 	},
 	"interaction_analyzeCrystal": {
@@ -799,6 +865,7 @@
 		"dutch": "Kristal Analyzeren",
 		"russian": "Анализировать кристалл",
 		"ukrainian":"Аналізувати кристал",
+		"korean": "크리스탈 분석하기",
 		"arabic":"ﺕﺍﺭﻮﻠﺒﻟﺍ ﻞﻴﻠﺤﺗ",
 	},
 	"interaction_analyzeScroll": {
@@ -810,6 +877,7 @@
 		"turkish": "Parşömeni incele",
 		"russian": "Анализировать свиток",
 		"ukrainian":"Аналізувати сувій",
+		"korean": "스크롤 분석하기",
 		"arabic":"ﺕﺎﻃﻮﻄﺨﻤﻟﺍ ﻞﻴﻠﺤﺗ",
 	},
 	"interaction_cook": {
@@ -822,6 +890,7 @@
 		"dutch": "Voedsel koken",
 		"russian": "Приготовить еду",
 		"ukrainian":"Приготувати їжу",
+		"korean": "음식 요리하기",
 		"arabic":"ﻡﺎﻌﻄﻟﺍ ﻮﻬﻃ",
 	},
 	"interaction_forge": {
@@ -834,6 +903,7 @@
 		"dutch": "Smeden",
 		"russian": "Ковать",
 		"ukrainian":"Кувати",
+		"korean": "대장일하기",
 		"arabic":"ﻊﻨﺻ",
 	},
 	"interaction_makeBows": {
@@ -846,6 +916,7 @@
 		"dutch": "Maak bogen",
 		"russian": "Сделать лук",
 		"ukrainian":"Зробити лук",
+		"korean": "활 만들기",
 		"arabic":"ﺱﺍﻮﻗﺃ ﻊﻨﺻ",
 	},
 	"interaction_makeTools": {
@@ -858,6 +929,7 @@
 		"dutch": "Maak gereedschap",
 		"russian": "Сделать инструменты",
 		"ukrainian":"Зробити інструменти",
+		"korean": "도구 만들기",
 		"arabic":"ﺕﺍﻭﺩﺃ ﻊﻨﺻ",
 	},
 	"interaction_tailorClothes": {
@@ -870,6 +942,7 @@
 		"dutch": "Kleding maken",
 		"russian": "Сшить одежду",
 		"ukrainian":"Зшити одяг",
+		"korean": "옷 재봉하기",
 		"arabic":"ﺲﺑﻼﻣ ﺔﻃﺎﻴﺧ",
 	},
 	"interaction_produceMedicalPotions": {
@@ -882,6 +955,7 @@
 		"dutch": "Genezende Drankjes maken",
 		"russian": "Сделать лечебные зелья",
 		"ukrainian":"Зробити лікувальні зілля",
+		"korean": "회복약 만들기",
 		"arabic":"ﺀﺎﻔﺷ ﺕﺎﻋﺮﺟ ﺝﺎﺘﻧﺇ",
 	},
 	"interaction_produceMedicine": {
@@ -894,6 +968,7 @@
 		"dutch": "Produceer Medicijnen",
 		"russian": "Сделать лекарство",
 		"ukrainian":"Зробити ліки",
+		"korean": "치료약 만들기",
 		"arabic":"ﺔﻳﻭﺩﺃ ﺝﺎﺘﻧﺇ",
 	},
 	"interaction_brewBeer": {
@@ -905,6 +980,7 @@
 		"portuguese": "Cerveja fermentada",
 		"turkish": "Bira yap",
 		"ukrainian":"Варити пиво",
+		"korean": "맥주 양조하기",
 		"arabic":"ﺓﺮﻴﺒﻟﺍ ﺮﻴﻤﺨﺗ",
 	},
 	"Talk": {
@@ -917,6 +993,7 @@
 		"dutch": "Praat",
 		"russian": "Общаться",
 		"ukrainian":"Спілкуватись",
+		"korean": "대화하기",
 		"arabic":"ﺙﺪﺤﺗ",
 	},
 	"TalkTo": {
@@ -929,6 +1006,7 @@
 		"dutch": "Praat tegen %name%",
 		"russian": "Поговорить с %name%",
 		"ukrainian":"Поговорить з %name%",
+		"korean": "%name%에게 말 걸기",
 		"arabic":"%name% ﻰﻟﺇ ﺙﺪﺤﺗ",
 	},
 	"TakeOwnership": {
@@ -941,6 +1019,7 @@
 		"dutch": "Wordt Eigenaar",
 		"russian": "Завладеть",
 		"ukrainian":"Стати власником",
+		"korean": "이 장비 가지기",
 		"arabic":"ﺔﻴﻜﻠﻤﻟﺍ ﺬﺧ",
 	},
 	"TakeOwnershipFrom": {
@@ -952,8 +1031,9 @@
 		"portuguese": "Apropriar de %name%",
 		"dutch": "Neem het Eigendom van %name% af",
 		"russian": "Стать владельцем вместо %name%",
-		"ukrainian":"Стати власником замість %name%",
+		"korean": "%name%에게서 소유권 넘겨받기",
 		"arabic":"%name% ﻦﻣ ﺔﻴﻜﻠﻤﻟﺍ ﺬﺧ",
+		"ukrainian":"Стати власником замість %name%",
 	},
 	"GiveUpOwnership": {
 		"english": "Give up Ownership",
@@ -964,6 +1044,7 @@
 		"portuguese": "Desistir de propriedade",
 		"dutch": "Eigenschap opgeven",
 		"russian": "Сменить владельца",
+		"korean": "소유권 포기하기",
 		"ukrainian":"Передати володіння",
 		"arabic":"ﺔﻴﻜﻠﻤﻟﺍ ﻦﻋ ﻝﺯﺎﻨﺗ",
 	},
@@ -976,6 +1057,7 @@
 		"turkish": "Yatağa taşı", 
 		"russian": "Отнести на кровать",
 		"ukrainian":"Перенести на ліжко",
+		"korean": "침대로 운반하기",
 		"arabic":"ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ ﻞﻤﺣﺍ",
 	},
 	"PlaceTool": {
@@ -987,6 +1069,7 @@
 		"turkish": "Aleti bırak", 
 		"russian": "Сложить инструмент",
 		"ukrainian":"Скласти інструмент",
+		"korean": "도구 착용 해제",
 		"arabic":"ﺓﺍﺩﻷﺍ ﻊﻠﺧ",
 	},
 	"PlaceClothes": {
@@ -998,6 +1081,7 @@
 		"turkish": "Kıyafetleri çıkar", 
 		"russian": "Снять одежду",
 		"ukrainian":"Зняти одяг",
+		"korean": "의상 벗기",
 		"arabic":"ﺲﺑﻼﻤﻟﺍ ﻊﻠﺧ",
 	},
 	"Trade": {
@@ -1009,6 +1093,7 @@
 		"dutch": "Ruil",
 		"turkish": "Takas",
 		"russian": "Торговать",
+		"korean": "거래하기",
 		"ukrainian":"Торгувати",
 		"arabic":"ﺓﺮﺟﺎﺘﻣ",
 	},
@@ -1021,6 +1106,7 @@
 		"portuguese": "Trancado",
 		"turkish": "Kilitle",
 		"ukrainian":"Замикати",
+		"korean": "가두기",
 		"arabic":"ﻦﺠﺳﺍ",
 	},
 	"FreeColonist": {
@@ -1032,6 +1118,7 @@
 		"portuguese": "Colono livre",
 		"turkish": "Serbest bırak",
 		"ukrainian":"Звільнити Колоніста",
+		"korean": "개척자 풀어주기",
 		"arabic":"ﺮﻤﻌﺘﺴﻤﻟﺍ ﺭﺮﺣ",
 	},
 	"FreeColonistFirstName": {
@@ -1043,6 +1130,7 @@
 		"portuguese": "Livre %firstName%",
 		"turkish": "%firstName%'i serbest bırak",
 		"ukrainian":"Звільнити %firstName%",
+		"korean": "%firstName% 풀어주기",
 		"arabic":"%firstName% ﺭﺮﺣ",
 	},
 	"DrinkBeer": {
@@ -1054,6 +1142,7 @@
 		"portuguese": "Beber cerveja",
 		"turkish": "Bira iç",
 		"ukrainian":"Випити Пиво",
+		"korean": "맥주 마시기",
 		"arabic":"ﺓﺮﻴﺑ ﺏﺮﺷﺍ",
 	},
 	"Dance": {
@@ -1065,6 +1154,7 @@
 		"portuguese": "Dança",
 		"turkish": "Dans et",
 		"ukrainian":"Танцювати",
+		"korean": "춤추기",
 		"arabic":"ﺺﻗﺭﺍ",
 	},
 	"Enjoy": {
@@ -1076,6 +1166,7 @@
 		"portuguese": "Apreciar",
 		"turkish": "Keyfini çıkar",
 		"ukrainian":"Насолоджуватись",
+		"korean": "즐기기",
 		"arabic":"ﻊﺘﻤﺘﺳﺍ",
 
 	},
@@ -1088,6 +1179,7 @@
 		"portuguese": "Desfrute de fogo",
 		"turkish": "Ateşin keyfini çıkar",
 		"ukrainian":"Насолоджується Вогнем",
+		"korean": "불꽃 구경하기",
 		"arabic":"ﺭﺎﻨﻟﺎﺑ ﻊﺘﻤﺘﺳﺍ",
 	},
 	"Drum": {
@@ -1099,6 +1191,7 @@
 		"portuguese": "Tambor",
 		"turkish": "Davul",
 		"ukrainian":"Барабан",
+		"korean": "발 구르기",
 		"arabic":"ﻞﺒﻄﻟﺍ ﻉﺮﻗﺍ",
 	},
 	"Hug": {
@@ -1110,6 +1203,7 @@
 		"portuguese": "Abraço",
 		"ukrainian":"Обняти",
 		"turkish": "Sarılma",
+		"korean": "껴안기",
 		"arabic":"ﻦﻀﺣﺍ",
 	},
 	"Cheer": {
@@ -1121,6 +1215,7 @@
 		"portuguese": "Alegria",
 		"turkish": "Alkışla",
 		"ukrainian":"Радуватись",
+		"korean": "건배하기",
 		"arabic":"ﻒﺘﻫﺍ",
 	},
 
@@ -1137,6 +1232,7 @@
 		"dutch": "Iemand anders gebruikt dat",
 		"russian": "Кто-то еще использует это",
 		"ukrainian":"Хтось ще використовує це",
+		"korean": "다른 사람이 사용중입니다",
 		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ ﺮﺧﺁ ﺺﺨﺷ",
 	},
 	"firstNameIsUsingThat": {
@@ -1148,6 +1244,7 @@
 		"portuguese": "%firstName% está usando isso",
 		"ukrainian":"%firstName% використовує це",
 		"turkish": "Onu %firstName% kullanıyor",
+		"korean": "%firstName%이 사용중입니다",
 		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ %firstName%",
 	},
 	"goblinIsUsingThat": {
@@ -1159,6 +1256,7 @@
 		"portuguese": "Goblin está usando isso",
 		"ukrainian":"Гоблін використовує це",
 		"turkish": "Onu goblin kullanıyor",
+		"korean": "고블린이 사용중인 물건입니다",
 		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ ﺖﻳﺮﻔﻋ",
 	},
 	"visitorIsUsingThat": { // visitors like migrants or traders
@@ -1170,6 +1268,7 @@
 		"portuguese": "Um visitante está usando isso",
 		"ukrainian":"Відвідувач використовує це",
 		"turkish": "Onu bir ziyaretçi kullanıyor",
+		"korean": "방문자가 사용중입니다",
 		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ ﺮﺋﺍﺯ",
 	},
 	"cantWalkBrokenLeg": {
@@ -1181,6 +1280,7 @@
 		"turkish": "Bacağı kırık, yürüyemiyor", 
 		"russian": "Вы не можете передвигаться со сломанной ногой.",
 		"ukrainian":"Ви не можете пересуватися зі зламаною ногою.",
+		"korean": "다리가 부러져서 걸을 수 없습니다",
 		"arabic":"ﻕﺎﺴﻟﺍ ﻲﻓ ﺮﺴﻛ ﺐﺒﺴﺑ ﻲﺸﻤﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻻ",
 	},
 	"cantWorkBrokenArm": {
@@ -1192,6 +1292,7 @@
 		"turkish": "Kolu kırık, çalışamaz", 
 		"russian": "Не может работать из-за сломанной руки",
 		"ukrainian":"Не може працювати через зламану руки",
+		"korean": "팔이 부러져서 일할 수 없습니다",
 		"arabic":"ﻉﺍﺭﺬﻟﺍ ﻲﻓ ﺮﺴﻛ ﺐﺒﺴﺑ ﻞﻤﻌﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻻ",
 	},
 	"cantInteractIsLockedUp": {
@@ -1203,6 +1304,7 @@
 		"portuguese": "Colono está trancado",
 		"ukrainian":"Колоніст під замком",
 		"turkish": "Yerleşimci kilit altında",
+		"korean": "개척자가 갇혀 있습니다",
 		"arabic":"ﻥﻮﺠﺴﻣ ﺮﻤﻌﺘﺴﻤﻟﺍ",
 	},
 	"noProductionOrders": {
@@ -1215,6 +1317,7 @@
 		"dutch": "Geen productie opdrachten",
 		"russian": "Нет заказов",
 		"ukrainian":"Немає замовлень",
+		"korean": "생산 주문이 없습니다",
 		"arabic":"ﺝﺎﺘﻧﺇ ﺮﻣﺍﻭﺃ ﻻ",
 	},
 	"notSufficientExperience": {
@@ -1227,6 +1330,7 @@
 		"dutch": "%firstname % heeft niet genoeg ervaring als %profession%",
 		"russian": "%firstName% не имеет достаточного уровня в %profession%",
 		"ukrainian":"%firstName% не має достатнього рівня в %profession%",
+		"korean": "%firstName%에게 %profession%으로서의 경험이 부족합니다",
 		"arabic":"%profession%ـﻛ ﺔﻴﻓﺎﻛ ﺓﺮﺒﺧ ﻚﻠﻤﻳ ﻻ %firstName%",
 	},
 	"notUsableInSeason": {
@@ -1239,6 +1343,7 @@
 		"dutch": "Niet mogelijk in %season%",
 		"russian": "Невозможно в сезоне %season%",
 		"ukrainian":"Неможливо в сезоні %season%",
+		"korean": "%season%에는 할 수 없습니다",
 		"arabic":"%season% ﻲﻓ ﻦﻜﻤﻣ ﺮﻴﻏ",
 	},
 	"noTimeBeforeSeasonChanges": {
@@ -1250,6 +1355,7 @@
 		"russian": "Недостаточно времени до смены сезона",
 		"ukrainian":"Недостатньо часу до зміни сезону",
 		"portuguese": "Não há tempo suficiente antes das mudanças da temporada",
+		"korean": "남은 계절이 짧습니다",
 		"arabic":"ﻢﺳﻮﻤﻟﺍ ﺮﻴﻐﺗ ﻞﺒﻗ ﻲﻓﺎﻛ ﺮﻴﻏ ﺖﻗﻭ",
 	},
 	"nextTryIn": {
@@ -1262,6 +1368,7 @@
 		"dutch": "Probeer nog een keer in",
 		"russian": "Следующая попытка через",
 		"ukrainian":"Наступна спроба через",
+		"korean": "다음에 시도하세요",
 		"arabic":"ﻲﻓ ﻝﻭﺎﺣ ﺔﻠﺒﻘﻤﻟﺍ ﺓﺮﻤﻟﺍ",
 	},
 	"forbiddenBecauseHasTrait": {
@@ -1274,6 +1381,7 @@
 		"dutch": "Kan niet vanwege de eigenschap %trait%",
 		"russian": "Не может из-за черты: %trait%",
 		"ukrainian":"Не може через рису: %trait%",
+		"korean": "%trait% 특성 때문에 할 수 없습니다",
 		"arabic":"%trait% :ﺔﻤﺴﻟﺍ ﺐﺒﺴﺑ ﻦﻜﻤﻣ ﺮﻴﻏ",
 	},
 	"forbiddenBecauseNotHasTrait": {
@@ -1286,6 +1394,7 @@
 		"dutch": "Mist eigenschap: %trait%",
 		"russian": "Отсутствует черта: %trait%",
 		"ukrainian":"Відсутня риса: %trait%",
+		"korean": "특성이 없습니다: %trait%",
 		"arabic":"%trait% :ﺓﺩﻮﻘﻔﻣ ﺔﻤﺳ",
 	},
 	"cantGetResourceNearby": {
@@ -1298,6 +1407,7 @@
 		"dutch": "Kan in de buurt geen %resource% krijgen ",
 		"russian": "Не могу собрать %resource% поблизости",
 		"ukrainian":"Не можу зібрати %resource% поблизу",
+		"korean": "근처에 %resource%가 없습니다",
 		"arabic":"ﺎﻨﻫ ﻦﻣ ﺏﺮﻘﻟﺎﺑ %resource% ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ ﻻ",
 	},
 	"missingEquipmentEffect_WateringPlants": {
@@ -1310,6 +1420,7 @@
 		"dutch": "Heeft een gieter nodig",
 		"russian": "Нужна лейка",
 		"ukrainian":"Потрібна лійка",
+		"korean": "물뿌리개가 필요합니다",
 		"arabic":"ﻱﺮﻟﺍ ﻮﻟﺩ ﻰﻟﺇ ﺝﺎﺘﺤﻳ",
 	},
 	"noResearchSelected": {
@@ -1322,6 +1433,7 @@
 		"dutch": "Geen onderzoek geselecteerd",
 		"russian": "Исследование не выбрано",
 		"ukrainian":"Дослідження не вибрано",
+		"korean": "진행중인 연구가 없습니다",
 		"arabic":"ﺚﺤﺑ ﺭﺎﻴﺘﺧﺍ ﻢﺘﻳ ﻢﻟ",
 	},
 	"resourceNotNecessaryForResearch": {
@@ -1333,6 +1445,7 @@
 		"turkish": "Şimdiki araştırma konusu için %resource% analiz etmeye gerek yok",
 		"russian": "Не нужно анализировать %resource% в текущем исследовании",
 		"ukrainian":"Не потрібно аналізувати %resource% в поточному дослідженні", 
+		"korean": "현재 진행중인 연구에는 %resource%가 필요하지 않습니다",
 		"arabic":"ﻲﻟﺎﺤﻟﺍ ﺚﺤﺒﻠﻟ %resource% ﻞﻴﻠﺤﺘﻟ ﺔﺟﺎﺣ ﻻ",
 	},
 	"notOwnedBy": {
@@ -1344,6 +1457,7 @@
 		"turkish": "%firstName% sahipliğinde değil", 
 		"russian": "Не принадлежит %firstName%",
 		"ukrainian":"Не належить %firstName%",
+		"korean": "%firstName%이 소유한 물건이 아닙니다",
 		"arabic":"%firstName% ﻦﻣ ﺔﻛﻮﻠﻤﻣ ﺮﻴﻏ",
 	},
 }

@@ -13,6 +13,7 @@
 		"russian":"Мечты",
 		"chinese": "愿望",
 		"arabic": "ﺕﺎﻴﻨﻣﻷﺍ",
+		"korean": "소원",
 		"polish": "Życzenia",
 	},
 	"discover": {
@@ -29,6 +30,7 @@
 		"russian":"Исследовать %tech%",
 		"chinese": "发现 %tech%",
 		"arabic": "ﻒﺸﺘﻛﺍ %tech%",
+		"korean": "%tech% 발견",
 		"polish": "Odkryć %tech%",
 	},
 	"GetProfession": {
@@ -45,6 +47,7 @@
 		"russian":"Получить работу",
 		"chinese": "获得职业",
 		"arabic": "ﺔﻔﻴﻇﻭ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ",
+		"korean": "직업 얻기",
 		"polish": "Dostać zawód",
 	},
 	"GetSleepingSpot": {
@@ -61,6 +64,7 @@
 		"russian":"Получить койку",
 		"chinese": "有地方睡觉",
 		"arabic": "ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ",
+		"korean": "나만의 잠자리 가지기",
 		"polish": "Mieć miejsce do spania",
 	},
 	"GetBedroom": {
@@ -77,6 +81,7 @@
 		"russian":"Получить спальню",
 		"chinese": "拥有一间卧室",
 		"arabic": "ﻡﻮﻧ ﺔﻓﺮﻏ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ",
+		"korean": "나만의 침실 가지기",
 		"polish": "Mieć sypialnię",
 	},
 	"reachLevelAsA": {
@@ -92,6 +97,7 @@
 		"ukrainian":"Достигнути %level% рівня в професії %profession%",
 		"russian":"Достигнуть %level% уровня в профессии %profession%",
 		"chinese": "%profession%达到了%level%等级",
+		"korean": "%profession%에서 %level% 레벨 달성하기",
 		"arabic": "%profession%ـﻛ %level% ﻯﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ",
 		"polish": "Osiągnąć poziom %level% jako %profession%",
 	},
@@ -109,6 +115,7 @@
 		"russian":"Разместить %furniture% в %location%",
 		"chinese": "在%location% 拥有 %furniture%",
 		"arabic": "ﻊﺿﻭ %furniture% ﻲﻓ %location%",
+		"korean": "%furniture%#{를} %location%에 두기",
 		"polish": "Mieć %furniture% w %location%",
 	},
 	"getBackFurnitureInLocation": {
@@ -123,6 +130,7 @@
 		"russian":"Вернуть %furniture% обратно в %location%",
 		"chinese": "在%location% 返回 %furniture%",
 		"arabic": "ﻊﺟﺭﺍ %furniture% ﻰﻟﺇ %location%",
+		"korean": "%furniture%#{를} %location%에 다시 두기",
 		"polish": "Mieć %furniture% z powrotem w %location%",
 	},
 	"furnitureCategory_AChair": {
@@ -139,6 +147,7 @@
 		"russian":"Стул",
 		"chinese": "椅子",
 		"arabic": "ﻲﺳﺮﻛ",
+		"korean": "의자",
 		"polish": "Krzesło",
 	},
 	"furnitureCategory_ATable": {
@@ -155,6 +164,7 @@
 		"russian":"Стол",
 		"chinese": "桌子",
 		"arabic": "ﺔﻟﻭﺎﻃ",
+		"korean": "탁자",
 		"polish": "Stół",
 	},
 	"furnitureCategory_AArmchair": {
@@ -171,6 +181,7 @@
 		"russian":"Кресло",
 		"chinese": "扶手椅",
 		"arabic": "ﺔﻜﻳﺭﺃ",
+		"korean": "안락의자",
 		"polish": "Fotel",
 	},
 	"furnitureCategory_ACouch": {
@@ -187,6 +198,7 @@
 		"russian":"Диван",
 		"chinese": "躺椅",
 		"arabic": "ﺔﺒﻨﻛ",
+		"korean": "소파",
 		"polish": "Kanapa",
 	},
 	"furnitureCategory_AFireplace": {
@@ -203,6 +215,7 @@
 		"russian":"Камин",
 		"chinese": "壁炉",
 		"arabic": "ﺪﻗﻮﻣ",
+		"korean": "난로",
 		"polish": "Kominek",
 	},
 	"furnitureCategory_ASmallShelf": {
@@ -219,6 +232,7 @@
 		"russian":"комод",
 		"chinese": "化妆台",
 		"arabic": "ﻦﻳﺰﺨﺗ ﺝﺍﺭﺩﺃ",
+		"korean": "서랍장",
 		"polish": "Komoda",
 	},
 	"furnitureCategory_ABigShelf": {
@@ -235,6 +249,7 @@
 		"russian":"Большая полка или шкаф",
 		"chinese": "大的架子或衣橱",
 		"arabic": "ﺲﺑﻼﻣ ﺏﻻﻭﺩ ﻭﺃ ﺮﻴﺒﻛ ﻑﺭ",
+		"korean": "큰 선반이나 옷장",
 		"polish": "Duża szafa lub garderoba",
 	},
 	"furnitureCategory_AChest": {
@@ -251,6 +266,7 @@
 		"russian":"Сундук",
 		"chinese": "柜子",
 		"arabic": "ﻕﻭﺪﻨﺻ",
+		"korean": "상자",
 		"polish": "Skrzynia",
 	},
 	"furnitureCategory_AFlowerPot": {
@@ -267,6 +283,7 @@
 		"russian":"Цветочный горшок",
 		"chinese": "花盆",
 		"arabic": "ﺭﻮﻫﺰﻠﻟ ﺀﺎﻧﺇ",
+		"korean": "화분",
 		"polish": "Doniczka",
 	},
 	"furnitureCategory_AVase": {
@@ -283,6 +300,7 @@
 		"russian":"Ваза",
 		"chinese": "花瓶",
 		"arabic": "ﺔﻳﺮﻫﺰﻣ",
+		"korean": "꽃병",
 		"polish": "Waza",
 	},
 	"furnitureCategory_AToolStorage": {
@@ -297,6 +315,7 @@
 		"russian":"место для хранения инструментов",
 		"chinese": "存放工具的地方",
 		"arabic": "ﺕﺍﻭﺩﻷﺍ ﻦﻳﺰﺨﺘﻟ ﻥﺎﻜﻣ",
+		"korean": "도구를 둘 공간",
 		"polish": "miejsce do trzymania narzędzi",
 	},
 	"furnitureCategory_AWeaponStorage": {
@@ -311,6 +330,7 @@
 		"russian":"место для хранения оружия",
 		"chinese": "存放武器的地方",
 		"arabic": "ﺔﺤﻠﺳﻷﺍ ﻦﻳﺰﺨﺘﻟ ﻥﺎﻜﻣ",
+		"korean": "무기를 둘 공간",
 		"polish": "miejsce do trzymania broni",
 	},
 	"furnitureCategory_AClothesStorage": {
@@ -325,6 +345,7 @@
 		"russian":"место для хранения одежды",
 		"chinese": "存放衣服的地方",
 		"arabic": "ﺲﺑﻼﻤﻟﺍ ﻦﻳﺰﺨﺘﻟ ﻥﺎﻜﻣ",
+		"korean": "옷을 둘 공간",
 		"polish": "miejsce do trzymania ubrań",
 	},
 	"furnitureCategory_AArmorStorage": {
@@ -339,6 +360,7 @@
 		"russian":"место для хранения брони",
 		"chinese": "储存盔甲的地方",
 		"arabic": "ﻉﻭﺭﺪﻟﺍ ﻦﻳﺰﺨﺘﻟ ﻥﺎﻜﻣ",
+		"korean": "갑옷을 둘 공간",
 		"polish": "miejsce do trzymania zbroji",
 	},
 	"wishLocation_Room": {
@@ -358,6 +380,7 @@
 		"russian":"своей комнате",
 		"chinese": "%hisHer%房间",
 		"arabic": "ﺔﻓﺮﻏ %hisHer%",
+		"korean": "%heShe%의 방",
 		"polish": "%jegoJej% pokoju",
 	},
 	"wishLocation_House": {
@@ -377,6 +400,7 @@
 		"russian":"своем доме",
 		"chinese": "%hisHer%房子",
 		"arabic": "ﺖﻴﺑ %hisHer%",
+		"korean": "%heShe%의 집",
 		"polish": "%jegoJej% domu",
 	},
 	"wishLocation_Colony": {
@@ -393,6 +417,7 @@
 		"russian":"колонии",
 		"chinese": "殖民地",
 		"arabic": "ﺓﺮﻤﻌﺘﺴﻤﻟﺍ",
+		"korean": "개척지",
 		"polish": "Kolonia",
 	},
 	"useSatisfactionRewardPoints": {
@@ -409,6 +434,7 @@
 		"russian":"Используйте очки удовлетворения",
 		"chinese": "使用满意奖励点数",
 		"arabic": "ﺎﺿﺮﻟﺍ ﺓﺄﻓﺎﻜﻣ ﻁﺎﻘﻧ ﻡﺪﺨﺘﺳﺍ",
+		"korean": "만족 포인트 사용하기",
 		"polish": "Użyj punktów nagród zadowolenia",
 	},
 	"getRidOfTrait": {
@@ -425,6 +451,7 @@
 		"russian":"Избавиться от черты: %trait%",
 		"chinese": "移除特性:%trait%",
 		"arabic": ":ﺔﻤﺴﻟﺍ ﻦﻣ ﺺﻠﺨﺘﻟﺍ %trait%",
+		"korean": "특성 제거하기: %trait%",
 		"polish": "Pozbyć się cechy: %trait%",
 	},
 	"getRidOfCondition": {
@@ -440,6 +467,7 @@
 		"ukrainian":"Позбутись від стану: %condition%",
 		"russian":"Избавиться от состояния: %condition%",
 		"chinese": "移除状态: %condition%",
+		"korean": "상태 제거하기: %condition%",
 		"arabic": ":%condition% :ﺔﻟﺎﺤﻟﺍ ﻦﻣ ﺺﻠﺨﺘﻟﺍ",
 		"polish": "Pozbyć się uwarunkowania %condition%",
 	},
@@ -457,6 +485,7 @@
 		"russian":"Восстановить здоровье",
 		"chinese": "恢复健康",
 		"arabic": "ﺔﻠﻣﺎﻛ ﺔﺤﺻ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ",
+		"korean": "생명력 모두 회복하기",
 		"polish": "Wrócić do pełni zdrowia",
 	},
 	"getBigPayday": {
@@ -470,6 +499,7 @@
 		"ukrainian":"Получити зарплату не менше %coins% монет",
 		"russian":"Получить зарплату не менее %coins% монет",
 		"chinese": "今日大收获,获得至少%coins%硬币",
+		"korean": "하루쯤 %coins% 이상의 코인을 일당으로 받기",
 		"arabic": "ﻞﻗﻷﺍ ﻰﻠﻋ ﺔﻴﻧﺪﻌﻣ ﺔﻠﻤﻋ %coins% ﺐﺗﺍﺭ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ",
 		"polish": "Otrzymać dużą wypłatę, co najmniej %coins% monet",
 	},
@@ -485,6 +515,7 @@
 		"russian":"Разгромить Тикигоблина",
 		"chinese": "击败土著哥布林",
 		"arabic": "ﻲﻜﻴﺗ ﺖﻳﺮﻔﻋ ﻡﺰﻫﺍ",
+		"korean": "티키고블린과 싸워 이기기",
 		"polish": "Pokonać Goblina Tiki",
 	},
 	"storeFoodForWinter": {
@@ -498,6 +529,7 @@
 		"ukrainian":"Запастись не менше %food% од. їжі на зиму",
 		"russian":"Запастись не менее %food% ед. еды на зиму",
 		"chinese": "储存至少%food%的食物,为冬天做准备",
+		"korean": "겨울을 대비해 %food% 이상의 음식을 저장해두기",
 		"arabic": "ﺀﺎﺘﺸﻠﻟ ﺍﺩﺍﺪﻌﺘﺳﺇ ، ﻞﻗﻷﺍ ﻰﻠﻋ ﺔﺒﺟﻭ %food% ﻥﺰﺧ",
 		"polish": "Mieć w magazynie przynajmniej %food% posiłków przygotowanych na zimę",
 	},

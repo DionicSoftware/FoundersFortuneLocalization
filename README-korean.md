@@ -26,25 +26,44 @@ This is korean glossary for korean translator.
 ### 건강
 - Health: 생명력
 - Stamina: 체력
-- Healing Potion: 회복약
+- Healing Potion: 회복약 (Healing plant: 약초)
 - Illness medicine: 치료약
 
 ## 아이템 용어
-- Food / Meal: 아이템 분류를 말할 땐 통일해서 음식으로 번역. 문장 속에서 쓰읠 땐 meal은 식사로 번역
+### 음식
+- Food / Meal: 아이템 분류를 말할 땐 통일해서 음식으로 번역. 문장 속에서 쓰일 땐 meal은 식사로 번역
 - Raw Food: 생식, 조리되지 않은 음식
 - Campfire Food(Simple Meal): 간단히 구운 음식. -> "모닥불에 구운 음식"
 - Kitchen Food(Good Meal): 제대로 익힌 음식. -> "조리된 음식"
 - Baked Food: 오븐에 구운 음식.
 - Apple Sturudel: 사과 슈트루델. 독일어가 원 단어라고 함.
-- Bonfire : 화톳불. 봉화..보다는 화톳불이 낫겠지.
-- Crystal: 크리스탈. 분위기때문에 '수정'이라고 하진 않음.
+
+### 옷
+- Apprentice (Forester)'s Clothes: 풋내기 (나무꾼)의 옷. 다른 후보: 수습, 초보 등. 혹은 아예 순서를 뒤바꿔서 벌목 풋내기의 옷. 이 경우, 나무꾼 풋내기 같은 표현을 쓸 수 없으므로 직업 대신 행동으로 표현해야 한다.
+- Master (Forester)'s Clothes: 전문 (나무꾼)의 옷. 다른 후보: 수석, 일류. 순서를 뒤바꾼다면 벌목 달인의 옷. 전문-의 경우 이 분야에 통달했다기보다는 이 분야에 특화되어있다는 느낌이 강해서 어색하긴 한데, 수석 농부보다는 전문 농부가 나을 것 같음. 예외) master scholar: 박사로 표현
+- Book stand: 연구대
+
+### 무기
 - wooden sword: 나무칼. 목검보다는 살짝 원시적인 느낌을 주기 위함.
 - wooden (sword): 나무칼/나무도끼/나무곡괭이.
 - stone (sword): 돌칼/돌도끼/돌곡괭이.
 - metal (sword): 철검/쇠도끼/쇠곡괭이. 쇠칼만 어색해서 이런 식으로.
-- Apprentice (Forester)'s Clothes: 풋내기 (나무꾼)의 옷. 다른 후보: 수습, 초보 등. 혹은 아예 순서를 뒤바꿔서 벌목 풋내기의 옷. 이 경우, 나무꾼 풋내기 같은 표현을 쓸 수 없으므로 직업 대신 행동으로 표현해야 한다.
-- Master (Forester)'s Clothes: 전문 (나무꾼)의 옷. 다른 후보: 수석, 일류. 순서를 뒤바꾼다면 벌목 달인의 옷. 전문-의 경우 이 분야에 통달했다기보다는 이 분야에 특화되어있다는 느낌이 강해서 어색하긴 한데, 수석 농부보다는 전문 농부가 나을 것 같음. 예외) master scholar: 박사로 표현
-- Book stand: 연구대
+
+### 가구
+가구는 직역하기보다 게임 속 모습을 보고 짓는게 나은듯.
+- Simple / Advanced ~: 단순한 / 고급 ~
+- Natural Wooden ~: 나무결이 살아있는 ~ (의역)
+- wooden / stone / metal: 목제 / 석제 / 철제
+- Dresser / Shelf / Wardrobe / Chest: 서랍장, 선반, 옷장, 상자
+- Pot plant in ~: ~에 심은 식물. 
+- Table: 탁자 보다는 식탁. 게임 속 용도는 거의 식탁임.
+
+### 건축
+- Bonfire : 화톳불. 봉화..보다는 화톳불이 낫겠지.
+
+### 기타
+- Crystal: 크리스탈. 분위기때문에 '수정'이라고 하진 않음.
+
 
 ## 게임 용어
 - beauty : (가구에서) 일단은 "아름다움".
@@ -61,4 +80,4 @@ This is korean glossary for korean translator.
 ## 문장 구성
 - %heShe%: 그/그녀. %himHer% 같은 경우도 모두 이것으로 대체하고 "%heShe%의" 로 쓰기.
 - at least ~: ~ 이상의. 최소한 ~ 으로 번역하면 어색해짐.
-- 은/는 이/가 등의 조사: #{은} #{는} 식으로 사용하면 알아서 적절한 조사로(#{은} -> 은 또는 는) 변형됨.
+- 은/는 이/가 등의 조사: %firstName%#{은} %resource%#{가} 식으로 사용하면 알아서 적절한 조사로(서진은 or 민수는, 나무가 or 철광석이) 변형됨.

@@ -76,6 +76,7 @@ This is korean glossary for korean translator.
 - Breakout: 파업
 - Lazy day: 느긋한 하루. 명령을 받긴 하지만 멋대로 휴식을 취하러 쌩하고 가버리는 하루.
 - Bug Infestations: 병충해 발생
+- unlock: 획득하다.
 
 ## 문장 구성
 - %heShe%: 그/그녀. %himHer% 같은 경우도 모두 이것으로 대체하고 "%heShe%의" 로 쓰기.

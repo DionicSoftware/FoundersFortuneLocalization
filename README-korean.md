@@ -32,15 +32,15 @@ This is korean glossary for korean translator.
 ## 아이템 용어
 ### 음식
 - Food / Meal: 아이템 분류를 말할 땐 통일해서 음식으로 번역. 문장 속에서 쓰일 땐 meal은 식사로 번역
-- Raw Food: 생식, 조리되지 않은 음식
-- Campfire Food(Simple Meal): 간단히 구운 음식. -> "모닥불에 구운 음식"
-- Kitchen Food(Good Meal): 제대로 익힌 음식. -> "조리된 음식"
-- Baked Food: 오븐에 구운 음식.
+- Raw Food: 과일과 채소
+- Campfire Food(Simple Meal): 모닥불에 구운 음식
+- Kitchen Food(Good Meal): 조리된 음식 (kitchen: 조리대)
+- Baked Food: 화덕에 구운 음식 (bakery: 화덕)
 - Apple Sturudel: 사과 슈트루델. 독일어가 원 단어라고 함.
 
 ### 옷
 - Apprentice (Forester)'s Clothes: 풋내기 (나무꾼)의 옷. 다른 후보: 수습, 초보 등. 혹은 아예 순서를 뒤바꿔서 벌목 풋내기의 옷. 이 경우, 나무꾼 풋내기 같은 표현을 쓸 수 없으므로 직업 대신 행동으로 표현해야 한다.
-- Master (Forester)'s Clothes: 전문 (나무꾼)의 옷. 다른 후보: 수석, 일류. 순서를 뒤바꾼다면 벌목 달인의 옷. 전문-의 경우 이 분야에 통달했다기보다는 이 분야에 특화되어있다는 느낌이 강해서 어색하긴 한데, 수석 농부보다는 전문 농부가 나을 것 같음. 예외) master scholar: 박사로 표현
+- Master (Forester)'s Clothes: 베테랑 (나무꾼)의 옷. 다른 후보: 수석, 일류. 순서를 뒤바꾼다면 벌목 달인의 옷. 전문-의 경우 이 분야에 통달했다기보다는 이 분야에 특화되어있다는 느낌이 강해서, 의역하는걸로. 예외) master scholar: 박사로 표현
 - Book stand: 연구대
 
 ### 무기

@@ -59,6 +59,56 @@
 		"arabic": ":ﻲﻟﺎﺘﻟﺍ ﺢﺘﻔﻳ",
 		"polish": "Odblokowane obiekty:",
 	},
+
+
+
+	"diplomacy": {
+		"english": "Diplomacy",
+		"german": "Diplomatie",
+	},
+	"showOnMap": {
+		"english": "Show Location",
+		"german": "Ort zeigen",
+	},
+	"contactFaction": {
+		"english": "Contact",
+		"german": "Kontaktieren",
+	},
+	"relationshipPoints": {
+		"english": "Relationship points:",
+		"german": "Beziehungspunkte:",
+	},
+	"pointsMaximumAcronym": {
+		"english": "max",
+		"german": "max",
+	},
+	"neutralRelations": {
+		"english": "Neutral relations",
+		"german": "Neutrale Beziehungen",
+	},
+	"truceWithTime": {
+		"english": "Truce (%seconds% s)",
+		"german": "Waffenstillstand (%seconds% s)",
+	},
+	"willAttackOnSight": {
+		"english": "Will attack on sight",
+		"german": "Greift an wenn in Sichtweite",
+	},
+	"strainedRelations": {
+		"english": "Strained relations",
+		"german": "Angespannte Beziehungen",
+	},
+	"friendlyRelations": {
+		"english": "Friendly relations",
+		"german": "Freundliche Beziehungen",
+	},
+	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
+		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
+		"german": "Freundlich wenn Beziehungen über %friendlyLimit%.\nGreift Kolonisten in Sichtweite an wenn Beziehungen unter %attackingLimit%.",
+	},
+
+
+
 	"mood": {
 		"english": "Mood",
 		"german": "Stimmung",

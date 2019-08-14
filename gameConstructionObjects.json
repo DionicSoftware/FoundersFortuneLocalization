@@ -5,7 +5,7 @@
 
 	"woodWall": {
 		"english": "Simple Wooden Wall",
-		"dutch":  "Eenvoudige houten muur",
+		"dutch":  "Eenvoudige Houten Muur",
 		"german": "Einfache Holzwand",
 		"french": "Simple Mur en Bois",
 		"spanish": "Pared simple de madera",
@@ -32,6 +32,7 @@
 	"clayWall": {
 		"english": "Cob Wall",
 		"german": "Lehmwand",
+		"dutch": "Kleimuur",
 		"french": "Mur en Terre",
 		"spanish": "Pared de adobe",
 		"russian": "Глинобитная стена",
@@ -45,6 +46,7 @@
 		"german": "Zwar ist diese Lehmwand wohl nicht sehr stabil, doch zumindest werden für ihren Bau nicht viele Ressourcen benötigt.",
 		"french": "Ce mur en terre n'est peut-être pas si solide que ça, mais il ne nécessite pas beaucoup de ressources.",
 		"spanish": "Esta pared de adobe puede que no sea tan robusta, pero no se necesitan muchos recursos para construirla.",
+		"dutch": "Deze kleimuur is misschien niet heel robuust maar hij is heel goedkoop.",
 		"russian": "Эта глинобитная стена может и не такая уж и крепкая, однако нужно много ресурсов для ее построения.",
 		"portuguese": "Esta parede de espiga pode não ser tão robusta, mas não é preciso ter muitos recursos para construí-la.",
 		"turkish": "Bu kerpiç duvar o kadar sağlam olmayabilir ama onu inşa etmek için çok fazla kaynak da gerekmez.",
@@ -53,7 +55,7 @@
 	},
 	"cleanWoodWallCross": {
 		"english": "Clean Wooden Wall (horizontal)",
-		"dutch":  "Schone houten muur (horizontal)",
+		"dutch":  "Schone Houten Muur (horizontaal)",
 		"german": "Ordentliche Bretterwand (horizontal)",
 		"french": "Mur en Bois (horizontal)",
 		"spanish": "Pared de tablones de madera (horizontal)",
@@ -79,7 +81,7 @@
 	},
 	"cleanWoodWallUp": {
 		"english": "Clean Wooden Wall (vertical)",
-		"dutch":  "Schone houten muur (vertical)",
+		"dutch":  "Schone Houten Muur (verticaal)",
 		"german": "Ordentliche Bretterwand (vertikal)",
 		"french": "Mur en Bois (vertical)",
 		"spanish": "Pared de tablones de madera (vertical)",
@@ -105,7 +107,7 @@
 	},
 	"roughWoodWall": {
 		"english": "Natural Wooden Wall",
-		"dutch":  "Natuurlijk houten muur",
+		"dutch":  "Natuurlijke Houten Muur",
 		"german": "Naturbelassene Holzwand",
 		"french": "Mur en Bois Naturel",
 		"spanish": "Muro de madera natural",
@@ -131,7 +133,7 @@
 	},
 	"woodWallOverlap": {
 		"english": "Overlapping Wooden Wall",
-		"dutch":  "Overlapping houten muur",
+		"dutch":  "Overlappende Houten Muur",
 		"german": "Überlappende Holzwand",
 		"french": "Mur en Bois Superposé",
 		"spanish": "Muro solapante de madera",
@@ -183,7 +185,7 @@
 	},
 	"fachwerk1Wall": {
 		"english": "Fachwerk Wall",
-		"dutch":  "Fachwerk muur",
+		"dutch":  "Fachwerk Muur",
 		"german": "Fachwerkwand",
 		"french": "Mur à Colombages",
 		"spanish": "Pared entramada",
@@ -209,7 +211,7 @@
 	},
 	"fachwerk2Wall": {
 		"english": "Fachwerk Wall",
-		"dutch":  "Fachwerk muur",
+		"dutch":  "Fachwerk Muur",
 		"german": "Fachwerkwand",
 		"french": "Mur à Colombages",
 		"spanish": "Pared entramada",
@@ -235,7 +237,7 @@
 	},
 	"fachwerk3Wall": {
 		"english": "Fachwerk Wall",
-		"dutch":  "Fachwerk muur",
+		"dutch":  "Fachwerk Muur",
 		"german": "Fachwerkwand",
 		"french": "Mur à Colombages",
 		"spanish": "Pared entramada",
@@ -261,7 +263,7 @@
 	},
 	"stoneWall": {
 		"english": "Simple Stone Wall",
-		"dutch":  "Eenvoudige stene muur",
+		"dutch":  "Eenvoudige Stenen Muur",
 		"english": "Simple Stone Wall",
 		"german": "Einfache Steinwand",
 		"french": "Simple Mur en Pierre",
@@ -288,7 +290,7 @@
 	},
 	"stoneWallCleanBricks": {
 		"english": "Smooth Stone Brick Wall",
-		"dutch":  "Glade stenen muur",
+		"dutch":  "Glade Stenen Muur",
 		"german": "Glatte Steinmauer",
 		"french": "Mur de Brique en Pierre Lisse",
 		"spanish": "Muro de ladrillo de piedra",
@@ -314,7 +316,7 @@
 	},
 	"stoneWallCleanTile": {
 		"english": "Stone Tiles Wall",
-		"dutch":  "stenen tegelmuur",
+		"dutch":  "Stenen Tegelmuur",
 		"german": "Steinfliesenmauer",
 		"french": "Mur de Tuiles en Pierre",
 		"spanish": "Pared de baldosas de piedra",
@@ -341,7 +343,7 @@
 
 	"fenceWoodSimple": {
 		"english": "Simple Wood Fence",
-		"dutch":  "eenvoudige houten hek",
+		"dutch":  "Eenvoudig Houten Hek",
 		"german": "Einfacher Holzzaun",
 		"french": "Simple Clôture en Bois",
 		"spanish": "Valla simple de madera",
@@ -367,7 +369,7 @@
 	},
 	"fenceWoodLogLeather": {
 		"english": "Round Wood Fence",
-		"dutch":  "Ronde houten hek",
+		"dutch":  "Rond Houten Hek",
 		"german": "Runder Holzzaun",
 		"french": "Clôture Ronde en Bois",
 		"spanish": "Valla redonda de madera",
@@ -396,7 +398,7 @@
 //**************
 	"palisade": {
 		"english": "Palisade",
-		"dutch":  "Palisade",
+		"dutch":  "Palissade",
 		"german": "Palisade",
 		"french": "Palissade",
 		"spanish": "Empalizada",
@@ -420,7 +422,7 @@
 	},
 	"woodWallDefense0": {
 		"english": "Log Fortification",
-		"dutch":  "blokhout versterking",
+		"dutch":  "Boomstam Versterking",
 		"german": "Baumstammbefestigung",
 		"french": "Fortificaton en Rondins",
 		"spanish": "Fortificación de Troncos",
@@ -432,7 +434,7 @@
 	},
 	"woodWallDefense0Description": {
 		"english": "This log fortification makes your colony a much safer space!",
-		"dutch":  "Dit blokhout versterking maakt uw kolonie een veel veiligere ruimte!",
+		"dutch":  "Deze boomstam versterking maakt uw kolonie een veel veiligere ruimte!",
 		"german": "Diese Baumstammbefestigung macht deine Kolonie zu einem wohl behüteten Ort. ",
 		"french": "Cette fortification en rondins fait de votre colonie un espace beaucoup plus sûr !",
 		"spanish": "¡Esta fortificación de troncos hace que tu colonia sea un espacio mucho más seguro!",
@@ -444,7 +446,7 @@
 	},
 	"stoneWallDefense0": {
 		"english": "Fort Fortification",
-		"dutch":  "Fort versterking",
+		"dutch":  "Fort Versterking",
 		"german": "Fortbefestigung",
 		"french": "Fortification en Pierre",
 		"spanish": "Fortificación Fuerte",
@@ -468,7 +470,7 @@
 	},
 	"stoneWallDefense1": {
 		"english": "Brick Fortification",
-		"dutch":  "Stenen versterking",
+		"dutch":  "Stenen Versterking",
 		"german": "Baumstammbefestigung",
 		"french": "Fortification en Briques",
 		"spanish": "Fortificación de Ladrillos",
@@ -496,7 +498,7 @@
 
 	"woodFloor": {
 		"english": "Simple Wooden Floor",
-		"dutch": "Eenvoudige houten vloer",
+		"dutch": "Eenvoudige Houten Vloer",
 		"german": "Einfacher Holzboden",
 		"french": "Simple Plancher",
 		"spanish": "Piso Simple de Madera",
@@ -523,6 +525,7 @@
 	"strawFloor": {
 		"english": "Straw Floor",
 		"german": "Strohboden",
+		"dutch": "Stro Vloer",
 		"french": "Plancher de Paille",
 		"spanish": "Piso de Paja",
 		"russian": "Соломенный пол",
@@ -537,14 +540,16 @@
 		"french": "Il n'est pas nécessaire de toujours avoir un sol sophistiqué. Un peu de paille ici et là fera l'affaire.",
 		"spanish": "No tiene que ser un piso sofisticado siempre. Un poco de paja aquí y allá también funcionará",
 		"russian": "Это далеко не самый утонченный в плане дизайна пол. Но почему бы и нет?",
+		"dutch": "Het hoeft niet altijd een bijzondere vloer te zijn. Een beetje stro hier en daar werkt ook.",
 		"portuguese": "Não precisa ser um andar sofisticado o tempo todo. Um pouco de palha aqui e ali vai fazer o truque também.",
 		"turkish": "Her zaman sofistike bir zemin olmak zorunda değil. Bir miktar samanla da iş görebilirsiniz.",
 		"ukrainian":"Це далеко не самий витончений в плані дизайну підлога. Але чому б і ні?",
+		
 		// "korean": "--",
 	},
 	"cleanWoodFloor": {
 		"english": "Neat Wooden Floor",
-		"dutch":  "Propere houten vloer",
+		"dutch":  "Propere Houten Vloer",
 		"german": "Ordentlicher Holzboden",
 		"french": "Plancher Élégant",
 		"spanish": "Piso de Madera en condiciones",
@@ -570,7 +575,7 @@
 	},
 	"medievalWoodFloor": {
 		"english": "Medieval Wooden Floor",
-		"dutch":  "Middeleeuws houten vloer",
+		"dutch":  "Middeleeuwse Houten Vloer",
 		"german": "Mittelalterlicher Holzboden",
 		"french": "Plancher Médiéval",
 		"spanish": "Piso de Madera Medieval",

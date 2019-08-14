@@ -110,7 +110,7 @@
 	},
 	"notificationTitle_ColonistTerribleMood": {
 		"english": "Desparation",
-		"dutch":  "wanhoop",
+		"dutch":  "Wanhoop",
 		"german": "Hoffnungslosigkeit",
 		"french": "Désespoir",
 		"spanish": "Desesperación",
@@ -136,7 +136,7 @@
 	},
 	"notificationTitle_Fight": { // when a colonist or colony construction or furniture is attacked
 		"english": "Fighting",
-		"dutch":  "vechten",
+		"dutch":  "Gevecht",
 		"german": "Kampf ausgebrochen",
 		// TODO-bulgarian
 		// TODO-russian
@@ -204,11 +204,11 @@
 	},
 	"notificationTitle_HungryNoFoodContainer": {
 		"english": "Missing Food Storage",
-		"duch":  "Ontbrekende voedselopslag",
 		"german": "Fehlendes Lager für Essen",
 		"french": "Stockage de nourriture manquant",
 		"spanish": "Falta de stock para la comida",
 		"portuguese": "Armazenamento de alimentos perdidos",
+		"dutch": "Voedselopslag Onbreekt",
 		"turkish": "Gıda Deposu eksik",
 		"bulgarian": "Липсва Шкаф за Храна", 
 		"russian": "Отсутствует хранилище еды",
@@ -243,7 +243,7 @@
 	},
 	"notificationTitle_ColonistJoined": {
 		"english": "Colonist joined",
-		"dutch":  "kolonist sloot zich aan",
+		"dutch":  "Kolonist sloot zich aan",
 		"german": "Kolonist beigetreten",
 		"french": "Un colon a rejoint la colonie",
 		"spanish": "Un colono se ha unido",
@@ -295,7 +295,7 @@
 	},
 	"notificationTitle_LastDayOfSeason": {
 		"english": "It is the last day of %season%.",
-		"dutch":  "Het is de laatste dag of %season%",
+		"dutch":  "Het is de laatste dag van de %season%",
 		"german": "Letzter Tag des %season%s.",
 		"french": "C'est le dernier jour de %season%.",
 		"spanish": "Es el último día de %season%.",
@@ -321,7 +321,7 @@
 	},
 	"notificationTitle_BugInfestationOver": { // means that the bug infestation is done, it's finished, it's no longer active
 		"english": "Bug infestation over",
-		"dutch":  "Bugplaag voorbij",
+		"dutch":  "Insecten plaag voorbij",
 		"german": "Käferbefall vorbei",
 		"french": "Infestation d'insectes terminée",
 		//TODO-bulgarian
@@ -374,7 +374,7 @@
 	},
 	"notificationTitle_NeedToSelectResearch": {
 		"english": "Need to select Research",
-		"dutch":  "Moet Onderzoek selecteren",
+		"dutch":  "Moet onderzoek selecteren",
 		"german": "Forschung auswählen",
 		"french": "Besoin de sélectionner une recherche",
 		"spanish": "Necesita seleccionar investigación",
@@ -387,7 +387,7 @@
 	},
 	"notificationTitle_NeedCrystals": {
 		"english": "Need Crystals for Research",
-		"dutch":  "Kristals nodig voor onderzoek",
+		"dutch":  "Kristallen nodig voor onderzoek",
 		"german": "Brauche Kristalle für Forschung",
 		"french": "Besoin de cristaux pour la recherche",
 		"spanish": "Necesita cristales para la investigación",
@@ -422,7 +422,7 @@
 //	},
 	"notificationTitle_LegHurt": {
 		"english": "%firstName% hurt %hisHer% Leg",
-		"dutch":  "%firstName% Heeft pijn in %zijnHaar leg",
+		"dutch":  "%firstName% heeft pijn aan %zijnHaar% been",
 		"german": "%firstName% hat %seinIhr% Bein verletzt",
 		"french": "%firstName% s'est bléssé%e% à la jambe",
 		"spanish": "%firstName% se lastimó una pierna",
@@ -470,7 +470,7 @@
 	},
 	"notificationTitle_AutosaveComplete": {
 		"english": "Autosave complete",
-		"dutch":  "automatisch opslaan voltooid",
+		"dutch":  "Automatisch opslaan voltooid",
 		"german": "Automatisch gespeichert",
 		"french": "Sauvegarde automatique terminée",
 		"spanish": "Autoguardado completo",
@@ -482,7 +482,7 @@
 	},
 	"notificationTitle_Party": {
 		"english": "Party!    %timeLeft%",
-		"dutch":  "feest!    %timeleft%",
+		"dutch":  "Feest!    %timeleft%",
 		"german": "Party!    %timeLeft%",
 		"french": "Fête !    %timeLeft%",
 		"spanish": "¡Fiesta!    %timeLeft%",
@@ -535,7 +535,7 @@
 	},
 	"wishDenied": {
 		"english": "Wish denied",
-		"dutch":  "Wens onzegt",
+		"dutch":  "Wens afgewezen",
 		"german": "Wunsch abgelehnt",
 		"french": "Vœu refusé",
 		"spanish": "Deseo negado",
@@ -574,7 +574,7 @@
 	},
 	"legSplintSuccessful": {
 		"english": "Leg Splint\nSuccessful",
-		"dutch":  "Been spalk\nGelukt",
+		"dutch":  "Been Spalk\nGelukt",
 		"german": "Beinschienen\nerfolgreich",
 		"spanish": "Entablado de pierna\nExitoso",
 		"french": "Attelle à la jambe\nSuccès",
@@ -586,7 +586,7 @@
 	},
 	"legSplintFailed": {
 		"english": "Leg Splint\nFailed",
-		"dutch":  "Been spalk\nMislukt",
+		"dutch":  "Been Spalk\nMislukt",
 		"german": "Beinschienen\nfehlgeschlagen",
 		"spanish": "Entablado de pierna\nFallido",
 		"french": "Attelle à la jambe\nÉchec",
@@ -598,7 +598,7 @@
 	},
 	"armSplintSuccessful": {
 		"english": "Arm Splint\nSuccessful",
-		"dutch":  "Arm spalk\nGelukt",
+		"dutch":  "Arm Spalk\nGelukt",
 		"german": "Armschienen\nerfolgreich",
 		"spanish": "Entablado de brazo\nExitoso",
 		"french": "Attelle au Bras\nSuccès",
@@ -610,7 +610,7 @@
 	},
 	"armSplintFailed": {
 		"english": "Arm Splint\nFailed",
-		"dutch":  "Arm spalk\nMislukt",
+		"dutch":  "Arm Spalk\nMislukt",
 		"german": "Armschienen\nfehlgeschlagen",
 		"spanish": "Entablado de brazo\nFallido",
 		"french": "Attelle au Bras\nÉchec",
@@ -738,7 +738,7 @@
 	},
 	"messageTitle_BreakdownRefusingWork": {
 		"english": "Burnout!",
-		"dutch":  "burnout!",
+		"dutch":  "Burnout!",
 		"german": "Burnout!",
 		"french": "Burnout !",
 		"spanish": "¡Agotamiento!",
@@ -751,7 +751,7 @@
 	},
 	"messageText_BreakdownRefusingWork": {
 		"english": "A colonist has worked too much under terrible conditions. %cap-heShe% has decided %heShe% just doesn't care anymore and is going to relax for a while.",
-		"dutch":  "Een kolonist heeft te veel gewerkt onder vreselijke omstandigheden. %cap-heShe% heeft besloten% heShe% maakt het gewoon niet meer uit en gaat een tijdje ontspannen.",
+		"dutch":  "Een kolonist heeft te veel gewerkt onder vreselijke omstandigheden. %cap-heShe% heeft besloten, het maakt %heShe% gewoon niet meer uit en %heShe% gaat een tijdje ontspannen.",
 		"german": "Ein Kolonist hat zu lange unter entsetzlichen Bedingungen gearbeitet. Jetzt reicht es %ihmIhr% und %erSie% hat entschieden mit der Arbeit aufzuhören und sich erst mal zu entspannen",
 		"french": "Un colon a trop travaillé dans des conditions épouvantables. %cap-ilElle% a décidé qu'%ilElle% n'avait pas pris assez soin %deluiD'elle% et %ilElle% va se relaxer un peu.",
 		//TODO-bulgarian

@@ -4,8 +4,8 @@ This is korean glossary for korean translator.
 한국어 번역자를 위한 단어집입니다. 단어가 햇갈리거나 명확하지 않을 때는 이 곳을 참고해주세요. 토론이 필요하다면 [여기](https://github.com/FourwingsY/FoundersFortuneLocalization-ko/issues)에 이슈 달아주세요 :) 
 
 ## 마을 관련
-- colony / colonist : 식민지로 번역하긴 뭐하니, 개척지 -> "정착지" / 개척자. 
-- settler / founder: 똑같이 개척자로 번역할 생각.
+- colony / colonist : 식민지로 번역하긴 뭐하니, "정착지" / 개척자. 
+- settler / founder: 웬만하면 똑같이 개척자로 번역할 생각. 몇 가지 경우에만 정착민.
 - base : 마을
 - migrant : 이주자
 - party: 축제
@@ -57,6 +57,7 @@ This is korean glossary for korean translator.
 - Dresser / Shelf / Wardrobe / Chest: 서랍장, 선반, 옷장, 상자
 - Pot plant in ~: ~에 심은 식물. 
 - Table: 탁자 보다는 식탁. 게임 속 용도는 거의 식탁임.
+- Book stand / scroll stand: 아이템의 생김새를 보아 "독서대", "스크롤 서가"
 
 ### 건축
 - Bonfire : 화톳불. 봉화..보다는 화톳불이 낫겠지.

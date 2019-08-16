@@ -103,6 +103,10 @@
 		"english": "We would like to offer you a present.",
 		"german": "",
 	},
+	"offerPresentText": {
+		"english": "A happy surprise! What is it?",
+		"german": "",
+	},
 	"smallPresent": {
 		"english": "Small Present",
 		"german": "",
@@ -154,8 +158,20 @@
 		"english": "Give us %amount% %resource%",
 		"german": "",
 	},
+	"tributeSelectionDemand": {
+		"english": "Please give use these items.",
+		"german": "",
+	},
 	"tributeSelectionJustKidding": {
-		"english": "JustKidding",
+		"english": "Just Kidding.",
+		"german": "",
+	},
+	"tributeSelectionNothingValuableSelected": {
+		"english": "Nothing of value selected",
+		"german": "",
+	},
+	"tributeSelectionAcceptanceProbability": {
+		"english": "Probability of them accepting the tribute: %probability% percent",
 		"german": "",
 	},
 	"tributeAcceptedBecauseFriendship": {
@@ -164,6 +180,10 @@
 	},
 	"tributeAcceptedBecauseScared": {
 		"english": "It's despicable that you bully others to get your way, but we don't have a choice. This is what we can offer you:",
+		"german": "",
+	},
+	"tributeAcceptedBecauseTinyTribute": {
+		"english": "What? I thought you wanted something valuable. We can help you out a little:",
 		"german": "",
 	},
 	"tributeAcceptedThanksForCooperation": {

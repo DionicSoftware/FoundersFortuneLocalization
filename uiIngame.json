@@ -66,56 +66,67 @@
 		"english": "Diplomacy",
 		"german": "Diplomatie",
 		"portuguese": "Diplomacia",
+		"russian": "Дипломатия",
 	},
 	"showOnMap": {
 		"english": "Show Location",
 		"german": "Ort zeigen",
 		"portuguese": "mostrar a localização",
+		"russian": "Показать местоположение",
 	},
 	"contactFaction": {
 		"english": "Contact",
 		"german": "Kontaktieren",
 		"portuguese": "Contato",
+		"russian": "Связаться",
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
 		"german": "Beziehungspunkte:",
 		"portuguese": "Pontos de relacionamento:",
+		"russian": "Баллы отношений:",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
 		"german": "max",
 		"portuguese": "max",
+		"russian": "макс.",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
 		"german": "Neutrale Beziehungen",
 		"portuguese": "Relações neutras",
+		"russian": "Нейтральные отношения",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
 		"german": "Waffenstillstand (%seconds% s)",
 		"portuguese": "Trégua (%seconds% s)",
+		"russian": "Перемирие (%seconds% сек.)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
 		"german": "Greift an wenn in Sichtweite",
 		"portuguese": "Vai atacar à vista",
+		"russian": "Будут атаковать на месте",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
 		"german": "Angespannte Beziehungen",
 		"portuguese": "Relações tensas",
+		"russian": "Напряженные отношения",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
 		"german": "Freundliche Beziehungen",
 		"portuguese": "Relações amistosas",
+		"russian": "Дружеские отношения",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
 		"german": "Freundlich wenn Beziehungen über %friendlyLimit%.\nGreift Kolonisten in Sichtweite an wenn Beziehungen unter %attackingLimit%.",
 		"portuguese": "Amigável se as relações sobre %friendlyLimit%.\nAtaques à vista se as relações estiverem abaixo de %attackingLimit%.",
+		"russian": "Дружеские, если отношения выше %friendlyLimit%.\nАтакуют на месте, если отношение ниже %attackingLimit%.",
 	},
 
 
@@ -1338,6 +1349,7 @@
 		"english": "Rugs",
 		"german": "Teppiche",
 		"portuguese": "Tapetes",
+		"russian": "Ковры",
 	},
 	"floors": {
 		"english": "Floors",
@@ -2067,6 +2079,7 @@
 		"english": "Trading with '%faction%'",
 		"german": "Handel mit '%faction%'",
 		"portuguese": "Negociação com '%faction%'",
+		"russian": "Торговля с '%faction%'",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",

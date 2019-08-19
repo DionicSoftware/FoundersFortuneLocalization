@@ -1,4 +1,4 @@
-﻿{
+{
 	"research": {
 		"english": "Research",
 		"german": "Forschung",
@@ -65,46 +65,57 @@
 	"diplomacy": {
 		"english": "Diplomacy",
 		"german": "Diplomatie",
+		"portuguese": "Diplomacia",
 	},
 	"showOnMap": {
 		"english": "Show Location",
 		"german": "Ort zeigen",
+		"portuguese": "mostrar a localização",
 	},
 	"contactFaction": {
 		"english": "Contact",
 		"german": "Kontaktieren",
+		"portuguese": "Contato",
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
 		"german": "Beziehungspunkte:",
+		"portuguese": "Pontos de relacionamento:",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
 		"german": "max",
+		"portuguese": "max",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
 		"german": "Neutrale Beziehungen",
+		"portuguese": "Relações neutras",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
 		"german": "Waffenstillstand (%seconds% s)",
+		"portuguese": "Trégua (%seconds% s)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
 		"german": "Greift an wenn in Sichtweite",
+		"portuguese": "Vai atacar à vista",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
 		"german": "Angespannte Beziehungen",
+		"portuguese": "Relações tensas",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
 		"german": "Freundliche Beziehungen",
+		"portuguese": "Relações amistosas",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
 		"german": "Freundlich wenn Beziehungen über %friendlyLimit%.\nGreift Kolonisten in Sichtweite an wenn Beziehungen unter %attackingLimit%.",
+		"portuguese": "Amigável se as relações sobre %friendlyLimit%.\nAtaques à vista se as relações estiverem abaixo de %attackingLimit%.",
 	},
 
 
@@ -2483,7 +2494,6 @@
 		"french": "Caméra libre",
 		"spanish": "Cámara libre",
 		"russian": "Пользовательская камера",
-		"ukrainian":"Користувацька камера",
 		"portuguese": "câmera de vôo livre",
 		"dutch": "Vrijvliegende Camera",
 		"chinese": "自由镜头",

@@ -53,6 +53,14 @@
 		"ukrainian": "Незважаючи на те, що меч виготовлений з каменю, він цілком гострий і вселяє страх.",
 		"korean": "돌로 만들어졌지만, 날이 서 있어서 위험합니다.",
 	},
+	"equipmentName_swordIronTraderGuard": {
+		"english": "Trader Guards' Sword",
+		"german": "Schwert der Händlergarde",
+	},
+	"equipmentDescription_swordIronTraderGuard": {
+		"english": "\"As a member of the Trader Guard, it is your highest duty to secure the mechandise and to keep your sword clean at all times!\" (Faustus, Jonathan. What it means to be a member of the Trader Guard, Quarkenstein, 1247, p. 2.)",
+		"german": "\"Als ein Mitglied der Händlergarde, ist es Eure höchste Pflicht die Handelsware zu beschützen und Euer Schwert stets sauber zu halten!\" (Faustus, Jonathan: Was es bedeutet ein Mitglied der Händlergarde zu sein, Quarkenstein 1247, S. 2.",
+	},
 	"equipmentName_swordIron": {
 		"english": "Iron Sword",
 		"dutch":  "Ijzeren Zwaard",
@@ -413,59 +421,6 @@
 // Armors
 //*******
 
-	"equipmentName_armorGambeson": {
-		"english": "Gambeson",
-		"dutch":  "Gambeson",
-		"german": "Gambeson",
-		"french": "Gambeson",
-		"spanish": "Gambesón",
-		"russian": "Гамбезон",
-		"portuguese": "Gambeson",
-		"ukrainian": "Гамбезон",
-		"polish": "Przeszywanica",
-		"turkish": "Pamuklu zırh",
-		"korean": "천갑옷",
-	},
-	"equipmentDescription_armorGambeson": {
-		"english": "The basic equipment of every wannabe warrior.",
-		"dutch":  "De basis uitrusting van elke wannabe krijger.",
-		"german": "Die Basisausrüstung für jeden Möchtegern-Krieger.",
-		"french": "L'équipement de base pour chaque guerrier qui veut devenir célèbre.",
-		"spanish": "El equipo básico de cualquier aspirante a guerrero.",
-		"russian": "Базовое снаряжение для воинов.",
-		"portuguese": "O equipamento básico de todo guerreiro aspirante.",
-		"ukrainian": "Базовое снаряжение для воїнів.",
-		"polish": "Podstawowa zbroja dla każdego początkującego wojownika",
-		"turkish": "Yeni yetme savaşçıların temel ekipmanı.",
-		"korean": "전사가 되고싶은 자들의 기본 장비입니다.",
-	},
-
-	"equipmentName_armorSimplePlate": {
-		"english": "Simple Plate Armor",
-		"dutch":  "Eenvoudige Platen Harnas",
-		"german": "Einfache Plattenrüstung",
-		"french": "Armure de Plates Simple",
-		"spanish": "Armadura de Placas Simple",
-		"russian": "Простая латная броня",
-		"portuguese": "Armadura de Placa Simples",
-		"ukrainian": "Латна броня",
-		"polish": "Prosta zbroja płytowa",
-		"turkish": "Basit Plaka Zırhı",
-		"korean": "단순한 플레이트 아머",
-	},
-	"equipmentDescription_armorSimplePlate": {
-		"english": "Focusing on the essentials, this armor suits part time soldiers just fine.",
-		"dutch":  "Focussen op de essentials, Dit harnas fit de deeltijds krijgers prima.",
-		"german": "Beschränkt sich auf das Wesentliche. Eine Rüstung für wahre Teilzeitsoldaten.",
-		"french": "En se concentrant sur l'essentiel, cette armure convient bien pour les soldats à temps partiel.",
-		"spanish": "Centrándose en lo esencial, esta armadura se adapta bien a los soldados de tiempo parcial.",
-		"russian": "Ориентируясь на нужды, эта броня отлично подойдет солдатам, занятым неполный рабочий день.",
-		"portuguese": "Concentrando-se no essencial, esta armadura combina com soldados a tempo parcial.",
-		"ukrainian": "Орієнтуючись на потреби, ця броня відмінно підійде солдатам, зайнятим неповний робочий день.",
-		"polish": "Skupmy się na podstawach, ta zbroja nadaje się dla żołnierzy na pół etatu.",
-		"turkish": "Temellere odaklanarak, bu zırh yarı zamanlı askere çok uygun gider.",
-		"korean": "필수적인 것에만 집중했습니다. 일용직 군인에게는 적절합니다.",
-	},
 	"equipmentName_armorIron": {
 		"english": "Iron Armor",
 		"dutch":  "Ijzerem Harnas",
@@ -494,6 +449,88 @@
 		"ukrainian": "Довго виготовляється, зате добре захищає власника.",
 		"korean": "만드는데 오래 걸리지만, 착용자를 충분히 보호합니다.",
 	},
+	"equipmentName_armorTraderGuard": {
+		"english": "Trader Guard Armor",
+		"german": "Rüstung der Händlergarde",
+		
+	},
+	"equipmentDescription_armorTraderGuard": {
+		"english": "The standard armor of the trader guard. Offers great protection without restricting one's agility.",
+		"german": "Die Standardausrüstung der Händlergarde. Bietet guten Schutz ohne die Beweglichkeit zu sehr einzuschränken.",	
+	},
+	"equipmentName_armorTikiHeavy": {
+		"english": "Tiki Turtle Armor",
+		"german": "Tiki Schildkrötenrüstung",
+		
+	},
+	"equipmentDescription_armorTikiHeavy": {
+		"english": "Noone has ever seen these giant turtles whose shells are used to make this heavy armor. Only the Tikigoblins seem to know the secret of their whereabouts.",
+		"german": "Die Riesenschildkröten aus denen diese schwere Rüstung gefertigt wurde hat bisher noch niemand zu Gesicht bekommen. Einzig die Tikigoblins scheinen das Geheimnis ihres Aufenhaltsortes zu kennen.",	
+	},
+		"equipmentName_armorSimplePlate": {
+		"english": "Simple Plate Armor",
+		"dutch":  "Eenvoudige Platen Harnas",
+		"german": "Einfache Plattenrüstung",
+		"french": "Armure de Plates Simple",
+		"spanish": "Armadura de Placas Simple",
+		"russian": "Простая латная броня",
+		"portuguese": "Armadura de Placa Simples",
+		"ukrainian": "Латна броня",
+		"polish": "Prosta zbroja płytowa",
+		"turkish": "Basit Plaka Zırhı",
+		"korean": "단순한 플레이트 아머",
+	},
+	"equipmentDescription_armorSimplePlate": {
+		"english": "Focusing on the essentials, this armor suits part time soldiers just fine.",
+		"dutch":  "Focussen op de essentials, Dit harnas fit de deeltijds krijgers prima.",
+		"german": "Beschränkt sich auf das Wesentliche. Eine Rüstung für wahre Teilzeitsoldaten.",
+		"french": "En se concentrant sur l'essentiel, cette armure convient bien pour les soldats à temps partiel.",
+		"spanish": "Centrándose en lo esencial, esta armadura se adapta bien a los soldados de tiempo parcial.",
+		"russian": "Ориентируясь на нужды, эта броня отлично подойдет солдатам, занятым неполный рабочий день.",
+		"portuguese": "Concentrando-se no essencial, esta armadura combina com soldados a tempo parcial.",
+		"ukrainian": "Орієнтуючись на потреби, ця броня відмінно підійде солдатам, зайнятим неповний робочий день.",
+		"polish": "Skupmy się na podstawach, ta zbroja nadaje się dla żołnierzy na pół etatu.",
+		"turkish": "Temellere odaklanarak, bu zırh yarı zamanlı askere çok uygun gider.",
+		"korean": "필수적인 것에만 집중했습니다. 일용직 군인에게는 적절합니다.",
+	},
+	"equipmentName_armorTikiMedium": {
+		"english": "Tiki Wood Armor",
+		"german": "Tiki Holzrüstung",
+		
+	},
+	"equipmentDescription_armorTikiMedium": {
+		"english": "While this wooden armor makes rattling noises, it is very light and offers acceptable protection.",
+		"german": "Zwar klappert diese Holzrüstung etwas beim gehen, doch ist sie leicht und bietet akzeptablen Schutz.",	
+	},
+	"equipmentName_armorGambeson": {
+		"english": "Gambeson",
+		"dutch":  "Gambeson",
+		"german": "Gambeson",
+		"french": "Gambeson",
+		"spanish": "Gambesón",
+		"russian": "Гамбезон",
+		"portuguese": "Gambeson",
+		"ukrainian": "Гамбезон",
+		"polish": "Przeszywanica",
+		"turkish": "Pamuklu zırh",
+		"korean": "천갑옷",
+	},
+	"equipmentDescription_armorGambeson": {
+		"english": "The basic equipment of every wannabe warrior.",
+		"dutch":  "De basis uitrusting van elke wannabe krijger.",
+		"german": "Die Basisausrüstung für jeden Möchtegern-Krieger.",
+		"french": "L'équipement de base pour chaque guerrier qui veut devenir célèbre.",
+		"spanish": "El equipo básico de cualquier aspirante a guerrero.",
+		"russian": "Базовое снаряжение для воинов.",
+		"portuguese": "O equipamento básico de todo guerreiro aspirante.",
+		"ukrainian": "Базовое снаряжение для воїнів.",
+		"polish": "Podstawowa zbroja dla każdego początkującego wojownika",
+		"turkish": "Yeni yetme savaşçıların temel ekipmanı.",
+		"korean": "전사가 되고싶은 자들의 기본 장비입니다.",
+	},
+
+
+
 
 // Work Gear
 //**********

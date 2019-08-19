@@ -2,30 +2,37 @@
 	"greetings": {
 		"english": "Greetings. What brings you to us?",
 		"spanish": "Saludos ¿Qué te trae a nosotros?",
+		"portuguese": "Saudações. O que te traz para nós?",
 	},
 	"seeYouLater": { // default goodbye. Kind of nice, but still neutral
 		"english": "See you later.",
 		"spanish": "Nos vemos más tarde.",
+		"portuguese": "Até logo.",
 	},
 	"goodbye": { // goodbye to be used when relations are not nice anymore
 		"english": "Goodbye.",
 		"spanish": "Adiós.",
+		"portuguese": "Adeus",
 	},
 	"thanks": {
 		"english": "Thanks.",
 		"spanish": "Gracias.",
+		"portuguese": "Obrigado.",
 	},
 	"thanksALot": {
 		"english": "Thanks a lot!",
 		"spanish": "¡Muchas gracias!",
+		"portuguese": "Muito obrigado!",
 	},
 	"weUnderstand": {
 		"english": "We understand.",
 		"spanish": "Entendemos.",
+		"portuguese": "Nós entendemos.",
 	},
 	"nothingValuableSelected": {
 		"english": "Nothing of value selected.",
 		"spanish": "Nada de valor seleccionado",
+		"portuguese": "Nada de valor selecionado.",
 	},
 
 
@@ -33,26 +40,33 @@
 	"negotiateFreedomOfKidnappedColonist": {
 		"english": "I'd like to negotiate about freeing %firstName%.",
 		"spanish": "Me gustaría negociar la liberación de %firstName%.",
+		"portuguese": "Eu gostaria de negociar sobre a liberação de %firstName%.",
+
 	},
 	"kidnappedFreeingText": {
 		"english": "We're ready to release %firstName% if you make it worth our while.\n\nWe require you to give us %tribute% in exchange.",
 		"spanish": "Estamos litos para liberar a %firstName% si haces que valga la pena.\n\nExigimos que nos des %tribute% a cambio.",
+		"portuguese": "Estamos prontos para liberar a %firstName% se você fizer valer a pena. \n\nNós exigimos que você nos dê %tribute% em troca.",
 	},
 	"kidnappedFreeingAcceptButton": {
 		"english": "Fine, we'll pay.",
 		"spanish": "Está bien, pagaremos.",
+		"portuguese": "Tudo bem, nós vamos pagar.",
 	},
 	"kidnappedFreeingDenyButton": {
 		"english": "Actually, we can't afford it.",
 		"spanish": "En realidad, no podemos pagar eso.",
+		"portuguese": "Na verdade, não podemos permitir isso.",
 	},
 	"kidnappedFreeingAcceptedText": {
 		"english": "It's a deal. We freed %firstName% and will guarantee to not attack you for half a day, so you can come and get %himHer%.",
 		"spanish": "Es un trato. Liberamos a %firstName% y te garantizamos que no te atacaremos por medio día, para que puedas venir y llevártel%oA%.",
+		"portuguese": "É um acordo. Libertamos o %firstName% e garantimos não te atacar por meio dia, assim você pode vir e pegar %elEla%",
 	},
 	"kidnappedFreeingAcceptedAnswer": {
 		"english": "Thanks.",
 		"spanish": "Gracias.",
+		"portuguese": "Obrigado.",
 	},
 
 
@@ -60,30 +74,37 @@
 	"whenIsTraderNextPlanningToCome": {
 		"english": "When are you next planning to come by?",
 		"spanish": "¿Cuándo planean pasar por aquí?",
+		"portuguese": "Quando você está planejando vir?",
 	},
 	"traderArrivalAnyMoment": {
 		"english": "We're actually arriving any moment now!",
 		"spanish": "¡En realidad estamos llegando en cualquier momento!",
+		"portuguese": "Na verdade, estamos chegando a qualquer momento!",
 	},
 	"traderArrivalInDays": {
 		"english": "We're planning to visit your village in %days1% to %days2% days.",
 		"spanish": "Planeamos visitar tu aldea dentro de %days1% a %days2% días.",
+		"portuguese": "Estamos planejando visitar sua aldeia em %days1% a %days2% dias.",
 	},
 	"traderArrivalAskForFastArrival": {
 		"english": "Would you mind sailing here immediately?",
 		"spanish": "¿Les importaría navegar aquí de inmediato?",
+		"portuguese": "Você se importaria de navegar aqui imediatamente?",
 	},
 	"traderArrivalThanksForInfo": {
 		"english": "Thanks for the info.",
 		"spanish": "Gracias por la información",
+		"portuguese": "Obrigado pela informação.",
 	},
 	"traderArrivalFastAccepted": {
 		"english": "We will have to take a detour...\nIt really messes with our trading plans, but we'll make an exception for you.",
 		"spanish": "Tendremos que tomar un desvío...\nRealmente complica nuestros planes de comercio, pero haremos una excepción por ti.",
+		"portuguese": "Teremos que fazer um desvio ... \nIsso realmente atrapalha nossos planos de negociação, mas vamos abrir uma exceção para você.",
 	},
 	"traderArrivalFastDenied": {
 		"english": "Sorry, we can't afford to take a detour for you.",
 		"spanish": "Disculpa, pero no podemos permitirnos tomar un desvío por ti.",
+		"portuguese": "Desculpe, não podemos nos dar ao luxo de fazer um desvio para você.",
 	},
 
 
@@ -91,14 +112,17 @@
 	"askAboutTradingDiscount": {
 		"english": "Are you going to give us a trading discount?",
 		"spanish": "¿Nos van a dar un descuento al comerciar?",
+		"portuguese": "Você vai nos dar um desconto comercial?",
 	},
 	"tradingDiscountAcceptedText": {
 		"english": "We see you as a good friend of our people so we're trying to give you a %percent% percent discount.",
 		"spanish": "Te vemos como un buen amigo de nuestra gente, así que trataremos de darte un %percent% por ciento de descuento.",
+		"portuguese": "Nós vemos você como um bom amigo do nosso pessoal, então estamos tentando dar a você um desconto percentual de %percent%.",
 	},
 	"tradingDiscountDeniedText": {
 		"english": "Sorry, but you're not really a good friend of our people. We can't afford to give out discounts to everyone.",
 		"spanish": "Disculpa, pero realmente no eres un buen amigo de nuestra gente. No podemos permitirnos darle descuentos a todos.",
+		"portuguese": "Desculpe, mas você não é realmente um bom amigo do nosso povo. Não podemos dar descontos para todos.",
 	},
 
 
@@ -106,111 +130,143 @@
 	"offerPresent": {
 		"english": "We would like to offer you a present.",
 		"spanish": "Nos gustaría ofrecerte un presente.",
+		"portuguese": "Nós gostaríamos de lhe oferecer um presente.",
 	},
 	"offerPresentText": {
 		"english": "A happy surprise! What is it?",
 		"spanish": "¡Que alegre sorpresa! ¿Qué es?",
+		"portuguese": "Uma feliz surpresa! O que é isso?",
 	},
 	"offerPresentButton": {
 		"english": "Please take this as a gift.",
 		"spanish": "Por favor acepta esto como un regalo.",
+		"portuguese": "Por favor, tome isso como um presente.",
 	},
 	"presentOpinion": {
 		"english": "This is a %present%.",
 		"spanish": "Esto es un %present%.",
+		"portuguese": "Isto é um %present%.",
 	},
 	"smallPresent": {
 		"english": "small present",
-		
+		"portuguese": "pequeno presente",
 	},
 	"mediumPresent": {
 		"english": "medium present",
+		"portuguese": "medio presente",
 	},
 	"largePresent": {
 		"english": "large present",
+		"portuguese": "grande presente",
 	},
 	"offerPresentCancel": {
 		"english": "Actually, we can't afford it.",
+		"portuguese": "Na verdade, não podemos permitir isso.",
 	},
 	"acceptPresentsBadRelations": {
 		"english": "Fine, we'll take it.",
+		"portuguese": "Tudo bem, vamos levá-lo.",
 	},
 	"acceptPresentsNeutralRelations": {
 		"english": "Thank you. We accept your thoughtful present.",
+		"portuguese": "Obrigado. Nós aceitamos seu presente pensativo.",
 	},
 	"acceptPresentsGoodRelations": {
 		"english": "Thanks! You're a good friend of our people.",
+		"portuguese": "Obrigado! Você é um bom amigo do nosso povo.",
 	},
 	"acceptPresentsAnswer": {
 		"english": "You're welcome.",
+		"portuguese": "De nada.",
 	},
 
 
 
 	"demandTribute": {
 		"english": "We demand a tribute from you.",
+		"portuguese": "Exigimos um tributo de você.",
 	},
 	"tributeSelectionText": {
 		"english": "Really...?",
+		"portuguese": "Mesmo...?",
 	},
 	"tributeSelectionDemand": {
 		"english": "Please give use these items.",
+		"portuguese": "Por favor, nos dê esses itens.",
 	},
 	"tributeSelectionJustKidding": {
 		"english": "Just Kidding.",
+		"portuguese": "Só brincando.",
 	},
 	"tributeSelectionAcceptanceProbability": {
 		"english": "Probability of them accepting the tribute: %probability% percent",
+		"portuguese": "Probabilidade de aceitar a homenagem: %probability% por cento",
 	},
 	"tributeAcceptedBecauseFriendship": {
 		"english": "We decided to make an exception and give you our wares because we see you as a friend. We can offer these things to help you out:",
+		"portuguese": "Decidimos abrir uma exceção e dar-lhe nossos produtos porque nos vemos como um amigo. Podemos oferecer essas coisas para ajudá-lo:",
 	},
 	"tributeAcceptedBecauseScared": {
 		"english": "It's despicable that you bully others to get your way, but we don't have a choice. This is what we can offer you:",
+		"portuguese": "É desprezível que você intimide os outros a conseguir o que quer, mas não temos escolha. Isto é o que podemos oferecer a você:",
 	},
 	"tributeAcceptedBecauseTinyTribute": {
 		"english": "What? I thought you wanted something valuable. We can help you out a little:",
+		"portuguese": "O que? Eu pensei que você queria algo valioso. Nós podemos ajudá-lo um pouco:",
 	},
 	"tributeAcceptedThanksForCooperation": {
 		"english": "Thanks for your cooperation.",
+		"portuguese": "Obrigado pela sua colaboração.",
 	},
 	"tributeDeniedText": {
 		"english": "It's pathetic how you think you can just demand something like that.\n\nYou are not our friend and you can't scare us into submission with such a small village.\n\nThis conversation is over.",
+		"portuguese": "É patético como você acha que pode exigir algo assim. \n\nVocê não é nosso amigo e não pode nos assustar com uma aldeia tão pequena. \n\nEsta conversa acabou.",
 	},
 
 
 	
 	"goblinTributeTextBadRelations": {
 		"english": "It might be in your best interest to give us the following things:",
+		"portuguese": "Pode ser no seu melhor interesse para nos dar as seguintes coisas:",
 	},
 	"goblinTributeTextNeutralRelations": {
 		"english": "We need some materials and as a decent neighbor you should help us out here:",
+		"portuguese": "Precisamos de alguns materiais e, como um vizinho decente, você deve nos ajudar aqui:",
 	},
 	"goblinTributeTextGoodRelations": {
 		"english": "Dear friend, we're in need of some materials. Would you mind helping us out?",
+		"portuguese": "Caro amigo, precisamos de alguns materiais. Você se importaria de nos ajudar?",
 	},
 	"goblinTributeAcceptButton": {
 		"english": "Of course, there you go.",
+		"portuguese": "Claro, aí vai você.",
 	},
 	"goblinTributeDenyButton": {
 		"english": "I'm not going to pay your tribute!",
+		"portuguese": "Eu não vou pagar o seu tributo!",
 	},
 	"goblinTributeAcceptedBadRelations": {
 		"english": "You know what's good for you.",
+		"portuguese": "Você sabe o que é bom para você.",
 	},
 	"goblinTributeAcceptedNeutralRelations": {
 		"english": "Thanks for your help.",
+		"portuguese": "Obrigado pela ajuda.",
 	},
 	"goblinTributeAcceptedGoodRelations": {
 		"english": "Thanks! We're happy we can call you our friend.",
+		"portuguese": "Obrigado! Estamos felizes, podemos chamá-lo de nosso amigo.",
 	},
 	"goblinTributeDeniedBadRelations": {
 		"english": "You are going to regret this.",
+		"portuguese": "Você vai se arrepender disso.",
 	},
 	"goblinTributeDeniedNeutralRelations": {
 		"english": "We will remember your attitude.",
+		"portuguese": "Nós nos lembraremos de sua atitude.",
 	},
 	"goblinTributeDeniedGoodRelations": {
 		"english": "That's a bummer. Friends should stick together.",
+		"portuguese": "Isso é uma chatice. Os amigos devem ficar juntos.",
 	},
 }

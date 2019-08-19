@@ -1,244 +1,188 @@
 ﻿{
 	"greetings": {
 		"english": "Greetings. What brings you to us?",
-		"german": "",
 	},
 	"seeYouLater": { // default goodbye. Kind of nice, but still neutral
 		"english": "See you later.",
-		"german": "",
 	},
 	"goodbye": { // goodbye to be used when relations are not nice anymore
 		"english": "Goodbye.",
-		"german": "",
 	},
 	"thanks": {
 		"english": "Thanks.",
-		"german": "",
 	},
 	"thanksALot": {
 		"english": "Thanks a lot!",
-		"german": "",
 	},
 	"weUnderstand": {
 		"english": "We understand.",
-		"german": "",
+	},
+	"nothingValuableSelected": {
+		"english": "Nothing of value selected.",
 	},
 
 
 
 	"negotiateFreedomOfKidnappedColonist": {
 		"english": "I'd like to negotiate about freeing %firstName%.",
-		"german": "",
 	},
 	"kidnappedFreeingText": {
 		"english": "We're ready to release %firstName% if you make it worth our while.\n\nWe require you to give us %tribute% in exchange.",
-		"german": "",
 	},
 	"kidnappedFreeingAcceptButton": {
 		"english": "Fine, we'll pay.",
-		"german": "",
 	},
 	"kidnappedFreeingDenyButton": {
 		"english": "Actually, we can't afford it.",
-		"german": "",
 	},
 	"kidnappedFreeingAcceptedText": {
 		"english": "It's a deal. We freed %firstName% and will guarantee to not attack you for half a day, so you can come and get %himHer%.",
-		"german": "",
 	},
 	"kidnappedFreeingAcceptedAnswer": {
 		"english": "Thanks.",
-		"german": "",
 	},
 
 
 
 	"whenIsTraderNextPlanningToCome": {
 		"english": "When are you next planning to come by?",
-		"german": "",
 	},
 	"traderArrivalAnyMoment": {
 		"english": "We're actually arriving any moment now!",
-		"german": "",
 	},
 	"traderArrivalInDays": {
 		"english": "We're planning to visit your village in %days1% to %days2% days.",
-		"german": "",
 	},
 	"traderArrivalAskForFastArrival": {
 		"english": "Would you mind sailing here immediately?",
-		"german": "",
 	},
 	"traderArrivalThanksForInfo": {
 		"english": "Thanks for the info.",
-		"german": "",
 	},
 	"traderArrivalFastAccepted": {
 		"english": "We will have to take a detour...\nIt really messes with our trading plans, but we'll make an exception for you.",
-		"german": "",
 	},
 	"traderArrivalFastDenied": {
 		"english": "Sorry, we can't afford to take a detour for you.",
-		"german": "",
 	},
 
 
 
 	"askAboutTradingDiscount": {
 		"english": "Are you going to give us a trading discount?",
-		"german": "",
 	},
 	"tradingDiscountAcceptedText": {
 		"english": "We see you as a good friend of our people so we're trying to give you a %percent% percent discount.",
-		"german": "",
 	},
 	"tradingDiscountDeniedText": {
 		"english": "Sorry, but you're not really a good friend of our people. We can't afford to give out discounts to everyone.",
-		"german": "",
 	},
 
 
 
 	"offerPresent": {
 		"english": "We would like to offer you a present.",
-		"german": "",
 	},
 	"offerPresentText": {
 		"english": "A happy surprise! What is it?",
-		"german": "",
+	},
+	"offerPresentButton": {
+		"english": "Please take this as a gift.",
+	},
+	"presentOpinion": {
+		"english": "This is a %present%.",
 	},
 	"smallPresent": {
-		"english": "Small Present",
-		"german": "",
+		"english": "small present",
 	},
 	"mediumPresent": {
-		"english": "Medium Present",
-		"german": "",
+		"english": "medium present",
 	},
 	"largePresent": {
-		"english": "Large Present",
-		"german": "",
+		"english": "large present",
 	},
 	"offerPresentCancel": {
 		"english": "Actually, we can't afford it.",
-		"german": "",
 	},
 	"acceptPresentsBadRelations": {
 		"english": "Fine, we'll take it.",
-		"german": "",
 	},
 	"acceptPresentsNeutralRelations": {
 		"english": "Thank you. We accept your thoughtful present.",
-		"german": "",
 	},
 	"acceptPresentsGoodRelations": {
 		"english": "Thanks! You're a good friend of our people.",
-		"german": "",
 	},
 	"acceptPresentsAnswer": {
 		"english": "You're welcome.",
-		"german": "",
 	},
 
 
 
 	"demandTribute": {
 		"english": "We demand a tribute from you.",
-		"german": "",
 	},
 	"tributeSelectionText": {
 		"english": "Really...?",
-		"german": "",
-	},
-	"tributeSelectionGiveUsFood": {
-		"english": "Give us %amount% food",
-		"german": "",
-	},
-	"tributeSelectionGiveUs": {
-		"english": "Give us %amount% %resource%",
-		"german": "",
 	},
 	"tributeSelectionDemand": {
 		"english": "Please give use these items.",
-		"german": "",
 	},
 	"tributeSelectionJustKidding": {
 		"english": "Just Kidding.",
-		"german": "",
-	},
-	"tributeSelectionNothingValuableSelected": {
-		"english": "Nothing of value selected",
-		"german": "",
 	},
 	"tributeSelectionAcceptanceProbability": {
 		"english": "Probability of them accepting the tribute: %probability% percent",
-		"german": "",
 	},
 	"tributeAcceptedBecauseFriendship": {
 		"english": "We decided to make an exception and give you our wares because we see you as a friend. We can offer these things to help you out:",
-		"german": "",
 	},
 	"tributeAcceptedBecauseScared": {
 		"english": "It's despicable that you bully others to get your way, but we don't have a choice. This is what we can offer you:",
-		"german": "",
 	},
 	"tributeAcceptedBecauseTinyTribute": {
 		"english": "What? I thought you wanted something valuable. We can help you out a little:",
-		"german": "",
 	},
 	"tributeAcceptedThanksForCooperation": {
 		"english": "Thanks for your cooperation.",
-		"german": "",
 	},
 	"tributeDeniedText": {
 		"english": "It's pathetic how you think you can just demand something like that.\n\nYou are not our friend and you can't scare us into submission with such a small village.\n\nThis conversation is over.",
-		"german": "",
 	},
 
 
 	
 	"goblinTributeTextBadRelations": {
 		"english": "It might be in your best interest to give us the following things:",
-		"german": "",
 	},
 	"goblinTributeTextNeutralRelations": {
 		"english": "We need some materials and as a decent neighbor you should help us out here:",
-		"german": "",
 	},
 	"goblinTributeTextGoodRelations": {
 		"english": "Dear friend, we're in need of some materials. Would you mind helping us out?",
-		"german": "",
 	},
 	"goblinTributeAcceptButton": {
 		"english": "Of course, there you go.",
-		"german": "",
 	},
 	"goblinTributeDenyButton": {
 		"english": "I'm not going to pay your tribute!",
-		"german": "",
 	},
 	"goblinTributeAcceptedBadRelations": {
 		"english": "You know what's good for you.",
-		"german": "",
 	},
 	"goblinTributeAcceptedNeutralRelations": {
 		"english": "Thanks for your help.",
-		"german": "",
 	},
 	"goblinTributeAcceptedGoodRelations": {
 		"english": "Thanks! We're happy we can call you our friend.",
-		"german": "",
 	},
 	"goblinTributeDeniedBadRelations": {
 		"english": "You are going to regret this.",
-		"german": "",
 	},
 	"goblinTributeDeniedNeutralRelations": {
 		"english": "We will remember your attitude.",
-		"german": "",
 	},
 	"goblinTributeDeniedGoodRelations": {
 		"english": "That's a bummer. Friends should stick together.",
-		"german": "",
 	},
 }

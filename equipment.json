@@ -1,4 +1,4 @@
-﻿// Swords
+// Swords
 //*******
 {
 	"equipmentName_swordWood": {
@@ -56,6 +56,20 @@
 		"ukrainian": "Незважаючи на те, що меч виготовлений з каменю, він цілком гострий і вселяє страх.",
 		"korean": "돌로 만들어졌지만, 날이 서 있어서 위험합니다.",
 		"chinese": "虽然是石头做的，剑刃锋利也是很危险的。",
+	},
+	"equipmentName_swordIronTraderGuard": {
+		"english": "Trader Guards' Sword",
+		"german": "Schwert der Händlergarde",
+		"french": "Épée des Gardes de Marchands",
+		"portuguese": "Espada da Guarda Comerciante",
+		"russian": "Меч гильдии торговцев",
+	},
+	"equipmentDescription_swordIronTraderGuard": {
+		"english": "\"As a member of the Trader Guard, it is your highest duty to secure the mechandise and to keep your sword clean at all times!\" (Faustus, Jonathan. What it means to be a member of the Trader Guard, Quarkenstein, 1247, p. 2.)",
+		"german": "\"Als ein Mitglied der Händlergarde, ist es Eure höchste Pflicht die Handelsware zu beschützen und Euer Schwert stets sauber zu halten!\" (Faustus, Jonathan: Was es bedeutet ein Mitglied der Händlergarde zu sein, Quarkenstein 1247, S. 2.",
+		"french": "\"En tant que membre de la Garde des Marchands, il est de votre devoir de sécuriser la marchandise et de garder votre épée propre en tout temps !\" (Faustus, Jonathan. Ce que cela signifie d'être membre de la Garde des Marchands, Quarkenstein, 1247, p. 2.)",
+		"portuguese": "\"Como um membro do comerciante Guarda, é seu maior dever garantir a mecaria e manter sua espada limpa em todos os momentos!\" (Faustus, Jonathan. O que significa ser um membro da Guarda comerciante, Quarkenstein, 1247, p. 2.)",
+		"russian": "\"Ваша обязаность, как члена гильдии торговцев, гарантировать безопасность товара и всегда держать мечь в чистоте!\" (Фауст, Джонатан. Каково быть членом Торговой гвардии, Quarkenstein, 1247, стр. 2.)",
 	},
 	"equipmentName_swordIron": {
 		"english": "Iron Sword",
@@ -317,7 +331,7 @@
 		"chinese": "木棒",
 	},
 	"equipmentDescription_clubWood": {
-		"english": "This plain club is used by Tikigoblins. It might be of special value for collectors!",
+		"english": "This plain club is used by Tikigoblins. It might be of special value to collectors!",
 		"dutch":  "Deze vlakte knots is gebruikt bij Tikigoblins. Het is meschien van bijzondere waarden voor verzamelaars!",
 		"german": "Diese unscheinbare Keule wird von den Tikigoblins verwendet. Für Sammler ist sie sicher wertvoll!",
 		"french": "Cette massue ordinaire est utilisée par les Tikigoblins. Elle pourrait être appréciée par les collectionneurs !",
@@ -338,6 +352,7 @@
 		"portuguese": "Clube de pedra",
 		"dutch": "Stenen Knots",
 		"ukrainian": "Кам'яна Булава",
+		"korean": "돌 몽둥이",
 		"chinese": "石棒",
 	},
 	"equipmentDescription_clubStone": {
@@ -348,9 +363,10 @@
 		"dutch": "Ja, deze stenen knots ziet er misschien een beetje primitief uit. Maar onderschat niet de hoeveelheid schade die hij kan aanrichten!",
 		"portuguese": "Sim, este clube de pedra pode parecer um pouco primitivo. Não subestime sua eficácia quando se trata de causar dano!",
 		"ukrainian": "Так, ця зброя виглядає дуже примітивно. Однак не варто її недооцінювати!",
+		"korean": "맞아요, 이 돌 몽둥이는 좀 원시적인 느낌이 나죠. 하지만 진짜로 들어가는 데미지를 무시할 순 없을거에요.",
 		"chinese": "这个石棒看起来有点原始。当拿来战斗时，不要低估它的伤害!",
 	},
-	"equipmentName_clubWoodTotem": {
+	"equipmentName_clubRitual": {
 		"english": "Tiki Club",
 		"german": "Tikikeule",
 		"french": "Massue Tikie",
@@ -358,9 +374,10 @@
 		"portuguese": "Clube tiki",
 		"dutch": "Tiki Knots",
 		"ukrainian": "Тікі Булава",
+		"korean": "티키 몽둥이",
 		"chinese": "土著棒子",
 	},
-	"equipmentDescription_WoodTotem": {
+	"equipmentDescription_clubRitual": {
 		"english": "Tikigoblins make ritual clubs like this to fight very specific foes. Once they've been victorious, the club is used as a memento of their defeated enemies!",
 		"german": "Ritualkeulen wie diese fertigen Tikigoblins extra für einen bestimmten Feind an. Ist dieser besiegt, so dient sie als Erinnerung an den gloreichen Sieg.",
 		"french": "Les Tikigoblins font des massues rituelles comme celle-ci pour combattre des ennemis très spécifiques. Une fois qu'ils ont été victorieux, la massue est utilisée comme souvenir de leurs ennemis vaincus !",
@@ -368,6 +385,7 @@
 		"dutch": "Tikigoblins maken rituele knotsen zoals deze om hele speciale vijanden te bevechten. Zodra ze hebben gewonnen, wordt de knots gebruikt als een herinnering aan de verslagen vijanden!",
 		"portuguese": "Tikigoblins fazem clubes rituais como este para lutar contra inimigos muito específicos. Uma vez que eles foram vitoriosos, o clube é usado como uma lembrança de seus inimigos derrotados!",
 		"ukrainian": "Тікігобліни використовують ці булави боїв. Після перемоги в битві ця булава використовується як трофей.",
+		"korean": "티키고블린들은 매우 특별한 적과 싸우기 위해 제사용 몽둥이를 만듭니다. 그들이 언젠가 승리하게 되면, 몽둥이는 패배한 적을 기리기 위해 사용됩니다!",
 		"chinese": "土著哥布林用这样的仪式棒来对付特定的敌人。一旦取得胜利，棒子就被用来纪念被击败的敌人!",
 	},
 
@@ -443,6 +461,109 @@
 // Armors
 //*******
 
+	"equipmentName_armorIron": {
+		"english": "Iron Armor",
+		"dutch":  "Ijzerem Harnas",
+		"german": "Eisenrüstung",
+		"french": "Armure en Fer",
+		"spanish": "Armadura de hierro",
+		"bulgarian": "Желязна Броня",
+		"turkish": "Demir Zırh",
+		"portuguese": "Armadura de ferro",
+		"polish": "Żelazna zbroja",
+		"russian": "Железная броня",
+		"ukrainian": "Залізна броня",
+		"korean": "철갑옷",
+		"chinese": "铁盔甲",
+	},
+	"equipmentDescription_armorIron": {
+		"english": "Takes a long time to produce, but protects the bearer pretty well.",
+		"dutch":  "Neemt lange tijd om te maken, maar bescermd de drager heel goed.",
+		"german": "Braucht lange in der Herstellung, aber schützt den Träger ziemlich gut.",
+		"french": "Prend du temps à fabriquer, mais protège assez bien le porteur.",
+		"spanish": "Su producción es lenta, pero protege adecuadamente a quien la lleva",
+		"bulgarian": "Отнема много време да се направи, но предпазва носителя доста добре.",
+		"turkish": "Üretmesi uzun sürüyor, ancak hamilini oldukça iyi koruyor.",
+		"portuguese": "Leva muito tempo para produzir, mas protege o portador muito bem.",
+		"polish": "Produkcja zajmuje dużo czasu, ale bardzo dobrze chroni posiadacza.",
+		"russian": "Долго изготавливается, зато хорошо защищает владельца.",
+		"ukrainian": "Довго виготовляється, зате добре захищає власника.",
+		"korean": "만드는데 오래 걸리지만, 착용자를 충분히 보호합니다.",
+		"chinese": "需要很长时间才能生产出来，但能很好地防护穿着的人。",
+	},
+	"equipmentName_armorTraderGuard": {
+		"english": "Trader Guard Armor",
+		"german": "Rüstung der Händlergarde",
+		"french": "Armure de Garde de Marchand",
+		"portuguese": "Armadura de Guarda Comerciante",
+		"russian": "Броня торговца",
+		
+	},
+	"equipmentDescription_armorTraderGuard": {
+		"english": "The standard armor of the trader guard. Offers great protection without restricting one's agility.",
+		"german": "Die Standardausrüstung der Händlergarde. Bietet guten Schutz ohne die Beweglichkeit zu sehr einzuschränken.",	
+		"french": "L'armure standard d'un garde de marchands. Offre une grande protection sans limiter l'agilité.",
+		"portuguese": "A armadura padrão do comerciante guarda. Oferece grande proteção sem restringir a agilidade da pessoa.",
+		"russian": "Стандартная броня торгового воина. Обеспечивает хорошую защиту без неудобств в движении.",
+	},
+	"equipmentName_armorTikiHeavy": {
+		"english": "Tiki Turtle Armor",
+		"german": "Tiki Schildkrötenrüstung",
+		"french": "Armure de Tortue Tikie",
+		"portuguese": "Armadura de Tartaruga Tiki",
+		"russian": "Черепашья тики броня",
+		
+	},
+	"equipmentDescription_armorTikiHeavy": {
+		"english": "Noone has ever seen these giant turtles whose shells are used to make this heavy armor. Only the Tikigoblins seem to know the secret of their whereabouts.",
+		"german": "Die Riesenschildkröten aus denen diese schwere Rüstung gefertigt wurde hat bisher noch niemand zu Gesicht bekommen. Einzig die Tikigoblins scheinen das Geheimnis ihres Aufenhaltsortes zu kennen.",	
+		"french": "Personne n'a jamais vu ces tortues géantes dont les carapaces sont utilisées pour fabriquer cette armure lourde. Seuls les Tikigoblins semblent connaître le secret de leur localisation.",
+		"portuguese": "Ninguém jamais viu essas tartarugas gigantes cujas conchas são usadas para fazer essa pesada armadura. Apenas os tikigoblins parecem saber o segredo de seu paradeiro.",
+		"russian": "Никто никогда не видел этих гигантских черепах, чьи панцири используются для изготовления этой тяжелой брони. Только Тикигоблины, кажется, знают где их найти.",
+	},
+		"equipmentName_armorSimplePlate": {
+		"english": "Simple Plate Armor",
+		"dutch":  "Eenvoudige Platen Harnas",
+		"german": "Einfache Plattenrüstung",
+		"french": "Armure de Plates Simple",
+		"spanish": "Armadura de Placas Simple",
+		"russian": "Простая латная броня",
+		"portuguese": "Armadura de Placa Simples",
+		"ukrainian": "Латна броня",
+		"polish": "Prosta zbroja płytowa",
+		"turkish": "Basit Plaka Zırhı",
+		"korean": "단순한 플레이트 아머",
+		"chinese": "简易板甲",
+	},
+	"equipmentDescription_armorSimplePlate": {
+		"english": "Focusing on the essentials, this armor suits part time soldiers just fine.",
+		"dutch":  "Focussen op de essentials, Dit harnas fit de deeltijds krijgers prima.",
+		"german": "Beschränkt sich auf das Wesentliche. Eine Rüstung für wahre Teilzeitsoldaten.",
+		"french": "En se concentrant sur l'essentiel, cette armure convient bien pour les soldats à temps partiel.",
+		"spanish": "Centrándose en lo esencial, esta armadura se adapta bien a los soldados de tiempo parcial.",
+		"russian": "Ориентируясь на нужды, эта броня отлично подойдет солдатам, занятым неполный рабочий день.",
+		"portuguese": "Concentrando-se no essencial, esta armadura combina com soldados a tempo parcial.",
+		"ukrainian": "Орієнтуючись на потреби, ця броня відмінно підійде солдатам, зайнятим неповний робочий день.",
+		"polish": "Skupmy się na podstawach, ta zbroja nadaje się dla żołnierzy na pół etatu.",
+		"turkish": "Temellere odaklanarak, bu zırh yarı zamanlı askere çok uygun gider.",
+		"korean": "필수적인 것에만 집중했습니다. 일용직 군인에게는 적절합니다.",
+		"chinese": "该盔甲注重本质，很适合兼职战士穿戴。",
+	},
+	"equipmentName_armorTikiMedium": {
+		"english": "Tiki Wood Armor",
+		"german": "Tiki Holzrüstung",
+		"french": "Armure en Bois Tikie",
+		"portuguese": "Armadura de Madeira Tiki",
+		"russian": "Деревянная тики броня",
+		
+	},
+	"equipmentDescription_armorTikiMedium": {
+		"english": "While this wooden armor makes rattling noises, it is very light and offers acceptable protection.",
+		"german": "Zwar klappert diese Holzrüstung etwas beim gehen, doch ist sie leicht und bietet akzeptablen Schutz.",
+		"french": "Bien que cette armure en bois fasse des bruits de cliquetis, elle est très légère et offre une protection acceptable.",
+		"portuguese": "Enquanto esta armadura de madeira faz ruídos de chocalho, é muito leve e oferece proteção aceitável.",
+		"russian": "Хоть она и издает глухой звук, она очень легкая и обеспечивает достойную защиту.",
+	},
 	"equipmentName_armorGambeson": {
 		"english": "Gambeson",
 		"dutch":  "Gambeson",
@@ -472,64 +593,6 @@
 		"chinese": "每个成为战士的必需装备。",
 	},
 
-	"equipmentName_armorSimplePlate": {
-		"english": "Simple Plate Armor",
-		"dutch":  "Eenvoudige Platen Harnas",
-		"german": "Einfache Plattenrüstung",
-		"french": "Armure de Plates Simple",
-		"spanish": "Armadura de Placas Simple",
-		"russian": "Простая латная броня",
-		"portuguese": "Armadura de Placa Simples",
-		"ukrainian": "Латна броня",
-		"polish": "Prosta zbroja płytowa",
-		"turkish": "Basit Plaka Zırhı",
-		"korean": "단순한 플레이트 아머",
-		"chinese": "简易板甲",
-	},
-	"equipmentDescription_armorSimplePlate": {
-		"english": "Focusing on the essentials, this armor suits part time soldiers just fine.",
-		"dutch":  "Focussen op de essentials, Dit harnas fit de deeltijds krijgers prima.",
-		"german": "Beschränkt sich auf das Wesentliche. Eine Rüstung für wahre Teilzeitsoldaten.",
-		"french": "En se concentrant sur l'essentiel, cette armure convient bien pour les soldats à temps partiel.",
-		"spanish": "Centrándose en lo esencial, esta armadura se adapta bien a los soldados de tiempo parcial.",
-		"russian": "Ориентируясь на нужды, эта броня отлично подойдет солдатам, занятым неполный рабочий день.",
-		"portuguese": "Concentrando-se no essencial, esta armadura combina com soldados a tempo parcial.",
-		"ukrainian": "Орієнтуючись на потреби, ця броня відмінно підійде солдатам, зайнятим неповний робочий день.",
-		"polish": "Skupmy się na podstawach, ta zbroja nadaje się dla żołnierzy na pół etatu.",
-		"turkish": "Temellere odaklanarak, bu zırh yarı zamanlı askere çok uygun gider.",
-		"korean": "필수적인 것에만 집중했습니다. 일용직 군인에게는 적절합니다.",
-		"chinese": "该盔甲注重本质，很适合兼职战士穿戴。",
-	},
-	"equipmentName_armorIron": {
-		"english": "Iron Armor",
-		"dutch":  "Ijzerem Harnas",
-		"german": "Eisenrüstung",
-		"french": "Armure en Fer",
-		"spanish": "Armadura de hierro",
-		"bulgarian": "Желязна Броня",
-		"turkish": "Demir Zırh",
-		"portuguese": "Armadura de ferro",
-		"polish": "Żelazna zbroja",
-		"russian": "Железная броня",
-		"ukrainian": "Залізна броня",
-		"korean": "철갑옷",
-		"chinese": "铁盔甲",
-	},
-	"equipmentDescription_armorIron": {
-		"english": "Takes long to produce, but protects the bearer pretty well.",
-		"dutch":  "Neemt lange tijd om te maken, maar bescermd de drager heel goed.",
-		"german": "Braucht lange in der Herstellung, aber schützt den Träger ziemlich gut.",
-		"french": "Prend du temps à fabriquer, mais protège assez bien le porteur.",
-		"spanish": "Su producción es lenta, pero protege adecuadamente a quien la lleva",
-		"bulgarian": "Отнема много време да се направи, но предпазва носителя доста добре.",
-		"turkish": "Üretmesi uzun sürüyor, ancak hamilini oldukça iyi koruyor.",
-		"portuguese": "Leva muito tempo para produzir, mas protege o portador muito bem.",
-		"polish": "Produkcja zajmuje dużo czasu, ale bardzo dobrze chroni posiadacza.",
-		"russian": "Долго изготавливается, зато хорошо защищает владельца.",
-		"ukrainian": "Довго виготовляється, зате добре захищає власника.",
-		"korean": "만드는데 오래 걸리지만, 착용자를 충분히 보호합니다.",
-		"chinese": "需要很长时间才能生产出来，但能很好地防护穿着的人。",
-	},
 
 // Work Gear
 //**********
@@ -773,7 +836,7 @@
 		"chinese": "医生学徒长袍",
 	},
 	"equipmentDescription_doctorRobe0": {
-		"english": "Offers minor protection against contagious diseases. Very useful for doctors as they have a lot of contact with their ill patients.",
+		"english": "Offers minor protection against contagious diseases. Very useful for doctors, as they have a lot of contact with their ill patients.",
 		"dutch":  "Biedt minimale bescherming tegen besmettelijke ziekten. Heel nuttig voor dokters omdat ze veel contact hebben met hun zieke patienten.",
 		"german": "Bietet einen geringen Schutz gegen ansteckende Krankheiten. Sehr nützlich für Ärzte, da sie viel Kontakt mit ihren kranken Patienten haben.",	
 		"french": "Offre une protection mineure contre les maladies contagieuses. Très utile pour les médecins car ils ont beaucoup de contacts avec leurs patients malades.",
@@ -802,7 +865,7 @@
 		"chinese": "医生大师长袍",
 	},
 	"equipmentDescription_doctorRobe1": {
-		"english": "Protects the wearer from contagious diseases. Very useful for doctors as they have a lot of contact with their ill patients.",
+		"english": "Protects the wearer from contagious diseases. Very useful for doctors, as they have a lot of contact with their ill patients.",
 		"dutch":  "beschermd de drager van besmettelijke ziekten. Heel nuttig voor dokters omdat ze veel contact hebben met hun zieke patienten.",
 		"german": "Schützt den Träger vor ansteckenden Krankheiten. Sehr nützlich für Ärzte, da sie viel Kontakt mit ihren kranken Patienten haben.",
 		"french": "Protège le porteur des maladies contagieuses. Très utile pour les docteurs qui sont au contact avec leurs patients malades.",

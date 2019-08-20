@@ -31,7 +31,7 @@
 		"korean": "이 나무 벽은 그닥 튼튼해보이진 않지만, 그래도 좋은 시작입니다.",
 		"chinese": "这堵木墙看起来不太可靠，但这是一个好的开始。",
 	},
-	"clayWall": {
+	"cobWall": {
 		"english": "Cob Wall",
 		"german": "Lehmwand",
 		"dutch": "Kleimuur",
@@ -44,7 +44,7 @@
 		"korean": "황토 벽",
 		"chinese": "土墙 ",
 	},
-	"clayWallDescription": {
+	"cobWallDescription": {
 		"english": "This cob wall might not be that sturdy but it doesn't take a lot of resources to build it.",
 		"german": "Zwar ist diese Lehmwand wohl nicht sehr stabil, doch zumindest werden für ihren Bau nicht viele Ressourcen benötigt.",
 		"french": "Ce mur en terre n'est peut-être pas si solide que ça, mais il ne nécessite pas beaucoup de ressources.",
@@ -479,9 +479,17 @@
 		"chinese": "这个原木防御工事让你的殖民地更安全!",
 	},
 	"stoneWallDefense0": {
-		"english": "Fort Fortification",
+		"english": "Castle Fortification",
+		"german": "Burgbefestigung",
+		// TODO-dutch
+		// TODO-french
+		// TODO-spanish
+		// TODO-russian
+		// TODO-portuguese
+		// TODO-ukrainian
+		// TODO-korean
+		// TODO-turkish
 		"dutch":  "Fort Versterking",
-		"german": "Fortbefestigung",
 		"french": "Fortification en Pierre",
 		"spanish": "Fortificación Fuerte",
 		"russian": "Фортификационное сооружение",
@@ -518,7 +526,7 @@
 		"chinese": "砖墙防御工事",
 	},
 	"stoneWallDefense1Description": {
-		"english": "Let your enemys tremble with fear when they see this master piece of a wall!",
+		"english": "Let your enemies tremble with fear when they see this masterpiece of a wall!",
 		"dutch":  "Laat je vijanden beven van angst wanneer ze dit meesterlijke stuk van een muur zien!",
 		"german": "Lasse deine Feinde vor diesm Prachtstück einer Mauer erzittern!",
 		"french": "Laissez vos ennemis trembler de peur en voyant ce chef-d'œuvre !",

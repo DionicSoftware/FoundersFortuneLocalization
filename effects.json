@@ -145,7 +145,7 @@
 		"chinese": "饥肠辘辘",
 	},
 	"effectDesc_Starving": {
-		"english": "%firstName% didn't eat in a long time. %cap-heShe% needs to find something to eat soon in order to survive.",
+		"english": "%firstName% hasn't eaten in a long time. %cap-heShe% needs to find something to eat soon in order to survive.",
 		"german": "%firstName% hat schon lange nichts mehr gegessen. %cap-erSie% muss jetzt schnell etwas zwischen die Zähne bekommen um zu überleben.",
 		//TODO-bulgarian
 		"french": "%firstName% n'a pas mangé depuis longtemps. %cap-ilElle% doit trouver quelque chose à manger rapidement pour survivre.",
@@ -178,9 +178,9 @@
 		"chinese": "治疗药水",
 	},
 	"effectDesc_HealingPotion": {
-		"english": "The healing potion %firstName% drank is doing it's work and restoring some health.",
+		"english": "The healing potion %firstName% drank is doing its work and restoring some health.",
 		"german": "Der Heiltrank, den %firstName% getrunken hat, zeigt seine Wirkung und stellt ein bisschen Gesundheit wieder her",
-		"french": "La potion de soin que %firstName% a bu fait son travail et restaure sa santé.",
+		"french": "La potion de soin que %firstName% a bue fait son travail et restaure sa santé.",
 		"spanish": "La poción de salud que %firstName% se tomó está dando resultados y le da algo de salud.",
 		"dutch":"Het genezend drankje dat %firstName% dronk doet z'n werk en herstelt zijn gezondheid.",
 		"bulgarian": "Лечебната отвара която %firstName% изпи прави своята работа и възтановява малко от кръвта.",
@@ -212,7 +212,7 @@
 	"effectDesc_Flu": {
 		"english": "%firstName% has caught the Flu. Make sure %heShe% stays in bed in the coming days and is treated with medicine by a doctor. Do not underestimate the illness!",
 		"german": "%firstName% hat sich die Grippe eingefangen. Verschreibe %ihmIhr% Ruhe im Bett und lasse %ihnSie% von einem Doktor mit Medizin behandeln. Unterschätze die Krankheit nicht!",
-		"french": "%firstName% a attrapé la grippe. Assurez-vous qu'%ilElle% reste au lit les prochains jours et soit soigné%e% avec des médicaments prescrits par un docteur. Ne sous-estimez pas la maladie !",
+		"french": "%firstName% a attrapé la grippe. Assurez-vous qu'%ilElle% reste au lit dans les prochains jours et soit soigné%e% avec des médicaments prescrits par un docteur. Ne sous-estimez pas la maladie !",
 		//TODO-dutch
 		//TODO-bulgarian
 		"spanish": "%firstName% contrajo la gripe. Mándal%oA% a la cama y deja que un doctor l%oA% trate con medicina. ¡No subestimes la enfermedad!",
@@ -278,9 +278,9 @@
 		"chinese": "过敏反应",
 	},
 	"effectDesc_AllergicReaction": {
-		"english": "%firstName% had to eat food %heShe% is allergic to. Now %hisHer% body has an allergic reaction.",
+		"english": "%firstName% was forced to eat food %heShe% is allergic to. Now %hisHer% body has had an allergic reaction.",
 		"german": "%firstName% musste etwas essen, worauf %erSie% allergisch ist. Jetzt hat %seinIhr% Körper eine allergische Reaktion.",
-		"french": "%firstName% a mangé de la nourriture dont %ilElle% était allergique. Son corps a fait une réaction allergique.",
+		"french": "%firstName% a mangé de la nourriture à laquelle %ilElle% est allergique. Son corps a fait une réaction allergique.",
 		//TODO-dutch
 		//TODO-bulgarian
 		"spanish": "%firstName% debió comer algo a lo que era alérgic%oA%. Ahora su cuerpo tiene una reacción alérgica.",
@@ -310,7 +310,7 @@
 		"chinese": "手舞足蹈",
 	},
 	"effectTitle_SmallFoodRationsSlowness": {
-		"english": "Slow work",
+		"english": "Works slowly",
 		"german": "Langsame Arbeit",
 		"french": "Lenteur au travail",
 		"spanish": "Trabajo lento",
@@ -342,9 +342,9 @@
 		"chinese": "%firstName%只得到少量的食物配给，所以%firstName%只是缺乏精力工作，需要更长的时间来完成任务。",
 	},
 	"effectTitle_LegHurt": {
-		"english": "Hurt leg: Slow walking",
+		"english": "Hurt leg: Walks slowly",
 		"german": "Bein verletzt: Gehen verlangsamt",
-		"french": "Jambe blessée : marche lente",
+		"french": "Jambe blessée : Marche lente",
 		"spanish": "Pierna herida: Caminata lenta",
 		"portuguese": "Perna ferida: Caminhada lenta",
 		"dutch": "Been bezeert: Loopt langzaam",
@@ -372,7 +372,7 @@
 	"effectTitle_LegBroken": {
 		"english": "Broken leg: Can't walk",
 		"german": "Bein gebrochen: Gehen unmöglich",
-		"french": "Jambe cassée : ne peut pas marcher",
+		"french": "Jambe cassée : Ne peut pas marcher",
 		"spanish": "Pierna rota: No puede caminar",
 		"dutch": "Gebroken been: Kan niet lopen",
 		"portuguese": "Perna quebrada: não pode andar",
@@ -384,9 +384,9 @@
 		"chinese": "腿折：不能行走",
 	},
 	"effectDesc_LegBroken": {
-		"english": "%firstName% has broken %hisHer% leg and can not walk anymore. You need to apply splints, or %firstName% may be permanently disabled!",
+		"english": "%firstName% has broken %hisHer% leg and cannot walk anymore. You need to apply splints, or %firstName% may be permanently disabled!",
 		"german": "%firstName% hat %seinIhr% Bein gebrochen und kann nicht mehr gehen. Das Bein muss geschient werden, oder %firstName% könnte eine permanente Behinderung davontragen!",
-		"french": "%firstName% s'est cassé%e% la jambe et ne peut plus marcher. Vous devez appliquer une attelle, ou %firstName% pourra être invalide de manière permanente !",
+		"french": "%firstName% s'est cassé%e% la jambe et ne peut plus marcher désormais. Vous devez appliquer une attelle, ou %firstName% pourrait être invalide de manière permanente !",
 		"spanish": "%firstName% se ha roto su pierna y ya no puede caminar. Tienes que aplicar tablillas, ¡o %firstName% podría quedar discapacitado permanentemente!",
 		"turkish": "%firstName% bacağını kırmış ve artık yürüyemiyor. Destekleyici uygulamak zorunda, aksi taktirde %firstName% sakat kalabilir!",
 		"dutch": "%firstName% heeft %zijnHaar% been gebroken en kan niet meer lopen. Je moet spalken anders zal %firstName% misschien wel permanent invalide!",
@@ -398,9 +398,9 @@
 		"chinese": "%firstName%的腿骨折了，不能再走路了。您必须使用夹板，否则%firstName%可能永久断腿了!",
 	},
 	"effectTitle_ArmHurt": {
-		"english": "Hurt arm: Slow working",
+		"english": "Hurt arm: Works slowly",
 		"german": "Arm verletzt: Arbeit verlangsamt",
-		"french": "Bras blessé : travail lent",
+		"french": "Bras blessé : Travail lent",
 		"spanish": "Brazo herido: Trabajo lento",
 		"turkish": "İncinmiş kol: Yavaş çalışma",
 		"portuguese": "braço ferido: trabalho lento",
@@ -428,7 +428,7 @@
 	"effectTitle_ArmBroken": {
 		"english": "Broken arm: Can't work",
 		"german": "Arm gebrochen: Arbeit unmöglich",
-		"french": "Bras cassé : ne peut pas travailler",
+		"french": "Bras cassé : Ne peut pas travailler",
 		"spanish": "Brazo roto: No puede trabajar",
 		"turkish": "Kırık kol: Çalışamaz",
 		"dutch": "Gebroken arm: Kan niet werken",
@@ -440,9 +440,9 @@
 		"chinese": "手折: 不能工作",
 	},
 	"effectDesc_ArmBroken": {
-		"english": "%firstName% has broken %hisHer% arm and can not work anymore. Splints will help it heal more quickly.",
+		"english": "%firstName% has broken %hisHer% arm and cannot work anymore. Splints will help it heal more quickly.",
 		"german": "%firstName% hat %seinenIhren% Arm gebrochen und kann nicht mehr arbeiten. Schienen können ihn schneller heilen lassen.",
-		"french": "%firstName% s'est cassé%e% le bras et ne peut plus travailler. Une attelle aidera à guérir plus rapidement.",
+		"french": "%firstName% s'est cassé%e% le bras et ne peut plus travailler désormais. Une attelle aidera à guérir plus rapidement.",
 		"spanish": "%firstName% se ha roto su brazo y ya no puede trabajar. Una tablilla ayudará a que sane más rápido.",
 		"turkish": "%firstName% kolunu kırmış ve artık çalışamıyor. Destekleyici uygulanırsa daha hızlı iyileşir",
 		"dutch": "%firstName% heeft %zijnHaar% arm gebroken en kan niet meer werken. Spalken zal er voor zorgen dat het sneller geneest.",

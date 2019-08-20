@@ -73,7 +73,7 @@
 		"chinese": "烹饪食物架子",
 	},
 	"foodShelfKitchenDescription": {
-		"english": "What better place to store your kitchen food than on this gorgeous shelf?",
+		"english": "What better place to store your kitchen food than on this gorgeous shelf!",
 		"german": "Welchen besseren Ort gibt es zum Lagern von Essen aus der Küche als dieses wunderschöne Regal?",
 		"french": "Quel meilleur endroit pour stocker la nourriture de cuisine que sur cette fabuleuse étagère ?",
 		"spanish": "¿Qué mejor lugar para la comida de la cocina que esta gran estantería?",
@@ -157,7 +157,7 @@
 		"chinese": "啤酒桶",
 	},
 	"beerRefillBarrelDescription": {
-		"english": "As a means of storage and the origin of fresh beer, beer barrel is of high importance to all colonies out there (Well, as long as there is some left in there...). You'll see how happy your colonists get when you allow them to fill up their mugs. Cheers!",
+		"english": "As a means of storage and the origin of fresh beer, a beer barrel is of high importance to all colonies out there (Well, as long as there is some left in there...). You'll see how happy your colonists get when you allow them to fill up their mugs. Cheers!",
 		"german": "Als Aufbewahrungsort und Quelle des goldenen Gerstensaftes haben Bierfässer einen ganz hohen Stellenwert in jeder Kolonie (Naja, zumindest solange sie auch wohl gefüllt sind...). Du wirst sehen mit welcher Vorfreude deine Kolonisten zum Zapfen schreiten werden. Zum Wohl!",
 		"french": "En tant que moyen de stockage et origine de la bière fraîche, le baril de bière revêt une grande importance pour toutes les colonies (tant qu’il en restera dedans...). Vous verrez à quel point vos colons seront heureux lorsque vous leur permettrez de remplir leur chope. À votre santé !",
 		"russian": "Пивная бочка отлично подойдет для хранения пива. Она очень востребованна колонистами (Ну, пока она не опустошится...). Вы сразу увидите, как настроение ваших колонистов поднимется после употребления этого пшеничного напитка. Ура!",
@@ -507,7 +507,7 @@
 		"chinese": "简易架子",
 	},
 	"shelfWoodPlanks0Variation1Description": {
-		"english": "This quickly assembled wooden shelf is the ideal storage opportunity for random stuff.",
+		"english": "This quickly assembled wooden shelf is the ideal storage location for random stuff.",
 		"german": "Dieses schnell gezimmerte Holzregal ist der ideale Aufbewahrungsort für dies und das.",
 		"french": "Cette étagère en bois, montée rapidement, est une opportunité de stockage idéale pour des choses diverses.",
 		"spanish": "Esta estantería de madera, rápidamente ensamblada, es la oportunidad de almacenamiento ideal para cosas varias.",
@@ -533,7 +533,7 @@
 		"chinese": "简易架子",
 	},
 	"shelfWoodPlanks0Variation0Description": {
-		"english": "This quickly assembled wooden shelf is the ideal storage opportunity for random stuff.",
+		"english": "This quickly assembled wooden shelf is the ideal storage location for random stuff.",
 		"german": "Dieses schnell gezimmerte Holzregal ist der ideale Aufbewahrungsort für dies und das.",
 		"french": "Cette étagère en bois, assemblée rapidement, est un stockage idéal pour diverses choses.",
 		"spanish": "Esta estantería de madera, rápidamente ensamblada, es la oportunidad de almacenamiento ideal para cosas varias.",
@@ -719,7 +719,7 @@
 		"chinese": "简易木制衣柜",
 	},
 	"closetWoodPlanks0Variation0Description": {
-		"english": "This quickly assembled wooden wardrobe is the ideal storage opportunity for random stuff.",
+		"english": "This quickly assembled wooden wardrobe is the ideal storage location for random stuff.",
 		"german": "Dieses schnell gezimmerte Holzregal ist der ideale Aufbewahrungsort für dies und das.",
 		"french": "Cette armoire en bois assemblée rapidement est idéale pour stocker diverses choses.",
 		"spanish": "Este armario de madera, rápidamente ensamblado, es la oportunidad de almacenamiento ideal para cosas varias.",
@@ -810,6 +810,496 @@
 		"chinese": "用深色木头制成的精致的柜子。给你的房子升一个档次。",
 	},
 	
+// Carpets
+//********
+	
+	"carpet3x2_0_0": {
+		"english": "Rug of Wealth 3x2",
+		"german": "Teppich des Wohlstands 3x2",
+		"french": "Tapis de Richesse 3x2",
+		"russian": "Богатый ковер 3x2",
+		"portuguese": "Tapete de Riqueza 3x2",
+		"dutch": "Vloerkleed van Rijkdom 3x2",
+
+	},
+	"carpet3x2_0_0Description": {
+		"english": "This red, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, rote Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis rouge de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"dutch": "Dit rode, hoge kwaliteit vloerkleed geeft je kamer dat wat altijd mist. Je weet wat ik bedoel!",
+		"russian": "Этот красный ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete vermelho de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpet3x2_0_1": {
+		"english": "Rug of Wealth 3x2",
+		"german": "Teppich des Wohlstands 3x2",
+		"french": "Tapis de Richesse 3x2",
+		"russian": "Богатый ковер 3x2",
+		"dutch": "Vloerkleed van Rijkdom 3x2",
+		"portuguese": "Tapete de Riqueza 3x2",
+
+	},
+	"carpet3x2_0_1Description": {
+		"english": "This blue, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, blaue Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis bleu de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"dutch": "Dit blauwe, hoge kwaliteit vloerkleed geeft je kamer dat wat altijd mist. Je weet wat ik bedoel!",
+		"russian": "Этот синий ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete Azul de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpet3x2_0_2": {
+		"english": "Rug of Wealth 3x2",
+		"german": "Teppich des Wohlstands 3x2",
+		"french": "Tapis de Richesse 3x2",
+		"dutch": "Vloerkleed van Rijkdom 3x2",
+		"russian": "Богатый ковер 3x2",
+		"portuguese": "Tapete de Riqueza 3x2",
+
+	},
+	"carpet3x2_0_2Description": {
+		"english": "This green, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, grüne Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis vert de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"dutch": "Dit groene, hoog kwaliteit vloerkleed geeft je kame dat wat altijd mist. Je weet wat ik bedoel!",
+		"russian": "Этот зеленый ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete verde de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpet3x2_1_0": {
+		"english": "Rug of Square Order 3x2",
+		"german": "Teppich der quadratischen Ordnung 3x2",
+		"french": "Tapis d'Ordre Carré 3x2",
+		"russian": "Ковер Квадратного Ордена 3x2",
+		"dutch": "Vloerkleed van de Vierkante Orde 3x2",
+		"portuguese": "Tapete de Ordem Quadrada 3x2",
+
+	},
+	"carpet3x2_1_0Description": {
+		"english": "A well made purple rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger lila Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis violet bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный фиолетовый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete roxo bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpet3x2_1_1": {
+		"english": "Rug of Square Order 3x2",
+		"german": "Teppich der quadratischen Ordnung 3x2",
+		"french": "Tapis d'Ordre Carré 3x2",
+		"russian": "Ковер Квадратного Ордена 3x2",
+		"portuguese": "Tapete de Ordem Quadrada 3x2",
+
+	},
+	"carpet3x2_1_1Description": {
+		"english": "A well made yellow rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger gelber Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis jaune bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный желтый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete amarelo bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpet3x2_1_2": {
+		"english": "Rug of Square Order 3x2",
+		"german": "Teppich der quadratischen Ordnung 3x2",
+		"french": "Tapis d'Ordre Carré 3x2",
+		"russian": "Ковер Квадратного Ордена 3x2",
+		"portuguese": "Tapete de Ordem Quadrada 3x2",
+
+	},
+	"carpet3x2_1_2Description": {
+		"english": "A well made orange rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger oranger Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis orange bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный оранжевый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete laranja bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpetCircle3x2_0_0": {
+		"english": "Round Rug of Wealth 3x2",
+		"german": "Runder Teppich des Wohlstands 3x2",
+		"french": "Tapis Rond de Richesse 3x2",
+		"russian": "Круглый Богатый ковер 3x2",
+		"portuguese": "Tapete Redondo de Riqueza 3x2",
+
+	},
+	"carpetCircle3x2_0_0Description": {
+		"english": "This red, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, rote Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis rouge de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"russian": "Этот красный ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete vermelho de alta qualidade dá aos seus quartos aquela coisinha especial que falta. Você sabe o que eu quero dizer!",
+	},
+	"carpetCircle3x2_0_1": {
+		"english": "Round Rug of Wealth 3x2",
+		"german": "Runder Teppich des Wohlstands 3x2",
+		"french": "Tapis Rond de Richesse 3x2",
+		"russian": "Круглый Богатый ковер 3x2",
+		"portuguese": "Tapete Redondo de Riqueza 3x2",
+
+	},
+	"carpetCircle3x2_0_1Description": {
+		"english": "This blue, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, blaue Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis bleu de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"russian": "Этот синий ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete azul de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpetCircle3x2_0_2": {
+		"english": "Round Rug of Wealth 3x2",
+		"german": "Runder Teppich des Wohlstands 3x2",
+		"french": "Tapis Rond de Richesse 3x2",
+		"russian": "Круглый Богатый ковер 3x2",
+		"portuguese": "Tapete Redondo de Riqueza 3x2",
+
+	},
+	"carpetCircle3x2_0_2Description": {
+		"english": "This green, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, grüne Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis vert de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"russian": "Этот зеленый ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete verde de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpetCircle3x2_1_0": {
+		"english": "Round Rug of Square Order 3x2",
+		"german": "Runder Teppich der quadratischen Ordnung 3x2",
+		"french": "Tapis Rond d'Ordre Carré 3x2",
+		"russian": "Круглый Ковер Квадратного Ордена 3x2",
+		"portuguese": "Tapete Redondo de Ordem Quadrada 3x2",
+
+	},
+	"carpetCircle3x2_1_0Description": {
+		"english": "A well made purple rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger lila Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis violet bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный оранжевый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete roxo bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpetCircle3x2_1_1": {
+		"english": "Round Rug of Square Order 3x2",
+		"german": "Runder Teppich der quadratischen Ordnung 3x2",
+		"french": "Tapis Rond d'Ordre Carré 3x2",
+		"russian": "Круглый Ковер Квадратного Ордена 3x2",
+		"portuguese": "Tapete Redondo de Ordem Quadrada 3x2",
+
+	},
+	"carpetCircle3x2_1_1Description": {
+		"english": "A well made yellow rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger gelber Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis jaune bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный оранжевый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete amarelo bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpetCircle3x2_1_2": {
+		"english": "Round Rug of Square Order 3x2",
+		"german": "Runder Teppich der quadratischen Ordnung 3x2",
+		"french": "Tapis Rond d'Ordre Carré 3x2",
+		"russian": "Круглый Ковер Квадратного Ордена 3x2",
+		"portuguese": "Tapete Redondo de Ordem Quadrada 3x2",
+
+	},
+	"carpetCircle3x2_1_2Description": {
+		"english": "A well made orange rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger oranger Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis orange bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный оранжевый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete laranja bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpet3x3_0_0": {
+		"english": "Rug of Wealth 3x3",
+		"german": "Teppich des Wohlstands 3x3",
+		"french": "Tapis de Richesse 3x3",
+		"russian": "Богатый ковер 3x3",
+		"portuguese": "Tapete de Riqueza 3x3",
+
+	},
+	"carpet3x3_0_0Description": {
+		"english": "This red, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, rote Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis rouge de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"russian": "Этот красный ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete vermelho de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpet3x3_0_1": {
+		"english": "Rug of Wealth 3x3",
+		"german": "Teppich des Wohlstands 3x3",
+		"french": "Tapis de Richesse 3x3",
+		"russian": "Богатый ковер 3x3",
+		"portuguese": "Tapete de Riqueza 3x3",
+
+	},
+	"carpet3x3_0_1Description": {
+		"english": "This blue, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, blaue Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis bleu de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"russian": "Этот синий ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete azul de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpet3x3_0_2": {
+		"english": "Rug of Wealth 3x3",
+		"german": "Teppich des Wohlstands 3x3",
+		"french": "Tapis de Richesse 3x3",
+		"russian": "Богатый ковер 3x3",
+		"portuguese": "Tapete de Riqueza 3x3",
+
+	},
+	"carpet3x3_0_2Description": {
+		"english": "This green, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, grüne Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis vert de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"russian": "Этот зеленый ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete verde de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpet3x3_1_0": {
+		"english": "Rug of Square Order 3x3",
+		"german": "Teppich der quadratischen Ordnung 3x3",
+		"french": "Tapis d'Ordre Carré 3x3",
+		"russian": "Богатый ковер 3x2",
+		"portuguese": "Tapete de Ordem Quadrada 3x3",
+
+	},
+	"carpet3x3_1_0Description": {
+		"english": "A well made purple rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger lila Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis violet bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный фиолетовый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete roxo bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpet3x3_1_1": {
+		"english": "Rug of Square Order 3x3",
+		"german": "Teppich der quadratischen Ordnung 3x3",
+		"french": "Tapis d'Ordre Carré 3x3",
+		"russian": "Ковер Квадратного Ордена 3х3",
+		"portuguese": "Tapete de Ordem Quadrada 3x3",
+
+	},
+	"carpet3x3_1_1Description": {
+		"english": "A well made yellow rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger gelbe Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis jaune bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный желтый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete amarelo bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpet3x3_1_2": {
+		"english": "Rug of Square Order 3x3",
+		"german": "Teppich der quadratischen Ordnung 3x3",
+		"french": "Tapis d'Ordre Carré 3x3",
+		"russian": "Ковер Квадратного Ордена 3х3",
+		"portuguese": "Tapete de Ordem Quadrada 3x3",
+
+	},
+	"carpet3x3_1_2Description": {
+		"english": "A well made orange rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger oranger Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis orange bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный оранжевый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete laranja bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpetCircle3x3_0_0": {
+		"english": "Round Rug of Wealth 3x3",
+		"german": "Runder Teppich des Wohlstands 3x3",
+		"french": "Tapis Rond de Richesse 3x3",
+		"russian": "Круглый Богатый ковер 3x3",
+		"portuguese": "Tapete Redondo de Riqueza 3x3",
+
+	},
+	"carpetCircle3x3_0_0Description": {
+		"english": "This red, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, rote Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis rouge de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"russian": "Этот красный ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete vermelho de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpetCircle3x3_0_1": {
+		"english": "Round Rug of Wealth 3x3",
+		"german": "Runder Teppich des Wohlstands 3x3",
+		"french": "Tapis Rond de Richesse 3x3",
+		"russian": "Круглый Богатый ковер 3x3",
+		"portuguese": "Tapete Redondo de Riqueza 3x3",
+
+	},
+	"carpetCircle3x3_0_1Description": {
+		"english": "This blue, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, blaue Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis bleu de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"russian": "Этот голубой ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete azul de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpetCircle3x3_0_2": {
+		"english": "Round Rug of Wealth 3x3",
+		"german": "Runder Teppich des Wohlstands 3x3",
+		"french": "Tapis Rond de Richesse 3x3",
+		"russian": "Круглый Богатый ковер 3x3",
+		"portuguese": "Tapete Redondo de Riqueza 3x3",
+
+	},
+	"carpetCircle3x3_0_2Description": {
+		"english": "This green, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, grüne Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis vert de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"russian": "Этот зеленый ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete verde de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpetCircle3x3_1_0": {
+		"english": "Round Rug of Square Order 3x3",
+		"german": "Runder Teppich der quadratischen Ordnung 3x3",
+		"french": "Tapis Rond d'Ordre Carré 3x3",
+		"russian": "Круглый Ковер Квадратного Ордена 3x3",
+		"portuguese": "Tapete Redondo de Ordem Quadrada 3x3",
+
+	},
+	"carpetCircle3x3_1_0Description": {
+		"english": "A well made purple rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger lila Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis violet bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный фиолетовый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete roxo bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpetCircle3x3_1_1": {
+		"english": "Round Rug of Square Order 3x3",
+		"german": "Runder Teppich der quadratischen Ordnung 3x3",
+		"french": "Tapis Rond d'Ordre Carré 3x3",
+		"russian": "Круглый Ковер Квадратного Ордена 3x3",
+		"portuguese": "Tapete Redondo de Ordem Quadrada 3x3",
+
+	},
+	"carpetCircle3x3_1_1Description": {
+		"english": "A well made yellow rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger gelbe Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis jaune bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный желтый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete amarelo bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpetCircle3x3_1_2": {
+		"english": "Round Rug of Square Order 3x3",
+		"german": "Runder Teppich der quadratischen Ordnung 3x3",
+		"french": "Tapis Rond d'Ordre Carré 3x3",
+		"russian": "Круглый Ковер Квадратного Ордена 3x3",
+		"portuguese": "Tapete Redondo de Ordem Quadrada 3x3",
+
+	},
+	"carpetCircle3x3_1_2Description": {
+		"english": "A well made orange rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger oranger Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis orange bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный оранжевый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete laranja bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpet5x3_0_0": {
+		"english": "Rug of Wealth 5x3",
+		"german": "Teppich des Wohlstands 5x3",
+		"french": "Tapis de Richesse 5x3",
+		"russian": "Богатый ковер 3x2",
+		"portuguese": "Tapete de Riqueza 5x3",
+
+	},
+	"carpet5x3_0_0Description": {
+		"english": "This red, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, rote Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis rouge de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"russian": "Этот красный ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete vermelho de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpet5x3_0_1": {
+		"english": "Rug of Wealth 5x3",
+		"german": "Teppich des Wohlstands 5x3",
+		"french": "Tapis de Richesse 5x3",
+		"russian": "Богатый ковер 5x3",
+		"portuguese": "Tapete de Riqueza 5x3",
+
+	},
+	"carpet5x3_0_1Description": {
+		"english": "This blue, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, blaue Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis bleu de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"russian": "Этот синий ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete azul de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpet5x3_0_2": {
+		"english": "Rug of Wealth 5x3",
+		"german": "Teppich des Wohlstands 5x3",
+		"french": "Tapis de Richesse 5x3",
+		"russian": "Богатый ковер 5x3",
+		"portuguese": "Tapete de Riqueza 5x3",
+
+	},
+	"carpet5x3_0_2Description": {
+		"english": "This green, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
+		"german": "Dieser hochwertige, grüne Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
+		"french": "Ce tapis vert de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
+		"russian": "Этот зеленый ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
+		"portuguese": "Este tapete verde de alta qualidade dá aos seus quartos aquele pequeno especial que está faltando. Você sabe o que eu quero dizer!",
+
+	},
+	"carpet5x3_1_0": {
+		"english": "Rug of Square Order 5x3",
+		"german": "Teppich der quadratischen Ordnung 5x3",
+		"french": "Tapis d'Ordre Carré 5x3",
+		"russian": "Ковер Квадратного Ордена 5x3",
+		"portuguese": "Tapete de Ordem Quadrada 5x3",
+
+	},
+	"carpet5x3_1_0Description": {
+		"english": "A well made purple rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger lila Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis violet bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный фиолетовый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete roxo bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpet5x3_1_1": {
+		"english": "Rug of Square Order 5x3",
+		"german": "Teppich der quadratischen Ordnung 5x3",
+		"french": "Tapis d'Ordre Carré 5x3",
+		"russian": "Ковер Квадратного Ордена 5x3",
+		"portuguese": "Tapete de Ordem Quadrada 5x3",
+
+	},
+	"carpet5x3_1_1Description": {
+		"english": "A well made yellow rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger gelbe Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis jaune bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный желтый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete amarelo bem feito com um padrão muito estruturado. Tudo está em ordem!",
+
+	},
+	"carpet5x3_1_2": {
+		"english": "Rug of Square Order 5x3",
+		"german": "Teppich der quadratischen Ordnung 5x3",
+		"french": "Tapis d'Ordre Carré 5x3",
+		"russian": "Ковер Квадратного Ордена 5x3",
+		"portuguese": "Tapete de Ordem Quadrada 5x3",
+
+	},
+	"carpet5x3_1_2Description": {
+		"english": "A well made orange rug with a very structured pattern. Everything is in order!",
+		"german": "Ein wertiger oranger Teppich mit einem sehr strukturierten Muster. Alles in bester Ordnung!",
+		"french": "Un tapis orange bien fait avec un motif très structuré. Tout est en ordre !",
+		"russian": "Высококлассный оранжевый ковер с орнаментом. Как вы пожелаете!",
+		"portuguese": "Um tapete laranja bem feito com um padrão muito estruturado. Tudo está em ordem!",
+	},
+
+
 // Chests
 //*******
 
@@ -1069,7 +1559,7 @@
 		"chinese": "木盆栽",
 	},
 	"potWood0Variation6Description": {
-		"english": "A simple wooden bucket with a red fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you happy the most.",
+		"english": "A simple wooden bucket with a red fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you the most happy.",
 		"german": "Ein einfacher Holzeimer, in dem eine rote Herbstblume eingepflanzt ist. Sie duftet verführerisch. Machnmal sind es die einfachen Dinge im Leben, die einem die größte Freude bereiten können.",
 		"spanish": "Una simple cubeta de madera con flores de otoño rojas plantadas. Su aroma es encantador. A veces son las cosas simples las que te hacen más feliz.",
 		"french": "Un simple seau en bois avec une fleur automnale rouge plantée à l'intérieur. Son odeur est envoûtante. Parfois, ce sont les choses simples qui vous rendent le plus heureux.",
@@ -1095,7 +1585,7 @@
 		"chinese": "木盆栽",
 	},
 	"potWood0Variation7Description": {
-		"english": "A simple wooden bucket with an orange fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you happy the most.",
+		"english": "A simple wooden bucket with an orange fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you the most happy.",
 		"german": "Ein einfacher Holzeimer, in dem eine orange Herbstblume eingepflanzt ist. Sie duftet verführerisch. Machnmal sind es die einfachen Dinge im Leben, die einem die größte Freude bereiten können.",
 		"spanish": "Una simple cubeta de madera con flores de otoño anaranjadas plantadas. Su aroma es encantador. A veces son las cosas simples las que te hacen más feliz.",
 		"french": "Un simple seau en bois avec une fleur automnale orange plantée à l'intérieur. Son odeur est envoûtante. Parfois, ce sont les choses simples qui vous rendent le plus heureux.",
@@ -1277,7 +1767,7 @@
 		"chinese": "木盆栽",
 	},
 	"potWood1Variation6Description": {
-		"english": "A simple wooden pot with a red fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you happy the most.",
+		"english": "A simple wooden pot with a red fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you the most happy.",
 		"german": "Ein einfacher Holztopf, in dem eine rote Herbstblume eingepflanzt ist. Sie duftet verführerisch. Machnmal sind es die einfachen Dinge im Leben, die einem die größte Freude bereiten können.",
 		"french": "Un simple pot en bois avec une fleur automnale rouge plantée à l'intérieur. Son odeur est envoûtante. Parfois, ce sont les choses simples qui vous rendent le plus heureux.",
 		"spanish": "Un simple florero de madera con flores de otoño rojas plantadas. Su aroma es encantador. A veces son las cosas simples las que te hacen más feliz.",
@@ -1303,7 +1793,7 @@
 		"chinese": "木盆栽",
 	},
 	"potWood1Variation7Description": {
-		"english": "A simple wooden pot with an orange fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you happy the most.",
+		"english": "A simple wooden pot with an orange fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you the most happy.",
 		"german": "Ein einfacher Holztopf, in dem eine orange Herbstblume eingepflanzt ist. Sie duftet verführerisch. Machnmal sind es die einfachen Dinge im Leben, die einem die größte Freude bereiten können.",
 		"french": "Un simple pot en bois avec une fleur automnale orange plantée à l'intérieur. Son odeur est envoûtante. Parfois, ce sont les choses simples qui vous rendent le plus heureux.",
 		"spanish": "Un simple florero de madera con flores de otoño anaranjadas plantadas. Su aroma es encantador. A veces son las cosas simples las que te hacen más feliz.",
@@ -1486,7 +1976,7 @@
 		"chinese": "石盆栽",
 	},
 	"potStone0Variation6Description": {
-		"english": "A simple stone bucket with a red fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you happy the most.",
+		"english": "A simple stone bucket with a red fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you the most happy.",
 		"german": "Ein einfacher Holzeimer, in dem eine rote Herbstblume eingepflanzt ist. Sie duftet verführerisch. Machnmal sind es die einfachen Dinge im Leben, die einem die größte Freude bereiten können.",
 		"french": "Un simple pot en pierre avec une fleur automnale rouge plantée à l'intérieur. Son odeur est envoûtante. Parfois, ce sont les choses simples qui vous rendent le plus heureux.",
 		"spanish": "Un impresionante florero de piedra con flores de otoño rojas plantadas. Su aroma es encantador. A veces son las cosas simples las que te hacen más feliz.",
@@ -1512,7 +2002,7 @@
 		"chinese": "石盆栽",
 	},
 	"potStone0Variation7Description": {
-		"english": "A simple stone bucket with an orange fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you happy the most.",
+		"english": "A simple stone bucket with an orange fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you the most happy.",
 		"german": "Ein einfacher Holzeimer, in dem eine orange Herbstblume eingepflanzt ist. Sie duftet verführerisch. Machnmal sind es die einfachen Dinge im Leben, die einem die größte Freude bereiten können.",
 		"french": "Un simple pot en pierre avec une fleur automnale orange plantée à l'intérieur. Son odeur est envoûtante. Parfois, ce sont les choses simples qui vous rendent le plus heureux.",
 		"spanish": "Un impresionante florero de piedra con flores de otoño anaranjadas plantadas. Su aroma es encantador. A veces son las cosas simples las que te hacen más feliz.",
@@ -2900,7 +3390,7 @@
 		"chinese": "土著花盆",
 	},
 	"tikiHang0": {
-		"english": "Mysthical Tiki Artefact",
+		"english": "Mystical Tiki Artefact",
 		"german": "Mystisches Tikiaritefakt ",
 		"french": "Artefact Mythique Tiki",
 		"spanish": "Artefacto Místico Tiki",
@@ -2995,8 +3485,8 @@
 		"chinese": "研究书架",
 	},
 	"bookStandDescription": {
-		"english": "This book stand can be used for research. Smart colonists can analyze crystals to generate research points. Once enough research has been conducted, new buildings are unlocked.",
-		"german": "Dieser Bücherständer kann zur Forschung verwendet werden. Findige Kolonisten können mit Hilfe des Buches Kristalle untersuchen, um Forschungspunkte zu generieren. Wenn genug Forschung erreicht wurde, werden neue Gebäude freigeschalten.",
+		"english": "This book stand can be used for research. Smart colonists can analyze crystals to generate research points. Once enough research has been conducted, new technologies are unlocked.",
+		"german": "Dieser Bücherständer kann zur Forschung verwendet werden. Findige Kolonisten können mit Hilfe des Buches Kristalle untersuchen, um Forschungspunkte zu generieren. Wenn genug Forschung erreicht wurde, werden neue Technologien freigeschalten.",
 		"spanish": "Este atril sirve para investigar. Con la ayuda del libro, colonos inteligentes pueden analizar cristales para generar puntos de investigación. Una vez llegas a un nivel suficiente, nuevos edificios son desbloqueados.",
 		"french": "Ce support de livre peut être utilisé pour la recherche. Les colons intelligents peuvent analyser des cristaux pour générer des points de recherche. Lorsque le niveau de recherche atteint un niveau suffisant, de nouveaux bâtiments sont déverrouillés.",
 		"portuguese": "Esta estante pode ser usada para pesquisa. Com a ajuda do livro, os colonos inteligentes podem analisar os cristais para gerar pontos de pesquisa. Ao atingir um nível de pesquisa alto o suficiente, novos edifícios são desbloqueados.",
@@ -3125,7 +3615,7 @@
 		"chinese": "啤酒厂",
 	},
 	"breweryDescription": {
-		"english": "This masterpiece of brewing technology enables you to brewing the finest beer for your colony. All you need now is an experienced brewmaster and you can get started!",
+		"english": "This masterpiece of brewing technology enables you to brew the finest beer for your colony. All you need now is an experienced brewmaster and you can get started!",
 		"german": "Mit diesem Wunderwerk der Brautechnik lässt sich das feinste Bier für deine Kolonie herstellen. Alles was du jetzt noch brauchst ist ein erfahrener Braumeister und es kann losgehen!",
 		"french": "Ce chef-d’œuvre de la technologie brassicole vous permet de brasser la meilleure bière pour votre colonie. Tout ce dont vous avez besoin maintenant, c'est d'un maître brasseur expérimenté et vous pouvez commencer !",
 		"spanish": "Esa obra maestra de la tecnología cervecera te permite preparar las cervezas más finas para tu colonia. ¡Todo lo que necesitas ahora es un maestro cervecero y puedes empezar!",
@@ -3164,7 +3654,7 @@
 		"chinese": "这个铁匠铺适合想用工具创造杰作的专业铁匠使用。",
 	},
 	"bowmaker": {
-		"english": "Bowmaker's Workshop",
+		"english": "Bowyer's Workshop",
 		"german": "Werkbank für Bogenmacher",
 		"french": "Atelier du Fabricant d'Arcs",
 		"spanish": "Taller de arcos",
@@ -3842,7 +4332,7 @@
 		"chinese": "水井",
 	},
 	"wellWoodDescription": {
-		"english": "Some call it irrigation system, others think of it more as a hole with water in it. No matter how you call it - wells play an important role when you want your crops to receive good care. Plants that have been watered correctly have been reported to yield double or triple harvests!",
+		"english": "Some call it an irrigation system, others think of it more as a hole with water in it. No matter how you call it - wells play an important role when you want your crops to receive good care. Plants that have been watered correctly have been reported to yield double or triple harvests!",
 		"german": "Manche nennen es Bewässerungssystem, für andere ist es nur ein Loch mit Wasser. Egal wie du es nennst - Brunnen spielen eine wichtige Rolle wenn deine Felder gute Pflege erhalten sollen. Pflanzen, die korrekt gegossen werden, können den doppelten oder dreifachen Ertrag abwerfen!",
 		"spanish": "Algunos lo llaman sistema de riego, otros más como un agujero con agua en él. No importa cómo lo llames - juega un importante rol cuando ser trata de que tus plantas reciban un buen trato. ¡Las plantas deben ser bien regadas para que den el doble o el triple de cosecha!",
 		"french": "Certains appellent cela un système d'irrigation, d'autres y voient plutôt un trou rempli d'eau. Peu importe comment vous l'appelez, les puits jouent un rôle important lorsque vous souhaitez que vos cultures reçoivent de bons soins. Il a été rapporté que les plantes correctement arrosées donnent des récoltes doubles ou triples !",
@@ -3992,7 +4482,6 @@
 		"dutch": "Migrantenschip",
 		"portuguese": "Navío Migrante",
 		"turkish": "Mülteci Gemisi",
-		"portuguese": "Navio Migrante",
 		"russian": "Корабль мигрантов",
 		"ukrainian":"Корабель мігрантів",
 		"korean": "이민자의 배",
@@ -4246,7 +4735,7 @@
 		"chinese": "坟墓",
 	},
 	"graveSimpleDescription": {
-		"english": "In the event of death, this is the simpliest solution. Your enemies deserve no better than this for sure...",
+		"english": "In the event of death, this is the simplest solution. Your enemies deserve no better than this for sure...",
 		"german": "Wenn die Beerdigung schnell und einfach über die Bühne gehen soll, ist man hiermit gut beraten.",
 		"french": "En cas de décès, c'est la meilleure solution. Vos ennemis ne méritent pas mieux que ça...",
 		"spanish": "Si quieres un entierro rápido y sencillo, esta es una buena opción. Tus enemigos no merecen más que esto, seguro...",
@@ -4366,6 +4855,48 @@
 		"ukrainian":"%supporter% - велика людина, яка зробила можливим наше існування в цій колонії.\n\nВшануймо %himHer% память. Нехай у %heShe% ніг завжди буде їжа на зиму!",
 		"korean": "최초의 개척자 중 한 명인 위대한 %supporter% 님은 이 정착지를 가능하게 해 주셨습니다.\n\n%heShe%에게 끊임없는 감사를 전합니다. %heShe%에게는 겨울에 식량이 떨어지는 일이 없기를!",
 		"chinese": "作为最初的创建者之一，这位伟大的%supporter%为这个殖民地做出了贡献。\n\n永远感谢%himHer%。愿%heShe%永远有食物过冬!",
+	},
+	"statueGoblin0": {
+		"english": "Statue of Kū the Strong",
+		"german": "Statue von Kū dem Starken",
+		"french": "Statue de Kū le Fort",
+		"portuguese": "Estátua de Kū, o Forte",
+		"russian": "Статуя сильного Kū",
+	},
+	"statueGoblin0": {
+		"english": "This statue shows Kū the Stong. Legends say, it was him who united the islands' tribes to fight off a pirate invasion, long ago. To this very day, every Tikigoblin knows the name of their great commander.",
+		"german": "Diese Statue zeigt Kū den Starken. Den Legenden nach war er es der die Stämme vor langer Zeit einte, um das Inselreich von einer Priateninvasion zu bewahren. Noch heute kennt ein jeder Tikigoblin den Namen ihres großen Heeresführers.",
+		"french": "Cette statue représente Kū le Stong. Selon la légende, c'est lui qui a uni les tribus des îles pour lutter contre une invasion de pirates, il y a longtemps. Aujourd'hui encore, chaque Tikigoblin connaît le nom de son grand commandant.",
+		"portuguese": "Esta estátua mostra Kū, o Stong. Dizem as lendas que foi ele quem uniu as tribos das ilhas para lutar contra uma invasão de piratas, há muito tempo. Até hoje, todo Tikigoblin sabe o nome do seu grande comandante.",
+		"russian": "На этой статуе выточен сильный Kū. Легенды говорят, что именно он объединил племена островов, чтобы дать отпор вторжению пиратов. По сей день каждый Тикигоблин знает имя своего великого полководца.",
+	},
+	"statueGoblin1": {
+		"english": "Statue of Hina the Brave",
+		"german": "Statue von Hina der Mutigen",
+		"french": "Statue de Hina la Brave",
+		"portuguese": "Estátua de Hina, o valente",
+		"russian": "Статуя храброй Хины",
+	},
+	"statueGoblin1": {
+		"english": "As a role model for Tikigoblin women, Hina embodies courage, strength and wisdom. A long long time ago, she faced the danger of a vulcano eruption and thereby introduced the Tikigoblins to fire. Eternal thanks to her for light in the dark and hot meals in the cauldron!",
+		"german": "Als Rollenvorbild für Tikigoblinfrauen verköpert Hina Tapferkeit, Stärke und Weißheit in einem. Unter größter Gefahr begab sie sich vor langer Zeit zu einen ausbrechenden Vulkan und brachte den Tikigoblins so das Feuer. Auf ewig sei ihr gedankt für Licht im Dunkeln und warmes Essen im Kessel!",
+		"french": "En tant que modèle pour les femmes Tikigoblines, Hina incarne le courage, la force et la sagesse. Il y a longtemps, elle a fait face au danger d'une éruption volcanique et a ainsi introduit les Tikigoblins au feu. Merci éternel à elle pour la lumière dans l'obscurité et les repas chauds dans le chaudron !",
+		"russian": "Женский объект для подражания тикигоблинами. Хина воплощает в себе мужество, силу и мудрость. Давным-давно, она столкнулось лицом с опастностью при извержении вулкана, благодаря чему у тикигоблинов появился огонь! Вечная ей благодарность за свет и приготовленную пищу!",
+		"portuguese": "Como um modelo para as mulheres de Tikigoblin, Hina incorpora coragem, força e sabedoria. Há muito tempo atrás, ela enfrentou o perigo de uma erupção vulcânica e, assim, introduziu os tikigoblins no fogo. Eterno obrigado a ela por luz nas refeições escuras e quentes no caldeirão!",
+	},
+	"statueGoblin2": {
+		"english": "Statue of Wākea the Just",
+		"german": "Statue von Wākea dem Gerechten",
+		"french": "Statue de Wākea la Juste",
+		"portuguese": "Estátua do Wākea o justo",
+		"russian": "Статуя Вакеи справедливой",
+	},
+	"statueGoblin2": {
+		"english": "In a time of long lasting war and destruction, Wākea the Just's talent for negotion enabled a (short-lived) era of peace. While the tribes still quarrel over severl matters, Wākea taught them that it's sometimes better to give in and work together. No matter how severe the conflict might seem, there is always a solution. One just has to search for it! ",
+		"german": "In einer ewig währenden Zeit des Krieges und der Zerstörung war es Wākea der Gerechte, dessen geschicktes Verhandlungstalent eine (kurzfristige) Era des Friedens einläutete. Zwar geraten die Stämme immer wieder einmal aneinander, doch haben sie dank Wākea gelernt, dass es ab und an besser ist nachzugeben und zusammen zu arbeiten. Egal wie schwerwiegend der Konflikt auch scheint, es gibt immer eine Lösung. Man muss nur danach suchen.",
+		"french": "Dans un temps de guerre et de destruction de longue durée, le talent de Wākea la Juste pour la négociation a permis une ère de paix (de courte durée). Alors que les tribus se querellent encore sur des questions épineuses, Wākea leur a appris qu'il est parfois préférable de céder et de travailler ensemble. Quelle que soit la gravité du conflit, il y a toujours une solution. Il suffit de le chercher !",
+		"russian": "Еще давно, когда во всем мире были воины, Вакея поддерживала мир. Она говорила, что насколько бы серьезным конфликт не был - всегда есть мирное решение. Нужно просто его найти!",
+		"portuguese": "Em um tempo de guerra e destruição de longa duração, o talento de negação de Wakea, o Justo, possibilitou uma era (de curta duração) de paz. Enquanto as tribos ainda disputam questões importantes, Wākea lhes ensinou que às vezes é melhor ceder e trabalhar juntos. Não importa quão grave o conflito possa parecer, há sempre uma solução. Um só tem que procurar por isso!",
 	},
 
 // Lights

@@ -1,4 +1,4 @@
-﻿{
+{
 	"research": {
 		"english": "Research",
 		"german": "Forschung",
@@ -59,6 +59,89 @@
 		"arabic": ":ﻲﻟﺎﺘﻟﺍ ﺢﺘﻔﻳ",
 		"polish": "Odblokowane obiekty:",
 	},
+
+
+
+	"diplomacy": {
+		"english": "Diplomacy",
+		"german": "Diplomatie",
+		"french": "Diplomatie",
+		"portuguese": "Diplomacia",
+		"russian": "Дипломатия",
+	},
+	"showOnMap": {
+		"english": "Show Location",
+		"german": "Ort zeigen",
+		"french": "Afficher l'emplacement",
+		"portuguese": "mostrar a localização",
+		"russian": "Показать местоположение",
+	},
+	"contactFaction": {
+		"english": "Contact",
+		"german": "Kontaktieren",
+		"french": "Contacter",
+		"portuguese": "Contato",
+		"russian": "Связаться",
+	},
+	"relationshipPoints": {
+		"english": "Relationship points:",
+		"german": "Beziehungspunkte:",
+		"french": "Points de relation :",
+		"portuguese": "Pontos de relacionamento:",
+		"russian": "Баллы отношений:",
+	},
+	"pointsMaximumAcronym": {
+		"english": "max",
+		"german": "max",
+		"french": "max",
+		"portuguese": "max",
+		"russian": "макс",
+	},
+	"neutralRelations": {
+		"english": "Neutral relations",
+		"german": "Neutrale Beziehungen",
+		"french": "Relations neutres",
+		"portuguese": "Relações neutras",
+		"russian": "Нейтральные отношения",
+	},
+	"truceWithTime": {
+		"english": "Truce (%seconds% s)",
+		"german": "Waffenstillstand (%seconds% s)",
+		"french": "Trêve (%seconds% s)",
+		"portuguese": "Trégua (%seconds% s)",
+		"russian": "Перемирие (%seconds% сек.)",
+	},
+	"willAttackOnSight": {
+		"english": "Will attack on sight",
+		"german": "Greift an wenn in Sichtweite",
+		"french": "Attaquera à vue",
+		"portuguese": "Vai atacar à vista",
+		"russian": "Будут атаковать на месте",
+	},
+	"strainedRelations": {
+		"english": "Strained relations",
+		"german": "Angespannte Beziehungen",
+		"french": "Relations tendues",
+		"portuguese": "Relações tensas",
+		"russian": "Напряженные отношения",
+	},
+	"friendlyRelations": {
+		"english": "Friendly relations",
+		"german": "Freundliche Beziehungen",
+		"french": "Relations amicales",
+		"portuguese": "Relações amistosas",
+		"russian": "Дружеские отношения",
+	},
+	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
+		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
+		"german": "Freundlich wenn Beziehungen über %friendlyLimit%.\nGreift Kolonisten in Sichtweite an wenn Beziehungen unter %attackingLimit%.",
+		"french": "Amical si relations au-dessus de %friendlyLimit%.\nAttaques à vue si relations en-dessous de %attackingLimit%.",
+		"portuguese": "Amigável se as relações sobre %friendlyLimit%.\nAtaques à vista se as relações estiverem abaixo de %attackingLimit%.",
+		"russian": "Дружеские, если отношения выше %friendlyLimit%.\nАтакуют на месте, если отношение ниже %attackingLimit%.",
+	},
+
+
+
 	"mood": {
 		"english": "Mood",
 		"german": "Stimmung",
@@ -1136,6 +1219,7 @@
 		"arabic": "ﺔﻧﺎﺘﻤﻟﺍ",
 		"ukrainian":"Міцність",
 		"polish": "Wytrzymałość",
+		"korean": "내구도",
 	},
 	"work": {
 		"english": "Work",
@@ -1271,6 +1355,13 @@
 		"korean": "장식",
 		"arabic": "ﺭﻮﻜﻳﺪﻟﺍ",
 		"polish": "Dekoracje",
+	},
+	"rugs": {
+		"english": "Rugs",
+		"german": "Teppiche",
+		"french": "Tapis",
+		"portuguese": "Tapetes",
+		"russian": "Ковры",
 	},
 	"floors": {
 		"english": "Floors",
@@ -1996,6 +2087,13 @@
 		//"arabic": "",
 		"polish": "Handlarz",
 	},
+	"tradingWithFaction": {
+		"english": "Trading with '%faction%'",
+		"german": "Handel mit '%faction%'",
+		"french": "Commerce avec '%faction%'",
+		"portuguese": "Negociação com '%faction%'",
+		"russian": "Торговля с '%faction%'",
+	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
 		"german": "Kolonie verkauft an den Händler",
@@ -2249,6 +2347,7 @@
 		"russian": "секунд",
 		"ukrainian":"секунд",
 		"chinese": "秒",
+		"korean": "초",
 		//"arabic": "",
 		"polish": "sekund",
 	},
@@ -2423,7 +2522,6 @@
 		"french": "Caméra libre",
 		"spanish": "Cámara libre",
 		"russian": "Пользовательская камера",
-		"ukrainian":"Користувацька камера",
 		"portuguese": "câmera de vôo livre",
 		"dutch": "Vrijvliegende Camera",
 		"chinese": "自由镜头",

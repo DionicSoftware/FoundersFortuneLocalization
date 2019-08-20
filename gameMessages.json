@@ -1,4 +1,4 @@
-﻿{
+{
 
 	// SMALL FEEDBACK TO PLAYER ACTIONS
 	"notEnoughResources": {
@@ -109,7 +109,7 @@
 		"korean": "이제 %season%입니다.",
 	},
 	"notificationTitle_ColonistTerribleMood": {
-		"english": "Desparation",
+		"english": "Desperation",
 		"dutch":  "Wanhoop",
 		"german": "Hoffnungslosigkeit",
 		"french": "Désespoir",
@@ -492,6 +492,22 @@
 		"turkish": "Parti!    %timeLeft%",
 		"korean": "축제!    %timeLeft%",
 	},
+	"notificationTitle_StatuePresentAccepted": {
+		"english": "Our statue present was gratefully accepted",
+		"german": "Unsere Geschenkstatue wurde dankbar angenommen",
+		"french": "Notre cadeau de statue a été accepté avec gratitude",
+		"portuguese": "Nossa estátua presente foi aceita com gratidão",
+		"russian": "Нашу подарочную статую приняли с благодарностью",
+	},
+
+
+
+
+
+
+
+
+
 
 	// FLOATING TEXTS
 	"expectationFulfilled": {
@@ -688,6 +704,20 @@
 		"ukrainian": "Торговець тільки що причалив на узбережжі. Надішліть колоніста, щоб поторгуватись!",
 		"korean": "상인이 막 해안에 상륙했습니다. 개척자를 보내 좋은 거래를 위해 흥정하세요!",
 	},
+	"messageTitle_TraderRaid": {
+		"english": "The Traders' Guild is attacking the village!",
+		"german": "Die Händergilde greift das Dorf an!",
+		"french": "La Guilde des Marchands attaque le village !",
+		"portuguese": "A Guilda dos comerciantes está atacando a aldeia!",
+		"russian": "Гильдия торговцев атакует вашу деревню!",
+	},
+	"messageText_TraderRaid": {
+		"english": "Usually, the Guild prefers to trade in peace. What did the colonists do to piss them off so badly?",
+		"german": "Die Gilde handelt am liebsten in friedlichen Gebieten. Was haben die Kolonisten getan um sie so anzustacheln?",
+		"french": "Habituellement, la Guilde préfère faire du commerce en paix. Qu'est-ce que les colons ont fait pour les énerver à ce point ?",
+		"portuguese": "Normalmente, o Clã prefere negociar em paz. O que os colonos fizeram para irritá-los tanto?",
+		"russian": "Обычно гильдия торговцев настроена на мир. Что заставило их передумать?",
+	},
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Tantrum!",
 		"dutch":  "Agressieve driftbui!",
@@ -862,7 +892,7 @@
 		"korean": "회복",
 	},
 	"messageText_TutorialHealing": {
-		"english": "A colonist is wounded! Make sure they gets enough sleep to rest their body. An experienced doctor can create more advanced remedies at the potion lab.",
+		"english": "A colonist is wounded! Make sure they get enough sleep to rest their body. An experienced doctor can create more advanced remedies at the potion lab.",
 		"dutch":  "Een kolonist is gewond! Zorg ervoor dat ze voldoende slaap krijgen om hun lichaam te laten rusten. Een ervaren arts kan geavanceerdere remedies maken in het drankjeslaboratorium.",
 		"german": "Ein Kolonist ist verletzt! Stelle sicher, dass er genug Schlaf bekommt, um seinen Körper auszuruhen. Ein erfahrener Arzt kann fortgeschrittene Heilmittel am Alchemielabor herstellen.",
 		"french": "Un colon s'est blessé ! Assurez-vous qu'il dorme assez pour se rétablir. Un docteur expérimenté peut créer plus de remèdes avancés au laboratoire de potion.",
@@ -1196,7 +1226,7 @@
 		"korean": "치료가 엉망입니다\n%firstName%이 장애를 가지게 되었습니다",
 	},
 	"messageText_LimpingBecauseOfBadSplintTreatment": {
-		"english": "It's a begginer's mistake, but can also happen to experienced doctors: Someone messed up the splints to cure %firstName%'s broken leg. It's no longer broken, but now %heShe%'s limping permanently and can't walk as fast as %heShe% used to.",
+		"english": "It's a beginner's mistake, but can also happen to experienced doctors: Someone messed up the splints to cure %firstName%'s broken leg. It's no longer broken, but now %heShe%'s limping permanently and can't walk as fast as %heShe% used to.",
 		"dutch":  "Het is een fout van een beginner, maar kan ook ervaren artsen overkomen: iemand heeft de spalken verknald om het gebroken been van %firstName% te genezen. Het is niet meer kapot, maar nu hinkt %hijZei% permanent en kan niet meer zo snel lopen als %hijZei% vroeger.",
 		"german": "Es ist ein Anfängerfehler, kann aber auch einem erfahrenen Arzt passieren: Jemand hat Mist gebaut und die Schienen für das gebrochene Bein von %firstName% falsch befestigt. Jetzt ist das Bein zwar nicht mehr gebrochen, aber %erSie% hinkt jetzt beim gehen und ist nicht mehr so schnell wie früher.",
 		"spanish": "Es un error de principiante, pero también le pasa a doctores experimentados: Alguien intentó entablar la pierna de %firstName% pero no lo logró. Ya no está rota, pero ahora %élElla% cojea permanentemente y no puede caminar tan rápido como antes.",

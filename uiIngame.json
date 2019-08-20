@@ -13,6 +13,7 @@
 		"korean": "연구",
 		"arabic": "ﺚﺤﺒﻟﺍ",
 		"polish": "Badania",
+		"italian": "Ricerca",
 	},
 	"researchOverview": {
 		"english": "Research Overview",
@@ -28,6 +29,7 @@
 		"korean": "연구 요약",
 		"arabic": "ﺙﺎﺤﺑﻷﺍ ﻰﻠﻋ ﺔﻣﺎﻋ ﺓﺮﻈﻧ",
 		"polish": "Przegląd badań",
+		"italian": "Panoramica ricerche",
 	},
 	"nothingUnlocked": {
 		"english": "Nothing unlocked.",
@@ -43,6 +45,7 @@
 		"korean": "아무것도 없습니다.",
 		"arabic": ".ﺡﻮﺘﻔﻣ ﺀﻲﺷ ﻻ",
 		"polish": "Nic nie jest odblokowane",
+		"italian": "Nulla sbloccato.",
 	},
 	"unlockedObjects": {
 		"english": "Unlocked Objects:",
@@ -58,6 +61,7 @@
 		"korean": "해제된 객체들:",
 		"arabic": ":ﻲﻟﺎﺘﻟﺍ ﺢﺘﻔﻳ",
 		"polish": "Odblokowane obiekty:",
+		"italian": "Oggetti sbloccati:",
 	},
 
 
@@ -68,7 +72,7 @@
 		"french": "Diplomatie",
 		"portuguese": "Diplomacia",
 		"russian": "Дипломатия",
-		"chinese": "外交",
+		"italian": "Diplomazia",
 	},
 	"showOnMap": {
 		"english": "Show Location",
@@ -76,7 +80,7 @@
 		"french": "Afficher l'emplacement",
 		"portuguese": "mostrar a localização",
 		"russian": "Показать местоположение",
-		"chinese": "显示位置",
+		"italian": "Mostra luogo",
 	},
 	"contactFaction": {
 		"english": "Contact",
@@ -84,7 +88,7 @@
 		"french": "Contacter",
 		"portuguese": "Contato",
 		"russian": "Связаться",
-		"chinese": "联络",
+		"italian": "Contatto",
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
@@ -92,7 +96,7 @@
 		"french": "Points de relation :",
 		"portuguese": "Pontos de relacionamento:",
 		"russian": "Баллы отношений:",
-		"chinese": "关系值",
+		"italian": "Punti relazione:",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -100,7 +104,7 @@
 		"french": "max",
 		"portuguese": "max",
 		"russian": "макс",
-		"chinese": "最大值",
+		"italian": "max",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
@@ -108,7 +112,7 @@
 		"french": "Relations neutres",
 		"portuguese": "Relações neutras",
 		"russian": "Нейтральные отношения",
-		"chinese": "中立关系",
+		"italian": "Relazioni neutrali",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
@@ -116,7 +120,7 @@
 		"french": "Trêve (%seconds% s)",
 		"portuguese": "Trégua (%seconds% s)",
 		"russian": "Перемирие (%seconds% сек.)",
-		"chinese": "停战(%seconds% 秒)",
+		"italian": "Tregua (%seconds% s)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
@@ -124,7 +128,7 @@
 		"french": "Attaquera à vue",
 		"portuguese": "Vai atacar à vista",
 		"russian": "Будут атаковать на месте",
-		"chinese": "一触即发",
+		"italian": "Attaccherà a vista",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -132,7 +136,7 @@
 		"french": "Relations tendues",
 		"portuguese": "Relações tensas",
 		"russian": "Напряженные отношения",
-		"chinese": "敌对关系",
+		"italian": "Relazioni tese",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
@@ -140,7 +144,7 @@
 		"french": "Relations amicales",
 		"portuguese": "Relações amistosas",
 		"russian": "Дружеские отношения",
-		"chinese": "友好关系",
+		"italian": "Relazioni amichevoli",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
@@ -148,7 +152,7 @@
 		"french": "Amical si relations au-dessus de %friendlyLimit%.\nAttaques à vue si relations en-dessous de %attackingLimit%.",
 		"portuguese": "Amigável se as relações sobre %friendlyLimit%.\nAtaques à vista se as relações estiverem abaixo de %attackingLimit%.",
 		"russian": "Дружеские, если отношения выше %friendlyLimit%.\nАтакуют на месте, если отношение ниже %attackingLimit%.",
-		"chinese": "如果关系超过%friendlyLimit%则为友好。\n如果关系低于%attackingLimit%，则立即攻击。",
+		"italian": "Amichevole se le relazioni superano %friendlyLimit%.\nAttacca a vista se le relazioni scendono al di sotto di %attackingLimit%.",
 	},
 
 
@@ -167,6 +171,7 @@
 		"korean": "기분",
 		"arabic": "ﺝﺍﺰﻤﻟﺍ",
 		"polish": "Humor",
+		"italian": "Umore",
 	},
 	"friendships": {
 		"english": "Friendships",
@@ -182,6 +187,7 @@
 		"korean": "친밀도",
 		"arabic": "ﺕﺎﻗﺍﺪﺼﻟﺍ",
 		"polish": "Przyjaźnie",
+		"italian": "Amicizie",
 	},
 	"hunger": {
 		"english": "Hunger",
@@ -197,6 +203,7 @@
 		"korean": "배고픔",
 		"arabic": "ﻉﻮﺠﻟﺍ",
 		"polish": "Głód",
+		"italian": "Fame",
 	},
 	"stamina": {
 		"english": "Stamina",
@@ -212,6 +219,7 @@
 		"korean": "체력",
 		"arabic": "ﻞﻤﺤﺘﻟﺍ",
 		"polish": "Energia",
+		"italian": "Energia",
 	},
 	"health": {
 		"english": "Health",
@@ -227,6 +235,7 @@
 		"korean": "생명력",
 		"arabic": "ﺔﺤﺼﻟﺍ",
 		"polish": "Zdrowie",
+		"italian": "Salute",
 	},
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -242,6 +251,7 @@
 		"korean": "만약 개척자들을 지속적으로 행복하게 해 주지 못한다면, 당신의 명령에 반항하기 시작하고, 결국 어떤 지시도 따르지 않게 될 겁니다.",
 		"arabic": ".ﻚﺗﺎﺒﻠﻃ ﺔﻌﺑﺎﺘﻣ ﻦﻋ ﻥﻮﻔﻗﻮﺘﻳ ﺪﻗﻭ ﻚﻳﺪﺤﺗ ﻲﻓ ﻥﻭﺃﺪﺒﻳ ﻑﻮﺴﻓ ، ﺀﺍﺪﻌﺳ ﻚﻳﺮﻤﻌﺘﺴﻣ ﻖﺒﺗ ﻢﻟ ﺍﺫﺇ",
 		"polish": "Jeśli nie będziesz utrzymwał kolonistów szczęśliwych, mogą oni przestać wykonywać Twoje polecenia.",
+		"italian": "Se non rendi felici i tuoi coloni, inizieranno ad essere sprezzanti e potrebbero smettere di seguire i tuoi ordini.",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -257,6 +267,7 @@
 		"korean": "아직 게임에 온전히 포함된 개념이 아닙니다.",
 		"arabic": ".ﻥﻵﺍ ﻰﺘﺣ ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﻞﻣﺎﻜﻟﺎﺑ ﺔﺟﺎﺤﻟﺍ ﻩﺬﻫ ﻦﻴﻤﻀﺗ ﻢﺘﻳ ﻢﻟ",
 		"polish": "To nie zostało jeszcze w pełni dodane do gry.",
+		"italian": "Questo bisogno non è stato ancora completamente implementato nel gioco.",
 	},
 	"needsDescriptionHunger": {
 		"english": "Gather apples or plant crops to take care of food.",
@@ -272,6 +283,7 @@
 		"korean": "사과를 따거나 작물을 길러 식량에 신경쓰세요.",
 		"arabic": ".ﻡﺎﻌﻄﻟﺎﺑ ﻡﺎﻤﺘﻫﻺﻟ ﻞﻴﺻﺎﺤﻤﻟﺍ ﻉﺭﺯﺍ ﻭﺃ ﺡﺎﻔﺘﻟﺍ ﻊﻤﺟﺍ",
 		"polish": "Zbieraj jabłka lub sadź uprawy aby zadbać o jedzenie.",
+		"italian": "Raccogli le mele o pianta delle colture per procurarti del cibo.",
 	},
 	"needsDescriptionStamina": {
 		"english": "Give your colonist a break every once in a while so they can recover.",
@@ -287,6 +299,7 @@
 		"korean": "개척자들에게도 가끔 한 번씩 쉴 시간을 주세요. 쉬어야 회복됩니다.",
 		"arabic": ".ﻲﻓﺎﻌﺘﻟﺍ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻰﺘﺣ ﺖﻗﻮﻟﺍ ﻦﻣ ﺓﺮﺘﻓ ﻞﻛ ﺔﺣﺍﺮﺘﺳﺍ ﻚﻳﺮﻤﻌﺘﺴﻣ ﺢﻨﻣﺍ",
 		"polish": "Daj koloniście przerwę raz na jakiś czas, aby mogli odpocząć.",
+		"italian": "Concedi una pausa ai tuoi coloni ogni tanto, in modo che possano riposarsi un po'.",
 	},
 	"needsDescriptionHealth": {
 		"english": "Let your colonists sleep and or give them healing potions to increase their health.",
@@ -302,6 +315,7 @@
 		"korean": "개척자들을 잠자게 하거나, 회복약을 주면 생명력이 회복됩니다.",
 		"arabic": ".ﻢﻬﺘﺤﺻ ﺓﺩﺎﻳﺰﻟ ﺀﺎﻔﺷ ﺕﺎﻋﺮﺟ ﻢﻬﻄﻋﺃ ﻭﺃ ﻡﻮﻨﻟﺎﺑ ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﺢﻤﺳﺍ",
 		"polish": "Pozwól Twoim kolonistom spać lub daj im mikstury lecznicze, by zwiększyć ich zdrowie.",
+		"italian": "Fai dormire i tuoi coloni e/o dai loro pozioni curative per ripristinare la loro salute.",
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -317,6 +331,7 @@
 		"korean": "식량 분배",
 		"arabic": "ﻡﺎﻌﻄﻟﺍ ﺺﺼﺣ",
 		"polish": "Racje żywnościowe",
+		"italian": "Razioni di cibo",
 	},
 	"thoughts": {
 		"english": "Thoughts",
@@ -332,6 +347,7 @@
 		"korean": "생각",
 		"arabic": "ﺭﺎﻜﻓﻷﺍ",
 		"polish": "Myśli",
+		"italian": "Pensieri",
 	},
 	"personality": {
 		"english": "Personality",
@@ -347,6 +363,7 @@
 		"korean": "개성",
 		"arabic": "ﺔﻴﺼﺨﺸﻟﺍ",
 		"polish": "Osobowość",
+		"italian": "Personalità",
 	},
 	"saveChanges": {
 		"english": "Save Changes",
@@ -362,6 +379,7 @@
 		"korean": "변경사항 저장",
 		"arabic": "ﺕﺍﺮﻴﻴﻐﺘﻟﺍ ﻆﻔﺣ",
 		"polish": "Zapisz zmiany",
+		"italian": "Salva cambiamenti",
 	},
 	"name": {
 		"english": "Name",
@@ -377,6 +395,7 @@
 		"korean": "이름",
 		"arabic": "ﻢﺳﻻﺍ",
 		"polish": "Imię",
+		"italian": "Nome",
 	},
 	"experience": {
 		"english": "Experience",
@@ -392,6 +411,7 @@
 		"korean": "경험치",
 		"arabic": "ﺓﺮﺒﺨﻟﺍ",
 		"polish": "Doświadczenie",
+		"italian": "Esperienza",
 	},
 	"view": {
 		"english": "View",
@@ -407,6 +427,7 @@
 		"korean": "보기",
 		"arabic": "ﺮﻈﻧﺍ",
 		"polish": "Zobacz",
+		"italian": "Mostra",
 	},
 	"info": {
 		"english": "Info",
@@ -422,6 +443,7 @@
 		"korean": "정보",
 		"arabic": "ﺕﺎﻣﻮﻠﻌﻣ",
 		"polish": "Info",
+		"italian": "Info",
 	},
 	"openWebsiteShort": {
 		"english": "Open",
@@ -437,6 +459,7 @@
 		"korean": "열기",
 		"arabic": "ﺢﺘﻓﺍ",
 		"polish": "Otwórz",
+		"italian": "Apri",
 	},
 	"dismiss": {
 		"english": "Ok",
@@ -452,6 +475,7 @@
 		"korean": "확인",
 		"arabic": "ﺎﻨﺴﺣ",
 		"polish": "Ok",
+		"italian": "Ok",
 	},
 	"chooseNewJob": {
 		"english": "Choose New Job",
@@ -467,6 +491,7 @@
 		"korean": "새로운 직업 선택",
 		"arabic": "ﺓﺪﻳﺪﺟ ﺔﻔﻴﻇﻭ ﺮﺘﺧﺍ",
 		"polish": "Wybierz nowy zawód",
+		"italian": "Scegli nuovo lavoro",
 	},
 	"specialization": {
 		"english": "Specialization",
@@ -482,6 +507,7 @@
 		"korean": "특기",
 		"arabic": "ﺺﺼﺨﺘﻟﺍ",
 		"polish": "Specjalizacja",
+		"italian": "Specializzazione",
 	},
 	"nextLevel": {
 		"english": "Next Level",
@@ -497,6 +523,7 @@
 		"korean": "다음 레벨에서",
 		"arabic": "ﻲﻟﺎﺘﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ",
 		"polish": "Następny poziom",
+		"italian": "Prossimo livello",
 	},
 	"experienceAcroynom": {
 		"english": "Exp",
@@ -512,6 +539,7 @@
 		"korean": "Exp.",
 		"arabic": "ﺓﺮﺒﺧ",
 		"polish": "Xp",
+		"italian": "Esp",
 	},
 	"changeProfession": {
 		"english": "Change",
@@ -527,6 +555,7 @@
 		"korean": "변경",
 		"arabic": "ﺮﻴﻴﻐﺗ",
 		"polish": "Zmień",
+		"italian": "Cambia",
 	},
 	"promote": {
 		"english": "Promote",
@@ -542,6 +571,7 @@
 		"korean": "진급",
 		"arabic": "ﺔﻴﻗﺮﺗ",
 		"polish": "Awansuj",
+		"italian": "Promuovi",
 	},
 	"promototions_Title": {
 		"english": "Promotions",
@@ -557,6 +587,7 @@
 		"korean": "진급",
 		"arabic": "ﺕﺎﻴﻗﺮﺘﻟﺍ",
 		"polish": "Awanse",
+		"italian": "Promozioni",
 	},
 	"promototions_Desc": {
 		"english": "Once your colonists gather enough experience in their profession, you can promote them to unlock new skills",

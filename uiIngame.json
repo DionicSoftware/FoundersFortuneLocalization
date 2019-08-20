@@ -136,7 +136,7 @@
 		"portuguese": "Vai atacar à vista",
 		"russian": "Будут атаковать на месте",
 		"italian": "Attaccherà a vista",
-		"dutch": "Zal aanvallen op zicht",
+		"dutch": "Valt aan wanneer in zicht",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -162,7 +162,7 @@
 		"french": "Amical si relations au-dessus de %friendlyLimit%.\nAttaques à vue si relations en-dessous de %attackingLimit%.",
 		"portuguese": "Amigável se as relações sobre %friendlyLimit%.\nAtaques à vista se as relações estiverem abaixo de %attackingLimit%.",
 		"russian": "Дружеские, если отношения выше %friendlyLimit%.\nАтакуют на месте, если отношение ниже %attackingLimit%.",
-		"dutch": "Vriendelijk als relatie boven %friendlyLimit% is.\nZal aanvallen op zicht als relatie onder %attackingLimit% is.",
+		"dutch": "Vriendelijk als relatie boven %friendlyLimit% is.\nValt aan wanneer in zicht als relatie onder %attackingLimit% is.",
 		"italian": "Amichevole se le relazioni superano %friendlyLimit%.\nAttacca a vista se le relazioni scendono al di sotto di %attackingLimit%.",
 	},
 
@@ -1222,6 +1222,7 @@
 		"korean": "게임 정보 및 통계",
 		"arabic": "ﺔﺒﻌﻠﻟﺍ ﺕﺎﻴﺋﺎﺼﺣﺇﻭ ﺕﺎﻣﻮﻠﻌﻣ",
 		"polish": "Informacje o grze i statystyki",
+		"italian": "Info di gioco e statistiche",
 	},
 	"difficulty": {
 		"english": "Difficulty",
@@ -1237,6 +1238,7 @@
 		"korean": "난이도",
 		"arabic": "ﺔﺑﻮﻌﺼﻟﺍ",
 		"polish": "Trudność",
+		"italian": "Difficoltà",
 	},
 	"colonyWealth": {
 		"english": "Colony Wealth",
@@ -1252,6 +1254,7 @@
 		"korean": "개척지의 부",
 		"arabic": "ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﻭﺮﺛ",
 		"polish": "Bogactwo kolonii",
+		"italian": "Ricchezza colonia",
 	},
 	"colonistHappiness": {
 		"english": "Colonist Happiness",
@@ -1267,6 +1270,7 @@
 		"korean": "개척자의 행복도",
 		"arabic": "ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﺩﺎﻌﺳ",
 		"polish": "Szczęście kolonii",
+		"italian": "Felicità colono",
 	},
 	"worldId": { // You can just translate it to "world". It needs to be short enough
 		"english": "World ID",
@@ -1282,6 +1286,7 @@
 		"korean": "세계 ID",
 		"arabic": "ID ﻢﻟﺎﻌﻟﺍ",
 		"polish": "ID świata",
+		"italian": "ID mondo",
 	},
 	"beauty": {
 		"english": "Beauty",
@@ -1297,6 +1302,7 @@
 		"korean": "아름다움",
 		"arabic": "ﻝﺎﻤﺠﻟﺍ",
 		"polish": "Piękno",
+		"italian": "Bellezza",
 	},
 	"objectStrength": { // to describe how difficult it is to destruct an object, like a wall, in a fight
 		"english": "Strength",
@@ -1311,6 +1317,7 @@
 		"ukrainian":"Міцність",
 		"polish": "Wytrzymałość",
 		"korean": "내구도",
+		"italian": "Robustezza",
 	},
 	"work": {
 		"english": "Work",
@@ -1326,6 +1333,7 @@
 		"korean": "작업",
 		"arabic": "ﻞﻤﻌﻟﺍ",
 		"polish": "Praca",
+		"italian": "Lavoro",
 	},
 	"farming": {
 		"english": "Farming",
@@ -1341,6 +1349,7 @@
 		"korean": "농사",
 		"arabic": "ﺔﻋﺍﺭﺰﻟﺍ",
 		"polish": "Rolnictwo",
+		"italian": "Coltivazione",
 	},
 	"life": {
 		"english": "Life",
@@ -1356,6 +1365,7 @@
 		"korean": "생활",
 		"arabic": "ﺓﺎﻴﺤﻟﺍ",
 		"polish": "Życie",
+		"italian": "Vita",
 	},
 	"military": {
 		"english": "Military",
@@ -1371,6 +1381,7 @@
 		"korean": "전투",
 		"arabic": "ﺶﻴﺠﻟﺍ",
 		"polish": "Wojskowe",
+		"italian": "Militare",
 	},
 	"lights": {
 		"english": "Lights",
@@ -1386,6 +1397,7 @@
 		"korean": "광원",
 		"arabic": "ﺀﺍﻮﺿﻷﺍ",
 		"polish": "Światła",
+		"italian": "Luci",
 	},
 	"seating": {
 		"english": "Seating",
@@ -1401,6 +1413,7 @@
 		"korean": "의자",
 		"arabic": "ﺪﻋﺎﻘﻤﻟﺍ",
 		"polish": "Siedzenia",
+		"italian": "Sedie",
 	},
 	"tables": {
 		"english": "Tables",
@@ -1416,6 +1429,7 @@
 		"korean": "탁자",
 		"arabic": "ﺕﻻﻭﺎﻄﻟﺍ",
 		"polish": "Stoły",
+		"italian": "Tavoli",
 	},
 	"storage": {
 		"english": "Storage",
@@ -1431,6 +1445,7 @@
 		"korean": "보관",
 		"arabic": "ﻦﻳﺰﺨﺘﻟﺍ",
 		"polish": "Przechowywanie",
+		"italian": "Deposito",
 	},
 	"decoration": {
 		"english": "Decoration",
@@ -1446,6 +1461,7 @@
 		"korean": "장식",
 		"arabic": "ﺭﻮﻜﻳﺪﻟﺍ",
 		"polish": "Dekoracje",
+		"italian": "Decorazione",
 	},
 	"rugs": {
 		"english": "Rugs",
@@ -1454,6 +1470,7 @@
 		"portuguese": "Tapetes",
 		"russian": "Ковры",
 		"dutch": "Vloerkleden",
+		"italian": "Tappeti",
 	},
 	"floors": {
 		"english": "Floors",
@@ -1469,6 +1486,7 @@
 		"korean": "바닥",
 		"arabic": "ﺕﺎﻴﺿﺭﻷﺍ",
 		"polish": "Podłogi",
+		"italian": "Pavimenti",
 	},
 	"walls": {
 		"english": "Walls",
@@ -1484,6 +1502,7 @@
 		"korean": "벽",
 		"arabic": "ﻥﺍﺭﺪﺠﻟﺍ",
 		"polish": "Ściany",
+		"italian": "Pareti",
 	},
 	"fortifications": {
 		"english": "Fortifications",
@@ -1499,6 +1518,7 @@
 		"korean": "요새화",
 		"arabic": "ﺕﺎﻨﻴﺼﺤﺘﻟﺍ",
 		"polish": "Fortyfikacje",
+		"italian": "Fortificazioni",
 	},
 	"doors": {
 		"english": "Doors",
@@ -1514,6 +1534,7 @@
 		"korean": "문",
 		"arabic": "ﺏﺍﻮﺑﻷﺍ",
 		"polish": "Drzwi",
+		"italian": "Porte",
 	},
 	"windows": {
 		"english": "Windows",
@@ -1529,6 +1550,7 @@
 		"korean": "창문",
 		"arabic": "ﺬﻓﺍﻮﻨﻟﺍ",
 		"polish": "Okna",
+		"italian": "Finestre",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -1544,6 +1566,7 @@
 		"korean": "기둥",
 		"arabic": "ﺓﺪﻤﻋﻷﺍ",
 		"polish": "Filary",
+		"italian": "Colonne",
 	},
 	"requiredTech": {
 		"english": "Required Technology",
@@ -1559,6 +1582,7 @@
 		"korean": "필요한 기술",
 		"arabic": "ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻴﻨﻘﺘﻟﺍ",
 		"polish": "Wymagana technologia",
+		"italian": "Tecnologia richiesta",
 	},
 	"interactionChainIconDesc": {
 		"english": "Click to Cancel.\nClick %keyBinding% to Chain Commands.",
@@ -1574,6 +1598,7 @@
 		"korean": "취소하려면 클릭하세요.\n%keyBinding%#{을} 클릭해 연속 명령을 내리세요.",
 		// "arabic": "",
 		"polish": "Naciśnij, aby anulować.\nKliknij %keyBinding% do łańcucha poleceń.",
+		"italian": "Clicca per annullare.\nClicca %keyBinding% per concatenare i comandi.",
 	},
 	"satisfaction": {
 		"english": "Satisfaction",
@@ -1589,6 +1614,7 @@
 		"korean": "만족",
 		"arabic": "ﺎﺿﺮﻟﺍ",
 		"polish": "Zadowolenie",
+		"italian": "Soddisfazione",
 	},
 	"rewards": {
 		"english": "Rewards",
@@ -1604,6 +1630,7 @@
 		"korean": "보상",
 		"arabic": "ﺕﺂﻓﺎﻜﻤﻟﺍ",
 		"polish": "Nagrody",
+		"italian": "Ricompense",
 	},
 	"point": {
 		"english": "Point",
@@ -1619,6 +1646,7 @@
 		"korean": "포인트",
 		"arabic": "ﺔﻄﻘﻧ",
 		"polish": "Punkt",
+		"italian": "Punto",
 	},
 	"points": {
 		"english": "Points",
@@ -1634,6 +1662,7 @@
 		"korean": "포인트",
 		"arabic": "ﻁﺎﻘﻧ",
 		"polish": "Punkty",
+		"italian": "Punti",
 	},
 	"satisfactionRewards": {
 		"english": "Satisfaction Rewards",
@@ -1649,6 +1678,7 @@
 		"korean": "만족 보상",
 		"arabic": "ﺎﺿﺮﻟﺍ ﺕﺂﻓﺎﻜﻣ",
 		"polish": "Nagrody zadowolenia",
+		"italian": "Ricompense soddisfazione",
 	},
 	"instantMaxHealth": {
 		"english": "Instant Max Health",
@@ -1664,6 +1694,7 @@
 		"korean": "즉시 생명력 회복",
 		"arabic": "ﺔﻳﺭﻮﻓ ﺔﻠﻣﺎﻛ ﺔﺤﺻ",
 		"polish": "Natychmiastowe maksymalne zdrowie",
+		"italian": "Salute max istantanea",
 	},
 	"cureIllness": {
 		"english": "Cure Illness",
@@ -1679,6 +1710,7 @@
 		"korean": "질병 치료",
 		"arabic": "ﺽﺮﻤﻟﺍ ﺝﻼﻋ",
 		"polish": "Wylecz chorobę",
+		"italian": "Cura malattia",
 	},
 	"motivationBoost": {
 		"english": "Motivation Boost",
@@ -1694,6 +1726,7 @@
 		"korean": "동기 부여",
 		"arabic": "ﺕﺎﻳﻮﻨﻌﻤﻟﺍ ﻢﻋﺩ",
 		"polish": "Zwiększenie motywacji",
+		"italian": "Incremento motivazione",
 	},
 	"forgetAllBadThoughts": {
 		"english": "Forget negative Thoughts",
@@ -1709,6 +1742,7 @@
 		"korean": "부정적인 생각 잊어버리기",
 		"arabic": "ﺔﻴﺒﻠﺴﻟﺍ ﺭﺎﻜﻓﻷﺍ ﻥﺎﻴﺴﻧ",
 		"polish": "Zapomnij o negatywnych myślach",
+		"italian": "Dimentica pensieri negativi",
 	},
 	"activeTraits": {
 		"english": "Active Traits",
@@ -1724,6 +1758,7 @@
 		"korean": "특성 활성화",
 		"arabic": "ﺔﻄﺸﻨﻟﺍ ﺕﺎﻤﺴﻟﺍ",
 		"polish": "Aktywne cechy",
+		"italian": "Tratti attivi",
 	},
 	"availableTraits": {
 		"english": "Available Traits",
@@ -1739,6 +1774,7 @@
 		"korean": "가능한 특성",
 		"arabic": "ﺓﺮﻓﻮﺘﻤﻟﺍ ﺕﺎﻤﺴﻟﺍ",
 		"polish": "Dostępne cechy",
+		"italian": "Tratti disponibili",
 	},
 	"sleepingSpot": {
 		"english": "Sleeping Spot",
@@ -1754,6 +1790,7 @@
 		"korean": "잠자리",
 		"arabic": "ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ",
 		"polish": "Miejsce do spania",
+		"italian": "Luogo per dormire",
 	},
 	"isInRoom": {
 		"english": "Is in room",
@@ -1769,6 +1806,7 @@
 		"korean": "실내",
 		"arabic": "ﺔﻓﺮﻏ ﻲﻓ",
 		"polish": "Jest w pokoju",
+		"italian": "È nella stanza",
 	},
 	"yes": {
 		"english": "Yes",
@@ -1784,6 +1822,7 @@
 		"korean": "네",
 		"arabic": "ﻢﻌﻧ",
 		"polish": "Tak",
+		"italian": "Sì",
 	},
 	"no": {
 		"english": "No",
@@ -1799,6 +1838,7 @@
 		"korean": "아니오",
 		"arabic": "ﻻ",
 		"polish": "Nie",
+		"italian": "No",
 	},
 	"bedroomBeauty": {
 		"english": "Bedroom beauty",
@@ -1814,6 +1854,7 @@
 		"korean": "침실의 아름다움",
 		"arabic": "ﻡﻮﻨﻟﺍ ﺔﻓﺮﻏ ﻝﺎﻤﺟ",
 		"polish": "Piękno sypialni",
+		"italian": "Bellezza camera",
 	},
 	"houseBeauty": {
 		"english": "House beauty",
@@ -1829,6 +1870,7 @@
 		"korean": "집의 아름다움",
 		"arabic": "ﺖﻴﺒﻟﺍ ﻝﺎﻤﺟ",
 		"polish": "Piękno domu",
+		"italian": "Bellezza casa",
 	},
 	"owner": {
 		"english": "Owner",
@@ -1844,6 +1886,7 @@
 		"korean": "소유주",
 		"arabic": "ﻚﻟﺎﻤﻟﺍ",
 		"polish": "Właściciel",
+		"italian": "Proprietario",
 	},
 	"nobody": {
 		"english": "Nobody",
@@ -1859,6 +1902,7 @@
 		"korean": "없음",
 		"arabic": "ﺪﺣﺃ ﻻ",
 		"polish": "Nikt",
+		"italian": "Nessuno",
 	},
 	"immigration": {
 		"english": "Immigration",
@@ -1874,6 +1918,7 @@
 		"korean": "이주",
 		"arabic": "ﺓﺮﺠﻬﻟﺍ",
 		"polish": "Imigracja",
+		"italian": "Immigrazione",
 	},
 	"immigration_status_maxColonists": {
 		"english": "Your colony has reached its maximum size. Congratulations! Be sure to post a picture in the forums!",

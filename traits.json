@@ -573,17 +573,61 @@
 	"traitTitle_Xenophobe": {
 		"english": "Xenophobe",
 		"german": "Xenophob",
+		"portuguese": "Xenófob%oA%",
 	},
-//	"traitDesc_Xenophobe": {
-//		"english": "",
-//		"german": "",
-//	},
+	"traitDesc_Xenophobe": {
+		"english": "%firstName% doesn't trust strangers very much. %cap-heShe% doesn't want to get too friendly with other factions and has no problem defending the colony.",
+		"portuguese": "%firstName% não confia muito em estranhos. %cap-elEla% não quer ficar muito amigável com outras facções e não tem problema em defender a colônia.",
+	},
 	"traitTitle_Xenophile": {
 		"english": "Xenophile",
 		"german": "Xenophil",
+		"portuguese": "Xenófilo",
 	},
-//	"traitDesc_Xenophil": {
-//		"english": "",
-//		"german": "",
-//	},
+	"traitDesc_Xenophile": {
+		"english": "%firstName% loves to get to know all kinds of different people. He is quick to trust newcomers and doesn't like fighting other factions.",
+		"portuguese": "%firstName% adora conhecer todos os tipos de pessoas diferentes. Ele é rápido em confiar em recém-chegados e não gosta de lutar contra outras facções.",
+	},
+	"traitTitle_Diplomat": {
+		"english": "Diplomat",
+		"german": "Diplomat",
+		"portuguese": "Diplomata",
+	},
+	"traitDesc_Diplomat": {
+		"english": "Because of %hisHer% charismatic nature, %firstName% is quick to make friends and smooth over past quarrels. When %heShe% socializes with members of other factions, there is a small chance to increase diplomatic relationships.",
+		"portuguese": "Por causa de %seuSua% natureza carismática, %firstName% é rápido para fazer amigos e suavizar brigas passadas. Quando %elEla% socializa com membros de outras facções, há uma pequena chance de aumentar as relações diplomáticas.",
+	},
+	"traitTitle_LovesSummer": {
+		"english": "Loves Summer",
+		"portuguese": "Ama o verão",
+	},
+	"traitDesc_LovesSummer": {
+		"english": "When the air is warm and the weather is sunny, %firstName% feels like everything is right with the world.",
+		"portuguese": "Quando o ar está quente e o tempo está ensolarado, %firstName% sente que tudo está bem com o mundo.",
+	},
+	"traitTitle_LovesSpring": {
+		"english": "Loves Spring",
+		"portuguese": "Ama a primavera01",
+	},
+	"traitDesc_LovesSpring": {
+		"english": "%firstName% loves breathing the fresh air of spring and see nature bloom once again.",
+		"portuguese": "%firstName% adora respirar o ar fresco da primavera e ver a natureza florescer mais uma vez.",
+	},
+	"traitTitle_HatesWinter": {
+		"english": "Hates Winter",
+		"portuguese": "Odeia o inverno",
+	},
+	"traitDesc_HatesWinter": {
+		"english": "Darker days and colder nights are not %firstName%'s idea of fun, so winter is not %hisHer% favorite time of the year.",
+		"portuguese": "Dias mais escuros e noites mais frias não são uma idéia divertida para %firstName%, então o inverno não é %seuSua% época favorita do ano.",
+	},
+	"traitTitle_HatesFall": {
+		"english": "Hates Fall",
+		"portuguese": "TODO01",
+	},
+	"traitDesc_HatesFall": {
+		"english": "%firstName% doesn't really care for the colorful leaves in fall and instead spends %hisHer% time complaining about the muddy paths and the windy days.",
+		"portuguese": "%firstName% realmente não se importa com as folhas coloridas no outono e em vez disso gasta seu tempo reclamando sobre os caminhos lamacentos e os dias ventosos.",
+	},
 }
+

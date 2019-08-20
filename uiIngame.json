@@ -66,13 +66,14 @@
 
 
 
-	"diplomacy": {
+	"]": {
 		"english": "Diplomacy",
 		"german": "Diplomatie",
 		"french": "Diplomatie",
 		"portuguese": "Diplomacia",
 		"russian": "Дипломатия",
 		"italian": "Diplomazia",
+		"dutch": "Diplomatie",
 	},
 	"showOnMap": {
 		"english": "Show Location",
@@ -81,6 +82,7 @@
 		"portuguese": "mostrar a localização",
 		"russian": "Показать местоположение",
 		"italian": "Mostra luogo",
+		"dutch": "Toon Locatie",
 	},
 	"contactFaction": {
 		"english": "Contact",
@@ -89,6 +91,7 @@
 		"portuguese": "Contato",
 		"russian": "Связаться",
 		"italian": "Contatto",
+		"dutch": "Contacteren",
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
@@ -97,6 +100,7 @@
 		"portuguese": "Pontos de relacionamento:",
 		"russian": "Баллы отношений:",
 		"italian": "Punti relazione:",
+		"dutch": "Relatie punten:",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -105,6 +109,7 @@
 		"portuguese": "max",
 		"russian": "макс",
 		"italian": "max",
+		"dutch": "max",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
@@ -113,6 +118,7 @@
 		"portuguese": "Relações neutras",
 		"russian": "Нейтральные отношения",
 		"italian": "Relazioni neutrali",
+		"dutch": "Neutrale relaties",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
@@ -121,6 +127,7 @@
 		"portuguese": "Trégua (%seconds% s)",
 		"russian": "Перемирие (%seconds% сек.)",
 		"italian": "Tregua (%seconds% s)",
+		"dutch": "Wapenstilstand (%seconds% s)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
@@ -129,6 +136,7 @@
 		"portuguese": "Vai atacar à vista",
 		"russian": "Будут атаковать на месте",
 		"italian": "Attaccherà a vista",
+		"dutch": "Valt aan wanneer in zicht",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -137,6 +145,7 @@
 		"portuguese": "Relações tensas",
 		"russian": "Напряженные отношения",
 		"italian": "Relazioni tese",
+		"dutch": "Gespanne relaties",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
@@ -145,6 +154,7 @@
 		"portuguese": "Relações amistosas",
 		"russian": "Дружеские отношения",
 		"italian": "Relazioni amichevoli",
+		"dutch": "Vriendelijke relaties",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
@@ -152,6 +162,7 @@
 		"french": "Amical si relations au-dessus de %friendlyLimit%.\nAttaques à vue si relations en-dessous de %attackingLimit%.",
 		"portuguese": "Amigável se as relações sobre %friendlyLimit%.\nAtaques à vista se as relações estiverem abaixo de %attackingLimit%.",
 		"russian": "Дружеские, если отношения выше %friendlyLimit%.\nАтакуют на месте, если отношение ниже %attackingLimit%.",
+		"dutch": "Vriendelijk als relatie boven %friendlyLimit% is.\nValt aan wanneer in zicht als relatie onder %attackingLimit% is.",
 		"italian": "Amichevole se le relazioni superano %friendlyLimit%.\nAttacca a vista se le relazioni scendono al di sotto di %attackingLimit%.",
 	},
 

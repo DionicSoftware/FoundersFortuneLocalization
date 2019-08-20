@@ -574,16 +574,45 @@
 		"english": "Xenophobe",
 		"german": "Xenophob",
 	},
-//	"traitDesc_Xenophobe": {
-//		"english": "",
-//		"german": "",
-//	},
+	"traitDesc_Xenophobe": {
+		"english": "%firstName% doesn't trust strangers very much. %cap-heShe% doesn't want to get too friendly with other factions and has no problem defending the colony.",
+	},
 	"traitTitle_Xenophile": {
 		"english": "Xenophile",
 		"german": "Xenophil",
 	},
-//	"traitDesc_Xenophil": {
-//		"english": "",
-//		"german": "",
-//	},
+	"traitDesc_Xenophile": {
+		"english": "%firstName% loves to get to know all kinds of different people. He is quick to trust newcomers and doesn't like fighting other factions.",
+	},
+	"traitTitle_Diplomat": {
+		"english": "Diplomat",
+		"german": "Diplomat",
+	},
+	"traitDesc_Diplomat": {
+		"english": "Because of %hisHer% charismatic nature, %firstName% is quick to make friends and smooth over past quarrels. When %heShe% socializes with members of other factions, there is a small chance to increase diplomatic relationships.",
+	},
+	"traitTitle_LovesSummer": {
+		"english": "Loves Summer",
+	},
+	"traitDesc_LovesSummer": {
+		"english": "When the air is warm and the weather is sunny, %firstName% feels like everything is right with the world.",
+	},
+	"traitTitle_LovesSpring": {
+		"english": "Loves Spring",
+	},
+	"traitDesc_LovesSpring": {
+		"english": "%firstName% loves breathing the fresh air of spring and see nature bloom once again.",
+	},
+	"traitTitle_HatesWinter": {
+		"english": "Hates Winter",
+	},
+	"traitDesc_HatesWinter": {
+		"english": "Darker days and colder nights are not %firstName%'s idea of fun, so winter is not %hisHer% favorite time of the year.",
+	},
+	"traitTitle_HatesFall": {
+		"english": "Hates Fall",
+	},
+	"traitDesc_HatesFall": {
+		"english": "%firstName% doesn't really care for the colorful leaves in fall and instead spends %hisHer% time complaining about the muddy paths and the windy days.",
+	},
 }

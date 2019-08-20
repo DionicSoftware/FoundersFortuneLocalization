@@ -5,6 +5,7 @@
 		"portuguese": "Saudações. O que te traz para nós?",
 		"russian": "Привет! Что привело вас к нам?",
 		"french": "Salutations. Qu'est-ce qui vous amène chez nous ?",
+		"korean": "반갑소. 무얼 가지고 오셨소?",
 	},
 	"seeYouLater": { // default goodbye. Kind of nice, but still neutral
 		"english": "See you later.",
@@ -12,6 +13,7 @@
 		"portuguese": "Até logo.",
 		"russian": "Увидимся позже.",
 		"french": "À plus tard.",
+		"korean": "다음에 보지.",
 	},
 	"goodbye": { // goodbye to be used when relations are not nice anymore
 		"english": "Goodbye.",
@@ -19,6 +21,7 @@
 		"portuguese": "Adeus",
 		"russian": "Пока.",
 		"french": "Au revoir.",
+		"korean": "돌아 가시게.",
 	},
 	"thanks": {
 		"english": "Thanks.",
@@ -26,6 +29,7 @@
 		"portuguese": "Obrigado.",
 		"russian": "Спасибо.",
 		"french": "Merci.",
+		"korean": "고맙소.",
 	},
 	"thanksALot": {
 		"english": "Thanks a lot!",
@@ -33,6 +37,7 @@
 		"portuguese": "Muito obrigado!",
 		"russian": "Спасибо большое!",
 		"french": "Merci beaucoup !",
+		"korean": "정말 고맙소!",
 	},
 	"weUnderstand": {
 		"english": "We understand.",
@@ -40,6 +45,7 @@
 		"portuguese": "Nós entendemos.",
 		"russian": "Мы понимаем.",
 		"french": "Nous comprenons.",
+		"korean": "이해하오.",
 	},
 	"nothingValuableSelected": {
 		"english": "Nothing of value selected.",
@@ -47,6 +53,7 @@
 		"portuguese": "Nada de valor selecionado.",
 		"russian": "Ничего ценного не выбрано",
 		"french": "Rien de valeur séléctionné.",
+		"korean": "가치있는 것을 선택하세요.",
 	},
 
 
@@ -57,6 +64,7 @@
 		"portuguese": "Eu gostaria de negociar sobre a liberação de %firstName%.",
 		"russian": "Я хотел бы обсудить с вами возможность освобождения %firstName%.",
 		"french": "J'aimerais négocier la libération de %firstName%.",
+		"korean": "%firstName%#{을} 석방하는 건에 대해 협상하고 싶소.",
 	},
 	"kidnappedFreeingText": {
 		"english": "We're ready to release %firstName% if you make it worth our while.\n\nWe require you to give us %tribute% in exchange.",
@@ -64,6 +72,7 @@
 		"portuguese": "Estamos prontos para liberar a %firstName% se você fizer valer a pena. \n\nNós exigimos que você nos dê %tribute% em troca.",
 		"russian": "Мы бы с удовольствием отпустили %firstName%, но мы потратили время на его поимку. Мы не хотим уходить ни с чем.\n\nМы требуем чтобы вы дали нам %tribute% взамен.",
 		"french": "Nous sommes prêts à libérer %firstName% si vous faites en sorte que ça en vaille la peine.\n\nNous exigons que vous nous donniez %tribute% en échange.",
+		"korean": "우리는 %firstName%#{을} 풀어줄 준비가 되어있소. 이 시간이 가치있었으면 좋겠소만.\n\n데려가고 싶다면 %tribute%를 주시오.",
 	},
 	"kidnappedFreeingAcceptButton": {
 		"english": "Fine, we'll pay.",
@@ -71,6 +80,7 @@
 		"portuguese": "Tudo bem, nós vamos pagar.",
 		"russian": "Хорошо, я заплачу.",
 		"french": "Très bien, nous payerons.",
+		"korean": "알겠소, 지불하겠소.",
 	},
 	"kidnappedFreeingDenyButton": {
 		"english": "Actually, we can't afford it.",
@@ -78,6 +88,7 @@
 		"portuguese": "Na verdade, não podemos permitir isso.",
 		"russian": "К сожалению, мы не можем себе этого позволить.",
 		"french": "En réalité, nous ne pouvons pas nous le permettre.",
+		"korean": "우리에겐, 그만큼 지불할 능력이 없소.",
 	},
 	"kidnappedFreeingAcceptedText": {
 		"english": "It's a deal. We freed %firstName% and will guarantee to not attack you for half a day, so you can come and get %himHer%.",
@@ -85,6 +96,7 @@
 		"portuguese": "É um acordo. Libertamos o %firstName% e garantimos não te atacar por meio dia, assim você pode vir e pegar %elEla%",
 		"russian": "Отлично! Мы освободили %firstName% и гарантируем не атаковать вас полдня, чтобы вы смогли забрать %himHer%.",
 		"french": "Marché conclu. Nous avons libéré %firstName% et nous vous garantissons de ne pas vous attaquer pendant une demi-journée afin que vous puissiez venir %leLa% chercher.",
+		"korean": "거래는 성사되었소. %firstName%#{은} 풀어주었고 앞으로 반나절동안 당신들을 공격하지 않겠다고 약속할테니, 와서 %heShe%를 데려가시오.",
 	},
 	"kidnappedFreeingAcceptedAnswer": {
 		"english": "Thanks.",
@@ -92,6 +104,7 @@
 		"portuguese": "Obrigado.",
 		"russian": "Спасибо.",
 		"french": "Merci.",
+		"korean": "고맙소.",
 	},
 
 
@@ -102,6 +115,7 @@
 		"portuguese": "Quando você está planejando vir?",
 		"russian": "Когда вы планируете приехать в следующий раз?",
 		"french": "Quand prévoyez-vous de revenir ?",
+		"korean": "다음엔 언제 오실런지요?",
 	},
 	"traderArrivalAnyMoment": {
 		"english": "We're actually arriving any moment now!",
@@ -109,6 +123,7 @@
 		"portuguese": "Na verdade, estamos chegando a qualquer momento!",
 		"russian": "Мы уже подплываем!",
 		"french": "Nous sommes sur le point d'arriver d'un moment à l'autre !",
+		"korean": "조만간 도착할 것 같소!",
 	},
 	"traderArrivalInDays": {
 		"english": "We're planning to visit your village in %days1% to %days2% days.",
@@ -116,6 +131,7 @@
 		"portuguese": "Estamos planejando visitar sua aldeia em %days1% a %days2% dias.",
 		"russian": "Мы планируем посетить вашу деревню в период с %days1% до %days2% дней.",
 		"french": "Nous prévoyons de visiter votre village dans %days1% à %days2% jours.",
+		"korean": "계획 상으로는 %days1%에서 %days2%일 뒤에 방문할 것 같소.",
 	},
 	"traderArrivalAskForFastArrival": {
 		"english": "Would you mind sailing here immediately?",
@@ -123,6 +139,7 @@
 		"portuguese": "Você se importaria de navegar aqui imediatamente?",
 		"russian": "Не могли бы вы приплыть прямо сейчас?",
 		"french": "Pourriez-vous venir ici immédiatement ?",
+		"korean": "여기 바로 와 주실 수 있으신지요?",
 	},
 	"traderArrivalThanksForInfo": {
 		"english": "Thanks for the info.",
@@ -130,6 +147,7 @@
 		"portuguese": "Obrigado pela informação.",
 		"russian": "Спасибо за информацию.",
 		"french": "Merci pour l'information.",
+		"korean": "정보 감사합니다.",
 	},
 	"traderArrivalFastAccepted": {
 		"english": "We will have to take a detour...\nIt really messes with our trading plans, but we'll make an exception for you.",
@@ -137,6 +155,7 @@
 		"portuguese": "Teremos que fazer um desvio ... \nIsso realmente atrapalha nossos planos de negociação, mas vamos abrir uma exceção para você.",
 		"russian": "Нам придется сделать круг...\nЭто не входило в наши планы, но для вас мы сделаем исключение.",
 		"french": "Nous allons devoir faire un détour...\nCela complique vraiment nos plans commerciaux, mais nous ferons une exception pour vous.",
+		"korean": "좀 많이 돌아갈 것 같은데...\n그렇게 되면 계획된 거래가 엉망이 되긴 할 테지만, 당신들을 위해 예외를 만들어보겠소.",
 	},
 	"traderArrivalFastDenied": {
 		"english": "Sorry, we can't afford to take a detour for you.",
@@ -144,6 +163,7 @@
 		"portuguese": "Desculpe, não podemos nos dar ao luxo de fazer um desvio para você.",
 		"russian": "Извините, но мы не можем себе позволить приплыть к вам прямо сейчас.",
 		"french": "Désolé, nous ne pouvons pas nous permettre de faire un détour pour vous.",
+		"korean": "미안하지만, 당신들을 위해 경로를 바꿀 순 없소.",
 	},
 
 
@@ -154,6 +174,7 @@
 		"portuguese": "Você vai nos dar um desconto comercial?",
 		"russian": "Можно получить скидку?",
 		"french": "Allez-vous nous faire une remise ?",
+		"korean": "조금 깎아줄 순 없소?",
 	},
 	"tradingDiscountAcceptedText": {
 		"english": "We see you as a good friend of our people so we're trying to give you a %percent% percent discount.",
@@ -161,6 +182,7 @@
 		"portuguese": "Nós vemos você como um bom amigo do nosso pessoal, então estamos tentando dar a você um desconto percentual de %percent%.",
 		"russian": "Вы стали для нас хорошим другом, поэтому мы дадим вам скидку в %percent% процентов!",
 		"french": "Nous vous considérons comme étant un bon ami de notre peuple, nous vous offrons donc une remise de %percent% pour cent.",
+		"korean": "우리는 당신들을 좋은 상대로 보고 있소. 그러니, %percent% 퍼센트 정도는 깎아드리지.",
 	},
 	"tradingDiscountDeniedText": {
 		"english": "Sorry, but you're not really a good friend of our people. We can't afford to give out discounts to everyone.",
@@ -168,6 +190,7 @@
 		"portuguese": "Desculpe, mas você não é realmente um bom amigo do nosso povo. Não podemos dar descontos para todos.",
 		"russian": "Извините, но мы с вами не настолько хорошо знакомы. Мы не можем позволить себе давать скидку каждому.",
 		"french": "Désolé, mais nous ne vous considérons pas comme étant un un bon ami de notre peuple. Nous ne pouvons pas nous permettre d'accorder une remise à n'importe qui.",
+		"korean": "미안하지만, 당신들은 우리와 그렇게 좋은 관계가 아니라오. 아무에게나 할인해줄 수는 없소.",
 	},
 
 
@@ -178,6 +201,7 @@
 		"portuguese": "Nós gostaríamos de lhe oferecer um presente.",
 		"russian": "Мы хотели бы предложить вам подарок.",
 		"french": "Nous aimerions vous offrir un cadeau.",
+		"korean": "당신네들에게 선물을 하나 드리고 싶소.",
 	},
 	"offerPresentText": {
 		"english": "A happy surprise! What is it?",
@@ -185,6 +209,7 @@
 		"portuguese": "Uma feliz surpresa! O que é isso?",
 		"russian": "Вот это сюрприз! Что там?",
 		"french": "Un cadeau surprise ! Qu'est-ce que c'est ?",
+		"korean": "깜짝 선물이군! 그게 무언가?",
 	},
 	"offerPresentButton": {
 		"english": "Please take this as a gift.",
@@ -192,6 +217,7 @@
 		"portuguese": "Por favor, tome isso como um presente.",
 		"russian": "Пожалуйста, примите это как подарок.",
 		"french": "S'il vous plaît, prenez ceci comme un cadeau.",
+		"korean": "이 선물을 받아주게.",
 	},
 	"presentOpinion": {
 		"english": "This is a %present%.",
@@ -199,54 +225,63 @@
 		"portuguese": "Isto é um %present%.",
 		"russian": "Это %present%.",
 		"french": "C'est un %present%",
+		"korean": "이건 %present%#{이?}라네.",
 	},
 	"smallPresent": {
 		"english": "small present",
 		"portuguese": "pequeno presente",
 		"russian": "маленький подарок",
 		"french": "petit cadeau",
+		"korean": "작은 선물",
 	},
 	"mediumPresent": {
 		"english": "medium present",
 		"portuguese": "medio presente",
 		"russian": "средний подарок",
 		"french": "cadeau moyen",
+		"korean": "보통 선물",
 	},
 	"largePresent": {
 		"english": "large present",
 		"portuguese": "grande presente",
 		"russian": "большой подарок",
 		"french": "gros cadeau",
+		"korean": "큰 선물",
 	},
 	"offerPresentCancel": {
 		"english": "Actually, we can't afford it.",
 		"portuguese": "Na verdade, não podemos permitir isso.",
 		"russian": "К сожалению, мы не можем себе это позволить.",
 		"french": "En réalité, nous ne pouvons pas nous le permettre.",
+		"korean": "사실, 그럴 수가 없소.",
 	},
 	"acceptPresentsBadRelations": {
 		"english": "Fine, we'll take it.",
 		"portuguese": "Tudo bem, vamos levá-lo.",
 		"russian": "Отлично, мы примем ваш подарок.",
 		"french": "Très bien, nous le prenons.",
+		"korean": "좋소. 받도록 하지.",
 	},
 	"acceptPresentsNeutralRelations": {
 		"english": "Thank you. We accept your thoughtful present.",
 		"portuguese": "Obrigado. Nós aceitamos seu presente pensativo.",
 		"russian": "Спасибо. Мы принимаем ваш подарок.",
 		"french": "Merci. Nous acceptons votre cadeau attentionné.",
+		"korean": "고맙소. 사려깊은 선물에 감사하오.",
 	},
 	"acceptPresentsGoodRelations": {
 		"english": "Thanks! You're a good friend of our people.",
 		"portuguese": "Obrigado! Você é um bom amigo do nosso povo.",
 		"russian": "Спасибо! Ты теперь нам как друг!",
 		"french": "Merci! Vous êtes un bon ami de notre peuple.",
+		"korean": "고맙소! 당신네는 우리와 좋은 친구라오.",
 	},
 	"acceptPresentsAnswer": {
 		"english": "You're welcome.",
 		"portuguese": "De nada.",
 		"russian": "Пожалуйста.",
 		"french": "De rien.",
+		"korean": "천만에.",
 	},
 
 
@@ -256,60 +291,70 @@
 		"portuguese": "Exigimos um tributo de você.",
 		"russian": "Мы требуем от вас дани.",
 		"french": "Nous exigeons un tribut de votre part.",
+		"korean": "당신들에게 조공을 요구하는 바이오.",
 	},
 	"tributeSelectionText": {
 		"english": "Really...?",
 		"portuguese": "Mesmo...?",
 		"russian": "Эм... Серьезно?",
 		"french": "Vraiment... ?",
+		"korean": "진심이오...?",
 	},
 	"tributeSelectionDemand": {
 		"english": "Please give use these items.",
 		"portuguese": "Por favor, nos dê esses itens.",
 		"russian": "Пожалуйста, дайте нам эти предметы.",
 		"french": "S'il vous plaît, donnez-nous ces objets.",
+		"korean": "이 물건들을 바치도록 하시오.",
 	},
 	"tributeSelectionJustKidding": {
 		"english": "Just Kidding.",
 		"portuguese": "Só brincando.",
 		"russian": "Шутка.",
 		"french": "Je plaisante.",
+		"korean": "농담이었소.",
 	},
 	"tributeSelectionAcceptanceProbability": {
 		"english": "Probability of them accepting the tribute: %probability% percent",
 		"portuguese": "Probabilidade de aceitar a homenagem: %probability% por cento",
 		"russian": "Вероятность того, что они примут дань: %probability% процентов",
 		"french": "Probabilité qu'ils acceptent le tribut : %probability% pour cent.",
+		"korean": "조공을 바칠 확률: %probability% 퍼센트",
 	},
 	"tributeAcceptedBecauseFriendship": {
 		"english": "We decided to make an exception and give you our wares because we see you as a friend. We can offer these things to help you out:",
 		"portuguese": "Decidimos abrir uma exceção e dar-lhe nossos produtos porque nos vemos como um amigo. Podemos oferecer essas coisas para ajudá-lo:",
 		"russian": "Мы решили сделать для вас исключение и предлагаем вам на выбор наши товары. Мы считаем вас другом и хотим помочь: ",
 		"french": "Nous avons décidé de faire une exception et de vous donner nos marchandises parce que nous vous considérons comme un ami. Nous pouvons vous offrir ces choses pour vous aider.",
+		"korean": "우리는 당신네들을 친구로 보고 있으므로, 예외를 만들어 우리의 물건들을 주기로 했소. 우리가 도울 수 있는 물건들은 이런 것들이라오:",
 	},
 	"tributeAcceptedBecauseScared": {
 		"english": "It's despicable that you bully others to get your way, but we don't have a choice. This is what we can offer you:",
 		"portuguese": "É desprezível que você intimide os outros a conseguir o que quer, mas não temos escolha. Isto é o que podemos oferecer a você:",
 		"russian": "Подло запугивать других ради извлечения выгоды, но у нас нет другого выхода. Вот что мы можем вам предложить: ",
 		"french": "C'est méprisable que vous intimidiez les autres pour obtenir ce que vous voulez, mais nous n'avons pas le choix. Voici ce que nous pouvons vous offrir :",
+		"korean": "멋대로 행동하고 다른 사람들을 괴롭히는 짓은 비열한 짓이나, 우리에겐 선택의 여지가 없구려. 드릴 수 있는 건 이것들이오:",
 	},
 	"tributeAcceptedBecauseTinyTribute": {
 		"english": "What? I thought you wanted something valuable. We can help you out a little:",
 		"portuguese": "O que? Eu pensei que você queria algo valioso. Nós podemos ajudá-lo um pouco:",
 		"russian": "Что? Я думал вы хотите что-то ценное. Мы можем помочь вам немного: ",
 		"french": "Quoi ? Je croyais que vous vouliez quelque chose de valeur. Nous pouvons vous aider un peu :",
+		"korean": "뭐요? 당신네들은 더 가치있는걸 원할 줄 알았는데. 우리가 가진건 조금밖에 없소:",
 	},
 	"tributeAcceptedThanksForCooperation": {
 		"english": "Thanks for your cooperation.",
 		"portuguese": "Obrigado pela sua colaboração.",
 		"russian": "Спасибо за сотрудничество.",
 		"french": "Merci pour votre coopération",
+		"korean": "협조에 감사드리오.",
 	},
 	"tributeDeniedText": {
 		"english": "It's pathetic how you think you can just demand something like that.\n\nYou are not our friend and you can't scare us into submission with such a small village.\n\nThis conversation is over.",
 		"portuguese": "É patético como você acha que pode exigir algo assim. \n\nVocê não é nosso amigo e não pode nos assustar com uma aldeia tão pequena. \n\nEsta conversa acabou.",
 		"russian": "Вы думаете что можете просто так требовать от нас что-то?\n\nВы не наш друг и вы не можете заставить нас подчиняться вашей деревне.\n\nЭтот разговор окончен.",
 		"french": "C'est pathétique la façon donc vous pensez pouvoir exiger quelque chose comme ça.\n\nVous n'êtes pas notre ami et vous ne pouvez pas nous faire peur en tentant de nous soumettre avec un si petit village.\n\nCette conversation est terminée.",
+		"korean": "어찌 그런식으로 물건을 요구할 수 있다고 생각하나. 한심하군.\n\n당신네들은 우리의 친구가 아니네. 우리가 작다고 해서 겁먹고 복종할 거라고 착각하지도 말게.\n\n그만 하지.",
 	},
 
 
@@ -319,65 +364,76 @@
 		"portuguese": "Pode ser no seu melhor interesse para nos dar as seguintes coisas:",
 		"russian": "Возможно, в ваших же интересах дать нам следующее:",
 		"french": "Il serait peut-être dans votre intéret de nous donner les choses suivantes :",
+		"korean": "우리에게 이 물품을 내놓는게 너희에게 도움이 될 것이다:",
 	},
 	"goblinTributeTextNeutralRelations": {
 		"english": "We need some materials and as a decent neighbor you should help us out here:",
 		"portuguese": "Precisamos de alguns materiais e, como um vizinho decente, você deve nos ajudar aqui:",
 		"russian": "Нам нужна помощь с некоторыми ресурсами и мы решили попросить у вас как у нашего соседа: ",
 		"french": "Nous avons besoin de matériaux et en tant que bon voisin, vous devriez nous aider :",
+		"korean": "우리가 물건이 좀 필요한데, 이웃으로서 좀 도와주는게 도리가 아닐까 싶소:",
 	},
 	"goblinTributeTextGoodRelations": {
 		"english": "Dear friend, we're in need of some materials. Would you mind helping us out?",
 		"portuguese": "Caro amigo, precisamos de alguns materiais. Você se importaria de nos ajudar?",
 		"russian": "Друг, мы нуждаемся в некоторых ресурсах. Ты нам поможешь?",
 		"french": "Cher ami, nous avons besoin de matériaux. Pourriez-vous nous aider ?",
+		"korean": "친구여, 우리가 물건이 좀 필요하네. 좀 도와줄 수 있겠나?",
 	},
 	"goblinTributeAcceptButton": {
 		"english": "Of course, there you go.",
 		"portuguese": "Claro, aí vai você.",
 		"russian": "Конечно, без проблем.",
 		"french": "Bien sûr, voilà.",
+		"korean": "물론일세, 가져 가게.",
 	},
 	"goblinTributeDenyButton": {
 		"english": "I'm not going to pay your tribute!",
 		"portuguese": "Eu não vou pagar o seu tributo!",
 		"russian": "Я не собираюсь платить вам дань!",
 		"french": "Je ne vais pas payer votre tribut !",
+		"korean": "당신네 부족에게 물건을 주진 않겠소!",
 	},
 	"goblinTributeAcceptedBadRelations": {
 		"english": "You know what's good for you.",
 		"portuguese": "Você sabe o que é bom para você.",
 		"russian": "Надеюсь вы знаете что лучше для вас.",
 		"french": "Vous savez ce qui est bon pour vous.",
+		"korean": "뭐가 좋을진 당신이 알겠지.",
 	},
 	"goblinTributeAcceptedNeutralRelations": {
 		"english": "Thanks for your help.",
 		"portuguese": "Obrigado pela ajuda.",
 		"russian": "Спасибо за вашу помощь.",
 		"french": "Merci pour votre aide.",
+		"korean": "도움에 감사하오.",
 	},
 	"goblinTributeAcceptedGoodRelations": {
 		"english": "Thanks! We're happy we can call you our friend.",
 		"portuguese": "Obrigado! Estamos felizes, podemos chamá-lo de nosso amigo.",
 		"russian": "Спасибо! Как хорошо иметь такого хорошего друга!",
 		"french": "Merci ! Nous sommes heureux de pouvoir vous appeler notre ami.",
+		"korean": "고맙소! 당신을 친구라 부를 수 있어 행복하오.",
 	},
 	"goblinTributeDeniedBadRelations": {
 		"english": "You are going to regret this.",
 		"portuguese": "Você vai se arrepender disso.",
 		"russian": "Вы должны заслужить это.",
 		"french": "Vous allez le regretter.",
+		"korean": "이 일을 후회하게 될 거요.",
 	},
 	"goblinTributeDeniedNeutralRelations": {
 		"english": "We will remember your attitude.",
 		"portuguese": "Nós nos lembraremos de sua atitude.",
 		"russian": "Мы запомним ваше отношение к нам.",
 		"french": "Nous nous souviendrons de votre comportement.",
+		"korean": "당신네 태도를 기억하겠소.",
 	},
 	"goblinTributeDeniedGoodRelations": {
 		"english": "That's a bummer. Friends should stick together.",
 		"portuguese": "Isso é uma chatice. Os amigos devem ficar juntos.",
 		"russian": "Вот облом. Вообще-то друзья должны помогать друг другу.",
 		"french": "C'est vraiment dommage. Les amis devraient se serrer les coudes.",
+		"korean": "그거 딱하군. 친구라면 딱 붙어 있어야지.",
 	},
 }

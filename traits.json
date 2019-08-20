@@ -561,7 +561,7 @@
 		"english": "Because of an accident, %firstName% has a bad leg and is limping. %cap-heShe% walks a little slower than other colonists.",
 		"german": "Durch einen Unfall hat %firstName% ein verletztes Bein und hinkt. %cap-erSie% geht ein bisschen langsamer als andere Kolonisten.",
 		"spanish": "Debido a un accidente, %firstName% tiene una pierna rota y cojea. %cap-élElla% camina un poco más lento que los demás colonos",
-		"french": "En raison d'un accident, %firstName% a une jambe défectueuse et boite. %cap-ilElle% marche un peu plus lentement que les autres colons",
+		"french": "En raison d'un accident, %firstName% a une jambe défectueuse et boite. %cap-ilElle% marche un peu plus lentement que les autres colons.",
 		"portuguese": "Por causa de um acidente, %firstName% tem uma perna ruim e está mancando. %cap-eleEla% anda um pouco mais devagar do que outros colonos",
 		"turkish": "Bir kazadan dolayı %firstName%'in ayağından sıkıntısı var ve topallıyor. Diğer yerleşimcilerden daha yavaş yürür",
 		"dutch": "Vanwege een ongeluk heeft %firstName% een slecht been en hinkt hij. %cap-hijZij% loopt een beetje langzamer dan andere kolonisten",
@@ -573,60 +573,74 @@
 	"traitTitle_Xenophobe": {
 		"english": "Xenophobe",
 		"german": "Xenophob",
+		"french": "Xénophobe",
 		"portuguese": "Xenófob%oA%",
 	},
 	"traitDesc_Xenophobe": {
 		"english": "%firstName% doesn't trust strangers very much. %cap-heShe% doesn't want to get too friendly with other factions and has no problem defending the colony.",
+		"french": "%firstName% ne fait pas beaucoup confiance aux étrangers. %cap-ilElle% ne veut pas se lier d'amitié avec d'autres factions et n'a aucun problème à défendre la colonie.",
 		"portuguese": "%firstName% não confia muito em estranhos. %cap-elEla% não quer ficar muito amigável com outras facções e não tem problema em defender a colônia.",
 	},
 	"traitTitle_Xenophile": {
 		"english": "Xenophile",
 		"german": "Xenophil",
+		"french": "Xénophile",
 		"portuguese": "Xenófilo",
 	},
 	"traitDesc_Xenophile": {
 		"english": "%firstName% loves to get to know all kinds of different people. He is quick to trust newcomers and doesn't like fighting other factions.",
+		"french": "%firstName% aime apprendre à connaître toutes sortes de gens différents. %cap-ilElle% est prompt à faire confiance aux nouveaux venus et n'aime pas se battre contre d'autres factions.",
 		"portuguese": "%firstName% adora conhecer todos os tipos de pessoas diferentes. Ele é rápido em confiar em recém-chegados e não gosta de lutar contra outras facções.",
 	},
 	"traitTitle_Diplomat": {
 		"english": "Diplomat",
 		"german": "Diplomat",
+		"french": "Diplomate",
 		"portuguese": "Diplomata",
 	},
 	"traitDesc_Diplomat": {
 		"english": "Because of %hisHer% charismatic nature, %firstName% is quick to make friends and smooth over past quarrels. When %heShe% socializes with members of other factions, there is a small chance to increase diplomatic relationships.",
+		"french": "Grâce à sa nature charismatique, %firstName% se fait rapidement des amis et adoucit les querelles passées. Lorsqu'%ilElle% socialise avec des membres d'autres factions, il y a un peu de chances d'accroître les relations diplomatiques.",
 		"portuguese": "Por causa de %seuSua% natureza carismática, %firstName% é rápido para fazer amigos e suavizar brigas passadas. Quando %elEla% socializa com membros de outras facções, há uma pequena chance de aumentar as relações diplomáticas.",
 	},
 	"traitTitle_LovesSummer": {
 		"english": "Loves Summer",
+		"french": "Aime l'été",
 		"portuguese": "Ama o verão",
 	},
 	"traitDesc_LovesSummer": {
 		"english": "When the air is warm and the weather is sunny, %firstName% feels like everything is right with the world.",
+		"french": "Quand l'air est chaud et que le temps est ensoleillé, %firstName% a l'impression que tout est parfait.",
 		"portuguese": "Quando o ar está quente e o tempo está ensolarado, %firstName% sente que tudo está bem com o mundo.",
 	},
 	"traitTitle_LovesSpring": {
 		"english": "Loves Spring",
+		"french": "Aime le printemps",
 		"portuguese": "Ama a primavera01",
 	},
 	"traitDesc_LovesSpring": {
 		"english": "%firstName% loves breathing the fresh air of spring and see nature bloom once again.",
+		"french": "%firstName% aime respirer l'air frais du printemps et voir la nature s'épanouir à nouveau.",
 		"portuguese": "%firstName% adora respirar o ar fresco da primavera e ver a natureza florescer mais uma vez.",
 	},
 	"traitTitle_HatesWinter": {
 		"english": "Hates Winter",
+		"french": "Déteste l'hiver",
 		"portuguese": "Odeia o inverno",
 	},
 	"traitDesc_HatesWinter": {
 		"english": "Darker days and colder nights are not %firstName%'s idea of fun, so winter is not %hisHer% favorite time of the year.",
+		"french": "Les jours plus sombres et les nuits plus froides ne sont pas des notions de plaisir pour %firstName%, donc l'hiver n'est pas sa période favorite.",
 		"portuguese": "Dias mais escuros e noites mais frias não são uma idéia divertida para %firstName%, então o inverno não é %seuSua% época favorita do ano.",
 	},
 	"traitTitle_HatesFall": {
 		"english": "Hates Fall",
+		"french": "Déteste l'automne",
 		"portuguese": "TODO01",
 	},
 	"traitDesc_HatesFall": {
 		"english": "%firstName% doesn't really care for the colorful leaves in fall and instead spends %hisHer% time complaining about the muddy paths and the windy days.",
+		"french": "%firstName% n'aime pas vraiment les feuilles colorées à l'automne et passe plutôt son temps à se plaindre des chemins boueux et des jours venteux.",
 		"portuguese": "%firstName% realmente não se importa com as folhas coloridas no outono e em vez disso gasta seu tempo reclamando sobre os caminhos lamacentos e os dias ventosos.",
 	},
 }

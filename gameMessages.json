@@ -356,7 +356,7 @@
 		"russian": "Нашествие жуков прошло",
 		"ukrainian": "Нашестя жуків пройшло",
 		"korean": "병충해가 사라졌습니다",
-		"chinese": "虫害过去了",
+		"chinese": "虫灾结束了",
 	},
 	"notificationTitle_NeedToBuildBonfire": {
 		"english": "Need a Bonfire to get Migrants",
@@ -743,7 +743,7 @@
 		"russian": "Прибыл торговец!",
 		"ukrainian": "Прибув торговець!",
 		"korean": "상인이 도착했습니다!",
-		"chinese": "贸易员到了!",
+		"chinese": "贸易商人到了!",
 	},
 	"messageText_TraderArrived": {
 		"english": "A trader just made landfall on the coast. Send a colonist to haggle for some good deals!",
@@ -756,6 +756,7 @@
 		"russian": "Торговец только что причалил на побережье. Отправьте колониста, чтобы поторговаться!",
 		"ukrainian": "Торговець тільки що причалив на узбережжі. Надішліть колоніста, щоб поторгуватись!",
 		"korean": "상인이 막 해안에 상륙했습니다. 개척자를 보내 좋은 거래를 위해 흥정하세요!",
+		"chinese": "一位商人刚刚在海岸登陆。派一名殖民者去商讨价钱！",
 	},
 	"messageTitle_TraderRaid": {
 		"english": "The Traders' Guild is attacking the village!",
@@ -763,6 +764,7 @@
 		"french": "La Guilde des Marchands attaque le village !",
 		"portuguese": "A Guilda dos comerciantes está atacando a aldeia!",
 		"russian": "Гильдия торговцев атакует вашу деревню!",
+		"chinese": "商人行会正在袭击村庄！",
 	},
 	"messageText_TraderRaid": {
 		"english": "Usually, the Guild prefers to trade in peace. What did the colonists do to piss them off so badly?",
@@ -770,6 +772,7 @@
 		"french": "Habituellement, la Guilde préfère faire du commerce en paix. Qu'est-ce que les colons ont fait pour les énerver à ce point ?",
 		"portuguese": "Normalmente, o Clã prefere negociar em paz. O que os colonos fizeram para irritá-los tanto?",
 		"russian": "Обычно гильдия торговцев настроена на мир. Что заставило их передумать?",
+		"chinese": "通常商人公会喜欢和平交易。殖民者到底做了什么让他们如此恼怒？",
 	},
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Tantrum!",
@@ -783,6 +786,7 @@
 		"russian": "Вспышка агрессии",
 		"ukrainian": "Спалах агресії",
 		"korean": "성질을 부립니다!",
+		"chinese": "来势汹汹！",
 	},
 	"messageText_BreakdownAttackFriends": {
 		"english": "A colonist has been feeling horrible for a while now and just couldn't take it anymore. %cap-heShe% has gone crazy now and is beating up random people, friend or foe.",
@@ -797,6 +801,7 @@
 		"russian": "Колонист долго терпел ужасные условия и теперь он просто не может больше это выносить. %cap-heShe% обезумел%surnameA% и теперь избивает всех, кто попадет под руку - жителей, друзей, врагов.",
 		"ukrainian": "Колоніс%heShe_T_TKA% довго терпі%hesheEnd% жахливі умови і тепер він просто не може більше це виносити. %heShe% збожеволі%hesheEnd% і тепер б'є всіх, хто потрапить під руку - жителів, друзів, ворогів.",
 		"korean": "이 개척자는 최근 끔찍한 기분 속에서 살아왔으며 더 이상은 견디지 못했습니다. %heShe%는 미쳐버렸고, 친구과 적을 구분하지 않고 아무에게나 주먹을 휘두르고 있습니다.",
+		"chinese": "该殖民者一直都很可怕，终于不在忍让了。%heShe%现在发疯地随意殴打他人，朋友或者敌人。",
 	},
 	"messageTitle_BreakdownRefusingWork": {
 		"english": "Burnout!",
@@ -810,6 +815,7 @@
 		"russian": "Надоело!",
 		"ukrainian": "Набридло!",
 		"korean": "파업!",
+		"chinese": "精疲力竭！",
 	},
 	"messageText_BreakdownRefusingWork": {
 		"english": "A colonist has worked too much under terrible conditions. %cap-heShe% has decided %heShe% just doesn't care anymore and is going to relax for a while.",
@@ -824,6 +830,7 @@
 		"russian": "Колонист слишком долго работал в ужасных условиях. %cap-heShe% решил%surnameA%, что %hisHer% это больше не заботит и решил%surnameA% отдохнуть немного.",
 		"ukrainian": "Колоніст занадто довго працював в жахливих умовах. %heShe% виріши%hesheEnd%, що не буде більше працювати та пішо%hesheEnd% відпочивати.",
 		"korean": "이 개척자는 끔찍한 환경 속에서 너무 많이 일했습니다. %heShe%는 이제 아무것도 신경쓰지 않고, 잠시간 휴식을 취하려고 합니다.",
+		"chinese": "该殖民者辛勤劳作太久了。%heShe%现在什么也不管了，%heShe%只想去休息一段时间。",
 	},
 	"messageTitle_BreakdownDestroyFurniture": {
 		"english": "Vandalism!",
@@ -837,6 +844,7 @@
 		"russian": "Вандализм!",
 		"ukrainian": "Вандалізм!",
 		"korean": "기물 파손!",
+		"chinese": "恶意破坏！",
 	},
 	"messageText_BreakdownDestroyFurniture": {
 		"english": "Life hasn't been the greatest for %firstName%. Now %heShe% has turned to vandalism to blow off some steam.",
@@ -851,6 +859,7 @@
 		"russian": "%firstName% не был%surnameA% удовлетворен%surnameA% свой жизнью. Теперь %heShe% выпускает пар с помощью вандализма.",
 		"ukrainian": "%firstName% не бу%hesheEnd% задоволен%heshe_IY_A% своїм життям. Тепер  %heShe% випускає пар за допомогою вандалізму.",
 		"korean": "%firstName%의 생활은 최고의 생활이 아니었습니다. %heShe%는 화를 풀기 위해 기물들을 파손하기 시작했습니다.",
+		"chinese": "%firstName%的生活质量非常不好。现在%heShe%想破坏东西已发泄不满。",
 	},
 	"messageTitle_BreakdownLazyDay": {
 		"english": "Lazy Day",
@@ -864,6 +873,7 @@
 		"russian": "День лени",
 		"ukrainian": "Лінивий день",
 		"korean": "느긋한 하루",
+		"chinese": "慵懒惬意",
 	},
 	"messageText_BreakdownLazyDay": {
 		"english": "Life hasn't been the greatest for %firstName%. Today %heShe% is taking it easy and will be taking a lot of long breaks.",
@@ -878,6 +888,7 @@
 		"russian": "%firstName% не был%surnameA% удовлетворен%surnameA% свой жизнью. Сегодня %heShe% отдыхает и делает много перерывов.",
 		"ukrainian": "%firstName% не бу%hesheEnd% задоволен%heshe_IY_A% своїм життям. Сьогодні %heShe% відпочиває і робить багато перерв.",
 		"korean": "%firstName%의 생활은 그렇게 좋지만은 않았습니다. 오늘 %heShe%는 긴장을 풀고 긴 휴식을 자주 취하려 합니다.",
+		"chinese": "%firstName%的生活质量非常不好。今天%heShe%只想休息多点时间。",
 	},
 	"messageTitle_BugInfestation": {
 		"english": "Bug Infestation!",
@@ -891,6 +902,7 @@
 		"russian": "Нашествие жуков!",
 		"ukrainian": "Нашестя жуків!",
 		"korean": "병충해 발생!",
+		"chinese": "虫灾！",
 	},
 	"messageText_BugInfestation": {
 		"english": "A swarm of bugs has come down on your fields and is destroying the harvest. The colonists need to cut affected plants before the infestation spreads.",
@@ -904,6 +916,7 @@
 		"russian": "Рой жуков напал на ваши поля и уничтожает урожай. Колонисты должны срезать пораженные растения, иначе заражение распространится.",
 		"ukrainian": "Рой жуків напав на ваші поля і знищує врожай. Колоністи повинні зрізати уражені рослини, інакше зараження пошириться.",
 		"korean": "벌레때가 밭에 나타나 수확물을 망치고 있습니다. 개척자를 보내 감염이 번지기 전에 감염된 작물을 잘라내세요.",
+		"chinese": "一大群虫子落在你的田地上，正在侵害农作物。殖民者需要在虫灾蔓延之前移除受影响的植物。",
 	},
 	"messageTitle_TutorialFood": {
 		"english": "Food and Hunger",
@@ -917,6 +930,7 @@
 		"russian": "Еда и голод",
 		"ukrainian": "Їжа та голод",
 		"korean": "음식과 허기",
+		"chinese": "饥肠辘辘",
 	},
 	"messageText_TutorialFood": {
 		"english": "Your colonists are hungry! You need to build something from which they can take their food, for example a food basket.",
@@ -930,6 +944,7 @@
 		"russian": "Ваши колонисты голодны! Вы должны построить что-то, из чего они смогут взять еду, например, продовольственную корзину.",
 		"ukrainian": "Ваші колоністи голодні! Ви повинні побудувати щось, з чого вони зможуть взяти їжу, наприклад, продовольчий кошик.",
 		"korean": "개척자가 배고파합니다! 그들이 음식을 가져갈 수 있는 무언가를 만드세요. 예를 들면, 음식 바구니 같은거요.",
+		"chinese": "你的殖民者很饿！你需要建造提供食物的东西，例如食物篮子。",
 	},
 	"messageTitle_TutorialHealing": {
 		"english": "Healing",
@@ -943,6 +958,7 @@
 		"russian": "Лечение",
 		"ukrainian": "Лікування",
 		"korean": "회복",
+		"chinese": "恢复",
 	},
 	"messageText_TutorialHealing": {
 		"english": "A colonist is wounded! Make sure they get enough sleep to rest their body. An experienced doctor can create more advanced remedies at the potion lab.",
@@ -957,7 +973,8 @@
 		"russian": "Колонист ранен! Убедитесь, что он высыпается. Опытный врач может создать лекарства в столе зельеварения.",
 		"ukrainian": "Колоніст%heShe_T_TKA% поранен%heshe_IY_A%! Переконайтеся, що %heShe% висипається. Досвідчений лікар може створити ліки в столі зіллєваріння.",
 		"korean": "개척자가 부상을 입었습니다! 몸을 쉬게 하고 충분한 잠을 잘 수 있도록 해 주세요. 숙련된 의사는 고도의 약품을 만들어낼 수 있습니다.",
-	},
+		"chinese": "殖民者受伤了！确保他们有足够的睡眠来恢复身体。经验丰富的医生可以在药水工坊制造更高级的治疗方法。",
+	}
 	"messageTitle_TutorialScience": {
 		"english": "Science",
 		"dutch":  "Wetenschap",
@@ -970,6 +987,7 @@
 		"russian": "Наука",
 		"ukrainian": "Наука",
 		"korean": "과학",
+		"chinese": "研究",
 	},
 	"messageText_TutorialScience": {
 		"english": "In order to advance your colony, you need to gather research. You can do that by mining crystals and analyzing them on the research book stand. The science panel is at the top right!",
@@ -983,6 +1001,7 @@
 		"russian": "Чтобы развивать свою колонию, вам нужно заниматься исследованиями. Вы можете сделать это, добывая кристаллы и анализируя их в столе исследований. Научная панель располагается вверху справа!",
 		"ukrainian": "Щоб розвивати свою колонію, вам потрібно займатися дослідженнями. Ви можете зробити це, добуваючи кристали і аналізуючи їх в столі досліджень. Наукова панель розташовується вгорі праворуч!",
 		"korean": "정착지를 발전시키려면 연구를 해야 합니다. 크리스탈을 캐고 연구대에서 크리스탈을 분석하면 연구를 할 수 있습니다. 과학 패널은 우측 상단에 있습니다!",
+		"chinese": "为了发展你的殖民地，你需要研究。你可以通过挖掘水晶并放在研究书架上分析。研究科技树位于右上角！",
 	},
 	"messageTitle_TutorialMigrants": {
 		"english": "Migrants",
@@ -996,6 +1015,7 @@
 		"russian": "Мигранты",
 		"ukrainian": "Мігранти",
 		"korean": "이주민",
+		"chinese": "移民",
 	},
 	"messageText_TutorialMigrants": {
 		"english": "If you want your colony to grow, you'll need to accept new people. Build a bonfire in order to attract migrants. Bonfires are unlocked via research.",
@@ -1009,6 +1029,7 @@
 		"russian": "Если вы хотите, чтобы ваша колония росла, вам нужно привлечь новых жителей. Разведите костер, чтобы привлечь мигрантов. Костры открываются с помощью исследований.",
 		"ukrainian": "Якщо ви хочете, щоб ваша колонія росла, вам потрібно залучити нових жителів. Розведіть вогнище, щоб привернути мігрантів. Багаття відкриваються за допомогою досліджень.",
 		"korean": "정착지를 키우고 싶다면, 새로운 사람을 받아들여야 합니다. 화톳불을 피워 이주민들을 끌어들이세요. 화톳불은 연구를 통해 발견할 수 있습니다.",
+		"chinese": "如果你希望殖民地能够发展起来，你需要增加移民。建立营火以吸引移民。通过研究解锁营火。",
 	},
 	"messageTitle_TutorialCameraRotation": {
 		"english": "Rotating the View",
@@ -1022,6 +1043,7 @@
 		"russian": "Поворот камеры",
 		"ukrainian": "Поворот камери",
 		"korean": "화면 회전",
+		"chinese": "旋转视图",	
 	},
 	"messageText_TutorialCameraRotation": {
 		"english": "You can rotate the view by holding the middle mouse button.",
@@ -1035,6 +1057,7 @@
 		"russian": "Вы можете поворачивать камеру удерживая среднюю кнопку мыши.",
 		"ukrainian": "Ви можете повертати камеру утримуючи середню кнопку миші.",
 		"korean": "마우스 가운데 버튼을 누른 채로 마우스를 움직여 화면을 회전시킬 수 있습니다.",
+		"chinese": "您可以按住鼠标中键来旋转视图。",
 	},
 	"messageTitle_TutorialBuildConstruction": {
 		"english": "How to build walls and floors",
@@ -1048,6 +1071,7 @@
 		"russian": "Как строить стены и полы",
 		"ukrainian": "Як будувати стіни і підлоги",
 		"korean": "벽과 바닥을 짓는 방법",
+		"chinese": "如何建造墙壁和地板",
 	},
 	"messageText_TutorialBuildConstruction": {
 		"english": "In the bottom left corner is a menu to select walls and floors to build. You then need to drag the cursor over the terrain. (right click & drag cursors to delete)",
@@ -1061,6 +1085,7 @@
 		"russian": "В левом нижнем углу вы можете выбрать стены и полы для строительства. Затем вам нужно перетащить курсор на местность. (щелкните ПКМ и перемещайте курсор для удаления)",
 		"ukrainian": "У лівому нижньому кутку ви можете вибрати стіни і підлоги для будівництва. Потім вам потрібно перемістити курсор на місцевість. (Клацніть ПКМ і переміщайте курсор для видалення)",
 		"korean": "좌측 하단에 보이는 메뉴에서 벽이나 바닥을 선택하세요. 지면에서 클릭하고 드래그하면 됩니다. (우클릭 한 채로 드래그하면 부술 수 있습니다)",
+		"chinese": "在左下角的建造菜单栏，选择要建造的墙壁和地板。然后您将其放置地面上。（右键单击并拖动以删除）",
 	},
 	"messageTitle_TutorialProfessions": {
 		"english": "Professions",
@@ -1074,6 +1099,7 @@
 		"russian": "Профессии",
 		"ukrainian": "Професії",
 		"korean": "직업",
+		"chinese": "职业",
 	},
 	"messageText_TutorialProfessions": {
 		"english": "Give jobs to your colonists to automate some tasks. For example, a farmer will tend to the fields.",
@@ -1087,6 +1113,7 @@
 		"russian": "Выдайте работу вашим колонистам, чтобы автоматизировать некоторые задачи. Например, фермер будет ухаживать за полями.",
 		"ukrainian": "Видайте роботу вашим колоністам, щоб автоматизувати деякі завдання. Наприклад, фермер буде доглядати за полями.",
 		"korean": "개척자에게 직업을 할당하면 일의 일부가 자동화됩니다. 예를 들자면, 농부는 밭일을 하겠죠.",
+		"chinese": "为你的殖民者分配职业以自动执行某些任务。例如农民将执行耕种。",
 	},
 	"messageTitle_TutorialLeftClickSelect": {
 		"english": "Selecting Colonists and Objects",
@@ -1100,6 +1127,7 @@
 		"russian": "Выбор Колонистов и Объектов",
 		"ukrainian": "Вибір Колоністів та Об'єктів",
 		"korean": "개척자와 사물 선택",
+		"chinese": "选择殖民者或物体",
 	},
 	"messageText_TutorialLeftClickSelect": {
 		"english": "Click on a colonist or an object with your left mouse button to select them. That way you can see their status and give commands.",
@@ -1113,6 +1141,7 @@
 		"russian": "Кликните на колониста или объект ЛКМ и выберите его. Теперь вы можете видеть их состояние и выдавать команды.",
 		"ukrainian": "Натисніть на колоніста або об'єкт ЛКМ і виберіть його. Тепер ви можете бачити їх стан і видавати команди.",
 		"korean": "사물이나 개척자를 마우스 왼쪽 버튼으로 클릭하면 선택할 수 있습니다. 선택한 개척자나 물건의 상태를 보거나 명령을 내릴 수 있습니다.",
+		"chinese": "单击鼠标左键选择殖民者或物体。这样你就可以看到他们的状态并发出指令。",
 	},
 	"messageTitle_TutorialRightClickCommand": {
 		"english": "Assigning tasks",
@@ -1126,6 +1155,7 @@
 		"russian": "Назначение заданий",
 		"ukrainian": "Призначення завдань",
 		"korean": "작업 할당",
+		"chinese": "分配任务",
 	},
 	"messageText_TutorialRightClickCommand": {
 		"english": "After you select a colonist, use the right mouse button to click on objects to assign tasks.",
@@ -1139,6 +1169,7 @@
 		"russian": "После того, как вы выбрали колониста, используйте ПКМ для выдачи заданий.",
 		"ukrainian": "Після того, як ви вибрали колоніста, використовуйте ПКМ для видачі завдань.",
 		"korean": "개척자를 선택한 뒤에, 사물을 우클릭하면 개척자에게 작업을 할당할 수 있습니다.",
+		"chinese": "选择殖民者后，单击鼠标右键某物体以分配任务。",
 	},
 	"messageTitle_TutorialHelpMenu": {
 		"english": "Help menu",
@@ -1152,6 +1183,7 @@
 		"russian": "Меню справки",
 		"ukrainian": "Меню допомоги",
 		"korean": "도움말 메뉴",
+		"chinese": "帮助菜单",
 	},
 	"messageText_TutorialHelpMenu": {
 		"english": "Open the help menu with the button in the top right corner if you need more information.",
@@ -1165,6 +1197,7 @@
 		"russian": "Откройте меню справки с помощью кнопки в правом верхнем углу, если вам нужна дополнительная информация.",
 		"ukrainian": "Відкрийте меню допомоги за допомогою кнопки в правому верхньому куті, якщо вам потрібна додаткова інформація.",
 		"korean": "더 많은 정보가 궁금하다면 우측 상단 모서리에 있는 버튼을 눌러 도움말 메뉴를 여세요.",
+		"chinese": "如果您需要更多信息，请点击右上角按钮打开帮助菜单。",
 	},
 	"messageTitle_TutorialEquipment": {
 		"english": "How to use Equipment",
@@ -1177,6 +1210,7 @@
 		"russian": "Как использовать снаряжение",
 		"ukrainian": "Як використовувати спорядження",
 		"korean": "장비를 사용하는 방법",
+		"chinese": "如何使用装备",
 	},
 	"messageText_TutorialEquipment": {
 		"english": "Build a piece of furniture that can store equipment and select it to choose which equipment to put in it. Let a colonist take ownership of it so that he can equip it automatically.",
@@ -1189,6 +1223,7 @@
 		"russian": "Постройте мебель, в которой вы сможете хранить снаряжение. Затем кликните по ней и выберите какой тип снаряжения вы будете хранить. Передайте колонистам мебель во владение, чтобы они смогли экипироваться автоматически.",
 		"ukrainian": "Побудуйте меблі, в яких ви зможете зберігати спорядження. Потім клікніть по ньому і виберіть який тип спорядження ви будете зберігати. Дайте колоністам права на меблі, щоб вони змогли екіпіруватися автоматично.",
 		"korean": "장비를 보관할 수 있는 가구를 하나 만드세요. 그리고 가구를 선택해 어떤 장비를 보관할 지 정해주세요. 한 개척자에게 소유권을 주면, 그 사람이 자동으로 장비를 착용할 수 있게 됩니다.",
+		"chinese": "建造可以存放装备的家具，并设置能存放哪些类型的装备。设置殖民者拥有权，以便他能自动装备。",
 	},
 	"messageTitle_TutorialMovingFurniture": {
 		"english": "How to move furniture and other objects",
@@ -1201,6 +1236,7 @@
 		"ukrainian": "Як пересувати меблі та інші об'єкти",
 		"turkish": "Mobilyalar ve diğer eşyaların taşınması",
 		"korean": "물건이나 가구를 옮기는 방법",
+		"chinese": "如何移动家具和其他物体",
 	},
 	"messageText_TutorialMovingFurniture": {
 		"english": "Drag the object with your mouse to its new location. Right clicking during dragging will delete the object.",
@@ -1213,6 +1249,7 @@
 		"ukrainian": "Виберіть об'єкт, затисніть ЛКМ і перемістіть його на нове місце. ПКМ під час переміщення видалить об'єкт.",
 		"turkish": "Nesneyi farenizle yeni konumuna sürükleyin. Sürükleme sırasında sağ tıklamak nesneyi siler.",
 		"korean": "마우스를 사용해 물건을 다른 장소로 드래그하세요. 드래그 도중에 우클릭을 하면 사물을 지워버립니다.",
+		"chinese": "鼠标拖动将物体放置到新的地点。右键点击删除该物体。",
 	},
 	"messageTitle_TechUnlocked": {
 		"english": "%techName% unlocked!",
@@ -1226,6 +1263,7 @@
 		"russian": "%techName% разблокировано!",
 		"ukrainian": "%techName% розблоковано!",
 		"korean": "%techName% 발견!",
+		"chinese": "%techName% 已解锁！",
 	},
 	"messageText_TechUnlocked": {
 		"english": "You unlocked %techName% and can now do new stuff!\n%unlockedStuff%",
@@ -1239,6 +1277,7 @@
 		"russian": "Вы разблокировали %techName% и теперь можете создавать новые вещи!\n%unlockedStuff%",
 		"ukrainian": "Ви розблокували %techName% і тепер можете створювати нові речі\n%unlockedStuff%",
 		"korean": "%techName%을 발견했습니다! 이제 새로운 것을 할 수 있겠어요!\n%unlockedStuff%",
+		"chinese": "你解锁了%techName%科技，现在可以制造\n%unlockedStuff%",
 	},
 	"messageTitle_JoinForum": {
 		"english": "Check out the forum!",
@@ -1252,6 +1291,7 @@
 		"russian": "Посетите наш форум!",
 		"ukrainian": "Відвідайте наш форум!",
 		"korean": "포럼을 확인해보세요!",
+		"chinese": "看看论坛！",
 	},
 	"messageText_JoinForum": {
 		"english": "You've been playing for a while and we hope you're having fun!\nLet us know how it's going on the forum!",
@@ -1265,6 +1305,7 @@
 		"russian": "Вы играете некоторое время и мы надеемся, что вы получаете от этого удовольствие!\n Дайте нам знать какого это на форуме!",
 		"ukrainian": "Ви граєте деякий час і ми сподіваємося, що ви отримуєте від цього задоволення!\nДайте нам знати це на форумі!",
 		"korean": "꽤 오랫동안 게임을 즐겨주셨네요. 재미있으셨길 바랍니다!\n포럼에 방문하셔서 게임이 어땠는지 알려주세요!",
+		"chinese": "你已经体验游戏一段时间了，我们希望你玩得开心！\n在论坛上让我们知道游戏的表现如何！",
 	},
 	"messageTitle_LimpingBecauseOfBadSplintTreatment": {
 		"english": "Treatment messed up\n%firstName% now disabled",
@@ -1277,6 +1318,7 @@
 		"russian": "Лечение не помогло\n%firstName% теперь инвалид",
 		"ukrainian": "Лікування не допомогло \n%firstName% тепер інвалід",
 		"korean": "치료가 엉망입니다\n%firstName%이 장애를 가지게 되었습니다",
+		"chinese": "治疗失败了\n%firstName%现在残废了",
 	},
 	"messageText_LimpingBecauseOfBadSplintTreatment": {
 		"english": "It's a beginner's mistake, but can also happen to experienced doctors: Someone messed up the splints to cure %firstName%'s broken leg. It's no longer broken, but now %heShe%'s limping permanently and can't walk as fast as %heShe% used to.",
@@ -1289,6 +1331,7 @@
 		"russian": "Это ошибка начинающего врача, но она может случится и с опытным: кто-то испортил шины, которые использовались для лечения ноги. %firstName% теперь будет всегда хромать и %heShe% не сможет ходить так быстро, как раньше.",
 		"ukrainian": "Це помилка початківця лікаря, але вона може трапиться і з досвідченим: хтось зіпсував шини, які використовувалися для лікування ноги. %firstName% тепер буде завжди кульгати та не зможе ходити так швидко, як раніше.",
 		"korean": "초보자의 실수입니다. 물론 경험있는 의사도 저지를 수 있는 실수죠: 누군가 %firstName%의 다리를 치료하려고 부목을 대다 망쳐버렸습니다. 더이상 다친 건 아니지만, %heShe%는 이제부터 평생 다리를 절뚝거리며 걷게 되었습니다. 전처럼 빠르게 걷지는 못하겠네요.",
+		"chinese": "初学者常犯的错误，但也可能发生在经验丰富的医生身上：有人用夹板来治疗%firstName%的断腿失败了。虽然不骨折了，但%heShe%将永久瘸腿，并且不能像以前那样快速地走路。",
 	},
 	"messageTitle_SupportDevelopment": {
 		"english": "Support the Development of Founders' Fortune!",
@@ -1301,6 +1344,7 @@
 		"russian": "Поддержи разработку Founders' Fortune!",
 		"ukrainian": "Підтримай розробку Founders 'Fortune!",
 		"korean": "Founders' Fortune의 개발을 후원해주세요!",
+		"chinese": "支持游戏 Founders' Fortune 开发！",
 	},
 	"messageText_SupportDevelopment": {
 		"english": "You've been playing this colony for %hours% hours and it seems like you're enjoying the free version of Founders' Fortune! Consider checking out the store and supporting us!",
@@ -1313,6 +1357,7 @@
 		"russian": "Вы играете этой колонией уже %hours% часов и нам кажется, что вам нравится наша бесплатная версия Founders' Fortune! Вы можете зайти в наш магазин и поддержать нас!",
 		"ukrainian": "Ви граєте цієї колонією вже %hours% годин і нам здається, що вам подобається наша безкоштовна версія Founders 'Fortune! Ви можете зайти в наш магазин і підтримати нас!",
 		"korean": "이 정착지를 %hours% 시간동안 플레이하셨습니다. Founders' Fortune의 무료 버전을 잘 즐기고 계신 것 같아요. 스토어를 확인하고 저희에게 도움을 주는 걸 고려해보세요!",
+		"chinese": "你已经游玩了这个殖民地%hours%小时了，看起来你正在享受 Founders'Fortune 的试玩版本！可以考虑去商店购买正版支持我们！",
 	},
 
 	

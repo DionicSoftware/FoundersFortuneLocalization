@@ -76,7 +76,7 @@
 		"french": "Afficher l'emplacement",
 		"portuguese": "mostrar a localização",
 		"russian": "Показать местоположение",
-		"chinese": "CNTODO",
+		"chinese": "显示位置",
 	},
 	"contactFaction": {
 		"english": "Contact",
@@ -84,7 +84,7 @@
 		"french": "Contacter",
 		"portuguese": "Contato",
 		"russian": "Связаться",
-		"chinese": "CNTODO",
+		"chinese": "联络",
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
@@ -92,7 +92,7 @@
 		"french": "Points de relation :",
 		"portuguese": "Pontos de relacionamento:",
 		"russian": "Баллы отношений:",
-		"chinese": "CNTODO",
+		"chinese": "关系值",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -100,7 +100,7 @@
 		"french": "max",
 		"portuguese": "max",
 		"russian": "макс",
-		"chinese": "CNTODO",
+		"chinese": "最大值",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
@@ -108,7 +108,7 @@
 		"french": "Relations neutres",
 		"portuguese": "Relações neutras",
 		"russian": "Нейтральные отношения",
-		"chinese": "CNTODO",
+		"chinese": "中立关系",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
@@ -116,7 +116,7 @@
 		"french": "Trêve (%seconds% s)",
 		"portuguese": "Trégua (%seconds% s)",
 		"russian": "Перемирие (%seconds% сек.)",
-		"chinese": "CNTODO",
+		"chinese": "停战(%seconds% 秒)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
@@ -124,7 +124,7 @@
 		"french": "Attaquera à vue",
 		"portuguese": "Vai atacar à vista",
 		"russian": "Будут атаковать на месте",
-		"chinese": "CNTODO",
+		"chinese": "一触即发",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -132,7 +132,7 @@
 		"french": "Relations tendues",
 		"portuguese": "Relações tensas",
 		"russian": "Напряженные отношения",
-		"chinese": "CNTODO",
+		"chinese": "敌对关系",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
@@ -140,7 +140,7 @@
 		"french": "Relations amicales",
 		"portuguese": "Relações amistosas",
 		"russian": "Дружеские отношения",
-		"chinese": "CNTODO",
+		"chinese": "友好关系",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
@@ -148,7 +148,7 @@
 		"french": "Amical si relations au-dessus de %friendlyLimit%.\nAttaques à vue si relations en-dessous de %attackingLimit%.",
 		"portuguese": "Amigável se as relações sobre %friendlyLimit%.\nAtaques à vista se as relações estiverem abaixo de %attackingLimit%.",
 		"russian": "Дружеские, если отношения выше %friendlyLimit%.\nАтакуют на месте, если отношение ниже %attackingLimit%.",
-		"chinese": "CNTODO",
+		"chinese": "如果关系超过%friendlyLimit%则为友好。\n如果关系低于%attackingLimit%，则立即攻击。",
 	},
 
 

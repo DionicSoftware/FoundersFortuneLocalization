@@ -531,7 +531,7 @@
 	},
 	"traitDesc_AllergicToTomatoes": {
 		"english": "%firstName% will avoid dishes that contain tomatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
-		"german": "%firstName% wird Gerichte meiden, die Tomaten beinalten. Wenn %erSie% trotzdem gezwungen ist es zu essen, wird %erSie% eine allergische Reaktion haben",
+		"german": "%firstName% wird Gerichte meiden, die Tomaten beinalten. Wenn %erSie% trotzdem gezwungen ist es zu essen, wird %erSie% eine allergische Reaktion haben.",
 		//TODO-bulgarian
 		"dutch": "%firstName% zal maaltijden met tomaten vermijden. Als %hijZij% gedwongen wordt om het toch te eten, krijgt %hijZij% een allergische reactie.",
 		"spanish": "%firstName% evitará comer platos que contengan tomate. Si es forzad%oA% a comerlos, sufrirá una reacción alérgica.",
@@ -558,8 +558,8 @@
 		"korean": "절뚝거리는"
 	},
 	"traitDesc_Limping": {
-		"english": "Because of an accident, %firstName% has a bad leg and is limping. %cap-heShe% walks a little slower than other colonists",
-		"german": "Durch einen Unfall hat %firstName% ein verletztes Bein und hinkt. %cap-erSie% geht ein bisschen langsamer als andere Kolonisten",
+		"english": "Because of an accident, %firstName% has a bad leg and is limping. %cap-heShe% walks a little slower than other colonists.",
+		"german": "Durch einen Unfall hat %firstName% ein verletztes Bein und hinkt. %cap-erSie% geht ein bisschen langsamer als andere Kolonisten.",
 		"spanish": "Debido a un accidente, %firstName% tiene una pierna rota y cojea. %cap-élElla% camina un poco más lento que los demás colonos",
 		"french": "En raison d'un accident, %firstName% a une jambe défectueuse et boite. %cap-ilElle% marche un peu plus lentement que les autres colons",
 		"portuguese": "Por causa de um acidente, %firstName% tem uma perna ruim e está mancando. %cap-eleEla% anda um pouco mais devagar do que outros colonos",
@@ -570,4 +570,20 @@
 		"chinese": "因为事故导致%firstName%走路一瘸一拐的.%heShe%走路会比其他人稍慢一些.",
 		"korean": "어떤 사고로 인해, %firstName%#{은} 다리가 아프고 절뚝거리며 걷습니다. %heShe%의 걸음은 다른 주민들보다 조금 느립니다."
 	},
+	"traitTitle_Xenophobe": {
+		"english": "Xenophobe",
+		"german": "Xenophob",
+	},
+//	"traitDesc_Xenophobe": {
+//		"english": "",
+//		"german": "",
+//	},
+	"traitTitle_Xenophile": {
+		"english": "Xenophile",
+		"german": "Xenophil",
+	},
+//	"traitDesc_Xenophil": {
+//		"english": "",
+//		"german": "",
+//	},
 }

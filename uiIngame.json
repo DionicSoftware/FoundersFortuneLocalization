@@ -1934,6 +1934,7 @@
 		"korean": "개척지가 최대 크기에 도달했습니다. 축하합니다! 포럼에 오셔서 스크린샷을 올리는걸 잊지 마세요!",
 		//"arabic": "",
 		"polish": "Twoja kolonia osiągnęła swój maksymalny rozmiar. Gratulacje! Upewnij się, aby dodać post na naszym forum!",
+		"italian": "La tua colonia ha raggiunto la sua dimensione massima. Congratulazioni! Assicurati di pubblicare una foto nel forum!",
 	},
 	"immigration_status_noBonfire": {
 		"english": "No Bonfire is burning. Migrants are not able to find the colony.",
@@ -1949,6 +1950,7 @@
 		"korean": "타고 있는 화톳불이 없습니다. 이주자가 개척지를 찾지 못합니다.",
 		//"arabic": "",
 		"polish": "Brak płonącego ogniska. Migranci nie znajdą Twojej kolonii.",
+		"italian": "Nessun falò acceso. I migranti non sono in grado di individuare la colonia.",
 	},
 	"immigration_status_expectationsNotMet": {
 		"english": "Your colonists' expectations are not met. No migrants are going to join this colony.",
@@ -1964,6 +1966,7 @@
 		"korean": "개척자들의 기대를 충족시키지 못하고 있습니다. 이주자들이 개척지에 오려고 하지 않습니다.",
 		//"arabic": "",
 		"polish": "Oczekiwania Twoich kolonistów nie są spełnione. Żaden nowy migrant nie dołączy do kolonii.",
+		"italian": "Le aspettative dei tuoi coloni non sono soddisfatte. Nessun migrante si unirà a questa colonia.",
 	},
 	"immigration_status_ok": {
 		"english": "All your colonists' expectations are met. Next chance for migrants in %time%.",
@@ -1979,21 +1982,23 @@
 		"korean": "모든 개척자들의 기대가 충족되었습니다. 다음 이주자는 %time% 후에 옵니다.",
 		//"arabic": "",
 		"polish": "Oczekiwania wszystkich kolonistów są zrealizowane. Następna szansa na migrantów za %time%.",
+		"italian": "Tutte le aspettative dei tuoi coloni sono soddisfatte. Prossima opportunità di arrivo dei migranti in %time%.",
 	},
-    "colonistIsDumbNoExperience": {
-       	"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
-    	"german": "Leider ist %firstName% nicht %derDie% Hellste und wird keine Erfahrung sammeln.",
-	"french": "Malheureusement, %firstName% est stupide et ne gagnera aucune expérience dans n'importe quel métier.",
-	 "spanish": "Desafortunadamente, %firstName% es tont%oA% y no ganará nada de experiencia en ningún trabajo.",
-	 "turkish": "Ne yazık ki, %firstName% bir aptal ve çalıştığı işlerde tecrübe edinemeyecek.", 
-	"portuguese": "Infelizmente, %firstName% é burro e não vai ganhar experiência em nenhum trabalho.",
-	 "dutch": "Helaas, %firstName% is dom en zal geen ervaring opdoen in een baan",
-	"ukrainian":"На жаль, %firstName% туп%heshe_IY_A% і не може отримувати досвід в будь-якій роботі.",
-	"russian":"К сожалению, %firstName% туп%hesheEnd2% и не может получать опыт в любой работе.",
+    	"colonistIsDumbNoExperience": {
+       		"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
+    		"german": "Leider ist %firstName% nicht %derDie% Hellste und wird keine Erfahrung sammeln.",
+		"french": "Malheureusement, %firstName% est stupide et ne gagnera aucune expérience dans n'importe quel métier.",
+		"spanish": "Desafortunadamente, %firstName% es tont%oA% y no ganará nada de experiencia en ningún trabajo.",
+		"turkish": "Ne yazık ki, %firstName% bir aptal ve çalıştığı işlerde tecrübe edinemeyecek.", 
+		"portuguese": "Infelizmente, %firstName% é burro e não vai ganhar experiência em nenhum trabalho.",
+		"dutch": "Helaas, %firstName% is dom en zal geen ervaring opdoen in een baan",
+		"ukrainian":"На жаль, %firstName% туп%heshe_IY_A% і не може отримувати досвід в будь-якій роботі.",
+		"russian":"К сожалению, %firstName% туп%hesheEnd2% и не может получать опыт в любой работе.",
 		"chinese": "非常不幸, %firstName% 实在太蠢了,任何职业都不会获得经验.",
 		"korean": "불행하게도, %firstName%#{는} 멍청이여서 어떤 직업에서도 경험치를 얻을 수 없습니다.",
 	   	//"arabic": "",
-	    "polish": "Niestety, %firstName% jest głup%iA% i nie będzie zdobywać żadnego doświadczenia z żadnej pracy.",
+	    	"polish": "Niestety, %firstName% jest głup%iA% i nie będzie zdobywać żadnego doświadczenia z żadnej pracy.",
+		"italian": "Sfortunatamente, %firstName% è ottuso e non acquisirà alcuna esperienza durante lo svolgimento di un lavoro.",
 	},
 	"importantPossessions": {
 		"english": "Important Possessions",
@@ -2009,6 +2014,7 @@
 		"korean": "중요한 소유물",
 		//"arabic": "",
 		"polish": "Istotne własności",
+		"italian": "Proprietà importanti",
 	},
 	"importantPossession": {
 		"english": "Important Possession",
@@ -2024,6 +2030,7 @@
 		"korean": "중요한 소유물",
 		//"arabic": "",
 		"polish": "Istotna własność",
+		"italian": "Proprietà importante",
 	},
 	"importantPossession_Desc": {
 		"english": "%name% likes this thing a lot and does not want to give it up.\n\nYou can not use it to fulfill anyone else's wishes.",
@@ -2039,6 +2046,7 @@
 		"korean": "%name%#{는} 이 물건을 많이 좋아합니다. 놓치고 싶지 않아 합니다.\n\n이 물건을 다른 개척자의 소원을 들어주기 위해 사용할 수 없습니다.",
 		//"arabic": "",
 		"polish": "%name% lubi bardzo tą rzecz i nie chce się poddać. \n\nNie możesz tego użyć, aby wypełnić życzenie kogokolwiek innego.",		
+		"italian": "A %name% piace molto questa cosa e non vuole rinunciarvi.\n\nNon puoi usarlo per soddisfare i desideri di nessun altro.",
 	},
 	"paymentInCoinsPerDay": {
 		"english": "Payment in coins per day",
@@ -2054,6 +2062,7 @@
 		"korean": "일당으로 지불할 코인",
 		//"arabic": "",
 		"polish": "Wypłata w monetach na dzień",
+		"italian": "Pagamento in monete per giorno",
 	},
 	"civilianEquipment": {
 		"english": "Civilian Equipment",
@@ -2069,6 +2078,7 @@
 		"korean": "일상 장비",
 		//"arabic": "",
 		"polish": "Wyposażenie robocze",
+		"italian": "Equipaggiamento civile",
 	},
 	"combatEquipment": {
 		"english": "Combat Equipment",
@@ -2084,6 +2094,7 @@
 		"korean": "전투 장비",
 		//"arabic": "",
 		"polish": "Wyposażenie do walki",
+		"italian": "Equipaggiamento da combattimento",
 	},
 	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
 		"english": "Tool Storage",
@@ -2099,6 +2110,7 @@
 		"korean": "도구함",
 		//"arabic": "",
 		"polish": "Miejsce na narzędzie",
+		"italian": "Deposito strumento",
 	},
 	"ClothesStorage": {
 		"english": "Clothes Storage",
@@ -2114,6 +2126,7 @@
 		"korean": "의상 걸이",
 		//"arabic": "",
 		"polish": "Miejsce na ubrania",
+		"italian": "Deposito abiti",
 	},
 	"WeaponStorage": {
 		"english": "Weapon Storage",
@@ -2129,6 +2142,7 @@
 		"korean": "무기 거치대",
 		//"arabic": "",
 		"polish": "Miejsce na broń",
+		"italian": "Deposito arma",
 	},
 	"ArmorStorage": {
 		"english": "Armor Storage",
@@ -2144,6 +2158,7 @@
 		"korean": "갑옷 거치대",
 		//"arabic": "",
 		"polish": "Miejsce na zbroję",
+		"italian": "Deposito armatura",
 	},
 	"takeOwnershipOfStorageFurniture": {
 		"english": "Take Ownership of equipment storage furniture to assign equipment",
@@ -2159,6 +2174,7 @@
 		"korean": "장비 보관함을 소유하면, 그 안에 담긴 장비를 가질 수 있습니다",
 		//"arabic": "",
 		"polish": "Przejmij własność tego mebla do trzymania ekwipunku, aby go założyć.",
+		"italian": "Assumi la proprietà dei mobili di deposito dell'equipaggiamento per assegnarlo",
 	},
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",
@@ -2174,6 +2190,7 @@
 		"korean": "장비 보관함에 보관할 장비를 선택하세요",
 		//"arabic": "",
 		"polish": "Zaznacz ekwipunek w meblu do przechowywania",
+		"italian": "Seleziona l'equipaggiamento nei mobili di deposito",
 	},
 	"selectProduction": {
 		"english": "Select Production",
@@ -2189,6 +2206,7 @@
 		"korean": "생산 예약",
 		//"arabic": "",
 		"polish": "Wybierz produkcję",
+		"italian": "Seleziona produzione",
 	},
 	"noOwner": { // when a piece of furniture is not owned by any colonist
 		"english": "No Owner",
@@ -2204,6 +2222,7 @@
 		"korean": "주인 없음",
 		//"arabic": "",
 		"polish": "Brak właściciela",
+		"italian": "Nessun proprietario",
 	},
 
 
@@ -2223,6 +2242,7 @@
 		"korean": "상인",
 		//"arabic": "",
 		"polish": "Handlarz",
+		"italian": "Mercante",
 	},
 	"tradingWithFaction": {
 		"english": "Trading with '%faction%'",
@@ -2231,6 +2251,7 @@
 		"portuguese": "Negociação com '%faction%'",
 		"dutch": "Handelt met '%faction%'",
 		"russian": "Торговля с '%faction%'",
+		"italian": "Commerciando con '%faction%'",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
@@ -2246,6 +2267,7 @@
 		"korean": "개척지의 물품을 상인에게 팝니다.",
 		//"arabic": "",
 		"polish": "Kolonia sprzedaje handlarzowi",
+		"italian": "La colonia sta vendendo al mercante",
 	},
 	"colonyIsBuying": {
 		"english": "Colony is Buying from the Trader",
@@ -2261,6 +2283,7 @@
 		"korean": "상인에게서 물품을 삽니다.",
 		//"arabic": "",
 		"polish": "Kolonia kupuje od handlarza",
+		"italian": "La colonia sta acquistando dal mercante",
 	},
 	"amountStorage": { // amount means how much is being traded and in store is the maximum amount the colony or the trader has in store
 		"english": "Amount / In Store",
@@ -2276,6 +2299,7 @@
 		"korean": "구매 / 재고",
 		//"arabic": "",
 		"polish": "Ilość / W magazynie",
+		"italian": "Quantità / In deposito",
 	},
 	"tradingGoodName": {
 		"english": "Name",
@@ -2291,6 +2315,7 @@
 		"korean": "명칭",
 		//"arabic": "",
 		"polish": "Nazwa",
+		"italian": "Nome",
 	},
 	"price": {
 		"english": "Price",
@@ -2306,6 +2331,7 @@
 		"korean": "가격",
 		//"arabic": "",
 		"polish": "Cena",
+		"italian": "Prezzo",
 	},
 	"totalPrice": {
 		"english": "Total",
@@ -2321,6 +2347,7 @@
 		"korean": "총",
 		//"arabic": "",
 		"polish": "Łączna cena",
+		"italian": "Totale",
 	},
 	"confirmTrade": {
 		"english": "Confirm Trade",
@@ -2336,6 +2363,7 @@
 		"korean": "거래 승인",
 		//"arabic": "",
 		"polish": "Potwierdź handel",
+		"italian": "Conferma scambio",
 	},
 	"sellItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -2351,6 +2379,7 @@
 		"korean": "총 %coins% 코인을 받고 아이템을 팝니다",
 		//"arabic": "",
 		"polish": "Sprzedajesz przedmioty o wartości %coins% monet",
+		"italian": "Vendendo oggetti con un valore di %coins% monete",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -2366,6 +2395,7 @@
 		"korean": "총 %coins% 코인을 주고 아이템을 삽니다",
 		//"arabic": "",
 		"polish": "Kupujesz przedmiot o wartości %coins% monet",
+		"italian": "Comprando oggetti con un valore di %coins% monete",
 	},
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",
@@ -2381,6 +2411,7 @@
 		"korean": "개척지는 이 거래로 %coins% 코인을 받습니다.",
 		//"arabic": "",
 		"polish": "Kolonia zarobi z tego handlu %coins% monet.",
+		"italian": "La colonia sta guadagnando %coins% monete da questo accordo.",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
@@ -2396,6 +2427,7 @@
 		"korean": "개척지는 이 거래로 %coins% 코인을 지불합니다.",
 		//"arabic": "",
 		"polish": "Kolonia płaci %coins% monet za ten handel.",
+		"italian": "La colonia sta pagando %coins% monete per questo accordo.",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",
@@ -2411,6 +2443,7 @@
 		"korean": "거래에 필요한 %coins% 코인이 충분하지 않습니다.",
 		//"arabic": "",
 		"polish": "Kolonia nie ma %coins% moent by dokonać handlu.",
+		"italian": "Questa colonia non ha %coins% monete per concludere questo accordo.",
 	},
 
 
@@ -2428,6 +2461,7 @@
 		"korean": "아직 아무런 장비를 만든 적이 없거나,\n모든 장비를 개척자가 사용중입니다.",
 		//"arabic": "",
 		"polish": "Albo nie wyprodukowano jeszcze żadnego ekwipunku\nAlbo wszystkie przedmioty są obecnie używane przez kolonistów.",
+		"italian": "O non hai prodotto ancora nessun equipaggiamento\noppure tutto il tuo equipaggiamento è attualmente in uso dai tuoi coloni.",
 	},
 	"sellPrice": {
 		"english": "Selling Price",
@@ -2443,6 +2477,7 @@
 		"korean": "판매 가격",
 		//"arabic": "",
 		"polish": "Cena sprzedaży",
+		"italian": "Prezzo di vendita",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -2458,6 +2493,7 @@
 		"korean": "초",
 		//"arabic": "",
 		"polish": "sekund",
+		"italian": "secondi",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -2473,6 +2509,7 @@
 		"korean": "분",
 		//"arabic": "",
 		"polish": "minut",
+		"italian": "minuti",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -2488,6 +2525,7 @@
 		"korean": "초",
 		//"arabic": "",
 		"polish": "sekund",
+		"italian": "secondi",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -2503,6 +2541,7 @@
 		"korean": "초",
 		//"arabic": "",
 		"polish": "s",
+		"italian": "s",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -2518,6 +2557,7 @@
 		"korean": "초",
 		//"arabic": "",
 		"polish": "sek",
+		"italian": "sec",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -2533,6 +2573,7 @@
 		"korean": "축제",
 		//"arabic": "",
 		"polish": "Imprezy",
+		"italian": "Feste",
 	},
 	"partiesDesc": {
 		"english": "Parties give your colonists a chance to relax and socialize. The more time your colonists spend dancing, eating, and drinking, the higher their mood is going to rise.",
@@ -2548,6 +2589,7 @@
 		//"arabic": "",
 		"dutch": "Feesten geven je kolonisten een kans om te relaxen en elkaar beter te leren kennen. Hoe meer tijd je kolonisten besteden aan dansen, eten en drinken, hoe hoger hun humeur zal stijgen.",
 		"polish": "Imprezy dają kolonistom szanse na relaks i integrację. Im więcej czasu koloniści spędzą tańcząc, jedząc oraz pijąc, tym bardziej ich humor się poprawi.",
+		"italian": "Le feste offrono ai tuoi coloni la possibilità di rilassarsi e di socializzare. Più tempo i tuoi coloni trascorrono a ballare, a mangiare e a bere, più il loro umore aumenterà.",
 	},
 	"startPartyButton": {
 		"english": "Start Party",
@@ -2563,6 +2605,7 @@
 		"korean": "축제 시작하기",
 		//"arabic": "",
 		"polish": "Zacznij imprezę",
+		"italian": "Dai inizio alla festa",
 	},
 	"cantStartPartyDuringReady": {
 		"english": "Can't start party during raid",
@@ -2578,6 +2621,7 @@
 		"dutch": "Kan geen feest starten tijdens een aanval",
 		//"arabic": "",
 		"polish": "Nie można zacząć imprezy w trakcie najazdu",
+		"italian": "Non puoi dare inizio ad una festa durante un attacco",
 	},
 	"cantStartPartyBecauseAlreadyPartying": {
 		"english": "Can't start party while colonists are already celebrating",
@@ -2593,6 +2637,7 @@
 		"korean": "축제 중에는 축제를 시작할 수 없습니다.",
 		//"arabic": "",
 		"polish": "Nie można zacząć imprezy, ponieważ koloniści już się bawią",
+		"italian": "Non posso dare inizio ad una festa quando i coloni stanno già festeggiando",
 	},
 	"coinsToStartParty": {
 		"english": "%coins% Coins to start party",
@@ -2608,6 +2653,7 @@
 		"korean": "축제를 시작하려면 %coins% 코인이 필요합니다.",
 		//"arabic": "",
 		"polish": "%coins% monet by zacząć imprezę",
+		"italian": "%coins% monete per dare inizio alla festa",
 	},
 	"atLeastBeerInStock": {
 		"english": "At least %beer% beer in stock",
@@ -2623,6 +2669,7 @@
 		"korean": "최소한 %beer% 통의 맥주가 있어야 합니다",
 		//"arabic": "",
 		"polish": "Przynajmniej %beer% piwa w magazynie",
+		"italian": "Almeno %beer% unità di birra in deposito",
 	},
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
@@ -2638,6 +2685,7 @@
 		"korean": "최소한 %food% 음식이 있어야 합니다",
 		//"arabic": "",
 		"polish": "Przynajmniej %food% jedzenia w magazynie",
+		"italian": "Almeno %food% unità di cibo in deposito",
 	},
 	"partyRequirements": {
 		"english": "Party Requirements",
@@ -2653,6 +2701,7 @@
 		"korean": "축제 요구조건",
 		//"arabic": "",
 		"polish": "Wymagania imprezowe",
+		"italian": "Requisiti festa",
 	},
 	"customCamera": { // activated with F4
 		"english": "Custom Camera", // or free-flying camera
@@ -2667,6 +2716,7 @@
 		"korean": "자유로운 촬영",
 		//"arabic": "",
 		"polish": "Własna kamera",
+		"italian": "Telecamera libera",
 	},
 	"customCameraHotkeys": {
 		"english": "Open/close info panel: R\nToggle wall movement: T\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
@@ -2682,6 +2732,7 @@
 		"korean": "패널 열기/닫기: R\n벽 움직임 켜고끄기: T\n시네마틱 모드: C\n카메라 스피드 변경: 마우스 휠\n위아래로 움직이기: 왼쪽 쉬프트와 컨트롤 키",
 		//"arabic": "",
 		"polish": "Otwórz/zamknij panel informacyjny: R\nWłącz przesuwanie ścian: T\nTryb kinowy: C\nZmień szybkość kamery: Kółko myszki\nW Górę i w dół: Lewy shift i lewy control",
+		"italian": "Apri/chiudi pannello info: R\nAttiva/disattiva movimento parete: T\nModalità cinematografica: C\nCambia velocità telecamera: Rotella del mouse\nSu e giù: Shift sinistro e Ctrl sinistro",
 	},
 	"camSpeed": {
 		"english": "Cam speed",
@@ -2697,6 +2748,7 @@
 		"korean": "카메라 스피드",
 		//"arabic": "",
 		"polish": "Szybkość kamery",
+		"italian": "Velocità telecamera",
 	},
 
 

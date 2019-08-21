@@ -228,6 +228,7 @@
 	},
 	"smallPresent": {
 		"english": "small present",
+		"spanish": "presente pequeño",
 		"portuguese": "pequeno presente",
 		"russian": "маленький подарок",
 		"french": "petit cadeau",
@@ -235,6 +236,7 @@
 	},
 	"mediumPresent": {
 		"english": "medium present",
+		"spanish": "presente mediano",
 		"portuguese": "medio presente",
 		"russian": "средний подарок",
 		"french": "cadeau moyen",
@@ -242,6 +244,7 @@
 	},
 	"largePresent": {
 		"english": "large present",
+		"spanish": "presente grande",
 		"portuguese": "grande presente",
 		"russian": "большой подарок",
 		"french": "gros cadeau",
@@ -249,6 +252,7 @@
 	},
 	"offerPresentCancel": {
 		"english": "Actually, we can't afford it.",
+		"spanish": "La verdad, no podemos pagar eso.",
 		"portuguese": "Na verdade, não podemos permitir isso.",
 		"russian": "К сожалению, мы не можем себе это позволить.",
 		"french": "En réalité, nous ne pouvons pas nous le permettre.",
@@ -256,6 +260,7 @@
 	},
 	"acceptPresentsBadRelations": {
 		"english": "Fine, we'll take it.",
+		"spanish": "Bien, lo tomaremos.",
 		"portuguese": "Tudo bem, vamos levá-lo.",
 		"russian": "Отлично, мы примем ваш подарок.",
 		"french": "Très bien, nous le prenons.",
@@ -263,6 +268,7 @@
 	},
 	"acceptPresentsNeutralRelations": {
 		"english": "Thank you. We accept your thoughtful present.",
+		"spanish": "Gracias. Aceptamos tu reflexivo presente.",
 		"portuguese": "Obrigado. Nós aceitamos seu presente pensativo.",
 		"russian": "Спасибо. Мы принимаем ваш подарок.",
 		"french": "Merci. Nous acceptons votre cadeau attentionné.",
@@ -270,6 +276,7 @@
 	},
 	"acceptPresentsGoodRelations": {
 		"english": "Thanks! You're a good friend of our people.",
+		"spanish": "¡Gracias! Eres un buen amigo de nuestra gente.",
 		"portuguese": "Obrigado! Você é um bom amigo do nosso povo.",
 		"russian": "Спасибо! Ты теперь нам как друг!",
 		"french": "Merci! Vous êtes un bon ami de notre peuple.",
@@ -277,6 +284,7 @@
 	},
 	"acceptPresentsAnswer": {
 		"english": "You're welcome.",
+		"spanish": "De nada.",
 		"portuguese": "De nada.",
 		"russian": "Пожалуйста.",
 		"french": "De rien.",
@@ -287,6 +295,7 @@
 
 	"demandTribute": {
 		"english": "We demand a tribute from you.",
+		"spanish": "Exigimos un tributo de ti.",
 		"portuguese": "Exigimos um tributo de você.",
 		"russian": "Мы требуем от вас дани.",
 		"french": "Nous exigeons un tribut de votre part.",
@@ -294,6 +303,7 @@
 	},
 	"tributeSelectionText": {
 		"english": "Really...?",
+		"spanish": "¿De verdad...?",
 		"portuguese": "Mesmo...?",
 		"russian": "Эм... Серьезно?",
 		"french": "Vraiment... ?",
@@ -301,6 +311,7 @@
 	},
 	"tributeSelectionDemand": {
 		"english": "Please give use these items.",
+		"spanish": "Por favor, danos estos ítems.",
 		"portuguese": "Por favor, nos dê esses itens.",
 		"russian": "Пожалуйста, дайте нам эти предметы.",
 		"french": "S'il vous plaît, donnez-nous ces objets.",
@@ -308,6 +319,7 @@
 	},
 	"tributeSelectionJustKidding": {
 		"english": "Just Kidding.",
+		"spanish": "Es broma.",
 		"portuguese": "Só brincando.",
 		"russian": "Шутка.",
 		"french": "Je plaisante.",
@@ -315,6 +327,7 @@
 	},
 	"tributeSelectionAcceptanceProbability": {
 		"english": "Probability of them accepting the tribute: %probability% percent",
+		"spanish": "Probabilidad de aceptar el tributo: %probability% por ciento",
 		"portuguese": "Probabilidade de aceitar a homenagem: %probability% por cento",
 		"russian": "Вероятность того, что они примут дань: %probability% процентов",
 		"french": "Probabilité qu'ils acceptent le tribut : %probability% pour cent.",
@@ -322,6 +335,7 @@
 	},
 	"tributeAcceptedBecauseFriendship": {
 		"english": "We decided to make an exception and give you our wares because we see you as a friend. We can offer these things to help you out:",
+		"spanish": "Decidimos hacer una excepción y darte nuestras mercancías porque te vemos como un amigo. Podemos ofrecerte esto para ayudarte:",
 		"portuguese": "Decidimos abrir uma exceção e dar-lhe nossos produtos porque nos vemos como um amigo. Podemos oferecer essas coisas para ajudá-lo:",
 		"russian": "Мы решили сделать для вас исключение и предлагаем вам на выбор наши товары. Мы считаем вас другом и хотим помочь: ",
 		"french": "Nous avons décidé de faire une exception et de vous donner nos marchandises parce que nous vous considérons comme un ami. Nous pouvons vous offrir ces choses pour vous aider.",
@@ -329,6 +343,7 @@
 	},
 	"tributeAcceptedBecauseScared": {
 		"english": "It's despicable that you bully others to get your way, but we don't have a choice. This is what we can offer you:",
+		"spanish": "Es despreciable que intimides a otros para salirte con la tuya, pero no tenemos opción. Esto es lo que podemos ofrecerte:",
 		"portuguese": "É desprezível que você intimide os outros a conseguir o que quer, mas não temos escolha. Isto é o que podemos oferecer a você:",
 		"russian": "Подло запугивать других ради извлечения выгоды, но у нас нет другого выхода. Вот что мы можем вам предложить: ",
 		"french": "C'est méprisable que vous intimidiez les autres pour obtenir ce que vous voulez, mais nous n'avons pas le choix. Voici ce que nous pouvons vous offrir :",
@@ -336,6 +351,7 @@
 	},
 	"tributeAcceptedBecauseTinyTribute": {
 		"english": "What? I thought you wanted something valuable. We can help you out a little:",
+		"spanish": "¿Qué? Pensé que querías algo de valor. Podemos ayudarte un poco:",
 		"portuguese": "O que? Eu pensei que você queria algo valioso. Nós podemos ajudá-lo um pouco:",
 		"russian": "Что? Я думал вы хотите что-то ценное. Мы можем помочь вам немного: ",
 		"french": "Quoi ? Je croyais que vous vouliez quelque chose de valeur. Nous pouvons vous aider un peu :",
@@ -343,6 +359,7 @@
 	},
 	"tributeAcceptedThanksForCooperation": {
 		"english": "Thanks for your cooperation.",
+		"spanish": "Gracias por tu cooperación.",
 		"portuguese": "Obrigado pela sua colaboração.",
 		"russian": "Спасибо за сотрудничество.",
 		"french": "Merci pour votre coopération",
@@ -350,6 +367,7 @@
 	},
 	"tributeDeniedText": {
 		"english": "It's pathetic how you think you can just demand something like that.\n\nYou are not our friend and you can't scare us into submission with such a small village.\n\nThis conversation is over.",
+		"spanish": "Es patético como peinsas que puedes demandar algo así.\n\nNo eres nuestro amigo, y no puedes asustarnos con una aldea tan pequeña.\n\nEsta conversación se acabó.",
 		"portuguese": "É patético como você acha que pode exigir algo assim. \n\nVocê não é nosso amigo e não pode nos assustar com uma aldeia tão pequena. \n\nEsta conversa acabou.",
 		"russian": "Вы думаете что можете просто так требовать от нас что-то?\n\nВы не наш друг и вы не можете заставить нас подчиняться вашей деревне.\n\nЭтот разговор окончен.",
 		"french": "C'est pathétique la façon donc vous pensez pouvoir exiger quelque chose comme ça.\n\nVous n'êtes pas notre ami et vous ne pouvez pas nous faire peur en tentant de nous soumettre avec un si petit village.\n\nCette conversation est terminée.",
@@ -360,6 +378,7 @@
 	
 	"goblinTributeTextBadRelations": {
 		"english": "It might be in your best interest to give us the following things:",
+		"spanish": "Podría set de tu mejor interés darnos las siguientes cosas:",
 		"portuguese": "Pode ser no seu melhor interesse para nos dar as seguintes coisas:",
 		"russian": "Возможно, в ваших же интересах дать нам следующее:",
 		"french": "Il serait peut-être dans votre intéret de nous donner les choses suivantes :",
@@ -367,6 +386,7 @@
 	},
 	"goblinTributeTextNeutralRelations": {
 		"english": "We need some materials and as a decent neighbor you should help us out here:",
+		"spanish": "Necesitamos algunos materiales y como un vecino decente podrías ayudarnos aquí:",
 		"portuguese": "Precisamos de alguns materiais e, como um vizinho decente, você deve nos ajudar aqui:",
 		"russian": "Нам нужна помощь с некоторыми ресурсами и мы решили попросить у вас как у нашего соседа: ",
 		"french": "Nous avons besoin de matériaux et en tant que bon voisin, vous devriez nous aider :",
@@ -374,6 +394,7 @@
 	},
 	"goblinTributeTextGoodRelations": {
 		"english": "Dear friend, we're in need of some materials. Would you mind helping us out?",
+		"spanish": "Querido amigo, necesitamos algunos materiales. ¿Te importaría ayudarnos?",
 		"portuguese": "Caro amigo, precisamos de alguns materiais. Você se importaria de nos ajudar?",
 		"russian": "Друг, мы нуждаемся в некоторых ресурсах. Ты нам поможешь?",
 		"french": "Cher ami, nous avons besoin de matériaux. Pourriez-vous nous aider ?",
@@ -381,6 +402,7 @@
 	},
 	"goblinTributeAcceptButton": {
 		"english": "Of course, there you go.",
+		"spanish": "Por supuesto, aquí tienes.",
 		"portuguese": "Claro, aí vai você.",
 		"russian": "Конечно, без проблем.",
 		"french": "Bien sûr, voilà.",
@@ -388,6 +410,7 @@
 	},
 	"goblinTributeDenyButton": {
 		"english": "I'm not going to pay your tribute!",
+		"spanish": "¡No voy a pagar tu tributo!",
 		"portuguese": "Eu não vou pagar o seu tributo!",
 		"russian": "Я не собираюсь платить вам дань!",
 		"french": "Je ne vais pas payer votre tribut !",
@@ -395,6 +418,7 @@
 	},
 	"goblinTributeAcceptedBadRelations": {
 		"english": "You know what's good for you.",
+		"spanish": "Sabes lo que es bueno para ti.",
 		"portuguese": "Você sabe o que é bom para você.",
 		"russian": "Надеюсь вы знаете что лучше для вас.",
 		"french": "Vous savez ce qui est bon pour vous.",
@@ -402,6 +426,7 @@
 	},
 	"goblinTributeAcceptedNeutralRelations": {
 		"english": "Thanks for your help.",
+		"spanish": "Gracias por tu ayuda.",
 		"portuguese": "Obrigado pela ajuda.",
 		"russian": "Спасибо за вашу помощь.",
 		"french": "Merci pour votre aide.",
@@ -409,6 +434,7 @@
 	},
 	"goblinTributeAcceptedGoodRelations": {
 		"english": "Thanks! We're happy we can call you our friend.",
+		"spanish": "¡Gracias! Nos alegra que podamos llamarte nuestro amigo.",
 		"portuguese": "Obrigado! Estamos felizes, podemos chamá-lo de nosso amigo.",
 		"russian": "Спасибо! Как хорошо иметь такого хорошего друга!",
 		"french": "Merci ! Nous sommes heureux de pouvoir vous appeler notre ami.",
@@ -416,6 +442,7 @@
 	},
 	"goblinTributeDeniedBadRelations": {
 		"english": "You are going to regret this.",
+		"spanish": "Vas a arrepentirte de esto.",
 		"portuguese": "Você vai se arrepender disso.",
 		"russian": "Вы должны заслужить это.",
 		"french": "Vous allez le regretter.",
@@ -423,6 +450,7 @@
 	},
 	"goblinTributeDeniedNeutralRelations": {
 		"english": "We will remember your attitude.",
+		"spanish": "No olvidaremos tu actitud.",
 		"portuguese": "Nós nos lembraremos de sua atitude.",
 		"russian": "Мы запомним ваше отношение к нам.",
 		"french": "Nous nous souviendrons de votre comportement.",
@@ -430,6 +458,7 @@
 	},
 	"goblinTributeDeniedGoodRelations": {
 		"english": "That's a bummer. Friends should stick together.",
+		"spanish": "Eso es un fastidio. Los amigos deberían permanecer juntos.",
 		"portuguese": "Isso é uma chatice. Os amigos devem ficar juntos.",
 		"russian": "Вот облом. Вообще-то друзья должны помогать друг другу.",
 		"french": "C'est vraiment dommage. Les amis devraient se serrer les coudes.",

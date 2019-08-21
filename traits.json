@@ -54,7 +54,7 @@
 		"dutch": "Heeft al veel ervaring op het slagveld en is niet snel bang te maken. Krijgt geen slecht hemeur van pijn en dood om %himHer%",
 		"ukrainian":"%firstName% вже має досвід в боях і не відступає просто так. Не знижається настрій за біль і смерть кругом %himHer%.",
 		"russian":"%firstName% уже имеет опыт в сражениях и не отступает просто так. Не снижается настроение за боль и смерть вокруг %himHer%.",
-		"chinese": "已经有很多战场经验,不容易被吓跑.%himHer%不会因为疼痛和死亡而产生负面情绪.",
+		"chinese": "已经有很多战斗经验,不容易被吓跑.%himHer%不会因为疼痛和死亡而产生负面情绪.",
 		"korean": "이미 전장에서 충분한 경험을 쌓았기에 쉽게 겁먹지 않습니다. 고통을 받거나 %heShe% 주변에서 누군가 죽더라도 기분이 안 좋아지는 일은 없습니다.",
 	},
 	"traitTitle_Optimist": {
@@ -83,7 +83,7 @@
 		"dutch": "Glas-half-vol type. Heeft een permanente humeur boost.",
 		"ukrainian":"Оптимістичн%heshe_IY_A% %guyGirl%. Настрій завжди росте.",
 		"russian":"Оптимистичн%hesheEnd% %guyGirl%. Настроение постоянно растет.",
-		"chinese": "Glass-half-full kind of %guyGirl%.获得永久的心情提升.",
+		"chinese": "还有-半杯水的 %guyGirl%.获得永久的心情提升.",
 		"korean": "컵에 물이 반이나 차있네, 라는 마인드를 가진 %guyGirl%입니다. 항상 기분이 좋습니다.",
 	},
 	"traitTitle_Pessimist": {
@@ -112,7 +112,7 @@
 		"dutch": "Glas-half-leeg type. Heeft een permanente hemeur straf",
 		"ukrainian":"Песимістичн%heshe_IY_A% %guyGirl%. Настрій завжди падає.",
 		"russian":"Пессимистичн%hesheEnd% %guyGirl%. Настроение постоянно снижается.",
-		"chinese": "--",
+		"chinese": "没了-半杯水的 %guyGirl%.获得永久的心情低落.",
 		"korean": "컵에 물이 반밖에 없어, 라는 마인드의 %guyGirl%입니다. 항상 기분이 안 좋습니다.",
 	},
 	"traitTitle_Killer": {
@@ -141,7 +141,7 @@
 		"dutch": "%firstName% heeft een sterke interesse in geweld. Krijgt positieve gedachtes van doden. Meestal in staat zichzelf te controleren.",
 		"ukrainian":"%firstName% має дивний схил до насильства. Получає позитивні думки від убивства. Зазвичай може %himselfHerself% контролювати.",
 		"russian":"%firstName% имеет странную наклонность к насилию. Получает позитивные мысли от убийства. Обычно может %himselfHerself% контролировать.",
-		"chinese": "--",
+		"chinese": "%firstName%喜爱暴力。从杀戮中获得积极的想法。通常来说可以控制自己。",
 		"korean": "%firstName%#{은} 폭력적인 것에 이상한 관심을 가집니다. 무언가를 죽일 때 긍정적인 생각을 합니다. 평소에는 스스로를 통제할 수 있습니다.",
 	},
 	"traitTitle_GoodHealth": {
@@ -169,7 +169,7 @@
 		"dutch": "Een leven van veel oefeningen en gezond eten heeft %firstName% met een robuste gezondheid. De kans is 20% hoger dat behandelingen slagen.",
 		"ukrainian":"%firstName% харчува%wordEnd% здоровою їжею і посилено займа%wordEnd%, завдяки чому володіє міцним здоров'ям. Шанс на успішне лікування на 20% вище.",
 		"russian":"%firstName% питал%wordEnd% здоровой пищей и усленно занимал%wordEnd%, благодаря чему обладает крепким здоровьем. Шанс на успешное лечение на 20% выше.",
-		"chinese": "--",
+		"chinese": "长久坚持的锻炼和进食营养的食物为%firstName%锻炼出非常强壮的身体。治疗成功的可能率增加20%。",
 		"korean": "%firstName%#{은} 평생 운동을 하며 건강한 음식을 먹어왔기 때문에 매우 튼튼합니다. 치료가 성공활 확률이 20% 증가합니다.",
 	},
 	"traitTitle_BadHealth": {
@@ -183,7 +183,7 @@
 		"dutch": "Slechte gezondheid",
 		"ukrainian":"Низький імунітет",
 		"russian":"Низкий иммунитет",
-		"chinese": "--",
+		"chinese": "身怀病疾",
 		"korean": "허약한",
 	},
 	"traitDesc_BadHealth": {
@@ -197,7 +197,7 @@
 		"ukrainian":"%firstName%, по деяким причинам, має імунітет гірше, чим у інших. Шанс на успішне лікування на 20% нижче.",
 		"dutch": "Voor geen speciale reden, is %firstname%'s immuunsysteem niet zo goed als dat van andere. De kans is 20% hoger dat behandelingen falen.",
 		"russian":"%firstName%, по некоторым причинам, имеет имунитет хуже, чем у остальных. Шанс на успешное лечение на 20% ниже.",
-		"chinese": "--",
+		"chinese": "由于先天的原因，%firstName%的免疫系统不如其他人。治疗失败率增加20%。",
 		"korean": "별다른 이유가 없지만, %firstName%의 면역계는 다른 사람들만큼 좋지 못합니다. 치료가 실패할 확률이 20% 증가합니다.",
 	},
 	"traitTitle_Overeater": {
@@ -226,7 +226,7 @@
 		"portuguese": "%firstName% ador%oA% comida e nem sempre consegue se controlar. Às vezes ele apenas continua comendo, embora já esteja chei%oA%.",
 		"ukrainian":"%firstName% любить їжу і не завжди в стані %himselfHerself% контролювати. Іноколи %heShe% просто продовжує їсти, хоча %heShe% уже сит%surnameA%.",
 		"russian":"%firstName% любит еду и не всегда в состоянии %himselfHerself% контролировать. Иногда %heShe% просто продолжает есть, хотя %heShe% уже сыт%surnameA%.",
-		"chinese": "--",
+		"chinese": "%firstName%十分爱吃，并不能总是控制%himselfHerself%。有时候，他会暴吃，即使他已经吃饱了。",
 		"korean": "%firstName%#{은} 음식을 사랑합니다. 하지만 항상 스스로를 통제할 수 있는 건 아닙니다. 가끔 %heShe%는 배가 부른 상태에서도 계속 먹습니다.",
 	},
 	"traitTitle_Survivor": {
@@ -255,7 +255,7 @@
 		"portuguese": "%firstName% sobreviveu a algumas situações difíceis e sabe o que é preciso. Quando os outros morrem, %eleEla% recebe um aumento de 25% na saúde e ganha consciência. (Apenas uma vez em 24 horas)",
 		"ukrainian":"%firstName% пережи%surnameA% не мало неприємних ситуацій та знає що потрібно робити. Коли хтось помирає, %heShe% получає +25% до здоров'я та приріст до свідомості. (раз в 24 години)",
 		"russian":"%firstName% пережил%surnameA% не мало неприятных ситуаций и знает что нужно делать. Когда кто-то умирает, %heShe% получает +25% к здоровью и прирост к сознанию. (раз в 24 часа)",
-		"chinese": "--",
+		"chinese": "%firstName%曾经历过磨难，知道该怎么做。当其他人死亡时，%heShe%获得25%的生命提升和意识。(24小时一次)",
 		"korean": "%firstName%#{은} 꽤 힘든 상황에서도 살아남았고, 살아남기 위해 무엇이 필요한지 알고 있습니다. 다른이들이라면 죽을만한 상황에서도, %heShe%는 25%의 생명력 보너스를 받고 의식불명 상태에 빠질 뿐입니다. (24시간에 한 번)",
 	},
 	"traitTitle_Insomnia": {
@@ -658,7 +658,7 @@
 		"spanish": "Amante de la Primavera",
 		"portuguese": "Ama a primavera01",
 		"dutch": "Houdt van de Lente",
-		"chinese": "%firstName%喜欢呼吸春天的新鲜空气，欣赏大自然再次绽放。",
+		"chinese": "喜欢春天",
 		"turkish": "İlkbaharı seviyor",
 		"russian":"Обожает весну",
 	},

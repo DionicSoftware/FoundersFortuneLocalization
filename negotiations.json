@@ -7,6 +7,7 @@
 		"french": "Salutations. Qu'est-ce qui vous amène chez nous ?",
 		"turkish": "Selamlar. Seni bize getiren ne?",
 		"dutch": "Gegroet. Wat brengt jou naar ons?",
+		"chinese": "CNTODO",
 	},
 	"seeYouLater": { // default goodbye. Kind of nice, but still neutral
 		"english": "See you later.",
@@ -16,6 +17,7 @@
 		"french": "À plus tard.",
 		"turkish": "Görüşmek üzere.",
 		"dutch": "Zie je later.",
+		"chinese": "CNTODO",
 	},
 	"goodbye": { // goodbye to be used when relations are not nice anymore
 		"english": "Goodbye.",
@@ -25,6 +27,7 @@
 		"french": "Au revoir.",
 		"turkish": "Hoşçakal.",
 		"dutch": "Tot ziens.",
+		"chinese": "CNTODO",
 	},
 	"thanks": {
 		"english": "Thanks.",
@@ -34,6 +37,7 @@
 		"french": "Merci.",
 		"dutch": "Bedankt",
 		"turkish": "Teşekkürler.",
+		"chinese": "CNTODO",
 	},
 	"thanksALot": {
 		"english": "Thanks a lot!",
@@ -43,6 +47,7 @@
 		"french": "Merci beaucoup !",
 		"turkish": "Çok teşekkürler.",
 		"dutch": "Heel erg bedankt!",
+		"chinese": "CNTODO",
 	},
 	"weUnderstand": {
 		"english": "We understand.",
@@ -52,6 +57,7 @@
 		"french": "Nous comprenons.",
 		"turkish": "Anlıyoruz.",
 		"dutch": "We begrijpen het.",
+		"chinese": "CNTODO",
 	},
 	"nothingValuableSelected": {
 		"english": "Nothing of value selected.",
@@ -61,6 +67,7 @@
 		"french": "Rien de valeur séléctionné.",
 		"dutch": "Niets van waarde geselecteerd.",
 		"turkish": "Değeri olan hiçbirşey seçilmedi.",
+		"chinese": "CNTODO",
 	},
 
 
@@ -73,6 +80,7 @@
 		"french": "J'aimerais négocier la libération de %firstName%.",
 		"dutch": "Ik zou met je willen onderhandelen over het bevrijden van %firstName%",
 		"turkish": "%firstName% için serbest bırakılmasını görüşmek istiyorum.",
+		"chinese": "CNTODO",
 	},
 	"kidnappedFreeingText": {
 		"english": "We're ready to release %firstName% if you make it worth our while.\n\nWe require you to give us %tribute% in exchange.",
@@ -82,6 +90,7 @@
 		"russian": "Мы бы с удовольствием отпустили %firstName%, но мы потратили время на его поимку. Мы не хотим уходить ни с чем.\n\nМы требуем чтобы вы дали нам %tribute% взамен.",
 		"french": "Nous sommes prêts à libérer %firstName% si vous faites en sorte que ça en vaille la peine.\n\nNous exigons que vous nous donniez %tribute% en échange.",
 		"turkish": "İyi bir değer karşılığında %firstName%'ı serbest bırakmaya hazırız.\n\nTakas için bize %haraç% vermenizi istiyoruz.",
+		"chinese": "CNTODO",
 	},
 	"kidnappedFreeingAcceptButton": {
 		"english": "Fine, we'll pay.",
@@ -91,6 +100,7 @@
 		"dutch": "Prima, we zullen betalen.",
 		"french": "Très bien, nous payerons.",
 		"turkish": "Peki, ödeyeceğiz.",
+		"chinese": "CNTODO",
 	},
 	"kidnappedFreeingDenyButton": {
 		"english": "Actually, we can't afford it.",
@@ -100,6 +110,7 @@
 		"russian": "К сожалению, мы не можем себе этого позволить.",
 		"french": "En réalité, nous ne pouvons pas nous le permettre.",
 		"turkish": "Aslına bakılırsa, bunu karşılayamayız.",
+		"chinese": "CNTODO",
 	},
 	"kidnappedFreeingAcceptedText": {
 		"english": "It's a deal. We freed %firstName% and will guarantee to not attack you for half a day, so you can come and get %himHer%.",
@@ -109,6 +120,7 @@
 		"dutch": "We hebben een deal. Wij hebben %firstName% bevrijd en geven garantie dat we jou voor een halve dag niet aanvallen zodat je %hemHaar% kan ophalen.",
 		"french": "Marché conclu. Nous avons libéré %firstName% et nous vous garantissons de ne pas vous attaquer pendant une demi-journée afin que vous puissiez venir %leLa% chercher.",
 		"turkish":  "Anlaştık. %firstName%'i serbest bıraktık ve yarım gün boyunca size saldırmayacağımızı garanti edeceğiz, böylece gelip onu alabilirsiniz.",
+		"chinese": "CNTODO",
 	},
 	"kidnappedFreeingAcceptedAnswer": {
 		"english": "Thanks.",
@@ -118,6 +130,7 @@
 		"dutch": "Bedankt",
 		"french": "Merci.",
 		"turkish": "Teşekkürler.",
+		"chinese": "CNTODO",
 	},
 
 
@@ -130,6 +143,7 @@
 		"french": "Quand prévoyez-vous de revenir ?",
 		"dutch": "Wanneer kom je weer langs?",
 		"turkish": "Ne zaman gelmeyi planlıyorsunuz?",
+		"chinese": "CNTODO",
 	},
 	"traderArrivalAnyMoment": {
 		"english": "We're actually arriving any moment now!",
@@ -139,6 +153,7 @@
 		"dutch": "We kunnen elk moment arriveren",
 		"french": "Nous sommes sur le point d'arriver d'un moment à l'autre !",
 		"turkish": "Gelmek üzereyiz aslında.",
+		"chinese": "CNTODO",
 	},
 	"traderArrivalInDays": {
 		"english": "We're planning to visit your village in %days1% to %days2% days.",
@@ -148,6 +163,7 @@
 		"dutch": "We zullen jouw dorp bezoeken in %days1% tot %days2% dagen.",
 		"french": "Nous prévoyons de visiter votre village dans %days1% à %days2% jours.",
 		"turkish": "%days1%-%days2% gün arasında gelmeyi planlıyoruz.",
+		"chinese": "CNTODO",
 	},
 	"traderArrivalAskForFastArrival": {
 		"english": "Would you mind sailing here immediately?",
@@ -175,6 +191,7 @@
 		"dutch": "We moeten een omweg maken...\nDat is niet goed voor onze handelsroutes, maar we maken een uitzondering voor jou.",
 		"french": "Nous allons devoir faire un détour...\nCela complique vraiment nos plans commerciaux, mais nous ferons une exception pour vous.",
 		"turkish": "Yoldan sapmak zorunda kalacağız...\nTicaret planlarımızla uğraşıyoruz, ama sizin için bir istisna yapacağız.",
+		"chinese": "CNTODO",
 	},
 	"traderArrivalFastDenied": {
 		"english": "Sorry, we can't afford to take a detour for you.",
@@ -184,6 +201,7 @@
 		"russian": "Извините, но мы не можем себе позволить приплыть к вам прямо сейчас.",
 		"french": "Désolé, nous ne pouvons pas nous permettre de faire un détour pour vous.",
 		"turkish": "Üzgünüz, sizin için yolumuzdan sapamayız.",
+		"chinese": "CNTODO",
 	},
 
 
@@ -196,6 +214,7 @@
 		"russian": "Можно получить скидку?",
 		"french": "Allez-vous nous faire une remise ?",
 		"turkish": "Bize bir indirim sağlayacak mısınız?",
+		"chinese": "CNTODO",
 	},
 	"tradingDiscountAcceptedText": {
 		"english": "We see you as a good friend of our people so we're trying to give you a %percent% percent discount.",
@@ -205,6 +224,7 @@
 		"dutch": "We zien je als een goede vriend van onze mensen dus we proberen om je een %percent% procent korting te geven.",
 		"french": "Nous vous considérons comme étant un bon ami de notre peuple, nous vous offrons donc une remise de %percent% pour cent.",
 		"turkish": "Sizi halkımızın iyi bir dostu olarak görüyoruz, bu yüzden size yüzde %percent% indirim sağlamaya çalışıyoruz.",
+		"chinese": "CNTODO",
 	},
 	"tradingDiscountDeniedText": {
 		"english": "Sorry, but you're not really a good friend of our people. We can't afford to give out discounts to everyone.",
@@ -214,6 +234,7 @@
 		"dutch": "Sorry, maar je bent niet zulke goede vrienden met onze mensen. We kunnen het niet veroorloven om iedereen korting te geven.",
 		"french": "Désolé, mais nous ne vous considérons pas comme étant un un bon ami de notre peuple. Nous ne pouvons pas nous permettre d'accorder une remise à n'importe qui.",
 		"turkish": "Üzgünüz, ama siz halkımıza pek yakın görmüyoruz. Herkese indirim yapmayı göze alamayız.",
+		"chinese": "CNTODO",
 	},
 
 
@@ -225,6 +246,7 @@
 		"dutch": "We zouden je een cadeau willen geven",
 		"french": "Nous aimerions vous offrir un cadeau.",
 		"turkish": "Size bir hediye sunmak istiyoruz.",
+		"chinese": "CNTODO",
 	},
 	"offerPresentText": {
 		"english": "A happy surprise! What is it?",
@@ -234,6 +256,7 @@
 		"dutch": "Een leuke verrassing! Wat is het?",
 		"french": "Un cadeau surprise ! Qu'est-ce que c'est ?",
 		"turkish": "Mutlu bir sürpriz! Nedir acaba?",
+		"chinese": "CNTODO",
 	},
 	"offerPresentButton": {
 		"english": "Please take this as a gift.",
@@ -243,6 +266,7 @@
 		"french": "S'il vous plaît, prenez ceci comme un cadeau.",
 		"dutch": "Neem alstublieft dit cadeau aan.",
 		"turkish": "Lütfen bunu bir hediye olarak kabul edin",
+		"chinese": "CNTODO",
 	},
 	"presentOpinion": {
 		"english": "This is a %present%.",
@@ -252,6 +276,7 @@
 		"dutch": "Dit is een %present%",
 		"french": "C'est un %present%",
 		"turkish": "Bu bir %present%.",
+		"chinese": "CNTODO",
 	},
 	"smallPresent": {
 		"english": "small present",
@@ -261,6 +286,7 @@
 		"french": "petit cadeau",
 		"turkish": "ufak bir hediye",
 		"dutch": "klein cadeau",
+		"chinese": "CNTODO",
 	},
 	"mediumPresent": {
 		"english": "medium present",
@@ -270,6 +296,7 @@
 		"russian": "средний подарок",
 		"french": "cadeau moyen",
 		"turkish": "ortalama bir hediye",
+		"chinese": "CNTODO",
 	},
 	"largePresent": {
 		"english": "large present",
@@ -279,6 +306,7 @@
 		"russian": "большой подарок",
 		"french": "gros cadeau",
 		"turkish": "büyük bir hediye",
+		"chinese": "CNTODO",
 	},
 	"offerPresentCancel": {
 		"english": "Actually, we can't afford it.",
@@ -288,6 +316,7 @@
 		"russian": "К сожалению, мы не можем себе это позволить.",
 		"french": "En réalité, nous ne pouvons pas nous le permettre.",
 		"turkish": "Aslında bunu karşılayamayız",
+		"chinese": "CNTODO",
 	},
 	"acceptPresentsBadRelations": {
 		"english": "Fine, we'll take it.",
@@ -297,6 +326,7 @@
 		"russian": "Отлично, мы примем ваш подарок.",
 		"french": "Très bien, nous le prenons.",
 		"turkish": "Peki, kabul ediyoruz.",
+		"chinese": "CNTODO",
 	},
 	"acceptPresentsNeutralRelations": {
 		"english": "Thank you. We accept your thoughtful present.",
@@ -306,6 +336,7 @@
 		"russian": "Спасибо. Мы принимаем ваш подарок.",
 		"french": "Merci. Nous acceptons votre cadeau attentionné.",
 		"turkish": "Teşekkürler. Bu düşünce dolu hediyeyi kabul ediyoruz.",
+		"chinese": "CNTODO",
 	},
 	"acceptPresentsGoodRelations": {
 		"english": "Thanks! You're a good friend of our people.",
@@ -315,6 +346,7 @@
 		"russian": "Спасибо! Ты теперь нам как друг!",
 		"french": "Merci! Vous êtes un bon ami de notre peuple.",
 		"turkish": "Teşekkürler. Siz, halkımız için iyi bir arkadaşsınız",
+		"chinese": "CNTODO",
 	},
 	"acceptPresentsAnswer": {
 		"english": "You're welcome.",
@@ -324,6 +356,7 @@
 		"russian": "Пожалуйста.",
 		"french": "De rien.",
 		"turkish": "Rica ederiz.",
+		"chinese": "CNTODO",
 	},
 
 
@@ -336,6 +369,7 @@
 		"russian": "Мы требуем от вас дани.",
 		"french": "Nous exigeons un tribut de votre part.",
 		"turkish": "Sizden bir haraç talep ediyoruz.",
+		"chinese": "CNTODO",
 	},
 	"tributeSelectionText": {
 		"english": "Really...?",
@@ -345,6 +379,7 @@
 		"french": "Vraiment... ?",
 		"dutch": "Echt...?",
 		"turkish": "Gerçekten mi...?",
+		"chinese": "CNTODO",
 	},
 	"tributeSelectionDemand": {
 		"english": "Please give us these items.",
@@ -354,6 +389,7 @@
 		"russian": "Пожалуйста, дайте нам эти предметы.",
 		"french": "S'il vous plaît, donnez-nous ces objets.",
 		"turkish": "Lütfen bu eşyaları bize veriniz.",
+		"chinese": "CNTODO",
 	},
 	"tributeSelectionJustKidding": {
 		"english": "Just Kidding.",
@@ -363,6 +399,7 @@
 		"dutch": "Grapje.",
 		"french": "Je plaisante.",
 		"turkish": "Sadece şakaydı.",
+		"chinese": "CNTODO",
 	},
 	"tributeSelectionAcceptanceProbability": {
 		"english": "Probability of them accepting the tribute: %probability% percent",
@@ -372,6 +409,7 @@
 		"french": "Probabilité qu'ils acceptent le tribut : %probability% pour cent.",
 		"dutch": "Kans dat ze het eerbetoon accepteren: %probability% procent",
 		"turkish": "Onların haraç kabul etme olasılığı: yüzde %probability%",
+		"chinese": "CNTODO",
 	},
 	"tributeAcceptedBecauseFriendship": {
 		"english": "We decided to make an exception and give you our wares because we see you as a friend. We can offer these things to help you out:",
@@ -381,6 +419,7 @@
 		"dutch": "We hebben besloten om een uitzondering te maken en geven je onze spullen te geven omdat we je als een vriend zien. We kunnen deze spullen aanbieden om wat te helpen:",
 		"french": "Nous avons décidé de faire une exception et de vous donner nos marchandises parce que nous vous considérons comme un ami. Nous pouvons vous offrir ces choses pour vous aider.",
 		"turkish": "Bir istisna yapmaya ve size mallarımızı vermeye karar verdik, çünkü sizi arkadaş olarak görüyoruz. Size yardımcı olmak için aşağıdakileri önerebiliriz:",
+		"chinese": "CNTODO",
 	},
 	"tributeAcceptedBecauseScared": {
 		"english": "It's despicable that you bully others to get your way, but we don't have a choice. This is what we can offer you:",
@@ -390,6 +429,7 @@
 		"dutch": "Het is verachterlijk dat je anderen naar jouw zin kan pesten, maar we hebben geen keus. Dit is wat we je kunnen geven:",
 		"french": "C'est méprisable que vous intimidiez les autres pour obtenir ce que vous voulez, mais nous n'avons pas le choix. Voici ce que nous pouvons vous offrir :",
 		"turkish": "Başkalarını istediğinizi yapmaya zorlamak çok aşağılık, ama başka seçeneğimiz yok. Size sunabileceklerimiz bunlar:",
+		"chinese": "CNTODO",
 	},
 	"tributeAcceptedBecauseTinyTribute": {
 		"english": "What? I thought you wanted something valuable. We can help you out a little:",
@@ -399,6 +439,7 @@
 		"russian": "Что? Я думал вы хотите что-то ценное. Мы можем помочь вам немного: ",
 		"french": "Quoi ? Je croyais que vous vouliez quelque chose de valeur. Nous pouvons vous aider un peu :",
 		"turkish": "Ne? Değerli bir şey istediğinizi düşündüm. Size biraz yardımcı olabiliriz:",
+		"chinese": "CNTODO",
 	},
 	"tributeAcceptedThanksForCooperation": {
 		"english": "Thanks for your cooperation.",
@@ -408,6 +449,7 @@
 		"dutch": "Bedankt voor je medewerking.",
 		"french": "Merci pour votre coopération",
 		"turkish": "İşbirliğiniz için teşekkürler.",
+		"chinese": "CNTODO",
 	},
 	"tributeDeniedText": {
 		"english": "It's pathetic how you think you can just demand something like that.\n\nYou are not our friend and you can't scare us into submission with such a small village.\n\nThis conversation is over.",
@@ -417,6 +459,7 @@
 		"dutch": "Het zielig dat je denkt dat je gewoon op zo een manier iets kan eisen.\n\nJe bent niet onze vriend en je kan ons niet bang maken met zo een klein dorpje.\n\nDit gesprek is voorbij.",
 		"french": "C'est pathétique la façon donc vous pensez pouvoir exiger quelque chose comme ça.\n\nVous n'êtes pas notre ami et vous ne pouvez pas nous faire peur en tentant de nous soumettre avec un si petit village.\n\nCette conversation est terminée.",
 		"turkish": "Böyle bir şeyi talep edebileceğinizi düşünmek acıklı. \n\nArkadaşımız değilsiniz ve bizi ufacık köyünüzle korkutamazsınız.\n\nBu konuşma burada bitmiştir." ,
+		"chinese": "CNTODO",
 	},
 
 
@@ -429,6 +472,7 @@
 		"russian": "Возможно, в ваших же интересах дать нам следующее:",
 		"french": "Il serait peut-être dans votre intéret de nous donner les choses suivantes :",
 		"turkish": "Bize aşağıdakileri vermek sizin yararınıza olabilir:",
+		"chinese": "CNTODO",
 	},
 	"goblinTributeTextNeutralRelations": {
 		"english": "We need some materials and as a decent neighbor you should help us out here:",
@@ -438,6 +482,7 @@
 		"russian": "Нам нужна помощь с некоторыми ресурсами и мы решили попросить у вас как у нашего соседа: ",
 		"french": "Nous avons besoin de matériaux et en tant que bon voisin, vous devriez nous aider :",
 		"turkish": "Bazı malzemelere ihtiyacımız var ve iyi bir komşu olarak bize yardım etmelisin:",
+		"chinese": "CNTODO",
 	},
 	"goblinTributeTextGoodRelations": {
 		"english": "Dear friend, we're in need of some materials. Would you mind helping us out?",
@@ -447,6 +492,7 @@
 		"russian": "Друг, мы нуждаемся в некоторых ресурсах. Ты нам поможешь?",
 		"french": "Cher ami, nous avons besoin de matériaux. Pourriez-vous nous aider ?",
 		"turkish": "Sevgili arkadaşım, bazı malzemelere ihtiyacımız var. Bize yardım eder misiniz?",
+		"chinese": "CNTODO",
 	},
 	"goblinTributeAcceptButton": {
 		"english": "Of course, there you go.",
@@ -456,6 +502,7 @@
 		"dutch": "Natuurlijke, alsjeblieft.",
 		"french": "Bien sûr, voilà.",
 		"turkish": "Tabii ki, buyurun.",
+		"chinese": "CNTODO",
 	},
 	"goblinTributeDenyButton": {
 		"english": "I'm not going to pay your tribute!",
@@ -465,6 +512,7 @@
 		"dutch": "Ik ga je eerbetoon niet betalen!",
 		"french": "Je ne vais pas payer votre tribut !",
 		"turkish": "Haracınızı ödemeyeceğim!",
+		"chinese": "CNTODO",
 	},
 	"goblinTributeAcceptedBadRelations": {
 		"english": "You know what's good for you.",
@@ -474,6 +522,7 @@
 		"russian": "Надеюсь вы знаете что лучше для вас.",
 		"french": "Vous savez ce qui est bon pour vous.",
 		"turkish": "Senin için neyin iyi olduğunu biliyorsun.",
+		"chinese": "CNTODO",
 	},
 	"goblinTributeAcceptedNeutralRelations": {
 		"english": "Thanks for your help.",
@@ -483,6 +532,7 @@
 		"russian": "Спасибо за вашу помощь.",
 		"french": "Merci pour votre aide.",
 		"turkish": "Yardımınız için teşekkürler.",
+		"chinese": "CNTODO",
 	},
 	"goblinTributeAcceptedGoodRelations": {
 		"english": "Thanks! We're happy we can call you our friend.",
@@ -492,6 +542,7 @@
 		"russian": "Спасибо! Как хорошо иметь такого хорошего друга!",
 		"french": "Merci ! Nous sommes heureux de pouvoir vous appeler notre ami.",
 		"turkish": "Teşekkürler! Size arkadaşımız diyebileceğimiz için mutluyuz.",
+		"chinese": "CNTODO",
 	},
 	"goblinTributeDeniedBadRelations": {
 		"english": "You are going to regret this.",
@@ -501,6 +552,7 @@
 		"french": "Vous allez le regretter.",
 		"dutch": "Je gaat hier spijt van krijgen.",
 		"turkish": "Buna pişman olacaksın.",
+		"chinese": "CNTODO",
 	},
 	"goblinTributeDeniedNeutralRelations": {
 		"english": "We will remember your attitude.",
@@ -510,6 +562,7 @@
 		"dutch": "We zullen je houding onthouden.",
 		"french": "Nous nous souviendrons de votre comportement.",
 		"turkish": "Tutumunuzu hatırlayacağız.",
+		"chinese": "CNTODO",
 	},
 	"goblinTributeDeniedGoodRelations": {
 		"english": "That's a bummer. Friends should stick together.",
@@ -519,5 +572,6 @@
 		"russian": "Вот облом. Вообще-то друзья должны помогать друг другу.",
 		"french": "C'est vraiment dommage. Les amis devraient se serrer les coudes.",
 		"turkish": "Bu hiç iyi değil. Arkadaşlar birbirine yardımcı olmalı.",
+		"chinese": "CNTODO",
 	},
 }

@@ -473,7 +473,7 @@
 		"chinese": "%firstName%需要更多的工作经验或适当的教育",
 		"polish": "%firstName% potrzebuje więcej doświadczenia zawodowego lub właściwej edukacji.",
 		"korean": "%firstName%에게는 더 많은 경험 또는 적절한 교육이 필요합니다.",
-		"italian": "",
+		"italian": "%firstName% ha bisogno di più esperienza lavorativa o di una formazione adeguata",
 	},
 	"salarySatisfactionAwesome": {
 		"english": "Happy with %hisHer% salary",
@@ -488,7 +488,7 @@
 		"chinese": "对%hisHer%工资感到满意",
 		//"polish": "",
 		"korean": "%heShe%의 일당에 행복함",
-		"italian": "",
+		"italian": "Felice del suo salario",
 	},
 	"salarySatisfactionGood": {
 		"english": "Fine with %hisHer% salary",
@@ -503,7 +503,7 @@
 		"chinese": "对%hisHer%工资没有异议",
 		//"polish": "",
 		"korean": "%heShe%의 일당이면 충분함",
-		"italian": "",
+		"italian": "%SoddisfattoSoddisfatta% del suo salario",
 	},
 	"salarySatisfactionInsufficient": {
 		"english": "Didn't receive enough salary",
@@ -518,7 +518,7 @@
 		"chinese": "没有得到足够的工资",
 		//"polish": "",
 		"korean": "충분한 일당을 받지 못함",
-		"italian": "",
+		"italian": "Non ha ricevuto abbastanza salario",
 	},
 	"salarySatisfactionBad": {
 		"english": "Received way too little salary",
@@ -533,7 +533,7 @@
 		"chinese": "工资太少了",
 		//"polish": "",
 		"korean": "너무 적은 일당을 받음",
-		"italian": "",
+		"italian": "Ha ricevuto un salario misero",
 	},
 	"salarySatisfactionNotPaidYet": {
 		"english": "Has not received a salary yet",
@@ -549,7 +549,7 @@
 		"chinese": "还没有领到工资",
 		//"polish": "",
 		"korean": "아직 일당을 받지 않음",
-		"italian": "",
+		"italian": "Non ha ancora ricevuto un salario",
 	},
 	"salarySatisfactionAwesome_Desc": {
 		"english": "%firstName% didn't think %hisHer% work would be worth that much money. %cap-heShe% expects only %coins% coins per day, but the extra money brightens up %hisHer% day!",
@@ -564,7 +564,7 @@
 		"chinese": "%firstName%不认为%hisHer%的工作值那么多工资.%heShe%希望每天工资只发放%coins%硬币,但如果加工资将会让%heShe%一整天感到很满意!",
 		//"polish": "",
 		"korean": "%firstName%은 자신이 그 정도의 대우를 받을만한 사람이라고 생각하진 않습니다. %heShe%는 그저 하루에 %coins% 코인이면 족하다고 생각하지만, 더 많은 돈은 %heShe%의 하루를 즐겁게 합니다!",
-		"italian": "",
+		"italian": "%firstName% non pensava che il suo lavoro valesse così tanti soldi. Le sue aspettative erano di %coins% monete al giorno, ma il denaro extra ha illuminato la sua giornata!",
 	},
 	"salarySatisfactionGood_Desc": {
 		"english": "%firstName% thinks %hisHer% last payday was adequate. %coins% coins per day is a normal salary for %himHer%.",
@@ -579,7 +579,7 @@
 		"chinese": "%firstName%认为%hisHer%刚发的日薪是足够的.对他来说,每天的工资是正常的.",
 		//"polish": "",
 		"korean": "%firstName%은 이번 일당이 적절했다고 생각합니다. 하루에 %coins% 코인이면 %heShe%에게는 평범한 수준이죠.",
-		"italian": "",
+		"italian": "%firstName% pensa che il suo ultimo salario è stato adeguato. %coins% monete al giorno è un salario accettabile.",
 	},
 	"salarySatisfactionInsufficient_Desc": {
 		"english": "According to %firstName%, %heShe% deserves a minimum salary of %coins% coins per day.",
@@ -594,7 +594,7 @@
 		"chinese": "根据%firstName%的情况,%heShe%认为最低工资应该有%coins%硬币才行.",
 		//"polish": "",
 		"korean": "%firstName%이 말하기를, %heShe%는 하루에 최소한 %coins% 코인을 받을 자격이 된다고 합니다.",
-		"italian": "",
+		"italian": "Secondo %firstName%, il suo lavoro merita un salario minimo di %coins% monete al giorno.",
 	},
 	"salarySatisfactionBad_Desc": {
 		"english": "%firstName% is unhappy with %hisHer% last payday - in %hisHer% opinion, %heShe% deserves a minimum salary of %coins% coins per day.",
@@ -609,7 +609,7 @@
 		"chinese": "%firstName%对%hisHer%刚发放的日薪不满意 - %hisHer%意见是,%heShe%的最低工资应该是每天发放%coins%硬币.",
 		//"polish": "",
 		"korean": "%firstName%은 이번 일당 때문에 기분이 나쁩니다 - %heShe%의 의견에 따르면, %heShe%는 하루에 최소한 %coins% 코인을 받을 자격이 된다고 합니다.",
-		"italian": "",
+		"italian": "%firstName% è %ScontentoScontenta% del suo ultimo salario. Secondo la sua opinione, merita un salario minimo di %coins% monete al giorno.",
 	},
 	"salarySatisfactionNotPaidYet_Desc": {
 		"english": "%firstName% expects a minimum salary of %coins% coins per day.",
@@ -624,7 +624,7 @@
 		"chinese": "%firstName%希望每天能有%coins%硬币的工资.",
 		"polish": "%firstName% chce wypłatę minimum %coins% na dzień.",
 		"korean": "%firstName%은 최소한 하루에 %coins% 코인쯤 받을 거라고 예상하고 있습니다.",
-		"italian": "",
+		"italian": "%firstName% si aspetta un salario minimo di %coins% monete al giorno.",
 	},
 	"food": {
 		"english": "Food",
@@ -640,7 +640,7 @@
 		"chinese": "食物",
 		"polish": "Jedzenie",
 		"korean": "음식",
-		"italian": "",
+		"italian": "Cibo",
 	},
 	"simpleMeals": {
 		"english": "Campfire food",
@@ -656,7 +656,7 @@
 		"chinese": "烤制食物",
 		"polish": "Jedzenie z ogniska",
 		"korean": "모닥불에 구운 음식",
-		"italian": "",
+		"italian": "Cibo da falò",
 	},
 	"goodOrBakedMeals": {
 		"english": "Kitchen food or baked goods",
@@ -672,7 +672,7 @@
 		"chinese": "厨房食物或烘培食物",
 		"polish": "Jedzenie z kuchni lub wypieki",
 		"korean": "요리된 음식 또는 오븐에 구운 음식",
-		"italian": "",
+		"italian": "Cibo da cucina o da forno",
 	},
 	"goodAndBakedMeals": {
 		"english": "Variety of kitchen food or baked goods",
@@ -688,7 +688,7 @@
 		"chinese": "多种厨房食品或烘焙食品",
 		"polish": "Różnorodność kuchennego jedzenia lub wypieków",
 		"korean": "다양한 요리된 음식 또는 오븐에 구운 음식",
-		"italian": "",
+		"italian": "Varietà di cibi da cucina o da forno",
 	},
 	"clickToShowSleepingSpot": {
 		"english": "Click to show sleeping spot",
@@ -704,7 +704,7 @@
 		"chinese": "单击此处可显示睡眠地点",
 		"polish": "Kliknij, aby pokazać miejsce spania",
 		"korean": "잠자리를 보려면 클릭하세요",
-		"italian": "",
+		"italian": "Clicca per vedere il posto letto",
 	},
 	"ownsSleepingSpot": {
 		"english": "Owns a Sleeping Spot",
@@ -720,7 +720,7 @@
 		"chinese": "拥有一个睡觉的地方",
 		"polish": "Posiada miejsce do spania",
 		"korean": "자신만의 잠자리를 가지기",
-		"italian": "",
+		"italian": "Possiede un posto letto",
 	},
 	"sleepsInside": {
 		"english": "Sleeps inside",
@@ -736,7 +736,7 @@
 		"chinese": "睡在室内",
 		"polish": "Śpi wewnątrz",
 		"korean": "실내에서 자기",
-		"italian": "",
+		"italian": "Dorme al coperto",
 	},
 	"ownsBed": {
 		"english": "Owns a proper bed",
@@ -752,7 +752,7 @@
 		"chinese": "拥有一张合适的床",
 		"polish": "Posiada właściwe łóżko",
 		"korean": "제대로 된 침대 가지기",
-		"italian": "",
+		"italian": "Possiede un letto adeguato",
 	},
 	"ownsBedroom": {
 		"english": "Owns a bedroom",
@@ -768,7 +768,7 @@
 		"chinese": "拥有一间卧室",
 		"polish": "Posiada sypialnię",
 		"korean": "나만의 침실 가지기",
-		"italian": "",
+		"italian": "Possiede una stanza da letto",
 	},
 	"ownsHouse": {
 		"english": "Owns a house",
@@ -784,7 +784,7 @@
 		"chinese": "拥有一间房子",
 		"polish": "Posiada dom",
 		"korean": "나만의 집 가지기",
-		"italian": "",
+		"italian": "Possiede una casa",
 	},
 	"ownsHouse3Rooms": {
 		"english": "Owns a house with 3 big rooms",
@@ -800,7 +800,7 @@
 		"chinese": "拥有一幢有三个大房间的房子",
 		"polish": "Posiada dom z 3 dużymi pokojami",
 		"korean": "3개의 큰 방이 있는 집 가지기",
-		"italian": "",
+		"italian": "Possiede una casa con 3 grandi stanze",
 	},
 	"ownsHouse5Rooms": {
 		"english": "Owns a house with 5 big rooms",
@@ -816,7 +816,7 @@
 		"chinese": "拥有一幢有5个大房间的房子",
 		"polish": "Posiada dom z 5 dużymi pokojami",
 		"korean": "5개의 큰 방이 있는 집 가지기",
-		"italian": "",
+		"italian": "Possiede una casa con 5 grandi stanze",
 	},
 	"lifeSatisfactionLevel": {
 		"english": "Life Satisfaction Level %number%",
@@ -832,7 +832,7 @@
 		"chinese": "生活满意度达到%number%级",
 		"polish": "Poziom zadowolenia z życia %number%",
 		"korean": "생활 만족도 %number% 레벨",
-		"italian": "",
+		"italian": "Soddisfazione di vita livello %number%",
 	},
 	"needToFulfillWishes": {
 		"english": "Wishes need to be fulfilled",
@@ -848,7 +848,7 @@
 		"chinese": "愿望需要被实现",
 		"polish": "Życzenia do spełnienia",
 		"korean": "소원이 이루어져야 합니다",
-		"italian": "",
+		"italian": "Desidera soddisfare i suoi desideri",
 	},
 	"wantsJob_Title": {
 		"english": "Wants a job",
@@ -864,7 +864,7 @@
 		"chinese": "想要一份职业",
 		"polish": "Chce pracę",
 		"korean": "직업을 갖고싶어",
-		"italian": "",
+		"italian": "Vuole un lavoro",
 	},
 	"wantsJob_Desc": {
 		"english": "%firstName% has no job at the moment. It's making %himHer% feel unfulfilled.",
@@ -880,6 +880,6 @@
 		"chinese": "%firstName%目前没有职业.这让他感到不满意",
 		"polish": "%firstName% nie ma pracy w tym momencie. Przez to %onOna% czuje się %niezadowolon%yA%.",
 		"korean": "%firstName%은 아직 직업이 없습니다. %heShe%는 성취감을 느끼지 못하고 있습니다.",
-		"italian": "",
+		"italian": "%firstName% non ha un lavoro al momento. Questo %LoLa% fa sentire irrealizzato.",
 	},
 }

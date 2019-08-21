@@ -45,9 +45,19 @@
 		"korean": "아직 의미가 없음",
 	},
 	"notRelevantYet_Desc_home": {
-		"english": "%firstName% doesn't care about a home at the moment.",
-		"dutch":  "%firstName% Geeft niet om een huis nu dit ogenblik.",
-		"german": "%firstName% ist ein Zuhause im Moment nicht wichtig.",
+		"english": "%firstName% doesn't care about %hisHer% home at the moment.",
+		"german": "%firstName% ist %seinIhr% Zuhause im Moment nicht wichtig.",
+		// TODO-french
+		// TODO-spanish
+		// TODO-bulgarian
+		// TODO-turkish
+		// TODO-portuguese
+		// TODO-russian
+		// TODO-ukrainian
+		// TODO-chinese
+		// TODO-polish
+		// TODO-korean
+		// TODO-dutch
 		"french": "%firstName% ne s'intéresse pas à avoir une Maison pour le moment.",
 		"spanish": "%firstName% no se preocupa por tener una casa por el momento.",
 		"bulgarian": "%firstName% не се интересува от дома в момента.",
@@ -58,6 +68,7 @@
 		"chinese": "%firstName%目前不关心房子的情况.",
 		"polish": "%firstName% nie dba o dom w tej chwili.",
 		"korean": "%firstName%은 아직 집에 대해 신경쓰지 않고 있습니다.",
+		"dutch":  "%firstName% Geeft niet om een huis nu dit ogenblik.",
 	},
 	"notRelevantYet_Desc_lifeSatisfaction": {
 		"english": "%firstName% doesn't care about Life Satisfaction at the moment.",

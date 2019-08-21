@@ -23,7 +23,7 @@
 		"german": "Ja, mit diesem einfachen Holzboden wird dein Haus keine Schönheitswettbewerbe gewinnen, aber besser als nichts, oder?",
 		"dutch":  "Ja, deze houten vloer wint geen designprijzen, maar het is beter dan niets, toch?",
 		"french": "Oui, ce plancher ne gagnera pas le prix du meilleur design mais c'est mieux que rien, n'est-ce pas ?",
-		"spanish": "Sí, con este piso no ganarás ningún premio de mejor diseño, pero es mejor a nada, ¿no?",
+		"spanish": "Sí, con este piso no ganarás ningún premio al mejor diseño, pero es mejor a nada, ¿no?",
 		"portuguese": "Sim, este piso de madeira não vai ganhar prêmios de design, mas é melhor que nada, certo?",
 		"bulgarian": "Да, този дървен под няма да спечели награди за дизайн, но е по-добре от нищо, нали?",
 		"turkish": "Evet, bu tahta zemin tasarım ödüllerini kazanmaz ama hiç bir şey olmamasından iyidir değil mi?",
@@ -51,7 +51,7 @@
 		"english": "It doesn't have to be a sophisticated floor all the time. A bit of straw here and there will do the trick too.",
 		"german": "Es muss nicht immer ein besonderer Boden sein. Etwas Stroh hier und da reicht doch vollkommen.",
 		"french": "Il n'est pas nécessaire de toujours avoir un sol sophistiqué. Un peu de paille ici et là fera l'affaire.",
-		"spanish": "No tiene que ser un piso sofisticado siempre. Un poco de paja aquí y allá también funcionará",
+		"spanish": "No tiene que ser un piso sofisticado siempre. Un poco de paja aquí y allá también funcionará.",
 		"russian": "Это далеко не самый утонченный в плане дизайна пол. Но почему бы и нет?",
 		"dutch": "Het hoeft niet altijd een bijzondere vloer te zijn. Een beetje stro hier en daar werkt ook.",
 		"portuguese": "Não precisa ser um andar sofisticado o tempo todo. Um pouco de palha aqui e ali vai fazer o truque também.",
@@ -372,41 +372,49 @@
 	"carpetRoyal0_": {
 		"english": "Royal Carpet",
 		"german":  "Vornehmer Teppichboden",
+		"spanish": "Alfombra Real",
 		"chinese": "皇室地毯 ",
 	},
 	"carpetRoyal0_Description": {
 		"english": "This classy blue carpet pleases both feet and eyes. Fluffy and good looking!",
 		"german": "Dieser edle blaue Teppichboden weiß Füße und Augen zu begeistern. Flauschig und gutaussehend!",
+		"spanish": "Esta alfombra con clase azul complace a ojos y pies. ¡Mullida y de muy buen parecer!", 
 		"chinese": "这张漂亮的蓝色地毯既好看又好看。毛茸茸的，很好看!",
 	},
 	"carpetRoyal1_": {
 		"english": "Royal Carpet",
 		"german":  "Vornehmer Teppichboden",
+		"spanish": "Alfombra Real",
 		"chinese": "皇室地毯",
 	},
 	"carpetRoyal1_Description": {
 		"english": "This classy carpet pleases both feet and eyes. Fluffy and good looking!",
 		"german": "Dieser edle Teppichboden weiß Füße und Augen zu begeistern. Flauschig und gutaussehend!",
+		"spanish": "Esta alfombra con clase complace a ojos y pies. ¡Mullida y de muy buen parecer!", 
 		"chinese": "这张漂亮的蓝色地毯既好看又好看。毛茸茸的，很好看!",
 	},
 	"carpetScales0_": {
 		"english": "Scales Pattern Carpet",
 		"german":  "Geschuppter Teppichboden",
+		"spanish": "Alfombra con Patrón de Escalas",
 		"chinese": "鱼鳞地毯",
 	},
 	"carpetScales0_Description": {
 		"english": "A modern light brown carpet with a scales pattern on it.",
 		"german": "Ein moderner hellbrauner Teppichboden mit Schuppenmuster.",
+		"spanish": "Una moderna alfombra de color marrón claro con un patrón de escalas en ella.", 
 		"chinese": "现代浅棕色地毯，上面纹有鳞片图案。",
 	},
 	"carpetScales1_": {
 		"english": "Scales Pattern Carpet",
 		"german":  "Geschuppter Teppichboden",
+		"spanish": "Alfombra con Patrón de Escalas",
 		"chinese": "鱼鳞地毯",
 	},
 	"carpetScales1_Description": {
 		"english": "A modern black carpet with a scales pattern on it.",
 		"german": "Ein moderner schwarzer Teppichboden mit Schuppenmuster.",
+		"spanish": "Una moderna alfombra de color negro con un patrón de escalas en ella.", 
 		"chinese": "现代浅棕色地毯，上面纹有鳞片图案。",
 	},
 
@@ -1002,7 +1010,6 @@
 		"german": "Burgbefestigung",
 		// TODO-dutch
 		// TODO-french
-		// TODO-spanish
 		// TODO-russian
 		// TODO-portuguese
 		// TODO-ukrainian
@@ -1010,7 +1017,7 @@
 		// TODO-turkish
 		"dutch":  "Fort Versterking",
 		"french": "Fortification en Pierre",
-		"spanish": "Fortificación Fuerte",
+		"spanish": "Fortificación de Castillo",
 		"russian": "Фортификационное сооружение",
 		"portuguese": "Forte Fortificação",
 		"ukrainian":"Кам'яна Стіна",

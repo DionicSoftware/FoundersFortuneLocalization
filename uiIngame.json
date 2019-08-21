@@ -66,7 +66,7 @@
 
 
 
-	"]": {
+	"diplomacy": {
 		"english": "Diplomacy",
 		"german": "Diplomatie",
 		"french": "Diplomatie",
@@ -74,6 +74,7 @@
 		"russian": "Дипломатия",
 		"italian": "Diplomazia",
 		"dutch": "Diplomatie",
+		"chinese": "外交",
 	},
 	"showOnMap": {
 		"english": "Show Location",
@@ -83,6 +84,7 @@
 		"russian": "Показать местоположение",
 		"italian": "Mostra luogo",
 		"dutch": "Toon Locatie",
+		"chinese": "显示位置",
 	},
 	"contactFaction": {
 		"english": "Contact",
@@ -92,6 +94,7 @@
 		"russian": "Связаться",
 		"italian": "Contatto",
 		"dutch": "Contacteren",
+		"chinese": "联系",
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
@@ -101,6 +104,7 @@
 		"russian": "Баллы отношений:",
 		"italian": "Punti relazione:",
 		"dutch": "Relatie punten:",
+		"chinese": "友好值",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -110,6 +114,7 @@
 		"russian": "макс",
 		"italian": "max",
 		"dutch": "max",
+		"chinese": "最大值",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
@@ -119,6 +124,7 @@
 		"russian": "Нейтральные отношения",
 		"italian": "Relazioni neutrali",
 		"dutch": "Neutrale relaties",
+		"chinese": "中立关系",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
@@ -128,6 +134,7 @@
 		"russian": "Перемирие (%seconds% сек.)",
 		"italian": "Tregua (%seconds% s)",
 		"dutch": "Wapenstilstand (%seconds% s)",
+		"chinese": "休战(%seconds% 秒)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
@@ -137,6 +144,7 @@
 		"russian": "Будут атаковать на месте",
 		"italian": "Attaccherà a vista",
 		"dutch": "Valt aan wanneer in zicht",
+		"chinese": "一见即攻",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -146,6 +154,7 @@
 		"russian": "Напряженные отношения",
 		"italian": "Relazioni tese",
 		"dutch": "Gespanne relaties",
+		"chinese": "紧张关系",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
@@ -155,6 +164,7 @@
 		"russian": "Дружеские отношения",
 		"italian": "Relazioni amichevoli",
 		"dutch": "Vriendelijke relaties",
+		"chinese": "友好关系",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
@@ -164,6 +174,7 @@
 		"russian": "Дружеские, если отношения выше %friendlyLimit%.\nАтакуют на месте, если отношение ниже %attackingLimit%.",
 		"dutch": "Vriendelijk als relatie boven %friendlyLimit% is.\nValt aan wanneer in zicht als relatie onder %attackingLimit% is.",
 		"italian": "Amichevole se le relazioni superano %friendlyLimit%.\nAttacca a vista se le relazioni scendono al di sotto di %attackingLimit%.",
+		"chinese": "如果关系值超过超过%友好限制%为友好关系。如果关系指低于%attackingLimit%则立即攻击。",
 	},
 
 

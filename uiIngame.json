@@ -75,6 +75,7 @@
 		"italian": "Diplomazia",
 		"dutch": "Diplomatie",
 		"chinese": "外交",
+		"turkish": "Diplomasi",
 	},
 	"showOnMap": {
 		"english": "Show Location",
@@ -85,6 +86,7 @@
 		"italian": "Mostra luogo",
 		"dutch": "Toon Locatie",
 		"chinese": "显示位置",
+		"turkish": "Yer göster",
 	},
 	"contactFaction": {
 		"english": "Contact",
@@ -95,6 +97,7 @@
 		"italian": "Contatto",
 		"dutch": "Contacteren",
 		"chinese": "联系",
+		"turkish": "İletişim",
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
@@ -105,6 +108,7 @@
 		"italian": "Punti relazione:",
 		"dutch": "Relatie punten:",
 		"chinese": "友好值",
+		"turkish": "İlişki puanları:",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -115,6 +119,7 @@
 		"italian": "max",
 		"dutch": "max",
 		"chinese": "最大值",
+		"turkish": "max",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
@@ -125,6 +130,7 @@
 		"italian": "Relazioni neutrali",
 		"dutch": "Neutrale relaties",
 		"chinese": "中立关系",
+		"turkish": "Tarafsız",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
@@ -135,6 +141,7 @@
 		"italian": "Tregua (%seconds% s)",
 		"dutch": "Wapenstilstand (%seconds% s)",
 		"chinese": "休战(%seconds% 秒)",
+		"turkish": "Ateşkes (%seconds% s)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
@@ -145,6 +152,7 @@
 		"italian": "Attaccherà a vista",
 		"dutch": "Valt aan wanneer in zicht",
 		"chinese": "一见即攻",
+		"turkish": "Görüldüğünde saldırı",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -155,6 +163,7 @@
 		"italian": "Relazioni tese",
 		"dutch": "Gespanne relaties",
 		"chinese": "紧张关系",
+		"turkish": "Gerginlik",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
@@ -165,6 +174,7 @@
 		"italian": "Relazioni amichevoli",
 		"dutch": "Vriendelijke relaties",
 		"chinese": "友好关系",
+		"turkish": "Dostça bir ilişki",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
@@ -175,6 +185,7 @@
 		"dutch": "Vriendelijk als relatie boven %friendlyLimit% is.\nValt aan wanneer in zicht als relatie onder %attackingLimit% is.",
 		"italian": "Amichevole se le relazioni superano %friendlyLimit%.\nAttacca a vista se le relazioni scendono al di sotto di %attackingLimit%.",
 		"chinese": "如果关系值超过超过%friendlyLimit%会交好。如果关系指低于%attackingLimit%则立即攻击。",
+		"turkish": "%friendlyLimit% geçildiğinde arkadaşça.\n ilşiki %attackingLimit% altına düştüğündeyse görüldüğünde saldırı boyutuna geçer.",
 	},
 
 
@@ -1329,6 +1340,7 @@
 		"polish": "Wytrzymałość",
 		"korean": "내구도",
 		"italian": "Robustezza",
+		"chinese": "力量",
 	},
 	"work": {
 		"english": "Work",
@@ -1482,6 +1494,7 @@
 		"russian": "Ковры",
 		"dutch": "Vloerkleden",
 		"italian": "Tappeti",
+		"chinese": "地毯",
 	},
 	"floors": {
 		"english": "Floors",
@@ -1996,8 +2009,8 @@
 		"italian": "Tutte le aspettative dei tuoi coloni sono soddisfatte. Prossima opportunità di arrivo dei migranti in %time%.",
 	},
     	"colonistIsDumbNoExperience": {
-       		"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
-    		"german": "Leider ist %firstName% nicht %derDie% Hellste und wird keine Erfahrung sammeln.",
+		"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
+		"german": "Leider ist %firstName% nicht %derDie% Hellste und wird keine Erfahrung sammeln.",
 		"french": "Malheureusement, %firstName% est stupide et ne gagnera aucune expérience dans n'importe quel métier.",
 		"spanish": "Desafortunadamente, %firstName% es tont%oA% y no ganará nada de experiencia en ningún trabajo.",
 		"turkish": "Ne yazık ki, %firstName% bir aptal ve çalıştığı işlerde tecrübe edinemeyecek.", 
@@ -2263,6 +2276,8 @@
 		"dutch": "Handelt met '%faction%'",
 		"russian": "Торговля с '%faction%'",
 		"italian": "Commerciando con '%faction%'",
+		"turkish": "'%faction%' ile ticaret halinde",
+		"chinese": "与'%faction%'交易",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",

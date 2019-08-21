@@ -1,6 +1,7 @@
 ﻿{
 	"greetings": {
 		"english": "Greetings. What brings you to us?",
+		"german": "Guten Tag! Was führt dich zu uns?",
 		"spanish": "Saludos ¿Qué te trae a nosotros?",
 		"portuguese": "Saudações. O que te traz para nós?",
 		"russian": "Привет! Что привело вас к нам?",
@@ -10,6 +11,7 @@
 	},
 	"seeYouLater": { // default goodbye. Kind of nice, but still neutral
 		"english": "See you later.",
+		"german": "Bis bald.",
 		"spanish": "Nos vemos más tarde.",
 		"portuguese": "Até logo.",
 		"russian": "Увидимся позже.",
@@ -19,6 +21,7 @@
 	},
 	"goodbye": { // goodbye to be used when relations are not nice anymore
 		"english": "Goodbye.",
+		"german": "Tschüss.",
 		"spanish": "Adiós.",
 		"portuguese": "Adeus",
 		"russian": "Пока.",
@@ -28,6 +31,7 @@
 	},
 	"thanks": {
 		"english": "Thanks.",
+		"german": "Dankesehr.",
 		"spanish": "Gracias.",
 		"portuguese": "Obrigado.",
 		"russian": "Спасибо.",
@@ -37,6 +41,7 @@
 	},
 	"thanksALot": {
 		"english": "Thanks a lot!",
+		"german": "Vielen Dank!",
 		"spanish": "¡Muchas gracias!",
 		"portuguese": "Muito obrigado!",
 		"russian": "Спасибо большое!",
@@ -46,6 +51,7 @@
 	},
 	"weUnderstand": {
 		"english": "We understand.",
+		"german": "Wir verstehen das.",
 		"spanish": "Entendemos.",
 		"portuguese": "Nós entendemos.",
 		"russian": "Мы понимаем.",
@@ -55,6 +61,7 @@
 	},
 	"nothingValuableSelected": {
 		"english": "Nothing of value selected.",
+		"german": "Nichts Wertvolles ausgewählt.",
 		"spanish": "Nada de valor seleccionado",
 		"portuguese": "Nada de valor selecionado.",
 		"russian": "Ничего ценного не выбрано",
@@ -67,6 +74,7 @@
 
 	"negotiateFreedomOfKidnappedColonist": {
 		"english": "I'd like to negotiate about freeing %firstName%.",
+		"german": "Ich würde gerne über die Befreiung von %firstName% verhandeln.",
 		"spanish": "Me gustaría negociar la liberación de %firstName%.",
 		"portuguese": "Eu gostaria de negociar sobre a liberação de %firstName%.",
 		"russian": "Я хотел бы обсудить с вами возможность освобождения %firstName%.",
@@ -76,6 +84,7 @@
 	},
 	"kidnappedFreeingText": {
 		"english": "We're ready to release %firstName% if you make it worth our while.\n\nWe require you to give us %tribute% in exchange.",
+		"german": "Wir wären dazu bereit %firstName% zu befreien, sofern auch was für uns dabei rausspringt. \n\nGebt uns %tribute% und wir werden uns einig.",
 		"spanish": "Estamos litos para liberar a %firstName% si haces que valga la pena.\n\nExigimos que nos des %tribute% a cambio.",
 		"dutch": "We zijn vinden het oke om %firstName% te bevrijden als dat het waard is.\n\nWij willen dat jij ons %tribute% geeft als ruil.",
 		"portuguese": "Estamos prontos para liberar a %firstName% se você fizer valer a pena. \n\nNós exigimos que você nos dê %tribute% em troca.",
@@ -85,6 +94,7 @@
 	},
 	"kidnappedFreeingAcceptButton": {
 		"english": "Fine, we'll pay.",
+		"german": "Na gut. Wir bezahlen.",
 		"spanish": "Está bien, pagaremos.",
 		"portuguese": "Tudo bem, nós vamos pagar.",
 		"dutch": "Prima, we zullen betalen.",
@@ -94,6 +104,7 @@
 	},
 	"kidnappedFreeingDenyButton": {
 		"english": "Actually, we can't afford it.",
+		"german": "Das können wir und leider nicht leisten.",
 		"spanish": "En realidad, no podemos pagar eso.",
 		"portuguese": "Na verdade, não podemos permitir isso.",
 		"dutch": "Op het moment is dat te duur",
@@ -103,6 +114,7 @@
 	},
 	"kidnappedFreeingAcceptedText": {
 		"english": "It's a deal. We freed %firstName% and will guarantee to not attack you for half a day, so you can come and get %himHer%.",
+		"german": "Wir nehmen das Angebot an. %firstName% wird nicht länger von uns gefangen gehalten. Ihr habt einen halben Tag Zeit ihn abzuholen! ",
 		"spanish": "Es un trato. Liberamos a %firstName% y te garantizamos que no te atacaremos por medio día, para que puedas venir y llevártel%oA%.",
 		"portuguese": "É um acordo. Libertamos o %firstName% e garantimos não te atacar por meio dia, assim você pode vir e pegar %elEla%",
 		"russian": "Отлично! Мы освободили %firstName% и гарантируем не атаковать вас полдня, чтобы вы смогли забрать %himHer%.",
@@ -112,6 +124,7 @@
 	},
 	"kidnappedFreeingAcceptedAnswer": {
 		"english": "Thanks.",
+		"german": "Danke.",
 		"spanish": "Gracias.",
 		"portuguese": "Obrigado.",
 		"dutch": "Bedankt",
@@ -124,6 +137,7 @@
 
 	"whenIsTraderNextPlanningToCome": {
 		"english": "When are you next planning to come by?",
+		"german": "Wann schaut ihr das nächste mal in unserer Kolonie vorbei?",
 		"spanish": "¿Cuándo planean pasar por aquí?",
 		"portuguese": "Quando você está planejando vir?",
 		"russian": "Когда вы планируете приехать в следующий раз?",
@@ -133,6 +147,7 @@
 	},
 	"traderArrivalAnyMoment": {
 		"english": "We're actually arriving any moment now!",
+		"german": "Wir sind schon auf dem Weg und sollten bald bei euch ankommen!",
 		"spanish": "¡En realidad estamos llegando en cualquier momento!",
 		"portuguese": "Na verdade, estamos chegando a qualquer momento!",
 		"russian": "Мы уже подплываем!",
@@ -142,6 +157,7 @@
 	},
 	"traderArrivalInDays": {
 		"english": "We're planning to visit your village in %days1% to %days2% days.",
+		"german": "Wir planen eure Kolonie in %days1% bis %days2% Tagen zu besuchen.",
 		"spanish": "Planeamos visitar tu aldea dentro de %days1% a %days2% días.",
 		"portuguese": "Estamos planejando visitar sua aldeia em %days1% a %days2% dias.",
 		"russian": "Мы планируем посетить вашу деревню в период с %days1% до %days2% дней.",
@@ -151,6 +167,7 @@
 	},
 	"traderArrivalAskForFastArrival": {
 		"english": "Would you mind sailing here immediately?",
+		"german": "Könntet ihr jetzt gleich zu uns segeln?",
 		"spanish": "¿Les importaría navegar aquí de inmediato?",
 		"portuguese": "Você se importaria de navegar aqui imediatamente?",
 		"dutch": "Zou je nu hierheen kunnen zeilen?",
@@ -160,7 +177,8 @@
 	},
 	"traderArrivalThanksForInfo": {
 		"english": "Thanks for the info.",
-		"spanish": "Gracias por la información",
+		"german": "Vielen Dank für die Information.",
+		"spanish": "Gracias por la información.",
 		"portuguese": "Obrigado pela informação.",
 		"russian": "Спасибо за информацию.",
 		"dutch": "Bedankt voor de informatie.",
@@ -169,6 +187,7 @@
 	},
 	"traderArrivalFastAccepted": {
 		"english": "We will have to take a detour...\nIt really messes with our trading plans, but we'll make an exception for you.",
+		"german": "Hm... Dafür müssen wir einen Umweg einlegen.\nDas bringt unsere Pläne ganz schön durcheinander, aber für euch machen wir mal eine Ausnahme.",
 		"spanish": "Tendremos que tomar un desvío...\nRealmente complica nuestros planes de comercio, pero haremos una excepción por ti.",
 		"portuguese": "Teremos que fazer um desvio ... \nIsso realmente atrapalha nossos planos de negociação, mas vamos abrir uma exceção para você.",
 		"russian": "Нам придется сделать круг...\nЭто не входило в наши планы, но для вас мы сделаем исключение.",
@@ -178,6 +197,7 @@
 	},
 	"traderArrivalFastDenied": {
 		"english": "Sorry, we can't afford to take a detour for you.",
+		"german": "Es tut uns Leid, aber wir können es uns nicht leisten extra für euch einen Umweg einzulegen.",
 		"spanish": "Disculpa, pero no podemos permitirnos tomar un desvío por ti.",
 		"portuguese": "Desculpe, não podemos nos dar ao luxo de fazer um desvio para você.",
 		"russian": "Извините, но мы не можем себе позволить приплыть к вам прямо сейчас.",
@@ -190,6 +210,7 @@
 
 	"askAboutTradingDiscount": {
 		"english": "Are you going to give us a trading discount?",
+		"german": "Könnten wir vielleicht einen Rabatt auf eure Waren erhalten?",
 		"spanish": "¿Nos van a dar un descuento al comerciar?",
 		"portuguese": "Você vai nos dar um desconto comercial?",
 		"russian": "Можно получить скидку?",
@@ -199,6 +220,7 @@
 	},
 	"tradingDiscountAcceptedText": {
 		"english": "We see you as a good friend of our people so we're trying to give you a %percent% percent discount.",
+		"german": "Wir betrachten euch als gute Freunde! Gerne erlassen wir euch %percent% Prozent auf den Kaufpreises unserer Waren.",
 		"spanish": "Te vemos como un buen amigo de nuestra gente, así que trataremos de darte un %percent% por ciento de descuento.",
 		"portuguese": "Nós vemos você como um bom amigo do nosso pessoal, então estamos tentando dar a você um desconto percentual de %percent%.",
 		"russian": "Вы стали для нас хорошим другом, поэтому мы дадим вам скидку в %percent% процентов!",
@@ -208,6 +230,7 @@
 	},
 	"tradingDiscountDeniedText": {
 		"english": "Sorry, but you're not really a good friend of our people. We can't afford to give out discounts to everyone.",
+		"german": "Es tut uns Leid, aber dafür kennen wir euch noch nicht gut genug. Wir können nicht einfach jedem Bittsteller einen Preisnachlass geben!",
 		"spanish": "Disculpa, pero realmente no eres un buen amigo de nuestra gente. No podemos permitirnos darle descuentos a todos.",
 		"portuguese": "Desculpe, mas você não é realmente um bom amigo do nosso povo. Não podemos dar descontos para todos.",
 		"dutch": "Sorry, maar je bent niet zulke goede vrienden met onze mensen. We kunnen het niet veroorloven om iedereen korting te geven.",
@@ -220,6 +243,7 @@
 
 	"offerPresent": {
 		"english": "We would like to offer you a present.",
+		"german": "Wir würden euch gerne ein Geschenk überreichen!",
 		"spanish": "Nos gustaría ofrecerte un presente.",
 		"portuguese": "Nós gostaríamos de lhe oferecer um presente.",
 		"russian": "Мы хотели бы предложить вам подарок.",
@@ -229,6 +253,7 @@
 	},
 	"offerPresentText": {
 		"english": "A happy surprise! What is it?",
+		"german": "Oh, wie überaus großzügig! Worum handelt es sich?",
 		"spanish": "¡Que alegre sorpresa! ¿Qué es?",
 		"portuguese": "Uma feliz surpresa! O que é isso?",
 		"russian": "Вот это сюрприз! Что там?",
@@ -238,6 +263,7 @@
 	},
 	"offerPresentButton": {
 		"english": "Please take this as a gift.",
+		"german": "Bitte nehmt dies als ein Geschenk.",
 		"spanish": "Por favor acepta esto como un regalo.",
 		"portuguese": "Por favor, tome isso como um presente.",
 		"dutch": "Neem alstublieft dit cadeau aan.",
@@ -247,6 +273,7 @@
 	},
 	"presentOpinion": {
 		"english": "This is a %present%.",
+		"german": "Das ist ein %present%.",
 		"spanish": "Esto es un %present%.",
 		"portuguese": "Isto é um %present%.",
 		"dutch": "Dit is een %present%",
@@ -256,6 +283,7 @@
 	},
 	"smallPresent": {
 		"english": "small present",
+		"german": "kleines Geschenk",
 		"portuguese": "pequeno presente",
 		"russian": "маленький подарок",
 		"dutch": "klein cadeau",
@@ -264,6 +292,7 @@
 	},
 	"mediumPresent": {
 		"english": "medium present",
+		"german": "mittleres Geschenk",
 		"portuguese": "medio presente",
 		"russian": "средний подарок",
 		"dutch": "gemiddeld cadeau",
@@ -272,6 +301,7 @@
 	},
 	"largePresent": {
 		"english": "large present",
+		"german": "großes Geschenk",
 		"portuguese": "grande presente",
 		"russian": "большой подарок",
 		"dutch": "groot cadeau",
@@ -280,6 +310,7 @@
 	},
 	"offerPresentCancel": {
 		"english": "Actually, we can't afford it.",
+		"german": "Um ehrlich zu sein können wir und das gar nicht leisten.",
 		"portuguese": "Na verdade, não podemos permitir isso.",
 		"russian": "К сожалению, мы не можем себе это позволить.",
 		"dutch": "Op het moment kunnen we het niet betalen.",
@@ -288,6 +319,7 @@
 	},
 	"acceptPresentsBadRelations": {
 		"english": "Fine, we'll take it.",
+		"german": "Nun gut, wir nehmen euer Geschenk an.",
 		"portuguese": "Tudo bem, vamos levá-lo.",
 		"russian": "Отлично, мы примем ваш подарок.",
 		"dutch": "Prima, we nemen het.",
@@ -296,6 +328,7 @@
 	},
 	"acceptPresentsNeutralRelations": {
 		"english": "Thank you. We accept your thoughtful present.",
+		"german": "Vielen Dank für das durchdachte Geschenk.",
 		"portuguese": "Obrigado. Nós aceitamos seu presente pensativo.",
 		"russian": "Спасибо. Мы принимаем ваш подарок.",
 		"french": "Merci. Nous acceptons votre cadeau attentionné.",
@@ -304,6 +337,7 @@
 	},
 	"acceptPresentsGoodRelations": {
 		"english": "Thanks! You're a good friend of our people.",
+		"german": "Herzlichen Dank! Ihr seid wahrlich echte Freunde!",
 		"portuguese": "Obrigado! Você é um bom amigo do nosso povo.",
 		"dutch": "Bedankt! Je bent een goede vriend van ons volk.",
 		"russian": "Спасибо! Ты теперь нам как друг!",
@@ -312,6 +346,7 @@
 	},
 	"acceptPresentsAnswer": {
 		"english": "You're welcome.",
+		"german": "Gern geschehen.",
 		"portuguese": "De nada.",
 		"russian": "Пожалуйста.",
 		"dutch": "Geen probleem.",
@@ -323,6 +358,7 @@
 
 	"demandTribute": {
 		"english": "We demand a tribute from you.",
+		"german": "Wir verlangen einen Tribut von euch.",
 		"portuguese": "Exigimos um tributo de você.",
 		"russian": "Мы требуем от вас дани.",
 		"dutch": "We verwachten een eerbetoon van jou.",
@@ -331,6 +367,7 @@
 	},
 	"tributeSelectionText": {
 		"english": "Really...?",
+		"german": "Ernsthaft...?",
 		"portuguese": "Mesmo...?",
 		"dutch": "Echt...?",
 		"russian": "Эм... Серьезно?",
@@ -339,6 +376,7 @@
 	},
 	"tributeSelectionDemand": {
 		"english": "Please give use these items.",
+		"german": "Bitte gebt uns diese Sachen.",
 		"portuguese": "Por favor, nos dê esses itens.",
 		"russian": "Пожалуйста, дайте нам эти предметы.",
 		"dutch": "Geef ons alsjeblieft deze spullen.",
@@ -347,6 +385,7 @@
 	},
 	"tributeSelectionJustKidding": {
 		"english": "Just Kidding.",
+		"german": "War nur ein Spaß!",
 		"portuguese": "Só brincando.",
 		"russian": "Шутка.",
 		"dutch": "Grapje.",
@@ -354,7 +393,8 @@
 		"chinese": "只是开玩笑。",
 	},
 	"tributeSelectionAcceptanceProbability": {
-		"english": "Probability of them accepting the tribute: %probability% percent",
+		"english": "Probability of them accepting the tribute: %probability% percent.",
+		"german": "Die Wahrscheinlichkeit, dass sie den Tribut akzeptieren beträgt %probability% Prozent.",
 		"portuguese": "Probabilidade de aceitar a homenagem: %probability% por cento",
 		"russian": "Вероятность того, что они примут дань: %probability% процентов",
 		"dutch": "Kans dat ze het eerbetoon accepteren: %probability% procent",
@@ -363,6 +403,7 @@
 	},
 	"tributeAcceptedBecauseFriendship": {
 		"english": "We decided to make an exception and give you our wares because we see you as a friend. We can offer these things to help you out:",
+		"german": "Wir haben uns dazu entschieden euch unsere Waren zu geben, da ihr unsere Freunde seid. Wir hoffen, diese Dinge helfen euch weiter:",
 		"portuguese": "Decidimos abrir uma exceção e dar-lhe nossos produtos porque nos vemos como um amigo. Podemos oferecer essas coisas para ajudá-lo:",
 		"russian": "Мы решили сделать для вас исключение и предлагаем вам на выбор наши товары. Мы считаем вас другом и хотим помочь: ",
 		"dutch": "We hebben besloten om een uitzondering te maken en geven je onze spullen te geven omdat we je als een vriend zien. We kunnen deze spullen aanbieden om wat te helpen:",
@@ -371,6 +412,7 @@
 	},
 	"tributeAcceptedBecauseScared": {
 		"english": "It's despicable that you bully others to get your way, but we don't have a choice. This is what we can offer you:",
+		"german": "Abscheulich, wie rücksichtslos ihr anderen euren Willen aufzwingt. Wir gehorchen, aber nur weil wir nicht anders können. Das können wir euch anbieten:",
 		"portuguese": "É desprezível que você intimide os outros a conseguir o que quer, mas não temos escolha. Isto é o que podemos oferecer a você:",
 		"russian": "Подло запугивать других ради извлечения выгоды, но у нас нет другого выхода. Вот что мы можем вам предложить: ",
 		"dutch": "Het is verachterlijk dat je anderen naar jouw zin kan pesten, maar we hebben geen keus. Dit is wat we je kunnen geven:",
@@ -378,7 +420,8 @@
 		"chinese": "你为了自己的目的欺负别人是卑鄙的，但是我们没得选择。这是我们能为您提供的:",
 	},
 	"tributeAcceptedBecauseTinyTribute": {
-		"english": "What? I thought you wanted something valuable. We can help you out a little:",
+		"english": "What? We thought you wanted something valuable. We can help you out a little:",
+		"german": "Achso! Wir dachten schon ihr wollt etwas wervolleres haben. Na in diesem Fall können wir euch schon etwas anbieten:",
 		"portuguese": "O que? Eu pensei que você queria algo valioso. Nós podemos ajudá-lo um pouco:",
 		"russian": "Что? Я думал вы хотите что-то ценное. Мы можем помочь вам немного: ",
 		"dutch": "Wat? Ik dacht dat je iets waardevols wilde. We kunnen je een beetje helpen:",
@@ -387,6 +430,7 @@
 	},
 	"tributeAcceptedThanksForCooperation": {
 		"english": "Thanks for your cooperation.",
+		"german": "Immer schön mit euch Geschäfte zu machen.",
 		"portuguese": "Obrigado pela sua colaboração.",
 		"russian": "Спасибо за сотрудничество.",
 		"french": "Merci pour votre coopération",
@@ -396,6 +440,7 @@
 	},
 	"tributeDeniedText": {
 		"english": "It's pathetic how you think you can just demand something like that.\n\nYou are not our friend and you can't scare us into submission with such a small village.\n\nThis conversation is over.",
+		"german": "Was glaubt ihr wer ihr seid solche Forderungen zu stellen?\n\n Ihr seid nicht unsere Freunde und Angst haben wir vor eurerm kleinen Dörfchen auch nicht.\n\nDieses Gespräch ist vorbei!",
 		"portuguese": "É patético como você acha que pode exigir algo assim. \n\nVocê não é nosso amigo e não pode nos assustar com uma aldeia tão pequena. \n\nEsta conversa acabou.",
 		"russian": "Вы думаете что можете просто так требовать от нас что-то?\n\nВы не наш друг и вы не можете заставить нас подчиняться вашей деревне.\n\nЭтот разговор окончен.",
 		"dutch": "Het zielig dat je denkt dat je gewoon op zo een manier iets kan eisen.\n\nJe bent niet onze vriend en je kan ons niet bang maken met zo een klein dorpje.\n\nDit gesprek is voorbij.",
@@ -407,6 +452,7 @@
 	
 	"goblinTributeTextBadRelations": {
 		"english": "It might be in your best interest to give us the following things:",
+		"german": "Ihr tätet gut daran, uns die folgenden Dinge zu überlassen:",
 		"portuguese": "Pode ser no seu melhor interesse para nos dar as seguintes coisas:",
 		"russian": "Возможно, в ваших же интересах дать нам следующее:",
 		"dutch": "Het is het verstandigst als je ons de volgende dingen geeft:",
@@ -415,6 +461,7 @@
 	},
 	"goblinTributeTextNeutralRelations": {
 		"english": "We need some materials and as a decent neighbor you should help us out here:",
+		"german": "Wir benötigen ein paar Ressourcen. Wollt ihr uns als guter Nachbar vielleicht helfen?",
 		"portuguese": "Precisamos de alguns materiais e, como um vizinho decente, você deve nos ajudar aqui:",
 		"russian": "Нам нужна помощь с некоторыми ресурсами и мы решили попросить у вас как у нашего соседа: ",
 		"dutch": "We hebben wat materialen nodig en als een vriendelijke buurman kun jij ons wel even helpen hier:",
@@ -422,7 +469,8 @@
 		"chinese": "我们需要一些材料，作为一个体面的邻居，你应该帮助我们:",
 	},
 	"goblinTributeTextGoodRelations": {
-		"english": "Dear friend, we're in need of some materials. Would you mind helping us out?",
+		"english": "Dear friends, we're in need of some materials. Would you mind helping us out?",
+		"german": "Wir brauchen ein paar Materialien. Könntet ihr euren Freunden etwas aushelfen? ",
 		"portuguese": "Caro amigo, precisamos de alguns materiais. Você se importaria de nos ajudar?",
 		"russian": "Друг, мы нуждаемся в некоторых ресурсах. Ты нам поможешь?",
 		"dutch": "Beste vriend, we hebben wat materialen nodig. Zou jij ons willen helpen?",
@@ -431,6 +479,7 @@
 	},
 	"goblinTributeAcceptButton": {
 		"english": "Of course, there you go.",
+		"german": "Aber sicher! Bittesehr.",
 		"portuguese": "Claro, aí vai você.",
 		"dutch": "Natuurlijke, alsjeblieft.",
 		"russian": "Конечно, без проблем.",
@@ -438,7 +487,8 @@
 		"chinese": "当然可以了。",
 	},
 	"goblinTributeDenyButton": {
-		"english": "I'm not going to pay your tribute!",
+		"english": "We're not going to pay your tribute!",
+		"german": "Wir werden eure Forderungen nicht erfüllen.",
 		"portuguese": "Eu não vou pagar o seu tributo!",
 		"russian": "Я не собираюсь платить вам дань!",
 		"french": "Je ne vais pas payer votre tribut !",
@@ -447,6 +497,7 @@
 	},
 	"goblinTributeAcceptedBadRelations": {
 		"english": "You know what's good for you.",
+		"german": "Haha! Ihr wisst was gut für euch ist.",
 		"portuguese": "Você sabe o que é bom para você.",
 		"dutch": "Je weet wat goed voor je is.",
 		"russian": "Надеюсь вы знаете что лучше для вас.",
@@ -455,6 +506,7 @@
 	},
 	"goblinTributeAcceptedNeutralRelations": {
 		"english": "Thanks for your help.",
+		"german": "Danke für eure Unterstützung.",
 		"portuguese": "Obrigado pela ajuda.",
 		"dutch": "Bedankt voor je hulp.",
 		"russian": "Спасибо за вашу помощь.",
@@ -463,6 +515,7 @@
 	},
 	"goblinTributeAcceptedGoodRelations": {
 		"english": "Thanks! We're happy we can call you our friend.",
+		"german": "Dankesehr! Wir freuen uns euch zu unseren Freunden zählen zu können.",
 		"portuguese": "Obrigado! Estamos felizes, podemos chamá-lo de nosso amigo.",
 		"russian": "Спасибо! Как хорошо иметь такого хорошего друга!",
 		"dutch": "Bedankt! We zijn blij dat we je onze vriend mogen noemen.",
@@ -471,6 +524,7 @@
 	},
 	"goblinTributeDeniedBadRelations": {
 		"english": "You are going to regret this.",
+		"german": "Das werdet ihr bereuen!",
 		"portuguese": "Você vai se arrepender disso.",
 		"russian": "Вы должны заслужить это.",
 		"french": "Vous allez le regretter.",
@@ -479,6 +533,7 @@
 	},
 	"goblinTributeDeniedNeutralRelations": {
 		"english": "We will remember your attitude.",
+		"german": "Na gut. Glaubt aber nicht, dass wir uns das nicht merken werden.",
 		"portuguese": "Nós nos lembraremos de sua atitude.",
 		"dutch": "We zullen je houding onthouden.",
 		"russian": "Мы запомним ваше отношение к нам.",
@@ -487,6 +542,7 @@
 	},
 	"goblinTributeDeniedGoodRelations": {
 		"english": "That's a bummer. Friends should stick together.",
+		"german": "Schade. Wir waren uns so sicher, dass unsere Freunde uns nicht im Stich lassen werden...",
 		"portuguese": "Isso é uma chatice. Os amigos devem ficar juntos.",
 		"russian": "Вот облом. Вообще-то друзья должны помогать друг другу.",
 		"dutch": "Dat is jammer. Vrienden zouden bij elkaar moeten blijven.",

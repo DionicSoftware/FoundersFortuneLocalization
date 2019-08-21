@@ -12,6 +12,7 @@
 		"chinese": "%amount% %resource%",
 		"korean": "%amount% %resource%",
 		"arabic": "%amount% %resource%",
+		"italian": "%amount% %resource%",
 	},
 	"resourceName_FoodRaw": {
 		"english": "Raw Food",
@@ -26,6 +27,7 @@
 		"chinese": "生食",
 		"korean": "생식",
 		"arabic": "ﺥﻮﺒﻄﻣ ﺮﻴﻏ ﻡﺎﻌﻃ",
+		"italian": "Cibo crudo",
 	},
 	"resourceName_Food": {
 		"english": "Food",
@@ -40,6 +42,7 @@
 		"chinese": "食物",
 		"korean": "음식",
 		"arabic": "ﻡﺎﻌﻃ",
+		"italian": "Cibo",
 	},
 	"resourceDescription_FoodRaw": {
 		"english": "Your colonists need food to survive. Every type you gather is raw at first and can be cooked.",
@@ -54,6 +57,7 @@
 		"chinese": "你们的殖民者需要食物来生存.你收集食材都是生的需要烹饪.",
 		"korean": "개척자들이 살아남기 위해서는 음식이 필요합니다. 자연에서 채취하는 모든 음식은 생식으로 취급되며, 요리의 재료가 됩니다.",
 		"arabic": ".ﻪﻴﻬﻃ ﻦﻜﻤﻳﻭ ﺔﻳﺍﺪﺒﻟﺍ ﻲﻓ ﺥﻮﺒﻄﻣ ﺮﻴﻏ ﻥﻮﻜﻳ ﻪﻌﻤﺠﺑ ﻡﻮﻘﺗ ﻉﻮﻧ ﻞﻛ .ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ ﻡﺎﻌﻄﻟﺍ ﻰﻟﺇ ﻚﻳﺪﻟ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺝﺎﺘﺤﻳ",
+		"italian": "I tuoi coloni hanno bisogno di cibo per sopravvivere. Ogni tipologia di cibo che raccogli è cruda e può essere cucinata.",
 	},
 	"resourceName_Apple": {
 		"english": "Apple",
@@ -68,6 +72,7 @@
 		"chinese": "苹果",
 		"korean": "사과",
 		"arabic": "ﺡﺎﻔﺗ",
+		"italian": "Mela",
 	},
 	"resourceName_Tomato": {
 		"english": "Tomato",
@@ -82,6 +87,7 @@
 		"chinese": "西红柿",
 		"korean": "토마토",
 		"arabic": "ﻢﻃﺎﻤﻃ",
+		"italian": "Pomodoro",
 	},
 	"resourceName_Pumpkin": {
 		"english": "Pumpkin",
@@ -96,6 +102,7 @@
 		"chinese": "南瓜",
 		"korean": "호박",
 		"arabic": "ﻦﻴﻄﻘﻳ",
+		"italian": "Zucca",
 	},
 	"resourceName_Potato": {
 		"english": "Potato",
@@ -110,6 +117,7 @@
 		"chinese": "土豆",
 		"korean": "감자",
 		"arabic": "ﺲﻃﺎﻄﺑ",
+		"italian": "Patata",
 	},
 	"resourceName_Strawberry": {
 		"english": "Strawberry",
@@ -124,6 +132,7 @@
 		"chinese": "草莓",
 		"korean": "딸기",
 		"arabic": "ﺔﻟﻭﺍﺮﻓ",
+		"italian": "Fragola",
 	},
 	"resourceName_Wheat": {
 		"english": "Wheat",
@@ -138,6 +147,7 @@
 		"chinese": "小麦",
 		"korean": "밀",
 		"arabic": "ﺢﻤﻗ",
+		"italian": "Grano",
 	},
 	"resourceName_FoodCooked": {
 		"english": "Cooked Food",
@@ -152,6 +162,7 @@
 		"chinese": "烹饪食物",
 		"korean": "조리된 음식",
 		"arabic": "ﺥﻮﺒﻄﻣ ﻡﺎﻌﻃ",
+		"italian": "Cibo cotto",
 	},
 	"resourceDescription_FoodCooked": {
 		"english": "A colonist will take cooked food over raw food every time. Colonists get happy thoughts from eating cooked food.",
@@ -166,6 +177,7 @@
 		"chinese": "殖民者吃熟食优先度会超过生食.吃熟食会产生快乐的想法.",
 		"korean": "개척자들은 언제나 생식보다는 조리된 음식을 먼저 먹습니다. 개척자들은 조리된 음식을 먹으며 행복한 상상을 합니다.",
 		"arabic": ".ﺥﻮﺒﻄﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻝﻭﺎﻨﺗ ﻦﻣ ﺓﺪﻴﻌﺳ ﺭﺎﻜﻓﺃ ﻰﻠﻋ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﺼﺤﻳ .ﺥﻮﺒﻄﻤﻟﺍ ﺮﻴﻏ ﻰﻠﻋ ﺥﻮﺒﻄﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻀﻔﻳ",
+		"italian": "I coloni preferiranno i cibi cotti a quelli crudi. Ogni volta che mangiano del cibo cotto, i loro pensieri diventano felici.",
 	},
 	"resourceName_FoodRawEdible": {
 		"english": "Raw Food",
@@ -180,6 +192,7 @@
 		"chinese": "生食",
 		"korean": "생식",
 		"arabic": "ﺥﻮﺒﻄﻣ ﺮﻴﻏ ﻡﺎﻌﻃ",
+		"italian": "Cibo crudo",
 	},
 	"resourceName_SimpleMeal": {
 		"english": "Campfire Food",
@@ -194,6 +207,7 @@
 		"chinese": "烤食物",
 		"korean": "간단히 구운 음식",
 		"arabic": "ﻢﻴﺨﻤﻟﺍ ﺭﺎﻧ ﻦﻣ ﻡﺎﻌﻃ",
+		"italian": "Cibo da falò",
 	},
 	"resourceName_GoodMeal": {
 		"english": "Kitchen Food",
@@ -208,6 +222,7 @@
 		"chinese": "烹饪食品",
 		"korean": "제대로 익힌 음식",
 		"arabic": "ﺦﺒﻄﻤﻟﺍ ﻡﺎﻌﻃ",
+		"italian": "Cibo da cucina",
 	},
 	"resourceName_BakedMeal": {
 		"english": "Baked Food",
@@ -222,6 +237,7 @@
 		"chinese": "焙烤食品",
 		"korean": "오븐에 구운 음식",
 		"arabic": "ﺯﻮﺒﺨﻣ ﻡﺎﻌﻃ",
+		"italian": "Cibo da forno",
 	},
 	"resourceName_BakedApple": {
 		"english": "Baked Apple",
@@ -236,6 +252,7 @@
 		"chinese": "烤苹果",
 		"korean": "구운 사과",
 		"arabic": "ﻮﻬﻄﻣ ﺡﺎﻔﺗ",
+		"italian": "Mela cotta",
 	},
 	"resourceDescription_BakedApple": {
 		"english": "Especially tasty on cold winter days.",
@@ -250,6 +267,7 @@
 		"chinese": "在寒冷的冬天特别好吃.",
 		"korean": "추운 겨울날 특히 맛있습니다.",
 		"arabic": ".ﺓﺩﺭﺎﺒﻟﺍ ﺀﺎﺘﺸﻟﺍ ﻡﺎﻳﺃ ﻲﻓ ﺔﺻﺎﺧ ﺬﻳﺬﻟ",
+		"italian": "Particolarmente gustosa nelle fredde giornate invernali.",
 	},
 	"resourceName_BakedPotato": {
 		"english": "Baked Potato",
@@ -264,6 +282,7 @@
 		"chinese": "烤土豆",
 		"korean": "구운 감자",
 		"arabic": "ﺔﻳﻮﺸﻣ ﺲﻃﺎﻄﺑ",
+		"italian": "Patata al forno",
 	},
 	"resourceDescription_BakedPotato": {
 		"english": "Every hard working settler loves baked potatoes for their fluffy interior and crisp skin.",
@@ -278,6 +297,7 @@
 		"chinese": "每个辛勤工作的殖民者都喜欢烤土豆的那松软的内部和酥脆的外皮.",
 		"korean": "열심히 일하고 난 개척자는 겉은 바삭하고 속은 촉촉한 구운 감자를 굉장히 좋아합니다.",
 		"arabic": ".ﺔﺸﻬﻟﺍ ﺔﻴﺟﺭﺎﺨﻟﺍ ﺔﻘﺒﻄﻟﺍﻭ ﻱﺮﻄﻟﺍ ﺐﻠﻟﺍ ﺐﺒﺴﺑ ﺔﻳﻮﺸﻤﻟﺍ ﺎﻃﺎﻄﺒﻟﺍ ﺐﺤﻳ ﺪﺠﺑ ﻞﻤﻌﻳ ﻦﻃﻮﺘﺴﻣ ﻞﻛ",
+		"italian": "Ogni colono che lavora duramente ama le patate al forno, per la loro soffice parte interiore e la loro pelle croccante.",
 	},
 	"resourceName_BakedTomato": {
 		"english": "Baked Tomato",
@@ -292,6 +312,7 @@
 		"chinese": "烤西红柿",
 		"korean": "구운 토마토",
 		"arabic": "ﻩﻮﻬﻄﻣ ﻢﻃﺎﻤﻃ",
+		"italian": "Pomodoro al forno",
 	},
 	"resourceDescription_BakedTomato": {
 		"english": "So simple to make but so tasty. A good way to start the day!",
@@ -306,6 +327,7 @@
 		"chinese": "做起来很简单,但是很好吃.这是开始一天的好方法!",
 		"korean": "만들기 참 쉬우면서도 정말 맛있습니다. 하루를 시작하기에 좋은 출발점이죠!",
 		"arabic": "!ﻡﻮﻴﻟﺍ ﺀﺪﺒﻟ ﺓﺪﻴﺟ ﺔﻘﻳﺮﻃ .ﺍﺪﺟ ﺓﺬﻳﺬﻟ ﻦﻜﻟﻭ ﺦﺒﻄﻟﺍ ﻲﻓ ﺍﺪﺟ ﺔﻄﻴﺴﺑ",
+		"italian": "Così semplice da realizzare ma così gustoso. Un buon modo per iniziare la giornata!",
 	},
 	"resourceName_PumpkinStew": {
 		"english": "Pumpkin Stew",
@@ -320,6 +342,7 @@
 		"chinese": "炖南瓜",
 		"korean": "호박 스튜",
 		"arabic": "ﻦﻴﻄﻘﻴﻟﺍ ﺀﺎﺴﺣ",
+		"italian": "Stufato di zucca",
 	},
 	"resourceDescription_PumpkinStew": {
 		"english": "Fresh pumpkins cooked together with potatoes. This is why your colonists can't wait for fall to arrive!",
@@ -334,6 +357,7 @@
 		"chinese": "新鲜的南瓜和土豆一起煮.这就是为什么殖民者等不及秋天的到来的原因!",
 		"korean": "싱싱한 호박을 감자와 함께 요리했습니다. 이곳의 개척자들이 가을을 목빠지게 기다리는 이유입니다.",
 		"arabic": "!ﻒﻳﺮﺨﻟﺍ ﻝﻮﺻﻭ ﺭﺎﻈﺘﻧﺍ ﻢﻬﻨﻜﻤﻳ ﻻ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻥﺃ ﻲﻓ ﺐﺒﺴﻟﺍ ﻮﻫ ﺍﺬﻫ .ﺲﻃﺎﻄﺒﻟﺍ ﻊﻣ ﺥﻮﺒﻄﻤﻟﺍ ﺝﺯﺎﻄﻟﺍ ﻦﻴﻄﻘﻴﻟﺍ",
+		"italian": "Delle zucche fresche cucinate con le patate. Questo è il motivo per cui i tuoi coloni non vedono l'ora che arrivi l'autunno!",
 	},
 	"resourceName_PotatoSoup": {
 		"english": "Potato Soup",
@@ -348,6 +372,7 @@
 		"chinese": "土豆汤",
 		"korean": "감자 수프",
 		"arabic": "ﺲﻃﺎﻄﺒﻟﺍ ﺀﺎﺴﺣ",
+		"italian": "Zuppa di patate",
 	},
 	"resourceDescription_PotatoSoup": {
 		"english": "Nutritious and tasty! A plate of potato soup always works for your settlers.",
@@ -362,6 +387,7 @@
 		"chinese": "营养又美味!土豆汤很适合你的殖民者.",
 		"korean": "영양분도 풍족하고, 맛도 있습니다! 한 그릇의 감자 수프면 완벽합니다.",
 		"arabic": ".ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺎﻤﺋﺍﺩ ﺐﺳﺎﻨﻣ ﺲﻃﺎﻄﺒﻟﺍ ﺀﺎﺴﺣ ﻦﻣ ﻖﺒﻃ !ﺓﺬﻳﺬﻟﻭ ﺔﻳﺬﻐﻣ",
+		"italian": "Nutriente e gustosa! Un piatto di zuppa di patate funziona sempre per i tuoi coloni.",
 	},
 	"resourceName_FruitSalad": {
 		"english": "Fruit Salad",
@@ -376,6 +402,7 @@
 		"chinese": "水果沙拉",
 		"korean": "과일 샐러드",
 		"arabic": "ﺔﻛﺍﻮﻓ ﺔﻄﻠﺳ",
+		"italian": "Macedonia",
 	},
 	"resourceDescription_FruitSalad": {
 		"english": "A very popular dish among colonists with a sweet tooth.",
@@ -390,6 +417,7 @@
 		"chinese": "这道菜很受甜食爱好者的欢迎.",
 		"korean": "단것을 좋아하는 개척자들이 가장 선호하는 음식.",
 		"arabic": ".ﻮﻠﺤﻟﺍ ﻞﻛﻸﻟ ﻦﻴﺒﺤﻤﻟﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻴﺑ ًﺍﺪﺟ ﻊﺋﺎﺷ ﻖﺒﻃ",
+		"italian": "Un piatto molto popolare tra i coloni che hanno un debole per i dolci.",
 	},
 	"resourceName_Bread": {
 		"english": "Bread",
@@ -404,6 +432,7 @@
 		"chinese": "面包",
 		"korean": "빵",
 		"arabic": "ﺰﺒﺧ",
+		"italian": "Pane",
 	},
 	"resourceDescription_Bread": {
 		"english": "Crispy on the outside, fluffy on the inside. What would life be without bread?",
@@ -418,6 +447,7 @@
 		"chinese": "外皮酥脆,里面松软.没有面包的生活会是什么样子?",
 		"korean": "바삭한 겉면, 말랑한 속감. 빵 없이 어떻게 살죠?",
 		"arabic": "؟ﺰﺒﺧ ﻥﻭﺪﺑ ﺓﺎﻴﺤﻟﺍ ﻥﻮﻜﺘﺳ ﺍﺫﺎﻣ .ﻞﺧﺍﺪﻟﺍ ﻦﻣ ﻖﻴﻗﺭ ، ﺝﺭﺎﺨﻟﺍ ﻦﻣ ﺶﻣﺮﻘﻣ",
+		"italian": "Croccante all'esterno, soffice all'interno. Cosa sarebbe la vita senza il pane?",
 	},
 	"resourceName_StrawberryCake": {
 		"english": "Strawberry Cake",
@@ -432,6 +462,7 @@
 		"chinese": "草莓蛋糕",
 		"korean": "딸기 케이크",
 		"arabic": "ﺔﻟﻭﺍﺮﻔﻟﺍ ﻚﻴﻛ",
+		"italian": "Torta di fragole",
 	},
 	"resourceDescription_StrawberryCake": {
 		"english": "The taste of spring - or at least as close as it can get.",
@@ -446,6 +477,7 @@
 		"chinese": "春天的味道 - 或者至少是最接近春天的味道.",
 		"korean": "봄날의 맛 - 에 가장 가깝다고 할 수 있죠.",
 		"arabic": ".ﻪﻴﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ ﺎﻣ ﺏﺮﻗﺍ ﻞﻗﻷﺍ ﻰﻠﻋ ﻭﺃ - ﻊﻴﺑﺮﻟﺍ ﻢﻌﻃ",
+		"italian": "Il sapore della primavera, o almeno quello che più ci si avvicina.",
 	},
 	"resourceName_AppleStrudel": {
 		"english": "Apple Strudel",
@@ -460,6 +492,7 @@
 		"chinese": "苹果卷",
 		"korean": "사과 슈트루델",
 		"arabic": "ﺡﺎﻔﺘﻟﺍ ﺓﺮﻴﻄﻓ",
+		"italian": "Strudel di mele",
 	},
 	"resourceDescription_AppleStrudel": {
 		"english": "With an amazing length of 752 meters, the longest apple strudel got made in a country far far away on the 15th of August. One can simply not have enough of this tasty dish!",
@@ -474,6 +507,7 @@
 		"chinese": "8月15日,世界上最长的苹果馅卷饼诞生于遥远的国度,长达752米.一个人根本吃不完这美味的食品!",
 		"korean": "8월 15일, 어떤 먼 나라에서 세계에서 가장 긴 사과 슈트루델이 구워졌습니다. 752미터라는 놀라운 길이였죠. 이 맛있는 음식을 딱 한 접시만 먹기엔 부족했던거죠!",
 		"arabic": "!ﺬﻳﺬﻟﺍ ﻖﺒﻄﻟﺍ ﺍﺬﻫ ﻦﻣ ﻞﻤﻳ ﻻﺃ ﺔﻃﺎﺴﺒﺑ ﺀﺮﻤﻠﻟ ﻦﻜﻤﻳ .ﺲﻄﺴﻏﺃ 15 ﻲﻓ ﺪﻴﻌﺑ ﺪﻠﺑ ﻲﻓ ﺡﺎﻔﺗ ﺓﺮﻴﻄﻓ ﻝﻮﻃﺃ ﻊﻨﺻ ﻢﺗ ، ﺍًﺮﺘﻣ 752 ﻎﻠﺒﻳ ﺶﻫﺪﻣ ﻝﻮﻄﺑ",
+		"italian": "Con una lunghezza incredibile di 752 metri, lo strudel di mele più lungo al mondo è stato realizzato il 15 agosto in un paese molto lontano. Non se ne può mai abbastanza di questo gustoso piatto!",
 	},
 	"resourceName_IronOre": {
 		"english": "Iron Ore",
@@ -488,6 +522,7 @@
 		"chinese": "铁矿",
 		"korean": "철광석",
 		"arabic": "ﺪﻳﺪﺣ",
+		"italian": "Minerale di ferro",
 	},
 	"resourceDescription_IronOre": {
 		"english": "In order to produce more advanced tools, weapons and armor, you need to find and mine iron ore.",
@@ -502,6 +537,7 @@
 		"chinese": "为了生产更先进的工具、武器和盔甲,你需要找到并开采铁矿石.",
 		"korean": "더 나은 도구, 무기와 갑옷을 만들기 위해서는, 철광석을 찾아서 캐내야만 합니다.",
 		"arabic": ".ﻪﻨﻋ ﺐﻴﻘﻨﺘﻟﺍﻭ ﺪﻳﺪﺤﻟﺍ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻰﻟﺇ ﺝﺎﺘﺤﺗ ، ﺔﻣﺪﻘﺘﻤﻟﺍ ﻉﻭﺭﺪﻟﺍﻭ ﺔﺤﻠﺳﻷﺍﻭ ﺕﺍﻭﺩﻷﺍ ﻦﻣ ﺪﻳﺰﻤﻟﺍ ﺝﺎﺘﻧﺇ ﻞﺟﺃ ﻦﻣ",
+		"italian": "Per produrre strumenti, armi e armature più avanzati, devi trovare ed estrarre il minerale di ferro.",
 	},
 	"resourceName_Stone": {
 		"english": "Stone",
@@ -516,6 +552,7 @@
 		"chinese": "石头",
 		"korean": "석재",
 		"arabic": "ﺮﺠﺣ",
+		"italian": "Pietra",
 	},
 	"resourceDescription_Stone": {
 		"english": "Anytime you want to build something durable and fire-proof, you should prefer stone over wood.",
@@ -530,6 +567,7 @@
 		"chinese": "任何时候,如果你想建造耐用、防火的建筑,你都应该选择石头而不是木头.",
 		"korean": "불에 타지 않고 튼튼한 건물을 짓고 싶다면, 나무보다는 돌이 낫겠죠.",
 		"arabic": ".ﺐﺸﺨﻟﺍ ﻰﻠﻋ ﺮﺠﺤﻟﺍ ﻞﻀﻔﺗ ﻥﺃ ﺐﺠﻳ ، ﻖﻳﺮﺤﻠﻟ ﻡﻭﺎﻘﻣﻭ ﻦﻴﺘﻣ ﺀﻲﺷ ﺀﺎﻨﺑ ﻪﻴﻓ ﺪﻳﺮﺗ ﺖﻗﻭ ﻱﺃ ﻲﻓ",
+		"italian": "Ogni volta che vuoi costruire qualcosa di durevole e a prova di fuoco, dovresti propendere per pietra anziché il legno.",
 	},
 	"resourceName_HealingPlant": {
 		"english": "Healing Plants",
@@ -544,6 +582,7 @@
 		"chinese": "草药",
 		"korean": "약초",
 		"arabic": "ﺀﺎﻔﺸﻟﺍ ﺕﺎﺗﺎﺒﻧ",
+		"italian": "Piante curative",
 	},
 	"resourceDescription_HealingPlant": {
 		"english": "Healing plants can be found in the wild or cultivated at home. They are a vital ingredient for most medical supplies.",
@@ -558,6 +597,7 @@
 		"chinese": "草药可以在野外找到,也可以在家里种植.是多数医疗用品的重要成分.",
 		"korean": "약초는 야생에서 찾아내거나, 길러낼 수 있습니다. 거의 모든 의약 용품의 필수적인 재료입니다.",
 		"arabic": ".ﺔﻴﺒﻄﻟﺍ ﺕﺍﺩﺍﺪﻣﻹﺍ ﻢﻈﻌﻤﻟ ﻱﻮﻴﺣ ﺮﺼﻨﻋ ﻲﻬﻓ .ﻝﺰﻨﻤﻟﺍ ﻲﻓ ﺔﻋﻭﺭﺰﻤﻟﺍ ﻭﺃ ﺔﻳﺮﺒﻟﺍ ﻲﻓ ﺀﺎﻔﺸﻟﺍ ﺕﺎﺗﺎﺒﻧ ﻰﻠﻋ ﺭﻮﺜﻌﻟﺍ ﻦﻜﻤﻳ",
+		"italian": "Le piante curative possono essere trovate in natura o coltivate. Sono un ingrediente vitale per la maggior parte delle preparazioni mediche.",
 	},
 	"resourceName_HealingPlantWild": {
 		"english": "Wild Healing Plants",
@@ -572,6 +612,7 @@
 		"chinese": "野生的草药",
 		"korean": "야생 약초",
 		"arabic": "ﺔﻳﺮﺒﻟﺍ ﺀﺎﻔﺸﻟﺍ ﺕﺎﺗﺎﺒﻧ",
+		"italian": "Piante curative selvatiche",
 	},
 	"resourceName_HealingPlantCultivated": {
 		"english": "Cultivated Healing Plants",
@@ -586,6 +627,7 @@
 		"chinese": "种植的草药",
 		"korean": "재배된 약초",
 		"arabic": "ﺔﻋﻭﺭﺰﻤﻟﺍ ﺀﺎﻔﺸﻟﺍ ﺕﺎﺗﺎﺒﻧ",
+		"italian": "Piante curative coltivate",
 	},
 	"resourceName_HealingPotion": {
 		"english": "Healing Potions",
@@ -600,6 +642,7 @@
 		"chinese": "治疗药水",
 		"korean": "회복약",
 		"arabic": "ﺀﺎﻔﺸﻟﺍ ﺕﺎﻋﺮﺟ",
+		"italian": "Pozioni curative",
 	},
 	"resourceDescription_HealingPotion": {
 		"english": "When your colonists are wounded, it's best to give them healing potions to speed up the healing process.",
@@ -614,6 +657,7 @@
 		"chinese": "当你的殖民者受伤时,最好给他们一些治疗药水来加快治愈过程.",
 		"korean": "개척자가 다쳤을때엔, 회복약을 주어 회복 속도를 빠르게 하는게 최선입니다.",
 		"arabic": ".ﺀﺎﻔﺸﻟﺍ ﺔﻴﻠﻤﻋ ﻊﻳﺮﺴﺘﻟ ﺀﺎﻔﺷ ﺕﺎﻋﺮﺟ ﻢﻬﺋﺎﻄﻋﺇ ﻞﻀﻓﻷﺍ ﻦﻣ ، ﺡﺍﺮﺠﺑ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺏﺎﺼﻳ ﺎﻣﺪﻨﻋ",
+		"italian": "Quando i tuoi coloni sono feriti, è meglio dare loro pozioni curative per accelerare il processo di guarigione.",
 	},
 	"resourceName_Medicine": {
 		"english": "Illness Medicine",
@@ -628,6 +672,7 @@
 		"chinese": "药品",
 		"korean": "치료약",
 		"arabic": "ﺽﺍﺮﻣﻷﺍ ﺔﻳﻭﺩﺃ",
+		"italian": "Medicinale",
 	},
 	"resourceDescription_Medicine": {
 		"english": "There are various illnesses your colonists can get. This medicine treats most of them.",
@@ -642,6 +687,7 @@
 		"chinese": "你的殖民者可能会染上各种各样的疾病.该药能治疗大部分的疾病.",
 		"korean": "개척자는 다양한 병에 걸릴 수 있습니다. 치료약을 사용하면 대부분 치료할 수 있습니다.",
 		"arabic": ".ﻢﻬﻤﻈﻌﻣ ﺞﻟﺎﻌﻳ ﺀﺍﻭﺪﻟﺍ ﺍﺬﻫ .ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺎﻬﻟ ﺽﺮﻌﺘﻳ ﺪﻗ ﻲﺘﻟﺍ ﺽﺍﺮﻣﻷﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻙﺎﻨﻫ",
+		"italian": "Ci sono varie malattie che i tuoi coloni possono contrarre. Questo medicinale ne tratta la maggior parte.",
 	},
 	"resourceName_Wood": {
 		"english": "Wood",
@@ -656,6 +702,7 @@
 		"chinese": "木材",
 		"korean": "목재",
 		"arabic": "ﺐﺸﺧ",
+		"italian": "Legna",
 	},
 	"resourceDescription_Wood": {
 		"english": "Most things can be made out of wood in one way or another. This includes Walls, Doors, Floors, Furniture, Tools and Weapons.",
@@ -670,6 +717,7 @@
 		"chinese": "大多数东西都能以这样或那样的方式用木头制成.包括墙、门、地板、家具、工具和武器.",
 		"korean": "대부분의 물건들은 목재를 사용해 만들 수 있습니다. 그러니까 벽, 문, 바닥, 가구, 도구나 무기 등을 말이죠.",
 		"arabic": ".ﺔﺤﻠﺳﻷﺍﻭ ﺕﺍﻭﺩﻷﺍﻭ ﺙﺎﺛﻷﺍﻭ ﺕﺎﻴﺿﺭﻷﺍﻭ ﺏﺍﻮﺑﻷﺍﻭ ﻥﺍﺭﺪﺠﻟﺍ ﻚﻟﺫ ﻞﻤﺸﻳﻭ .ﻯﺮﺧﺄﺑ ﻭﺃ ﺔﻘﻳﺮﻄﺑ ﺐﺸﺨﻟﺍ ﻦﻣ ﻊﻨﺼﺗ ﻥﺃ ﻦﻜﻤﻳ ﺀﺎﻴﺷﻷﺍ ﻢﻈﻌﻣ",
+		"italian": "La maggior parte delle cose possono essere fabbricate con il legno in un modo o nell'altro. Ciò include pareti, porte, pavimenti, mobili, strumenti e armi.",
 	},
 	"resourceName_Cotton": {
 		"english": "Cotton",
@@ -684,16 +732,16 @@
 		"chinese": "棉花",
 		"korean": "목화",
 		"arabic": "ﻦﻄﻗ",
+		"italian": "Cotone",
 	},
 	"resourceDescription_Cotton": {
 		"english": "Cotton is used for all things that are made out of cloth. This includes stuff like beds, armchairs, and clothes.",
 		"german": "Baumwolle wird für alles benötigt, das aus Stoff gemacht ist. Dazu gehören Betten, Sessel, und Kleidung.",
 		// TODO: no bandages, they existed in a super old alpha version
-		// TODO-spanish
 		// TODO-russian
 		// TODO-ukrainian
 		"french": "Le coton est utilisé pour toute chose qui requiert du tissu. Cela inclut les choses comme les lits, les fauteuils et les vêtements.",
-		"spanish": "El algodón se usa para todo aquello que requiera tela. Esto incluye camas, vendas y ropa.",
+		"spanish": "El algodón se usa para todo aquello que requiera tela. Esto incluye cosas como camas, sillones y ropa.",
 		"turkish": "Pamuk, kumaştan yapılmış her şey için kullanılır. Buna yatak, koltuk ve kıyafet gibi şeyler dahildir.",
 		"portuguese": "O algodão é usado para todas as coisas que são feitas de pano. Isso inclui coisas como camas, poltronas e roupas.",
 		"dutch": "Katoen wordt gebruikt voor alle dingen die gemaakt worden van stof. Dit zijn onder andere dingen zoals bedden, armstoelen, en kleren.",
@@ -702,6 +750,7 @@
 		"chinese": "棉花用于制作所有布制品.这包括床、扶手椅和衣服.",
 		"korean": "목화는 천을 통해 만들 수 있는 모든 것에 사용됩니다. 침대나 안락의자, 옷 같은 것이요.",
 		"arabic": ".ﺲﺑﻼﻤﻟﺍﻭ ﺔﻜﻳﺭﻷﺍﻭ ﺓﺮﺳﻷﺍ ﻞﺜﻣ ﺀﺎﻴﺷﺃ ﻚﻟﺫ ﻞﻤﺸﻳﻭ .ﺵﺎﻤﻘﻟﺍ ﻦﻣ ﺔﻋﻮﻨﺼﻤﻟﺍ ﺀﺎﻴﺷﻷﺍ ﻊﻴﻤﺠﻟ ﻦﻄﻘﻟﺍ ﻡﺪﺨﺘﺴﻳ",
+		"italian": "Il cotone è usato per tutte le cose realizzate in stoffa. Queste includono letti, poltrone e abiti.",
 	},
 	"resourceName_Crystal": {
 		"english": "Crystal",
@@ -716,6 +765,7 @@
 		"chinese": "水晶",
 		"korean": "크리스탈",
 		"arabic": "ﺕﺍﺭﻮﻠﺑ",
+		"italian": "Cristallo",
 	},
 	"resourceDescription_Crystal": {
 		"english": "Crystals are gems with many interesting properties. Your colonists can gather and study them as a way of doing research.",
@@ -730,6 +780,7 @@
 		"chinese": "晶体是具有许多有趣特性的宝石.你的殖民者可以收集研究它们.",
 		"korean": "크리스탈은 다양한 성직을 지닌 보석입니다. 크리스탈을 모으고 조사하여 새 기술을 연구할 수 있습니다.",
 		"arabic": ".ﺙﻮﺤﺒﻟﺍ ﺀﺍﺮﺟﻹ ﺔﻠﻴﺳﻮﻛ ﺎﻬﺘﺳﺍﺭﺩﻭ ﺎﻬﻌﻤﺟ ﻚﻳﺪﻟ ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﻦﻜﻤﻳ .ﻡﺎﻤﺘﻫﻼﻟ ﺓﺮﻴﺜﻤﻟﺍ ﺺﺋﺎﺼﺨﻟﺍ ﻦﻣ ﺪﻳﺪﻌﻟﺍ ﻊﻣ ﺔﻤﻳﺮﻛ ﺭﺎﺠﺣﺃ ﻲﻫ ﺕﺍﺭﻮﻠﺒﻟﺍ",
+		"italian": "I cristalli sono gemme con molte proprietà interessanti. I tuoi coloni possono raccoglierli e studiarli per poter effettuare le proprie ricerche.",
 	},
 	"resourceName_Scroll": {
 		"english": "Scroll",
@@ -744,6 +795,7 @@
 		"chinese": "卷轴",
 		"korean": "스크롤",
 		"arabic": "ﺕﺎﻃﻮﻄﺨﻤﻟﺍ",
+		"italian": "Pergamena",
 	},
 	"resourceDescription_Scroll": {
 		"english": "Ancient secrets are written on these scrolls. Experienced scholars can discover technology by carefully studying their texts. Some traders sell them at a high price",
@@ -758,6 +810,7 @@
 		"chinese": "古老的秘密记录在这些卷轴上.有经验的学者可以通过研究文本来发现技术.有商人会高价出售",
 		"korean": "고대의 비밀들이 이 스크롤에 쓰여져 있습니다. 경험있는 학자들은 스크롤을 세심하게 조사하여 새로운 기술을 발견하기도 합니다. 몇몇 상인들이 높은 값에 팔고 있습니다.",
 		"arabic": "ﻊﻔﺗﺮﻣ ﺮﻌﺴﺑ ﺎﻬﻧﻮﻌﻴﺒﻳ ﺭﺎﺠﺘﻟﺍ ﺾﻌﺑ .ﺔﻳﺎﻨﻌﺑ ﻢﻬﺻﻮﺼﻧ ﺔﺳﺍﺭﺩ ﻝﻼﺧ ﻦﻣ ﺎﻴﺟﻮﻟﻮﻨﻜﺘﻟﺍ ﻑﺎﺸﺘﻛﺍ ﺓﺮﺒﺨﻟﺍ ﻱﻭﺫ ﺀﺎﻤﻠﻌﻠﻟ ﻦﻜﻤﻳ .ﺕﺎﻃﻮﻄﺨﻤﻟﺍ ﻩﺬﻫ ﻰﻠﻋ ﺔﻤﻳﺪﻘﻟﺍ ﺭﺍﺮﺳﻷﺍ ﺔﺑﺎﺘﻛ ﻢﺘﻳ",
+		"italian": "Su queste pergamene risiedono antichi segreti. Gli studiosi più esperti possono scoprire nuove tecnologie studiandone attentamente i loro testi. Alcuni mercanti le vendono per un prezzo elevato.",
 	},
 	"resourceName_Water": {
 		"english": "Water",
@@ -772,6 +825,7 @@
 		"chinese": "水",
 		"korean": "물",
 		"arabic": "ﺀﺎﻤﻟﺍ",
+		"italian": "Acqua",
 	},
 	"resourceName_Coins": {
 		"english": "Coins",
@@ -786,6 +840,7 @@
 		"chinese": "硬币",
 		"korean": "코인",
 		"arabic": "ﺔﻴﻧﺪﻌﻣ ﺕﻼﻤﻋ",
+		"italian": "Monete",
 	},
 	"resourceDescription_Coins": {
 		"english": "Money makes the world go round. Trade with other factions, pay your colonists, or use your coins to finance extravagant furniture.",
@@ -800,6 +855,7 @@
 		"chinese": "有钱能使鬼推磨.与其他派系进行贸易,支付殖民者工资,或者用你的硬币购买奢侈的家具.",
 		"korean": "코인으로 인해 세상이 돌아갑니다. 다른 파벌과 거래하거나, 개척자에게 일당으로 주거나, 사치스러운 가구를 사는 데에 사용하세요.",
 		"arabic": ".ﻆﻫﺎﺑ ﺙﺎﺛﺃ ﻞﻳﻮﻤﺘﻟ ﺔﻴﻧﺪﻌﻤﻟﺍ ﺕﻼﻤﻌﻟﺍ ﻡﺪﺨﺘﺳﺍ ﻭﺃ ، ﻚﻳﺮﻤﻌﺘﺴﻤﻟ ﻊﻓﺩﺍﻭ ، ﻯﺮﺧﻷﺍ ﻞﺋﺎﺼﻔﻟﺍ ﻊﻣ ﻝﻭﺍﺪﺗ .ﺭﻭﺪﻳ ﻢﻟﺎﻌﻟﺍ ﻞﻌﺠﻳ ﻝﺎﻤﻟﺍ",
+		"italian": "I soldi fanno girare il mondo. Commercia con altre fazioni, paga i tuoi coloni o usa le tue monete per acquistare mobili stravaganti.",
 	},
 	"resourceName_Beer": {
 		"english": "Beer",
@@ -814,6 +870,7 @@
 		"chinese": "啤酒",
 		"korean": "맥주",
 		"arabic": "ﺓﺮﻴﺑ",
+		"italian": "Birra",
 	},
 	"resourceDescription_Beer": {
 		"english": "Made out of carefully selected pumpkins and only the finest wheat grain. Has a rich and roasty flavor",
@@ -828,5 +885,6 @@
 		"chinese": "用精心挑选的南瓜和最优质的小麦酿造.有着浓郁的烘烤味",
 		"korean": "세심하게 고른 호박과 곱게 간 밀가루를 재료로 만들었습니다. 풍부하고 쌉싸름한 맛과 향을 자랑합니다.",
 		"arabic": "ﺔﻴﻬﺷﻭ ﺔﻴﻨﻏ ﺔﻬﻜﻧ ﻪﻟ .ﺢﻤﻘﻟﺍ ﺏﻮﺒﺣ ﻉﺍﻮﻧﺃ ﻰﻗﺭﺃﻭ ﺔﻳﺎﻨﻌﺑ ﺭﺎﺘﺨﻤﻟﺍ ﻦﻴﻄﻘﻴﻟﺍ ﻦﻣ ﻉﻮﻨﺼﻣ",
+		"italian": "Realizzata con zucche accuratamente selezionate e solo con il frumento migliore. Ha un sapore gustoso e tostato.",
 	},
 }

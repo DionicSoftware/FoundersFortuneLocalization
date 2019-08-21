@@ -469,7 +469,7 @@
 		"spanish": "Siéntate en una silla",
 		"turkish": "Sandalyeye otur",
 		"portuguese": "Sente-se na cadeira",
-		"dutch": "Op de stoel zitten",
+		"dutch": "Zit op een Stoel",
 		"russian": "Посидеть на стуле",
 		"ukrainian":"Сидіти на кріслі",
 		"korean": "의자에 앉기",
@@ -894,6 +894,7 @@
 		"ukrainian":"Збирати %resource%",
 		"korean": "%resource% 수집하기",
 		"arabic":"%resource% ﻊﻤﺟ",
+		"chinese": "收集%resource%",
 	},
 	"BecomeAProfession": {
 		"english": "Become a %profession%",
@@ -907,6 +908,7 @@
 		"ukrainian":"Встати %profession%",
 		"korean": "%profession% 되기",
 		"arabic":"%profession% ﺢﺒﺻﺃ",
+		"chinese": "转职为 %profession%",
 	},
 	"TryFluTreatment": {
 		"english": "Try Flu Treatment",
@@ -1180,7 +1182,7 @@
 		"spanish": "Comercia",
 		"portuguese": "Comércio",
 		"french": "Commerce",
-		"dutch": "Ruilen",
+		"dutch": "Handelen",
 		"turkish": "Takas",
 		"russian": "Торговать",
 		"korean": "거래하기",
@@ -1340,12 +1342,16 @@
 		"german": "Mit Mitglied der Fraktion \"%faction%\" reden",
 		"french": "Parler au membre de la faction \"%faction%\"",
 		"portuguese": "Fale com o membro de \"%faction%\"",
+		"dutch": "Praat met een lid van \"%faction%\"",
+		"chinese": "与\"%faction%\"的成员对话",
 	},
 	"HugFaction": {
 		"english": "Hug member of \"%faction%\"",
 		"german": "Mitglied der Fraktion \"%faction%\" umarmen",
 		"french": "Enlacer un membre de la faction \"%faction%\"",
 		"portuguese": "Abraço membro de \"%faction%\"",
+		"dutch": "Knuffel een lid van \"%faction%\"",
+		"chinese": "拥抱 \"%faction%\"的成员",
 	},
 
 
@@ -1630,16 +1636,20 @@
 		"german": "Kann diese Art von Kleidung nicht anziehen",
 		"french": "Ne peut pas porter ce genre de vêtements.",
 		"spanish": "No puede usar este tipo de ropa",
+		"dutch": "Kan dit type kleding niet dragen",
 		"portuguese": "Não pode usar este tipo de roupa",
 		"russian": "Не может носить данный тип одежды",
+		"chinese": "不能穿这种衣服",
 	},
 	"cantInteractInCombatMode": {
 		"english": "%firstName% can't do that in combat mode",
 		"german": "%firstName% kann das im Kampfmodus nicht machen",
 		"french": "%firstName% ne peut pas le faire en mode combat",
+		"dutch": "%firstName% kan dat niet doen in gevechtsmodus",
 		"spanish": "%firstName% no puede hacer eso en el modo combate",
 		"portuguese": "%firstName% não pode fazer isso no modo de combate",
 		"russian": "%firstName% не может сделать этого в режиме битвы",
+		"chinese": "%firstName%在战斗模式下不能这样做",
 	},
 	
 }

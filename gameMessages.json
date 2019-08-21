@@ -244,6 +244,7 @@
 		"russian": "Исследование не выбрано",
 		"ukrainian": "Дослідження не вибрано",
 		"korean": "진행중인 연구가 없습니다",
+		"chinese": "没有选择研究",
 	},
 	"notificationTitle_Illness": {
 		"english": "Illness",
@@ -360,7 +361,7 @@
 	},
 	"notificationTitle_NeedToBuildBonfire": {
 		"english": "Need a Bonfire to get Migrants",
-		"dutch":  "Heeft een vreugdevuur nodig om migranten te krijgen",
+		"dutch":  "Bouw een Baken zodat er migranten kunnen komen",
 		"german": "Leuchtfeuer für Migranten benötigt",
 		"french": "Besoin d'un grand feu pour les migrants",
 		"spanish": "Almenara necesaria para los migrantes",
@@ -533,10 +534,12 @@
 	"notificationTitle_StatuePresentAccepted": {
 		"english": "Our statue present was gratefully accepted",
 		"german": "Unsere Geschenkstatue wurde dankbar angenommen",
+		"dutch": "Ons cadeaustandbeeld is dankbaar aangenomen",
 		"french": "Notre cadeau de statue a été accepté avec gratitude",
 		"portuguese": "Nossa estátua presente foi aceita com gratidão",
 		"russian": "Нашу подарочную статую приняли с благодарностью",
 		"chinese": "我们的雕像礼物被感激地接受了",
+		"turkish": "Heykel hediyemiz memnuniyetle kabul edildi",
 	},
 
 
@@ -599,7 +602,6 @@
 		"spanish": "Tratamiento\nExitoso",
 		"turkish": "Tedavi\nBaşarılı",
 		"portuguese": "Tratamento \nBem-sucedido",
-		"dutch": "Behandeling\nSuccesvol",
 		"russian": "Лечение\nУспешно",
 		"ukrainian": "Лікування\nУспішне",
 		"korean": "치료\n성공",
@@ -613,7 +615,6 @@
 		"spanish": "Tratamiento\nFallido",
 		"turkish": "Tedavi\nBaşarısız",
 		"portuguese": "Tratamento \nFalhou",
-		"dutch": "Behandeling\nGefaald",
 		"russian": "Лечение\nНе удалось",
 		"ukrainian": "Не вдалося\nВилікувати",
 		"korean": "치료\n실패",
@@ -762,17 +763,21 @@
 		"english": "The Traders' Guild is attacking the village!",
 		"german": "Die Händergilde greift das Dorf an!",
 		"french": "La Guilde des Marchands attaque le village !",
+		"dutch": "De Handelaargilde valt het dorp aan!",
 		"portuguese": "A Guilda dos comerciantes está atacando a aldeia!",
 		"russian": "Гильдия торговцев атакует вашу деревню!",
 		"chinese": "商人行会正在袭击村庄！",
+		"turkish": "Ticaret Loncası köye saldırıyor!",
 	},
 	"messageText_TraderRaid": {
 		"english": "Usually, the Guild prefers to trade in peace. What did the colonists do to piss them off so badly?",
 		"german": "Die Gilde handelt am liebsten in friedlichen Gebieten. Was haben die Kolonisten getan um sie so anzustacheln?",
 		"french": "Habituellement, la Guilde préfère faire du commerce en paix. Qu'est-ce que les colons ont fait pour les énerver à ce point ?",
 		"portuguese": "Normalmente, o Clã prefere negociar em paz. O que os colonos fizeram para irritá-los tanto?",
+		"dutch": "Meestal handelt het gilde in vrede. Hoe hebben de kolonisten hem zo boos gekregen?",
 		"russian": "Обычно гильдия торговцев настроена на мир. Что заставило их передумать?",
 		"chinese": "通常商人公会喜欢和平交易。殖民者到底做了什么让他们如此恼怒？",
+		"turkish": "Genellikle, Lonca barış içinde ticaret yapmayı tercih eder. Yerleşimciler onları bu kadar sinirlendirmek için ne yaptı?",
 	},
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Tantrum!",
@@ -1061,7 +1066,7 @@
 	},
 	"messageTitle_TutorialBuildConstruction": {
 		"english": "How to build walls and floors",
-		"dutch":  "Hoe muren en vloeren bouwen",
+		"dutch":  "Hoe bouw je muren en vloeren",
 		"german": "Wie man Wände und Böden baut",
 		"french": "Comment construire des murs et des sols",
 		"spanish": "Cómo construir paredes y pisos",
@@ -1075,7 +1080,7 @@
 	},
 	"messageText_TutorialBuildConstruction": {
 		"english": "In the bottom left corner is a menu to select walls and floors to build. You then need to drag the cursor over the terrain. (right click & drag cursors to delete)",
-		"dutch":  "In de linkerbenedenhoek is een menu om muren en vloeren te selecteren om te bouwen. U moet dan de cursor over het terrein slepen. (klik met de rechtermuisknop en sleep cursors om te verwijderen)",
+		"dutch":  "In de onderste linker hoek is een bouwmenu waar je muren en vloeren kunt kiezen. Je moet dan de cursor over het terrein slepen. (Klik met de rechtermuisknop en sleep je cursor om gebouwen te verwijderen)",
 		"german": "In der Ecke unten links ist ein Menü, wo du Wände und Böden auswählen kannst. Wenn du etwas ausgewählt hast, kannst du die Maus über das Terrain ziehen, um es zu platzieren.",
 		"french": "Dans le coin inférieur gauche il y a un menu qui permet de construire des murs et des sols. Vous devrez faire glisser le curseur sur le terrain. (clic droit & faire glisser le curseur pour supprimer)",
 		"spanish": "En la esquina inferior izquierda hay un menú para seleccionar paredes y pisos para construir. A continuación, debes arrastrar el cursor sobre el terreno.(arrastra con click derecho para borrar)",

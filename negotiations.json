@@ -270,7 +270,7 @@
 		"french": "Nous vous considérons comme étant un bon ami de notre peuple, nous vous offrons donc une remise de %percent% pour cent.",
 		"turkish": "Sizi halkımızın iyi bir dostu olarak görüyoruz, bu yüzden size yüzde %percent% indirim sağlamaya çalışıyoruz.",
 		"chinese": "我们把你视为我们的好朋友，所以我们想给你%percent%的折扣。",
-		"italian": "La nostra gente ha una grande stima della tua persona, perciò ti concederemo un %percent% % di sconto.",
+		"italian": "La nostra gente ha grande stima di te, perciò ti concederemo un %percent% % di sconto.",
 	},
 	"tradingDiscountDeniedText": {
 		"english": "Sorry, but you're not really a good friend of our people. We can't afford to give out discounts to everyone.",
@@ -416,7 +416,7 @@
 		"french": "Merci! Vous êtes un bon ami de notre peuple.",
 		"turkish": "Teşekkürler. Siz, halkımız için iyi bir arkadaşsınız",
 		"chinese": "谢谢!你是我们的好朋友。",
-		"italian": "Grazie! Ti consideriamo ",
+		"italian": "Grazie! La nostra gente ha grande stima di te.",
 	},
 	"acceptPresentsAnswer": {
 		"english": "You're welcome.",
@@ -443,7 +443,7 @@
 		"french": "Nous exigeons un tribut de votre part.",
 		"turkish": "Sizden bir haraç talep ediyoruz.",
 		"chinese": "我们要求你向我们进贡。",
-		"italian": "",
+		"italian": "Ti chiediamo un tributo.",
 	},
 	"tributeSelectionText": {
 		"english": "Really...?",
@@ -455,7 +455,7 @@
 		"dutch": "Echt...?",
 		"turkish": "Gerçekten mi...?",
 		"chinese": "真的吗...?",
-		"italian": "",
+		"italian": "Davvero...?",
 	},
 	"tributeSelectionDemand": {
 		"english": "Please give use these items.",
@@ -467,7 +467,7 @@
 		"french": "S'il vous plaît, donnez-nous ces objets.",
 		"turkish": "Lütfen bu eşyaları bize veriniz.",
 		"chinese": "请把这些东西给我们。",
-		"italian": "",
+		"italian": "Ti chiediamo questi oggetti.",
 	},
 	"tributeSelectionJustKidding": {
 		"english": "Just Kidding.",
@@ -479,7 +479,7 @@
 		"french": "Je plaisante.",
 		"turkish": "Sadece şakaydı.",
 		"chinese": "只是开玩笑。",
-		"italian": "",
+		"italian": "Scherzavo.",
 	},
 	"tributeSelectionAcceptanceProbability": {
 		"english": "Probability of them accepting the tribute: %probability% percent.",
@@ -491,7 +491,7 @@
 		"dutch": "Kans dat ze het eerbetoon accepteren: %probability% procent",
 		"turkish": "Onların haraç kabul etme olasılığı: yüzde %probability%",
 		"chinese": "他们接受贡品的概率:%probability% %",
-		"italian": "",
+		"italian": "Probabilità che accettino il tributo: %probability% %.",
 	},
 	"tributeAcceptedBecauseFriendship": {
 		"english": "We decided to make an exception and give you our wares because we see you as a friend. We can offer these things to help you out:",
@@ -503,7 +503,7 @@
 		"french": "Nous avons décidé de faire une exception et de vous donner nos marchandises parce que nous vous considérons comme un ami. Nous pouvons vous offrir ces choses pour vous aider.",
 		"turkish": "Bir istisna yapmaya ve size mallarımızı vermeye karar verdik, çünkü sizi arkadaş olarak görüyoruz. Size yardımcı olmak için aşağıdakileri önerebiliriz:",
 		"chinese": "我们决定破例把我们的货物送给你，因为我们把你当作朋友。我们可以提供这些东西来帮助你:",
-		"italian": "",
+		"italian": "Abbiamo deciso di fare un'eccezione e di darti le nostre merci, dal momento che ti stimiamo. Possiamo offrirti queste cose per aiutarti:",
 	},
 	"tributeAcceptedBecauseScared": {
 		"english": "It's despicable that you bully others to get your way, but we don't have a choice. This is what we can offer you:",
@@ -515,7 +515,7 @@
 		"french": "C'est méprisable que vous intimidiez les autres pour obtenir ce que vous voulez, mais nous n'avons pas le choix. Voici ce que nous pouvons vous offrir :",
 		"turkish": "Başkalarını istediğinizi yapmaya zorlamak çok aşağılık, ama başka seçeneğimiz yok. Size sunabileceklerimiz bunlar:",
 		"chinese": "你为了自己的目的欺负别人是卑鄙的，但是我们没得选择。这是我们能为您进贡的:",
-		"italian": "",
+		"italian": "È spregevole intimidire gli altri per ottenere ciò che vuoi... non abbiamo scelta. Questo è ciò che possiamo offrirti:",
 	},
 	"tributeAcceptedBecauseTinyTribute": {
 		"english": "What? We thought you wanted something valuable. We can help you out a little:",
@@ -528,7 +528,7 @@
 		"french": "Quoi ? Je croyais que vous vouliez quelque chose de valeur. Nous pouvons vous aider un peu :",
 		"turkish": "Ne? Değerli bir şey istediğinizi düşündüm. Size biraz yardımcı olabiliriz:",
 		"chinese": "什么?我以为你想要些有价值的东西。我们可以帮你一点忙:",
-		"italian": "",
+		"italian": "Cosa? Pensavamo volessi qualcosa di prezioso. Possiamo aiutarti un po':",
 	},
 	"tributeAcceptedThanksForCooperation": {
 		"english": "Thanks for your cooperation.",
@@ -540,7 +540,7 @@
 		"french": "Merci pour votre coopération",
 		"turkish": "İşbirliğiniz için teşekkürler.",
 		"chinese": "多谢合作。",
-		"italian": "",
+		"italian": "Grazie per la cooperazione.",
 	},
 	"tributeDeniedText": {
 		"english": "It's pathetic how you think you can just demand something like that.\n\nYou are not our friend and you can't scare us into submission with such a small village.\n\nThis conversation is over.",
@@ -552,7 +552,7 @@
 		"french": "C'est pathétique la façon donc vous pensez pouvoir exiger quelque chose comme ça.\n\nVous n'êtes pas notre ami et vous ne pouvez pas nous faire peur en tentant de nous soumettre avec un si petit village.\n\nCette conversation est terminée.",
 		"turkish": "Böyle bir şeyi talep edebileceğinizi düşünmek acıklı. \n\nArkadaşımız değilsiniz ve bizi ufacık köyünüzle korkutamazsınız.\n\nBu konuşma burada bitmiştir." ,
 		"chinese": "可悲的是，你竟然认为你可以要求这样的东西。你不是我们的朋友，你小小的殖民地就想吓我们就范。不必在谈了。",
-		"italian": "",
+		"italian": "È patetico il modo in cui pensi di poter pretendere qualcosa del genere.\n\nNon hai buone relazioni con noi e non puoi minacciare di sottometterci con un villaggio così piccolo.\n\nLa conversazione termina qui.",
 	},
 
 
@@ -567,7 +567,7 @@
 		"french": "Il serait peut-être dans votre intéret de nous donner les choses suivantes :",
 		"turkish": "Bize aşağıdakileri vermek sizin yararınıza olabilir:",
 		"chinese": "如能提供下列物品，可能对你很有利:",
-		"italian": "",
+		"italian": "Potrebbe essere nel tuo interesse darci le seguenti cose:",
 	},
 	"goblinTributeTextNeutralRelations": {
 		"english": "We need some materials and as a decent neighbor you should help us out here:",
@@ -579,7 +579,7 @@
 		"french": "Nous avons besoin de matériaux et en tant que bon voisin, vous devriez nous aider :",
 		"turkish": "Bazı malzemelere ihtiyacımız var ve iyi bir komşu olarak bize yardım etmelisin:",
 		"chinese": "我们需要一些材料，作为一个体面的邻居，你应该帮助我们:",
-		"italian": "",
+		"italian": "Abbiamo bisogno di alcuni materiali e come buon vicino dovresti aiutarci:",
 	},
 	"goblinTributeTextGoodRelations": {
 		"english": "Dear friends, we're in need of some materials. Would you mind helping us out?",
@@ -591,7 +591,7 @@
 		"french": "Cher ami, nous avons besoin de matériaux. Pourriez-vous nous aider ?",
 		"turkish": "Sevgili arkadaşım, bazı malzemelere ihtiyacımız var. Bize yardım eder misiniz?",
 		"chinese": "爱的朋友，我们需要一些材料。你介意帮我们吗?",
-		"italian": "",
+		"italian": "Cari amici, abbiamo bisogno di alcuni materiali. Vi dispiacerebbe aiutarci?",
 	},
 	"goblinTributeAcceptButton": {
 		"english": "Of course, there you go.",
@@ -603,7 +603,7 @@
 		"french": "Bien sûr, voilà.",
 		"turkish": "Tabii ki, buyurun.",
 		"chinese": "当然可以了。",
-		"italian": "",
+		"italian": "Ma certo, ecco a voi.",
 	},
 	"goblinTributeDenyButton": {
 		"english": "We're not going to pay your tribute!",
@@ -615,7 +615,7 @@
 		"french": "Je ne vais pas payer votre tribut !",
 		"turkish": "Haracınızı ödemeyeceğim!",
 		"chinese": "我不会向你进贡的!",
-		"italian": "",
+		"italian": "Non pagheremo il tuo tributo!",
 	},
 	"goblinTributeAcceptedBadRelations": {
 		"english": "You know what's good for you.",
@@ -627,7 +627,7 @@
 		"french": "Vous savez ce qui est bon pour vous.",
 		"turkish": "Senin için neyin iyi olduğunu biliyorsun.",
 		"chinese": "你知道这样做对你有好处的。",
-		"italian": "",
+		"italian": "Sai cos'è meglio per te.",
 	},
 	"goblinTributeAcceptedNeutralRelations": {
 		"english": "Thanks for your help.",
@@ -639,7 +639,7 @@
 		"french": "Merci pour votre aide.",
 		"turkish": "Yardımınız için teşekkürler.",
 		"chinese": "感谢您的帮助。",
-		"italian": "",
+		"italian": "Grazie per il tuo aiuto.",
 	},
 	"goblinTributeAcceptedGoodRelations": {
 		"english": "Thanks! We're happy we can call you our friend.",
@@ -651,7 +651,7 @@
 		"french": "Merci ! Nous sommes heureux de pouvoir vous appeler notre ami.",
 		"turkish": "Teşekkürler! Size arkadaşımız diyebileceğimiz için mutluyuz.",
 		"chinese": "谢谢!我们很高兴能称你为我们的朋友。",
-		"italian": "",
+		"italian": "Grazie! Siamo felici di potervi definire amici.",
 	},
 	"goblinTributeDeniedBadRelations": {
 		"english": "You are going to regret this.",
@@ -663,7 +663,7 @@
 		"dutch": "Je gaat hier spijt van krijgen.",
 		"turkish": "Buna pişman olacaksın.",
 		"chinese": "你会后悔的。",
-		"italian": "",
+		"italian": "Te ne pentirai.",
 	},
 	"goblinTributeDeniedNeutralRelations": {
 		"english": "We will remember your attitude.",
@@ -675,7 +675,7 @@
 		"french": "Nous nous souviendrons de votre comportement.",
 		"turkish": "Tutumunuzu hatırlayacağız.",
 		"chinese": "我们会记住你的态度。",
-		"italian": "",
+		"italian": "Lo ricorderemo.",
 	},
 	"goblinTributeDeniedGoodRelations": {
 		"english": "That's a bummer. Friends should stick together.",
@@ -687,6 +687,6 @@
 		"french": "C'est vraiment dommage. Les amis devraient se serrer les coudes.",
 		"turkish": "Bu hiç iyi değil. Arkadaşlar birbirine yardımcı olmalı.",
 		"chinese": "真是失望。朋友应该团结在一起。",
-		"italian": "",
+		"italian": "È proprio un peccato. Gli amici dovrebbero restare uniti.",
 	},
 }

@@ -14,7 +14,7 @@
 		"ukrainian":"Кровотеча",
 		"korean": "피를 흘림",
 		"chinese": "表面创伤",
-		"italian": "",
+		"italian": "Ferite sanguinanti",
 	},
 	"effectDesc_Bleeding": {
 		"english": "%firstName% bleeding! Make sure that %hisHer% wounds are bandaged properly. Otherwise, %firstName% could die of blood loss.",
@@ -32,7 +32,7 @@
 		"ukrainian":"У %firstName% кровотеча! Переконайтесь, що у %hisHer% рани перев'язані правильно, інакше %firstName% може померти від втрати крові. ",
 		"korean": "%firstName%이 피를 흘리고 있습니다! %heShe%의 상처에 붕대를 잘 감았는지 꼭 확인하세요. 그렇지 않으면, %firstName%이 과다출혈로 사망할 수도 있습니다.",
 		"chinese": "%firstName%流血了!一定要把他的伤口包扎好。否则%firstName%可能会死于失血过多。",
-		"italian": "",
+		"italian": "%firstName% sta sanguinando! Assicurati che le sue ferite vengano fasciate accuratamente. Altrimenti, %firstName% potrebbe morire per dissanguamento.",
 	},
 	"effectTitle_Unconscious": {
 		"english": "Unconscious",
@@ -49,7 +49,7 @@
 		"ukrainian":"Без свідомості",
 		"korean": "의식 불명",
 		"chinese": "失去意识",
-		"italian": "",
+		"italian": "Incosciente",
 	},
 	"effectDesc_Unconscious": {
 		"english": "It's going to take a while before %firstName% wakes up.",
@@ -66,7 +66,7 @@
 		"ukrainian":"Потрібно деякий час, щоб %firstName% зм%sheLA% прокинутись",
 		"korean": "%firstName%이 깨어나기까지 좀 걸릴 겁니다.",
 		"chinese": "%firstName%需要一段时间才能苏醒过来。",
-		"italian": "",
+		"italian": "Ci vorrà un po' prima che %firstName% si svegli.",
 	},
 	"effectTitle_Bandage": {
 		"english": "Bandage",
@@ -83,7 +83,7 @@
 		"ukrainian":"Пов'язка",
 		"korean": "붕대 감음",
 		"chinese": "绷带包扎",
-		"italian": "",
+		"italian": "Fasciatura",
 	},
 	"effectDesc_Bandage": {
 		"english": "The bandage is stopping the blood loss.",
@@ -100,7 +100,7 @@
 		"ukrainian":"Пов'язка зупиняє кровотечу.",
 		"korean": "붕대가 출혈을 막아주고 있어요.",
 		"chinese": "绷带正在止血。",
-		"italian": "",
+		"italian": "La fasciatura sta arrestando la fuoriuscita di sangue.",
 	},
 	"effectTitle_Healthy": {
 		"english": "No Effects",
@@ -117,7 +117,7 @@
 		"ukrainian":"Ефектти відсутні",
 		"korean": "이상 없음",
 		"chinese": "没有效果",
-		"italian": "",
+		"italian": "Nessun effetto",
 	},
 	"effectDesc_Healthy": {
 		"english": "%firstName% is healthy!",
@@ -134,7 +134,7 @@
 		"ukrainian":"%firstName% здоров%heshe_IY_NA%!",
 		"korean": "%firstName%은 건강합니다!",
 		"chinese": "%firstName%很健康！",
-		"italian": "",
+		"italian": "%firstName% è in salute!",
 	},
 	"effectTitle_Starving": {
 		"english": "Starving",
@@ -151,7 +151,7 @@
 		"ukrainian":"Голодування",
 		"korean": "굶주림",
 		"chinese": "饥肠辘辘",
-		"italian": "",
+		"italian": "Affamat%OA%",
 	},
 	"effectDesc_Starving": {
 		"english": "%firstName% hasn't eaten in a long time. %cap-heShe% needs to find something to eat soon in order to survive.",
@@ -169,7 +169,7 @@
 		"ukrainian":"%firstName% не ї%hesheEnd% довгий час. %cap-heShe% потрібно знайти щось поїсти, тому що %heShe% помре від голоду",
 		"korean": "%firstName%은 오랫동안 먹지 않았습니다. %heShe%가 살아남기 위해서는 되도록 빠르게 무언가 먹을 걸 찾아야 합니다.",
 		"chinese": "%firstName%很久没有吃东西了。为了生存下去%heShe%必须尽快找些吃的。",
-		"italian": "",
+		"italian": "%firstName% non mangia da molto tempo. Deve trovare al più presto qualcosa da mangiare per poter sopravvivere.",
 	},
 	"effectTitle_HealingPotion": {
 		"english": "Healing Potion",
@@ -186,7 +186,7 @@
 		"ukrainian":"Лікувальне зілля",
 		"korean": "회복약",
 		"chinese": "治疗药水",
-		"italian": "",
+		"italian": "Pozione curativa",
 	},
 	"effectDesc_HealingPotion": {
 		"english": "The healing potion %firstName% drank is doing its work and restoring some health.",
@@ -203,7 +203,7 @@
 		"ukrainian":"Якщо  %firstName% вип'є лікувальне зілля, %hisHer% почне відновлюватися здоров'я.",
 		"korean": "%firstName%이 마신 회복약이 효과를 보이고 있습니다. 생명력을 회복하고 있어요.",
 		"chinese": "%firstName%喝下治疗药水后恢复了健康。",
-		"italian": "",
+		"italian": "La pozione curativa che %firstName% ha bevuto sta facendo il suo effetto e %LoLa% sta aiutando a recuperare la salute.",
 	},
 	"effectTitle_Flu": {
 		"english": "Flu",
@@ -220,7 +220,7 @@
 		"ukrainian":"Грип",
 		"korean": "감기",
 		"chinese": "流行感冒",
-		"italian": "",
+		"italian": "Influenza",
 	},
 	"effectDesc_Flu": {
 		"english": "%firstName% has caught the Flu. Make sure %heShe% stays in bed in the coming days and is treated with medicine by a doctor. Do not underestimate the illness!",
@@ -239,7 +239,7 @@
 		"ukrainian":"%firstName% захворі%hesheEnd% грипом. Переконайтесь, що %heShe% буде лежати в ліжку під наглядом лікаря. Не варто недооцінювати хворобу!",
 		"korean": "%firstName%은 감기에 걸렸습니다. %heShe%가 며칠간 침대에 누워있게 해 주고, 의사가 약을 처방할 수 있게 해 주세요. 가벼운 병도 얕보지 마세요!",
 		"chinese": "%firstName%得了流感。在接下来的几天里，一定要卧床休息，并接受医生的药物治疗。千万不要低估疾病!",
-		"italian": "",
+		"italian": "%firstName% ha contratto l'influenza. Assicurati che rimanga a letto nei prossimi giorni e che venga visitat%OA% da un medico. Non sottovalutare la malattia!",
 	},
 	"effectTitle_SleepingInBed": {
 		"english": "Resting in Bed",
@@ -256,7 +256,7 @@
 		"ukrainian":"Відпочиває в ліжку",
 		"korean": "침대에서 휴식",
 		"chinese": "躺在床上",
-		"italian": "",
+		"italian": "Riposo a letto",
 	},
 	"effectDesc_SleepingInBed": {
 		"english": "%firstName% is resting and slowly re-gaining health.",
@@ -275,7 +275,7 @@
 		"ukrainian":"%firstName% відпочиває і повільно відновлює здоров'я.",
 		"korean": "%firstName%은 쉬고 있으며, 생명력이 서서히 회복되고 있습니다.",
 		"chinese": "%firstName%在休息慢慢地恢复健康。",
-		"italian": "",
+		"italian": "%firstName% sta riposando e sta recupendo la sua salute un po' alla volta.",
 	},
 	"effectTitle_AllergicReaction": {
 		"english": "Allergic Reaction",
@@ -292,7 +292,7 @@
 		"ukrainian":"Алергічна реакція",
 		"korean": "알레르기 반응",
 		"chinese": "过敏反应",
-		"italian": "",
+		"italian": "Reazione allergica",
 	},
 	"effectDesc_AllergicReaction": {
 		"english": "%firstName% was forced to eat food %heShe% is allergic to. Now %hisHer% body has had an allergic reaction.",
@@ -310,7 +310,7 @@
 		"ukrainian":"%firstName% з'ї%hesheEnd% їжу, на яку в %himHer% алергія.",
 		"korean": "%firstName%가 알레르기가 있는 음식을 먹었습니다. %heShe%의 몸 여기저기에 알레르기 증상이 나타나고 있어요.",
 		"chinese": "%firstName%吃了过敏的食物。现在他的身体出现了过敏反应。",
-		"italian": "",
+		"italian": "%firstName% è stat%OA% costretto a mangiare del cibo a cui era allergic%OA%. Adesso il suo corpo ha avuto una reazione allergica.",
 	},
 	"effectStage": {
 		"english": "Stage",

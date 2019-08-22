@@ -326,7 +326,7 @@
 		"ukrainian":"Рівень",
 		"korean": "단계",
 		"chinese": "手舞足蹈",
-		"italian": "",
+		"italian": "Stadio",
 	},
 	"effectTitle_SmallFoodRationsSlowness": {
 		"english": "Works slowly",
@@ -342,7 +342,7 @@
 		"ukrainian":"Повільна робота",
 		"korean": "느리게 일함",
 		"chinese": "工作迟钝",
-		"italian": "",
+		"italian": "Lavora lentamente",
 	},
 	"effectDesc_SmallFoodRationsSlowness": {
 		"english": "%firstName% receives only small food rations, so %heShe% just lacks the energy to work properly and takes longer to complete tasks.",
@@ -360,7 +360,7 @@
 		"ukrainian":"%firstName% получає мало їжі, тому %heShe% не ефективно працює. %cap-heShe% будет работать медленнее и дольше выполнять задания.",
 		"korean": "%firstName%은 음식을 적게 배분받았습니다. 그래서 %heShe%는 제대로 일할 수 있는 에너지가 부족합니다. 일을 끝마치는 데에 더 많은 시간이 걸립니다.",
 		"chinese": "%firstName%只得到少量的食物配给，所以%firstName%只是缺乏精力工作，需要更长的时间来完成任务。",
-		"italian": "",
+		"italian": "%firstName% si nutre solo con piccole razioni alimentari, per cui gli mancano le energie per lavorare e per questo impiega più tempo per completare gli incarichi.",
 	},
 	"effectTitle_LegHurt": {
 		"english": "Hurt leg: Walks slowly",
@@ -375,7 +375,7 @@
 		"ukrainian":"Пошкоджена нога: Повільно пересувається",
 		"korean": "다리를 다침: 느리게 걸음",
 		"chinese": "腿伤：行走迟缓",
-		"italian": "",
+		"italian": "Gamba ferita: cammina lentamente",
 	},
 	"effectDesc_LegHurt": {
 		"english": "%firstName% has hurt %hisHer% leg. Splints will help it heal more quickly.",
@@ -390,7 +390,7 @@
 		"ukrainian":"%firstName% порани%hesheEnd% свою ногу. Шина допоможе %heshe1% ",
 		"korean": "%firstName%은 다리를 다쳤습니다. 부목을 댄다면 좀 더 빠르게 나을거에요.",
 		"chinese": "%firstName%的腿受伤了。夹板可以帮助它更快地愈合。",
-		"italian": "",
+		"italian": "%firstName% si è ferit%OA% alla gamba. Le stecche l%OA% aiuteranno a guarire più rapidamente.",
 	},
 	"effectTitle_LegBroken": {
 		"english": "Broken leg: Can't walk",
@@ -405,7 +405,7 @@
 		"ukrainian":"Зламана нога: Не може пересуватися",
 		"korean": "다리가 부러짐: 걸을 수 없음",
 		"chinese": "腿折：不能行走",
-		"italian": "",
+		"italian": "Gamba rotta: non può camminare",
 	},
 	"effectDesc_LegBroken": {
 		"english": "%firstName% has broken %hisHer% leg and cannot walk anymore. You need to apply splints, or %firstName% may be permanently disabled!",
@@ -420,7 +420,7 @@
 		"ukrainian":"%firstName% злома%hesheEnd% свою ногу і не може більше пересуваться. Вам потрібно наклажити шину, бо %firstName% може втратити можливість ходити!",
 		"korean": "%firstName%의 다리가 부러져, 더이상 걸을 수 없습니다. 부목을 대지 않으면, %firstName%은 평생 장애를 갖게 될 거에요!",
 		"chinese": "%firstName%的腿骨折了，不能再走路了。您必须使用夹板，否则%firstName%可能永久断腿了!",
-		"italian": "",
+		"italian": "%firstName% si è rott%OA% una gamba e non può più camminare. Devi applicare delle stecche, o %firstName% potrebbe rimanere invalido a vita!",
 	},
 	"effectTitle_ArmHurt": {
 		"english": "Hurt arm: Works slowly",
@@ -435,7 +435,7 @@
 		"ukrainian":"Пошкоджена рука: Повільна робота",
 		"korean": "팔을 다침: 느리게 일함",
 		"chinese": "手伤: 工作迟缓",
-		"italian": "",
+		"italian": "Braccio ferito: lavora lentamente",
 	},
 	"effectDesc_ArmHurt": {
 		"english": "%firstName% has hurt %hisHer% arm. Splints will help it heal more quickly.",
@@ -450,7 +450,7 @@
 		"ukrainian":"%firstName% пошкоди%hesheEnd% свою руку. Шина допоможет %heshe1% виздоровіти швидше.",
 		"korean": "%firstName%은 팔을 다쳤습니다. 부목을 댄다면 좀 더 빠르게 나을거에요.",
 		"chinese": "%firstName%胳膊受伤了。夹板可以帮助它更快地愈合。",
-		"italian": "",
+		"italian": "%firstName% si è ferit%OA% al braccio. Le stecche l%OA% aiuteranno a guarire più rapidamente.",
 	},
 	"effectTitle_ArmBroken": {
 		"english": "Broken arm: Can't work",
@@ -465,7 +465,7 @@
 		"ukrainian":"Зламана рука: Не може працювати",
 		"korean": "팔이 부러짐: 일할 수 없음",
 		"chinese": "手折: 不能工作",
-		"italian": "",
+		"italian": "Braccio rotto: lavora lentamente",
 	},
 	"effectDesc_ArmBroken": {
 		"english": "%firstName% has broken %hisHer% arm and cannot work anymore. Splints will help it heal more quickly.",
@@ -480,7 +480,7 @@
 		"ukrainian":"%firstName% пошкоди%hesheEnd% свою руку. Шина допоможет %heshe1% виздоровіти швидше.",
 		"korean": "%firstName%의 팔이 부러져, 더이상 일할 수 없습니다. 부목을 댄다면 좀 더 빠르게 나을거에요.",
 		"chinese": "%firstName%的胳膊骨折了，不能再工作了。夹板可以帮助它更快地愈合。",
-		"italian": "",
+		"italian": "%firstName% si è rott%OA% un braccio e non può più lavorare. Le stecche l%OA% aiuteranno a guarire più in fretta.",
 	},
 	"effectTitle_LegSplint": {
 		"english": "Leg splints",
@@ -495,7 +495,7 @@
 		"ukrainian":"Шина на нозі",
 		"korean": "다리에 부목",
 		"chinese": "腿部夹板",
-		"italian": "",
+		"italian": "Stecca alla gamba",
 	},
 	"effectDesc_LegSplint": {
 		"english": "The leg is stabilized now. It will heal in a short while.",
@@ -510,7 +510,7 @@
 		"ukrainian":"Нога стабілізується, вона скоро заживе.",
 		"korean": "다리가 좀 안정되었습니다. 조금만 지나면 다 나을거에요.",
 		"chinese": "腿现在固定好了。过一会儿就会恢复了。",
-		"italian": "",
+		"italian": "La gamba è stabilizzata adesso. Guarirà in breve tempo.",
 	},
 	"effectTitle_ArmSplint": {
 		"english": "Arm splints",
@@ -525,7 +525,7 @@
 		"ukrainian":"Шина на руці",
 		"korean": "팔에 부목",
 		"chinese": "手臂夹板",
-		"italian": "",
+		"italian": "Stecca al braccio",
 	},
 	"effectDesc_ArmSplint": {
 		"english": "The arm is stabilized now. It will heal in a short while.",
@@ -540,7 +540,7 @@
 		"ukrainian":"Рука стабілізується, вона скоро заживе.",
 		"korean": "팔이 좀 안정되었습니다. 조금만 지나면 다 나을거에요.",
 		"chinese": "手臂现在固定好了。过一会儿就会恢复了。",
-		"italian": "",
+		"italian": "Il braccio è stabilizzato adesso. Guarirà in breve tempo.",
 	},
 }
 

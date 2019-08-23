@@ -1340,6 +1340,7 @@
 	"TalkToFaction": {
 		"english": "Talk to member of \"%faction%\"",
 		"german": "Mit Mitglied der Fraktion \"%faction%\" reden",
+		"korean": "\"%faction%\"의 일원과 이야기하기",
 		"french": "Parler au membre de la faction \"%faction%\"",
 		"spanish": "Hablar con un miembro de \"%faction%\"",
 		"portuguese": "Fale com o membro de \"%faction%\"",
@@ -1350,6 +1351,7 @@
 	"HugFaction": {
 		"english": "Hug member of \"%faction%\"",
 		"german": "Mitglied der Fraktion \"%faction%\" umarmen",
+		"korean": "\"%faction%\"의 일원을 껴안기",
 		"french": "Enlacer un membre de la faction \"%faction%\"",
 		"spanish": "Abrazar a un miembro de \"%faction%\"",
 		"portuguese": "Abraço membro de \"%faction%\"",
@@ -1643,6 +1645,7 @@
 		"dutch": "Kan dit type kleding niet dragen",
 		"portuguese": "Não pode usar este tipo de roupa",
 		"russian": "Не может носить данный тип одежды",
+		"korean": "이런 모양의 옷을 입을 수 없습니다",
 		"chinese": "不能穿这种衣服",
 	},
 	"cantInteractInCombatMode": {
@@ -1653,6 +1656,7 @@
 		"spanish": "%firstName% no puede hacer eso en el modo combate",
 		"portuguese": "%firstName% não pode fazer isso no modo de combate",
 		"russian": "%firstName% не может сделать этого в режиме битвы",
+		"korean": "%firstName%#{은} 전투 모드에서 그런 행동을 할 수 없습니다",
 		"chinese": "%firstName%在战斗模式下不能这样做",
 	},
 	

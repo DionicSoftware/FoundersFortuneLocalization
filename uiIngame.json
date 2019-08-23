@@ -76,6 +76,7 @@
 		"italian": "Diplomazia",
 		"dutch": "Diplomatie",
 		"chinese": "外交",
+		"korean": "외교",
 		"turkish": "Diplomasi",
 	},
 	"showOnMap": {
@@ -88,6 +89,7 @@
 		"italian": "Mostra luogo",
 		"dutch": "Toon Locatie",
 		"chinese": "显示位置",
+		"korean": "위치 확인",
 		"turkish": "Yer göster",
 	},
 	"contactFaction": {
@@ -100,6 +102,7 @@
 		"italian": "Contatto",
 		"dutch": "Contacteren",
 		"chinese": "联系",
+		"korean": "접촉",
 		"turkish": "İletişim",
 	},
 	"relationshipPoints": {
@@ -112,6 +115,7 @@
 		"italian": "Punti relazione:",
 		"dutch": "Relatie punten:",
 		"chinese": "友好值",
+		"korean": "우호도:",
 		"turkish": "İlişki puanları:",
 	},
 	"pointsMaximumAcronym": {
@@ -124,6 +128,7 @@
 		"italian": "max",
 		"dutch": "max",
 		"chinese": "最大值",
+		"korean": "최대",
 		"turkish": "max",
 	},
 	"neutralRelations": {
@@ -136,6 +141,7 @@
 		"italian": "Relazioni neutrali",
 		"dutch": "Neutrale relaties",
 		"chinese": "中立关系",
+		"korean": "중립적인 관계",
 		"turkish": "Tarafsız",
 	},
 	"truceWithTime": {
@@ -148,6 +154,7 @@
 		"italian": "Tregua (%seconds% s)",
 		"dutch": "Wapenstilstand (%seconds% s)",
 		"chinese": "休战(%seconds% 秒)",
+		"korean": "휴전(%seconds% 초)",
 		"turkish": "Ateşkes (%seconds% s)",
 	},
 	"willAttackOnSight": {
@@ -160,6 +167,7 @@
 		"italian": "Attaccherà a vista",
 		"dutch": "Valt aan wanneer in zicht",
 		"chinese": "一见即攻",
+		"korean": "보이는대로 공격",
 		"turkish": "Görüldüğünde saldırı",
 	},
 	"strainedRelations": {
@@ -172,6 +180,7 @@
 		"italian": "Relazioni tese",
 		"dutch": "Gespanne relaties",
 		"chinese": "紧张关系",
+		"korean": "불편한 관계",
 		"turkish": "Gerginlik",
 	},
 	"friendlyRelations": {
@@ -184,6 +193,7 @@
 		"italian": "Relazioni amichevoli",
 		"dutch": "Vriendelijke relaties",
 		"chinese": "友好关系",
+		"korean": "친밀한 관계",
 		"turkish": "Dostça bir ilişki",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
@@ -196,6 +206,7 @@
 		"dutch": "Vriendelijk als relatie boven %friendlyLimit% is.\nValt aan wanneer in zicht als relatie onder %attackingLimit% is.",
 		"italian": "Amichevole se le relazioni superano %friendlyLimit%.\nAttacca a vista se le relazioni scendono al di sotto di %attackingLimit%.",
 		"chinese": "如果关系值超过超过%friendlyLimit%会交好。如果关系指低于%attackingLimit%则立即攻击。",
+		"korean": "우호도가 %friendlyLimit%을 넘으면 친밀해집니다.\n우호도가 %attackingLimit%보다 낮다면, 보이는대로 공격합니다.",
 		"turkish": "%friendlyLimit% geçildiğinde arkadaşça.\n ilşiki %attackingLimit% altına düştüğündeyse görüldüğünde saldırı boyutuna geçer.",
 	},
 

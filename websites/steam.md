@@ -139,9 +139,9 @@ Du musst dich dabei keineswegs auf vorgefertigte Bauwerke beschränken! Designe 
 ### French
 Construisez votre colonie
 
-Lorsque des colons arrivent, ils n'ont rien à part quelques vêtements sur le dos. Vous prenez leur contrôle et leur ordonnez de récolter du matériel et de construire des murs, du sol et des meubles.
+Lorsque des colons arrivent, ils n'ont rien à part quelques vêtements sur le dos. Vous prenez leur contrôle et leur ordonnez de récolter des matériaux et de construire des murs, du sol et des meubles.
 
-Vous n'êtes pas limité à des bâtiments prédéfinis ! Décorez vos maisons et donnez un style qui correspond à vos goûts. Il y a une douzaine de construction et d'éléments d'ameublement que vous pouvez utiliser pour créer votre colonie dont vous avez toujours rêvé !
+Vous n'êtes pas limité à des bâtiments prédéfinis ! Décorez vos maisons et donnez un style qui correspond à vos goûts. Il y a une douzaine de constructions et d'éléments d'ameublement que vous pouvez utiliser pour créer la colonie dont vous avez toujours rêvée !
 
 
 ### Portuguese
@@ -226,7 +226,7 @@ Jeder Kolonist reagiert auf Ereignisse - positive und negative - und spiegelt da
 ### French
 Prenez soin de vos colons
 
-Les colons sont votre priorité absolue. Au début, vous devez simplement leur fournir de la nourriture et un abri. Mais le monde est plein de dangers ! Une infection peut s'avérer fatale au guerrier le plus puissant et une peste peut anéantir votre colonie entière.
+Les colons sont votre priorité absolue. Au début, vous devez simplement leur fournir de la nourriture et un abri. Mais le monde est plein de dangers ! Une infection peut s'avérer fatale au guerrier le plus puissant et une épidémie peut anéantir votre colonie entière.
 
 Chaque colon réagit aux événements, heureux ou triste, et le reflète dans son comportement. Les colons heureux recevront un coup de pouce pour améliorer leur productivité - Des colons malheureux pourraient avoir une crise de colère.
 
@@ -687,6 +687,8 @@ Recherchez des technologies
 
 Construire votre maison est un long processus et les ressources et la main-d'œuvre ne sont pas les seules choses dont vous avez besoin. Les colons intelligents consacrent beaucoup de temps à la recherche de nouvelles technologies, permettant ainsi de débloquer de meilleurs équipements, de nouveaux meubles et des éléments de construction.
 
+Choississez soigneusement les chercheurs - si leur personnalité ne correspond pas à ce type de travail, ils ne feront pas beaucoup de progrès. 
+
 
 ### Portuguese
 Tecnologias de pesquisa
@@ -773,7 +775,7 @@ Protégez votre avant-poste
 
 Vous n'êtes pas seul dans ce nouveau territoire que vous appelez «chez vous». Les Tikigoblins qui y vivent ne sont pas très heureux de vos efforts d’installation et pourraient vous rendre visite pour vous arrêter.
 
-Entraînez vos colons à l'art de la guerre et équipez-les avec les meilleures armes et armures dont vous disposez. Construisez des murs et des tours pour assurer la sécurité de votre colonie - ainsi, vos ennemis auront du mal à essayer de jouer avec vous !
+Entraînez vos colons à l'art de la guerre et équipez-les avec les meilleures armes et armures dont vous disposez. Construisez des murs et des tours pour assurer la sécurité de votre colonie - ainsi, vos ennemis auront du mal à essayer de se jouer de vous !
 
 
 ### Portuguese
@@ -889,7 +891,7 @@ Abhängig von der Menge an Unterstützung die wir bekommen, planen wir den Early
 
 
 ### French
-Selon le soutiens que nous recevons, nous prévoyons de quitter l'accès anticipé entre septembre 2019 et septembre 2020.
+Selon le soutien que nous recevons, nous prévoyons de quitter l'accès anticipé entre septembre 2019 et septembre 2020.
 
 
 ### Portuguese
@@ -967,7 +969,7 @@ Les gros éléments de notre feuille de route incluent
 [*]D'autres factions
 [/list]
 
-Ce sont des choses que nous aimerions faire et les résultats finaux dépendent de la quantité de soutien que reçoit Founders' Fortune. Si nous n'obtenons pas du tout de soutiens, nous allons passer au polissage et rendre l'expérience actuelle aussi fluide que possible.
+Ce sont des choses que nous aimerions faire et les résultats finaux dépendent de la quantité de soutien que reçoit Founders' Fortune. Si nous n'obtenons aucun soutien, nous allons passer au polissage et rendre l'expérience actuelle aussi fluide que possible.
 
 
 ### Portuguese
@@ -1081,7 +1083,7 @@ Alle gezeigten Funktionen im Trailer, in den Screenshots und im "Über dieses Sp
 ### French
 Dans le passé, nous avons mis à la disposition de nos joueurs diverses versions d'Alpha via notre site Web. Au moment de la rédaction de cet article, nous avons chaque jour entre 100 et 300 joueurs qui passent souvent plus de 18 heures à débloquer entièrement l'arbre technologique et encore plus de temps pour atteindre la limite de population.
 
-Toutes les fonctionnalités de la bande-annonce, des captures d'écran et de la section "À propos de ce jeu" ci-dessous sont implémentées et jouables.
+Toutes les fonctionnalités dans la bande-annonce, sur les captures d'écran et dans la section "À propos de ce jeu" ci-dessous sont implémentées et jouables.
 
 
 ### Portuguese

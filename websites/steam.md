@@ -30,7 +30,7 @@ A fantasy colony simulator focusing on creative building, colonist psychology an
 Handle resources, farming, production, tools, weapons, armor, trading, defense, and research, as well as the wishes, expectations, thoughts, and possessions of every colonist.
 
 ### Dutch
-Een fantasie koloniesimulator gericht op creatief bouwen, kolonistische psychologie en basisverdediging. Behandel middelen, landbouw, productie, gereedschap, wapens, bepantsering, handel, defensie en onderzoek, evenals de wensen, verwachtingen, gedachten en bezittingen van elke kolonist.
+Een fantasie koloniesimulator gericht op creatief bouwen, kolonistische psychologie en het verdedigen van je basis. Bekommer je om materialen, landbouw, productie, gereedschap, wapens, bepantsering, handel, verdediging en onderzoek, evenals de wensen, verwachtingen en bezittingen van elke kolonist.
 
 ###  German
 Ein Fantasy Koloniesimulator, der sich auf kreatives Bauen, das Umsorgen deiner Kolonisten und Basenverteidigung konzentriert.

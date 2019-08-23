@@ -278,6 +278,7 @@
 		"russian": "ковер",
 		"dutch": "een Vloerkleed",
 		"korean": "카펫",
+		"chinese": "地毯",
 	},
 	"furnitureCategory_AFlowerPot": {
 		"english": "a Flower Pot",
@@ -438,7 +439,8 @@
 		"dutch": "%zijnHaar% Eigendom",
 		"portuguese": "%seuSua% possessão",
 		"russian": "Одержимость %hisHer%",
-		"korean": "%heShe%의 수유물",
+		"korean": "%heShe%의 소유물",
+		"chinese": "%hisHer%拥有物",
 	},
 	"useSatisfactionRewardPoints": {
 		"english": "Use Satisfaction Reward Points",
@@ -559,6 +561,10 @@
 		"dutch": "Verbeter relaties met \"%faction%\" naar %points% punten",
 		"french": "Améliorer les relations avec \"%faction%\" jusqu'à %points% points",
 		"korean": "\"%faction%\"과의 관계를 %points% 포인트까지 개선하기",
+		"spanish": "Mejorar las relaciones con \"%faction%\" a %points% puntos",
+		"chinese": "将与\"%faction%\"的关系增加%points% 点数",
+		"russian":"Улучшить отношения с \"%faction%\" до %points% очков",
+		"portuguese": "Melhorar as relações com \"%faction%\" para %points% pontos",
 	},
 	"worsenRelationsWithFactionToXPoints": {
 		"english": "Worsen relations with \"%faction%\" to %points% points",
@@ -566,5 +572,9 @@
 		"german": "Verschlechtere Beziehungen mit \"%faction%\" zu %points% Punkten",
 		"french": "Diminuer les relations avec \"%faction%\" jusqu'à %points% points",
 		"korean": "\"%faction%\"과의 관계를 %points% 포인트까지 악화시키기",
+		"spanish": "Empeorar las relaciones con \"%faction%\" a %points% puntos",
+		"chinese": "将与\"%faction%\"的关系降低%points% 点数",
+		"russian":"Ухудшить отношения с \"%faction%\" до %points% очков",
+		"portuguese": "Piorar as relações com \"%faction%\" para %points% pontos",
 	},
 }

@@ -79,7 +79,7 @@ Substitute "..." with your language
 (The ... translation was done by the community.)
 
 ### Dutch
-(De ... vertaling werd gedaan door de community.)
+(De nederlandse vertaling is gedaan door de community.)
 
 ### French
 (La traduction française a été réalisée par la communauté.)
@@ -121,11 +121,11 @@ You are not limited to predefined buildings! Design your own houses and style th
 
 
 ### Dutch
-Bouw je kolonie
+Bouw Jouw Kolonie
 
-Wanneer je kolonisten aankomen, hebben ze niets anders dan de kleding op hun rug. Jij neemt de controle en vertelt hen om materialen te verzamelen en muren, vloeren en meubels te bouwen.
+Wanneer je kolonisten aankomen, hebben ze niets anders dan de kleding bij zich. Jij neemt de controle en vertelt hen om materialen te verzamelen en muren, vloeren en meubels te bouwen.
 
-U bent niet beperkt tot vooraf gedefinieerde gebouwen! Ontwerp je eigen huizen en stijl ze naar wens. Er zijn tientallen constructie en meubelelementen die je kunt gebruiken om de nederzetting te maken waar je altijd van hebt gedroomd!
+Je bent niet beperkt tot vooraf gedefinieerde gebouwen! Ontwerp je eigen huizen en stijl ze naar wens. Er zijn tientallen constructie en meubelelementen die je kunt gebruiken om de nederzetting te maken waar je altijd van hebt gedroomd!
 
 
 ### German
@@ -139,9 +139,9 @@ Du musst dich dabei keineswegs auf vorgefertigte Bauwerke beschränken! Designe 
 ### French
 Construisez votre colonie
 
-//TODO-Devs Lorsque des colons arrivent, ils n'ont rien à part quelques vêtements sur le dos. Vous prenez leur contrôle et leur ordonnez de récolter des matériaux et de construire des murs, du sol et des meubles.
+Lorsque des colons arrivent, ils n'ont rien à part quelques vêtements sur le dos. Vous prenez leur contrôle et leur ordonnez de récolter des matériaux et de construire des murs, du sol et des meubles.
 
-//TODO-Devs Vous n'êtes pas limité à des bâtiments prédéfinis ! Décorez vos maisons et donnez un style qui correspond à vos goûts. Il y a une douzaine de constructions et d'éléments d'ameublement que vous pouvez utiliser pour créer la colonie dont vous avez toujours rêvée !
+Vous n'êtes pas limité à des bâtiments prédéfinis ! Décorez vos maisons et donnez un style qui correspond à vos goûts. Il y a une douzaine de constructions et d'éléments d'ameublement que vous pouvez utiliser pour créer la colonie dont vous avez toujours rêvée !
 
 
 ### Portuguese
@@ -208,9 +208,9 @@ The colonists are your top priority. At first, you simply need to provide them w
 Each colonist reacts to events, happy or sad, and reflects that in their behavior. Happy colonists will receive a boost to their productivity – Unhappy colonists might throw a temper tantrum.
 
 ### Dutch
-Zorg voor uw kolonisten
+Zorg voor je kolonisten
 
-De kolonisten hebben uw hoogste prioriteit. In het begin moet je ze gewoon van voedsel en onderdak voorzien. Maar de wereld is vol gevaren! Een infectie kan fataal zijn voor de sterkste krijger en een pest kan je hele kolonie teniet doen.
+De kolonisten zijn je hoogste prioriteit. In het begin moet je ze gewoon van voedsel en onderdak voorzien. Maar de wereld is vol gevaren! Een infectie kan fataal zijn voor de sterkste krijger en de plaag kan je hele kolonie teniet doen.
 
 Elke kolonist reageert op gebeurtenissen, blij of verdrietig, en weerspiegelt dat in hun gedrag. Gelukkige kolonisten krijgen een boost voor hun productiviteit - Ongelukkige kolonisten kunnen een driftbui krijgen.
 
@@ -226,7 +226,7 @@ Jeder Kolonist reagiert auf Ereignisse - positive und negative - und spiegelt da
 ### French
 Prenez soin de vos colons
 
-//TODO-Devs Les colons sont votre priorité absolue. Au début, vous devez simplement leur fournir de la nourriture et un abri. Mais le monde est plein de dangers ! Une infection peut s'avérer fatale au guerrier le plus puissant et une épidémie peut anéantir votre colonie entière.
+Les colons sont votre priorité absolue. Au début, vous devez simplement leur fournir de la nourriture et un abri. Mais le monde est plein de dangers ! Une infection peut s'avérer fatale au guerrier le plus puissant et une épidémie peut anéantir votre colonie entière.
 
 Chaque colon réagit aux événements, heureux ou triste, et le reflète dans son comportement. Les colons heureux recevront un coup de pouce pour améliorer leur productivité - Des colons malheureux pourraient avoir une crise de colère.
 
@@ -300,11 +300,11 @@ At that point, all bets are off…
 ### Dutch
 Pak driftbuien aan
 
-In een ideaal leven komen al je wensen uit, althans dat is wat Toni denkt. Vervulde wensen kunnen een goed humeur bevorderen, terwijl honger, verwondingen, saaie gesprekken of zelfs nachtmerries ervoor zorgen dat je burgers zich slecht voelen.
+In een ideaal leven komen al je wensen uit, althans dat is wat Toni denkt. Vervulde wensen kunnen een goed humeur bevorderen, terwijl honger, verwondingen, saaie gesprekken of zelfs nachtmerries ervoor zorgen dat je inwoners zich slecht voelen.
 
 Als je de behoeften en wensen van je kolonisten te lang negeert, kan een van hen een pech hebben en een driftbui krijgen.
 
-Op dat moment zijn alle weddenschappen uitgeschakeld...
+Op dat moment moet je op alles voorbereid zijn...
 
 ### German
 Werde mit Nevenzusammenbrüchen fertig
@@ -408,7 +408,7 @@ Je boerderij opzetten
 
 Eten is belangrijk. Goed voedsel maakt kolonisten gelukkig, verkeerd voedsel maakt kolonisten ziek, weinig voedsel maakt kolonisten langzaam en geen voedsel laat kolonisten sterven!
 
-Kweek een verscheidenheid aan seizoensgebonden gewassen en zet een keuken op om heerlijke maaltijden te bereiden. Zorg ervoor dat je je voorraad inslaat voordat de winter toeslaat en snel handelen wanneer een zwerm hongerige insecten op je velden neerdaalt!
+Kweek een verscheidenheid aan seizoensgebonden gewassen en zet een keuken op om heerlijke maaltijden te bereiden. Zorg ervoor dat je je voorraad inslaat voordat de winter toeslaat en snel handelt wanneer een zwerm hongerige insecten op je velden neerdaalt!
 
 
 ### German
@@ -494,7 +494,7 @@ When supplies dwindle and the freezing cold wind howls outside, it’s easy to l
 ### Dutch
 Overleef de winter
 
-Gebruik de tijd die je hebt en zorg ervoor dat je voldoende voedsel hebt opgeslagen, want de winter komt eraan. Laten we hopen dat u het rantsoen niet hoeft te halveren - omdat uw kolonisten hierdoor zwak worden.
+Gebruik de tijd die je hebt en zorg ervoor dat je voldoende voedsel hebt opgeslagen, want de winter komt eraan. Laten we hopen dat je de rantsoenen niet hoeft te halveren - omdat je kolonisten hierdoor zwak worden.
 
 Wanneer de voorraad afneemt en de ijskoude wind buiten huilt, is het gemakkelijk om de hoop te verliezen ...
 
@@ -580,11 +580,11 @@ Try to keep production up so you’ll always have something to sell. A mature co
 
 
 ### Dutch
-handel in goederen en word rijk
+Handel in goederen en word rijk
 
-Er is bekend geworden dat je kolonie producten is gaan produceren. Begroet reizende handelaren en kijk of je een goede deal kunt krijgen voor enkele oude rollen of extra voedsel kunt kopen om je voor te bereiden op de winter.
+Het is bekend geworden dat je kolonie producten is gaan produceren. Begroet reizende handelaren en kijk of je een goede deal kunt krijgen voor enkele oude rollen of extra voedsel kunt kopen om je voor te bereiden op de winter.
 
-Probeer de productie hoog te houden zodat je altijd iets te verkopen hebt. Een volwassen kolonie moet goede salarissen betalen om iedereen gelukkig te houden. Als het moreel laag is, kunnen extra fondsen zelfs een klein beetje geluk kopen!
+Probeer de productie hoog te houden zodat je altijd iets te verkopen hebt. Een volwassen kolonie moet goede salarissen betalen om iedereen gelukkig te houden. Als het moreel laag is, kan je door een beetje extra te geven zelfs geluk kopen!
 
 
 ### German
@@ -667,9 +667,9 @@ Select scholars carefully – if their personality doesn’t fit this type of wo
 
 
 ### Dutch
-onderzoekstechnologieën
+Onderzoekstechnologieën
 
-Het bouwen van je huis is een lang proces en middelen en mankracht zijn niet de enige dingen die je nodig hebt. Smart Settlers besteden veel tijd aan onderzoek naar nieuwe technologieën, waardoor betere apparatuur, nieuwe meubels en constructie elementen worden ontgrendeld.
+Het bouwen van je huis is een lang proces en middelen en mankracht zijn niet de enige dingen die je nodig hebt. Slimme migranten besteden veel tijd aan onderzoek naar nieuwe technologieën, waardoor betere apparatuur, nieuwe meubels en constructie elementen worden ontgrendeld.
 
 Selecteer wetenschappers zorgvuldig - als hun persoonlijkheid niet bij dit soort werk past, zullen ze niet veel vooruitgang boeken.
 
@@ -687,7 +687,7 @@ Recherchez des technologies
 
 Construire votre maison est un long processus et les ressources et la main-d'œuvre ne sont pas les seules choses dont vous avez besoin. Les colons intelligents consacrent beaucoup de temps à la recherche de nouvelles technologies, permettant ainsi de débloquer de meilleurs équipements, de nouveaux meubles et des éléments de construction.
 
-//TODO-Devs Choississez soigneusement les chercheurs - si leur personnalité ne correspond pas à ce type de travail, ils ne feront pas beaucoup de progrès. 
+Choississez soigneusement les chercheurs - si leur personnalité ne correspond pas à ce type de travail, ils ne feront pas beaucoup de progrès. 
 
 
 ### Portuguese
@@ -755,11 +755,11 @@ Train your colonists in the art of warfare and equip them with the best weapons 
 
 
 ### Dutch
-Bescherm uw buitenpost
+Bescherm je nederzetting
 
-Je bent niet alleen in dit nieuwe land dat je 'thuis' noemt. De Tikigoblins die er wonen zijn niet zo blij met je afwikkelingsinspanningen en kunnen je een bezoek brengen om je te stoppen.
+Je bent niet alleen in dit nieuwe land dat je je 'thuis' noemt. De Tikigoblins die er wonen zijn niet zo blij met je inspanningen en kunnen je een bezoek brengen om je te stoppen.
 
-Train je kolonisten in de kunst van het oorlogvoeren en rust ze uit met de beste wapens en bepantsering die je hebt. Bouw muren en torens om de veiligheid van je kolonie te waarborgen - op die manier zullen je vijanden het moeilijk hebben om met je te rotzooien!
+Train je kolonisten in de kunst van het oorlogvoeren en rust ze uit met de beste wapens en bepantsering die je hebt. Bouw muren en torens om de veiligheid van je kolonie te waarborgen - op die manier zullen je vijanden het moeilijk hebben als ze met je rotzooien!
 
 
 ### German
@@ -775,7 +775,7 @@ Protégez votre avant-poste
 
 Vous n'êtes pas seul dans ce nouveau territoire que vous appelez «chez vous». Les Tikigoblins qui y vivent ne sont pas très heureux de vos efforts d’installation et pourraient vous rendre visite pour vous arrêter.
 
-//TODO-Devs Entraînez vos colons à l'art de la guerre et équipez-les avec les meilleures armes et armures dont vous disposez. Construisez des murs et des tours pour assurer la sécurité de votre colonie - ainsi, vos ennemis auront du mal à essayer de se jouer de vous !
+Entraînez vos colons à l'art de la guerre et équipez-les avec les meilleures armes et armures dont vous disposez. Construisez des murs et des tours pour assurer la sécurité de votre colonie - ainsi, vos ennemis auront du mal à essayer de se jouer de vous !
 
 
 ### Portuguese
@@ -839,7 +839,7 @@ We've been running a public Alpha from our Website for a while and we're continu
 
 
 ### Dutch
-We hebben al een tijdje een openbare Alpha vanaf onze Website en we gaan door met dit project op Steam. We hebben de feedback gebruikt als leidraad om te bepalen welke functies we moeten implementeren, welke kwaliteit van live verbeteringen moet worden aangebracht en welke bugs eerst moeten worden opgelost. Samen streven we voor de best mogelijke ervaring!
+We hebben al een tijdje een openbare Alpha vanaf onze Website gehad en we gaan door met dit project op Steam. We hebben de feedback gebruikt als leidraad om te bepalen welke functies we moeten implementeren, welke kwaliteit van live verbeteringen moet worden aangebracht en welke bugs eerst moeten worden opgelost. Samen streven we voor de best mogelijke ervaring!
 
 
 ### German
@@ -883,7 +883,7 @@ Depending on the amount of support we get, we plan to leave early access between
 
 
 ### Dutch
-Afhankelijk van de hoeveelheid ondersteuning die we krijgen, zijn we van plan om vroege toegang te verlaten tussen september 2019 en september 2020.
+Afhankelijk van de hoeveelheid ondersteuning die we krijgen, zijn we van plan om vroegtijdige toegang te verlaten tussen september 2019 en september 2020.
 
 
 ### German
@@ -891,7 +891,7 @@ Abhängig von der Menge an Unterstützung die wir bekommen, planen wir den Early
 
 
 ### French
-//TODO-Devs Selon le que nous recevons, nous prévoyons de quitter l'accès anticipé entre septembre 2019 et septembre 2020.
+Selon le soutien que nous recevons, nous prévoyons de quitter l'accès anticipé entre septembre 2019 et septembre 2020.
 
 
 ### Portuguese
@@ -935,13 +935,13 @@ These are things we'd like to do and the final results depends on the amount of 
 
 
 ### Dutch
-De grote items op onze routekaart zijn onder meer
-[lijst]
-[*] Gebouwen met meerdere verdiepingen en daken
-[*] Dieren en huisdieren
+De grote items op onze roadmap zijn onder meer
+[list]
+[*]Gebouwen met meerdere verdiepingen en daken
+[*]Dieren en huisdieren
 [*]Relaties
-[*] Meerdere eilanden
-[*] Andere facties
+[*]Meerdere eilanden
+[*]Andere stammen
 [lijst]
 
 Dit zijn dingen die we graag zouden willen doen en het uiteindelijke resultaat hangt af van de hoeveelheid steun die Founders 'Fortune krijgt. Als we helemaal geen ondersteuning krijgen, schakelen we over op polijsten en maken we de huidige ervaring zo soepel mogelijk.
@@ -969,7 +969,7 @@ Les gros éléments de notre feuille de route incluent
 [*]D'autres factions
 [/list]
 
-//TODO-Devs Ce sont des choses que nous aimerions faire et les résultats finaux dépendent de la quantité de soutien que reçoit Founders' Fortune. Si nous n'obtenons aucun soutien, nous allons passer au polissage et rendre l'expérience actuelle aussi fluide que possible.
+Ce sont des choses que nous aimerions faire et les résultats finaux dépendent de la quantité de soutien que reçoit Founders' Fortune. Si nous n'obtenons aucun soutien, nous allons passer au polissage et rendre l'expérience actuelle aussi fluide que possible.
 
 
 ### Portuguese
@@ -1070,7 +1070,7 @@ All features in the Trailer, Screenshots, and in the "About this game" section b
 
 
 ### Dutch
-In het verleden hebben we via onze website verschillende alfa versies beschikbaar gemaakt voor spelers. Op het moment van schrijven hebben we elke dag 100-300 spelers die vaak meer dan 18 uur spenderen om de technische boom te ontgrendelen en nog meer tijd om de bevolkingslimiet te bereiken.
+In het verleden hebben we via onze website verschillende alfa versies beschikbaar gemaakt voor spelers. Op het moment van schrijven hebben we elke dag 100-300 spelers die vaak meer dan 18 uur spenderen om alle onderzoeken te ontgrendelen en nog meer tijd om de bevolkingslimiet te bereiken.
 
 Alle functies in de trailer, screenshots en in het gedeelte 'Over deze game' zijn geïmplementeerd en speelbaar
 
@@ -1083,7 +1083,7 @@ Alle gezeigten Funktionen im Trailer, in den Screenshots und im "Über dieses Sp
 ### French
 Dans le passé, nous avons mis à la disposition de nos joueurs diverses versions d'Alpha via notre site Web. Au moment de la rédaction de cet article, nous avons chaque jour entre 100 et 300 joueurs qui passent souvent plus de 18 heures à débloquer entièrement l'arbre technologique et encore plus de temps pour atteindre la limite de population.
 
-//TODO-Devs Toutes les fonctionnalités dans la bande-annonce, sur les captures d'écran et dans la section "À propos de ce jeu" ci-dessous sont implémentées et jouables.
+Toutes les fonctionnalités dans la bande-annonce, sur les captures d'écran et dans la section "À propos de ce jeu" ci-dessous sont implémentées et jouables.
 
 
 ### Portuguese

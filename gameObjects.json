@@ -5413,6 +5413,7 @@
 		"ukrainian":"Статуя Засновника",
 		"korean": "개척자 동상",
 		"chinese": "Founder雕像",
+		"italian": "Statua del fondatore",
 	},
 	"statueFounderDescription": {
 		"english": "This statue honors the original Founders, which contributed to make this colony possible. Eternal thanks to them. May they always have food in winter!",
@@ -5426,6 +5427,7 @@
 		"ukrainian":"Ця статуя - данина пам'яті засновникам цієї прекрасної колонії. Нехай у них завжди буде їжа на зиму.",
 		"korean": "최초의 개척자들을 기리기 위한 동상입니다. 이 정착지를 가능하도록 기여한 분들이죠. 그 분들께 끊임없는 감사를 전합니다. 그들에게는 겨울에 식량이 떨어지는 일이 없기를!",
 		"chinese": "这座雕像是为了纪念最初的建国者，他们为这个殖民地的建立做出了贡献。永远感谢他们。愿他们永远有食物过冬!",
+		"italian": "Questa statua onora i Fondatori originali che hanno contribuito a rendere possibile l'esistenza di questa colonia. Un eterno grazie a loro. Possano avere sempre cibo durante l'inverno!",
 	},
 	// once the Founder's statue is built, it's dedicated to one of Founders' Fortune greatest supporters, so there name replaces %supporter% in these texts:
 	"statueFounderSupporter": {
@@ -5440,6 +5442,7 @@
 		"ukrainian":"%supporter% Велик%heshe_IY_A%",
 		"korean": "위대한 %supporter%",
 		"chinese": "伟大的%supporter%",
+		"italian": "%supporter%, l'Illustre",
 	},
 	"statueFounderSupporterDescription": {
 		"english": "As one of the original Founders, %supporter% the Great contributed to make this colony possible.\n\nEternal thanks to %himHer%. May %heShe% always have food in winter!",
@@ -5453,6 +5456,7 @@
 		"ukrainian":"%supporter% - велика людина, яка зробила можливим наше існування в цій колонії.\n\nВшануймо %himHer% память. Нехай у %heShe% ніг завжди буде їжа на зиму!",
 		"korean": "최초의 개척자 중 한 명인 위대한 %supporter% 님은 이 정착지를 가능하게 해 주셨습니다.\n\n%heShe%에게 끊임없는 감사를 전합니다. %heShe%에게는 겨울에 식량이 떨어지는 일이 없기를!",
 		"chinese": "作为最初的创建者之一，这位伟大的%supporter%为这个殖民地做出了贡献。\n\n永远感谢%himHer%。愿%heShe%永远有食物过冬!",
+		"italian": "In qualità di uno dei Fondatori original, %supporter%, l'Illustre, ha contribuito a rendere possibile questa colonia.\n\nUn eterno grazie nei suoi confronti. Possa avere sempre cibo durante l'inverno!",
 	},
 	"statueGoblin0": {
 		"english": "Statue of Kū the Strong",
@@ -5464,6 +5468,7 @@
 		"korean": "강한 쿠-우의 조각상",
 		"chinese": "强者Kū 雕像",
 		"dutch": "Standbeeld van Kū de Sterke",
+		"italian": "Statua di Kū, il Possente",
 	},
 	"statueGoblin0Description": {
 		"english": "This statue shows Kū the Stong. Legends say, it was him who united the islands' tribes to fight off a pirate invasion, long ago. To this very day, every Tikigoblin knows the name of their great commander.",
@@ -5475,6 +5480,7 @@
 		"korean": "강한 쿠-우를 표현한 조각상입니다. 전설에 따르면, 그는 오래 전 이 섬의 부족들을 통합하고 해적의 침략에 맞서싸웠습니다. 오늘날에 이르기까지, 모든 티키고블린들은 그들의 위대한 지도자의 이름을 기억하고 있습니다.",
 		"chinese": "这座雕像是 强者Kū。传说很久以前，正是他将这些岛屿的部落联合起来抵御海盗入侵。 直到今天，每个土著哥布林都知道他们的伟大指挥官的名字。",
 		"dutch": "Standbeeld vertoont Kū de Sterke. Legendes zeggen, dat hij het was die de stammen van het eiland verenigde om een piraten invasie af te slaan, lang geleden. Tot het heden, weet elke Tikigoblin de naam van hun grote commandant.",
+		"italian": "Questa statua rappresenta Kū, il Possente. Le leggende narrano che fu lui ad unire le tribù delle isole per combattere contro l'invasione dei pirati, molto tempo fa. Ad oggi, ogni Tikigoblin conosce il nome del suo grande comandante.",
 	},
 	"statueGoblin1": {
 		"english": "Statue of Hina the Brave",
@@ -5486,6 +5492,7 @@
 		"korean": "용감한 히나의 조각상",
 		"chinese": "勇士希娜 雕像",
 		"dutch": "Standbeeld van Hina de Dappere",
+		"italian": "Statua di Hina, la Valorosa",
 	},
 	"statueGoblin1Description": {
 		"english": "As a role model for Tikigoblin women, Hina embodies courage, strength and wisdom. A long long time ago, she faced the danger of a vulcano eruption and thereby introduced the Tikigoblins to fire. Eternal thanks to her for light in the dark and hot meals in the cauldron!",
@@ -5497,6 +5504,7 @@
 		"portuguese": "Como um modelo para as mulheres de Tikigoblin, Hina incorpora coragem, força e sabedoria. Há muito tempo atrás, ela enfrentou o perigo de uma erupção vulcânica e, assim, introduziu os tikigoblins no fogo. Eterno obrigado a ela por luz nas refeições escuras e quentes no caldeirão!",
 		"korean": "티키고블린 여성들의 롤모델이며, 용기와, 힘, 지혜를 상징합니다. 오래 오래 전, 화산 폭발의 위험을 직면했지만, 이를 극복하고 티키고블린에게 불을 다루는 방법을 알려주었습니다. 밤에도 빛을 밝혀주고 가마솥에 따끈한 식사를 가져다준 그녀에게 영원한 감사를.",
 		"chinese": "作为土著哥布林女性的榜样，希娜代表着了勇气、力量与智慧。很久很久以前，她面临着火山爆发的危险，给土著哥布林带来了火种。感谢她在黑暗中为我们带来光明，让大锅烹饪出热腾腾的饭菜!",
+		"italian": "Come modello per le donne Tikigoblin, Hina incarna coraggio, forza e saggezza. Molto tempo fa, affrontò la pericolosità di un'eruzione vulcanica e fu così che introdusse i Tikigoblin al fuoco. Un eterno grazie a lei per la luce dove regna il buio e per i pasti caldi dal calderone!",
 	},
 	"statueGoblin2": {
 		"english": "Statue of Wākea the Just",
@@ -5508,6 +5516,7 @@
 		"korean": "정의로운 와-케아의 조각상",
 		"chinese": "正直Wākea 雕像",
 		"dutch": "Standbeeld van Wākea de Rechtvaardige",
+		"italian": "Statua di Wākea, il Giusto",
 	},
 	"statueGoblin2Description": {
 		"english": "In a time of long lasting war and destruction, Wākea the Just's talent for negotion enabled a (short-lived) era of peace. While the tribes still quarrel over severl matters, Wākea taught them that it's sometimes better to give in and work together. No matter how severe the conflict might seem, there is always a solution. One just has to search for it! ",
@@ -5519,6 +5528,7 @@
 		"portuguese": "Em um tempo de guerra e destruição de longa duração, o talento de negação de Wakea, o Justo, possibilitou uma era (de curta duração) de paz. Enquanto as tribos ainda disputam questões importantes, Wākea lhes ensinou que às vezes é melhor ceder e trabalhar juntos. Não importa quão grave o conflito possa parecer, há sempre uma solução. Um só tem que procurar por isso!",
 		"korean": "기나긴 전쟁과 파괴의 시대에, 정의로운 와-케아의 협상 능력은 (짧았지만) 평화의 시대를 열었습니다. 부족들이 여전히 몇 가지 문제로 다투는 동안, 와케아는 그들에게 때로는 양보하고 함께 일하는 것이 더 낫다고 가르쳤습니다. 갈등이 아무리 심각해 보여도 언제나 해결책이 있다고 말이죠. 누군가 해결책을 찾기만 하면 된다구요!",
 		"chinese": "漫长的战争过后wakea成功的协调各部落进入了(短暂)和平的时代。虽然部落们不太乐意，但wakea还是教导了他们要共同合作、放弃成见等道理。无论冲突有多激烈，总会有解决办法的。只要有人尝试去寻找这个方法！",
+		"italian": "In un'epoca di guerre e distruzione durevoli, il talento di Wākea il Giusto permise, tramite la negoziazione, la giunta di un'era di pace (di breve durata). Sebbene le tribù litighino ancora sulle questioni gravi, Wākea ha insegnato loro che a volte è meglio cedere e lavorare insieme. Non importa quanto possa sembrare grave il conflitto, c'è sempre una soluzione. Bisogna solo saperla cercare!",
 	},
 
 // Lights
@@ -5536,6 +5546,7 @@
 		"ukrainian":"Люстра",
 		"korean": "샹들리에",
 		"chinese": "吊灯",
+		"italian": "Lampadario",
 	},
 	"chandelierDescription": {
 		"english": "Cheap and simple chandelier to light your home.",
@@ -5549,6 +5560,7 @@
 		"ukrainian":"Дешева і проста люстра для освітлення вашого будинку.",
 		"korean": "싸고 단순한 샹들리에로 집을 환하게 하세요.",
 		"chinese": "便宜而简易的吊灯，点亮你的家。",
+		"italian": "Un lampadario economico e semplice per illuminare la tua casa.",
 	},
 	"lightGroundTorch0": {
 		"english": "Simple Torch on Ground",
@@ -5562,6 +5574,7 @@
 		"ukrainian":"Наземний факел",
 		"korean": "땅에 세워둔 횃불",
 		"chinese": "简易火把",
+		"italian": "Torcia semplice da terreno",
 	},
 	"lightGroundTorch0Description": {
 		"english": "The easiest way to get light in the dark.",
@@ -5575,6 +5588,7 @@
 		"ukrainian":"Найпростіший спосіб отримання світла на ранніх етапах.",
 		"korean": "어둠을 물리치는 가장 간단한 방법.",
 		"chinese": "在黑暗中获得光明最简单的方法。",
+		"italian": "Il modo più semplice per illuminare il buio.",
 	},
 	"lightGroundLantern0": {
 		"english": "Wooden Street Lantern",
@@ -5588,6 +5602,7 @@
 		"ukrainian":"Дерев'яний вуличний ліхтар на підвісці",
 		"korean": "목제 가로등",
 		"chinese": "木制街灯",
+		"italian": "Lanterna da strada di legno",
 	},
 	"lightGroundLantern0Description": {
 		"english": "Use this stylish lantern to light your home at night.",
@@ -5601,6 +5616,7 @@
 		"ukrainian":"Цей стильний ліхтар допоможе освітлити ваш будинок вночі.",
 		"korean": "이 우아한 등불로 밤에도 집을 밝히세요.",
 		"chinese": "晚上用这个时髦的灯点亮你的家。",
+		"italian": "Usa questa lanterna elegante per illuminare la tua casa durante la notte.",
 	},
 	"lightGroundLantern1": {
 		"english": "Wooden Street Lantern",
@@ -5614,6 +5630,7 @@
 		"ukrainian":"Дерев'яний вуличний ліхтар",
 		"korean": "목제 가로등",
 		"chinese": "木制街灯",
+		"italian": "Lanterna da strada di legno",
 	},
 	"lightGroundLantern1Description": {
 		"english": "Use this stylish lantern to light your home at night.",
@@ -5628,6 +5645,7 @@
 		"ukrainian":"Цей стильний ліхтар допоможе освітлити ваш будинок вночі.",
 		"korean": "이 우아한 등불로 밤에도 집을 밝히세요.",
 		"chinese": "晚上用这个时髦的灯点亮你的家。",
+		"italian": "Usa questa lanterna elegante per illuminare la tua casa durante la notte.",
 	},
 	"lightGroundLantern2": {
 		"english": "Iron Street Lantern",
@@ -5641,6 +5659,7 @@
 		"korean": "철제 가로등",
 		"turkish": "Demirden Sokak Feneri",
 		"chinese": "铁制街灯",
+		"italian": "Lanterna da strada di ferro",
 	},
 	"lightGroundLantern2Description": {
 		"english": "Show how modern your colony is by using this fancy iron street lantern to light up your colony at night.",
@@ -5654,6 +5673,7 @@
 		"korean": "정착지의 밤을 밝히는 화려한 철제 가로등으로, 당신의 정착지가 얼마나 모던한지 보여주세요.",
 		"turkish": "Yerleşiminizin ne kadar modern olduğunu, geceleri etrafı aydınlatmak için bu lüks demirden sokak fenerini kullanarak gösterin.",
 		"chinese": "晚上用这盏别致的铁灯照亮你的殖民地，展示你的殖民地有多现代。",
+		"italian": "Mostra quanto è moderna la tua colonia, usando questa fantastica lanterna da strada di ferro per illuminare la tua colonia durante la notte.",
 	},
 	"lightGroundLantern3": {
 		"english": "Iron Lantern",
@@ -5667,6 +5687,7 @@
 		"korean": "철제 등불",
 		"turkish": "Demirden Fener",
 		"chinese": "铁灯",
+		"italian": "Lanterna di ferro",
 	},
 	"lightGroundLantern3Description": {
 		"english": "Show how modern your colony is by using this fancy iron lantern to light up your colony at night.",
@@ -5680,6 +5701,7 @@
 		"korean": "정착지의 밤을 밝히는 화려한 철제 등불로, 당신의 정착지가 얼마나 모던한지 보여주세요.",
 		"turkish": "Yerleşiminizin ne kadar modern olduğunu, geceleri etrafı aydınlatmak için bu lüks demirden fenerini kullanarak gösterin.",
 		"chinese": "晚上用这盏别致的铁灯照亮你的殖民地，展示你的殖民地有多现代。",
+		"italian": "Mostra quanto è moderna la tua colonia, usando questa fantastica lanterna di ferro per illuminare la tua colonia durante la notte.",
 	},
 	"lightGroundLantern4": {
 		"english": "Stone Street Lantern",
@@ -5693,6 +5715,7 @@
 		"korean": "석제 가로등",
 		"turkish": "Taştan Fener",
 		"chinese": "石制街灯",
+		"italian": "Lanterna da strada di pietra",
 	},
 	"lightGroundLantern4Description": {
 		"english": "Built for eternity so that its light may shine forever.",
@@ -5706,6 +5729,7 @@
 		"korean": "영원히 빛날 수 있습니다.",
 		"turkish": "Dayanılıklık düşünülerek yapılmıştır, böylece ışığı sonsuza kadar parlayabilir.",
 		"chinese": "为耐用而建，让它的光芒永远闪耀。",
+		"italian": "Costruita per durare l'eternità, in modo che la sua luce possa brillare per sempre.",
 	},
 	"lightGroundLantern5": {
 		"english": "Stone Lantern",
@@ -5719,6 +5743,7 @@
 		"korean": "석등",
 		"turkish": "Taştan Fener",
 		"chinese": "石灯",
+		"italian": "Lanterna di pietra",
 	},
 	"lightGroundLantern5Description": {
 		"english": "Built for eternity so that its light may shine forever.",
@@ -5732,6 +5757,7 @@
 		"korean": "영원히 빛날 수 있습니다.",
 		"turkish": "Dayanılıklık düşünülerek yapılmıştır, böylece ışığı sonsuza kadar parlayabilir.",
 		"chinese": "为耐用而建，让它的光芒永远闪耀。",
+		"italian": "Costruita per durare l'eternità, in modo che la sua luce possa brillare per sempre.",
 	},
 	"lightGroundTorchTiki0": {
 		"english": "Tiki Torch",
@@ -5745,6 +5771,7 @@
 		"ukrainian":"Тікі Факел",
 		"korean": "티키 횃불",
 		"chinese": "土著火把",
+		"italian": "Torcia Tiki",
 	},
 	"lightWallTorch0": {
 		"english": "Simple Torch on Wall",
@@ -5758,6 +5785,7 @@
 		"ukrainian":"Настінний факел в стіні",
 		"korean": "벽에 걸린 단순한 횃불",
 		"chinese": "简易壁灯",
+		"italian": "Torcia semplice da muro",
 	},
 	"lightWallTorch0Description": {
 		"english": "The easiest way to get light in the dark.",
@@ -5771,6 +5799,7 @@
 		"ukrainian":"Найпростіший спосіб отримання світла на ранніх етапах.",
 		"korean": "어둠을 물리치는 가장 간단한 방법.",
 		"chinese": "在黑暗中获得光明最简单的方法。",
+		"italian": "Il modo più semplice per illuminare il buio.",
 	},
 	"lightWallTorch1": {
 		"english": "Torch on Wall",
@@ -5784,6 +5813,7 @@
 		"ukrainian":"Звичайний Настінний факел",
 		"korean": "벽에 걸린 횃불",
 		"chinese": "壁灯",
+		"italian": "Torcia da muro",
 	},
 	"lightWallTorch1Description": {
 		"english": "Use this stylish torch to light your home at night.",
@@ -5797,6 +5827,7 @@
 		"ukrainian":"Цей стильний ліхтар допоможе освітлити ваш будинок вночі.",
 		"korean": "이 우아한 횃불로 밤에도 당신의 집을 밝히세요.",
 		"chinese": "晚上用这款时尚的壁灯照亮你的家。",
+		"italian": "Usa questa torcia elegante per illuminare la tua casa durante la notte.",
 	},
 	"lightWallTorch2": {
 		"english": "Torch on Wall",
@@ -5810,6 +5841,7 @@
 		"ukrainian":"Настінний факел",
 		"korean": "벽에 걸린 횃불",
 		"chinese": "壁灯",
+		"italian": "Torcia da muro",
 	},
 	"lightWallTorch2Description": {
 		"english": "Use this stylish torch to light your home at night.",
@@ -5823,6 +5855,7 @@
 		"ukrainian":"Цей стильний ліхтар допоможе освітлити ваш будинок вночі.",
 		"korean": "이 우아한 횃불로 밤에도 당신의 집을 밝히세요.",
 		"chinese": "晚上用这款时尚的壁灯照亮你的家。",
+		"italian": "Usa questa torcia elegante per illuminare la tua casa durante la notte.",
 	},
 	"lightWallTorch3": {
 		"english": "Ornamented Torch on Wall",
@@ -5836,6 +5869,7 @@
 		"ukrainian":"Настінний факел з орнаментом",
 		"korean": "벽에 걸린 장식 횃불",
 		"chinese": "装饰壁灯",
+		"italian": "Torcia ornata da muro",
 	},
 	"lightWallTorch3Description": {
 		"english": "Use this stylish torch to light your home at night.",
@@ -5849,6 +5883,7 @@
 		"ukrainian":"Цей стильний ліхтар допоможе освітлити ваш будинок вночі.",
 		"korean": "이 우아한 횃불로 밤에도 당신의 집을 밝히세요.",
 		"chinese": "晚上用这款时尚的壁灯照亮你的家。",
+		"italian": "Usa questa torcia elegante per illuminare la tua casa durante la notte.",
 	},
 	"lightWallTorch4": {
 		"english": "Iron Torch on Wall",
@@ -5862,6 +5897,7 @@
 		"ukrainian":"Металевий Настінний факел",
 		"korean": "벽에 걸린 철제 횃불",
 		"chinese": "铁制壁灯",
+		"italian": "Torcia di ferro da muro",
 	},
 	"lightWallTorch4Description": {
 		"english": "Use this stylish torch to light your home at night.",
@@ -5875,6 +5911,7 @@
 		"ukrainian":"Цей стильний ліхтар допоможе освітлити ваш будинок вночі.",
 		"korean": "이 우아한 횃불로 밤에도 당신의 집을 밝히세요.",
 		"chinese": "晚上用这款时尚的壁灯照亮你的家。",
+		"italian": "Usa questa torcia elegante per illuminare la tua casa durante la notte.",
 	},
 
 // Doors

@@ -284,7 +284,11 @@
 		"chinese": "您确定要删除存档存\"%save%\"吗?它将永远消失。",
 		"russian":"Вы уверены, что хотите удалить сохранение \"%save%\"? Это действие безвозвратно!",
 		"portuguese": "Tem certeza de que deseja excluir o save \"%save%\"? Ele terá desaparecido para sempre.",
-		},
+	},
+	"saveNotCompatibleWithGameVersion": {
+		"english": "This save is not compatible with your game version.\nYou can find a tutorial on how to continue playing with an old game version in the most recent announcements.",
+		"german": "Dieser Speicherstand ist nicht kompatibel mit der Version deines Spiels\nEine Anleitung wie man mit einer älteren Version spielen kann, findet sich in den neuesten Ankündigungen.",
+	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
 		"german": "Das Spiel wurde seit %minutes% Minuten nicht gespeichert. Bist du sicher, dass du ohne zu speichern zum Hauptmenü gehen willst?",

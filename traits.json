@@ -518,7 +518,7 @@
 		"russian":"%firstName% будет избегать блюд, в составе которых есть яблоко. Если %heShe% все же съест его, у %himHer% начнется аллергическая реакция.",
 		"chinese": "%firstName% 会拒绝吃含有苹果的食物.如果%heShe%不小心吃到了,%heShe%将会有过敏反应.",
 		"korean": "%firstName%#{은} 사과가 들어간 음식을 되도록 안 먹으려고 합니다. 만약 그럴 수 밖에 없는 상황이 된다면, %heShe%는 알레르기 반응을 보일 겁니다.",
-		"italian": "",
+		"italian": "%firstName% eviterà i cibi che contengono mele. Se è costrett%OA% a mangiarle comunque, avrà una reazione allergica.",
 	},
 	"traitTitle_AllergicToPotatoes": {
 		"english": "Allergic to Potatoes",
@@ -533,7 +533,7 @@
 		"russian":"Аллергия на картошку",
 		"chinese": "土豆过敏",
 		"korean": "감자 알레르기",
-		"italian": "",
+		"italian": "Allergia alle patate",
 	},
 	"traitDesc_AllergicToPotatoes": {
 		"english": "%firstName% will avoid dishes that contain potatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -549,7 +549,7 @@
 		"russian":"%firstName% будет избегать блюд, в составе которых есть картошка. Если %heShe% все же съест его, у %himHer% начнется аллергическая реакция.",
 		"chinese": "%firstName% 会拒绝吃含有土豆的食物.如果%heShe%不小心吃到了,%heShe%将会有过敏反应.",
 		"korean": "%firstName%#{은} 감자가 들어간 음식을 되도록 안 먹으려고 합니다. 만약 그럴 수 밖에 없는 상황이 된다면, %heShe%는 알레르기 반응을 보일 겁니다.",
-		"italian": "",
+		"italian": "%firstName% eviterà i cibi che contengono patate. Se è costrett%OA% a mangiarle comunque, avrà una reazione allergica.",
 	},
 	"traitTitle_AllergicToTomatoes": {
 		"english": "Allergic to Tomatoes",
@@ -564,7 +564,7 @@
 		"russian":"Аллергия на Помидоры",
 		"chinese": "西红柿过敏",
 		"korean": "토마토 알레르기",
-		"italian": "",
+		"italian": "Allergia ai pomodori",
 	},
 	"traitDesc_AllergicToTomatoes": {
 		"english": "%firstName% will avoid dishes that contain tomatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -580,7 +580,7 @@
 		"russian":"%firstName% будет избегать блюд, в составе которых есть помидор. Если %heShe% все же съест его, у %himHer% начнется аллергическая реакция.",
 		"chinese": "%firstName% 会拒绝吃含有西红柿的食物.如果%heShe%不小心吃到了,%heShe%将会有过敏反应.",
 		"korean": "%firstName%#{은} 토마토가 들어간 음식을 되도록 안 먹으려고 합니다. 만약 그럴 수 밖에 없는 상황이 된다면, %heShe%는 알레르기 반응을 보일 겁니다.",
-		"italian": "",
+		"italian": "%firstName% eviterà i cibi che contengono pomodori. Se è costrett%OA% a mangiarli comunque, avrà una reazione allergica.",
 	},
 	"traitTitle_Limping": {
 		"english": "Limping",
@@ -594,7 +594,7 @@
 		"russian":"Хром%hesheEnd2%",
 		"chinese": "跛行",
 		"korean": "절뚝거리는",
-		"italian": "",
+		"italian": "Zopp%OA%",
 	},
 	"traitDesc_Limping": {
 		"english": "Because of an accident, %firstName% has a bad leg and is limping. %cap-heShe% walks a little slower than other colonists.",
@@ -608,7 +608,7 @@
 		"russian":"%firstName%, после несчастного случая, повредил%surnameA% ногу и прихрамывает. %cap-heShe% ходит чуть медленнее, чем остальные.",
 		"chinese": "因为事故导致%firstName%走路一瘸一拐的.%heShe%走路会比其他人稍慢一些.",
 		"korean": "어떤 사고로 인해, %firstName%#{은} 다리가 아프고 절뚝거리며 걷습니다. %heShe%의 걸음은 다른 주민들보다 조금 느립니다."
-		"italian": "",
+		"italian": "A causa di un incidente, %firstName% ha una gamba malata e zoppica. Cammina un po' più lentamente degli altri coloni.",
 	},
 	"traitTitle_Xenophobe": {
 		"english": "Xenophobe",
@@ -621,7 +621,7 @@
 		"dutch": "Xenofobe",
 		"turkish": "Yabancı düşmanı",
 		"russian": "Ксенофоб",
-		"italian": "",
+		"italian": "Xenofob%OA%",
 	},
 	"traitDesc_Xenophobe": {
 		"english": "%firstName% doesn't trust strangers very much. %cap-heShe% doesn't want to get too friendly with other factions and has no problem defending the colony from others.",
@@ -634,7 +634,7 @@
 		"dutch": "%firstName% vertrouwt vreemdelingen niet. %cap-heShe% wil niet hele goede vrienden worden met andere partijen en heeft er geen probleem me om de kolonie te verdedigen.",
 		"turkish": "%firstName% yabancılara pek güvenmiyor. O diğer gruplarla çok arkadaş canlısı olmak istemiyor ve yerleşimi savunmada hiçbir problemi yok.",
 		"russian":"%firstName% не доверяет незнакомцам. %cap-heShe% не хочет дружить с другими фракциями.",
-		"italian": "",
+		"italian": "%firstName% non si fida molto degli estranei. Non vuole relazionarsi troppo con le altre fazioni e non ha problemi a difendere la colonia dagli altri.",
 	},
 	"traitTitle_Xenophile": {
 		"english": "Xenophile",
@@ -647,7 +647,7 @@
 		"dutch": "Xenofiel",
 		"turkish": "Yabancı yanlısı",
 		"russian":"Ксенофил",
-		"italian": "",
+		"italian": "Esterofil%OA%",
 	},
 	"traitDesc_Xenophile": {
 		"english": "%firstName% loves to get to know all kinds of different people. %cap-heShe% is quick to trust newcomers and doesn't like fighting other factions.",
@@ -660,7 +660,7 @@
 		"dutch": "%firstName% houdt ervan om allemaal verschillende soorten mensen te ontmoeten. %cap-heShe% vertrouwt nieuwelingen snel en houdt er niet van om te vechten met andere partijen.",
 		"turkish": "%firstName%, her türden farklı kişiyi tanımayı çok seviyor. Yeni gelenlere çabuk güveniyor ve diğer gruplarla dövüşmekten hoşlanmıyor.",
 		"russian":"%firstName% обожает все народы. %cap-heShe% быстро входит в доверие с незнакомцам и всегда за мир.",
-		"italian": "",
+		"italian": "%firstName% adora conoscere gente di culture differenti. Si fida dei nuovi arrivati e non %GliLe% piace combattere contro le altre fazioni.",
 	},
 	"traitTitle_Diplomat": {
 		"english": "Diplomat",
@@ -673,7 +673,7 @@
 		"chinese": "外交官",
 		"turkish": "Diplomat",
 		"russian":"Дипломат",
-		"italian": "",
+		"italian": "Diplomatic%OA%",
 	},
 	"traitDesc_Diplomat": {
 		"english": "Because of %hisHer% charismatic nature, %firstName% is quick to make friends and smooth over past quarrels. When %heShe% socializes with members of other factions, there is a small chance to increase diplomatic relationships.",
@@ -686,7 +686,7 @@
 		"dutch": "Door %zijnHaar% charismatische natuur maakt %firstName% snel vrienden en komt %hijZei% snel over verleden ruzies heen. Als %hijZei% socialiseert met leden van andere volken, is er een kleine kans dat de diplomatische relatie omhoog gaat.",
 		"turkish": "Karizmatik doğası nedeniyle %firstName% hızlı bir şekilde, geçmiş kavgalara aldırmadan, arkadaşlık kurabiliyor.  O diğer grupların üyeleriyle sosyalleşirken, diplomatik ilişkilerin artması ihtimali var.",
 		"russian":"Из-за харизматического характера, %firstName% быстро заводит друзей и сглаживает ссоры. Когда %heShe% общается с членами других фракций, существует небольшой шанс расширения дипломатических отношений.",
-		"italian": "",
+		"italian": "A causa della sua natura carismatica, %firstName% fa velocemente amicizia e appiana i problemi legati al passato. Quando socializza con i membri delle altre fazioni, garantisce una piccola possibilità di aumentare le relazioni diplomatiche.",
 	},
 	"traitTitle_LovesSummer": {
 		"english": "Loves Summer",
@@ -699,7 +699,7 @@
 		"dutch": "Houdt van de Zomer",
 		"turkish": "Yazı seviyor",
 		"russian":"Обожает лето",
-		"italian": "",
+		"italian": "Amante dell'estate",
 	},
 	"traitDesc_LovesSummer": {
 		"english": "When the air is warm and the weather is sunny, %firstName% feels like everything is right with the world.",
@@ -712,7 +712,7 @@
 		"turkish": "Hava sıcak ve hava güneşliyse, %firstName%, dünyada her şey yolunda gibi hissediyor.", 
 		"russian":"%firstName% обожает теплый воздух и хорошую погоду. Поэтому летом %heShe% чувствует себя отлично!",
 		"portuguese": "Quando o ar está quente e o tempo está ensolarado, %firstName% sente que tudo está bem com o mundo.",
-		"italian": "",
+		"italian": "Quando l'aria è calda e il tempo è soleggiato, a %firstName% sembra che il mondo sia tutto in equilibrio.",
 	},
 	"traitTitle_LovesSpring": {
 		"english": "Loves Spring",
@@ -725,7 +725,7 @@
 		"chinese": "喜欢春天",
 		"turkish": "İlkbaharı seviyor",
 		"russian":"Обожает весну",
-		"italian": "",
+		"italian": "Amante della primavera",
 	},
 	"traitDesc_LovesSpring": {
 		"english": "%firstName% loves breathing the fresh air of spring and see nature bloom once again.",
@@ -738,7 +738,7 @@
 		"dutch": "%firstName% houdt van het inademen van de frisse lente lucht en de natuur te zien bloeien.",
 		"turkish": "%firstName%, ilkbaharın temiz havasını solumayı ve doğanın bir kez daha çiçeklenmesini görmeyi seviyor.",
 		"russian":"%firstName% обожает свежий воздух и различные растения. Поэтому весной %heShe% чувствует себя отлично!",
-		"italian": "",
+		"italian": "%firstName% adora respirare l'aria fresca di primavera e vedere la natura fiorire ancora una volta.",
 	},
 	"traitTitle_HatesWinter": {
 		"english": "Hates Winter",
@@ -751,7 +751,7 @@
 		"chinese": "讨厌冬天",
 		"turkish": "Kıştan nefret ediyor",
 		"russian":"Ненавидит зиму",
-		"italian": "",
+		"italian": "Odio per l'inverno",
 	},
 	"traitDesc_HatesWinter": {
 		"english": "Darker days and colder nights are not %firstName%'s idea of fun, so winter is not %hisHer% favorite time of the year.",
@@ -764,7 +764,7 @@
 		"dutch": "Donkere dagen en koude nachten zijn niet hoe %firstName% plezier beschrijft, dus winter is niet %zijnHaar% favoriete tijd van het jaar.",
 		"turkish": "Daha karanlık günler ve daha soğuk geceler %firstName% için eğlenceli değil, bu nedenle kış, yılın en sevdiği zamanı değil.",
 		"russian":"%firstName% ненавидит холод и ранний приход темноты. Поэтому зимой %heShe% чувствует себя ужасно!",
-		"italian": "",
+		"italian": "Giorni più bui e notti più fredde non costituiscono l'idea di divertimento per %firstName%, per cui l'inverno non è il suo periodo dell'anno preferito.",
 	},
 	"traitTitle_HatesFall": {
 		"english": "Hates Fall",
@@ -777,7 +777,7 @@
 		"chinese": "讨厌秋天",
 		"turkish": "Sonbahardan nefret ediyor",
 		"russian":"Ненавидит осень",
-		"italian": "",
+		"italian": "Odio per l'autunno",
 	},
 	"traitDesc_HatesFall": {
 		"english": "%firstName% doesn't really care for the colorful leaves in fall and instead spends %hisHer% time complaining about the muddy paths and the windy days.",
@@ -790,7 +790,7 @@
 		"dutch": "%firstName% geeft niet zoveel om de kleurige bladeren in de herfst en moppert in plaats daarvan over de modderige paden en de winderige dagen.",
 		"turkish": "%firstName%, sonbahardaki renkli yaprakları gerçekten önemsemiyor ve aksine çamurlu yollar ve rüzgarlı günlerden şikayet ediyor.",
 		"russian":"%firstName% ненавидит грязь и дожди. Поэтому осенью %heShe% чувствует себя ужасно!",
-		"italian": "",
+		"italian": "A %firstName% non importa nulla delle foglie colorate autunnali, preferisce trascorrere il suo tempo a lamentarsi dei sentieri fangosi e delle giornate ventose.",
 	},
 }
 

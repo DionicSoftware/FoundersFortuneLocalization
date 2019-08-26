@@ -68,6 +68,10 @@ Adadaki kaynakları kullanarak çiftçilik, araç gereç üretimi, ticaret, savu
 一个虚构的殖民地模拟器专注于建造建筑、殖民者心理和领地防御。
 管理资源、农业、生产、工具、武器、盔甲、贸易、防卫和研究，以及每个殖民者的愿望、期望、思想和财产。
 
+### Italian
+Un simulatore di colonia fantasy incentrato sulla costruzione creativa, sulla psicologia dei coloni e sulla difesa della base.
+Gestisci risorse, coltivazione, produzione, strumenti, armi, armature, commercio, difesa e ricerche, così come desideri, aspettative, pensieri e possedimenti di ogni colono.
+
 
 
 # Long Description - Translation Disclaimer
@@ -104,6 +108,9 @@ Substitute "..." with your language
 
 ### Chinese
 (游戏简体中文本地化由社区完成。)
+
+### Italian
+(La traduzione italiana è stata realizzata dalla comunità.)
 
 
 
@@ -195,6 +202,13 @@ Koloniciler adaya geldiklerinde üzerlerindeki kıyafetlerden başka bir şeyler
 
 您不受限于预设的建筑物！可以根据自己的喜好来设计房子。这里有几十个建筑物和家具，你可以用来建立你梦想的殖民地！
 
+### Italian
+Costruisci la tua colonia
+
+Quando i tuoi coloni arrivano, non hanno nulla se non dei vestiti sulle loro spalle. Prendi il controllo e ordina loro di raccogliere materiali e costruire pareti, pavimenti e mobili.
+
+Ricorda che non sei limitato agli edifici predefiniti! Progetta le tue case e personalizzale a tuo piacimento. Ci sono dozzine di elementi da costruzione e mobili che puoi utilizzare per creare l'insediamento che hai sempre sognato!
+
 
 
 # Long Description - Colonist Section
@@ -281,6 +295,13 @@ Koloniciler olaylara duygusal tepki verir, mutlu ya da üzgün olarak, ve davran
 殖民者是你的首要任务。起初你只需要给他们提供食物和住所。但是这个世界充满了危险！传染病对强壮的战士来说可能是致命的，瘟疫可以摧毁你的整个殖民地。
 
 每个殖民者都会对快乐或悲伤的事件做出反应，并在他们的行为中反映出来。快乐的殖民者将会提高他们的工作效率 - 不快乐的殖民者可能会发脾气。
+
+### Italian
+Prenditi cura dei tuoi coloni
+
+I coloni sono la tua massima priorità. All'inizio, devi semplicemente fornire loro cibo e alloggio. Ma il mondo è pieno di pericoli! Un'infezione può rivelarsi fatale anche per il guerriero più forte e un'infestazione può spazzare via l'intera colonia.
+
+Ogni colono reagisce agli eventi, felici o tristi che siano, e questi influiscono sul suo comportamento. I coloni felici vanteranno un incremento della loro produttività. I coloni tristi, d'altra parte, potrebbero avere uno scatto d'ira.
 
 
 
@@ -389,6 +410,15 @@ Bu noktada, tüm bahisler kapalı…
 
 那时候，所有一切都已经结束...
 
+### Italian
+Affronta i capricci
+
+In una vita ideale, tutti i tuoi desideri diventano realtà, o almeno è quello che pensa Toni. I desideri soddisfatti possono promuovere il buon umore, mentre la fame, gli infortuni, le conversazioni noiose o persino gli incubi faranno stare male i cittadini.
+
+Se ignori le esigenze e i desideri dei tuoi coloni per troppo tempo, potrebbero avere un esaurimento e venire colti da uno scatto d'ira.
+
+A quel punto, tutte le scommesse sono chiuse…
+
 
 
 
@@ -478,6 +508,13 @@ Yiyecekler önemlidir. İyi yemek yerleşimcileri mutlu eder, kötü yemek yerle
 
 种植各种季节性作物，并建造一个厨房，以烹饪美味的饭菜。一定要在冬天来临之前储备食物，并在虫灾降落在你的田地上时快速消灭！
 
+### Italian
+Organizza il processo di coltivazione
+
+Il cibo è importante. Il buon cibo rende felici i coloni, il cibo sbagliato li fa ammalare, poco cibo li rallenta e nessun cibo li fa morire.
+
+Coltiva una varietà di colture stagionali e crea una cucina per preparare dei pasti deliziosi. Assicurati di fare scorta prima che arrivi l'inverno e agisci in fretta nel caso in cui uno sciame di insetti affamati infesti i tuoi campi!
+
 
 
 # Long Description - Winter Section
@@ -566,6 +603,13 @@ Tedarikler azaldığında ve dondurucu soğuk rüzgarlar çıkarsa, umudunu kayb
 
 当食物供应减少，寒冷的寒风在外面嚎叫时，很容易失去希望...
 
+### Italian
+Sopravvivi all'inverno
+
+Sfrutta il tempo che hai a disposizione ed assicurati di avere abbastanza scorte di cibo, perché l'inverno è in arrivo. Speriamo che non dovrai dimezzare le razioni, poiché ciò renderà i tuoi coloni deboli.
+
+Quando le scorte diminuiscono e il vento gelido soffia all'esterno, è facile perdere le speranze...
+
 
 
 # Long Description - Trading Section
@@ -652,6 +696,13 @@ Zamanla, koloninin üretim yapmaya başladığı çevrede konuşulur olur. Seyah
 有消息说你的殖民地开始生产商品了。联络旅行商，看看你能不能买到便宜的古老卷轴，或者购买额外的食物来为冬天做准备。
 
 尽量保持生产，这样你就可以随时出售。发展良好的殖民地需要支付高薪才能让每个人都开心。如果士气低落，额外的工资甚至可以买到一点点幸福！
+
+### Italian
+Scambia merci e arricchisciti
+
+Si è diffusa la notizia che la tua colonia ha iniziato a produrre beni. Incontra i mercanti in viaggio e tenta di stabilire un buon accordo sull'acquisto di alcune pergamene antiche o del cibo aggiuntivo per prepararti all'inverno.
+
+Cerca di tenere la produzione attiva in modo da avere sempre qualcosa da vendere. Una colonia matura deve pagare buoni salari per rendere felici tutti. Se il morale è basso, dei fondi aggiuntivi possono persino comprare un po' di felicità!
 
 
 
@@ -741,6 +792,13 @@ Bilginleri dikkatlice seçin - kişilikleri bu tür bir işe uygun değilse çok
 
 认真选择一名学者 - 如果他们的个性不适合这类工作，他们就不会取得很大的进步。
 
+### Italian
+Ricerca tecnologie
+
+Costruire la tua casa è un lungo processo e le risorse e la forza lavoro non sono le uniche cose di cui hai bisogno. I coloni intelligenti dedicano molto tempo alla ricerca di nuove tecnologie, sbloccando così equipaggiamenti migliori, nuovi mobili ed elementi di costruzione innovativi.
+
+Scegli con cura gli eruditi, poiché se la loro personalità non si adatta a questo tipo di lavoro, non faranno molti progressi.
+
 
 
 # Long Description - Defense Section
@@ -829,6 +887,13 @@ Yerleşimcilerinizi savaş sanatında eğit ve onları sahip olduğun en iyi sil
 
 训练你的殖民者参加战斗，并为他们配备你拥有的最好的武器和盔甲。建造墙壁和塔楼以确保您的殖民地的安全 - 这样您的敌人将很难骚扰你！
 
+### Italian
+Proteggi il tuo avamposto
+
+Non sei il solo a vivere in questa nuova terra che chiami "casa". I Tikigoblin che vivono lì non sono così contenti dei tuoi sforzi nel stabilire un insediamento e potrebbero cercare di fermarti.
+
+Addestra i tuoi coloni nell'arte della guerra ed equipaggiali con le migliori armi e armature che possiedi. Costruisci mura e torri per garantire la sicurezza della tua colonia. In questo modo, sarà difficile per i tuoi nemici avere la meglio!
+
 
 
 # Early Access - Why Early Access?
@@ -873,6 +938,9 @@ Bir süredir Web sitemizden halka açık bir Alpha yürütüyoruz ve Steam'deki 
 ### Chinese
 我们已经在网站上发布了一段时间的Alpha版本，我们在Steam也上架了该游戏。我们使用反馈作为指导，来确定要实现哪些特性，要改进游戏性能，以及首先要修复哪些bug。我们一起努力争取最好的游戏体验!
 
+### Italian
+Abbiamo condotto un'Alpha pubblica dal nostro sito web per un po' e stiamo continuando questo progetto su Steam. Abbiamo utilizzato i feedback come luce guida per determinare quali funzionalità implementare, quali miglioramenti alla qualità di vita apportare e quali bug correggere per primi. Insieme stiamo garantendo la migliore esperienza possibile!
+
 
 
 # Early Access - Approximately how long will this game be in Early Access?
@@ -915,6 +983,9 @@ Aldığımız desteğin miktarına bağlı olarak, Eylül 2019 ve Eylül 2020 ar
 
 ### Chinese
 根据我们获得的支持数量，我们计划在2019年9月到2020年9月期间继续保持抢先体验。
+
+### Italian
+A seconda della quantità di supporto che riceveremo, prevediamo di lasciare l'accesso anticipato tra Settembre 2019 e Settembre 2020.
 
 
 
@@ -1058,6 +1129,18 @@ Bunlar yapmak istediğimiz şeyler ve nihai sonuçlar Founders' Fortune’unun a
 
 这些是我们想要做的事情，最终的结果取决于Founders' Fortune所获得的支持量。如果我们得不到任何支持，我们将转向优化游戏使当前游戏体验尽可能顺畅。
 
+### Italian
+I grandi elementi della nostra tabella di marcia includono:
+[list]
+[*]Edifici a più piani e tetti
+[*]Animali domestici e selvaggi
+[*]Relazioni
+[*]Isole multiple
+[*]Altre fazioni
+[/list]
+
+Queste sono cose che vorremmo realizzare e i risultati finali dipenderanno dalla quantità di supporto che Founders' Fortune riceverà. Se non riceveremo alcun supporto, passeremo al perfezionamento del tutto e renderemo l'esperienza più fluida possibile.
+
 
 
 # Early Access - What is the current state of the Early Access version?
@@ -1123,6 +1206,11 @@ Trailer, Ekran Görüntüleri ve aşağıdaki "Bu oyun hakkında" bölümündeki
 
 预告片、截图和下面的“关于这个游戏”部分中的所有功能都是可实现和可玩的。
 
+### Italian
+In passato, abbiamo reso disponibili varie versioni dell'Alpha sul nostro sito web. Al momento della stesura, abbiamo circa 100-300 giocatori al giorno che spesso trascorrono più di 18 ore per sbloccare l'intero albero tecnologico e ancora più tempo per raggiungere il limite di popolazione.
+
+Tutte le funzionalità presenti nei trailer, negli screenshot e nella sezione "Informazioni sul gioco" qui di seguito sono tutte implementate e giocabili.
+
 
 
 # Early Access - Will the game be priced differently during and after Early Access?
@@ -1166,6 +1254,9 @@ Oyuna daha fazla özellik katarken, Founders' Fortune fiyatını yükseltmeyi pl
 
 ### Chinese
 我们计划随着游戏功能的增加而提高Founders' Fortune的售价。准确的售价取决于我们可以添加多少游戏内容。
+
+### Italian
+Abbiamo in mente di aumentare il prezzo di Founders' Fortune man mano che aggiungiamo più funzionalità al gioco. Il prezzo esatto dipenderà dalla quantità di contenuti che andremo ad aggiungere.
 
 
 
@@ -1211,3 +1302,6 @@ Harika bir topluluğumuz var ve bunları oyun içi geri bildirim kutumuz, Discor
 
 ### Chinese
 我们有着十分棒玩家社区，我们在通过 游戏内反馈界面、Discord聊天室、论坛和Twitch直播来回答社区现场提出的问题。
+
+### Italian
+Abbiamo una comunità straordinaria che stiamo già coinvolgendo ampiamente tramite il nostro sistema di feedback in gioco, il server Discord e il forum. Abbiamo anche organizzato alcuni streaming su Twitch per rispondere alle domande della comunità dal vivo.

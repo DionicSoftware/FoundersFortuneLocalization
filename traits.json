@@ -13,6 +13,7 @@
 		"chinese": "和平主义者",
 		"korean": "평화주의자",
 		"italian": "Pacifista",
+		"polish": "Pacyfista",
 	},
 	"traitDesc_Pacifist": {
 		"english": "%firstName% believes in the good in the world - maybe a little too much. Refuses to fight anyone unless %heShe% is already heavily wounded.",
@@ -29,6 +30,7 @@
 		"chinese": "%firstName% 相信世界是美好的 - 也许有点过分了.拒绝和任何人战斗,除非%heShe%已经受了重伤.",
 		"korean": "%firstName%#{은} 세상이 선하다고 믿고 있습니다 - 아마도 너무 믿는 듯 하죠. %heShe% 자신이 심하게 다치지 않은 한, 싸우지 않으려고 할 겁니다.",
 		"italian": "%firstName% crede nel bene nel mondo, forse un po' troppo. Rifiuta di combattere contro chiunque, a meno che non sia già gravemente ferito.",
+		"polish": "%firstName% wierzy w dobro w świecie - może trochę zbyt bardzo. Odmawia walki z kimkolwiek, chyba że %onOna% zostanie silnie pobit%yA%",
 	},
 	"traitTitle_BattleHardened": {
 		"english": "Experienced in Battle",
@@ -44,6 +46,7 @@
 		"chinese": "战斗能手",
 		"korean": "전투 경험자",
 		"italian": "Veteran%OA% di guerra",
+		"polish": "Doświadczon%yA% w walce",
 	},
 	"traitDesc_BattleHardened": {
 		"english": "Already has much experience on the battlefield and is not scared off easily. Does not receive mood penalties for pain and death around %himHer%.",
@@ -60,6 +63,7 @@
 		"chinese": "已经有很多战斗经验,不容易被吓跑.%himHer%不会因为疼痛和死亡而产生负面情绪.",
 		"korean": "이미 전장에서 충분한 경험을 쌓았기에 쉽게 겁먹지 않습니다. 고통을 받거나 %heShe% 주변에서 누군가 죽더라도 기분이 안 좋아지는 일은 없습니다.",
 		"italian": "Ha già molta esperienza sul campo di battaglia e non si spaventa facilmente. Non riceve alcuna penalità di umore a causa del dolore o della morte di qualcuno.",
+		"polish": "Ma już dużo doświadczenia na polu bitywy i nie daje się łatwo wystraszyć. Nie otrzymuje kar do humoru z powodu bólu i śmierci dookoła siebie.",
 	},
 	"traitTitle_Optimist": {
 		"english": "Optimist",
@@ -75,6 +79,7 @@
 		"chinese": "乐观主义者",
 		"korean": "낙관론자",
 		"italian": "Ottimista",
+		"polish": "Optymista",
 	},
 	"traitDesc_Optimist": {
 		"english": "Glass-half-full kind of %guyGirl%. Receives a permanent mood boost.",
@@ -91,6 +96,7 @@
 		"chinese": "还有-半杯水的 %guyGirl%.获得永久的心情提升.",
 		"korean": "컵에 물이 반이나 차있네, 라는 마인드를 가진 %guyGirl%입니다. 항상 기분이 좋습니다.",
 		"italian": "Vede sempre il bicchiere mezzo pieno. Riceve un miglioramento permanente dell'umore.",
+		"polish": "Typ człowieka, który uważa, że szklanka jest do połowy pełna. Otrzymuje stały bonus do humoru.",
 	},
 	"traitTitle_Pessimist": {
 		"english": "Pessimist",
@@ -106,6 +112,7 @@
 		"chinese": "悲观主义者",
 		"korean": "비관론자",
 		"italian": "Pessimista",
+		"polish": "Pesymista",
 	},
 	"traitDesc_Pessimist": {
 		"english": "Glass-half-empty kind of %guyGirl%. Receives a permanent mood penalty.",
@@ -122,6 +129,7 @@
 		"chinese": "没了-半杯水的 %guyGirl%.获得永久的心情低落.",
 		"korean": "컵에 물이 반밖에 없어, 라는 마인드의 %guyGirl%입니다. 항상 기분이 안 좋습니다.",
 		"italian": "Vede sempre il bicchiere mezzo vuoto. Riceve una penalità permanente dell'umore.",
+		"polish": "Typ człowieka, dla którego szklanka jest do połowy pusta. Otrzymuję permanentną karę do humoru.",
 	},
 	"traitTitle_Killer": {
 		"english": "Killer",
@@ -137,6 +145,7 @@
 		"chinese": "杀手",
 		"korean": "살인자",
 		"italian": "Assassin%OA%",
+		"polish": "Zabójca",
 	},
 	"traitDesc_Killer": {
 		"english": "%firstName% has a strange interest in violence. Gets positive thoughts from killing. Usually able to control %himselfHerself%.",
@@ -153,6 +162,7 @@
 		"chinese": "%firstName%喜爱暴力。从杀戮中获得积极的想法。通常来说可以控制自己。",
 		"korean": "%firstName%#{은} 폭력적인 것에 이상한 관심을 가집니다. 무언가를 죽일 때 긍정적인 생각을 합니다. 평소에는 스스로를 통제할 수 있습니다.",
 		"italian": "%firstName% ha uno strano interesse per la violenza. Quando uccide, emergono pensieri positivi. Di solito è in grado di controllarsi.",
+		"polish": "%firstName% ma dziwne zainteresowanie przemocą. Otrzymuje pozytywny myśli przez zabijanie. Zazwyczaj jest w stanie kontrolować siebie.",
 	},
 	"traitTitle_GoodHealth": {
 		"english": "Good Health",
@@ -168,6 +178,7 @@
 		"chinese": "身体健康",
 		"korean": "건강한",
 		"italian": "Buona salute",
+		"polish": "Dobre zdrowie",
 	},
 	"traitDesc_GoodHealth": {
 		"english": "A lifetime of exercise and healthy foods has provided %firstName% with a very robust health. Treatments are 20% more likely to succeed.",
@@ -183,6 +194,7 @@
 		"chinese": "长久坚持的锻炼和进食营养的食物为%firstName%锻炼出非常强壮的身体。治疗成功的可能率增加20%。",
 		"korean": "%firstName%#{은} 평생 운동을 하며 건강한 음식을 먹어왔기 때문에 매우 튼튼합니다. 치료가 성공활 확률이 20% 증가합니다.",
 		"italian": "Una vita di esercizi e cibi sani ha fornito a %firstName% una salute molto ferrea. I trattamenti hanno il 20% in più di probabilità di successo.",
+		"polish": "Życie pełne ćwiczeń i zdrowego jedzenia zapewniło %jejJemu% bardzo dobre zdrowie. Leczenie jest 20% bardziej skuteczne.",
 	},
 	"traitTitle_BadHealth": {
 		"english": "Bad Health",
@@ -198,6 +210,7 @@
 		"chinese": "身怀病疾",
 		"korean": "허약한",
 		"italian": "Cattiva salute",
+		"polish": "Złe zdrowie",
 	},
 	"traitDesc_BadHealth": {
 		"english": "For no specific reason, %firstName%'s immune system is not as good as others. Treatments are 20% more likely to fail.",
@@ -213,6 +226,7 @@
 		"chinese": "由于先天的原因，%firstName%的免疫系统不如其他人。治疗失败率增加20%。",
 		"korean": "별다른 이유가 없지만, %firstName%의 면역계는 다른 사람들만큼 좋지 못합니다. 치료가 실패할 확률이 20% 증가합니다.",
 		"italian": "Senza alcun motivo specifico, il sistema immunitario di %firstName% non è buono come gli altri. I trattamenti hanno il 20% di probabilità in più di fallire.",
+		"polish": "Bez żadnego konkretnego powodu, %firstName% ma gorszy system odpornościowy od innych. Leczenie ma 20% mniej szans na powodzenie.",
 	},
 	"traitTitle_Overeater": {
 		"english": "Overeater",
@@ -228,6 +242,7 @@
 		"chinese": "暴食者",
 		"korean": "대식가",
 		"italian": "Sovrappeso",
+		"polish": "Łakomczuch",
 	},
 	"traitDesc_Overeater": {
 		"english": "%firstName% loves food and isn't always able to control %himselfHerself%. Sometimes %heShe% will just continue eating even though %heShe% is already full.",
@@ -244,6 +259,7 @@
 		"chinese": "%firstName%十分爱吃，并不能总是控制%himselfHerself%。有时候，他会暴吃，即使他已经吃饱了。",
 		"korean": "%firstName%#{은} 음식을 사랑합니다. 하지만 항상 스스로를 통제할 수 있는 건 아닙니다. 가끔 %heShe%는 배가 부른 상태에서도 계속 먹습니다.",
 		"italian": "%firstName% ama il cibo e non sempre è in grado di controllarsi. A volte continuerà a mangiare anche se è pien%OA%.",
+		"polish": "%firstName% kocha jedzenie i nie zawsze jest w stanie się kontrolować. Czasami %onOna% będzie po prostu jeść bez opamiętania, nawet jeśli będzie już najedzon%yA%",
 	},
 	"traitTitle_Survivor": {
 		"english": "Survivalist",
@@ -259,6 +275,7 @@
 		"chinese": "幸存者",
 		"korean": "생존주의자",
 		"italian": "Survivalista",
+		"polish": "Surwiwalista",
 	},
 	"traitDesc_Survivor": {
 		"english": "%firstName% has survived quite a few sticky situations and knows what it takes. When others would die, %heShe% gets a 25% health boost and gains consciousness. (Only once in 24 hours)",
@@ -275,6 +292,7 @@
 		"chinese": "%firstName%曾经历过磨难，知道该怎么做。当其他人死亡时，%heShe%获得25%的生命提升和意识。(24小时一次)",
 		"korean": "%firstName%#{은} 꽤 힘든 상황에서도 살아남았고, 살아남기 위해 무엇이 필요한지 알고 있습니다. 다른이들이라면 죽을만한 상황에서도, %heShe%는 25%의 생명력 보너스를 받고 의식불명 상태에 빠질 뿐입니다. (24시간에 한 번)",
 		"italian": "%firstName% è sopravvissut%OA% a parecchie situazioni delicate e sa ciò che bisogna fare. Quando gli altri muoiono, ottiene un aumento della salute del 25% e acquisisce consapevolezza. (Solo una volta ogni 24 ore)",
+		"polish": "%firstName przetrwał%nicA% kilka nieciekawych sytuacji i wie co trzeba w takich chwilach robić. Kiedy inni już by umarli, %onOna% otrzymuje 25% dodatkowego bonusu do zdrowia i odzyskuje świadomość (raz na 24 godziny)",
 	},
 	"traitTitle_Insomnia": {
 		"english": "Insomnia",
@@ -290,6 +308,7 @@
 		"chinese": "失眠症",
 		"korean": "불면증",
 		"italian": "Insonnia",
+		"polish": "Bezsenność",
 	},
 	"traitDesc_Insomnia": {
 		"english": "%firstName% has trouble sleeping and doesn't rest as well as others. Takes double the time to fully rest compared to others..",
@@ -305,6 +324,7 @@
 		"chinese": "%firstName%患有失眠症,不能很好的入睡休息.和他人相比,完全休息需要两倍的时间.",
 		"korean": "%firstName%#{은} 잠드는 데에 어려움을 겪으며 다른 사람들만큼 깊게 자지 못합니다. 체력이 꽉 차는 데에 다른사람보다 두 배의 시간이 걸립니다.",
 		"italian": "%firstName% ha difficoltà a dormire e non riposa bene come gli altri. Necessita del doppio del tempo per riposare completamente...",
+		"polish": "%firstName% ma problemy w zasypianiu i nie odpoczywa tak dobrze jak inni. %onOna% potrzebuje dwa razy więcej czasu aby odpocząć względem innych..",
 	},
 	"traitTitle_Tireless": {
 		"english": "Tireless",
@@ -320,6 +340,7 @@
 		"chinese": "孜孜不倦",
 		"korean": "지칠 줄 모르는",
 		"italian": "Instancabile",
+		"polish": "Niezmordowan&yA*",
 	},
 	"traitDesc_Tireless": {
 		"english": "%firstName% doesn't need much sleep. Only rests half as long as others before %heShe%'s completely fit again.",
@@ -336,6 +357,7 @@
 		"chinese": "%firstName%不需要太多睡眠时间.%heShe%只需要休息一半的时间就能恢复好健康.",
 		"korean": "%firstName%#{은} 잠을 조금만 자도 괜찮습니다. 다른사람의 절반만 자고 일어나도 쌩쌩해집니다.",
 		"italian": "%firstName% non ha bisogno di dormire molto. Deve riposare solo la metà degli altri prima che sia di nuovo completamente in forma.",
+		"polish": "%firstName% nie potrzebuje wiele snu. Wystraczy %jejJemu% połowa czasu snu, który inni potrzebują, aby znowu czuś się na siłach.",
 	},
 	"traitTitle_Smart": {
 		"english": "Fast Learner",
@@ -351,6 +373,7 @@
 		"chinese": "快速学习",
 		"korean": "빨리 배우는",
 		"italian": "Impara in fretta",
+		"polish": "Szybko się uczy",
 	},
 	"traitDesc_Smart": {
 		"english": "%firstName% is a bright %guyGirl% and %heShe% knows it. %cap-heShe% can learn new skills in half the time.",
@@ -367,6 +390,7 @@
 		"chinese": "%firstName%是个聪明的%guyGirl%,%heShe%只用一半的时间就能学会技能.",
 		"korean": "%firstName%#{은} 똑똑한 %guyGirl%이며, 스스로도 알고 있습니다. %heShe%는 두 배로 빠르게 새로운 기술을 배웁니다.",
 		"italian": "%firstName% è %UnUna% tip%OA% brillante e lo sa. Può apprendere nuove abilità nella metà del tempo.",
+		"polish": "%firstName% to światły umysł i %onOna% wie o tym. %fristName% może nauczyć się nowych umiejętności dwa razy szybciej.",
 	},
 	"traitTitle_Dumb": {
 		"english": "Dumb",
@@ -382,6 +406,7 @@
 		"chinese": "愚蠢",
 		"korean": "멍청이",
 		"italian": "Ottus%OA%",
+		"polish": "Głup%iA%",
 	},
 	"traitDesc_Dumb": {
 		"english": "Unfortunately, thinking has never been %hisHer% strong suit. %cap-heShe% will not gain experience and not level up in any job ever.",
@@ -398,6 +423,7 @@
 		"chinese": "不幸的是,思考不是他的强项.%heShe%将不会获得经验,也不会在任何工作中得到升级.",
 		"korean": "불행하게도, 생각하는 건 %heShe%의 특기가 아닙니다. %heShe%는 평생 어떤 직업에서도 경험치를 얻거나, 레벨업을 할 수 없습니다.",
 		"italian": "Sfortunatamente, pensare non è mai stato il suo punto di forza. Non acquisirà esperienza e non potrà mai salire di livello in nessun lavoro.",
+		"polish": "Niestety, myślenie to nie jest %jegoJej% mocno strona. %firstName% nie będzie dostawał%nicA% doświadczenia ani poziomów w jakimkolwiek zawodzie, kiedykolwiek.",
 	},
 	"traitTitle_FavoriteFoodPumpkingStew": {
 		"english": "Favorite Food: Pumpkin Stew",
@@ -413,6 +439,8 @@
 		"chinese": "喜爱食物:炖南瓜",
 		"korean": "좋아하는 음식: 호박 스튜",
 		"italian": "Cibo preferito: Stufato di zucca",
+		"polish": "Ulubiona potrawa: Potrawka z dyni",
+		
 	},
 	"traitDesc_FavoriteFoodPumpkingStew": {
 		"english": "%firstName% just can't wait to get another bowl of delicious pumpkin stew.",
@@ -428,6 +456,7 @@
 		"chinese": "%firstName% 迫不及待想再来一碗美味的炖南瓜了.",
 		"korean": "%firstName%#{은} 호박 스튜를 먹을 때면 한 그릇 더를 외칩니다.",
 		"italian": "%firstName% non vede l'ora di prendere un'altra porzione di delizioso stufato di zucca.",
+		"polish": "%firstName% po prostu nie może się doczekać, żeby dostać kolejną porcję pysznej potrawki z dyni.",
 	},
 	"traitTitle_FavoriteFoodFruitSalad": {
 		"english": "Favorite Food: Fruit Salad",
@@ -443,6 +472,7 @@
 		"chinese": "喜爱食物:水果沙拉",
 		"korean": "좋아하는 음식: 과일 샐러드",
 		"italian": "Cibo preferito: Macedonia",
+		"polish": "Ulubiona potrawa: Sałatka owocowa",
 	},
 	"traitDesc_FavoriteFoodFruitSalad": {
 		"english": "%firstName% just can't wait to get another bowl of delicious fruit salad.",
@@ -458,6 +488,7 @@
 		"chinese": "%firstName% 迫不及待想再来一碗美味的水果沙拉了",
 		"korean": "%firstName%#{은} 과일 샐러드를 먹을 때면 한 접시 더를 외칩니다.",
 		"italian": "%firstName% non vede l'ora di prendere un'altra porzione di deliziosa macedonia.",
+		"polish": "%firstName% po prostu nie może się doczekać, żeby dostać kolejną porcję sałatki owocowej.",
 	},
 	"traitTitle_FavoriteFoodAppleStrudel": {
 		"english": "Favorite Food: Apple Strudel",
@@ -473,6 +504,7 @@
 		"chinese": "喜爱食物:苹果卷",
 		"korean": "좋아하는 음식: 사과 슈트루델",
 		"italian": "Cibo preferito: Strudel di mele",
+		"polish": "Ulubiona potrawa: Jabłecznik",
 	},
 	"traitDesc_FavoriteFoodAppleStrudel": {
 		"english": "%firstName% just can't wait to get another piece of delicious apple strudel.",
@@ -488,6 +520,7 @@
 		"chinese": "%firstName% 迫不及待想再来一块美味的苹果卷了",
 		"korean": "%firstName%#{은} 사과 슈트루델을 먹을 때면 하나 더를 외칩니다.",
 		"italian": "%firstName% non vede l'ora di prendere un'altra porzione di delizioso strudel di mele.",
+		"polish": "%firstName% po prostu nie może się doczekać, żeby dostać kolejną porcję jabłecznika.",
 	},
 	"traitTitle_AllergicToApples": {
 		"english": "Allergic to Apples",
@@ -503,6 +536,7 @@
 		"chinese": "苹果过敏",
 		"korean": "사과 알레르기",
 		"italian": "Allergia alle mele",
+		"polish": "Alergia na jabłka",
 	},
 	"traitDesc_AllergicToApples": {
 		"english": "%firstName% will avoid dishes that contain apples. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -519,6 +553,7 @@
 		"chinese": "%firstName% 会拒绝吃含有苹果的食物.如果%heShe%不小心吃到了,%heShe%将会有过敏反应.",
 		"korean": "%firstName%#{은} 사과가 들어간 음식을 되도록 안 먹으려고 합니다. 만약 그럴 수 밖에 없는 상황이 된다면, %heShe%는 알레르기 반응을 보일 겁니다.",
 		"italian": "%firstName% eviterà i cibi che contengono mele. Se è costrett%OA% a mangiarle comunque, avrà una reazione allergica.",
+		"polish": "%firstName% będzie unikał wszystkich dań zawierających jabłka. Jeśli %onOna% zostanie zmuszony do zjedzenia czegoś z jabłkami, %onOna% dostanie reakcji alergicznej.",
 	},
 	"traitTitle_AllergicToPotatoes": {
 		"english": "Allergic to Potatoes",
@@ -534,6 +569,7 @@
 		"chinese": "土豆过敏",
 		"korean": "감자 알레르기",
 		"italian": "Allergia alle patate",
+		"polish": "Alergia na ziemniaki",
 	},
 	"traitDesc_AllergicToPotatoes": {
 		"english": "%firstName% will avoid dishes that contain potatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -550,6 +586,8 @@
 		"chinese": "%firstName% 会拒绝吃含有土豆的食物.如果%heShe%不小心吃到了,%heShe%将会有过敏反应.",
 		"korean": "%firstName%#{은} 감자가 들어간 음식을 되도록 안 먹으려고 합니다. 만약 그럴 수 밖에 없는 상황이 된다면, %heShe%는 알레르기 반응을 보일 겁니다.",
 		"italian": "%firstName% eviterà i cibi che contengono patate. Se è costrett%OA% a mangiarle comunque, avrà una reazione allergica.",
+		
+		"polish": "%firstName% będzie unikał wszystkich dań zawierających ziemniaki. Jeśli %onOna% zostanie zmuszony do zjedzenia czegoś z ziemniaków, %onOna% dostanie reakcji alergicznej.",
 	},
 	"traitTitle_AllergicToTomatoes": {
 		"english": "Allergic to Tomatoes",
@@ -565,6 +603,7 @@
 		"chinese": "西红柿过敏",
 		"korean": "토마토 알레르기",
 		"italian": "Allergia ai pomodori",
+		"polish": "Alergia na pomidory",
 	},
 	"traitDesc_AllergicToTomatoes": {
 		"english": "%firstName% will avoid dishes that contain tomatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -581,6 +620,7 @@
 		"chinese": "%firstName% 会拒绝吃含有西红柿的食物.如果%heShe%不小心吃到了,%heShe%将会有过敏反应.",
 		"korean": "%firstName%#{은} 토마토가 들어간 음식을 되도록 안 먹으려고 합니다. 만약 그럴 수 밖에 없는 상황이 된다면, %heShe%는 알레르기 반응을 보일 겁니다.",
 		"italian": "%firstName% eviterà i cibi che contengono pomodori. Se è costrett%OA% a mangiarli comunque, avrà una reazione allergica.",
+				"polish": "%firstName% będzie unikał wszystkich dań zawierających pomidory. Jeśli %onOna% zostanie zmuszony do zjedzenia czegoś z pomidorami, %onOna% dostanie reakcji alergicznej.",
 	},
 	"traitTitle_Limping": {
 		"english": "Limping",
@@ -595,6 +635,7 @@
 		"chinese": "跛行",
 		"korean": "절뚝거리는",
 		"italian": "Zopp%OA%",
+		"polish": "Kulejąc%yA%",
 	},
 	"traitDesc_Limping": {
 		"english": "Because of an accident, %firstName% has a bad leg and is limping. %cap-heShe% walks a little slower than other colonists.",
@@ -609,6 +650,7 @@
 		"chinese": "因为事故导致%firstName%走路一瘸一拐的.%heShe%走路会比其他人稍慢一些.",
 		"korean": "어떤 사고로 인해, %firstName%#{은} 다리가 아프고 절뚝거리며 걷습니다. %heShe%의 걸음은 다른 주민들보다 조금 느립니다.",
 		"italian": "A causa di un incidente, %firstName% ha una gamba malata e zoppica. Cammina un po' più lentamente degli altri coloni.",
+		"polish": "Z powodu wypadku, %firstName% ma uszkodzoną nogę i kuleje przez to. %firstName% chodzi nieco wolniej niż inni koloniści.",
 	},
 	"traitTitle_Xenophobe": {
 		"english": "Xenophobe",
@@ -622,6 +664,7 @@
 		"turkish": "Yabancı düşmanı",
 		"russian": "Ксенофоб",
 		"italian": "Xenofob%OA%",
+		"polish": "Ksenofobia",
 	},
 	"traitDesc_Xenophobe": {
 		"english": "%firstName% doesn't trust strangers very much. %cap-heShe% doesn't want to get too friendly with other factions and has no problem defending the colony from others.",
@@ -635,6 +678,7 @@
 		"turkish": "%firstName% yabancılara pek güvenmiyor. O diğer gruplarla çok arkadaş canlısı olmak istemiyor ve yerleşimi savunmada hiçbir problemi yok.",
 		"russian":"%firstName% не доверяет незнакомцам. %cap-heShe% не хочет дружить с другими фракциями.",
 		"italian": "%firstName% non si fida molto degli estranei. Non vuole relazionarsi troppo con le altre fazioni e non ha problemi a difendere la colonia dagli altri.",
+		"polish": "%firstName% nie ufa obcym za bardzo. %onOna% nie chce się zbytnio zaprzyjaźniać z innymi frakcjami i nie ma problemu w obronie kolonii przeciwko innym.",
 	},
 	"traitTitle_Xenophile": {
 		"english": "Xenophile",
@@ -648,6 +692,7 @@
 		"turkish": "Yabancı yanlısı",
 		"russian":"Ксенофил",
 		"italian": "Esterofil%OA%",
+		"polish": "Ksenofilia",
 	},
 	"traitDesc_Xenophile": {
 		"english": "%firstName% loves to get to know all kinds of different people. %cap-heShe% is quick to trust newcomers and doesn't like fighting other factions.",
@@ -661,6 +706,7 @@
 		"turkish": "%firstName%, her türden farklı kişiyi tanımayı çok seviyor. Yeni gelenlere çabuk güveniyor ve diğer gruplarla dövüşmekten hoşlanmıyor.",
 		"russian":"%firstName% обожает все народы. %cap-heShe% быстро входит в доверие с незнакомцам и всегда за мир.",
 		"italian": "%firstName% adora conoscere gente di culture differenti. Si fida dei nuovi arrivati e non %GliLe% piace combattere contro le altre fazioni.",
+		"polish": "%firstName% uwielbia poznać wszystkie rodzaje nowych ludzi. %onOna% szybko ufa nowym przybyszom i nie lubi walki przeciwko innym frakcjom",
 	},
 	"traitTitle_Diplomat": {
 		"english": "Diplomat",
@@ -674,6 +720,7 @@
 		"turkish": "Diplomat",
 		"russian":"Дипломат",
 		"italian": "Diplomatic%OA%",
+		"polish": "Dyplomata",
 	},
 	"traitDesc_Diplomat": {
 		"english": "Because of %hisHer% charismatic nature, %firstName% is quick to make friends and smooth over past quarrels. When %heShe% socializes with members of other factions, there is a small chance to increase diplomatic relationships.",
@@ -687,6 +734,7 @@
 		"turkish": "Karizmatik doğası nedeniyle %firstName% hızlı bir şekilde, geçmiş kavgalara aldırmadan, arkadaşlık kurabiliyor.  O diğer grupların üyeleriyle sosyalleşirken, diplomatik ilişkilerin artması ihtimali var.",
 		"russian":"Из-за харизматического характера, %firstName% быстро заводит друзей и сглаживает ссоры. Когда %heShe% общается с членами других фракций, существует небольшой шанс расширения дипломатических отношений.",
 		"italian": "A causa della sua natura carismatica, %firstName% fa velocemente amicizia e appiana i problemi legati al passato. Quando socializza con i membri delle altre fazioni, c'è una piccola possibilità di aumentare le relazioni diplomatiche.",
+		"polish": "Ze względu na %jejJego% charyzmatyczną naturę, %firstName% szybko zaprzyjaźnia się z innymi i łagodzi uprzednie zatargi. Kiedy %onOna% socjalizuje się z członkami innej rakcji, istnieje niewielka szansa na poprawę relacji dyplomatycznych.",
 	},
 	"traitTitle_LovesSummer": {
 		"english": "Loves Summer",
@@ -700,6 +748,7 @@
 		"turkish": "Yazı seviyor",
 		"russian":"Обожает лето",
 		"italian": "Amante dell'estate",
+		"polish": "Kocha lato",
 	},
 	"traitDesc_LovesSummer": {
 		"english": "When the air is warm and the weather is sunny, %firstName% feels like everything is right with the world.",
@@ -713,6 +762,7 @@
 		"russian":"%firstName% обожает теплый воздух и хорошую погоду. Поэтому летом %heShe% чувствует себя отлично!",
 		"portuguese": "Quando o ar está quente e o tempo está ensolarado, %firstName% sente que tudo está bem com o mundo.",
 		"italian": "Quando l'aria è calda e il tempo è soleggiato, a %firstName% sembra che il mondo sia tutto in equilibrio.",
+		"polish": "Kiedy powietrze jest ciepłe i pogoda jest słoneczna, %firstName% czuje że wszystko na świecie jest w porządku.",
 	},
 	"traitTitle_LovesSpring": {
 		"english": "Loves Spring",
@@ -726,6 +776,7 @@
 		"turkish": "İlkbaharı seviyor",
 		"russian":"Обожает весну",
 		"italian": "Amante della primavera",
+		"polish": "Kocha wiosnę",
 	},
 	"traitDesc_LovesSpring": {
 		"english": "%firstName% loves breathing the fresh air of spring and see nature bloom once again.",
@@ -739,6 +790,7 @@
 		"turkish": "%firstName%, ilkbaharın temiz havasını solumayı ve doğanın bir kez daha çiçeklenmesini görmeyi seviyor.",
 		"russian":"%firstName% обожает свежий воздух и различные растения. Поэтому весной %heShe% чувствует себя отлично!",
 		"italian": "%firstName% adora respirare l'aria fresca di primavera e vedere la natura fiorire ancora una volta.",
+		"polish": "%firstName% kocha oddychać świeżym powietrzem pachnącym wiosną i oglądać rozwkiwtającą naturę.",
 	},
 	"traitTitle_HatesWinter": {
 		"english": "Hates Winter",
@@ -752,6 +804,7 @@
 		"turkish": "Kıştan nefret ediyor",
 		"russian":"Ненавидит зиму",
 		"italian": "Odio per l'inverno",
+		"polish": "Nienawidzi zimy",
 	},
 	"traitDesc_HatesWinter": {
 		"english": "Darker days and colder nights are not %firstName%'s idea of fun, so winter is not %hisHer% favorite time of the year.",
@@ -765,6 +818,7 @@
 		"turkish": "Daha karanlık günler ve daha soğuk geceler %firstName% için eğlenceli değil, bu nedenle kış, yılın en sevdiği zamanı değil.",
 		"russian":"%firstName% ненавидит холод и ранний приход темноты. Поэтому зимой %heShe% чувствует себя ужасно!",
 		"italian": "Giorni più bui e notti più fredde non costituiscono l'idea di divertimento per %firstName%, per cui l'inverno non è il suo periodo dell'anno preferito.",
+		"polish": "Ciemniejsze dni i zimniejsze noce to nie jest to co %firstName% lubi najbardziej, więc zima nie jest dla %jegoJej% najlepszym czasem.",
 	},
 	"traitTitle_HatesFall": {
 		"english": "Hates Fall",
@@ -778,6 +832,7 @@
 		"turkish": "Sonbahardan nefret ediyor",
 		"russian":"Ненавидит осень",
 		"italian": "Odio per l'autunno",
+		"polish": "Nienawidzi jesieni",
 	},
 	"traitDesc_HatesFall": {
 		"english": "%firstName% doesn't really care for the colorful leaves in fall and instead spends %hisHer% time complaining about the muddy paths and the windy days.",
@@ -791,6 +846,7 @@
 		"turkish": "%firstName%, sonbahardaki renkli yaprakları gerçekten önemsemiyor ve aksine çamurlu yollar ve rüzgarlı günlerden şikayet ediyor.",
 		"russian":"%firstName% ненавидит грязь и дожди. Поэтому осенью %heShe% чувствует себя ужасно!",
 		"italian": "A %firstName% non importa nulla delle foglie colorate autunnali, preferisce trascorrere il suo tempo a lamentarsi dei sentieri fangosi e delle giornate ventose.",
+		"polish": "%firstName% niekoniecznie dba o kolorowe liscie spadające na jesień z drzew i woli spędzić swój czas narzkając na zabłocone ścieżki i wietrzne dni.",
 	},
 }
 

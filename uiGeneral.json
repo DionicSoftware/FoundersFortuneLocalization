@@ -284,6 +284,8 @@
 		"chinese": "您确定要删除存档存\"%save%\"吗?它将永远消失。",
 		"russian":"Вы уверены, что хотите удалить сохранение \"%save%\"? Это действие безвозвратно!",
 		"portuguese": "Tem certeza de que deseja excluir o save \"%save%\"? Ele terá desaparecido para sempre.",
+		"italian": "Vuoi davvero eliminare il salvataggio \"%save%\"? Andrà perso per sempre.",
+		"polish": "Jesteś pewien, że chcesz usunąć zapis \"%save%\"? Zapis zostanie usunięty na zawsze",
 	},
 	"saveNotCompatibleWithGameVersion": {
 		"english": "This save is not compatible with your game version.\nYou can find a tutorial on how to continue playing with an old game version in the most recent announcements.",
@@ -298,7 +300,9 @@
 		"dutch": "Het spel is al %minutes% minuten niet opgeslagen. Weet je zeker dat je zonder opslaan naar het hoofdmenu wilt?",
 		"russian":"Последний раз игра сохранялась %minutes% минут назад. Вы действительно хотите выйти в меню БЕЗ сохранения?",
 		"portuguese": "O jogo não foi salvo por %minutes% minutos. Tem certeza de que deseja voltar ao menu principal sem salvar?",
-		},
+		"italian": "L'ultimo salvataggio risale a %minutes% minuti fa. Vuoi davvero tornare al menu principale senza salvare?",	
+		"polish": "Ta gra nie była zapisywana przez %minutes% minut. Jesteś pewien, że chcesz wyjść do menu głównego bez zapisywania?",
+	},
 	"newSave": {
 		"english": "New Save",
 		"german": "Neuer Speicherstand",
@@ -606,6 +610,7 @@
 		"korean": "거의 호환 가능",
 		"italian": "Contenuto per lo più compatibile",
 		"chinese": "模组内容兼容",
+		"polish": "Zawartość w większości kompatybilna",
 	},
 	"modMostlyCompatible_Text": {
 		"english": "This content has been marked by the developers as mostly compatible. It could contain bugs, but you can use it anyways.",
@@ -620,6 +625,7 @@
 		"korean": "이 콘텐츠는 개발자가 거의 호환 가능하다고 표시했습니다. 버그가 좀 있을 수 있지만, 사용할 수는 있습니다.",
 		"italian": "Questo contenuto è stato contrassegnato dagli sviluppatori come per lo più compatibile. Potrebbe contenere bug, ma puoi comunque utilizzarlo.",
 		"chinese": "开发人员将此内容标记为基本兼容。它可能包含bug，但无论如何您都可以使用它。",
+		"polish": "Ta zawartość została oznaczona przez twórców jako najbardziej kompatybilna. Może zawierać błędy, ale możesz i tak z niej skorzystać.",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
@@ -635,6 +641,7 @@
 		"arabic": "ﻖﻓﺍﻮﺘﻣ ﺮﻴﻏ ﻯﻮﺘﺤﻣ",
 		"korean": "호환 불가능",
 		"italian": "Contenuto incompatibile",
+		"polish": "Zawartość niekompatybilna",
 	},
 	"modIncompatible_Text": {
 		"english": "This content has been marked by the developers as incompatible.\nYou need to update it in order to activate it.",
@@ -650,6 +657,7 @@
 		"arabic": ".ﻖﻓﺍﻮﺘﻣ ﺮﻴﻏ ﻯﻮﺘﺤﻤﻛ ﻪﻴﻟﺇ ﺭﻮﻄﻤﻟﺍ ﺭﺎﺷﺃ\n ﻪﻴﻠﻌﻔﺗ ﻊﻴﻄﺘﺴﺗ ﻲﻜﻟ ﻪﺜﻳﺪﺤﺗ ﻰﻟﺇ ﺝﺎﺘﺤﺗ",
 		"korean": "이 콘텐츠는 개발자가 호환이 불가능하다고 표시한 콘텐츠입니다.\n활성화하려면 업데이트가 필요합니다.",
 		"italian": "Questo contenuto è stato contrassegnato dagli sviluppatori come incompatibile.\nDevi aggiornarlo per poterlo attivare.",
+		"polish": "Ta zawartość została oznaczona przez twórców jako niekompatybilna. \nMusisz ją zupdate'ować aby móc ją aktywować.",
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
@@ -665,6 +673,7 @@
 		"arabic": "ﻞﻴﻐﺸﺗ ﺓﺩﺎﻋﺇﻭ ﻖﻴﺒﻄﺗ",
 		"korean": "적용 후 재시작",
 		"italian": "Applica e riavvia",
+		"polish": "Zatwierdź i zrestartuj",
 	},
 	
 
@@ -683,6 +692,7 @@
 		"arabic": "!ﻚﻠﺟﻷ ﺔﺒﻌﻠﻟﺍ ﻦﻴﺴﺤﺗ ﻰﻠﻋ ﺎﻧﺪﻋﺎﺴﺗ ﺓﺮﻴﻐﺻ ﺔﻈﺣﻼﻣ ﻞﻛ",
 		"korean": "작은 피드백도 당신을 위해 게임을 더 좋게 만드는 데에 도움을 줍니다!",
 		"italian": "Qualsiasi feedback ci aiuterà a migliorare il gioco!",
+		"polish": "Każda, nawet najmniejsza uwaga pomaga nam poprawić grę dla Ciebie!",
 	},
 	"feedbackType": {
 		"english": "Category",
@@ -698,6 +708,7 @@
 		"arabic": "ﺔﺌﻔﻟﺍ",
 		"korean": "카테고리",
 		"italian": "Categoria",
+		"polish": "Kategoria",
 	},
 	"general": {
 		"english": "General",
@@ -728,6 +739,7 @@
 		"arabic": "ﺔﻠﻜﺸﻣ ﻦﻋ ﻍﻼﺑﺇ",
 		"korean": "버그 신고",
 		"italian": "Segnalazione bug",
+		"polish": "Zgłoś błąd",
 	},
 	"framerate": {
 		"english": "Framerate",
@@ -743,6 +755,7 @@
 		"arabic": "ﺕﺍﺭﺎﻃﻹﺍ ﻝﺪﻌﻣ",
 		"korean": "FPS",
 		"italian": "FPS",
+		"polish": "FPS",
 	},
 	"feedback": {
 		"english": "Feedback",
@@ -758,6 +771,7 @@
 		"arabic": "ﺔﻈﺣﻼﻣ",
 		"korean": "피드백",
 		"italian": "Feedback",
+		"polish": "Feedback",
 	},
 	"enterFeedback": {
 		"english": "Enter Feedback...",
@@ -773,6 +787,7 @@
 		"arabic": "...ﺔﻈﺣﻼﻤﻟﺍ ﻞﺧﺩﺃ",
 		"korean": "피드백을 입력해주세요...",
 		"italian": "Inserisci feedback...",
+		"polish": "Wprowadź feedback",
 	},
 	"emailAddressOptional": {
 		"english": "Email Address (optional!)",
@@ -788,6 +803,7 @@
 		"arabic": "(ﻱﺭﺎﻴﺘﺧﺍ) ﻲﻧﻭﺮﺘﻜﻟﻹﺍ ﺪﻳﺮﺒﻟﺍ",
 		"korean": "이메일 주소 (선택!)",
 		"italian": "Indirizzo e-mail (facoltativo!)",
+		"polish": "Adres e-mail (opcjonalnie!)",
 	},
 	"clickToSubmit": {
 		"english": "Click to submit",
@@ -803,6 +819,7 @@
 		"arabic": "ﻝﺎﺳﺭﻺﻟ ﻂﻐﺿﺇ",
 		"korean": "보내려면 여기를 클릭",
 		"italian": "Clicca per inviare",
+		"polish": "Naciśnij, aby zatwierdzić",
 	},
 	"thankYou": {
 		"english": "Thank you!",
@@ -818,6 +835,7 @@
 		"arabic": "!ﺍﺮﻜﺷ",
 		"korean": "감사합니다!",
 		"italian": "Grazie!",
+		"polish": "Dziękujemy!",
 	},
 	"feedbackSubmittedSuccessfully": {
 		"english": "Feedback submitted successfully",
@@ -833,6 +851,7 @@
 		"arabic": "ﺡﺎﺠﻨﺑ ﺔﻈﺣﻼﻤﻟﺍ ﻝﺎﺳﺭﺇ ﻢﺗ",
 		"korean": "피드백이 정상적으로 접수되었습니다",
 		"italian": "Il tuo feedback è stato inviato con successo",
+		"polish": "Feedback dodany poprawnie",
 	},
 	"Oops": {
 		"english": "Oops...",
@@ -848,6 +867,7 @@
 		"arabic": "ﺲﺑﻭﻭﺍ...",
 		"korean": "이런...",
 		"italian": "Ops...",
+		"polish": "Ups...",
 	},
 	"feedbackSystemBug": {
 		"english": "There seems to be a bug in the feedback system.\nPlease try again later or let us know via contact@foundersfortune.com",

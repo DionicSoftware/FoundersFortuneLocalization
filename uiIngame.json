@@ -86,7 +86,7 @@
 		"spanish": "Mostrar Ubicación",
 		"portuguese": "mostrar a localização",
 		"russian": "Показать местоположение",
-		"italian": "Mostra luogo",
+		"italian": "Mostra base",
 		"dutch": "Toon Locatie",
 		"chinese": "显示位置",
 		"korean": "위치 확인",
@@ -99,7 +99,7 @@
 		"spanish": "Contactar",
 		"portuguese": "Contato",
 		"russian": "Связаться",
-		"italian": "Contatto",
+		"italian": "Contatta",
 		"dutch": "Contacteren",
 		"chinese": "联系",
 		"korean": "접촉",
@@ -204,7 +204,7 @@
 		"portuguese": "Amigável se as relações sobre %friendlyLimit%.\nAtaques à vista se as relações estiverem abaixo de %attackingLimit%.",
 		"russian": "Дружеские, если отношения выше %friendlyLimit%.\nАтакуют на месте, если отношение ниже %attackingLimit%.",
 		"dutch": "Vriendelijk als relatie boven %friendlyLimit% is.\nValt aan wanneer in zicht als relatie onder %attackingLimit% is.",
-		"italian": "Amichevole se le relazioni superano %friendlyLimit%.\nAttacca a vista se le relazioni scendono al di sotto di %attackingLimit%.",
+		"italian": "Amichevole se le relazioni superano i %friendlyLimit% punti.\nAttacca a vista se le relazioni scendono al di sotto dei %attackingLimit% punti.",
 		"chinese": "如果关系值超过超过%friendlyLimit%会交好。如果关系指低于%attackingLimit%则立即攻击。",
 		"korean": "우호도가 %friendlyLimit%을 넘으면 친밀해집니다.\n우호도가 %attackingLimit%보다 낮다면, 보이는대로 공격합니다.",
 		"turkish": "%friendlyLimit% geçildiğinde arkadaşça.\n ilşiki %attackingLimit% altına düştüğündeyse görüldüğünde saldırı boyutuna geçer.",
@@ -242,7 +242,7 @@
 		"korean": "친밀도",
 		"arabic": "ﺕﺎﻗﺍﺪﺼﻟﺍ",
 		"polish": "Przyjaźnie",
-		"italian": "Amicizie",
+		"italian": "Socialità",
 	},
 	"hunger": {
 		"english": "Hunger",
@@ -1250,7 +1250,7 @@
 		"korean": "전투 모드에서는, 모든 개척자들이 일하다가, 쉬다가, 대화하다가도 하던 일을 멈추고 전투 장비를 입습니다. 전투에서 개척자들을 조종하기 쉬워질겁니다.",
 		"arabic": ".ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺮﺒﻛﺃ ﺔﻟﻮﻬﺴﺑ ﻢﻬﺑ ﻢﻜﺤﺘﻟﺍ ﻚﻟ ﺢﻴﺘﻳ ﺍﺬﻫ .ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﺙﺪﺤﺘﻟﺍ ﻭﺃ ﺀﺎﺧﺮﺘﺳﻻﺍ ﻭﺃ ﻢﻬﻔﺋﺎﻇﻭ ﻲﻓ ﻞﻤﻌﻟﺍ ﻦﻋ ﻒﻗﻮﺘﻟﺍﻭ ﺔﻴﻟﺎﺘﻘﻟﺍ ﻢﻬﺗﺍﺪﻌﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻡﻮﻘﻴﺳ ، ﻝﺎﺘﻘﻟﺍ ﻊﺿﻭ ﻲﻓ",
 		"polish": "W trybie walki, Twoi koloniści ubiorą swój ubiór do walki i przestaną wykonywać swoje zadania, relaksować się albo rozmawiać ze sobą. Pozwali Ci to kotrolować kolonistów znacznie łatwiej w walce.",
-		"italian": "In modalità combattimento, i tuoi coloni indosseranno il loro equipaggiamento da battaglia e smetteranno di lavorare, di rilassarsi o di parlare con gli altri. Ciò ti consente di controllarli più facilmente in battaglia.",
+		"italian": "In modalità battaglia i tuoi coloni indosseranno il loro equipaggiamento da combattimento e smetteranno di lavorare, di rilassarsi o di parlare con gli altri. Ciò ti consente di controllarli più facilmente in battaglia.",
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -1741,7 +1741,7 @@
 		"korean": "즉시 생명력 회복",
 		"arabic": "ﺔﻳﺭﻮﻓ ﺔﻠﻣﺎﻛ ﺔﺤﺻ",
 		"polish": "Natychmiastowe maksymalne zdrowie",
-		"italian": "Salute max istantanea",
+		"italian": "Salute massima istantanea",
 	},
 	"cureIllness": {
 		"english": "Cure Illness",
@@ -1773,7 +1773,7 @@
 		"korean": "동기 부여",
 		"arabic": "ﺕﺎﻳﻮﻨﻌﻤﻟﺍ ﻢﻋﺩ",
 		"polish": "Zwiększenie motywacji",
-		"italian": "Incremento motivazione",
+		"italian": "Incrementa motivazione",
 	},
 	"forgetAllBadThoughts": {
 		"english": "Forget negative Thoughts",
@@ -1853,7 +1853,7 @@
 		"korean": "실내",
 		"arabic": "ﺔﻓﺮﻏ ﻲﻓ",
 		"polish": "Jest w pokoju",
-		"italian": "È nella stanza",
+		"italian": "In una stanza",
 	},
 	"yes": {
 		"english": "Yes",
@@ -1901,7 +1901,7 @@
 		"korean": "침실의 아름다움",
 		"arabic": "ﻡﻮﻨﻟﺍ ﺔﻓﺮﻏ ﻝﺎﻤﺟ",
 		"polish": "Piękno sypialni",
-		"italian": "Bellezza camera",
+		"italian": "Bellezza stanza",
 	},
 	"houseBeauty": {
 		"english": "House beauty",
@@ -1933,7 +1933,7 @@
 		"korean": "소유주",
 		"arabic": "ﻚﻟﺎﻤﻟﺍ",
 		"polish": "Właściciel",
-		"italian": "Proprietario",
+		"italian": "Padrone",
 	},
 	"nobody": {
 		"english": "Nobody",
@@ -2125,7 +2125,7 @@
 		"korean": "일상 장비",
 		//"arabic": "",
 		"polish": "Wyposażenie robocze",
-		"italian": "Equipaggiamento civile",
+		"italian": "Tenuta civile",
 	},
 	"combatEquipment": {
 		"english": "Combat Equipment",
@@ -2141,7 +2141,7 @@
 		"korean": "전투 장비",
 		//"arabic": "",
 		"polish": "Wyposażenie do walki",
-		"italian": "Equipaggiamento da combattimento",
+		"italian": "Tenuta da battaglia",
 	},
 	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
 		"english": "Tool Storage",

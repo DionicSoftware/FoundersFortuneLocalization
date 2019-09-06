@@ -13,6 +13,7 @@
 		"korean": "아무것도 안 하기",
 		"arabic": "ﺎًﺌﻴﺷ ﻞﻌﻔﺗ ﻻ",
 		"chinese": "无所事事",
+		"italian": "Non fare nulla",
 	},
 	"Eat": {
 		"english": "Eat Something",
@@ -27,6 +28,7 @@
 		"korean": "무언가 먹기",
 		"arabic": "ﺎﻣ ﺎًﺌﻴﺷ ﻞﻛ",
 		"chinese": "进食中",
+		"italian": "Mangia qualcosa",
 	},
 	"EatFood": {
 		"english": "Eat %food%",
@@ -41,6 +43,7 @@
 		"korean": "%food% 먹기",
 		"arabic": "%food% ﻞﻛ",
 		"chinese": "吃%food%",
+		"italian": "Mangia %food%",
 	},
 	"GiveFood": {
 		"english": "Give Food",
@@ -55,6 +58,7 @@
 		"korean": "음식 건네기",
 		"arabic": "ﻡﺎﻌﻄﻟﺍ ﻂﻋﺃ",
 		"chinese": "获取食物",
+		"italian": "Dai da mangiare",
 	},
 	"GiveHealingPotion": {
 		"english": "Give Healing Potion",
@@ -69,6 +73,7 @@
 		"korean": "회복약 건네기",
 		"arabic": "ﺀﺎﻔﺷ ﺔﻋﺮﺟ ﻂﻋﺃ",
 		"chinese": "获取药水",
+		"italian": "Consegna pozione curativa",
 	},
 	"Repair": {
 		"english": "Repair",
@@ -83,6 +88,7 @@
 		"korean": "고치기",
 		"arabic": "ﺡﻼﺻﺇ",
 		"chinese": "修理",
+		"italian": "Ripara",
 	},
 	"GoHere": {
 		"english": "Go Here",
@@ -97,6 +103,7 @@
 		"korean": "여기로 가기",
 		"arabic": "ﺎﻨﻫ ﺐﻫﺫﺍ",
 		"chinese": "前往这里",
+		"italian": "Vai qui",
 	},
 	"WaitHere": {
 		"english": "Wait Here",
@@ -111,6 +118,7 @@
 		"korean": "여기에서 기다리기",
 		"arabic": "ﺎﻨﻫ ﺮﻈﺘﻧﺍ",
 		"chinese": "在这等着",
+		"italian": "Aspetta qui",
 	},
 	"Relax": {
 		"english": "Relax",
@@ -125,6 +133,7 @@
 		"korean": "휴식",
 		"arabic": "ﺡﺮﺘﺳﺍ",
 		"chinese": "休息",
+		"italian": "Rilassarsi",
 	},
 	"RemovePlant": {
 		"english": "Remove Plant",
@@ -139,6 +148,7 @@
 		"korean": "식물 제거하기",
 		"arabic": "ﺕﺎﺒﻨﻟﺍ ﻝﺯﺃ",
 		"chinese": "移除植物",
+		"italian": "Rimuovi pianta",
 	},
 	"RemoveInfestedPlants": {
 		"english": "Remove all Infested Plants",
@@ -153,6 +163,7 @@
 		"korean": "모든 감염된 작물 뽑아내기",
 		"arabic": "ﺔﺑﺎﺼﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻴﻤﺟ ﻝﺯﺃ",
 		"chinese": "移除所有感染的植物",
+		"italian": "Rimuovi tutte le piante infestate",
 	},
 	"RemoveDeadPlants": {
 		"english": "Remove all Dead Plants",
@@ -167,6 +178,7 @@
 		"korean": "모든 죽은 작물 뽑아내기",
 		"arabic": "ﺔﺘﻴﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻴﻤﺟ ﻝﺯﺃ",
 		"chinese": "移除所有枯萎的植物",
+		"italian": "Rimuovi tutte le piante morte",
 	},
 	"WaterPlant": {
 		"english": "Water Plant",
@@ -181,6 +193,7 @@
 		"korean": "작물에 물 주기",
 		"arabic": "ﺕﺎﺒﻨﻟﺍ ﻱﺭ",
 		"chinese": "浇水",
+		"italian": "Innaffia pianta",
 	},
 	"Sow": {
 		"english": "Sow",
@@ -195,6 +208,7 @@
 		"korean": "심기",
 		"arabic": "ﻉﺭﺯﺍ",
 		"chinese": "播种",
+		"italian": "Semina",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -209,6 +223,7 @@
 		"korean": "수확하기",
 		"arabic": "ﺪﺼﺣﺍ",
 		"chinese": "收获",
+		"italian": "Raccogli",
 	},
 	"SowObject": {
 		"english": "Sow %object%",
@@ -223,6 +238,7 @@
 		"korean": "%object% 심기",
 		"arabic": "%object% ﻉﺭﺯﺍ",
 		"chinese": "播种%object%",
+		"italian": "Semina %object%",
 	},
 	"HarvestObject": {
 		"english": "Harvest %object%",
@@ -237,6 +253,7 @@
 		"korean": "%object% 수확하기",
 		"arabic": "%object% ﺪﺼﺣﺍ",
 		"chinese": "收获%object%",
+		"italian": "Raccogli %object%",
 	},
 	"Construct": {
 		"english": "Construct",
@@ -251,6 +268,7 @@
 		"korean": "건설",
 		"arabic": "ﺀﺎﻨﺒﻟﺎﺑ ﻢﻗ",
 		"chinese": "建造",
+		"italian": "Costruisci",
 	},
 	"Deconstruct": { // letting a colonist remove furniture
 		"english": "Remove",
@@ -265,6 +283,7 @@
 		"korean": "제거",
 		"arabic": "ﻝﺯﺃ",
 		"chinese": "搬运",
+		"italian": "Rimuovi",
 	},
 	"Fight": {
 		"english": "Fight",
@@ -279,6 +298,7 @@
 		"korean": "싸우기",
 		"arabic": "ﻞﺗﺎﻗ",
 		"chinese": "战斗",
+		"italian": "Lotta",
 	},
 	"Kill": {
 		"english": "Kill",
@@ -293,6 +313,7 @@
 		"korean": "죽이기",
 		"arabic": "ﻞﺘﻗﺃ",
 		"chinese": "击杀",
+		"italian": "Uccidi",
 	},
 	"TakeHealingPotion": {
 		"english": "Take Healing Potion",
@@ -307,6 +328,7 @@
 		"korean": "회복약 받기",
 		"arabic": "ﺀﺎﻔﺷ ﺔﻋﺮﺟ ﺬﺧ",
 		"chinese": "使用治疗药水",
+		"italian": "Prendi pozione curativa",
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
@@ -321,6 +343,7 @@
 		"korean": "농사 공부하기",
 		"arabic": "ﺔﻋﺍﺭﺰﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 		"chinese": "学习务农",
+		"italian": "Apprendi di più sulla coltivazione",
 	},
 	"LearnForesting": {
 		"english": "Learn about Foresting",
@@ -335,6 +358,7 @@
 		"korean": "벌목 공부하기",
 		"arabic": "ﺮﻴﺠﺸﺘﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 		"chinese": "学习林业",
+		"italian": "Apprendi di più sul rimboschimento",
 	},
 	"LearnMining": {
 		"english": "Learn about Mining",
@@ -349,6 +373,7 @@
 		"korean": "채광 공부하기",
 		"arabic": "ﺐﻴﻘﻨﺘﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 		"chinese": "学习挖掘",
+		"italian": "Apprendi di più sull'estrazione",
 	},
 	"LearnCrafting": {
 		"english": "Learn about Crafting",
@@ -363,6 +388,7 @@
 		"korean": "수공예 공부하기",
 		"arabic": "ﺔﻋﺎﻨﺼﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 		"chinese": "学习工艺",
+		"italian": "Apprendi di più sulla fabbricazione",
 	},
 	"LearnFighting": {
 		"english": "Train for Combat",
@@ -377,6 +403,7 @@
 		"korean": "전투 연습하기",
 		"arabic": "ﻝﺎﺘﻘﻠﻟ ﺏﺭﺪﺗ",
 		"chinese": "训练战斗",
+		"italian": "Allenati al combattimento",
 	},
 	"LearnMedicine": {
 		"english": "Learn about Medicine",
@@ -391,6 +418,7 @@
 		"korean": "의학 공부하기",
 		"arabic": "ﺔﻳﻭﺩﻷﺍ ﻦﻋ ﻢﻠﻌﺗ",
 		"chinese": "学习医学",
+		"italian": "Impara di più sulla medicina",
 	},
 	"LearnResearching": {
 		"english": "Learn about Researching",
@@ -405,6 +433,7 @@
 		"korean": "연구법 공부하기",
 		"arabic":"ﺚﺤﺒﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 		"chinese": "学习研究",
+		"italian": "Impara di più sulla ricerca",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -419,6 +448,7 @@
 		"korean": "자기",
 		"arabic":"ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 		"chinese": "睡眠",
+		"italian": "Dormi",
 	},
 	"SleepUntilHealthy": {
 		"english": "Sleep until completely healthy",
@@ -433,6 +463,7 @@
 		"korean": "완전히 회복될 때까지 자기",
 		"arabic":"ﺔﻠﻣﺎﻛ ﺔﺤﺼﺑ ﻥﻮﻜﺗ ﻰﺘﺣ ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 		"chinese": "睡到完全康复",
+		"italian": "Dormi finché la salute non si rigenera",
 	},
 	"SleepOnGround": {
 		"english": "Sleep on the Ground",
@@ -447,6 +478,7 @@
 		"korean": "바닥에서 자기",
 		"arabic":"ﺽﺭﻷﺍ ﻰﻠﻋ ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 		"chinese": "睡在地上",
+		"italian": "Dormi a terra",
 	},
 	"Sit": {
 		"english": "Sit",
@@ -461,6 +493,7 @@
 		"korean": "앉기",
 		"arabic":"ﺲﻠﺟﺍ",
 		"chinese": "坐",
+		"italian": "Siediti",
 	},
 	"SitOnChair": {
 		"english": "Sit on Chair",
@@ -475,6 +508,7 @@
 		"korean": "의자에 앉기",
 		"arabic":"ﻲﺳﺮﻛ ﻰﻠﻋ ﺲﻠﺟﺍ",
 		"chinese": "坐在椅上",
+		"italian": "Sedersi su una sedia",
 	},
 	"Bury": {
 		"english": "Bury",
@@ -489,6 +523,7 @@
 		"korean": "묻기",
 		"arabic":"ﻦﻓﺩﺍ",
 		"chinese": "埋葬",
+		"italian": "Seppellisci",
 	},
 	"AcceptMigrants": {
 		"english": "Accept Migrants",
@@ -503,6 +538,7 @@
 		"korean": "이주 수락",
 		"arabic":"ﺮﺟﺎﻬﻤﻟﺍ ﻞﺒﻗﺍ",
 		"chinese": "接收移民",
+		"italian": "Accetta migranti",
 	},
 	"RejectMigrants": {
 		"english": "Reject Migrants",
@@ -517,6 +553,7 @@
 		"korean": "이주 거절",
 		"arabic":"ﺮﺟﺎﻬﻤﻟﺍ ﺾﻓﺭﺍ",
 		"chinese": "拒绝移民",
+		"italian": "Respingi migranti",
 	},
 	"LeaveIsland": {
 		"english": "Leave Island",
@@ -531,6 +568,7 @@
 		"korean": "섬 떠나기",
 		"arabic":"ﺓﺮﻳﺰﺠﻟﺍ ﺭﺩﺎﻏ",
 		"chinese": "离开岛屿",
+		"italian": "Lascia l'isola",
 	},
 	"BandageWounds": {
 		"english": "Bandage Wounds",
@@ -545,6 +583,7 @@
 		"korean": "상처에 붕대감기",
 		"arabic":"ﺡﻭﺮﺠﻟﺍ ﺪﻤﺿ",
 		"chinese": "包扎伤口",
+		"italian": "Benda ferite",
 	},
 	"SplintLeg": {
 		"english": "Splint Leg",
@@ -559,6 +598,7 @@
 		"korean": "다리에 부목대기",
 		"arabic":"ﻕﺎﺴﻟﺍ ﻰﻠﻋ ﺓﺮﻴﺒﺟ ﻊﺿ",
 		"chinese": "腿部夹板",
+		"italian": "Applica stecca alla gamba",
 	},
 	"SplintArm": {
 		"english": "Splint Arm",
@@ -573,6 +613,7 @@
 		"korean": "팔에 부목대기",
 		"arabic":"ﻉﺍﺭﺬﻟﺍ ﻰﻠﻋ ﺓﺮﻴﺒﺟ ﻊﺿ",
 		"chinese": "手臂夹板",
+		"italian": "Applica stecca al braccio",
 	},
 	"Destroy": {
 		"english": "Destroy",
@@ -587,6 +628,7 @@
 		"korean": "파괴하기",
 		"arabic":"ﺮﻣﺩ",
 		"chinese": "破坏",
+		"italian": "Distruggi",
 	},
 	"Remove": {
 		"english": "Remove",
@@ -601,6 +643,7 @@
 		"korean": "제거",
 		"arabic":"ﻝﺯﺃ",
 		"chinese": "移除",
+		"italian": "Rimuovi",
 	},
 	"Add": {
 		"english": "Add",
@@ -615,6 +658,7 @@
 		"korean": "추가",
 		"arabic":"ﻒﺿﺃ",
 		"chinese": "添加",
+		"italian": "Aggiungi",
 	},
 	"Produce": {
 		"english": "Produce",
@@ -629,6 +673,7 @@
 		"korean": "생산",
 		"arabic":"ﺝﺎﺘﻧﺇ",
 		"chinese": "产品",
+		"italian": "Produci",
 	},
 	"Equip": {
 		"english": "Equip",
@@ -643,6 +688,7 @@
 		"korean": "착용하기",
 		"arabic":"ﻱﺪﺗﺭﺍ",
 		"chinese": "装备",
+		"italian": "Equipaggia",
 	},
 	"Unequip": {
 		"english": "Unequip",
@@ -657,6 +703,7 @@
 		"korean": "착용 해제",
 		"arabic":"ﻊﻠﺧﺍ",
 		"chinese": "卸下",
+		"italian": "Disequipaggia",
 	},
 	"RemoveWeapon": {
 		"english": "Lay down Weapon",
@@ -671,6 +718,7 @@
 		"korean": "무기 내려놓기",
 		"arabic":"ﺡﻼﺴﻟﺍ ﺀﺎﻘﻟﺍ",
 		"chinese": "放下武器",
+		"italian": "Abbassa l'arma",
 	},
 	"RemoveArmor": {
 		"english": "Take off Armor",
@@ -685,6 +733,7 @@
 		"korean": "갑옷 벗기",
 		"arabic":"ﻉﺭﺪﻟﺍ ﻊﻠﺧ",
 		"chinese": "脱下盔甲",
+		"italian": "Togliti l'armatura",
 	},
 	"RemoveEquipment": {
 		"english": "Remove Equipment",
@@ -699,6 +748,7 @@
 		"korean": "장비 내려놓기",
 		"arabic":"ﺕﺍﺪﻌﻤﻟﺍ ﺔﻟﺍﺯﺇ",
 		"chinese": "移除装备",
+		"italian": "Rimuovi equipaggiamento",
 	},
 	"LightBonfire": {
 		"english": "Light Bonfire",
@@ -713,6 +763,7 @@
 		"korean": "화톳불에 불 붙이기",
 		"arabic":"ﺔﻠﻌﺸﻟﺍ ﻝﺎﻌﺷﺇ",
 		"chinese": "点亮营火",
+		"italian": "Accendi falò",
 	},
 	"PutOutBonfire": {
 		"english": "Put out Bonfire",
@@ -727,6 +778,7 @@
 		"korean": "화톳불 꺼트리기",
 		"arabic":"ﺔﻠﻌﺸﻟﺍ ﺩﺎﻤﺧﺇ",
 		"chinese": "放置营火",
+		"italian": "Spegni falò",
 	},
 	"GatherResource": {
 		"english": "Gather Resources",
@@ -741,6 +793,7 @@
 		"korean": "자원 수집하기",
 		"arabic":"ﺩﺭﺍﻮﻤﻟﺍ ﻊﻤﺟ",
 		"chinese": "收集资源",
+		"italian": "Raccogli risorse",
 	},
 	"Guard": {
 		"english": "Guard",
@@ -755,6 +808,7 @@
 		"korean": "순찰하기",
 		"arabic":"ﺔﻳﺎﻤﺣ",
 		"chinese": "守卫",
+		"italian": "Proteggi",
 	},
 	"GuardTower": {
 		"english": "Guard Tower",
@@ -769,6 +823,7 @@
 		"korean": "탑에서 보초서기",
 		"arabic":"ﺔﺳﺍﺮﺤﻟﺍ ﺝﺮﺑ",
 		"chinese": "守卫塔",
+		"italian": "Proteggi la torre",
 	},
 	"ProcessResource": {
 		"english": "Process Resource",
@@ -783,6 +838,7 @@
 		"korean": "자원 처리",
 		"arabic":"ﺩﺭﺍﻮﻤﻟﺍ ﺔﺠﻟﺎﻌﻣ",
 		"chinese": "资源进度",
+		"italian": "Trasforma risorse",
 	},
 	"ChangeProfession": {
 		"english": "Change",
@@ -797,6 +853,7 @@
 		"korean": "변경",
 		"arabic":"ﺮﻴﻴﻐﺗ",
 		"chinese": "变更",
+		"italian": "Cambia",
 	},
 	"GiveProductionOrders": {
 		"english": "Give Production Orders",
@@ -811,6 +868,7 @@
 		"korean": "제작 주문하기",
 		"arabic":"ﺝﺎﺘﻧﻹﺍ ﺮﻣﺍﻭﺃ ﺀﺎﻄﻋﺇ",
 		"chinese": "安排生产任务",
+		"italian": "Dai ordini di produzione",
 	},
 	"FillWateringCan": {
 		"english": "Fill Watering Can",
@@ -825,6 +883,7 @@
 		"korean": "물뿌리개에 물 채우기",
 		"arabic":"ﻱﺮﻟﺍ ﻮﻟﺩ ﺀﻞﻣ",
 		"chinese": "灌满水壶",
+		"italian": "Riempi innaffiatoio",
 	},
 	"interaction_gatherFood": {
 		"english": "Gather Food",
@@ -839,6 +898,7 @@
 		"korean": "음식 수집하기",
 		"arabic":"ﻡﺎﻌﻄﻟﺍ ﻊﻤﺟ",
 		"chinese": "收集食物",
+		"italian": "Raccogli cibo",
 	},
 	"interaction_cutTree": {
 		"english": "Cut Tree",
@@ -853,6 +913,7 @@
 		"korean": "나무 자르기",
 		"arabic":"ﺓﺮﺠﺸﻟﺍ ﻊﻄﻗ",
 		"chinese": "砍伐树木",
+		"italian": "Abbatti albero",
 	},
 	"interaction_mineStone": {
 		"english": "Mine Stone",
@@ -867,6 +928,7 @@
 		"korean": "돌 캐기",
 		"arabic":"ﺓﺭﺎﺠﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 		"chinese": "挖掘岩石",
+		"italian": "Estrai pietra",
 	},
 	"interaction_mineIronOre": {
 		"english": "Mine Iron Ore",
@@ -881,6 +943,7 @@
 		"korean": "철광석 캐기",
 		"arabic":"ﺪﻳﺪﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 		"chinese": "挖掘铁矿",
+		"italian": "Estrai minerale di ferro",
 	},
 	"GatherResource": {
 		"english": "Gather %resource%",
@@ -895,6 +958,7 @@
 		"korean": "%resource% 수집하기",
 		"arabic":"%resource% ﻊﻤﺟ",
 		"chinese": "收集%resource%",
+		"italian": "Raccogli %resource%",
 	},
 	"BecomeAProfession": {
 		"english": "Become a %profession%",
@@ -909,6 +973,7 @@
 		"korean": "%profession% 되기",
 		"arabic":"%profession% ﺢﺒﺻﺃ",
 		"chinese": "转职为 %profession%",
+		"italian": "Diventa: %profession%",
 	},
 	"TryFluTreatment": {
 		"english": "Try Flu Treatment",
@@ -923,6 +988,7 @@
 		"korean": "감기 치료하기",
 		"arabic":"ﺍﺰﻧﻮﻠﻔﻧﻻﺍ ﺝﻼﻋ ﺔﻟﻭﺎﺤﻣ",
 		"chinese": "尝试治疗流感",
+		"italian": "Prova il trattamento contro l'influenza",
 	},
 	"interaction_analyzeCrystal": {
 		"english": "Analyze Crystal",
@@ -937,6 +1003,7 @@
 		"korean": "크리스탈 분석하기",
 		"arabic":"ﺕﺍﺭﻮﻠﺒﻟﺍ ﻞﻴﻠﺤﺗ",
 		"chinese": "分析水晶",
+		"italian": "Analizza cristallo",
 	},
 	"interaction_analyzeScroll": {
 		"english": "Analyze Scroll",
@@ -951,6 +1018,7 @@
 		"korean": "스크롤 분석하기",
 		"arabic":"ﺕﺎﻃﻮﻄﺨﻤﻟﺍ ﻞﻴﻠﺤﺗ",
 		"chinese": "分析卷轴",
+		"italian": "Analizza pergamena",
 	},
 	"interaction_cook": {
 		"english": "Cook Food",
@@ -965,6 +1033,7 @@
 		"korean": "음식 요리하기",
 		"arabic":"ﻡﺎﻌﻄﻟﺍ ﻮﻬﻃ",
 		"chinese": "烹饪食物",
+		"italian": "Cuoci cibo",
 	},
 	"interaction_forge": {
 		"english": "Forge",
@@ -979,6 +1048,7 @@
 		"korean": "대장일하기",
 		"arabic":"ﻊﻨﺻ",
 		"chinese": "锻造",
+		"italian": "Forgia",
 	},
 	"interaction_makeBows": {
 		"english": "Make Bows",
@@ -993,6 +1063,7 @@
 		"korean": "활 만들기",
 		"arabic":"ﺱﺍﻮﻗﺃ ﻊﻨﺻ",
 		"chinese": "制造弓箭",
+		"italian": "Fabbrica archi",
 	},
 	"interaction_makeTools": {
 		"english": "Make Tools",
@@ -1007,6 +1078,7 @@
 		"korean": "도구 만들기",
 		"arabic":"ﺕﺍﻭﺩﺃ ﻊﻨﺻ",
 		"chinese": "制造工具",
+		"italian": "Fabbrica strumenti",
 	},
 	"interaction_tailorClothes": {
 		"english": "Tailor Clothes",
@@ -1021,6 +1093,7 @@
 		"korean": "옷 재봉하기",
 		"arabic":"ﺲﺑﻼﻣ ﺔﻃﺎﻴﺧ",
 		"chinese": "缝纫衣服",
+		"italian": "Cuci vestiti",
 	},
 	"interaction_produceMedicalPotions": {
 		"english": "Produce Healing Potions",
@@ -1035,6 +1108,7 @@
 		"korean": "회복약 만들기",
 		"arabic":"ﺀﺎﻔﺷ ﺕﺎﻋﺮﺟ ﺝﺎﺘﻧﺇ",
 		"chinese": "生产药水",
+		"italian": "Produci pozioni curative",
 	},
 	"interaction_produceMedicine": {
 		"english": "Produce Medicine",
@@ -1049,6 +1123,7 @@
 		"korean": "치료약 만들기",
 		"arabic":"ﺔﻳﻭﺩﺃ ﺝﺎﺘﻧﺇ",
 		"chinese": "生产药水",
+		"italian": "Produci medicinale",
 	},
 	"interaction_brewBeer": {
 		"english": "Brew Beer",
@@ -1063,6 +1138,7 @@
 		"korean": "맥주 양조하기",
 		"arabic":"ﺓﺮﻴﺒﻟﺍ ﺮﻴﻤﺨﺗ",
 		"chinese": "酿造酒水",
+		"italian": "Prepara birra",
 	},
 	"Talk": {
 		"english": "Talk",
@@ -1077,6 +1153,7 @@
 		"korean": "대화하기",
 		"arabic":"ﺙﺪﺤﺗ",
 		"chinese": "交流",
+		"italian": "Parla",
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
@@ -1091,6 +1168,7 @@
 		"korean": "%name%에게 말 걸기",
 		"arabic":"%name% ﻰﻟﺇ ﺙﺪﺤﺗ",
 		"chinese": "与%name%交流",
+		"italian": "Parlare con %name%",
 	},
 	"TakeOwnership": {
 		"english": "Take Ownership",
@@ -1105,6 +1183,7 @@
 		"korean": "이 장비 가지기",
 		"arabic":"ﺔﻴﻜﻠﻤﻟﺍ ﺬﺧ",
 		"chinese": "获得拥有权",
+		"italian": "Assumi la proprietà",
 	},
 	"TakeOwnershipFrom": {
 		"english": "Take Ownership from %name%",
@@ -1119,6 +1198,7 @@
 		"arabic":"%name% ﻦﻣ ﺔﻴﻜﻠﻤﻟﺍ ﺬﺧ",
 		"ukrainian":"Стати власником замість %name%",
 		"chinese": "从%name%那里获得拥有权",
+		"italian": "Assumi la proprietà da %name%",
 	},
 	"GiveUpOwnership": {
 		"english": "Give up Ownership",
@@ -1133,6 +1213,7 @@
 		"ukrainian":"Передати володіння",
 		"arabic":"ﺔﻴﻜﻠﻤﻟﺍ ﻦﻋ ﻝﺯﺎﻨﺗ",
 		"chinese": "放弃拥有权",
+		"italian": "Rinuncia alla proprietà",
 	},
 	"CarryToBed": {
 		"english": "Carry to Bed",
@@ -1147,6 +1228,7 @@
 		"korean": "침대로 운반하기",
 		"arabic":"ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ ﻞﻤﺣﺍ",
 		"chinese": "携带床铺",
+		"italian": "Porta a letto",
 	},
 	"PlaceTool": {
 		"english": "Unequip Tool",
@@ -1161,6 +1243,7 @@
 		"korean": "도구 착용 해제",
 		"arabic":"ﺓﺍﺩﻷﺍ ﻊﻠﺧ",
 		"chinese": "卸下工具",
+		"italian": "Disequipaggia strumento",
 	},
 	"PlaceClothes": {
 		"english": "Unequip Clothes",
@@ -1175,6 +1258,7 @@
 		"korean": "의상 벗기",
 		"arabic":"ﺲﺑﻼﻤﻟﺍ ﻊﻠﺧ",
 		"chinese": "卸下衣服",
+		"italian": "Disequipaggia vestiti",
 	},
 	"Trade": {
 		"english": "Trade",
@@ -1189,6 +1273,7 @@
 		"ukrainian":"Торгувати",
 		"arabic":"ﺓﺮﺟﺎﺘﻣ",
 		"chinese": "交易",
+		"italian": "Commercia",
 	},
 	"LockUp": {
 		"english": "Lock Up",
@@ -1203,6 +1288,7 @@
 		"korean": "가두기",
 		"arabic":"ﻦﺠﺳﺍ",
 		"chinese": "锁上",
+		"italian": "Rinchiudi",
 	},
 	"FreeColonist": {
 		"english": "Free colonist",
@@ -1217,6 +1303,7 @@
 		"korean": "개척자 풀어주기",
 		"arabic":"ﺮﻤﻌﺘﺴﻤﻟﺍ ﺭﺮﺣ",
 		"chinese": "自由移民",
+		"italian": "Libera colono",
 	},
 	"FreeColonistFirstName": {
 		"english": "Free %firstName%",
@@ -1231,6 +1318,7 @@
 		"korean": "%firstName% 풀어주기",
 		"arabic":"%firstName% ﺭﺮﺣ",
 		"chinese": "自由的%firstName%",
+		"italian": "Libera %firstName%",
 	},
 	"DrinkBeer": {
 		"english": "Drink Beer",
@@ -1245,6 +1333,7 @@
 		"korean": "맥주 마시기",
 		"arabic":"ﺓﺮﻴﺑ ﺏﺮﺷﺍ",
 		"chinese": "喝啤酒",
+		"italian": "Bevi birra",
 	},
 	"Dance": {
 		"english": "Dance",
@@ -1259,6 +1348,7 @@
 		"korean": "춤추기",
 		"arabic":"ﺺﻗﺭﺍ",
 		"chinese": "跳舞",
+		"italian": "Balla",
 	},
 	"Enjoy": {
 		"english": "Enjoy",
@@ -1273,6 +1363,7 @@
 		"korean": "즐기기",
 		"arabic":"ﻊﺘﻤﺘﺳﺍ",
 		"chinese": "享受",
+		"italian": "Divertiti",
 	},
 	"EnjoyFire": {
 		"english": "Enjoy Fire",
@@ -1287,6 +1378,7 @@
 		"korean": "불꽃 구경하기",
 		"arabic":"ﺭﺎﻨﻟﺎﺑ ﻊﺘﻤﺘﺳﺍ",
 		"chinese": "享受营火",
+		"italian": "Goditi il fuoco",
 	},
 	"Drum": {
 		"english": "Drum",
@@ -1301,6 +1393,7 @@
 		"korean": "발 구르기",
 		"arabic":"ﻞﺒﻄﻟﺍ ﻉﺮﻗﺍ",
 		"chinese": "击鼓",
+		"italian": "Suona",
 	},
 	"Hug": {
 		"english": "Hug",
@@ -1315,6 +1408,7 @@
 		"korean": "껴안기",
 		"arabic":"ﻦﻀﺣﺍ",
 		"chinese": "拥抱",
+		"italian": "Abbraccia",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1329,6 +1423,7 @@
 		"korean": "건배하기",
 		"arabic":"ﻒﺘﻫﺍ",
 		"chinese": "欢呼",
+		"italian": "Esulta",
 	},
 
 
@@ -1347,6 +1442,7 @@
 		"dutch": "Praat met een lid van \"%faction%\"",
 		"chinese": "与\"%faction%\"的成员对话",
 		"russian": "Поговорить с кем-то из фракции \"%faction%\"",
+		"italian": "Parla con un membro di \"%faction%\"",
 	},
 	"HugFaction": {
 		"english": "Hug member of \"%faction%\"",
@@ -1358,6 +1454,7 @@
 		"dutch": "Knuffel een lid van \"%faction%\"",
 		"chinese": "拥抱 \"%faction%\"的成员",
 		"russian": "Обнять кого-то из фракции \"%faction%\"",
+		"italian": "Abbraccia un membro di \"%faction%\"",
 	},
 
 
@@ -1384,6 +1481,7 @@
 		"korean": "다른 사람이 사용중입니다",
 		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ ﺮﺧﺁ ﺺﺨﺷ",
 		"chinese": "有人正在使用",
+		"italian": "Qualcun altro lo sta usando",
 	},
 	"firstNameIsUsingThat": {
 		"english": "%firstName% is using that",
@@ -1398,6 +1496,7 @@
 		"korean": "%firstName%이 사용중입니다",
 		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ %firstName%",
 		"chinese": "%firstName%正在使用",
+		"italian": "%firstName% lo sta usando",
 	},
 	"goblinIsUsingThat": {
 		"english": "Goblin is using that",
@@ -1412,6 +1511,7 @@
 		"korean": "고블린이 사용중인 물건입니다",
 		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ ﺖﻳﺮﻔﻋ",
 		"chinese": "哥布林正在使用",
+		"italian": "Un goblin lo sta usando",
 	},
 	"visitorIsUsingThat": { // visitors like migrants or traders
 		"english": "A visitor is using that",
@@ -1426,6 +1526,7 @@
 		"korean": "방문자가 사용중입니다",
 		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ ﺮﺋﺍﺯ",
 		"chinese": "访问者正在使用",
+		"italian": "Un visitatore lo sta usando",
 	},
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",
@@ -1440,6 +1541,7 @@
 		"korean": "다리가 부러져서 걸을 수 없습니다",
 		"arabic":"ﻕﺎﺴﻟﺍ ﻲﻓ ﺮﺴﻛ ﺐﺒﺴﺑ ﻲﺸﻤﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻻ",
 		"chinese": "因为腿断了不能走路",
+		"italian": "Non può camminare a causa della gamba rotta",
 	},
 	"cantWorkBrokenArm": {
 		"english": "Can't work because of broken arm",
@@ -1454,6 +1556,7 @@
 		"korean": "팔이 부러져서 일할 수 없습니다",
 		"arabic":"ﻉﺍﺭﺬﻟﺍ ﻲﻓ ﺮﺴﻛ ﺐﺒﺴﺑ ﻞﻤﻌﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻻ",
 		"chinese": "因为手臂骨折不能工作",
+		"italian": "Non può lavorare a causa del braccio rotto",
 	},
 	"cantInteractIsLockedUp": {
 		"english": "Colonist is locked up",
@@ -1468,6 +1571,7 @@
 		"korean": "개척자가 갇혀 있습니다",
 		"arabic":"ﻥﻮﺠﺴﻣ ﺮﻤﻌﺘﺴﻤﻟﺍ",
 		"chinese": "殖民者被关起来了",
+		"italian": "Il colono è rinchiuso",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -1482,6 +1586,7 @@
 		"korean": "생산 주문이 없습니다",
 		"arabic":"ﺝﺎﺘﻧﺇ ﺮﻣﺍﻭﺃ ﻻ",
 		"chinese": "没有生产任务",
+		"italian": "Nessun ordine di produzione",
 	},
 	"notSufficientExperience": {
 		"english": "%firstName% doesn't have enough experience as %profession%",
@@ -1496,6 +1601,7 @@
 		"korean": "%firstName%에게 %profession%으로서의 경험이 부족합니다",
 		"arabic":"%profession%ـﻛ ﺔﻴﻓﺎﻛ ﺓﺮﺒﺧ ﻚﻠﻤﻳ ﻻ %firstName%",
 		"chinese": "%firstName%没有足够的%profession%经验",
+		"italian": "%firstName% non ha abbastanza esperienza come %profession%",
 	},
 	"notUsableInSeason": {
 		"english": "Not possible in %season%",
@@ -1510,6 +1616,7 @@
 		"korean": "%season%에는 할 수 없습니다",
 		"arabic":"%season% ﻲﻓ ﻦﻜﻤﻣ ﺮﻴﻏ",
 		"chinese": "在%season%季节不能生长",
+		"italian": "Impossibile in %season%",
 	},
 	"noTimeBeforeSeasonChanges": {
 		"english": "Not enough time before season changes",
@@ -1524,6 +1631,7 @@
 		"korean": "남은 계절이 짧습니다",
 		"arabic":"ﻢﺳﻮﻤﻟﺍ ﺮﻴﻐﺗ ﻞﺒﻗ ﻲﻓﺎﻛ ﺮﻴﻏ ﺖﻗﻭ",
 		"chinese": "在季节变更之前没有足够的时间生长成熟",
+		"italian": "Non c'è abbastanza tempo prima del cambio di stagione",
 	},
 	"nextTryIn": {
 		"english": "Next Try in",
@@ -1538,6 +1646,7 @@
 		"korean": "다음에 시도하세요",
 		"arabic":"ﻲﻓ ﻝﻭﺎﺣ ﺔﻠﺒﻘﻤﻟﺍ ﺓﺮﻤﻟﺍ",
 		"chinese": "尝试下一个",
+		"italian": "Prossimo tentativo in",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",
@@ -1552,6 +1661,7 @@
 		"korean": "%trait% 특성 때문에 할 수 없습니다",
 		"arabic":"%trait% :ﺔﻤﺴﻟﺍ ﺐﺒﺴﺑ ﻦﻜﻤﻣ ﺮﻴﻏ",
 		"chinese": "因为特性：%trait% 限制",
+		"italian": "Non può a causa del tratto: %trait%",
 	},
 	"forbiddenBecauseNotHasTrait": {
 		"english": "Missing trait: %trait%",
@@ -1566,6 +1676,7 @@
 		"korean": "특성이 없습니다: %trait%",
 		"arabic":"%trait% :ﺓﺩﻮﻘﻔﻣ ﺔﻤﺳ",
 		"chinese": "缺少特性：%trait%",
+		"italian": "Tratto mancante: %trait%",
 	},
 	"cantGetResourceNearby": {
 		"english": "Can't get %resource% nearby",
@@ -1580,6 +1691,7 @@
 		"korean": "근처에 %resource%가 없습니다",
 		"arabic":"ﺎﻨﻫ ﻦﻣ ﺏﺮﻘﻟﺎﺑ %resource% ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ ﻻ",
 		"chinese": "无法获取附近的%resource%",
+		"italian": "Non può ottenere %resource% nelle vicinanze",
 	},
 	"missingEquipmentEffect_WateringPlants": {
 		"english": "Needs a watering can",
@@ -1594,6 +1706,7 @@
 		"korean": "물뿌리개가 필요합니다",
 		"arabic":"ﻱﺮﻟﺍ ﻮﻟﺩ ﻰﻟﺇ ﺝﺎﺘﺤﻳ",
 		"chinese": "需要一个水壶灌溉",
+		"italian": "Ha bisogno di un innaffiatoio",
 	},
 	"noResearchSelected": {
 		"english": "No Research selected",
@@ -1608,6 +1721,7 @@
 		"korean": "진행중인 연구가 없습니다",
 		"arabic":"ﺚﺤﺑ ﺭﺎﻴﺘﺧﺍ ﻢﺘﻳ ﻢﻟ",
 		"chinese": "没有选择研究",
+		"italian": "Nessuna ricerca selezionata",
 	},
 	"resourceNotNecessaryForResearch": {
 		"english": "Doesn't need to analyze %resource% for current research",
@@ -1622,6 +1736,7 @@
 		"korean": "현재 진행중인 연구에는 %resource%가 필요하지 않습니다",
 		"arabic":"ﻲﻟﺎﺤﻟﺍ ﺚﺤﺒﻠﻟ %resource% ﻞﻴﻠﺤﺘﻟ ﺔﺟﺎﺣ ﻻ",
 		"chinese": "当前研究不需要分析%resource%",
+		"italian": "Non ha bisogno di analizzare %resource% per la ricerca attuale",
 	},
 	"notOwnedBy": {
 		"english": "Not owned by %firstName%",
@@ -1636,6 +1751,7 @@
 		"korean": "%firstName%이 소유한 물건이 아닙니다",
 		"arabic":"%firstName% ﻦﻣ ﺔﻛﻮﻠﻤﻣ ﺮﻴﻏ",
 		"chinese": "不属于%firstName%",
+		"italian": "Non è di proprietà di %firstName%",
 	},
 	"cantWearClothesBecauseOfBodyShape": { // For example, goblins can't wear clothes with hats because of their head shape
 		"english": "Can't wear this type of clothing",
@@ -1647,6 +1763,7 @@
 		"russian": "Не может носить данный тип одежды",
 		"korean": "이런 모양의 옷을 입을 수 없습니다",
 		"chinese": "不能穿这种衣服",
+		"italian": "Non può indossare questo tipo di vestiti",
 	},
 	"cantInteractInCombatMode": {
 		"english": "%firstName% can't do that in combat mode",
@@ -1658,6 +1775,7 @@
 		"russian": "%firstName% не может сделать этого в режиме битвы",
 		"korean": "%firstName%#{은} 전투 모드에서 그런 행동을 할 수 없습니다",
 		"chinese": "%firstName%在战斗模式下不能这样做",
+		"italian": "%firstName% non può farlo in modalità di combattimento",
 	},
 	
 }

@@ -83,3 +83,4 @@ This is korean glossary for korean translator.
 - %heShe%: 그/그녀. %himHer% 같은 경우도 모두 이것으로 대체하고 "%heShe%의" 로 쓰기.
 - at least ~: ~ 이상의. 최소한 ~ 으로 번역하면 어색해짐.
 - 은/는 이/가 등의 조사: %firstName%#{은} %resource%#{가} 식으로 사용하면 알아서 적절한 조사로(서진은 or 민수는, 나무가 or 철광석이) 변형됨.
+  - 다른 예제는 [여기](https://github.com/FourwingsY/josa-csharp/blob/master/main.cs) 참조

@@ -68,7 +68,7 @@
 		"ukrainian": "%firstName% стурбован%heshe_IY_A% будинком в даний момент",
 		"chinese": "%firstName%目前不关心房子的情况.",
 		"polish": "%firstName% nie dba o dom w tej chwili.",
-		"korean": "%firstName%은 아직 집에 대해 신경쓰지 않고 있습니다.",
+		"korean": "%firstName%#{은} 아직 집에 대해 신경쓰지 않고 있습니다.",
 		"dutch":  "%firstName% Geeft niet om een huis nu dit ogenblik.",
 	},
 	"notRelevantYet_Desc_lifeSatisfaction": {
@@ -84,7 +84,7 @@
 		"ukrainian": "%firstName% не стурбован%heshe_IY_A% задоволеністю до життя в даний момент.",
 		"chinese": "%firstName%现在不关心生活的满意度.",
 		"polish": "%firstName% nie dba o zadowolenie z życia w tej chwili.",
-		"korean": "%firstName%은 아직 기대하는 삶이 없습니다.",
+		"korean": "%firstName%#{은} 아직 기대하는 삶이 없습니다.",
 		"italian": "%firstName% non ha alcun interesse per la sua soddisfazione di vita al momento.",
 	},
 	"notRelevantYet_Desc_promotions": {
@@ -100,7 +100,7 @@
 		"ukrainian": "%firstName% не стурбован%heshe_IY_A% стимулом в даний момент",
 		"chinese": "%firstName%现在不关心转职.",
 		"polish": "%firstName% nie dba o awans w tej chwili.",
-		"korean": "%firstName%은 아직 진급에 대해 생각하지 않고 있습니다.",
+		"korean": "%firstName%#{은} 아직 진급에 대해 생각하지 않고 있습니다.",
 		"italian": "%firstName% non ha alcun interesse per le promozioni al momento.",
 	},
 	"notRelevantYet_Desc_salary": {
@@ -116,7 +116,7 @@
 		"ukrainian": "%firstName% не стурбован%heshe_IY_A% зарплатою в даний момент.",
 		"chinese": "%firstName%现在不关心工资的情况.",
 		"polish": "%firstName% nie dba o wypłatę w tej chwili",
-		"korean": "%firstName%은 지금은 일당에 관심이 없습니다.",
+		"korean": "%firstName%#{은} 지금은 일당에 관심이 없습니다.",
 		"italian": "%firstName% non ha alcun interesse per il salario al momento.",
 	},
 	"notRelevantYet_Desc_community": {
@@ -132,7 +132,7 @@
 		"ukrainian": "%firstName% не стурбован%heshe_IY_A% спільнотою в даний момент.",
 		"chinese": "%firstName%现在不关心社区的情况.",
 		"polish": "%firstName% nie dba o społeczność w tej chwili.",
-		"korean": "%firstName%은 아직 커뮤니티에 신경쓰지 않습니다.",
+		"korean": "%firstName%#{은} 아직 커뮤니티에 신경쓰지 않습니다.",
 		"italian": "%firstName% non ha alcun interesse per la comunità al momento.",
 	},
 	"foodSatisfactionAwesome": {
@@ -340,7 +340,7 @@
 		"ukrainian": "Майстер в %hisHer% профессии",
 		"chinese": "精通职业",
 		"polish": "Osiągn%ąłĘła% mistrzostwo w %jegoJej% zawodzie",
-		"korean": "%heShe%의 직업군에서 전문가",
+		"korean": "%heShe%의 직업군에서 베테랑이 됨",
 		"italian": "%cap-PadronePadrona% della sua professione",
 	},
 	"promotionsSatisfactionGood": {
@@ -421,7 +421,7 @@
 		"ukrainian": "%firstName% нажаль, не сам%heshe_IY_A% розумн%heshe_IY_A% і має проблеми з розвитком навичок. Однак, %hisHer% це не турбує та  %heShe% прийня%hesheEnd% цю долю та радується.",
 		"chinese": "不幸的是,%firstName%并不是最聪明的,而且在发展新技能方面也有点困难.然而%heShe%已经接受了%hisHer%的命运,并接受了该技能.",
 		"polish": "Niestety, %firstName% nie jest najmądrzejsz%yA% i ma trudności w rozwijaniu nowych umiejętności. Jednak, %onOna% zaakceptował %jegoJej% los i się z nim pogodził%nicA%.",
-		"korean": "불행하게도, %firstName%은 수재가 아니고, 새로운 기술을 개발하는 데 어려움을 겪고 있습니다. 그렇지만, %heShe%는 자신의 운명을 받아들였고 지금에 만족합니다.",
+		"korean": "불행하게도, %firstName%#{은} 수재가 아니고, 새로운 기술을 개발하는 데 어려움을 겪고 있습니다. 그렇지만, %heShe%는 자신의 운명을 받아들였고 지금에 만족합니다.",
 		"italian": "Sfortunatamente, %firstName% non è il più brillante e ha difficoltà a sviluppare nuove competenze. Tuttavia, ha accettato il suo destino e ci convive.",
 	},
 	"colonistIsALevelXProfessionGuy": {
@@ -437,7 +437,7 @@
 		"ukrainian": "%firstName% має %professionLevel% рівень у %professionName%",
 		"chinese": "%firstName%是一名%professionLevel%级的%professionName%",
 		"polish": "%firstName% to %professionName% poziomu %professionLevel%",
-		"korean": "%firstName%은 %professionName% %rofessionLevel%레벨 입니다.",
+		"korean": "%firstName%#{은} %professionName% %rofessionLevel%레벨 입니다.",
 		"italian": "%firstName% è %UnUna% %professionName% di livello %professionLevel%",
 	},
 	"reachLevelX": {
@@ -562,7 +562,7 @@
 		"ukrainian": "%firstName% очікував тільки на %coins% монет в день, але ця надбавка робить %hisHer% день чудовим!",
 		"chinese": "%firstName%不认为%hisHer%的工作值那么多工资.%heShe%希望每天工资只发放%coins%硬币,但如果加工资将会让%heShe%一整天感到很满意!",
 		//"polish": "",
-		"korean": "%firstName%은 자신이 그 정도의 대우를 받을만한 사람이라고 생각하진 않습니다. %heShe%는 그저 하루에 %coins% 코인이면 족하다고 생각하지만, 더 많은 돈은 %heShe%의 하루를 즐겁게 합니다!",
+		"korean": "%firstName%#{은} 자신이 그 정도의 대우를 받을만한 사람이라고 생각하진 않습니다. %heShe%는 그저 하루에 %coins% 코인이면 족하다고 생각하지만, 더 많은 돈은 %heShe%의 하루를 즐겁게 합니다!",
 		"italian": "%firstName% non pensava che il suo lavoro valesse così tanti soldi. Le sue aspettative erano di %coins% monete al giorno, ma il denaro extra ha illuminato la sua giornata!",
 	},
 	"salarySatisfactionGood_Desc": {
@@ -577,7 +577,7 @@
 		"ukrainian": "%firstName% рахує, що %coins% монет в день - це добра заробітня плата для %himHer% потреб",
 		"chinese": "%firstName%认为%hisHer%刚发的日薪是足够的.对他来说,每天的工资是正常的.",
 		//"polish": "",
-		"korean": "%firstName%은 이번 일당이 적절했다고 생각합니다. 하루에 %coins% 코인이면 %heShe%에게는 평범한 수준이죠.",
+		"korean": "%firstName%#{은} 이번 일당이 적절했다고 생각합니다. 하루에 %coins% 코인이면 %heShe%에게는 평범한 수준이죠.",
 		"italian": "%firstName% pensa che il suo ultimo salario è stato adeguato. %coins% monete al giorno è un salario accettabile.",
 	},
 	"salarySatisfactionInsufficient_Desc": {
@@ -592,7 +592,7 @@
 		"ukrainian": "%firstName% рахує, що заслуговує на заробітню плату хочаб %coins% в день",
 		"chinese": "根据%firstName%的情况,%heShe%认为最低工资应该有%coins%硬币才行.",
 		//"polish": "",
-		"korean": "%firstName%이 말하기를, %heShe%는 하루에 최소한 %coins% 코인을 받을 자격이 된다고 합니다.",
+		"korean": "%firstName%#{이} 말하기를, %heShe%는 하루에 최소한 %coins% 코인을 받을 자격이 된다고 합니다.",
 		"italian": "Secondo %firstName%, il suo lavoro merita un salario minimo di %coins% monete al giorno.",
 	},
 	"salarySatisfactionBad_Desc": {
@@ -607,7 +607,7 @@
 		"ukrainian": "%firstName% не задоволон%heshe_IY_A% заробітньою платою, по його %hisHer% думці, %heShe% заслуговує зарплату мінімум %coins% монет в день.",
 		"chinese": "%firstName%对%hisHer%刚发放的日薪不满意 - %hisHer%意见是,%heShe%的最低工资应该是每天发放%coins%硬币.",
 		//"polish": "",
-		"korean": "%firstName%은 이번 일당 때문에 기분이 나쁩니다 - %heShe%의 의견에 따르면, %heShe%는 하루에 최소한 %coins% 코인을 받을 자격이 된다고 합니다.",
+		"korean": "%firstName%#{은} 이번 일당 때문에 기분이 나쁩니다 - %heShe%의 의견에 따르면, %heShe%는 하루에 최소한 %coins% 코인을 받을 자격이 된다고 합니다.",
 		"italian": "%firstName% è %ScontentoScontenta% del suo ultimo salario. Secondo la sua opinione, merita un salario minimo di %coins% monete al giorno.",
 	},
 	"salarySatisfactionNotPaidYet_Desc": {
@@ -622,7 +622,7 @@
 		"ukrainian": "%firstName% очікує зарплату мінімум %coins% монет в день.",
 		"chinese": "%firstName%希望每天能有%coins%硬币的工资.",
 		"polish": "%firstName% chce wypłatę minimum %coins% na dzień.",
-		"korean": "%firstName%은 최소한 하루에 %coins% 코인쯤 받을 거라고 예상하고 있습니다.",
+		"korean": "%firstName%#{은} 최소한 하루에 %coins% 코인쯤 받을 거라고 예상하고 있습니다.",
 		"italian": "%firstName% si aspetta un salario minimo di %coins% monete al giorno.",
 	},
 	"food": {
@@ -888,7 +888,7 @@
 		"ukrainian": "%firstName% не має роботи в даний час. Це заставляє %hisHer% почувати себе неповноцінним",
 		"chinese": "%firstName%目前没有职业.这让他感到不满意",
 		"polish": "%firstName% nie ma pracy w tym momencie. Przez to %onOna% czuje się %niezadowolon%yA%.",
-		"korean": "%firstName%은 아직 직업이 없습니다. %heShe%는 성취감을 느끼지 못하고 있습니다.",
+		"korean": "%firstName%#{은} 아직 직업이 없습니다. %heShe%는 성취감을 느끼지 못하고 있습니다.",
 		"italian": "%firstName% non ha un lavoro al momento. Questo %LoLa% fa sentire irrealizzato.",
 	},
 }

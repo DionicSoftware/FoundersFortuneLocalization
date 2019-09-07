@@ -16,6 +16,7 @@
 		"korean": "소원",
 		"polish": "Życzenia",
 		"italian": "Desideri",
+		"hungarian": "Vágyak",
 	},
 	"discover": {
 		"english": "Discover %tech%",
@@ -34,6 +35,7 @@
 		"korean": "%tech% 발견",
 		"polish": "Odkryć %tech%",
 		"italian": "Scoprire %tech%",
+		"hungarian": "Feltalálni a(z)%tech%",
 	},
 	"GetProfession": {
 		"english": "Get a job",
@@ -52,6 +54,7 @@
 		"korean": "직업 얻기",
 		"polish": "Dostać zawód",
 		"italian": "Avere un lavoro",
+		"hungarian": "Munkahelyet kapni",
 	},
 	"GetSleepingSpot": {
 		"english": "Get a sleeping spot",
@@ -70,6 +73,7 @@
 		"korean": "나만의 잠자리 가지기",
 		"polish": "Mieć miejsce do spania",
 		"italian": "Avere un posto in cui dormire",
+		"hungarian": "Saját hálózsák",
 	},
 	"GetBedroom": {
 		"english": "Get a bedroom",
@@ -88,6 +92,7 @@
 		"korean": "나만의 침실 가지기",
 		"polish": "Mieć sypialnię",
 		"italian": "Avere una camera da letto",
+		"hungarian": "Saját hálószoba",
 	},
 	"reachLevelAsA": {
 		"english": "Reach level %level% as a %profession%",
@@ -106,6 +111,7 @@
 		"arabic": "%profession%ـﻛ %level% ﻯﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ",
 		"polish": "Osiągnąć poziom %level% jako %profession%",
 		"italian": "Raggiungere il livello %level% come %profession%",
+		"hungarian": "Elérni a következő szintet %level% as a %profession%", 
 	},
 	"getFurnitureInLocation": {
 		"english": "Get %furniture% in %location%",
@@ -124,6 +130,7 @@
 		"korean": "%furniture%#{를} %location%에 두기",
 		"polish": "Mieć %furniture% w %location%",
 		"italian": "Avere nella %location%: %furniture%",
+		"hungarian": "%furniture% a %location%ba",
 	},
 	"getBackFurnitureInLocation": {
 		"english": "Get %furniture% back in %location%",
@@ -140,6 +147,7 @@
 		"korean": "%furniture%#{를} %location%에 다시 두기",
 		"polish": "Mieć %furniture% z powrotem w %location%",
 		"italian": "Avere %furniture% indietro a %location%",
+		"hungarian": "%furniture% visszatenni a %location%ba",
 	},
 	"furnitureCategory_AChair": {
 		"english": "a Chair",
@@ -158,6 +166,7 @@
 		"korean": "의자",
 		"polish": "Krzesło",
 		"italian": "una sedia",
+		"hungarian": " egy széket",
 	},
 	"furnitureCategory_ATable": {
 		"english": "a Table",
@@ -176,6 +185,7 @@
 		"korean": "탁자",
 		"polish": "Stół",
 		"italian": "un tavolo",
+		"hungarian": "egy asztalt",
 	},
 	"furnitureCategory_AArmchair": {
 		"english": "an Armchair",
@@ -194,6 +204,7 @@
 		"korean": "안락의자",
 		"polish": "Fotel",
 		"italian": "una poltrona",
+		"hungarian": "egy karosszéket",
 	},
 	"furnitureCategory_ACouch": {
 		"english": "a Couch",
@@ -212,6 +223,7 @@
 		"korean": "소파",
 		"polish": "Kanapa",
 		"italian": "un divano",
+		"hungarian": "egy kanapét",
 	},
 	"furnitureCategory_AFireplace": {
 		"english": "a Fireplace",
@@ -230,6 +242,7 @@
 		"korean": "난로",
 		"polish": "Kominek",
 		"italian": "un camino",
+		"hungarian": "egy tűzhelyet",
 	},
 	"furnitureCategory_ASmallShelf": {
 		"english": "a Dresser",
@@ -248,6 +261,7 @@
 		"korean": "서랍장",
 		"polish": "Komoda",
 		"italian": "un armadio",
+		"hungarian": "egy éjjeli szekrényt",
 	},
 	"furnitureCategory_ABigShelf": {
 		"english": "a Big Shelf or Wardrobe",
@@ -266,6 +280,7 @@
 		"korean": "큰 선반이나 옷장",
 		"polish": "Duża szafa lub garderoba",
 		"italian": "un grande scaffale o armadio",
+		"hungarian": "egy nagy szekrényt vagy wardróbot",
 	},
 	"furnitureCategory_AChest": {
 		"english": "a Chest",
@@ -284,6 +299,7 @@
 		"korean": "상자",
 		"polish": "Skrzynia",
 		"italian": "un baule",
+		"hungarian": "egy ládát",
 	},
 	"furnitureCategory_ARug": {
 		"english": "a Rug",
@@ -296,6 +312,7 @@
 		"korean": "카펫",
 		"chinese": "地毯",
 		"italian": "un tappeto",
+		"hungarian": "egy szőnyeget",
 	},
 	"furnitureCategory_AFlowerPot": {
 		"english": "a Flower Pot",
@@ -314,6 +331,7 @@
 		"korean": "화분",
 		"polish": "Doniczka",
 		"italian": "un vaso di fiori",
+		"hungarian": "egy virágtartót",
 	},
 	"furnitureCategory_AVase": {
 		"english": "a Vase",
@@ -332,6 +350,7 @@
 		"korean": "꽃병",
 		"polish": "Waza",
 		"italian": "un vaso",
+		"hungarian": "egy vázát",
 	},
 	"furnitureCategory_AToolStorage": {
 		"english": "a place to store tools",
@@ -348,6 +367,7 @@
 		"korean": "도구를 둘 공간",
 		"polish": "miejsce do trzymania narzędzi",
 		"italian": "un posto per conservare gli strumenti",
+		"hungarian": "egy szerszámtartót",
 	},
 	"furnitureCategory_AWeaponStorage": {
 		"english": "a place to store weapons",
@@ -364,6 +384,7 @@
 		"korean": "무기를 둘 공간",
 		"polish": "miejsce do trzymania broni",
 		"italian": "un posto per conservare le armi",
+		"hungarian": "egy fegyvertárolót",
 	},
 	"furnitureCategory_AClothesStorage": {
 		"english": "a place to store clothes",
@@ -380,6 +401,7 @@
 		"korean": "옷을 둘 공간",
 		"polish": "miejsce do trzymania ubrań",
 		"italian": "un posto per conservare i vestiti",
+		"hungarian": "egy ruhaállványt",
 	},
 	"furnitureCategory_AArmorStorage": {
 		"english": "a place to store armor",
@@ -396,6 +418,7 @@
 		"korean": "갑옷을 둘 공간",
 		"polish": "miejsce do trzymania zbroji",
 		"italian": "un posto per conservare le armature",
+		"hungarian": "egy páncélállványt",
 	},
 	"wishLocation_Room": {
 		"english": "%hisHer% Room",
@@ -417,6 +440,8 @@
 		"arabic": "ﺔﻓﺮﻏ %hisHer%",
 		"korean": "%heShe%의 방",
 		"polish": "%jegoJej% pokoju",
+		"hungarian": "a szobájába",
+	
 	},
 	"wishLocation_House": {
 		"english": "%hisHer% House",
@@ -438,6 +463,7 @@
 		"arabic": "ﺖﻴﺑ %hisHer%",
 		"korean": "%heShe%의 집",
 		"polish": "%jegoJej% domu",
+		"hungarian": " a házába",
 	},
 	"wishLocation_Colony": {
 		"english": "the Colony",
@@ -456,6 +482,7 @@
 		"korean": "정착지",
 		"polish": "Kolonia",
 		"italian": "colonia",
+		"hungarian": "a faluba",
 	},
 	"wishLocation_Owned": {
 		"english": "%hisHer% Possession",
@@ -468,6 +495,7 @@
 		"korean": "%heShe%의 소유물",
 		"chinese": "%hisHer%拥有物",
 		"italian": "suo possesso",
+		"hungarian": "birtokolni",
 	},
 	"useSatisfactionRewardPoints": {
 		"english": "Use Satisfaction Reward Points",
@@ -486,6 +514,7 @@
 		"korean": "만족 포인트 사용하기",
 		"polish": "Użyj punktów nagród zadowolenia",
 		"italian": "Usa punti ricompensa soddisfazione",
+		"hungarian": "Elégdettségi pontok elhasználása",
 	},
 	"getRidOfTrait": {
 		"english": "Get rid of Trait: %trait%",
@@ -504,6 +533,7 @@
 		"korean": "특성 제거하기: %trait%",
 		"polish": "Pozbyć się cechy: %trait%",
 		"italian": "Sbarazzarsi del tratto: %trait%",
+		"hungarian": "Elhagyni a következő rossz szokást: %trait%",
 	},
 	"getRidOfCondition": {
 		"english": "Get rid of Condition: %condition%",
@@ -522,6 +552,7 @@
 		"arabic": ":%condition% :ﺔﻟﺎﺤﻟﺍ ﻦﻣ ﺺﻠﺨﺘﻟﺍ",
 		"polish": "Pozbyć się uwarunkowania %condition%",
 		"italian": "Sbarazzarsi della condizione: %condition%",
+		"hungarian": "Elveszíteni a következő kondíciót: %condition%",
 	},
 	"getBackToFullHealth": {
 		"english": "Get back to full health",
@@ -540,6 +571,7 @@
 		"korean": "생명력 모두 회복하기",
 		"polish": "Wrócić do pełni zdrowia",
 		"italian": "Tornare in piena salute",
+		"hungarian": "Teljes életerő elérése",
 	},
 	"getBigPayday": {
 		"english": "Get a big payday of at least %coins% coins",
@@ -556,6 +588,7 @@
 		"arabic": "ﻞﻗﻷﺍ ﻰﻠﻋ ﺔﻴﻧﺪﻌﻣ ﺔﻠﻤﻋ %coins% ﺐﺗﺍﺭ ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ",
 		"polish": "Otrzymać dużą wypłatę, co najmniej %coins% monet",
 		"italian": "Ottenere un grande salario di almeno %coins% monete",
+		"hungarian": "Nagy fizetést kapni",
 	},
 	"defeatGoblin": {
 		"english": "Defeat Tiki Goblin",
@@ -572,6 +605,7 @@
 		"korean": "티키고블린과 싸워 이기기",
 		"polish": "Pokonać Goblina Tiki",
 		"italian": "Sconfiggere un goblin Tiki",
+		"hungarian": "Legyőzni egy Tiki Goblint"
 	},
 	"storeFoodForWinter": {
 		"english": "Store at least %food% meals in preparation for winter",
@@ -588,6 +622,7 @@
 		"arabic": "ﺀﺎﺘﺸﻠﻟ ﺍﺩﺍﺪﻌﺘﺳﺇ ، ﻞﻗﻷﺍ ﻰﻠﻋ ﺔﺒﺟﻭ %food% ﻥﺰﺧ",
 		"polish": "Mieć w magazynie przynajmniej %food% posiłków przygotowanych na zimę",
 		"italian": "Conservare almeno %food% pasti in preparazione per l'inverno",
+		"hungarian": "%food% adag élelmet eltárolni a télre",
 	},
 	"improveRelationsWithFactionToXPoints": {
 		"english": "Improve relations with \"%faction%\" to %points% points",
@@ -601,6 +636,7 @@
 		"portuguese": "Melhorar as relações com \"%faction%\" para %points% pontos",
 		"italian": "Migliorare le relazioni con \"%faction%\" a %points% punti",
 		"polish": "Poprawić relacje z \"%faction%\" do %points% punktów",
+		"hungarian": "Jobb kapcsolatot létesíteni a  \"%faction%\"%points%ra",
 	},
 	"worsenRelationsWithFactionToXPoints": {
 		"english": "Worsen relations with \"%faction%\" to %points% points",
@@ -614,5 +650,6 @@
 		"portuguese": "Piorar as relações com \"%faction%\" para %points% pontos",
 		"italian": "Peggiorare le relazioni con \"%faction%\" a %points% punti",
 		"polish": "Pogorszyć relacje z \"%faction%\" do %points% punktów",
+		"hungarian": "Roszabb kapcsolatot létesíteni a  \"%faction%\"%points%ra",
 	},
 }

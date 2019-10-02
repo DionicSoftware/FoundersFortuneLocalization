@@ -1173,8 +1173,9 @@ Dans le passé, nous avons mis à la disposition de nos joueurs diverses version
 
 Toutes les fonctionnalités dans la bande-annonce, sur les captures d'écran et dans la section "À propos de ce jeu" ci-dessous sont implémentées et jouables.
 
-//TODO-french
-// change your language to "dev" when you're done so I remember to update it!
+Les mises à jour majeures de l'Accès Anticipé rendent généralement les sauvegardes incompatibles. Nous gardons l'ancienne version pour vous afin que vous puissiez continuer à jouer, mais vous ne pourrez pas jouer aux sauvegardes de l'Alpha 9 avec l'Alpha 10, par exemple. Cela ne s'applique que tant que nous sommes en Accès Anticipé.
+
+//TODO-dev
 
 ### Portuguese
 No passado, disponibilizamos várias versões Alpha em nosso site para os jogadores. No momento em que escrevemos, temos de 100 a 300 jogadores por dia que geralmente gastam mais de 18 horas para desbloquear a árvore tecnológica e ainda mais tempo para atingir o limite de população.

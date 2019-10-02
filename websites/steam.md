@@ -1151,66 +1151,94 @@ In the past, we've made various Alpha versions available via our website for pla
 
 All features in the Trailer, Screenshots, and in the "About this game" section below are implemented and playable.
 
+Major updates in Early Access will usually break save game compatibility. We keep the older version around for you so that you can continue playing, but you won't be able to play Alpha 9 savegames with Alpha 10, for example. This only applies as long as we're in Early Access.
 
 ### Dutch
 In het verleden hebben we via onze website verschillende alfa versies beschikbaar gemaakt voor spelers. Op het moment van schrijven hebben we elke dag 100-300 spelers die vaak meer dan 18 uur spenderen om alle onderzoeken te ontgrendelen en nog meer tijd om de bevolkingslimiet te bereiken.
 
 Alle functies in de trailer, screenshots en in het gedeelte 'Over deze game' zijn geïmplementeerd en speelbaar
 
+//TODO-dutch
+// change your language to "dev" when you're done so I remember to update it!
+
 ### German
 Bisher hatten wir die Alpha von Founders' Fortune auf unserer Website kostenlos zur Verfügung gestellt. Zum Zeitpunkt der Erstellung dieser Beschreibung haben wir ca. 100-300 aktive Spieler pro Tag. Für das Erforschen aller Technologien und das Erreichen der maximalen Kolonistenanzahl sind sie gerne mal 18 Stunden beschäftigt.
 
 Alle gezeigten Funktionen im Trailer, in den Screenshots und im "Über dieses Spiel"-Bereich sind bereits implementiert und spielbar.
 
+Große Updates im Early Access werden oft nicht mit voherigen Speicherständen kompatibel sein. Wir werden die veraltete Version eine Zeit lang zugänglich lassen, aber du wirst zum Beispiel nicht Alpha 9 Speicherstände mit einem Alpha 10 Spiel spielen können. Das gilt nur für die Zeit im Early Access.
 
 ### French
 Dans le passé, nous avons mis à la disposition de nos joueurs diverses versions d'Alpha via notre site Web. Au moment de la rédaction de cet article, nous avons chaque jour entre 100 et 300 joueurs qui passent souvent plus de 18 heures à débloquer entièrement l'arbre technologique et encore plus de temps pour atteindre la limite de population.
 
 Toutes les fonctionnalités dans la bande-annonce, sur les captures d'écran et dans la section "À propos de ce jeu" ci-dessous sont implémentées et jouables.
 
+//TODO-french
+// change your language to "dev" when you're done so I remember to update it!
 
 ### Portuguese
 No passado, disponibilizamos várias versões Alpha em nosso site para os jogadores. No momento em que escrevemos, temos de 100 a 300 jogadores por dia que geralmente gastam mais de 18 horas para desbloquear a árvore tecnológica e ainda mais tempo para atingir o limite de população.
 
 Todos os recursos no trailer, Screenshots, e no "Sobre o jogo" abaixo são implementadas e jogável.
 
+//TODO-portuguese
+// change your language to "dev" when you're done so I remember to update it!
 
 ### Spanish
 En el pasado, hemos hecho varias versiones Alfa disponibles a través de nuestro sitio web para los jugadores. Al momento de escribir esto, tenemos alrededor de entre 100-300 jugadores cada día, los que frecuentemente pasan más de 18 horas para desbloquear el árbol de tecnologías e incluso más horas para alcanzar el límite de población.
 
 Todas las características en el Tráiler, en las capturas de pantalla y en la sección "Acerca de este juego" están implementadas y son jugables.
 
+//TODO-spanish
+// change your language to "dev" when you're done so I remember to update it!
 
 ### Turkish
 Geçmişte, oyuncular için web sitemiz üzerinden çeşitli Alpha sürümleri hazırladık. Bu bilgiyi yazdığmız sırada, her gün 100-300 oyuncumuz, teknoloji ağacının kilidini açmak için ve nüfus sınırına ulaşmak için 18 saatten daha da fazla zaman harcıyor.
 
 Trailer, Ekran Görüntüleri ve aşağıdaki "Bu oyun hakkında" bölümündeki tüm özellikler uygulanır ve oynanabilirdir.
 
+//TODO-turkish
+// change your language to "dev" when you're done so I remember to update it!
+
 ### Russian
 До этого момента у нас была альфа версия игры на нашем сайте с дневным онлайном в 100-300 человек в день. Некоторые из игроков тратили по 18 часов в день на разблокирование ветки технологий.
 
 Весь функционал, который вы можете увидеть в трейлерах, скриншотах и во вкладке "Об этой игре", уже реализован и доступен в игре.
+
+//TODO-russian
+// change your language to "dev" when you're done so I remember to update it!
 
 ### Ukrainian
 До цього моменту у нас була альфа версія гри на нашому сайті з денним онлайном в 100-300 чоловік в день. Деякі з гравців витрачали по 18 годин на день на розблокування гілки технологій.
 
 Весь функціонал, який ви можете побачити в трейлерах, скріншотах і у вкладці "Про цю гру", вже реалізований і доступний в грі.
 
+//TODO-ukrainian
+// change your language to "dev" when you're done so I remember to update it!
+
 ### Korean
 과거에는, 여러 알파 버전들을 만들었고 우리 홈페이지를 통해 배포했었습니다. 지금 이 글을 쓰고 있는 순간에는, 매일 100-300명의 플레이어가 플레이합니다. 그 중에는 18시간 이상 플레이하여 모든 기술을 연구하거나 더 많은 시간을 들여 인구 제한까지 도달하는 분들도 있습니다.
 
 트레일러와 스크린샷, 그리고 "게임 소개"에 등장하는 모든 기능들은 구현되어있고, 플레이할 수 있습니다.
+
+//TODO-korean
+// change your language to "dev" when you're done so I remember to update it!
 
 ### Chinese
 在过去，我们通过我们的网站为玩家提供了Alpha版本。在撰写本文时，我们每天有100-300名玩家，他们经常花费超过18个小时去解锁技术树，甚至更多时间去达到人口上限。
 
 预告片、截图和下面的“关于这个游戏”部分中的所有功能都是可实现和可玩的。
 
+//TODO-chinese
+// change your language to "dev" when you're done so I remember to update it!
+
 ### Italian
 In passato, abbiamo reso disponibili varie versioni dell'Alpha sul nostro sito web. Al momento della stesura, abbiamo circa 100-300 giocatori al giorno che spesso trascorrono più di 18 ore per sbloccare l'intero albero tecnologico e ancora più tempo per raggiungere il limite di popolazione.
 
 Tutte le funzionalità presenti nei trailer, negli screenshot e nella sezione "Informazioni sul gioco" qui di seguito sono tutte implementate e giocabili.
 
+//TODO-italian
+// change your language to "dev" when you're done so I remember to update it!
 
 
 # Early Access - Will the game be priced differently during and after Early Access?

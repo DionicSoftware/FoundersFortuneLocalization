@@ -1182,7 +1182,9 @@ No passado, disponibilizamos várias versões Alpha em nosso site para os jogado
 
 Todos os recursos no trailer, Screenshots, e no "Sobre o jogo" abaixo são implementadas e jogável.
 
-//TODO-portuguese
+As principais atualizações no Acesso Antecipado geralmente quebram a compatibilidade do jogo salvo. Mantemos a versão mais antiga para você, para que você possa continuar jogando, mas você não poderá jogar Alpha 9 salva com Alpha 10, por exemplo. Isso se aplica apenas enquanto estivermos no Acesso Antecipado.
+
+//TODO-dev
 // change your language to "dev" when you're done so I remember to update it!
 
 ### Spanish

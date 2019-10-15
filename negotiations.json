@@ -728,6 +728,10 @@
 		"chinese": "你会后悔的。",
 		"italian": "Te ne pentirai.",
 	},
+	"tributeDeniedRegretThisWeWillSee": {
+		"english": "We'll see about that.",
+		"german": "Das werden wir sehen.",
+	},
 	"goblinTributeDeniedNeutralRelations": {
 		"english": "We will remember your attitude.",
 		"german": "Na gut. Glaubt aber nicht, dass wir uns das nicht merken werden.",
@@ -753,5 +757,64 @@
 		"turkish": "Bu hiç iyi değil. Arkadaşlar birbirine yardımcı olmalı.",
 		"chinese": "真是失望。朋友应该团结在一起。",
 		"italian": "È proprio un peccato. Gli amici dovrebbero restare uniti.",
+	},
+
+
+	// timed tributes
+	"timedTributeDemand": {
+		"english": "Hey! Nice to see you again.\n\nWe've noticed we need some more things to keep our operations running. You won't mind providing them for us, right?\n\nWe'd need: %tribute%\n\nYou have %days% days to deliver.",
+		"german": "Hey! Schön euch wieder zu sehen.\n\nWir haben gemerkt, dass wir noch ein paar Dinge benötigen um unsere Operationen am Laufen zu halten. Ihr helft uns bestimmt gern dabei, oder?\n\nWir benötigen: %tribute%\n\nDu hast %days% Tage Zeit.",
+	},
+	"timedTributeDemandAccept": {
+		"english": "Of course. We'd be happy to help you out with that.",
+		"german": "Natürlich, wir helfen euch gerne.",
+	},
+	"timedTributeDemandRefuse": {
+		"english": "What? No, forget it.",
+		"german": "Wie bitte? Nein, vergesst es.",
+	},
+	"timedTributeDemandAcceptAnswer": {
+		"english": "Thanks. We're going to be back shortly.",
+		"german": "Danke. Wir werden bald zurück sein.",
+	},
+	"timedTributeDemandRefuseAreYouSure": {
+		"english": "What? Are you sure? This is not going to end well for you...",
+		"german": "Was? Seid ihr sicher? Das wird nicht gut für euch enden...",
+	},
+	"timedTributeDemandRefuseAreYouSureGiveIn": {
+		"english": "Nevermind, we'll make it for you.",
+		"german": "Ok ok, wir helfen euch.",
+	},
+	"timedTributeDemandRefuseAreYouSureRefuse": {
+		"english": "We will not do anything for you.",
+		"german": "Wir werden gar nichts für euch tun.",
+	},
+	"timedTributeCollecting": {
+		"english": "Hello again. Do you have the items we asked for?",
+		"german": "Hallo. Hast du die Gegenstände die wir haben wollten?",
+	},
+	"timedTributeCollectingHereYouGo": {
+		"english": "Of course. Here you go",
+		"german": "Natürlich. Bitteschön.",
+	},
+	"timedTributeCollectingAlmostMadeIt": {
+		"english": "Sorry, we couldn't make it. Please take what we have.",
+		"german": "Es tut mir leid, wir haben es nicht geschafft. Bitte nehmt was wir haben.",
+	},
+	"timedTributeCollectingChangedMind": {
+		"english": "We changed our mind. You're getting nothing!",
+		"german": "Wir haben uns umentschieden. Ihr bekommt gar nichts!",
+	},
+	"timedTributePaidFull": {
+		"english": "Thanks! It's always nice doing business with you.",
+		"german": "Danke! Es ist immer schön mit euch Geschäfte zu machen.",
+	},
+	"timedTributePaidEnough": {
+		"english": "Arggh...\n\nAlright. We're letting you get away with it this time.",
+		"german": "Arggh...\n\nNa gut. Dieses mal kommt ihr noch davon damit.",
+	},
+	"timedTributePaidNotEnough": {
+		"english": "No, that's not going to be enough for us. You are going to have to pay in other ways now.",
+		"german": "Nein, das wird nicht genug für uns sein. Jetzt wirst du auf andere Art bezahlen müssen.",
 	},
 }

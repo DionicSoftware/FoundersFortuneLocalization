@@ -38,9 +38,9 @@
 		"chinese": "再见。",
 		"italian": "Addio.",
 	},
-	"imSorry": {
-		"english": "I'm sorry.",
-		"german": "Es tut mir leid.",
+	"weAreSorry": {
+		"english": "We're sorry.",
+		"german": "Es tut uns leid.",
 	},
 	"thanks": {
 		"english": "Thanks.",
@@ -67,6 +67,19 @@
 		"dutch": "Heel erg bedankt!",
 		"chinese": "十分感谢！",
 		"italian": "Grazie mille!",
+	},
+	"youreWelcome": { // said when colony did something another faction likes (giving presents, defending from pirates, etc.)
+		"english": "You're welcome.",
+		"german": "Gern geschehen.",
+		"spanish": "De nada.",
+		"portuguese": "De nada.",
+		"dutch": "Geen probleem.",
+		"russian": "Пожалуйста.",
+		"french": "De rien.",
+		"korean": "천만에.",
+		"turkish": "Rica ederiz.",
+		"chinese": "不用客气。",
+		"italian": "Prego.",
 	},
 	"weUnderstand": {
 		"english": "We understand.",
@@ -460,19 +473,6 @@
 		"chinese": "谢谢!你是我们的好朋友。",
 		"italian": "Grazie! La nostra gente ha grande stima di voi.",
 	},
-	"acceptPresentsAnswer": {
-		"english": "You're welcome.",
-		"german": "Gern geschehen.",
-		"spanish": "De nada.",
-		"portuguese": "De nada.",
-		"dutch": "Geen probleem.",
-		"russian": "Пожалуйста.",
-		"french": "De rien.",
-		"korean": "천만에.",
-		"turkish": "Rica ederiz.",
-		"chinese": "不用客气。",
-		"italian": "Prego.",
-	},
 
 
 
@@ -757,6 +757,54 @@
 		"turkish": "Bu hiç iyi değil. Arkadaşlar birbirine yardımcı olmalı.",
 		"chinese": "真是失望。朋友应该团结在一起。",
 		"italian": "È proprio un peccato. Gli amici dovrebbero restare uniti.",
+	},
+
+
+
+	// pirate chase
+	"pirateChaseHelp": {
+		"english": "Help!\n\nPirates are chasing our ship and they're catching up! Could you please help us out?\n\nLet's handle these thugs together!",
+		"german": "",
+	},
+	"pirateChaseHelpAccept": {
+		"english": "Of course! Land next to our village and we'll defend you!",
+		"german": "",
+	},
+	"pirateChaseHelpRefuse": {
+		"english": "Sorry... we can't really afford any conflict at the moment.",
+		"german": "",
+	},
+	"pirateChaseHelpAcceptedAnswer": {
+		"english": "Thank you so much! We will head directly for your island. Get ready for a fight, friend.",
+		"german": "",
+	},
+	"pirateChaseHelpRefusedAnswer": {
+		"english": "We're disappointed by your cowardice in our time of need.\n\nMaybe we shouldn't be surprised...",
+		"german": "",
+	},
+	"pirateChaseHelpSuccess": {
+		"english": "Yes! We drove them away! Let that be a lesson to them.\n\nThanks so much for your help.",
+		"german": "",
+	},
+	"pirateChaseHelpFailure": {
+		"english": "Oh no. No no no.\n\nThey were too strong. We have some terrible losses to mourn.",
+		"german": "",
+	},
+	"pirateChase": {
+		"english": "",
+		"german": "",
+	},
+	"pirateChase": {
+		"english": "",
+		"german": "",
+	},
+	"pirateChase": {
+		"english": "",
+		"german": "",
+	},
+	"pirateChase": {
+		"english": "",
+		"german": "",
 	},
 
 

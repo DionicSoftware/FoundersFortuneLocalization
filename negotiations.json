@@ -730,6 +730,7 @@
 	"tributeDeniedRegretThisWeWillSee": {
 		"english": "We'll see about that.",
 		"german": "Das werden wir sehen.",
+		"french": "C'est ce qu'on va voir.",
 	},
 	"goblinTributeDeniedNeutralRelations": {
 		"english": "We will remember your attitude.",
@@ -763,57 +764,71 @@
 	"timedTributeDemand": {
 		"english": "Hey! Nice to see you again.\n\nWe've noticed we need some more things to keep our operations running. You won't mind providing them for us, right?\n\nWe'd need: %tribute%\n\nYou have %days% days to deliver.",
 		"german": "Hey! Schön euch wieder zu sehen.\n\nWir haben gemerkt, dass wir noch ein paar Dinge benötigen um unsere Operationen am Laufen zu halten. Ihr helft uns bestimmt gern dabei, oder?\n\nWir benötigen: %tribute%\n\nIhr habt %days% Tage Zeit.",
+		"french": "Hey ! Ravi de vous revoir.\n\nNous avons remarqué que nous avons besoin de plus de choses pour poursuivre nos activités. Ça ne vous dérangera pas de nous les fournir, n'est-ce pas ?\n\nNous en aurions besoin : %tribute%\n\nVous avez %days% jours pour livrer la marchandise.",
 	},
 	"timedTributeDemandAccept": {
 		"english": "Of course. We'd be happy to help you out with that.",
 		"german": "Natürlich, wir helfen euch gerne.",
+		"french": "Bien sûr. Nous serions heureux de vous aider.",
 	},
 	"timedTributeDemandRefuse": {
 		"english": "What? No, forget it.",
 		"german": "Wie bitte? Nein, vergesst es.",
+		"french": "Quoi ? Non, oublie ça.",
 	},
 	"timedTributeDemandAcceptAnswer": {
 		"english": "Thanks. We're going to be back shortly.",
 		"german": "Danke. Wir werden bald zurück sein.",
+		"french": "Merci. Nous serons de retour d'ici peu.",
 	},
 	"timedTributeDemandRefuseAreYouSure": {
 		"english": "What? Are you sure? This is not going to end well for you...",
 		"german": "Was? Seid ihr sicher? Das wird nicht gut für euch enden...",
+		"french": "Quoi ? Vous êtes sûr ? Ça ne va pas bien se terminer pour vous...",
 	},
 	"timedTributeDemandRefuseAreYouSureGiveIn": {
 		"english": "Nevermind, we'll make it for you.",
 		"german": "Ok ok, wir helfen euch.",
+		"french": "Peu importe, on le fera pour vous.",
 	},
 	"timedTributeDemandRefuseAreYouSureRefuse": {
 		"english": "We will not do anything for you.",
 		"german": "Wir werden gar nichts für euch tun.",
+		"french": "Nous ne ferons rien pour vous.",
 	},
 	"timedTributeCollecting": {
 		"english": "Hello again. Do you have the items we asked for?",
 		"german": "Hallo. Habt ihr die Gegenstände die wir haben wollten?",
+		"french": "Encore bonjour. Avez-vous les choses que nous avions demandées ?",
 	},
 	"timedTributeCollectingHereYouGo": {
 		"english": "Of course. Here you go",
 		"german": "Natürlich. Bitteschön.",
+		"french": "Bien sûr. Les voilà.",
 	},
 	"timedTributeCollectingAlmostMadeIt": {
 		"english": "Sorry, we couldn't make it. Please take what we have.",
 		"german": "Es tut mir leid, wir haben es nicht geschafft. Bitte nehmt was wir haben.",
+		"french": "Désolé, nous n'avons pas réussi. S'il vous plaît, prenez ce que nous avons.",
 	},
 	"timedTributeCollectingChangedMind": {
 		"english": "We changed our mind. You're getting nothing!",
 		"german": "Wir haben uns umentschieden. Ihr bekommt gar nichts!",
+		"french": "Nous avons changé d'avis. Vous n'aurez rien !",
 	},
 	"timedTributePaidFull": {
 		"english": "Thanks! It's always nice doing business with you.",
 		"german": "Danke! Es ist immer schön mit euch Geschäfte zu machen.",
+		"french": "Merci ! C'est toujours un plaisir de faire affaire avec vous.",
 	},
 	"timedTributePaidEnough": {
 		"english": "Arggh...\n\nAlright. We're letting you get away with it this time.",
 		"german": "Arggh...\n\nNa gut. Dieses mal kommt ihr noch davon damit.",
+		"french": "Arggh...\n\nD'accord. On te laisse t'en tirer comme ça cette fois.",
 	},
 	"timedTributePaidNotEnough": {
 		"english": "No, that's not going to be enough for us. You are going to have to pay in other ways now.",
 		"german": "Nein, das wird nicht genug für uns sein. Jetzt werdet ihr auf andere Art bezahlen müssen.",
+		"french": "Non, ça ne nous suffira pas. Vous allez devoir payer autrement, maintenant.",
 	},
 }

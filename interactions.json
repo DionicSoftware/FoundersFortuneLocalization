@@ -14,6 +14,7 @@
 		"arabic": "ﺎًﺌﻴﺷ ﻞﻌﻔﺗ ﻻ",
 		"chinese": "无所事事",
 		"italian": "Non fare nulla",
+		"polish": "Nic nie rób",
 	},
 	"Eat": {
 		"english": "Eat Something",
@@ -29,6 +30,7 @@
 		"arabic": "ﺎﻣ ﺎًﺌﻴﺷ ﻞﻛ",
 		"chinese": "进食中",
 		"italian": "Mangia qualcosa",
+		"polish": "Zjedz coś",
 	},
 	"EatFood": {
 		"english": "Eat %food%",
@@ -44,6 +46,7 @@
 		"arabic": "%food% ﻞﻛ",
 		"chinese": "吃%food%",
 		"italian": "Mangia %food%",
+		"polish": "Zjedz %food%",
 	},
 	"GiveFood": {
 		"english": "Give Food",
@@ -59,6 +62,7 @@
 		"arabic": "ﻡﺎﻌﻄﻟﺍ ﻂﻋﺃ",
 		"chinese": "获取食物",
 		"italian": "Dai da mangiare",
+		"polish": "Daj jedzenie",
 	},
 	"GiveHealingPotion": {
 		"english": "Give Healing Potion",
@@ -74,6 +78,7 @@
 		"arabic": "ﺀﺎﻔﺷ ﺔﻋﺮﺟ ﻂﻋﺃ",
 		"chinese": "获取药水",
 		"italian": "Consegna pozione curativa",
+		"polish": "Daj miksturę leczniczą",
 	},
 	"Repair": {
 		"english": "Repair",
@@ -89,6 +94,7 @@
 		"arabic": "ﺡﻼﺻﺇ",
 		"chinese": "修理",
 		"italian": "Ripara",
+		"polish": "Napraw",
 	},
 	"GoHere": {
 		"english": "Go Here",
@@ -104,6 +110,7 @@
 		"arabic": "ﺎﻨﻫ ﺐﻫﺫﺍ",
 		"chinese": "前往这里",
 		"italian": "Vai qui",
+		"polish": "Idź tutaj",
 	},
 	"WaitHere": {
 		"english": "Wait Here",
@@ -119,6 +126,7 @@
 		"arabic": "ﺎﻨﻫ ﺮﻈﺘﻧﺍ",
 		"chinese": "在这等着",
 		"italian": "Aspetta qui",
+		"polish": "Czekaj tutaj",
 	},
 	"Relax": {
 		"english": "Relax",
@@ -134,6 +142,7 @@
 		"arabic": "ﺡﺮﺘﺳﺍ",
 		"chinese": "休息",
 		"italian": "Rilassarsi",
+		"polish": "Odpręż się",
 	},
 	"RemovePlant": {
 		"english": "Remove Plant",
@@ -149,6 +158,7 @@
 		"arabic": "ﺕﺎﺒﻨﻟﺍ ﻝﺯﺃ",
 		"chinese": "移除植物",
 		"italian": "Rimuovi pianta",
+		"polish": "Usuń roślinę",
 	},
 	"RemoveInfestedPlants": {
 		"english": "Remove all Infested Plants",
@@ -164,6 +174,7 @@
 		"arabic": "ﺔﺑﺎﺼﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻴﻤﺟ ﻝﺯﺃ",
 		"chinese": "移除所有感染的植物",
 		"italian": "Rimuovi tutte le piante infestate",
+		"polish": "Usuń wszystkie zarażone rośliny",
 	},
 	"RemoveDeadPlants": {
 		"english": "Remove all Dead Plants",
@@ -179,6 +190,7 @@
 		"arabic": "ﺔﺘﻴﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻴﻤﺟ ﻝﺯﺃ",
 		"chinese": "移除所有枯萎的植物",
 		"italian": "Rimuovi tutte le piante morte",
+		"polish": "Usuń wszystkie martwe rośliny",
 	},
 	"WaterPlant": {
 		"english": "Water Plant",
@@ -194,6 +206,7 @@
 		"arabic": "ﺕﺎﺒﻨﻟﺍ ﻱﺭ",
 		"chinese": "浇水",
 		"italian": "Innaffia pianta",
+		"polish": "Podlej roślinę",
 	},
 	"Sow": {
 		"english": "Sow",
@@ -209,6 +222,7 @@
 		"arabic": "ﻉﺭﺯﺍ",
 		"chinese": "播种",
 		"italian": "Semina",
+		"polish": "Sadź",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -224,6 +238,7 @@
 		"arabic": "ﺪﺼﺣﺍ",
 		"chinese": "收获",
 		"italian": "Raccogli",
+		"polish": "Zbierz",
 	},
 	"SowObject": {
 		"english": "Sow %object%",
@@ -239,6 +254,7 @@
 		"arabic": "%object% ﻉﺭﺯﺍ",
 		"chinese": "播种%object%",
 		"italian": "Semina %object%",
+		"polish": "Posadził%nicA% %object%",
 	},
 	"HarvestObject": {
 		"english": "Harvest %object%",
@@ -1440,7 +1456,7 @@
 		"english": "Talk to member of \"%faction%\"",
 		"german": "Mit Mitglied der Fraktion \"%faction%\" reden",
 		"korean": "\"%faction%\"의 일원과 이야기하기",
-		"french": "Parler au membre de la faction \"%faction%\"",
+		"french": "Parler à un membre de la faction \"%faction%\"",
 		"spanish": "Hablar con un miembro de \"%faction%\"",
 		"portuguese": "Fale com o membro de \"%faction%\"",
 		"dutch": "Praat met een lid van \"%faction%\"",

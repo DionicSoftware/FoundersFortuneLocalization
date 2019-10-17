@@ -41,6 +41,7 @@
 	"weAreSorry": {
 		"english": "We're sorry.",
 		"german": "Es tut uns leid.",
+		"french": "Nous sommes désolés.",
 		"italian": "Ci dispiace.",
 		"russian": "Нам жаль.",
 		"portuguese": "Nós lamentamos.",
@@ -101,14 +102,13 @@
 		"english": "Present not valuable enough.",
 		"german": "Geschenk nicht wertvoll genug.",
 		"italian": "Regalo di poco valore.",
-		// TODO-french
 		// TODO-dutch
 		// TODO-turkish
 		// TODO-chinese
 		"spanish": "El presente no tiene el valor suficiente.",
 		"portuguese": "Presente não é valioso o suficiente.",
 		"russian": "Ничего ценного не выбрано",
-		"french": "Rien de valeur séléctionné.",
+		"french": "Le cadeau n'a pas assez de valeur.",
 		"korean": "가치있는 것을 선택하세요.",
 		"dutch": "Niets van waarde geselecteerd.",
 		"turkish": "Değeri olan hiçbirşey seçilmedi.",
@@ -771,6 +771,7 @@
 	"pirateChaseHelp": {
 		"english": "Help!\n\nPirates are chasing our ship and they're catching up! Could you please help us out?\n\nLet's handle these thugs together!",
 		"german": "Hilfe!\n\nPiraten verfolgen unser Schiff und sie holen auf! Könntet ihr uns dabei helfen?\n\nSchlagen wir die Schurken gemeinsam zurück!",
+		"french": "À l'aide !\n\nDes pirates poursuivent notre navire et ils nous rattrapent ! Pourriez-vous nous aider, s'il vous plaît ?\n\nOccupons-nous de ces bandits ensemble !",
 		"russian": "Помогите!\n\nПираты преследуют наш корабль, и они догоняют! Не могли бы вы помочь нам?\n\nДавайте разберемся с этими головорезами вместе.",
 		"portuguese": "Socorro!\n\nPiratas estão perseguindo nosso navio e estão alcançando! Você poderia nos ajudar?\n\nVamos lidar com esses bandidos juntos!",
 		"italian": "Aiuto!\n\nI pirati stanno inseguendo la nostra nave e ci stanno raggiungendo! Ti prego, potresti aiutarci?\n\nOccupiamoci di questi criminali insieme!",
@@ -779,6 +780,7 @@
 	"pirateChaseHelpAccept": {
 		"english": "Of course! Land next to our village and we'll defend you!",
 		"german": "Klar! Legt in der Nähe an und wir werden euch verteidigen!",
+		"french": "Bien sûr ! Débarquez à côté de notre village et nous vous défendrons !",
 		"russian": "Конечно! Приплывайте на остров рядом с нашей деревней и мы защитим вас!",
 		"portuguese": "Claro! Terreno ao lado da nossa vila e nós vamos defendê-lo!",
 		"italian": "Certo! Approdate vicino al nostro villaggio e vi difenderemo!",
@@ -787,6 +789,7 @@
 	"pirateChaseHelpRefuse": {
 		"english": "Sorry... we can't really afford any conflict at the moment.",
 		"german": "Sorry... Wir können uns gerade keine Konflikte leisten.",
+		"french": "Désolé... nous ne pouvons pas vraiment nous permettre un conflit pour le moment.",
 		"russian": "Простите... Но в данный момент мы не в силах сражаться.",
 		"portuguese": "Desculpe ... não podemos realmente ter nenhum conflito no momento.",
 		"italian": "Mi spiace... non possiamo permetterci di entrare in conflitto al momento.",
@@ -795,6 +798,7 @@
 	"pirateChaseHelpAcceptedAnswer": {
 		"english": "Thank you so much! We will head directly for your island. Get ready for a fight, friend.",
 		"german": "Vielen Dank! Wir segeln auf schnellstem Weg zu eurer Insel. Bereitet euch auf einen Kampf vor, Freunde!",
+		"french": "Merci infiniment ! Nous nous dirigerons directement vers votre île. Préparez-vous à vous battre, mon ami.",
 		"russian": "Большое спасибо! Мы скоро приплывем на ваш остров. Будьте готовы сражаться!",
 		"portuguese": "Muito obrigado! Iremos diretamente para sua ilha. Prepare-se para uma luta, amigo.",
 		"italian": "Grazie mille! Ci dirigeremo direttamente verso la tua isola. Preparati a combattere, amico.",
@@ -803,6 +807,7 @@
 	"pirateChaseHelpRefusedAnswer": {
 		"english": "We're disappointed by your cowardice in our time of need.\n\nMaybe we shouldn't be surprised...",
 		"german": "Eure Feigheit ist enttäuschend.\n\nVielleicht sollten wir nicht überrascht sein.",
+		"french": "Nous sommes déçus par votre lâcheté en ces temps difficiles.\n\nPeut-être ne devrions-nous pas être surpris...",
 		"russian": "Мы разочарованы в вас.\n\nХотя, чему удивляться.",
 		"portuguese": "Estamos desapontados com sua covardia em nosso tempo de necessidade.\n\nTalvez não devêssemos nos surpreender ...",
 		"italian": "Siamo delusi dalla tua codardia nel momento del bisogno.\n\nForse non dovremmo esserne sorpresi...",
@@ -811,6 +816,7 @@
 	"pirateChaseHelpSuccess": {
 		"english": "Yes! We drove them away! Let that be a lesson to them.\n\nThanks so much for your help.",
 		"german": "Jawohl! Wir haben sie vertrieben! Lass das ihnen eine Lehre sein.\n\nVielen Dank für eure Hilfe.",
+		"french": "Oui ! On les a chassés ! Que cela leur serve de leçon.\n\nMerci beaucoup pour votre aide.",
 		"russian": "Да! Мы их прогнали! Пусть это будет для них уроком.\n\nБольшое спасибо за помощь.",
 		"portuguese": "Sim! Nós os expulsamos! Que isso seja uma lição para eles.\n\nMuito obrigado pela sua ajuda.",
 		"italian": "Sì! Li abbiamo scacciati! Che gli serva da lezione.\n\nGrazie mille per il tuo aiuto.",
@@ -821,6 +827,7 @@
 	"pirateChaseHelpFailure": {
 		"english": "Oh no. No no no.\n\nThey were too strong. We have some terrible losses to mourn.",
 		"german": "Oh nein. Nein, nein, nein.\nSie waren zu stark. Wir trauen über ein paar schreckliche Verluste.",
+		"french": "Oh non. Non, non, non !\n\nIls étaient trop forts. Nous avons de terribles pertes à pleurer.",
 		"portuguese": "Ah não. Não não não.\n\nEles eram fortes demais. Temos algumas perdas terríveis para lamentar.",
 		"italian": "Oh, no. No, no, no.\n\nErano troppo forti. Abbiamo delle terribili perdite da piangere.",
 		"russian": "О нет. Нет, нет, нет.\n\nОни были слишком сильны. Мы потеряли много бойцов.",

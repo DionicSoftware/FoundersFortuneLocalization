@@ -41,7 +41,7 @@
 	"weAreSorry": {
 		"english": "We're sorry.",
 		"german": "Es tut uns leid.",
-		"portuguese": "Pedo desculpa.",
+		"italian": "Ci dispiace.",
 	},
 	"thanks": {
 		"english": "Thanks.",
@@ -98,6 +98,7 @@
 	"nothingValuableSelected": {
 		"english": "Present not valuable enough.",
 		"german": "Geschenk nicht wertvoll genug.",
+		"italian": "Regalo di poco valore.",
 		// TODO-french
 		// TODO-dutch
 		// TODO-turkish
@@ -110,7 +111,6 @@
 		"dutch": "Niets van waarde geselecteerd.",
 		"turkish": "Değeri olan hiçbirşey seçilmedi.",
 		"chinese": "未选择有价值的东西。",
-		"italian": "Niente di valore selezionato.",
 	},
 
 
@@ -732,7 +732,7 @@
 		"english": "We'll see about that.",
 		"german": "Das werden wir sehen.",
 		"french": "C'est ce qu'on va voir.",
-		"portuguese": "Vamos ver sobre isso.",
+		"italian": "Questo lo vedremo.",
 	},
 	"goblinTributeDeniedNeutralRelations": {
 		"english": "We will remember your attitude.",
@@ -768,36 +768,43 @@
 		"english": "Help!\n\nPirates are chasing our ship and they're catching up! Could you please help us out?\n\nLet's handle these thugs together!",
 		"german": "Hilfe!\n\nPiraten verfolgen unser Schiff und sie holen auf! Könntet ihr uns dabei helfen?\n\nSchlagen wir die Schurken gemeinsam zurück!",
 		"portuguese": "Socorro!\n\nPiratas estão perseguindo nosso navio e estão alcançando! Você poderia nos ajudar?\n\nVamos lidar com esses bandidos juntos!",
+		"italian": "Aiuto!\n\nI pirati stanno inseguendo la nostra nave e ci stanno raggiungendo! Ti prego, potresti aiutarci?\n\nOccupiamoci di questi criminali insieme!",
 	},
 	"pirateChaseHelpAccept": {
 		"english": "Of course! Land next to our village and we'll defend you!",
 		"german": "Klar! Legt in der Nähe an und wir werden euch verteidigen!",
 		"portuguese": "Claro! Terreno ao lado da nossa vila e nós vamos defendê-lo!",
+		"italian": "Certo! Approdate vicino al nostro villaggio e vi difenderemo!",
 	},
 	"pirateChaseHelpRefuse": {
 		"english": "Sorry... we can't really afford any conflict at the moment.",
 		"german": "Sorry... Wir können uns gerade keine Konflikte leisten.",
 		"portuguese": "Desculpe ... não podemos realmente ter nenhum conflito no momento.",
+		"italian": "Mi spiace... non possiamo permetterci di entrare in conflitto al momento.",
 	},
 	"pirateChaseHelpAcceptedAnswer": {
 		"english": "Thank you so much! We will head directly for your island. Get ready for a fight, friend.",
 		"german": "Vielen Dank! Wir segeln auf schnellstem Weg zu eurer Insel. Bereitet euch auf einen Kampf vor, Freunde!",
 		"portuguese": "Muito obrigado! Iremos diretamente para sua ilha. Prepare-se para uma luta, amigo.",
+		"italian": "Grazie mille! Ci dirigeremo direttamente verso la tua isola. Preparati a combattere, amico.",
 	},
 	"pirateChaseHelpRefusedAnswer": {
 		"english": "We're disappointed by your cowardice in our time of need.\n\nMaybe we shouldn't be surprised...",
 		"german": "Eure Feigheit ist enttäuschend.\n\nVielleicht sollten wir nicht überrascht sein.",
 		"portuguese": "Estamos desapontados com sua covardia em nosso tempo de necessidade.\n\nTalvez não devêssemos nos surpreender ...",
+		"italian": "Siamo delusi dalla tua codardia nel momento del bisogno.\n\nForse non dovremmo esserne sorpresi...",
 	},
 	"pirateChaseHelpSuccess": {
 		"english": "Yes! We drove them away! Let that be a lesson to them.\n\nThanks so much for your help.",
 		"german": "Jawohl! Wir haben sie vertrieben! Lass das ihnen eine Lehre sein.\n\nVielen Dank für eure Hilfe.",
 		"portuguese": "Sim! Nós os expulsamos! Que isso seja uma lição para eles.\n\nMuito obrigado pela sua ajuda.",
+		"italian": "Sì! Li abbiamo scacciati! Che gli serva da lezione.\n\nGrazie mille per il tuo aiuto.",
 	},
 	"pirateChaseHelpFailure": {
 		"english": "Oh no. No no no.\n\nThey were too strong. We have some terrible losses to mourn.",
 		"german": "Oh nein. Nein, nein, nein.\nSie waren zu stark. Wir trauen über ein paar schreckliche Verluste.",
 		"portuguese": "Ah não. Não não não.\n\nEles eram fortes demais. Temos algumas perdas terríveis para lamentar.",
+		"italian": "Oh, no. No, no, no.\n\nErano troppo forti. Abbiamo delle terribili perdite da piangere.",
 	},
 
 
@@ -807,83 +814,97 @@
 		"german": "Hey! Schön euch wieder zu sehen.\n\nWir haben gemerkt, dass wir noch ein paar Dinge benötigen um unsere Operationen am Laufen zu halten. Ihr helft uns bestimmt gern dabei, oder?\n\nWir benötigen: %tribute%\n\nIhr habt %days% Tage Zeit.",
 		"french": "Hey ! Ravi de vous revoir.\n\nNous avons remarqué que nous avons besoin de plus de choses pour poursuivre nos activités. Ça ne vous dérangera pas de nous les fournir, n'est-ce pas ?\n\nNous en aurions besoin : %tribute%\n\nVous avez %days% jours pour livrer la marchandise.",
 		"portuguese": "Ei! Prazer em vê-lo novamente.\n\nPercebemos que precisamos de mais algumas coisas para manter nossas operações em execução. Você não se importará de fornecê-los para nós, certo?\n\nNós precisaríamos: %tribute%\n\nVocê tem %days% dias para entregar.",
+		"italian": "Ehi! Che bello rivederti.\n\nCi siamo resi conto che abbiamo bisogno di altre cose per far sì che le nostre operazioni proseguano. Non ti dispiacerà fornircele, giusto?\n\nAvremmo bisogno di: %tribute%\n\nHai %days% giorni per la consegna.",
 	},
 	"timedTributeDemandAccept": {
 		"english": "Of course. We'd be happy to help you out with that.",
 		"german": "Natürlich, wir helfen euch gerne.",
 		"french": "Bien sûr. Nous serions heureux de vous aider.",
 		"portuguese": "Claro. Ficaríamos felizes em ajudá-lo com isso.",
+		"italian": "Certo. Saremo felici di aiutarti.",
 	},
 	"timedTributeDemandRefuse": {
 		"english": "What? No, forget it.",
 		"german": "Wie bitte? Nein, vergesst es.",
 		"french": "Quoi ? Non, oublie ça.",
 		"portuguese": "O que? Não, esqueça.",
+		"italian": "Cosa? No, dimenticalo.",
 	},
 	"timedTributeDemandAcceptAnswer": {
 		"english": "Thanks. We're going to be back shortly.",
 		"german": "Danke. Wir werden bald zurück sein.",
 		"french": "Merci. Nous serons de retour d'ici peu.",
 		"portuguese": "Obrigado. Voltaremos em breve.",
+		"italian": "Grazie. Torneremo a breve.",
 	},
 	"timedTributeDemandRefuseAreYouSure": {
 		"english": "What? Are you sure? This is not going to end well for you...",
 		"german": "Was? Seid ihr sicher? Das wird nicht gut für euch enden...",
 		"french": "Quoi ? Vous êtes sûr ? Ça ne va pas bien se terminer pour vous...",
 		"portuguese": "O que? Você tem certeza? Isso não vai acabar bem para você ...",
+		"italian": "Cosa? Davvero? Questa cosa non andrà a finire bene...",
 	},
 	"timedTributeDemandRefuseAreYouSureGiveIn": {
 		"english": "Nevermind, we'll make it for you.",
 		"german": "Ok ok, wir helfen euch.",
 		"french": "Peu importe, on le fera pour vous.",
 		"portuguese": "Deixa pra lá, nós vamos fazer isso por você.",
+		"italian": "Non importa, sceglieremo noi per te.",
 	},
 	"timedTributeDemandRefuseAreYouSureRefuse": {
 		"english": "We will not do anything for you.",
 		"german": "Wir werden gar nichts für euch tun.",
 		"french": "Nous ne ferons rien pour vous.",
 		"portuguese": "Não faremos nada por você.",
+		"italian": "Non faremo nulla per te.",
 	},
 	"timedTributeCollecting": {
 		"english": "Hello again. Do you have the items we asked for?",
 		"german": "Hallo. Habt ihr die Gegenstände die wir haben wollten?",
 		"french": "Encore bonjour. Avez-vous les choses que nous avions demandées ?",
 		"portuguese": "Olá de novo. Você tem os itens que solicitamos?",
+		"italian": "Ciao di nuovo. Hai gli oggetti che abbiamo chiesto?",
 	},
 	"timedTributeCollectingHereYouGo": {
 		"english": "Of course. Here you go",
 		"german": "Natürlich. Bitteschön.",
 		"french": "Bien sûr. Les voilà.",
 		"portuguese": "Claro. Aqui está",
+		"italian": "Certo. Ecco a te.",
 	},
 	"timedTributeCollectingAlmostMadeIt": {
 		"english": "Sorry, we couldn't make it. Please take what we have.",
 		"german": "Es tut mir leid, wir haben es nicht geschafft. Bitte nehmt was wir haben.",
 		"french": "Désolé, nous n'avons pas réussi. S'il vous plaît, prenez ce que nous avons.",
 		"portuguese": "Desculpe, não conseguimos. Por favor, pegue o que temos.",
+		"italian": "Mi spiace, ma non ce l'abbiamo fatta. Ti prego di prendere quello che abbiamo.",
 	},
 	"timedTributeCollectingChangedMind": {
 		"english": "We changed our mind. You're getting nothing!",
 		"german": "Wir haben uns umentschieden. Ihr bekommt gar nichts!",
 		"french": "Nous avons changé d'avis. Vous n'aurez rien !",
 		"portuguese": "Mudamos de ideia. Você não está recebendo nada!",
+		"italian": "Abbiamo cambiato idea. Non avrai nulla!",
 	},
 	"timedTributePaidFull": {
 		"english": "Thanks! It's always nice doing business with you.",
 		"german": "Danke! Es ist immer schön mit euch Geschäfte zu machen.",
 		"french": "Merci ! C'est toujours un plaisir de faire affaire avec vous.",
 		"portuguese": "Obrigado! É sempre bom fazer negócios com você.",
+		"italian": "Grazie! È sempre bello fare affari con te.",
 	},
 	"timedTributePaidEnough": {
 		"english": "Arggh...\n\nAlright. We're letting you get away with it this time.",
 		"german": "Arggh...\n\nNa gut. Dieses mal kommt ihr noch davon damit.",
 		"french": "Arggh...\n\nD'accord. On te laisse t'en tirer comme ça cette fois.",
 		"portuguese": "Arggh ...\n\nTudo bem. Desta vez, vamos deixar você escapar impune.",
+		"italian": "Arggh...\n\nVa bene. Questa volta ti lasciamo andar via.",
 	},
 	"timedTributePaidNotEnough": {
 		"english": "No, that's not going to be enough for us. You are going to have to pay in other ways now.",
 		"german": "Nein, das wird nicht genug für uns sein. Jetzt werdet ihr auf andere Art bezahlen müssen.",
 		"french": "Non, ça ne nous suffira pas. Vous allez devoir payer autrement, maintenant.",
 		"portuguese": "Não, isso não será suficiente para nós. Você terá que pagar de outras maneiras agora.",
+		"italian": "No, non è abbastanza per noi. Adesso dovrai pagarla in altri modi.",
 	},
 }

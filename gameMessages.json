@@ -517,7 +517,7 @@
 		"dutch":  "%firstName% verwoned %zijnHaar% arm",
 		"german": "%firstName% hat %seinenIhren% Arm verletzt",
 		"french": "%firstName% s'est bléssé%e% au bras",
-		"spanish": "%firstName% se lastimó su brazo",
+		"spanish": "%firstName% se astimó su brazo",
 		"turkish": "%firstName% kolunu incitti",
 		"portuguese": "%firstName% ferido %seusSuas% braço",
 		"russian": "%firstName% повредил%surnameA% свою руку",
@@ -585,16 +585,19 @@
 		"english": "Pirates are arriving any moment now...",
 		"german": "Die Piraten werden jeden Moment ankommen...",
 		"french": "Les pirates vont arriver d'un moment à l'autre...",
+		"russian": "Пираты прибудут в любой момент...",
 	},
 	"notificationTitle_PiratesHaveLanded": {
 		"english": "Pirates have landed!",
 		"german": "Piraten haben angelegt!",
 		"french": "Des pirates ont débarqué !",
+		"russian": "Пираты прибыли!",
 	},
 	"notificationTitle_FactionWillComeForTributeIn": {
 		"english": "'%faction%' will come for %tribute% in %days% days",
 		"german": "'%faction%' kommen in %days% Tagen für %tribute%",
 		"french": "« %faction% » arriveront dans %days% jours pour %tribute%",
+		"russian": "'%faction%' придут за %tribute% через %days% дней",
 	},
 
 
@@ -744,26 +747,31 @@
 		"english": "I have the trait '%trait%'.",
 		"german": "Ich habe die Eigenschaft '%trait%'",
 		"french": "J'ai le trait « %trait% ».",
+		"russian": "У меня есть черта '%trait%'.",
 	},
 	"iHaveExperience": {
 		"english": "I am a level %level% %profession%.",
 		"german": "Ich bin ein Level %level% %profession%.",
 		"french": "Je suis un %profession% de niveau %level%.",
+		"russian": "У меня %level% уровень в %profession%.",
 	},
 	"iHaveNoExperience": {
 		"english": "I don't have a lot of working experience.",
 		"german": "Ich habe nicht besonders viel Arbeitserfahrung.",
 		"french": "Je n'ai pas beaucoup d'expérience professionnelle.",
+		"russian": "У меня нет большого опыта работы.",
 	},
 	"iDontLikeQuestioning": {
 		"english": "I don't like to be questioned like that.",
 		"german": "Ich möchte nicht so ausgefragt werden.",
 		"french": "Je n'aime pas qu'on me pose des questions comme ça.",
+		"russian": "Мне не нравится, когда меня так допрашивают.",
 	},
 	"tooMuchQuestioning": {
 		"english": "That's enough questioning. Bye bye.",
 		"german": "Das waren genug Fragen. Tschüss.",
 		"french": "Ça suffit, les questions. Au revoir.",
+		"russian": "Все, хватит с вопросами. Пока.",
 	},
 
 

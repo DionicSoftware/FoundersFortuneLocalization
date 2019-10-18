@@ -6,7 +6,7 @@
 		"dutch": "Niet genoeg middelen!",
 		"german": "Nicht genug Ressourcen!",
 		"french": "Pas assez de ressources !",
-		"spanish": "¡No hay suficientes recursos!",
+		"spanish": "¡No tienes suficientes recursos!",
 		"portuguese": "Recursos insuficientes!",
 		"turkish": "Yeterli kaynak yok!",
 		"bulgarian": "Не достатачно ресурси!",
@@ -21,7 +21,7 @@
 		"dutch":  "Kan dit niet dicht bij water bouwen!",
 		"german": "Kann nicht so nah am Wasser bauen!",
 		"french": "Impossible de construire près de l'eau !",
-		"spanish": "¡No se puede construir esto cerca del agua!",
+		"spanish": "¡No puedes construir esto cerca del agua!",
 		"portuguese": "Não é possível construir isso perto da água!",
 		"turkish": "Bunu suya yakın inşa edemezsin!",
 		"bulgarian": "Не може да се строи толкова близко до водата!",
@@ -584,6 +584,7 @@
 	"notificationTitle_PiratesArrivingSoon": {
 		"english": "Pirates are arriving any moment now...",
 		"german": "Die Piraten werden jeden Moment ankommen...",
+		"spanish": "Los piratas llegarán en cuaquier momento...",
 		"french": "Les pirates vont arriver d'un moment à l'autre...",
 		"russian": "Пираты прибудут в любой момент...",
 		"portuguese": "Piratas estão chegando a qualquer momento ...",
@@ -592,6 +593,7 @@
 	"notificationTitle_PiratesHaveLanded": {
 		"english": "Pirates have landed!",
 		"german": "Piraten haben angelegt!",
+		"spanish": "¡Los piratas han desembarcado!",
 		"french": "Des pirates ont débarqué !",
 		"russian": "Пираты прибыли!",
 		"portuguese": "Piratas desembarcaram!",
@@ -600,6 +602,7 @@
 	"notificationTitle_FactionWillComeForTributeIn": {
 		"english": "'%faction%' will come for %tribute% in %days% days",
 		"german": "'%faction%' kommen in %days% Tagen für %tribute%",
+		"spanish": "'%faction%' vendrán por %tribute% en %days% días",
 		"french": "« %faction% » arriveront dans %days% jours pour %tribute%",
 		"russian": "'%faction%' придут за %tribute% через %days% дней",
 		"portuguese": "'%faction%' virá para  %tribute% in %days% dias",
@@ -752,6 +755,7 @@
 	"iHaveTrait": {
 		"english": "I have the trait '%trait%'.",
 		"german": "Ich habe die Eigenschaft '%trait%'",
+		"spanish": "Tengo el rasgo '%trait%'.",
 		"french": "J'ai le trait « %trait% ».",
 		"russian": "У меня есть черта '%trait%'.",
 		"portuguese": "Eu tenho a característica '%trait%'.",
@@ -760,6 +764,7 @@
 	"iHaveExperience": {
 		"english": "I am a level %level% %profession%.",
 		"german": "Ich bin ein Level %level% %profession%.",
+		"spanish": "Soy %profession% de nivel %level%.",
 		"french": "Je suis un %profession% de niveau %level%.",
 		"russian": "У меня %level% уровень в %profession%.",
 		"portuguese": "Eu sou um nivel %level% %profession%.",
@@ -768,6 +773,7 @@
 	"iHaveNoExperience": {
 		"english": "I don't have a lot of working experience.",
 		"german": "Ich habe nicht besonders viel Arbeitserfahrung.",
+		"spanish": "No tengo mucha experiencia en el trabajo.",
 		"french": "Je n'ai pas beaucoup d'expérience professionnelle.",
 		"russian": "У меня нет большого опыта работы.",
 		"portuguese": "Eu não tenho muita experiência de trabalho.",
@@ -776,6 +782,7 @@
 	"iDontLikeQuestioning": {
 		"english": "I don't like to be questioned like that.",
 		"german": "Ich möchte nicht so ausgefragt werden.",
+		"spanish": "No me gusta ser interrogado de esta forma.",
 		"french": "Je n'aime pas qu'on me pose des questions comme ça.",
 		"russian": "Мне не нравится, когда меня так допрашивают.",
 		"portuguese": "Eu não gosto de ser questionado assim.",
@@ -784,6 +791,7 @@
 	"tooMuchQuestioning": {
 		"english": "That's enough questioning. Bye bye.",
 		"german": "Das waren genug Fragen. Tschüss.",
+		"spanish": "Basta de preguntas. Adiós.",
 		"french": "Ça suffit, les questions. Au revoir.",
 		"russian": "Все, хватит с вопросами. Пока.",
 		"portuguese": "Chega de questionar. Tchau tchau.",
@@ -916,6 +924,7 @@
 	"messageTitle_PirateRaid": {
 		"english": "Pirates have landed on the coast!",
 		"german": "Piraten sind an der Küste gelandet!",
+		"spanish": "¡Los piratas han desembarcado en la costa!",
 		"french": "Des pirates ont débarqué sur la côte !",
 		"portuguese": "Piratas desembarcaram na costa!",
 		"italian": "I pirati sono approdati sulla costa!",
@@ -924,6 +933,7 @@
 	"messageText_PirateRaid": {
 		"english": "The wild crew jumps from their ship weapons drawn. In their greedy faces you can see high hopes for easy loot.",
 		"german": "Die wilde crew springt an Land mit gezogenen Waffen. In ihren gierigen Gesichtern siehst du die Vorfreude auf leichte Beute.",
+		"spanish": "La tripulación salvaje salta de su barco con las armas listas. En sus codiciosos rostros puedes ver grandes expectativas por un botín fácil.",
 		"french": "L'équipage déchaîné saute de son navire, armes brandies. Dans leurs visages avides, vous pouvez voir de grands espoirs de pillage facile.",
 		"portuguese": "A tripulação selvagem pula de suas armas de navio sacadas. Em seus rostos gananciosos você pode ver grandes esperanças de saques fáceis.",
 		"italian": "Quei selvaggi sono saltati già dalla loro nave con le armi alla mano. Nei loro volti avidi puoi intravedere grandi speranze di un facile bottino.",

@@ -1192,8 +1192,9 @@ En el pasado, hemos hecho varias versiones Alfa disponibles a través de nuestro
 
 Todas las características en el Tráiler, en las capturas de pantalla y en la sección "Acerca de este juego" están implementadas y son jugables.
 
-//TODO-spanish
-// change your language to "dev" when you're done so I remember to update it!
+Las actualizaciones principales en Acceso Anticipado usualmente romperán la compatibilidad de los juegos guardados. Mantemenos la versión más antigua para que puedas continuar jugando en ella, pero no podrás jugar las partidad guardadas en Alpha 9 con la versión Alpha 10, por ejemplo. Esto solo aplica mientras estemos en Acceso Anticipado.
+
+//TODO-dev
 
 ### Turkish
 Geçmişte, oyuncular için web sitemiz üzerinden çeşitli Alpha sürümleri hazırladık. Bu bilgiyi yazdığmız sırada, her gün 100-300 oyuncumuz, teknoloji ağacının kilidini açmak için ve nüfus sınırına ulaşmak için 18 saatten daha da fazla zaman harcıyor.

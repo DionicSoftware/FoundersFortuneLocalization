@@ -21,7 +21,7 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 ## Custom.txt:
 ```
 Game Version:
-Alpha 10.1
+Alpha 10.2
 Forced Language:
 english
 ```

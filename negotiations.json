@@ -47,6 +47,7 @@
 		"russian": "Нам жаль.",
 		"portuguese": "Nós lamentamos.",
 		"turkish": "Üzgünüz.",
+		"korean": "미안하네.",
 	},
 	"thanks": {
 		"english": "Thanks.",
@@ -739,6 +740,7 @@
 		"russian": "Мы припомним вам это.",
 		"portuguese": "Vamos ver sobre isso.",
 		"turkish": "Göreceğiz bakalım.",
+		"korean": "두고 보지.",
 	},
 	"goblinTributeDeniedNeutralRelations": {
 		"english": "We will remember your attitude.",
@@ -779,6 +781,7 @@
 		"portuguese": "Socorro!\n\nPiratas estão perseguindo nosso navio e estão alcançando! Você poderia nos ajudar?\n\nVamos lidar com esses bandidos juntos!",
 		"italian": "Aiuto!\n\nI pirati stanno inseguendo la nostra nave e ci stanno raggiungendo! Ti prego, potresti aiutarci?\n\nOccupiamoci di questi criminali insieme!",
 		"turkish": "Yardım!\n\nKorsanlar gemimizin peşinde ve neredeyse yakalamak üzereler! Lütfen yardım eder misiniz?\n\nHadi bu zorbalara derslerini verelim!",
+		"korean": "도와주시게!\n\n해적단이 우리를 뒤쫓아왔는데, 거의 따라잡혔네! 우리를 좀 도와줄 수는 없겠나?\n\n이 폭력배들을 같이 처리하세!",
 	},
 	"pirateChaseHelpAccept": {
 		"english": "Of course! Land next to our village and we'll defend you!",
@@ -789,6 +792,7 @@
 		"portuguese": "Claro! Terreno ao lado da nossa vila e nós vamos defendê-lo!",
 		"italian": "Certo! Approdate vicino al nostro villaggio e vi difenderemo!",
 		"turkish": "Elbette! Yerleşimimize yakın inin ve sizi burada koruyalım!",
+		"korean": "물론일세! 우리 마을 옆에 정박하시게. 우리가 막아내겠네!",
 	},
 	"pirateChaseHelpRefuse": {
 		"english": "Sorry... we can't really afford any conflict at the moment.",
@@ -799,6 +803,7 @@
 		"portuguese": "Desculpe ... não podemos realmente ter nenhum conflito no momento.",
 		"italian": "Mi spiace... non possiamo permetterci di entrare in conflitto al momento.",
 		"turkish": "Üzgünüz...yeni bir sorunla uğraşamayız",
+		"korean": "미안하네... 더 이상의 갈등을 일으키고 싶지는 않다네.",
 	},
 	"pirateChaseHelpAcceptedAnswer": {
 		"english": "Thank you so much! We will head directly for your island. Get ready for a fight, friend.",
@@ -809,6 +814,7 @@
 		"portuguese": "Muito obrigado! Iremos diretamente para sua ilha. Prepare-se para uma luta, amigo.",
 		"italian": "Grazie mille! Ci dirigeremo direttamente verso la tua isola. Preparati a combattere, amico.",
 		"turkish": "Çok teşekkür ederiz! Hemen adanıza doğru yelken açıyoruz. Dövüşe hazır olun, dostum",
+		"korean": "정말 고맙네! 당신네 섬으로 바로 가지. 친구여, 전투를 준비하시게.",
 	},
 	"pirateChaseHelpRefusedAnswer": {
 		"english": "We're disappointed by your cowardice in our time of need.\n\nMaybe we shouldn't be surprised...",
@@ -819,6 +825,7 @@
 		"portuguese": "Estamos desapontados com sua covardia em nosso tempo de necessidade.\n\nTalvez não devêssemos nos surpreender ...",
 		"italian": "Siamo delusi dalla tua codardia nel momento del bisogno.\n\nForse non dovremmo esserne sorpresi...",
 		"turkish": "İhtiyaç anımızdaki korkaklığınızdan dolayı hayal kırıklığına uğradık.\n\nBelki de bunu sizden beklemeliydik...",
+		"korean": "필요한 순간에 보여준 당신들의 비겁함에 실망했네.\n\n어쩌면 그렇게 놀랄만한 일은 아니었는지도...",
 	},
 	"pirateChaseHelpSuccess": {
 		"english": "Yes! We drove them away! Let that be a lesson to them.\n\nThanks so much for your help.",
@@ -829,6 +836,7 @@
 		"portuguese": "Sim! Nós os expulsamos! Que isso seja uma lição para eles.\n\nMuito obrigado pela sua ajuda.",
 		"italian": "Sì! Li abbiamo scacciati! Che gli serva da lezione.\n\nGrazie mille per il tuo aiuto.",
 		"turkish": "Evvet! Onları püskürttük. Ders olsun.\n\nYadımınıza müteşekkiriz.",
+		"korean": "좋아! 우리가 저것들을 쫓아냈어! 저것들이 교훈을 얻었겠지.\n\n도움을 주어 정말로 고맙소.",
 	},
 
 
@@ -841,6 +849,7 @@
 		"italian": "Oh, no. No, no, no.\n\nErano troppo forti. Abbiamo delle terribili perdite da piangere.",
 		"russian": "О нет. Нет, нет, нет.\n\nОни были слишком сильны. Мы потеряли много бойцов.",
 		"turkish": "Haaayır, olamaz.\n\nÇok güçlüydüler. Yasını tutacağımız çok kaybımız var.",
+		"korean": "오 저런. 안돼 안돼 안돼.\n\n저들은 너무 강해. 끔찍하게 죽은 이들을 애도하세.",
 	},
 
 
@@ -854,6 +863,7 @@
 		"portuguese": "Ei! Prazer em vê-lo novamente.\n\nPercebemos que precisamos de mais algumas coisas para manter nossas operações em execução. Você não se importará de fornecê-los para nós, certo?\n\nNós precisaríamos: %tribute%\n\nVocê tem %days% dias para entregar.",
 		"italian": "Ehi! Che bello rivederti.\n\nCi siamo resi conto che abbiamo bisogno di altre cose per far sì che le nostre operazioni proseguano. Non ti dispiacerà fornircele, giusto?\n\nAvremmo bisogno di: %tribute%\n\nHai %days% giorni per la consegna.",
 		"russian": "Хэй! Рады видеть вас снова.\n\nМы тут заметили, что нам нужно еще кое-что для развития. Вы же не против предоставить нам это, верно?\n\nНам нужно: %tribute%\n\nУ вас есть %days% дней на это.",
+		"korean": "여! 다시 보니 반갑구려.\n\n우리가 작업을 하다보니 몇 가지 좀 부족한 게 눈에 띄어서 말이네. 부족한 부분을 좀 얻어갈까 하는데, 괜찮소?\n\n우리가 필요한건: %tribute%\n\n이것들을 %days%일 안에 가져다 줄 수 있겠나.",
 	},
 	"timedTributeDemandAccept": {
 		"english": "Of course. We'd be happy to help you out with that.",
@@ -863,6 +873,7 @@
 		"portuguese": "Claro. Ficaríamos felizes em ajudá-lo com isso.",
 		"italian": "Certo. Saremo felici di aiutarti.",
 		"russian": "Конечно. Мы будем рады помочь вам с этим.",
+		"korean": "물론이오. 이렇게라도 당신네를 도울 수 있다니 좋소.",
 	},
 	"timedTributeDemandRefuse": {
 		"english": "What? No, forget it.",
@@ -872,6 +883,7 @@
 		"portuguese": "O que? Não, esqueça.",
 		"italian": "Cosa? No, dimenticalo.",
 		"russian": "Что? Нет, забудьте об этом.",
+		"korean": "뭐요? 아니 되오. 꺼지시오.",
 	},
 	"timedTributeDemandAcceptAnswer": {
 		"english": "Thanks. We're going to be back shortly.",
@@ -881,6 +893,7 @@
 		"portuguese": "Obrigado. Voltaremos em breve.",
 		"italian": "Grazie. Torneremo a breve.",
 		"russian": "Благодарю. Мы скоро вернемся.",
+		"korean": "고맙네. 조만간 갚겠네.",
 	},
 	"timedTributeDemandRefuseAreYouSure": {
 		"english": "What? Are you sure? This is not going to end well for you...",
@@ -890,6 +903,7 @@
 		"portuguese": "O que? Você tem certeza? Isso não vai acabar bem para você ...",
 		"italian": "Cosa? Davvero? Questa cosa non andrà a finire bene...",
 		"russian": "Что? Вы хорошо подумали? Что-то мне кажется, что ничем хорошим это не кончится...",
+		"korean": "뭐라고 했나? 진심인가? 당신들에게 좋게 끝나지 않을 것이네만...",
 	},
 	"timedTributeDemandRefuseAreYouSureGiveIn": {
 		"english": "Nevermind, we'll make it for you.",
@@ -899,6 +913,7 @@
 		"portuguese": "Deixa pra lá, nós vamos fazer isso por você.",
 		"italian": "Non importa, sceglieremo noi per te.",
 		"russian": "Неважно, мы сделаем это для вас.",
+		"korean": "농이었소. 들어드리지요.",
 	},
 	"timedTributeDemandRefuseAreYouSureRefuse": {
 		"english": "We will not do anything for you.",
@@ -908,6 +923,7 @@
 		"portuguese": "Não faremos nada por você.",
 		"italian": "Non faremo nulla per te.",
 		"russian": "Мы не будем ничего делать для вас.",
+		"korean": "우리가 줄 수 있는 건 아무것도 없소.",
 	},
 	"timedTributeCollecting": {
 		"english": "Hello again. Do you have the items we asked for?",
@@ -917,6 +933,7 @@
 		"portuguese": "Olá de novo. Você tem os itens que solicitamos?",
 		"italian": "Ciao di nuovo. Hai gli oggetti che abbiamo chiesto?",
 		"russian": "И снова здравствуйте. У вас есть вещи, о которых мы просили?",
+		"korean": "다시 봐서 반갑소. 우리가 말했던 물건들은 준비되어 있소?",
 	},
 	"timedTributeCollectingHereYouGo": {
 		"english": "Of course. Here you go",
@@ -926,6 +943,7 @@
 		"portuguese": "Claro. Aqui está",
 		"italian": "Certo. Ecco a te.",
 		"russian": "Конечно. Вот.",
+		"korean": "물론이오. 여기 있소.",
 	},
 	"timedTributeCollectingAlmostMadeIt": {
 		"english": "Sorry, we couldn't make it. Please take what we have.",
@@ -935,6 +953,7 @@
 		"portuguese": "Desculpe, não conseguimos. Por favor, pegue o que temos.",
 		"italian": "Mi spiace, ma non ce l'abbiamo fatta. Ti prego di prendere quello che abbiamo.",
 		"russian": "Извините, мы не можем это выполнить. Пожалуйста, возьмите то, что у нас есть.",
+		"korean": "미안하네만, 다 만들진 못했소. 여기 있는 것만이라도 가져가시게.",
 	},
 	"timedTributeCollectingChangedMind": {
 		"english": "We changed our mind. You're getting nothing!",
@@ -944,6 +963,7 @@
 		"portuguese": "Mudamos de ideia. Você não está recebendo nada!",
 		"italian": "Abbiamo cambiato idea. Non avrai nulla!",
 		"russian": "Мы передумали. Вы ничего не получите!",
+		"korean": "우리의 마음이 바뀌었소. 아무것도 줄 수 없소!",
 	},
 	"timedTributePaidFull": {
 		"english": "Thanks! It's always nice doing business with you.",
@@ -953,6 +973,7 @@
 		"portuguese": "Obrigado! É sempre bom fazer negócios com você.",
 		"italian": "Grazie! È sempre bello fare affari con te.",
 		"russian": "Спасибо! Приятно иметь с вами дело.",
+		"korean": "고맙소! 당신들과 거래하는건 참 좋은 일이오.",
 	},
 	"timedTributePaidEnough": {
 		"english": "Arggh...\n\nAlright. We're letting you get away with it this time.",
@@ -962,6 +983,7 @@
 		"portuguese": "Arggh ...\n\nTudo bem. Desta vez, vamos deixar você escapar impune.",
 		"italian": "Arggh...\n\nVa bene. Questa volta ti lasciamo andar via.",
 		"russian": "Хррр...\n\nМы позволим вам уйти с этим в этот раз.",
+		"korean": "으으...\n\n좋소. 이번만은 이 정도로 봐주겠소.",
 	},
 	"timedTributePaidNotEnough": {
 		"english": "No, that's not going to be enough for us. You are going to have to pay in other ways now.",
@@ -971,5 +993,6 @@
 		"portuguese": "Não, isso não será suficiente para nós. Você terá que pagar de outras maneiras agora.",
 		"italian": "No, non è abbastanza per noi. Adesso dovrai pagarla in altri modi.",
 		"russian": "Нет, этого недостаточно. Вам придется заплатить чем-то другим.",
+		"korean": "아니, 이걸로는 턱도 없소. 다른 방식으로라도 받아가야겠소.",
 	},
 }

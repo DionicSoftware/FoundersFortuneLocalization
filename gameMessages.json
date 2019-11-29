@@ -31,6 +31,18 @@
 		"chinese": "无法在如此靠近水的地方建造!",
 		"italian": "Non puoi costruire a così poca distanza dall'acqua!",
 	},
+	"needsToBeBuiltOnFloor": { // used for furniture building
+		"english": "Needs to be built on floor",
+		"german": "Muss auf Boden gebaut werden",
+	},
+	"needsToBeBuiltNextToFloor": { // used for wall building
+		"english": "Needs to be built next to floor tile",
+		"german": "Muss neben Boden gebaut werden",
+	},
+	"needsToBeBuiltAboveRoomOrTerrain": { // used for floor building
+		"english": "Needs to be built above room or on solid ground",
+		"german": "Muss oberhalb von Raum oder auf festem Boden gebaut werden",
+	},
 	"placeBlocked": {
 		"english": "This Place is blocked by something!",
 		"dutch":  "Deze plaats is geblokkeerd door iets!",

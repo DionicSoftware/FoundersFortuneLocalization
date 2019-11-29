@@ -1233,7 +1233,7 @@
 
 
 	// Don't translate the languages names from their original. Keep spanish "Español" for every language for example.
-	"english": {
+	"English": {
 		"english": "English",
 		"german": "English",
 		"french": "English",
@@ -1248,7 +1248,7 @@
 		"arabic": "English",
 		"italian": "English",
 	},
-	"german": {
+	"German": {
 		"english": "Deutsch",
 		"german": "Deutsch",
 		"french": "Deutsch",
@@ -1263,7 +1263,7 @@
 		"arabic": "Deutsch",
 		"italian": "Deutsch",
 	},	
-	"french": {
+	"French": {
 		"english": "Français",
 		"german": "Français",
 		"french": "Français",
@@ -1278,7 +1278,7 @@
 		"arabic": "Français",
 		"italian": "Français",
 	},	
-	"spanish": {
+	"Spanish": {
 		"english": "Español",
 		"german": "Español",
 		"french": "Español",
@@ -1293,7 +1293,7 @@
 		"arabic": "Español",
 		"italian": "Español",
 	},
-	"portuguese": {
+	"Portuguese": {
 		"english": "Portuges",
 		"german": "Portuges",
 		"french": "Portuges",
@@ -1308,7 +1308,7 @@
 		"arabic": "Portuges",
 		"italian": "Portuges",
 	},
-	"turkish": {
+	"Turkish": {
 		"english": "Türkçe",
 		"german": "Türkçe",
 		"french": "Türkçe",
@@ -1323,7 +1323,7 @@
 		"arabic": "Türkçe",
 		"italian": "Türkçe",
 	},
-	"dutch": { 
+	"Dutch": { 
 		"english": "Nederlands",
 		"german": "Nederlands",
 		"french": "Nederlands",
@@ -1338,7 +1338,7 @@
 		"arabic": "Nederlands",
 		"italian": "Nederlands",
 	},
-	"ukrainian": { 
+	"Ukrainian": { 
 		"english": "Українська",
 		"german": "Українська",
 		"french": "Українська",
@@ -1353,7 +1353,7 @@
 		"arabic": "Українська",
 		"italian": "Українська",
 	},
-	"russian": { 
+	"Russian": { 
 		"english": "Русский",
 		"german": "Русский",
 		"french": "Русский",
@@ -1368,7 +1368,7 @@
 		"arabic": "Русский",
 		"italian": "Русский",
 	},
-	"chinese": { 
+	"Chinese": { 
 		"english": "简体中文",
 		"german": "简体中文",
 		"french": "简体中文",
@@ -1383,7 +1383,7 @@
 		"arabic": "简体中文",
 		"italian": "简体中文",
 	},
-	"korean": {
+	"Korean": {
 		"english": "한국어",
 		"german": "한국어",
 		"french": "한국어",
@@ -1398,7 +1398,7 @@
 		"arabic": "한국어",
 		"italian": "한국어",
 	},
-	"arabic": { 
+	"Arabic": { 
 		"english": "ﺔﻴﺑﺮﻌﻟﺍ",
 		"german": "ﺔﻴﺑﺮﻌﻟﺍ",
 		"french": "ﺔﻴﺑﺮﻌﻟﺍ",
@@ -1413,7 +1413,7 @@
 		"arabic": "ﺔﻴﺑﺮﻌﻟﺍ",
 		"italian": "ﺔﻴﺑﺮﻌﻟﺍ",
 	},
-	"italian": { 
+	"Italian": { 
 		"english": "Italiano",
 		"german": "Italiano",
 		"french": "Italiano",
@@ -1693,6 +1693,14 @@
 		"korean": "줌아웃",
 		"italian": "Riduci zoom",
 		"chinese": "缩小",
+	},
+	"floorUp": {
+		"english": "Floor up",
+		"german": "Stockwerk höher",
+	},
+	"floorDown": {
+		"english": "Floor down",
+		"german": "Stockwerk tiefer",
 	},
 	"timeControl": {
 		"english": "Time Control",

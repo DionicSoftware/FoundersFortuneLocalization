@@ -1,4 +1,9 @@
 {
+	// used in resource panel on top, needs to be super short
+	"stockpileLimit": {
+		"english": "Max:",
+		"german": "Max:",
+	},
 	"research": {
 		"english": "Research",
 		"german": "Forschung",
@@ -2516,6 +2521,10 @@
 		//"arabic": "",
 		"polish": "Kolonia nie ma %coins% moent by dokonać handlu.",
 		"italian": "Questa colonia non ha %coins% monete per concludere questo accordo.",
+	},
+	"stockpilesOutOfSpaceForAmount": {
+		"english": "Stockpiles don't have enough space for %amount% %resource%.",
+		"german": "Nicht genug Platz im Lager für %amount% %resource%.",
 	},
 
 

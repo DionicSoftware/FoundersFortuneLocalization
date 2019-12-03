@@ -17,7 +17,6 @@
 		"chinese": "生食篮子",
 		"italian": "Cesto per cibi crudi",
 	},
-	//TODO-french: additional sentence at the end
 	//TODO-spanish: additional sentence at the end
 	//TODO-portuguese: additional sentence at the end
 	//TODO-turkish: additional sentence at the end
@@ -31,7 +30,7 @@
 	"appleBasketDescription": {
 		"english": "Use this basket to provide your colonists with raw food. Whenever they are hungry, they will come to the basket to get something to eat - as long as you have enough food in store.\n\nThis basket can store up to %capacityFoodRaw% raw food.",
 		"german": "Benutze diesen Korb um deine Kolonisten mit rohem Essen zu versorgen. Immer wenn sie hungrig sind werden sie von selbst zum Korb kommen und sich etwas zu essen holen - solange du genug im Lager hast.\n\nDieser Korb kann bis zu %capacityFoodRaw% rohes Essen lagern.",
-		"french": "Utilisez ce panier pour fournir à vos colons des aliments crus. Lorsqu'ils auront faim, ils iront chercher de quoi manger dans le panier - aussi longtemps que vous aurez des aliments en stock.",
+		"french": "Utilisez ce panier pour fournir à vos colons des aliments crus. Lorsqu'ils auront faim, ils iront chercher de quoi manger dans le panier - aussi longtemps que vous aurez des aliments en stock.\n\nCe panier peut contenir jusqu'à %capacityFoodRaw% aliments crus.",
 		"spanish": "Utiliza esta canasta para proveer de comida cruda a tus colonos. Cuando tengan hambre, vendrán aquí para conseguir algo que comer - mientras tengas suficiente comida almacenada.",
 		"portuguese": "Use esta cesta para fornecer alimentos crus aos seus colonos. Sempre que estiverem com fome, eles virão ao cesto para comer alguma coisa - contanto que você tenha comida suficiente na loja.",
 		"turkish": "Bu sepeti kolonilerinize çiğ yiyecek sağlamak için kullanın. Acıklarında yiyecek bir şeyler almak için sepete gelirler - yeterince yiyecek bulunduğunuz sürece.",
@@ -58,7 +57,6 @@
 		"chinese": "烤制食物架子",
 		"italian": "Scaffale per cibo dal falò",
 	},
-	//TODO-french: additional sentence at the end
 	//TODO-spanish: additional sentence at the end
 	//TODO-portuguese: additional sentence at the end
 	//TODO-turkish: additional sentence at the end
@@ -72,7 +70,7 @@
 	"foodShelfCampfireDescription": {
 		"english": "This mixture of shelf and basket is the ideal place to store food that's been cooked on a campfire!\n\nThis shelf can store up to %capacityFoodCooked% cooked food.",
 		"german": "Diese Mischung aus Regal und Korb ist der ideale Lagerort für Essen, das am Lagerfeuer zubereitet wurde!\n\nDieses Regal kann bis zu %capacityFoodCooked% gekochte Mahlzeiten lagern.",
-		"french": "Ce mix d'étagère et de panier est l'endroit idéal pour stocker de la nourriture qui a été cuite sur un feu de camp !",
+		"french": "Ce mix d'étagère et de panier est l'endroit idéal pour stocker de la nourriture qui a été cuite sur un feu de camp !\n\nCette étagère peut contenir jusqu'à %capacityFoodCooked% aliments cuits.",
 		"spanish": "Esta combinación de estantería y canasta es ideal para guardar la comida cocinada en una hoguera.",
 		"portuguese": "Esta mistura de prateleira e cesta é ideal para armazenar alimentos que foram preparados em uma fogueira!",
 		"turkish": "Bu raf ve sepet karışımı, kamp ateşinde pişirilmiş yiyecekleri saklamak için ideal!",
@@ -99,7 +97,6 @@
 		"chinese": "烹饪食物架子",
 		"italian": "Scaffale per cibo da cucina",
 	},
-	//TODO-french: additional sentence at the end
 	//TODO-spanish: additional sentence at the end
 	//TODO-portuguese: additional sentence at the end
 	//TODO-turkish: additional sentence at the end
@@ -113,7 +110,7 @@
 	"foodShelfKitchenDescription": {
 		"english": "What better place to store your kitchen food than on this gorgeous shelf!\n\nThis shelf can store up to %capacityFoodCooked% cooked food.",
 		"german": "Welchen besseren Ort gibt es zum Lagern von Essen aus der Küche als dieses wunderschöne Regal?\n\nDieses Regal kann bis zu %capacityFoodCooked% gekochte Mahlzeiten lagern.",
-		"french": "Quel meilleur endroit pour stocker la nourriture de cuisine que sur cette fabuleuse étagère ?",
+		"french": "Quel meilleur endroit pour stocker la nourriture de cuisine que sur cette fabuleuse étagère ?\n\nCette étagère peut contenir jusqu'à %capacityFoodCooked% aliments cuits.",
 		"spanish": "¿Qué mejor lugar para la comida de la cocina que esta gran estantería?",
 		"portuguese": "Qual o melhor lugar para armazenar sua comida de cozinha do que nesta prateleira linda?",
 		"turkish": "Mutfak Yemeklerini saklamak için bu muhteşem raftan daha iyi bir yer var mı?",
@@ -140,7 +137,6 @@
 		"chinese": "烤制食物架",
 		"italian": "Scaffale per cibi da forno",
 	},
-	//TODO-french: additional sentence at the end
 	//TODO-spanish: additional sentence at the end
 	//TODO-portuguese: additional sentence at the end
 	//TODO-turkish: additional sentence at the end
@@ -154,7 +150,7 @@
 	"foodShelfBakeryDescription": {
 		"english": "This shelf is your first choice for food that was baked at a bakery.\n\nThis shelf can store up to %capacityFoodCooked% cooked food.",
 		"german": "Für frische Leckereien aus einer Bäckerei ist dieses Regal die erste Wahl.\n\nDieses Regal kann bis zu %capacityFoodCooked% gekochte Mahlzeiten lagern.",
-		"french": "Cette étagère est votre premier choix pour la nourriture qui a été cuite à la boulangerie.",
+		"french": "Cette étagère est votre premier choix pour la nourriture qui a été cuite à la boulangerie.\n\nCette étagère peut contenir jusqu'à %capacityFoodCooked% aliments cuits.",
 		"spanish": "Esta estantería es tu primera elección para comida que se horneó en una panadería.",
 		"portuguese": "Esta prateleira é a sua primeira escolha para alimentos que foram assados em uma padaria.",
 		"turkish": "Bu raf fırında pişirilen yiyecekler için ilk tercihiniz olacak.",
@@ -181,7 +177,6 @@
 		"chinese": "治疗药水架子",
 		"italian": "Armadietto di pozioni curative",
 	},
-	//TODO-french: additional sentence at the end
 	//TODO-spanish: additional sentence at the end
 	//TODO-portuguese: additional sentence at the end
 	//TODO-turkish: additional sentence at the end
@@ -195,7 +190,7 @@
 	"potionMedicineStorageDescription": {
 		"english": "Does your leg hurt? Are you sick? Losing blood? No matter what kind of harm has fallen upon you, a healing potion is always a good idea. Even if it doesn't really cure your condition, at least it numbs the pain. And these potions taste good, too.\n\nThis shelf can store up to %capacityMedicine% medicine and up to %capacityHealingPotion% healing potions%.",
 		"german": "Schmerzt dein Bein? Bist du krank? Verlierst Blut? Egal welches Unglück dich heimsucht, ein Heiltrank ist immer eine gute Idee. Selbst wenn er nicht die Ursache behebt, wird zumindest der Schmerz betäubt. Und gut schmecken diese Tränke auch.\n\nDieses Regal kann bis zu %capacityMedicine% Medizin und %capacityHealingPotion% Heiltränke lagern.",
-		"french": "Vous avez mal à la jambe ? Vous êtes malade ? Vous perdez du sang ? Peu importe le mal que vous avez, une potion de guérison est toujours une bonne idée. Même si cela ne vous guérit pas vraiment, au moins, cela atténue la douleur. Et ces potions ont bon goût, aussi.",
+		"french": "Vous avez mal à la jambe ? Vous êtes malade ? Vous perdez du sang ? Peu importe le mal que vous avez, une potion de guérison est toujours une bonne idée. Même si cela ne vous guérit pas vraiment, au moins, cela atténue la douleur. Et ces potions ont bon goût, aussi.\n\nCette étagère peut contenir jusqu'à %capacityMedicine% remèdes et jusqu'à %capacityHealingPotion% potions de guérison.",
 		"spanish": "¿Te duele la pierna? ¿Estás enfermo? ¿Perdiendo sangre? Sin importar el tipo de daño que ha caído sobre ti, una poción curativa es siempre una buena idea. Incluso si realmente no cura tu condición, al menos adormece el dolor. Y además, saben bien.",
 		"portuguese": "Sua perna está doendo? Você está doente? Perder sangue? Não importa que tipo de dano tenha caído sobre você, uma poção de cura é sempre uma boa ideia. Mesmo que não cure realmente a sua condição, pelo menos isso amortece a dor. E essas poções também são boas.",
 		"russian": "У вас болит нога? Вы болеете? Потеряли много крови? Независимо от того, какой вред вам нанесен, лечебное зелье всегда будет хорошей идеей. Оно не лечит, однако, оно помогает ослабить боль. А еще, эти зелья такие вкусные!",
@@ -222,7 +217,6 @@
 		"chinese": "啤酒桶",
 	    	"italian": "Barile di birra",
 	},
-	//TODO-french: additional sentence at the end
 	//TODO-spanish: additional sentence at the end
 	//TODO-portuguese: additional sentence at the end
 	//TODO-turkish: additional sentence at the end
@@ -236,7 +230,7 @@
 	"beerRefillBarrelDescription": {
 		"english": "As a means of storage and the origin of fresh beer, a beer barrel is of high importance to all colonies out there (Well, as long as there is some left in there...). You'll see how happy your colonists get when you allow them to fill up their mugs. Cheers!\n\nThis barrel can contain up to %capacityBeer% beer.",
 		"german": "Als Aufbewahrungsort und Quelle des goldenen Gerstensaftes haben Bierfässer einen ganz hohen Stellenwert in jeder Kolonie (Naja, zumindest solange sie auch wohl gefüllt sind...). Du wirst sehen mit welcher Vorfreude deine Kolonisten zum Zapfen schreiten werden. Zum Wohl!\n\nDieses Fass kann bis zu %capacityBeer% beer halten.",
-		"french": "En tant que moyen de stockage et origine de la bière fraîche, le baril de bière revêt une grande importance pour toutes les colonies (tant qu’il en restera dedans...). Vous verrez à quel point vos colons seront heureux lorsque vous leur permettrez de remplir leur chope. À votre santé !",
+		"french": "En tant que moyen de stockage et origine de la bière fraîche, le baril de bière revêt une grande importance pour toutes les colonies (tant qu’il en restera dedans...). Vous verrez à quel point vos colons seront heureux lorsque vous leur permettrez de remplir leur chope. À votre santé !\n\nCe baril peut contenir jusqu'à %capacityBeer% bières.",
 		"russian": "Пивная бочка отлично подойдет для хранения пива. Она очень востребованна колонистами (Ну, пока она не опустошится...). Вы сразу увидите, как настроение ваших колонистов поднимется после употребления этого пшеничного напитка. Ура!",
 		"portuguese": "Como um meio de armazenamento e a origem da cerveja fresca, barril de cerveja é de grande importância para todas as colônias lá fora (Bem, contanto que haja algum deixado lá ...). Você verá como seus colonos ficam felizes quando você lhes permite encher suas canecas. Felicidades!",
 		"ukrainian":"Пивна бочка відмінно підійде для зберігання пива. Вона дуже потрібна колоністами (Ну, поки вона не спустошиться ...). Ви відразу побачите, як настрій ваших колоністів підніметься після вживання цього пшеничного напою. Ура!",
@@ -5117,90 +5111,112 @@
 	"stockpileWood": {
 		"english": "Wood Stockpile",
 		"german": "Holzlager",
+		"french": "Réserve de Bois",
 	},
 	"stockpileWoodDescription": {
 		"english": "Large, strong, and durable. These are the qualities you need when you want to store tons of logs.\n\nThis stockpile can hold up to %capacityWood% wood.",
 		"german": "Groß, stark, und beständig. Diese Eigenschaften sind nötig, wenn du tonnenweise Holz lagern willst.\n\nDieses Lager kann bis zu %capacityWood% Holz halten.",
+		"french": "Grande, solide et durable. Ce sont les qualités dont vous avez besoin lorsque vous voulez stocker des tonnes de bûches.\n\nCette réserve peut contenir jusqu'à %capacityWood% bois.",
 	},
 	"stockpileStone": {
 		"english": "Stone Stockpile",
 		"german": "Steinlagerplatz",
+		"french": "Réserve de Pierre",
 	},
 	"stockpileStoneDescription": {
 		"english": "Make sure your villagers don't stub their toes on heavy rocks and build a proper stockpile for your raw material stones.\n\nThis stockpile can hold upt o %capacityStone% stone.",
 		"german": "Sorge dafür, dass deine Dörfler nicht ihre Zehen an herumliegenden Felsen stoßen und baue einen ordentlichen Lagerplatz für deine rohen Baumaterialien.\n\nDieser Lagerplatz kann bis zu %capacityStone% Stein halten.",
+		"french": "Assurez-vous que vos villageois ne se coincent pas les orteils sur des roches lourdes et construisent une réserve appropriée pour votre pierre.\n\nCette réserve peut contenir jusqu'à %capacityStone% pierres.",
 	},
 	"stockpileCrystal": {
 		"english": "Crystal Stockpile",
 		"german": "Kristalllagerplatz",
+		"french": "Réserve de Cristal",
 	},
 	"stockpileCrystalDescription": {
 		"english": "Has your scholar ever run out of crystals in the middle of some important analysis? Make sure research can progress without impediments by building up a stock of crystals.\n\n This stockpile can hold up to %capacityCrystal% crystals.",
 		"german": "Sind deinem Gelehrten schon mal die Kirstalle ausgegangen? Mitten in einer wichtigen Analyse? Mache den Weg frei für Fortschritt indem du immer genug Kristalle auf Lager hältst.\n\nDieser Lagerplatz kann bis zu %capacityCrystal% Kristalle halten.",
+		"french": "Votre érudit a-t-il déjà été à court de cristaux au milieu d'une recherche importante ? Veillez à ce que la recherche puisse progresser sans entraves en constituant un stock de cristaux.\n\nCette réserve peut contenir jusqu'à %capacityCrystal% cristaux.",
 	},
 	"stockpileCotton": {
 		"english": "Cotton Stockpile",
 		"german": "Baumwollschrank",
+		"french": "Réserve de Coton",
 	},
 	"stockpileCottonDescription": {
 		"english": "Winter is a perfect time to do some tailoring, but you can't harvest frozen cotton. Use this shelf to store your summer surplus.\n\nThis shelf can fit up to %capacityCotton% cotton.",
 		"german": "Winter ist die perfekte Zeit um neue Kleidung zu schneidern, aber man kann geforene Baumwolle nicht ernten. Nutze dieses Regal um deine Überschüsse im Sommer zu lagern.\n\nDieses Regal kann bis zu %capacityCotton% lagern.",
+		"french": "L'hiver est le moment idéal pour faire de la couture, mais vous ne pouvez pas récolter du coton congelé. Utilisez cette étagère pour ranger vos surplus d'été.\n\nCette étagère peut contenir jusqu'à %capacityCotton% coton.",
 	},
 	"stockpileCoinSmall": {
 		"english": "Small Safe for Coins",
 		"german": "Kleiner Münztresor",
+		"french": "Petit Coffre-fort pour Pièces",
 	},
 	"stockpileCoinSmallDescription": {
 		"english": "Did you ever feel like your treasures were not safe? As if a greedy thief could just walk in and take them? Protect your coins by hiding them away in this small but strong metal box!\n\nThis safe can hold up to %capacityCoins% coins.",
 		"german": "Hast du jemals das Gefühl gehabt, deine Schätze wären nicht sicher? Als ob ein gierieger Dieb einfach hereinspazieren könnte und sie mitnehmen könnte? Schütze deine Münzvorräte indem du sie in diesem kleinen, aber starken Metallsafe versteckst.\n\nDieser Safe kann bis zu %capacityCoins% Münzen halten.",
+		"french": "Avez-vous déjà eu l'impression que vos trésors n'étaient pas en sécurité ? Comme si un voleur avide pouvait entrer et les prendre ? Protégez vos pièces en les cachant dans cette petite mais solide boîte en métal !\n\nCe coffre-fort peut contenir jusqu'à %capacityCoins% pièces.",
 	},
 	"stockpileCoinBig": {
 		"english": "Large Safe for Coins",
 		"german": "Großer Münztresor",
+		"french": "Grand Coffre-fort pour Pièces",
 	},
 	"stockpileCoinBigDescription": {
 		"english": "You have spent years accumulating your wealth so make sure it's locked away properly. This large safebox is made for those who possess treasures that just don't fit in any smaller safe anymore.\n\nThis safe can hold upt o %capacityCoins% coins.",
 		"german": "Du hast viele Jahre damit verbracht dein Vermögen zu mehren. Stelle sicher, dass es auch ordentlich gesichert ist: Dieser gewaltige Safe wurde für jene gemacht, deren Schätze nicht mehr in irgendwelche kleinen Safes passen.\n\nDieser Safe kann bis zu %capacityCoins% Münzen halten.",
+		"french": "Vous avez passé des années à accumuler votre patrimoine, alors assurez-vous qu'il est bien verrouillé. Ce grand coffre-fort est fait pour ceux qui possèdent des trésors qui ne tiennent plus dans un coffre plus petit.\n\nCe coffre-fort peut contenir jusqu'à %capacityCoins% pièces.",
 	},
 	"stockpileHealingPlant": {
 		"english": "Herbs Hanging Rack",
 		"german": "Hängeregal für Kräuter",
+		"french": "Étagère Suspendue pour Plantes",
 	},
 	"stockpileHealingPlantDescription": {
 		"english": "Bring in the harvest and hang your healing plants on this rack to try. It was specifically designed to fit as much plants as possible on a small space.\n\nThis rack can fit up to %capacityHealingPlant% healing plants.",
 		"german": "Hole die Ernte ein und hänge deine Heilpflanzen auf dieses Regal zum trocknen. Es wurde extra entworfen um so vielen Planzen wie möglich Platz zu bieten.\n\nDieses Regal lagert bis zu %capacityHealingPlant% Heilpflanzen.",
+		"french": "Apportez la récolte et suspendez vos plantes médicinales sur cette étagère pour essayer. Elle a été spécialement conçue pour s'adapter à autant de plantes que possible sur un espace réduit.\n\nCette étagère peut contenir jusqu'à %capacityHealingPlant% plantes médicinales.",
 	},
 	"stockpileBeer": {
 		"english": "Beer Barrel Storage",
 		"german": "Bierfasslager",
+		"french": "Réserve de Barils de Bière",
 	},
 	"stockpileBeerDescription": {
 		"english": "It's time for party! Make sure the party doesn't run dry by stocking up on beer first!\n\nThis shelf can fit up to %capacityBeer% beer.",
 		"german": "Zeit zum Feiern! Lagere genug Bier an, damit die Party nicht austrocknet!\n\nDieses Regal kann bis zu %capacityBeer% Bier halten.",
+		"french": "C'est l'heure de la fête ! Assurez-vous que la fête ne s'épuise pas en faisant le plein de bière d'abord !\n\nCette étagère peut contenir jusqu'à %capacityBeer% bières.",
 	},
 	"stockpileIronOre": {
 		"english": "Iron Ore Box",
 		"german": "Eisenerzkiste",
+		"french": "Boîte à Minerai de Fer",
 	},
 	"stockpileIronOreDescription": {
 		"english": "Simple, cheap, and effective: This iron ore box does not only do what it's supposed to, it also won last year's design price for it's sipmle, but functional design.\n\nThis box can hold up ot %capacityIronOre% iron ore.",
 		"german": "Einfach, günstig und effektiv: Diese Eisenerzkiste erfüllt nicht nur ihren Zweck, sondern sie hat auch den letztjährigen Designpreis für ihr einfaches aber funktionales Design gewonnen.\n\nDiese Kiste kann bis zu %capacityIronOre% Eisenerz lagern.",
+		"french": "Simple, bon marché et efficace : cette boîte à minerai de fer ne fait pas seulement ce qu'elle est censée faire, elle a aussi gagné le prix de design de l'année dernière pour son design simple mais fonctionnel.\n\nCette boîte peut contenir jusqu'à %capacityIronOre% minerais de fer.",
 	},
 	"stockpileRawFood": {
 		"english": "Raw Food Storage",
 		"german": "Lager für Rohes Essen",
+		"french": "Réserve d'Aliments Crus",
 	},
 	"stockpileRawFoodDescription": {
 		"english": "Full bellies make for happy faces. Food is one of the most important basic needs, so make sure your reserves are always stocked up.\n\nThis shelf can hold up to %capacityFoodRaw% raw food.",
 		"german": "Gefüllte Mägen führen zu glücklichen Gesichtern. Essen ist eines der wichtigsten Grundbedürfnisse, also kümmere dich daruam, dass du immer genug Reserven im Lager hast.\n\nDieses Regal kann bis zu %capacityFoodRaw% rohes Essen lagern.",
+		"french": "Les ventres pleins font des visages heureux. La nourriture est l'un des besoins de base les plus importants, alors assurez-vous que vos réserves sont toujours approvisionnées.\n\nCette étagère peut contenir jusqu'à %capacityFoodRaw% aliments crus.",
 	},
 	"stockpileScroll": {
 		"english": "Storage Shelf for Scrolls",
 		"german": "Regal für Schriftrollen",
+		"french": "Étagère pour Parchemins",
 	},
 	"stockpileScrollDescription": {
 		"english": "The ancient knowledge inscribed on these fragile scrolls is very valuable. Make sure they are handled and stored with care and build a proper shelf for them.\n\nThis shelf can hold up to %capacityScroll% scrolls.",
 		"german": "Das uralte Wissen auf diesen Schriftrollen ist sehr wertvolle. Behandle sie mit Vorsicht und lagere sie in einem ordentlichen Regal.\n\nDieses Regal kann bis zu %capacityScroll% Schriftrollen lagern.",
+		"french": "Le savoir ancien inscrit sur ces manuscrits fragiles est très précieux. Assurez-vous qu'ils sont manipulés et entreposés avec soin et construisez une étagère appropriée pour eux.\n\nCette étagère peut contenir jusqu'à %capacityScroll% parchemins.",
 	},
 
 

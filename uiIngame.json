@@ -5,6 +5,7 @@
 		"german": "Max:",
 		"french": "Max :",
 		"spanish": "Máx:",
+		"russian": "Макс:",
 	},
 	"research": {
 		"english": "Research",
@@ -221,18 +222,21 @@
 		"german": "Stockwerk wechseln",
 		"french": "Changer d'étage",
 		"spanish": "Cambiar Piso",
+		"russian": "Переключатель этажей",
 	},
 	"switchFloorsDescription": {
 		"english": "Click here to switch to a different floor.\nDefault hotkeys: R/F",
 		"german": "Hier klicken um das Stockwerk zu wechseln.\nStandard Hotkeys: R/F",
 		"french": "Cliquez ici pour changer d'étage.\nCommandes par défaut : R/F",
 		"spanish": "Haz click aquí para cambiar a un piso diferente.\nTeclas por defecto: R/F",
+		"russian": "Кликните сюда для смены этажа.\nГорячие клавиши по умолчанию: R/F",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
 		"german": "Konstruktion im Stockwerk %floor% kostet %percentage%% mehr.",
 		"french": "Construction sur un sol %floor% coûte %percentage%% en plus.",
 		"spanish": "Construir en el piso %floor% cuesta un %percentage% más.",
+		"russian": "Постройка на %floor% этаже обойдется на %percentage%% дороже.",
 	},
 
 
@@ -1631,6 +1635,7 @@
 		"german": "Treppen",
 		"french": "Escaliers",
 		"spanish": "Escaleras",
+		"russian": "Лестницы",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -2534,6 +2539,7 @@
 		"german": "Nicht genug Platz im Lager für %amount% %resource%.",
 		"french": "Les réserves n'ont pas assez d'espace pour %amount% %resource%.",
 		"spanish": "Los depósitos no tienen espacio suficiente para %amount% de %resource%.",
+		"russian": "На складе недостаточно места для хранения %amount% %resource%.",
 	},
 
 

@@ -3,6 +3,8 @@
 	"stockpileLimit": {
 		"english": "Max:",
 		"german": "Max:",
+		"french": "Max :",
+		"spanish": "Máx:",
 	},
 	"research": {
 		"english": "Research",
@@ -218,16 +220,19 @@
 		"english": "Switch Floors",
 		"german": "Stockwerk wechseln",
 		"french": "Changer d'étage",
+		"spanish": "Cambiar Piso",
 	},
 	"switchFloorsDescription": {
 		"english": "Click here to switch to a different floor.\nDefault hotkeys: R/F",
 		"german": "Hier klicken um das Stockwerk zu wechseln.\nStandard Hotkeys: R/F",
 		"french": "Cliquez ici pour changer d'étage.\nCommandes par défaut : R/F",
+		"spanish": "Haz click aquí para cambiar a un piso diferente.\nTeclas por defecto: R/F",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
 		"german": "Konstruktion im Stockwerk %floor% kostet %percentage%% mehr.",
 		"french": "Construction sur un sol %floor% coûte %percentage%% en plus.",
+		"spanish": "Construir en el piso %floor% cuesta un %percentage% más.",
 	},
 
 
@@ -1624,6 +1629,8 @@
 	"stairs": {
 		"english": "Stairs",
 		"german": "Treppen",
+		"french": "Escaliers",
+		"spanish": "Escaleras",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -2525,6 +2532,8 @@
 	"stockpilesOutOfSpaceForAmount": {
 		"english": "Stockpiles don't have enough space for %amount% %resource%.",
 		"german": "Nicht genug Platz im Lager für %amount% %resource%.",
+		"french": "Les réserves n'ont pas assez d'espace pour %amount% %resource%.",
+		"spanish": "Los depósitos no tienen espacio suficiente para %amount% de %resource%.",
 	},
 
 

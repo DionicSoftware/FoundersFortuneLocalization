@@ -1002,7 +1002,7 @@ The big items on our roadmap include
 [*]Other Factions
 [/list]
 
-These are things we'd like to do and the final results depends on the amount of support Founders' Fortune gets. If we get no support at all, we'll switch to polishing and make the current experience as smooth as possible.
+These are things we'd like to do and the final results depend on the amount of support Founders' Fortune gets. If we get no support at all, we'll switch to polishing and make the current experience as smooth as possible.
 
 
 ### Dutch

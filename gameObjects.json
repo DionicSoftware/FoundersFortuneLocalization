@@ -183,7 +183,7 @@
 	//TODO-chinese: additional sentence at the end
 	//TODO-italian: additional sentence at the end
 	"potionMedicineStorageDescription": {
-		"english": "Does your leg hurt? Are you sick? Losing blood? No matter what kind of harm has fallen upon you, a healing potion is always a good idea. Even if it doesn't really cure your condition, at least it numbs the pain. And these potions taste good, too.\n\nThis shelf can store up to %capacityMedicine% medicine and up to %capacityHealingPotion% healing potions%.",
+		"english": "Does your leg hurt? Are you sick? Losing blood? No matter what kind of harm has fallen upon you, a healing potion is always a good idea. Even if it doesn't really cure your condition, at least it numbs the pain. And these potions taste good, too.\n\nThis shelf can store up to %capacityMedicine% medicine and up to %capacityHealingPotion% healing potions.",
 		"german": "Schmerzt dein Bein? Bist du krank? Verlierst Blut? Egal welches Unglück dich heimsucht, ein Heiltrank ist immer eine gute Idee. Selbst wenn er nicht die Ursache behebt, wird zumindest der Schmerz betäubt. Und gut schmecken diese Tränke auch.\n\nDieses Regal kann bis zu %capacityMedicine% Medizin und %capacityHealingPotion% Heiltränke lagern.",
 		"french": "Vous avez mal à la jambe ? Vous êtes malade ? Vous perdez du sang ? Peu importe le mal que vous avez, une potion de guérison est toujours une bonne idée. Même si cela ne vous guérit pas vraiment, au moins, cela atténue la douleur. Et ces potions ont bon goût, aussi.\n\nCette étagère peut contenir jusqu'à %capacityMedicine% remèdes et jusqu'à %capacityHealingPotion% potions de guérison.",
 		"spanish": "¿Te duele la pierna? ¿Estás enfermo? ¿Perdiendo sangre? Sin importar el tipo de daño que ha caído sobre ti, una poción curativa es siempre una buena idea. Incluso si realmente no cura tu condición, al menos alivia el dolor. Y además, saben bien.\n\nEste estante puede guardar hasta %capacityMedicine% de medicina y %capacityHealingPotion% pociones curativas.",
@@ -6101,6 +6101,42 @@
 		"chinese": "晚上用这款时尚的壁灯照亮你的家。",
 		"italian": "Usa questa torcia elegante per illuminare la tua casa durante la notte.",
 	},
+
+// Stairs
+//*******
+	"stairs0": {
+		"english": "Shoddy Stairs",
+		"german": "Schäbige Treppe",
+	},
+	"stairs0Description": {
+		"english": "These stairs were put together quickly and without putting too much thought into it. No guarantees that they can actually hold the weight of a villager after they had some cake.",
+		"german": "Diese Treppe wurde schnell und ohne großen Plan zusammengezimmert. Keine Garantie, dass sie auch Dörfler tragen kann, die vor ein paar Stücke zu viel Kuchen genossen haben.",
+	},
+	"stairs1": {
+		"english": "Decent Stairs",
+		"german": "Ordentliche Treppe",
+	},
+	"stairs1Description": {
+		"english": "Not exactly the peak of craftsmanship, but they do their job. Build these stairs when your villagers deserve something nice, but you actually can't afford something nice.",
+		"german": "Nicht gerade der Höhepunkt der Handwerkskunst, aber sie funktioniert. Baue diese Treppe wenn deine Bewohner etwas tolles verdienen, aber du dir tatsächlich noch gar nichts tolles leisten kannst.",
+	},
+	"stairs2": {
+		"english": "Powerful Stairs",
+		"german": "Mächtige Treppe",
+	},
+	"stairs2Description": {
+		"english": "If you took the word \"sturdy\" and made it into stairs, you'd end up with these. The Powerful Stairs are made using high quality wood, precise craftsmanship and a strong design to deliver a great taking-the-stairs-experience.",
+		"german": "Wenn du das wort \"robust\" nehmen und in eine Treppe verarbeiten würdest, würde diese hier rauskommen. Die Mächtige Treppe wurde aus mit präziser Handwerksarbeit aus hochqualitativem Holz gefertigt um eine großartige \"die-Treppe-nehmen\"-Erfahrung zu ermöglichen.",
+	},
+	"stairs3": {
+		"english": "Royal Stairs",
+		"german": "Königliche Treppe",
+	},
+	"stairs3Description": {
+		"english": "Extravagant and only meant for the feet of the most respectable of villagers - these stairs exude effortless luxury. Impress friend and foe by taking them on a walk up the most expensive stairs they have ever seen.",
+		"german": "Extravagant und nur für die Füße der respektabelsten Beowhner gedacht - diese Treppe strahlt mühelosen Luxus aus. Beeindrucke Freund und Feind indem mit ihnen die teuerste Treppe nimmst, die sie je gesehen haben.",
+	},
+
 
 // Doors
 //******

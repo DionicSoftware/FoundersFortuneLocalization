@@ -6,6 +6,7 @@
 		"french": "Max :",
 		"spanish": "Máx:",
 		"russian": "Макс:",
+		"bulgarian": "Макс",
 	},
 	"research": {
 		"english": "Research",
@@ -22,6 +23,7 @@
 		"arabic": "ﺚﺤﺒﻟﺍ",
 		"polish": "Badania",
 		"italian": "Ricerca",
+		"bulgarian": "Изследване",
 	},
 	"researchOverview": {
 		"english": "Research Overview",
@@ -38,6 +40,7 @@
 		"arabic": "ﺙﺎﺤﺑﻷﺍ ﻰﻠﻋ ﺔﻣﺎﻋ ﺓﺮﻈﻧ",
 		"polish": "Przegląd badań",
 		"italian": "Panoramica ricerche",
+		"bulgarian": "Преглед на изследванията",
 	},
 	"nothingUnlocked": {
 		"english": "Nothing unlocked.",
@@ -54,6 +57,7 @@
 		"arabic": ".ﺡﻮﺘﻔﻣ ﺀﻲﺷ ﻻ",
 		"polish": "Nic nie jest odblokowane",
 		"italian": "Nulla sbloccato.",
+		"bulgarian": "Нищо не е отключено.",
 	},
 	"unlockedObjects": {
 		"english": "Unlocked Objects:",
@@ -70,6 +74,7 @@
 		"arabic": ":ﻲﻟﺎﺘﻟﺍ ﺢﺘﻔﻳ",
 		"polish": "Odblokowane obiekty:",
 		"italian": "Oggetti sbloccati:",
+		"bulgarian": "Отключени обекти:",
 	},
 
 
@@ -86,6 +91,7 @@
 		"chinese": "外交",
 		"korean": "외교",
 		"turkish": "Diplomasi",
+		"bulgarian": "Дипломация",
 	},
 	"showOnMap": {
 		"english": "Show Location",
@@ -99,6 +105,7 @@
 		"chinese": "显示位置",
 		"korean": "위치 확인",
 		"turkish": "Yer göster",
+		"bulgarian": "Показване на местоположението",
 	},
 	"contactFaction": {
 		"english": "Contact",
@@ -112,6 +119,7 @@
 		"chinese": "联系",
 		"korean": "접촉",
 		"turkish": "İletişim",
+		"bulgarian": "Контакт",
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
@@ -125,6 +133,7 @@
 		"chinese": "友好值",
 		"korean": "우호도:",
 		"turkish": "İlişki puanları:",
+		"bulgarian": "Точки за връзка:",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -138,6 +147,7 @@
 		"chinese": "最大值",
 		"korean": "최대",
 		"turkish": "max",
+		"bulgarian": "макс",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
@@ -151,6 +161,7 @@
 		"chinese": "中立关系",
 		"korean": "중립적인 관계",
 		"turkish": "Tarafsız",
+		"bulgarian": "Неутрални отношения",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
@@ -164,6 +175,7 @@
 		"chinese": "休战(%seconds% 秒)",
 		"korean": "휴전(%seconds% 초)",
 		"turkish": "Ateşkes (%seconds% s)",
+		"bulgarian": "Примирие (%seconds% сек.)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
@@ -177,6 +189,7 @@
 		"chinese": "一见即攻",
 		"korean": "보이는대로 공격",
 		"turkish": "Görüldüğünde saldırı",
+		"bulgarian": "Ще атакува на място",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -190,6 +203,7 @@
 		"chinese": "紧张关系",
 		"korean": "불편한 관계",
 		"turkish": "Gerginlik",
+		"bulgarian": "Обтегнати отношения",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
@@ -203,6 +217,7 @@
 		"chinese": "友好关系",
 		"korean": "친밀한 관계",
 		"turkish": "Dostça bir ilişki",
+		"bulgarian": "Приятелски отношения",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
@@ -216,6 +231,7 @@
 		"chinese": "如果关系值超过超过%friendlyLimit%会交好。如果关系指低于%attackingLimit%则立即攻击。",
 		"korean": "우호도가 %friendlyLimit%을 넘으면 친밀해집니다.\n우호도가 %attackingLimit%보다 낮다면, 보이는대로 공격합니다.",
 		"turkish": "%friendlyLimit% geçildiğinde arkadaşça.\n ilşiki %attackingLimit% altına düştüğündeyse görüldüğünde saldırı boyutuna geçer.",
+		"bulgarian": "Приятелски, ако връзката е над %friendlyLimit%.\nАтакувайте на място, ако връзката е под %attackingLimit%.",
 	},
 	"switchFloors": {
 		"english": "Switch Floors",
@@ -223,6 +239,7 @@
 		"french": "Changer d'étage",
 		"spanish": "Cambiar Piso",
 		"russian": "Переключатель этажей",
+		"bulgarian": "Превключване на етажи",
 	},
 	"switchFloorsDescription": {
 		"english": "Click here to switch to a different floor.\nDefault hotkeys: R/F",
@@ -230,13 +247,15 @@
 		"french": "Cliquez ici pour changer d'étage.\nCommandes par défaut : R/F",
 		"spanish": "Haz click aquí para cambiar a un piso diferente.\nTeclas por defecto: R/F",
 		"russian": "Кликните сюда для смены этажа.\nГорячие клавиши по умолчанию: R/F",
+		"bulgarian": "Щракнете тук, за да превключите на различен етаж.\nЗададени горещи клавиши по подразбиране: R/F",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
 		"german": "Konstruktion im Stockwerk %floor% kostet %percentage%% mehr.",
-		"french": "Construction sur un sol %floor% coûte %percentage%% en plus.",
+		"french": "Construire au %floor%e étage coûte %percentage%% en plus.",
 		"spanish": "Construir en el piso %floor% cuesta un %percentage% más.",
 		"russian": "Постройка на %floor% этаже обойдется на %percentage%% дороже.",
+		"bulgarian": "Строителството на етаж %floor% струва %percentage%% повече.",
 	},
 
 
@@ -256,6 +275,7 @@
 		"arabic": "ﺝﺍﺰﻤﻟﺍ",
 		"polish": "Humor",
 		"italian": "Umore",
+		"bulgarian": "Настроение",
 	},
 	"friendships": {
 		"english": "Friendships",
@@ -272,6 +292,7 @@
 		"arabic": "ﺕﺎﻗﺍﺪﺼﻟﺍ",
 		"polish": "Przyjaźnie",
 		"italian": "Socialità",
+		"bulgarian": "Приятелства",
 	},
 	"hunger": {
 		"english": "Hunger",
@@ -288,6 +309,7 @@
 		"arabic": "ﻉﻮﺠﻟﺍ",
 		"polish": "Głód",
 		"italian": "Fame",
+		"bulgarian": "Глад",
 	},
 	"stamina": {
 		"english": "Stamina",
@@ -304,6 +326,7 @@
 		"arabic": "ﻞﻤﺤﺘﻟﺍ",
 		"polish": "Energia",
 		"italian": "Energia",
+		"bulgarian": "Енергия",
 	},
 	"health": {
 		"english": "Health",
@@ -320,6 +343,7 @@
 		"arabic": "ﺔﺤﺼﻟﺍ",
 		"polish": "Zdrowie",
 		"italian": "Salute",
+		"bulgarian": "Здраве",
 	},
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -336,6 +360,7 @@
 		"arabic": ".ﻚﺗﺎﺒﻠﻃ ﺔﻌﺑﺎﺘﻣ ﻦﻋ ﻥﻮﻔﻗﻮﺘﻳ ﺪﻗﻭ ﻚﻳﺪﺤﺗ ﻲﻓ ﻥﻭﺃﺪﺒﻳ ﻑﻮﺴﻓ ، ﺀﺍﺪﻌﺳ ﻚﻳﺮﻤﻌﺘﺴﻣ ﻖﺒﺗ ﻢﻟ ﺍﺫﺇ",
 		"polish": "Jeśli nie będziesz utrzymwał kolonistów szczęśliwych, mogą oni przestać wykonywać Twoje polecenia.",
 		"italian": "Se non rendi felici i tuoi coloni, inizieranno ad essere sprezzanti e potrebbero smettere di seguire i tuoi ordini.",
+		"bulgarian": "Ако не поддържате доброто настроение на заселниците, те може да пламнат и да спрат да следват вашите команди.",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -352,6 +377,7 @@
 		"arabic": ".ﻥﻵﺍ ﻰﺘﺣ ﺔﺒﻌﻠﻟﺍ ﻲﻓ ﻞﻣﺎﻜﻟﺎﺑ ﺔﺟﺎﺤﻟﺍ ﻩﺬﻫ ﻦﻴﻤﻀﺗ ﻢﺘﻳ ﻢﻟ",
 		"polish": "To nie zostało jeszcze w pełni dodane do gry.",
 		"italian": "Questo bisogno non è stato ancora completamente implementato nel gioco.",
+		"bulgarian": "Тази нужда все още не е напълно включена в играта.",
 	},
 	"needsDescriptionHunger": {
 		"english": "Gather apples or plant crops to take care of food.",
@@ -368,6 +394,7 @@
 		"arabic": ".ﻡﺎﻌﻄﻟﺎﺑ ﻡﺎﻤﺘﻫﻺﻟ ﻞﻴﺻﺎﺤﻤﻟﺍ ﻉﺭﺯﺍ ﻭﺃ ﺡﺎﻔﺘﻟﺍ ﻊﻤﺟﺍ",
 		"polish": "Zbieraj jabłka lub sadź uprawy aby zadbać o jedzenie.",
 		"italian": "Raccogli le mele o pianta delle colture per procurarti del cibo.",
+		"bulgarian": "Съберете ябълки или растителни култури, за да се грижите за храната.",
 	},
 	"needsDescriptionStamina": {
 		"english": "Give your colonist a break every once in a while so they can recover.",
@@ -384,6 +411,7 @@
 		"arabic": ".ﻲﻓﺎﻌﺘﻟﺍ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻰﺘﺣ ﺖﻗﻮﻟﺍ ﻦﻣ ﺓﺮﺘﻓ ﻞﻛ ﺔﺣﺍﺮﺘﺳﺍ ﻚﻳﺮﻤﻌﺘﺴﻣ ﺢﻨﻣﺍ",
 		"polish": "Daj koloniście przerwę raz na jakiś czas, aby mogli odpocząć.",
 		"italian": "Concedi una pausa ai tuoi coloni ogni tanto, in modo che possano riposarsi un po'.",
+		"bulgarian": "Дайте почивка на заселниците всеки път, за да може да се възстановът.",
 	},
 	"needsDescriptionHealth": {
 		"english": "Let your colonists sleep and or give them healing potions to increase their health.",
@@ -400,6 +428,7 @@
 		"arabic": ".ﻢﻬﺘﺤﺻ ﺓﺩﺎﻳﺰﻟ ﺀﺎﻔﺷ ﺕﺎﻋﺮﺟ ﻢﻬﻄﻋﺃ ﻭﺃ ﻡﻮﻨﻟﺎﺑ ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﺢﻤﺳﺍ",
 		"polish": "Pozwól Twoim kolonistom spać lub daj im mikstury lecznicze, by zwiększyć ich zdrowie.",
 		"italian": "Fai dormire i tuoi coloni e/o dai loro pozioni curative per ripristinare la loro salute.",
+		"bulgarian": "Оставете вашите колонисти да спят или им дайте лечебни отвари, за да повишат здравето си.",
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -416,6 +445,7 @@
 		"arabic": "ﻡﺎﻌﻄﻟﺍ ﺺﺼﺣ",
 		"polish": "Racje żywnościowe",
 		"italian": "Razioni di cibo",
+		"bulgarian": "Хранителни дажби",
 	},
 	"thoughts": {
 		"english": "Thoughts",
@@ -432,6 +462,7 @@
 		"arabic": "ﺭﺎﻜﻓﻷﺍ",
 		"polish": "Myśli",
 		"italian": "Pensieri",
+		"bulgarian": "Мисли",
 	},
 	"personality": {
 		"english": "Personality",
@@ -448,6 +479,7 @@
 		"arabic": "ﺔﻴﺼﺨﺸﻟﺍ",
 		"polish": "Osobowość",
 		"italian": "Personalità",
+		"bulgarian": "Индивидуалност",
 	},
 	"saveChanges": {
 		"english": "Save Changes",
@@ -464,6 +496,7 @@
 		"arabic": "ﺕﺍﺮﻴﻴﻐﺘﻟﺍ ﻆﻔﺣ",
 		"polish": "Zapisz zmiany",
 		"italian": "Salva cambiamenti",
+		"bulgarian": "Запазите промените",
 	},
 	"name": {
 		"english": "Name",
@@ -480,6 +513,7 @@
 		"arabic": "ﻢﺳﻻﺍ",
 		"polish": "Imię",
 		"italian": "Nome",
+		"bulgarian": "Име",
 	},
 	"experience": {
 		"english": "Experience",
@@ -496,6 +530,7 @@
 		"arabic": "ﺓﺮﺒﺨﻟﺍ",
 		"polish": "Doświadczenie",
 		"italian": "Esperienza",
+		"bulgarian": "Опит",
 	},
 	"view": {
 		"english": "View",
@@ -512,6 +547,7 @@
 		"arabic": "ﺮﻈﻧﺍ",
 		"polish": "Zobacz",
 		"italian": "Mostra",
+		"bulgarian": "Изглед",
 	},
 	"info": {
 		"english": "Info",
@@ -528,6 +564,7 @@
 		"arabic": "ﺕﺎﻣﻮﻠﻌﻣ",
 		"polish": "Info",
 		"italian": "Info",
+		"bulgarian": "Информация",
 	},
 	"openWebsiteShort": {
 		"english": "Open",
@@ -544,6 +581,7 @@
 		"arabic": "ﺢﺘﻓﺍ",
 		"polish": "Otwórz",
 		"italian": "Apri",
+		"bulgarian": "Отворен",
 	},
 	"dismiss": {
 		"english": "Ok",
@@ -560,6 +598,7 @@
 		"arabic": "ﺎﻨﺴﺣ",
 		"polish": "Ok",
 		"italian": "Ok",
+		"bulgarian": "Добре",
 	},
 	"chooseNewJob": {
 		"english": "Choose New Job",
@@ -576,6 +615,7 @@
 		"arabic": "ﺓﺪﻳﺪﺟ ﺔﻔﻴﻇﻭ ﺮﺘﺧﺍ",
 		"polish": "Wybierz nowy zawód",
 		"italian": "Scegli nuovo lavoro",
+		"bulgarian": "Изберете нова работа",
 	},
 	"specialization": {
 		"english": "Specialization",
@@ -592,6 +632,7 @@
 		"arabic": "ﺺﺼﺨﺘﻟﺍ",
 		"polish": "Specjalizacja",
 		"italian": "Specializzazione",
+		"bulgarian": "Специализация",
 	},
 	"nextLevel": {
 		"english": "Next Level",
@@ -608,6 +649,7 @@
 		"arabic": "ﻲﻟﺎﺘﻟﺍ ﻯﻮﺘﺴﻤﻟﺍ",
 		"polish": "Następny poziom",
 		"italian": "Prossimo livello",
+		"bulgarian": "Следващо ниво",
 	},
 	"experienceAcroynom": {
 		"english": "Exp",
@@ -624,6 +666,7 @@
 		"arabic": "ﺓﺮﺒﺧ",
 		"polish": "Xp",
 		"italian": "Esp",
+		"bulgarian": "Exp",
 	},
 	"changeProfession": {
 		"english": "Change",
@@ -640,6 +683,7 @@
 		"arabic": "ﺮﻴﻴﻐﺗ",
 		"polish": "Zmień",
 		"italian": "Cambia",
+		"bulgarian": "Промяна",
 	},
 	"promote": {
 		"english": "Promote",
@@ -656,6 +700,7 @@
 		"arabic": "ﺔﻴﻗﺮﺗ",
 		"polish": "Awansuj",
 		"italian": "Promuovi",
+		"bulgarian": "Повишение",
 	},
 	"promototions_Title": {
 		"english": "Promotions",
@@ -672,6 +717,7 @@
 		"arabic": "ﺕﺎﻴﻗﺮﺘﻟﺍ",
 		"polish": "Awanse",
 		"italian": "Promozioni",
+		"bulgarian": "Повишения",
 	},
 	"promototions_Desc": {
 		"english": "Once your colonists gather enough experience in their profession, you can promote them to unlock new skills",
@@ -688,6 +734,7 @@
 		"arabic": "ﺓﺪﻳﺪﺟ ﺕﺍﺭﺎﻬﻣ ﺢﺘﻔﻟ ﻢﻬﺘﻴﻗﺮﺗ ﻚﻨﻜﻤﻳ ، ﻢﻬﺘﻨﻬﻣ ﻲﻓ ﺔﻴﻓﺎﻛ ﺓﺮﺒﺧ ﻙﻭﺮﻤﻌﺘﺴﻣ ﻊﻤﺠﻳ ﻥﺃ ﺩﺮﺠﻤﺑ",
 		"polish": "Kiedy Twoi koloniści uzbierają wystarczajaco doświadczenia w swoim zawodzie, możesz ich awansować, by odblokować im nowe umiejętności.",
 		"italian": "Una volta che i tuoi coloni hanno acquisito sufficiente esperienza nella loro professione, puoi promuoverli per sbloccare nuove abilità.",
+		"bulgarian": "След като вашите колонисти съберат достатъчно опит в професията си, можете да ги повишите, за да отключите нови умения",
 	},
 	"combat": {
 		"english": "Combat",
@@ -704,6 +751,7 @@
 		"arabic": "ﻝﺎﺘﻘﻟﺍ",
 		"polish": "Walka",
 		"italian": "Combatti",
+		"bulgarian": "Битка",
 	},
 	"equipment": {
 		"english": "Equipment",
@@ -720,6 +768,7 @@
 		"arabic": "ﺕﺍﺪﻌﻤﻟﺍ",
 		"polish": "Ekwipunek",
 		"italian": "Equipaggiamento",
+		"bulgarian": "Оборудване",
 	},
 	"tool": {
 		"english": "Tool",
@@ -736,6 +785,7 @@
 		"arabic": "ﺕﺍﻭﺩﻷﺍ",
 		"polish": "Narzędzie",
 		"italian": "Strumento",
+		"bulgarian": "Инструмент",
 	},
 	"clothing": {
 		"english": "Clothing",
@@ -752,6 +802,7 @@
 		"arabic": "ﺲﺑﻼﻤﻟﺍ",
 		"polish": "Ubranie",
 		"italian": "Abito",
+		"bulgarian": "Oблекло",
 	},
 	"damage": {
 		"english": "Damage",
@@ -768,6 +819,7 @@
 		"arabic": "ﺭﺮﻀﻟﺍ",
 		"polish": "Obrażenia",
 		"italian": "Danno",
+		"bulgarian": "Щета",
 	},
 	"protection": {
 		"english": "Protection",
@@ -784,6 +836,7 @@
 		"arabic": "ﺔﻳﺎﻤﺤﻟﺍ",
 		"polish": "Ochrona",
 		"italian": "Protezione",
+		"bulgarian": "Защита",
 	},
 	"Spring": {
 		"english": "Spring",
@@ -800,6 +853,7 @@
 		"arabic": "ﻊﻴﺑﺮﻟﺍ",
 		"polish": "Wiosna",
 		"italian": "Primavera",
+		"bulgarian": "Пролет",
 	},
 	"Summer": {
 		"english": "Summer",
@@ -816,6 +870,7 @@
 		"arabic": "ﻒﻴﺼﻟﺍ",
 		"polish": "Lato",
 		"italian": "Estate",
+		"bulgarian": "Лято",
 	},
 	"Fall": {
 		"english": "Fall",
@@ -832,6 +887,7 @@
 		"arabic": "ﻒﻳﺮﺨﻟﺍ",
 		"polish": "Jesień",
 		"italian": "Autunno",
+		"bulgarian": "Есен",
 	},
 	"Winter": {
 		"english": "Winter",
@@ -848,6 +904,7 @@
 		"arabic": "ﺀﺎﺘﺸﻟﺍ",
 		"polish": "Zima",
 		"italian": "Inverno",
+		"bulgarian": "Зима",
 	},
 	"seasons": {
 		"english": "Seasons",
@@ -864,6 +921,7 @@
 		"arabic": "ﻝﻮﺼﻔﻟﺍ",
 		"polish": "Pory roku",
 		"italian": "Stagioni",
+		"bulgarian": "Сезони",
 	},
 	"seasonsDescription": {
 		"english": "This bar shows how much time is left until the seasons change.",
@@ -880,6 +938,7 @@
 		"arabic": ".ﻢﺳﺍﻮﻤﻟﺍ ﺮﻴﻐﺘﺗ ﻰﺘﺣ ﻲﻘﺒﺘﻤﻟﺍ ﺖﻗﻮﻟﺍ ﺭﺍﺪﻘﻣ ﻂﻳﺮﺸﻟﺍ ﺍﺬﻫ ﺢﺿﻮﻳ",
 		"polish": "Ten pasek pokazuje jak dużo zostało do zmiany pory roku.",
 		"italian": "Questa barra mostra quanto tempo rimane prima che la stagione cambi.",
+		"bulgarian": "Тази лента показва колко време остава до промяна на сезоните.",
 	},
 	"wishPointsTip_Title": {
 		"english": "Satisfaction Points",
@@ -896,6 +955,7 @@
 		"arabic": "ﺎﺿﺮﻟﺍ ﻁﺎﻘﻧ",
 		"polish": "Punkty zadowolenia",
 		"italian": "Punti soddisfazione",
+		"bulgarian": "Точки на удовлетворение",
 	},
 	"wishPointsTip_Desc": {
 		"english": "Every fulfilled wish makes your colonist more satisfied with life.",
@@ -912,6 +972,7 @@
 		"arabic": ".ﺓﺎﻴﺤﻟﺍ ﻦﻋ ﺎﻴﺿﺍﺭ ﻙﺮﻤﻌﺘﺴﻣ ﻞﻌﺠﺗ ﻖﻘﺤﺘﺗ ﺔﻴﻨﻣﺃ ﻞﻛ",
 		"polish": "Każde wypełnione życzenie sprawia, że twój kolonista jest bardziej zadowolony z życia.",
 		"italian": "Ogni desiderio realizzato rende il tuo colono più soddisfatto della vita.",
+		"bulgarian": "Всяко изпълнено желание прави вашия колонист по-доволен от живота.",
 	},
 	"wishDenyTip_Title": {
 		"english": "Deny Wish",
@@ -928,6 +989,7 @@
 		"arabic": "ﺔﻴﻨﻣﻷﺍ ﺾﻓﺭ",
 		"polish": "Odmów życzenia",
 		"italian": "Nega desiderio",
+		"bulgarian": "Откажи желание",
 	},
 	"wishDenyTip_Desc": {
 		"english": "You can tell your colonists that you're not going to fulfill this wish. They'll be annoyed, but they will choose a different one.",
@@ -944,6 +1006,7 @@
 		"arabic": ".ﺎًﻔﻠﺘﺨﻣ ﺎًﻋﻮﻧ ﻥﻭﺭﺎﺘﺨﻴﺳ ﻢﻬﻨﻜﻟ ، ﻥﻮﻘﻳﺎﻀﺘﻴﺳ .ﺔﺒﻏﺮﻟﺍ ﻩﺬﻬﺑ ﻲﻔﺗ ﻦﻟ ﻚﻧﺃ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺭﺎﺒﺧﺇ ﻚﻨﻜﻤﻳ",
 		"polish": "Możesz powiedzieć twojemu koloniście, że nie wypełnisz jego życzenia. Będą oni zdenerwowani, ale zmienią oni swoje życzenie na inne.",
 		"italian": "Puoi dire ai tuoi coloni che non esaudirai questo desiderio. Rimarranno infastiditi, ma ne sceglieranno uno diverso.",
+		"bulgarian": "Можете да кажете на колонистите, че няма да изпълните това желание. Ще се дразнят, но ще изберат друго.",
 	},
 	"satisfactionPoints_Title": {
 		"english": "Satisfaction",
@@ -960,6 +1023,7 @@
 		"arabic": "ﺎﺿﺮﻟﺍ",
 		"polish": "Zadowolenie",
 		"italian": "Soddisfazione",
+		"bulgarian": "Удовлетворение",
 	},
 	"satisfactionPoints_Desc": {
 		"english": "Fulfill your colonists' wishes and they will be satisfied with life. When the bar is full they gets one lifetime satisfaction point.",
@@ -976,6 +1040,7 @@
 		"arabic": ".ﺓﺎﻴﺤﻟﺍ ﻯﺪﻣ ﺎﺿﺭ ﺔﻄﻘﻧ ﻰﻠﻋ ﻞﺼﺤﻳ ، ﺎًﺌﻠﺘﻤﻣ ﻂﻳﺮﺸﻟﺍ ﻥﻮﻜﻳ ﺎﻣﺪﻨﻋ .ﺓﺎﻴﺤﻟﺎﺑ ﻥﻮﺿﺮﻳ ﻑﻮﺳﻭ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺎﻴﻨﻣﺃ ﻖﻘﺣ",
 		"polish": "Wypełnij życzenia swoich kolonistów, a będą oni zadowoleni z życia. Kiedy pasek jest pełen otrzymują oni jeden punkt zadowolenia życiowego.",
 		"italian": "Soddisfa i desideri dei tuoi coloni e rimarranno soddisfatti della vita. Quando la barra è piena, ottengono un punto soddisfazione per tutta la vita.",
+		"bulgarian": "Изпълнете желанията на вашите колонисти и те ще бъдат доволни от живота. Когато лентата е пълна, те получават една точка за удовлетвореност от живота.",
 	},
 	"satisfactionLevel_Title": {
 		"english": "Satisfaction Level",
@@ -992,6 +1057,7 @@
 		"arabic": "ﺎﺿﺮﻟﺍ ﻯﻮﺘﺴﻣ",
 		"polish": "Poziom zadowolenia",
 		"italian": "Livello di soddisfazione",
+		"bulgarian": "Ниво на удовлетвореност",
 	},
 	"satisfactionLevel_Desc": {
 		"english": "Represents the total lifetime satisfaction of your colonist.",
@@ -1008,6 +1074,7 @@
 		"arabic": "ﻪﺗﺎﻴﺣ ﻝﻼﺧ ﻲﻠﻜﻟﺍ ﺮﻤﻌﺘﺴﻤﻟﺍ ﺎﺿﺭ ﻞﺜﻤﻳ",
 		"polish": "Reprezentuje łączną liczbę punktów zadowolenia życiowego.",
 		"italian": "Rappresenta la soddisfazione nell'intero arco di vita del tuo colono.",
+		"bulgarian": "Представлява общото удовлетворение от живота на вашия колонист.",
 	},
 	"promotions_Title": {
 		"english": "Promotions",
@@ -1024,6 +1091,7 @@
 		"arabic": "ﺕﺎﻴﻗﺮﺘﻟﺍ",
 		"polish": "Awanse",
 		"italian": "Promozioni",
+		"bulgarian": "Повишения",
 	},
 	"promotions_Desc": {
 		"english": "Once your colonists have gathered enough Experience, you can promote them to unlock new skills.",
@@ -1040,6 +1108,7 @@
 		"arabic": ".ﺓﺪﻳﺪﺟ ﺕﺍﺭﺎﻬﻣ ﺢﺘﻔﻟ ﻢﻬﺘﻴﻗﺮﺗ ﻚﻨﻜﻤﻳ ، ﺓﺮﺒﺨﻟﺍ ﻦﻣ ﻲﻔﻜﻳ ﺎﻣ ﻚﻳﺪﻟ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻊﻤﺠﻳ ﻥﺃ ﺩﺮﺠﻤﺑ",
 		"polish": "Kiedy Twoi kolońsici zbiorą wystarczająco punktów doświadczenia, możesz dać im awans, aby odblokować im nowe umiejętności.",
 		"italian": "Una volta che i tuoi coloni hanno guadagnato abbastanza esperienza, puoi promuoverli per sbloccare nuove abilità.",
+		"bulgarian": "След като вашите колонисти са събрали достатъчно опит, можете да ги повишите, за да отключите нови умения.",
 	},
 	"productionMode_Produce": {
 		"english": "Produce",
@@ -1056,6 +1125,7 @@
 		"arabic": "ﺝﺎﺘﻧﺇ",
 		"polish": "Produkuj",
 		"italian": "Produci",
+		"bulgarian": "Производство",
 	},
 	"productionMode_ProduceInfinite": {
 		"english": "Produce Infinite",
@@ -1072,6 +1142,7 @@
 		"arabic": "ﺔﻳﺎﻬﻧ ﻼﺑ ﺝﺎﺘﻧﺇ",
 		"polish": "Produkuj w nieskończoność",
 		"italian": "Produzione infinita",
+		"bulgarian": "Безкрайно производство",
 	},
 	"productionMode_KeepInStock": {
 		"english": "Keep in Stock",
@@ -1088,6 +1159,7 @@
 		"arabic": "إبقاء في المخازن",
 		"polish": "Trzymaj w zapasie",
 		"italian": "Conserva scorte",
+		"bulgarian": "Дръжте в склада",
 	},
 	"cost": {
 		"english": "Cost",
@@ -1104,6 +1176,7 @@
 		"arabic": "ﺔﻔﻠﻜﺘﻟﺍ",
 		"polish": "Koszt",
 		"italian": "Costo",
+		"bulgarian": "Цена",
 	},
 	"totalCost": {
 		"english": "Total Cost",
@@ -1120,6 +1193,7 @@
 		"arabic": "ﺔﻴﻠﻜﻟﺍ ﺔﻔﻠﻜﺘﻟﺍ",
 		"polish": "Łączny koszt",
 		"italian": "Costo totale",
+		"bulgarian": "Крайна цена",
 	},
 	"costPerItem": {
 		"english": "Cost per Item",
@@ -1136,6 +1210,7 @@
 		"arabic": "ﺪﺣﺍﻮﻠﻟ ﺔﻔﻠﻜﺘﻟﺍ",
 		"polish": "Koszt za jednostkę",
 		"italian": "Costo per oggetto",
+		"bulgarian": "Цена за брой",
 	},
 	"colonySettings": {
 		"english": "Colony Settings",
@@ -1152,6 +1227,7 @@
 		"arabic": "ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺕﺍﺩﺍﺪﻋﺇ",
 		"polish": "Ustawienia kolonii",
 		"italian": "Impostazioni colonia",
+		"bulgarian": "Настройки на колонията",
 	},
 	"onlyCutDesignatedTrees": {
 		"english": "Only cut designated trees",
@@ -1168,6 +1244,7 @@
 		"arabic": "ﻂﻘﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺭﺎﺠﺷﻷﺍ ﻊﻄﻗ",
 		"polish": "Wycinaj tylko zaznaczone drzewa",
 		"italian": "Taglia solo alberi designati",
+		"bulgarian": "Изрежете само определени дървета",
 	},
 	"onlyMineDesignatedRocksOres": {
 		"english": "Only mine designated rocks/ores",
@@ -1184,6 +1261,7 @@
 		"arabic": "ﻂﻘﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺪﻳﺪﺤﻟﺍ/ﺭﻮﺨﺼﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺘﻟﺍ",
 		"polish": "Wydobywaj tylko wybrane kamienie/rudy",
 		"italian": "Estrai solo le rocce e i minerali designati",
+		"bulgarian": "Копайте само определени скали/руди",
 	},
 	"onlyGatherDesignatedPlants": {
 		"english": "Only gather designated plants",
@@ -1200,6 +1278,7 @@
 		"arabic": "ﻂﻘﻓ ﺓﺩﺪﺤﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻤﺟ",
 		"polish": "Zbieraj tylko wybrane roślin",
 		"italian": "Raccogli solo le piante designate",
+		"bulgarian": "Събирайте само определени растения",
 	},
 	"designations": {
 		"english": "Designations",
@@ -1216,6 +1295,7 @@
 		"arabic": "ﺕﺎﻨﻴﻴﻌﺘﻟﺍ",
 		"polish": "Oznaczenia",
 		"italian": "Designazioni",
+		"bulgarian": "Предназначение",
 	},
 	"designationTooltip_Title": {
 		"english": "Select specific resources to gather",
@@ -1232,6 +1312,7 @@
 		"arabic": "ﺎﻬﻌﻤﺠﻟ ﺓﺩﺪﺤﻣ ﺩﺭﺍﻮﻣ ﺩﺪﺣ",
 		"polish": "Zaznacz właściwe surowce do zbierania",
 		"italian": "Seleziona risorse specifiche da raccogliere",
+		"bulgarian": "Изберете конкретни ресурси за събиране",
 	},
 	"designationTooltip_Desc": {
 		"english": "With the designation tool you can restrict resource gathering to the objects you have marked with the tool. The colonists are only going to work on designated objects automatically.",
@@ -1247,7 +1328,8 @@
 		"korean": "지정 툴을 사용하면 지정한 자원만 채집하도록 제한할 수 있습니다. 개척자들이 채집할 때, 자동으로 지정한 자원으로만 이동합니다.",
 		"arabic": ".ﺓﺍﺩﻷﺍ ﻡﺍﺪﺨﺘﺳﺎﺑ ﺎﻫﺰﻴﻴﻤﺘﺑ ﺖﻤﻗ ﻲﺘﻟﺍ ﺕﺎﻨﺋﺎﻜﻟﺍ ﻰﻠﻋ ﺩﺭﺍﻮﻤﻟﺍ ﻊﻴﻤﺠﺗ ﺪﻴﻴﻘﺗ ﻚﻨﻜﻤﻳ ، ﻦﻴﻴﻌﺘﻟﺍ ﺓﺍﺩﺃ ﻡﺍﺪﺨﺘﺳﺎﺑ",
 		"polish": "Z narzędziem oznaczania możesz ograniczyć zbieranie surowców, do obiektów, które zaznaczono przy pomocy narzędzia. Koloniści będą pracować tylko z oznaczonymi obiektami automatycznie.",
-		"italian": "Con lo strumento di designazione è possibile limitare la raccolta delle risorse agli oggetti contrassegnati tramite lo strumento. I coloni lavoreranno automaticamente solo sugli oggetti designati."
+		"italian": "Con lo strumento di designazione è possibile limitare la raccolta delle risorse agli oggetti contrassegnati tramite lo strumento. I coloni lavoreranno automaticamente solo sugli oggetti designati.",
+		"bulgarian": "С инструмента за обозначаване можете да ограничите събирането на ресурси до обектите, които сте маркирали с инструмента. Колонистите ще работят само по определени обекти автоматично.",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -1264,6 +1346,7 @@
 		"arabic": "ﻝﺎﺘﻘﻟﺍ ﻊﺿﻭ",
 		"polish": "Tryb walki",
 		"italian": "Modalità battaglia",
+		"bulgarian": "Режим на борба",
 	},
 	"combatModeTooltip_Desc": {
 		"english": "In combat mode, your colonists will put on their combat equipment and stop working on their jobs, relaxing, or talking with others. This allows you to control them more easily in battle.",
@@ -1280,6 +1363,7 @@
 		"arabic": ".ﺔﻛﺮﻌﻤﻟﺍ ﻲﻓ ﺮﺒﻛﺃ ﺔﻟﻮﻬﺴﺑ ﻢﻬﺑ ﻢﻜﺤﺘﻟﺍ ﻚﻟ ﺢﻴﺘﻳ ﺍﺬﻫ .ﻦﻳﺮﺧﻵﺍ ﻊﻣ ﺙﺪﺤﺘﻟﺍ ﻭﺃ ﺀﺎﺧﺮﺘﺳﻻﺍ ﻭﺃ ﻢﻬﻔﺋﺎﻇﻭ ﻲﻓ ﻞﻤﻌﻟﺍ ﻦﻋ ﻒﻗﻮﺘﻟﺍﻭ ﺔﻴﻟﺎﺘﻘﻟﺍ ﻢﻬﺗﺍﺪﻌﻣ ﻡﺍﺪﺨﺘﺳﺎﺑ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻡﻮﻘﻴﺳ ، ﻝﺎﺘﻘﻟﺍ ﻊﺿﻭ ﻲﻓ",
 		"polish": "W trybie walki, Twoi koloniści ubiorą swój ubiór do walki i przestaną wykonywać swoje zadania, relaksować się albo rozmawiać ze sobą. Pozwali Ci to kotrolować kolonistów znacznie łatwiej w walce.",
 		"italian": "In modalità battaglia i tuoi coloni indosseranno il loro equipaggiamento da combattimento e smetteranno di lavorare, di rilassarsi o di parlare con gli altri. Ciò ti consente di controllarli più facilmente in battaglia.",
+		"bulgarian": "В боен режим вашите колонисти ще облекат бойната си екипировка и ще спрат да работят върху работата си, да се отпускат или да разговарят с други. Това ви позволява да ги контролирате по-лесно в битка.",
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -1296,6 +1380,7 @@
 		"arabic": "ﺔﺒﻌﻠﻟﺍ ﺕﺎﻴﺋﺎﺼﺣﺇﻭ ﺕﺎﻣﻮﻠﻌﻣ",
 		"polish": "Informacje o grze i statystyki",
 		"italian": "Info di gioco e statistiche",
+		"bulgarian": "Информация за играта и статистика",
 	},
 	"difficulty": {
 		"english": "Difficulty",
@@ -1312,6 +1397,7 @@
 		"arabic": "ﺔﺑﻮﻌﺼﻟﺍ",
 		"polish": "Trudność",
 		"italian": "Difficoltà",
+		"bulgarian": "Трудност",
 	},
 	"colonyWealth": {
 		"english": "Colony Wealth",
@@ -1328,6 +1414,7 @@
 		"arabic": "ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﻭﺮﺛ",
 		"polish": "Bogactwo kolonii",
 		"italian": "Ricchezza colonia",
+		"bulgarian": "Богатство на колонията",
 	},
 	"colonistHappiness": {
 		"english": "Colonist Happiness",
@@ -1344,6 +1431,7 @@
 		"arabic": "ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺓﺩﺎﻌﺳ",
 		"polish": "Szczęście kolonii",
 		"italian": "Felicità colono",
+		"bulgarian": "Щастие на колонията",
 	},
 	"worldId": { // You can just translate it to "world". It needs to be short enough
 		"english": "World ID",
@@ -1360,6 +1448,7 @@
 		"arabic": "ID ﻢﻟﺎﻌﻟﺍ",
 		"polish": "ID świata",
 		"italian": "ID mondo",
+		"bulgarian": "ID на Света",
 	},
 	"beauty": {
 		"english": "Beauty",
@@ -1376,6 +1465,7 @@
 		"arabic": "ﻝﺎﻤﺠﻟﺍ",
 		"polish": "Piękno",
 		"italian": "Bellezza",
+		"bulgarian": "Красота",
 	},
 	"objectStrength": { // to describe how difficult it is to destruct an object, like a wall, in a fight
 		"english": "Strength",
@@ -1392,6 +1482,7 @@
 		"korean": "내구도",
 		"italian": "Robustezza",
 		"chinese": "力量",
+		"bulgarian": "Сила",
 	},
 	"work": {
 		"english": "Work",
@@ -1408,6 +1499,7 @@
 		"arabic": "ﻞﻤﻌﻟﺍ",
 		"polish": "Praca",
 		"italian": "Lavoro",
+		"bulgarian": "Работа",
 	},
 	"farming": {
 		"english": "Farming",
@@ -1424,6 +1516,7 @@
 		"arabic": "ﺔﻋﺍﺭﺰﻟﺍ",
 		"polish": "Rolnictwo",
 		"italian": "Coltivazione",
+		"bulgarian": "Земеделие",
 	},
 	"life": {
 		"english": "Life",
@@ -1440,6 +1533,7 @@
 		"arabic": "ﺓﺎﻴﺤﻟﺍ",
 		"polish": "Życie",
 		"italian": "Vita",
+		"bulgarian": "Живот",
 	},
 	"military": {
 		"english": "Military",
@@ -1456,6 +1550,7 @@
 		"arabic": "ﺶﻴﺠﻟﺍ",
 		"polish": "Wojskowe",
 		"italian": "Militare",
+		"bulgarian": "Армия",
 	},
 	"lights": {
 		"english": "Lights",
@@ -1472,11 +1567,12 @@
 		"arabic": "ﺀﺍﻮﺿﻷﺍ",
 		"polish": "Światła",
 		"italian": "Luci",
+		"bulgarian": "Светлини",
 	},
 	"seating": {
 		"english": "Seating",
 		"german": "Sitzmöbel",
-		"french": "Siège",
+		"french": "Sièges",
 		"spanish": "Asientos",
 		"turkish": "Oturma",
 		"portuguese": "Assentos",
@@ -1488,11 +1584,12 @@
 		"arabic": "ﺪﻋﺎﻘﻤﻟﺍ",
 		"polish": "Siedzenia",
 		"italian": "Sedie",
+		"bulgarian": "Седалки",
 	},
 	"tables": {
 		"english": "Tables",
 		"german": "Tische",
-		"french": "Table",
+		"french": "Tables",
 		"spanish": "Mesas",
 		"turkish": "Masalar",
 		"portuguese": "Mesas",
@@ -1504,6 +1601,7 @@
 		"arabic": "ﺕﻻﻭﺎﻄﻟﺍ",
 		"polish": "Stoły",
 		"italian": "Tavoli",
+		"bulgarian": "Маси",
 	},
 	"storage": {
 		"english": "Storage",
@@ -1520,11 +1618,12 @@
 		"arabic": "ﻦﻳﺰﺨﺘﻟﺍ",
 		"polish": "Przechowywanie",
 		"italian": "Deposito",
+		"bulgarian": "Склад",
 	},
 	"decoration": {
 		"english": "Decoration",
 		"german": "Dekoration",
-		"french": "Décoration",
+		"french": "Décorations",
 		"spanish": "Decoración",
 		"turkish": "Dekorasyon",
 		"portuguese": "Decoração",
@@ -1536,6 +1635,7 @@
 		"arabic": "ﺭﻮﻜﻳﺪﻟﺍ",
 		"polish": "Dekoracje",
 		"italian": "Decorazione",
+		"bulgarian": "Декорация",
 	},
 	"rugs": {
 		"english": "Rugs",
@@ -1549,6 +1649,7 @@
 		"korean": "러그",
 		"chinese": "地毯",
 		"turkish": "Halılar",
+		"bulgarian": "Килими",
 	},
 	"floors": {
 		"english": "Floors",
@@ -1565,6 +1666,7 @@
 		"arabic": "ﺕﺎﻴﺿﺭﻷﺍ",
 		"polish": "Podłogi",
 		"italian": "Pavimenti",
+		"bulgarian": "Под",
 	},
 	"walls": {
 		"english": "Walls",
@@ -1581,6 +1683,7 @@
 		"arabic": "ﻥﺍﺭﺪﺠﻟﺍ",
 		"polish": "Ściany",
 		"italian": "Pareti",
+		"bulgarian": "Стени",
 	},
 	"fortifications": {
 		"english": "Fortifications",
@@ -1597,6 +1700,7 @@
 		"arabic": "ﺕﺎﻨﻴﺼﺤﺘﻟﺍ",
 		"polish": "Fortyfikacje",
 		"italian": "Fortificazioni",
+		"bulgarian": "Укрепления",
 	},
 	"doors": {
 		"english": "Doors",
@@ -1613,6 +1717,7 @@
 		"arabic": "ﺏﺍﻮﺑﻷﺍ",
 		"polish": "Drzwi",
 		"italian": "Porte",
+		"bulgarian": "Врати",
 	},
 	"windows": {
 		"english": "Windows",
@@ -1629,6 +1734,7 @@
 		"arabic": "ﺬﻓﺍﻮﻨﻟﺍ",
 		"polish": "Okna",
 		"italian": "Finestre",
+		"bulgarian": "Прозорци",
 	},
 	"stairs": {
 		"english": "Stairs",
@@ -1636,6 +1742,7 @@
 		"french": "Escaliers",
 		"spanish": "Escaleras",
 		"russian": "Лестницы",
+		"bulgarian": "Стълби",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -1652,6 +1759,7 @@
 		"arabic": "ﺓﺪﻤﻋﻷﺍ",
 		"polish": "Filary",
 		"italian": "Colonne",
+		"bulgarian": "Стълбове",
 	},
 	"requiredTech": {
 		"english": "Required Technology",
@@ -1668,6 +1776,7 @@
 		"arabic": "ﺔﺑﻮﻠﻄﻤﻟﺍ ﺔﻴﻨﻘﺘﻟﺍ",
 		"polish": "Wymagana technologia",
 		"italian": "Tecnologia richiesta",
+		"bulgarian": "Необходими технологии",
 	},
 	"interactionChainIconDesc": {
 		"english": "Click to Cancel.\nClick %keyBinding% to Chain Commands.",
@@ -1684,6 +1793,7 @@
 		// "arabic": "",
 		"polish": "Naciśnij, aby anulować.\nKliknij %keyBinding% do łańcucha poleceń.",
 		"italian": "Clicca per annullare.\nClicca %keyBinding% per concatenare i comandi.",
+		"bulgarian": "Кликнете за Отказ. \nКликнете %keyBinding% към верижните команди.",
 	},
 	"satisfaction": {
 		"english": "Satisfaction",
@@ -1700,6 +1810,7 @@
 		"arabic": "ﺎﺿﺮﻟﺍ",
 		"polish": "Zadowolenie",
 		"italian": "Soddisfazione",
+		"bulgarian": "Удовлетворение",
 	},
 	"rewards": {
 		"english": "Rewards",
@@ -1716,6 +1827,7 @@
 		"arabic": "ﺕﺂﻓﺎﻜﻤﻟﺍ",
 		"polish": "Nagrody",
 		"italian": "Ricompense",
+		"bulgarian": "Награди",
 	},
 	"point": {
 		"english": "Point",
@@ -1732,6 +1844,7 @@
 		"arabic": "ﺔﻄﻘﻧ",
 		"polish": "Punkt",
 		"italian": "Punto",
+		"bulgarian": "Точка",
 	},
 	"points": {
 		"english": "Points",
@@ -1748,6 +1861,7 @@
 		"arabic": "ﻁﺎﻘﻧ",
 		"polish": "Punkty",
 		"italian": "Punti",
+		"bulgarian": "Точки",
 	},
 	"satisfactionRewards": {
 		"english": "Satisfaction Rewards",
@@ -1764,6 +1878,7 @@
 		"arabic": "ﺎﺿﺮﻟﺍ ﺕﺂﻓﺎﻜﻣ",
 		"polish": "Nagrody zadowolenia",
 		"italian": "Ricompense soddisfazione",
+		"bulgarian": "Награди за удовлетворение",
 	},
 	"instantMaxHealth": {
 		"english": "Instant Max Health",
@@ -1780,6 +1895,7 @@
 		"arabic": "ﺔﻳﺭﻮﻓ ﺔﻠﻣﺎﻛ ﺔﺤﺻ",
 		"polish": "Natychmiastowe maksymalne zdrowie",
 		"italian": "Salute massima istantanea",
+		"bulgarian": "Незабавно възстановяване на здравето",
 	},
 	"cureIllness": {
 		"english": "Cure Illness",
@@ -1796,6 +1912,7 @@
 		"arabic": "ﺽﺮﻤﻟﺍ ﺝﻼﻋ",
 		"polish": "Wylecz chorobę",
 		"italian": "Cura malattia",
+		"bulgarian": "Заздравяване на болести",
 	},
 	"motivationBoost": {
 		"english": "Motivation Boost",
@@ -1812,6 +1929,7 @@
 		"arabic": "ﺕﺎﻳﻮﻨﻌﻤﻟﺍ ﻢﻋﺩ",
 		"polish": "Zwiększenie motywacji",
 		"italian": "Incrementa motivazione",
+		"bulgarian": "Повишение на Мотивацията",
 	},
 	"forgetAllBadThoughts": {
 		"english": "Forget negative Thoughts",
@@ -1828,6 +1946,7 @@
 		"arabic": "ﺔﻴﺒﻠﺴﻟﺍ ﺭﺎﻜﻓﻷﺍ ﻥﺎﻴﺴﻧ",
 		"polish": "Zapomnij o negatywnych myślach",
 		"italian": "Dimentica pensieri negativi",
+		"bulgarian": "Забравете отрицателните мисли",
 	},
 	"activeTraits": {
 		"english": "Active Traits",
@@ -1844,6 +1963,7 @@
 		"arabic": "ﺔﻄﺸﻨﻟﺍ ﺕﺎﻤﺴﻟﺍ",
 		"polish": "Aktywne cechy",
 		"italian": "Tratti attivi",
+		"bulgarian": "Активни черти",
 	},
 	"availableTraits": {
 		"english": "Available Traits",
@@ -1860,6 +1980,7 @@
 		"arabic": "ﺓﺮﻓﻮﺘﻤﻟﺍ ﺕﺎﻤﺴﻟﺍ",
 		"polish": "Dostępne cechy",
 		"italian": "Tratti disponibili",
+		"bulgarian": "Налични черти",
 	},
 	"sleepingSpot": {
 		"english": "Sleeping Spot",
@@ -1876,6 +1997,7 @@
 		"arabic": "ﻡﻮﻨﻠﻟ ﻥﺎﻜﻣ",
 		"polish": "Miejsce do spania",
 		"italian": "Luogo per dormire",
+		"bulgarian": "Място за сън",
 	},
 	"isInRoom": {
 		"english": "Is in room",
@@ -1892,6 +2014,7 @@
 		"arabic": "ﺔﻓﺮﻏ ﻲﻓ",
 		"polish": "Jest w pokoju",
 		"italian": "In una stanza",
+		"bulgarian": "В стаята е",
 	},
 	"yes": {
 		"english": "Yes",
@@ -1908,6 +2031,7 @@
 		"arabic": "ﻢﻌﻧ",
 		"polish": "Tak",
 		"italian": "Sì",
+		"bulgarian": "Да",
 	},
 	"no": {
 		"english": "No",
@@ -1924,6 +2048,7 @@
 		"arabic": "ﻻ",
 		"polish": "Nie",
 		"italian": "No",
+		"bulgarian": "Не",
 	},
 	"bedroomBeauty": {
 		"english": "Bedroom beauty",
@@ -1940,6 +2065,7 @@
 		"arabic": "ﻡﻮﻨﻟﺍ ﺔﻓﺮﻏ ﻝﺎﻤﺟ",
 		"polish": "Piękno sypialni",
 		"italian": "Bellezza stanza",
+		"bulgarian": "Красотата на спалнята",
 	},
 	"houseBeauty": {
 		"english": "House beauty",
@@ -1956,6 +2082,7 @@
 		"arabic": "ﺖﻴﺒﻟﺍ ﻝﺎﻤﺟ",
 		"polish": "Piękno domu",
 		"italian": "Bellezza casa",
+		"bulgarian": "Красотата на къщата",
 	},
 	"owner": {
 		"english": "Owner",
@@ -1972,6 +2099,7 @@
 		"arabic": "ﻚﻟﺎﻤﻟﺍ",
 		"polish": "Właściciel",
 		"italian": "Padrone",
+		"bulgarian": "Собственик",
 	},
 	"nobody": {
 		"english": "Nobody",
@@ -1988,6 +2116,7 @@
 		"arabic": "ﺪﺣﺃ ﻻ",
 		"polish": "Nikt",
 		"italian": "Nessuno",
+		"bulgarian": "Никой",
 	},
 	"immigration": {
 		"english": "Immigration",
@@ -2004,6 +2133,7 @@
 		"arabic": "ﺓﺮﺠﻬﻟﺍ",
 		"polish": "Imigracja",
 		"italian": "Immigrazione",
+		"bulgarian": "Имиграция",
 	},
 	"immigration_status_maxColonists": {
 		"english": "Your colony has reached its maximum size. Congratulations! Be sure to post a picture in the forums!",
@@ -2020,6 +2150,7 @@
 		//"arabic": "",
 		"polish": "Twoja kolonia osiągnęła swój maksymalny rozmiar. Gratulacje! Upewnij się, aby dodać post na naszym forum!",
 		"italian": "La tua colonia ha raggiunto la sua dimensione massima. Congratulazioni! Assicurati di pubblicare una foto nel forum!",
+		"bulgarian": "Колонията ви е достигнала максималния си размер. Честито! Не забравяйте да публикувате снимка във форумите!",
 	},
 	"immigration_status_noBonfire": {
 		"english": "No Bonfire is burning. Migrants are not able to find the colony.",
@@ -2036,6 +2167,7 @@
 		//"arabic": "",
 		"polish": "Brak płonącego ogniska. Migranci nie znajdą Twojej kolonii.",
 		"italian": "Nessun falò acceso. I migranti non sono in grado di individuare la colonia.",
+		"bulgarian": "Никой огън не гори. Мигрантите не успяват да намерят колонията.",
 	},
 	"immigration_status_expectationsNotMet": {
 		"english": "Your colonists' expectations are not met. No migrants are going to join this colony.",
@@ -2052,6 +2184,7 @@
 		//"arabic": "",
 		"polish": "Oczekiwania Twoich kolonistów nie są spełnione. Żaden nowy migrant nie dołączy do kolonii.",
 		"italian": "Le aspettative dei tuoi coloni non sono soddisfatte. Nessun migrante si unirà a questa colonia.",
+		"bulgarian": "Очакванията на вашите колонисти не са изпълнени. Никакви мигранти няма да се присъединят към тази колония.",
 	},
 	"immigration_status_ok": {
 		"english": "All your colonists' expectations are met. Next chance for migrants in %time%.",
@@ -2068,6 +2201,7 @@
 		//"arabic": "",
 		"polish": "Oczekiwania wszystkich kolonistów są zrealizowane. Następna szansa na migrantów za %time%.",
 		"italian": "Tutte le aspettative dei tuoi coloni sono soddisfatte. Prossima opportunità di arrivo dei migranti in %time%.",
+		"bulgarian": "Всички очаквания на вашите колонисти са изпълнени. Следващ шанс за мигранти в %time% минути.",
 	},
     	"colonistIsDumbNoExperience": {
 		"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
@@ -2084,6 +2218,7 @@
 	   	//"arabic": "",
 	    	"polish": "Niestety, %firstName% jest głup%iA% i nie będzie zdobywać żadnego doświadczenia z żadnej pracy.",
 		"italian": "Sfortunatamente, %firstName% è ottuso e non acquisirà alcuna esperienza durante lo svolgimento di un lavoro.",
+		"bulgarian": "За съжаление, %firstName% е тъп и няма да натрупа опит в никоя работа.",
 	},
 	"importantPossessions": {
 		"english": "Important Possessions",
@@ -2100,6 +2235,7 @@
 		//"arabic": "",
 		"polish": "Istotne własności",
 		"italian": "Proprietà importanti",
+		"bulgarian": "Важни притежания",
 	},
 	"importantPossession": {
 		"english": "Important Possession",
@@ -2116,6 +2252,7 @@
 		//"arabic": "",
 		"polish": "Istotna własność",
 		"italian": "Proprietà importante",
+		"bulgarian": "Важно притежание",
 	},
 	"importantPossession_Desc": {
 		"english": "%name% likes this thing a lot and does not want to give it up.\n\nYou can not use it to fulfill anyone else's wishes.",
@@ -2132,6 +2269,7 @@
 		//"arabic": "",
 		"polish": "%name% lubi bardzo tą rzecz i nie chce się poddać. \n\nNie możesz tego użyć, aby wypełnić życzenie kogokolwiek innego.",		
 		"italian": "A %name% piace molto questa cosa e non vuole rinunciarvi.\n\nNon puoi usarlo per soddisfare i desideri di nessun altro.",
+		"bulgarian": "%name% харесва това нещо много и не иска да се откаже от него.\n\nНе можете да го използвате, за да изпълните желанията на някой друг.",
 	},
 	"paymentInCoinsPerDay": {
 		"english": "Payment in coins per day",
@@ -2148,6 +2286,7 @@
 		//"arabic": "",
 		"polish": "Wypłata w monetach na dzień",
 		"italian": "Pagamento in monete per giorno",
+		"bulgarian": "Плащане в монети на ден",
 	},
 	"civilianEquipment": {
 		"english": "Civilian Equipment",
@@ -2164,6 +2303,7 @@
 		//"arabic": "",
 		"polish": "Wyposażenie robocze",
 		"italian": "Tenuta civile",
+		"bulgarian": "Гражданска техника",
 	},
 	"combatEquipment": {
 		"english": "Combat Equipment",
@@ -2180,6 +2320,7 @@
 		//"arabic": "",
 		"polish": "Wyposażenie do walki",
 		"italian": "Tenuta da battaglia",
+		"bulgarian": "Бойна екипировка",
 	},
 	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
 		"english": "Tool Storage",
@@ -2196,6 +2337,7 @@
 		//"arabic": "",
 		"polish": "Miejsce na narzędzie",
 		"italian": "Deposito strumento",
+		"bulgarian": "Съхранение на инструменти",
 	},
 	"ClothesStorage": {
 		"english": "Clothes Storage",
@@ -2212,6 +2354,7 @@
 		//"arabic": "",
 		"polish": "Miejsce na ubrania",
 		"italian": "Deposito abiti",
+		"bulgarian": "Съхранение на дрехи",
 	},
 	"WeaponStorage": {
 		"english": "Weapon Storage",
@@ -2228,6 +2371,7 @@
 		//"arabic": "",
 		"polish": "Miejsce na broń",
 		"italian": "Deposito arma",
+		"bulgarian": "Съхранение на оръжия",
 	},
 	"ArmorStorage": {
 		"english": "Armor Storage",
@@ -2244,6 +2388,7 @@
 		//"arabic": "",
 		"polish": "Miejsce na zbroję",
 		"italian": "Deposito armatura",
+		"bulgarian": "Съхранение на брони",
 	},
 	"takeOwnershipOfStorageFurniture": {
 		"english": "Take Ownership of equipment storage furniture to assign equipment",
@@ -2260,6 +2405,7 @@
 		//"arabic": "",
 		"polish": "Przejmij własność tego mebla do trzymania ekwipunku, aby go założyć.",
 		"italian": "Assumi la proprietà dei mobili di deposito dell'equipaggiamento per assegnarlo",
+		"bulgarian": "Вземете собственост на мебели за съхранение на оборудване, за да възложите оборудване",
 	},
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",
@@ -2276,6 +2422,7 @@
 		//"arabic": "",
 		"polish": "Zaznacz ekwipunek w meblu do przechowywania",
 		"italian": "Seleziona l'equipaggiamento nei mobili di deposito",
+		"bulgarian": "Изберете оборудване в мебелите за съхранение",
 	},
 	"selectProduction": {
 		"english": "Select Production",
@@ -2292,6 +2439,7 @@
 		//"arabic": "",
 		"polish": "Wybierz produkcję",
 		"italian": "Seleziona produzione",
+		"bulgarian": "Изберете производство",
 	},
 	"noOwner": { // when a piece of furniture is not owned by any colonist
 		"english": "No Owner",
@@ -2308,6 +2456,7 @@
 		//"arabic": "",
 		"polish": "Brak właściciela",
 		"italian": "Nessun proprietario",
+		"bulgarian": "Без собственик",
 	},
 
 
@@ -2328,6 +2477,7 @@
 		//"arabic": "",
 		"polish": "Handlarz",
 		"italian": "Mercante",
+		"bulgarian": "Tърговец",
 	},
 	"tradingWithFaction": {
 		"english": "Trading with '%faction%'",
@@ -2341,6 +2491,7 @@
 		"korean": "'%faction%'과 거래하기",
 		"turkish": "'%faction%' ile ticaret halinde",
 		"chinese": "与'%faction%'交易",
+		"bulgarian": "Търговия с '%faction%'",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
@@ -2357,6 +2508,7 @@
 		//"arabic": "",
 		"polish": "Kolonia sprzedaje handlarzowi",
 		"italian": "La colonia sta vendendo al mercante",
+		"bulgarian": "Колонията продава на търговеца",
 	},
 	"colonyIsBuying": {
 		"english": "Colony is Buying from the Trader",
@@ -2373,6 +2525,7 @@
 		//"arabic": "",
 		"polish": "Kolonia kupuje od handlarza",
 		"italian": "La colonia sta acquistando dal mercante",
+		"bulgarian": "Колонията купува от търговеца",
 	},
 	"amountStorage": { // amount means how much is being traded and in store is the maximum amount the colony or the trader has in store
 		"english": "Amount / In Store",
@@ -2389,6 +2542,7 @@
 		//"arabic": "",
 		"polish": "Ilość / W magazynie",
 		"italian": "Quantità / In deposito",
+		"bulgarian": "Количество / В Склада",
 	},
 	"tradingGoodName": {
 		"english": "Name",
@@ -2405,6 +2559,7 @@
 		//"arabic": "",
 		"polish": "Nazwa",
 		"italian": "Nome",
+		"bulgarian": "Име",
 	},
 	"price": {
 		"english": "Price",
@@ -2421,6 +2576,7 @@
 		//"arabic": "",
 		"polish": "Cena",
 		"italian": "Prezzo",
+		"bulgarian": "Цена",
 	},
 	"totalPrice": {
 		"english": "Total",
@@ -2437,6 +2593,7 @@
 		//"arabic": "",
 		"polish": "Łączna cena",
 		"italian": "Totale",
+		"bulgarian": "Общо",
 	},
 	"confirmTrade": {
 		"english": "Confirm Trade",
@@ -2453,9 +2610,10 @@
 		//"arabic": "",
 		"polish": "Potwierdź handel",
 		"italian": "Conferma scambio",
+		"bulgarian": "Потвърдете търговията",
 	},
 	"sellItemsOfValue": {
-		"english": "Buying items with a value of %coins% coins",
+		"english": "Selling items with a value of %coins% coins",
 		"german": "Verkauft Gegenstände mit einem Wert von %coins% Münzen",
 		"french": "Vendre des objets d'une valeur de %coins% pièces",
 		"spanish": "Vendiendo items con un valor de %coins% monedas",
@@ -2469,6 +2627,7 @@
 		//"arabic": "",
 		"polish": "Sprzedajesz przedmioty o wartości %coins% monet",
 		"italian": "Vendendo oggetti con un valore di %coins% monete",
+		"bulgarian": "Продажба на предмети със стойност %coins% монети",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -2485,6 +2644,7 @@
 		//"arabic": "",
 		"polish": "Kupujesz przedmiot o wartości %coins% monet",
 		"italian": "Comprando oggetti con un valore di %coins% monete",
+		"bulgarian": "Купуване на предмети със стойност %coins% монети",
 	},
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",
@@ -2501,6 +2661,7 @@
 		//"arabic": "",
 		"polish": "Kolonia zarobi z tego handlu %coins% monet.",
 		"italian": "La colonia sta guadagnando %coins% monete da questo accordo.",
+		"bulgarian": "Колонията печели %coins% монети от тази сделка.",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
@@ -2517,6 +2678,7 @@
 		//"arabic": "",
 		"polish": "Kolonia płaci %coins% monet za ten handel.",
 		"italian": "La colonia sta pagando %coins% monete per questo accordo.",
+		"bulgarian": "Колонията плаща %coins% монети за тази сделка.",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",
@@ -2533,6 +2695,7 @@
 		//"arabic": "",
 		"polish": "Kolonia nie ma %coins% moent by dokonać handlu.",
 		"italian": "Questa colonia non ha %coins% monete per concludere questo accordo.",
+		"bulgarian": "Колонията няма %coins% монети, за да плати тази сделка.",
 	},
 	"stockpilesOutOfSpaceForAmount": {
 		"english": "Stockpiles don't have enough space for %amount% %resource%.",
@@ -2540,6 +2703,7 @@
 		"french": "Les réserves n'ont pas assez d'espace pour %amount% %resource%.",
 		"spanish": "Los depósitos no tienen espacio suficiente para %amount% de %resource%.",
 		"russian": "На складе недостаточно места для хранения %amount% %resource%.",
+		"bulgarian": "Запасите нямат достатъчно място за %amount% %resource%.",
 	},
 
 
@@ -2558,6 +2722,7 @@
 		//"arabic": "",
 		"polish": "Albo nie wyprodukowano jeszcze żadnego ekwipunku\nAlbo wszystkie przedmioty są obecnie używane przez kolonistów.",
 		"italian": "O non hai prodotto ancora nessun equipaggiamento\noppure tutto il tuo equipaggiamento è attualmente in uso dai tuoi coloni.",
+		"bulgarian": "Или все още не сте произвели никакво оборудване \n цялото ви оборудване в момента се използва от вашите колонисти.",
 	},
 	"sellPrice": {
 		"english": "Selling Price",
@@ -2574,6 +2739,7 @@
 		//"arabic": "",
 		"polish": "Cena sprzedaży",
 		"italian": "Prezzo di vendita",
+		"bulgarian": "Продажна цена",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -2590,6 +2756,7 @@
 		//"arabic": "",
 		"polish": "minut",
 		"italian": "minuti",
+		"bulgarian": "минути",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -2606,6 +2773,7 @@
 		//"arabic": "",
 		"polish": "sekund",
 		"italian": "secondi",
+		"bulgarian": "секунди",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -2622,6 +2790,7 @@
 		//"arabic": "",
 		"polish": "s",
 		"italian": "s",
+		"bulgarian": "с",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -2638,6 +2807,7 @@
 		//"arabic": "",
 		"polish": "sek",
 		"italian": "sec",
+		"bulgarian": "сек",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -2654,6 +2824,7 @@
 		//"arabic": "",
 		"polish": "Imprezy",
 		"italian": "Feste",
+		"bulgarian": "Партита",
 	},
 	"partiesDesc": {
 		"english": "Parties give your colonists a chance to relax and socialize. The more time your colonists spend dancing, eating, and drinking, the higher their mood is going to rise.",
@@ -2670,6 +2841,7 @@
 		"dutch": "Feesten geven je kolonisten een kans om te relaxen en elkaar beter te leren kennen. Hoe meer tijd je kolonisten besteden aan dansen, eten en drinken, hoe hoger hun humeur zal stijgen.",
 		"polish": "Imprezy dają kolonistom szanse na relaks i integrację. Im więcej czasu koloniści spędzą tańcząc, jedząc oraz pijąc, tym bardziej ich humor się poprawi.",
 		"italian": "Le feste offrono ai tuoi coloni la possibilità di rilassarsi e di socializzare. Più tempo i tuoi coloni trascorrono a ballare, a mangiare e a bere, più il loro umore aumenterà.",
+		"bulgarian": "Партитата дават шанс на вашите колонисти да се отпуснат и да си общуват. Колкото повече време колонистите ви прекарват танци, ядене и пиене, толкова по-високо настроението им ще се повиши.",
 	},
 	"startPartyButton": {
 		"english": "Start Party",
@@ -2686,6 +2858,7 @@
 		//"arabic": "",
 		"polish": "Zacznij imprezę",
 		"italian": "Dai inizio alla festa",
+		"bulgarian": "Стартирай парти",
 	},
 	"cantStartPartyDuringReady": {
 		"english": "Can't start party during raid",
@@ -2702,6 +2875,7 @@
 		//"arabic": "",
 		"polish": "Nie można zacząć imprezy w trakcie najazdu",
 		"italian": "Non puoi dare inizio ad una festa durante un attacco",
+		"bulgarian": "Не може да стартирате парти по време на нападение",
 	},
 	"cantStartPartyBecauseAlreadyPartying": {
 		"english": "Can't start party while colonists are already celebrating",
@@ -2718,6 +2892,7 @@
 		//"arabic": "",
 		"polish": "Nie można zacząć imprezy, ponieważ koloniści już się bawią",
 		"italian": "Non posso dare inizio ad una festa quando i coloni stanno già festeggiando",
+		"bulgarian": "Не може да стартирате парти, докато колонистите вече празнуват",
 	},
 	"coinsToStartParty": {
 		"english": "%coins% Coins to start party",
@@ -2734,6 +2909,7 @@
 		//"arabic": "",
 		"polish": "%coins% monet by zacząć imprezę",
 		"italian": "%coins% monete per dare inizio alla festa",
+		"bulgarian": "%coins% монети за да стартирате парти",
 	},
 	"atLeastBeerInStock": {
 		"english": "At least %beer% beer in stock",
@@ -2750,6 +2926,7 @@
 		//"arabic": "",
 		"polish": "Przynajmniej %beer% piwa w magazynie",
 		"italian": "Almeno %beer% unità di birra in deposito",
+		"bulgarian": "Поне %beer% бира в склада",
 	},
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
@@ -2766,6 +2943,7 @@
 		//"arabic": "",
 		"polish": "Przynajmniej %food% jedzenia w magazynie",
 		"italian": "Almeno %food% unità di cibo in deposito",
+		"bulgarian": "Поне %food% храна в склада",
 	},
 	"partyRequirements": {
 		"english": "Party Requirements",
@@ -2782,6 +2960,7 @@
 		//"arabic": "",
 		"polish": "Wymagania imprezowe",
 		"italian": "Requisiti festa",
+		"bulgarian": "Изисквания към партитата",
 	},
 	"customCamera": { // activated with F4
 		"english": "Custom Camera", // or free-flying camera
@@ -2797,6 +2976,7 @@
 		//"arabic": "",
 		"polish": "Własna kamera",
 		"italian": "Telecamera libera",
+		"bulgarian": "Персонализирана камера",
 	},
 	"customCameraHotkeys": {
 		"english": "Open/close info panel: T\nToggle wall movement: Z\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
@@ -2813,6 +2993,7 @@
 		//"arabic": "",
 		"polish": "Otwórz/zamknij panel informacyjny: T\nWłącz przesuwanie ścian: Z\nTryb kinowy: C\nZmień szybkość kamery: Kółko myszki\nW Górę i w dół: Lewy shift i lewy control",
 		"italian": "Apri/chiudi pannello info: T\nAttiva/disattiva movimento parete: Z\nModalità cinematografica: C\nCambia velocità telecamera: Rotella del mouse\nSu e giù: Shift sinistro e Ctrl sinistro",
+		"bulgarian": "Отваряне/затваряне на информационен панел: T\nЗаключване на движението на стената: Z\nКъм режим на кино: C\nПромяна на скоростта на камерата: Колело на мишката\nНагоре и надолу: Ляв Shift и Ляв CTRL ",
 	},
 	"camSpeed": {
 		"english": "Cam speed",
@@ -2829,6 +3010,7 @@
 		//"arabic": "",
 		"polish": "Szybkość kamery",
 		"italian": "Velocità telecamera",
+		"bulgarian": "Скорост на камерата",
 	},
 
 

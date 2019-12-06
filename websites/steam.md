@@ -92,7 +92,7 @@ Substitute "..." with your language
 (A tradução portuguesa foi feita pela comunidade)
 
 ### Spanish
-(La traducción española fue realizada por la comunidad)
+(La traducción al español fue realizada por la comunidad.)
 
 ### Turkish
 (Çeviri topluluk tarafından yapıldı.)
@@ -164,7 +164,7 @@ Construye tu colonia
 
 Cuando los colonos llegan, no tienen nada salvo su ropa. Toma el control y ordénales recolectar materiales y construir paredes, suelos y muebles.
 
-¡No estás limitado a edificios predefinidos! Diseña tus proprias casas y dales un estilo a tu gusto. ¡Hay docenas de elementos de construcción y mobiliario que puedes utilizar para crear la colonia de que siempre soñaste!
+¡No estás limitado a edificios predefinidos! Diseña tus proprias casas y dales un estilo a tu gusto. ¡Hay docenas de elementos de construcción y mobiliario que puedes utilizar para crear la colonia que siempre soñaste!
 
 
 ### Turkish
@@ -256,9 +256,9 @@ Cada colono reage a eventos, felizes ou tristes, e reflete isso em seu comportam
 ### Spanish
 Cuida a tus colonos
 
-Los colonos son tu principal prioridad. En primer lugar, solo debes proveerlos de comida y refugio. ¡Pero el mundo está lleno de peligros! Una infección puede ser fatal para el guerrero más poderoso y una plaga puede devastar completamente tu colonia.
+Los colonos son tu principal prioridad. Al principio, solo debes proveerlos de comida y refugio. ¡Pero el mundo está lleno de peligros! Una infección puede ser fatal para el guerrero más poderoso y una plaga puede devastar completamente tu colonia.
 
-Cada colono reacciona a los eventos, feliz o triste, y se refleja en su comportamiento. Los colonos felices recibirán un incremento en su productividad - Los colonos apenados podrían tener una crisis de rabia.
+Cada colono reacciona a los eventos de distinta forma, y se refleja en su comportamiento. Los colonos felices recibirán un incremento en su productividad - Los colonos apenados podrían tener una crisis de rabia.
 
 
 ### Turkish
@@ -468,7 +468,7 @@ Cresça uma variedade de culturas sazonais e crie uma cozinha para fazer delicio
 ### Spanish
 Establece tu granja
 
-La comida importa. La buena comida hace felices a tus colonos, la mala comida los enferma, poca comida los hace más lentos, y ninguna comida los hace morir.
+La comida importa. La buena comida hace felices a tus colonos, la mala comida los enferma, poca comida los hace más lentos, y la ausencia de comida los hace morir.
 
 Haz crecer una variedad de cultivos estacionales y prepara una cocina para hacer deliciosos platillos a partir de ellos. ¡Asegúrate de abastecerte antes que llegue el invierno y actúa rápido cuando un enjambre de insectos hambrientos descienda sobre tus campos!
 
@@ -752,7 +752,7 @@ Escolha cuidadosamente os acadêmicos - se a personalidade deles não se encaixa
 ### Spanish
 Investiga tecnologías
 
-Construir tu hogar es un proceso largo y los recursos y mano de obra, no son lo único que necesitas. Los colonos inteligentes dedican un montón de tiempo en investigar nuevas tecnologías, desbloqueando de esta forma mejor equipo, nuevos muebles y elementos de construcción.
+Construir tu hogar es un proceso largo y los recursos y mano de obra no son lo único que necesitas. Los colonos inteligentes dedican un montón de tiempo en investigar nuevas tecnologías, desbloqueando de esta forma mejor equipo, nuevos muebles y elementos de construcción.
 
 Elige a los eruditos con cuidado – si su personalidad no se ajusta a este tipo de trabajo, no progresarán mucho.
 
@@ -847,7 +847,7 @@ Treine seus colonos na arte da guerra e equipe-os com as melhores armas e armadu
 ### Spanish
 Protege tu puesto avanzado
 
-No estás solo en esta nueva tierra a la que llamas "hogar". Los Tikigoblins que viven aquí no están tan contentos por tus esfuerzos de asentamiento y podrían hacerte una visita para detenerte.
+No estás solo en esta nueva tierra a la que llamas "hogar". Los Tikigoblins que viven aquí no están tan contentos con tus esfuerzos de asentamiento y podrían hacerte una visita para detenerte.
 
 Entrena a tus colonos en el arte de la guerra y equípalos con las mejores armas y armaduras que tengas. Construye muros y torres para garantizar la seguridad de tu colonia – así, ¡A tus enemigos les resultará difícil tratar de meterse contigo!
 
@@ -920,7 +920,7 @@ Estamos executando um Alpha público em nosso site por um tempo e continuamos es
 
 
 ### Spanish
-Hemos estado ejecutando una Alfa pública desde nuestro sitio web por un tiempo y estamos continuando este proyecto en Steam. Hemos usado el feedback como una luz guía para determinar qué características implementar, qué mejoras de la calidad de vida hacer y cuáles bugs arreglar primero. ¡Juntos estamos buscando la mejor experiencia posible!
+Hemos estado ejecutando una Alfa pública desde nuestro sitio web desde hace un tiempo y estamos continuando este proyecto en Steam. Hemos usado el feedback como una luz guía para determinar qué características implementar, qué mejoras de la calidad de vida hacer y cuáles bugs arreglar primero. ¡Juntos estamos buscando la mejor experiencia posible!
 
 
 ### Turkish
@@ -967,7 +967,7 @@ Dependendo da quantidade de apoio que recebemos, planejamos deixar o acesso ante
 
 
 ### Spanish
-Dependiendo de la cantidad de apoyo que recibamos, estamos planeando salir del acceso anticipado entre Septiembre del 2019 y Septiembre del 2020.
+Dependiendo de la cantidad de apoyo que recibamos, nuestro plan es salir del acceso anticipado entre Septiembre del 2019 y Septiembre del 2020.
 
 ### Turkish
 Aldığımız desteğin miktarına bağlı olarak, Eylül 2019 ve Eylül 2020 arasında erken erişimden çıkmayı planlıyoruz.
@@ -1057,7 +1057,7 @@ Essas são as coisas que gostaríamos de fazer e os resultados finais dependem d
 
 
 ### Spanish
-Los grandes ítems de nuestro plan incluyen
+Los grandes elementos de nuestro plan incluyen
 [list]
 [*]Edificios con pisos múltiples y techos
 [*]Animales y mascotas
@@ -1190,9 +1190,9 @@ As principais atualizações no Acesso Antecipado geralmente quebram a compatibi
 ### Spanish
 En el pasado, hemos hecho varias versiones Alfa disponibles a través de nuestro sitio web para los jugadores. Al momento de escribir esto, tenemos alrededor de entre 100-300 jugadores cada día, los que frecuentemente pasan más de 18 horas para desbloquear el árbol de tecnologías e incluso más horas para alcanzar el límite de población.
 
-Todas las características en el Tráiler, en las capturas de pantalla y en la sección "Acerca de este juego" están implementadas y son jugables.
+Todas las características que aparecen en el Tráiler, en las capturas de pantalla y en la sección "Acerca de este juego" ya están implementadas y son jugables.
 
-Las actualizaciones principales en Acceso Anticipado usualmente romperán la compatibilidad de los juegos guardados. Mantemenos la versión más antigua para que puedas continuar jugando en ella, pero no podrás jugar las partidad guardadas en Alpha 9 con la versión Alpha 10, por ejemplo. Esto solo aplica mientras estemos en Acceso Anticipado.
+Las actualizaciones principales en Acceso Anticipado usualmente romperán la compatibilidad de los juegos guardados. Mantenemos la versión más antigua para que puedas continuar jugando en ella, pero no podrás jugar las partidad guardadas en la Alpha 9 con la versión Alpha 10, por ejemplo. Esto solo aplica mientras estemos en Acceso Anticipado.
 
 //TODO-dev
 

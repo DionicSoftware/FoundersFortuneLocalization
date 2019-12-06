@@ -864,6 +864,7 @@
 		"italian": "Ehi! Che bello rivederti.\n\nCi siamo resi conto che abbiamo bisogno di altre cose per far sì che le nostre operazioni proseguano. Non ti dispiacerà fornircele, giusto?\n\nAvremmo bisogno di: %tribute%\n\nHai %days% giorni per la consegna.",
 		"russian": "Хэй! Рады видеть вас снова.\n\nМы тут заметили, что нам нужно еще кое-что для развития. Вы же не против предоставить нам это, верно?\n\nНам нужно: %tribute%\n\nУ вас есть %days% дней на это.",
 		"korean": "여! 다시 보니 반갑구려.\n\n우리가 작업을 하다보니 몇 가지 좀 부족한 게 눈에 띄어서 말이네. 부족한 부분을 좀 얻어갈까 하는데, 괜찮소?\n\n우리가 필요한건: %tribute%\n\n이것들을 %days%일 안에 가져다 줄 수 있겠나.",
+		"turkish": "Hey! Sizi tekrar görmek güzel.\n\nFaaliyetlerimize devam edebilmek için birkaç şeye daha ihtiyacımız olduğunu farkettik. Bunları karşılamak sizin için bir sıkıntı oluşturmaz değil mi?\n\n İhtiyacımız %tribute%.\n\n%days% gün içinde göndermeniz gerekiyor."
 	},
 	"timedTributeDemandAccept": {
 		"english": "Of course. We'd be happy to help you out with that.",
@@ -874,6 +875,7 @@
 		"italian": "Certo. Saremo felici di aiutarti.",
 		"russian": "Конечно. Мы будем рады помочь вам с этим.",
 		"korean": "물론이오. 이렇게라도 당신네를 도울 수 있다니 좋소.",
+		"turkish": "Tabii ki. Size yardımcı olmaktan mutluluk duyarız.",
 	},
 	"timedTributeDemandRefuse": {
 		"english": "What? No, forget it.",
@@ -884,6 +886,7 @@
 		"italian": "Cosa? No, dimenticalo.",
 		"russian": "Что? Нет, забудьте об этом.",
 		"korean": "뭐요? 아니 되오. 꺼지시오.",
+		"turkish": "Ne? Unutun gitsin.",
 	},
 	"timedTributeDemandAcceptAnswer": {
 		"english": "Thanks. We're going to be back shortly.",
@@ -894,6 +897,7 @@
 		"italian": "Grazie. Torneremo a breve.",
 		"russian": "Благодарю. Мы скоро вернемся.",
 		"korean": "고맙네. 조만간 갚겠네.",
+		"turkish": "Teşekkürler. Kısa süre içinde geri geleceğiz.",
 	},
 	"timedTributeDemandRefuseAreYouSure": {
 		"english": "What? Are you sure? This is not going to end well for you...",
@@ -904,6 +908,7 @@
 		"italian": "Cosa? Davvero? Questa cosa non andrà a finire bene...",
 		"russian": "Что? Вы хорошо подумали? Что-то мне кажется, что ничем хорошим это не кончится...",
 		"korean": "뭐라고 했나? 진심인가? 당신들에게 좋게 끝나지 않을 것이네만...",
+		"turkish": "Ne? Emin misiniz? Bu sizin için iyi sonuçlanmaz...",
 	},
 	"timedTributeDemandRefuseAreYouSureGiveIn": {
 		"english": "Nevermind, we'll make it for you.",
@@ -914,6 +919,7 @@
 		"italian": "Non importa, sceglieremo noi per te.",
 		"russian": "Неважно, мы сделаем это для вас.",
 		"korean": "농이었소. 들어드리지요.",
+		"turkish": "Önemli değil, karşılığını veririz.",
 	},
 	"timedTributeDemandRefuseAreYouSureRefuse": {
 		"english": "We will not do anything for you.",
@@ -924,6 +930,7 @@
 		"italian": "Non faremo nulla per te.",
 		"russian": "Мы не будем ничего делать для вас.",
 		"korean": "우리가 줄 수 있는 건 아무것도 없소.",
+		"turkish": "Sizin için hiçbir şey yapmayız.",
 	},
 	"timedTributeCollecting": {
 		"english": "Hello again. Do you have the items we asked for?",
@@ -934,6 +941,7 @@
 		"italian": "Ciao di nuovo. Hai gli oggetti che abbiamo chiesto?",
 		"russian": "И снова здравствуйте. У вас есть вещи, о которых мы просили?",
 		"korean": "다시 봐서 반갑소. 우리가 말했던 물건들은 준비되어 있소?",
+		"turkish": "Tekrar merhaba. Sorduğumuz parçalar yanınızda mı?",
 	},
 	"timedTributeCollectingHereYouGo": {
 		"english": "Of course. Here you go",
@@ -944,6 +952,7 @@
 		"italian": "Certo. Ecco a te.",
 		"russian": "Конечно. Вот.",
 		"korean": "물론이오. 여기 있소.",
+		"turkish": "Tabii ki. Buyrun",
 	},
 	"timedTributeCollectingAlmostMadeIt": {
 		"english": "Sorry, we couldn't make it. Please take what we have.",
@@ -954,6 +963,7 @@
 		"italian": "Mi spiace, ma non ce l'abbiamo fatta. Ti prego di prendere quello che abbiamo.",
 		"russian": "Извините, мы не можем это выполнить. Пожалуйста, возьмите то, что у нас есть.",
 		"korean": "미안하네만, 다 만들진 못했소. 여기 있는 것만이라도 가져가시게.",
+		"turkish": "Maalesef, yetiştiremedik. Lütfen elimizdekileri alın."
 	},
 	"timedTributeCollectingChangedMind": {
 		"english": "We changed our mind. You're getting nothing!",
@@ -964,6 +974,7 @@
 		"italian": "Abbiamo cambiato idea. Non avrai nulla!",
 		"russian": "Мы передумали. Вы ничего не получите!",
 		"korean": "우리의 마음이 바뀌었소. 아무것도 줄 수 없소!",
+		"turkish": "Fikrimizi değiştirdik. Hiçbir şey vermiyoruz!",
 	},
 	"timedTributePaidFull": {
 		"english": "Thanks! It's always nice doing business with you.",
@@ -974,6 +985,7 @@
 		"italian": "Grazie! È sempre bello fare affari con te.",
 		"russian": "Спасибо! Приятно иметь с вами дело.",
 		"korean": "고맙소! 당신들과 거래하는건 참 좋은 일이오.",
+		"turkish": "Teşekkürler! Sizinle iş yapmak her zaman için bir zevk.",
 	},
 	"timedTributePaidEnough": {
 		"english": "Arggh...\n\nAlright. We're letting you get away with it this time.",
@@ -984,6 +996,7 @@
 		"italian": "Arggh...\n\nVa bene. Questa volta ti lasciamo andar via.",
 		"russian": "Хррр...\n\nМы позволим вам уйти с этим в этот раз.",
 		"korean": "으으...\n\n좋소. 이번만은 이 정도로 봐주겠소.",
+		"turkish": "Arggh...\n\nPeki ala. Şimdilik göz yumacağız.",
 	},
 	"timedTributePaidNotEnough": {
 		"english": "No, that's not going to be enough for us. You are going to have to pay in other ways now.",
@@ -994,5 +1007,6 @@
 		"italian": "No, non è abbastanza per noi. Adesso dovrai pagarla in altri modi.",
 		"russian": "Нет, этого недостаточно. Вам придется заплатить чем-то другим.",
 		"korean": "아니, 이걸로는 턱도 없소. 다른 방식으로라도 받아가야겠소.",
+		"turkish": "Hayır, bu bizim için yeterli değil. Başka yöntemlerle ödemek zorunda kalacaksınız."
 	},
 }

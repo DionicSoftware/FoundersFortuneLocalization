@@ -1452,6 +1452,33 @@
 		"korean": "성향에 대해 물어보기",
 		"turkish": "Özelliklerini sor",
 	},
+	"Insult": {
+		"english": "Insult",
+		"german": "Beleidigen",
+	},
+	"Apologize": {
+		"english": "Apologize",
+		"german": "Entschuldigen",
+	},
+	"MagicSmile": { // only used for debugging
+		"english": "Magic Smile",
+		"german": "Magisches Lächeln",
+	},
+	"Kiss": {
+		"english": "Kiss",
+		"german": "Küssen",
+	},
+	"BreakUp": {
+		"english": "Break up",
+		"german": "Schlussmachen",
+	},
+	// used when someone wants to interact with this colonist
+	// and the colonist is waiting for the action to be performed
+	// example: waiting for the doctor to finish the examination
+	"ReceiveInteraction": {
+		"english": "Wait for someone",
+		"german": "Warte auf jemanden",
+	},
 
 
 

@@ -11,6 +11,7 @@
 		"dutch": "Gegroet. Wat brengt jou naar ons?",
 		"chinese": "你好，什么风把你吹来了?",
 		"italian": "Saluti! Cosa vi porta da noi?",
+		"polish": "Witaj! Co cię do nas sprowadza?",
 	},
 	"seeYouLater": { // default goodbye. Kind of nice, but still neutral
 		"english": "See you later.",
@@ -24,6 +25,7 @@
 		"dutch": "Zie je later.",
 		"chinese": "再见吧。",
 		"italian": "A più tardi.",
+		"polish": "Do zobaczenia.",
 	},
 	"goodbye": { // goodbye to be used when relations are not nice anymore
 		"english": "Goodbye.",
@@ -37,6 +39,7 @@
 		"dutch": "Tot ziens.",
 		"chinese": "再见。",
 		"italian": "Addio.",
+		"polish": "Żegnaj.",
 	},
 	"weAreSorry": {
 		"english": "We're sorry.",
@@ -48,6 +51,7 @@
 		"portuguese": "Nós lamentamos.",
 		"turkish": "Üzgünüz.",
 		"korean": "미안하네.",
+		"polish": "Przykro nam.",
 	},
 	"thanks": {
 		"english": "Thanks.",
@@ -61,6 +65,7 @@
 		"turkish": "Teşekkürler.",
 		"chinese": "谢谢。",
 		"italian": "Grazie.",
+		"polish": "Dziękujemy.",
 	},
 	"thanksALot": {
 		"english": "Thanks a lot!",
@@ -74,6 +79,7 @@
 		"dutch": "Heel erg bedankt!",
 		"chinese": "十分感谢！",
 		"italian": "Grazie mille!",
+		"polish": "Bardzo dziękujemy!",
 	},
 	"youreWelcome": { // said when colony did something another faction likes (giving presents, defending from pirates, etc.)
 		"english": "You're welcome.",
@@ -87,6 +93,7 @@
 		"turkish": "Rica ederiz.",
 		"chinese": "不用客气。",
 		"italian": "Prego.",
+		"polish": "Nie ma za co.",
 	},
 	"weUnderstand": {
 		"english": "We understand.",
@@ -100,6 +107,7 @@
 		"dutch": "We begrijpen het.",
 		"chinese": "我们能理解。",
 		"italian": "Comprendiamo.",
+		"polish": "Rozumiemy.",
 	},
 	"nothingValuableSelected": {
 		"english": "Present not valuable enough.",
@@ -115,6 +123,7 @@
 		"dutch": "Niets van waarde geselecteerd.",
 		"turkish": "Hediye yeterli değere sahip değil.",
 		"chinese": "未选择有价值的东西。",
+		"polish": "To nie nadaje się na podarek.",
 	},
 
 
@@ -157,6 +166,7 @@
 		"turkish": "Peki, ödeyeceğiz.",
 		"chinese": "好吧，我们会交付的。",
 		"italian": "Bene, pagheremo.",
+		"polish": "Zgoda, zapłacimy.",
 	},
 	"kidnappedFreeingDenyButton": {
 		"english": "Actually, we can't afford it.",
@@ -196,6 +206,7 @@
 		"turkish": "Teşekkürler.",
 		"chinese": "多谢",
 		"italian": "Grazie.",
+		"polish": "Dzięki.",
 	},
 
 
@@ -212,6 +223,7 @@
 		"turkish": "Ne zaman gelmeyi planlıyorsunuz?",
 		"chinese": "你下次打算什么时候再来?",
 		"italian": "Quando avete intenzione di farci visita?",
+		"polish": "Kiedy znowu się zobaczymy?",
 	},
 	"traderArrivalAnyMoment": {
 		"english": "We're actually arriving any moment now!",
@@ -251,6 +263,7 @@
 		"turkish": "Derhal buraya yelken açabilir misiniz?",
 		"chinese": "你介意马上航行到这里来吗?",
 		"italian": "Vi dispiacerebbe navigare qui immediatamente?",
+		"polish": "Czy mógłbyś natychmiast przypłynąć?",
 	},
 	"traderArrivalThanksForInfo": {
 		"english": "Thanks for the info.",
@@ -264,6 +277,7 @@
 		"turkish": "Bilgi için teşekkürler.",
 		"chinese": "感谢你的来信。",
 		"italian": "Grazie per l'informazione.",
+		"polish": "Dziękuję za informację.",
 	},
 	"traderArrivalFastAccepted": {
 		"english": "We will have to take a detour...\nIt really messes with our trading plans, but we'll make an exception for you.",
@@ -306,6 +320,7 @@
 		"turkish": "Bize bir indirim sağlayacak mısınız?",
 		"chinese": "你打算给我们一个交易折扣吗?",
 		"italian": "Ci concederai uno sconto commerciale?",
+		"polish": "Czy dostaniemy jakąś zniżkę handlową?",
 	},
 	"tradingDiscountAcceptedText": {
 		"english": "We see you as a good friend of our people so we're trying to give you a %percent% percent discount.",
@@ -347,6 +362,7 @@
 		"turkish": "Size bir hediye sunmak istiyoruz.",
 		"chinese": "我们想送你一件礼物。",
 		"italian": "Vorremmo consegnarvi un regalo.",
+		"polish": "Mamy dla was podarek.",
 	},
 	"offerPresentText": {
 		"english": "A happy surprise! What is it?",
@@ -360,6 +376,7 @@
 		"turkish": "Mutlu bir sürpriz! Nedir acaba?",
 		"chinese": "惊喜!它会是什么呢?",
 		"italian": "Che bella sorpresa! Che cos'è?",
+		"polish": "Jak miło! Co to takiego?",
 	},
 	"offerPresentButton": {
 		"english": "Please take this as a gift.",
@@ -373,6 +390,7 @@
 		"turkish": "Lütfen bunu bir hediye olarak kabul edin",
 		"chinese": "请收下这份礼物。",
 		"italian": "Prendete questo regalo, vi prego.",
+		"polish": "Proszę, przyjmijcie to jako prezent.",
 	},
 	"presentOpinion": {
 		"english": "This is a %present%.",
@@ -386,6 +404,7 @@
 		"turkish": "Bu bir %present%.",
 		"chinese": "这是%present%。",
 		"italian": "Questo è un %present%.",
+		"polish": "To jest %present%.",
 	},
 	"smallPresent": {
 		"english": "small present",
@@ -399,6 +418,7 @@
 		"dutch": "klein cadeau",
 		"chinese": "小礼物",
 		"italian": "piccolo regalo",
+		"polish": "mały prezent",
 	},
 	"mediumPresent": {
 		"english": "medium present",
@@ -412,6 +432,7 @@
 		"turkish": "ortalama bir hediye",
 		"chinese": "礼物",
 		"italian": "regalo",
+		"polish": "średni prezent",
 	},
 	"largePresent": {
 		"english": "large present",
@@ -425,6 +446,7 @@
 		"turkish": "büyük bir hediye",
 		"chinese": "大礼物",
 		"italian": "grande regalo",
+		"polish": "duży prezent",
 	},
 	"offerPresentCancel": {
 		"english": "Actually, we can't afford it.",
@@ -451,6 +473,7 @@
 		"turkish": "Peki, kabul ediyoruz.",
 		"chinese": "好吧，我们要了。",
 		"italian": "Bene, lo prenderemo.",
+		"polish": "Zgoda, przyjmiemy to jako podarek.",
 	},
 	"acceptPresentsNeutralRelations": {
 		"english": "Thank you. We accept your thoughtful present.",
@@ -464,6 +487,7 @@
 		"turkish": "Teşekkürler. Bu düşünce dolu hediyeyi kabul ediyoruz.",
 		"chinese": "谢谢你！我们接受了你精心准备的礼物。",
 		"italian": "Grazie. Accettiamo il vostro premuroso regalo.",
+		"polish": "Dziękujemy! Z przyjemnością przyjmiemy ten podarek.",
 	},
 	"acceptPresentsGoodRelations": {
 		"english": "Thanks! You're a good friend of our people.",
@@ -493,6 +517,7 @@
 		"turkish": "Sizden bir haraç talep ediyoruz.",
 		"chinese": "我们要求你向我们进贡。",
 		"italian": "Vi chiediamo un tributo.",
+		"polish": "Żądamy daniny.",
 	},
 	"tributeSelectionText": {
 		"english": "Really...?",
@@ -506,6 +531,7 @@
 		"turkish": "Gerçekten mi...?",
 		"chinese": "真的吗...?",
 		"italian": "Davvero...?",
+		"polish": "Doprawdy?",
 	},
 	"tributeSelectionDemand": {
 		"english": "Please give use these items.",
@@ -519,6 +545,7 @@
 		"turkish": "Lütfen bu eşyaları bize veriniz.",
 		"chinese": "请把这些东西给我们。",
 		"italian": "Vi chiediamo questi oggetti.",
+		"polish": "Tego żądamy!",
 	},
 	"tributeSelectionJustKidding": {
 		"english": "Just Kidding.",
@@ -532,6 +559,7 @@
 		"turkish": "Sadece şakaydı.",
 		"chinese": "只是开玩笑。",
 		"italian": "Scherzavamo.",
+		"polish": "To był żart.",
 	},
 	"tributeSelectionAcceptanceProbability": {
 		"english": "Probability of them accepting the tribute: %probability% percent.",

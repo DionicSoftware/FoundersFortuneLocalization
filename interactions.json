@@ -206,7 +206,7 @@
 		"arabic": "ﺕﺎﺒﻨﻟﺍ ﻱﺭ",
 		"chinese": "浇水",
 		"italian": "Innaffia pianta",
-		"polish": "Podlej roślinę",
+		"polish": "Podlej",
 	},
 	"Sow": {
 		"english": "Sow",
@@ -222,7 +222,7 @@
 		"arabic": "ﻉﺭﺯﺍ",
 		"chinese": "播种",
 		"italian": "Semina",
-		"polish": "Sadź",
+		"polish": "Zasadź",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -254,7 +254,7 @@
 		"arabic": "%object% ﻉﺭﺯﺍ",
 		"chinese": "播种%object%",
 		"italian": "Semina %object%",
-		"polish": "Posadził%nicA% %object%",
+		"polish": "Posadź %object%",
 	},
 	"HarvestObject": {
 		"english": "Harvest %object%",
@@ -270,6 +270,7 @@
 		"arabic": "%object% ﺪﺼﺣﺍ",
 		"chinese": "收获%object%",
 		"italian": "Raccogli %object%",
+		"polish": "Zbierz %object%",
 	},
 	"Construct": {
 		"english": "Construct",
@@ -285,6 +286,7 @@
 		"arabic": "ﺀﺎﻨﺒﻟﺎﺑ ﻢﻗ",
 		"chinese": "建造",
 		"italian": "Costruisci",
+		"polish": "Zbuduj",
 	},
 	"Deconstruct": { // letting a colonist remove furniture
 		"english": "Remove",
@@ -300,6 +302,7 @@
 		"arabic": "ﻝﺯﺃ",
 		"chinese": "搬运",
 		"italian": "Rimuovi",
+		"polish": "Usuń",
 	},
 	"Fight": {
 		"english": "Fight",
@@ -315,6 +318,7 @@
 		"arabic": "ﻞﺗﺎﻗ",
 		"chinese": "战斗",
 		"italian": "Lotta",
+		"polish": "Walcz",
 	},
 	"Kill": {
 		"english": "Kill",
@@ -330,6 +334,7 @@
 		"arabic": "ﻞﺘﻗﺃ",
 		"chinese": "击杀",
 		"italian": "Uccidi",
+		"polish": "Zabij",
 	},
 	"TakeHealingPotion": {
 		"english": "Take Healing Potion",
@@ -345,6 +350,7 @@
 		"arabic": "ﺀﺎﻔﺷ ﺔﻋﺮﺟ ﺬﺧ",
 		"chinese": "使用治疗药水",
 		"italian": "Prendi pozione curativa",
+		"polish": "Weź miksturę leczniczą",
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
@@ -360,6 +366,7 @@
 		"arabic": "ﺔﻋﺍﺭﺰﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 		"chinese": "学习务农",
 		"italian": "Apprendi di più sulla coltivazione",
+		"polish": "Ucz się o rolnictwie",
 	},
 	"LearnForesting": {
 		"english": "Learn about Foresting",
@@ -375,6 +382,7 @@
 		"arabic": "ﺮﻴﺠﺸﺘﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 		"chinese": "学习林业",
 		"italian": "Apprendi di più sul rimboschimento",
+		"polish": "Ucz się o leśnictwie",
 	},
 	"LearnMining": {
 		"english": "Learn about Mining",
@@ -390,6 +398,7 @@
 		"arabic": "ﺐﻴﻘﻨﺘﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 		"chinese": "学习挖掘",
 		"italian": "Apprendi di più sull'estrazione",
+		"polish": "Ucz się o wydobyciu",
 	},
 	"LearnCrafting": {
 		"english": "Learn about Crafting",
@@ -405,6 +414,7 @@
 		"arabic": "ﺔﻋﺎﻨﺼﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 		"chinese": "学习工艺",
 		"italian": "Apprendi di più sulla fabbricazione",
+		"polish": "Ucz się o wytwarzaniu",
 	},
 	"LearnFighting": {
 		"english": "Train for Combat",
@@ -420,6 +430,7 @@
 		"arabic": "ﻝﺎﺘﻘﻠﻟ ﺏﺭﺪﺗ",
 		"chinese": "训练战斗",
 		"italian": "Allenati al combattimento",
+		"polish": "Ćwicz walkę",
 	},
 	"LearnMedicine": {
 		"english": "Learn about Medicine",
@@ -435,6 +446,7 @@
 		"arabic": "ﺔﻳﻭﺩﻷﺍ ﻦﻋ ﻢﻠﻌﺗ",
 		"chinese": "学习医学",
 		"italian": "Impara di più sulla medicina",
+		"polish": "Ucz się o medycynie",
 	},
 	"LearnResearching": {
 		"english": "Learn about Researching",
@@ -450,6 +462,7 @@
 		"arabic":"ﺚﺤﺒﻟﺍ ﻦﻋ ﻢﻠﻌﺗ",
 		"chinese": "学习研究",
 		"italian": "Impara di più sulla ricerca",
+		"polish": "Ucz się o wynalazkach",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -465,6 +478,7 @@
 		"arabic":"ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 		"chinese": "睡眠",
 		"italian": "Dormi",
+		"polish": "Śpij",
 	},
 	"SleepUntilHealthy": {
 		"english": "Sleep until completely healthy",
@@ -480,6 +494,7 @@
 		"arabic":"ﺔﻠﻣﺎﻛ ﺔﺤﺼﺑ ﻥﻮﻜﺗ ﻰﺘﺣ ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 		"chinese": "睡到完全康复",
 		"italian": "Dormi finché la salute non si rigenera",
+		"polish": "Śpij aż się wyleczysz",
 	},
 	"SleepOnGround": {
 		"english": "Sleep on the Ground",
@@ -495,6 +510,7 @@
 		"arabic":"ﺽﺭﻷﺍ ﻰﻠﻋ ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 		"chinese": "睡在地上",
 		"italian": "Dormi a terra",
+		"polish": "Śpij na podłodze",
 	},
 	"Sit": {
 		"english": "Sit",
@@ -510,6 +526,7 @@
 		"arabic":"ﺲﻠﺟﺍ",
 		"chinese": "坐",
 		"italian": "Siediti",
+		"polish": "Usiądź",
 	},
 	"SitOnChair": {
 		"english": "Sit on Chair",
@@ -525,6 +542,7 @@
 		"arabic":"ﻲﺳﺮﻛ ﻰﻠﻋ ﺲﻠﺟﺍ",
 		"chinese": "坐在椅上",
 		"italian": "Sedersi su una sedia",
+		"polish": "Usiądź",
 	},
 	"Bury": {
 		"english": "Bury",
@@ -540,6 +558,7 @@
 		"arabic":"ﻦﻓﺩﺍ",
 		"chinese": "埋葬",
 		"italian": "Seppellisci",
+		"polish": "Zakop",
 	},
 	"AcceptMigrants": {
 		"english": "Accept Migrants",
@@ -555,6 +574,7 @@
 		"arabic":"ﺮﺟﺎﻬﻤﻟﺍ ﻞﺒﻗﺍ",
 		"chinese": "接收移民",
 		"italian": "Accetta migranti",
+		"polish": "Przyjmij imigrantów",
 	},
 	"RejectMigrants": {
 		"english": "Reject Migrants",
@@ -570,6 +590,7 @@
 		"arabic":"ﺮﺟﺎﻬﻤﻟﺍ ﺾﻓﺭﺍ",
 		"chinese": "拒绝移民",
 		"italian": "Respingi migranti",
+		"polish": "Odeślij imigrantów",
 	},
 	"LeaveIsland": {
 		"english": "Leave Island",
@@ -585,6 +606,7 @@
 		"arabic":"ﺓﺮﻳﺰﺠﻟﺍ ﺭﺩﺎﻏ",
 		"chinese": "离开岛屿",
 		"italian": "Lascia l'isola",
+		"polish": "Opuść wyspę",
 	},
 	"BandageWounds": {
 		"english": "Bandage Wounds",
@@ -600,6 +622,7 @@
 		"arabic":"ﺡﻭﺮﺠﻟﺍ ﺪﻤﺿ",
 		"chinese": "包扎伤口",
 		"italian": "Benda ferite",
+		"polish": "Opatrz ranę",
 	},
 	"SplintLeg": {
 		"english": "Splint Leg",
@@ -615,6 +638,7 @@
 		"arabic":"ﻕﺎﺴﻟﺍ ﻰﻠﻋ ﺓﺮﻴﺒﺟ ﻊﺿ",
 		"chinese": "腿部夹板",
 		"italian": "Applica stecca alla gamba",
+		"polish": "Usztywnij nogę",
 	},
 	"SplintArm": {
 		"english": "Splint Arm",
@@ -630,6 +654,7 @@
 		"arabic":"ﻉﺍﺭﺬﻟﺍ ﻰﻠﻋ ﺓﺮﻴﺒﺟ ﻊﺿ",
 		"chinese": "手臂夹板",
 		"italian": "Applica stecca al braccio",
+		"polish": "Usztywnij rękę",
 	},
 	"Destroy": {
 		"english": "Destroy",
@@ -645,6 +670,7 @@
 		"arabic":"ﺮﻣﺩ",
 		"chinese": "破坏",
 		"italian": "Distruggi",
+		"polish": "Zniszcz",
 	},
 	"Remove": {
 		"english": "Remove",
@@ -660,6 +686,7 @@
 		"arabic":"ﻝﺯﺃ",
 		"chinese": "移除",
 		"italian": "Rimuovi",
+		"polish": "Usuń",
 	},
 	"Add": {
 		"english": "Add",
@@ -675,6 +702,7 @@
 		"arabic":"ﻒﺿﺃ",
 		"chinese": "添加",
 		"italian": "Aggiungi",
+		"polish": "Dodaj",
 	},
 	"Produce": {
 		"english": "Produce",
@@ -690,6 +718,7 @@
 		"arabic":"ﺝﺎﺘﻧﺇ",
 		"chinese": "产品",
 		"italian": "Produci",
+		"polish": "Produkuj",
 	},
 	"Equip": {
 		"english": "Equip",
@@ -705,6 +734,7 @@
 		"arabic":"ﻱﺪﺗﺭﺍ",
 		"chinese": "装备",
 		"italian": "Equipaggia",
+		"polish": "Załóż",
 	},
 	"Unequip": {
 		"english": "Unequip",
@@ -720,6 +750,7 @@
 		"arabic":"ﻊﻠﺧﺍ",
 		"chinese": "卸下",
 		"italian": "Disequipaggia",
+		"polish": "Zdejmij",
 	},
 	"RemoveWeapon": {
 		"english": "Lay down Weapon",
@@ -735,6 +766,7 @@
 		"arabic":"ﺡﻼﺴﻟﺍ ﺀﺎﻘﻟﺍ",
 		"chinese": "放下武器",
 		"italian": "Abbassa l'arma",
+		"polish": "Odłóż broń",
 	},
 	"RemoveArmor": {
 		"english": "Take off Armor",
@@ -750,6 +782,7 @@
 		"arabic":"ﻉﺭﺪﻟﺍ ﻊﻠﺧ",
 		"chinese": "脱下盔甲",
 		"italian": "Togliti l'armatura",
+		"polish": "Zdejmij zbroję",
 	},
 	"RemoveEquipment": {
 		"english": "Remove Equipment",
@@ -765,6 +798,7 @@
 		"arabic":"ﺕﺍﺪﻌﻤﻟﺍ ﺔﻟﺍﺯﺇ",
 		"chinese": "移除装备",
 		"italian": "Rimuovi equipaggiamento",
+		"polish": "Usuń ekwipunek",
 	},
 	"LightBonfire": {
 		"english": "Light Bonfire",
@@ -780,6 +814,7 @@
 		"arabic":"ﺔﻠﻌﺸﻟﺍ ﻝﺎﻌﺷﺇ",
 		"chinese": "点亮营火",
 		"italian": "Accendi falò",
+		"polish": "Zapal ogień",
 	},
 	"PutOutBonfire": {
 		"english": "Put out Bonfire",
@@ -795,6 +830,7 @@
 		"arabic":"ﺔﻠﻌﺸﻟﺍ ﺩﺎﻤﺧﺇ",
 		"chinese": "放置营火",
 		"italian": "Spegni falò",
+		"polish": "Zgaś ogień",
 	},
 	"GatherResources": {
 		"english": "Gather Resources",
@@ -810,6 +846,7 @@
 		"arabic":"ﺩﺭﺍﻮﻤﻟﺍ ﻊﻤﺟ",
 		"chinese": "收集资源",
 		"italian": "Raccogli risorse",
+		"polish": "Zbieraj surowiec",
 	},
 	"Guard": {
 		"english": "Guard",
@@ -825,6 +862,7 @@
 		"arabic":"ﺔﻳﺎﻤﺣ",
 		"chinese": "守卫",
 		"italian": "Proteggi",
+		"polish": "Obroń",
 	},
 	"GuardTower": {
 		"english": "Guard Tower",
@@ -855,6 +893,7 @@
 		"arabic":"ﺩﺭﺍﻮﻤﻟﺍ ﺔﺠﻟﺎﻌﻣ",
 		"chinese": "资源进度",
 		"italian": "Trasforma risorse",
+		"polish": "Przeprocesuj",
 	},
 	"ChangeProfession": {
 		"english": "Change",
@@ -870,6 +909,7 @@
 		"arabic":"ﺮﻴﻴﻐﺗ",
 		"chinese": "变更",
 		"italian": "Cambia",
+		"polish": "Zmień",
 	},
 	"GiveProductionOrders": {
 		"english": "Give Production Orders",
@@ -885,6 +925,7 @@
 		"arabic":"ﺝﺎﺘﻧﻹﺍ ﺮﻣﺍﻭﺃ ﺀﺎﻄﻋﺇ",
 		"chinese": "安排生产任务",
 		"italian": "Dai ordini di produzione",
+		"polish": "Zleć produkcję",
 	},
 	"FillWateringCan": {
 		"english": "Fill Watering Can",
@@ -1365,6 +1406,7 @@
 		"arabic":"ﺺﻗﺭﺍ",
 		"chinese": "跳舞",
 		"italian": "Balla",
+		"polish": "Tańcz",
 	},
 	"Enjoy": {
 		"english": "Enjoy",
@@ -1380,6 +1422,7 @@
 		"arabic":"ﻊﺘﻤﺘﺳﺍ",
 		"chinese": "享受",
 		"italian": "Divertiti",
+		"polish": "Ciesz się",
 	},
 	"EnjoyFire": {
 		"english": "Enjoy Fire",
@@ -1395,6 +1438,7 @@
 		"arabic":"ﺭﺎﻨﻟﺎﺑ ﻊﺘﻤﺘﺳﺍ",
 		"chinese": "享受营火",
 		"italian": "Goditi il fuoco",
+		"polish": "Usiądź przy ogniu",
 	},
 	"Drum": {
 		"english": "Drum",
@@ -1425,6 +1469,7 @@
 		"arabic":"ﻦﻀﺣﺍ",
 		"chinese": "拥抱",
 		"italian": "Abbraccia",
+		"polish": "Przytul",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1440,6 +1485,7 @@
 		"arabic":"ﻒﺘﻫﺍ",
 		"chinese": "欢呼",
 		"italian": "Esulta",
+		"polish": "Ciesz się",
 	},
 	"AskAboutTraits": {
 		"english": "Ask about traits",
@@ -1451,6 +1497,7 @@
 		"russian": "Спросить про черты характера",
 		"korean": "성향에 대해 물어보기",
 		"turkish": "Özelliklerini sor",
+		"polish": "Zapytaj o cechy",
 	},
 
 
@@ -1511,6 +1558,7 @@
 		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ ﺮﺧﺁ ﺺﺨﺷ",
 		"chinese": "有人正在使用",
 		"italian": "Qualcun altro lo sta usando",
+		"polish": "Ktoś tego używa",
 	},
 	"firstNameIsUsingThat": {
 		"english": "%firstName% is using that",
@@ -1526,6 +1574,7 @@
 		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ %firstName%",
 		"chinese": "%firstName%正在使用",
 		"italian": "%firstName% lo sta usando",
+		"polish": "%firstName% tego używa",
 	},
 	"goblinIsUsingThat": {
 		"english": "Goblin is using that",
@@ -1541,6 +1590,7 @@
 		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ ﺖﻳﺮﻔﻋ",
 		"chinese": "哥布林正在使用",
 		"italian": "Un goblin lo sta usando",
+		"polish": "Goblin tego używa",
 	},
 	"visitorIsUsingThat": { // visitors like migrants or traders
 		"english": "A visitor is using that",
@@ -1556,6 +1606,7 @@
 		"arabic":"ﻚﻟﺫ ﻡﺪﺨﺘﺴﻳ ﺮﺋﺍﺯ",
 		"chinese": "访问者正在使用",
 		"italian": "Un visitatore lo sta usando",
+		"polish": "Gość tego używa",
 	},
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",
@@ -1571,6 +1622,7 @@
 		"arabic":"ﻕﺎﺴﻟﺍ ﻲﻓ ﺮﺴﻛ ﺐﺒﺴﺑ ﻲﺸﻤﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻻ",
 		"chinese": "因为腿断了不能走路",
 		"italian": "Non può camminare a causa della gamba rotta",
+		"polish": "Nie może chodzić z powodu złamanej nogi",
 	},
 	"cantWorkBrokenArm": {
 		"english": "Can't work because of broken arm",
@@ -1586,6 +1638,7 @@
 		"arabic":"ﻉﺍﺭﺬﻟﺍ ﻲﻓ ﺮﺴﻛ ﺐﺒﺴﺑ ﻞﻤﻌﻟﺍ ﻊﻴﻄﺘﺴﻳ ﻻ",
 		"chinese": "因为手臂骨折不能工作",
 		"italian": "Non può lavorare a causa del braccio rotto",
+		"polish": "Nie może pracować z powodu złamanej ręki",
 	},
 	"cantInteractIsLockedUp": {
 		"english": "Colonist is locked up",
@@ -1601,6 +1654,7 @@
 		"arabic":"ﻥﻮﺠﺴﻣ ﺮﻤﻌﺘﺴﻤﻟﺍ",
 		"chinese": "殖民者被关起来了",
 		"italian": "Il colono è rinchiuso",
+		"polish": "Kolonista jest zamknięty",
 	},
 	"stockpileIsFull": {
 		"english": "%resource% stockpile is full",
@@ -1609,6 +1663,7 @@
 		"spanish": "El depósito de %resource% está lleno",
 		"russian": "Хранилище %resource% заполнено",
 		"turkish": "%resource% stoğu dolu",
+		"polish": "%resource% magazyn jest pełny",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -1654,6 +1709,7 @@
 		"arabic":"%season% ﻲﻓ ﻦﻜﻤﻣ ﺮﻴﻏ",
 		"chinese": "在%season%季节不能生长",
 		"italian": "Impossibile in %season%",
+		"polish": "Nie można zasadzić w %season%",
 	},
 	"noTimeBeforeSeasonChanges": {
 		"english": "Not enough time before season changes",
@@ -1669,6 +1725,7 @@
 		"arabic":"ﻢﺳﻮﻤﻟﺍ ﺮﻴﻐﺗ ﻞﺒﻗ ﻲﻓﺎﻛ ﺮﻴﻏ ﺖﻗﻭ",
 		"chinese": "在季节变更之前没有足够的时间生长成熟",
 		"italian": "Non c'è abbastanza tempo prima del cambio di stagione",
+		"polish": "Zbyt mało czasu w tym sezonie",
 	},
 	"nextTryIn": {
 		"english": "Next Try in",
@@ -1714,6 +1771,7 @@
 		"arabic":"%trait% :ﺓﺩﻮﻘﻔﻣ ﺔﻤﺳ",
 		"chinese": "缺少特性：%trait%",
 		"italian": "Tratto mancante: %trait%",
+		"polish": "Brakująca cecha: %trait%",
 	},
 	"cantGetResourceNearby": {
 		"english": "Can't get %resource% nearby",
@@ -1729,6 +1787,7 @@
 		"arabic":"ﺎﻨﻫ ﻦﻣ ﺏﺮﻘﻟﺎﺑ %resource% ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ ﻻ",
 		"chinese": "无法获取附近的%resource%",
 		"italian": "Non può ottenere %resource% nelle vicinanze",
+		"polish": "Brakuje surowców w pobliżu: %resource%",
 	},
 	"missingEquipmentEffect_WateringPlants": {
 		"english": "Needs a watering can",
@@ -1744,6 +1803,7 @@
 		"arabic":"ﻱﺮﻟﺍ ﻮﻟﺩ ﻰﻟﺇ ﺝﺎﺘﺤﻳ",
 		"chinese": "需要一个水壶灌溉",
 		"italian": "Ha bisogno di un innaffiatoio",
+		"polish": "Potrzeba konewki",
 	},
 	"noResearchSelected": {
 		"english": "No Research selected",
@@ -1759,6 +1819,7 @@
 		"arabic":"ﺚﺤﺑ ﺭﺎﻴﺘﺧﺍ ﻢﺘﻳ ﻢﻟ",
 		"chinese": "没有选择研究",
 		"italian": "Nessuna ricerca selezionata",
+		"polish": "Wybierz następne badania",
 	},
 	"resourceNotNecessaryForResearch": {
 		"english": "Doesn't need to analyze %resource% for current research",
@@ -1815,6 +1876,7 @@
 		"chinese": "%firstName%在战斗模式下不能这样做",
 		"italian": "%firstName% non può farlo in modalità di combattimento",
 		"turkish": "%firstName% bunu savaş modunda yapamaz",
+		"polish": "%firsname% nie może tego zrobić w trybie walki",
 	},
 	
 }

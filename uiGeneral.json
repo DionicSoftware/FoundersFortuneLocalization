@@ -727,7 +727,7 @@
 		"arabic": "ﻡﺎﻋ",
 		"korean": "일반",
 		"italian": "Generale",
-		"polish": "Ogólna",
+		"polish": "Opinia",
 	},
 	"bugReport": {
 		"english": "Bug Report",
@@ -759,7 +759,7 @@
 		"arabic": "ﺕﺍﺭﺎﻃﻹﺍ ﻝﺪﻌﻣ",
 		"korean": "FPS",
 		"italian": "FPS",
-		"polish": "FPS",
+		"polish": "Ilość FPS",
 	},
 	"feedback": {
 		"english": "Feedback",
@@ -775,7 +775,7 @@
 		"arabic": "ﺔﻈﺣﻼﻣ",
 		"korean": "피드백",
 		"italian": "Feedback",
-		"polish": "Feedback",
+		"polish": "Treść",
 	},
 	"enterFeedback": {
 		"english": "Enter Feedback...",
@@ -791,7 +791,7 @@
 		"arabic": "...ﺔﻈﺣﻼﻤﻟﺍ ﻞﺧﺩﺃ",
 		"korean": "피드백을 입력해주세요...",
 		"italian": "Inserisci feedback...",
-		"polish": "Wprowadź feedback",
+		"polish": "Wprowadź treść...",
 	},
 	"emailAddressOptional": {
 		"english": "Email Address (optional!)",
@@ -807,7 +807,7 @@
 		"arabic": "(ﻱﺭﺎﻴﺘﺧﺍ) ﻲﻧﻭﺮﺘﻜﻟﻹﺍ ﺪﻳﺮﺒﻟﺍ",
 		"korean": "이메일 주소 (선택!)",
 		"italian": "Indirizzo e-mail (facoltativo!)",
-		"polish": "Adres e-mail (opcjonalnie!)",
+		"polish": "Podaj adres e-mail (opcjonalnie)",
 	},
 	"clickToSubmit": {
 		"english": "Click to submit",
@@ -823,7 +823,7 @@
 		"arabic": "ﻝﺎﺳﺭﻺﻟ ﻂﻐﺿﺇ",
 		"korean": "보내려면 여기를 클릭",
 		"italian": "Clicca per inviare",
-		"polish": "Naciśnij, aby zatwierdzić",
+		"polish": "Naciśnij buźkę, aby wysłać",
 	},
 	"thankYou": {
 		"english": "Thank you!",
@@ -855,7 +855,7 @@
 		"arabic": "ﺡﺎﺠﻨﺑ ﺔﻈﺣﻼﻤﻟﺍ ﻝﺎﺳﺭﺇ ﻢﺗ",
 		"korean": "피드백이 정상적으로 접수되었습니다",
 		"italian": "Il tuo feedback è stato inviato con successo",
-		"polish": "Feedback dodany poprawnie",
+		"polish": "Feedback został wysłany.",
 	},
 	"Oops": {
 		"english": "Oops...",
@@ -918,7 +918,7 @@
 		"arabic": "ﺍﻮﻔﻋ",
 		"korean": "천만에요",
 		"italian": "Prego",
-		"polish": "Nie ma za co",
+		"polish": "Zamknij",
 	},
 	"retry": {
 		"english": "retry",
@@ -1632,7 +1632,7 @@
 		"arabic": "ﺍﺮﻴﻣﺎﻜﻟﺎﺑ ﻢﻜﺤﺘﻟﺍ",
 		"korean": "카메라 컨트롤",
 		"italian": "Controlli telecamera",
-		"polish": "Sterowanie kamery",
+		"polish": "Sterowanie kamerą",
 	},
 	"keyBindings": {
 		"english": "Key Bindings",
@@ -1648,7 +1648,7 @@
 		"arabic": "ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﺕﺍﺭﺎﺼﺘﺧﺍ",
 		"korean": "키보드 매핑",
 		"italian": "Assegnazione tasti",
-		"polish": "Przypisanie klawiszy",
+		"polish": "Zmień przypisanie klawiszy",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1790,7 +1790,7 @@
 		"arabic": "ﺖﻗﻮﻟﺎﺑ ﻢﻜﺤﺘﻟﺍ",
 		"korean": "빠르기 조절",
 		"italian": "Controllo del tempo",
-		"polish": "Kontrola czasu",
+		"polish": "Prędkość gry",
 	},
 	"pause": {
 		"english": "Pause",
@@ -1886,7 +1886,7 @@
 		"arabic": "ﺓﺩﺪﻌﺘﻣ ﺮﻣﺍﻭﺃ",
 		"korean": "여러개의 명령 내리기",
 		"italian": "Ordini multipli",
-		"polish": "Wielozadaniowość",
+		"polish": "Kolejkowanie zadań",
 	},
 	"furnitureHandling": {
 		"english": "Furniture Handling",
@@ -1902,6 +1902,7 @@
 		"arabic": "ﺙﺎﺛﻷﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ",
 		"korean": "가구 움직이기",
 		"italian": "Gestione mobili",
+		"polish": "Meblowanie",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",

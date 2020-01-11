@@ -46,7 +46,7 @@
 		"arabic": "%food% ﻞﻛ",
 		"chinese": "吃%food%",
 		"italian": "Mangia %food%",
-		"polish": "Zjedz %food%",
+		"polish": "Zjedz: %food%",
 	},
 	"GiveFood": {
 		"english": "Give Food",
@@ -142,7 +142,7 @@
 		"arabic": "ﺡﺮﺘﺳﺍ",
 		"chinese": "休息",
 		"italian": "Rilassarsi",
-		"polish": "Odpręż się",
+		"polish": "Odpocznij",
 	},
 	"RemovePlant": {
 		"english": "Remove Plant",
@@ -941,6 +941,7 @@
 		"arabic":"ﻱﺮﻟﺍ ﻮﻟﺩ ﺀﻞﻣ",
 		"chinese": "灌满水壶",
 		"italian": "Riempi innaffiatoio",
+		"polish": "Napełnij konewkę",
 	},
 	"interaction_gatherFood": {
 		"english": "Gather Food",
@@ -956,6 +957,7 @@
 		"arabic":"ﻡﺎﻌﻄﻟﺍ ﻊﻤﺟ",
 		"chinese": "收集食物",
 		"italian": "Raccogli cibo",
+		"polish": "Zbierz jedzenie",
 	},
 	"interaction_cutTree": {
 		"english": "Cut Tree",
@@ -971,6 +973,7 @@
 		"arabic":"ﺓﺮﺠﺸﻟﺍ ﻊﻄﻗ",
 		"chinese": "砍伐树木",
 		"italian": "Abbatti albero",
+		"polish": "Zetnij drzewo",
 	},
 	"interaction_mineStone": {
 		"english": "Mine Stone",
@@ -986,6 +989,7 @@
 		"arabic":"ﺓﺭﺎﺠﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 		"chinese": "挖掘岩石",
 		"italian": "Estrai pietra",
+		"polish": "Wydobądź kamień",
 	},
 	"interaction_mineIronOre": {
 		"english": "Mine Iron Ore",
@@ -1001,6 +1005,7 @@
 		"arabic":"ﺪﻳﺪﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 		"chinese": "挖掘铁矿",
 		"italian": "Estrai minerale di ferro",
+		"polish": "Wydobądź żelazo",
 	},
 	"GatherResource": {
 		"english": "Gather %resource%",
@@ -1016,6 +1021,7 @@
 		"arabic":"%resource% ﻊﻤﺟ",
 		"chinese": "收集%resource%",
 		"italian": "Raccogli %resource%",
+		"polish": "Zbieraj: %resource%",
 	},
 	"BecomeAProfession": {
 		"english": "Become a %profession%",
@@ -1031,6 +1037,7 @@
 		"arabic":"%profession% ﺢﺒﺻﺃ",
 		"chinese": "转职为 %profession%",
 		"italian": "Diventa: %profession%",
+		"polish": "Zostań: %profession%",
 	},
 	"TryFluTreatment": {
 		"english": "Try Flu Treatment",
@@ -1046,6 +1053,7 @@
 		"arabic":"ﺍﺰﻧﻮﻠﻔﻧﻻﺍ ﺝﻼﻋ ﺔﻟﻭﺎﺤﻣ",
 		"chinese": "尝试治疗流感",
 		"italian": "Prova il trattamento contro l'influenza",
+		"polish": "Wylecz grypę",
 	},
 	"interaction_analyzeCrystal": {
 		"english": "Analyze Crystal",
@@ -1061,6 +1069,7 @@
 		"arabic":"ﺕﺍﺭﻮﻠﺒﻟﺍ ﻞﻴﻠﺤﺗ",
 		"chinese": "分析水晶",
 		"italian": "Analizza cristallo",
+		"polish": "Badaj kryształy",
 	},
 	"interaction_analyzeScroll": {
 		"english": "Analyze Scroll",
@@ -1076,6 +1085,7 @@
 		"arabic":"ﺕﺎﻃﻮﻄﺨﻤﻟﺍ ﻞﻴﻠﺤﺗ",
 		"chinese": "分析卷轴",
 		"italian": "Analizza pergamena",
+		"polish": "Czytaj zwoje",
 	},
 	"interaction_cook": {
 		"english": "Cook Food",
@@ -1091,6 +1101,7 @@
 		"arabic":"ﻡﺎﻌﻄﻟﺍ ﻮﻬﻃ",
 		"chinese": "烹饪食物",
 		"italian": "Cuoci cibo",
+		"polish": "Gotuj",
 	},
 	"interaction_Forge": {
 		"english": "Forge",
@@ -1106,6 +1117,7 @@
 		"arabic":"ﻊﻨﺻ",
 		"chinese": "锻造",
 		"italian": "Forgia",
+		"polish": "Wykuwaj broń",
 	},
 	"interaction_makeBows": {
 		"english": "Make Bows",
@@ -1121,6 +1133,7 @@
 		"arabic":"ﺱﺍﻮﻗﺃ ﻊﻨﺻ",
 		"chinese": "制造弓箭",
 		"italian": "Fabbrica archi",
+		"polish": "Rób łuki",
 	},
 	"interaction_makeTools": {
 		"english": "Make Tools",
@@ -1136,6 +1149,7 @@
 		"arabic":"ﺕﺍﻭﺩﺃ ﻊﻨﺻ",
 		"chinese": "制造工具",
 		"italian": "Fabbrica strumenti",
+		"polish": "Rób narzędzia",
 	},
 	"interaction_tailorClothes": {
 		"english": "Tailor Clothes",
@@ -1151,6 +1165,7 @@
 		"arabic":"ﺲﺑﻼﻣ ﺔﻃﺎﻴﺧ",
 		"chinese": "缝纫衣服",
 		"italian": "Cuci vestiti",
+		"polish": "Szyj ubrania",
 	},
 	"interaction_produceMedicalPotions": {
 		"english": "Produce Healing Potions",
@@ -1166,6 +1181,7 @@
 		"arabic":"ﺀﺎﻔﺷ ﺕﺎﻋﺮﺟ ﺝﺎﺘﻧﺇ",
 		"chinese": "生产药水",
 		"italian": "Produci pozioni curative",
+		"polish": "Twórz mikstury",
 	},
 	"interaction_produceMedicine": {
 		"english": "Produce Medicine",
@@ -1181,6 +1197,7 @@
 		"arabic":"ﺔﻳﻭﺩﺃ ﺝﺎﺘﻧﺇ",
 		"chinese": "生产药水",
 		"italian": "Produci medicinale",
+		"polish": "Twórz leki",
 	},
 	"interaction_brewBeer": {
 		"english": "Brew Beer",
@@ -1196,6 +1213,7 @@
 		"arabic":"ﺓﺮﻴﺒﻟﺍ ﺮﻴﻤﺨﺗ",
 		"chinese": "酿造酒水",
 		"italian": "Prepara birra",
+		"polish": "Warz piwo",
 	},
 	"Talk": {
 		"english": "Talk",
@@ -1211,6 +1229,7 @@
 		"arabic":"ﺙﺪﺤﺗ",
 		"chinese": "交流",
 		"italian": "Parla",
+		"polish": "Rozmawiaj",
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
@@ -1226,6 +1245,7 @@
 		"arabic":"%name% ﻰﻟﺇ ﺙﺪﺤﺗ",
 		"chinese": "与%name%交流",
 		"italian": "Parlare con %name%",
+		"polish": "Rozmawiaj z %name%",
 	},
 	"TakeOwnership": {
 		"english": "Take Ownership",
@@ -1241,6 +1261,7 @@
 		"arabic":"ﺔﻴﻜﻠﻤﻟﺍ ﺬﺧ",
 		"chinese": "获得拥有权",
 		"italian": "Assumi la proprietà",
+		"polish": "Zostań właścicielem",
 	},
 	"TakeOwnershipFrom": {
 		"english": "Take Ownership from %name%",
@@ -1256,6 +1277,7 @@
 		"ukrainian":"Стати власником замість %name%",
 		"chinese": "从%name%那里获得拥有权",
 		"italian": "Assumi la proprietà da %name%",
+		"polish": "Przejmij własność od %name%",
 	},
 	"GiveUpOwnership": {
 		"english": "Give up Ownership",
@@ -1271,6 +1293,7 @@
 		"arabic":"ﺔﻴﻜﻠﻤﻟﺍ ﻦﻋ ﻝﺯﺎﻨﺗ",
 		"chinese": "放弃拥有权",
 		"italian": "Rinuncia alla proprietà",
+		"polish": "Zrzeknij się własności",
 	},
 	"CarryToBed": {
 		"english": "Carry to Bed",
@@ -1286,6 +1309,7 @@
 		"arabic":"ﺮﻳﺮﺴﻟﺍ ﻰﻟﺇ ﻞﻤﺣﺍ",
 		"chinese": "携带床铺",
 		"italian": "Porta a letto",
+		"polish": "Zaprowadź do łóżka",
 	},
 	"PlaceTool": {
 		"english": "Unequip Tool",
@@ -1301,6 +1325,7 @@
 		"arabic":"ﺓﺍﺩﻷﺍ ﻊﻠﺧ",
 		"chinese": "卸下工具",
 		"italian": "Disequipaggia strumento",
+		"polish": "Odłóż narzędzie",
 	},
 	"PlaceClothes": {
 		"english": "Unequip Clothes",
@@ -1316,6 +1341,7 @@
 		"arabic":"ﺲﺑﻼﻤﻟﺍ ﻊﻠﺧ",
 		"chinese": "卸下衣服",
 		"italian": "Disequipaggia vestiti",
+		"polish": "Zdejmij ubranie",
 	},
 	"Trade": {
 		"english": "Trade",
@@ -1331,6 +1357,7 @@
 		"arabic":"ﺓﺮﺟﺎﺘﻣ",
 		"chinese": "交易",
 		"italian": "Commercia",
+		"polish": "Handluj",
 	},
 	"LockUp": {
 		"english": "Lock Up",
@@ -1346,6 +1373,7 @@
 		"arabic":"ﻦﺠﺳﺍ",
 		"chinese": "锁上",
 		"italian": "Rinchiudi",
+		"polish": "Zamknij",
 	},
 	"FreeColonist": {
 		"english": "Free colonist",
@@ -1361,6 +1389,7 @@
 		"arabic":"ﺮﻤﻌﺘﺴﻤﻟﺍ ﺭﺮﺣ",
 		"chinese": "自由移民",
 		"italian": "Libera colono",
+		"polish": "Uwolnij",
 	},
 	"FreeColonistFirstName": {
 		"english": "Free %firstName%",
@@ -1376,6 +1405,7 @@
 		"arabic":"%firstName% ﺭﺮﺣ",
 		"chinese": "自由的%firstName%",
 		"italian": "Libera %firstName%",
+		"polish": "Uwolnij: %firstName%",
 	},
 	"DrinkBeer": {
 		"english": "Drink Beer",
@@ -1391,6 +1421,7 @@
 		"arabic":"ﺓﺮﻴﺑ ﺏﺮﺷﺍ",
 		"chinese": "喝啤酒",
 		"italian": "Bevi birra",
+		"polish": "Wypij piwo",
 	},
 	"Dance": {
 		"english": "Dance",
@@ -1454,6 +1485,7 @@
 		"arabic":"ﻞﺒﻄﻟﺍ ﻉﺮﻗﺍ",
 		"chinese": "击鼓",
 		"italian": "Suona",
+		"polish": "Werbluj",
 	},
 	"Hug": {
 		"english": "Hug",
@@ -1663,7 +1695,7 @@
 		"spanish": "El depósito de %resource% está lleno",
 		"russian": "Хранилище %resource% заполнено",
 		"turkish": "%resource% stoğu dolu",
-		"polish": "%resource% magazyn jest pełny",
+		"polish": "Nie ma gdzie składować: %resource%",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -1694,6 +1726,7 @@
 		"arabic":"%profession%ـﻛ ﺔﻴﻓﺎﻛ ﺓﺮﺒﺧ ﻚﻠﻤﻳ ﻻ %firstName%",
 		"chinese": "%firstName%没有足够的%profession%经验",
 		"italian": "%firstName% non ha abbastanza esperienza come %profession%",
+		"polish": "%firstName% nie ma doświadczenia jako %profession%",
 	},
 	"notUsableInSeason": {
 		"english": "Not possible in %season%",
@@ -1741,6 +1774,7 @@
 		"arabic":"ﻲﻓ ﻝﻭﺎﺣ ﺔﻠﺒﻘﻤﻟﺍ ﺓﺮﻤﻟﺍ",
 		"chinese": "尝试下一个",
 		"italian": "Prossimo tentativo in",
+		"polish": "Spróbuj w",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",
@@ -1756,6 +1790,7 @@
 		"arabic":"%trait% :ﺔﻤﺴﻟﺍ ﺐﺒﺴﺑ ﻦﻜﻤﻣ ﺮﻴﻏ",
 		"chinese": "因为特性：%trait% 限制",
 		"italian": "Non può a causa del tratto: %trait%",
+		"polish": "Nie można ze względu na cechę: %trait%",
 	},
 	"forbiddenBecauseNotHasTrait": {
 		"english": "Missing trait: %trait%",
@@ -1787,7 +1822,7 @@
 		"arabic":"ﺎﻨﻫ ﻦﻣ ﺏﺮﻘﻟﺎﺑ %resource% ﻰﻠﻋ ﻝﻮﺼﺤﻟﺍ ﻦﻜﻤﻳ ﻻ",
 		"chinese": "无法获取附近的%resource%",
 		"italian": "Non può ottenere %resource% nelle vicinanze",
-		"polish": "Brakuje surowców w pobliżu: %resource%",
+		"polish": "Brakuje w pobliżu: %resource%",
 	},
 	"missingEquipmentEffect_WateringPlants": {
 		"english": "Needs a watering can",
@@ -1803,7 +1838,7 @@
 		"arabic":"ﻱﺮﻟﺍ ﻮﻟﺩ ﻰﻟﺇ ﺝﺎﺘﺤﻳ",
 		"chinese": "需要一个水壶灌溉",
 		"italian": "Ha bisogno di un innaffiatoio",
-		"polish": "Potrzeba konewki",
+		"polish": "Potrzebna konewka",
 	},
 	"noResearchSelected": {
 		"english": "No Research selected",
@@ -1819,7 +1854,7 @@
 		"arabic":"ﺚﺤﺑ ﺭﺎﻴﺘﺧﺍ ﻢﺘﻳ ﻢﻟ",
 		"chinese": "没有选择研究",
 		"italian": "Nessuna ricerca selezionata",
-		"polish": "Wybierz następne badania",
+		"polish": "Wybierz kolejne badania",
 	},
 	"resourceNotNecessaryForResearch": {
 		"english": "Doesn't need to analyze %resource% for current research",
@@ -1835,6 +1870,7 @@
 		"arabic":"ﻲﻟﺎﺤﻟﺍ ﺚﺤﺒﻠﻟ %resource% ﻞﻴﻠﺤﺘﻟ ﺔﺟﺎﺣ ﻻ",
 		"chinese": "当前研究不需要分析%resource%",
 		"italian": "Non ha bisogno di analizzare %resource% per la ricerca attuale",
+		"polish": "Nie potrzeba: %resource% do aktualnych badań",
 	},
 	"notOwnedBy": {
 		"english": "Not owned by %firstName%",
@@ -1850,6 +1886,7 @@
 		"arabic":"%firstName% ﻦﻣ ﺔﻛﻮﻠﻤﻣ ﺮﻴﻏ",
 		"chinese": "不属于%firstName%",
 		"italian": "Non è di proprietà di %firstName%",
+		"polish": "Nie posiadane przez %firstName%",
 	},
 	"cantWearClothesBecauseOfBodyShape": { // For example, goblins can't wear clothes with hats because of their head shape
 		"english": "Can't wear this type of clothing",
@@ -1863,6 +1900,7 @@
 		"chinese": "不能穿这种衣服",
 		"italian": "Non può indossare questo tipo di vestiti",
 		"turkish": "Bu tipte kıyafet giyemez.",
+		"polish": "Nie można tego ubrać",
 	},
 	"cantInteractInCombatMode": {
 		"english": "%firstName% can't do that in combat mode",

@@ -15,6 +15,7 @@
 		"korean": "자원이 부족합니다!",
 		"chinese": "资源不足!",
 		"italian": "Non hai abbastanza risorse!",
+		"polish": "Brakuje surowców!",
 	},
 	"cantBuildThisCloseToWater": {
 		"english": "Can't build this close to water!",
@@ -30,6 +31,7 @@
 		"korean": "여기에 지을 수 없습니다. 물에 너무 가깝습니다!",
 		"chinese": "无法在如此靠近水的地方建造!",
 		"italian": "Non puoi costruire a così poca distanza dall'acqua!",
+		"polish": "Nie można zbudować tak blisko wody!",
 	},
 	"needsToBeBuiltOnFloor": { // used for furniture building
 		"english": "Needs to be built on floor",
@@ -37,6 +39,7 @@
 		"french": "Doit être construit sur le sol",
 		"spanish": "Necesita ser construido en el suelo",
 		"russian": "Это нужно размещать на полу",
+		"polish": "Trzeba zbudować na podłodze",
 	},
 	"needsToBeBuiltNextToFloor": { // used for wall building
 		"english": "Needs to be built next to floor tile",
@@ -44,6 +47,7 @@
 		"french": "Doit être construit à côté du carreau du sol",
 		"spanish": "Necesita ser construido cerca de una baldosa del suelo",
 		"russian": "Это нужно размещать рядом с полом",
+		"polish": "Trzeba zbudować w pobliżu podłogi",
 	},
 	"needsToBeBuiltAboveRoomOrTerrain": { // used for floor building
 		"english": "Needs to be built above room or on solid ground",
@@ -66,6 +70,7 @@
 		"korean": "이 곳은 무언가로 막혀있습니다!",
 		"chinese": "这块地区被物体阻挡!",
 		"italian": "Questo posto è bloccato da qualcosa!",
+		"polish": "To miejsce jest zajęte!",
 	},
 	"needsToBeBuiltAtWall": {
 		"english": "Needs to be built at a wall!",
@@ -81,6 +86,7 @@
 		"korean": "벽 위에 지어야 합니다!",
 		"chinese": "要造在墙上!",
 		"italian": "Richiede una parete!",
+		"polish": "Trzeba zbudować na ścianie!",
 	},
 	"notEnoughSpecificResource": {
 		"english": "Not enough %resource%!",
@@ -96,6 +102,7 @@
 		"korean": "%resource%#{가} 부족합니다!",
 		"chinese": "不足 %resource%!",
 		"italian": "Non hai abbastanza %resource%!",
+		"polish": "Brakuje: %resource%!",
 	},
 	"needsToBePlacedInRoom": {
 		"english": "Needs to be placed in a finished room!",
@@ -111,6 +118,7 @@
 		"korean": "완성된 방 안에 위치시켜야 합니다!",
 		"chinese": "要放在一间完成的房间中!",
 		"italian": "Richiede una stanza completa!",
+		"polish": "Trzeba zbudować w pomieszczeniu!",
 	},
 
 
@@ -129,6 +137,7 @@
 		"korean": "개척자가 방금 죽었습니다!",
 		"chinese": "一个殖民者死了!",
 		"italian": "Un colono è appena morto!",
+		"polish": "Kolonista nie żyje!",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -144,6 +153,7 @@
 		"korean": "이제 %season%입니다.",
 		"chinese": "现在是%season%.",
 		"italian": "È %season%.",
+		"polish": "Obecnie jest %season%.",
 	},
 	"notificationTitle_ColonistTerribleMood": {
 		"english": "Desperation",
@@ -159,6 +169,7 @@
 		"korean": "절망",
 		"chinese": "绝望",
 		"italian": "Disperazione",
+		"polish": "Desperacja",
 	},
 	"notificationTitle_ColonistBadMood": {
 		"english": "Low Spirits",
@@ -191,6 +202,7 @@
 		"korean": "전투중",
 		"chinese": "殖民者失去意识",
 		"italian": "Combattimento",
+		"polish": "Jesteś atakowany!",
 	},
 	"notificationTitle_LostConsciousness": {
 		"english": "Colonist lost Consciousness",
@@ -221,6 +233,7 @@
 		"korean": "개척자가 죽었습니다",
 		"chinese": "食物不足",
 		"italian": "Un colono è morto",
+		"polish": "Kolonista zmarł!",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -236,6 +249,7 @@
 		"korean": "식량이 바닥을 보이고 있습니다",
 		"chinese": "食物无库存",
 		"italian": "Il cibo sta per finire",
+		"polish": "Kończy się jedzenie",
 	},
 	"notificationTitle_NoFood": {
 		"english": "No Food left",
@@ -251,6 +265,7 @@
 		"korean": "남은 식량이 없습니다",
 		"chinese": "无法找到食物库存",
 		"italian": "Non è rimasto più cibo",
+		"polish": "Jedzenie się skończyło!",
 	},
 	"notificationTitle_HungryNoFoodContainer": {
 		"english": "Missing Food Storage",
@@ -266,6 +281,7 @@
 		"korean": "식량을 저장할 공간이 없습니다",
 		"chinese": "未选择研究项目",
 		"italian": "Deposito di cibo mancante",
+		"polish": "Brakuje miejsca do składowania jedzenia",
 	},
 	"notificationTitle_NoResearchSelected": { // used not only as notification, but also as tooltip title
 		"english": "No Research selected",
@@ -281,6 +297,7 @@
 		"korean": "진행중인 연구가 없습니다",
 		"chinese": "没有选择研究",
 		"italian": "Nessuna ricerca selezionata",
+		"polish": "Nie wybrano kolejnych badań",
 	},
 	"notificationTitle_Illness": {
 		"english": "Illness",
@@ -296,6 +313,7 @@
 		"korean": "아픔",
 		"chinese": "疾病",
 		"italian": "Malattia",
+		"polish": "Kolonista choruje",
 	},
 	"notificationTitle_ColonistJoined": {
 		"english": "Colonist joined",
@@ -311,6 +329,7 @@
 		"korean": "개척자가 합류했습니다",
 		"chinese": "移民加入",
 		"italian": "Un colono si è unito",
+		"polish": "Nowy członek koloni",
 	},
 	"notificationTitle_MigrantsAreLeaving": {
 		"english": "Migrants are leaving",
@@ -326,6 +345,7 @@
 		"korean": "이주민이 떠나갑니다",
 		"chinese": "移民离开了",
 		"italian": "I migranti stanno partendo",
+		"polish": "Imigranci odchodzą",
 	},
 	"notificationTitle_TraderIsLeaving": {
 		"english": "Trader is leaving",
@@ -341,6 +361,7 @@
 		"korean": "상인이 떠나갑니다",
 		"chinese": "贸易者离开了",
 		"italian": "Il mercante sta partendo",
+		"polish": "Handlarz odchodzi",
 	},
 	"notificationTitle_SeasonChanged": {
 		"english": "It is now %season%",
@@ -356,6 +377,7 @@
 		"korean": "이제 %season%입니다",
 		"chinese": "现在是%season%",
 		"italian": "È %season%",
+		"polish": "Obecnie jest $season%",
 	},
 	"notificationTitle_LastDayOfSeason": {
 		"english": "It is the last day of %season%.",
@@ -371,6 +393,7 @@
 		"korean": "오늘은 %season%의 마지막 날입니다",
 		"chinese": "今天是%season%的最后一天.",
 		"italian": "%season%: ultimo giorno di stagione.",
+		"polish": "Dziś ostatni dzień tej pory roku",
 	},
 	"notificationTitle_AllergicReaction": {
 		"english": "Colonist has an allergic reaction",
@@ -386,6 +409,7 @@
 		"korean": "개척자가 알레르기 반응을 보이고 있습니다",
 		"chinese": "殖民者发生了过敏反应",
 		"italian": "Un colono ha una reazione allergica",
+		"polish": "Kolonista ma alergię",
 	},
 	"notificationTitle_BugInfestationOver": { // means that the bug infestation is done, it's finished, it's no longer active
 		"english": "Bug infestation over",
@@ -402,6 +426,7 @@
 		"korean": "병충해가 사라졌습니다",
 		"chinese": "虫灾结束了",
 		"italian": "Infestazione di insetti terminata",
+		"polish": "Plaga ustąpiła",
 	},
 	"notificationTitle_NeedToBuildBonfire": {
 		"english": "Need a Bonfire to get Migrants",
@@ -417,6 +442,7 @@
 		"korean": "이주민이 찾아오려면 화톳불이 필요합니다",
 		"chinese": "需要篝火来吸引移民",
 		"italian": "Hai bisogno di un falò per attirare i migranti",
+		"polish": "Potrzeba ogniska sygnalizacyjnego",
 	},
 	"notificationTitle_UnfulfilledExpectations": {
 		"english": "Need to fulfill Expectations",
@@ -432,6 +458,7 @@
 		"korean": "기대를 충족시켜야 합니다",
 		"chinese": "需要满足期望",
 		"italian": "Devi soddisfare le aspettative",
+		"polish": "Trzeba spełnić oczekiwania kolonistów",
 	},
 	"notificationTitle_NeedBookstand": {
 		"english": "Need a Research Book Stand",
@@ -447,6 +474,7 @@
 		"korean": "연구대가 필요합니다",
 		"chinese": "需要一个研究用书架",
 		"italian": "Hai bisogno di un leggio per la ricerca",
+		"polish": "Zbuduj stanowisko do badań",
 	},
 	"notificationTitle_NeedToSelectResearch": {
 		"english": "Need to select Research",
@@ -462,6 +490,7 @@
 		"korean": "연구를 선택해야 합니다",
 		"chinese": "需要选择一项研究项目",
 		"italian": "Devi selezionare una ricerca",
+		"polish": "Wybierz kolejne badania",
 	},
 	"notificationTitle_NeedCrystals": {
 		"english": "Need Crystals for Research",
@@ -477,6 +506,7 @@
 		"korean": "연구를 위해서 크리스탈이 필요합니다",
 		"chinese": "需要水晶用于研究",
 		"italian": "Hai bisogno di cristalli per la ricerca",
+		"polish": "Potrzeba kryształów do badań",
 	},
 	"notificationTitle_NeedToAnalyzeCrystals": {
 		"english": "Analyze Crystals on the Bookstand",
@@ -492,6 +522,7 @@
 		"korean": "연구대에서 크리스탈을 분석하세요",
 		"chinese": "在书架上分析水晶",
 		"italian": "Devi analizzare i cristalli sul leggio",
+		"polish": "Zbadaj kryształy na stanowisku do badań",
 	},
 //	"notificationTitle_MissingPossessions": {
 //		"english": "Colonist is missing %hisHer% Possessions",
@@ -517,6 +548,7 @@
 		"korean": "%firstName%#{이} 다리를 다쳤습니다",
 		"chinese": "%firstName%伤到了%hisHer%的腿",
 		"italian": "%firstName% si è %FeritoFerita% alla gamba",
+		"polish": "%firstname% zranił%hisHer% się w nogę",
 	},
 	"notificationTitle_LegBroken": {
 		"english": "%firstName% broke %hisHer% Leg",
@@ -531,6 +563,7 @@
 		"korean": "%firstName%의 다리가 부러졌습니다",
 		"chinese": "%firstName%的腿骨折了",
 		"italian": "%firstName% si è %RottoRotta% la gamba",
+		"polish": "%firstname% złamał%hisHer% nogę",
 	},
 	"notificationTitle_ArmHurt": {
 		"english": "%firstName% hurt %hisHer% Arm",
@@ -545,6 +578,7 @@
 		"korean": "%firstName%#{이} 팔을 다쳤습니다",
 		"chinese": "%firstName%伤到了%hisHer%的手臂",
 		"italian": "%firstName% si è %FeritoFerita% al braccio",
+		"polish": "%firstname% zranił%hisHer% się w rękę",
 	},
 	"notificationTitle_ArmBroken": {
 		"english": "%firstName% broke %hisHer% Arm",
@@ -559,6 +593,7 @@
 		"korean": "%firstName%의 팔이 부러졌습니다",
 		"chinese": "%firstName%的手臂骨折了",
 		"italian": "%firstName% si è %RottoRotta% il braccio",
+		"polish": "%firstname% złamał%hisHer% rękę",
 	},
 	"notificationTitle_AutosaveComplete": {
 		"english": "Autosave complete",
@@ -573,6 +608,7 @@
 		"korean": "자동으로 저장되었습니다",
 		"chinese": "自动存档完成",
 		"italian": "Salvataggio automatico completato",
+		"polish": "Autozapis",
 	},
 	"notificationTitle_Party": {
 		"english": "Party!    %timeLeft%",
@@ -587,6 +623,7 @@
 		"korean": "축제!    %timeLeft%",
 		"chinese": "派对!    %timeLeft%",
 		"italian": "Festa!    %timeLeft%",
+		"polish": "Impreza!    %timeLeft%",
 	},
 	"notificationTitle_StatuePresentAccepted": {
 		"english": "Our statue present was gratefully accepted",
@@ -656,6 +693,7 @@
 		"korean": "기대가 충족됨",
 		"chinese": "期望达成",
 		"italian": "Aspettativa soddisfatta",
+		"polish": "Spełniono oczekiwania",
 	},
 	"wishFulfilled": {
 		"english": "Wish fulfilled",
@@ -671,6 +709,7 @@
 		"korean": "소원이 이뤄짐",
 		"chinese": "愿望达成",
 		"italian": "Desiderio soddisfatto",
+		"polish": "Spełniono życzenia",
 	},
 	"wishDenied": {
 		"english": "Wish denied",
@@ -707,6 +746,7 @@
 		"korean": "치료\n성공",
 		"chinese": "医治\n成功",
 		"italian": "Trattamento\nriuscito",
+		"polish": "Leczenie\nudane",
 	},
 	"treatmentFailed": {
 		"english": "Treatment\nFailed",
@@ -721,6 +761,7 @@
 		"korean": "치료\n실패",
 		"chinese": "医治\n失败",
 		"italian": "Trattamento\nfallito",
+		"polish": "Leczenie\nnieudane",
 	},
 	"legSplintSuccessful": {
 		"english": "Leg Splint\nSuccessful",
@@ -735,6 +776,7 @@
 		"korean": "다리 부목\n성공",
 		"chinese": "腿部夹板安置\n成功",
 		"italian": "Stecca per gamba\nriuscita",
+		"polish": "Usztywnienie\nudane",
 	},
 	"legSplintFailed": {
 		"english": "Leg Splint\nFailed",
@@ -749,6 +791,7 @@
 		"korean": "다리 부목\n실패",
 		"chinese": "腿部夹板安置\n失败",
 		"italian": "Stecca per gamba\nfallita",
+		"polish": "Usztywnienie\nienudane",
 	},
 	"armSplintSuccessful": {
 		"english": "Arm Splint\nSuccessful",
@@ -763,6 +806,7 @@
 		"korean": "팔 부목\n성공",
 		"chinese": "手臂夹板安置\n成功",
 		"italian": "Stecca per braccio\nriuscita",
+		"polish": "Usztywnienie\nudane",
 	},
 	"armSplintFailed": {
 		"english": "Arm Splint\nFailed",
@@ -777,6 +821,7 @@
 		"korean": "팔 부목\n실패",
 		"chinese": "手臂夹板安置\n失败",
 		"italian": "Stecca per braccio\nfallita",
+		"polish": "Usztywnienie\nnieudane",
 	},
 
 
@@ -789,6 +834,7 @@
 		"spanish": "Migrante: %text%",
 		"russian": "Мигрант: %text%",
 		"korean": "이주민: %text%",
+		"polish": "Imigrant: %text%",
 	},
 	"iHaveTrait": {
 		"english": "I have the trait '%trait%'.",

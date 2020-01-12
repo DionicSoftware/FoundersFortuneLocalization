@@ -426,7 +426,7 @@
 		"korean": "병충해가 사라졌습니다",
 		"chinese": "虫灾结束了",
 		"italian": "Infestazione di insetti terminata",
-		"polish": "Plaga ustąpiła",
+		"polish": "Plaga opanowana",
 	},
 	"notificationTitle_NeedToBuildBonfire": {
 		"english": "Need a Bonfire to get Migrants",
@@ -548,7 +548,7 @@
 		"korean": "%firstName%#{이} 다리를 다쳤습니다",
 		"chinese": "%firstName%伤到了%hisHer%的腿",
 		"italian": "%firstName% si è %FeritoFerita% alla gamba",
-		"polish": "%firstname% zranił%hisHer% się w nogę",
+		"polish": "%firstName% zranił%hisHer% się w nogę",
 	},
 	"notificationTitle_LegBroken": {
 		"english": "%firstName% broke %hisHer% Leg",
@@ -563,7 +563,7 @@
 		"korean": "%firstName%의 다리가 부러졌습니다",
 		"chinese": "%firstName%的腿骨折了",
 		"italian": "%firstName% si è %RottoRotta% la gamba",
-		"polish": "%firstname% złamał%hisHer% nogę",
+		"polish": "%firstName% złamał%hisHer% nogę",
 	},
 	"notificationTitle_ArmHurt": {
 		"english": "%firstName% hurt %hisHer% Arm",
@@ -578,7 +578,7 @@
 		"korean": "%firstName%#{이} 팔을 다쳤습니다",
 		"chinese": "%firstName%伤到了%hisHer%的手臂",
 		"italian": "%firstName% si è %FeritoFerita% al braccio",
-		"polish": "%firstname% zranił%hisHer% się w rękę",
+		"polish": "%firstName% zranił%hisHer% się w rękę",
 	},
 	"notificationTitle_ArmBroken": {
 		"english": "%firstName% broke %hisHer% Arm",
@@ -593,7 +593,7 @@
 		"korean": "%firstName%의 팔이 부러졌습니다",
 		"chinese": "%firstName%的手臂骨折了",
 		"italian": "%firstName% si è %RottoRotta% il braccio",
-		"polish": "%firstname% złamał%hisHer% rękę",
+		"polish": "%firstName% złamał%hisHer% rękę",
 	},
 	"notificationTitle_AutosaveComplete": {
 		"english": "Autosave complete",
@@ -938,7 +938,7 @@
 		"korean": "이주민이 도착했습니다!",
 		"chinese": "移民到了!",
 		"italian": "Migranti arrivati!",
-		"polish": "Przybyli imigranci!",
+		"polish": "Przybył statek imigrantów!",
 	},
 	"messageText_MigrantsArrived": {
 		"english": "A few migrants have seen our fire signal and just arrived in a small boat. Send a colonist to accept them!",
@@ -970,7 +970,7 @@
 		"korean": "상인이 도착했습니다!",
 		"chinese": "贸易商人到了!",
 		"italian": "Mercante arrivato!",
-		"polish": "Przybył handlarz!",
+		"polish": "Przybył statek handlarza!",
 	},
 	"messageText_TraderArrived": {
 		"english": "A trader just made landfall on the coast. Send a colonist to haggle for some good deals!",
@@ -999,7 +999,7 @@
 		"korean": "상인 길드가 마을을 공격해옵니다!",
 		"turkish": "Ticaret Loncası köye saldırıyor!",
 		"italian": "La Gilda dei Mercanti sta attaccando il villaggio!",
-		"english": "Gildia Handlarzy atakuje wioskę!",
+		"polish": "Gildia Handlarzy atakuje wioskę!",
 	},
 	"messageText_TraderRaid": {
 		"english": "Usually, the Guild prefers to trade in peace. What did the colonists do to piss them off so badly?",
@@ -1013,6 +1013,7 @@
 		"korean": "대개는, 상인 길드는 평화로운 거래를 합니다. 우리 개척자가 저들에게 무슨 짓을 했다고 이렇게 화가 난 거죠?",
 		"turkish": "Genellikle, Lonca barış içinde ticaret yapmayı tercih eder. Yerleşimciler onları bu kadar sinirlendirmek için ne yaptı?",
 		"italian": "Di solito la gilda preferisce commerciare in pace. Cosa hanno fatto i coloni per farli arrabbiare così tanto?",
+		"polish": "Handlarze zazwyczaj mają do wszystkich neutralne lub nawet pokojowe stosunki. Co takiego zrobiłeś, że tak się wkurzyli?",
 	},
 	"messageTitle_PirateRaid": {
 		"english": "Pirates have landed on the coast!",
@@ -1049,6 +1050,7 @@
 		"korean": "성질을 부립니다!",
 		"chinese": "来势汹汹！",
 		"italian": "Scatto d'ira!",
+		"polish": "Napad agresji!",
 	},
 	"messageText_BreakdownAttackFriends": {
 		"english": "A colonist has been feeling horrible for a while now and just couldn't take it anymore. %cap-heShe% has gone crazy now and is beating up random people, friend or foe.",

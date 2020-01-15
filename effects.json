@@ -543,17 +543,24 @@
 		"italian": "Il braccio è stabilizzato adesso. Guarirà in breve tempo.",
 	},
 	"effectTitle_Impressed": {
-		"english": "Impressed by %firstName%",
-		"german": "Beeindruckt von %firstName%",
+		"english": "Impressed by %partnerFirstName%",
+		"german": "Beeindruckt von %partnerFirstName%",
 	},
 	"effectDesc_Impressed": {
 		// TODO-english
 	},
 	"effectTitle_NotImpressed": {
-		"english": "Not Impressed by %firstName%",
-		"german": "Nicht beeindruckt von %firstName%",
+		"english": "Not Impressed by %partnerFirstName%",
+		"german": "Nicht beeindruckt von %partnerFirstName%",
 	},
 	"effectDesc_NotImpressed": {
+		// TODO-english
+	},
+	"effectTitle_UpsetWithSomeone": {
+		"english": "UpsetWith %partnerFirstName%",
+		"german": "Sauer auf %partnerFirstName%",
+	},
+	"effectDesc_UpsetWithSomeone": {
 		// TODO-english
 	},
 }

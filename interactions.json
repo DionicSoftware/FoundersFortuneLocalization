@@ -1464,6 +1464,10 @@
 		"english": "Insult",
 		"german": "Beleidigen",
 	},
+	"InsultPerson": {
+		"english": "Insult %name%",
+		"german": "%name% beleidigen",
+	},
 	"Apologize": {
 		"english": "Apologize",
 		"german": "Entschuldigen",
@@ -1491,9 +1495,17 @@
 		"english": "Risky Joke",
 		"german": "Riskanter Witz",
 	},
+	"TellRiskyJokeTo": {
+		"english": "Tell Risky Joke to %name%",
+		"german": "%name% riskanten Witz erzählen",
+	},
 	"Impress": {
 		"english": "Impress",
 		"german": "Beeindrucken",
+	},
+	"ImpressPerson": {
+		"english": "Impress %name%",
+		"german": "%name% Beeindrucken",
 	},
 
 

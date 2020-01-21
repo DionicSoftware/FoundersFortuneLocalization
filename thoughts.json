@@ -280,9 +280,20 @@
 		"chinese": "啊，为什么我不能睡在床上?睡在地上很不爽啊。",
 		"italian": "Bleah! Perché non posso dormire in un letto? Dormire per terra fa schifo.",
 	},
-	"thoughtTitle_ColonistDied": {
-		"english": "Colonist Died",
-		"german": "Kolonist gestorben",
+	// when colonist doesn't die of old age, but other things like physical violoence or starvation
+	"thoughtTitle_ColonistDiedTooEarly": {
+		"english": "Colonist Died too early",
+		"german": "Kolonist zu früh gestorben",
+		//TODO-spanish
+		//TODO-french
+		//TODO-turkish
+		//TODO-portuguese
+		//TODO-dutch
+		//TODO-russian
+		//TODO-ukrainian
+		//TODO-korean
+		//TODO-chinese
+		//TODO-italian
 		"spanish": "El colono murió",
 		"french": "Colon Décédé",
 		"turkish": "Yerleşimci öldü",
@@ -307,6 +318,12 @@
 		"korean": "내 친구이자 동료인 개척자가 죽었어요. 제기랄. 마음 속이 텅 빈 느낌이에요.",
 		"chinese": "我的殖民者朋友兼同伴去世了。该死,我现在觉得有点空虚了。",
 		"italian": "Il mio amico e concittadino colono è morto. Dannazione. Sento un vuoto adesso.",
+	},
+	"thoughtTitle_ColonistDiedOfOldAge": {
+		"english": "Colonist Died of Old Age",
+		"german": "Kolonist im Alter gestorben",
+	},
+	"thoughtDesc_ColonistDiedOfOldAge": {
 	},
 	"thoughtTitle_FightWon": {
 		"english": "Won a Fight",

@@ -422,6 +422,38 @@
 		"korean": "불행하게도, %firstName%#{은} 수재가 아니고, 새로운 기술을 개발하는 데 어려움을 겪고 있습니다. 그렇지만, %heShe%는 자신의 운명을 받아들였고 지금에 만족합니다.",
 		"italian": "Sfortunatamente, %firstName% non è il più brillante e ha difficoltà a sviluppare nuove competenze. Tuttavia, ha accettato il suo destino e ci convive.",
 	},
+	"communitySatisfactionAwesome": {
+		"english": "Lots of friends",
+		"german": "Viele Freunde",
+	},
+	"communitySatisfactionAwesome_Desc": {
+		"english": "%firstName% has more than enough friends! %cap-heShe% feels welcome and appreciated all around.",
+		"german": "%firstName% hat mehr als genug Freunde! %cap-erSie% fühlt sich willkommen und gewertschätzt in der Dorfgemeinschaft.",
+	},
+	"communitySatisfactionGood": {
+		"english": "Enough friends",
+		"german": "Genug Freunde",
+	},
+	"communitySatisfactionGood_Desc": {
+		"english": "%firstName% is happy for the good friends %heShe% has. Life would be a lot harder without them.",
+		"german": "%firstName% freut sich über %seineIhre% guten Freunde. Ohne sie wäre das Leben viel schwerer.",
+	},
+	"communitySatisfactionInsufficient": {
+		"english": "A little lonely",
+		"german": "Ein bisschen einsam",
+	},
+	"communitySatisfactionInsufficient_Desc": {
+		"english": "%firstName% sometimes feels a little lonely. %cap-heShe% wishes, %heShe% had at least %friends% friends and %buddies% buddies.",
+		"german": "%firstName% fühlt sich manchmal ein bisschen allein auf dieser Welt. %cap-erSie% wünschte %erSie% hätte zumindest %friends% Freunde und %buddies% Kumpel.",
+	},
+	"communitySatisfactionBad": {
+		"english": "Very Lonely",
+		"german": "Sehr einsam",
+	},
+	"communitySatisfactionBad_Desc": {
+		"english": "Sometimes %firstName% feels like the loneliness is unbearable.%cap-heShe% wishes, %heShe% had at least %friends% friends and %buddies% buddies.",
+		"german": "Manchmal hat %firstName% das Gefühl die Einsamkeit sei unerträglich. %cap-erSie% wünschte %erSie% hätte zumindest %friends% Freunde und %buddies% Kumpel.",
+	},
 	"colonistIsALevelXProfessionGuy": {
 		"english": "%firstName% is a level %professionLevel% %professionName%",
 		"dutch": "%firstName% is een niveau %professionLevel% %professionName%", 

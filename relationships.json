@@ -1,0 +1,71 @@
+﻿{
+	"nextLowerLevel": {
+		"english": "Next Lower Level: %level%",
+		"german": "Nächsttiefere Stufe: %level%",
+	},
+	"nextHigherLevel": {
+		"english": "Next Higher Level: %level%",
+		"german": "Nächsthöhere Stufe: %level%",
+	},
+
+	"relationship_Nemesis": {
+		"english": "Nemesis",
+		"german": "Erzfeind%In%",
+	},
+	"relationship_Enemy": {
+		"english": "Enemy",
+		"german": "Feind%In%",
+	},
+	// I had to use an adjective here. If you can find a fitting noun for your language, like the other titles, use that!
+	"relationship_Disliked": {
+		"english": "Disliked",
+		"german": "Zerstritten",
+	},
+	"relationship_Acquaintance": {
+		"english": "Acquaintance",
+		"german": "Bekannt%erE%",
+	},
+	"relationship_Buddy": {
+		"english": "Buddy",
+		"german": "Kumpel",
+	},
+	"relationship_Friend": {
+		"english": "Friend",
+		"german": "Freund%In%",
+	},
+	"relationship_GreatFriend": {
+		"english": "Great Friend",
+		"german": "Enge%r% Freund%In%",
+	},
+	"relationship_Lover": {
+		"english": "Lover",
+		"german": "Liebhaber",
+	},
+	// if Wilhelm loves Tina, %hisHer% will be "her" (Tina) and %2-hisHer% will be "his" (Wilhelm)
+	"relationship_LoveOfTheirLife": {
+		"english": "Love of %2-hisHer% Life",
+		"german": "Liebe %2-seinesIhres% Lebens",
+	},
+
+
+
+	
+	"relationshipEffect_Upset_Title": {
+		"english": "Upset",
+	},
+	"relationshipEffect_Upset_Description": {
+		"english": "%affectedName% is upset with %partnerName%.\n(%seconds% seconds)",
+	},
+	"relationshipEffect_Impressed_Title": {
+		"english": "Impressed",
+	},
+	"relationshipEffect_Impressed_Description": {
+		"english": "%affectedName% is impressed by %partnerName%.\n(%seconds% seconds)",
+	},
+	"relationshipEffect_NotImpressed_Title": {
+		"english": "Not Impressed",
+	},
+	"relationshipEffect_NotImpressed_Description": {
+		"english": "%affectedName% is not impressed by %partnerName%.\n(%seconds% seconds)",
+	},
+}

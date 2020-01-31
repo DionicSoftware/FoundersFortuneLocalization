@@ -52,20 +52,34 @@
 	
 	"relationshipEffect_Upset_Title": {
 		"english": "Upset",
+		"german": "Sauer",
 	},
 	"relationshipEffect_Upset_Description": {
-		"english": "%affectedName% is upset with %partnerName%.\n(%seconds% seconds)",
+		"english": "%affectedName% is upset with %partnerName%. %cap-heShe% will not talk to %2-himHer% for some time.\n(%seconds% seconds left)",
+		"german": "%affectedName% ist sauer auf %partnerName%. %cap-erSie% wird für eine Weile nicht mit %2-ihmIhr% sprechen.\n(%seconds% Sekunden übrig)",
 	},
 	"relationshipEffect_Impressed_Title": {
 		"english": "Impressed",
+		"german": "Beeindruckt",
 	},
 	"relationshipEffect_Impressed_Description": {
-		"english": "%affectedName% is impressed by %partnerName%.\n(%seconds% seconds)",
+		"english": "%affectedName% is impressed by %partnerName%. Any positive interaction is twice as effective!\n(%seconds% seconds left)",
+		"german": "%affectedName% ist beeindruckt von %partnerName%. Jede positive Interaktion ist doppelt so effektiv!\n(%seconds% Sekunden übrig)",
 	},
 	"relationshipEffect_NotImpressed_Title": {
 		"english": "Not Impressed",
+		"german": "Nicht beeindruckt",
 	},
 	"relationshipEffect_NotImpressed_Description": {
-		"english": "%affectedName% is not impressed by %partnerName%.\n(%seconds% seconds)",
+		"english": "%affectedName% is not impressed by %partnerName%. Any negative interaction is twice as detrimental!\n(%seconds% seconds left)",
+		"german": "%affectedName% ist nicht beeindruckt von %partnerName%. Jede negative Interaktion ist doppelt so schlecht!\n(%seconds% Sekunden übrig)",
+	},
+	"relationshipEffect_LowerLevelLocked_Description": {
+		"english": "Lower Level locked for %seconds% seconds.",
+		"german": "Tiefere Stufe %seconds% Sekunden lang gesperrt.",
+	},
+	"relationshipEffect_HigherLevelLocked_Description": {
+		"english": "Higher Level locked for %seconds% seconds.",
+		"german": "Höhere Stufe %seconds% Sekunden lang gesperrt.",
 	},
 }

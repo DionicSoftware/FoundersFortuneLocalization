@@ -941,6 +941,7 @@
 		"bulgarian": "Тази лента показва колко време остава до промяна на сезоните.",
 	},
 
+	// Growing Up Panel
 	"growingUp": { // if "growing up" doesn't translate so well, use "childhood" in your language
 		"english": "Growing Up",
 		"german": "Kindheit",
@@ -962,6 +963,57 @@
 		"german": "Beim Bücherregal kann man für's Leben lernen. Am Geburtstag können Kinder dann diese Punkte einsetzen, um in ihrem Beruf einen schnellen Start zu bekommen.\nFalls das Lernen stoppt bevor ein Thema komplett verstanden und ein Punkt gewonnen wurde, wird der Fortschritt langsam vergessen.",
 	},
 
+	// Birthday Panel (becoming Adult)
+	"humanHasGrownUp": {
+		"english": "%firstName% has grown up!",
+		"german": "%firstName% ist erwachsen geworden!",
+	},
+	"positiveTraits": {
+		"english": "Positive Traits",
+		"german": "Positive Eigenschaften",
+	},
+	"lotsPositiveExperiencesGainedTraits": {
+		"english": "%firstName% had a lot of good experiences in %hisHer% childhood and gained the following traits:",
+		"german": "%firstName% hatte viele gute Erfahrungen in %seinerIhrer% Kindheit und hat die folgenden Eigenschaften gewonnen:",
+	},
+	"somePositiveExperiencesGainedTraits": {
+		"english": "%firstName% had some good experiences in %hisHer% childhood and gained the following traits:",
+		"german": "%firstName% hatte ein paar gute Erfahrungen in %seinerIhrer% Kindheit und hat die folgenden Eigenschaften gewonnen:",
+	},
+	"negativeTraits": {
+		"english": "Negative Traits",
+		"german": "Negative Eigenschaften",
+	},
+	"lotsNegativeExperiencesGainedTraits": {
+		"english": "%firstName% had a lot of bad experiences in %hisHer% childhood and gained the following traits:",
+		"german": "%firstName% hatte viele schlechte Erfahrungen in %seinerIhrer% Kindheit und hat die folgenden Eigenschaften gewonnen:",
+	},
+	"someNegativeExperiencesGainedTraits": {
+		"english": "%firstName% had some bad experiences in %hisHer% childhood and gained the following traits:",
+		"german": "%firstName% hatte ein paar negative Erfahrungen in %seinerIhrer% Kindheit und hat die folgenden Eigenschaften gewonnen:",
+	},
+	"education": {
+		"english": "Education",
+		"german": "Ausbildung",
+	},
+	"educationPointsCollected": {
+		"english": "%firstName% has collected %points% Education points that %heShe% can now spend on Profession Levels:",
+		"german": "%firstName% hat %points% Ausbildungspunkte gesammelt, die %erSie% jetzt in Berufserfahrung umwandeln kann:",
+	},
+	"pointCost": {
+		"english": "Point Cost",
+		"german": "Kosten",
+	},
+	"pointsLeft": {
+		"english": "%points% Points Left",
+		"german": "%points% Punkte übrig",
+	},
+	"happyBirthday": {
+		"english": "Happy Birthday!",
+		"german": "Alles Gute!",
+	},
+
+	// wish panel
 	"wishPointsTip_Title": {
 		"english": "Satisfaction Points",
 		"german": "Zufriedenheitspunkte",

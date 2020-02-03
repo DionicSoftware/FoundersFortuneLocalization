@@ -940,6 +940,28 @@
 		"italian": "Questa barra mostra quanto tempo rimane prima che la stagione cambi.",
 		"bulgarian": "Тази лента показва колко време остава до промяна на сезоните.",
 	},
+
+	"growingUp": { // if "growing up" doesn't translate so well, use "childhood" in your language
+		"english": "Growing Up",
+		"german": "Kindheit",
+	},
+	"childhoodHappiness": {
+		"english": "Childhood Happiness",
+		"german": "Glückliche Kindheit",
+	},
+	"childhoodHappinessTooltip_Description": {
+		"english": "Being in a good or bad mood slowly earns positive or negative childhood happiness points.\nDepending on which points are collected, the child will gain positive or negative traits on their birthday.",
+		"german": "Eine gute oder schlechte Stimmung führt langfristig zu positiven oder negativen Kindheitspunkten.\nWenn es aufwächst, bekommt das Kind je nach gesammelten Punkten gute oder schlechte Eigenschaften.",
+	},
+	"childhoodEducation": {
+		"english": "Education",
+		"german": "Bildung",
+	},
+	"childhoodEducationTooltip_Description": {
+		"english": "Every Child can learn life skills at the book shelf. On their birthday, they can use these points to get a great head start in any profession.\nIf the education is stopped before a topic is fully understood and a point is earned, the progress will slowly be forgotten.",
+		"german": "Beim Bücherregal kann man für's Leben lernen. Am Geburtstag können Kinder dann diese Punkte einsetzen, um in ihrem Beruf einen schnellen Start zu bekommen.\nFalls das Lernen stoppt bevor ein Thema komplett verstanden und ein Punkt gewonnen wurde, wird der Fortschritt langsam vergessen.",
+	},
+
 	"wishPointsTip_Title": {
 		"english": "Satisfaction Points",
 		"german": "Zufriedenheitspunkte",

@@ -963,6 +963,24 @@
 		"german": "Beim Bücherregal kann man für's Leben lernen. Am Geburtstag können Kinder dann diese Punkte einsetzen, um in ihrem Beruf einen schnellen Start zu bekommen.\nFalls das Lernen stoppt bevor ein Thema komplett verstanden und ein Punkt gewonnen wurde, wird der Fortschritt langsam vergessen.",
 	},
 
+	// Birthday Panel (Child born)
+	"childHasBeenBorn": {
+		"english": "A Child has been Born!",
+		"german": "Ein Kind wurde geboren!",
+	},
+	"childBornDescription": {
+		"english": "%parent1% and %parent2% have been blessed with a %sonDaughter%.\nOverjoyed, they are thinking about a name for the child.\n\nWhat should their %sonDaughter% be called?",
+		"german": "%parent1% und %parent2% wurden mit %einemEiner% %sohnTochter% gesegnet.\nÜberglücklich denken sie über einen Namen für das Kind nach.\n\nWie soll %ihrIhre% %sohnTochter% heißen?",
+	},
+	"welcomeHuman": {
+		"english": "Welcome %firstName%!",
+		"german": "Willkommen, %firstName%!",
+	},
+	"unnamed": { // used before player has assigned a name
+		"english": "Unnamed",
+		"german": "Namenlos",
+	},
+
 	// Birthday Panel (becoming Adult)
 	"humanHasGrownUp": {
 		"english": "%firstName% has grown up!",

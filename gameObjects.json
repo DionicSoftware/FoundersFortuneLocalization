@@ -4898,9 +4898,19 @@
 		"chinese": "大岩石",
 		"italian": "Roccia grande",
 	},
+	// TODO-french: "Large"
+	// TODO-spanish: "Large"
+	// TODO-portuguese: "Large"
+	// TODO-dutch: "Large"
+	// TODO-turkish: "Large"
+	// TODO-russian: "Large"
+	// TODO-ukrainian: "Large"
+	// TODO-korean: "Large"
+	// TODO-chinese: "Large"
+	// TODO-italian: "Large"
 	"bookshelf": {
-		"english": "Bookshelf",
-		"german": "Bücherregal",
+		"english": "Large Bookshelf",
+		"german": "Großes Bücherregal",
 		"french": "Bibliothèque",
 		"spanish": "Librero",
 		"portuguese": "Estante de livros",
@@ -4925,6 +4935,14 @@
 		"dutch": "Wil je nieuwe vaardigheiden leren? Wil je je vaardigheden verbeteren? Deze boekenkast bevat alle informatie die je nodig hebt om verder te leren.",
 		"chinese": "想学习新技能?想磨练你的技能吗?这个书柜上有你深造所需要的全部知识。",
 		"italian": "Desideri imparare nuove abilità? Vuoi perfezionare quelle attuali? Questa libreria contiene tutte le conoscenze necessarie per approfondire gli studi.",
+	},
+	"bookshelfChild": {
+		"english": "Bookshelf for Children",
+		"german": "Bücherregal für Kinder",
+	},
+	"bookshelfChildDescription": {
+		"english": "This bookshelf contains some simple books to introduce kids to all kinds of interesting topics. Use this to give them a good education.",
+		"german": "Dieses Bücherregal beinhalten ein paar einfache Bücher um Kinder an alle möglichen interessanten Themen heranzuführen. Verwende es, um ihnen eine gute Bildungsgrundlage zu ermöglichen.",
 	},
 
 // Miscellaneous Furniture
@@ -5463,6 +5481,14 @@
 		"korean": "약간 스파르타식 같긴 하지만, 개척자들은 침낭보다는 이 침대를 선호할겁니다.",
 		"chinese": "虽然有点斯巴达风格，你的殖民者会更喜欢这张床而不是睡袋。",
 		"italian": "Sebbene risulti un po' spartano, i tuoi coloni lo preferiranno al sacco a pelo.",
+	},
+	"bedChild": {
+		"english": "Child's bed",
+		"german": "Kinderbett",
+	},
+	"bedChildDescription": {
+		"english": "With a small ladder and extra drawers for toys, this bed was designed for kids. Because of the strong supports, it can withstand more than 1.000 jumps on the bed during it's lifetime.",
+		"german": "Eine kleine Leiter und Schubladen für Spielzeug: Diese Bett wurde für Kinder entworfen. Durch die starken Stützen kann es bis zu 1.000 Sprüngen auf dem Bett standhalten.",
 	},
 	"bedStoneSimple0": {
 		"english": "Simple Stone Bed",

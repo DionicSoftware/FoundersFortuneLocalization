@@ -130,6 +130,14 @@
 		"chinese": "一个殖民者死了!",
 		"italian": "Un colono è appena morto!",
 	},
+	"notificationTitle_willGrowUpTomorrow": {
+		"english": "%firstName% will grow up tomorrow.",
+		"german": "%firstName% wird morgen erwachsen werden.",
+	},
+	"notificationTitle_isApproachingEndOfLife": {
+		"english": "%firstName% is nearing the end of %hisHer% long life.",
+		"german": "%firstName%'s langes Leben neigt sich dem Ende zu.",
+	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
 		"dutch":  "Het is nu %season%.",
@@ -192,10 +200,21 @@
 		"chinese": "殖民者失去意识",
 		"italian": "Combattimento",
 	},
+	// TODO-french: firstName
+	// TODO-spanish: firstName
+	// TODO-dutch: firstName
+	// TODO-portuguese: firstName
+	// TODO-turkish: firstName
+	// TODO-bulgarian: firstName
+	// TODO-russian: firstName
+	// TODO-ukrainian: firstName
+	// TODO-korean: firstName
+	// TODO-chinese: firstName
+	// TODO-italian: firstName
 	"notificationTitle_LostConsciousness": {
-		"english": "Colonist lost Consciousness",
+		"english": "%firstName% lost Consciousness",
+		"german": "%firstName% ist in Ohnmacht gefallen",
 		"dutch":  "Kolonist verloor bewustzijn",
-		"german": "Kolonist in Ohnmacht gefallen",
 		"french": "Un colon a perdu connaissance",
 		"spanish": "Un colono perdió la conciencia",
 		"portuguese": "Colono perdeu a Consciência",
@@ -207,10 +226,21 @@
 		"chinese": "殖民者死亡",
 		"italian": "Un colono ha perso conoscenza",
 	},
+	// TODO-french: firstName
+	// TODO-spanish: firstName
+	// TODO-dutch: firstName
+	// TODO-portuguese: firstName
+	// TODO-turkish: firstName
+	// TODO-bulgarian: firstName
+	// TODO-russian: firstName
+	// TODO-ukrainian: firstName
+	// TODO-korean: firstName
+	// TODO-chinese: firstName
+	// TODO-italian: firstName
 	"notificationTitle_Death": {
-		"english": "Colonist died",
+		"english": "%firstName% died",
+		"german": "%firstName% gestorben",
 		"dutch":  "Kolonist gestorven",
-		"german": "Kolonist gestorben",
 		"french": "Un colon est mort",
 		"spanish": "Un colono murió",
 		"portuguese": "Colono morreu",
@@ -221,6 +251,10 @@
 		"korean": "개척자가 죽었습니다",
 		"chinese": "食物不足",
 		"italian": "Un colono è morto",
+	},
+	"notificationTitle_DeathOldAge": {
+		"english": "%firstName% died of old age",
+		"german": "%firstName% an Altersschwäche gestorben",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -827,7 +861,7 @@
 		"korean": "나는 %profession% %level%레벨이에요.",
 	},
 	"iHaveNoExperience": {
-		"english": "I don't have a lot of working experience.",
+		"english": "I don't have a lot of work experience.",
 		"german": "Ich habe nicht besonders viel Arbeitserfahrung.",
 		"spanish": "No tengo mucha experiencia en el trabajo.",
 		"french": "Je n'ai pas beaucoup d'expérience professionnelle.",

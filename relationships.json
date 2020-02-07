@@ -1,4 +1,13 @@
 ﻿{
+	"relationships": {
+		"english": "Relationships",
+		"german": "Beziehungen",
+	},
+	"relationshipStatus": {
+		"english": "Relationship: %status%",
+		"german": "Beziehung: %status%",
+	},
+
 	"nextLowerLevel": {
 		"english": "Next Lower Level: %level%",
 		"german": "Nächsttiefere Stufe: %level%",
@@ -31,11 +40,11 @@
 	},
 	"relationship_Friend": {
 		"english": "Friend",
-		"german": "Freund%In%",
+		"german": "Freundschaft",
 	},
 	"relationship_GreatFriend": {
 		"english": "Great Friend",
-		"german": "Enge%r% Freund%In%",
+		"german": "Enge Freundschaft"
 	},
 	"relationship_Lover": {
 		"english": "Lover",
@@ -45,6 +54,44 @@
 	"relationship_LoveOfTheirLife": {
 		"english": "Love of %2-hisHer% Life",
 		"german": "Liebe %2-seinesIhres% Lebens",
+	},
+
+
+	"humanIsRelative": {
+		"english": "%firstName% is %firstName2%'s %relativeStatus%",
+		"german": "%firstName% ist %firstName2%'s %relativeStatus%",
+	},
+	"Child": {
+		"english": "%sonDaughter%",
+		"german": "%sohnTochter%",
+	},
+	"Parent": {
+		"english": "%fatherMother%",
+		"german": "%vaterMutter%",
+	},
+	"Sibling": {
+		"english": "%brotherSister%",
+		"german": "%bruderSchwester%",
+	},
+	"Grandparent": {
+		"english": "%grandpaGrandma",
+		"german": "%opaOma",
+	},
+	"Grandchild": {
+		"english": "%grandsonGranddaughter%",
+		"german": "%enkelEnkelin%",
+	},
+	"UncleAunt": {
+		"english": "%uncleAunt%",
+		"german": "%onkelTante%",
+	},
+	"NephewNiece": {
+		"english": "%nephewNiece%",
+		"german": "%neffeNichte%",
+	},
+	"Cousin": {
+		"english": "cousin",
+		"german": "%cousinCousine%",
 	},
 
 

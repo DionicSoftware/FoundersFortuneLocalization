@@ -286,7 +286,7 @@
 		"russian":"Вы уверены, что хотите удалить сохранение \"%save%\"? Это действие безвозвратно!",
 		"portuguese": "Tem certeza de que deseja excluir o save \"%save%\"? Ele terá desaparecido para sempre.",
 		"italian": "Vuoi davvero eliminare il salvataggio \"%save%\"? Andrà perso per sempre.",
-		"polish": "Jesteś pewien, że chcesz usunąć zapis \"%save%\"? Zapis zostanie usunięty na zawsze",
+		"polish": "Jesteś pewien, że chcesz usunąć zapis \"%save%\"? Zapis zostanie usunięty na zawsze.",
 		"turkish": "\"%save%\" kaydını silmek istediğinizden emin misiniz? Bunun geri dönüşümü yok.",
 	},
 	"saveNotCompatibleWithGameVersion": {
@@ -298,6 +298,7 @@
 		"portuguese": "Esse salvamento não é compatível com a versão do seu jogo.\nVocê pode encontrar um tutorial sobre como continuar jogando com uma versão antiga do jogo nos anúncios mais recentes.",
 		"russian": "Это сохранение несовместимо с текущей версией игры.\nВы можете найти руководство по тому, как играть на старом сохранении, в последних новостях.",
 		"korean": "이 저장 파일은 게임 버전과 호환되지 않습니다.\n공지사항에서 구 버전에서 저장된 게임을 이어하는 방법에 대한 튜토리얼을 찾아볼 수 있습니다.",
+		"polish": "Ten zapis nie jest kompatybilny z twoją wersją gry.\nZaktualizuj swoją wersję gry.",
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -358,7 +359,7 @@
 		"chinese": "令人敬畏的殖民地",
 		"arabic": "ﺔﻋﻭﺭ ﺮﺜﻛﻷﺍ ﺓﺮﻤﻌﺘﺴﻤﻟﺍ",
 		"korean": "가장 멋진 정착지",
-		"polish": "Najbardziej cudowna kolonia",
+		"polish": "Najcudowniejsza kolonia",
 		"italian": "La colonia più splendida",
 	},
 	"invalidFileNameCharacters": {
@@ -565,6 +566,8 @@
 		"french": "Ouvrir le Workshop",
 		"russian": "Открыть мастерскую",
 		"korean": "창작마당 열기",
+		"polish": "Otwórz Warsztat",
+		"turkish": "Atölyeyi aç",
 	},
 	"modCompatible_Title": {
 		"english": "Content compatible",
@@ -725,6 +728,7 @@
 		"arabic": "ﻡﺎﻋ",
 		"korean": "일반",
 		"italian": "Generale",
+		"polish": "Opinia",
 	},
 	"bugReport": {
 		"english": "Bug Report",
@@ -756,7 +760,7 @@
 		"arabic": "ﺕﺍﺭﺎﻃﻹﺍ ﻝﺪﻌﻣ",
 		"korean": "FPS",
 		"italian": "FPS",
-		"polish": "FPS",
+		"polish": "Ilość FPS",
 	},
 	"feedback": {
 		"english": "Feedback",
@@ -772,7 +776,7 @@
 		"arabic": "ﺔﻈﺣﻼﻣ",
 		"korean": "피드백",
 		"italian": "Feedback",
-		"polish": "Feedback",
+		"polish": "Treść",
 	},
 	"enterFeedback": {
 		"english": "Enter Feedback...",
@@ -788,7 +792,7 @@
 		"arabic": "...ﺔﻈﺣﻼﻤﻟﺍ ﻞﺧﺩﺃ",
 		"korean": "피드백을 입력해주세요...",
 		"italian": "Inserisci feedback...",
-		"polish": "Wprowadź feedback",
+		"polish": "Wprowadź treść...",
 	},
 	"emailAddressOptional": {
 		"english": "Email Address (optional!)",
@@ -804,7 +808,7 @@
 		"arabic": "(ﻱﺭﺎﻴﺘﺧﺍ) ﻲﻧﻭﺮﺘﻜﻟﻹﺍ ﺪﻳﺮﺒﻟﺍ",
 		"korean": "이메일 주소 (선택!)",
 		"italian": "Indirizzo e-mail (facoltativo!)",
-		"polish": "Adres e-mail (opcjonalnie!)",
+		"polish": "Podaj adres e-mail (opcjonalnie)",
 	},
 	"clickToSubmit": {
 		"english": "Click to submit",
@@ -820,7 +824,7 @@
 		"arabic": "ﻝﺎﺳﺭﻺﻟ ﻂﻐﺿﺇ",
 		"korean": "보내려면 여기를 클릭",
 		"italian": "Clicca per inviare",
-		"polish": "Naciśnij, aby zatwierdzić",
+		"polish": "Naciśnij buźkę, aby wysłać",
 	},
 	"thankYou": {
 		"english": "Thank you!",
@@ -852,7 +856,7 @@
 		"arabic": "ﺡﺎﺠﻨﺑ ﺔﻈﺣﻼﻤﻟﺍ ﻝﺎﺳﺭﺇ ﻢﺗ",
 		"korean": "피드백이 정상적으로 접수되었습니다",
 		"italian": "Il tuo feedback è stato inviato con successo",
-		"polish": "Feedback dodany poprawnie",
+		"polish": "Feedback został wysłany.",
 	},
 	"Oops": {
 		"english": "Oops...",
@@ -899,6 +903,7 @@
 		"arabic": "ﻝﺎﺼﺗﻹﺍ ﻲﻓ ﺔﻠﻜﺸﻣ ﻚﻟﺎﻨﻫ ﻥﺍ ﻭﺪﺒﻳ \n؟ﺍﺀﺎﺟﺭ ﻚﻟﺎﺼﺗﺇ ﻦﻣ ﻖﻘﺤﺘﻟﺍ ﻚﻨﻜﻤﻳ ﻞﻫ",
 		"korean": "인터넷 연결에 문제가 있는 것 같습니다\n인터넷 연결을 한번 확인해주시겠어요?",
 		"italian": "Sembra esserci un problema di connessione.\nPotresti controllare la tua connessione ad internet?",
+		"polish": "Wygląda na to że wystąpił problem z połączeniem.\nSprawdź swoje połączenie z internetem.",
 	},
 	"youreWelcome": {
 		"english": "You're Welcome",
@@ -914,6 +919,7 @@
 		"arabic": "ﺍﻮﻔﻋ",
 		"korean": "천만에요",
 		"italian": "Prego",
+		"polish": "Zamknij",
 	},
 	"retry": {
 		"english": "retry",
@@ -929,6 +935,7 @@
 		"arabic": "ﺔﻟﻭﺎﺤﻤﻟﺍ ﺓﺩﺎﻋﺇ",
 		"korean": "재시도",
 		"italian": "Riprova",
+		"polish": "Ponów",
 	},
 
 
@@ -947,6 +954,7 @@
 		"arabic": "ﻮﻳﺪﻴﻓ",
 		"korean": "화면",
 		"italian": "Video",
+		"polish": "Wideo",
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -962,6 +970,7 @@
 		"arabic": "ﺕﺎﻣﻮﺳﺮﻟﺍ ﺓﺩﻮﺟ",
 		"korean": "그래픽 품질",
 		"italian": "Qualità grafica",
+		"polish": "Jakość grafiki",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -977,6 +986,7 @@
 		"chinese": "低",
 		"arabic": "ﺾﻔﺨﻨﻣ",
 		"italian": "Bassa",
+		"polish": "Niska",
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -992,6 +1002,7 @@
 		"chinese": "中",
 		"arabic": "ﻂﺳﻮﺘﻣ",
 		"italian": "Media",
+		"polish": "Średnia",
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -1007,6 +1018,7 @@
 		"chinese": "高",
 		"arabic": "ﻲﻟﺎﻋ",
 		"italian": "Alta",
+		"polish": "Wysoka",
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -1022,6 +1034,7 @@
 		"arabic": "ﺔﻗﺪﻟﺍ",
 		"korean": "해상도",
 		"italian": "Risoluzione",
+		"polish": "Rozdzielczość",
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -1037,6 +1050,7 @@
 		"arabic": "ﺔﺷﺎﺸﻟﺍ ﻂﻤﻧ",
 		"korean": "화면 모드",
 		"italian": "Modalità schermo",
+		"polish": "Tryb obrazu",
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -1052,6 +1066,7 @@
 		"arabic": "ﺓﺬﻓﺎﻧ",
 		"korean": "창 모드",
 		"italian": "Finestra",
+		"polish": "Okno",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -1067,6 +1082,7 @@
 		"arabic": "ﺔﺷﺎﺸﻟﺍ ﺀﻞﻣ",
 		"korean": "전체화면 모드",
 		"italian": "Schermo intero",
+		"polish": "Pełny ekran",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -1082,6 +1098,7 @@
 		"arabic": "Vsync",
 		"korean": "수직동기화",
 		"italian": "Vsync",
+		"polish": "Vsync",
 	},
 	"slowVsync": {
 		"english": "Slow",
@@ -1095,6 +1112,7 @@
 		"korean": "느리게",
 		"turkish": "Yavaş",
 		"chinese": "慢",
+		"polish": "Powolne",
 	},
 	"on": {
 		"english": "On",
@@ -1110,6 +1128,7 @@
 		"arabic": "ﻞﻴﻐﺸﺗ",
 		"korean": "켬",
 		"italian": "Sì",
+		"polish": "Tak",
 	},
 	"off": {
 		"english": "Off",
@@ -1125,6 +1144,7 @@
 		"arabic": "ﻞﻴﻄﻌﺗ",
 		"korean": "끔",
 		"italian": "No",
+		"polish": "Nie",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -1140,6 +1160,7 @@
 		"arabic": "ﻉﻮﻄﺴﻟﺍ",
 		"korean": "밝기",
 		"italian": "Luminosità",
+		"polish": "Jasność",
 	},
 	"audio": {
 		"english": "Audio",
@@ -1155,6 +1176,7 @@
 		"arabic": "ﺕﻮﺼﻟﺍ",
 		"korean": "소리",
 		"italian": "Audio",
+		"polish": "Audio",
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -1170,6 +1192,7 @@
 		"arabic": "ﻲﻠﻜﻟﺍ ﺕﻮﺼﻟﺍ",
 		"korean": "전체 볼륨",
 		"italian": "Volume generale",
+		"polish": "Otoczenie",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -1185,6 +1208,7 @@
 		"arabic": "ﺕﺍﺮﻴﺛﺄﺘﻟﺍ ﺕﻮﺻ",
 		"korean": "음향 효과",
 		"italian": "Effetti sonori",
+		"polish": "Dźwięki",
 	},
 	"music": {
 		"english": "Music",
@@ -1200,6 +1224,7 @@
 		"arabic": "ﻰﻘﻴﺳﻮﻤﻟﺍ",
 		"korean": "배경음악",
 		"italian": "Musica",
+		"polish": "Muzyka",
 	},
 	"other": {
 		"english": "Other",
@@ -1215,6 +1240,7 @@
 		"arabic": "ﻯﺮﺧﺃ",
 		"korean": "기타",
 		"italian": "Altro",
+		"polish": "Inne",
 	},
 	"language": {
 		"english": "Language",
@@ -1230,6 +1256,7 @@
 		"arabic": "ﺔﻐﻠﻟﺍ",
 		"korean": "언어",
 		"italian": "Lingua",
+		"polish": "Język",
 	},
 
 
@@ -1248,6 +1275,7 @@
 		"korean": "English",
 		"arabic": "English",
 		"italian": "English",
+		"polish": "English",
 	},
 	"German": {
 		"english": "Deutsch",
@@ -1263,6 +1291,7 @@
 		"korean": "Deutsch",
 		"arabic": "Deutsch",
 		"italian": "Deutsch",
+		"polish": "Deutsch",
 	},	
 	"French": {
 		"english": "Français",
@@ -1278,6 +1307,7 @@
 		"korean": "Français",
 		"arabic": "Français",
 		"italian": "Français",
+		"polish": "Français",
 	},	
 	"Spanish": {
 		"english": "Español",
@@ -1293,6 +1323,7 @@
 		"korean": "Español",
 		"arabic": "Español",
 		"italian": "Español",
+		"polish": "Español",
 	},
 	"Portuguese": {
 		"english": "Portuges",
@@ -1308,6 +1339,7 @@
 		"korean": "Portuges",
 		"arabic": "Portuges",
 		"italian": "Portuges",
+		"polish": "Portuges",
 	},
 	"Turkish": {
 		"english": "Türkçe",
@@ -1323,6 +1355,7 @@
 		"korean": "Türkçe",
 		"arabic": "Türkçe",
 		"italian": "Türkçe",
+		"polish": "Türkçe",
 	},
 	"Dutch": { 
 		"english": "Nederlands",
@@ -1338,6 +1371,7 @@
 		"korean": "Nederlands",
 		"arabic": "Nederlands",
 		"italian": "Nederlands",
+		"polish": "Nederlands",
 	},
 	"Ukrainian": { 
 		"english": "Українська",
@@ -1353,6 +1387,7 @@
 		"korean": "Українська",
 		"arabic": "Українська",
 		"italian": "Українська",
+		"polish": "Українська",
 	},
 	"Russian": { 
 		"english": "Русский",
@@ -1368,6 +1403,7 @@
 		"korean": "Русский",
 		"arabic": "Русский",
 		"italian": "Русский",
+		"polish": "Русский",
 	},
 	"Chinese": { 
 		"english": "简体中文",
@@ -1383,6 +1419,7 @@
 		"korean": "简体中文",
 		"arabic": "简体中文",
 		"italian": "简体中文",
+		"polish": "简体中文",
 	},
 	"Korean": {
 		"english": "한국어",
@@ -1398,6 +1435,7 @@
 		"korean": "한국어",
 		"arabic": "한국어",
 		"italian": "한국어",
+		"polish": "한국어",
 	},
 	"Arabic": { 
 		"english": "ﺔﻴﺑﺮﻌﻟﺍ",
@@ -1413,6 +1451,7 @@
 		"korean": "ﺔﻴﺑﺮﻌﻟﺍ",
 		"arabic": "ﺔﻴﺑﺮﻌﻟﺍ",
 		"italian": "ﺔﻴﺑﺮﻌﻟﺍ",
+		"polish": "ﺔﻴﺑﺮﻌﻟﺍ",
 	},
 	"Italian": { 
 		"english": "Italiano",
@@ -1428,6 +1467,7 @@
 		"korean": "Italiano",
 		"arabic": "Italiano",
 		"italian": "Italiano",
+		"polish": "Italiano",
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -1443,6 +1483,7 @@
 		"arabic": "ﻑﺍﺮﻃﻷﺍ ﻰﻠﻋ ﺓﺭﺄﻔﻟﺍ ﻚﻳﺮﺤﺗ",
 		"korean": "가장자리에서 화면 끌기",
 		"italian": "Scorrimento del mouse ai bordi",
+		"polish": "Skrolowanie na krawędziach",
 	},
 	"developerMode": {
 		"english": "Developer Mode",
@@ -1452,6 +1493,8 @@
 		"italian": "Modalità sviluppatore",
 		"russian": "Режим разработчика",
 		"korean": "개발자 모드",
+		"polish": "Tryb deweloperski",
+		"turkish": "Geliştirici modu",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -1467,6 +1510,7 @@
 		"arabic": "ﺔﻴﻔﻠﺨﻟﺍ ﻲﻓ ﺔﻄﺸﻧ ﺔﺒﻌﻠﻟﺍ",
 		"korean": "백그라운드에서 게임 활성화",
 		"italian": "Funzionamento in background",
+		"polish": "Gra działa w tle",
 	},
 	"cameraSpeed": {
 		"english": "Camera Speed",
@@ -1481,6 +1525,7 @@
 		"korean": "카메라 스피드",
 		"italian": "Velocità telecamera",
 		"chinese": "镜头速度",
+		"polish": "Prędkość kamery",
 	},
 
 
@@ -1499,6 +1544,7 @@
 		"arabic": "...ﻢﻟﺎﻌﻟﺍ ﻞﻴﻤﺤﺗ",
 		"korean": "세상을 불러오는 중...",
 		"italian": "Caricamento del mondo...",
+		"polish": "Wczytywanie świata...",
 	},
 	"reset": {
 		"english": "Reset",
@@ -1514,10 +1560,15 @@
 		"arabic": "ﻦﻴﻴﻌﺗ ﺓﺩﺎﻋﺇ",
 		"korean": "초기화",
 		"italian": "Ripristina",
+		"polish": "Resetuj",
 	},
 	"ok": {
 		"english": "Ok",
 		"german": "Ok",
+		"french": "Ok",
+		"spanish": "Ok",
+		"polish": "OK",
+		"turkish": "OK",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -1533,6 +1584,7 @@
 		"arabic": "ﺪﻴﻛﺄﺗ",
 		"korean": "확인",
 		"italian": "Conferma",
+		"polish": "Zatwierdź",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -1548,6 +1600,7 @@
 		"arabic": "ﺀﺎﻐﻟﺇ",
 		"korean": "취소",
 		"italian": "Annulla",
+		"polish": "Anuluj",
 	},
 	"apply": {
 		"english": "Apply",
@@ -1563,6 +1616,7 @@
 		"arabic": "ﻖﻴﺒﻄﺗ",
 		"korean": "적용",
 		"italian": "Applica",
+		"polish": "Zastosuj",
 	},
 
 
@@ -1581,6 +1635,7 @@
 		"arabic": "ﺍﺮﻴﻣﺎﻜﻟﺎﺑ ﻢﻜﺤﺘﻟﺍ",
 		"korean": "카메라 컨트롤",
 		"italian": "Controlli telecamera",
+		"polish": "Sterowanie kamerą",
 	},
 	"keyBindings": {
 		"english": "Key Bindings",
@@ -1596,6 +1651,7 @@
 		"arabic": "ﺢﻴﺗﺎﻔﻤﻟﺍ ﺔﺣﻮﻟ ﺕﺍﺭﺎﺼﺘﺧﺍ",
 		"korean": "키보드 매핑",
 		"italian": "Assegnazione tasti",
+		"polish": "Zmień przypisanie klawiszy",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1611,6 +1667,7 @@
 		"arabic": "ﻡﺎﻣﺃ",
 		"korean": "앞으로",
 		"italian": "Avanti",
+		"polish": "Do przodu",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -1626,6 +1683,7 @@
 		"arabic": "ﻒﻠﺧ",
 		"korean": "뒤로",
 		"italian": "Indietro",
+		"polish": "Do tyłu",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -1641,6 +1699,7 @@
 		"arabic": "ﺭﺎﺴﻳ",
 		"korean": "왼쪽으로",
 		"italian": "Sinistra",
+		"polish": "Lewo",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -1656,6 +1715,7 @@
 		"arabic": "ﻦﻴﻤﻳ",
 		"korean": "오른쪽으로",
 		"italian": "Destra",
+		"polish": "Prawo",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -1671,6 +1731,7 @@
 		"arabic": "ﺓﺭﺍﺪﺘﺳﺍ",
 		"korean": "회전",
 		"italian": "Ruota",
+		"polish": "Obróć",
 	},
 	"zoomIn": {
 		"english": "Zoom In",
@@ -1685,6 +1746,7 @@
 		"korean": "줌인",
 		"italian": "Aumenta zoom",
 		"chinese": "放大",
+		"polish": "Przybliż",
 	},
 	"zoomOut": {
 		"english": "Zoom Out",
@@ -1699,6 +1761,7 @@
 		"korean": "줌아웃",
 		"italian": "Riduci zoom",
 		"chinese": "缩小",
+		"polish": "Oddal",
 	},
 	"floorUp": {
 		"english": "Floor up",
@@ -1706,6 +1769,8 @@
 		"french": "Étage supérieur",
 		"spanish": "Subir un piso",
 		"russian": "Этаж вверх",
+		"polish": "Piętro wyżej",
+		"turkish": "Üst kat",
 	},
 	"floorDown": {
 		"english": "Floor down",
@@ -1713,6 +1778,8 @@
 		"french": "Étage inférieur",
 		"spanish": "Bajar un piso",
 		"russian": "Этаж вниз",
+		"polish": "Piętro niżej",
+		"turkish": "Alt kat",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1728,6 +1795,7 @@
 		"arabic": "ﺖﻗﻮﻟﺎﺑ ﻢﻜﺤﺘﻟﺍ",
 		"korean": "빠르기 조절",
 		"italian": "Controllo del tempo",
+		"polish": "Prędkość gry",
 	},
 	"pause": {
 		"english": "Pause",
@@ -1743,6 +1811,7 @@
 		"arabic": "ﻑﺎﻘﻳﺇ",
 		"korean": "일시정지",
 		"italian": "Pausa",
+		"polish": "Pauza",
 	},
 	"normalSpeed": {
 		"english": "Normal Speed",
@@ -1758,6 +1827,7 @@
 		"arabic": "ﺔﻳﺩﺎﻋ ﺔﻋﺮﺳ",
 		"korean": "일반 속도",
 		"italian": "Velocità normale",
+		"polish": "Normalna",
 	},
 	"2xSpeed": {
 		"english": "2x Speed",
@@ -1773,6 +1843,7 @@
 		"arabic": "x2 ﺔﻋﺮﺳ",
 		"korean": "2배속",
 		"italian": "Velocità x2",
+		"polish": "Prędkość x2",
 	},
 	"4xSpeed": {
 		"english": "4x Speed",
@@ -1788,6 +1859,7 @@
 		"arabic": "x4 ﺔﻋﺮﺳ",
 		"korean": "4배속",
 		"italian": "Velocità x4",
+		"polish": "Prędkość x4",
 	},
 	"colonistInteraction": {
 		"english": "Colonist Interaction",
@@ -1803,6 +1875,7 @@
 		"arabic": "ﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻋﺎﻔﺗ",
 		"korean": "개척자와 상호작용",
 		"italian": "Interazione colono",
+		"polish": "Interakcja",
 	},
 	"multipleOrders": {
 		"english": "Multiple Orders",
@@ -1818,6 +1891,7 @@
 		"arabic": "ﺓﺩﺪﻌﺘﻣ ﺮﻣﺍﻭﺃ",
 		"korean": "여러개의 명령 내리기",
 		"italian": "Ordini multipli",
+		"polish": "Kolejkowanie zadań",
 	},
 	"furnitureHandling": {
 		"english": "Furniture Handling",
@@ -1833,6 +1907,7 @@
 		"arabic": "ﺙﺎﺛﻷﺍ ﻊﻣ ﻞﻣﺎﻌﺘﻟﺍ",
 		"korean": "가구 움직이기",
 		"italian": "Gestione mobili",
+		"polish": "Meblowanie",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -1848,6 +1923,7 @@
 		"arabic": "ﺭﺎﺴﻴﻠﻟ ﺓﺭﺍﺪﺘﺳﺍ",
 		"korean": "왼쪽으로 회전",
 		"italian": "Ruota a sinistra",
+		"polish": "Obróć w lewo",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -1863,6 +1939,7 @@
 		"arabic": "ﻦﻴﻤﻴﻠﻟ ﺓﺭﺍﺪﺘﺳﺍ",
 		"korean": "오른쪽으로 회전",
 		"italian": "Ruota a destra",
+		"polish": "Obróć w prawo",
 	},
 	"precisionPlacement": {
 		"english": "Precision Placement",
@@ -1878,6 +1955,7 @@
 		"arabic": "ﻖﻴﻗﺩ ﻊﺿﻮﻣ",
 		"korean": "정밀한 배치",
 		"italian": "Posizionamento di precisione",
+		"polish": "Precyzyjne umieszczanie",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -1893,6 +1971,7 @@
 		"arabic": "ﻉﻮﻨﺘﻣ",
 		"korean": "기타",
 		"italian": "Varie",
+		"polish": "Pozostałe",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -1908,6 +1987,7 @@
 		"arabic": "ﺔﺷﺎﺷ ﺔﻄﻘﻟ",
 		"korean": "스크린샷",
 		"italian": "Screenshot",
+		"polish": "Zrzut ekranu",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -1923,6 +2003,7 @@
 		"arabic": "ﺔﺷﺎﺸﻟﺍ ﺕﺎﻄﻘﻟ ﺪﻠﺠﻣ ﺢﺘﻓﺍ",
 		"korean": "스크린샷 폴더 열기",
 		"italian": "Apri cartella screenshot",
+		"polish": "Otwórz katalog zrzutów ekranu",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -1938,6 +2019,7 @@
 		"arabic": "ﺕﺍﺭﺎﻃﻹﺍ ﻝﺪﻌﻣ ﺮﻬﻇﺍ",
 		"korean": "FPS 확인",
 		"italian": "Mostra FPS",
+		"polish": "Pokaż FPS",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -1953,6 +2035,7 @@
 		"arabic": "ﺮﺴﻳﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺯ",
 		"korean": "마우스 왼쪽 버튼",
 		"italian": "Tasto sinistro del mouse",
+		"polish": "Lewy przycisk myszy",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -1968,6 +2051,7 @@
 		"arabic": "ﻦﻤﻳﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺯ",
 		"korean": "마우스 오른쪽 버튼",
 		"italian": "Tasto destro del mouse",
+		"polish": "Prawy przycisk myszy",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -1983,6 +2067,7 @@
 		"arabic": "ﻂﺳﻭﻷﺍ ﺓﺭﺄﻔﻟﺍ ﺭﺯ",
 		"korean": "마우스 가운데 버튼",
 		"italian": "Tasto centrale del mouse",
+		"polish": "Środkowy przycisk myszy",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -1998,6 +2083,7 @@
 		"arabic": "ﺔﻓﺎﺴﻣ",
 		"korean": "스페이스",
 		"italian": "Spazio",
+		"polish": "Spacja",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -2103,6 +2189,7 @@
 		"korean": "Caps Lock",
 		"arabic": "Caps Lock",
 		"italian": "Bloc maiusc",
+		"polish": "CapsLock",
 	},
 
 
@@ -2121,6 +2208,7 @@
 		"arabic": "!ﺔﺒﻌﻠﻟﺍ ﺖﻬﺘﻧﺍ",
 		"korean": "게임 오버!",
 		"italian": "Partita terminata!",
+		"polish": "Koniec gry!",
 	},
 	"backToMainMenu": {
 		"english": "Back to the Main Menu",
@@ -2136,6 +2224,7 @@
 		"arabic": "ﺔﻴﺴﻴﺋﺮﻟﺍ ﺔﻤﺋﺎﻘﻠﻟ ﺓﺩﻮﻌﻟﺍ",
 		"korean": "메인 메뉴로 돌아가기",
 		"italian": "Torna al menu principale",
+		"polish": "Wróć do menu",
 	},
 	"yourColonyHasPerished": {
 		"english": "Your Colony has perished!",
@@ -2151,6 +2240,7 @@
 		"arabic": "!ﺖﻜﻠﻫ ﻚﺗﺮﻤﻌﺘﺴﻣ",
 		"korean": "당신의 정착지가 소멸했습니다!",
 		"italian": "La tua colonia è distrutta!",
+		"polish": "Twoja kolonia przestała istnieć!",
 	},
 	"totalPlayTime": {
 		"english": "Total Play Time",
@@ -2166,6 +2256,7 @@
 		"arabic": "ﻲﻠﻜﻟﺍ ﺐﻌﻠﻟﺍ ﺖﻗﻭ",
 		"korean": "총 플레이 시간",
 		"italian": "Tempo di gioco complessivo",
+		"polish": "Czas gry",
 	},
 	"averageHappiness": {
 		"english": "Average Happiness",
@@ -2181,6 +2272,7 @@
 		"arabic": "ﺓﺩﺎﻌﺴﻟﺍ ﻂﺳﻮﺘﻣ",
 		"korean": "평균 행복도",
 		"italian": "Felicità media",
+		"polish": "Średnia szczęścia",
 	},
 	"totalResearchCollected": {
 		"english": "Research collected",
@@ -2196,6 +2288,7 @@
 		"arabic": "ﺖﻌﻤﺟ ﻲﺘﻟﺍ ﺙﺎﺤﺑﻷﺍ",
 		"korean": "총 연구량",
 		"italian": "Ricerche effettuate",
+		"polish": "Zdobyte ulepszenia",
 	},
 	"totalNativesKilled": {
 		"english": "Tikigoblins Killed",
@@ -2211,6 +2304,7 @@
 		"arabic": "ﻝﻮﺘﻘﻣ ﻲﻜﻴﺗ ﺖﻳﺮﻔﻋ",
 		"korean": "죽인 티키고블린 수",
 		"italian": "Tikigoblin uccisi",
+		"polish": "Zabite gobliny",
 	},
 	"maxNumberOfColonists": {
 		"english": "Max. Number of Colonists",
@@ -2226,6 +2320,7 @@
 		"arabic": "ﻦﻳﺮﻤﻌﺘﺴﻤﻠﻟ ﻰﺼﻗﻷﺍ ﺩﺪﻌﻟﺍ",
 		"korean": "최대 개척자 수",
 		"italian": "Numero massimo di coloni",
+		"polish": "Liczba kolonistów",
 	},
 	"uiStepBack": {
 		"english": "Back",
@@ -2241,6 +2336,7 @@
 		"arabic": "ﻉﻮﺟﺭ",
 		"korean": "뒤로가기",
 		"italian": "Indietro",
+		"polish": "Wróć",
 	},
 
 
@@ -2259,6 +2355,7 @@
 		"arabic": "ﺔﺒﻌﻠﻟﺍ ﺀﺪﺑ",
 		"korean": "시작하기",
 		"italian": "Avvia partita",
+		"polish": "Start gry",
 	},
 	"selectStartingColonists": {
 		"english": "Select Starting Colonists",
@@ -2274,6 +2371,7 @@
 		"arabic": "ﻢﻬﺑ ﺀﺪﺒﻠﻟ ﻦﻳﺮﻤﻌﺘﺴﻣ ﺩﺪﺣ",
 		"korean": "시작시 함께할 개척자를 골라주세요.",
 		"italian": "Seleziona i coloni iniziali",
+		"polish": "Wybierz początkowych kolonistów",
 	},
 	"randomColonist": {
 		"english": "Random Colonist",
@@ -2289,6 +2387,7 @@
 		"arabic": "ﻲﺋﺍﻮﺸﻋ ﺮﻤﻌﺘﺴﻣ",
 		"korean": "랜덤 개척자",
 		"italian": "Colono casuale",
+		"polish": "Wylosuj",
 	},
 	"selectDifficulty": {
 		"english": "Select Difficulty",
@@ -2304,6 +2403,7 @@
 		"arabic": "ﺔﺑﻮﻌﺼﻟﺍ ﺮﺘﺧﺍ",
 		"korean": "난이도 선택",
 		"italian": "Seleziona la difficoltà",
+		"polish": "Wybierz poziom trudności",
 	},
 	"difficulty_0_Title": {
 		"english": "Calm World",
@@ -2319,6 +2419,7 @@
 		"arabic": "ﺉﺩﺎﻫ ﻢﻟﺎﻋ",
 		"korean": "조용한 세계",
 		"italian": "Mondo pacifico",
+		"polish": "Spokojny",
 	},
 	"difficulty_0_Desc": {
 		//TODO-chinese: 80 meals
@@ -2350,6 +2451,7 @@
 		"arabic": "ﺮﻴﺜﻣ ﻢﻟﺎﻋ",
 		"korean": "흥미로운 세계",
 		"italian": "Mondo esaltante",
+		"polish": "Ekscytujący",
 	},
 	"difficulty_1_Desc": {
 		"english": "The typical Founders' Fortune experience, mixing base building with survival.\nThe colony starts with 40 meals.\nSometimes colonists may die even though you try your best.",
@@ -2380,6 +2482,7 @@
 		"arabic": "ﺮﻴﻄﺧ ﻢﻟﺎﻋ",
 		"korean": "위험한 세계",
 		"italian": "Mondo pericoloso",
+		"polish": "Niebezpieczny",
 	},
 	"difficulty_2_Desc": {
 		"english": "The world is a harsh place, so good luck trying to survive with fragile little colonists.\nYour colonists take 50% more damage from all kinds of injuries.\nThe colony starts with 10 meals and colonists get hungry more quickly.\nCatastrophes happen more often.\nA challenge for veteran players.",
@@ -2410,6 +2513,7 @@
 		"arabic": "ﻞﻤﻛﺍ",
 		"korean": "계속",
 		"italian": "Continua",
+		"polish": "Kontynuuj",
 	},
 	"add": {
 		"english": "Add",
@@ -2425,6 +2529,7 @@
 		"arabic": "ﻒﺿﺃ",
 		"korean": "추가",
 		"italian": "Aggiungi",
+		"polish": "Dodaj",
 	},
 	"remove": {
 		"english": "Remove",
@@ -2440,6 +2545,7 @@
 		"arabic": "ﻝﺯﺃ",
 		"korean": "제거",
 		"italian": "Rimuovi",
+		"polish": "Usuń",
 	},
 	"select": {
 		"english": "Select",
@@ -2455,6 +2561,7 @@
 		"arabic": "ﺮﺘﺧﺍ",
 		"korean": "선택",
 		"italian": "Seleziona",
+		"polish": "Wybierz",
 	},
 	"unableToLoadSaveFile": {
 		"english": "Unable to load save file",
@@ -2470,6 +2577,7 @@
 		"arabic": "ﻆﻔﺤﻟﺍ ﻒﻠﻣ ﻞﻴﻤﺤﺗ ﻰﻠﻋ ﺭﺩﺎﻗ ﺮﻴﻏ",
 		"korean": "세이브 파일을 불러올 수 없습니다.",
 		"italian": "Impossibile caricare il salvataggio",
+		"polish": "Nie udało się wczytać gry",
 	},
 	"unableToLoadSaveFileText": {
 		"english": "The game could not read your save file. Sorry!\nPlease try again first. If it keeps happening, send your save file to daniel@foundersfortune.com so I can investigate the error and try to get a fix into the next update.\nThanks for your help!",

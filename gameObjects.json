@@ -13,7 +13,7 @@
 		"ukrainian":"Кошик для сирої їжі",
 		"korean": "과일 바구니",
 		"dutch": "Mand voor Rauw Eten",
-		"polish": "Koszyk na surowe jedzenie",
+		"polish": "Kosz na surowe jedzenie",
 		"chinese": "生食篮子",
 		"italian": "Cesto per cibi crudi",
 	},
@@ -76,7 +76,7 @@
 		"ukrainian":"Це об'єднання полиці і корзини - ідеальне місце для зберігання продуктів, приготованих на вогнищі.",
 		"korean": "선반 위에 바구니가 잔뜩 놓여있습니다 - 모닥불에 구운 음식들을 저장하기에 최적의 장소죠!",
 		"dutch": "Deze mix van een plankenkast en een mand is de ideale plaats om eten op te slaan dat gekookt is boven een kampvuur!",
-		"polish": "Ta mieszanka szafki i koszyk jest idealnym miejsce na trzymanie jedzenie, które zostało upieczone na ognisku!",
+		"polish": "To połączenie szafki i koszyka jest idealnym miejsce na trzymanie jedzenie, które zostało upieczone nad ogniem.",
 		"chinese": "架子与篮子的结合体是储存在烤制食物的理想办法!",
 		"italian": "Questa combinazione di mensole e cesti è il luogo ideale per conservare i cibi cotti al falò!",
 	},
@@ -91,7 +91,7 @@
 		"dutch": "Plankenkast voor Eten uit de Keuken",
 		"ukrainian":"Полиця для їжі з кухні",
 		"korean": "조리된 음식 보관용 선반",
-		"polish": "Szafka na jedzenie z kuchni",
+		"polish": "Szafka na przygotowane jedzenie",
 		"chinese": "烹饪食物架子",
 		"italian": "Scaffale per cibo da cucina",
 	},
@@ -115,7 +115,7 @@
 		"dutch": "Welke plaats is beter om eten uit de keuken op te slaan dan deze wonderbaarlijke plankenkast?",
 		"ukrainian":"Хіба є краще місце щоб зберігати їжу приготовлену на кухні?",
 		"korean": "조리된 음식을 보관하기에 이 멋진 선반보다 나은 곳이 있을까요?",
-		"polish": "Czy jest lepsze miejsce na trzymanie jedzenia z kuchni niż ta piękna szafka?",
+		"polish": "Czy jest lepsze miejsce na trzymanie przygotowanych posiłków niż ta piękna szafka?",
 		"chinese": "还有什么地方比这个华丽的架子更适合存放烹饪食物呢?",
 		"italian": "Quale posto migliore per conservare il tuo cibo da cucina se non su questo splendido scaffale!",
 	},
@@ -154,7 +154,7 @@
 		"dutch": "Deze plankenkast is je eerste keus voor eten dat gebakken is in een bakkerij.",
 		"ukrainian":"Ця полиця ідеально підійде для зберігання випічки.",
 		"korean": "화덕에 구운 음식을 둘 곳을 찾고 있다면, 이 선반이 최고의 선택입니다.",
-		"polish": "Ta szafka to Twój pierwszy wybór dla jedzenia przygotowywanego w piekarni.",
+		"polish": "Idealna szafka na wypieki z piekarni.",
 		"chinese": "这个架子是你在面包工坊烘焙食物的首选。",
 		"italian": "Questa scaffale è la tua prima scelta per i cibi che sono stati cotti al forno.",
 	},
@@ -169,8 +169,8 @@
 		"korean": "회복약 보관장",
 		"dutch": "Helende Drankjes Kast",
 		"turkish": "Şifa İksirleri Dolabı",
-		"polish": "Gablotka na mikstury lecznicze",
-		"chinese": "治疗药水架子",
+		"polish": "Gablota na mikstury lecznicze",
+		"chinese": "治疗药水架子", 
 		"italian": "Armadietto di pozioni curative",
 	},
 	//TODO-portuguese: additional sentence at the end
@@ -208,7 +208,7 @@
 		"turkish": "Bira Fıçısı",
 		"dutch": "Bier Ton",
 		"spanish": "Barril de cerveza",
-		"polish": "Beczka piwna",
+		"polish": "Beczka piwa",
 		"chinese": "啤酒桶",
 	    	"italian": "Barile di birra",
 	},
@@ -693,6 +693,7 @@
 		"korean": "이 목제 선반을 본 개척자들은 자연과 강한 연대감을 느낍니다.",
 		"chinese": "这个木架子注重殖民者与大自然的深层联系。",
 		"italian": "Questo scaffale di legno mette in risalto la profonda connessione tra i tuoi coloni e la natura.",
+		"polish": "Ta drewniana szafka podkreśla głęboką więź twoich kolonistów z naturą.",
 	},
 	"shelfWoodLog0Variation1": {
 		"english": "Natural Wooden Shelf",
@@ -722,6 +723,7 @@
 		"korean": "이 목제 선반을 본 개척자들은 자연과 강한 연대감을 느낍니다.",
 		"chinese": "这个木架子注重殖民者与大自然的深层联系。",
 		"italian": "Questo scaffale di legno mette in risalto la profonda connessione tra i tuoi coloni e la natura.",
+		"polish": "Ta drewniana szafka podkreśla głęboką więź twoich kolonistów z naturą.",
 	},
 	"shelfStoneBlock0Variation0": {
 		"english": "Simple Stone Shelf",
@@ -736,6 +738,7 @@
 		"korean": "단순한 석제 선반",
 		"chinese": "简易石制架子",
 		"italian": "Scaffale di pietra semplice",
+		"polish": "Prosta kamienna szafka",
 	},
 	"shelfStoneBlock0Variation0Description": {
 		"english": "A shelf carved out of a heavy stone block. Better not imagine that thing falling on you.",
@@ -750,6 +753,7 @@
 		"korean": "무거운 돌 덩어리를 깎아 만들어진 선반. 당신에게 넘어지는 걸 상상하진 마세요...",
 		"chinese": "用一块大石头雕刻成的架子。最好不要想象这东西砸在你身上。",
 		"italian": "Uno scaffale ricavato da un pesante blocco di pietra. Meglio non immaginare cosa succederebbe se ti cadesse addosso...",
+		"polish": "Szafka z litego kamienia. Lepiej nie myśleć co by się stało gdyby kogoś przygniotła.",
 	},
 		"shelfStoneBlock0Variation1": {
 		"english": "Simple Stone Shelf",
@@ -764,6 +768,7 @@
 		"korean": "단순한 석제 선반",
 		"chinese": "简易石制架子",
 		"italian": "Scaffale di pietra semplice",
+		"polish": "Prosta kamienna szafka",
 	},
 	"shelfStoneBlock0Variation1Description": {
 		"english": "A shelf carved out of a heavy stone block. Better not imagine that thing falling on you.",
@@ -778,6 +783,7 @@
 		"korean": "무거운 돌 덩어리를 깎아 만들어진 선반. 당신에게 넘어지는 걸 상상하진 마세요...",
 		"chinese": "用一块大石头雕刻成的架子。最好不要想象这东西砸在你身上。",
 		"italian": "Uno scaffale ricavato da un pesante blocco di pietra. Meglio non immaginare cosa succederebbe se ti cadesse addosso...",
+		"polish": "Szafka z litego kamienia. Lepiej nie myśleć co by się stało gdyby kogoś przygniotła.",
 	},
 	"shelfWoodPlanks1Variation0": {
 		"english": "Advanced Wooden Shelf",
@@ -792,6 +798,7 @@
 		"korean": "고급 목제 선반",
 		"chinese": "高级架子",
 		"italian": "Scaffale di legno rifinito",
+		"polish": "Wysokiej jakości drewniana szafka",
 	},
 	"shelfWoodPlanks1Variation1Description": {
 		"english": "A precisely crafted shelf, made out of dark wood. Gives your house some class.",
@@ -806,6 +813,7 @@
 		"korean": "어두운 빛깔의 목재로 만들어진 정교하게 만들어진 선반. 당신의 집에 격을 더해 줍니다.",
 		"chinese": "用深色木头制成的精致的架子。给你的房子升一个档次。",
 		"italian": "Uno scaffale realizzato con cura, utilizzando del legno scuro. Dona alla tua casa un po' di classe.",
+		"polish": "Precyzyjnie rzeźbiona szafka z ciemnego drewna. Nadaje wnętrzu trochę klasy.",
 	},
 	"shelfWoodPlanks1Variation1": {
 		"english": "Advanced Wooden Shelf",
@@ -820,6 +828,7 @@
 		"korean": "고급 목제 선반",
 		"chinese": "高级架子",
 		"italian": "Scaffale di legno rifinito",
+		"polish": "Wysokiej jakości drewniana szafka",
 	},
 	"shelfWoodPlanks1Variation0Description": {
 		"english": "A precisely crafted shelf, made out of dark wood. Gives your house some class.",
@@ -834,6 +843,7 @@
 		"korean": "어두운 빛깔의 목재로 만들어진 정교하게 만들어진 선반. 당신의 집에 격을 더해 줍니다.",
 		"chinese": "用深色木头制成的精致的架子。给你的房子升一个档次。",
 		"italian": "Uno scaffale realizzato con cura, utilizzando del legno scuro. Dona alla tua casa un po' di classe.",
+		"polish": "Precyzyjnie rzeźbiona szafka z ciemnego drewna. Nadaje wnętrzu trochę klasy.",
     },
 	
 // Closets
@@ -852,6 +862,7 @@
 		"korean": "단순한 목제 옷장",
 		"chinese": "简易木制衣柜",
 		"italian": "Armadio di legno semplice",
+		"polish": "Prosta drewniana szafa",
 	},
 	"closetWoodPlanks0Variation0Description": {
 		"english": "This quickly assembled wooden wardrobe is the ideal storage location for random stuff.",
@@ -866,6 +877,7 @@
 		"korean": "빠르게 조립된 목제 옷장은 아무 물건이나 넣어두기 딱 좋은 공간입니다.",
 		"chinese": "这个快速组装的木制衣柜是存放杂物的好地方。",
 		"italian": "Questo armadio di legno assemblato rapidamente è il luogo ideale per riporre oggetti casuali.",
+		"polish": "Ta prosta komoda z drewna nadaje się do przechowywania ubrań i różnych gratów.",
 	},
 	"closetWoodLog0Variation0": {
 		"english": "Natural Wooden Wardrobe",
@@ -880,6 +892,7 @@
 		"korean": "나무결이 살아있는 옷장",
 		"chinese": "天然木制衣柜",
 		"italian": "Armadio di legno naturale",
+		"polish": "Prosta drewniana szafa",
 	},
 	"closetWoodLog0Variation0Description": {
 		"english": "This wardrobe stresses your colonists' deep connection to nature.",
@@ -894,6 +907,7 @@
 		"korean": "이 목제 옷장을 본 개척자들은 자연과 강한 연대감을 느낍니다.",
 		"chinese": "这个衣柜注重你的殖民者与大自然的深层联系。",
 		"italian": "Questo armadio mette in risalto la profonda connessione tra i tuoi coloni e la natura.",
+		"polish": "Ta prosta komoda z drewna nadaje się do przechowywania ubrań i różnych gratów.",
 	},
 	"closetStoneBlock0Variation0": {
 		"english": "Simple Stone Wardrobe",
@@ -908,6 +922,7 @@
 		"korean": "단순한 석제 옷장",
 		"chinese": "简易石制衣柜",
 		"italian": "Armadio di pietra semplice",
+		"polish": "Prosta kamienna szafa",
 	},
 	"closetStoneBlock0Variation0Description": {
 		"english": "A wardrobe carved out of a heavy stone block. Better not imagine that thing falling on you.",
@@ -922,6 +937,7 @@
 		"korean": "무거운 돌 덩어리를 깎아 만들어진 옷장. 당신에게 넘어지는 걸 상상하진 마세요...",
 		"chinese": "用一块大石头雕刻而成的衣柜。最好不要想象这东西砸在你身上。",
 		"italian": "Un armadio ricavato da un pesante blocco di pietra. Meglio non immaginare cosa succederebbe se ti cadesse addosso...",
+		"polish": "Szafa z litego kamienia. Lepiej nie myśleć co by się stało gdyby kogoś przygniotła.",
 	},
 	"closetWoodPlanks1Variation0": {
 		"english": "Advanced Wooden Wardrobe",
@@ -936,6 +952,7 @@
 		"korean": "고급 목제 옷장",
 		"chinese": "高级木制衣柜",
 		"italian": "Armadio di legno rifinito",
+		"polish": "Wysokiej jakości drewniana szafa",
 	},
 	"closetWoodPlanks1Variation0Description": {
 		"english": "A precisely crafted wardrobe, made out of dark wood. Gives your house some class.",
@@ -950,6 +967,7 @@
 		"korean": "어두운 빛깔의 목재로 만들어진 정교하게 만들어진 옷장. 당신의 집에 격을 더해 줍니다.",
 		"chinese": "用深色木头制成的精致的柜子。给你的房子升一个档次。",
 		"italian": "Un armadio realizzato con cura, utilizzando del legno scuro. Dona alla tua casa un po' di classe.",
+		"polish": "Precyzyjnie rzeźbiona szafa z ciemnego drewna. Nadaje wnętrzu trochę klasy.",
 	},
 	
 // Carpets
@@ -1737,6 +1755,7 @@
 		"korean": "단순한 목제 상자",
 		"chinese": "木制箱子",
 		"italian": "Baule di legno semplice",
+		"polish": "Prosta drewniana skrzynia",
 	},
 	"chest0Description": {
 		"english": "Solid and reliable. This chest is a great way to make your home look more homely.",
@@ -1765,6 +1784,7 @@
 		"korean": "무거운 철제 상자",
 		"chinese": "金属箱子",
 		"italian": "Baule pesante di metallo",
+		"polish": "Metalowa skrzynia",
 	},
 	"chest1Description": {
 		"english": "Solid, reliable, and good looking. This chest is a great way to make your home look more homely.",
@@ -1797,6 +1817,7 @@
 		"korean": "나무통",
 		"chinese": "木盆",
 		"italian": "Barile di legno",
+		"polish": "Beczka",
 	},
 	"barrel1Description": {
 		"english": "Incredible craftsmanship meets timeless design. You have never seen a barrel like it.",
@@ -1829,6 +1850,7 @@
 		"korean": "나무컵에 심은 식물",
 		"chinese": "木盆栽",
 		"italian": "Pianta in secchio di legno",
+		"polish": "Kwiaty w wiadrze",
 	},
 	"potWood0Variation0Description": {
 		"english": "A simple wooden bucket with purple spring flowers planted in it. The smell is very invigorating.",
@@ -1857,6 +1879,7 @@
 		"korean": "나무컵에 심은 식물",
 		"chinese": "木盆栽",
 		"italian": "Pianta in secchio di legno",
+		"polish": "Kwiaty w wiadrze",
 	},
 	"potWood0Variation1Description": {
 		"english": "A simple wooden bucket with white spring flowers planted in it. The smell is very invigorating.",
@@ -1885,6 +1908,7 @@
 		"korean": "나무컵에 심은 식물",
 		"chinese": "木盆栽",
 		"italian": "Pianta in secchio di legno",
+		"polish": "Kwiaty w wiadrze",
 	},
 	"potWood0Variation2Description": {
 		"english": "A simple wooden bucket with a tiny tree planted in it. Make your colony a greener place!",
@@ -4033,6 +4057,7 @@
 		"korean": "연구대",
 		"chinese": "研究书架",
 		"italian": "Leggio di ricerca",
+		"polish": "Stanowisko do badań",
 	},
 	"bookStandDescription": {
 		"english": "This book stand can be used for research. Smart colonists can analyze crystals to generate research points. Once enough research has been conducted, new technologies are unlocked.",
@@ -4061,6 +4086,7 @@
 		"korean": "스크롤 서가",
 		"chinese": "研究卷轴架",
 		"italian": "Supporto per pergamene di ricerche",
+		"polish": "Biblioteczka do badań",
 	},
 	"bookStandScrollsDescription": {
 		"english": "This impressive scroll stand is necessary for advanced research. Scrolls offer a lot of secrets to discover which can bring your colony a huge step forward.",
@@ -4089,6 +4115,7 @@
 		"korean": "모닥불",
 		"chinese": "营火",
 		"italian": "Falò",
+		"polish": "Ognisko",
 	},
 	"campfireDescription": {
 		"english": "When the sun goes down, your colonists will be happy you built this cozy campfire to keep them warm. Besides, they can use this campfire to cook simple meals.",
@@ -4117,6 +4144,7 @@
 		"korean": "조리대",
 		"chinese": "厨房",
 		"italian": "Cucina",
+		"polish": "Kuchnia",
 	},
 	"kitchenDescription": {
 		"english": "Some say that delicious food is the cornerstone of all colonist happiness. That's why this fully equipped kitchen gives you all the tools to make your colonists' culinary dreams come true. Now, any decent cook can make something special for their fellow settlers!",
@@ -4145,6 +4173,7 @@
 		"korean": "화덕",
 		"chinese": "面包工坊",
 		"italian": "Forno",
+		"polish": "Piekarnia",
 	},
 	"bakeryDescription": {
 		"english": "Every colonist knows and yearns for the taste of great bread. This bakery features a sophisticated heating system to provide a uniform heat distribution across the bread's surface - achieving the perfect consistency. Colonists love it! Oh, and you can make cakes with it, too.",
@@ -4173,6 +4202,7 @@
 		"turkish": "Bira yapıcı",
 		"chinese": "啤酒厂",
 		"italian": "Birrificio",
+		"polish": "Browar",
 	},
 	"breweryDescription": {
 		"english": "This masterpiece of brewing technology enables you to brew the finest beer for your colony. All you need now is an experienced brewmaster and you can get started!",
@@ -4201,6 +4231,7 @@
 		"korean": "대장간",
 		"chinese": "铁匠铺",
 		"italian": "Forgia",
+		"polish": "Kuźnia",
 	},
 	"forgeDescription": {
 		"english": "This forge is suited for professional blacksmiths who want to create masterpieces with their tools.",
@@ -4229,6 +4260,7 @@
 		"korean": "활 제작자의 작업대",
 		"chinese": "弓箭工坊",
 		"italian": "Banco di fabbricazione archi",
+		"polish": "Warsztat łuczarza",
 	},
 	"bowmakerDescription": {
 		"english": "A skilled craftsman can create ranged weapons here.",
@@ -4258,6 +4290,7 @@
 		"korean": "목수의 작업대",
 		"chinese": "木匠工坊",
 		"italian": "Banco da carpentiere",
+		"polish": "Warsztat cieśli",
 	},
 	"workbenchDescription": {
 		"english": "Tired of waiting for building materials? Let a carpenter use this basic workbench to make simple wooden tools, that make your colonists' jobs easier.",
@@ -4287,6 +4320,7 @@
 		"turkish": "Taş ustası atölyesi",
 		"chinese": "石匠工坊",
 		"italian": "Banco da muratura",
+		"polish": "Warsztat kamieniarza",
 	},
 	"masonsWorkbenchDescription": {
 		"english": "Do you remember the productivity boost when you introduced wooden tools? Just imagine what will happen once you upgrade to stone tools! All you need is this workshop and a skilled craftsman and you should be good to go!",
@@ -4315,6 +4349,7 @@
 		"korean": "제단사의 작업대",
 		"chinese": "裁缝工坊",
 		"italian": "Banco da sartoria",
+		"polish": "Warsztat tkacza",
 	},
 	"tailorDescription": {
 		"english": "Only the finest clothes get made at this tailor's workbench.",
@@ -4343,6 +4378,7 @@
 		"korean": "포션 실험대",
 		"chinese": "药剂实验室",
 		"italian": "Laboratorio di pozioni",
+		"polish": "Laboratorium",
 	},
 	"potionLabDescription": {
 		"english": "Experienced doctors can use this lab to create healing potions.",
@@ -4375,6 +4411,7 @@
 		"korean": "토마토용 분토",
 		"chinese": "西红柿",
 		"italian": "Terreno per pomodori",
+		"polish": "Grządka na pomidory",
 	},
 	"farmTomatoSoilDescription": {
 		"english": "Tomatoes are good crops for inexperienced farmers to ensure a stable food supply. Growing from spring to summer, they often provide the bulk of food supply in the beginning of the year.",
@@ -4403,6 +4440,7 @@
 		"korean": "호박용 분토",
 		"chinese": "南瓜",
 		"italian": "Terreno per zucche",
+		"polish": "Grządka na dynie",
 	},
 	"farmPumpkinSoilDescription": {
 		"english": "Aren't pumpkins great? If you care for them well, they will provide a ton of good food. But you need to be quick as they only grow them in fall. Pumpkins grow slowly but yield more food per harvest.",
@@ -4431,6 +4469,7 @@
 		"korean": "밀용 분토",
 		"chinese": "小麦",
 		"italian": "Terreno per grano",
+		"polish": "Grządka na pszenicę",
 	},
 	"farmWheatSoilDescription": {
 		"english": "Wheat can not be eaten directly and needs to be processed first at the bakery. That's why wheat fields are typically found in big, wealthy colonies that can afford to provide amazing bread and even cakes for their citizens. Wheat grows from summer until fall. Wheat grows slowly but yields more food per harvest.",
@@ -4459,6 +4498,7 @@
 		"korean": "감자용 분토",
 		"chinese": "土豆",
 		"italian": "Terreno per patate",
+		"polish": "Grządka na ziemniaki",
 	},
 	"farmPotatoSoilDescription": {
 		"english": "Potatoes are the cornerstone of reliable food production. Growing from summer to fall, they make an excellent crop to grow in preparation for winter.",
@@ -4487,6 +4527,7 @@
 		"korean": "딸기용 분토",
 		"chinese": "西瓜",
 		"italian": "Terreno per fragole",
+		"polish": "Grządka na truskawki",
 	},
 	"farmStrawberrySoilDescription": {
 		"english": "Strawberries are *delicious*. You can just enjoy them as they are, but they are also the ingredients to some of the best meals there are, like fruit salad or strawberry cake. Strawberries need to be sown early, as they only grow in spring. They grow slowly but yield more food per harvest.",
@@ -4515,6 +4556,7 @@
 		"korean": "약초용 분토",
 		"chinese": "草药",
 		"italian": "Terreno per piante curative",
+		"polish": "Grządka na zioła",
 	},
 	"farmHealingPlantSoilDescription": {
 		"english": "Medical care depends on a good doctor, sure, but even the greatest doctor couldn't do much without all the medicine and potions made by processing this delicate herb in a careful procedure. Healing plants grow almost year round with the exception of winter.",
@@ -4547,6 +4589,7 @@
 		"korean": "크리스탈",
 		"chinese": "水晶",
 		"italian": "Cristallo",
+		"polish": "Kryształy",
 	},
 	"ironOre": {
 		"english": "Iron Ore",
@@ -4561,6 +4604,7 @@
 		"korean": "철광석",
 		"chinese": "铁矿",
 		"italian": "Minerale di ferro",
+		"polish": "Ruda żelaza",
 	},
 	"needleTreeSapling": {
 		"english": "Tree Sapling",
@@ -4575,6 +4619,7 @@
 		"korean": "묘목",
 		"chinese": "树苗",
 		"italian": "Alberello",
+		"polish": "Sadzonka",
 	},
 	"tree_01": {
 		"english": "Normal Tree",
@@ -4589,6 +4634,7 @@
 		"korean": "나무",
 		"chinese": "树木",
 		"italian": "Albero",
+		"polish": "Drzewo",
 	},
 	"tree_01Stump": {
 		"english": "Tree Stump",
@@ -4603,6 +4649,7 @@
 		"korean": "그루터기",
 		"chinese": "树桩",
 		"italian": "Tronco d'albero",
+		"polish": "Pień",
 	},
 	"tree_02": {
 		"english": "Large Tree",
@@ -4617,6 +4664,7 @@
 		"korean": "큰 나무",
 		"chinese": "大树",
 		"italian": "Albero grande",
+		"polish": "Duże drzewo",
 	},
 	"tree_02Stump": {
 		"english": "Tree Stump",
@@ -4631,6 +4679,7 @@
 		"korean": "그루터기",
 		"chinese": "树桩",
 		"italian": "Tronco d'albero",
+		"polish": "Pień",
 	},
 	"tree_03": {
 		"english": "Normal Tree",
@@ -4729,6 +4778,7 @@
 		"korean": "오래된 통나무",
 		"chinese": "枯萎原木",
 		"italian": "Vecchio tronco",
+		"polish": "Stara kłoda",
 	},
 	"treeBroken1": {
 		"english": "Old log",
@@ -4743,6 +4793,7 @@
 		"korean": "오래된 통나무",
 		"chinese": "枯萎原木",
 		"italian": "Vecchio tronco",
+		"polish": "Stara kłoda",
 	},
 	"treeBroken2": {
 		"english": "Old log",
@@ -4757,6 +4808,7 @@
 		"korean": "오래된 통나무",
 		"chinese": "枯萎原木",
 		"italian": "Vecchio tronco",
+		"polish": "Stara kłoda",
 	},
 	"treeApple": {
 		"english": "Apple Tree",
@@ -4771,6 +4823,7 @@
 		"korean": "사과나무",
 		"chinese": "苹果树",
 		"italian": "Melo",
+		"polish": "Jabłonka",
 	},
 	"treeApple1": {
 		"english": "Apple Tree",
@@ -4785,6 +4838,7 @@
 		"korean": "사과나무",
 		"chinese": "苹果树",
 		"italian": "Melo",
+		"polish": "Jabłonka",
 	},
 	"treeApple2": {
 		"english": "Apple Tree",
@@ -4799,6 +4853,7 @@
 		"korean": "사과나무",
 		"chinese": "苹果树",
 		"italian": "Melo",
+		"polish": "Jabłonka",
 	},
 	"plantCotton": {
 		"english": "Cotton Plant",
@@ -4813,6 +4868,7 @@
 		"korean": "목화나무",
 		"chinese": "棉花树",
 		"italian": "Pianta del cotone",
+		"polish": "Krzew bawełny",
 	},
 	"wildHealplant": {
 		"english": "Wild Healing Plant",
@@ -4827,6 +4883,7 @@
 		"korean": "야생 약초",
 		"chinese": "野生草药",
 		"italian": "Pianta curativa selvaggia",
+		"polish": "Dzikie zioła lecznicze",
 	},
 	"rock_01": {
 		"english": "Normal Rock",
@@ -4841,6 +4898,7 @@
 		"korean": "바위",
 		"chinese": "岩石",
 		"italian": "Roccia",
+		"polish": "Kamień",
 	},
 	"rock_02": {
 		"english": "Normal Rock",
@@ -4855,6 +4913,7 @@
 		"korean": "바위",
 		"chinese": "岩石",
 		"italian": "Roccia",
+		"polish": "Kamień",
 	},
 	"rock_03": {
 		"english": "Big Rock",
@@ -4869,6 +4928,7 @@
 		"korean": "큰 바위",
 		"chinese": "大岩石",
 		"italian": "Roccia grande",
+		"polish": "Duży kamień",
 	},
 	"rock_04": {
 		"english": "Normal Rock",
@@ -4883,6 +4943,7 @@
 		"korean": "바위",
 		"chinese": "岩石",
 		"italian": "Roccia",
+		"polish": "Kamień",
 	},
 	"rock_05": {
 		"english": "Big Rock",
@@ -4897,6 +4958,7 @@
 		"korean": "큰 바위",
 		"chinese": "大岩石",
 		"italian": "Roccia grande",
+		"polish": "Duży kamień",
 	},
 	// TODO-french: "Large"
 	// TODO-spanish: "Large"
@@ -4921,6 +4983,7 @@
 		"korean": "책장",
 		"chinese": "书柜",
 		"italian": "Libreria",
+		"polish": "Biblioteczka",
 	},
 	"bookshelfDescription": {
 		"english": "Want to learn new abilities? Want to hone your skills? This bookshelf contains all the knowledge you need to further your education.",
@@ -4961,6 +5024,7 @@
 		"dutch": "Houten Put",
 		"chinese": "水井",
 		"italian": "Pozzo di legno",
+		"polish": "Studnia",
 	},
 	"wellWoodDescription": {
 		"english": "Some call it an irrigation system, others think of it more as a hole with water in it. No matter how you call it - wells play an important role when you want your crops to receive good care. Plants that have been watered correctly have been reported to yield double or triple harvests!",
@@ -4989,6 +5053,7 @@
 		"korean": "화톳불",
 		"chinese": "营火",
 		"italian": "Falò",
+		"polish": "Ognisko sygnalizacyjne",
 	},
 	"bonfireDescription": {
 		"english": "Bright fire that can be seen for miles. Attracts migrants and traders.",
@@ -5017,6 +5082,7 @@
 		"korean": "경계초소",
 		"chinese": "护柱",
 		"italian": "Posto di guardia",
+		"polish": "Posterunek",
 	},
 	"guardPostDescription": {
 		"english": "Assign soldiers to guard this position with their lives.",
@@ -5045,6 +5111,7 @@
 		"korean": "감시탑",
 		"chinese": "瞭望塔",
 		"italian": "Torre di guardia",
+		"polish": "Wieża obronna",
 	},
 	"watchtowerDescription": {
 		"english": "Send your archers up this tower to give them a safe position to shoot from.",
@@ -5073,6 +5140,7 @@
 		"korean": "튼튼한 감시탑",
 		"chinese": "加固瞭望塔",
 		"italian": "Torre di guardia rinforzata",
+		"polish": "Murowana wieża obronna",
 	},
 	"watchtowerStoneDescription": {
 		"english": "Send your archers up this tower to give them a safe position to shoot from.",
@@ -5101,6 +5169,7 @@
 		"korean": "연습용 모형",
 		"chinese": "训练假人",
 		"italian": "Manichino d'addestramento",
+		"polish": "Manekin do ćwiczeń",
 	},
 	"trainingDummyDescription": {
 		"english": "You need to train your soldiers before they can do well in battle.",
@@ -5126,6 +5195,7 @@
 		"french": "Réserve de Bois",
 		"spanish": "Depósito de Madera",
 		"russian": "Склад бревен",
+		"polish": "Skład drewna",
 	},
 	"stockpileWoodDescription": {
 		"english": "Large, strong, and durable. These are the qualities you need when you want to store tons of logs.\n\nThis stockpile can hold up to %capacityWood% wood.",
@@ -5140,6 +5210,7 @@
 		"french": "Réserve de Pierre",
 		"spanish": "Depósito de Piedra",
 		"russian": "Склад камня",
+		"polish": "Skład kamienia",
 	},
 	"stockpileStoneDescription": {
 		"english": "Make sure your villagers don't stub their toes on heavy rocks and build a proper stockpile for your raw material stones.\n\nThis stockpile can hold up to %capacityStone% stone.",
@@ -5154,6 +5225,7 @@
 		"french": "Réserve de Cristal",
 		"spanish": "Depósito de Cristal",
 		"russian": "Склад кристаллов",
+		"polish": "Skład kryształów",
 	},
 	"stockpileCrystalDescription": {
 		"english": "Has your scholar ever run out of crystals in the middle of some important analysis? Make sure research can progress without impediments by building up a stock of crystals.\n\n This stockpile can hold up to %capacityCrystal% crystals.",
@@ -5168,6 +5240,7 @@
 		"french": "Réserve de Coton",
 		"spanish": "Depósito de Algodón",
 		"russian": "Склад хлопка",
+		"polish": "Regał na bawełnę",
 	},
 	"stockpileCottonDescription": {
 		"english": "Winter is a perfect time to do some tailoring, but you can't harvest frozen cotton. Use this shelf to store your summer surplus.\n\nThis shelf can fit up to %capacityCotton% cotton.",
@@ -5182,6 +5255,7 @@
 		"french": "Petit Coffre-fort pour Pièces",
 		"spanish": "Caja Fuerte pequeña para Monedas",
 		"russian": "Маленький сейф с монетами",
+		"polish": "Mały sejf",
 	},
 	"stockpileCoinSmallDescription": {
 		"english": "Did you ever feel like your treasures were not safe? As if a greedy thief could just walk in and take them? Protect your coins by hiding them away in this small but strong metal box!\n\nThis safe can hold up to %capacityCoins% coins.",
@@ -5196,6 +5270,7 @@
 		"french": "Grand Coffre-fort pour Pièces",
 		"spanish": "Caja Fuerte grande para Monedas",
 		"russian": "Большой сейф с монетами",
+		"polish": "Duży sejf",
 	},
 	"stockpileCoinBigDescription": {
 		"english": "You have spent years accumulating your wealth so make sure it's locked away properly. This large safebox is made for those who possess treasures that just don't fit in any smaller safe anymore.\n\nThis safe can hold up to %capacityCoins% coins.",
@@ -5210,6 +5285,7 @@
 		"french": "Étagère Suspendue pour Plantes",
 		"spanish": "Estante colgante para Hierbas",
 		"russian": "Склад для растений",
+		"polish": "Regał do suszenia ziół",
 	},
 	"stockpileHealingPlantDescription": {
 		"english": "Bring in the harvest and hang your healing plants on this rack to try. It was specifically designed to fit as much plants as possible on a small space.\n\nThis rack can fit up to %capacityHealingPlant% healing plants.",
@@ -5224,6 +5300,7 @@
 		"french": "Réserve de Barils de Bière",
 		"spanish": "Depósito de Barriles de Cerveza",
 		"russian": "Бочка для хранения пива",
+		"polish": "Regał na beczki z piwem",
 	},
 	"stockpileBeerDescription": {
 		"english": "It's time for party! Make sure the party doesn't run dry by stocking up on beer first!\n\nThis shelf can fit up to %capacityBeer% beer.",
@@ -5238,6 +5315,7 @@
 		"french": "Boîte à Minerai de Fer",
 		"spanish": "Caja de Menas de Hierro",
 		"russian": "Склад железной руды",
+		"polish": "Skrzynia na rudę żelaza",
 	},
 	"stockpileIronOreDescription": {
 		"english": "Simple, cheap, and effective: This iron ore box does not only do what it's supposed to, it also won last year's design price for it's simple, but functional design.\n\nThis box can hold up to %capacityIronOre% iron ore.",
@@ -5252,6 +5330,7 @@
 		"french": "Réserve d'Aliments Crus",
 		"spanish": "Depósito de Comida Cruda",
 		"russian": "Хранилище сырой еды",
+		"polish": "Regał na surowe jedzenie",
 	},
 	"stockpileRawFoodDescription": {
 		"english": "Full bellies make for happy faces. Food is one of the most important basic needs, so make sure your reserves are always stocked up.\n\nThis shelf can hold up to %capacityFoodRaw% raw food.",
@@ -5266,6 +5345,7 @@
 		"french": "Étagère pour Parchemins",
 		"spanish": "Estante de Almacenamiento de Pergaminos",
 		"russian": "Хранилище свитков",
+		"polish": "Biblioteczka na zwoje",
 	},
 	"stockpileScrollDescription": {
 		"english": "The ancient knowledge inscribed on these fragile scrolls is very valuable. Make sure they are handled and stored with care and build a proper shelf for them.\n\nThis shelf can hold up to %capacityScroll% scrolls.",
@@ -5290,6 +5370,7 @@
 		"korean": "이민자의 배",
 		"chinese": "殖民船",
 		"italian": "Nave di migranti",
+		"polish": "Statek imigrantów",
 	},
 	"boatTrader": {
 		"english": "Trader Ship",
@@ -5304,6 +5385,7 @@
 		"korean": "상인의 배",
 		"chinese": "交易船",
 		"italian": "Nave mercantile",
+		"polish": "Statek handlowy",
 	},
 	
 	
@@ -5323,6 +5405,7 @@
 		"korean": "도구 보관함",
 		"chinese": "工具架",
 		"italian": "Rastrelliera per strumenti",
+		"polish": "Regał na narzędzia",
 	},
 "equipmentRackTool0Description": {
 		"english": "The ideal repository for tools that aren't in use at the moment.",
@@ -5351,6 +5434,7 @@
 		"korean": "무기 보관함",
 		"chinese": "武器架",
 		"italian": "Rastrelliera per armi",
+		"polish": "Regał na broń",
 	},
 "equipmentRackWeapon0Description": {
 		"english": "The ideal repository for weapons that aren't in use at the moment.",
@@ -5379,6 +5463,7 @@
 		"korean": "무기 전시대",
 		"chinese": "武器展示柜",
 		"italian": "Teca per armi",
+		"polish": "Szafka do prezentowania broni",
 	},
 "equipmentRackWeapon1Description": {
 		"english": "Extraordinary weapons can be showcased in this fancy weapon cabinet.",
@@ -5407,6 +5492,7 @@
 		"korean": "갑옷 걸이",
 		"chinese": "盔甲架",
 		"italian": "Supporto per armature",
+		"polish": "Stojak na zbroję",
 	},
 "equipmentStandArmor0Description": {
 		"english": "The ideal repository for armor that isn't in use at the moment.",
@@ -5435,6 +5521,7 @@
 		"korean": "스탠드형 옷걸이",
 		"chinese": "衣架",
 		"italian": "Supporto per abiti",
+		"polish": "Wieszak na ubrania",
 	},
 "equipmentStandClothes0Description": {
 		"english": "The ideal repository for clothes that aren't in use at the moment.",
@@ -5467,6 +5554,7 @@
 		"korean": "단순한 목제 침대",
 		"chinese": "简易木床",
 		"italian": "Letto di legno semplice",
+		"polish": "Proste drewniane łóżko",
 	},
 	"bedWoodSimple0Description": {
 		"english": "While a little bit spartan, your colonists will prefer this bed over the sleeping bag.",
@@ -5503,6 +5591,7 @@
 		"korean": "단순한 석제 침대",
 		"chinese": "简易石床",
 		"italian": "Letto di pietra semplice",
+		"polish": "Proste kamienne łóżko",
 	},
 	"bedStoneSimple0Description": {
 		"english": "More comfy than it looks. The owner will sleep like a stone.",
@@ -5531,6 +5620,7 @@
 		"korean": "침낭",
 		"chinese": "睡袋",
 		"italian": "Sacco a pelo",
+		"polish": "Śpiwór",
 	},
 	"sleepingBagDescription": {
 		"english": "Keeps you warm at night.",
@@ -5545,6 +5635,7 @@
 		"korean": "밤에도 따뜻하게.",
 		"chinese": "让你在晚上睡觉能保暖。",
 		"italian": "Ti tiene al caldo durante la notte.",
+		"polish": "Proste posłanie które utrzyma ciepło w nocy.",
 	},
 
 // Graves
@@ -5563,6 +5654,7 @@
 		"korean": "무덤",
 		"chinese": "坟墓",
 		"italian": "Tomba",
+		"polish": "Grób",
 	},
 	"graveSimpleDescription": {
 		"english": "In the event of death, this is the simplest solution. Your enemies deserve no better than this for sure...",
@@ -5591,6 +5683,7 @@
 		"korean": "십자가가 꽂힌 무덤",
 		"chinese": "十字架坟墓",
 		"italian": "Tomba con croce di legno",
+		"polish": "Grób z krzyżem",
 	},
 	"graveWoodDescription": {
 		"english": "The wooden cross makes this grave look so much nicer already.",
@@ -5619,6 +5712,7 @@
 		"korean": "묘비가 세워진 무덤",
 		"chinese": "石碑坟墓",
 		"italian": "Tomba con lapide",
+		"polish": "Grób z nagrobkiem",
 	},
 	"graveStoneDescription": {
 		"english": "This grave is worthy for your greatest warriors.",
@@ -5651,6 +5745,7 @@
 		"korean": "개척자 동상",
 		"chinese": "Founder雕像",
 		"italian": "Statua del fondatore",
+		"polish": "Posąg",
 	},
 	"statueFounderDescription": {
 		"english": "This statue honors the original Founders, which contributed to make this colony possible. Eternal thanks to them. May they always have food in winter!",
@@ -5680,6 +5775,7 @@
 		"korean": "위대한 %supporter%",
 		"chinese": "伟大的%supporter%",
 		"italian": "%supporter%, l'Illustre",
+		"polish": "%supporter% Wspaniały",
 	},
 	"statueFounderSupporterDescription": {
 		"english": "As one of the original Founders, %supporter% the Great contributed to make this colony possible.\n\nEternal thanks to %himHer%. May %heShe% always have food in winter!",
@@ -5718,8 +5814,8 @@
 	"statueGoblin0Description": {
 		"english": "This statue shows Kū the Stong. Legends say, it was him who united the islands' tribes to fight off a pirate invasion, long ago. To this very day, every Tikigoblin knows the name of their great commander.\n\nBuild this statue near a Tikigoblin village and they will consider it a present.",
 		"german": "Diese Statue zeigt Kū den Starken. Den Legenden nach war er es der die Stämme vor langer Zeit einte, um das Inselreich von einer Priateninvasion zu bewahren. Noch heute kennt ein jeder Tikigoblin den Namen ihres großen Heeresführers.\n\nBaue diese Statue neben einem Tikigoblindorf und sie werden es als Geschenk sehen.",
-		"french": "Cette statue représente Kū le Puissant. Selon la légende, c'est lui qui a uni les tribus des îles pour lutter contre une invasion de pirates, il y a longtemps. Aujourd'hui encore, chaque Tikigoblin connaît le nom de son grand commandant.",
-		"spanish": "Esta estatua muestra a Kū el Fuerte, Las legendas dicen que fue él quien unió a las tribus de la isla para luchar contra una invasión de piratas hace mucho. Hasta este día, cada Tikigoblin conoce el nombre de su gran comandante.",
+		"french": "Cette statue représente Kū le Puissant. Selon la légende, c'est lui qui a uni les tribus des îles pour lutter contre une invasion de pirates, il y a longtemps. Aujourd'hui encore, chaque Tikigoblin connaît le nom de son grand commandant.\n\nConstruisez cette statue près d'un village de Tikigoblins et ils le considèreront comme un cadeau.",
+		"spanish": "Esta estatua muestra a Kū el Fuerte, Las legendas dicen que fue él quien unió a las tribus de la isla para luchar contra una invasión de piratas hace mucho. Hasta este día, cada Tikigoblin conoce el nombre de su gran comandante.\n\nConstruye esta estatua cerca de una aldea Tikigoblin y lo considerarán como un presente.",
 		"portuguese": "Esta estátua mostra Kū, o Stong. Dizem as lendas que foi ele quem uniu as tribos das ilhas para lutar contra uma invasão de piratas, há muito tempo. Até hoje, todo Tikigoblin sabe o nome do seu grande comandante.",
 		"russian": "На этой статуе выточен сильный Kū. Легенды говорят, что именно он объединил племена островов, чтобы дать отпор вторжению пиратов. По сей день каждый Тикигоблин знает имя своего великого полководца.",
 		"korean": "강한 쿠-우를 표현한 조각상입니다. 전설에 따르면, 그는 오래 전 이 섬의 부족들을 통합하고 해적의 침략에 맞서싸웠습니다. 오늘날에 이르기까지, 모든 티키고블린들은 그들의 위대한 지도자의 이름을 기억하고 있습니다.",
@@ -5742,8 +5838,8 @@
 	"statueGoblin1Description": {
 		"english": "As a role model for Tikigoblin women, Hina embodies courage, strength and wisdom. A long long time ago, she faced the danger of a vulcano eruption and thereby introduced the Tikigoblins to fire. Eternal thanks to her for light in the dark and hot meals in the cauldron!\n\nBuild this statue near a Tikigoblin village and they will consider it a present.",
 		"german": "Als Rollenvorbild für Tikigoblinfrauen verköpert Hina Tapferkeit, Stärke und Weißheit in einem. Unter größter Gefahr begab sie sich vor langer Zeit zu einen ausbrechenden Vulkan und brachte den Tikigoblins so das Feuer. Auf ewig sei ihr gedankt für Licht im Dunkeln und warmes Essen im Kessel!\n\nBaue diese Statue neben einem Tikigoblindorf und sie werden es als Geschenk sehen.",
-		"french": "En tant que modèle pour les femmes tikigoblines, Hina incarne le courage, la force et la sagesse. Il y a longtemps, elle a fait face au danger d'une éruption volcanique et a ainsi introduit les Tikigoblins au feu. Merci éternel à elle pour la lumière dans l'obscurité et les repas chauds dans le chaudron !",
-		"spanish": "Como modelo a seguir para las mujeres Tikigoblin, Hina encarna la valentía, fuerza y sabiduría. Hace mucho tiempo, ella enfrentó el peligro de una erupción volcánica y así les presentó a los Tikigoblins el fuego. ¡Gracias eternas a ella por la luz en la oscuridad y las comidas calientes en el caldero!",
+		"french": "En tant que modèle pour les femmes tikigoblines, Hina incarne le courage, la force et la sagesse. Il y a longtemps, elle a fait face au danger d'une éruption volcanique et a ainsi introduit les Tikigoblins au feu. Merci éternel à elle pour la lumière dans l'obscurité et les repas chauds dans le chaudron !\n\nConstruisez cette statue près d'un village de Tikigoblins et ils le considèreront comme un cadeau.",
+		"spanish": "Como modelo a seguir para las mujeres Tikigoblin, Hina encarna la valentía, fuerza y sabiduría. Hace mucho tiempo, ella enfrentó el peligro de una erupción volcánica y así les presentó a los Tikigoblins el fuego. ¡Gracias eternas a ella por la luz en la oscuridad y las comidas calientes en el caldero!\n\nConstruye esta estatua cerca de una aldea Tikigoblin y lo considerarán como un presente.",
 		"russian": "Женский объект для подражания тикигоблинами. Хина воплощает в себе мужество, силу и мудрость. Давным-давно, она столкнулось лицом с опастностью при извержении вулкана, благодаря чему у тикигоблинов появился огонь! Вечная ей благодарность за свет и приготовленную пищу!",
 		"dutch": "Als een rolmodel voor vrouwelijke Tikigoblins belichaamt Hina moed, kracht en wijsheid. Heel lang geleden, was er het gevaar van een uitbarstende vulkaan en daardoor introduceerde ze het vuur bij de Tikigoblins. Oneindige dank naar haar voor licht in de duisternis en warme maaltijden in de ketel!",
 		"portuguese": "Como um modelo para as mulheres de Tikigoblin, Hina incorpora coragem, força e sabedoria. Há muito tempo atrás, ela enfrentou o perigo de uma erupção vulcânica e, assim, introduziu os tikigoblins no fogo. Eterno obrigado a ela por luz nas refeições escuras e quentes no caldeirão!",
@@ -5766,8 +5862,8 @@
 	"statueGoblin2Description": {
 		"english": "In a time of long lasting war and destruction, Wākea the Just's talent for negotiation enabled a (short-lived) era of peace. While the tribes still quarrel over several matters, Wākea taught them that it's sometimes better to give in and work together. No matter how severe the conflict might seem, there is always a solution. One just has to search for it!\n\nBuild this statue near a Tikigoblin village and they will consider it a present.",
 		"german": "In einer ewig währenden Zeit des Krieges und der Zerstörung war es Wākea der Gerechte, dessen geschicktes Verhandlungstalent eine (kurzfristige) Ära des Friedens einläutete. Zwar geraten die Stämme immer wieder einmal aneinander, doch haben sie dank Wākea gelernt, dass es ab und an besser ist nachzugeben und zusammen zu arbeiten. Egal wie schwerwiegend der Konflikt auch scheint, es gibt immer eine Lösung. Man muss nur danach suchen.\n\nBaue diese Statue neben einem Tikigoblindorf und sie werden es als Geschenk sehen.",
-		"french": "Dans un temps de guerre et de destruction de longue durée, le talent de Wākea le Juste pour la négociation a permis une ère de paix (de courte durée). Alors que les tribus se querellent encore sur des questions épineuses, Wākea leur a appris qu'il est parfois préférable de céder et de travailler ensemble. Quelle que soit la gravité du conflit, il y a toujours une solution. Il suffit de la chercher !",
-		"spanish": "En un tiempo de largas y duraderas guerras y destrucción, el talento de Wākea el Justo para la negociación permitió una (efímera) era de paz. Aunque las tribus aún peleen sobre muchos asuntos, Wākea les enseñó que a veces es mejor ceder y trabajar juntos. Sin importar lo severo que parezca el conflicto, siempre hay una solución. ¡Uno solo tiene que buscarla!",
+		"french": "Dans un temps de guerre et de destruction de longue durée, le talent de Wākea le Juste pour la négociation a permis une ère de paix (de courte durée). Alors que les tribus se querellent encore sur des questions épineuses, Wākea leur a appris qu'il est parfois préférable de céder et de travailler ensemble. Quelle que soit la gravité du conflit, il y a toujours une solution. Il suffit de la chercher !\n\nConstruisez cette statue près d'un village de Tikigoblins et ils le considèreront comme un cadeau.",
+		"spanish": "En un tiempo de largas y duraderas guerras y destrucción, el talento de Wākea el Justo para la negociación permitió una (efímera) era de paz. Aunque las tribus aún peleen sobre muchos asuntos, Wākea les enseñó que a veces es mejor ceder y trabajar juntos. Sin importar lo severo que parezca el conflicto, siempre hay una solución. ¡Uno solo tiene que buscarla!\n\nConstruye esta estatua cerca de una aldea Tikigoblin y lo considerarán como un presente.",
 		"russian": "Еще давно, когда во всем мире были воины, Вакея поддерживала мир. Она говорила, что насколько бы серьезным конфликт не был - всегда есть мирное решение. Нужно просто его найти!",
 		"dutch": "In een tijd van langdurende oorlog en vernietiging, zorgde Wākea de Rechtvaardige's onderhandelings talent voor een (korte) periode van vrede. Terwijl de stammen nog steeds ruziede over verschillende dingen, leerde Wākea hen dat het soms beter is om toe te stemmen en samen te werken. Het maakte niet uit wat voor conflict het lijkt, er is altijd een oplossing. Je moet hem gewoon zoeken!",
 		"portuguese": "Em um tempo de guerra e destruição de longa duração, o talento de negação de Wakea, o Justo, possibilitou uma era (de curta duração) de paz. Enquanto as tribos ainda disputam questões importantes, Wākea lhes ensinou que às vezes é melhor ceder e trabalhar juntos. Não importa quão grave o conflito possa parecer, há sempre uma solução. Um só tem que procurar por isso!",
@@ -5792,6 +5888,7 @@
 		"korean": "샹들리에",
 		"chinese": "吊灯",
 		"italian": "Lampadario",
+		"polish": "Żyrandol",
 	},
 	"chandelierDescription": {
 		"english": "Cheap and simple chandelier to light your home.",
@@ -5820,6 +5917,7 @@
 		"korean": "땅에 세워둔 횃불",
 		"chinese": "简易火把",
 		"italian": "Torcia semplice da terreno",
+		"polish": "Pochodnia naziemna",
 	},
 	"lightGroundTorch0Description": {
 		"english": "The easiest way to get light in the dark.",
@@ -5848,6 +5946,7 @@
 		"korean": "목제 가로등",
 		"chinese": "木制街灯",
 		"italian": "Lanterna da strada di legno",
+		"polish": "Drewniana latarnia",
 	},
 	"lightGroundLantern0Description": {
 		"english": "Use this stylish lantern to light your home at night.",
@@ -5876,6 +5975,7 @@
 		"korean": "목제 가로등",
 		"chinese": "木制街灯",
 		"italian": "Lanterna da strada di legno",
+		"polish": "Drewniana latarnia",
 	},
 	"lightGroundLantern1Description": {
 		"english": "Use this stylish lantern to light your home at night.",
@@ -5904,6 +6004,7 @@
 		"turkish": "Demirden Sokak Feneri",
 		"chinese": "铁制街灯",
 		"italian": "Lanterna da strada di ferro",
+		"polish": "Żelazna latarnia",
 	},
 	"lightGroundLantern2Description": {
 		"english": "Show how modern your colony is by using this fancy iron street lantern to light up your colony at night.",
@@ -5932,6 +6033,7 @@
 		"turkish": "Demirden Fener",
 		"chinese": "铁灯",
 		"italian": "Lanterna di ferro",
+		"polish": "Żelazna latarnia",
 	},
 	"lightGroundLantern3Description": {
 		"english": "Show how modern your colony is by using this fancy iron lantern to light up your colony at night.",
@@ -5960,6 +6062,7 @@
 		"turkish": "Taştan Fener",
 		"chinese": "石制街灯",
 		"italian": "Lanterna da strada di pietra",
+		"polish": "Kamienna latarnia",
 	},
 	"lightGroundLantern4Description": {
 		"english": "Built for eternity so that its light may shine forever.",
@@ -5988,6 +6091,7 @@
 		"turkish": "Taştan Fener",
 		"chinese": "石灯",
 		"italian": "Lanterna di pietra",
+		"polish": "Kamienna latarnia",
 	},
 	"lightGroundLantern5Description": {
 		"english": "Built for eternity so that its light may shine forever.",
@@ -6016,6 +6120,7 @@
 		"korean": "티키 횃불",
 		"chinese": "土著火把",
 		"italian": "Torcia Tiki",
+		"polish": "Pochodnia Tiki",
 	},
 	"lightWallTorch0": {
 		"english": "Simple Torch on Wall",
@@ -6030,6 +6135,7 @@
 		"korean": "벽에 걸린 단순한 횃불",
 		"chinese": "简易壁灯",
 		"italian": "Torcia semplice da muro",
+		"polish": "Prymitywna pochodnia naścienna",
 	},
 	"lightWallTorch0Description": {
 		"english": "The easiest way to get light in the dark.",
@@ -6058,6 +6164,7 @@
 		"korean": "벽에 걸린 횃불",
 		"chinese": "壁灯",
 		"italian": "Torcia da muro",
+		"polish": "Pochodnia naścienna",
 	},
 	"lightWallTorch1Description": {
 		"english": "Use this stylish torch to light your home at night.",
@@ -6086,6 +6193,7 @@
 		"korean": "벽에 걸린 횃불",
 		"chinese": "壁灯",
 		"italian": "Torcia da muro",
+		"polish": "Pochodnia naścienna",
 	},
 	"lightWallTorch2Description": {
 		"english": "Use this stylish torch to light your home at night.",
@@ -6114,6 +6222,7 @@
 		"korean": "벽에 걸린 장식 횃불",
 		"chinese": "装饰壁灯",
 		"italian": "Torcia ornata da muro",
+		"polish": "Zamkowa pochodnia naścienna",
 	},
 	"lightWallTorch3Description": {
 		"english": "Use this stylish torch to light your home at night.",
@@ -6142,6 +6251,7 @@
 		"korean": "벽에 걸린 철제 횃불",
 		"chinese": "铁制壁灯",
 		"italian": "Torcia di ferro da muro",
+		"polish": "Żelazna pochodnia",
 	},
 	"lightWallTorch4Description": {
 		"english": "Use this stylish torch to light your home at night.",
@@ -6166,6 +6276,7 @@
 		"french": "Escalier Délabré",
 		"russian": "Дрянная лестница",
 		"spanish": "Escaleras de Mala Calidad",
+		"polish": "Proste schody",
 	},
 	"stairs0Description": {
 		"english": "These stairs were put together quickly and without putting too much thought into it. No guarantees that they can actually hold the weight of a villager after they had some cake.",
@@ -6180,6 +6291,7 @@
 		"french": "Escalier Décent",
 		"russian": "Приличная лестница",
 		"spanish": "Escaleras Decentes",
+		"polish": "Zwykłe schody",
 	},
 	"stairs1Description": {
 		"english": "Not exactly the peak of craftsmanship, but they do their job. Build these stairs when your villagers deserve something nice, but you actually can't afford something nice.",
@@ -6194,6 +6306,7 @@
 		"french": "Escalier Puissant",
 		"russian": "Достойная лестница",
 		"spanish": "Escaleras Poderosas",
+		"polish": "Ekskluzywne schody",
 	},
 	"stairs2Description": {
 		"english": "If you took the word \"sturdy\" and made it into stairs, you'd end up with these. The Powerful Stairs are made using high quality wood, precise craftsmanship and a strong design to deliver a great taking-the-stairs-experience.",
@@ -6208,6 +6321,7 @@
 		"french": "Escalier Royal",
 		"russian": "Королевская лестница",
 		"spanish": "Escaleras Reales",
+		"polish": "Zamkowe schody",
 	},
 	"stairs3Description": {
 		"english": "Extravagant and only meant for the feet of the most respectable of villagers - these stairs exude effortless luxury. Impress friend and foe by taking them on a walk up the most expensive stairs they have ever seen.",
@@ -6234,6 +6348,7 @@
 		"korean": "단순한 목제 문",
 		"chinese": "简易木门",
 		"italian": "Porta di legno semplice",
+		"polish": "Drewniana framuga",
 	},
 	"doorWood0Description": {
 		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
@@ -6262,6 +6377,7 @@
 		"korean": "단순한 목제 문",
 		"chinese": "简易木门",
 		"italian": "Porta di legno semplice",
+		"polish": "Framuga z progiem",
 	},
 	"doorWood1Description": {
 		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
@@ -6290,6 +6406,7 @@
 		"korean": "목제 문",
 		"chinese": "木门",
 		"italian": "Porta di legno",
+		"polish": "Framuga z progiem",
 	},
 	"doorWood2Description": {
 		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
@@ -6317,7 +6434,7 @@
 		"ukrainian":"Дерев'яні двері з орнаментом",
 		"korean": "장식된 목제 문",
 		"chinese": "装饰木门",
-		"italian": "Porta di legno ornata",
+		"polish": "Framuga z progiem",
 	},
 	"doorWood3Description": {
 		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
@@ -6349,6 +6466,7 @@
 		"korean": "단순한 목제 창문",
 		"chinese": "简易木窗",
 		"italian": "Finestra di legno semplice",
+		"polish": "Proste okno",
 	},
 	"windowWood0Description": {
 		"english": "This window let's in more than just sunshine. It's basically just a hole in the wall after all...",
@@ -6377,6 +6495,7 @@
 		"korean": "목제 창문",
 		"chinese": "木窗",
 		"italian": "Finestra di legno",
+		"polish": "Okno ze szprosami",
 	},
 	"windowWood1Description": {
 		"english": "Let your settlers look outside without exposing them to the dangers that lurk hidden somewhere in this world.",
@@ -6405,6 +6524,7 @@
 		"korean": "목제 창문",
 		"chinese": "木窗",
 		"italian": "Finestra di legno",
+		"polish": "Okno ze szprosami",
 	},
 	"windowWood2Description": {
 		"english": "Let your settlers look outside without exposing them to the dangers that lurk hidden somewhere in this world.",
@@ -6433,6 +6553,7 @@
 		"korean": "고급 목제 창문",
 		"chinese": "高级木窗",
 		"italian": "Finestra di legno rifinito",
+		"polish": "Stylowe okno",
 	},
 	"windowWood3Description": {
 		"english": "Show off your wealth with colored glass and make your colonists feel special.",
@@ -6461,6 +6582,7 @@
 		"korean": "고급 목제 창문",
 		"chinese": "高级木窗",
 		"italian": "Finestra di legno rifinito",
+		"polish": "Stylowe okno",
 	},
 	"windowWood4Description": {
 		"english": "Show off your wealth with colored glass and make your colonists feel special.",
@@ -6492,6 +6614,7 @@
 		"turkish": "Ahşap Pencere Çerçevesi",
 		"chinese": "木窗花架",
 		"italian": "Vaso di legno per davanzale",
+		"polish": "Drewniana donica balkonowa",
 	},
 	"windowBoxWood0Variation0Description": {
 		"english": "Flowers are beautiful, right? These white spring flowers will make looking out the window an even more satisfying experience.",
@@ -6520,6 +6643,7 @@
 		"turkish": "Ahşap Pencere Çerçevesi",
 		"chinese": "木窗花架",
 		"italian": "Vaso di legno per davanzale",
+		"polish": "Drewniana donica balkonowa",
 	},
 	"windowBoxWood0Variation1Description": {
 		"english": "Flowers are beautiful, right? These purple spring flowers will make looking out the window an even more satisfying experience.",
@@ -6548,6 +6672,7 @@
 		"turkish": "Ahşap Pencere Çerçevesi",
 		"chinese": "木窗花架",
 		"italian": "Vaso di legno per davanzale",
+		"polish": "Drewniana donica balkonowa",
 	},
 	"windowBoxWood0Variation2Description": {
 		"english": "Flowers are beautiful, right? These yellow summer flowers will make looking out the window an even more satisfying experience.",
@@ -6576,6 +6701,7 @@
 		"turkish": "Ahşap Pencere Çerçevesi",
 		"chinese": "木窗花架",
 		"italian": "Vaso di legno per davanzale",
+		"polish": "Drewniana donica balkonowa",
 	},
 	"windowBoxWood0Variation3Description": {
 		"english": "Flowers are beautiful, right? These blue summer flowers will make looking out the window an even more satisfying experience.",
@@ -6604,6 +6730,7 @@
 		"turkish": "Ahşap Pencere Çerçevesi",
 		"chinese": "木窗花架",
 		"italian": "Vaso di legno per davanzale",
+		"polish": "Drewniana donica balkonowa",
 	},
 	"windowBoxWood0Variation4Description": {
 		"english": "Flowers are beautiful, right? These red fall flowers will make looking out the window an even more satisfying experience.",
@@ -6632,6 +6759,7 @@
 		"turkish": "Ahşap Pencere Çerçevesi",
 		"chinese": "木窗花架",
 		"italian": "Vaso di legno per davanzale",
+		"polish": "Drewniana donica balkonowa",
 	},
 	"windowBoxWood0Variation5Description": {
 		"english": "Flowers are beautiful, right? These orange fall flowers will make looking out the window an even more satisfying experience.",
@@ -6661,6 +6789,7 @@
 		"russian": "Простые оконные ставни",
 		"portuguese": "Obturadores da janela simples",
 		"italian": "Persiane semplici",
+		"polish": "Proste okiennice",
 	},
 	"windowShutter0Description": {
 		"english": "A simple constructiuon that does what it was build for.",
@@ -6685,6 +6814,7 @@
 		"russian": "Традиционные оконные ставни",
 		"portuguese": "Obturadores da janela tradicional",
 		"italian": "Persiane tradizionali",
+		"polish": "Tradycyjne okiennice",
 	},
 	"windowShutter1_0Description": {
 		"english": "These shatters have served as a reliable method of blocking those unpleasant sun rays for as long as history books date back. What has proven to be of great use in the past, can only be even better today, right?.",
@@ -6709,6 +6839,7 @@
 		"russian": "Традиционные оконные ставни",
 		"portuguese": "Obturadores da janela tradicional",
 		"italian": "Persiane tradizionali",
+		"polish": "Tradycyjne okiennice",
 	},
 	"windowShutter1_1Description": {
 		"english": "These shatters have served as a reliable method of blocking those unpleasant sun rays for as long as history books date back. What has proven to be of great use in the past, can only be even better today, right?.",
@@ -6733,6 +6864,7 @@
 		"russian": "Традиционные оконные ставни",
 		"portuguese": "Obturadores da janela tradicional",
 		"italian": "Persiane tradizionali",
+		"polish": "Tradycyjne okiennice",
 	},
 	"windowShutter1_2Description": {
 		"english": "These shatters have served as a reliable method of blocking those unpleasant sun rays for as long as history books date back. What has proven to be of great use in the past, can only be even better today, right?.",
@@ -6757,6 +6889,7 @@
 		"russian": "Средиземноморские оконные ставни",
 		"portuguese": "Obturadores da janela do Mediterrâneo",
 		"italian": "Persiane mediterranee",
+		"polish": "Okiennice w stylu śródziemnomorskim",
 	},
 	"windowShutter2_0Description": {
 		"english": "These window shutters let fresh air pass right through them while still blocking burning hot sun rays? What a highly sophisticated masterpiece of advanced technology!",
@@ -6781,6 +6914,7 @@
 		"russian": "Средиземноморские оконные ставни",
 		"portuguese": "Obturadores da janela do Mediterrâneo",
 		"italian": "Persiane mediterranee",
+		"polish": "Okiennice w stylu śródziemnomorskim",
 	},
 	"windowShutter2_1Description": {
 		"english": "These window shutters let fresh air pass right through them while still blocking burning hot sun rays? What a highly sophisticated masterpiece of advanced technology!",
@@ -6805,6 +6939,7 @@
 		"russian": "Средиземноморские оконные ставни",
 		"portuguese": "Obturadores da janela do Mediterrâneo",
 		"italian": "Persiane mediterranee",
+		"polish": "Okiennice w stylu śródziemnomorskim",
 	},
 	"windowShutter2_2Description": {
 		"english": "These window shutters let fresh air pass right through them while still blocking burning hot sun rays? What a highly sophisticated masterpiece of advanced technology!",
@@ -6927,6 +7062,7 @@
 		"russian": "Треугольный занавес",
 		"portuguese": "Cortina Triangular",
 		"italian": "Tenda triangolare",
+		"polish": "Trójkątne zasłony",
 	},
 	"curtainsShort1Variation1Description": {
 		"english": "This basic curtain has a modern touch to it.",
@@ -6951,6 +7087,7 @@
 		"russian": "Треугольный занавес",
 		"portuguese": "Cortina Triangular",
 		"italian": "Tenda triangolare",
+		"polish": "Trójkątne zasłony",
 	},
 	"curtainsShort1Variation2Description": {
 		"english": "This basic curtain has a modern touch to it.",

@@ -142,10 +142,12 @@
 	"notificationTitle_willGrowUpTomorrow": {
 		"english": "%firstName% will grow up tomorrow.",
 		"german": "%firstName% wird morgen erwachsen werden.",
+		"french": "%firstName% va grandir demain.",
 	},
 	"notificationTitle_isApproachingEndOfLife": {
 		"english": "%firstName% is nearing the end of %hisHer% long life.",
 		"german": "%firstName%'s langes Leben neigt sich dem Ende zu.",
+		"french": "%firstName% arrive à la fin de sa longue vie.",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -212,7 +214,6 @@
 		"italian": "Combattimento",
 		"polish": "Jesteś atakowany!",
 	},
-	// TODO-french: firstName
 	// TODO-spanish: firstName
 	// TODO-dutch: firstName
 	// TODO-portuguese: firstName
@@ -227,7 +228,7 @@
 		"english": "%firstName% lost Consciousness",
 		"german": "%firstName% ist in Ohnmacht gefallen",
 		"dutch":  "Kolonist verloor bewustzijn",
-		"french": "Un colon a perdu connaissance",
+		"french": "%firstName% a perdu connaissance",
 		"spanish": "Un colono perdió la conciencia",
 		"portuguese": "Colono perdeu a Consciência",
 		"turkish": "Yerleşimci bilincini kaybetti",
@@ -238,7 +239,6 @@
 		"chinese": "殖民者死亡",
 		"italian": "Un colono ha perso conoscenza",
 	},
-	// TODO-french: firstName
 	// TODO-spanish: firstName
 	// TODO-dutch: firstName
 	// TODO-portuguese: firstName
@@ -253,7 +253,7 @@
 		"english": "%firstName% died",
 		"german": "%firstName% gestorben",
 		"dutch":  "Kolonist gestorven",
-		"french": "Un colon est mort",
+		"french": "%firstName% est mort%e%",
 		"spanish": "Un colono murió",
 		"portuguese": "Colono morreu",
 		"turkish": "Yerleşimci öldü",
@@ -268,6 +268,7 @@
 	"notificationTitle_DeathOldAge": {
 		"english": "%firstName% died of old age",
 		"german": "%firstName% an Altersschwäche gestorben",
+		"french": "%firstName% est mort%e% de vieillesse",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -860,18 +861,22 @@
 	"impressed": {
 		"english": "Impressed",
 		"german": "Beeindruckt",
+		"french": "Impressionné%e%",
 	},
 	"notImpressed": {
 		"english": "Not Impressed",
 		"german": "Nicht Beeindruckt",
+		"french": "Pas impressionné%e%",
 	},
 	"upsetWithSomeone": {
 		"english": "Upset with %firstName%",
 		"german": "Sauer auf %firstName%",
+		"french": "En colère contre %firstName%",
 	},
 	"someoneIsUpset": {
 		"english": "%firstName% is upset",
 		"german": "%firstName% ist sauer",
+		"french": "%firstName% est en colère",
 	},
 
 

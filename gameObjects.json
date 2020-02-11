@@ -4960,7 +4960,6 @@
 		"italian": "Roccia grande",
 		"polish": "Duży kamień",
 	},
-	// TODO-french: "Large"
 	// TODO-spanish: "Large"
 	// TODO-portuguese: "Large"
 	// TODO-dutch: "Large"
@@ -4973,7 +4972,7 @@
 	"bookshelf": {
 		"english": "Large Bookshelf",
 		"german": "Großes Bücherregal",
-		"french": "Bibliothèque",
+		"french": "Grande Bibliothèque",
 		"spanish": "Librero",
 		"portuguese": "Estante de livros",
 		"dutch": "Boekenkast",
@@ -5002,10 +5001,12 @@
 	"bookshelfChild": {
 		"english": "Bookshelf for Children",
 		"german": "Bücherregal für Kinder",
+		"french": "Étagère pour Enfant",
 	},
 	"bookshelfChildDescription": {
 		"english": "This bookshelf contains some simple books to introduce kids to all kinds of interesting topics. Use this to give them a good education.",
 		"german": "Dieses Bücherregal beinhalten ein paar einfache Bücher um Kinder an alle möglichen interessanten Themen heranzuführen. Verwende es, um ihnen eine gute Bildungsgrundlage zu ermöglichen.",
+		"french": "Cette étagère contient des livres simples pour initier les enfants à toutes sortes de sujets intéressants. Utilisez-la pour leur donner une bonne éducation.",
 	},
 
 // Miscellaneous Furniture
@@ -5573,10 +5574,12 @@
 	"bedChild": {
 		"english": "Child's bed",
 		"german": "Kinderbett",
+		"french": "Lit d'Enfant",
 	},
 	"bedChildDescription": {
 		"english": "With a small ladder and extra drawers for toys, this bed was designed for kids. Because of the strong supports, it can withstand more than 1.000 jumps on the bed during it's lifetime.",
 		"german": "Eine kleine Leiter und Schubladen für Spielzeug: Diese Bett wurde für Kinder entworfen. Durch die starken Stützen kann es bis zu 1.000 Sprüngen auf dem Bett standhalten.",
+		"french": "Avec une petite échelle et des tiroirs supplémentaires pour les jouets, ce lit a été conçu pour les enfants. Grâce à ses supports solides, il peut résister à plus de 1 000 sauts sur le lit pendant sa durée de vie.",
 	},
 	"bedStoneSimple0": {
 		"english": "Simple Stone Bed",

@@ -51,7 +51,7 @@
 	"GiveFood": {
 		"english": "Give Food",
 		"german": "Essen geben",
-		"french": "Apporter de la Nourriture",
+		"french": "Apporter de la nourriture",
 		"spanish": "Dale comida",
 		"turkish": "Yemek ver",
 		"portuguese": "Dar comida",
@@ -67,7 +67,7 @@
 	"GiveHealingPotion": {
 		"english": "Give Healing Potion",
 		"german": "Heiltrank verabreichen",
-		"french": "Apporter une Potion de Soin",
+		"french": "Apporter une potion de soin",
 		"spanish": "Adminístrale poción de curación",
 		"turkish": "Şifa iksiri ver",
 		"portuguese": "Dê Poção de Cura",
@@ -147,7 +147,7 @@
 	"RemovePlant": {
 		"english": "Remove Plant",
 		"german": "Pflanze entfernen",
-		"french": "Retirer la Plante",
+		"french": "Retirer la plante",
 		"spanish": "Quita la planta",
 		"turkish": "Bitkiyi kaldır",
 		"portuguese": "Remover Planta",
@@ -163,7 +163,7 @@
 	"RemoveInfestedPlants": {
 		"english": "Remove all Infested Plants",
 		"german": "Alle befallenen Pflanzen entfernen",
-		"french": "Retirer toutes les Plantes Infectées",
+		"french": "Retirer toutes les plantes infectées",
 		"spanish": "Elimina todas las plantas infestadas",
 		"turkish": "Tüm hastalıklı bitkileri kaldır",
 		"portuguese": "Remova todas as plantas infestadas",
@@ -179,7 +179,7 @@
 	"RemoveDeadPlants": {
 		"english": "Remove all Dead Plants",
 		"german": "Alle toten Pflanzen entfernen",
-		"french": "Retirer toutes les Plantes Mortes",
+		"french": "Retirer toutes les plantes mortes",
 		"spanish": "Elimina todas las plantas muertas",
 		"turkish": "Tüm ölmüş bitkileri kaldır",
 		"portuguese": "Remova todas as plantas mortas",
@@ -195,7 +195,7 @@
 	"WaterPlant": {
 		"english": "Water Plant",
 		"german": "Gießen",
-		"french": "Arroser la Plante",
+		"french": "Arroser la plante",
 		"spanish": "Riega la planta",
 		"turkish": "Bitkiyi sula",
 		"portuguese": "Regar a planta",
@@ -339,7 +339,7 @@
 	"TakeHealingPotion": {
 		"english": "Take Healing Potion",
 		"german": "Heiltrank nehmen",
-		"french": "Prendre une Potion de Soin",
+		"french": "Prendre une potion de soin",
 		"spanish": "Toma una poción curativa",
 		"turkish": "Tüm şifalı bitkileri topla",
 		"portuguese": "Tome Poção de Cura",
@@ -355,11 +355,12 @@
 	"DrinkElixirOfYouth": {
 		"english": "Drink Elixir of Youth",
 		"german": "Elixier der Jugend trinken",
+		"french": "Boire un élixir de jeunesse",
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
 		"german": "Landwirtschaft lernen",
-		"french": "Apprendre l'Agriculture",
+		"french": "Apprendre l'agriculture",
 		"spanish": "Aprende sobre agricultura",
 		"portuguese": "Aprenda sobre a agricultura",
 		"turkish": "Tarım öğren",
@@ -375,7 +376,7 @@
 	"LearnForesting": {
 		"english": "Learn about Foresting",
 		"german": "Forstwirtschaft lernen",
-		"french": "Apprendre la Foresterie",
+		"french": "Apprendre la foresterie",
 		"spanish": "Aprende sobre forestación",
 		"turkish": "Ormancılık öğren",
 		"portuguese": "Saiba mais sobre o florestamento",
@@ -391,7 +392,7 @@
 	"LearnMining": {
 		"english": "Learn about Mining",
 		"german": "Bergbau lernen",
-		"french": "Apprendre le Minage",
+		"french": "Apprendre le minage",
 		"spanish": "Aprende sobre minería",
 		"turkish": "Madencilik öğren",
 		"portuguese": "Aprenda sobre mineração",
@@ -407,7 +408,7 @@
 	"LearnCrafting": {
 		"english": "Learn about Crafting",
 		"german": "Handwerk lernen",
-		"french": "Apprendre l'Artisanat",
+		"french": "Apprendre l'artisanat",
 		"spanish": "Aprende sobre artesanía",
 		"turkish": "El işi öğren",
 		"portuguese": "Saiba mais sobre o artesanato",
@@ -423,7 +424,7 @@
 	"LearnFighting": {
 		"english": "Train for Combat",
 		"german": "Für den Kampf trainieren",
-		"french": "S'entraîner au Combat",
+		"french": "S'entraîner au combat",
 		"spanish": "Entrena para el combate",
 		"turkish": "Dövüşe hazırlan",
 		"portuguese": "Treinamento para Combate",
@@ -439,7 +440,7 @@
 	"LearnMedicine": {
 		"english": "Learn about Medicine",
 		"german": " Medizin lernen",
-		"french": "Apprendre la Médecine",
+		"french": "Apprendre la médecine",
 		"spanish": "Aprende sobre medicina",
 		"turkish": "Tıp öğren",
 		"portuguese": "Aprenda sobre Medicina",
@@ -455,7 +456,7 @@
 	"LearnResearching": {
 		"english": "Learn about Researching",
 		"german": "Forschung lernen",
-		"french": "Apprendre la Recherche",
+		"french": "Apprendre la recherche",
 		"spanish": "Aprende sobre investigación",
 		"turkish": "Araştırmacılık öğren",
 		"portuguese": "Aprenda sobre Pesquisando",
@@ -471,6 +472,7 @@
 	"LearnLifeSkills": { // refers to all the things kids need to learn in order to grow up properly
 		"english": "Learn Life Skills",
 		"german": "Lerne Grundlagen",
+		"french": "Apprendre les fondamentaux",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -507,7 +509,7 @@
 	"SleepOnGround": {
 		"english": "Sleep on the Ground",
 		"german": "Am Boden schlafen",
-		"french": "Dormir par Terre",
+		"french": "Dormir par terre",
 		"spanish": "Duerme en el suelo",
 		"turkish": "Yerde uyu",
 		"portuguese": "Durma no chão",
@@ -539,7 +541,7 @@
 	"SitOnChair": {
 		"english": "Sit on Chair",
 		"german": "Auf Stuhl sitzen",
-		"french": "S'asseoir sur une Chaise",
+		"french": "S'asseoir sur une chaise",
 		"spanish": "Siéntate en una silla",
 		"turkish": "Sandalyeye otur",
 		"portuguese": "Sente-se na cadeira",
@@ -571,7 +573,7 @@
 	"AcceptMigrants": {
 		"english": "Accept Migrants",
 		"german": "Migranten akzeptieren",
-		"french": "Accepter le Migrant",
+		"french": "Accepter le migrant",
 		"spanish": "Acepta inmigrantes",
 		"turkish": "Göçmenleri kabul et",
 		"portuguese": "Aceite migrantes",
@@ -587,7 +589,7 @@
 	"RejectMigrants": {
 		"english": "Reject Migrants",
 		"german": "Migranten ablehnen",
-		"french": "Refuser le Migrant",
+		"french": "Refuser le migrant",
 		"spanish": "Rechaza inmigrantes",
 		"turkish": "Göçmenleri reddet",
 		"portuguese": "Rejeitar Migrantes",
@@ -603,7 +605,7 @@
 	"LeaveIsland": {
 		"english": "Leave Island",
 		"german": "Insel verlassen",
-		"french": "Quitter l'Île",
+		"french": "Quitter l'île",
 		"spanish": "Abandona la isla",
 		"turkish": "Adayı terket",
 		"portuguese": "Sair da ilha",
@@ -619,7 +621,7 @@
 	"BandageWounds": {
 		"english": "Bandage Wounds",
 		"german": "Wunden verbinden",
-		"french": "Bander les Blessures",
+		"french": "Bander les blessures",
 		"spanish": "Venda heridas",
 		"turkish": "Kanamayı durdur",
 		"portuguese": "Atadura Feridas",
@@ -635,7 +637,7 @@
 	"SplintLeg": {
 		"english": "Splint Leg",
 		"german": "Bein schienen",
-		"french": "Poser une Attelle sur la Jambe",
+		"french": "Poser une attelle sur la jambe",
 		"spanish": "Entablilla la pierna",
 		"portuguese": "Coloque uma tala na perna",
 		"turkish": "Bacak desteği",
@@ -651,7 +653,7 @@
 	"SplintArm": {
 		"english": "Splint Arm",
 		"german": "Arm schienen",
-		"french": "Poser une Attelle sur le Bras",
+		"french": "Poser une attelle sur le bras",
 		"spanish": "Entablilla el brazo",
 		"portuguese": "Coloque uma tala no braço",
 		"dutch": "Spalk Arm",
@@ -763,7 +765,7 @@
 	"RemoveWeapon": {
 		"english": "Lay down Weapon",
 		"german": "Waffe ablegen",
-		"french": "Déposer l'Arme",
+		"french": "Déposer l'arme",
 		"spanish": "Baja el arma",
 		"turkish": "Silahı yere bırak",
 		"portuguese": "Deite Arma",
@@ -779,7 +781,7 @@
 	"RemoveArmor": {
 		"english": "Take off Armor",
 		"german": "Rüstung ausziehen",
-		"french": "Enlever l'Armure",
+		"french": "Enlever l'armure",
 		"spanish": "Quítate la armadura",
 		"turkish": "Zırhı çıkar",
 		"portuguese": "Tire a armadura",
@@ -795,7 +797,7 @@
 	"RemoveEquipment": {
 		"english": "Remove Equipment",
 		"german": "Ausrüstung entfernen",
-		"french": "Retirer l'Équipement",
+		"french": "Retirer l'équipement",
 		"spanish": "Quítate el equipo",
 		"turkish": "Ekipmanı çıkar",
 		"portuguese": "Remover equipamento",
@@ -811,7 +813,7 @@
 	"LightBonfire": {
 		"english": "Light Bonfire",
 		"german": "Leuchtfeuer anzünden",
-		"french": "Allumer le Feu",
+		"french": "Allumer le feu",
 		"spanish": "Enciende el fuego",
 		"turkish": "İşaret ateşi yak",
 		"portuguese": "Acenda a Fogueira",
@@ -827,7 +829,7 @@
 	"PutOutBonfire": {
 		"english": "Put out Bonfire",
 		"german": "Leuchtfeuer löschen",
-		"french": "Éteindre le Feu",
+		"french": "Éteindre le feu",
 		"spanish": "Apaga el fuego",
 		"turkish": "İşaret ateşini söndür",
 		"portuguese": "Apague a Fogueira",
@@ -843,7 +845,7 @@
 	"GatherResources": {
 		"english": "Gather Resources",
 		"german": "Sammle Ressourcen",
-		"french": "Récolter les Ressources",
+		"french": "Récolter les ressources",
 		"spanish": "Reúne los recursos",
 		"turkish": "Kaynakları topla",
 		"portuguese": "Reunir Recursos",
@@ -875,7 +877,7 @@
 	"GuardTower": {
 		"english": "Guard Tower",
 		"german": "Turm bewachen",
-		"french": "Protéger la Tour",
+		"french": "Protéger la tour",
 		"spanish": "Protege la torre",
 		"turkish": "Kuleyi koru",
 		"portuguese": "Torre de guarda",
@@ -890,7 +892,7 @@
 	"ProcessResource": {
 		"english": "Process Resource",
 		"german": "Ressource weiterverarbeiten",
-		"french": "Transformer les Ressources",
+		"french": "Transformer les ressources",
 		"spanish": "Transforma los recursos",
 		"turkish": "Kaynakları işle",
 		"portuguese": "transformar Recursos",
@@ -922,7 +924,7 @@
 	"GiveProductionOrders": {
 		"english": "Give Production Orders",
 		"german": "Produktion festlegen",
-		"french": "Donner des Ordres de Fabrication",
+		"french": "Donner des ordres de fabrication",
 		"spanish": "Da órdenes de producción",
 		"turkish": "Üretim emri ver",
 		"portuguese": "Dar ordens de produção",
@@ -938,7 +940,7 @@
 	"FillWateringCan": {
 		"english": "Fill Watering Can",
 		"german": "Gießkanne auffüllen",
-		"french": "Remplir l'Arrosoir",
+		"french": "Remplir l'arrosoir",
 		"spanish": "Llena la regadera",
 		"turkish": "Su kovasını doldur",
 		"portuguese": "Encha o regador",
@@ -954,7 +956,7 @@
 	"interaction_gatherFood": {
 		"english": "Gather Food",
 		"german": "Sammle Essen",
-		"french": "Récolter la Nourriture",
+		"french": "Récolter la nourriture",
 		"spanish": "Recoge comida",
 		"turkish": "Yemek topla",
 		"portuguese": "Recolher comida",
@@ -970,7 +972,7 @@
 	"interaction_cutTree": {
 		"english": "Cut Tree",
 		"german": "Baum fällen",
-		"french": "Abattre un Arbre",
+		"french": "Abattre un arbre",
 		"spanish": "Corta el árbol",
 		"turkish": "Ağaç kes",
 		"portuguese": "Cortar árvore",
@@ -986,7 +988,7 @@
 	"interaction_mineStone": {
 		"english": "Mine Stone",
 		"german": "Stein abbauen",
-		"french": "Miner de la Pierre",
+		"french": "Miner de la pierre",
 		"spanish": "Pica piedra",
 		"turkish": "Taş topla",
 		"portuguese": "Minar Rocha",
@@ -1002,7 +1004,7 @@
 	"interaction_mineIronOre": {
 		"english": "Mine Iron Ore",
 		"german": "Eisenerz abbauen",
-		"french": "Miner du Fer",
+		"french": "Miner du fer",
 		"spanish": "Pica hierro",
 		"turkish": "Demir cevheri işle",
 		"portuguese": "Minar Ferro",
@@ -1050,7 +1052,7 @@
 	"TryFluTreatment": {
 		"english": "Try Flu Treatment",
 		"german": "Versuche Grippebehandlung",
-		"french": "Tester un Traitement contre la Grippe",
+		"french": "Tester un traitement contre la grippe",
 		"spanish": "Prueba un tratamiento contra la gripe",
 		"turkish": "Grip tedavisi dene",
 		"portuguese": "Tentar o tratamento da gripe",
@@ -1066,7 +1068,7 @@
 	"interaction_analyzeCrystal": {
 		"english": "Analyze Crystal",
 		"german": "Kristall analysieren",
-		"french": "Analyser un Cristal",
+		"french": "Analyser un cristal",
 		"spanish": "Analiza el cristal",
 		"turkish": "Kristal analizi yap",
 		"portuguese": "Analisar Cristal",
@@ -1082,7 +1084,7 @@
 	"interaction_analyzeScroll": {
 		"english": "Analyze Scroll",
 		"german": "Schriftrolle analysieren",
-		"french": "Analyser un Parchemin",
+		"french": "Analyser un parchemin",
 		"dutch": "Rol Analyzeren",
 		"spanish": "Analiza el pergamino",
 		"portuguese": "Analisar pergaminhos",
@@ -1098,7 +1100,7 @@
 	"interaction_cook": {
 		"english": "Cook Food",
 		"german": "Essen Kochen",
-		"french": "Cuisiner des Aliments",
+		"french": "Cuisiner des aliments",
 		"spanish": "Cocina comida",
 		"turkish": "Yemek pişir",
 		"portuguese": "cozinhar alimentos",
@@ -1130,7 +1132,7 @@
 	"interaction_makeBows": {
 		"english": "Make Bows",
 		"german": "Bögen herstellen",
-		"french": "Fabriquer des Arcs",
+		"french": "Fabriquer des arcs",
 		"spanish": "Fabrica arcos",
 		"turkish": "Yay yap",
 		"portuguese": "Faça Arcos",
@@ -1146,7 +1148,7 @@
 	"interaction_makeTools": {
 		"english": "Make Tools",
 		"german": "Werkzeuge herstellen",
-		"french": "Fabriquer des Outils",
+		"french": "Fabriquer des outils",
 		"spanish": "Fabrica herramientas",
 		"turkish": "Araç yap",
 		"portuguese": "Fazer ferramentas",
@@ -1162,7 +1164,7 @@
 	"interaction_tailorClothes": {
 		"english": "Tailor Clothes",
 		"german": "Kleidung schneidern",
-		"french": "Coudre des Vêtements",
+		"french": "Coudre des vêtements",
 		"spanish": "Fabrica ropa",
 		"turkish": "Kyafet dik",
 		"portuguese": "Criar de alfaiate",
@@ -1178,7 +1180,7 @@
 	"interaction_produceMedicalPotions": {
 		"english": "Produce Healing Potions",
 		"german": "Heiltränke herstellen",
-		"french": "Produire des Potions de Soin",
+		"french": "Produire des potions de soin",
 		"spanish": "Fabrica pociones de salud",
 		"turkish": "Şifa iksiri yap",
 		"portuguese": "Produzir Poções de Cura",
@@ -1194,7 +1196,7 @@
 	"interaction_produceMedicine": {
 		"english": "Produce Medicine",
 		"german": "Medizin herstellen",
-		"french": "Fabriquer des Médicaments",
+		"french": "Fabriquer des médicaments",
 		"spanish": "Fabrica medicina",
 		"turkish": "İlaç yap",
 		"portuguese": "Produzir remédio",
@@ -1210,7 +1212,7 @@
 	"interaction_brewBeer": {
 		"english": "Brew Beer",
 		"german": "Bier brauen",
-		"french": "Brasser la Bière",
+		"french": "Brasser la bière",
 		"spanish": "Prepara cerveza",
 		"russian": "Варить пиво",
 		"portuguese": "Cerveja fermentada",
@@ -1242,6 +1244,7 @@
 	"TalkAboutFood": {
 		"english": "Talk about Food",
 		"german": "Über Essen reden",
+		"french": "Parler de nourriture",
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
@@ -1262,7 +1265,7 @@
 	"TakeOwnership": {
 		"english": "Take Ownership",
 		"german": "In Besitz nehmen",
-		"french": "Prendre la Propriété",
+		"french": "Prendre la propriété",
 		"spanish": "Toma la propiedad",
 		"turkish": "Sahiplen",
 		"portuguese": "Apropriar",
@@ -1278,7 +1281,7 @@
 	"TakeOwnershipFrom": {
 		"english": "Take Ownership from %name%",
 		"german": "%name% wegnehmen",
-		"french": "Prendre la Propriété de %name%",
+		"french": "Prendre la propriété de %name%",
 		"spanish": "Toma posesión de %name%",
 		"turkish": "%name% in elinden al",
 		"portuguese": "Apropriar de %name%",
@@ -1294,7 +1297,7 @@
 	"GiveUpOwnership": {
 		"english": "Give up Ownership",
 		"german": "Besitz aufgeben",
-		"french": "Abandonner la Propriété",
+		"french": "Abandonner la propriété",
 		"spanish": "Renuncia a la propiedad",
 		"turkish": "Sahipliği bırak",
 		"portuguese": "Desistir de propriedade",
@@ -1310,7 +1313,7 @@
 	"CarryToBed": {
 		"english": "Carry to Bed",
 		"german": "Zu Bett tragen",
-		"french": "Transporter jusqu'au Lit",
+		"french": "Transporter jusqu'au lit",
 		"spanish": "Lleva a la cama",
 		"dutch": "Naar bed dragen",
 		"portuguese": "Levar para a cama",
@@ -1326,7 +1329,7 @@
 	"PlaceTool": {
 		"english": "Unequip Tool",
 		"german": "Werkzeug ablegen",
-		"french": "Déséquipper l'Outil",
+		"french": "Déséquipper l'outil",
 		"spanish": "Desequipa la herramienta",
 		"portuguese": "Desequipar Ferramenta",
 		"turkish": "Aleti bırak", 
@@ -1342,7 +1345,7 @@
 	"PlaceClothes": {
 		"english": "Unequip Clothes",
 		"german": "Kleidung ablegen",
-		"french": "Enlever les Vêtements",
+		"french": "Enlever les vêtements",
 		"spanish": "Desequipa la vestimenta",
 		"portuguese": "Desequipar Roupas",
 		"dutch": "Kleding Wegleggen",
@@ -1390,7 +1393,7 @@
 	"FreeColonist": {
 		"english": "Free colonist",
 		"german": "Kolonisten befreien",
-		"french": "Libérer le Colon",
+		"french": "Libérer le colon",
 		"spanish": "Libera al colono",
 		"russian": "Освободить колониста",
 		"portuguese": "Colono livre",
@@ -1422,7 +1425,7 @@
 	"DrinkBeer": {
 		"english": "Drink Beer",
 		"german": "Bier trinken",
-		"french": "Boire de la Bière",
+		"french": "Boire de la bière",
 		"spanish": "Bebe cerveza",
 		"russian": "Выпить пиво",
 		"portuguese": "Beber cerveja",
@@ -1518,6 +1521,7 @@
 	"HugPerson": {
 		"english": "Hug %name%",
 		"german": "%name% umarmen",
+		"french": "Enlacer %name%",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1550,30 +1554,37 @@
 	"Insult": {
 		"english": "Insult",
 		"german": "Beleidigen",
+		"french": "Insulter",
 	},
 	"InsultPerson": {
 		"english": "Insult %name%",
 		"german": "%name% beleidigen",
+		"french": "Insulter %name%",
 	},
 	"Apologize": {
 		"english": "Apologize",
 		"german": "Entschuldigen",
+		"french": "S'excuser",
 	},
 	"MagicSmile": { // only used for debugging
 		"english": "Magic Smile",
 		"german": "Magisches Lächeln",
+		"french": "Sourire magique",
 	},
 	"Kiss": {
 		"english": "Kiss",
 		"german": "Küssen",
+		"french": "Enbrasser",
 	},
 	"KissPerson": {
 		"english": "Kiss %name%",
 		"german": "%name% küssen",
+		"french": "Embrasser %name%",
 	},
 	"BreakUp": {
 		"english": "Break up",
 		"german": "Schlussmachen",
+		"french": "Se séparer",
 	},
 	// used when someone wants to interact with this colonist
 	// and the colonist is waiting for the action to be performed
@@ -1581,26 +1592,32 @@
 	"ReceiveInteraction": {
 		"english": "Wait for someone",
 		"german": "Warte auf jemanden",
+		"french": "Attend quelqu'un",
 	},
 	"RiskyJoke": {
 		"english": "Risky Joke",
 		"german": "Riskanter Witz",
+		"french": "Blague risquée",
 	},
 	"TellRiskyJokeTo": {
 		"english": "Tell Risky Joke to %name%",
 		"german": "%name% riskanten Witz erzählen",
+		"french": "Dire une blague risquée à %name%",
 	},
 	"Impress": {
 		"english": "Impress",
 		"german": "Beeindrucken",
+		"french": "Impressionner",
 	},
 	"ImpressPerson": {
 		"english": "Impress %name%",
 		"german": "%name% Beeindrucken",
+		"french": "Impressionner %name%",
 	},
 	"BuildSnowman": {
 		"english": "Build Snowman",
 		"german": "Schneemann bauen",
+		"french": "Construire un bonhomme de neige",
 	},
 
 
@@ -1762,7 +1779,7 @@
 	"stockpileIsFull": {
 		"english": "%resource% stockpile is full",
 		"german": "Lager für %resource% ist voll",
-		"french": "réserve de %resource% pleine",
+		"french": "Réserve de %resource% pleine",
 		"spanish": "El depósito de %resource% está lleno",
 		"russian": "Хранилище %resource% заполнено",
 		"turkish": "%resource% stoğu dolu",

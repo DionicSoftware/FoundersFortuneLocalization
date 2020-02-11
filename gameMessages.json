@@ -142,10 +142,12 @@
 	"notificationTitle_willGrowUpTomorrow": {
 		"english": "%firstName% will grow up tomorrow.",
 		"german": "%firstName% wird morgen erwachsen werden.",
+		"french": "%firstName% va grandir demain.",
 	},
 	"notificationTitle_isApproachingEndOfLife": {
 		"english": "%firstName% is nearing the end of %hisHer% long life.",
 		"german": "%firstName%'s langes Leben neigt sich dem Ende zu.",
+		"french": "%firstName% arrive à la fin de sa longue vie.",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -212,7 +214,6 @@
 		"italian": "Combattimento",
 		"polish": "Jesteś atakowany!",
 	},
-	// TODO-french: firstName
 	// TODO-spanish: firstName
 	// TODO-dutch: firstName
 	// TODO-portuguese: firstName
@@ -227,7 +228,7 @@
 		"english": "%firstName% lost Consciousness",
 		"german": "%firstName% ist in Ohnmacht gefallen",
 		"dutch":  "Kolonist verloor bewustzijn",
-		"french": "Un colon a perdu connaissance",
+		"french": "%firstName% a perdu connaissance",
 		"spanish": "Un colono perdió la conciencia",
 		"portuguese": "Colono perdeu a Consciência",
 		"turkish": "Yerleşimci bilincini kaybetti",
@@ -238,7 +239,6 @@
 		"chinese": "殖民者死亡",
 		"italian": "Un colono ha perso conoscenza",
 	},
-	// TODO-french: firstName
 	// TODO-spanish: firstName
 	// TODO-dutch: firstName
 	// TODO-portuguese: firstName
@@ -253,7 +253,7 @@
 		"english": "%firstName% died",
 		"german": "%firstName% gestorben",
 		"dutch":  "Kolonist gestorven",
-		"french": "Un colon est mort",
+		"french": "%firstName% est mort%e%",
 		"spanish": "Un colono murió",
 		"portuguese": "Colono morreu",
 		"turkish": "Yerleşimci öldü",
@@ -268,12 +268,13 @@
 	"notificationTitle_DeathOldAge": {
 		"english": "%firstName% died of old age",
 		"german": "%firstName% an Altersschwäche gestorben",
+		"french": "%firstName% est mort%e% de vieillesse",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
 		"dutch":  "Eten bijna op",
 		"german": "Nahrungsvorräte gehen zu Ende",
-		"french": "En pénurie de nourriture",
+		"french": "Pénurie de nourriture",
 		"spanish": "La comida se acaba",
 		"portuguese": "Ficar sem comida",
 		"turkish": "Yiyecekler tükeniyor",
@@ -482,7 +483,7 @@
 		"english": "Need to fulfill Expectations",
 		"dutch":  "Moeten aan verwachtingen voldoen",
 		"german": "Kolonistenerwartungen erfüllen",
-		"french": "Besoin de combler les attentes",
+		"french": "Besoin de compléter les attentes",
 		"spanish": "Expectativas de colonos sin completar",
 		"portuguese": "Necessidade de satisfazer as expectativas",
 		"turkish": "Beklentilerin yerine getirilmesi gerekiyor",
@@ -832,7 +833,7 @@
 		"dutch":  "Arm Spalk\nGelukt",
 		"german": "Armschienen\nerfolgreich",
 		"spanish": "Entablado de brazo\nExitoso",
-		"french": "Attelle au Bras\nRéussie",
+		"french": "Attelle au bras\nRéussie",
 		"turkish": "Kol destekleyici\nbaşarılı",
 		"portuguese": "Tala de braço\nBem sucedida",
 		"russian": "Шина для руки\nУспешно",
@@ -847,7 +848,7 @@
 		"dutch":  "Arm Spalk\nMislukt",
 		"german": "Armschienen\nfehlgeschlagen",
 		"spanish": "Entablado de brazo\nFallido",
-		"french": "Attelle au Bras\nÉchoué",
+		"french": "Attelle au bras\nÉchouée",
 		"turkish": "Kol destekleyici\nbaşarısız",
 		"portuguese": "Tala de braço\nFalhou",
 		"russian": "Шина для руки\nНе удалось",
@@ -860,18 +861,22 @@
 	"impressed": {
 		"english": "Impressed",
 		"german": "Beeindruckt",
+		"french": "Impressionné%e%",
 	},
 	"notImpressed": {
 		"english": "Not Impressed",
 		"german": "Nicht Beeindruckt",
+		"french": "Pas impressionné%e%",
 	},
 	"upsetWithSomeone": {
 		"english": "Upset with %firstName%",
 		"german": "Sauer auf %firstName%",
+		"french": "En colère contre %firstName%",
 	},
 	"someoneIsUpset": {
 		"english": "%firstName% is upset",
 		"german": "%firstName% ist sauer",
+		"french": "%firstName% est en colère",
 	},
 
 
@@ -1040,7 +1045,7 @@
 	"messageTitle_TraderRaid": {
 		"english": "The Traders' Guild is attacking the village!",
 		"german": "Die Händergilde greift das Dorf an!",
-		"french": "La Guilde des Marchands attaque le village !",
+		"french": "La Guilde des marchands attaque le village !",
 		"spanish": "¡El Gremio de Comerciantes está atacando la aldea!",
 		"dutch": "De Handelaargilde valt het dorp aan!",
 		"portuguese": "A Guilda dos comerciantes está atacando a aldeia!",
@@ -1139,7 +1144,7 @@
 		"english": "A colonist has worked too much under terrible conditions. %cap-heShe% has decided %heShe% just doesn't care anymore and is going to relax for a while.",
 		"dutch":  "Een kolonist heeft te veel gewerkt onder vreselijke omstandigheden. %cap-heShe% heeft besloten, het maakt %heShe% gewoon niet meer uit en %heShe% gaat een tijdje ontspannen.",
 		"german": "Ein Kolonist hat zu lange unter entsetzlichen Bedingungen gearbeitet. Jetzt reicht es %ihmIhr% und %erSie% hat entschieden mit der Arbeit aufzuhören und sich erst mal zu entspannen",
-		"french": "Un colon a trop travaillé dans des conditions épouvantables. %cap-ilElle% a décidé qu'%ilElle% n'avait pas pris assez soin %deluiD'elle% et %ilElle% va se relaxer un peu.",
+		"french": "Un colon a trop travaillé dans des conditions épouvantables. %cap-ilElle% a décidé qu'%ilElle% n'avait pas pris assez soin %deluiD'elle% et va se relaxer un peu.",
 		//TODO-bulgarian
 		"spanish": "Un colono ha trabajado demasiado bajo condiciones terribles. %cap-élElla% ha decidido que ya no le importa más y se va a relajar por un tiempo.",
 		"portuguese": "Um colono trabalhou muito sob condições terríveis. %cap-eleEla% decidiu que %eleEla% simplesmente não se importa mais e vai relaxar por um tempo.",
@@ -1204,7 +1209,7 @@
 		"english": "Life hasn't been the greatest for %firstName%. Today %heShe% is taking it easy and will be taking a lot of long breaks.",
 		"dutch":  "Het leven is niet het beste geweest voor %firstName%. Vandaag doet %heShe% het rustig aan en zal het veel lange pauzes nemen.",
 		"german": "Das Leben war nicht besonders gut zu %firstName%. Heute geht %erSie% es gemütlich an und macht viele lange Pausen.",
-		"french": "La vie n'a pas été facile pour %firstName%. Aujourd'hui c'est plus simple et %ilElle% prendra de longues pauses.",
+		"french": "La vie n'a pas été facile pour %firstName%. Aujourd'hui ce sera plus simple et %ilElle% prendra de longues pauses.",
 		//TODO-bulgarian
 		"spanish": "La vida no ha sido la mejor para %firstName%. Hoy %élElla% se lo está tomando con calma y tomará muchos descansos largos.",
 		"portuguese": "A vida não foi a melhor para %firstName%. Hoje %eleEla% está se acalmando e fará muitas pausas longas.",
@@ -1253,7 +1258,7 @@
 		"english": "Food and Hunger",
 		"dutch":  "Eten en honger",
 		"german": "Mahlzeiten und Hunger",
-		"french": "Alimentation et Famine",
+		"french": "Alimentation et faim",
 		"spanish": "Comida y hambre",
 		"portuguese": "Comida e Fome",
 		"turkish": "Gıda ve açlık",
@@ -1268,7 +1273,7 @@
 		"english": "Your colonists are hungry! You need to build something from which they can take their food, for example a food basket.",
 		"dutch":  "Je kolonisten hebben honger! Je moet iets bouwen waaruit ze hun eten kunnen nemen, bijvoorbeeld een voedselmand.",
 		"german": "Deine Kolonisten haben Hunger! Du musst etwas bauen, woraus sie ihr Essen nehmen können, zum Beispiel einen Essenskorb.",
-		"french": "Vos colons ont faim ! Vous devez construire quelque chose à partir duquel ils pourront se servir à manger,un panier alimentaire par exemple.",
+		"french": "Vos colons ont faim ! Vous devez construire quelque chose à partir duquel ils pourront se servir à manger, un panier alimentaire par exemple.",
 		"spanish": "¡Tus colonos tienen hambre! Necesitas construir algo de lo que puedan tomar su comida, por ejemplo, una canasta de alimentos.",
 		"portuguese": "Seus colonos estão com fome! Você precisa construir algo do qual eles possam levar sua comida, por exemplo, uma cesta de alimentos.",
 		"turkish": "Yerleşimcileriniz aç! Yiyeceklerini alabilecekleri bir şey inşa etmelisiniz, örneğin bir yemek sepeti.",
@@ -1374,7 +1379,7 @@
 		"english": "Rotating the View",
 		"dutch":  "De weergave draaien",
 		"german": "Die Ansicht drehen.",
-		"french": "Faire tourner la Vue",
+		"french": "Faire tourner la vue",
 		"spanish": "Girar la vista",
 		"portuguese": "Rodar a vista",
 		"turkish": "Görünümü Döndürmek",
@@ -1464,7 +1469,7 @@
 		"english": "Selecting Colonists and Objects",
 		"dutch":  "Kolonisten en objecten selecteren",
 		"german": "Kolonisten und Objekte auswählen",
-		"french": "Sélectionner des Colons et des Objets",
+		"french": "Sélectionner des colons et des objets",
 		"spanish": "Seleccionando colonos y objetos",
 		"portuguese": "A seleção de colonos e Objetos",
 		"turkish": "Yerleşimcileri ve Nesneleri Seçme",
@@ -1509,7 +1514,7 @@
 		"english": "After you select a colonist, use the right mouse button to click on objects to assign tasks.",
 		"dutch":  "Nadat je een kolonist hebt geselecteerd, kan je de rechtermuisknop gebruiken en op objecten klikken om je kolonisten taken toe te wijzen.",
 		"german": "Nachdem du einen Kolonisten ausgewählt hast, kannst du die rechte Maustaste verwenden um auf ein Objekt zu klicken und Aufgaben zu verteilen.",
-		"french": "Après avoir sélectionné un colon, utilisez le bouton droit de la souris sur les objets afin d'assigner les tâches.",
+		"french": "Après avoir sélectionné un colon, utilisez le bouton droit de la souris sur des objets afin d'assigner des tâches.",
 		"spanish": "Después de seleccionar un colono, usa el botón derecho del ratón para hacer clic en los objetos para asignar tareas.",
 		"portuguese": "Depois de selecionar um colono, use o botão direito do mouse para clicar nos objetos para atribuir tarefas.",
 		"turkish": "Bir yerleşimci seçtikten sonra, görev atamak için nesnelere farenin sağ tuşuyla tıklamanız gerekir.",
@@ -1557,7 +1562,7 @@
 		"spanish": "Cómo usar el equipo",
 		"turkish": "Ekipman kullanımı",
 		"portuguese": "Como usar o equipamento",
-		"french": "Comment utiliser l'Équipement",
+		"french": "Comment utiliser l'équipement",
 		"russian": "Как использовать снаряжение",
 		"ukrainian": "Як використовувати спорядження",
 		"korean": "장비를 사용하는 방법",
@@ -1685,7 +1690,7 @@
 		"dutch":  "Het is een fout van een beginner, maar kan ook ervaren artsen overkomen: iemand heeft de spalken verknald om het gebroken been van %firstName% te genezen. Het is niet meer kapot, maar nu hinkt %hijZei% permanent en kan niet meer zo snel lopen als %hijZei% vroeger.",
 		"german": "Es ist ein Anfängerfehler, kann aber auch einem erfahrenen Arzt passieren: Jemand hat Mist gebaut und die Schienen für das gebrochene Bein von %firstName% falsch befestigt. Jetzt ist das Bein zwar nicht mehr gebrochen, aber %erSie% hinkt jetzt beim gehen und ist nicht mehr so schnell wie früher.",
 		"spanish": "Es un error de principiante, pero también le pasa a doctores experimentados: Alguien intentó entablar la pierna de %firstName% pero no lo logró. Ya no está rota, pero ahora %élElla% cojea permanentemente y no puede caminar tan rápido como antes.",
-		"french": "C'est une erreur de débutant, mais cela peut également arriver aux médecins : Quelqu'un a raté la pose de l'attelle pour soigner la jambe cassée de %firstName%. Sa jambe n'est pas complètement cassée, mais %ilElle% boîtera pour toujours et ne pourra pas marcher aussi vite qu'%ilElle% voudrait.", 
+		"french": "C'est une erreur de débutant, mais cela peut également arriver aux médecins : quelqu'un a raté la pose de l'attelle pour soigner la jambe cassée de %firstName%. Sa jambe n'est pas complètement cassée, mais %ilElle% boîtera pour toujours et ne pourra pas marcher aussi vite qu'%ilElle% voudrait.",
 		"turkish": "Acemilik hatası, ama aynı zamanda deneyimli doktorların başına da gelebilir: Birisi %firstName%'in kırılmış bacağını tedavi etmek için hazırlanan destekleri yanlış hazırladı ve kırık düzelmesine rağmen yanlış kaynadı ve kalıcı sakatlığa sebep oldu, %firstName% eskisi kadar hızlı yürümeyecektir.",
 		"portuguese": "É um erro do iniciante, mas também pode acontecer com médicos experientes: alguém estragou as talas para curar a perna quebrada do %firstName%. Não está mais quebrado, mas agora %eleEla% está mancando permanentemente e não pode andar tão rápido quanto %eleEla% costumava.",
 		"russian": "Это ошибка начинающего врача, но она может случится и с опытным: кто-то испортил шины, которые использовались для лечения ноги. %firstName% теперь будет всегда хромать и %heShe% не сможет ходить так быстро, как раньше.",
@@ -1698,7 +1703,7 @@
 		"english": "Support the Development of Founders' Fortune!",
 		"dutch":  "Steun de ontwikkeling van Founders 'Fortune!",
 		"german": "Unterstütze die Entwicklung von Founders' Fortune!",
-		"french": "Supportez le Développement de Founders' Fortune !",
+		"french": "Soutenez le développement de Founders' Fortune !",
 		"spanish": "¡Apoya el desarrollo de Founders' Fortune!",
 		"turkish": "Founder's Fortune'un gelişimine destek verin!",
 		"portuguese": "Apoiar o desenvolvimento de Founders' Fortune!",
@@ -1712,7 +1717,7 @@
 		"english": "You've been playing this colony for %hours% hours and it seems like you're enjoying the free version of Founders' Fortune! Consider checking out the store and supporting us!",
 		"dutch":  "Je speelt deze kolonie al %uur% uur en het lijkt alsof je geniet van de gratis versie van Founders 'Fortune! Overweeg de winkel te bezoeken en ons te steunen!",
 		"german": "Du spielst diese Kolonie schon seit %hours% Stunden und es scheint als würde dir die kostenlose Version von Founders' Fortune gefallen! Schau dir mal unseren Store an, dort kannst du die Entwicklung unterstützen!",
-		"french": "Vous jouez dans cette colonie depuis %hours% heures et il sembelerait que vous appréciez la version gratuite de Founders' Fortune! Nous vous invitons à aller voir le magasin et à nous soutenir !",
+		"french": "Vous jouez dans cette colonie depuis %hours% heures et il semblerait que vous appréciez la version gratuite de Founders' Fortune ! Nous vous invitons à aller voir le magasin et à nous soutenir !",
 		"spanish": "¡Has estado jugando con esta colonia por %hours% horas y parece que estás disfrutando la versión gratuita de Founders' Fortune! ¡Considera echar un vistazo a la tienda y apoyarnos!",
 		"turkish": "Bu yerleşimle %hours% saattir oynuyorsunuz ve Founders' Fortune'un bedava sürümünden zevk alıyor gibisiniz. Mağazayı ziyaret ederek bizi desteklemeyi düşünebilirsiniz!",
 		"portuguese": "Você tem jogado essa colônia por %hours% horas e parece que você está curtindo a versão gratuita do Founders 'Fortune! Considere verificar a loja e nos apoiar!",

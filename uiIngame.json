@@ -443,16 +443,19 @@
 		"english": "%firstName% will grow up in %days% days",
 		"german": "%firstName% wird in %days% Tagen erwachsen werden",
 		"french": "%firstName% va grandir dans %days% jours",
+		"spanish": "%firstName% crecerá en %days% días",
 	},
 	"humanWillGetOldInDays": {
 		"english": "%firstName% will get old in %days% days",
 		"german": "%firstName% wird in %days% Tagen alt werden",
 		"french": "%firstName% va vieillir dans %days% jours",
+		"spanish": "%firstName% envejecerá en %days% días",
 	},
 	"humanWillPassAwayInDays": {
 		"english": "%firstName% will pass away in %days% days",
 		"german": "%firstName% wird in %days% Tagen sterben",
 		"french": "%firstName% décédera dans %days% jours",
+		"spanish": "%firstName% fallecerá en %days% días
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -970,26 +973,31 @@
 		"english": "Growing Up",
 		"german": "Kindheit",
 		"french": "Enfance",
+		"spanish": "Creciendo",
 	},
 	"childhoodExperiences": {
 		"english": "Childhood Experiences",
 		"german": "Kindheitserfahrungen",
 		"french": "Expériences d'enfance",
+		"spanish": "Experiencias Infantiles"
 	},
 	"childhoodHappinessTooltip_Description": {
 		"english": "Being in a good or bad mood slowly earns positive or negative childhood happiness points.\nDepending on which points are collected, the child will gain positive or negative traits on their birthday.",
 		"german": "Eine gute oder schlechte Stimmung führt langfristig zu positiven oder negativen Kindheitspunkten.\nWenn es aufwächst, bekommt das Kind je nach gesammelten Punkten gute oder schlechte Eigenschaften.",
 		"french": "Être de bonne ou de mauvaise humeur permet de gagner lentement des points positifs ou négatifs de bonheur dans l'enfance. Selon les points collectés, l'enfant gagnera des traits positifs ou négatifs le jour de son anniversaire.",
+		"spanish": "Estar de un buen o mal humor lentamente permite obtener puntos de felicidad infantil positivos o negativos.\nDependiendo de qué puntos se obtienen, el infante obtendrá rasgos positivos o negativos en su cumpleaños.",
 	},
 	"childhoodEducation": {
 		"english": "Education",
 		"german": "Bildung",
 		"french": "Éducation",
+		"spanish": "Educación"
 	},
 	"childhoodEducationTooltip_Description": {
 		"english": "Every Child can learn life skills at the book shelf. On their birthday, they can use these points to get a great head start in any profession.\nIf the education is stopped before a topic is fully understood and a point is earned, the progress will slowly be forgotten.",
 		"german": "Beim Bücherregal kann man für's Leben lernen. Am Geburtstag können Kinder dann diese Punkte einsetzen, um in ihrem Beruf einen schnellen Start zu bekommen.\nFalls das Lernen stoppt bevor ein Thema komplett verstanden und ein Punkt gewonnen wurde, wird der Fortschritt langsam vergessen.",
 		"french": "Chaque enfant peut apprendre les fondamentaux de la vie à la bibliothèque. Le jour de leur anniversaire, ils peuvent utiliser ces points pour prendre une bonne longueur d'avance dans n'importe quelle profession. Si l'éducation est interrompue avant qu'un sujet ne soit pleinement compris et qu'un point est gagné, les progrès seront lentement oubliés.",
+		"spanish": "Cada infante puede aprender habilidades para la vida en el estante para libros. En su cumpleaños, pueden usar estos puntos para conseguir un gran inicio en cualquier profesión.\nSi la educación se detiene antes que un tema sea completamente entendido y se obtenga un punto, el progreso será lentamente olvidado.",
 	},
 
 	// Birthday Panel (Child born)
@@ -997,6 +1005,7 @@
 		"english": "A Child has been Born!",
 		"german": "Ein Kind wurde geboren!",
 		"french": "Un enfant est né !",
+		"spanish": "¡Un Infante ha nacido!",
 	},
 	"childBornDescription": {
 		"english": "%parent1% and %parent2% have got a %sonDaughter%!\nOverjoyed, they are thinking about a name for the child.\n\nWhat should their %sonDaughter% be called?",
@@ -1007,11 +1016,13 @@
 		"english": "Welcome %firstName%!",
 		"german": "Willkommen, %firstName%!",
 		"french": "Bienvenue, %firstName% !",
+		"spanish": "¡Bienvenido %firstName%!",
 	},
 	"unnamed": { // used before player has assigned a name
 		"english": "Unnamed",
 		"german": "Namenlos",
 		"french": "Sans nom",
+		"spanish": "Sin nombre",
 	},
 
 	// Birthday Panel (becoming Adult)
@@ -1019,21 +1030,25 @@
 		"english": "%firstName% has grown up!",
 		"german": "%firstName% ist erwachsen geworden!",
 		"french": "%firstName% a grandi !",
+		"spanish": "¡%firstName% ha crecido!",
 	},
 	"positiveTraits": {
 		"english": "Positive Traits",
 		"german": "Positive Eigenschaften",
 		"french": "Traits positifs",
+		"spanish": "Rasgos Positivos",
 	},
 	"lotsPositiveExperiencesGainedTraits": {
 		"english": "%firstName% had a lot of good experiences in %hisHer% childhood and gained the following traits:",
 		"german": "%firstName% hatte viele gute Erfahrungen in %seinerIhrer% Kindheit und hat die folgenden Eigenschaften gewonnen:",
 		"french": "%firstName% a eu beaucoup de bonnes expériences lors de son enfance et a acquis les traits suivants :",
+		"spanish": "%firstName% tuvo un montón de buenas experiencias en su infancia y obtuvo los siguientes rasgos:",
 	},
 	"somePositiveExperiencesGainedTraits": {
 		"english": "%firstName% had some good experiences in %hisHer% childhood and gained the following traits:",
 		"german": "%firstName% hatte ein paar gute Erfahrungen in %seinerIhrer% Kindheit und hat die folgenden Eigenschaften gewonnen:",
 		"french": "%firstName% a eu de bonnes expériences lors de son enfance et a acquis les traits suivantes :",
+		"spanish": "%firstName% tuvo algunas buenas experiencias en su vida y obtuvo los siguientes rasgos:",
 	},
 	"negativeTraits": {
 		"english": "Negative Traits",
@@ -1044,36 +1059,43 @@
 		"english": "%firstName% had a lot of bad experiences in %hisHer% childhood and gained the following traits:",
 		"german": "%firstName% hatte viele schlechte Erfahrungen in %seinerIhrer% Kindheit und hat die folgenden Eigenschaften gewonnen:",
 		"french": "%firstName% a eu beaucoup de mauvaises expériences lors de son enfance et a acquis les traits suivants :",
+		"spanish": "%firstName% tuvo un montón de malas experiencias en su vida y obtuvo los siguientes rasgos:",
 	},
 	"someNegativeExperiencesGainedTraits": {
 		"english": "%firstName% had some bad experiences in %hisHer% childhood and gained the following traits:",
 		"german": "%firstName% hatte ein paar negative Erfahrungen in %seinerIhrer% Kindheit und hat die folgenden Eigenschaften gewonnen:",
 		"french": "%firstName% a eu quelques mauvaises expériences lors de son enfance et a acquis les traits suivantes :",
+		"spanish": "%firstName% tuvo algunas malas experiencias en su vida y obtuvo los siguientes rasgos:",
 	},
 	"education": {
 		"english": "Education",
 		"german": "Ausbildung",
 		"french": "Éducation",
+		"spanish": "Educación",
 	},
 	"educationPointsCollected": {
 		"english": "%firstName% has collected %points% Education points that %heShe% can now spend on Profession Levels:",
 		"german": "%firstName% hat %points% Ausbildungspunkte gesammelt, die %erSie% jetzt in Berufserfahrung umwandeln kann:",
 		"french": "%firstName% a accumulé %points% points d'éducation qu'%ilElle% peut maintenant dépenser pour ses niveaux de métiers :",
+		"spanish": "%firstName% ha recolectado %points% Puntos de Educación que ahora puede gastar en Niveles de Profesión:",
 	},
 	"pointCost": {
 		"english": "Point Cost",
 		"german": "Kosten",
 		"french": "Coût en points",
+		"spanish": "Coste en Puntos",
 	},
 	"pointsLeft": {
 		"english": "%points% Points Left",
 		"german": "%points% Punkte übrig",
 		"french": "%points% points restants",
+		"spanish": "%points% Puntos Restantes",
 	},
 	"happyBirthday": {
 		"english": "Happy Birthday!",
 		"german": "Alles Gute!",
 		"french": "Joyeux anniversaire !",
+		"spanish": "¡Feliz Cumpleaños!",
 	},
 
 	// wish panel
@@ -1761,6 +1783,7 @@
 		"english": "No special items in store.",
 		"german": "Keine besonderen Gegenstände im Lager.",
 		"french": "Pas d'objets spéciaux en stock.",
+		"spanish": "No hay artículos especiales en almacén.",
 	},
 	"decoration": {
 		"english": "Decoration",

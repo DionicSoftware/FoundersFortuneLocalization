@@ -298,7 +298,6 @@
 		//TODO-turkish
 		//TODO-portuguese
 		//TODO-dutch
-		//TODO-russian
 		//TODO-ukrainian
 		//TODO-korean
 		//TODO-chinese
@@ -308,7 +307,7 @@
 		"turkish": "Yerleşimci öldü",
 		"portuguese": "Colono morreu",
 		"dutch": "Kolonist Overleden",
-		"russian": "Смерть Колониста",
+		"russian": "Колонист умер слишком рано",
 		"ukrainian":"Колоніст Помер",
 		"korean": "개척자가 죽음",
 		"chinese": "殖民死亡",
@@ -334,8 +333,10 @@
 		"german": "Kolonist im Alter gestorben",
 		"french": "Un colon est mort de vieillesse",
 		"spanish": "Un colono ha muerto de vejez",
+		"russian": "Колонист умер из-за старости",
 	},
 	"thoughtDesc_ColonistDiedOfOldAge": {
+		"russian": "Колонист прожил уже довольно много времени. Но все мы рано или поздно умираем...",
 	},
 	"thoughtTitle_FightWon": {
 		"english": "Won a Fight",
@@ -1765,72 +1766,84 @@
 		"german": "Hat genug vom Lernen",
 		"french": "Fatigué d'étudier",
 		"spanish": "Cansado de estudiar",
+		"russian": "Устал учиться",
 	},
 	"thoughtDesc_TiredOfStudying": {
 		"english": "Nooo. I don't want to study anymooore! Why do I have to learn this? I'm never gonna need to know this for sure.",
 		"german": "Nein! Ich will nicht mehr lernen! Wieso muss ich das überhaupt? Ich werde das ganze Wissen bestimmt sowieso nicht brauchen.",
 		"french": "Nooon ! Je ne veux plus étudier ! Pourquoi apprendre ça ? Je n'en aurai jamais besoin.",
 		"spanish": "Nooo ¡Ya no quiero estudiar más! ¿Por qué tengo que aprender esto? De seguro nunca voy a necesitar saber esto.",
+		"russian": "Нееет. Я не хочу больше учиться! Почему я должен это учить? Я не уверен, что мне это вообще когда-либо пригодиться!",
 	},
 	"thoughtTitle_BadJoke": {
 		"english": "Had to witness terrible joke",
 		"german": "Schrecklichen Witz gehört",
 		"french": "A dû assister à une terrible blague",
 		"spanish": "Tuvo que escuchar una broma terrible",
+		"russian": "Подслушал ужастную шутку",
 	},
 	"thoughtDesc_BadJoke": {
 		"english": "Oh my god, did you hear %firstName%'s joke? It was so cheesy that my life is worse for hearing it.",
 		"german": "Oh mein Gott, hast du %firstName%'s Witz gehört? Der war so schlecht, dass mein Leben durch's zuhören schlechter geworden ist.",
 		"french": "Oh mon Dieu, vous avez entendu la blague de %firstName% ? C'était tellement ringard que ma vie a empiré quand je l'ai entendue.",
 		"spanish": "Oh Dios mío, ¿escuchaste la broma de %firstName%? Fue tan desagradable que mi vida caba de empeorar solo por oírla.",
+		"russian": "Боже мой, вы вообще слышали шутку %firstName%? Она настолько ужастна, что аж до муражек!",
 	},
 	"thoughtTitle_PutSomeoneElseDown": {
 		"english": "Put someone else down",
 		"german": "Jemanden niedergemacht",
 		"french": "A frappé quelqu'un",
 		"spanish": "Menospreció a alguien",
+		"russian": "Насмехается над кем-то",
 	},
 	"thoughtDesc_PutSomeoneElseDown": {
 		"english": "Say what you want, but I think %firstName% deserved the rant. Voicing my honest opinions makes me feel good about myself.",
 		"german": "Sag was du willst, aber ich finde %firstName% hat meine Standpauke verdient. Es fühlt sich gut an, %ihmIhr% meine Meinung gesagt zu haben.",
 		"french": "Dites ce que vous voulez, mais je pense que %firstName% méritait cela. En exprimant mes opinions honnêtement, je me sens mieux dans ma peau.",
 		"spanish": "Di lo que quieras, pero creo que %firstName% se merecía esa diatriba. Expresar mis opiniones honestas me hace sentir bien.",
+		"russian": "Говорите что хотите, но я считаю, что %firstName% заслужил этих слов. Это мое личное мнение, мне стало в разы лучше после того, как я высказал это вслух!",
 	},
 	"thoughtTitle_ReceivedInsult": {
 		"english": "Received Insult",
 		"german": "Wurde beleidigt",
 		"french": "Insulte reçue",
 		"spanish": "Recibió un insulto",
+		"russian": "Оскорблен",
 	},
 	"thoughtDesc_ReceivedInsult": {
 		"english": "%firstName% just gravely insulted me. That was uncalled for!",
 		"german": "%firstName% hat mich zutiefst beleidigt. So weit hätte %erSie% nicht gehen müssen!",
 		"french": "%firstName% vient de m'insulter violemment. C'était déplacé !",
 		"spanish": "%firstName% me insultó gravemente ¡Eso estuvo fuera de lugar!",
+		"russian": "%firstName% очень серьезно оскорбил меня. Это было неуместно!",
 	},
 	"thoughtTitle_Parenthood": {
 		"english": "Parenthood",
 		"german": "Elternschaft",
 		"french": "Paternité",
 		"spanish": "Paternidad",
+		"russian": "%Parenthood%",
 	},
 	"thoughtDesc_Parenthood": {
 		"english": "Children can be exhausting, but they also give me strength.",
 		"german": "Kinder können anstrengend sein, aber sie geben mir auch Kraft.",
 		"french": "Les enfants peuvent être épuisants, mais ils me donnent aussi de la force.",
 		"spanish": "Los niños pueden ser agotadores, pero también me fortalecen.",
+		"russian": "Хоть дети и иногда утомительны, но они дают мне силы жить дальше.",
 	},
 	"thoughtTitle_FeelingDeadInside": {
 		"english": "Feeling Dead Inside",
 		"german": "Fühlt sich innerlich tot",
 		"french": "Se sent mort à l'intérieur",
 		"spanish": "Muerto por dentro",
+		"russian": "Ощущает себя мертвым внутри",
 	},
 	"thoughtDesc_FeelingDeadInside": {
 		"english": "That Elixir has rejuvenated my body, but it clouds my mind. I feel older than ever.",
 		"german": "Dieses Elixier hat meinen Körper verjüngt, aber es benebelt meinen Kopf. Ich fühle mich älter denn je.",
 		"french": "Cet élixir a rajeuni mon corps, mais il obscurcit mon esprit. Je me sens plus vieux que jamais.",
 		"spanish": "Ese Elixir ha rejuvenecido mi cuerpo, pero nubló mi mente. Me siento más viejo que nunca.",
+		"russian": "Хоть этот эликсир и омолодил мое тело, но он так же и омрачил мой разум. Я чувствую себя очень старым.",
 	},
 
 

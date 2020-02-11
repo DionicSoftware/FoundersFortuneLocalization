@@ -143,11 +143,13 @@
 		"english": "%firstName% will grow up tomorrow.",
 		"german": "%firstName% wird morgen erwachsen werden.",
 		"french": "%firstName% va grandir demain.",
+		"russian": "%firstName% вырастет завтра.",
 	},
 	"notificationTitle_isApproachingEndOfLife": {
 		"english": "%firstName% is nearing the end of %hisHer% long life.",
 		"german": "%firstName%'s langes Leben neigt sich dem Ende zu.",
 		"french": "%firstName% arrive à la fin de sa longue vie.",
+		"russian": "%firstName% доживает последние дни своей жизни.",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -219,7 +221,6 @@
 	// TODO-portuguese: firstName
 	// TODO-turkish: firstName
 	// TODO-bulgarian: firstName
-	// TODO-russian: firstName
 	// TODO-ukrainian: firstName
 	// TODO-korean: firstName
 	// TODO-chinese: firstName
@@ -233,7 +234,7 @@
 		"portuguese": "Colono perdeu a Consciência",
 		"turkish": "Yerleşimci bilincini kaybetti",
 		"bulgarian": "Колонист изгуби съзнание",
-		"russian": "Колонист потерял сознание",
+		"russian": "%firstName потерял сознание",
 		"ukrainian": "Колоніст знепритомнів",
 		"korean": "개척자가 의식을 잃었습니다",
 		"chinese": "殖民者死亡",
@@ -244,7 +245,6 @@
 	// TODO-portuguese: firstName
 	// TODO-turkish: firstName
 	// TODO-bulgarian: firstName
-	// TODO-russian: firstName
 	// TODO-ukrainian: firstName
 	// TODO-korean: firstName
 	// TODO-chinese: firstName
@@ -258,7 +258,7 @@
 		"portuguese": "Colono morreu",
 		"turkish": "Yerleşimci öldü",
 		"bulgarian": "Колонист умря",
-		"russian": "Колонист умер",
+		"russian": "%firstName умер",
 		"ukrainian": "Колоніст помер",
 		"korean": "개척자가 죽었습니다",
 		"chinese": "食物不足",
@@ -269,6 +269,7 @@
 		"english": "%firstName% died of old age",
 		"german": "%firstName% an Altersschwäche gestorben",
 		"french": "%firstName% est mort%e% de vieillesse",
+		"russian": "%firstName% умер из-за старости",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -862,21 +863,25 @@
 		"english": "Impressed",
 		"german": "Beeindruckt",
 		"french": "Impressionné%e%",
+		"russian": "Впечатлен%surnameA%",
 	},
 	"notImpressed": {
 		"english": "Not Impressed",
 		"german": "Nicht Beeindruckt",
 		"french": "Pas impressionné%e%",
+		"russian": "Не впечатлен%surnameA%",
 	},
 	"upsetWithSomeone": {
 		"english": "Upset with %firstName%",
 		"german": "Sauer auf %firstName%",
 		"french": "En colère contre %firstName%",
+		"russian": "Обижен%surnameA% на %firstName%",
 	},
 	"someoneIsUpset": {
 		"english": "%firstName% is upset",
 		"german": "%firstName% ist sauer",
 		"french": "%firstName% est en colère",
+		"russian": "%firstName% обижен%surnameA%",
 	},
 
 

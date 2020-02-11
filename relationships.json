@@ -3,70 +3,83 @@
 		"english": "Relationships",
 		"german": "Beziehungen",
 		"french": "Relations",
+		"russian": "Отношения",
 	},
 	"relationshipStatus": {
 		"english": "Relationship: %status%",
 		"german": "Beziehung: %status%",
 		"french": "Relations : %status%",
+		"russian": "Отношения: %status%",
 	},
 
 	"nextLowerLevel": {
 		"english": "Next Lower Level: %level%",
 		"german": "Nächsttiefere Stufe: %level%",
 		"french": "Niveau inférieur suivant : %level%",
+		"russian": "Следующий нижний уровень: %level%",
 	},
 	"nextHigherLevel": {
 		"english": "Next Higher Level: %level%",
 		"german": "Nächsthöhere Stufe: %level%",
 		"french": "Niveau supérieur suivant : %level%",
+		"russian": "Следующий высший уровень: %level%",
 	},
 
 	"relationship_Nemesis": {
 		"english": "Nemesis",
 		"german": "Erzfeind%In%",
 		"french": "Ennemi%e% juré%e%",
+		"russian": "Немезида",
 	},
 	"relationship_Enemy": {
 		"english": "Enemy",
 		"german": "Feind%In%",
 		"french": "Ennemi%e%",
+		"russian": "Враг",
 	},
 	// I had to use an adjective here. If you can find a fitting noun for your language, like the other titles, use that!
 	"relationship_Disliked": {
 		"english": "Disliked",
 		"german": "Zerstritten",
 		"french": "Destesté%e%",
+		"russian": "Неприятель",
 	},
 	"relationship_Acquaintance": {
 		"english": "Acquaintance",
 		"german": "Bekannt%erE%",
 		"french": "Connaissance",
+		"russian": "Знакомый",
 	},
 	"relationship_Buddy": {
 		"english": "Buddy",
 		"german": "Kumpel",
 		"french": "Camarade",
+		"russian": "Приятель",
 	},
 	"relationship_Friend": {
 		"english": "Friend",
 		"german": "Freundschaft",
 		"french": "Ami%e%",
+		"russian": "Друг",
 	},
 	"relationship_GreatFriend": {
 		"english": "Great Friend",
 		"german": "Enge Freundschaft",
 		"french": "Meilleur ami%e%",
+		"russian": "Лучший друг",
 	},
 	"relationship_Lover": {
 		"english": "Lover",
 		"german": "Liebhaber",
 		"french": "Amour%euxEuse%",
+		"russian": "Любовник",
 	},
 	// if Wilhelm loves Tina, %hisHer% will be "her" (Tina) and %2-hisHer% will be "his" (Wilhelm)
 	"relationship_LoveOfTheirLife": {
 		"english": "Love of %2-hisHer% Life",
 		"german": "Liebe %2-seinesIhres% Lebens",
 		"french": "Adore sa vie",
+		"russian": "Любит %hisHer% так же, как свою жизнь",
 	},
 
 
@@ -74,46 +87,55 @@
 		"english": "%firstName% is %firstName2%'s %relativeStatus%",
 		"german": "%firstName% ist %firstName2%'s %relativeStatus%",
 		"french": "%firstName% est %relativeStatus% de %firstName2%",
+		"russian": "%firstName% - это %relativeStatus% %firstName2%",
 	},
 	"Child": {
 		"english": "%sonDaughter%",
 		"german": "%sohnTochter%",
 		"french": "%cap-filsFille%",
+		"russian": "%sonDaughter%",
 	},
 	"Parent": {
 		"english": "%fatherMother%",
 		"german": "%vaterMutter%",
 		"french": "%cap-pereMere%",
+		"russian": "%fatherMother%",
 	},
 	"Sibling": {
 		"english": "%brotherSister%",
 		"german": "%bruderSchwester%",
 		"french": "%cap-frereSoeur%",
+		"russian": "%brotherSister%",
 	},
 	"Grandparent": {
-		"english": "%grandpaGrandma",
+		"english": "%grandpaGrandma%",
 		"german": "%opaOma",
 		"french": "%grandpereGrandmere%",
+		"russian": "%grandpaGrandma%",
 	},
 	"Grandchild": {
 		"english": "%grandsonGranddaughter%",
 		"german": "%enkelEnkelin%",
 		"french": "%petitfilsPetitefille%",
+		"russian": "%grandsonGranddaughter%",
 	},
 	"UncleAunt": {
 		"english": "%uncleAunt%",
 		"german": "%onkelTante%",
 		"french": "%oncleTante%",
+		"russian": "%uncleAunt%",
 	},
 	"NephewNiece": {
 		"english": "%nephewNiece%",
 		"german": "%neffeNichte%",
 		"french": "%neveuNiece%",
+		"russian": "%nephewNiece%",
 	},
 	"Cousin": {
 		"english": "cousin",
 		"german": "%cousinCousine%",
 		"french": "%cousinCousine%",
+		"russian": "%cousinCousine%",
 	},
 
 
@@ -123,40 +145,48 @@
 		"english": "Upset",
 		"german": "Sauer",
 		"french": "En colère",
+		"russian": "Обижен",
 	},
 	"relationshipEffect_Upset_Description": {
 		"english": "%affectedName% is upset with %partnerName%. %cap-heShe% will not talk to %2-himHer% for some time.\n(%seconds% seconds left)",
 		"german": "%affectedName% ist sauer auf %partnerName%. %cap-erSie% wird für eine Weile nicht mit %2-ihmIhr% sprechen.\n(%seconds% Sekunden übrig)",
 		"french": "%affectedName% est en colère contre %partnerName%. %cap-ilElle% ne lui parlera pas pendant un certain temps.\n(%seconds% secondes restantes)",
+		"russian": "%affectedName% обижен%surnameA% на %partnerName%. %cap-heShe% не будет разговаривать с %heShe2% некоторое время.\n(%seconds% секунд осталось)",
 	},
 	"relationshipEffect_Impressed_Title": {
 		"english": "Impressed",
 		"german": "Beeindruckt",
 		"french": "Impressionné%e%",
+		"russian": "Впечатлен",
 	},
 	"relationshipEffect_Impressed_Description": {
 		"english": "%affectedName% is impressed by %partnerName%. Any positive interaction is twice as effective!\n(%seconds% seconds left)",
 		"german": "%affectedName% ist beeindruckt von %partnerName%. Jede positive Interaktion ist doppelt so effektiv!\n(%seconds% Sekunden übrig)",
 		"french": "%affectedName% est impressionné%e% par %partnerName%. Toute interaction positive est deux fois plus efficace !\n(%seconds% secondes restantes)",
+		"russian": "%affectedName% впечатлен %partnerName%. Любое положительное взаимодействие станет в два раза эффективнее!\n(%seconds% секунд осталось)",
 	},
 	"relationshipEffect_NotImpressed_Title": {
 		"english": "Not Impressed",
 		"german": "Nicht beeindruckt",
 		"french": "Pas impressionné%e%",
+		"russian": "Не впечатлен",
 	},
 	"relationshipEffect_NotImpressed_Description": {
 		"english": "%affectedName% is not impressed by %partnerName%. Any negative interaction is twice as detrimental!\n(%seconds% seconds left)",
 		"german": "%affectedName% ist nicht beeindruckt von %partnerName%. Jede negative Interaktion ist doppelt so schlecht!\n(%seconds% Sekunden übrig)",
 		"french": "%affectedName% n'est pas impressionné%e% par %partnerName%. Toute interaction négative est deux fois plus néfaste !\n(%seconds% secondes restantes)",
+		"russian": "%affectedName% не впечатлен %partnerName%. Любое негативное взаимодействие станет в два раза сильнее!\n(%seconds% секунд осталось)",
 	},
 	"relationshipEffect_LowerLevelLocked_Description": {
 		"english": "Lower Level locked for %seconds% seconds.",
 		"german": "Tiefere Stufe %seconds% Sekunden lang gesperrt.",
 		"french": "Niveau inférieur verrouillé pendant %seconds% secondes.",
+		"russian": "Нижний уровень заблокирован на %seconds% секунд.",
 	},
 	"relationshipEffect_HigherLevelLocked_Description": {
 		"english": "Higher Level locked for %seconds% seconds.",
 		"german": "Höhere Stufe %seconds% Sekunden lang gesperrt.",
 		"french": "Niveau supérieur verrouillé pendant %seconds% secondes.",
+		"russian": "Высший уровень заблокирован на %seconds% секунд.",
 	},
 }

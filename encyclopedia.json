@@ -973,6 +973,7 @@ Ad esempio: una persona pessimista potrebbe essere un vero ostacolo per la colon
 	"helpMenuTitle_relationships": {
 		"english": "Relationships",
 		"german": "Beziehungen",
+		"russian": "Отношения",
 	},
 	"helpMenuText_relationships": {
 		"english": "No one wants to feel alone in the world and that is especially true for your villagers. Making friends and maintaining old frienships is not only fun, it's a core part of their wellbeing.
@@ -981,10 +982,13 @@ Once the village has grown a bit, its inhabitants are going to want to make new 
 		"german": "Niemand möchte sich einsam fühlen und das gilt ganz besonders für deine Dorfbewohner. Neue Freunde finden und alte Freundschaften erhalten macht nicht nur Spaß, sondern ist ein  wichtiger Teil des allgemeinen Wohlbefindens.
 
 Sobald das Dorf ein wenig gewachsen ist, werden seine Bewohner Freundschaften schließen wollen. Lasse sie miteinander interagieren, um gegenseitige Verbundenheit zu stärken.",
+	
+		"russian": "Никто не хочет чувствовать себя одиноким в мире, и это особенно верно для ваших жителей. Заводить друзей и поддерживать старые дружеские отношения - это не только весело, это часть их благополучия. Как только деревня подрастет, ее жители захотят завести себе друзей. Позвольте им взаимодействовать друг с другом для создания новых отношений. ",
 	},
 	"helpMenuTitle_relationships_interactions": {
 		"english": "Social Interactions",
 		"german": "Soziale Interaktionen",
+		"russian": "Социальные взаимодействия",
 	},
 	"helpMenuText_relationships_interactions": {
 		"english": "There are a few different ways people can interact:
@@ -1004,10 +1008,21 @@ If you have a lot of people wanting to make new friends, try throwing a party!",
 - Beleidigungen führen immer zu negativen Beziehungen und Entschuldigungen können das nur teilweise wieder gut machen.
 - Jeder mag es über das Essen zu sprechen, aber es wird sie auch sofort hungrig machen.
 - Während Umarmungen nicht direkt eine Beziehung verbessern, gibt es jedem ein gutes Gefühl - aber Umarmungen sind nur für Kumpel und Freunde verfügbar.",
+		"russian": "Есть несколько способов взаимодействия:
+
+- Разговор приводит к хорошим и плохим отношениям.
+- Шутки очень эффективны при построении новых отношений, однако ужасная шутка может задеть собеседника.
+- Если кто-то произвел на кого-то впечатление, то взаимодействие с ним будет в два раза эффективнее.
+- Оскорбления всегда ухудшают отношения. Извинения хоть и улучшают ситуацию, но не так хорошо.
+- Все любят говорить о еде, но это так же делает жителей голодными.
+- Хотя объятия напрямую не улучшают отношения, они заставляют всех чувствовать себя лучше. Объятия доступны только для друзей и приятелей.
+
+If you have a lot of people wanting to make new friends, try throwing a party!",
 	},
 	"helpMenuTitle_relationships_kids": {
 		"english": "Having Kids",
 		"german": "Kinder bekommen",
+		"russian": "Завести детей",
 	},
 	"helpMenuText_relationships_kids": {
 		"english": "Once two adults have reached a great friendship, they can kiss in order to make their relationship a romantic one. Only when they reach the maximum possible romantic relationship level, they will be thinking about having kids.
@@ -1016,5 +1031,8 @@ In order for the village to accomodate new members, the expectations of all inha
 		"german": "Sobald zwei Erwachsene eine großartige Freundschaft erreicht haben, können sie sich küssen um die Beziehung romantisch werden zu lassen. Nur wenn sie das maximal möglichen romantische Beziehungslevel erreicht haben, werden sie über Kinder nachdenken.
 	
 Damit das Dorf neue Mitglieder aufnehmen kann, müssen erst die Erwartungen von allen Bewohnern vollständig erfüllt sein.",
+		"russian": "Как только два взрослых жителя достигнут хороших дружеских отношений, они могут поцеловаться и стать парой. Как только они достигнут максимального уровня романтических отношений, они смогут завести детей.
+
+Для того, чтобы в деревне смогли рассположиться новые жители, необходимо оправдывать ожидания всех жителей.",
 	},
 }

@@ -40,6 +40,7 @@
 		"spanish": "Necesita ser construido en el suelo",
 		"russian": "Это нужно размещать на полу",
 		"polish": "Trzeba zbudować na podłodze",
+		"portuguese": "Precisa ser construído no chão",
 	},
 	"needsToBeBuiltNextToFloor": { // used for wall building
 		"english": "Needs to be built next to floor tile",
@@ -48,6 +49,7 @@
 		"spanish": "Necesita ser construido cerca de una baldosa del suelo",
 		"russian": "Это нужно размещать рядом с полом",
 		"polish": "Trzeba zbudować w pobliżu podłogi",
+		"portuguese": "Precisa ser construído próximo ao piso",
 	},
 	"needsToBeBuiltAboveRoomOrTerrain": { // used for floor building
 		"english": "Needs to be built above room or on solid ground",
@@ -55,6 +57,7 @@
 		"french": "Doit être construit au-dessus d'une pièce ou sur un sol solide",
 		"spanish": "Necesita ser construido sobre una habitación o en suelo sólido",
 		"russian": "Это нужно размещать над комнатой или на земле",
+		"portuguese": "Precisa ser construído acima da sala ou em terreno sólido",
 	},
 	"placeBlocked": {
 		"english": "This Place is blocked by something!",
@@ -144,12 +147,14 @@
 		"german": "%firstName% wird morgen erwachsen werden.",
 		"french": "%firstName% va grandir demain.",
 		"russian": "%firstName% вырастет завтра.",
+		"portuguese": "%firstName% vai crescer amanhã.",
 	},
 	"notificationTitle_isApproachingEndOfLife": {
 		"english": "%firstName% is nearing the end of %hisHer% long life.",
 		"german": "%firstName%'s langes Leben neigt sich dem Ende zu.",
 		"french": "%firstName% arrive à la fin de sa longue vie.",
 		"russian": "%firstName% доживает последние дни своей жизни.",
+		"portuguese": "%firstName% está chegando ao final de %seuSua% vida útil.",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -218,7 +223,6 @@
 	},
 	// TODO-spanish: firstName
 	// TODO-dutch: firstName
-	// TODO-portuguese: firstName
 	// TODO-turkish: firstName
 	// TODO-bulgarian: firstName
 	// TODO-ukrainian: firstName
@@ -231,7 +235,7 @@
 		"dutch":  "Kolonist verloor bewustzijn",
 		"french": "%firstName% a perdu connaissance",
 		"spanish": "Un colono perdió la conciencia",
-		"portuguese": "Colono perdeu a Consciência",
+		"portuguese": "%firstName% perdeu a Consciência",
 		"turkish": "Yerleşimci bilincini kaybetti",
 		"bulgarian": "Колонист изгуби съзнание",
 		"russian": "%firstName потерял сознание",
@@ -255,7 +259,7 @@
 		"dutch":  "Kolonist gestorven",
 		"french": "%firstName% est mort%e%",
 		"spanish": "Un colono murió",
-		"portuguese": "Colono morreu",
+		"portuguese": "%firstName% morreu",
 		"turkish": "Yerleşimci öldü",
 		"bulgarian": "Колонист умря",
 		"russian": "%firstName умер",
@@ -270,6 +274,7 @@
 		"german": "%firstName% an Altersschwäche gestorben",
 		"french": "%firstName% est mort%e% de vieillesse",
 		"russian": "%firstName% умер из-за старости",
+		"portuguese": "%firstName% morreu de velhice",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -768,6 +773,7 @@
 		"french": "Relations diplomatiques améliorées",
 		"spanish": "Relaciones Diplomáticas Mejoradas",
 		"russian": "Дипломатические отношения улучшены",
+		"portuguese": "Relações Diplomáticas Melhoradas",
 	},
 	"treatmentSuccessful": {
 		"english": "Treatment\nSuccessful",
@@ -864,24 +870,28 @@
 		"german": "Beeindruckt",
 		"french": "Impressionné%e%",
 		"russian": "Впечатлен%surnameA%",
+		"portuguese": "Impressionad%oA%",
 	},
 	"notImpressed": {
 		"english": "Not Impressed",
 		"german": "Nicht Beeindruckt",
 		"french": "Pas impressionné%e%",
 		"russian": "Не впечатлен%surnameA%",
+		"portuguese": "Não estou impressionado",
 	},
 	"upsetWithSomeone": {
 		"english": "Upset with %firstName%",
 		"german": "Sauer auf %firstName%",
 		"french": "En colère contre %firstName%",
 		"russian": "Обижен%surnameA% на %firstName%",
+		"portuguese": "Chateado com %firstName%",
 	},
 	"someoneIsUpset": {
 		"english": "%firstName% is upset",
 		"german": "%firstName% ist sauer",
 		"french": "%firstName% est en colère",
 		"russian": "%firstName% обижен%surnameA%",
+		"portuguese": "%firstName% está chateado",
 	},
 
 
@@ -895,6 +905,7 @@
 		"russian": "Мигрант: %text%",
 		"korean": "이주민: %text%",
 		"polish": "Imigrant: %text%",
+		"portuguese": "Migrante: %text%",
 	},
 	"iHaveTrait": {
 		"english": "I have the trait '%trait%'.",

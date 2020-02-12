@@ -8,6 +8,7 @@
 		"russian": "Макс:",
 		"bulgarian": "Макс",
 		"polish": "Maks:",
+		"portuguese": "Máx:",
 	},
 	"research": {
 		"english": "Research",
@@ -247,6 +248,7 @@
 		"russian": "Переключатель этажей",
 		"bulgarian": "Превключване на етажи",
 		"polish": "Przełącz piętro",
+		"portuguese": "Mudar pisos",
 	},
 	"switchFloorsDescription": {
 		"english": "Click here to switch to a different floor.\nDefault hotkeys: R/F",
@@ -256,6 +258,7 @@
 		"russian": "Кликните сюда для смены этажа.\nГорячие клавиши по умолчанию: R/F",
 		"bulgarian": "Щракнете тук, за да превключите на различен етаж.\nЗададени горещи клавиши по подразбиране: R/F",
 		"polish": "Kliknij w górę lub w dół aby przełączyć się między piętrami budynków.",
+		"portuguese": "Clique aqui para mudar para um andar diferente. \nTeclas de atalho padrão: R / F",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
@@ -265,6 +268,7 @@
 		"russian": "Постройка на %floor% этаже обойдется на %percentage%% дороже.",
 		"bulgarian": "Строителството на етаж %floor% струва %percentage%% повече.",
 		"polish": "Budowanie na tej podłodze (%floor%) kosztuje %percentage%% więcej.",
+		"portuguese": "A construção no piso %floor% custa mais %percentage%%.",
 	},
 
 
@@ -445,6 +449,7 @@
 		"french": "%firstName% va grandir dans %days% jours",
 		"spanish": "%firstName% crecerá en %days% días",
 		"russian": "%firstName% вырастет через %days% дней",
+		"portuguese": "%firstName% crescerá em %days% days",
 	},
 	"humanWillGetOldInDays": {
 		"english": "%firstName% will get old in %days% days",
@@ -452,6 +457,7 @@
 		"french": "%firstName% va vieillir dans %days% jours",
 		"spanish": "%firstName% envejecerá en %days% días",
 		"russian": "%firstName% постареет через %days% дней",
+		"portuguese": "%firstName% envelhecerá em %days% days",
 	},
 	"humanWillPassAwayInDays": {
 		"english": "%firstName% will pass away in %days% days",
@@ -459,6 +465,7 @@
 		"french": "%firstName% décédera dans %days% jours",
 		"spanish": "%firstName% fallecerá en %days% días",
 		"russian": "%firstName% умрет через %days% дней",
+		"portuguese": "%firstName% falecerá em %days% days",
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -978,6 +985,7 @@
 		"french": "Enfance",
 		"spanish": "Creciendo",
 		"russian": "Взросление",
+		"portuguese": "Crescendo",
 	},
 	"childhoodExperiences": {
 		"english": "Childhood Experiences",
@@ -985,6 +993,7 @@
 		"french": "Expériences d'enfance",
 		"spanish": "Experiencias Infantiles",
 		"russian": "Детство",
+		"portuguese": "Experiências da Infância",
 	},
 	"childhoodHappinessTooltip_Description": {
 		"english": "Being in a good or bad mood slowly earns positive or negative childhood happiness points.\nDepending on which points are collected, the child will gain positive or negative traits on their birthday.",
@@ -992,6 +1001,7 @@
 		"french": "Être de bonne ou de mauvaise humeur permet de gagner lentement des points positifs ou négatifs de bonheur dans l'enfance. Selon les points collectés, l'enfant gagnera des traits positifs ou négatifs le jour de son anniversaire.",
 		"spanish": "Estar de un buen o mal humor lentamente permite obtener puntos de felicidad infantil positivos o negativos.\nDependiendo de qué puntos se obtienen, el infante obtendrá rasgos positivos o negativos en su cumpleaños.",
 		"russian": "В зависимости от настроения, ребенок медленно зарабатывает либо положительные, либо отрицательные баллы счастья. \nВ зависимости от того, какие баллы будут собраны, ребенок приобитет положительные, либо отрицательные черты характера к дню рождения.",
+		"portuguese": "Estar de bom ou mau humor ganha lentamente pontos positivos ou negativos de felicidade na infância. \nDependendo de quais pontos são coletados, a criança ganha características positivas ou negativas no aniversário.",
 	},
 	"childhoodEducation": {
 		"english": "Education",
@@ -999,6 +1009,7 @@
 		"french": "Éducation",
 		"spanish": "Educación",
 		"russian": "Образование",
+		"portuguese": "Educação",
 	},
 	"childhoodEducationTooltip_Description": {
 		"english": "Every Child can learn life skills at the book shelf. On their birthday, they can use these points to get a great head start in any profession.\nIf the education is stopped before a topic is fully understood and a point is earned, the progress will slowly be forgotten.",
@@ -1006,6 +1017,7 @@
 		"french": "Chaque enfant peut apprendre les fondamentaux de la vie à la bibliothèque. Le jour de leur anniversaire, ils peuvent utiliser ces points pour prendre une bonne longueur d'avance dans n'importe quelle profession. Si l'éducation est interrompue avant qu'un sujet ne soit pleinement compris et qu'un point est gagné, les progrès seront lentement oubliés.",
 		"spanish": "Cada infante puede aprender habilidades para la vida en el estante para libros. En su cumpleaños, pueden usar estos puntos para conseguir un gran inicio en cualquier profesión.\nSi la educación se detiene antes que un tema sea completamente entendido y se obtenga un punto, el progreso será lentamente olvidado.",
 		"russian": "Каждый ребенок может получать жизненные навыки с помощью книжной полки. В свой день рождения он сможет потратить их для получения преимущества в любой профессии. \nЕсли обучение приостановлено до полного понятия темы и получения балла, то прогресс будет постепенно забываться.",
+		"portuguese": "Toda criança pode aprender habilidades para a vida na estante de livros. No aniversário deles, eles podem usar esses pontos para obter uma excelente vantagem em qualquer profissão. \nSe a educação for interrompida antes que um tópico seja totalmente compreendido e um ponto seja conquistado, o progresso será lentamente esquecido.",
 	},
 
 	// Birthday Panel (Child born)
@@ -1015,12 +1027,14 @@
 		"french": "Un enfant est né !",
 		"spanish": "¡Un Infante ha nacido!",
 		"russian": "Родился ребенок!",
+		"portuguese": "Uma criança nasceu!",
 	},
 	"childBornDescription": {
 		"english": "%parent1% and %parent2% have got a %sonDaughter%!\nOverjoyed, they are thinking about a name for the child.\n\nWhat should their %sonDaughter% be called?",
 		"german": "%parent1% und %parent2% haben %einenEine% %sohnTochter%!\nÜberglücklich denken sie über einen Namen für das Kind nach.\n\nWie soll %ihrIhre% %sohnTochter% heißen?",
 		"french": "%parent1% et %parent2% ont eu %unUne% %filsFille% !\nTrès heureux, ils réfléchissent à un nom pour l'enfant.\n\nComment doit-être appelé%e% leur %filsFille% ?",
 		"russian": "%parent1% и %parent2% стали родителями %sonDaughter1%!\nВне себя от радости, они думают над именем.\n\nКакое имя вы дадите %sonDaughter2%?",
+		"portuguese": "%parent1% e %parent2% obtiveram um %sonDaughter%! \nJovem feliz, estão pensando em um nome para o filho. \n\nComo deve ser chamado o %sonDaughter%?",
 	},
 	"welcomeHuman": {
 		"english": "Welcome %firstName%!",
@@ -1028,6 +1042,7 @@
 		"french": "Bienvenue, %firstName% !",
 		"spanish": "¡Bienvenido %firstName%!",
 		"russian": "Приветствую, %firstName%",
+		"portuguese": "Bem-vindo %firstName%!",
 	},
 	"unnamed": { // used before player has assigned a name
 		"english": "Unnamed",
@@ -1035,6 +1050,7 @@
 		"french": "Sans nom",
 		"spanish": "Sin nombre",
 		"russian": "Безимянный",
+		"portuguese": "Sem nome",
 	},
 
 	// Birthday Panel (becoming Adult)
@@ -1044,6 +1060,7 @@
 		"french": "%firstName% a grandi !",
 		"spanish": "¡%firstName% ha crecido!",
 		"russian": "%firstName% подрос!",
+		"portuguese": "%firstName% cresceu!",
 	},
 	"positiveTraits": {
 		"english": "Positive Traits",
@@ -1051,6 +1068,7 @@
 		"french": "Traits positifs",
 		"spanish": "Rasgos Positivos",
 		"russian": "Положительные черты",
+		"portuguese": "Traços positivos",
 	},
 	"lotsPositiveExperiencesGainedTraits": {
 		"english": "%firstName% had a lot of good experiences in %hisHer% childhood and gained the following traits:",
@@ -1058,6 +1076,7 @@
 		"french": "%firstName% a eu beaucoup de bonnes expériences lors de son enfance et a acquis les traits suivants :",
 		"spanish": "%firstName% tuvo un montón de buenas experiencias en su infancia y obtuvo los siguientes rasgos:",
 		"russian": "%firstName% приобрел%surnameA% много положительного опыта в своем детстве, из-за чего получил%surnameA% следующие черты:",
+		"portuguese": "%firstName% tem muitas experiências boas em sua infância %eleEla% ganhou as seguintes características:",
 	},
 	"somePositiveExperiencesGainedTraits": {
 		"english": "%firstName% had some good experiences in %hisHer% childhood and gained the following traits:",
@@ -1065,12 +1084,14 @@
 		"french": "%firstName% a eu de bonnes expériences lors de son enfance et a acquis les traits suivantes :",
 		"spanish": "%firstName% tuvo algunas buenas experiencias en su vida y obtuvo los siguientes rasgos:",
 		"russian": "%firstName% приобрел%surnameA% несколько положительного опыта в своем детстве, из-за чего получил%surnameA% следующие черты:",
+		"portuguese": "%firstName% teve boas experiências na infância de %eleEla% e ganhou as seguintes características:",
 	},
 	"negativeTraits": {
 		"english": "Negative Traits",
 		"german": "Negative Eigenschaften",
 		"french": "Traits négatifs",
 		"russian": "Негативные черты",
+		"portuguese": "Traços negativos",
 	},
 	"lotsNegativeExperiencesGainedTraits": {
 		"english": "%firstName% had a lot of bad experiences in %hisHer% childhood and gained the following traits:",
@@ -1078,6 +1099,7 @@
 		"french": "%firstName% a eu beaucoup de mauvaises expériences lors de son enfance et a acquis les traits suivants :",
 		"spanish": "%firstName% tuvo un montón de malas experiencias en su vida y obtuvo los siguientes rasgos:",
 		"russian": "%firstName% приобрел%surnameA% много негативного опыта в своем детстве, из-за чего получил%surnameA% следующие черты:",
+		"portuguese": "%firstName% teve muitas experiências ruins em %eleEla% infância e ganhou as seguintes características:",
 	},
 	"someNegativeExperiencesGainedTraits": {
 		"english": "%firstName% had some bad experiences in %hisHer% childhood and gained the following traits:",
@@ -1085,6 +1107,7 @@
 		"french": "%firstName% a eu quelques mauvaises expériences lors de son enfance et a acquis les traits suivantes :",
 		"spanish": "%firstName% tuvo algunas malas experiencias en su vida y obtuvo los siguientes rasgos:",
 		"russian": "%firstName% приобрел%surnameA% несколько негативного опыта в своем детстве, из-за чего получил%surnameA% следующие черты:",
+		"portuguese": "%firstName% teve algumas experiências ruins na infância de %eleEla% e ganhou as seguintes características:",
 	},
 	"education": {
 		"english": "Education",
@@ -1092,6 +1115,7 @@
 		"french": "Éducation",
 		"spanish": "Educación",
 		"russian": "Образование",
+		"portuguese": "Educação",
 	},
 	"educationPointsCollected": {
 		"english": "%firstName% has collected %points% Education points that %heShe% can now spend on Profession Levels:",
@@ -1099,6 +1123,7 @@
 		"french": "%firstName% a accumulé %points% points d'éducation qu'%ilElle% peut maintenant dépenser pour ses niveaux de métiers :",
 		"spanish": "%firstName% ha recolectado %points% Puntos de Educación que ahora puede gastar en Niveles de Profesión:",
 		"russian": "%firstName% набрал%surnameA% %points% очков образования, теперь %heShe% может потратить их на уровни профессий:",
+		"portuguese": "%firstName% reuniu %points% pontos de educação que %eleEla% agora podem gastar nos níveis de profissão:",
 	},
 	"pointCost": {
 		"english": "Point Cost",
@@ -1106,6 +1131,7 @@
 		"french": "Coût en points",
 		"spanish": "Coste en Puntos",
 		"russian": "Стоимость пункта",
+		"portuguese": "Custo ponto",
 	},
 	"pointsLeft": {
 		"english": "%points% Points Left",
@@ -1113,6 +1139,7 @@
 		"french": "%points% points restants",
 		"spanish": "%points% Puntos Restantes",
 		"russian": "%points% очков осталось",
+		"portuguese": "%points% Pontos restantes",
 	},
 	"happyBirthday": {
 		"english": "Happy Birthday!",
@@ -1120,6 +1147,7 @@
 		"french": "Joyeux anniversaire !",
 		"spanish": "¡Feliz Cumpleaños!",
 		"russian": "С днем рождения!",
+		"portuguese": "Feliz Aniversário!",
 	},
 
 	// wish panel
@@ -1809,6 +1837,7 @@
 		"french": "Pas d'objets spéciaux en stock.",
 		"spanish": "No hay artículos especiales en almacén.",
 		"russian": "Нет особых предметов в магазине.",
+		"portuguese": "Não há itens especiais na loja.",
 	},
 	"decoration": {
 		"english": "Decoration",
@@ -1935,6 +1964,7 @@
 		"russian": "Лестницы",
 		"bulgarian": "Стълби",
 		"polish": "Schody",
+		"portuguese": "Escadas",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -2897,6 +2927,7 @@
 		"spanish": "Los depósitos no tienen espacio suficiente para %amount% de %resource%.",
 		"russian": "На складе недостаточно места для хранения %amount% %resource%.",
 		"bulgarian": "Запасите нямат достатъчно място за %amount% %resource%.",
+		"portuguese": "Os estoques não têm espaço suficiente para %amount% %resource%.",
 	},
 
 

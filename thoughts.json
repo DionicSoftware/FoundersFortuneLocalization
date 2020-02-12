@@ -296,7 +296,6 @@
 		"german": "Kolonist zu früh gestorben",
 		//TODO-spanish
 		//TODO-turkish
-		//TODO-portuguese
 		//TODO-dutch
 		//TODO-ukrainian
 		//TODO-korean
@@ -305,7 +304,7 @@
 		"spanish": "Un colono ha muerto",
 		"french": "Un colon est mort trop tôt",
 		"turkish": "Yerleşimci öldü",
-		"portuguese": "Colono morreu",
+		"portuguese": "Colonista morreu cedo demais",
 		"dutch": "Kolonist Overleden",
 		"russian": "Колонист умер слишком рано",
 		"ukrainian":"Колоніст Помер",
@@ -334,9 +333,11 @@
 		"french": "Un colon est mort de vieillesse",
 		"spanish": "Un colono ha muerto de vejez",
 		"russian": "Колонист умер из-за старости",
+		"portuguese": "Colonista morreu de velhice",
 	},
 	"thoughtDesc_ColonistDiedOfOldAge": {
 		"russian": "Колонист прожил уже довольно много времени. Но все мы рано или поздно умираем...",
+		"portuguese": "O colono vive há bastante tempo. Mas todos nós morremos mais cedo ou mais tarde ...",
 	},
 	"thoughtTitle_FightWon": {
 		"english": "Won a Fight",
@@ -1767,6 +1768,7 @@
 		"french": "Fatigué d'étudier",
 		"spanish": "Cansado de estudiar",
 		"russian": "Устал учиться",
+		"portuguese": "Cansado de estudar",
 	},
 	"thoughtDesc_TiredOfStudying": {
 		"english": "Nooo. I don't want to study anymooore! Why do I have to learn this? I'm never gonna need to know this for sure.",
@@ -1774,6 +1776,7 @@
 		"french": "Nooon ! Je ne veux plus étudier ! Pourquoi apprendre ça ? Je n'en aurai jamais besoin.",
 		"spanish": "Nooo ¡Ya no quiero estudiar más! ¿Por qué tengo que aprender esto? De seguro nunca voy a necesitar saber esto.",
 		"russian": "Нееет. Я не хочу больше учиться! Почему я должен это учить? Я не уверен, что мне это вообще когда-либо пригодиться!",
+		"portuguese": "Nããão. Eu não quero mais estudar! Por que eu tenho que aprender isso? Eu nunca vou precisar saber disso com certeza.",
 	},
 	"thoughtTitle_BadJoke": {
 		"english": "Had to witness terrible joke",
@@ -1781,6 +1784,7 @@
 		"french": "A dû assister à une terrible blague",
 		"spanish": "Tuvo que escuchar una broma terrible",
 		"russian": "Подслушал ужастную шутку",
+		"portuguese": "Tive que testemunhar piada terrível",
 	},
 	"thoughtDesc_BadJoke": {
 		"english": "Oh my god, did you hear %firstName%'s joke? It was so cheesy that my life is worse for hearing it.",
@@ -1788,6 +1792,7 @@
 		"french": "Oh mon Dieu, vous avez entendu la blague de %firstName% ? C'était tellement ringard que ma vie a empiré quand je l'ai entendue.",
 		"spanish": "Oh Dios mío, ¿escuchaste la broma de %firstName%? Fue tan desagradable que mi vida caba de empeorar solo por oírla.",
 		"russian": "Боже мой, вы вообще слышали шутку %firstName%? Она настолько ужастна, что аж до муражек!",
+		"portuguese": "Oh meu Deus, você ouviu a piada de %firstName%? Era tão brega que minha vida é pior por ouvi-la.",
 	},
 	"thoughtTitle_PutSomeoneElseDown": {
 		"english": "Put someone else down",
@@ -1795,6 +1800,7 @@
 		"french": "A frappé quelqu'un",
 		"spanish": "Menospreció a alguien",
 		"russian": "Насмехается над кем-то",
+		"portuguese": "Coloque alguém para baixo",
 	},
 	"thoughtDesc_PutSomeoneElseDown": {
 		"english": "Say what you want, but I think %firstName% deserved the rant. Voicing my honest opinions makes me feel good about myself.",
@@ -1802,6 +1808,7 @@
 		"french": "Dites ce que vous voulez, mais je pense que %firstName% méritait cela. En exprimant mon opinion honnêtement, je me sens mieux dans ma peau.",
 		"spanish": "Di lo que quieras, pero creo que %firstName% se merecía esa diatriba. Expresar mis opiniones honestas me hace sentir bien.",
 		"russian": "Говорите что хотите, но я считаю, что %firstName% заслужил этих слов. Это мое личное мнение, мне стало в разы лучше после того, как я высказал это вслух!",
+		"portuguese": "Diga o que quiser, mas acho que% firstName% mereceu o discurso retórico. Expressar minhas opiniões honestas me faz sentir bem comigo mesmo.",
 	},
 	"thoughtTitle_ReceivedInsult": {
 		"english": "Received Insult",
@@ -1809,6 +1816,7 @@
 		"french": "Insulte reçue",
 		"spanish": "Recibió un insulto",
 		"russian": "Оскорблен",
+		"portuguese": "Insulto recebido",
 	},
 	"thoughtDesc_ReceivedInsult": {
 		"english": "%firstName% just gravely insulted me. That was uncalled for!",
@@ -1816,6 +1824,7 @@
 		"french": "%firstName% vient de m'insulter violemment. C'était déplacé !",
 		"spanish": "%firstName% me insultó gravemente ¡Eso estuvo fuera de lugar!",
 		"russian": "%firstName% очень серьезно оскорбил меня. Это было неуместно!",
+		"portuguese": "%firstName% apenas me insultou gravemente. Isso foi desnecessário!",
 	},
 	"thoughtTitle_Parenthood": {
 		"english": "Parenthood",
@@ -1823,6 +1832,7 @@
 		"french": "Paternité",
 		"spanish": "Paternidad",
 		"russian": "%Parenthood%",
+		"portuguese": "Paternidade",
 	},
 	"thoughtDesc_Parenthood": {
 		"english": "Children can be exhausting, but they also give me strength.",
@@ -1830,6 +1840,7 @@
 		"french": "Les enfants peuvent être épuisants, mais ils me donnent aussi de la force.",
 		"spanish": "Los niños pueden ser agotadores, pero también me fortalecen.",
 		"russian": "Хоть дети и иногда утомительны, но они дают мне силы жить дальше.",
+		"portuguese": "As crianças podem ser cansativas, mas também me dão força.",
 	},
 	"thoughtTitle_FeelingDeadInside": {
 		"english": "Feeling Dead Inside",
@@ -1837,6 +1848,7 @@
 		"french": "Se sent mort à l'intérieur",
 		"spanish": "Muerto por dentro",
 		"russian": "Ощущает себя мертвым внутри",
+		"portuguese": "Sentindo-se morto por dentro",
 	},
 	"thoughtDesc_FeelingDeadInside": {
 		"english": "That Elixir has rejuvenated my body, but it clouds my mind. I feel older than ever.",
@@ -1844,6 +1856,7 @@
 		"french": "Cet élixir a rajeuni mon corps, mais il obscurcit mon esprit. Je me sens plus vieux que jamais.",
 		"spanish": "Ese Elixir ha rejuvenecido mi cuerpo, pero nubló mi mente. Me siento más viejo que nunca.",
 		"russian": "Хоть этот эликсир и омолодил мое тело, но он так же и омрачил мой разум. Я чувствую себя очень старым.",
+		"portuguese": "Esse Elixir rejuvenesceu meu corpo, mas obscureceu minha mente. Eu me sinto mais velho do que nunca.",
 	},
 
 

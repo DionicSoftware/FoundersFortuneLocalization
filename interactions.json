@@ -475,6 +475,7 @@
 		"german": "Lerne Grundlagen",
 		"french": "Apprendre les fondamentaux",
 		"russian": "Обучиться жизненным навыкам",
+		"portuguese": "Aprenda habilidades para a vida",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -1526,6 +1527,7 @@
 		"german": "%name% umarmen",
 		"french": "Enlacer %name%",
 		"russian": "Обнять %name%",
+		"portuguese": "Abraço %name%",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1560,42 +1562,49 @@
 		"german": "Beleidigen",
 		"french": "Insulter",
 		"russian": "Обидеть",
+		"portuguese": "Insulto",
 	},
 	"InsultPerson": {
 		"english": "Insult %name%",
 		"german": "%name% beleidigen",
 		"french": "Insulter %name%",
 		"russian": "Обидеть %name%",
+		"portuguese": "Insulto %name%",
 	},
 	"Apologize": {
 		"english": "Apologize",
 		"german": "Entschuldigen",
 		"french": "S'excuser",
 		"russian": "Извиниться",
+		"portuguese": "Peça desculpas",
 	},
 	"MagicSmile": { // only used for debugging
 		"english": "Magic Smile",
 		"german": "Magisches Lächeln",
 		"french": "Sourire magique",
 		"russian": "Магически улыбнуться",
+		"portuguese": "Sorriso Mágico",
 	},
 	"Kiss": {
 		"english": "Kiss",
 		"german": "Küssen",
 		"french": "Enbrasser",
 		"russian": "Поцеловать",
+		"portuguese": "Beijo",
 	},
 	"KissPerson": {
 		"english": "Kiss %name%",
 		"german": "%name% küssen",
 		"french": "Embrasser %name%",
 		"russian": "Поцеловать %name%",
+		"portuguese": "Beijar %name%",
 	},
 	"BreakUp": {
 		"english": "Break up",
 		"german": "Schlussmachen",
 		"french": "Se séparer",
 		"russian": "Расстаться",
+		"portuguese": "Romper",
 	},
 	// used when someone wants to interact with this colonist
 	// and the colonist is waiting for the action to be performed
@@ -1605,36 +1614,42 @@
 		"german": "Warte auf jemanden",
 		"french": "Attend quelqu'un",
 		"russian": "Ожидает кое-кого",
+		"portuguese": "Aguarde alguém",
 	},
 	"RiskyJoke": {
 		"english": "Risky Joke",
 		"german": "Riskanter Witz",
 		"french": "Blague risquée",
 		"russian": "Острая шутка",
+		"portuguese": "Piada arriscada",
 	},
 	"TellRiskyJokeTo": {
 		"english": "Tell Risky Joke to %name%",
 		"german": "%name% riskanten Witz erzählen",
 		"french": "Dire une blague risquée à %name%",
 		"russian": "Рассказать острую шутку %name%",
+		"portuguese": "Conte piada arriscada para %name%",
 	},
 	"Impress": {
 		"english": "Impress",
 		"german": "Beeindrucken",
 		"french": "Impressionner",
 		"russian": "Впечатлить",
+		"portuguese": "Impressionar",
 	},
 	"ImpressPerson": {
 		"english": "Impress %name%",
 		"german": "%name% Beeindrucken",
 		"french": "Impressionner %name%",
 		"russian": "Впечатлить %name%",
+		"portuguese": "Impressionar %name%",
 	},
 	"BuildSnowman": {
 		"english": "Build Snowman",
 		"german": "Schneemann bauen",
 		"french": "Construire un bonhomme de neige",
 		"russian": "Построить снеговика",
+		"portuguese": "Construir boneco de neve",
 	},
 
 
@@ -1801,6 +1816,7 @@
 		"russian": "Хранилище %resource% заполнено",
 		"turkish": "%resource% stoğu dolu",
 		"polish": "Nie ma gdzie składować: %resource%",
+		"portuguese": "%resource% estoque está cheio",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",

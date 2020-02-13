@@ -149,6 +149,7 @@
 		"english": "%firstName% will grow up tomorrow.",
 		"german": "%firstName% wird morgen erwachsen werden.",
 		"french": "%firstName% va grandir demain.",
+		"spanish": "%firstName% crecerá mañana.",
 		"russian": "%firstName% вырастет завтра.",
 		"portuguese": "%firstName% vai crescer amanhã.",
 		"chinese": "%firstName% 明天将会长大。",
@@ -157,6 +158,7 @@
 		"english": "%firstName% is nearing the end of %hisHer% long life.",
 		"german": "%firstName%'s langes Leben neigt sich dem Ende zu.",
 		"french": "%firstName% arrive à la fin de sa longue vie.",
+		"spanish": "%firstName% está cerca del final de su larga vida.",
 		"russian": "%firstName% доживает последние дни своей жизни.",
 		"portuguese": "%firstName% está chegando ao final de %seuSua% vida útil.",
 		"chinese": "%firstName%即将结束%hisHer%的一生。",
@@ -226,7 +228,6 @@
 		"italian": "Combattimento",
 		"polish": "Jesteś atakowany!",
 	},
-	// TODO-spanish: firstName
 	// TODO-dutch: firstName
 	// TODO-turkish: firstName
 	// TODO-bulgarian: firstName
@@ -238,7 +239,7 @@
 		"german": "%firstName% ist in Ohnmacht gefallen",
 		"dutch":  "Kolonist verloor bewustzijn",
 		"french": "%firstName% a perdu connaissance",
-		"spanish": "Un colono perdió la conciencia",
+		"spanish": "%firstName% perdió la conciencia",
 		"portuguese": "%firstName% perdeu a Consciência",
 		"turkish": "Yerleşimci bilincini kaybetti",
 		"bulgarian": "Колонист изгуби съзнание",
@@ -248,7 +249,6 @@
 		"chinese": "%firstName% 失去意识",
 		"italian": "Un colono ha perso conoscenza",
 	},
-	// TODO-spanish: firstName
 	// TODO-dutch: firstName
 	// TODO-portuguese: firstName
 	// TODO-turkish: firstName
@@ -261,7 +261,7 @@
 		"german": "%firstName% gestorben",
 		"dutch":  "Kolonist gestorven",
 		"french": "%firstName% est mort%e%",
-		"spanish": "Un colono murió",
+		"spanish": "%firstName% murió",
 		"portuguese": "%firstName% morreu",
 		"turkish": "Yerleşimci öldü",
 		"bulgarian": "Колонист умря",
@@ -276,6 +276,7 @@
 		"english": "%firstName% died of old age",
 		"german": "%firstName% an Altersschwäche gestorben",
 		"french": "%firstName% est mort%e% de vieillesse",
+		"spanish": "%firstName% murió de vejez",
 		"russian": "%firstName% умер из-за старости",
 		"portuguese": "%firstName% morreu de velhice",
 		"chinese": "%firstName% 衰老而死",

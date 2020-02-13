@@ -54,7 +54,6 @@
 		"italian": "%firstName% non ha alcun interesse per la sua casa al momento.",
 		// TODO-bulgarian
 		// TODO-ukrainian
-		// TODO-chinese
 		// TODO-polish
 		// TODO-korean
 		// TODO-dutch
@@ -428,6 +427,7 @@
 		"french": "Beaucoup d'amis",
 		"russian": "Много друзей",
 		"portuguese": "Muitos amigos",
+		"chinese": "很多朋友",
 	},
 	"communitySatisfactionAwesome_Desc": {
 		"english": "%firstName% has more than enough friends! %cap-heShe% feels welcome and appreciated all around.",
@@ -435,6 +435,7 @@
 		"french": "%firstName% a plus qu'assez d'amis ! %cap-ilElle% se sent %leLa% bienvenu%e% et apprécié%e% partout.",
 		"russian": "Вокруг %firstName% всегда есть друзья! %cap-heShe% ощущает, что все ценят дружбу с %heShe2%.",
 		"portuguese": "%firstName% tem amigos mais que suficientes! % cap-eleEla% se sente bem-vinda e apreciada por todos os lados.",
+		"chinese": "%firstName%有足够多的朋友！%heShe%受到了大家的欢迎和赞赏。",
 	},
 	"communitySatisfactionGood": {
 		"english": "Enough friends",
@@ -442,6 +443,7 @@
 		"french": "Assez d'amis",
 		"russian": "Достаточно друзей",
 		"portuguese": "Chega de amigos",
+		"chinese": "一些朋友",
 	},
 	"communitySatisfactionGood_Desc": {
 		"english": "%firstName% is happy for the good friends %heShe% has. Life would be a lot harder without them.",
@@ -449,6 +451,7 @@
 		"french": "%firstName% est heur%euxEuse% pour les bons amis qu'%ilElle% a. La vie serait beaucoup plus difficile sans eux.",
 		"russian": "%firstName% рад%surnameA%, что вокруг %himHer% есть хорошие друзья. Жизнь была бы намного хуже без них.",
 		"portuguese": "%firstName% está feliz pelos bons amigos que %eleEla% tem. A vida seria muito mais difícil sem eles.",
+		"chinese": "%firstName% 为%heShe%拥有的好朋友感到高兴。没有他们，生活会更加艰难。",
 	},
 	"communitySatisfactionInsufficient": {
 		"english": "A little lonely",
@@ -456,6 +459,7 @@
 		"french": "Un peu seul%e%",
 		"russian": "Немного одиноко",
 		"portuguese": "Um pouco solitário",
+		"chinese": "有点寂寞",
 	},
 	"communitySatisfactionInsufficient_Desc": {
 		"english": "%firstName% sometimes feels a little lonely. %cap-heShe% wishes, %heShe% had at least %friends% friends and %buddies% buddies.",
@@ -463,6 +467,7 @@
 		"french": "%firstName% se sent parfois un peu seul%e%. %cap-ilElle% souhaite avoir au moins %friends% amis et %buddies% camarades.",
 		"russian": "%firstName% ощущает себя одинок%hesheEnd4%. %cap-heShe% хочет иметь хотя бы %friends% друзей и %buddies% приятелей.",
 		"portuguese": "%firstName% às vezes se sente um pouco solitário. %cap-eleEla% deseja, %eleEla% tinha pelo menos amigos %friends% e amigos %buddies%.",
+		"chinese": "%firstName% 有时感到有点寂寞。 %heShe% 希望%heShe% 有 %friends%个朋友 和 %buddies%个好友。",
 	},
 	"communitySatisfactionBad": {
 		"english": "Very Lonely",
@@ -470,6 +475,7 @@
 		"french": "Très seul%e%",
 		"russian": "Очень одиноко",
 		"portuguese": "Muito solitário",
+		"chinese": "非常寂寞",
 	},
 	"communitySatisfactionBad_Desc": {
 		"english": "Sometimes %firstName% feels like the loneliness is unbearable.%cap-heShe% wishes, %heShe% had at least %friends% friends and %buddies% buddies.",
@@ -477,6 +483,7 @@
 		"french": "Parfois, %firstName% a l'impression que la solitude est insupportable. %cap-ilElle% souhaite avoir au moins %friends% amis et %buddies% camarades.",
 		"russian": "%firstName% ощущает себя очень одинок%hesheEnd4%. %cap-heShe% хочет иметь хотя бы %friends% друзей и %buddies% приятелей.",
 		"portuguese": "Às vezes %firstName% sente que a solidão é insuportável. %cap-eleEla% deseja, %eleEla% tinha pelo menos amigos de %friends% e companheiros de %buddies%.",
+		"chinese": "%firstName% 有时感到非常寂寞。 %heShe% 希望%heShe% 有 %friends%个朋友 和 %buddies%个好友。",
 	},
 	"colonistIsALevelXProfessionGuy": {
 		"english": "%firstName% is a level %professionLevel% %professionName%",
@@ -733,7 +740,6 @@
 		// TODO notice: it should be AND not OR here
 		//TODO-bulgarian
 		//TODO-ukrainian
-		//TODO-chinese
 		//TODO-polish
 		//TODO-korean
 		//TODO-dutch
@@ -745,7 +751,7 @@
 		"portuguese": "Variedade de alimentos de cozinha e produtos de panificação",
 		"russian": "Множество приготовленной еды или выпечки",
 		"ukrainian": "Безліч приготоваї їжі або випічки",
-		"chinese": "多种厨房食品或烘焙食品",
+		"chinese": "多种厨房食品和烘焙食品",
 		"polish": "Różnorodność kuchennego jedzenia lub wypieków",
 		"korean": "다양한 요리된 음식 또는 오븐에 구운 음식",
 		"dutch":  "Verscheidenheid van keuken voedsel of gebakken goederen",

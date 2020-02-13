@@ -5,6 +5,7 @@
 		"french": "Relations",
 		"russian": "Отношения",
 		"portuguese": "Relacionamentos",
+		"chinese": "人际关系",
 	},
 	"relationshipStatus": {
 		"english": "Relationship: %status%",
@@ -12,6 +13,7 @@
 		"french": "Relations : %status%",
 		"russian": "Отношения: %status%",
 		"portuguese": "Relação: %status%",
+		"chinese": "关系：%status%",
 	},
 
 	"nextLowerLevel": {
@@ -20,6 +22,7 @@
 		"french": "Niveau inférieur suivant : %level%",
 		"russian": "Следующий нижний уровень: %level%",
 		"portuguese": "Próximo nível inferior: %level%",
+		"chinese": "低一级：%level%",
 	},
 	"nextHigherLevel": {
 		"english": "Next Higher Level: %level%",
@@ -27,6 +30,7 @@
 		"french": "Niveau supérieur suivant : %level%",
 		"russian": "Следующий высший уровень: %level%",
 		"portuguese": "Próximo nível superior: %level%",
+		"chinese": "高一级：%level%",
 	},
 
 	"relationship_Nemesis": {
@@ -35,6 +39,7 @@
 		"french": "Ennemi%e% juré%e%",
 		"russian": "Немезида",
 		"portuguese": "Nêmesis",
+		"chinese": "仇视",
 	},
 	"relationship_Enemy": {
 		"english": "Enemy",
@@ -42,6 +47,7 @@
 		"french": "Ennemi%e%",
 		"russian": "Враг",
 		"portuguese": "Inimig%oA%",
+		"chinese": "敌对",
 	},
 	// I had to use an adjective here. If you can find a fitting noun for your language, like the other titles, use that!
 	"relationship_Disliked": {
@@ -50,6 +56,8 @@
 		"french": "Destesté%e%",
 		"russian": "Неприятель",
 		"portuguese": "Não gostei",
+		"chinese": "厌恶",
+
 	},
 	"relationship_Acquaintance": {
 		"english": "Acquaintance",
@@ -57,6 +65,7 @@
 		"french": "Connaissance",
 		"russian": "Знакомый",
 		"portuguese": "Conhecid%oA%",
+		"chinese": "相识",
 	},
 	"relationship_Buddy": {
 		"english": "Buddy",
@@ -64,6 +73,7 @@
 		"french": "Camarade",
 		"russian": "Приятель",
 		"portuguese": "camarada",
+		"chinese": "伙伴",
 	},
 	"relationship_Friend": {
 		"english": "Friend",
@@ -71,6 +81,7 @@
 		"french": "Ami%e%",
 		"russian": "Друг",
 		"portuguese": "Amig%oA%",
+		"chinese": "朋友",
 	},
 	"relationship_GreatFriend": {
 		"english": "Great Friend",
@@ -78,6 +89,7 @@
 		"french": "Meilleur ami%e%",
 		"russian": "Лучший друг",
 		"portuguese": "Grande amig%oA%",
+		"chinese": "好友",
 	},
 	"relationship_Lover": {
 		"english": "Lover",
@@ -85,6 +97,7 @@
 		"french": "Amour%euxEuse%",
 		"russian": "Любовник",
 		"portuguese": "Amante",
+		"chinese": "情人",
 	},
 	// if Wilhelm loves Tina, %hisHer% will be "her" (Tina) and %2-hisHer% will be "his" (Wilhelm)
 	"relationship_LoveOfTheirLife": {
@@ -93,6 +106,7 @@
 		"french": "Adore sa vie",
 		"russian": "Любит %hisHer% так же, как свою жизнь",
 		"portuguese": "Amor de %2-seuSua% vida",
+		"chinese": "爱 %2-hisHer% 一生",
 	},
 
 
@@ -102,6 +116,7 @@
 		"french": "%firstName% est %relativeStatus% de %firstName2%",
 		"russian": "%firstName% - это %relativeStatus% %firstName2%",
 		"portuguese": "%firstName% é o %relativeStatus% de %firstName2%",
+		"chinese": "%firstName% 是 %firstName2% 的 %relativeStatus%",
 	},
 	"Child": {
 		"english": "%sonDaughter%",
@@ -109,6 +124,7 @@
 		"french": "%cap-filsFille%",
 		"russian": "%sonDaughter%",
 		"portuguese": "%filhoFilha%",
+		"chinese": "%sonDaughter%",
 	},
 	"Parent": {
 		"english": "%fatherMother%",
@@ -116,6 +132,7 @@
 		"french": "%cap-pereMere%",
 		"russian": "%fatherMother%",
 		"portuguese": "%paiMae%",
+		"chinese": "%fatherMother%",
 	},
 	"Sibling": {
 		"english": "%brotherSister%",
@@ -123,6 +140,7 @@
 		"french": "%cap-frereSoeur%",
 		"russian": "%brotherSister%",
 		"portuguese": "%irmaoIrma%",
+		"chinese": "%brotherSister%",
 	},
 	"Grandparent": {
 		"english": "%grandpaGrandma%",
@@ -130,6 +148,7 @@
 		"french": "%grandpereGrandmere%",
 		"russian": "%grandpaGrandma%",
 		"portuguese": "%avôAvó%",
+		"chinese": "%grandpaGrandma%"
 	},
 	"Grandchild": {
 		"english": "%grandsonGranddaughter%",
@@ -137,6 +156,7 @@
 		"french": "%petitfilsPetitefille%",
 		"russian": "%grandsonGranddaughter%",
 		"portuguese": "%netoNeta%",
+		"chinese": "%grandsonGranddaughter%",
 	},
 	"UncleAunt": {
 		"english": "%uncleAunt%",
@@ -144,6 +164,7 @@
 		"french": "%oncleTante%",
 		"russian": "%uncleAunt%",
 		"portuguese": "%tioTia%",
+		"chinese": "%uncleAunt%",
 	},
 	"NephewNiece": {
 		"english": "%nephewNiece%",
@@ -151,6 +172,7 @@
 		"french": "%neveuNiece%",
 		"russian": "%nephewNiece%",
 		"portuguese": "%sobrinhoSobrinha%",
+		"chinese": "%nephewNiece%",
 	},
 	"Cousin": {
 		"english": "cousin",
@@ -158,6 +180,7 @@
 		"french": "%cousinCousine%",
 		"russian": "%cousinCousine%",
 		"portuguese": "%primoPrima%",
+		"chinese": "cousin",
 	},
 
 
@@ -169,6 +192,7 @@
 		"french": "En colère",
 		"russian": "Обижен",
 		"portuguese": "Chatead%oA%",
+		"chinese": "烦恼",
 	},
 	"relationshipEffect_Upset_Description": {
 		"english": "%affectedName% is upset with %partnerName%. %cap-heShe% will not talk to %2-himHer% for some time.\n(%seconds% seconds left)",
@@ -176,6 +200,7 @@
 		"french": "%affectedName% est en colère contre %partnerName%. %cap-ilElle% ne lui parlera pas pendant un certain temps.\n(%seconds% secondes restantes)",
 		"russian": "%affectedName% обижен%surnameA% на %partnerName%. %cap-heShe% не будет разговаривать с %heShe2% некоторое время.\n(%seconds% секунд осталось)",
 		"portuguese": "%affectedName% está chateado com %partnerName%. %cap-eleEla% não conversará com %2-eleEla% por algum tempo. \n(restam %seconds% segundos)",
+		"chinese": "%affectedName% 因 %partnerName%而感到不安。%heShe% 在一段时间内都不与 %2-himHer% 谈话。\n(还剩%seconds%秒)",
 	},
 	"relationshipEffect_Impressed_Title": {
 		"english": "Impressed",
@@ -183,6 +208,7 @@
 		"french": "Impressionné%e%",
 		"russian": "Впечатлен%surnameA%",
 		"portuguese": "Impressionad%oA%",
+		"chinese": "印象深刻",
 	},
 	"relationshipEffect_Impressed_Description": {
 		"english": "%affectedName% is impressed by %partnerName%. Any positive interaction is twice as effective!\n(%seconds% seconds left)",
@@ -190,6 +216,7 @@
 		"french": "%affectedName% est impressionné%e% par %partnerName%. Toute interaction positive est deux fois plus efficace !\n(%seconds% secondes restantes)",
 		"russian": "%affectedName% впечатлен%surnameA% %partnerName%. Любое положительное взаимодействие станет в два раза эффективнее!\n(%seconds% секунд осталось)",
 		"portuguese": "%affectedName% está impressionado com %partnerName%. Qualquer interação positiva é duas vezes mais eficaz! \n(%seconds% segundos restantes)",
+		"chinese": "%affectedName% 对 %partnerName%印象深刻。任何好的互动都是两倍的效果。\n(还剩%seconds%秒)",
 	},
 	"relationshipEffect_NotImpressed_Title": {
 		"english": "Not Impressed",
@@ -197,6 +224,7 @@
 		"french": "Pas impressionné%e%",
 		"russian": "Не впечатлен%surnameA%",
 		"portuguese": "Não estou impressionado",
+		"chinese": "印象淡薄",
 	},
 	"relationshipEffect_NotImpressed_Description": {
 		"english": "%affectedName% is not impressed by %partnerName%. Any negative interaction is twice as detrimental!\n(%seconds% seconds left)",
@@ -204,6 +232,7 @@
 		"french": "%affectedName% n'est pas impressionné%e% par %partnerName%. Toute interaction négative est deux fois plus néfaste !\n(%seconds% secondes restantes)",
 		"russian": "%affectedName% не впечатлен%surnameA% %partnerName%. Любое негативное взаимодействие станет в два раза сильнее!\n(%seconds% секунд осталось)",
 		"portuguese": "%affectedName% não está impressionado com %partnerName%. Qualquer interação negativa é duas vezes mais prejudicial! \n(%seconds% segundos restantes)",
+		"chinese": "%affectedName% 没有对 %partnerName%有深刻的印象。任何坏的影响都是两倍效果。\n(还剩%seconds%秒)",
 	},
 	"relationshipEffect_LowerLevelLocked_Description": {
 		"english": "Lower Level locked for %seconds% seconds.",
@@ -211,6 +240,7 @@
 		"french": "Niveau inférieur verrouillé pendant %seconds% secondes.",
 		"russian": "Нижний уровень заблокирован на %seconds% секунд.",
 		"portuguese": "Nível inferior bloqueado por %segundos% segundos.",
+		"chinese": "较低的级别锁定 %seconds%秒。",
 	},
 	"relationshipEffect_HigherLevelLocked_Description": {
 		"english": "Higher Level locked for %seconds% seconds.",
@@ -218,5 +248,6 @@
 		"french": "Niveau supérieur verrouillé pendant %seconds% secondes.",
 		"russian": "Высший уровень заблокирован на %seconds% секунд.",
 		"portuguese": "Nível superior bloqueado por %segundos% segundos.",
+		"chinese": "较高的级别锁定 %seconds%秒。",
 	},
 }

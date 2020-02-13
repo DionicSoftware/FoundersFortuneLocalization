@@ -358,6 +358,7 @@
 		"french": "Boire un élixir de jeunesse",
 		"russian": "Выпил эликсир молодости",
 		"portuguese": "Beber Elixir da Juventude",
+		"chinese": "青年饮品",
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
@@ -477,6 +478,7 @@
 		"french": "Apprendre les fondamentaux",
 		"russian": "Обучиться жизненным навыкам",
 		"portuguese": "Aprenda habilidades para a vida",
+		"chinese": "学习生活技能",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -1251,6 +1253,7 @@
 		"french": "Parler de nourriture",
 		"russian": "Разговаривать о еде",
 		"portuguese": "Fale sobre comida",
+		"chinese": "讨论食物",
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
@@ -1530,6 +1533,7 @@
 		"french": "Enlacer %name%",
 		"russian": "Обнять %name%",
 		"portuguese": "Abraço %name%",
+		"chinese": "拥抱 %name%",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1558,6 +1562,7 @@
 		"korean": "성향에 대해 물어보기",
 		"turkish": "Özelliklerini sor",
 		"polish": "Zapytaj o cechy",
+		"chinese": "询问特性",
 	},
 	"Insult": {
 		"english": "Insult",
@@ -1565,6 +1570,7 @@
 		"french": "Insulter",
 		"russian": "Обидеть",
 		"portuguese": "Insulto",
+		"chinese": "侮辱",
 	},
 	"InsultPerson": {
 		"english": "Insult %name%",
@@ -1572,6 +1578,7 @@
 		"french": "Insulter %name%",
 		"russian": "Обидеть %name%",
 		"portuguese": "Insulto %name%",
+		"chinese": "侮辱 %name%",
 	},
 	"Apologize": {
 		"english": "Apologize",
@@ -1579,6 +1586,7 @@
 		"french": "S'excuser",
 		"russian": "Извиниться",
 		"portuguese": "Peça desculpas",
+		"chinese": "道歉",
 	},
 	"MagicSmile": { // only used for debugging
 		"english": "Magic Smile",
@@ -1586,6 +1594,7 @@
 		"french": "Sourire magique",
 		"russian": "Магически улыбнуться",
 		"portuguese": "Sorriso Mágico",
+		"chinese": "魔术微笑",
 	},
 	"Kiss": {
 		"english": "Kiss",
@@ -1593,6 +1602,7 @@
 		"french": "Enbrasser",
 		"russian": "Поцеловать",
 		"portuguese": "Beijo",
+		"chinese": "亲吻",
 	},
 	"KissPerson": {
 		"english": "Kiss %name%",
@@ -1600,6 +1610,7 @@
 		"french": "Embrasser %name%",
 		"russian": "Поцеловать %name%",
 		"portuguese": "Beijar %name%",
+		"chinese": "亲吻 %name%",
 	},
 	"BreakUp": {
 		"english": "Break up",
@@ -1607,6 +1618,7 @@
 		"french": "Se séparer",
 		"russian": "Расстаться",
 		"portuguese": "Romper",
+		"chinese": "分手",
 	},
 	// used when someone wants to interact with this colonist
 	// and the colonist is waiting for the action to be performed
@@ -1617,6 +1629,7 @@
 		"french": "Attend quelqu'un",
 		"russian": "Ожидает кое-кого",
 		"portuguese": "Aguarde alguém",
+		"chinese": "等待某人",
 	},
 	"RiskyJoke": {
 		"english": "Risky Joke",
@@ -1624,6 +1637,7 @@
 		"french": "Blague risquée",
 		"russian": "Острая шутка",
 		"portuguese": "Piada arriscada",
+		"chinese": "冒险笑话",
 	},
 	"TellRiskyJokeTo": {
 		"english": "Tell Risky Joke to %name%",
@@ -1631,6 +1645,7 @@
 		"french": "Dire une blague risquée à %name%",
 		"russian": "Рассказать острую шутку %name%",
 		"portuguese": "Conte piada arriscada para %name%",
+		"chinese": "讲冒险笑话给 %name%听",
 	},
 	"Impress": {
 		"english": "Impress",
@@ -1638,6 +1653,7 @@
 		"french": "Impressionner",
 		"russian": "Впечатлить",
 		"portuguese": "Impressionar",
+		"chinese": "印象深刻",
 	},
 	"ImpressPerson": {
 		"english": "Impress %name%",
@@ -1645,6 +1661,7 @@
 		"french": "Impressionner %name%",
 		"russian": "Впечатлить %name%",
 		"portuguese": "Impressionar %name%",
+		"chinese": "对 %name%印象深刻",
 	},
 	"BuildSnowman": {
 		"english": "Build Snowman",
@@ -1652,6 +1669,7 @@
 		"french": "Construire un bonhomme de neige",
 		"russian": "Построить снеговика",
 		"portuguese": "Construir boneco de neve",
+		"chinese": "堆雪人",
 	},
 
 
@@ -1819,6 +1837,7 @@
 		"turkish": "%resource% stoğu dolu",
 		"polish": "Nie ma gdzie składować: %resource%",
 		"portuguese": "%resource% estoque está cheio",
+		"chinese": "%resource% 库存已满",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",

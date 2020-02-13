@@ -299,7 +299,6 @@
 		//TODO-dutch
 		//TODO-ukrainian
 		//TODO-korean
-		//TODO-chinese
 		//TODO-italian
 		"spanish": "Un colono ha muerto",
 		"french": "Un colon est mort trop tôt",
@@ -309,7 +308,7 @@
 		"russian": "Колонист умер слишком рано",
 		"ukrainian":"Колоніст Помер",
 		"korean": "개척자가 죽음",
-		"chinese": "殖民死亡",
+		"chinese": "殖民者英年早逝",
 		"italian": "Colono morto",
 		"polish": "Śmierć kolonisty",
 	},
@@ -334,11 +333,13 @@
 		"spanish": "Un colono ha muerto de vejez",
 		"russian": "Колонист умер из-за старости",
 		"portuguese": "Colonista morreu de velhice",
+		"chinese": "殖民者寿终正寝",
 	},
 	"thoughtDesc_ColonistDiedOfOldAge": {
 		"russian": "Колонист прожил уже довольно много времени. Но все мы рано или поздно умираем...",
 		"portuguese": "O colono vive há bastante tempo. Mas todos nós morremos mais cedo ou mais tarde ...",
 		"french": "Le colon a vécu longtemps. Mais nous mourrons tous tôt ou tard...",
+		"chinese": "付出了一生.终将会死去的...",
 	},
 	"thoughtTitle_FightWon": {
 		"english": "Won a Fight",
@@ -1752,6 +1753,7 @@
 		"italian": "Troppe domande",
 		"russian": "Был допрошен",
 		"korean": "질문을 받음",
+		"chinese": "遭人质疑",
 	},
 	"thoughtDesc_WasQuestioned": {
 		"english": "I don't like being questioned like that.",
@@ -1762,6 +1764,7 @@
 		"italian": "Non mi piace che mi si pongano tutte queste domande.",
 		"russian": "Мне не нравится, когда меня допрашивают.",
 		"korean": "이런 식의 질문은 좀 불쾌해.",
+		"chinese": "我不喜欢这样被问来问去。",
 	},
 	"thoughtTitle_TiredOfStudying": {
 		"english": "Tired of Studying",
@@ -1770,6 +1773,7 @@
 		"spanish": "Cansado de estudiar",
 		"russian": "Устал учиться",
 		"portuguese": "Cansado de estudar",
+		"chinese": "厌倦学习",
 	},
 	"thoughtDesc_TiredOfStudying": {
 		"english": "Nooo. I don't want to study anymooore! Why do I have to learn this? I'm never gonna need to know this for sure.",
@@ -1778,6 +1782,7 @@
 		"spanish": "Nooo ¡Ya no quiero estudiar más! ¿Por qué tengo que aprender esto? De seguro nunca voy a necesitar saber esto.",
 		"russian": "Нееет. Я не хочу больше учиться! Почему я должен это учить? Я не уверен, что мне это вообще когда-либо пригодиться!",
 		"portuguese": "Nããão. Eu não quero mais estudar! Por que eu tenho que aprender isso? Eu nunca vou precisar saber disso com certeza.",
+		"chinese": "不，我不想学习任何东西！为什么我必须学习这个？我永远也不需要，这我很肯定。",
 	},
 	"thoughtTitle_BadJoke": {
 		"english": "Had to witness terrible joke",
@@ -1786,6 +1791,7 @@
 		"spanish": "Tuvo que escuchar una broma terrible",
 		"russian": "Подслушал ужастную шутку",
 		"portuguese": "Tive que testemunhar piada terrível",
+		"chinese": "听到了恶俗笑话",
 	},
 	"thoughtDesc_BadJoke": {
 		"english": "Oh my god, did you hear %firstName%'s joke? It was so cheesy that my life is worse for hearing it.",
@@ -1794,6 +1800,7 @@
 		"spanish": "Oh Dios mío, ¿escuchaste la broma de %firstName%? Fue tan desagradable que mi vida caba de empeorar solo por oírla.",
 		"russian": "Боже мой, вы вообще слышали шутку %firstName%? Она настолько ужастна, что аж до муражек!",
 		"portuguese": "Oh meu Deus, você ouviu a piada de %firstName%? Era tão brega que minha vida é pior por ouvi-la.",
+		"chinese": "哦，天哪，您听到%firstName%的笑话了吗？太俗气了，我的生活变得更糟。",
 	},
 	"thoughtTitle_PutSomeoneElseDown": {
 		"english": "Put someone else down",
@@ -1802,6 +1809,7 @@
 		"spanish": "Menospreció a alguien",
 		"russian": "Насмехается над кем-то",
 		"portuguese": "Coloque alguém para baixo",
+		"chinese": "放下仇恨",
 	},
 	"thoughtDesc_PutSomeoneElseDown": {
 		"english": "Say what you want, but I think %firstName% deserved the rant. Voicing my honest opinions makes me feel good about myself.",
@@ -1810,6 +1818,7 @@
 		"spanish": "Di lo que quieras, pero creo que %firstName% se merecía esa diatriba. Expresar mis opiniones honestas me hace sentir bien.",
 		"russian": "Говорите что хотите, но я считаю, что %firstName% заслужил этих слов. Это мое личное мнение, мне стало в разы лучше после того, как я высказал это вслух!",
 		"portuguese": "Diga o que quiser, mas acho que% firstName% mereceu o discurso retórico. Expressar minhas opiniões honestas me faz sentir bem comigo mesmo.",
+		"chinese": "说出您想要的，但我认为%firstName%得到了应有的报应。表达了我真实的意见自我感觉良好。",
 	},
 	"thoughtTitle_ReceivedInsult": {
 		"english": "Received Insult",
@@ -1818,6 +1827,7 @@
 		"spanish": "Recibió un insulto",
 		"russian": "Оскорблен",
 		"portuguese": "Insulto recebido",
+		"chinese": "受到侮辱",
 	},
 	"thoughtDesc_ReceivedInsult": {
 		"english": "%firstName% just gravely insulted me. That was uncalled for!",
@@ -1826,6 +1836,7 @@
 		"spanish": "%firstName% me insultó gravemente ¡Eso estuvo fuera de lugar!",
 		"russian": "%firstName% очень серьезно оскорбил меня. Это было неуместно!",
 		"portuguese": "%firstName% apenas me insultou gravemente. Isso foi desnecessário!",
+		"chinese": "%firstName% 狠狠地侮辱了我。这很不公平！",
 	},
 	"thoughtTitle_Parenthood": {
 		"english": "Parenthood",
@@ -1834,6 +1845,7 @@
 		"spanish": "Paternidad",
 		"russian": "%Parenthood%",
 		"portuguese": "Paternidade",
+		"chinese": "为人父母",
 	},
 	"thoughtDesc_Parenthood": {
 		"english": "Children can be exhausting, but they also give me strength.",
@@ -1842,6 +1854,7 @@
 		"spanish": "Los niños pueden ser agotadores, pero también me fortalecen.",
 		"russian": "Хоть дети и иногда утомительны, но они дают мне силы жить дальше.",
 		"portuguese": "As crianças podem ser cansativas, mas também me dão força.",
+		"chinese": "孩子们可能很折磨人，但是他们也给了我动力",
 	},
 	"thoughtTitle_FeelingDeadInside": {
 		"english": "Feeling Dead Inside",
@@ -1850,6 +1863,7 @@
 		"spanish": "Muerto por dentro",
 		"russian": "Ощущает себя мертвым внутри",
 		"portuguese": "Sentindo-se morto por dentro",
+		"chinese": "内心沉迷",
 	},
 	"thoughtDesc_FeelingDeadInside": {
 		"english": "That Elixir has rejuvenated my body, but it clouds my mind. I feel older than ever.",
@@ -1858,6 +1872,7 @@
 		"spanish": "Ese Elixir ha rejuvenecido mi cuerpo, pero nubló mi mente. Me siento más viejo que nunca.",
 		"russian": "Хоть этот эликсир и омолодил мое тело, но он так же и омрачил мой разум. Я чувствую себя очень старым.",
 		"portuguese": "Esse Elixir rejuvenesceu meu corpo, mas obscureceu minha mente. Eu me sinto mais velho do que nunca.",
+		"chinese": "那个青春不老药使我的身体恢复了活力，但它朦胧了我的思维。我觉得更老了",
 	},
 
 

@@ -314,7 +314,7 @@
 		"italian": "Colono morto",
 		"polish": "Śmierć kolonisty",
 	},
-	"thoughtDesc_ColonistDied": {
+	"thoughtDesc_ColonistDiedTooEarly": {
 		"english": "My friend and fellow colonist died. Damn. I feel kind of empty now.",
 		"german": "Mein Kumpel ist gestorben. Verdammt. Ich fühle mich so leer...",
 		"spanish": "Mi amigo murió. Maldita sea. Me siento tan vací%oA%",
@@ -336,6 +336,8 @@
 		"russian": "Колонист умер из-за старости",
 	},
 	"thoughtDesc_ColonistDiedOfOldAge": {
+		"english": "%firstName% has lived a long life but we all die sooner or later. We all can be happy to have had %himHer% around.",
+		"german": "%firstName% hat ein langes Leben gelebt, aber wir alle sterben früher oder später. Wir können froh sein, Zeit mit %ihnSie% verbracht zu haben.",
 		"russian": "Колонист прожил уже довольно много времени. Но все мы рано или поздно умираем...",
 	},
 	"thoughtTitle_FightWon": {

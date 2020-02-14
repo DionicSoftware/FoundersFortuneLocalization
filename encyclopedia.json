@@ -973,6 +973,11 @@ Ad esempio: una persona pessimista potrebbe essere un vero ostacolo per la colon
 	"helpMenuTitle_relationships": {
 		"english": "Relationships",
 		"german": "Beziehungen",
+		"russian": "Отношения",
+		"portuguese": "Relacionamentos",
+		"french": "Relations",
+		"spanish": "Relaciones",
+		"chinese": "人际关系",
 	},
 	"helpMenuText_relationships": {
 		"english": "No one wants to feel alone in the world and that is especially true for your villagers. Making friends and maintaining old frienships is not only fun, it's a core part of their wellbeing.
@@ -981,10 +986,29 @@ Once the village has grown a bit, its inhabitants are going to want to make new 
 		"german": "Niemand möchte sich einsam fühlen und das gilt ganz besonders für deine Dorfbewohner. Neue Freunde finden und alte Freundschaften erhalten macht nicht nur Spaß, sondern ist ein  wichtiger Teil des allgemeinen Wohlbefindens.
 
 Sobald das Dorf ein wenig gewachsen ist, werden seine Bewohner Freundschaften schließen wollen. Lasse sie miteinander interagieren, um gegenseitige Verbundenheit zu stärken.",
+	
+		"russian": "Никто не хочет чувствовать себя одиноким в мире, и это особенно верно для ваших жителей. Заводить друзей и поддерживать старые дружеские отношения - это не только весело, это часть их благополучия. Как только деревня подрастет, ее жители захотят завести себе друзей. Позвольте им взаимодействовать друг с другом для создания новых отношений. ",
+		"portuguese": "Ninguém quer se sentir sozinho no mundo e isso é especialmente verdade para os seus moradores. Fazer amigos e manter velhas amizades não é apenas divertido, é uma parte essencial do bem-estar deles.
+
+Quando a vila crescer um pouco, seus habitantes vão querer fazer novos amigos. Faça com que eles interajam, a fim de fortalecer seu vínculo.",
+		"french": "Personne ne veut se sentir seul au monde et c'est particulièrement vrai pour vos villageois. Se faire des amis et maintenir de vieilles amitiés n'est pas seulement amusant, c'est une partie essentielle de leur bien-être.
+
+Une fois le village un peu agrandi, ses habitants vont vouloir se faire de nouveaux amis. Demandez-leur d'interagir entre eux afin de renforcer leur lien. ",
+		"spanish": "Nadie quiere sentirse solo en este mundo y eso es especialmente cierto para tus colonos. Hacer amigos y mantener las viejas amistades no solo es divertido, es una parte central de su bienestar.
+		
+Una vez que la aldea haya crecido un poco, sus habitantes van a querer hacer nuevos amigos. Haz que interactúen entre sí para fortalecer sus lazos.",
+"chinese": "没有人愿意在世界上感到孤独终老，您的殖民者尤其如此。结交朋友和维持友谊不仅很有趣，而且是他们幸福的核心部分。
+		
+孩子长大以后，将要结交新朋友。 让他们彼此互动，以加强他们的联系。",
 	},
 	"helpMenuTitle_relationships_interactions": {
 		"english": "Social Interactions",
 		"german": "Soziale Interaktionen",
+		"russian": "Социальные взаимодействия",
+		"portuguese": "Interações sociais",
+		"french": "Interactions sociales",
+		"spanish": "Interacciones Sociales",
+		"chinese": "社交互动",
 	},
 	"helpMenuText_relationships_interactions": {
 		"english": "There are a few different ways people can interact:
@@ -1004,10 +1028,65 @@ If you have a lot of people wanting to make new friends, try throwing a party!",
 - Beleidigungen führen immer zu negativen Beziehungen und Entschuldigungen können das nur teilweise wieder gut machen.
 - Jeder mag es über das Essen zu sprechen, aber es wird sie auch sofort hungrig machen.
 - Während Umarmungen nicht direkt eine Beziehung verbessern, gibt es jedem ein gutes Gefühl - aber Umarmungen sind nur für Kumpel und Freunde verfügbar.",
+		"russian": "Есть несколько способов взаимодействия:
+
+- Разговор приводит к хорошим и плохим отношениям.
+- Шутки очень эффективны при построении новых отношений, однако ужасная шутка может задеть собеседника.
+- Если кто-то произвел на кого-то впечатление, то взаимодействие с ним будет в два раза эффективнее.
+- Оскорбления всегда ухудшают отношения. Извинения хоть и улучшают ситуацию, но не так хорошо.
+- Все любят говорить о еде, но это так же делает жителей голодными.
+- Хотя объятия напрямую не улучшают отношения, они заставляют всех чувствовать себя лучше. Объятия доступны только для друзей и приятелей.
+
+Если у вас есть много жителей, желающих завести друзей, устройте вечеринку!",
+		"portuguese": "Existem algumas maneiras diferentes pelas quais as pessoas podem interagir:
+
+- Conversar leva a conversas principalmente boas e algumas ruins.
+- As piadas são muito eficazes na construção de vínculos, mas uma piada terrível faz todo ouvinte se encolher e se sentir mal.
+- Se alguém estiver impressionado com outra pessoa, cada interação positiva a seguir será duas vezes mais eficaz.
+- Os insultos sempre diminuem os relacionamentos e as desculpas podem compensar isso um pouco.
+- Todo mundo gosta de falar sobre comida, mas isso os deixa com fome imediatamente.
+- Embora abraçar não melhore diretamente um relacionamento, faz com que todos se sintam melhor - embora abraços estejam disponíveis apenas para amigos e amigos.
+
+Se você tem muitas pessoas querendo fazer novos amigos, tente fazer uma festa!",
+		"french": "Les colons peuvent interagir de différentes manières :
+
+- Parler mène principalement à de bonnes conversations, mais aussi à des mauvaises.
+- Les blagues sont très efficaces pour créer des liens, mais une mauvaise blague fait craquer tous les auditeurs et les met mal à l'aise.
+- Si quelqu'un est impressionné par quelqu'un d'autre, chaque interaction positive suivante sera deux fois plus efficace.
+- Les insultes diminuent toujours les relations et les excuses ne peuvent que compenser un peu.
+- Tout le monde aime parler de nourriture, mais cela leur donne immédiatement faim.
+- Bien que les câlins n'améliorent pas directement une relation, ils permettent à chacun de se sentir mieux - cependant, les câlins ne sont disponibles que pour les camarades et les amis.
+
+Si vous avez beaucoup de personnes qui veulent se faire de nouveaux amis, essayez d'organiser une fête !",
+		"spanish": "Hay varias formas distintas en las que la gente puede interactuar:
+
+- Hablar lleva mayoritariamente a buenas o a malas conversaciones.
+- Las bromas son muy efectivas al construir lazos, pero una broma terrible provoca que todo oyente se avergüence y se sienta mal.
+- Si alguien es impresionado por alguien más, cada siguiente interacción positiva será el doble de efectiva.
+- Los insultos siempre emperorarán las relaciones y las disculpas lo compensarán solo por un poco.
+- Todos aman hablar sobre la comida, pero hará que se sientan con hambre inmediatamente.
+- A pesar que los abrazos no mejoren directamente una relación, hacen que todos se sientan mejor - aunque solo están disponibles para Compañeros y Amigos.
+
+Si tienes un montón de gente con ganas de hacer nuevos amigos, ¡trata de lanzar una fiesta!",
+"chinese": "人们可以通过几种不同的方式进行互动：
+
+-谈话主要导致良好的对话和一些不良的对话。
+-笑话在建立社交关系方面非常有效，但是糟糕的笑话使每个听众都害怕，并感到难过。
+-如果某人给别人留下了深刻的印象，那么每次积极的互动都会产生两倍的效果。
+-侮辱总是会降低人际关系，而道歉只能弥补一点点。
+-每个人都喜欢谈论食物，但这会让他们立即感到饥饿。
+-虽然拥抱并不能直接改善彼此的关系，但可以使每个人都感觉更好-尽管拥抱仅适用于好友和朋友。
+
+如果您有很多人想结交新朋友，请尝试举办派对！",
 	},
 	"helpMenuTitle_relationships_kids": {
 		"english": "Having Kids",
 		"german": "Kinder bekommen",
+		"russian": "Завести детей",
+		"portuguese": "Ter filhos",
+		"french": "Avoir des enfants",
+		"spanish": "Tener Hijos",
+		"chinese": "生育孩子",
 	},
 	"helpMenuText_relationships_kids": {
 		"english": "Once two adults have reached a great friendship, they can kiss in order to make their relationship a romantic one. Only when they reach the maximum possible romantic relationship level, they will be thinking about having kids.
@@ -1016,5 +1095,21 @@ In order for the village to accomodate new members, the expectations of all inha
 		"german": "Sobald zwei Erwachsene eine großartige Freundschaft erreicht haben, können sie sich küssen um die Beziehung romantisch werden zu lassen. Nur wenn sie das maximal möglichen romantische Beziehungslevel erreicht haben, werden sie über Kinder nachdenken.
 	
 Damit das Dorf neue Mitglieder aufnehmen kann, müssen erst die Erwartungen von allen Bewohnern vollständig erfüllt sein.",
+		"russian": "Как только два взрослых жителя достигнут хороших дружеских отношений, они могут поцеловаться и стать парой. Как только они достигнут максимального уровня романтических отношений, они смогут завести детей.
+
+Для того, чтобы в деревне смогли рассположиться новые жители, необходимо оправдывать ожидания всех жителей.",
+		"portuguese": "Quando dois adultos alcançam uma grande amizade, eles podem se beijar para tornar seu relacionamento romântico. Somente quando atingirem o nível máximo possível de relacionamento romântico, eles estarão pensando em ter filhos.
+
+Para que a vila acomode novos membros, as expectativas de todos os habitantes terão que ser cumpridas.",
+		"french": "Une fois que deux adultes ont atteint une grande amitié, ils peuvent s'embrasser afin de rendre leur relation romantique. Ce n'est que lorsqu'ils atteindront le niveau de relation amoureuse maximal possible qu'ils penseront à avoir des enfants.
+
+Pour que le village puisse accueillir de nouveaux membres, les attentes de tous les habitants devront être satisfaites.",
+		"spanish": "Una vez que dos adultos han alcanzado una gran amistad, pueden besarse para convertir su relación en una romántica. Solo cuando hayan alcanzado el nivel máximo posible de relación romántica, estarán pensando en tener hijos.
+
+Para que la aldea pueda acomodar a nuevos miembros, todas las expectativas de los habitantes deberán estar cumplidas.",
+"chinese": "一旦两个大人建立了深厚的友谊，他们就可以亲吻以使他们的关系成为情人人。只有当他们达到最大可能的情人关系等级时，他们才会考虑生孩子。
+
+为了使村庄能够容纳新成员，必须满足所有殖民者的期望。",
+		
 	},
 }

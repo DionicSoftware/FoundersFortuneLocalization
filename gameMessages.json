@@ -40,6 +40,8 @@
 		"spanish": "Necesita ser construido en el suelo",
 		"russian": "Это нужно размещать на полу",
 		"polish": "Trzeba zbudować na podłodze",
+		"portuguese": "Precisa ser construído no chão",
+		"chinese": "需要在地板上建造",
 	},
 	"needsToBeBuiltNextToFloor": { // used for wall building
 		"english": "Needs to be built next to floor tile",
@@ -48,6 +50,8 @@
 		"spanish": "Necesita ser construido cerca de una baldosa del suelo",
 		"russian": "Это нужно размещать рядом с полом",
 		"polish": "Trzeba zbudować w pobliżu podłogi",
+		"portuguese": "Precisa ser construído próximo ao piso",
+		"chinese": "需要在地板边缘建造",
 	},
 	"needsToBeBuiltAboveRoomOrTerrain": { // used for floor building
 		"english": "Needs to be built above room or on solid ground",
@@ -55,6 +59,8 @@
 		"french": "Doit être construit au-dessus d'une pièce ou sur un sol solide",
 		"spanish": "Necesita ser construido sobre una habitación o en suelo sólido",
 		"russian": "Это нужно размещать над комнатой или на земле",
+		"portuguese": "Precisa ser construído acima da sala ou em terreno sólido",
+		"chinese": "需要在房间内或牢固的地面上建造",
 	},
 	"placeBlocked": {
 		"english": "This Place is blocked by something!",
@@ -68,7 +74,7 @@
 		"russian": "Что-то мешает постройке!",
 		"ukrainian": "Щось заважає будівництві!",
 		"korean": "이 곳은 무언가로 막혀있습니다!",
-		"chinese": "这块地区被物体阻挡!",
+		"chinese": "这个地方被东西挡住了！",
 		"italian": "Questo posto è bloccato da qualcosa!",
 		"polish": "To miejsce jest zajęte!",
 	},
@@ -84,7 +90,7 @@
 		"russian": "Нужно разместить на стену!",
 		"ukrainian": "Повинен бути на стіні!",
 		"korean": "벽 위에 지어야 합니다!",
-		"chinese": "要造在墙上!",
+		"chinese": "要建造在墙上!",
 		"italian": "Richiede una parete!",
 		"polish": "Trzeba zbudować na ścianie!",
 	},
@@ -143,13 +149,19 @@
 		"english": "%firstName% will grow up tomorrow.",
 		"german": "%firstName% wird morgen erwachsen werden.",
 		"french": "%firstName% va grandir demain.",
+		"spanish": "%firstName% crecerá mañana.",
 		"russian": "%firstName% вырастет завтра.",
+		"portuguese": "%firstName% vai crescer amanhã.",
+		"chinese": "%firstName% 明天将会长大。",
 	},
 	"notificationTitle_isApproachingEndOfLife": {
 		"english": "%firstName% is nearing the end of %hisHer% long life.",
 		"german": "%firstName%'s langes Leben neigt sich dem Ende zu.",
 		"french": "%firstName% arrive à la fin de sa longue vie.",
+		"spanish": "%firstName% está cerca del final de su larga vida.",
 		"russian": "%firstName% доживает последние дни своей жизни.",
+		"portuguese": "%firstName% está chegando ao final de %seuSua% vida útil.",
+		"chinese": "%firstName%即将结束%hisHer%的一生。",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -212,56 +224,51 @@
 		"russian": "Колонисты сражаются",
 		"ukrainian": "Колоністи Воюють",
 		"korean": "전투중",
-		"chinese": "殖民者失去意识",
+		"chinese": "战斗",
 		"italian": "Combattimento",
 		"polish": "Jesteś atakowany!",
 	},
-	// TODO-spanish: firstName
 	// TODO-dutch: firstName
-	// TODO-portuguese: firstName
 	// TODO-turkish: firstName
 	// TODO-bulgarian: firstName
 	// TODO-ukrainian: firstName
 	// TODO-korean: firstName
-	// TODO-chinese: firstName
 	// TODO-italian: firstName
 	"notificationTitle_LostConsciousness": {
 		"english": "%firstName% lost Consciousness",
 		"german": "%firstName% ist in Ohnmacht gefallen",
 		"dutch":  "Kolonist verloor bewustzijn",
 		"french": "%firstName% a perdu connaissance",
-		"spanish": "Un colono perdió la conciencia",
-		"portuguese": "Colono perdeu a Consciência",
+		"spanish": "%firstName% perdió la conciencia",
+		"portuguese": "%firstName% perdeu a Consciência",
 		"turkish": "Yerleşimci bilincini kaybetti",
 		"bulgarian": "Колонист изгуби съзнание",
 		"russian": "%firstName потерял сознание",
 		"ukrainian": "Колоніст знепритомнів",
 		"korean": "개척자가 의식을 잃었습니다",
-		"chinese": "殖民者死亡",
+		"chinese": "%firstName% 失去意识",
 		"italian": "Un colono ha perso conoscenza",
 	},
-	// TODO-spanish: firstName
 	// TODO-dutch: firstName
 	// TODO-portuguese: firstName
 	// TODO-turkish: firstName
 	// TODO-bulgarian: firstName
 	// TODO-ukrainian: firstName
 	// TODO-korean: firstName
-	// TODO-chinese: firstName
 	// TODO-italian: firstName
 	"notificationTitle_Death": {
 		"english": "%firstName% died",
 		"german": "%firstName% gestorben",
 		"dutch":  "Kolonist gestorven",
 		"french": "%firstName% est mort%e%",
-		"spanish": "Un colono murió",
-		"portuguese": "Colono morreu",
+		"spanish": "%firstName% murió",
+		"portuguese": "%firstName% morreu",
 		"turkish": "Yerleşimci öldü",
 		"bulgarian": "Колонист умря",
 		"russian": "%firstName умер",
 		"ukrainian": "Колоніст помер",
 		"korean": "개척자가 죽었습니다",
-		"chinese": "食物不足",
+		"chinese": "%firstName%死亡",
 		"italian": "Un colono è morto",
 		"polish": "Kolonista zmarł!",
 	},
@@ -269,7 +276,10 @@
 		"english": "%firstName% died of old age",
 		"german": "%firstName% an Altersschwäche gestorben",
 		"french": "%firstName% est mort%e% de vieillesse",
+		"spanish": "%firstName% murió de vejez",
 		"russian": "%firstName% умер из-за старости",
+		"portuguese": "%firstName% morreu de velhice",
+		"chinese": "%firstName% 衰老而死",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -283,7 +293,7 @@
 		"russian": "Не хватает еды",
 		"ukrainian": "Бракує їжі",
 		"korean": "식량이 바닥을 보이고 있습니다",
-		"chinese": "食物无库存",
+		"chinese": "食物吃完了",
 		"italian": "Il cibo sta per finire",
 		"polish": "Kończy się jedzenie",
 	},
@@ -299,7 +309,7 @@
 		"russian": "Еда закончилась",
 		"ukrainian": "Їжа закінчилася",
 		"korean": "남은 식량이 없습니다",
-		"chinese": "无法找到食物库存",
+		"chinese": "无食物库存",
 		"italian": "Non è rimasto più cibo",
 		"polish": "Jedzenie się skończyło!",
 	},
@@ -315,7 +325,7 @@
 		"russian": "Отсутствует хранилище еды",
 		"ukrainian": "Відсутнє сховище їжі",
 		"korean": "식량을 저장할 공간이 없습니다",
-		"chinese": "未选择研究项目",
+		"chinese": "无法找到食物库存",
 		"italian": "Deposito di cibo mancante",
 		"polish": "Brakuje miejsca do składowania jedzenia",
 	},
@@ -683,6 +693,7 @@
 		"portuguese": "Piratas estão chegando a qualquer momento ...",
 		"italian": "I pirati arriveranno da un momento all'altro...",
 		"korean": "해적이 곧 들이닥칠 것 같습니다...",
+		"chinese": "海盗随时都会来...",
 	},
 	"notificationTitle_PiratesHaveLanded": {
 		"english": "Pirates have landed!",
@@ -693,6 +704,7 @@
 		"portuguese": "Piratas desembarcaram!",
 		"italian": "I pirati sono approdati!",
 		"korean": "해적이 상륙했습니다!",
+		"chinese": "海盗登陆了！",
 	},
 	"notificationTitle_FactionWillComeForTributeIn": {
 		"english": "'%faction%' will come for %tribute% in %days% days",
@@ -703,6 +715,7 @@
 		"portuguese": "'%faction%' virá para  %tribute% in %days% dias",
 		"italian": "'%faction%' arriverà in %days% giorni per %tribute%",
 		"korean": "'%faction%'#{이} %tribute%#{을} 바치기 위해 %days%일 내로 올 겁니다",
+		"chinese": "'%faction%' 将会%days%天内在 %tribute% 出现",
 	},
 
 
@@ -768,6 +781,8 @@
 		"french": "Relations diplomatiques améliorées",
 		"spanish": "Relaciones Diplomáticas Mejoradas",
 		"russian": "Дипломатические отношения улучшены",
+		"portuguese": "Relações Diplomáticas Melhoradas",
+		"chinese": "外交关系改善",
 	},
 	"treatmentSuccessful": {
 		"english": "Treatment\nSuccessful",
@@ -863,25 +878,37 @@
 		"english": "Impressed",
 		"german": "Beeindruckt",
 		"french": "Impressionné%e%",
+		"spanish": "Impresionad%oA%",
 		"russian": "Впечатлен%surnameA%",
+		"portuguese": "Impressionad%oA%",
+		"chinese": "印象深刻",
 	},
 	"notImpressed": {
 		"english": "Not Impressed",
 		"german": "Nicht Beeindruckt",
 		"french": "Pas impressionné%e%",
+		"spanish": "Impávid%oA%",
 		"russian": "Не впечатлен%surnameA%",
+		"portuguese": "Não estou impressionado",
+		"chinese": "印象淡薄",
 	},
 	"upsetWithSomeone": {
 		"english": "Upset with %firstName%",
 		"german": "Sauer auf %firstName%",
 		"french": "En colère contre %firstName%",
+		"spanish": "Enfadad%oA% con %firstName%",
 		"russian": "Обижен%surnameA% на %firstName%",
+		"portuguese": "Chateado com %firstName%",
+		"chinese": "对 %firstName%感到不安",
 	},
 	"someoneIsUpset": {
 		"english": "%firstName% is upset",
 		"german": "%firstName% ist sauer",
 		"french": "%firstName% est en colère",
+		"spanish": "%firstName% está enfadad%oA%",
 		"russian": "%firstName% обижен%surnameA%",
+		"portuguese": "%firstName% está chateado",
+		"chinese": "%firstName%很不安",
 	},
 
 
@@ -895,6 +922,8 @@
 		"russian": "Мигрант: %text%",
 		"korean": "이주민: %text%",
 		"polish": "Imigrant: %text%",
+		"portuguese": "Migrante: %text%",
+		"chinese": "移民： %text%",
 	},
 	"iHaveTrait": {
 		"english": "I have the trait '%trait%'.",
@@ -905,6 +934,7 @@
 		"portuguese": "Eu tenho a característica '%trait%'.",
 		"italian": "Ho il tratto '%trait%'.",
 		"korean": "나는 '%trait%' 성향이 있어요.",
+		"chinese": "拥有'%trait%'特性.",
 	},
 	"iHaveExperience": {
 		"english": "I am a level %level% %profession%.",
@@ -915,6 +945,7 @@
 		"portuguese": "Eu sou um nivel %level% %profession%.",
 		"italian": "Sono %UnUna% %profession% di livello %level%.",
 		"korean": "나는 %profession% %level%레벨이에요.",
+		"chinese": "我是一名 %level%级的 %profession%。",
 	},
 	"iHaveNoExperience": {
 		"english": "I don't have a lot of work experience.",
@@ -925,6 +956,7 @@
 		"portuguese": "Eu não tenho muita experiência de trabalho.",
 		"italian": "Non ho molta esperienza lavorativa.",
 		"korean": "일해본 경험이 많지는 않아요.",
+		"chinese": "我没有很多工作经验。",
 	},
 	"iDontLikeQuestioning": {
 		"english": "I don't like to be questioned like that.",
@@ -935,6 +967,7 @@
 		"portuguese": "Eu não gosto de ser questionado assim.",
 		"italian": "Non mi piace che mi vengano poste domande del genere.",
 		"korean": "그런 질문을 받고 싶진 않아요.",
+		"chinese": "我不喜欢这样被问到。",
 	},
 	"tooMuchQuestioning": {
 		"english": "That's enough questioning. Bye bye.",
@@ -945,6 +978,7 @@
 		"portuguese": "Chega de questionar. Tchau tchau.",
 		"italian": "Le domande sono state fin troppe. Ciao, ciao.",
 		"korean": "충분히 질문하신 것 같네요. 그럼 이만.",
+		"chinese": "问够了！再见。",
 	},
 
 
@@ -1085,6 +1119,7 @@
 		"russian": "Пираты высадились на побережье!",
 		"korean": "해적이 해안에 상륙했습니다!",
 		"polish": "Na wyspie pojawili się piraci!",
+		"chinese": "海盗停靠在岸边了！",
 	},
 	"messageText_PirateRaid": {
 		"english": "The wild crew jumps from their ship weapons drawn. In their greedy faces you can see high hopes for easy loot.",
@@ -1096,6 +1131,7 @@
 		"russian": "Дикие пираты выпрыгивают из своего корабля с оружием в руке. В их жадных лицах вы видите для себя возможность легкой наживы.",
 		"korean": "사나운 선원들이 무기를 뽑아든 채 배에서 뛰어내립니다. 그들의 얼굴에서 손쉬운 약탈에 대한 높은 기대와 탐욕을 읽을 수 있습니다.",
 		"polish": "Banda piratów wyskakuje zza burty z bronią w ręku! Pilnuj się, na ich twarzy widać rządzę łatwej zdobyczy.",
+		"chinese": "野蛮海盗从船上抽出的武器后跳下船。从他们贪婪的面孔中，您可以看到被抢劫的场景。",
 	},
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Tantrum!",

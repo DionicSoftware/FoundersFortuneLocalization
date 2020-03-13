@@ -224,6 +224,10 @@
 		"italian": "Semina",
 		"polish": "Zasadź",
 	},
+	"interaction_Plant": { // for example when planting a tree. Game mechanics are similar/same as sow
+		"english": "Plant",
+		"german": "Pflanzen",
+	},
 	"Harvest": {
 		"english": "Harvest",
 		"german": "Ernten",
@@ -1688,6 +1692,10 @@
 		"portuguese": "Construir boneco de neve",
 		"chinese": "堆雪人",
 	},
+	"Care": { // caring for plants, animals, colleagues, ...
+		"english": "Care",
+		"german": "Pflegen",
+	},
 
 
 
@@ -1927,7 +1935,7 @@
 		"polish": "Zbyt mało czasu w tym sezonie",
 	},
 	"nextTryIn": {
-		"english": "Next Try in",
+		"english": "Next try in",
 		"german": "Nächster Versuch in",
 		"french": "Prochain essai dans",
 		"spanish": "Siguiente intento en",
@@ -1941,6 +1949,10 @@
 		"chinese": "尝试下一个",
 		"italian": "Prossimo tentativo in",
 		"polish": "Spróbuj w",
+	},
+	"nextInteractionIn": {
+		"english": "Next interaction in %time%",
+		"german": "Nächste Interaktion in %time%",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",

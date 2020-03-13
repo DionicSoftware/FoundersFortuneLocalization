@@ -227,6 +227,7 @@
 	"interaction_Plant": { // for example when planting a tree. Game mechanics are similar/same as sow
 		"english": "Plant",
 		"german": "Pflanzen",
+		"french": "Planter",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -1695,6 +1696,7 @@
 	"Care": { // caring for plants, animals, colleagues, ...
 		"english": "Care",
 		"german": "Pflegen",
+		"french": "Prendre soin",
 	},
 
 
@@ -1954,6 +1956,7 @@
 	"nextInteractionIn": {
 		"english": "Next interaction in %time%",
 		"german": "Nächste Interaktion in %time%",
+		"french": "Prochaine interaction dans %time%",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",

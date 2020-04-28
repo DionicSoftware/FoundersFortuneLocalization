@@ -16,9 +16,10 @@
 	},
 
 
+	// FORESTER
 	"skillTitle_foresterBasics": {
-		"english": "Forester Basics",
-		"german": "Förster Grundlagen",
+		"english": "Basics of Forestry",
+		"german": "Grundlagen der Forstwirtschaft",
 	},
 	"skillTitle_woodcuttingStoneTools": {
 		"english": "Stone Tools",
@@ -29,19 +30,219 @@
 		"german": "Metallwerkzeug",
 	},
 	"skillTitle_growingTrees": {
-		"english": "Growing Trees",
+		"english": "Planting Trees",
 		"german": "Bäume pflanzen",
 	},
 	"skillTitle_growingAppleTrees": {
-		"english": "Growing Apple Trees",
+		"english": "Planting Apple Trees",
 		"german": "Apfelbäume pflanzen",
 	},
 	"skillTitle_growingCotton": {
-		"english": "Growing Cotton",
+		"english": "Planting Cotton",
 		"german": "Baumwolle pflanzen",
 	},
 	"skillTitle_foresterMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+	},
+
+
+	// MINER
+	"skillTitle_minerBasics": {
+		"english": "Basics of Mining",
+		"german": "Grundlagen des Bergbaus",
+	},
+	"skillTitle_miningIron": {
+		"english": "Mining Iron",
+		"german": "Eisenbergbau",
+	},
+	"skillTitle_miningStoneTools": {
+		"english": "Stone Tools",
+		"german": "Steinwerkzeug",
+	},
+	"skillTitle_miningMetalTools": {
+		"english": "Metal Tools",
+		"german": "Metallwerkzeug",
+	},
+	"skillTitle_deepStoneMine": {
+		"english": "Deep Stone Mining",
+		"german": "Tiefer Steinbergbau",
+	},
+	"skillTitle_deepIronMine": {
+		"english": "Deep Iron Mining",
+		"german": "Tiefer Eisenbergbau",
+	},
+	"skillTitle_deepCrystalMine": {
+		"english": "Deep Crystal Mining",
+		"german": "Tiefer Kristallbergbau",
+	},
+	"skillTitle_minerMasterOutfit": {
+		"english": "Master Outfit",
+		"german": "Meisterkleidung",
+	},
+
+
+
+	// FARMER
+	"skillTitle_farmerBasics": {
+		"english": "Basics of Farming",
+		"german": "Grundlagen der Landwirtschaft",
+	},
+	"skillTitle_sowStrawberries": {
+		"english": "Sowing Strawberries",
+		"german": "Erdbeeren säen",
+	},
+	"skillTitle_sowWheat": {
+		"english": "Sowing Wheat",
+		"german": "Weizen säen",
+	},
+	"skillTitle_campfireCooking": {
+		"english": "Cooking at Campfire",
+		"german": "Kochen am Lagerfeuer",
+	},
+	"skillTitle_kitchenCooking": {
+		"english": "Cooking at Kitchen",
+		"german": "Kochen in der Küche",
+	},
+	"skillTitle_bakeryCooking": {
+		"english": "Baking at Bakery",
+		"german": "Backen in der Bäckerei",
+	},
+	"skillTitle_animalCare": {
+		"english": "Animal Care",
+		"german": "Tierzucht",
+	},
+	"skillTitle_shearingSheep": {
+		"english": "Shearing Sheep",
+		"german": "Schafe scheren",
+	},
+	"skillTitle_farmerMasterOutfit": {
+		"english": "Master Outfit",
+		"german": "Meisterkleidung",
+	},
+
+
+	// CRAFTSMAN
+	"skillTitle_craftsmanBasics": {
+		"english": "Basics of Crafting",
+		"german": "Grundlagen des Handwerks",
+	},
+	"skillTitle_forging": {
+		"english": "Forging",
+		"german": "Schmieden",
+	},
+	"skillTitle_makingBows": {
+		"english": "Making Bows",
+		"german": "Bogenmachen",
+	},
+	"skillTitle_tailoring": {
+		"english": "Tailoring",
+		"german": "Schneidern",
+	},
+	"skillTitle_weaving": {
+		"english": "Weaving",
+		"german": "Weben",
+	},
+	"skillTitle_tailoringMaster": {
+		"english": "Tailoring difficult cloth",
+		"german": "Schwere Stoffe schneidern",
+	},
+	"skillTitle_craftsmanMasterOutfit": {
+		"english": "Master Outfit",
+		"german": "Meisterkleidung",
+	},
+
+
+
+	// DOCTOR
+	"skillTitle_doctorBasics": {
+		"english": "Basics of Medicine",
+		"german": "Grundlagen der Medizin",
+	},
+	"skillTitle_fluTreatment": {
+		"english": "Flu Treatment",
+		"german": "Grippebehandlung",
+	},
+	"skillTitle_makingMedicalPotions": {
+		"english": "Medical Potions",
+		"german": "Medizinische Tränke",
+	},
+	"skillTitle_betterFluTreatments": {
+		"english": "Better Flu Treatments",
+		"german": "Meister der Grippebehandlung",
+	},
+	"skillTitle_applySplints": {
+		"english": "Applying Splints",
+		"german": "Schienen",
+	},
+	"skillTitle_splintMaster": {
+		"english": "Splint Master",
+		"german": "Meister des Schienens",
+	},
+	"skillTitle_doctorMasterOutfit": {
+		"english": "Master Outfit",
+		"german": "Meisterkleidung",
+	},
+	"skillTitle_psychology": {
+		"english": "Psychology",
+		"german": "Psychologie",
+	},
+
+
+	// SCHOLAR
+	"skillTitle_scholarBasics": {
+		"english": "Academic Fundamentals",
+		"german": "Akademische Grundlagen",
+	},
+	"skillTitle_researchScrolls": {
+		"english": "Research Scrolls",
+		"german": "Schriftrollen erforschen",
+	},
+	"skillTitle_teaching": {
+		"english": "Teaching",
+		"german": "Lehren",
+	},
+	"skillTitle_scholarMasterOutfit": {
+		"english": "Master Outfit",
+		"german": "Meisterkleidung",
+	},
+
+
+	// COMBAT
+	"skillTitle_combatBasics": {
+		"english": "Basics of Combat",
+		"german": "Grundlagen des Kampfes",
+	},
+	"skillTitle_fightWoodenSwords": {
+		"english": "Wooden Swords",
+		"german": "Holzschwerter",
+	},
+	"skillTitle_fightStoneSwords": {
+		"english": "Stone Swords",
+		"german": "Steinschwerter",
+	},
+	"skillTitle_fightMetalSwords": {
+		"english": "Metal Swords",
+		"german": "Metallschwerter",
+	},
+	"skillTitle_fightBow": {
+		"english": "Archery",
+		"german": "Bogenschießen",
+	},
+	"skillTitle_unarmedMartialArts": {
+		"english": "Unarmed Martial Arts",
+		"german": "Unbewaffnete Kampfkunst",
+	},
+	"skillTitle_sneakingUp": {
+		"english": "Sneaking",
+		"german": "Schleichen",
+	},
+	"skillTitle_mediumArmor": {
+		"english": "Medium Armor",
+		"german": "Mittlere Rüstung",
+	},
+	"skillTitle_heavyArmor": {
+		"english": "Heavy Armor",
+		"german": "Schwere Rüstung",
 	},
 }

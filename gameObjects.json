@@ -6387,7 +6387,7 @@
 // Doors
 //******
 
-	"doorWood0": {
+	"doorWoodCheap": {
 		"english": "Simple Wooden Door",
 		"german": "Einfache Holztür",
 		"french": "Simple porte en bois",
@@ -6402,9 +6402,19 @@
 		"italian": "Porta di legno semplice",
 		"polish": "Drewniana framuga",
 	},
-	"doorWood0Description": {
-		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
-		"german": "Lässt Kolonisten durch und sperrt Feinde aus (Zumindest in der Theorie).",
+	"doorWoodCheapDescription": {
+		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-dutch: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-russian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-ukrainian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-korean: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-chinese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
+		"english": "This door is barely enough to keep the wind out, but it will make do for the beginning.",
+		"german": "Diese Türe ist gerade noch genug, um den Wind draußen zu halten, aber für den Anfang passt das schon.",
 		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
 		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
 		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
@@ -6416,9 +6426,19 @@
 		"chinese": "允许你的殖民者进入，同时把不受欢迎的访客拒之门外(大部分时间)。",
 		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
 	},
-	"doorWood1": {
-		"english": "Simple Wooden Door",
-		"german": "Einfache Holztür",
+	"doorWoodSturdy": {
+		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-dutch: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-russian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-ukrainian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-korean: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-chinese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
+		"english": "Sturdy Wooden Door",
+		"german": "Stabile Holztür",
 		"french": "Simple porte en bois",
 		"spanish": "Puerta simple de madera",
 		"portuguese": "Porta de madeira simple",
@@ -6431,9 +6451,19 @@
 		"italian": "Porta di legno semplice",
 		"polish": "Framuga z progiem",
 	},
-	"doorWood1Description": {
-		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
-		"german": "Lässt Kolonisten durch und sperrt Feinde aus (Zumindest in der Theorie).",
+	"doorWoodSturdyDescription": {
+		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-dutch: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-russian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-ukrainian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-korean: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-chinese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
+		"english": "An example of good craftsmanship, this door does an excellent job of separating your cozy cabin from the cold winter.",
+		"german": "Als Beispiel toller Handwerkskunst sorgt diese Türe dafür, dass dein Haus auch dann gemütlich bleibt, wenn draußen die Schneestürme heulen.",
 		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
 		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
 		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
@@ -6445,38 +6475,19 @@
 		"chinese": "允许你的殖民者进入，同时把不受欢迎的访客拒之门外(大部分时间)。",
 		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
 	},
-	"doorWood2": {
-		"english": "Wooden Door",
-		"german": "Holztür",
-		"french": "Porte en bois",
-		"spanish": "Puerta de madera",
-		"portuguese": "Porta de madeira",
-		"dutch": "Houten Deur",
-		"turkish": "Tahta kapı",
-		"russian": "Деревянная дверь",
-		"ukrainian":"Прості Дерев'яні двері",
-		"korean": "목제 문",
-		"chinese": "木门",
-		"italian": "Porta di legno",
-		"polish": "Framuga z progiem",
-	},
-	"doorWood2Description": {
-		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
-		"german": "Lässt Kolonisten durch und sperrt Feinde aus (Zumindest in der Theorie).",
-		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
-		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
-		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
-		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
-		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
-		"russian": "Позволяет вашим колонистам не впускать нежелательных гостей в их дом (в большинстве случаев).",
-		"ukrainian":"Дозволяє вашим колоністам не пускати небажаних гостей в їх будинок (в більшості випадків).",
-		"korean": "개척자들이 드나들 수 있게 해 주면서, 달갑지 않은 손님은 (대부분) 밖에 있게 해 줍니다.",
-		"chinese": "允许你的殖民者进入，同时把不受欢迎的访客拒之门外(大部分时间)。",
-		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
-	},
-	"doorWood3": {
-		"english": "Ornamented Wooden Door",
-		"german": "Verzierte Holztür",
+	"doorWoodModern": {
+		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-dutch: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-russian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-ukrainian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-korean: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-chinese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
+		"english": "Modern Wooden Door",
+		"german": "Moderne Holztür",
 		"french": "Porte en bois ornementée",
 		"spanish": "Puerta ornamentada de madera",
 		"portuguese": "Porta de madeira ornamentada",
@@ -6488,9 +6499,228 @@
 		"chinese": "装饰木门",
 		"polish": "Framuga z progiem",
 	},
-	"doorWood3Description": {
+	"doorWoodModernDescription": {
+		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-dutch: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-russian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-ukrainian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-korean: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-chinese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
+		"english": "Looking for some modern designs? This door will show every visitor that you know how good doors ought to look nowadays.",
+		"german": "Auf der Suche nach einem modernen Design? Diese Türe lässt deine Besucher wissen, dass du weißt wie gute Türen heute auszusehen haben.",
+		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
+		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
+		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
+		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
+		"russian": "Позволяет вашим колонистам не впускать нежелательных гостей в их дом (в большинстве случаев).",
+		"ukrainian":"Дозволяє вашим колоністам не пускати небажаних гостей в їх будинок (в більшості випадків).",
+		"korean": "개척자들이 드나들 수 있게 해 주면서, 달갑지 않은 손님은 (대부분) 밖에 있게 해 줍니다.",
+		"chinese": "允许你的殖民者进入，同时把不受欢迎的访客拒之门外(大部分时间)。",
+		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
+	},
+	"doorWoodModernWindow": {
+		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-dutch: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-russian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-ukrainian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-korean: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-chinese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
+		"english": "Modern Wooden Door with Window",
+		"german": "Moderne Holztür mit Fenster",
+		"french": "Porte en bois ornementée",
+		"spanish": "Puerta ornamentada de madera",
+		"portuguese": "Porta de madeira ornamentada",
+		"turkish": "Süslü tahta kapı",
+		"dutch": "Versierde Houten Deur", 
+		"russian": "Деревянная дверь с орнаментом",
+		"ukrainian":"Дерев'яні двері з орнаментом",
+		"korean": "장식된 목제 문",
+		"chinese": "装饰木门",
+		"polish": "Framuga z progiem",
+	},
+	"doorWoodModernWindowDescription": {
+		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-dutch: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-russian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-ukrainian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-korean: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-chinese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
+		"english": "How about you use this windowed door for your entrance and give it a nice welcoming look?",
+		"german": "Wieso verwendest du diese Fenstertüre nicht für den Eingang? Könnte toll aussehen.",
+		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
+		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
+		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
+		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
+		"russian": "Позволяет вашим колонистам не впускать нежелательных гостей в их дом (в большинстве случаев).",
+		"ukrainian":"Дозволяє вашим колоністам не пускати небажаних гостей в їх будинок (в більшості випадків).",
+		"korean": "개척자들이 드나들 수 있게 해 주면서, 달갑지 않은 손님은 (대부분) 밖에 있게 해 줍니다.",
+		"chinese": "允许你的殖民者进入，同时把不受欢迎的访客拒之门外(大部分时间)。",
+		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
+	},
+	"doorStoneRound": {
+		"english": "Round Castle Door",
+		"german": "Runde Burgtür",
+	},
+	"doorStoneRoundDescription": {
+		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-dutch: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-russian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-ukrainian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-korean: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-chinese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
+		"english": "You're looking that extra bit of security, don't you? Castle walls are useless without a strong door like this one.",
+		"german": "Du bist auf der Suche nach dem extra Stückchen Sicherheit? Burgwände sind nutzlios ohne einer starken Tür wie dieser hier.",
+		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
+		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
+		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
+		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
+		"russian": "Позволяет вашим колонистам не впускать нежелательных гостей в их дом (в большинстве случаев).",
+		"ukrainian":"Дозволяє вашим колоністам не пускати небажаних гостей в їх будинок (в більшості випадків).",
+		"korean": "개척자들이 드나들 수 있게 해 주면서, 달갑지 않은 손님은 (대부분) 밖에 있게 해 줍니다.",
+		"chinese": "允许你的殖民者进入，同时把不受欢迎的访客拒之门外(大部分时间)。",
+		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
+	},
+
+
+	// GATES
+	"palisadeGateSmall": {
+		"english": "Small Palisade Gate",
+		"german": "Kleines Palisadentor",
+	},
+	"palisadeGateSmallDescription": {
 		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
 		"german": "Lässt Kolonisten durch und sperrt Feinde aus (Zumindest in der Theorie).",
+		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
+		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
+		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
+		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
+		"russian": "Позволяет вашим колонистам не впускать нежелательных гостей в их дом (в большинстве случаев).",
+		"ukrainian":"Дозволяє вашим колоністам не пускати небажаних гостей в їх будинок (в більшості випадків).",
+		"korean": "개척자들이 드나들 수 있게 해 주면서, 달갑지 않은 손님은 (대부분) 밖에 있게 해 줍니다.",
+		"chinese": "允许你的殖民者进入，同时把不受欢迎的访客拒之门外(大部分时间)。",
+		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
+	},
+	"palisadeGate": {
+		"english": "Roofed Palisade Gate",
+		"german": "Überdachtes Palisadentor",
+	},
+	"palisadeGateDescription": {
+		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-dutch: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-russian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-ukrainian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-korean: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-chinese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
+		"english": "Not much better than the standard palisade gate, this one at least makes your outpost look a little professional.",
+		"german": "Während dieses Tor nicht viel besser als das Standard-Palisadentor ist, lässt es deinen Außenposten wenigstens ein bisschen professionell aussehen.",
+		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
+		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
+		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
+		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
+		"russian": "Позволяет вашим колонистам не впускать нежелательных гостей в их дом (в большинстве случаев).",
+		"ukrainian":"Дозволяє вашим колоністам не пускати небажаних гостей в їх будинок (в більшості випадків).",
+		"korean": "개척자들이 드나들 수 있게 해 주면서, 달갑지 않은 손님은 (대부분) 밖에 있게 해 줍니다.",
+		"chinese": "允许你的殖民者进入，同时把不受欢迎的访客拒之门外(大部分时间)。",
+		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
+	},
+	"woodWallDefense0Gate": {
+		"english": "Strong Wooden Defensive Gate",
+		"german": "Starkes Holztor",
+	},
+	"woodWallDefense0GateDescription": {
+		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-dutch: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-russian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-ukrainian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-korean: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-chinese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
+		"english": "Large trunks from old trees have been used to make this gate. It's as strong as wood can get.",
+		"german": "Große Stämme von alten Bäumen wurden zu diesem Tor verarbeitet. Es ist so stark wie ein Holztor nur sein kann.",
+		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
+		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
+		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
+		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
+		"russian": "Позволяет вашим колонистам не впускать нежелательных гостей в их дом (в большинстве случаев).",
+		"ukrainian":"Дозволяє вашим колоністам не пускати небажаних гостей в їх будинок (в більшості випадків).",
+		"korean": "개척자들이 드나들 수 있게 해 주면서, 달갑지 않은 손님은 (대부분) 밖에 있게 해 줍니다.",
+		"chinese": "允许你的殖民者进入，同时把不受欢迎的访客拒之门外(大部分时间)。",
+		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
+	},
+	"stoneWallDefense0Gate": {
+		"english": "Castle Gate",
+		"german": "Burgtor",
+	},
+	"stoneWallDefense0GateDescription": {
+		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-dutch: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-russian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-ukrainian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-korean: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-chinese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
+		"english": "If you've decided to secure your valuables with thick stone walls, you can't skip out on a strong gate to match them!",
+		"german": "Falls du dich entschieden hast, deine Schätze mit dicken Steinmauern zu schützen, brauchst du auch ein passendes starkes Tor dafür!",
+		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
+		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
+		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
+		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
+		"russian": "Позволяет вашим колонистам не впускать нежелательных гостей в их дом (в большинстве случаев).",
+		"ukrainian":"Дозволяє вашим колоністам не пускати небажаних гостей в їх будинок (в більшості випадків).",
+		"korean": "개척자들이 드나들 수 있게 해 주면서, 달갑지 않은 손님은 (대부분) 밖에 있게 해 줍니다.",
+		"chinese": "允许你的殖民者进入，同时把不受欢迎的访客拒之门外(大部分时间)。",
+		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
+	},
+	"stoneWallDefense1Gate": {
+		"english": "Great Fortress Gate",
+		"german": "Großes Festungstor",
+	},
+	"stoneWallDefense1GateDescription": {
+		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-dutch: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-russian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-ukrainian: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-korean: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-chinese: changed translations for most of the doors, but kept old one around until you change it.
+		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
+		"english": "This magnificent gate is great both for defense as well as for showing off. Dirk Hellmaier, the legendary architect, once said 'The ultimate entrance to the ultimate fortress'.",
+		"german": "Dieses großartige Tor ist sowohl zur Verteidigung als auch zum Angeben geeignet. Dirk Hellmaier, der legendäre Architekt, hat mal dazu gesagt 'Der ultimative Eingang für die ultimative Festung'.",
 		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
 		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
 		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",

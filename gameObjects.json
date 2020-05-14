@@ -4376,6 +4376,33 @@
 		"chinese": "有经验的医生可以利用这个实验室来制作治疗药水。",
 		"italian": "I medici esperti possono utilizzare questo laboratorio per creare pozioni curative.",
 	},
+	"deepMineStone": {
+		"english": "Deep Stone Mine",
+		"german": "Tiefe Steinmine",
+	},
+	"deepMineStoneDescription": {
+		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for stone - but you will be able to get a lot more of it out of the ground.",
+		"german": "Bergarbeit in den Tiefen ist viel schwerer als die Arbeit an der Oberfläche. Teure Mienenschächte benötigen ausgebildetes Personal welches mehr Zeit zum Abbauen von Stein benötigt - aber du wirst sehr viel größere Mengen an den Tag fördern können.",
+	},
+	"deepMineIron": {
+		"english": "Deep Iron Ore Mine",
+		"german": "Tiefe Eisenerzmine",
+	},
+	"deepMineIronDescription": {
+		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for iron ore - but you will be able to get a lot more of it out of the ground.",
+		"german": "Bergarbeit in den Tiefen ist viel schwerer als die Arbeit an der Oberfläche. Teure Mienenschächte benötigen ausgebildetes Personal welches mehr Zeit zum Abbauen von Eisenerz benötigt - aber du wirst sehr viel größere Mengen an den Tag fördern können.",
+	},
+	"deepMineCrystal": {
+		"english": "Deep Crystal Mine",
+		"german": "Tiefe Kristallmine",
+	},
+	"deepMineCrystalDescription": {
+		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for crystals - but you will be able to get a lot more of it out of the ground.",
+		"german": "Bergarbeit in den Tiefen ist viel schwerer als die Arbeit an der Oberfläche. Teure Mienenschächte benötigen ausgebildetes Personal welches mehr Zeit zum Abbauen von Kristallen benötigt - aber du wirst sehr viel größere Mengen an den Tag fördern können.",
+	},
+
+
+
 
 // Farming Soils
 //**************
@@ -4554,6 +4581,38 @@
 		"chinese": "医疗物品得靠好医生，当然，即使是最伟大的医生，如果没有精心处理草药所产生的药物和药水，也做不了什么。除了冬天，草药几乎一年四季都可以种植。",
 		"italian": "Le cure mediche dipendono da un buon dottore, certo, ma anche il più prestigioso dottore non potrebbe fare molto senza tutti i medicinali e le pozioni prodotti dalla lavorazione di questa delicata erba tramite una procedura molto accurata. Le piante curative crescono quasi tutto l'anno, fatta eccezione per l'inverno.",
 	},
+
+	
+// GROWING OTHER STUFF
+//********************
+
+	"growingSpotTree": {
+		"english": "Soil for growing Pine Trees",
+		"german": "Erde zum Pflanzen von Nadelbäumen",
+	},
+	"growingSpotTreeDescription": {
+		"english": "Bring the forest to your front lawn and plant beautiful pine trees whereever you want!",
+		"german": "Bringe den Wald in den eigenen Vorgarten und pflanze wunderschöne Nadelbäume wo immer du willst!",
+	},
+	"growingSpotCotton": {
+		"english": "Soil for growing Cotton Plants",
+		"german": "Erde zum Pflanzen von Baumwollpflanzen",
+	},
+	"growingSpotCottonDescription": {
+		"english": "If you want to mass produce certain types of clothing, cotton farms are certainly going to help.",
+		"german": "Wenn du bestimmte Arten von Kleider in hohen Mengen zum Verkauf produzieren willst, sind Baumwollfelder sicher hilfreich.",
+	},
+	"growingSpotTreeApple": {
+		"english": "Soil for growing Apple Trees",
+		"german": "Erde zum Pflanzen von Apfelbäumen",
+	},
+	"growingSpotTreeAppleDescription": {
+		"english": "While they take a long time to grow, apple trees pay off over the long run.",
+		"german": "Während Apfelbäume zwar eine halbe Ewigkeit zum Wachsen benötigen, zahlen sie sich früher oder später aus.",
+	},
+
+
+
 
 // Resources
 //**********

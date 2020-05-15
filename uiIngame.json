@@ -14,12 +14,14 @@
 	"year_no": {
 		"english": "Year %year%",
 		"french": "Année %year%",
-		"russian": "Год %year%"
+		"russian": "Год %year%",
+		"portuguese": "Ano %year%",
 	},
 	"quest_log": {
 		"english": "Quest Log",
 		"french": "Journal de bord",
-		"russian": "Журнал квестов"
+		"russian": "Журнал квестов",
+		"portuguese": "Registro de missões",
 	},
 	"research": {
 		"english": "Research",
@@ -3301,29 +3303,34 @@
 		"german": "Stufe %level%",
 		"french": "Niveau %level%",
 		"russian": "Уровень %level%",
+		"portuguese": "Nível %level%",
 	},
 	"professionsTitle": {
 		"english": "Professions - %fullName%",
 		"german": "Berufe - %fullName%",
 		"french": "Métiers - %fullName%",
 		"russian": "Профессии - %fullName%",
+		"portuguese": "Profissões - %fullName%",
 	},
 	"progressToNextLevel": {
 		"english": "Progress to next level: %currentPoints% / %totalPoints%",
 		"german": "Fortschritt zur nächsten Stufe: %currentPoints% / %totalPoints%",
 		"french": "Progression vers le prochain niveau : %currentPoints% / %totalPoints%",
 		"russian": "Прогресс до следующего уровня: %currentPoints% / %totalPoints%",
+		"portuguese": "Progresso para o próximo nível: %currentPoints% / %totalPoints%",
 	},
 	"xPoints": {
 		"english": "%points% Points",
 		"german": "%points% Points",
 		"french": "%points% points",
 		"russian": "%points% очков",
+		"portuguese": "%points% Pontos",
 	},
 	"skillPointsAvailable": {
 		"english": "%points% skill points available",
 		"german": "%points% Fähigkeitspunkte verfügbar",
 		"french": "%points% points de compétences disponibles",
 		"russian": "%points% очков умений доступно",
+		"portuguese": "%points% pontos de habilidade disponíveis",
 	},
 }

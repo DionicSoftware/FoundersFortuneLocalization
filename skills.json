@@ -21,29 +21,57 @@
 		"english": "Basics of Forestry",
 		"german": "Grundlagen der Forstwirtschaft",
 	},
+	"skillDesc_foresterBasics": {
+		"english": "Can chop trees and that's basically it.",
+		"german": "Kann Bäume fällen und das war's.",
+	},
 	"skillTitle_woodcuttingStoneTools": {
 		"english": "Stone Tools",
 		"german": "Steinwerkzeug",
+	},
+	"skillDesc_woodcuttingStoneTools": {
+		"english": "Can use stone tools to cut trees.",
+		"german": "Kann Steinwerkzeug zum Holzfällen verwenden.",
 	},
 	"skillTitle_woodcuttingMetalTools": {
 		"english": "Metal Tools",
 		"german": "Metallwerkzeug",
 	},
+	"skillDesc_woodcuttingMetalTools": {
+		"english": "Can use metal tools to cut trees.",
+		"german": "Kann Metallwerkzeug zum Holzfällen verwenden.",
+	},
 	"skillTitle_growingTrees": {
 		"english": "Planting Trees",
 		"german": "Bäume pflanzen",
+	},
+	"skillDesc_growingTrees": {
+		"english": "Can plant and care for new pine trees.",
+		"german": "Kann neue Nadelbäume anpflanzen und versorgen.",
 	},
 	"skillTitle_growingAppleTrees": {
 		"english": "Planting Apple Trees",
 		"german": "Apfelbäume pflanzen",
 	},
+	"skillDesc_growingAppleTrees": {
+		"english": "Can plant and care for new apple trees.",
+		"german": "Kann neue Apfelbäume anpflanzen und versorgen.",
+	},
 	"skillTitle_growingCotton": {
 		"english": "Planting Cotton",
 		"german": "Baumwolle pflanzen",
 	},
+	"skillDesc_growingCotton": {
+		"english": "Can plant and care for new cotton plants.",
+		"german": "Kann neue Baumwolle anpflanzen und versorgen.",
+	},
 	"skillTitle_foresterMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+	},
+	"skillDesc_foresterMasterOutfit": {
+		"english": "Can wear outfits meant for master foresters.",
+		"german": "Kann Kleidung für Meisterförster tragen.",
 	},
 
 
@@ -52,33 +80,65 @@
 		"english": "Basics of Mining",
 		"german": "Grundlagen des Bergbaus",
 	},
+	"skillDesc_minerBasics": {
+		"english": "Can mine stone and crystals.",
+		"german": "Kann Steine und Kristalle abbauen.",
+	},
 	"skillTitle_miningIron": {
 		"english": "Mining Iron",
 		"german": "Eisenbergbau",
+	},
+	"skillDesc_miningIron": {
+		"english": "Can mine iron ore.",
+		"german": "Kann Eisenerz abbauen.",
 	},
 	"skillTitle_miningStoneTools": {
 		"english": "Stone Tools",
 		"german": "Steinwerkzeug",
 	},
+	"skillDesc_miningStoneTools": {
+		"english": "Can use stone tools to mine.",
+		"german": "Kann Steinwerkzeug zum Bergbau verwenden.",
+	},
 	"skillTitle_miningMetalTools": {
 		"english": "Metal Tools",
 		"german": "Metallwerkzeug",
+	},
+	"skillDesc_miningMetalTools": {
+		"english": "Can use metal tools to mine.",
+		"german": "Kann Metallwerkzeug zum Bergbau verwenden.",
 	},
 	"skillTitle_deepStoneMine": {
 		"english": "Deep Stone Mining",
 		"german": "Tiefer Steinbergbau",
 	},
+	"skillDesc_deepStoneMine": {
+		"english": "Can go into deep mines to dig for additional stone.",
+		"german": "Kann tiefe Minen betreten um nach zusätzlichem Stein zu graben.",
+	},
 	"skillTitle_deepIronMine": {
 		"english": "Deep Iron Mining",
 		"german": "Tiefer Eisenbergbau",
+	},
+	"skillDesc_deepIronMine": {
+		"english": "Can go into deep mines to dig for additional iron ore.",
+		"german": "Kann tiefe Minen betreten um nach zusätzlichem Eisenerz zu graben.",
 	},
 	"skillTitle_deepCrystalMine": {
 		"english": "Deep Crystal Mining",
 		"german": "Tiefer Kristallbergbau",
 	},
+	"skillDesc_deepCrystalMine": {
+		"english": "Can go into deep mines to dig for additional crystals.",
+		"german": "Kann tiefe Minen betreten um nach zusätzlichen Kristallen zu graben.",
+	},
 	"skillTitle_minerMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+	},
+	"skillDesc_minerMasterOutfit": {
+		"english": "Can wear outfits meant for master miners.",
+		"german": "Kann Kleidung für Meisterbergarbeiter tragen.",
 	},
 
 
@@ -88,37 +148,73 @@
 		"english": "Basics of Farming",
 		"german": "Grundlagen der Landwirtschaft",
 	},
+	"skillDesc_farmerBasics": {
+		"english": "Knows enough how to stop plants from dying.",
+		"german": "Weiß genug, um Pflanzen am sterben zu hindern.",
+	},
 	"skillTitle_sowStrawberries": {
 		"english": "Sowing Strawberries",
 		"german": "Erdbeeren säen",
+	},
+	"skillDesc_sowStrawberries": {
+		"english": "Can sow strawberries.",
+		"german": "Kann Erdbeeren säen.",
 	},
 	"skillTitle_sowWheat": {
 		"english": "Sowing Wheat",
 		"german": "Weizen säen",
 	},
+	"skillDesc_sowWheat": {
+		"english": "Can sow wheat.",
+		"german": "Kann Weizen säen.",
+	},
 	"skillTitle_campfireCooking": {
 		"english": "Cooking at Campfire",
 		"german": "Kochen am Lagerfeuer",
+	},
+	"skillDesc_campfireCooking": {
+		"english": "Can roast some food over the campfire.",
+		"german": "Kann Essen über dem Lagerfeuer rösten.",
 	},
 	"skillTitle_kitchenCooking": {
 		"english": "Cooking at Kitchen",
 		"german": "Kochen in der Küche",
 	},
+	"skillDesc_kitchenCooking": {
+		"english": "Can make delicious meals in the kitchen.",
+		"german": "Kann köstliche Mahlzeiten in der Küche zubereiten.",
+	},
 	"skillTitle_bakeryCooking": {
 		"english": "Baking at Bakery",
 		"german": "Backen in der Bäckerei",
+	},
+	"skillDesc_bakeryCooking": {
+		"english": "Can use the bakery to make all kinds of baked goods.",
+		"german": "Kann in der Bäckerei allerlei Backwaren zubereiten.",
 	},
 	"skillTitle_animalCare": {
 		"english": "Animal Care",
 		"german": "Tierzucht",
 	},
+	"skillDesc_animalCare": {
+		"english": "Can tame wild animals and care for them.",
+		"german": "Kann wilde Tiere zähmen und für sie sorgen.",
+	},
 	"skillTitle_shearingSheep": {
 		"english": "Shearing Sheep",
 		"german": "Schafe scheren",
 	},
+	"skillDesc_shearingSheep": {
+		"english": "Can shear sheep to get wool.",
+		"german": "Kann Schafe scheren um Wolle zu bekommen.",
+	},
 	"skillTitle_farmerMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+	},
+	"skillDesc_farmerMasterOutfit": {
+		"english": "Can wear outfits meant for master farmers.",
+		"german": "Kann Kleidung für Meisterbauern tragen.",
 	},
 
 
@@ -127,29 +223,53 @@
 		"english": "Basics of Crafting",
 		"german": "Grundlagen des Handwerks",
 	},
+	"skillDesc_craftsmanBasics": {
+		"english": "Can tell a hammer from a nail.",
+		"german": "Kann einen Hammer von einem Nagel unterscheiden.",
+	},
 	"skillTitle_forging": {
 		"english": "Forging",
 		"german": "Schmieden",
+	},
+	"skillDesc_forging": {
+		"english": "Can use the forge to make tools, weapons, and armor.",
+		"german": "Kann die Schmiede verwenden um Werkzeug, Waffen und Rüstung zu fertigen.",
 	},
 	"skillTitle_makingBows": {
 		"english": "Making Bows",
 		"german": "Bogenmachen",
 	},
+	"skillDesc_makingBows": {
+		"english": "Can make bows.",
+		"german": "Kann Bögen herstellen.",
+	},
 	"skillTitle_tailoring": {
 		"english": "Tailoring",
 		"german": "Schneidern",
 	},
+	"skillDesc_tailoring": {
+		"english": "Can use the tailor's workshop to make clothes and armor.",
+		"german": "Kann in der Schneiderei Kleidung und Rüstung herstellen.",
+	},
 	"skillTitle_weaving": {
 		"english": "Weaving",
 		"german": "Weben",
-	},
+	}, // description doesn't exist (yet)
 	"skillTitle_tailoringMaster": {
 		"english": "Tailoring difficult cloth",
 		"german": "Schwere Stoffe schneidern",
 	},
+	"skillDesc_tailoringMaster": {
+		"english": "Some clothes require additional expertise to make.",
+		"german": "Manche Kleidung benötigt mehr Erfahrung zur Herstellung.",
+	},
 	"skillTitle_craftsmanMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+	},
+	"skillDesc_craftsmanMasterOutfit": {
+		"english": "Can wear outfits meant for master craftsmen.",
+		"german": "Kann Kleidung für Meisterhandwerker tragen.",
 	},
 
 
@@ -159,33 +279,57 @@
 		"english": "Basics of Medicine",
 		"german": "Grundlagen der Medizin",
 	},
+	"skillDesc_doctorBasics": {
+		"english": "Can tell medicine from poision (most time).",
+		"german": "Kann Medizin von Gift unterscheiden (meistens).",
+	},
 	"skillTitle_fluTreatment": {
 		"english": "Flu Treatment",
 		"german": "Grippebehandlung",
+	},
+	"skillDesc_fluTreatment": {
+		"english": "Can try simple treatments for the flu.",
+		"german": "Kann einfache Grippebehandlung durchführen.",
 	},
 	"skillTitle_makingMedicalPotions": {
 		"english": "Medical Potions",
 		"german": "Medizinische Tränke",
 	},
+	"skillDesc_makingMedicalPotions": {
+		"english": "Can make healing potions.",
+		"german": "Kann Heiltränke herstellen.",
+	},
 	"skillTitle_betterFluTreatments": {
-		"english": "Better Flu Treatments",
+		"english": "Better Flu Treatment",
 		"german": "Meister der Grippebehandlung",
+	},
+	"skillDesc_betterFluTreatments": {
+		"english": "Flu treatments have a higher chance of succeeding.",
+		"german": "Grippebehandlungen haben eine höhere Erfolgswahrscheinlichkeit.",
 	},
 	"skillTitle_applySplints": {
 		"english": "Applying Splints",
 		"german": "Schienen",
 	},
+	"skillDesc_applySplints": {
+		"english": "Can apply splints to heal a hurt or broken limb.",
+		"german": "Kann Arme und Beine Schienen um eine Verletzung oder einen Bruch zu heilen.",
+	},
 	"skillTitle_splintMaster": {
 		"english": "Splint Master",
 		"german": "Meister des Schienens",
+	},
+	"skillDesc_splintMaster": {
+		"english": "Has a lower probability for messing up splints.",
+		"german": "Hat eine kleinere Wahrscheinlichkeit Schienen zu vermasseln.",
 	},
 	"skillTitle_doctorMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
 	},
-	"skillTitle_psychology": {
-		"english": "Psychology",
-		"german": "Psychologie",
+	"skillDesc_doctorMasterOutfit": {
+		"english": "Can wear outfits meant for master doctors.",
+		"german": "Kann Kleidung für Meisterärzte tragen.",
 	},
 
 
@@ -194,17 +338,33 @@
 		"english": "Academic Fundamentals",
 		"german": "Akademische Grundlagen",
 	},
+	"skillDesc_scholarBasics": {
+		"english": "Has understood the basics of the scientific method.",
+		"german": "Hat die Grundlagen der wissenschaftlichen Methode verstanden.",
+	},
 	"skillTitle_researchScrolls": {
 		"english": "Research Scrolls",
 		"german": "Schriftrollen erforschen",
+	},
+	"skillDesc_researchScrolls": {
+		"english": "Can read ancient scrolls to gain some knowledge out of them.",
+		"german": "Kann alte Schriftrollen lesen um daraus Wissen zu erschließen.",
 	},
 	"skillTitle_teaching": {
 		"english": "Teaching",
 		"german": "Lehren",
 	},
+	"skillDesc_teaching": {
+		"english": "Can teach children life skills. In person teaching is always quicker then letting children learn from books.",
+		"german": "Kann Kindern ausbilden. Persönliche Lehre ist immer schneller als Kinder von Büchern lernen zu lassen.",
+	},
 	"skillTitle_scholarMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+	},
+	"skillDesc_scholarMasterOutfit": {
+		"english": "Can wear outfits meant for master scholars.",
+		"german": "Kann Kleidung für Meistergelehrte tragen.",
 	},
 
 
@@ -213,36 +373,72 @@
 		"english": "Basics of Combat",
 		"german": "Grundlagen des Kampfes",
 	},
+	"skillDesc_soldierBasics": {
+		"english": "Knows to aim the pointy end of the stick at the enemy.",
+		"german": "Weiß, dass man das spitze Ende des Stocks richtung Feind hält.",
+	},
 	"skillTitle_fightWoodenSwords": {
 		"english": "Wooden Swords",
 		"german": "Holzschwerter",
+	},
+	"skillDesc_fightWoodenSwords": {
+		"english": "Can fight with wooden swords.",
+		"german": "Kann mit Holzschwertern kämpfen.",
 	},
 	"skillTitle_fightStoneSwords": {
 		"english": "Stone Swords",
 		"german": "Steinschwerter",
 	},
+	"skillDesc_fightStoneSwords": {
+		"english": "Can fight with stone swords.",
+		"german": "Kann mit Steinschwertern kämpfen.",
+	},
 	"skillTitle_fightMetalSwords": {
 		"english": "Metal Swords",
 		"german": "Metallschwerter",
+	},
+	"skillDesc_fightMetalSwords": {
+		"english": "Can fight with metal swords.",
+		"german": "Kann mit Metallschwertern kämpfen.",
 	},
 	"skillTitle_fightBow": {
 		"english": "Archery",
 		"german": "Bogenschießen",
 	},
+	"skillDesc_fightBow": {
+		"english": "Can use ranged weapons to hurt the enemy from afar.",
+		"german": "Kann Distanzwaffen verwenden um den Gegener aus der Weite zu verletzen.",
+	},
 	"skillTitle_martialArts": {
 		"english": "Martial Arts",
 		"german": "Kampfkunst",
+	},
+	"skillDesc_martialArts": {
+		"english": "Can deal extra damage when unarmed.",
+		"german": "Kann zusätzlichen Schaden anrichten wenn unbewaffnet.",
 	},
 	"skillTitle_sneaking": {
 		"english": "Sneaking",
 		"german": "Schleichen",
 	},
+	"skillDesc_sneaking": {
+		"english": "Can walk around enemy camps without waking anyone.",
+		"german": "Kann durch feindliche Lager spazieren ohne jemanden zu wecken.",
+	},
 	"skillTitle_mediumArmor": {
 		"english": "Medium Armor",
 		"german": "Mittlere Rüstung",
 	},
+	"skillDesc_mediumArmor": {
+		"english": "Can wear medium armor.",
+		"german": "Kann mittlere Rüstung tragen.",
+	},
 	"skillTitle_heavyArmor": {
 		"english": "Heavy Armor",
 		"german": "Schwere Rüstung",
+	},
+	"skillDesc_heavyArmor": {
+		"english": "Can wear heavy armor.",
+		"german": "Kann schwere Rüstung tragen.",
 	},
 }

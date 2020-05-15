@@ -83,7 +83,7 @@
 		"italian": "Guardaboschi",
 	},
 	"professionDesc_Forester": {
-		"english": "As a forester your settler cuts down trees for wood. For Mother Nature's sake, foresters also takes care of saplings.",
+		"english": "As a forester, your settler cuts down trees for wood. For Mother Nature's sake, foresters also takes care of saplings.",
 		"dutch":  "Als houthakker hakt je kolonist bomen om voor hout. Omwille van moeder natuur zorgen houthakkers ook voor jonge boompjes.",
 		"german": "Als Förster fällt dein Kolonist Bäume für die Holzproduktion. Mutter Natur zu Liebe kümmern sich Förster auch um neue Setzlinge.",
 		"french": "En tant que forestier, votre colon abat des arbres pour du bois. Par amour de mère nature, il prend également soin des jeunes arbres.",
@@ -147,7 +147,7 @@
 		"italian": "Fabbro",
 	},
 	"professionDesc_Craftsman": {
-		"english": "As a craftsman your settler produces all the goods that you order at one of your workshops.",
+		"english": "As a craftsman, your settler produces all the goods that you order at one of your workshops.",
 		"dutch":  "Als ambachtsman produceert uw kolonist alle goederen die u in een van uw workshops bestelt.",
 		"german": "Als Handwerker produziert dein Siedler all die Waren, die du an einer deiner Werkstätten bestellt hast.",
 		"french": "En tant qu'artisan, votre colon produit toutes les marchandises ordonnées à l'un de vos ateliers.",
@@ -243,7 +243,7 @@
 		"italian": "Erudito",
 	},
 	"professionDesc_Scholar": {
-		"english": "As a scholar your colonist research new technologies to advance your colony.",
+		"english": "As a scholar, your colonist research new technologies to advance your colony.",
 		"dutch":  "Als geleerde onderzoekt uw kolonist nieuwe technologieën om uw kolonie vooruit te helpen.",
 		"german": "Als Gelehrter erforscht dein Kolonist neue Technologien, um deine Kolonie voranzubringen.",
 		"french": "En tant qu'érudit, votre colon recherche de nouvelles technologies pour améliorer votre colonie.",
@@ -258,7 +258,23 @@
 		"polish": "Jako uczony, twój kolonista odkrywa nowe technologie, aby rozwijać kolonię.",
 		"italian": "In qualità di eruditi, i tuoi coloni ricercano nuove tecnologie per far avanzare la tua colonia.",
 	},
-	"professionSpecialization_CraftsmanCarpenting": {
+
+
+	// SPECIALIZATIONS
+
+	// FORESTER
+	"professionSpecialization_chopTrees": {
+		"english": "Chopping Trees",
+		"german": "Bäume fällen",
+	},
+	"professionSpecialization_growTrees": {
+		"english": "Plant Trees",
+		"german": "Bäume pflanzen",
+	},
+	
+
+	// CRAFTSMAN
+	"professionSpecialization_carpenting": {
 		"english": "Carpenting",
 		"dutch":  "Vloerbedekking",
 		"german": "Schreinern",
@@ -274,7 +290,7 @@
 		"polish": "Stolarstwo",
 		"italian": "Carpenteria",
 	},
-	"professionSpecialization_CraftsmanMasonry": {
+	"professionSpecialization_masonry": {
 		"english": "Masonry",
 		"dutch":  "Metselwerk",
 		"german": "Steinmetzerei",
@@ -290,7 +306,7 @@
 		"polish": "Kamieniarstwo",
 		"italian": "Muratura",
 	},
-	"professionSpecialization_CraftsmanForging": {
+	"professionSpecialization_forging": {
 		"english": "Forging",
 		"dutch":  "Smeden",
 		"german": "Schmieden",
@@ -306,7 +322,7 @@
 		"polish": "Wykuwanie",
 		"italian": "Forgiatura",
 	},
-	"professionSpecialization_CraftsmanTailoring": {
+	"professionSpecialization_tailoring": {
 		"english": "Tailoring",
 		"dutch":  "Kleermakerswerk",
 		"german": "Schneidern",
@@ -322,7 +338,9 @@
 		"polish": "Krawiectwo",
 		"italian": "Sartoria",
 	},
-	"professionSpecialization_MinerStone": {
+
+	// MINER
+	"professionSpecialization_mineStone": {
 		"english": "Mine Stone",
 		"dutch":  "Mijn Steen",
 		"german": "Stein abbauen",
@@ -338,7 +356,7 @@
 		"polish": "Wydobywaj kamień",
 		"italian": "Estrazione della pietra",
 	},
-	"professionSpecialization_MinerIronOre": {
+	"professionSpecialization_mineIron": {
 		"english": "Mine Iron Ore",
 		"dutch":  "Mijn Ijzererts",
 		"german": "Eisenerz abbauen",
@@ -354,7 +372,7 @@
 		"polish": "Wydobywaj żelazo",
 		"italian": "Estrazione del ferro",
 	},
-	"professionSpecialization_MinerCrystal": {
+	"professionSpecialization_mineCrystal": {
 		"english": "Mine Crystals",
 		"dutch":  "Mijn Kristallen",
 		"german": "Kristalle abbauen",
@@ -370,7 +388,9 @@
 		"polish": "Wydobywaj kryształy",
 		"italian": "Estrazione dei cristalli",
 	},
-	"professionSpecialization_FarmerTendToFields": {
+
+	// FARMER
+	"professionSpecialization_tendToFields": {
 		"english": "Tend to Fields",
 		"dutch":  "Verzorg de Velden",
 		"german": "Felder bewirtschaften",
@@ -386,7 +406,7 @@
 		"polish": "Dbaj o uprawy",
 		"italian": "Cura dei campi",
 	},
-	"professionSpecialization_FarmerCook": {
+	"professionSpecialization_cook": {
 		"english": "Cook Food",
 		"dutch":  "Kook Voedsel",
 		"german": "Essen kochen",
@@ -402,7 +422,7 @@
 		"polish": "Gotuj jedzenie",
 		"italian": "Cottura del cibo",
 	},
-	"professionSpecialization_FarmerCotton": {
+	"professionSpecialization_harvestCotton": {
 		"english": "Gather cotton",
 		"dutch":  "Verzamel Katoen",
 		"german": "Baumwolle sammeln",
@@ -418,7 +438,7 @@
 		"polish": "Zbieraj bawełnę",
 		"italian": "Raccoglimento del cotone",
 	},
-	"professionSpecialization_FarmerApples": {
+	"professionSpecialization_harvestApples": {
 		"english": "Harvest Apples",
 		"dutch":  "Oogst Appelen",
 		"german": "Äpfel ernten",
@@ -434,7 +454,9 @@
 		"polish": "Zbieraj jabłka",
 		"italian": "Raccolta delle mele",
 	},
-	"professionSpecialization_DoctorProduceMedicine": {
+
+	// DOCTOR
+	"professionSpecialization_produceMedicine": {
 		"english": "Produce Medicine",
 		"dutch":  "Maak Medicijn",
 		"german": "Medizin produzieren",
@@ -450,7 +472,7 @@
 		"polish": "Produkuj leki",
 		"italian": "Produzione di medicinali",
 	},
-	"professionSpecialization_DoctorTendToPatients": {
+	"professionSpecialization_tendToPatients": {
 		"english": "Tend to Injured Colonists",
 		"dutch":  "Verzorg de Gewonde Kolonisten",
 		"german": "Um verletzte Kolonisten kümmern",
@@ -466,7 +488,7 @@
 		"polish": "Lecz zranionych kolonistów",
 		"italian": "Occuparsi dei coloni feriti",
 	},
-	"professionSpecialization_DoctorBuryDead": {
+	"professionSpecialization_buryDead": {
 		"english": "Bury Dead",
 		"dutch":  "Begraaf de Doden",
 		"german": "Verstorbene begraben",
@@ -482,7 +504,7 @@
 		"polish": "Grzeb martwych",
 		"italian": "Seppellimento dei morti",
 	},
-	"professionSpecialization_DoctorBrewBeer": {
+	"professionSpecialization_brewBeer": {
 		"english": "Brew Beer",
 		"dutch":  "Brouw Bier",
 		"german": "Bier brauen",
@@ -498,7 +520,9 @@
 		"polish": "Waż piwo",
 		"italian": "Preparare birra",
 	},
-	"professionSpecialization_ScholarAnalyzeCrystals": {
+
+	// SCHOLAR
+	"professionSpecialization_analyzeCrystals": {
 		"english": "Analyze Crystals",
 		"dutch":  "Analyseer Kristallen",
 		"german": "Kristalle analysieren",
@@ -514,7 +538,7 @@
 		"polish": "Analizuj kryształy",
 		"italian": "Analizzare cristalli",
 	},
-	"professionSpecialization_ScholarPerformResearch": {
+	"professionSpecialization_performResearch": {
 		"english": "Perform Research",
 		"german":  "Forschen",
 		"spanish": "Realizar una Investigación",

@@ -11,6 +11,12 @@
 		"portuguese": "Máx:",
 		"chinese": "最多:",
 	},
+	"year_no": {
+		"english": "Year %year%",
+	},
+	"quest_log": {
+		"english": "Quest Log",
+	},
 	"research": {
 		"english": "Research",
 		"german": "Forschung",
@@ -575,6 +581,14 @@
 		"polish": "Doświadczenie",
 		"italian": "Esperienza",
 		"bulgarian": "Опит",
+	},
+	"skills": {
+		"english": "Skills",
+		"german": "Fähigkeiten"
+	},
+	"noProfessionalSkills": {
+		"english": "No professional skills to speak of.",
+		"german": "Keine besonderen Fähigkeiten, die der Rede wert wären."
 	},
 	"view": {
 		"english": "View",
@@ -2457,8 +2471,14 @@
 		"italian": "Tutte le aspettative dei tuoi coloni sono soddisfatte. Prossima opportunità di arrivo dei migranti in %time%.",
 		"bulgarian": "Всички очаквания на вашите колонисти са изпълнени. Следващ шанс за мигранти в %time% минути.",
 	},
-    	"colonistIsDumbNoExperience": {
-		"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience in any job.",
+    "colonistIsDumbNoExperience": {
+		// TODO-french: make it shorter so it fits better
+		// TODO-spanish: make it shorter so it fits better
+		// TODO-portuguese: make it shorter so it fits better
+		// TODO-ukrainian: make it shorter so it fits better
+		// TODO-polish: make it shorter so it fits better
+		// TODO-italian: make it shorter so it fits better
+		"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience.",
 		"german": "Leider ist %firstName% nicht %derDie% Hellste und wird keine Erfahrung sammeln.",
 		"french": "Malheureusement, %firstName% est stupide et ne gagnera aucune expérience dans n'importe quel métier.",
 		"spanish": "Desafortunadamente, %firstName% es tont%oA% y no ganará nada de experiencia en ningún trabajo.",
@@ -2470,7 +2490,7 @@
 		"chinese": "非常不幸, %firstName% 实在太蠢了,任何职业都不会获得经验.",
 		"korean": "불행하게도, %firstName%#{는} 멍청이여서 어떤 직업에서도 경험치를 얻을 수 없습니다.",
 	   	//"arabic": "",
-	    	"polish": "Niestety, %firstName% jest głup%iA% i nie będzie zdobywać żadnego doświadczenia z żadnej pracy.",
+		"polish": "Niestety, %firstName% jest głup%iA% i nie będzie zdobywać żadnego doświadczenia z żadnej pracy.",
 		"italian": "Sfortunatamente, %firstName% è ottuso e non acquisirà alcuna esperienza durante lo svolgimento di un lavoro.",
 		"bulgarian": "За съжаление, %firstName% е тъп и няма да натрупа опит в никоя работа.",
 	},
@@ -3268,5 +3288,25 @@
 		"polish": "Szybkość kamery",
 		"italian": "Velocità telecamera",
 		"bulgarian": "Скорост на камерата",
+	},
+	"skillLevel": {
+		"english": "Level %level%",
+		"german": "Stufe %level%",
+	},
+	"professionsTitle": {
+		"english": "Professions - %fullName%",
+		"german": "Berufe - %fullName%",
+	},
+	"progressToNextLevel": {
+		"english": "Progress to next level: %currentPoints% / %totalPoints%",
+		"german": "Fortschritt zur nächsten Stufe: %currentPoints% / %totalPoints%",
+	},
+	"xPoints": {
+		"english": "%points% Points",
+		"german": "%points% Points",
+	},
+	"skillPointsAvailable": {
+		"english": "%points% skill points available",
+		"german": "%points% Fähigkeitspunkte verfügbar",
 	},
 }

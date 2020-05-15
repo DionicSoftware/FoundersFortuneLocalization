@@ -13,11 +13,13 @@
 	},
 	"year_no": {
 		"english": "Year %year%",
-		"french": "Année %year%"
+		"french": "Année %year%",
+		"russian": "Год %year%"
 	},
 	"quest_log": {
 		"english": "Quest Log",
 		"french": "Journal de bord",
+		"russian": "Журнал квестов"
 	},
 	"research": {
 		"english": "Research",
@@ -588,11 +590,13 @@
 		"english": "Skills",
 		"german": "Fähigkeiten",
 		"french": "Compétences",
+		"russian": "Навыки",
 	},
 	"noProfessionalSkills": {
 		"english": "No professional skills to speak of.",
 		"german": "Keine besonderen Fähigkeiten, die der Rede wert wären.",
 		"french": "Aucune compétence professionnelle à proprement parler.",
+		"russian": "У вас нет профессиональных навыков.",
 	},
 	"view": {
 		"english": "View",
@@ -3296,25 +3300,30 @@
 		"english": "Level %level%",
 		"german": "Stufe %level%",
 		"french": "Niveau %level%",
+		"russian": "Уровень %level%",
 	},
 	"professionsTitle": {
 		"english": "Professions - %fullName%",
 		"german": "Berufe - %fullName%",
 		"french": "Métiers - %fullName%",
+		"russian": "Профессии - %fullName%",
 	},
 	"progressToNextLevel": {
 		"english": "Progress to next level: %currentPoints% / %totalPoints%",
 		"german": "Fortschritt zur nächsten Stufe: %currentPoints% / %totalPoints%",
 		"french": "Progression vers le prochain niveau : %currentPoints% / %totalPoints%",
+		"russian": "Прогресс до следующего уровня: %currentPoints% / %totalPoints%",
 	},
 	"xPoints": {
 		"english": "%points% Points",
 		"german": "%points% Points",
 		"french": "%points% points",
+		"russian": "%points% очков",
 	},
 	"skillPointsAvailable": {
 		"english": "%points% skill points available",
 		"german": "%points% Fähigkeitspunkte verfügbar",
 		"french": "%points% points de compétences disponibles",
+		"russian": "%points% очков умений доступно",
 	},
 }

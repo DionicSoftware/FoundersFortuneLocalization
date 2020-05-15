@@ -228,6 +228,8 @@
 		"english": "Plant",
 		"german": "Pflanzen",
 		"french": "Planter",
+		"russian": "Посадить",
+		"portuguese": "Plantar",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -1697,6 +1699,8 @@
 		"english": "Care",
 		"german": "Pflegen",
 		"french": "Prendre soin",
+		"russian": "Ухаживать",
+		"portuguese": "Cuidado",
 	},
 	"TeachLifeSkills": {
 		"english": "Educate",
@@ -1741,6 +1745,7 @@
 		"french": "Raconter une blague au membre de « %faction% »",
 		"spanish": "Contar un chiste a un miembro de \"%faction%\"",
 		"russian": "Рассказать шутку жителю \"%faction%\"",
+		"portuguese": "Conte uma piada para um membro da \"%faction%\"",
 	},
 
 
@@ -1961,6 +1966,8 @@
 		"english": "Next interaction in %time%",
 		"german": "Nächste Interaktion in %time%",
 		"french": "Prochaine interaction dans %time%",
+		"russian": "Следующее взаимодействие в %time%",
+		"portuguese": "Próxima interação em %time%",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",
@@ -2105,6 +2112,9 @@
 	"missingSkill": {
 		"english": "Missing skill: %skill%",
 		"german": "Fähigkeit fehlt: %skill%",
+		"french": "Compétence manquante : %skill%",
+		"russian": "Отсутствует навык: %skill%",
+		"portuguese": "Habilidade ausente: %skill%",
 	}
 	
 }

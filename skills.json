@@ -25,6 +25,7 @@
 	"skillDesc_foresterBasics": {
 		"english": "Can chop trees and that's basically it.",
 		"german": "Kann Bäume fällen und das war's.",
+		"french": "Peut couper des arbres, et c'est à peu près tout.",
 	},
 	"skillTitle_woodcuttingStoneTools": {
 		"english": "Stone Tools",
@@ -34,6 +35,7 @@
 	"skillDesc_woodcuttingStoneTools": {
 		"english": "Can use stone tools to cut trees.",
 		"german": "Kann Steinwerkzeug zum Holzfällen verwenden.",
+		"french": "Peut utiliser des outils en pierre pour couper des arbres.",
 	},
 	"skillTitle_woodcuttingMetalTools": {
 		"english": "Metal Tools",
@@ -43,6 +45,7 @@
 	"skillDesc_woodcuttingMetalTools": {
 		"english": "Can use metal tools to cut trees.",
 		"german": "Kann Metallwerkzeug zum Holzfällen verwenden.",
+		"french": "Peut utiliser des outils en métal pour couper des arbres.",
 	},
 	"skillTitle_growingTrees": {
 		"english": "Planting Trees",
@@ -52,6 +55,7 @@
 	"skillDesc_growingTrees": {
 		"english": "Can plant and care for new pine trees.",
 		"german": "Kann neue Nadelbäume anpflanzen und versorgen.",
+		"french": "Peut planter et entretenir de nouveaux pins.",
 	},
 	"skillTitle_growingAppleTrees": {
 		"english": "Planting Apple Trees",
@@ -61,6 +65,7 @@
 	"skillDesc_growingAppleTrees": {
 		"english": "Can plant and care for new apple trees.",
 		"german": "Kann neue Apfelbäume anpflanzen und versorgen.",
+		"french": "Peut planter et entretenir de nouveaux pommiers.",
 	},
 	"skillTitle_growingCotton": {
 		"english": "Planting Cotton",
@@ -70,6 +75,7 @@
 	"skillDesc_growingCotton": {
 		"english": "Can plant and care for new cotton plants.",
 		"german": "Kann neue Baumwolle anpflanzen und versorgen.",
+		"french": "Peut planter et entretenir de nouveaux plants de coton.",
 	},
 	"skillTitle_foresterMasterOutfit": {
 		"english": "Master Outfit",
@@ -79,6 +85,7 @@
 	"skillDesc_foresterMasterOutfit": {
 		"english": "Can wear outfits meant for master foresters.",
 		"german": "Kann Kleidung für Meisterförster tragen.",
+		"french": "Peut porter des tenues destinées aux maîtres forestiers.",
 	},
 
 
@@ -86,66 +93,82 @@
 	"skillTitle_minerBasics": {
 		"english": "Basics of Mining",
 		"german": "Grundlagen des Bergbaus",
+		"french": "Bases du minage",
 	},
 	"skillDesc_minerBasics": {
 		"english": "Can mine stone and crystals.",
 		"german": "Kann Steine und Kristalle abbauen.",
+		"french": "Peut miner de la pierre et des cristaux.",
 	},
 	"skillTitle_miningIron": {
 		"english": "Mining Iron",
 		"german": "Eisenbergbau",
+		"french": "Minage de fer",
 	},
 	"skillDesc_miningIron": {
 		"english": "Can mine iron ore.",
 		"german": "Kann Eisenerz abbauen.",
+		"french": "Peut miner du minerai de fer.",
 	},
 	"skillTitle_miningStoneTools": {
 		"english": "Stone Tools",
 		"german": "Steinwerkzeug",
+		"french": "Outils en pierre",
 	},
 	"skillDesc_miningStoneTools": {
 		"english": "Can use stone tools to mine.",
 		"german": "Kann Steinwerkzeug zum Bergbau verwenden.",
+		"french": "Peut utiliser des outils en pierre pour miner.",
 	},
 	"skillTitle_miningMetalTools": {
 		"english": "Metal Tools",
 		"german": "Metallwerkzeug",
+		"french": "Outils en métal",
 	},
 	"skillDesc_miningMetalTools": {
 		"english": "Can use metal tools to mine.",
 		"german": "Kann Metallwerkzeug zum Bergbau verwenden.",
+		"french": "Peut utiliser des outils en métal pour miner.",
 	},
 	"skillTitle_deepStoneMine": {
 		"english": "Deep Stone Mining",
 		"german": "Tiefer Steinbergbau",
+		"french": "Minage de pierre en profondeur",
 	},
 	"skillDesc_deepStoneMine": {
 		"english": "Can go into deep mines to dig for additional stone.",
 		"german": "Kann tiefe Minen betreten um nach zusätzlichem Stein zu graben.",
+		"french": "Peut aller dans des mines profondes pour y récupérer de la pierre supplémentaire.",
 	},
 	"skillTitle_deepIronMine": {
 		"english": "Deep Iron Mining",
 		"german": "Tiefer Eisenbergbau",
+		"french": "Minage de fer en profondeur",
 	},
 	"skillDesc_deepIronMine": {
 		"english": "Can go into deep mines to dig for additional iron ore.",
 		"german": "Kann tiefe Minen betreten um nach zusätzlichem Eisenerz zu graben.",
+		"french": "Peut aller dans des mines profondes pour y récupérer du minerai de fer supplémentaire.",
 	},
 	"skillTitle_deepCrystalMine": {
 		"english": "Deep Crystal Mining",
 		"german": "Tiefer Kristallbergbau",
+		"french": "Minage de cristaux en profondeur",
 	},
 	"skillDesc_deepCrystalMine": {
 		"english": "Can go into deep mines to dig for additional crystals.",
 		"german": "Kann tiefe Minen betreten um nach zusätzlichen Kristallen zu graben.",
+		"french": "Peut aller dans des mines profondes pour y récupérer des cristaux supplémentaires.",
 	},
 	"skillTitle_minerMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+		"french": "Équipement maître",
 	},
 	"skillDesc_minerMasterOutfit": {
 		"english": "Can wear outfits meant for master miners.",
 		"german": "Kann Kleidung für Meisterbergarbeiter tragen.",
+		"french": "Peut porter l'équipement destiné aux maîtres mineurs.",
 	},
 
 
@@ -154,74 +177,92 @@
 	"skillTitle_farmerBasics": {
 		"english": "Basics of Farming",
 		"german": "Grundlagen der Landwirtschaft",
+		"french": "Bases de l'agriculture",
 	},
 	"skillDesc_farmerBasics": {
 		"english": "Knows enough how to stop plants from dying.",
 		"german": "Weiß genug, um Pflanzen am sterben zu hindern.",
+		"french": "Sait plutôt bien comment empêcher les plantes de mourir.",
 	},
 	"skillTitle_sowStrawberries": {
 		"english": "Sowing Strawberries",
 		"german": "Erdbeeren säen",
+		"french": "Semer des fraises",
 	},
 	"skillDesc_sowStrawberries": {
 		"english": "Can sow strawberries.",
 		"german": "Kann Erdbeeren säen.",
+		"french": "Peut semer des fraises.",
 	},
 	"skillTitle_sowWheat": {
 		"english": "Sowing Wheat",
 		"german": "Weizen säen",
+		"french": "Semer du blé",
 	},
 	"skillDesc_sowWheat": {
 		"english": "Can sow wheat.",
 		"german": "Kann Weizen säen.",
+		"french": "Peut semer du blé.",
 	},
 	"skillTitle_campfireCooking": {
 		"english": "Cooking at Campfire",
 		"german": "Kochen am Lagerfeuer",
+		"french": "Cuisiner au feu de camp",
 	},
 	"skillDesc_campfireCooking": {
 		"english": "Can roast some food over the campfire.",
 		"german": "Kann Essen über dem Lagerfeuer rösten.",
+		"french": "Peut faire rôtir de la nourriture au dessus d'un feu de camp.",
 	},
 	"skillTitle_kitchenCooking": {
 		"english": "Cooking at Kitchen",
 		"german": "Kochen in der Küche",
+		"french": "Cuisiner à la cuisine",
 	},
 	"skillDesc_kitchenCooking": {
 		"english": "Can make delicious meals in the kitchen.",
 		"german": "Kann köstliche Mahlzeiten in der Küche zubereiten.",
+		"french": "Peut préparer de délicieux repas dans la cuisine.",
 	},
 	"skillTitle_bakeryCooking": {
 		"english": "Baking at Bakery",
 		"german": "Backen in der Bäckerei",
+		"french": "Cuisiner à la boulangerie",
 	},
 	"skillDesc_bakeryCooking": {
 		"english": "Can use the bakery to make all kinds of baked goods.",
 		"german": "Kann in der Bäckerei allerlei Backwaren zubereiten.",
+		"french": "Peut utiliser la boulangerie pour fabriquer toutes sortes de produits de boulangerie.",
 	},
 	"skillTitle_animalCare": {
 		"english": "Animal Care",
 		"german": "Tierzucht",
+		"french": "Soins aux animaux",
 	},
 	"skillDesc_animalCare": {
 		"english": "Can tame wild animals and care for them.",
 		"german": "Kann wilde Tiere zähmen und für sie sorgen.",
+		"french": "Peut apprivoiser des animaux sauvages et en prendre soin.",
 	},
 	"skillTitle_shearingSheep": {
 		"english": "Shearing Sheep",
 		"german": "Schafe scheren",
+		"french": "Tonte des moutons",
 	},
 	"skillDesc_shearingSheep": {
 		"english": "Can shear sheep to get wool.",
 		"german": "Kann Schafe scheren um Wolle zu bekommen.",
+		"french": "Peut tondre les moutons pour obtenir de la laine.",
 	},
 	"skillTitle_farmerMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+		"french": "Équipement maître",
 	},
 	"skillDesc_farmerMasterOutfit": {
 		"english": "Can wear outfits meant for master farmers.",
 		"german": "Kann Kleidung für Meisterbauern tragen.",
+		"french": "Peut porter un équipement destiné aux maîtres fermiers.",
 	},
 
 
@@ -229,54 +270,67 @@
 	"skillTitle_craftsmanBasics": {
 		"english": "Basics of Crafting",
 		"german": "Grundlagen des Handwerks",
+		"french": "Bases de l'artisanat",
 	},
 	"skillDesc_craftsmanBasics": {
 		"english": "Can tell a hammer from a nail.",
 		"german": "Kann einen Hammer von einem Nagel unterscheiden.",
+		"french": "On peut distinguer un marteau d'un clou.",
 	},
 	"skillTitle_forging": {
 		"english": "Forging",
 		"german": "Schmieden",
+		"french": "Forgeage",
 	},
 	"skillDesc_forging": {
 		"english": "Can use the forge to make tools, weapons, and armor.",
 		"german": "Kann die Schmiede verwenden um Werkzeug, Waffen und Rüstung zu fertigen.",
+		"french": "Peut utiliser la forge pour fabriquer des outils, des armes et des armures.",
 	},
 	"skillTitle_makingBows": {
 		"english": "Making Bows",
 		"german": "Bogenmachen",
+		"french": "Fabrication d'arcs",
 	},
 	"skillDesc_makingBows": {
 		"english": "Can make bows.",
 		"german": "Kann Bögen herstellen.",
+		"french": "Peut fabriquer des arcs.",
 	},
 	"skillTitle_tailoring": {
 		"english": "Tailoring",
 		"german": "Schneidern",
+		"french": "Couture",
 	},
 	"skillDesc_tailoring": {
 		"english": "Can use the tailor's workshop to make clothes and armor.",
 		"german": "Kann in der Schneiderei Kleidung und Rüstung herstellen.",
+		"french": "Peut utiliser l'atelier du tailleur pour fabriquer des vêtements et des armures.",
 	},
 	"skillTitle_weaving": {
 		"english": "Weaving",
 		"german": "Weben",
+		"french": "Tissage",
 	}, // description doesn't exist (yet)
 	"skillTitle_tailoringMaster": {
 		"english": "Tailoring difficult cloth",
 		"german": "Schwere Stoffe schneidern",
+		"french": "Coudre des vêtements complexes",
 	},
 	"skillDesc_tailoringMaster": {
 		"english": "Some clothes require additional expertise to make.",
 		"german": "Manche Kleidung benötigt mehr Erfahrung zur Herstellung.",
+		"french": "Certains vêtements nécessitent une expertise supplémentaire pour être confectionnés.",
 	},
 	"skillTitle_craftsmanMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+		"french": "Équipement maître",
 	},
 	"skillDesc_craftsmanMasterOutfit": {
 		"english": "Can wear outfits meant for master craftsmen.",
 		"german": "Kann Kleidung für Meisterhandwerker tragen.",
+		"french": "Peut porter un équipement destiné aux maîtres artisans.",
 	},
 
 
@@ -285,58 +339,72 @@
 	"skillTitle_doctorBasics": {
 		"english": "Basics of Medicine",
 		"german": "Grundlagen der Medizin",
+		"french": "Bases de la médecine",
 	},
 	"skillDesc_doctorBasics": {
 		"english": "Can tell medicine from poision (most time).",
 		"german": "Kann Medizin von Gift unterscheiden (meistens).",
+		"french": "Peut distinguer un médicament d'un poison (la plupart du temps).",
 	},
 	"skillTitle_fluTreatment": {
 		"english": "Flu Treatment",
 		"german": "Grippebehandlung",
+		"french": "Traitement de la grippe",
 	},
 	"skillDesc_fluTreatment": {
 		"english": "Can try simple treatments for the flu.",
 		"german": "Kann einfache Grippebehandlung durchführen.",
+		"french": "Peut essayer des traitements simples contre la grippe.",
 	},
 	"skillTitle_makingMedicalPotions": {
 		"english": "Medical Potions",
 		"german": "Medizinische Tränke",
+		"french": "Potions médicales",
 	},
 	"skillDesc_makingMedicalPotions": {
 		"english": "Can make healing potions.",
 		"german": "Kann Heiltränke herstellen.",
+		"french": "Peut faire des potions de guérison.",
 	},
 	"skillTitle_betterFluTreatments": {
 		"english": "Better Flu Treatment",
 		"german": "Meister der Grippebehandlung",
+		"french": "Meilleur traitement de la grippe",
 	},
 	"skillDesc_betterFluTreatments": {
 		"english": "Flu treatments have a higher chance of succeeding.",
 		"german": "Grippebehandlungen haben eine höhere Erfolgswahrscheinlichkeit.",
+		"french": "Les traitements contre la grippe ont plus de chances de réussir.",
 	},
 	"skillTitle_applySplints": {
 		"english": "Applying Splints",
 		"german": "Schienen",
+		"french": "Mise en place d'attelles",
 	},
 	"skillDesc_applySplints": {
 		"english": "Can apply splints to heal a hurt or broken limb.",
 		"german": "Kann Arme und Beine Schienen um eine Verletzung oder einen Bruch zu heilen.",
+		"french": "Peut appliquer des attelles pour soigner une blessure ou un membre cassé.",
 	},
 	"skillTitle_splintMaster": {
 		"english": "Splint Master",
 		"german": "Meister des Schienens",
+		"french": "Maître des attelles",
 	},
 	"skillDesc_splintMaster": {
 		"english": "Has a lower probability for messing up splints.",
 		"german": "Hat eine kleinere Wahrscheinlichkeit Schienen zu vermasseln.",
+		"french": "A une probabilité plus faible de rater la mise en place d'attelles.",
 	},
 	"skillTitle_doctorMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+		"french": "Équipement maître",
 	},
 	"skillDesc_doctorMasterOutfit": {
 		"english": "Can wear outfits meant for master doctors.",
 		"german": "Kann Kleidung für Meisterärzte tragen.",
+		"french": "Peut porter un équipement destiné aux maîtres médecins.",
 	},
 
 
@@ -344,34 +412,42 @@
 	"skillTitle_scholarBasics": {
 		"english": "Academic Fundamentals",
 		"german": "Akademische Grundlagen",
+		"french": "Fondements académiques",
 	},
 	"skillDesc_scholarBasics": {
 		"english": "Has understood the basics of the scientific method.",
 		"german": "Hat die Grundlagen der wissenschaftlichen Methode verstanden.",
+		"french": "A compris les bases de la méthode scientifique.",
 	},
 	"skillTitle_researchScrolls": {
 		"english": "Research Scrolls",
 		"german": "Schriftrollen erforschen",
+		"french": "Parchemins de recherche",
 	},
 	"skillDesc_researchScrolls": {
 		"english": "Can read ancient scrolls to gain some knowledge out of them.",
 		"german": "Kann alte Schriftrollen lesen um daraus Wissen zu erschließen.",
+		"french": "Peut lire des parchemins anciens pour en tirer des connaissances.",
 	},
 	"skillTitle_teaching": {
 		"english": "Teaching",
 		"german": "Lehren",
+		"french": "Enseignement",
 	},
 	"skillDesc_teaching": {
 		"english": "Can teach children life skills. In person teaching is always quicker then letting children learn from books.",
 		"german": "Kann Kindern ausbilden. Persönliche Lehre ist immer schneller als Kinder von Büchern lernen zu lassen.",
+		"french": "Peut enseigner aux enfants les compétences de la vie courante. L'enseignement direct est toujours plus rapide que l'apprentissage par les livres.",
 	},
 	"skillTitle_scholarMasterOutfit": {
 		"english": "Master Outfit",
 		"german": "Meisterkleidung",
+		"french": "Équipement maître",
 	},
 	"skillDesc_scholarMasterOutfit": {
 		"english": "Can wear outfits meant for master scholars.",
 		"german": "Kann Kleidung für Meistergelehrte tragen.",
+		"french": "Peut porter un équipement déstiné aux maîtres universitaires.",
 	},
 
 
@@ -379,73 +455,91 @@
 	"skillTitle_soldierBasics": {
 		"english": "Basics of Combat",
 		"german": "Grundlagen des Kampfes",
+		"french": "Bases du combat",
 	},
 	"skillDesc_soldierBasics": {
 		"english": "Knows to aim the pointy end of the stick at the enemy.",
 		"german": "Weiß, dass man das spitze Ende des Stocks richtung Feind hält.",
+		"french": "Sait comment diriger le bout pointu du bâton vers l'ennemi.",
 	},
 	"skillTitle_fightWoodenSwords": {
 		"english": "Wooden Swords",
 		"german": "Holzschwerter",
+		"french": "Épées en bois",
 	},
 	"skillDesc_fightWoodenSwords": {
 		"english": "Can fight with wooden swords.",
 		"german": "Kann mit Holzschwertern kämpfen.",
+		"french": "Peut combattre avec des épées en bois.",
 	},
 	"skillTitle_fightStoneSwords": {
 		"english": "Stone Swords",
 		"german": "Steinschwerter",
+		"french": "Épées de pierre",
 	},
 	"skillDesc_fightStoneSwords": {
 		"english": "Can fight with stone swords.",
 		"german": "Kann mit Steinschwertern kämpfen.",
+		"french": "Peut combattre avec des épées de pierre.",
 	},
 	"skillTitle_fightMetalSwords": {
 		"english": "Metal Swords",
 		"german": "Metallschwerter",
+		"french": "Épées en métal",
 	},
 	"skillDesc_fightMetalSwords": {
 		"english": "Can fight with metal swords.",
 		"german": "Kann mit Metallschwertern kämpfen.",
+		"french": "Peut combattre avec des épées en métal.",
 	},
 	"skillTitle_fightBow": {
 		"english": "Archery",
 		"german": "Bogenschießen",
+		"french": "Tir à l'arc",
 	},
 	"skillDesc_fightBow": {
 		"english": "Can use ranged weapons to hurt the enemy from afar.",
 		"german": "Kann Distanzwaffen verwenden um den Gegener aus der Weite zu verletzen.",
+		"french": "Peut utiliser des armes à distance pour blesser l'ennemi de loin.",
 	},
 	"skillTitle_martialArts": {
 		"english": "Martial Arts",
 		"german": "Kampfkunst",
+		"french": "Arts martiaux",
 	},
 	"skillDesc_martialArts": {
 		"english": "Can deal extra damage when unarmed.",
 		"german": "Kann zusätzlichen Schaden anrichten wenn unbewaffnet.",
+		"french": "Peut causer des dégâts supplémentaires lorsqu'il n'est pas armé.",
 	},
 	"skillTitle_sneaking": {
 		"english": "Sneaking",
 		"german": "Schleichen",
+		"french": "Discrétion",
 	},
 	"skillDesc_sneaking": {
 		"english": "Can walk around enemy camps without waking anyone.",
 		"german": "Kann durch feindliche Lager spazieren ohne jemanden zu wecken.",
+		"french": "Peut se promener autour des camps ennemis sans réveiller personne.",
 	},
 	"skillTitle_mediumArmor": {
 		"english": "Medium Armor",
 		"german": "Mittlere Rüstung",
+		"french": "Armure moyenne",
 	},
 	"skillDesc_mediumArmor": {
 		"english": "Can wear medium armor.",
 		"german": "Kann mittlere Rüstung tragen.",
+		"french": "Peut porter une armure moyenne.",
 	},
 	"skillTitle_heavyArmor": {
 		"english": "Heavy Armor",
 		"german": "Schwere Rüstung",
+		"french": "Armure lourde",
 	},
 	"skillDesc_heavyArmor": {
 		"english": "Can wear heavy armor.",
 		"german": "Kann schwere Rüstung tragen.",
+		"french": "Peut porter une armure lourde.",
 	},
 }

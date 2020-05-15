@@ -13,9 +13,11 @@
 	},
 	"year_no": {
 		"english": "Year %year%",
+		"french": "Année %year%"
 	},
 	"quest_log": {
 		"english": "Quest Log",
+		"french": "Journal de bord",
 	},
 	"research": {
 		"english": "Research",
@@ -584,11 +586,13 @@
 	},
 	"skills": {
 		"english": "Skills",
-		"german": "Fähigkeiten"
+		"german": "Fähigkeiten",
+		"french": "Compétences",
 	},
 	"noProfessionalSkills": {
 		"english": "No professional skills to speak of.",
-		"german": "Keine besonderen Fähigkeiten, die der Rede wert wären."
+		"german": "Keine besonderen Fähigkeiten, die der Rede wert wären.",
+		"french": "Aucune compétence professionnelle à proprement parler.",
 	},
 	"view": {
 		"english": "View",
@@ -2472,7 +2476,6 @@
 		"bulgarian": "Всички очаквания на вашите колонисти са изпълнени. Следващ шанс за мигранти в %time% минути.",
 	},
     "colonistIsDumbNoExperience": {
-		// TODO-french: make it shorter so it fits better
 		// TODO-spanish: make it shorter so it fits better
 		// TODO-portuguese: make it shorter so it fits better
 		// TODO-ukrainian: make it shorter so it fits better
@@ -2480,7 +2483,7 @@
 		// TODO-italian: make it shorter so it fits better
 		"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience.",
 		"german": "Leider ist %firstName% nicht %derDie% Hellste und wird keine Erfahrung sammeln.",
-		"french": "Malheureusement, %firstName% est stupide et ne gagnera aucune expérience dans n'importe quel métier.",
+		"french": "Malheureusement, %firstName% est stupide et ne gagnera pas d'expérience.",
 		"spanish": "Desafortunadamente, %firstName% es tont%oA% y no ganará nada de experiencia en ningún trabajo.",
 		"turkish": "Ne yazık ki, %firstName% bir aptal ve çalıştığı işlerde tecrübe edinemeyecek.", 
 		"portuguese": "Infelizmente, %firstName% é burro e não vai ganhar experiência em nenhum trabalho.",
@@ -3292,21 +3295,26 @@
 	"skillLevel": {
 		"english": "Level %level%",
 		"german": "Stufe %level%",
+		"french": "Niveau %level%",
 	},
 	"professionsTitle": {
 		"english": "Professions - %fullName%",
 		"german": "Berufe - %fullName%",
+		"french": "Métiers - %fullName%",
 	},
 	"progressToNextLevel": {
 		"english": "Progress to next level: %currentPoints% / %totalPoints%",
 		"german": "Fortschritt zur nächsten Stufe: %currentPoints% / %totalPoints%",
+		"french": "Progression vers le prochain niveau : %currentPoints% / %totalPoints%",
 	},
 	"xPoints": {
 		"english": "%points% Points",
 		"german": "%points% Points",
+		"french": "%points% points",
 	},
 	"skillPointsAvailable": {
 		"english": "%points% skill points available",
 		"german": "%points% Fähigkeitspunkte verfügbar",
+		"french": "%points% points de compétences disponibles",
 	},
 }

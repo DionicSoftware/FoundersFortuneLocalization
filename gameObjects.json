@@ -4379,26 +4379,32 @@
 	"deepMineStone": {
 		"english": "Deep Stone Mine",
 		"german": "Tiefe Steinmine",
+		"french": "Mine de pierre profonde",
 	},
 	"deepMineStoneDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for stone - but you will be able to get a lot more of it out of the ground.",
 		"german": "Bergarbeit in den Tiefen ist viel schwerer als die Arbeit an der Oberfläche. Teure Mienenschächte benötigen ausgebildetes Personal welches mehr Zeit zum Abbauen von Stein benötigt - aber du wirst sehr viel größere Mengen an den Tag fördern können.",
+		"french": "L'exploitation minière dans les profondeurs est beaucoup plus difficile que l'exploitation minière en surface. Les mines coûteuses ont besoin de personnel qualifié qui mettra plus de temps à extraire la pierre - mais vous pourrez en extraire beaucoup plus du sol.",
 	},
 	"deepMineIron": {
 		"english": "Deep Iron Ore Mine",
 		"german": "Tiefe Eisenerzmine",
+		"french": "Mine de minerai fer profonde",
 	},
 	"deepMineIronDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for iron ore - but you will be able to get a lot more of it out of the ground.",
 		"german": "Bergarbeit in den Tiefen ist viel schwerer als die Arbeit an der Oberfläche. Teure Mienenschächte benötigen ausgebildetes Personal welches mehr Zeit zum Abbauen von Eisenerz benötigt - aber du wirst sehr viel größere Mengen an den Tag fördern können.",
+		"french": "L'exploitation minière dans les profondeurs est beaucoup plus difficile que l'exploitation minière en surface. Les mines coûteuses ont besoin d'un personnel qualifié qui mettra plus de temps à extraire le minerai de fer, mais vous pourrez en extraire beaucoup plus du sol.",
 	},
 	"deepMineCrystal": {
 		"english": "Deep Crystal Mine",
 		"german": "Tiefe Kristallmine",
+		"french": "Mine de cristal profonde",
 	},
 	"deepMineCrystalDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for crystals - but you will be able to get a lot more of it out of the ground.",
 		"german": "Bergarbeit in den Tiefen ist viel schwerer als die Arbeit an der Oberfläche. Teure Mienenschächte benötigen ausgebildetes Personal welches mehr Zeit zum Abbauen von Kristallen benötigt - aber du wirst sehr viel größere Mengen an den Tag fördern können.",
+		"french": "L'exploitation minière dans les profondeurs est beaucoup plus difficile que l'exploitation minière en surface. Les mines coûteuses ont besoin d'un personnel qualifié qui mettra plus de temps à extraire les cristaux, mais vous pourrez en extraire beaucoup plus du sol.",
 	},
 
 
@@ -4589,26 +4595,32 @@
 	"growingSpotTree": {
 		"english": "Soil for growing Pine Trees",
 		"german": "Erde zum Pflanzen von Nadelbäumen",
+		"french": "Sol pour culture de pins",
 	},
 	"growingSpotTreeDescription": {
 		"english": "Bring the forest to your front lawn and plant beautiful pine trees whereever you want!",
 		"german": "Bringe den Wald in den eigenen Vorgarten und pflanze wunderschöne Nadelbäume wo immer du willst!",
+		"french": "Amenez la forêt sur votre pelouse de devant et plantez de beaux pins où vous voulez !",
 	},
 	"growingSpotCotton": {
 		"english": "Soil for growing Cotton Plants",
 		"german": "Erde zum Pflanzen von Baumwollpflanzen",
+		"french": "Sol pour culture de plantes de coton",
 	},
 	"growingSpotCottonDescription": {
 		"english": "If you want to mass produce certain types of clothing, cotton farms are certainly going to help.",
 		"german": "Wenn du bestimmte Arten von Kleider in hohen Mengen zum Verkauf produzieren willst, sind Baumwollfelder sicher hilfreich.",
+		"french": "Si vous souhaitez produire en masse certains types de vêtements, les exploitations de coton vous aideront certainement.",
 	},
 	"growingSpotTreeApple": {
 		"english": "Soil for growing Apple Trees",
 		"german": "Erde zum Pflanzen von Apfelbäumen",
+		"french": "Sol pour culture de pommiers",
 	},
 	"growingSpotTreeAppleDescription": {
 		"english": "While they take a long time to grow, apple trees pay off over the long run.",
 		"german": "Während Apfelbäume zwar eine halbe Ewigkeit zum Wachsen benötigen, zahlen sie sich früher oder später aus.",
+		"french": "Bien qu'ils prennent beaucoup de temps à pousser, les pommiers sont rentables à long terme.",
 	},
 
 
@@ -6464,7 +6476,6 @@
 		"polish": "Drewniana framuga",
 	},
 	"doorWoodCheapDescription": {
-		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6476,7 +6487,7 @@
 		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
 		"english": "This door is barely enough to keep the wind out, but it will make do for the beginning.",
 		"german": "Diese Türe ist gerade noch genug, um den Wind draußen zu halten, aber für den Anfang passt das schon.",
-		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"french": "Cette porte est à peine suffisante pour empêcher le vent d'entrer, mais elle fera l'affaire pour commencer.",
 		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
 		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
 		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
@@ -6488,7 +6499,6 @@
 		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
 	},
 	"doorWoodSturdy": {
-		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6500,7 +6510,7 @@
 		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
 		"english": "Sturdy Wooden Door",
 		"german": "Stabile Holztür",
-		"french": "Simple porte en bois",
+		"french": "Porte en bois robuste",
 		"spanish": "Puerta simple de madera",
 		"portuguese": "Porta de madeira simple",
 		"dutch": "Simpele Houten Deur",
@@ -6513,7 +6523,6 @@
 		"polish": "Framuga z progiem",
 	},
 	"doorWoodSturdyDescription": {
-		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6525,7 +6534,7 @@
 		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
 		"english": "An example of good craftsmanship, this door does an excellent job of separating your cozy cabin from the cold winter.",
 		"german": "Als Beispiel toller Handwerkskunst sorgt diese Türe dafür, dass dein Haus auch dann gemütlich bleibt, wenn draußen die Schneestürme heulen.",
-		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"french": "Un exemple de bon savoir-faire : cette porte fait un excellent travail pour séparer votre confortable maison du froid de l'hiver.",
 		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
 		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
 		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
@@ -6537,7 +6546,6 @@
 		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
 	},
 	"doorWoodModern": {
-		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6549,7 +6557,7 @@
 		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
 		"english": "Modern Wooden Door",
 		"german": "Moderne Holztür",
-		"french": "Porte en bois ornementée",
+		"french": "Porte en bois moderne",
 		"spanish": "Puerta ornamentada de madera",
 		"portuguese": "Porta de madeira ornamentada",
 		"turkish": "Süslü tahta kapı",
@@ -6561,7 +6569,6 @@
 		"polish": "Framuga z progiem",
 	},
 	"doorWoodModernDescription": {
-		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6574,7 +6581,7 @@
 		"english": "Looking for some modern designs? This door will show every visitor that you know how good doors ought to look nowadays.",
 		"german": "Auf der Suche nach einem modernen Design? Diese Türe lässt deine Besucher wissen, dass du weißt wie gute Türen heute auszusehen haben.",
 		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
-		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"french": "Vous recherchez des créations modernes ? Cette porte montrera à chaque visiteur que vous savez à quel point les portes doivent être belles de nos jours.",
 		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
 		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
 		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
@@ -6585,7 +6592,6 @@
 		"italian": "Permette ai tuoi coloni di tenere alla larga i visitatori indesiderati (la maggior parte delle volte).",
 	},
 	"doorWoodModernWindow": {
-		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6597,7 +6603,7 @@
 		// TODO-italian: changed translations for most of the doors, but kept old one around until you change it.
 		"english": "Modern Wooden Door with Window",
 		"german": "Moderne Holztür mit Fenster",
-		"french": "Porte en bois ornementée",
+		"french": "Porte en bois moderne avec fenêtre",
 		"spanish": "Puerta ornamentada de madera",
 		"portuguese": "Porta de madeira ornamentada",
 		"turkish": "Süslü tahta kapı",
@@ -6609,7 +6615,6 @@
 		"polish": "Framuga z progiem",
 	},
 	"doorWoodModernWindowDescription": {
-		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6622,7 +6627,7 @@
 		"english": "How about you use this windowed door for your entrance and give it a nice welcoming look?",
 		"german": "Wieso verwendest du diese Fenstertüre nicht für den Eingang? Könnte toll aussehen.",
 		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
-		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"french": "Et si vous utilisiez cette porte vitrée pour votre entrée et que vous lui donniez un aspect accueillant ?",
 		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
 		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
 		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
@@ -6635,9 +6640,9 @@
 	"doorStoneRound": {
 		"english": "Round Castle Door",
 		"german": "Runde Burgtür",
+		"french": "Porte ronde de château",
 	},
 	"doorStoneRoundDescription": {
-		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6650,7 +6655,7 @@
 		"english": "You're looking that extra bit of security, don't you? Castle walls are useless without a strong door like this one.",
 		"german": "Du bist auf der Suche nach dem extra Stückchen Sicherheit? Burgwände sind nutzlios ohne einer starken Tür wie dieser hier.",
 		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
-		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"french": "Vous avez besoin d'un peu plus de sécurité, n'est-ce pas ? Les murs de château sont inutiles sans une porte solide comme celle-ci.",
 		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
 		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
 		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
@@ -6666,6 +6671,7 @@
 	"palisadeGateSmall": {
 		"english": "Small Palisade Gate",
 		"german": "Kleines Palisadentor",
+		"french": "Petite porte de palissade",
 	},
 	"palisadeGateSmallDescription": {
 		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
@@ -6684,9 +6690,9 @@
 	"palisadeGate": {
 		"english": "Roofed Palisade Gate",
 		"german": "Überdachtes Palisadentor",
+		"french": "Porte de palissade couverte",
 	},
 	"palisadeGateDescription": {
-		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6699,7 +6705,7 @@
 		"english": "Not much better than the standard palisade gate, this one at least makes your outpost look a little professional.",
 		"german": "Während dieses Tor nicht viel besser als das Standard-Palisadentor ist, lässt es deinen Außenposten wenigstens ein bisschen professionell aussehen.",
 		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
-		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"french": "Pas beaucoup mieux que la porte standard de la palissade, celle-ci donne au moins à votre avant-poste un air un peu professionnel.",
 		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
 		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
 		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
@@ -6712,9 +6718,9 @@
 	"woodWallDefense0Gate": {
 		"english": "Strong Wooden Defensive Gate",
 		"german": "Starkes Holztor",
+		"french": "Porte défensive solide en bois",
 	},
 	"woodWallDefense0GateDescription": {
-		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6727,7 +6733,7 @@
 		"english": "Large trunks from old trees have been used to make this gate. It's as strong as wood can get.",
 		"german": "Große Stämme von alten Bäumen wurden zu diesem Tor verarbeitet. Es ist so stark wie ein Holztor nur sein kann.",
 		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
-		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"french": "De gros troncs de vieux arbres ont été utilisés pour fabriquer cette porte. Elle est aussi solide que le bois peut l'être.",
 		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
 		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
 		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
@@ -6740,9 +6746,9 @@
 	"stoneWallDefense0Gate": {
 		"english": "Castle Gate",
 		"german": "Burgtor",
+		"french": "Porte de château",
 	},
 	"stoneWallDefense0GateDescription": {
-		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6755,7 +6761,7 @@
 		"english": "If you've decided to secure your valuables with thick stone walls, you can't skip out on a strong gate to match them!",
 		"german": "Falls du dich entschieden hast, deine Schätze mit dicken Steinmauern zu schützen, brauchst du auch ein passendes starkes Tor dafür!",
 		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
-		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"french": "Si vous avez décidé de sécuriser vos objets de valeur avec des murs de pierre épais, vous ne pouvez pas vous passer d'une porte solide pour les assortir !",
 		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
 		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
 		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",
@@ -6768,9 +6774,9 @@
 	"stoneWallDefense1Gate": {
 		"english": "Great Fortress Gate",
 		"german": "Großes Festungstor",
+		"french": "Grande porte de forteresse",
 	},
 	"stoneWallDefense1GateDescription": {
-		// TODO-french: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-portuguese: changed translations for most of the doors, but kept old one around until you change it.
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6783,7 +6789,7 @@
 		"english": "This magnificent gate is great both for defense as well as for showing off. Dirk Hellmaier, the legendary architect, once said 'The ultimate entrance to the ultimate fortress'.",
 		"german": "Dieses großartige Tor ist sowohl zur Verteidigung als auch zum Angeben geeignet. Dirk Hellmaier, der legendäre Architekt, hat mal dazu gesagt 'Der ultimative Eingang für die ultimative Festung'.",
 		"spanish": "Permite a tus colonos entrar mientras mantiene fuera a los visitantes no bienvenidos (en teoría).",
-		"french": "Permet à vos colons d'entrer tout en gardant les visiteurs indésirables dehors (la plupart du temps).",
+		"french": "Cette magnifique porte est idéale aussi bien pour la défense que pour la démonstration. Dirk Hellmaier, l'architecte légendaire, a dit un jour : « L'entrée ultime de la forteresse ultime ».",
 		"portuguese": "Permite que seus colonos entrem enquanto mantém visitantes indesejados fora (na maior parte do tempo).",
 		"turkish": "İstenmeyen ziyaretçileri dışarıda tutarken (çoğu zaman) yerleşimcilerin içeri girmesine izin verir.",
 		"dutch": "Laat je kolonisten naar binnen en houdt ongewenste bezoekers buiten (het grootste deel van de tijd).",

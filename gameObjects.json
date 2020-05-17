@@ -22,7 +22,6 @@
 	//TODO-korean: additional sentence at the end
 	//TODO-dutch: additional sentence at the end
 	//TODO-polish: additional sentence at the end
-	//TODO-italian: additional sentence at the end
 	"appleBasketDescription": {
 		"english": "Use this basket to provide your colonists with raw food. Whenever they are hungry, they will come to the basket to get something to eat - as long as you have enough food in store.\n\nThis basket can store up to %capacityFoodRaw% raw food.",
 		"german": "Benutze diesen Korb um deine Kolonisten mit rohem Essen zu versorgen. Immer wenn sie hungrig sind werden sie von selbst zum Korb kommen und sich etwas zu essen holen - solange du genug im Lager hast.\n\nDieser Korb kann bis zu %capacityFoodRaw% rohes Essen lagern.",
@@ -36,7 +35,7 @@
 		"dutch": "Gebruik deze mand om te zorgen dat je kolonisten rauw eten kunnen eten. Als ze honger hebben, komen ze naar de mand om wat te eten - zolang je genoeg voedsel in voorraad hebt.",
 		"polish": "Użyj tego koszyka, aby zapewnić Twoim kolonistom surowe jedzenie. Jeśli staną się oni głodni, przyjdą do koszyka, aby wziąć coś do jedzenia - tak długo jak masz wystarczająco jedzenia w magazynie.",
 		"chinese": "用这个篮子给你的殖民者提供生的食物。当他们饿了的时候，只要你有足够的食物，他们就会到篮子里来找吃的。\n\n此架子最多存放 %capacityFoodRaw% 生鲜食材。",
-		"italian": "Usa questo cesto per fornire ai tuoi coloni i cibi crudi. Ogni volta che hanno fame, verranno nel cesto a prendere qualcosa da mangiare, a patto che tu abbia a disposizione abbastanza cibo.",
+		"italian": "Usa questo cesto per fornire ai tuoi coloni i cibi crudi. Ogni volta che hanno fame, verranno nel cesto a prendere qualcosa da mangiare, a patto che tu abbia a disposizione abbastanza cibo.\n\nQuesto cesto può conservare fino a %capacityFoodRaw% cibi crudi.",
 	},
 	"foodShelfCampfire": {
 		"english": "Shelf for Food from the Campfire",
@@ -58,7 +57,6 @@
 	//TODO-korean: additional sentence at the end
 	//TODO-dutch: additional sentence at the end
 	//TODO-polish: additional sentence at the end
-	//TODO-italian: additional sentence at the end
 	"foodShelfCampfireDescription": {
 		"english": "This mixture of shelf and basket is the ideal place to store food that's been cooked on a campfire!\n\nThis shelf can store up to %capacityFoodCooked% cooked food.",
 		"german": "Diese Mischung aus Regal und Korb ist der ideale Lagerort für Essen, das am Lagerfeuer zubereitet wurde!\n\nDieses Regal kann bis zu %capacityFoodCooked% gekochte Mahlzeiten lagern.",
@@ -72,7 +70,7 @@
 		"dutch": "Deze mix van een plankenkast en een mand is de ideale plaats om eten op te slaan dat gekookt is boven een kampvuur!",
 		"polish": "To połączenie szafki i koszyka jest idealnym miejsce na trzymanie jedzenie, które zostało upieczone nad ogniem.",
 		"chinese": "架子与篮子的结合体是储存在烤制食物的理想办法!\n\n此架子最多存放 %capacityFoodCooked% 烤制食物。",
-		"italian": "Questa combinazione di mensole e cesti è il luogo ideale per conservare i cibi cotti al falò!",
+		"italian": "Questa combinazione di mensole e cesti è il luogo ideale per conservare i cibi cotti al falò!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
 	},
 	"foodShelfKitchen": {
 		"english": "Shelf for Food from the Kitchen",
@@ -94,7 +92,6 @@
 	//TODO-korean: additional sentence at the end
 	//TODO-dutch: additional sentence at the end
 	//TODO-polish: additional sentence at the end
-	//TODO-italian: additional sentence at the end
 	"foodShelfKitchenDescription": {
 		"english": "What better place to store your kitchen food than on this gorgeous shelf!\n\nThis shelf can store up to %capacityFoodCooked% cooked food.",
 		"german": "Welchen besseren Ort gibt es zum Lagern von Essen aus der Küche als dieses wunderschöne Regal?\n\nDieses Regal kann bis zu %capacityFoodCooked% gekochte Mahlzeiten lagern.",
@@ -108,7 +105,7 @@
 		"korean": "조리된 음식을 보관하기에 이 멋진 선반보다 나은 곳이 있을까요?",
 		"polish": "Czy jest lepsze miejsce na trzymanie przygotowanych posiłków niż ta piękna szafka?",
 		"chinese": "还有什么地方比这个华丽的架子更适合存放烹饪食物呢?\n\n此架子最多存放 %capacityFoodCooked% 烹饪食物。",
-		"italian": "Quale posto migliore per conservare il tuo cibo da cucina se non su questo splendido scaffale!",
+		"italian": "Quale posto migliore per conservare il tuo cibo da cucina se non su questo splendido scaffale!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
 	},
         "foodShelfBakery": {
 		"english": "Shelf for Baked Food",
@@ -130,7 +127,6 @@
 	//TODO-korean: additional sentence at the end
 	//TODO-dutch: additional sentence at the end
 	//TODO-polish: additional sentence at the end
-	//TODO-italian: additional sentence at the end
 	"foodShelfBakeryDescription": {
 		"english": "This shelf is your first choice for food that was baked at a bakery.\n\nThis shelf can store up to %capacityFoodCooked% cooked food.",
 		"german": "Für frische Leckereien aus einer Bäckerei ist dieses Regal die erste Wahl.\n\nDieses Regal kann bis zu %capacityFoodCooked% gekochte Mahlzeiten lagern.",
@@ -144,7 +140,7 @@
 		"korean": "화덕에 구운 음식을 둘 곳을 찾고 있다면, 이 선반이 최고의 선택입니다.",
 		"polish": "Idealna szafka na wypieki z piekarni.",
 		"chinese": "这个架子是你在面包工坊烘焙食物的首选。\n\n此架子最多存放 %capacityFoodCooked% 烹饪食物。",
-		"italian": "Questa scaffale è la tua prima scelta per i cibi che sono stati cotti al forno.",
+		"italian": "Questa scaffale è la tua prima scelta per i cibi che sono stati cotti al forno.\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
 	},
 	"potionMedicineStorage": {
 		"english": "Healing Potion Cabinet",
@@ -166,7 +162,6 @@
 	//TODO-korean: additional sentence at the end
 	//TODO-dutch: additional sentence at the end
 	//TODO-polish: additional sentence at the end
-	//TODO-italian: additional sentence at the end
 	"potionMedicineStorageDescription": {
 		"english": "Does your leg hurt? Are you sick? Losing blood? No matter what kind of harm has fallen upon you, a healing potion is always a good idea. Even if it doesn't really cure your condition, at least it numbs the pain. And these potions taste good, too.\n\nThis shelf can store up to %capacityMedicine% medicine and up to %capacityHealingPotion% healing potions.",
 		"german": "Schmerzt dein Bein? Bist du krank? Verlierst Blut? Egal welches Unglück dich heimsucht, ein Heiltrank ist immer eine gute Idee. Selbst wenn er nicht die Ursache behebt, wird zumindest der Schmerz betäubt. Und gut schmecken diese Tränke auch.\n\nDieses Regal kann bis zu %capacityMedicine% Medizin und %capacityHealingPotion% Heiltränke lagern.",
@@ -180,7 +175,7 @@
 		"turkish": "Bacağın mı ağrıyor? Hasta mısın? Kan mı kaybediyorsun? Başına bela olan sağlık sorunu ne olursa olsun iyileştirici bir iksir her zaman iyi bir fikirdir. Durumunu iyileştirmese bile, en azından acıyı uyuşturuyor, üstelik bu iksirlerin tadı da güzel.",
 		"polish": "Twoja noga boli? Jesteś chory? Krwawisz? Nie ma znaczenia jaka krzywda Ci się stała, mikstura lecznicza to zawsze dobry pomysł. Nawet jeśli niekoniecznie poprawia Twój stan, to przynajmniej redukuje ból. No i te mikstury też smakują dobrze.",
 		"chinese": "腿疼了?生病了?流血了?不管你受到什么样的伤害，一瓶治疗药水总是个好办法。即使它不能完全治愈你的病况，至少它能麻痹你的疼痛。这些药水也挺好喝的。\n\n此架子最多可存放 %capacityHealingPotion% 治疗药水。",
-		"italian": "Ti fa male la gamba? Sei malato? Perdi sangue? Indipendentemente dal tipo di danno che hai subito, assumere una pozione curativa è sempre una buona idea. Anche se non cura davvero la tua condizione, almeno intorpidisce il dolore. Inoltre, queste pozioni hanno un buon sapore.",
+		"italian": "Ti fa male la gamba? Sei malato? Perdi sangue? Indipendentemente dal tipo di danno che hai subito, assumere una pozione curativa è sempre una buona idea. Anche se non cura davvero la tua condizione, almeno intorpidisce il dolore. Inoltre, queste pozioni hanno un buon sapore.\n\nQuesto scaffale può conservare fino a %capacityMedicine% medicine e %capacityHealingPotion% pozioni curative.",
 	},
     "beerRefillBarrel": {
 		"english": "Beer Barrel",
@@ -195,14 +190,13 @@
 		"spanish": "Barril de cerveza",
 		"polish": "Beczka piwa",
 		"chinese": "啤酒桶",
-	    "italian": "Barile di birra",
+	    	"italian": "Barile di birra",
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
 	//TODO-dutch: additional sentence at the end
 	//TODO-polish: additional sentence at the end
-	//TODO-italian: additional sentence at the end
 	"beerRefillBarrelDescription": {
 		"english": "As a means of storage and the origin of fresh beer, a beer barrel is of high importance to all colonies out there (Well, as long as there is some left in there...). You'll see how happy your colonists get when you allow them to fill up their mugs. Cheers!\n\nThis barrel can contain up to %capacityBeer% beer.",
 		"german": "Als Aufbewahrungsort und Quelle des goldenen Gerstensaftes haben Bierfässer einen ganz hohen Stellenwert in jeder Kolonie (Naja, zumindest solange sie auch wohl gefüllt sind...). Du wirst sehen mit welcher Vorfreude deine Kolonisten zum Zapfen schreiten werden. Zum Wohl!\n\nDieses Fass kann bis zu %capacityBeer% beer halten.",
@@ -216,7 +210,7 @@
 		"spanish": "Como medio de almacenamiento y origen de la cerveza fresca, el barril de cerveza tiene una grande importancia para todas las colonias (Bueno, mientras haya quedado algo dentro...). Verás hasta que punto tus colonos estarán felices cuando los permitas rellenar sus cañas. ¡Salud!\n\nEste barril puede contener hasta %capacityBeer% de cerveza.",
 		"polish": "Jako miejsce przechowywania i pochodzenia świeżego piwa, beczka piwna jest bardzo ważna dla wszystkich kolonii (Przynajmniej tak długo, jak ktoś w nich jeszcze został...).  Zobaczysz jak szczęśliwi koloniści się stają kiedy pozwolisz im napełnić ich kufle. Na zdrowie!",
 		"chinese": "啤酒桶作为一种储藏手段和新鲜啤酒的来源，对所有的殖民地来说都是非常重要的(嗯，只要还有一些酒在里面……)。当你的殖民者把杯子装满时，你会看到他们有多高兴。干杯!\n\n此桶最多可容纳%capacityBeer%啤酒。",
-		"italian": "Come mezzo di conservazione e di provenienza della birra fresca, un barile di birra è di grande importanza per tutte le colonie là fuori (beh, a patto che sia pieno ovviamente...). Vedrai quanto saranno felici i tuoi coloni quando permetterai loro di riempire le loro tazze. Salute!",
+		"italian": "Come mezzo di conservazione e di provenienza della birra fresca, un barile di birra è di grande importanza per tutte le colonie là fuori (beh, a patto che sia pieno ovviamente...). Vedrai quanto saranno felici i tuoi coloni quando permetterai loro di riempire le loro tazze. Salute!\n\nQuesto barile può contenere fino a %capacityBeer% birre.",
 	},
 
 	
@@ -4383,6 +4377,7 @@
 		"spanish": "Mina de Piedra Profunda",
 		"russian": "Глубокая шахта камня",
 		"portuguese": "Mina de Pedra Profunda",
+		"italian": "Miniera di pietra profonda",
 	},
 	"deepMineStoneDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for stone - but you will be able to get a lot more of it out of the ground.",
@@ -4391,6 +4386,7 @@
 		"spanish": "Minar en las profundidades es mucho más difícil que en la superficie. Las caras minas necesitan a personal educado a los que les tomará más tiempo minar la piedra - pero podrás conseguir mucha más fuera de la tierra.",
 		"russian": "Добывать ресурсы в глуби сложнее, чем снаружи. Таким шахтам нужен образованный персонал, на добычу ресурсов уйдет больше времени, однако вы сможете получить намного больше ресурсов.",
 		"portuguese": "A mineração nas profundezas é muito mais difícil do que a mineração na superfície. As minas caras precisam de pessoal instruído que levará mais tempo para extrair pedra - mas você poderá extrair muito mais do solo.",
+		"italian": "L'estrazione in profondità è molto più difficile di quella in superficie. Le dispendiose miniere hanno bisogno di persone istruite che impiegheranno più tempo per estrarre la pietra, ma che saranno in grado di ottenerne molta di più.",
 	},
 	"deepMineIron": {
 		"english": "Deep Iron Ore Mine",
@@ -4399,6 +4395,7 @@
 		"spanish": "Mina de Hierro Profunda",
 		"russian": "Глубокая шахта железа",
 		"portuguese": "Mina de Minério de Ferro Profundo",
+		"italian": "Miniera di ferro profonda",
 	},
 	"deepMineIronDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for iron ore - but you will be able to get a lot more of it out of the ground.",
@@ -4407,6 +4404,7 @@
 		"spanish": "Minar en las profundidades es mucho más difícil que en la superficie. Las caras minas necesitan a personal educado a los que les tomará más tiempo minar las menas de hierro - pero podrás conseguir mucho más fuera de la tierra.",
 		"russian": "Добывать ресурсы в глуби сложнее, чем снаружи. Таким шахтам нужен образованный персонал, на добычу ресурсов уйдет больше времени, однако вы сможете получить намного больше ресурсов.",
 		"portuguese": "A mineração nas profundezas é muito mais difícil do que a mineração na superfície. As minas caras precisam de pessoal qualificado que levará mais tempo para extrair minério de ferro - mas você poderá extrair muito mais do solo.",
+		"italian": "L'estrazione in profondità è molto più difficile di quella in superficie. Le dispendiose miniere hanno bisogno di persone istruite che impiegheranno più tempo per estrarre il ferro, ma che saranno in grado di ottenerne molta di più.",
 	},
 	"deepMineCrystal": {
 		"english": "Deep Crystal Mine",
@@ -4415,6 +4413,7 @@
 		"spanish": "Mina de Cristal Profunda",
 		"russian": "Глубокая кристалов",
 		"portuguese": "Mina de Cristal Profundo",
+		"italian": "Miniera di cristallo profonda",
 	},
 	"deepMineCrystalDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for crystals - but you will be able to get a lot more of it out of the ground.",
@@ -4423,6 +4422,7 @@
 		"spanish": "Minar en las profundidades es mucho más difícil que en la superficie. Las caras minas necesitan a personal educado a los que les tomará más tiempo minar los cristales - pero podrás conseguir muchos más fuera de la tierra.",
 		"russian": "Добывать ресурсы в глуби сложнее, чем снаружи. Таким шахтам нужен образованный персонал, на добычу ресурсов уйдет больше времени, однако вы сможете получить намного больше ресурсов.",
 		"portuguese": "A mineração nas profundezas é muito mais difícil do que a mineração na superfície. As minas caras precisam de pessoal instruído que levará mais tempo para extrair cristais - mas você poderá extrair muito mais do solo.",
+		"italian": "L'estrazione in profondità è molto più difficile di quella in superficie. Le dispendiose miniere hanno bisogno di persone istruite che impiegheranno più tempo per estrarre i cristalli, ma che saranno in grado di ottenerne molta di più.",
 	},
 
 
@@ -4617,6 +4617,7 @@
 		"spanish": "Tierra para cultivar Pinos",
 		"russian": "Почва для выращивания сосен",
 		"portuguese": "Solo para o cultivo de pinheiros",
+		"italian": "Terreno per la coltivazione di pini",
 	},
 	"growingSpotTreeDescription": {
 		"english": "Bring the forest to your front lawn and plant beautiful pine trees whereever you want!",
@@ -4625,6 +4626,7 @@
 		"spanish": "¡Trae el bosque a tu jardín de enfrente y planta hermosos pinos donde quieras!",
 		"russian": "Высадите целый лес на своей лужайке, а эта почва поможет вам в этом!",
 		"portuguese": "Traga a floresta para o gramado da frente e plante belos pinheiros onde quiser!",
+		"italian": "Porta la foresta nel prato davanti a te e pianta bellissimi pini ovunque tu voglia!",
 	},
 	"growingSpotCotton": {
 		"english": "Soil for growing Cotton Plants",
@@ -4633,6 +4635,7 @@
 		"spanish": "Tierra para cultivar Algodón",
 		"russian": "Почва для выращивания хлопка",
 		"portuguese": "Solo para o cultivo de plantas de algodão",
+		"italian": "Terreno per la coltivazione di piante di cotone",
 	},
 	"growingSpotCottonDescription": {
 		"english": "If you want to mass produce certain types of clothing, cotton farms are certainly going to help.",
@@ -4641,6 +4644,7 @@
 		"spanish": "Si quieres producir en masa ciertos tipos de ropa, las granjas de algodón de seguro ayudarám.",
 		"russian": "Если вы хотите массово производить одежду, то хлопковые фермы, безусловно, помогут вам в этом.",
 		"portuguese": "Se você deseja produzir em massa certos tipos de roupas, as fazendas de algodão certamente ajudarão.",
+		"italian": "Se vuoi produrre in massa alcuni tipi di abbigliamento, le piantagioni di cotone aiuteranno di certo.",
 	},
 	"growingSpotTreeApple": {
 		"english": "Soil for growing Apple Trees",
@@ -4649,6 +4653,7 @@
 		"spanish": "Tierra para cultivar Manzanos",
 		"russian": "Почва для выращивания яблонь",
 		"portuguese": "Solo para o cultivo de macieiras",
+		"italian": "Terreno per la coltivazione di meli",
 	},
 	"growingSpotTreeAppleDescription": {
 		"english": "While they take a long time to grow, apple trees pay off over the long run.",
@@ -4657,6 +4662,7 @@
 		"spanish": "Aunque toman más tiempo en crecer, los manzanos valen la pena a largo plazo.",
 		"russian": "Выращивание яблонь занимает много времени, но это окупается в долгосрочной перспективе.",
 		"portuguese": "Enquanto levam muito tempo para crescer, as macieiras são recompensadas a longo prazo.",
+		"italian": "Seppur ci vuole molto tempo per farli crescere, gli alberi di mele ripagano nel lungo periodo.",
 	},
 
 
@@ -5053,7 +5059,6 @@
 	// TODO-turkish: "Large"
 	// TODO-ukrainian: "Large"
 	// TODO-korean: "Large"
-	// TODO-italian: "Large"
 	"bookshelf": {
 		"english": "Large Bookshelf",
 		"german": "Großes Bücherregal",
@@ -5066,7 +5071,7 @@
 		"ukrainian":"Книжкова полиця",
 		"korean": "책장",
 		"chinese": "大型书柜",
-		"italian": "Libreria",
+		"italian": "Grande libreria",
 		"polish": "Biblioteczka",
 	},
 	"bookshelfDescription": {
@@ -5092,6 +5097,7 @@
 		"portuguese": "Estante para Crianças",
 		"chinese": "儿童书架",
 		"polish": "Regał do pokoju dziecinnego",
+		"italian": "Libreria per bambini",
 	},
 	"bookshelfChildDescription": {
 		"english": "This bookshelf contains some simple books to introduce kids to all kinds of interesting topics. Use this to give them a good education.",
@@ -5101,6 +5107,7 @@
 		"russian": "В этой книжной полке есть несколько книг, которые помогут познакомить детей со всевозможными интересными темами. Используйте ее, чтобы дать вашему ребенку хорошее образование.",
 		"portuguese": "Esta estante contém alguns livros simples para apresentar às crianças todos os tipos de tópicos interessantes. Use isso para dar-lhes uma boa educação.",
 		"chinese": "这个书架包含一些简单的书，给孩子介绍各种有趣的知识。给予他们良好的教育。",
+		"italian": "Questa libreria contiene alcuni semplici libri per introdurre i bambini a diversi tipi di tematiche interessanti. Usala per fornire loro una buona educazione.",
 	},
 
 // Miscellaneous Furniture
@@ -5293,6 +5300,7 @@
 		"polish": "Skład drewna",
 		"portuguese": "Estoque de madeira",
 		"chinese": "木材存箱",
+		"italian": "Riserva di legno",
 	},
 	"stockpileWoodDescription": {
 		"english": "Large, strong, and durable. These are the qualities you need when you want to store tons of logs.\n\nThis stockpile can hold up to %capacityWood% wood.",
@@ -5302,6 +5310,7 @@
 		"russian": "Большой, сильный, долговечный - все эти слова применимы к данному складу, ведь он отлично подойдет для хранения бревен.\n\nЭтот склад может хранить до %capacityWood% бревен.",
 		"portuguese": "Grande, forte e durável. Essas são as qualidades que você precisa quando deseja armazenar toneladas de toras. \n\nEste estoque pode armazenar até %capacityWood% wood.",
 		"chinese": "又大又结实且耐用。当你需要存储大量的木材时就需要用到这个。\n\n该存箱能够存储 %capacityWood% 木材。",
+		"italian": "Grandi, forti e durevoli. Queste sono le qualità necessarie quando si vuole depositare tonnellate di tronchi.\n\nQuesta riserva può contenere fino a %capacityWood% unità di legno.",
 	},
 	"stockpileStone": {
 		"english": "Stone Stockpile",
@@ -5312,6 +5321,7 @@
 		"polish": "Skład kamienia",
 		"portuguese": "Estoque de pedra",
 		"chinese": "石材存箱",
+		"italian": "Riserva di pietra",
 	},
 	"stockpileStoneDescription": {
 		"english": "Make sure your villagers don't stub their toes on heavy rocks and build a proper stockpile for your raw material stones.\n\nThis stockpile can hold up to %capacityStone% stone.",
@@ -5321,6 +5331,7 @@
 		"russian": "Жители постоянно спотыкаются об камни? С данным складом это больше не проблема, он отлично подходит для хранения камня.\n\nЭтот склад может хранить до %capacityStone% камня.",
 		"portuguese": "Certifique-se de que seus moradores não apedrejam os pés em pedras pesadas e construa um estoque adequado para suas pedras de matéria-prima. \n\nEste estoque pode armazenar até %CapacityStone% stone.",
 		"chinese": "确保你的殖民者不行走在粗糙的石头上并为你建造以一个适合存储石材的地方。\n\n该存箱能够存储 %capacityStone% 石材。",
+		"italian": "Assicurati che i tuoi abitanti non sbattano le loro dita dei piedi sulle rocce pesanti e che costruiscano una riserva adeguata per le tue pietre.\n\nQuesta riserva può contenere fino a %capacityStone% unità di pietra.",
 	},
 	"stockpileCrystal": {
 		"english": "Crystal Stockpile",
@@ -5331,6 +5342,7 @@
 		"polish": "Skład kryształów",
 		"portuguese": "Estoque de Cristal",
 		"chinese": "水晶存箱",
+		"italian": "Riserva di cristalli",
 	},
 	"stockpileCrystalDescription": {
 		"english": "Has your scholar ever run out of crystals in the middle of some important analysis? Make sure research can progress without impediments by building up a stock of crystals.\n\n This stockpile can hold up to %capacityCrystal% crystals.",
@@ -5340,6 +5352,7 @@
 		"russian": "У вашего ученого постоянно заканчивались кристаллы и ему приходилось бегать за ними? С данным складом это больше не проблема!\n\nЭтот склад может хранить до %capacityCrystal% кристаллов.",
 		"portuguese": "Seu estudioso já ficou sem cristais no meio de algumas análises importantes? Certifique-se de que a pesquisa possa progredir sem impedimentos criando um estoque de cristais. \n\nEsse estoque pode armazenar até %capacityCrystal% crystals.",
 		"chinese": "你的学者是否在研究某种重要的研究时用光水晶? 建造一个水晶存储的地方来确保研究顺利进行没有阻碍。\n\n 该存箱能够存储 %capacityCrystal% 水晶。",
+		"italian": "Il tuo studioso ha terminato i cristalli nel bel mezzo di un'importante analisi? Assicurati che la ricerca possa progredire senza ostacoli costruendo una scorta di cristalli.\n\nQuesta riserva può contenere fino a %capacityCrystal% cristalli.",
 	},
 	"stockpileCotton": {
 		"english": "Cotton Stockpile",
@@ -5350,6 +5363,7 @@
 		"polish": "Regał na bawełnę",
 		"portuguese": "Estoque de algodão",
 		"chinese": "棉花存箱",
+		"italian": "Riserva di cotone",
 	},
 	"stockpileCottonDescription": {
 		"english": "Winter is a perfect time to do some tailoring, but you can't harvest frozen cotton. Use this shelf to store your summer surplus.\n\nThis shelf can fit up to %capacityCotton% cotton.",
@@ -5359,6 +5373,7 @@
 		"russian": "Зима - идеальное время для пошива одежды, но вы не можете собирать хлопок зимой. Используйте склад хлопка для хранения летних излишков.\n\nЭтот склад может хранить до %capacityCotton% хлопка.",
 		"portuguese": "O inverno é o momento perfeito para costurar, mas você não pode colher algodão congelado. Use esta prateleira para armazenar seu excedente de verão. \n\nEsta prateleira pode acomodar até %capacityCotton% algodão.",
 		"chinese": "冬季是裁缝的好时机，但是你无法收获棉花。请使用这个来存储你夏季的存货。\n\n该存箱能够存储 %capacityCotton% 棉花。",
+		"italian": "L'inverno è un momento perfetto per mettere in pratica un po' di sartoria, ma non è possibile raccogliere il cotone congelato. Utilizza questo scaffale per depositare il tuo surplus estivo.\n\nQuesto scaffale può contenere fino a %capacityCotton% unità di cotone.",
 	},
 	"stockpileCoinSmall": {
 		"english": "Small Safe for Coins",
@@ -5369,6 +5384,7 @@
 		"polish": "Mały sejf",
 		"portuguese": "Cofre pequeno para moedas",
 		"chinese": "小型硬币保险箱",
+		"italian": "Cassaforte piccola per monete",
 	},
 	"stockpileCoinSmallDescription": {
 		"english": "Did you ever feel like your treasures were not safe? As if a greedy thief could just walk in and take them? Protect your coins by hiding them away in this small but strong metal box!\n\nThis safe can hold up to %capacityCoins% coins.",
@@ -5378,6 +5394,7 @@
 		"russian": "Вы когда-нибудь чувствовали, что ваши сокровища вне безопасности? Что какой-то вор сможет их беспрепятственно забрать? С данным маленьким сейфом это больше не проблема!\n\nЭтот сейф может хранить до %capacityCoins% монет.",
 		"portuguese": "Você já sentiu que seus tesouros não eram seguros? Como se um ladrão ganancioso pudesse entrar e pegá-los? Proteja suas moedas escondendo-as nesta pequena mas forte caixa de metal! \n\nEste cofre pode acomodar até %CapacityCoins% moedas.",
 		"chinese": "你是否曾经觉得你的财产不够安全？好像轻易就能被小偷光顾？把硬币存放在这个坚固的保险箱里可以保护你的财产！\n\n该保险箱能够存储 %capacityCoins% 硬币。",
+		"italian": "Hai mai avuto la sensazione che i tuoi tesori non siano al sicuro? Come se un ladro avido potesse entrare e rubarli? Proteggi le tue monete nascondendole in questa piccola ma forte cassaforte di metallo!\n\nQuesta cassaforte può contenere fino a %capacityCoins% monete.",
 	},
 	"stockpileCoinBig": {
 		"english": "Large Safe for Coins",
@@ -5388,6 +5405,7 @@
 		"polish": "Duży sejf",
 		"portuguese": "Cofre grande para moedas",
 		"chinese": "大型硬币保险箱",
+		"italian": "Cassaforte grande per monete",
 	},
 	"stockpileCoinBigDescription": {
 		"english": "You have spent years accumulating your wealth so make sure it's locked away properly. This large safebox is made for those who possess treasures that just don't fit in any smaller safe anymore.\n\nThis safe can hold up to %capacityCoins% coins.",
@@ -5397,6 +5415,7 @@
 		"russian": "Вы настолько богаты, что все ваши сокровища не вмещяются в маленький сейф? Тогда этот сейф вам точно подойдет! Отличается от маленького лишь большой вместительностью.\n\nЭтот сейф может хранить до %capacityCoins% монет.",
 		"portuguese": "Você passou anos acumulando sua riqueza, portanto, verifique se ela está bem guardada. Este cofre grande é feito para aqueles que possuem tesouros que não cabem mais em nenhum cofre menor. \n\nEste cofre pode armazenar até %CapacityCoins% moedas.",
 		"chinese": "你长时间积累的财富请确保安全的存放起来。这个大型保险箱是为了存放大量财富设计的，太适合存放于小的保险箱。\n\n该保险箱能够存储 %capacityCoins% 硬币。",
+		"italian": "Hai trascorso anni ad accumulare la tua ricchezza, perciò assicurati che sia al sicuro. Questa cassaforte grande è ideale per coloro che possiedono tesori che semplicemente non si adattano in qualsiasi cassaforte più piccola.\n\nQuesta cassaforte può contenere fino a %capacityCoins% monete.",
 	},
 	"stockpileHealingPlant": {
 		"english": "Herbs Hanging Rack",
@@ -5407,6 +5426,7 @@
 		"polish": "Regał do suszenia ziół",
 		"portuguese": "Cremalheira de suspensão das ervas",
 		"chinese": "草药存架",
+		"italian": "",
 	},
 	"stockpileHealingPlantDescription": {
 		"english": "Bring in the harvest and hang your healing plants on this rack to try. It was specifically designed to fit as much plants as possible on a small space.\n\nThis rack can fit up to %capacityHealingPlant% healing plants.",
@@ -5416,6 +5436,7 @@
 		"russian": "Соберите свои растения и поместите их в этот склад. Он сделан специально для хранения большого количества растений в маленьком пространстве.\n\nЭтот склад может хранить до %capacityHealingPlant% целебных растений.",
 		"portuguese": "Traga a colheita e pendure suas plantas curativas nesta prateleira para tentar. Foi projetado especificamente para caber o máximo de plantas possível em um espaço pequeno. \n\nEste rack pode acomodar até %CapacityHealingPlant% de plantas curativas.",
 		"chinese": "将你收获的治疗草药存放在这架子上。这是为了占地小存放更多的草药的设计。\n\n该存架能够存放 %capacityHealingPlant% 治疗草药。",
+		"italian": "Porta dentro il raccolto e appendi le piante curative su questa rastrelliera. È stata progettata specificamente per adattarsi a più piante possibili in piccoli spazi.\n\nQuestra rastrelliera può contenere fino a %capacityHealingPlant% piante curative.",
 	},
 	"stockpileBeer": {
 		"english": "Beer Barrel Storage",
@@ -5426,6 +5447,7 @@
 		"polish": "Regał na beczki z piwem",
 		"portuguese": "Armazenamento de barril de cerveja",
 		"chinese": "啤酒桶存架",
+		"italian": "Barile di deposito birra",
 	},
 	"stockpileBeerDescription": {
 		"english": "It's time for party! Make sure the party doesn't run dry by stocking up on beer first!\n\nThis shelf can fit up to %capacityBeer% beer.",
@@ -5435,6 +5457,7 @@
 		"russian": "Время вечеринки! Убедитесь в том, что пива хватит на всех!\n\n Эта бочка хранит до %capacityBeer% пива.",
 		"portuguese": "Está na hora da festa! Certifique-se de que a festa não fique seca estocando cerveja primeiro! \n\nEsta prateleira pode acomodar até %CapacityBeer% cerveja.",
 		"chinese": "是时候聚会啦！首先聚会要确保储存啤酒。确保不会'干喝'!\n\n该存架能够存放 %capacityBeer% 啤酒。",
+		"italian": "È tempo di festeggiamenti! Assicurati che la festa non si finisca facendo una bella scorta di birra!\n\nQuesto barile può contenere fino a %capacityBeer% birre.",
 	},
 	"stockpileIronOre": {
 		"english": "Iron Ore Box",

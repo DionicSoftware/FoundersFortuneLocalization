@@ -7,6 +7,7 @@
 		"russian": "Отношения",
 		"portuguese": "Relacionamentos",
 		"chinese": "人际关系",
+		"italian": "Relazioni",
 	},
 	"relationshipStatus": {
 		"english": "Relationship: %status%",
@@ -16,6 +17,7 @@
 		"russian": "Отношения: %status%",
 		"portuguese": "Relação: %status%",
 		"chinese": "关系：%status%",
+		"italian": "Relazione: %status%",
 	},
 	"naturalRelationshipTendencyPositive": {
 		"english": "Natural tendency positive",
@@ -24,6 +26,7 @@
 		"spanish": "Tendencia natural positiva",
 		"russian": "Естественная тенденция положительная",
 		"portuguese": "Tendência natural positiva",
+		"italian": "Tendenza naturale positiva",
 	},
 	"naturalRelationshipTendencyNegative": {
 		"english": "Natural tendency negative",
@@ -32,6 +35,7 @@
 		"spanish": "Tendencia natural negativa",
 		"russian": "Естественная тенденция отрицательная",
 		"portuguese": "Tendência natural negativa",
+		"italian": "Tendenza naturale negativa",
 	},
 	"tooltipGettingChildren_Title": {
 		"english": "Children",
@@ -40,6 +44,7 @@
 		"spanish": "Infantes",
 		"russian": "Дети",
 		"portuguese": "Crianças",
+		"italian": "Bambino",
 	},
 	"tooltipGettingChildren_Desc": {
 		"english": "Once the relationship bar is maxed out and the expectations in the village are fulfilled, the couple will think about having children.",
@@ -48,6 +53,7 @@
 		"spanish": "Una vez que la barra de relación ha llegado al máximo y las expectativas en la aldea están cumplidas, la pareja pensará sobre tener hijos.",
 		"russian": "Как только будет достигнут максимальный уровень отношений и выполнены ожидания жителей, пара начнет думать о возможности завести ребенка.",
 		"portuguese": "Uma vez que a barra de relacionamento esteja no limite máximo e as expectativas na vila sejam cumpridas, o casal pensará em ter filhos.",
+		"italian": "Una volta che la barra di relazione è massimizzata e le aspettative nel villaggio sono soddisfatte, la coppia penserà ad avere bambini.",
 	},
 
 	"nextLowerLevel": {
@@ -58,6 +64,7 @@
 		"russian": "Следующий нижний уровень: %level%",
 		"portuguese": "Próximo nível inferior: %level%",
 		"chinese": "低一级：%level%",
+		"italian": "Prossimo livello inferiore: %level%",
 	},
 	"nextHigherLevel": {
 		"english": "Next Higher Level: %level%",
@@ -67,6 +74,7 @@
 		"russian": "Следующий высший уровень: %level%",
 		"portuguese": "Próximo nível superior: %level%",
 		"chinese": "高一级：%level%",
+		"italian": "Prossimo livello superiore: %level%",
 	},
 
 	"relationship_Nemesis": {
@@ -77,6 +85,7 @@
 		"russian": "Немезида",
 		"portuguese": "Nêmesis",
 		"chinese": "仇视",
+		"italian": "Nemesi",
 	},
 	"relationship_Enemy": {
 		"english": "Enemy",
@@ -86,6 +95,7 @@
 		"russian": "Враг",
 		"portuguese": "Inimig%oA%",
 		"chinese": "敌对",
+		"italian": "Nemic%OA%",
 	},
 	// I had to use an adjective here. If you can find a fitting noun for your language, like the other titles, use that!
 	"relationship_Disliked": {
@@ -96,7 +106,7 @@
 		"russian": "Неприятель",
 		"portuguese": "Não gostei",
 		"chinese": "厌恶",
-
+		"italian": "Disprezzat%OA%",
 	},
 	"relationship_Acquaintance": {
 		"english": "Acquaintance",
@@ -106,6 +116,7 @@
 		"russian": "Знакомый",
 		"portuguese": "Conhecid%oA%",
 		"chinese": "相识",
+		"italian": "Conoscente",
 	},
 	"relationship_Buddy": {
 		"english": "Buddy",
@@ -115,6 +126,7 @@
 		"russian": "Приятель",
 		"portuguese": "camarada",
 		"chinese": "伙伴",
+		"italian": "Compagn%OA%",
 	},
 	"relationship_Friend": {
 		"english": "Friend",
@@ -124,6 +136,7 @@
 		"russian": "Друг",
 		"portuguese": "Amig%oA%",
 		"chinese": "朋友",
+		"italian": "Amic%OA%",
 	},
 	"relationship_GreatFriend": {
 		"english": "Great Friend",
@@ -133,6 +146,7 @@
 		"russian": "Лучший друг",
 		"portuguese": "Grande amig%oA%",
 		"chinese": "好友",
+		"italian": "Miglior amic%OA%",
 	},
 	"relationship_Lover": {
 		"english": "Lover",
@@ -142,6 +156,7 @@
 		"russian": "Любовник",
 		"portuguese": "Amante",
 		"chinese": "情人",
+		"italian": "Amante",
 	},
 	// if Wilhelm loves Tina, %hisHer% will be "her" (Tina) and %2-hisHer% will be "his" (Wilhelm)
 	"relationship_LoveOfTheirLife": {
@@ -152,6 +167,7 @@
 		"russian": "Любит %hisHer% так же, как свою жизнь",
 		"portuguese": "Amor de %2-seuSua% vida",
 		"chinese": "爱 %2-hisHer% 一生",
+		"italian": "Amore della sua vita",
 	},
 
 
@@ -163,6 +179,7 @@
 		"russian": "%firstName% - это %relativeStatus% %firstName2%",
 		"portuguese": "%firstName% é o %relativeStatus% de %firstName2%",
 		"chinese": "%firstName% 是 %firstName2% 的 %relativeStatus%",
+		"italian": "%firstName% è %relativeStatus% di %firstName2%",
 	},
 	"Child": {
 		"english": "%sonDaughter%",
@@ -172,6 +189,7 @@
 		"russian": "%sonDaughter%",
 		"portuguese": "%filhoFilha%",
 		"chinese": "%sonDaughter%",
+		"italian": "%FiglioFiglia%",
 	},
 	"Parent": {
 		"english": "%fatherMother%",
@@ -181,6 +199,7 @@
 		"russian": "%fatherMother%",
 		"portuguese": "%paiMae%",
 		"chinese": "%fatherMother%",
+		"italian": "%PadreMadre%",
 	},
 	"Sibling": {
 		"english": "%brotherSister%",
@@ -190,6 +209,7 @@
 		"russian": "%brotherSister%",
 		"portuguese": "%irmaoIrma%",
 		"chinese": "%brotherSister%",
+		"italian": "%FratelloSorella%",
 	},
 	"Grandparent": {
 		"english": "%grandpaGrandma%",
@@ -199,6 +219,7 @@
 		"russian": "%grandpaGrandma%",
 		"portuguese": "%avôAvó%",
 		"chinese": "%grandpaGrandma%"
+		"italian": "%NonnoNonna%",
 	},
 	"Grandchild": {
 		"english": "%grandsonGranddaughter%",
@@ -208,6 +229,7 @@
 		"russian": "%grandsonGranddaughter%",
 		"portuguese": "%netoNeta%",
 		"chinese": "%grandsonGranddaughter%",
+		"italian": "nipote",
 	},
 	"UncleAunt": {
 		"english": "%uncleAunt%",
@@ -217,6 +239,7 @@
 		"russian": "%uncleAunt%",
 		"portuguese": "%tioTia%",
 		"chinese": "%uncleAunt%",
+		"italian": "%ZioZia%",
 	},
 	"NephewNiece": {
 		"english": "%nephewNiece%",
@@ -226,6 +249,7 @@
 		"russian": "%nephewNiece%",
 		"portuguese": "%sobrinhoSobrinha%",
 		"chinese": "%nephewNiece%",
+		"italian": "nipote",
 	},
 	"Cousin": {
 		"english": "cousin",
@@ -235,6 +259,7 @@
 		"russian": "%cousinCousine%",
 		"portuguese": "%primoPrima%",
 		"chinese": "cousin",
+		"italian": "%CuginoCugina%",
 	},
 
 
@@ -248,6 +273,7 @@
 		"russian": "Обижен",
 		"portuguese": "Chatead%oA%",
 		"chinese": "烦恼",
+		"italian": "Arrabbiat%OA%",
 	},
 	"relationshipEffect_Upset_Description": {
 		"english": "%affectedName% is upset with %partnerName%. %cap-heShe% will not talk to %2-himHer% for some time.\n(%seconds% seconds left)",
@@ -257,6 +283,7 @@
 		"russian": "%affectedName% обижен%surnameA% на %partnerName%. %cap-heShe% не будет разговаривать с %heShe2% некоторое время.\n(%seconds% секунд осталось)",
 		"portuguese": "%affectedName% está chateado com %partnerName%. %cap-eleEla% não conversará com %2-eleEla% por algum tempo. \n(restam %seconds% segundos)",
 		"chinese": "%affectedName% 因 %partnerName%而感到不安。%heShe% 在一段时间内都不与 %2-himHer% 谈话。\n(还剩%seconds%秒)",
+		"italian": "%affectedName% è arrabbiat%OA% con %partnerName%. Non %GliLe% parlerà per qualche tmepo.\n(%seconds% secondi rimasti)",
 	},
 	"relationshipEffect_Impressed_Title": {
 		"english": "Impressed",
@@ -266,6 +293,7 @@
 		"russian": "Впечатлен%surnameA%",
 		"portuguese": "Impressionad%oA%",
 		"chinese": "印象深刻",
+		"italian": "Impressionat%OA%",
 	},
 	"relationshipEffect_Impressed_Description": {
 		"english": "%affectedName% is impressed by %partnerName%. Any positive interaction is twice as effective!\n(%seconds% seconds left)",
@@ -275,6 +303,7 @@
 		"russian": "%affectedName% впечатлен%surnameA% %partnerName%. Любое положительное взаимодействие станет в два раза эффективнее!\n(%seconds% секунд осталось)",
 		"portuguese": "%affectedName% está impressionado com %partnerName%. Qualquer interação positiva é duas vezes mais eficaz! \n(%seconds% segundos restantes)",
 		"chinese": "%affectedName% 对 %partnerName%印象深刻。任何好的互动都是两倍的效果。\n(还剩%seconds%秒)",
+		"italian": "%affectedName% è impressionat%OA% da %partnerName%. Ogni interazione positiva è due volte più efficace!\n(%seconds% secondi rimasti)",
 	},
 	"relationshipEffect_NotImpressed_Title": {
 		"english": "Not Impressed",
@@ -284,6 +313,7 @@
 		"russian": "Не впечатлен%surnameA%",
 		"portuguese": "Não estou impressionado",
 		"chinese": "印象淡薄",
+		"italian": "Non impressionat%OA%",
 	},
 	"relationshipEffect_NotImpressed_Description": {
 		"english": "%affectedName% is not impressed by %partnerName%. Any negative interaction is twice as detrimental!\n(%seconds% seconds left)",
@@ -293,6 +323,7 @@
 		"russian": "%affectedName% не впечатлен%surnameA% %partnerName%. Любое негативное взаимодействие станет в два раза сильнее!\n(%seconds% секунд осталось)",
 		"portuguese": "%affectedName% não está impressionado com %partnerName%. Qualquer interação negativa é duas vezes mais prejudicial! \n(%seconds% segundos restantes)",
 		"chinese": "%affectedName% 没有对 %partnerName%有深刻的印象。任何坏的影响都是两倍效果。\n(还剩%seconds%秒)",
+		"italian": "%affectedName% non è impressionat%OA% da %partnerName%. Ogni interazione negativa è due volte più dannosa!\n(%seconds% secondi rimasti)",
 	},
 	"relationshipEffect_LowerLevelLocked_Description": {
 		"english": "Lower Level locked for %seconds% seconds.",
@@ -302,6 +333,7 @@
 		"russian": "Нижний уровень заблокирован на %seconds% секунд.",
 		"portuguese": "Nível inferior bloqueado por %segundos% segundos.",
 		"chinese": "较低的级别锁定 %seconds%秒。",
+		"italian": "Livello inferiore bloccato per %seconds% secondi.",
 	},
 	"relationshipEffect_HigherLevelLocked_Description": {
 		"english": "Higher Level locked for %seconds% seconds.",
@@ -311,5 +343,6 @@
 		"russian": "Высший уровень заблокирован на %seconds% секунд.",
 		"portuguese": "Nível superior bloqueado por %segundos% segundos.",
 		"chinese": "较高的级别锁定 %seconds%秒。",
+		"italian": "Livello superiore bloccato per %seconds% secondi.",
 	},
 }

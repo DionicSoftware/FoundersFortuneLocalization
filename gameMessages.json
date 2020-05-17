@@ -42,6 +42,7 @@
 		"polish": "Trzeba zbudować na podłodze",
 		"portuguese": "Precisa ser construído no chão",
 		"chinese": "需要在地板上建造",
+		"italian": "Deve essere costruito sul pavimento",
 	},
 	"needsToBeBuiltNextToFloor": { // used for wall building
 		"english": "Needs to be built next to floor tile",
@@ -52,6 +53,7 @@
 		"polish": "Trzeba zbudować w pobliżu podłogi",
 		"portuguese": "Precisa ser construído próximo ao piso",
 		"chinese": "需要在地板边缘建造",
+		"italian": "Deve essere costruito accanto ad un pavimento",
 	},
 	"needsToBeBuiltAboveRoomOrTerrain": { // used for floor building
 		"english": "Needs to be built above room or on solid ground",
@@ -61,6 +63,7 @@
 		"russian": "Это нужно размещать над комнатой или на земле",
 		"portuguese": "Precisa ser construído acima da sala ou em terreno sólido",
 		"chinese": "需要在房间内或牢固的地面上建造",
+		"italian": "Deve essere costruito sopra una stanza o su un terreno solido",
 	},
 	"placeBlocked": {
 		"english": "This Place is blocked by something!",
@@ -153,6 +156,7 @@
 		"russian": "%firstName% вырастет завтра.",
 		"portuguese": "%firstName% vai crescer amanhã.",
 		"chinese": "%firstName% 明天将会长大。",
+		"italian": "%firstName% crescerà domani.",
 	},
 	"notificationTitle_isApproachingEndOfLife": {
 		"english": "%firstName% is nearing the end of %hisHer% long life.",
@@ -162,6 +166,7 @@
 		"russian": "%firstName% доживает последние дни своей жизни.",
 		"portuguese": "%firstName% está chegando ao final de %seuSua% vida útil.",
 		"chinese": "%firstName%即将结束%hisHer%的一生。",
+		"italian": "%firstName% sta per giungere alla fine della sua lunga vita.",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -233,7 +238,6 @@
 	// TODO-bulgarian: firstName
 	// TODO-ukrainian: firstName
 	// TODO-korean: firstName
-	// TODO-italian: firstName
 	"notificationTitle_LostConsciousness": {
 		"english": "%firstName% lost Consciousness",
 		"german": "%firstName% ist in Ohnmacht gefallen",
@@ -247,7 +251,7 @@
 		"ukrainian": "Колоніст знепритомнів",
 		"korean": "개척자가 의식을 잃었습니다",
 		"chinese": "%firstName% 失去意识",
-		"italian": "Un colono ha perso conoscenza",
+		"italian": "%firstName% ha perso conoscenza",
 	},
 	// TODO-dutch: firstName
 	// TODO-portuguese: firstName
@@ -255,7 +259,6 @@
 	// TODO-bulgarian: firstName
 	// TODO-ukrainian: firstName
 	// TODO-korean: firstName
-	// TODO-italian: firstName
 	"notificationTitle_Death": {
 		"english": "%firstName% died",
 		"german": "%firstName% gestorben",
@@ -269,7 +272,7 @@
 		"ukrainian": "Колоніст помер",
 		"korean": "개척자가 죽었습니다",
 		"chinese": "%firstName%死亡",
-		"italian": "Un colono è morto",
+		"italian": "%firstName% è mort%OA%",
 		"polish": "Kolonista zmarł!",
 	},
 	"notificationTitle_DeathOldAge": {
@@ -280,6 +283,7 @@
 		"russian": "%firstName% умер из-за старости",
 		"portuguese": "%firstName% morreu de velhice",
 		"chinese": "%firstName% 衰老而死",
+		"italian": "%firstName% è mort%OA% di vecchiaia",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -723,6 +727,7 @@
 		"spanish": "No hay una tumba vacía",
 		"russian": "Здесь нет пустой могилы",
 		"portuguese": "Não há sepultura vazia",
+		"italian": "Non ci sono tombe vuote",
 	},
 
 
@@ -790,6 +795,7 @@
 		"russian": "Дипломатические отношения улучшены",
 		"portuguese": "Relações Diplomáticas Melhoradas",
 		"chinese": "外交关系改善",
+		"italian": "Relazioni diplomatiche migliorate",
 	},
 	"treatmentSuccessful": {
 		"english": "Treatment\nSuccessful",
@@ -889,6 +895,7 @@
 		"russian": "Впечатлен%surnameA%",
 		"portuguese": "Impressionad%oA%",
 		"chinese": "印象深刻",
+		"italian": "Impressionat%OA%",
 	},
 	"notImpressed": {
 		"english": "Not Impressed",
@@ -898,6 +905,7 @@
 		"russian": "Не впечатлен%surnameA%",
 		"portuguese": "Não estou impressionado",
 		"chinese": "印象淡薄",
+		"italian": "Non impressionat%OA%",
 	},
 	"upsetWithSomeone": {
 		"english": "Upset with %firstName%",
@@ -907,6 +915,7 @@
 		"russian": "Обижен%surnameA% на %firstName%",
 		"portuguese": "Chateado com %firstName%",
 		"chinese": "对 %firstName%感到不安",
+		"italian": "Arrabbiat%OA% con %firstName%",
 	},
 	"someoneIsUpset": {
 		"english": "%firstName% is upset",
@@ -916,6 +925,7 @@
 		"russian": "%firstName% обижен%surnameA%",
 		"portuguese": "%firstName% está chateado",
 		"chinese": "%firstName%很不安",
+		"italian": "%firstName% è arrabbiat%OA%",
 	},
 
 
@@ -931,6 +941,7 @@
 		"polish": "Imigrant: %text%",
 		"portuguese": "Migrante: %text%",
 		"chinese": "移民： %text%",
+		"italian": "Migrante: %text%",
 	},
 	"iHaveTrait": {
 		"english": "I have the trait '%trait%'.",

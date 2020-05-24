@@ -20,6 +20,7 @@
 		"russian": "Год %year%",
 		"portuguese": "Ano %year%",
 		"italian": "Anno %year%",
+		"chinese": "%year% 年",
 	},
 	"quest_log": {
 		"english": "Quest Log",
@@ -29,6 +30,7 @@
 		"russian": "Журнал квестов",
 		"portuguese": "Registro de missões",
 		"italian": "Diario delle missioni",
+		"chinese": "任务日志",
 	},
 	"research": {
 		"english": "Research",
@@ -609,6 +611,7 @@
 		"russian": "Навыки",
 		"portuguese": "Habilidades",
 		"italian": "Competenze",
+		"chinese": "技能",
 	},
 	"noProfessionalSkills": {
 		"english": "No professional skills to speak of.",
@@ -618,6 +621,7 @@
 		"russian": "У вас нет профессиональных навыков.",
 		"portuguese": "Não há habilidades profissionais para falar.",
 		"italian": "Nessuna competenza professionale di cui parlare.",
+		"chinese": "没有专业技能.",
 	},
 	"view": {
 		"english": "View",
@@ -3346,6 +3350,7 @@
 		"russian": "Уровень %level%",
 		"portuguese": "Nível %level%",
 		"italian": "Livello %level%",
+		"chinese": "技能等级",
 	},
 	"professionsTitle": {
 		"english": "Professions - %fullName%",
@@ -3354,6 +3359,7 @@
 		"russian": "Профессии - %fullName%",
 		"portuguese": "Profissões - %fullName%",
 		"italian": "Professioni - %fullName%",
+		"chinese": "专业职业 - %fullName%",
 	},
 	"progressToNextLevel": {
 		"english": "Progress to next level: %currentPoints% / %totalPoints%",
@@ -3362,6 +3368,7 @@
 		"russian": "Прогресс до следующего уровня: %currentPoints% / %totalPoints%",
 		"portuguese": "Progresso para o próximo nível: %currentPoints% / %totalPoints%",
 		"italian": "Progresso per il prossimo livello: %currentPoints% / %totalPoints%",
+		"chinese": "升级到下一等级：%currentPoints% / %totalPoints%",
 	},
 	"xPoints": {
 		"english": "%points% Points",
@@ -3370,6 +3377,7 @@
 		"russian": "%points% очков",
 		"portuguese": "%points% Pontos",
 		"italian": "%points% Punti",
+		"chinese": "%points% 点数",
 	},
 	"skillPointsAvailable": {
 		"english": "%points% skill points available",
@@ -3378,5 +3386,6 @@
 		"russian": "%points% очков умений доступно",
 		"portuguese": "%points% pontos de habilidade disponíveis",
 		"italian": "%points% punti competenza disponibili",
+		"chinese": "%points% 技能点数可用",
 	},
 }

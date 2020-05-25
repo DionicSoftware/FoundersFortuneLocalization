@@ -514,7 +514,7 @@
 		"korean": "모드와 부가 콘텐츠",
 		"polish": "Mody i dodatkowa zawartość",
 		"italian": "Mod e contenuti aggiuntivi",
-		"czech": "Mody a extra obsah",
+		"czech": "Mody a dodatečný obsah",
 	},
 	"author": {
 		"english": "Author",
@@ -565,7 +565,7 @@
 		"korean": "설치된 모드나 부가 콘텐츠가 없습니다.",
 		"polish": "Nie masz zainstalowanych żadnych modów ani dodatkowej zawartości.",
 		"italian": "Non hai alcuna mod o contenuto aggiuntivo installato.",
-		"czech": "Nemáte nainstalovány žádné mody ani extra obsah.",
+		"czech": "Nemáte nainstalovány žádné mody ani dodatečný obsah.",
 	},
 	"modsOnRoadmap": {
 		"english": "Mod Support is currently on our Roadmap.\nOur supporters use this menu to manage their supporter packages.",
@@ -582,7 +582,7 @@
 		"korean": "아직은 모드를 지원할 계획입니다.\n이 메뉴는 우리를 후원해준 분들이 후원자 패키지를 관리하기 위해 사용합니다.",
 		"polish": "Wsparcie modów jest obecnie w planach.\nNasi współtwórcy używają tego menu aby zarządzać ich pakietami.",
 		"italian": "Il supporto alle mod è attualmente sulla nostra mappa di sviluppo.\nI nostri sostenitori usano questo menu per gestire i loro pacchetti supporto.",
-		
+		"czech": "Podpora modů je aktuálně v naší roadmapě.\nNaši podporovatelé používají toto menu ke správě svých balíčků.",		
 	},
 	"openModFolder": {
 		"english": "Open Mod Folder",
@@ -599,6 +599,7 @@
 		"korean": "모드 폴더 열기",
 		"polish": "Otwórz folder z modami",
 		"italian": "Apri cartella mod",
+		"czech": "Otevřít adresář s mody",
 	},
 	"openWorkshop": { //steam workshop
 		"english": "Open Workshop",
@@ -612,6 +613,7 @@
 		"portuguese": "Workshop aberto",
 		"chinese": "打开创意工坊",
 		"italian": "Apri il Workshop",
+		"czech": "Otevřít Workshop",
 	},
 	"modCompatible_Title": {
 		"english": "Content compatible",
@@ -628,6 +630,7 @@
 		"korean": "호환 가능",
 		"polish": "Zawartość kompatybilna",
 		"italian": "Contenuto compatibile",
+		"czech": "Kompatibilní s obsahem",
 	},
 	"modCompatible_Text": {
 		"english": "This content has been marked by the developers as compatible.",
@@ -644,6 +647,7 @@
 		"korean": "이 콘텐츠는 개발자가 호환 가능하다고 표시한 콘텐츠입니다.",
 		"polish": "Ta zawartość została oznaczona przez deweloperów jako kompatybilna",
 		"italian": "Questo contenuto è stato contrassegnato dagli sviluppatori come compatibile.",
+		"czech": "Tento obsah byl vývojáři označen jako kompatibilní.",
 	},
 	"modMostlyCompatible_Title": {
 		"english": "Content mostly compatible",
@@ -659,6 +663,7 @@
 		"korean": "거의 호환 가능",
 		"italian": "Contenuto per lo più compatibile",
 		"chinese": "模组内容兼容",
+		"czech": "Obsah je většinou kompatibilní",
 	},
 	"modMostlyCompatible_Text": {
 		"english": "This content has been marked by the developers as mostly compatible. It could contain bugs, but you can use it anyways.",
@@ -674,6 +679,7 @@
 		"italian": "Questo contenuto è stato contrassegnato dagli sviluppatori come per lo più compatibile. Potrebbe contenere bug, ma puoi comunque utilizzarlo.",
 		"chinese": "开发人员将此内容标记为基本兼容。它可能包含bug，但无论如何您都可以使用它。",
 		"polish": "Ta zawartość została oznaczona przez twórców jako najbardziej kompatybilna. Może zawierać błędy, ale możesz i tak z niej skorzystać.",
+		"czech": "Tento obsah byl vývojáři označen jako většinově kompatibilní. Může obsahovat chyby, ale přesto jej můžete použít.",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
@@ -690,6 +696,7 @@
 		"korean": "호환 불가능",
 		"italian": "Contenuto incompatibile",
 		"polish": "Zawartość niekompatybilna",
+		"czech": "Nekompatibilní obsah",
 	},
 	"modIncompatible_Text": {
 		"english": "This content has been marked by the developers as incompatible.\nYou need to update it in order to activate it.",

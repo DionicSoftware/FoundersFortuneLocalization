@@ -11,6 +11,7 @@
 		"portuguese": "Máx:",
 		"chinese": "最多:",
 		"italian": "Max:",
+		"turkish": "Maks:",
 	},
 	"year_no": {
 		"english": "Year %year%",
@@ -21,6 +22,7 @@
 		"portuguese": "Ano %year%",
 		"italian": "Anno %year%",
 		"chinese": "%year% 年",
+		"turkish": "Yıl %year%",
 	},
 	"quest_log": {
 		"english": "Quest Log",
@@ -31,6 +33,7 @@
 		"portuguese": "Registro de missões",
 		"italian": "Diario delle missioni",
 		"chinese": "任务日志",
+		"turkish": "Görev günlüğü",
 	},
 	"research": {
 		"english": "Research",
@@ -54,7 +57,7 @@
 		"german": "Forschungsübersicht",
 		"french": "Vue d'ensemble des recherches",
 		"spanish": "Resumen de Investigación",
-		"turkish": "Araştırma Genel Bakış",
+		"turkish": "Araştırmaya Genel Bakış",
 		"portuguese": "Visão geral da pesquisa",
 		"dutch": "Onderzoek overzicht",
 		"ukrainian":"Обзор досліджень",
@@ -174,7 +177,7 @@
 		"dutch": "max",
 		"chinese": "最大值",
 		"korean": "최대",
-		"turkish": "max",
+		"turkish": "maks",
 		"bulgarian": "макс",
 		"polish": "maks.",
 	},
@@ -273,6 +276,7 @@
 		"portuguese": "Mudar pisos",
 		"chinese": "切换楼层",
 		"italian": "Cambia piano",
+		"turkish": "Katları değiştir",
 	},
 	"switchFloorsDescription": {
 		"english": "Click here to switch to a different floor.\nDefault hotkeys: R/F",
@@ -285,6 +289,7 @@
 		"portuguese": "Clique aqui para mudar para um andar diferente. \nTeclas de atalho padrão: R / F",
 		"chinese": "单击此处切换到其他楼层。\n默认快捷键: R/F",
 		"italian": "Clicca qui per passare ad un piano differente.\nTasti di scelta rapida predefiniti: R/F",
+		"turkish": "Başka bir kata geçmek için buraya tıkla.\nVarsayılan tuşlar: R/F",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
@@ -297,6 +302,7 @@
 		"portuguese": "A construção no piso %floor% custa mais %percentage%%.",
 		"chinese": "建造 %floor%层地板额外增加 %percentage%%成本 。",
 		"italian": "Costruire al piano %floor% costa il %percentage%% in più.",
+		"turkish": "%floor% katında inşaatın maaliyeti %percentage%% daha fazla.",
 	},
 
 
@@ -480,6 +486,7 @@
 		"portuguese": "%firstName% crescerá em %days% days",
 		"chinese": "%firstName% 会在 %days% 天之内长大",
 		"italian": "%firstName% crescerà tra %days% giorni",
+		"turkish": "%firstName%, %days% günde büyüyecek",
 	},
 	"humanWillGetOldInDays": {
 		"english": "%firstName% will get old in %days% days",
@@ -490,6 +497,7 @@
 		"portuguese": "%firstName% envelhecerá em %days% days",
 		"chinese": "%firstName% 会在 %days% 天之内衰老",
 		"italian": "%firstName% invecchierà tra %days% giorni",
+		"turkish": "%firstName%, %days% günde yaşlanacak",
 	},
 	"humanWillPassAwayInDays": {
 		"english": "%firstName% will pass away in %days% days",
@@ -500,6 +508,7 @@
 		"portuguese": "%firstName% falecerá em %days% days",
 		"chinese": "%firstName% 会在 %days% 天之内逝世",
 		"italian": "%firstName% passerà a miglior vita tra %days% giorni",
+		"turkish": "%firstName%, %days% günde ölecek",
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -612,6 +621,7 @@
 		"portuguese": "Habilidades",
 		"italian": "Competenze",
 		"chinese": "技能",
+		"turkish": "Yetenekler",
 	},
 	"noProfessionalSkills": {
 		"english": "No professional skills to speak of.",
@@ -622,6 +632,7 @@
 		"portuguese": "Não há habilidades profissionais para falar.",
 		"italian": "Nessuna competenza professionale di cui parlare.",
 		"chinese": "没有专业技能.",
+		"turkish": "Kayda değer bir yetenek yok",
 	},
 	"view": {
 		"english": "View",
@@ -1042,6 +1053,7 @@
 		"portuguese": "Crescendo",
 		"chinese": "童年",
 		"italian": "Crescendo",
+		"turkish": "Büyüyor",
 	},
 	"childhoodExperiences": {
 		"english": "Childhood Experiences",
@@ -1052,6 +1064,7 @@
 		"portuguese": "Experiências da Infância",
 		"chinese": "童年经历",
 		"italian": "Esperienze infantili",
+		"turkish": "Çocukluk Deneyimleri",
 	},
 	"childhoodHappinessTooltip_Description": {
 		"english": "Being in a good or bad mood slowly earns positive or negative childhood happiness points.\nDepending on which points are collected, the child will gain positive or negative traits on their birthday.",
@@ -1072,6 +1085,7 @@
 		"portuguese": "Educação",
 		"chinese": "教育",
 		"italian": "Educazione",
+		"turkish": "Eğitim",
 	},
 	"childhoodEducationTooltip_Description": {
 		"english": "Every Child can learn life skills at the book shelf. On their birthday, they can use these points to get a great head start in any profession.\nIf the education is stopped before a topic is fully understood and a point is earned, the progress will slowly be forgotten.",
@@ -1094,6 +1108,7 @@
 		"portuguese": "Uma criança nasceu!",
 		"chinese": "一个孩子出生了！",
 		"italian": "È nato un bambino!",
+		"turkish": "Bir çocuk doğdu!",
 	},
 	"childBornDescription": {
 		"english": "%parent1% and %parent2% have got a %sonDaughter%!\nOverjoyed, they are thinking about a name for the child.\n\nWhat should their %sonDaughter% be called?",
@@ -1104,6 +1119,7 @@
 		"portuguese": "%parent1% e %parent2% obtiveram um %sonDaughter%! \nJovem feliz, estão pensando em um nome para o filho. \n\nComo deve ser chamado o %sonDaughter%?",
 		"chinese": "%parent1% 和 %parent2% 有了 %sonDaughter%!\n很高兴，他们在考虑孩子的名字。\n\n他们的 %sonDaughter% 应该叫什么？",
 		"italian": "%parent1% e %parent2% hanno avuto %UnUna% %FiglioFiglia%!\nFelicissimi, stanno pensando a un nome da dar%GliLe%.\n\nChe nome dovrebbe avere?",
+		"turkish": "%parent1% ve %parent2% çiftinin bir %sonDaughter%ları oldu!\nSevinçle çocuklarına isim vermek istiyorlar.\n\nÇocuklarının adı ne olsun?",
 	},
 	"welcomeHuman": {
 		"english": "Welcome %firstName%!",
@@ -1114,6 +1130,7 @@
 		"portuguese": "Bem-vindo %firstName%!",
 		"chinese": "欢迎 %firstName%！",
 		"italian": "Benvenut%OA% %firstName%!",
+		"turkish":  "Hoşgeldin %firstName%!",
 	},
 	"unnamed": { // used before player has assigned a name
 		"english": "Unnamed",
@@ -1124,6 +1141,7 @@
 		"portuguese": "Sem nome",
 		"chinese": "无名",
 		"italian": "Senza nome",
+		"turkish": "İsimsiz",
 	},
 
 	// Birthday Panel (becoming Adult)
@@ -1136,6 +1154,7 @@
 		"portuguese": "%firstName% cresceu!",
 		"chinese": "%firstName% 已经长大了！",
 		"italian": "%firstName% è cresciut%AO%!",
+		"turkish": "%firstName% büyüdü!",
 	},
 	"positiveTraits": {
 		"english": "Positive Traits",
@@ -1146,6 +1165,7 @@
 		"portuguese": "Traços positivos",
 		"chinese": "积极特性",
 		"italian": "Tratti positivi",
+		"turkish": "Olumlu özellikler",
 	},
 	"lotsPositiveExperiencesGainedTraits": {
 		"english": "%firstName% had a lot of good experiences in %hisHer% childhood and gained the following traits:",
@@ -1156,6 +1176,7 @@
 		"portuguese": "%firstName% tem muitas experiências boas em sua infância %eleEla% ganhou as seguintes características:",
 		"chinese": "%firstName% 拥有很多好的童年经历，%hisHer% 的特性如下:",
 		"italian": "%firstName% ha vissuto molte esperienze positive nella sua infanzia e ha ottenuto i seguenti tratti:",
+		"turkish": "%firstName% çocukluğunda çok iyi deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
 	},
 	"somePositiveExperiencesGainedTraits": {
 		"english": "%firstName% had some good experiences in %hisHer% childhood and gained the following traits:",
@@ -1166,6 +1187,7 @@
 		"portuguese": "%firstName% teve boas experiências na infância de %eleEla% e ganhou as seguintes características:",
 		"chinese": "%firstName% 拥有一些好的童年经历，%hisHer% 的特性如下:",
 		"italian": "%firstName% ha vissuto alcune esperienze positive nella sua infanzia e ha ottenuto i seguenti tratti:",
+		"turkish": "%firstName% çocukluğunda bazı iyi deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
 	},
 	"negativeTraits": {
 		"english": "Negative Traits",
@@ -1176,6 +1198,7 @@
 		"portuguese": "Traços negativos",
 		"chinese": "积极特性",
 		"italian": "Tratti negativi",
+		"turkish": "Olumsuz özellikler",
 	},
 	"lotsNegativeExperiencesGainedTraits": {
 		"english": "%firstName% had a lot of bad experiences in %hisHer% childhood and gained the following traits:",
@@ -1186,6 +1209,7 @@
 		"portuguese": "%firstName% teve muitas experiências ruins em %eleEla% infância e ganhou as seguintes características:",
 		"chinese": "%firstName% 拥有很多不好的童年经历，%hisHer% 的特性如下:",
 		"italian": "%firstName% ha vissuto molte esperienze negative nella sua infanzia e ha ottenuto i seguenti tratti:",
+		"turkish": "%firstName% çocukluğunda çok kötü deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
 	},
 	"someNegativeExperiencesGainedTraits": {
 		"english": "%firstName% had some bad experiences in %hisHer% childhood and gained the following traits:",
@@ -1196,6 +1220,7 @@
 		"portuguese": "%firstName% teve algumas experiências ruins na infância de %eleEla% e ganhou as seguintes características:",
 		"chinese": "%firstName% 拥有一些不好的童年经历，%hisHer% 的特性如下:",
 		"italian": "%firstName% ha vissuto alcune esperienze negative nella sua infanzia e ha ottenuto i seguenti tratti:",
+		"turkish": "%firstName% çocukluğunda bazı kötü deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
 	},
 	"education": {
 		"english": "Education",
@@ -1206,6 +1231,7 @@
 		"portuguese": "Educação",
 		"chinese": "教育",
 		"italian": "Educazione",
+		"turkish": "Eğitim",
 	},
 	"educationPointsCollected": {
 		"english": "%firstName% has collected %points% Education points that %heShe% can now spend on Profession Levels:",
@@ -1216,6 +1242,7 @@
 		"portuguese": "%firstName% reuniu %points% pontos de educação que %eleEla% agora podem gastar nos níveis de profissão:",
 		"chinese": "%firstName% 拥有教育 %points% 点数，%heShe% 可以在以下的专业选择升级:",
 		"italian": "%firstName% ha accumulato %points% punti Educazione che ora può spendere nei Livelli di Professione:",
+		"turkish": "%firstName%, %points% eğtim puanı kazandı. Bu puanlarla meslek seviyesini arttırabilir",
 	},
 	"pointCost": {
 		"english": "Point Cost",
@@ -1226,6 +1253,7 @@
 		"portuguese": "Custo ponto",
 		"chinese": "消耗点数",
 		"italian": "Costo in punti",
+		"turkish": "Puan maliyeti",
 	},
 	"pointsLeft": {
 		"english": "%points% Points Left",
@@ -1236,6 +1264,7 @@
 		"portuguese": "%points% Pontos restantes",
 		"chinese": "剩余%points%点数",
 		"italian": "%points% Punti rimanenti",
+		"turkish": "%points% puan kaldı",
 	},
 	"happyBirthday": {
 		"english": "Happy Birthday!",
@@ -1246,6 +1275,7 @@
 		"portuguese": "Feliz Aniversário!",
 		"chinese": "生日快乐！",
 		"italian": "Buon compleanno!",
+		"turkish": "Mutlu yıllar!",
 	},
 
 	// wish panel
@@ -1917,7 +1947,7 @@
 		"german": "Lager",
 		"french": "Stockage",
 		"spanish": "Almacén",
-		"turkish": "Saklama",
+		"turkish": "Depolama",
 		"portuguese": "Armazenamento",
 		"dutch": "Opslag",
 		"ukrainian":"Зберігання",
@@ -1937,6 +1967,7 @@
 		"russian": "Нет особых предметов в магазине.",
 		"portuguese": "Não há itens especiais na loja.",
 		"chinese": "商店中没有特殊物品。",
+		"turkish": "Dükkanda özel bir şey yok.",
 	},
 	"decoration": {
 		"english": "Decoration",
@@ -2066,6 +2097,7 @@
 		"portuguese": "Escadas",
 		"chinese": "楼梯",
 		"italian": "Scale",
+		"turkish": "Merdivenler",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -2542,7 +2574,7 @@
 		"russian":"К сожалению, %firstName% туп%hesheEnd2% и не может получать опыт в любой работе.",
 		"chinese": "非常不幸, %firstName% 实在太蠢了,任何职业都不会获得经验.",
 		"korean": "불행하게도, %firstName%#{는} 멍청이여서 어떤 직업에서도 경험치를 얻을 수 없습니다.",
-	    	"italian": "Purtroppo, %firstName% è ottuso e non acquisirà esperienza mentre svolge un lavoro.",
+	    "italian": "Purtroppo, %firstName% è ottuso e non acquisirà esperienza mentre svolge un lavoro.",
 	   	//"arabic": "",
 		"polish": "Niestety, %firstName% jest głup%iA% i nie będzie zdobywać żadnego doświadczenia z żadnej pracy.",
 		"bulgarian": "За съжаление, %firstName% е тъп и няма да натрупа опит в никоя работа.",
@@ -3035,6 +3067,7 @@
 		"portuguese": "Os estoques não têm espaço suficiente para %amount% %resource%.",
 		"chinese": "库存的空间不足以容纳 %amount% %resource%.",
 		"italian": "Le riserve non hanno abbastanza spazio per %amount% %resource%.",
+		"turkish": "Depoda %amount% %resource% için yeteri kadar boş yer yok.",
 	},
 
 
@@ -3351,6 +3384,7 @@
 		"portuguese": "Nível %level%",
 		"italian": "Livello %level%",
 		"chinese": "技能等级",
+		"turkish": "Seviye %level%",
 	},
 	"professionsTitle": {
 		"english": "Professions - %fullName%",
@@ -3360,6 +3394,7 @@
 		"portuguese": "Profissões - %fullName%",
 		"italian": "Professioni - %fullName%",
 		"chinese": "专业职业 - %fullName%",
+		"turkish": "Meslekler - %fullName%",
 	},
 	"progressToNextLevel": {
 		"english": "Progress to next level: %currentPoints% / %totalPoints%",
@@ -3369,6 +3404,7 @@
 		"portuguese": "Progresso para o próximo nível: %currentPoints% / %totalPoints%",
 		"italian": "Progresso per il prossimo livello: %currentPoints% / %totalPoints%",
 		"chinese": "升级到下一等级：%currentPoints% / %totalPoints%",
+		"turkish": "Sıradaki seviyeyi geçiş: %currentPoints% / %totalPoints%",
 	},
 	"xPoints": {
 		"english": "%points% Points",
@@ -3378,6 +3414,7 @@
 		"portuguese": "%points% Pontos",
 		"italian": "%points% Punti",
 		"chinese": "%points% 点数",
+		"turkish": "%points% Puan",
 	},
 	"skillPointsAvailable": {
 		"english": "%points% skill points available",
@@ -3387,5 +3424,6 @@
 		"portuguese": "%points% pontos de habilidade disponíveis",
 		"italian": "%points% punti competenza disponibili",
 		"chinese": "%points% 技能点数可用",
+		"turkish": "%points% yetenek puanı mevcut",
 	},
 }

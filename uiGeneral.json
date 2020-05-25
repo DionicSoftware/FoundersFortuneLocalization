@@ -15,6 +15,7 @@
 		"korean": "새 게임",
 		"polish": "Nowa gra",
 		"italian": "Nuova partita",
+		"czech": "Nová hra",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -31,6 +32,7 @@
 		"korean": "저장하기",
 		"polish": "Zapisz grę",
 		"italian": "Salva partita",
+		"czech": "Uložit hru",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -47,6 +49,7 @@
 		"korean": "불러오기",
 		"polish": "Wczytaj grę",
 		"italian": "Carica partita",
+		"czech": "Načíst hru",
 	},
 	"settings": {
 		"english": "Settings",
@@ -63,6 +66,7 @@
 		"korean": "설정",
 		"polish": "Ustawienia",
 		"italian": "Opzioni",
+		"czech": "Nastavení",
 	},
 	"quit": {
 		"english": "Quit",
@@ -79,6 +83,7 @@
 		"korean": "종료",
 		"polish": "Wyjdź",
 		"italian": "Esci",
+		"czech": "Odejít",
 	},
 	"website": {
 		"english": "Website",
@@ -95,6 +100,7 @@
 		"korean": "홈페이지",
 		"polish": "Strona internetowa",
 		"italian": "Sito web",
+		"czech": "Webstránka",
 	},
 	"forum": {
 		"english": "Forum",
@@ -111,6 +117,7 @@
 		"korean": "게시판",
 		"polish": "Forum",
 		"italian": "Forum",
+		"czech": "Fórum",
 	},
 	"supportDevelopment": {
 		"english": "Support Development",
@@ -127,6 +134,7 @@
 		"korean": "개발자 후원하기",
 		"polish": "Wspieraj rozwój",
 		"italian": "Supporta lo sviluppo",
+		"czech": "Podpořit vývoj",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -143,6 +151,7 @@
 		"korean": "업데이트 가능!",
 		"polish": "Aktualizacja dostępna",
 		"italian": "Aggiornamento disponibile!",
+		"czech": "Je dostupná aktualizace!",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -159,6 +168,7 @@
 		"korean": "최신 버전 다운받기",
 		"polish": "Ściągnij najnowszą wersję",
 		"italian": "Ottieni la versione più recente",
+		"czech": "Získat nejnovější verzi",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -175,6 +185,7 @@
 		"korean": "설치된 버전",
 		"polish": "Twoja wersja",
 		"italian": "La tua versione",
+		"czech": "Vaše verze",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -191,6 +202,7 @@
 		"korean": "현재 버전",
 		"polish": "Obecna wersja",
 		"italian": "Versione attuale",
+		"czech": "Aktuální verze",
 	},
 	"underConstruction": {
 		"english": "Under Construction!",
@@ -207,6 +219,7 @@
 		"korean": "공사중!",
 		"polish": "W budowie!",
 		"italian": "In costruzione!",
+		"czech": "Ve výstavbě!",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -223,6 +236,7 @@
 		"korean": "메인 메뉴",
 		"polish": "Główne menu",
 		"italian": "Menu principale",
+		"czech": "Hlavní menu",
 	},
 	"giveFeedback": {
 		"english": "Give Feedback",
@@ -239,6 +253,7 @@
 		"korean": "피드백 보내기",
 		"polish": "Podziel się opinią",
 		"italian": "Fornisci un feedback",
+		"czech": "Zpětná vazba",
 	},
 
 
@@ -258,6 +273,7 @@
 		"korean": "불러오기",
 		"polish": "Wczytaj",
 		"italian": "Carica",
+		"czech": "Načíst",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -274,6 +290,7 @@
 		"korean": "덮어쓰기",
 		"polish": "Nadpisz",
 		"italian": "Sovrascrivi",
+		"czech": "Přepsat",
 	},
 	"reallyDeleteSave": {
 		"english": "Are you sure you want to delete the save \"%save%\"? It will be gone forever.",
@@ -288,6 +305,7 @@
 		"italian": "Vuoi davvero eliminare il salvataggio \"%save%\"? Andrà perso per sempre.",
 		"polish": "Jesteś pewien, że chcesz usunąć zapis \"%save%\"? Zapis zostanie usunięty na zawsze.",
 		"turkish": "\"%save%\" kaydını silmek istediğinizden emin misiniz? Bunun geri dönüşümü yok.",
+		"czech": "Opravdu chcete přepsat hru \"%save%\"? Bude navždy ztracena.",
 	},
 	// TODO-italian
 	// TODO-turkish
@@ -306,6 +324,7 @@
 		"korean": "이 저장 파일은 게임 버전과 호환되지 않습니다.\n공지사항에서 구 버전에서 저장된 게임을 이어하는 방법에 대한 튜토리얼을 찾아볼 수 있습니다.",
 		"polish": "Ten zapis nie jest kompatybilny z twoją wersją gry.\nZaktualizuj swoją wersję gry.",
 		"chinese": "此存档与您的游戏版本不兼容。\n您可以在最新公告中找到有关如何继续使用旧游戏版本的教程。",
+		"czech": "Tato uložená pozice není kompatibilní se současnou verzí hry.\nStarší uložené pozice můžete hrát díky Steam funkci 'Beta'",
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -320,6 +339,7 @@
 		"italian": "L'ultimo salvataggio risale a %minutes% minuti fa. Vuoi davvero tornare al menu principale senza salvare?",	
 		"polish": "Ta gra nie była zapisywana przez %minutes% minut. Jesteś pewien, że chcesz wyjść do menu głównego bez zapisywania?",
 		"turkish":  "Oyunu %minutes% dakikadır kaydetmediniz. Kaydetmeden ana menüye geri dönmek istediğinden emin misiniz?",
+		"czech": "Hra nebyla uložena posledních %minutes% minut. Opravdu se chcete vrátit do hlavní nabídky bez uložení?",
 	},
 	"newSave": {
 		"english": "New Save",
@@ -336,6 +356,7 @@
 		"korean": "새로 저장",
 		"polish": "Nowy zapis",
 		"italian": "Nuovo salvataggio",
+		"czech": "Nová pozice",
 	},
 	"savegameName": { // background when player enters an empty save game name
 		"english": "Savegame Name",
@@ -352,6 +373,7 @@
 		"korean": "저장된 게임",
 		"polish": "Nazwa zapisu",
 		"italian": "Nome salvataggio",
+		"czech": "Název uložené hry",
 	},
 	"mostAwesomeColony": { // default name for new colony
 		"english": "Most Awesome Colony",
@@ -368,6 +390,7 @@
 		"korean": "가장 멋진 정착지",
 		"polish": "Najcudowniejsza kolonia",
 		"italian": "La colonia più splendida",
+		"czech": "Nejúžasnější kolonie",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -384,6 +407,7 @@
 		"korean": "사용할 수 없는 문자가 포함되어 있습니다",
 		"polish": "Zabronione znaki w nazwie pliku",
 		"italian": "Caratteri proibiti nel nome del file",
+		"czech": "Zakázané znaky v názvu souboru",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -400,6 +424,7 @@
 		"korean": "파일 이름이 너무 깁니다",
 		"polish": "Nazwa pliku zbyt długa",
 		"italian": "Nome del file troppo lungo",
+		"czech": "Název souboru je příliš dlouhý",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -416,6 +441,7 @@
 		"korean": "파일 이름이 너무 짧습니다",
 		"polish": "Nazwa pliku zbyt krótka",
 		"italian": "Nome del file troppo corto",
+		"czech": "Název souboru je příliš krátký",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -432,6 +458,7 @@
 		"korean": "이미 같은 이름의 파일이 있습니다",
 		"polish": "Nazwa pliku już w użyciu",
 		"italian": "Nome del file già in uso",
+		"czech": "Název souboru je již použit",
 	},
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
@@ -448,6 +475,7 @@
 		"korean": "모드가 호환되지 않을 수 있습니다!\n모드:",
 		"polish": "Mody mogą być niekompatybilne\nMody w zapisie:",
 		"italian": "Le mod potrebbero essere incompatibili!\nMod nel salvataggio:",
+		"czech": "Mody mohou být nekompatibilní!\nMody v uložené hře:",
 	},
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
@@ -464,6 +492,7 @@
 		"korean": "없음",
 		"polish": "Brak",
 		"italian": "Nessuna",
+		"czech": "Žádné",
 	},
 
 
@@ -485,6 +514,7 @@
 		"korean": "모드와 부가 콘텐츠",
 		"polish": "Mody i dodatkowa zawartość",
 		"italian": "Mod e contenuti aggiuntivi",
+		"czech": "Mody a extra obsah",
 	},
 	"author": {
 		"english": "Author",
@@ -501,6 +531,7 @@
 		"korean": "작성자",
 		"polish": "Autor",
 		"italian": "Autore",
+		"czech": "Autor",
 	},
 	"active": {
 		"english": "Active",
@@ -517,6 +548,7 @@
 		"korean": "활성화",
 		"polish": "Aktywny",
 		"italian": "Attiva",
+		"czech": "Aktivní",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -533,6 +565,7 @@
 		"korean": "설치된 모드나 부가 콘텐츠가 없습니다.",
 		"polish": "Nie masz zainstalowanych żadnych modów ani dodatkowej zawartości.",
 		"italian": "Non hai alcuna mod o contenuto aggiuntivo installato.",
+		"czech": "Nemáte nainstalovány žádné mody ani extra obsah.",
 	},
 	"modsOnRoadmap": {
 		"english": "Mod Support is currently on our Roadmap.\nOur supporters use this menu to manage their supporter packages.",
@@ -549,6 +582,7 @@
 		"korean": "아직은 모드를 지원할 계획입니다.\n이 메뉴는 우리를 후원해준 분들이 후원자 패키지를 관리하기 위해 사용합니다.",
 		"polish": "Wsparcie modów jest obecnie w planach.\nNasi współtwórcy używają tego menu aby zarządzać ich pakietami.",
 		"italian": "Il supporto alle mod è attualmente sulla nostra mappa di sviluppo.\nI nostri sostenitori usano questo menu per gestire i loro pacchetti supporto.",
+		
 	},
 	"openModFolder": {
 		"english": "Open Mod Folder",

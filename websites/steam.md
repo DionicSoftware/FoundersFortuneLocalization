@@ -72,6 +72,10 @@ Adadaki kaynakları kullanarak çiftçilik, araç gereç üretimi, ticaret, savu
 Un simulatore di colonia fantasy incentrato sulla costruzione creativa, sulla psicologia dei coloni e sulla difesa della base.
 Gestisci risorse, coltivazione, produzione, strumenti, armi, armature, commercio, difesa e ricerche, così come desideri, aspettative, pensieri e possedimenti di ogni colono.
 
+### Polish
+Symulacja kolonii fantasy, skupionej na kreatywnym budowaniu, psychologii kolonistów i obronie bazy.
+Zamij się zbieraniem zasobów, rolnictwem, produkcją, narzędziami, bronią, zbroją, handlem, obroną i badaniami oraz życzeniami, oczekiwaniami, myślami i domami każdego kolonisty.
+
 
 
 # Long Description - Translation Disclaimer
@@ -111,6 +115,9 @@ Substitute "..." with your language
 
 ### Italian
 (La traduzione italiana è stata realizzata dalla comunità.)
+
+### Polish
+(Polskie tłumaczenie wykonała społeczność.)
 
 
 
@@ -208,6 +215,13 @@ Costruisci la tua colonia
 Quando i tuoi coloni arrivano, non hanno nulla se non dei vestiti sulle loro spalle. Prendi il controllo e ordina loro di raccogliere materiali e costruire pareti, pavimenti e mobili.
 
 Ricorda che non sei limitato agli edifici predefiniti! Progetta le tue case e personalizzale a tuo piacimento. Ci sono dozzine di elementi da costruzione e mobili che puoi utilizzare per creare l'insediamento che hai sempre sognato!
+
+### Polish
+Zbuduj swoją kolonię
+
+Z przybyciem, twoi koloniści nie mają nic prócz ubrania na plecach. Przejmij nad nimi kontrolę, nakaż im zbierać materiały, budować ściany, podłogi i meble.
+
+Masz nieograniczone możliwości w tworzeniu budynków! Sam zaprojektuj własne domy i stylizuj je według własnych upodobań. Istnieją dziesiątki elementów konstrukcyjnych i mebli, których możesz użyć do stworzenia osady, o której zawsze marzyłeś!
 
 
 

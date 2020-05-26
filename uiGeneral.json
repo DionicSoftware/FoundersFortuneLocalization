@@ -1571,6 +1571,23 @@
 		"polish": "Italiano",
 		"czech": "Italiano",
 	},
+	 "Czech": { 
+		"english": "Čeština",
+		"german": "Čeština",
+		"french": "Čeština",
+		"spanish": "Čeština",
+		"turkish": "Čeština",
+		"portuguese": "Čeština",
+		"dutch": "Čeština",
+		"ukrainian":"Čeština",
+		"russian":"Čeština",
+		"chinese": "Čeština",
+		"korean": "Čeština",
+		"arabic": "Čeština",
+		"italian": "Čeština",
+		"polish": "Čeština",
+		"czech": "Čeština",
+	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
 		"german": "Kamerasteuerung mit Maus",
@@ -1586,6 +1603,8 @@
 		"korean": "가장자리에서 화면 끌기",
 		"italian": "Scorrimento del mouse ai bordi",
 		"polish": "Skrolowanie na krawędziach",
+		"czech": "Posouvání myší na okrajích",
+		
 	},
 	"developerMode": {
 		"english": "Developer Mode",
@@ -1599,6 +1618,7 @@
 		"polish": "Tryb deweloperski",
 		"turkish": "Geliştirici modu",
 		"chinese": "开发者模式",
+		"czech": "Vývojářský režim",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -1615,6 +1635,7 @@
 		"korean": "백그라운드에서 게임 활성화",
 		"italian": "Funzionamento in background",
 		"polish": "Gra działa w tle",
+		"czech": "Hra aktivní na pozadí",
 	},
 	"cameraSpeed": {
 		"english": "Camera Speed",
@@ -1630,6 +1651,7 @@
 		"italian": "Velocità telecamera",
 		"chinese": "镜头速度",
 		"polish": "Prędkość kamery",
+		"czech": "Rychlost kamery",
 	},
 
 
@@ -1649,6 +1671,7 @@
 		"korean": "세상을 불러오는 중...",
 		"italian": "Caricamento del mondo...",
 		"polish": "Wczytywanie świata...",
+		"czech": "Načítání světa...",
 	},
 	"reset": {
 		"english": "Reset",
@@ -1665,6 +1688,7 @@
 		"korean": "초기화",
 		"italian": "Ripristina",
 		"polish": "Resetuj",
+		"czech": "Reset",
 	},
 	"ok": {
 		"english": "Ok",
@@ -1677,6 +1701,7 @@
 		"portuguese": "Ok",
 		"chinese": "Ok",
 		"italian": "Ok",
+		"czech": "Ok",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -1693,6 +1718,7 @@
 		"korean": "확인",
 		"italian": "Conferma",
 		"polish": "Zatwierdź",
+		"czech": "Potvrdit",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -1709,6 +1735,7 @@
 		"korean": "취소",
 		"italian": "Annulla",
 		"polish": "Anuluj",
+		"czech": "Zrušit",
 	},
 	"apply": {
 		"english": "Apply",
@@ -1725,6 +1752,7 @@
 		"korean": "적용",
 		"italian": "Applica",
 		"polish": "Zastosuj",
+		"czech": "Použít",
 	},
 
 
@@ -1744,6 +1772,7 @@
 		"korean": "카메라 컨트롤",
 		"italian": "Controlli telecamera",
 		"polish": "Sterowanie kamerą",
+		"czech": "Ovládání kamery",
 	},
 	"keyBindings": {
 		"english": "Key Bindings",
@@ -1760,6 +1789,7 @@
 		"korean": "키보드 매핑",
 		"italian": "Assegnazione tasti",
 		"polish": "Zmień przypisanie klawiszy",
+		"czech": "Změna přiřazení kláves",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1776,6 +1806,7 @@
 		"korean": "앞으로",
 		"italian": "Avanti",
 		"polish": "Do przodu",
+		"czech": "Dopředu",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -1792,6 +1823,7 @@
 		"korean": "뒤로",
 		"italian": "Indietro",
 		"polish": "Do tyłu",
+		"czech": "Dozadu",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -1808,6 +1840,7 @@
 		"korean": "왼쪽으로",
 		"italian": "Sinistra",
 		"polish": "Lewo",
+		"czech": "Doleva",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -1824,6 +1857,7 @@
 		"korean": "오른쪽으로",
 		"italian": "Destra",
 		"polish": "Prawo",
+		"czech": "Doprava",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -1840,6 +1874,7 @@
 		"korean": "회전",
 		"italian": "Ruota",
 		"polish": "Obróć",
+		"czech": "Otočit",
 	},
 	"zoomIn": {
 		"english": "Zoom In",
@@ -1855,6 +1890,7 @@
 		"italian": "Aumenta zoom",
 		"chinese": "放大",
 		"polish": "Przybliż",
+		"czech": "Přiblížit",
 	},
 	"zoomOut": {
 		"english": "Zoom Out",
@@ -1870,6 +1906,7 @@
 		"italian": "Riduci zoom",
 		"chinese": "缩小",
 		"polish": "Oddal",
+		"czech": "Oddálit",
 	},
 	"floorUp": {
 		"english": "Floor up",
@@ -1882,6 +1919,7 @@
 		"portuguese": "Andar de cima",
 		"chinese": "楼上",
 		"italian": "Piano superiore",
+		"czech": "Podlaží nahoru",
 	},
 	"floorDown": {
 		"english": "Floor down",
@@ -1894,6 +1932,7 @@
 		"portuguese": "Andar para baixo",
 		"chinese": "楼下",
 		"italian": "Piano inferiore",
+		"czech": "Podlaží dolů",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1910,6 +1949,7 @@
 		"korean": "빠르기 조절",
 		"italian": "Controllo del tempo",
 		"polish": "Prędkość gry",
+		"czech": "Ovládání času",
 	},
 	"pause": {
 		"english": "Pause",
@@ -1926,6 +1966,7 @@
 		"korean": "일시정지",
 		"italian": "Pausa",
 		"polish": "Pauza",
+		"czech": "Pauza",
 	},
 	"normalSpeed": {
 		"english": "Normal Speed",
@@ -1942,6 +1983,7 @@
 		"korean": "일반 속도",
 		"italian": "Velocità normale",
 		"polish": "Normalna",
+		"czech": "Normální rychlost",
 	},
 	"2xSpeed": {
 		"english": "2x Speed",
@@ -1958,6 +2000,7 @@
 		"korean": "2배속",
 		"italian": "Velocità x2",
 		"polish": "Prędkość x2",
+		"czech": "Rychlost x2",
 	},
 	"4xSpeed": {
 		"english": "4x Speed",
@@ -1974,6 +2017,7 @@
 		"korean": "4배속",
 		"italian": "Velocità x4",
 		"polish": "Prędkość x4",
+		"czech": "Rychlost x4",
 	},
 	"colonistInteraction": {
 		"english": "Colonist Interaction",
@@ -1990,6 +2034,7 @@
 		"korean": "개척자와 상호작용",
 		"italian": "Interazione colono",
 		"polish": "Interakcja",
+		"czech": "Interakce s kolonistou",
 	},
 	"multipleOrders": {
 		"english": "Multiple Orders",
@@ -2006,6 +2051,7 @@
 		"korean": "여러개의 명령 내리기",
 		"italian": "Ordini multipli",
 		"polish": "Kolejkowanie zadań",
+		"czech": "Vícečetný úkol",
 	},
 	"furnitureHandling": {
 		"english": "Furniture Handling",
@@ -2022,6 +2068,7 @@
 		"korean": "가구 움직이기",
 		"italian": "Gestione mobili",
 		"polish": "Meblowanie",
+		"czech": "Přesun nábytku",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -2038,6 +2085,7 @@
 		"korean": "왼쪽으로 회전",
 		"italian": "Ruota a sinistra",
 		"polish": "Obróć w lewo",
+		"czech": "Otočit doleva",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -2054,6 +2102,7 @@
 		"korean": "오른쪽으로 회전",
 		"italian": "Ruota a destra",
 		"polish": "Obróć w prawo",
+		"czech": "Otočit doprava",
 	},
 	"precisionPlacement": {
 		"english": "Precision Placement",
@@ -2070,6 +2119,7 @@
 		"korean": "정밀한 배치",
 		"italian": "Posizionamento di precisione",
 		"polish": "Precyzyjne umieszczanie",
+		"czech": "Přesné umístění",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -2086,6 +2136,7 @@
 		"korean": "기타",
 		"italian": "Varie",
 		"polish": "Pozostałe",
+		"czech": "Ostatní",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -2102,6 +2153,7 @@
 		"korean": "스크린샷",
 		"italian": "Screenshot",
 		"polish": "Zrzut ekranu",
+		"czech": "Snímek obrazovky",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -2118,6 +2170,7 @@
 		"korean": "스크린샷 폴더 열기",
 		"italian": "Apri cartella screenshot",
 		"polish": "Otwórz katalog zrzutów ekranu",
+		"czech": "Otevřít adresář snímků",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -2134,6 +2187,7 @@
 		"korean": "FPS 확인",
 		"italian": "Mostra FPS",
 		"polish": "Pokaż FPS",
+		"czech": "Zobrazit FPS",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -2150,6 +2204,7 @@
 		"korean": "마우스 왼쪽 버튼",
 		"italian": "Tasto sinistro del mouse",
 		"polish": "Lewy przycisk myszy",
+		"czech": "Levé tlačítko myši",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -2166,6 +2221,7 @@
 		"korean": "마우스 오른쪽 버튼",
 		"italian": "Tasto destro del mouse",
 		"polish": "Prawy przycisk myszy",
+		"czech": "Pravé tlačítko myši",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -2182,6 +2238,7 @@
 		"korean": "마우스 가운데 버튼",
 		"italian": "Tasto centrale del mouse",
 		"polish": "Środkowy przycisk myszy",
+		"czech": "Prostřední tlačítko myši",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -2198,6 +2255,7 @@
 		"korean": "스페이스",
 		"italian": "Spazio",
 		"polish": "Spacja",
+		"czech": "Mezerník",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -2213,6 +2271,7 @@
 		"arabic": "Shift (ﺭﺎﺴﻳ)",
 		"korean": "Shift (왼쪽)",
 		"italian": "Shift (sinistro)",
+		"czech": "Shift (levý)",
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
@@ -2228,6 +2287,7 @@
 		"arabic": "Shift (ﻦﻴﻤﻳ)",
 		"korean": "Shift (오른쪽)",
 		"italian": "Shift (destro)",
+		"czech": "Shift (pravý)",
 	},
 	"key_LeftAlt": {
 		"english": "Alt (left)",
@@ -2243,6 +2303,7 @@
 		"arabic": "Alt (ﺭﺎﺴﻳ)",
 		"korean": "Alt (왼쪽)",
 		"italian": "Alt (sinistro)",
+		"czech": "Alt (levý)",
 	},
 	"key_RightAlt": {
 		"english": "Alt (right)",
@@ -2258,6 +2319,7 @@
 		"arabic": "Alt (ﻦﻴﻤﻳ)",
 		"korean": "Alt (오른쪽)",
 		"italian": "Alt (destro)",
+		"czech": "Alt (pravý)",
 	},
 	"key_LeftControl": {
 		"english": "Control (left)",
@@ -2273,6 +2335,7 @@
 		"arabic": "Ctrl (ﺭﺎﺴﻳ)",
 		"korean": "Ctrl (왼쪽)",
 		"italian": "Ctrl (sinistro)",
+		"czech": "Ctrl (levý)",
 	},
 	"key_RightControl": {
 		"english": "Control (right)",
@@ -2288,6 +2351,7 @@
 		"arabic": "Ctrl (ﻦﻴﻤﻳ)",
 		"korean": "Ctrl (오른쪽)",
 		"italian": "Ctrl (destro)",
+		"czech": "Ctrl (pravý)",
 	},
 	"key_CapsLock": {
 		"english": "Caps Lock",
@@ -2304,6 +2368,7 @@
 		"arabic": "Caps Lock",
 		"italian": "Bloc maiusc",
 		"polish": "CapsLock",
+		"czech": "Capslock",
 	},
 
 
@@ -2323,6 +2388,7 @@
 		"korean": "게임 오버!",
 		"italian": "Partita terminata!",
 		"polish": "Koniec gry!",
+		"czech": "Konec hry!",
 	},
 	"backToMainMenu": {
 		"english": "Back to the Main Menu",
@@ -2339,6 +2405,7 @@
 		"korean": "메인 메뉴로 돌아가기",
 		"italian": "Torna al menu principale",
 		"polish": "Wróć do menu",
+		"czech": "Vrátit se do hlavního menu",
 	},
 	"yourColonyHasPerished": {
 		"english": "Your Colony has perished!",
@@ -2355,6 +2422,7 @@
 		"korean": "당신의 정착지가 소멸했습니다!",
 		"italian": "La tua colonia è distrutta!",
 		"polish": "Twoja kolonia przestała istnieć!",
+		"czech": "Vaše kolonie vymřela!",
 	},
 	"totalPlayTime": {
 		"english": "Total Play Time",
@@ -2371,6 +2439,7 @@
 		"korean": "총 플레이 시간",
 		"italian": "Tempo di gioco complessivo",
 		"polish": "Czas gry",
+		"czech": "Celkový čas hry",
 	},
 	"averageHappiness": {
 		"english": "Average Happiness",
@@ -2387,6 +2456,7 @@
 		"korean": "평균 행복도",
 		"italian": "Felicità media",
 		"polish": "Średnia szczęścia",
+		"czech": "Průměrná spokojenost",
 	},
 	"totalResearchCollected": {
 		"english": "Research collected",
@@ -2403,6 +2473,7 @@
 		"korean": "총 연구량",
 		"italian": "Ricerche effettuate",
 		"polish": "Zdobyte ulepszenia",
+		"czech": "Získaná vylepšení",
 	},
 	"totalNativesKilled": {
 		"english": "Tikigoblins Killed",
@@ -2419,6 +2490,7 @@
 		"korean": "죽인 티키고블린 수",
 		"italian": "Tikigoblin uccisi",
 		"polish": "Zabite gobliny",
+		"czech": "Zabitých Tikigoblinů",
 	},
 	"maxNumberOfColonists": {
 		"english": "Max. Number of Colonists",
@@ -2435,6 +2507,7 @@
 		"korean": "최대 개척자 수",
 		"italian": "Numero massimo di coloni",
 		"polish": "Liczba kolonistów",
+		"czech": "Maximální počet kolonistů",
 	},
 	"uiStepBack": {
 		"english": "Back",
@@ -2451,6 +2524,7 @@
 		"korean": "뒤로가기",
 		"italian": "Indietro",
 		"polish": "Wróć",
+		"czech": "Zpět",
 	},
 
 
@@ -2470,6 +2544,7 @@
 		"korean": "시작하기",
 		"italian": "Avvia partita",
 		"polish": "Start gry",
+		"czech": "Začít hru",
 	},
 	"selectStartingColonists": {
 		"english": "Select Starting Colonists",
@@ -2486,6 +2561,7 @@
 		"korean": "시작시 함께할 개척자를 골라주세요.",
 		"italian": "Seleziona i coloni iniziali",
 		"polish": "Wybierz początkowych kolonistów",
+		"czech": "Vyberte počáteční kolonisty",
 	},
 	"randomColonist": {
 		"english": "Random Colonist",
@@ -2502,6 +2578,7 @@
 		"korean": "랜덤 개척자",
 		"italian": "Colono casuale",
 		"polish": "Wylosuj",
+		"czech": "Náhodný kolonista",
 	},
 	"selectDifficulty": {
 		"english": "Select Difficulty",
@@ -2518,6 +2595,7 @@
 		"korean": "난이도 선택",
 		"italian": "Seleziona la difficoltà",
 		"polish": "Wybierz poziom trudności",
+		"czech": "Vyberte obtížnost",
 	},
 	"difficulty_0_Title": {
 		"english": "Calm World",
@@ -2534,6 +2612,7 @@
 		"korean": "조용한 세계",
 		"italian": "Mondo pacifico",
 		"polish": "Spokojny",
+		"czech": "Poklidný svět",
 	},
 	"difficulty_0_Desc": {
 		"english": "A more relaxing experience if you prefer creative base building over combat and survival.\nYour colonists take only half damage from all kinds of injuries.\nThe colony starts with 80 meals, colonists need less food, and can survive on smaller food rations.\nWatered plants yield higher harvests.\nYour colonists will still die if you don't take care of them!",
@@ -2550,6 +2629,7 @@
 		"korean": "여유로운 플레이를 즐길 수 있습니다. 만약 전투와 생존보다 창의적인 건물을 짓는 것에 관심이 있다면 이 세계를 선택하세요.\n당신의 개척자들은 모든 종류의 부상에서 절반의 대미지만을 입습니다.\n정착지는 80의 식량을 가지고 시작하며, 개척자들은 음식을 덜 먹으며, 적은 배급량으로도 생존할 수 있습니다.\n물을 뿌린 식물에서 더 많이 수확할 수 있습니다.\n그렇다고 개척자들을 돌보지 않는다면, 죽음에 이를 수 있습니다!",
 		"italian": "Un'esperienza più rilassante se preferisci la costruzione di basi rispetto al combattimento e alla sopravvivenza.\nI tuoi coloni subiscono solo la metà dei danni causati dalle lesioni.\nLa colonia parte con 80 pasti. I coloni hanno bisogno di meno cibo e possono sopravvivere con razioni alimentari più piccole.\nLe piante irrigate producono raccolti più abbondanti.\nI tuoi coloni moriranno comunque se non ti prenderai cura di loro!",
 		"polish": "Bardziej relaksujący tryb rozgrywki dla graczy któzy preferują kreatywne budowanie i przetrwanie zamiast walki.\nKoloniście są bardziej wytrwali i potrzebują mniejszych racji żywnościowych.\nKolonia rozpoczyna z 80 porcjami jedzenia.\nPodlane grządki dają lepsze plony.\nMimo to nadal musisz opiekować się swoimi kolonistami!",
+		"czech": "Více odpočinkový zážitek, pokud máte raději kreativní budování základny místo bojů s nepřáteli a o bojem přežití.\nVaši kolonisté utrpí pouze poloviční poškození z jakéhokoliv zranění.\nKolonie začíná s 80 jídly, kolonisté potřebují méně jíst a mohou přežít s menšími porcemi.\nZavlažené rostliny produkují vyšší výnosy.\nVaši kolonisté mohou stále zemřít, pokud se o ně nebudete starat!",
 	},
 	"difficulty_1_Title": {
 		"english": "Exciting World",
@@ -2566,6 +2646,7 @@
 		"korean": "흥미로운 세계",
 		"italian": "Mondo esaltante",
 		"polish": "Ekscytujący",
+		"czech": "Vzrušující svět",
 	},
 	"difficulty_1_Desc": {
 		"english": "The typical Founders' Fortune experience, mixing base building with survival.\nThe colony starts with 40 meals.\nSometimes colonists may die even though you try your best.",
@@ -2582,6 +2663,7 @@
 		"korean": "마을을 만들고 생존을 추구하는 전형적인 Founder's Fortune을 경험할 수 있습니다.\n정착지는 40의 식량을 가지고 시작합니다.\n최선을 다하지 않는다면, 가끔 개척자들이 죽음을 마주할지도 모릅니다.",
 		"italian": "La tipica esperienza su Founders' Fortune, una combinazione tra costruzione di basi e sopravvivenza.\nLa colonia parte con 40 pasti.\nA volte i coloni moriranno anche se cerchi di fare del tuo meglio.",
 		"polish": "Typowe doświadczenie które łączy w sobie budowanie, przetrwanie i walkę.\nKolonia rozpoczyna z 40 posiłkami.\nMoże się zdarzyć, że ktoś umrze z błachego powodu.",
+		"czech": "Typický Founders' Fortune zážitek, vyvážené budování základny a boj.\nKolonie začíná se 40 jídly.\nNěkdy mohou kolonisté zemřít ať se budete snažit jakkoliv",
 	},
 	"difficulty_2_Title": {
 		"english": "Dangerous World",
@@ -2598,6 +2680,7 @@
 		"korean": "위험한 세계",
 		"italian": "Mondo pericoloso",
 		"polish": "Niebezpieczny",
+		"czech": "Nebezpečný svět",
 	},
 	"difficulty_2_Desc": {
 		"english": "The world is a harsh place, so good luck trying to survive with fragile little colonists.\nYour colonists take 50% more damage from all kinds of injuries.\nThe colony starts with 10 meals and colonists get hungry more quickly.\nCatastrophes happen more often.\nA challenge for veteran players.",
@@ -2614,6 +2697,7 @@
 		"korean": "세계는 가혹한 곳입니다. 그러니 연약한 작은 개척자들과 생존해나가려는 당신에게 행운을 빕니다.\n개척자들은 모든 종류의 부상에서 50% 더 많은 대미지를 입습니다.\n정착지는 10의 식량을 가지고 시작하며, 배가 빠르게 꺼집니다.\n자연재해가 좀 더 자주 일어납니다.\n도전하는 베테랑 플레이어들을 위한 세계입니다.",
 		"italian": "Il mondo è un posto crudele, perciò buona fortuna nel cercare di sopravvivere con dei piccoli e fragili coloni.\nI tuoi coloni subiscono il 50% in più di danni causati dalle lesioni.\nLa colonia parte con 10 pasti e i coloni diventano affamati più velocemente.\nLe catastrofi si verificano più spesso.\nUna sfida per i giocatori veterani.",
 		"polish": "Świat to okrutne miejsce, więc życzę powodzenia w utrzymaniu tych biednych kolonistów.\nKoloniści są mniej odporni niż zwykle i szybciej stają się głodni.\nKolonia rozpoczyna z 10 posiłkami.\nKatastrofy zdarzają się częściej.\nTo wyzwanie dla wytrawnych graczy.",
+		"czech": "Svět je drsné místo, takže hodně štěstí při snaze o přežití s vašimi malými křehkými kolonisty.\nVaši kolonisté obdrží o 50% více poškození z jakéhokoliv zranění.\nKolonie začíná s 10 jídly a kolonisté maji častěji hlad.\nKatastrofy se dějí častěji.\nVýzva pro ostřílené hráče.",
 	},
 	"continue": {
 		"english": "Continue",
@@ -2630,6 +2714,7 @@
 		"korean": "계속",
 		"italian": "Continua",
 		"polish": "Kontynuuj",
+		"czech": "Pokračovat",
 	},
 	"add": {
 		"english": "Add",
@@ -2646,6 +2731,7 @@
 		"korean": "추가",
 		"italian": "Aggiungi",
 		"polish": "Dodaj",
+		"czech": "Přidat",
 	},
 	"remove": {
 		"english": "Remove",
@@ -2662,6 +2748,7 @@
 		"korean": "제거",
 		"italian": "Rimuovi",
 		"polish": "Usuń",
+		"czech": "Odstranit",
 	},
 	"select": {
 		"english": "Select",
@@ -2678,6 +2765,7 @@
 		"korean": "선택",
 		"italian": "Seleziona",
 		"polish": "Wybierz",
+		"czech": "Vybrat",
 	},
 	"unableToLoadSaveFile": {
 		"english": "Unable to load save file",
@@ -2694,6 +2782,7 @@
 		"korean": "세이브 파일을 불러올 수 없습니다.",
 		"italian": "Impossibile caricare il salvataggio",
 		"polish": "Nie udało się wczytać gry",
+		"czech": "Nepodařilo se načíst uloženou hru",
 	},
 	"unableToLoadSaveFileText": {
 		"english": "The game could not read your save file. Sorry!\nPlease try again first. If it keeps happening, send your save file to daniel@foundersfortune.com so I can investigate the error and try to get a fix into the next update.\nThanks for your help!",
@@ -2709,5 +2798,6 @@
 		"arabic": "!ﻒﺳﺄﻧ .ﻆﻔﺤﻟﺍ ﻒﻠﻣ ﺓﺀﺍﺮﻗ ﻊﻄﺘﺴﺗ ﻢﻟ ﺔﺒﻌﻠﻟﺍ\n.ﻡﺩﺎﻘﻟﺍ ﺚﻳﺪﺤﺘﻟﺍ ﻲﻓ ﻪﻠﺣ ﺔﻟﻭﺎﺤﻣﻭ ﺄﻄﺨﻟﺍ ﺺﺤﻔﺗ ﻊﻴﻄﺘﺳﺍ ﻲﻜﻟ daniel@foundersfortune.com ﻰﻟﺇ ﻆﻔﺤﻟﺍ ﻒﻠﻣ ﻞﺳﺭﺃ ،ﺔﻠﻜﺸﻤﻟﺍ ﺕﺭﺮﻜﺗ ﺍﺫﺍ .ﻻﻭﺍ ﻯﺮﺧﺍ ﺓﺮﻣ ﺔﻟﻭﺎﺤﻤﻟﺍ ﺀﺎﺟﺮﻟﺍ\n!ﻚﺗﺪﻋﺎﺴﻤﻟ ﺍﺮﻜﺷ",
 		"korean": "세이브 파일을 읽을 수 없습니다. 죄송해요!\n일단 다시 시도해보세요. 증상이 반복된다면, 세이브 파일을 daniel@foundersfortune.com 으로 보내주세요. 제가 조사해보고 다음 업데이트땐 이런 일이 없도록 고치려고 노력해볼게요.\n도움을 주셔서 고맙습니다!",
 		"italian": "Il gioco non riesce a leggere il tuo salvataggio. Ci dispiace!\nTenta di nuovo. Se l'errore permane, invia il tuo salvataggio a daniel@foundersfortune.com in modo da darci la possibilità di investigare sull'errore e di provare a sistemare le cose nel prossimo aggiornamento.\nGrazie per il tuo aiuto!",
+		"czech": "Pardon! Hra nemohla přečíst soubor uložené hry.\nZkuste to prosím znovu, pokud problém přetrvává zašlete soubor s uloženou hrou na daniel@foundersfortune.com, abych mohl zjistit kde se stala chyba a mohl jí opravit při příští aktualizaci.\nDěkuji za vaši pomoc!",
 	}
 }

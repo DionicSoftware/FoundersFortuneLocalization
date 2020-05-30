@@ -12,6 +12,7 @@
 		"chinese": "最多:",
 		"italian": "Max:",
 		"turkish": "Maks:",
+		"czech": "Max:",
 	},
 	"year_no": {
 		"english": "Year %year%",
@@ -24,6 +25,7 @@
 		"chinese": "%year% 年",
 		"turkish": "Yıl %year%",
 		"polish": "Rok %year%",
+		"czech": "Rok %year%",
 	},
 	"quest_log": {
 		"english": "Quest Log",
@@ -36,6 +38,7 @@
 		"chinese": "任务日志",
 		"turkish": "Görev günlüğü",
 		"polish": "Dziennik Misji",
+		"czech": "Seznam úkolů",
 	},
 	"research": {
 		"english": "Research",
@@ -53,6 +56,7 @@
 		"polish": "Badania",
 		"italian": "Ricerca",
 		"bulgarian": "Изследване",
+		"czech": "Výzkum",
 	},
 	"researchOverview": {
 		"english": "Research Overview",
@@ -70,6 +74,7 @@
 		"polish": "Przegląd badań",
 		"italian": "Panoramica ricerche",
 		"bulgarian": "Преглед на изследванията",
+		"czech": "Přehled výzkumu",
 	},
 	"nothingUnlocked": {
 		"english": "Nothing unlocked.",
@@ -87,6 +92,7 @@
 		"polish": "Nic nie oblokowano",
 		"italian": "Nulla sbloccato.",
 		"bulgarian": "Нищо не е отключено.",
+		"czech": "Nic neodemčeno.",
 	},
 	"unlockedObjects": {
 		"english": "Unlocked Objects:",
@@ -104,6 +110,7 @@
 		"polish": "Odblokuj obiekty:",
 		"italian": "Oggetti sbloccati:",
 		"bulgarian": "Отключени обекти:",
+		"czech": "Odemknuté položky:",
 	},
 
 
@@ -122,6 +129,7 @@
 		"turkish": "Diplomasi",
 		"bulgarian": "Дипломация",
 		"polish": "Dyplomacja",
+		"czech": "Diplomacie",
 	},
 	"showOnMap": {
 		"english": "Show Location",
@@ -137,6 +145,7 @@
 		"turkish": "Yer göster",
 		"bulgarian": "Показване на местоположението",
 		"polish": "Pokaż na mapie",
+		"czech": "Zobrazit na mapě",
 	},
 	"contactFaction": {
 		"english": "Contact",
@@ -152,6 +161,7 @@
 		"turkish": "İletişim",
 		"bulgarian": "Контакт",
 		"polish": "Skontaktuj się",
+		"czech": "Kontaktovat",
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
@@ -167,6 +177,7 @@
 		"turkish": "İlişki puanları:",
 		"bulgarian": "Точки за връзка:",
 		"polish": "Punkty relacji:",
+		"czech": "Body vztahů:",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -182,6 +193,7 @@
 		"turkish": "maks",
 		"bulgarian": "макс",
 		"polish": "maks.",
+		"czech": "max.",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
@@ -197,6 +209,7 @@
 		"turkish": "Tarafsız",
 		"bulgarian": "Неутрални отношения",
 		"polish": "Neutralne relacje",
+		"czech": "Neutrální vztahy",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
@@ -212,6 +225,7 @@
 		"turkish": "Ateşkes (%seconds% s)",
 		"bulgarian": "Примирие (%seconds% сек.)",
 		"polish": "Pokój (%seconds% sek.)",
+		"czech": "Příměří (%seconds% s)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
@@ -227,6 +241,7 @@
 		"turkish": "Görüldüğünde saldırı",
 		"bulgarian": "Ще атакува на място",
 		"polish": "Agresywni",
+		"czech": "Zaútočí na potkání",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -242,6 +257,7 @@
 		"turkish": "Gerginlik",
 		"bulgarian": "Обтегнати отношения",
 		"polish": "Napięte relacje",
+		"czech": "Napjaté vztahy",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
@@ -257,6 +273,7 @@
 		"turkish": "Dostça bir ilişki",
 		"bulgarian": "Приятелски отношения",
 		"polish": "Przyjazne relacje",
+		"czech": "Přátelské vztahy",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
@@ -272,6 +289,7 @@
 		"turkish": "%friendlyLimit% geçildiğinde arkadaşça.\n ilşiki %attackingLimit% altına düştüğündeyse görüldüğünde saldırı boyutuna geçer.",
 		"bulgarian": "Приятелски, ако връзката е над %friendlyLimit%.\nАтакувайте на място, ако връзката е под %attackingLimit%.",
 		"polish": "Przyjaźni, jeśli relacje osiągną ponad %friendlyLimit%. \nAtakują w przypadku ujrzenia kolonisty, jeśli relacje są poniżej %attackingLimit%.",
+		"czech": "Přátelské, pokud jsou vztahy přes %friendlyLimit%.\nZaútočí na potkání pokud jsou vzahy méně než %attackingLimit%.",
 	},
 	"switchFloors": {
 		"english": "Switch Floors",
@@ -285,6 +303,7 @@
 		"chinese": "切换楼层",
 		"italian": "Cambia piano",
 		"turkish": "Katları değiştir",
+		"czech": "Přepnutí podlaží",
 	},
 	"switchFloorsDescription": {
 		"english": "Click here to switch to a different floor.\nDefault hotkeys: R/F",
@@ -298,6 +317,7 @@
 		"chinese": "单击此处切换到其他楼层。\n默认快捷键: R/F",
 		"italian": "Clicca qui per passare ad un piano differente.\nTasti di scelta rapida predefiniti: R/F",
 		"turkish": "Başka bir kata geçmek için buraya tıkla.\nVarsayılan tuşlar: R/F",
+		"czech": "Klikněte zde pro přepnutí do jiného podlaží.\nVýchozí klávesy: R/F",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
@@ -311,6 +331,7 @@
 		"chinese": "建造 %floor%层地板额外增加 %percentage%%成本 。",
 		"italian": "Costruire al piano %floor% costa il %percentage%% in più.",
 		"turkish": "%floor% katında inşaatın maaliyeti %percentage%% daha fazla.",
+		"czech": "Stavba na podlaží %floor% stojí o %percentage%% více.",
 	},
 
 
@@ -331,6 +352,7 @@
 		"polish": "Nastrój",
 		"italian": "Umore",
 		"bulgarian": "Настроение",
+		"czech": "Nálada",
 	},
 	"friendships": {
 		"english": "Friendships",
@@ -348,6 +370,7 @@
 		"polish": "Relacje",
 		"italian": "Socialità",
 		"bulgarian": "Приятелства",
+		"czech": "Vztahy",
 	},
 	"hunger": {
 		"english": "Hunger",
@@ -365,6 +388,7 @@
 		"polish": "Głód",
 		"italian": "Fame",
 		"bulgarian": "Глад",
+		"czech": "Hlad",
 	},
 	"stamina": {
 		"english": "Stamina",
@@ -382,6 +406,7 @@
 		"polish": "Energia",
 		"italian": "Energia",
 		"bulgarian": "Енергия",
+		"czech": "Energie",
 	},
 	"health": {
 		"english": "Health",
@@ -399,6 +424,7 @@
 		"polish": "Zdrowie",
 		"italian": "Salute",
 		"bulgarian": "Здраве",
+		"czech": "Zdraví",
 	},
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -416,6 +442,7 @@
 		"polish": "Nieszczęśliwi koloniści mogą przestać wykonywać Twoje polecenia.",
 		"italian": "Se non rendi felici i tuoi coloni, inizieranno ad essere sprezzanti e potrebbero smettere di seguire i tuoi ordini.",
 		"bulgarian": "Ако не поддържате доброто настроение на заселниците, те може да пламнат и да спрат да следват вашите команди.",
+		"czech": "Pokud nebudete udržovat své kolonisty šťastné, mohou začít vzdorovat a možná přestanou poslouchat vaše příkazy.",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -433,6 +460,7 @@
 		"polish": "Ta potrzeba nie została jeszcze w pełni dodana do gry.",
 		"italian": "Questo bisogno non è stato ancora completamente implementato nel gioco.",
 		"bulgarian": "Тази нужда все още не е напълно включена в играта.",
+		"czech": "Tato potřeba zatím nebyla do hry plně implementována.",
 	},
 	"needsDescriptionHunger": {
 		"english": "Gather apples or plant crops to take care of food.",
@@ -450,6 +478,7 @@
 		"polish": "Zbieraj jabłka z drzew lub sadź rośliny aby zadbać o jedzenie.",
 		"italian": "Raccogli le mele o pianta delle colture per procurarti del cibo.",
 		"bulgarian": "Съберете ябълки или растителни култури, за да се грижите за храната.",
+		"czech": "Pro získání jídla sbírejte jablka nebo pěstujte rostliny.",
 	},
 	"needsDescriptionStamina": {
 		"english": "Give your colonist a break every once in a while so they can recover.",
@@ -467,6 +496,7 @@
 		"polish": "Daj swoim kolonistom odopcząć od czasu do czasu by mogli wypocząć.",
 		"italian": "Concedi una pausa ai tuoi coloni ogni tanto, in modo che possano riposarsi un po'.",
 		"bulgarian": "Дайте почивка на заселниците всеки път, за да може да се възстановът.",
+		"czech": "Dopřejte svému kolonistovi přestávky, aby si mohl odpočinout.",
 	},
 	"needsDescriptionHealth": {
 		"english": "Let your colonists sleep and or give them healing potions to increase their health.",
@@ -484,6 +514,7 @@
 		"polish": "Pozwól swoim kolonistom spać i/lub daj im mikstury lecznicze, by zwiększyć ich zdrowie.",
 		"italian": "Fai dormire i tuoi coloni e/o dai loro pozioni curative per ripristinare la loro salute.",
 		"bulgarian": "Оставете вашите колонисти да спят или им дайте лечебни отвари, за да повишат здравето си.",
+		"czech": "Pro zvýšení zdraví nechte své kolonisty spát nebo jim dejte léčivé lektvary.",
 	},
 	"humanWillGrowUpInDays": {
 		"english": "%firstName% will grow up in %days% days",
@@ -496,6 +527,7 @@
 		"italian": "%firstName% crescerà tra %days% giorni",
 		"turkish": "%firstName%, %days% günde büyüyecek",
 		"polish": "%firstName% dorośnie za %days% dni",
+		"czech": "%firstName% vyroste za %days% dní",
 	},
 	"humanWillGetOldInDays": {
 		"english": "%firstName% will get old in %days% days",
@@ -508,6 +540,7 @@
 		"italian": "%firstName% invecchierà tra %days% giorni",
 		"turkish": "%firstName%, %days% günde yaşlanacak",
 		"polish": "%firstName% zestarzeje się za %days% dni",
+		"czech": "%firstName% zestárne za %days% dní",
 	},
 	"humanWillPassAwayInDays": {
 		"english": "%firstName% will pass away in %days% days",
@@ -520,6 +553,7 @@
 		"italian": "%firstName% passerà a miglior vita tra %days% giorni",
 		"turkish": "%firstName%, %days% günde ölecek",
 		"polish": "%firstName% umrze za %days% dni",
+		"czech": "%firstName% zemře za %days% dní",
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -537,6 +571,8 @@
 		"polish": "Racje żywnościowe",
 		"italian": "Razioni di cibo",
 		"bulgarian": "Хранителни дажби",
+		"czech": "Příděly jídla",
+		
 	},
 	"thoughts": {
 		"english": "Thoughts",
@@ -554,6 +590,8 @@
 		"polish": "Myśli",
 		"italian": "Pensieri",
 		"bulgarian": "Мисли",
+		"czech": "Myšlenky",
+		
 	},
 	"personality": {
 		"english": "Personality",
@@ -571,6 +609,7 @@
 		"polish": "Osobowość",
 		"italian": "Personalità",
 		"bulgarian": "Индивидуалност",
+		"czech": "Osobnost",
 	},
 	"saveChanges": {
 		"english": "Save Changes",
@@ -588,6 +627,7 @@
 		"polish": "Zapisz zmiany",
 		"italian": "Salva cambiamenti",
 		"bulgarian": "Запазите промените",
+		"czech": "Uložit změny",
 	},
 	"name": {
 		"english": "Name",
@@ -605,6 +645,7 @@
 		"polish": "Imię",
 		"italian": "Nome",
 		"bulgarian": "Име",
+		"czech": "Jméno",
 	},
 	"experience": {
 		"english": "Experience",
@@ -622,6 +663,7 @@
 		"polish": "Doświadczenie",
 		"italian": "Esperienza",
 		"bulgarian": "Опит",
+		"czech": "Zkušenosti",
 	},
 	"skills": {
 		"english": "Skills",
@@ -634,6 +676,7 @@
 		"chinese": "技能",
 		"turkish": "Yetenekler",
 		"polish": "Umiejętności",
+		"czech": "Dovednosti",
 	},
 	"noProfessionalSkills": {
 		"english": "No professional skills to speak of.",

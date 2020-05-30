@@ -707,7 +707,7 @@
 		"polish": "Zobacz",
 		"italian": "Mostra",
 		"bulgarian": "Изглед",
-		"czech": "Pohled",
+		"czech": "Ukázat",
 	},
 	"info": {
 		"english": "Info",
@@ -1136,7 +1136,7 @@
 		"italian": "Crescendo",
 		"turkish": "Büyüyor",
 		"polish": "Dorastanie",
-		"czech": "Dorůstání",
+		"czech": "Dětství",
 	},
 	"childhoodExperiences": {
 		"english": "Childhood Experiences",
@@ -1240,7 +1240,7 @@
 		"italian": "Senza nome",
 		"turkish": "İsimsiz",
 		"polish": "Bezimienn%yA%",
-		"czech": "Bezejmenné",
+		"czech": "Bezejmenn%yA%",
 	},
 
 	// Birthday Panel (becoming Adult)
@@ -1255,6 +1255,7 @@
 		"italian": "%firstName% è cresciut%AO%!",
 		"turkish": "%firstName% büyüdü!",
 		"polish": "%firstName% %dorósłDorosła%!",
+		"czech": "%firstName% vyrost%lA%!",
 	},
 	"positiveTraits": {
 		"english": "Positive Traits",
@@ -1267,6 +1268,7 @@
 		"italian": "Tratti positivi",
 		"turkish": "Olumlu özellikler",
 		"polish": "Cechy Pozytywne",
+		"czech": "Pozitivní vlastnosti",
 	},
 	"lotsPositiveExperiencesGainedTraits": {
 		"english": "%firstName% had a lot of good experiences in %hisHer% childhood and gained the following traits:",
@@ -1279,6 +1281,7 @@
 		"italian": "%firstName% ha vissuto molte esperienze positive nella sua infanzia e ha ottenuto i seguenti tratti:",
 		"turkish": "%firstName% çocukluğunda çok iyi deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
 		"polish": "%firstName% %miałMiała% wiele dobrych dośwadczeń w swoim dzieciństwie i %zdobyłZdobyła% następujące cechy:",
+		"czech": "%firstName% získa%lA% hodně dobrých zkušeností v dětství a získa%lA% tyto vlastnosti:",
 	},
 	"somePositiveExperiencesGainedTraits": {
 		"english": "%firstName% had some good experiences in %hisHer% childhood and gained the following traits:",
@@ -1291,6 +1294,7 @@
 		"italian": "%firstName% ha vissuto alcune esperienze positive nella sua infanzia e ha ottenuto i seguenti tratti:",
 		"turkish": "%firstName% çocukluğunda bazı iyi deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
 		"polish": "%firstName% %miałMiała% trochę przyjemnych sytuacji w swoim dzieciństwie i %zdobyłZdobyła% następujące cechy:",
+		"czech": "%firstName% získa%lA% pár dobrých zkušeností v dětství a získa%lA% tyto vlastnosti:",
 	},
 	"negativeTraits": {
 		"english": "Negative Traits",
@@ -1303,6 +1307,7 @@
 		"italian": "Tratti negativi",
 		"turkish": "Olumsuz özellikler",
 		"polish": "Cechy Negatywne",
+		"czech": "Negativní vlastnosti",
 	},
 	"lotsNegativeExperiencesGainedTraits": {
 		"english": "%firstName% had a lot of bad experiences in %hisHer% childhood and gained the following traits:",
@@ -1315,6 +1320,7 @@
 		"italian": "%firstName% ha vissuto molte esperienze negative nella sua infanzia e ha ottenuto i seguenti tratti:",
 		"turkish": "%firstName% çocukluğunda çok kötü deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
 		"polish": "%firstName% %miałMiała% wiele złych dośwadczeń w swoim dzieciństwie i %zdobyłZdobyła% następujące cechy:",
+		"czech": "%firstName% získa%lA% hodně špatných zkušeností v dětství a získa%lA% tyto vlastnosti:",
 	},
 	"someNegativeExperiencesGainedTraits": {
 		"english": "%firstName% had some bad experiences in %hisHer% childhood and gained the following traits:",
@@ -1327,6 +1333,7 @@
 		"italian": "%firstName% ha vissuto alcune esperienze negative nella sua infanzia e ha ottenuto i seguenti tratti:",
 		"turkish": "%firstName% çocukluğunda bazı kötü deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
 		"polish": "%firstName% %miałMiała% trochę nieprzyjemnych sytuacji w swoim dzieciństwie i %zdobyłZdobyła% następujące cechy:",
+		"czech": "%firstName% získa%lA% pár špatných zkušeností v dětství a získa%lA% tyto vlastnosti:",
 	},
 	"education": {
 		"english": "Education",
@@ -1339,6 +1346,7 @@
 		"italian": "Educazione",
 		"turkish": "Eğitim",
 		"polish": "Edukacja",
+		"czech": "Vzdělávání",
 	},
 	"educationPointsCollected": {
 		"english": "%firstName% has collected %points% Education points that %heShe% can now spend on Profession Levels:",
@@ -1351,6 +1359,7 @@
 		"italian": "%firstName% ha accumulato %points% punti Educazione che ora può spendere nei Livelli di Professione:",
 		"turkish": "%firstName%, %points% eğtim puanı kazandı. Bu puanlarla meslek seviyesini arttırabilir",
 		"polish": "%firstName% %zebrałZebrała% %points% punktów Edukacji, które może teraz wydać na poziomy Zawodów:",
+		"czech": "%firstName% získa%lA% %points% vzdělávacích bodů, které může použít ve svém profesním rozhraní",
 	},
 	"pointCost": {
 		"english": "Point Cost",
@@ -1363,6 +1372,7 @@
 		"italian": "Costo in punti",
 		"turkish": "Puan maliyeti",
 		"polish": "Koszt",
+		"czech": "Cena bodů",
 	},
 	"pointsLeft": {
 		"english": "%points% Points Left",
@@ -1375,6 +1385,7 @@
 		"italian": "%points% Punti rimanenti",
 		"turkish": "%points% puan kaldı",
 		"polish": "Pozostało %points% punktów",
+		"czech": "%points% bodů zbývá",
 	},
 	"happyBirthday": {
 		"english": "Happy Birthday!",
@@ -1387,6 +1398,7 @@
 		"italian": "Buon compleanno!",
 		"turkish": "Mutlu yıllar!",
 		"polish": "Sto lat z okazji Urodzin!",
+		"czech": "Všechno nejlepší!",
 	},
 
 	// wish panel
@@ -1406,6 +1418,7 @@
 		"polish": "Punkty zadowolenia",
 		"italian": "Punti soddisfazione",
 		"bulgarian": "Точки на удовлетворение",
+		"czech": "Body spokojenosti",
 	},
 	"wishPointsTip_Desc": {
 		"english": "Every fulfilled wish makes your colonist more satisfied with life.",
@@ -1423,6 +1436,7 @@
 		"polish": "Każde spełnione życzenie sprawia, że twój kolonista jest bardziej zadowolony z życia.",
 		"italian": "Ogni desiderio realizzato rende il tuo colono più soddisfatto della vita.",
 		"bulgarian": "Всяко изпълнено желание прави вашия колонист по-доволен от живота.",
+		"czech": "Každé splněné přání učiní kolonistu více spokojenějším.",
 	},
 	"wishDenyTip_Title": {
 		"english": "Deny Wish",
@@ -1440,6 +1454,7 @@
 		"polish": "Odmów życzenia",
 		"italian": "Nega desiderio",
 		"bulgarian": "Откажи желание",
+		"czech": "Odmítnout přání",
 	},
 	"wishDenyTip_Desc": {
 		"english": "You can tell your colonists that you're not going to fulfill this wish. They'll be annoyed, but they will choose a different one.",
@@ -1457,6 +1472,7 @@
 		"polish": "Możesz powiedzieć swoim kolonistom, że nie spełnisz ich życzenia. Będą oni zdenerwowani, ale zmienią to życzenie na inne.",
 		"italian": "Puoi dire ai tuoi coloni che non esaudirai questo desiderio. Rimarranno infastiditi, ma ne sceglieranno uno diverso.",
 		"bulgarian": "Можете да кажете на колонистите, че няма да изпълните това желание. Ще се дразнят, но ще изберат друго.",
+		"czech": "Můžete svému kolonistovi říct, že mu toto přání nesplníte. Bude sice naštvaný, ale vybere si jiné přání.",
 	},
 	"satisfactionPoints_Title": {
 		"english": "Satisfaction",
@@ -1474,6 +1490,8 @@
 		"polish": "Zadowolenie",
 		"italian": "Soddisfazione",
 		"bulgarian": "Удовлетворение",
+		"czech": "Spokojenost",
+		
 	},
 	"satisfactionPoints_Desc": {
 		"english": "Fulfill your colonists' wishes and they will be satisfied with life. When the bar is full they gets one lifetime satisfaction point.",
@@ -1491,6 +1509,7 @@
 		"polish": "Spełniaj życzenia swoich kolonistów, a będą zadowoleni z życia. Kiedy pasek jest pełen, otrzymują oni jeden punkt zadowolenia życiowego.",
 		"italian": "Soddisfa i desideri dei tuoi coloni e rimarranno soddisfatti della vita. Quando la barra è piena, ottengono un punto soddisfazione per tutta la vita.",
 		"bulgarian": "Изпълнете желанията на вашите колонисти и те ще бъдат доволни от живота. Когато лентата е пълна, те получават една точка за удовлетвореност от живота.",
+		"czech": "Plňte přání kolonistů, aby byli spokojení se svým životem. Když se sloupec naplní získají bod životní spokojenosti.",
 	},
 	"satisfactionLevel_Title": {
 		"english": "Satisfaction Level",
@@ -1508,6 +1527,7 @@
 		"polish": "Poziom Zadowolenia",
 		"italian": "Livello di soddisfazione",
 		"bulgarian": "Ниво на удовлетвореност",
+		"czech": "Úroveň spokojenosti",
 	},
 	"satisfactionLevel_Desc": {
 		"english": "Represents the total lifetime satisfaction of your colonist.",
@@ -1525,6 +1545,7 @@
 		"polish": "Reprezentuje łączną liczbę punktów zadowolenia życiowego.",
 		"italian": "Rappresenta la soddisfazione nell'intero arco di vita del tuo colono.",
 		"bulgarian": "Представлява общото удовлетворение от живота на вашия колонист.",
+		"czech": "Reprezentuje celkovou životní spokojenost vašeho kolonisty.",
 	},
 	"promotions_Title": {
 		"english": "Promotions",
@@ -1542,6 +1563,7 @@
 		"polish": "Awanse",
 		"italian": "Promozioni",
 		"bulgarian": "Повишения",
+		"czech": "Povýšení",
 	},
 	"promotions_Desc": {
 		"english": "Once your colonists have gathered enough Experience, you can promote them to unlock new skills.",
@@ -1559,6 +1581,7 @@
 		"polish": "Kiedy Twoi kolońsici zbiorą wystarczająco punktów doświadczenia, możesz dać im awans, aby odblokować im nowe umiejętności.",
 		"italian": "Una volta che i tuoi coloni hanno guadagnato abbastanza esperienza, puoi promuoverli per sbloccare nuove abilità.",
 		"bulgarian": "След като вашите колонисти са събрали достатъчно опит, можете да ги повишите, за да отключите нови умения.",
+		"czech": "Jakmile vaši kolonisté získají dostatek zkušeností, můžete je povýšit a odemknout tím nové dovednosti.",
 	},
 	"productionMode_Produce": {
 		"english": "Produce",
@@ -1576,6 +1599,8 @@
 		"polish": "Produkuj",
 		"italian": "Produci",
 		"bulgarian": "Производство",
+		"czech": "Vyrobit",
+		
 	},
 	"productionMode_ProduceInfinite": {
 		"english": "Produce Infinite",
@@ -1593,6 +1618,7 @@
 		"polish": "Produkuj w nieskończoność",
 		"italian": "Produzione infinita",
 		"bulgarian": "Безкрайно производство",
+		"czech": "Vyrábět nekonečně",
 	},
 	"productionMode_KeepInStock": {
 		"english": "Keep in Stock",
@@ -1610,6 +1636,7 @@
 		"polish": "Trzymaj w zapasie",
 		"italian": "Conserva scorte",
 		"bulgarian": "Дръжте в склада",
+		"czech": "Skladujte ve skladu",
 	},
 	"cost": {
 		"english": "Cost",
@@ -1627,6 +1654,7 @@
 		"polish": "Koszt",
 		"italian": "Costo",
 		"bulgarian": "Цена",
+		"czech": "Cena",
 	},
 	"totalCost": {
 		"english": "Total Cost",
@@ -1644,6 +1672,7 @@
 		"polish": "Łączny koszt",
 		"italian": "Costo totale",
 		"bulgarian": "Крайна цена",
+		"czech": "Celková cena",
 	},
 	"costPerItem": {
 		"english": "Cost per Item",
@@ -1661,6 +1690,7 @@
 		"polish": "Koszt za sztukę",
 		"italian": "Costo per oggetto",
 		"bulgarian": "Цена за брой",
+		"czech": "Cena za položku",
 	},
 	"colonySettings": {
 		"english": "Colony Settings",
@@ -1678,6 +1708,7 @@
 		"polish": "Ustawienia Kolonii",
 		"italian": "Impostazioni colonia",
 		"bulgarian": "Настройки на колонията",
+		"czech": "Nastavení kolonie",
 	},
 	"onlyCutDesignatedTrees": {
 		"english": "Only cut designated trees",
@@ -1695,6 +1726,7 @@
 		"polish": "Wycinaj tylko zaznaczone drzewa",
 		"italian": "Taglia solo alberi designati",
 		"bulgarian": "Изрежете само определени дървета",
+		"czech": "Kácet pouze označené stromy",
 	},
 	"onlyMineDesignatedRocksOres": {
 		"english": "Only mine designated rocks/ores",
@@ -1712,6 +1744,7 @@
 		"polish": "Wydobywaj tylko zaznaczone kamienie i rudy",
 		"italian": "Estrai solo le rocce e i minerali designati",
 		"bulgarian": "Копайте само определени скали/руди",
+		"czech": "Těžit pouze označené kameny/rudy",
 	},
 	"onlyGatherDesignatedPlants": {
 		"english": "Only gather designated plants",
@@ -1729,6 +1762,7 @@
 		"polish": "Zbieraj tylko zaznaczone rośliny",
 		"italian": "Raccogli solo le piante designate",
 		"bulgarian": "Събирайте само определени растения",
+		"czech": "Sbírat pouze označené rostliny",
 	},
 	"designations": {
 		"english": "Designations",
@@ -1746,6 +1780,7 @@
 		"polish": "Zaznaczanie",
 		"italian": "Designazioni",
 		"bulgarian": "Предназначение",
+		"czech": "Označení",
 	},
 	"designationTooltip_Title": {
 		"english": "Select specific resources to gather",
@@ -1763,6 +1798,7 @@
 		"polish": "Wybierz surowce do zbierania",
 		"italian": "Seleziona risorse specifiche da raccogliere",
 		"bulgarian": "Изберете конкретни ресурси за събиране",
+		"czech": "Označte pouze vybrané zdroje pro sběr",
 	},
 	"designationTooltip_Desc": {
 		"english": "With the designation tool you can restrict resource gathering to the objects you have marked with the tool. The colonists are only going to work on designated objects automatically.",
@@ -1780,6 +1816,7 @@
 		"polish": "Wskaż surowce do zbierania za pomocą narzędzi zaznaczania, wtedy koloniści będą zbierać wyłącznie surowce z zaznaczonych obszarów.",
 		"italian": "Con lo strumento di designazione è possibile limitare la raccolta delle risorse agli oggetti contrassegnati tramite lo strumento. I coloni lavoreranno automaticamente solo sugli oggetti designati.",
 		"bulgarian": "С инструмента за обозначаване можете да ограничите събирането на ресурси до обектите, които сте маркирали с инструмента. Колонистите ще работят само по определени обекти автоматично.",
+		"czech": "S nástrojem na označování můžete omezit oblast pro sběr na pouze označené suroviny. Kolonisté budou automaticky pracovat pouze v těchto označených oblastech.",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -1797,6 +1834,7 @@
 		"polish": "Tryb Walki",
 		"italian": "Modalità battaglia",
 		"bulgarian": "Режим на борба",
+		"czech": "Režim boje",
 	},
 	"combatModeTooltip_Desc": {
 		"english": "In combat mode, your colonists will put on their combat equipment and stop working on their jobs, relaxing, or talking with others. This allows you to control them more easily in battle.",
@@ -1814,6 +1852,7 @@
 		"polish": "W trybie walki, Twoi koloniści ubiorą zbroję oraz wezmą broń i przestaną wykonywać swoje zadania, relaksować się albo rozmawiać ze sobą. Pozwoli Ci to kontrolować ich w walce o wiele łatwiej.",
 		"italian": "In modalità battaglia i tuoi coloni indosseranno il loro equipaggiamento da combattimento e smetteranno di lavorare, di rilassarsi o di parlare con gli altri. Ciò ti consente di controllarli più facilmente in battaglia.",
 		"bulgarian": "В боен режим вашите колонисти ще облекат бойната си екипировка и ще спрат да работят върху работата си, да се отпускат или да разговарят с други. Това ви позволява да ги контролирате по-лесно в битка.",
+		"czech": "V bojovém režimu si vaši kolonisté obléknou bojové vybavení a přestanou pracovat, odpočívat nebo mluvit s ostatními. Toto vám umožní snadnější kontrolu kolonistů v boji.",
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -1831,6 +1870,7 @@
 		"polish": "Informacje o grze i statystyki",
 		"italian": "Info di gioco e statistiche",
 		"bulgarian": "Информация за играта и статистика",
+		"czech": "Informace o hře a statistiky",
 	},
 	"difficulty": {
 		"english": "Difficulty",
@@ -1848,6 +1888,7 @@
 		"polish": "Trudność",
 		"italian": "Difficoltà",
 		"bulgarian": "Трудност",
+		"czech": "Obtížnost",
 	},
 	"colonyWealth": {
 		"english": "Colony Wealth",
@@ -1865,6 +1906,7 @@
 		"polish": "Bogactwo kolonii",
 		"italian": "Ricchezza colonia",
 		"bulgarian": "Богатство на колонията",
+		"czech": "Bohatství kolonie",
 	},
 	"colonistHappiness": {
 		"english": "Colonist Happiness",
@@ -1882,6 +1924,7 @@
 		"polish": "Szczęście Kolonii",
 		"italian": "Felicità colono",
 		"bulgarian": "Щастие на колонията",
+		"czech": "Spokojenost kolonistů",
 	},
 	"worldId": { // You can just translate it to "world". It needs to be short enough
 		"english": "World ID",
@@ -1899,6 +1942,7 @@
 		"polish": "ID Świata",
 		"italian": "ID mondo",
 		"bulgarian": "ID на Света",
+		"czech": "ID světa",
 	},
 	"beauty": {
 		"english": "Beauty",
@@ -1916,6 +1960,7 @@
 		"polish": "Piękno",
 		"italian": "Bellezza",
 		"bulgarian": "Красота",
+		"czech": "Krása",
 	},
 	"objectStrength": { // to describe how difficult it is to destruct an object, like a wall, in a fight
 		"english": "Strength",

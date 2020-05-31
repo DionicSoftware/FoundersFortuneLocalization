@@ -3465,7 +3465,7 @@
 		"polish": "Zacznij Imprezę",
 		"italian": "Dai inizio alla festa",
 		"bulgarian": "Стартирай парти",
-		"czech": "Začít párty",
+		"czech": "Zahájit párty",
 	},
 	"cantStartPartyDuringReady": {
 		"english": "Can't start party during raid",
@@ -3483,7 +3483,7 @@
 		"polish": "Nie można zacząć imprezy w trakcie najazdu",
 		"italian": "Non puoi dare inizio ad una festa durante un attacco",
 		"bulgarian": "Не може да стартирате парти по време на нападение",
-		"czech": "Není možné začít párty v průběhu nájezdu",
+		"czech": "Není možné zahájit párty v průběhu nájezdu",
 	},
 	"cantStartPartyBecauseAlreadyPartying": {
 		"english": "Can't start party while colonists are already celebrating",
@@ -3501,6 +3501,7 @@
 		"polish": "Nie można zacząć imprezy, ponieważ koloniści już się bawią",
 		"italian": "Non posso dare inizio ad una festa quando i coloni stanno già festeggiando",
 		"bulgarian": "Не може да стартирате парти, докато колонистите вече празнуват",
+		"czech": "Není možné zahájit párty, když již kolonisté slaví",
 	},
 	"coinsToStartParty": {
 		"english": "%coins% Coins to start party",
@@ -3518,6 +3519,7 @@
 		"polish": "%coins% monet by zacząć imprezę",
 		"italian": "%coins% monete per dare inizio alla festa",
 		"bulgarian": "%coins% монети за да стартирате парти",
+		"czech": "%coins% mincí pro zahájení párty",
 	},
 	"atLeastBeerInStock": {
 		"english": "At least %beer% beer in stock",
@@ -3535,6 +3537,7 @@
 		"polish": "Przynajmniej %beer% piwa w magazynie",
 		"italian": "Almeno %beer% unità di birra in deposito",
 		"bulgarian": "Поне %beer% бира в склада",
+		"czech": "Alespoň %beer% piva na skladě",
 	},
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
@@ -3552,6 +3555,7 @@
 		"polish": "Przynajmniej %food% jedzenia w magazynie",
 		"italian": "Almeno %food% unità di cibo in deposito",
 		"bulgarian": "Поне %food% храна в склада",
+		"czech": "Alespoň %food% jídla na skladě",
 	},
 	"partyRequirements": {
 		"english": "Party Requirements",
@@ -3569,6 +3573,7 @@
 		"polish": "Wymagania imprezowe",
 		"italian": "Requisiti festa",
 		"bulgarian": "Изисквания към партитата",
+		"czech": "Požadavky na párty",
 	},
 	"customCamera": { // activated with F4
 		"english": "Custom Camera", // or free-flying camera
@@ -3585,6 +3590,7 @@
 		"polish": "Swobodna kamera",
 		"italian": "Telecamera libera",
 		"bulgarian": "Персонализирана камера",
+		"czech": "Volná kamera",
 	},
 	"customCameraHotkeys": {
 		"english": "Open/close info panel: T\nToggle wall movement: Z\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
@@ -3602,6 +3608,7 @@
 		"polish": "Otwórz/zamknij panel informacyjny: T\nWłącz przesuwanie ścian: Z\nTryb kinowy: C\nZmień szybkość kamery: Kółko myszki\nW Górę i w dół: Lewy shift i lewy control",
 		"italian": "Apri/chiudi pannello info: T\nAttiva/disattiva movimento parete: Z\nModalità cinematografica: C\nCambia velocità telecamera: Rotella del mouse\nSu e giù: Shift sinistro e Ctrl sinistro",
 		"bulgarian": "Отваряне/затваряне на информационен панел: T\nЗаключване на движението на стената: Z\nКъм режим на кино: C\nПромяна на скоростта на камерата: Колело на мишката\nНагоре и надолу: Ляв Shift и Ляв CTRL ",
+		"czech": "Otevírá/zavírá info panel: T\nPřepínání posunu stěn: Z\nKino režim: C\nZměnit rychlost kamery: kolečko myši\nNahoru a dolů: Levý shift a levý control",
 	},
 	"camSpeed": {
 		"english": "Cam speed",
@@ -3619,6 +3626,7 @@
 		"polish": "Szybkość kamery",
 		"italian": "Velocità telecamera",
 		"bulgarian": "Скорост на камерата",
+		"czech": "Rychlost kamery",
 	},
 	"skillLevel": {
 		"english": "Level %level%",
@@ -3630,6 +3638,7 @@
 		"chinese": "技能等级",
 		"turkish": "Seviye %level%",
 		"polish": "Poziom %level%",
+		"czech": "Úroveň %level%",
 	},
 	"professionsTitle": {
 		"english": "Professions - %fullName%",
@@ -3641,6 +3650,7 @@
 		"chinese": "专业职业 - %fullName%",
 		"turkish": "Meslekler - %fullName%",
 		"polish": "Zawody - %fullName%",
+		"czech": "Profese - %fullName%",
 	},
 	"progressToNextLevel": {
 		"english": "Progress to next level: %currentPoints% / %totalPoints%",
@@ -3652,6 +3662,7 @@
 		"chinese": "升级到下一等级：%currentPoints% / %totalPoints%",
 		"turkish": "Sıradaki seviyeyi geçiş: %currentPoints% / %totalPoints%",
 		"polish": "Postęp do kolejnego poziomu:  %currentPoints% / %totalPoints%",
+		"czech": "Postup na další úroveň: %currentPoints% / %totalPoints%",
 	},
 	"xPoints": {
 		"english": "%points% Points",
@@ -3663,6 +3674,7 @@
 		"chinese": "%points% 点数",
 		"turkish": "%points% Puan",
 		"polish": "%points% Punktów",
+		"czech": "%points% bodů",
 	},
 	"skillPointsAvailable": {
 		"english": "%points% skill points available",
@@ -3674,5 +3686,6 @@
 		"chinese": "%points% 技能点数可用",
 		"turkish": "%points% yetenek puanı mevcut",
 		"polish": "%points% punktów umiejętności dostępnych",
+		"czech": "%points% dovednostních bodů k dispozici",
 	},
 }

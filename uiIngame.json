@@ -2870,6 +2870,7 @@
 		"polish": "Wyposażenie robocze",
 		"italian": "Tenuta civile",
 		"bulgarian": "Гражданска техника",
+		"czech": "Civilní vybavení",
 	},
 	"combatEquipment": {
 		"english": "Combat Equipment",
@@ -2887,6 +2888,7 @@
 		"polish": "Wyposażenie do walki",
 		"italian": "Tenuta da battaglia",
 		"bulgarian": "Бойна екипировка",
+		"czech": "Bojové vybavení",
 	},
 	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
 		"english": "Tool Storage",
@@ -2904,6 +2906,7 @@
 		"polish": "Skrzynia narzędziowa",
 		"italian": "Deposito strumento",
 		"bulgarian": "Съхранение на инструменти",
+		"czech": "Skřínka na nástroje",
 	},
 	"ClothesStorage": {
 		"english": "Clothes Storage",
@@ -2921,6 +2924,7 @@
 		"polish": "Wieszak na ubrania",
 		"italian": "Deposito abiti",
 		"bulgarian": "Съхранение на дрехи",
+		"czech": "Držák na oblečení",
 	},
 	"WeaponStorage": {
 		"english": "Weapon Storage",
@@ -2938,6 +2942,7 @@
 		"polish": "Stojak na broń",
 		"italian": "Deposito arma",
 		"bulgarian": "Съхранение на оръжия",
+		"czech": "Držák na zbraně",
 	},
 	"ArmorStorage": {
 		"english": "Armor Storage",
@@ -2955,6 +2960,7 @@
 		"polish": "Stojak na zbroję",
 		"italian": "Deposito armatura",
 		"bulgarian": "Съхранение на брони",
+		"czech": "Držák na brnění",
 	},
 	"takeOwnershipOfStorageFurniture": {
 		"english": "Take Ownership of equipment storage furniture to assign equipment",
@@ -2972,6 +2978,7 @@
 		"polish": "Przejmij na własność dany mebel, aby przypisać przechowywany w nim przedmiot do kolonisty",
 		"italian": "Assumi la proprietà dei mobili di deposito dell'equipaggiamento per assegnarlo",
 		"bulgarian": "Вземете собственост на мебели за съхранение на оборудване, за да възложите оборудване",
+		"czech": "Přiřaďte vlastnictví kolonistovi, aby bylo možné přičlenit vybavení",
 	},
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",
@@ -2989,6 +2996,7 @@
 		"polish": "Zaznacz ekwipunek w meblu do przechowywania",
 		"italian": "Seleziona l'equipaggiamento nei mobili di deposito",
 		"bulgarian": "Изберете оборудване в мебелите за съхранение",
+		"czech": "Vyberte vybavení, které bude uloženo",
 	},
 	"selectProduction": {
 		"english": "Select Production",
@@ -3006,6 +3014,7 @@
 		"polish": "Wybierz produkcję",
 		"italian": "Seleziona produzione",
 		"bulgarian": "Изберете производство",
+		"czech": "Vyberte produkci",
 	},
 	"noOwner": { // when a piece of furniture is not owned by any colonist
 		"english": "No Owner",
@@ -3023,6 +3032,7 @@
 		"polish": "Brak właściciela",
 		"italian": "Nessun proprietario",
 		"bulgarian": "Без собственик",
+		"czech": "Bez vlastníka",
 	},
 
 
@@ -3044,6 +3054,7 @@
 		"polish": "Handlarz",
 		"italian": "Mercante",
 		"bulgarian": "Tърговец",
+		"czech": "Obchodník",
 	},
 	"tradingWithFaction": {
 		"english": "Trading with '%faction%'",
@@ -3059,6 +3070,7 @@
 		"chinese": "与'%faction%'交易",
 		"bulgarian": "Търговия с '%faction%'",
 		"polish": "Handel z '%faction%'",
+		"czech": "Obchodovat s '%faction%'",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
@@ -3076,6 +3088,7 @@
 		"polish": "Kolonia sprzedaje Handlarzowi",
 		"italian": "La colonia sta vendendo al mercante",
 		"bulgarian": "Колонията продава на търговеца",
+		"czech": "Kolonie prodává obchodníkovi",
 	},
 	"colonyIsBuying": {
 		"english": "Colony is Buying from the Trader",
@@ -3093,6 +3106,7 @@
 		"polish": "Kolonia kupuje od Handlarza",
 		"italian": "La colonia sta acquistando dal mercante",
 		"bulgarian": "Колонията купува от търговеца",
+		"czech": "Kolonie nakupuje od obchodníka",
 	},
 	"amountStorage": { // amount means how much is being traded and in store is the maximum amount the colony or the trader has in store
 		"english": "Amount / In Store",
@@ -3110,6 +3124,7 @@
 		"polish": "Ilość / W magazynie",
 		"italian": "Quantità / In deposito",
 		"bulgarian": "Количество / В Склада",
+		"czech": "Množství / Na skladě",
 	},
 	"tradingGoodName": {
 		"english": "Name",
@@ -3127,6 +3142,7 @@
 		"polish": "Nazwa",
 		"italian": "Nome",
 		"bulgarian": "Име",
+		"czech": "Název",
 	},
 	"price": {
 		"english": "Price",
@@ -3144,6 +3160,7 @@
 		"polish": "Cena",
 		"italian": "Prezzo",
 		"bulgarian": "Цена",
+		"czech": "Cena",
 	},
 	"totalPrice": {
 		"english": "Total",
@@ -3161,6 +3178,7 @@
 		"polish": "Łączna cena",
 		"italian": "Totale",
 		"bulgarian": "Общо",
+		"czech": "Celkem",
 	},
 	"confirmTrade": {
 		"english": "Confirm Trade",
@@ -3178,6 +3196,7 @@
 		"polish": "Potwierdź Zakup",
 		"italian": "Conferma scambio",
 		"bulgarian": "Потвърдете търговията",
+		"czech": "Potvrdit transakci",
 	},
 	"sellItemsOfValue": {
 		"english": "Selling items with a value of %coins% coins",
@@ -3195,6 +3214,7 @@
 		"polish": "Sprzedaż przedmiotów o wartości %coins% monet.",
 		"italian": "Vendendo oggetti con un valore di %coins% monete",
 		"bulgarian": "Продажба на предмети със стойност %coins% монети",
+		"czech": "Prodej předmětů v ceně %coins% mincí",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -3212,6 +3232,7 @@
 		"polish": "Kupujesz przedmioty o wartości %coins% monet.",
 		"italian": "Comprando oggetti con un valore di %coins% monete",
 		"bulgarian": "Купуване на предмети със стойност %coins% монети",
+		"czech": "Nákup předmětů v hodnotě %coins% mincí",
 	},
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",
@@ -3229,6 +3250,7 @@
 		"polish": "Kolonia zarobi na tym %coins% monet.",
 		"italian": "La colonia sta guadagnando %coins% monete da questo accordo.",
 		"bulgarian": "Колонията печели %coins% монети от тази сделка.",
+		"czech": "Kolonie získá z této transakce %coins% mincí.",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
@@ -3246,6 +3268,7 @@
 		"polish": "Kolonia płaci %coins% monet za tą transakcję.",
 		"italian": "La colonia sta pagando %coins% monete per questo accordo.",
 		"bulgarian": "Колонията плаща %coins% монети за тази сделка.",
+		"czech": "Kolonie zaplatí v rámci této transakce %coins% mincí.",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",
@@ -3263,6 +3286,7 @@
 		"polish": "Kolonia nie ma %coins% moent by sfinalizować transakcję.",
 		"italian": "Questa colonia non ha %coins% monete per concludere questo accordo.",
 		"bulgarian": "Колонията няма %coins% монети, за да плати тази сделка.",
+		"czech": "Kononie nemá na zaplacení této transakce %coins% mincí.",
 	},
 	"stockpilesOutOfSpaceForAmount": {
 		"english": "Stockpiles don't have enough space for %amount% %resource%.",
@@ -3276,6 +3300,7 @@
 		"italian": "Le riserve non hanno abbastanza spazio per %amount% %resource%.",
 		"turkish": "Depoda %amount% %resource% için yeteri kadar boş yer yok.",
 		"polish": "Brak miejsca w Magazynach na %amount% %resource%.",
+		"czech": "Sklady nemají dostatečnou kapacitu na uskladění %amount% %resource%.",
 	},
 
 
@@ -3295,6 +3320,7 @@
 		"polish": "Albo nie wyprodukowano jeszcze żadnego ekwipunku\nAlbo wszystkie przedmioty są obecnie używane przez kolonistów.",
 		"italian": "O non hai prodotto ancora nessun equipaggiamento\noppure tutto il tuo equipaggiamento è attualmente in uso dai tuoi coloni.",
 		"bulgarian": "Или все още не сте произвели никакво оборудване \n цялото ви оборудване в момента се използва от вашите колонисти.",
+		"czech": "Buď jste zatím nevytvořili žádné vybavení \nnebo je všechno vybavení již používáno vašimi kolonisty.",
 	},
 	"sellPrice": {
 		"english": "Selling Price",
@@ -3312,6 +3338,7 @@
 		"polish": "Cena Sprzedaży",
 		"italian": "Prezzo di vendita",
 		"bulgarian": "Продажна цена",
+		"czech": "Prodejní cena",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -3329,6 +3356,7 @@
 		"polish": "minut",
 		"italian": "minuti",
 		"bulgarian": "минути",
+		"czech": "minut",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -3346,6 +3374,7 @@
 		"polish": "sekund",
 		"italian": "secondi",
 		"bulgarian": "секунди",
+		"czech": "sekund",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -3363,6 +3392,7 @@
 		"polish": "s",
 		"italian": "s",
 		"bulgarian": "с",
+		"czech": "s",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -3380,6 +3410,7 @@
 		"polish": "sek",
 		"italian": "sec",
 		"bulgarian": "сек",
+		"czech": "sek",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -3397,6 +3428,8 @@
 		"polish": "Imprezy",
 		"italian": "Feste",
 		"bulgarian": "Партита",
+		"czech": "Párty",
+		
 	},
 	"partiesDesc": {
 		"english": "Parties give your colonists a chance to relax and socialize. The more time your colonists spend dancing, eating, and drinking, the higher their mood is going to rise.",
@@ -3414,6 +3447,7 @@
 		"polish": "Imprezy dają kolonistom szanse na relaks i integrację. Im więcej czasu koloniści spędzą na tańczeniu, jedzeniu i piciu, tym bardziej ich humor się poprawi.",
 		"italian": "Le feste offrono ai tuoi coloni la possibilità di rilassarsi e di socializzare. Più tempo i tuoi coloni trascorrono a ballare, a mangiare e a bere, più il loro umore aumenterà.",
 		"bulgarian": "Партитата дават шанс на вашите колонисти да се отпуснат и да си общуват. Колкото повече време колонистите ви прекарват танци, ядене и пиене, толкова по-високо настроението им ще се повиши.",
+		"czech": "Párty dávají vašim kolonistům příležitost se odreagovat a socializovat se. Čím více času stráví vaši kolonisté tancem, popíjením a pojídáním jídla, tím více se jim zlepší nálada.",
 	},
 	"startPartyButton": {
 		"english": "Start Party",
@@ -3431,6 +3465,7 @@
 		"polish": "Zacznij Imprezę",
 		"italian": "Dai inizio alla festa",
 		"bulgarian": "Стартирай парти",
+		"czech": "Začít párty",
 	},
 	"cantStartPartyDuringReady": {
 		"english": "Can't start party during raid",
@@ -3448,6 +3483,7 @@
 		"polish": "Nie można zacząć imprezy w trakcie najazdu",
 		"italian": "Non puoi dare inizio ad una festa durante un attacco",
 		"bulgarian": "Не може да стартирате парти по време на нападение",
+		"czech": "Není možné začít párty v průběhu nájezdu",
 	},
 	"cantStartPartyBecauseAlreadyPartying": {
 		"english": "Can't start party while colonists are already celebrating",

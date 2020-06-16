@@ -17,6 +17,7 @@
 		"polish": "Życzenia",
 		"italian": "Desideri",
 		"hungarian": "Vágyak",
+		"czech": "Přání",
 	},
 	"discover": {
 		"english": "Discover %tech%",
@@ -36,6 +37,7 @@
 		"polish": "Odkryć %tech%",
 		"italian": "Scoprire %tech%",
 		"hungarian": "Feltalálni a(z)%tech%",
+		"czech": "Vyzkoumat %tech%",
 	},
 	"GetProfession": {
 		"english": "Get a job",
@@ -55,6 +57,7 @@
 		"polish": "Dostać zawód",
 		"italian": "Avere un lavoro",
 		"hungarian": "Munkahelyet kapni",
+		"czech": "Získat práci",
 	},
 	"GetSleepingSpot": {
 		"english": "Get a sleeping spot",
@@ -74,6 +77,7 @@
 		"polish": "Mieć miejsce do spania",
 		"italian": "Avere un posto in cui dormire",
 		"hungarian": "Saját hálózsák",
+		"czech": "Mít místo na spaní",
 	},
 	"GetBedroom": {
 		"english": "Get a bedroom",
@@ -93,6 +97,7 @@
 		"polish": "Mieć sypialnię",
 		"italian": "Avere una camera da letto",
 		"hungarian": "Saját hálószoba",
+		"czech": "Mít ložnici",
 	},
 	"reachLevelAsA": {
 		"english": "Reach level %level% as a %profession%",
@@ -111,7 +116,8 @@
 		"arabic": "%profession%ـﻛ %level% ﻯﻮﺘﺴﻤﻟﺍ ﻰﻟﺇ ﻝﻮﺻﻮﻟﺍ",
 		"polish": "Osiągnąć poziom %level% jako %profession%",
 		"italian": "Raggiungere il livello %level% come %profession%",
-		"hungarian": "Elérni a következő szintet %level% as a %profession%", 
+		"hungarian": "Elérni a következő szintet %level% as a %profession%",
+		"czech": "Dosáhnout úrovně %level% v profesi %profession%",
 	},
 	"getFurnitureInLocation": {
 		"english": "Get %furniture% in %location%",
@@ -131,6 +137,7 @@
 		"polish": "Mieć %furniture% w %location%",
 		"italian": "Avere nella %location%: %furniture%",
 		"hungarian": "%furniture% a %location%ba",
+		"czech": "Mít %furniture% v %location%",
 	},
 	"getBackFurnitureInLocation": {
 		"english": "Get %furniture% back in %location%",
@@ -148,6 +155,8 @@
 		"polish": "Mieć %furniture% z powrotem w %location%",
 		"italian": "Avere %furniture% indietro a %location%",
 		"hungarian": "%furniture% visszatenni a %location%ba",
+		"czech": "Mít %furniture% zpátky v %location%",
+		
 	},
 	"furnitureCategory_AChair": {
 		"english": "a Chair",
@@ -167,6 +176,7 @@
 		"polish": "Krzesło",
 		"italian": "una sedia",
 		"hungarian": " egy széket",
+		"czech": "židli",
 	},
 	"furnitureCategory_ATable": {
 		"english": "a Table",
@@ -186,6 +196,7 @@
 		"polish": "Stół",
 		"italian": "un tavolo",
 		"hungarian": "egy asztalt",
+		"czech": "stůl",
 	},
 	"furnitureCategory_AArmchair": {
 		"english": "an Armchair",
@@ -205,6 +216,7 @@
 		"polish": "Fotel",
 		"italian": "una poltrona",
 		"hungarian": "egy karosszéket",
+		"czech": "křeslo",
 	},
 	"furnitureCategory_ACouch": {
 		"english": "a Couch",
@@ -224,6 +236,7 @@
 		"polish": "Kanapa",
 		"italian": "un divano",
 		"hungarian": "egy kanapét",
+		"czech": "pohovku",
 	},
 	"furnitureCategory_AFireplace": {
 		"english": "a Fireplace",
@@ -243,6 +256,7 @@
 		"polish": "Kominek",
 		"italian": "un camino",
 		"hungarian": "egy tűzhelyet",
+		"czech": "krb",
 	},
 	"furnitureCategory_ASmallShelf": {
 		"english": "a Dresser",
@@ -262,6 +276,7 @@
 		"polish": "Komoda",
 		"italian": "un armadio",
 		"hungarian": "egy éjjeli szekrényt",
+		"czech": "prádelník",
 	},
 	"furnitureCategory_ABigShelf": {
 		"english": "a Big Shelf or Wardrobe",
@@ -281,6 +296,7 @@
 		"polish": "Duża szafa lub garderoba",
 		"italian": "un grande scaffale o armadio",
 		"hungarian": "egy nagy szekrényt vagy wardróbot",
+		"czech": "velkou knihovnu nebo skříň",
 	},
 	"furnitureCategory_AChest": {
 		"english": "a Chest",
@@ -300,6 +316,7 @@
 		"polish": "Skrzynia",
 		"italian": "un baule",
 		"hungarian": "egy ládát",
+		"czech": "truhla",
 	},
 	"furnitureCategory_ARug": {
 		"english": "a Rug",
@@ -314,6 +331,8 @@
 		"italian": "un tappeto",
 		"hungarian": "egy szőnyeget",
 		"turkish": "bir kilim",
+		"polish": "Dywan",
+		"czech": "koberec",
 	},
 	"furnitureCategory_AFlowerPot": {
 		"english": "a Flower Pot",
@@ -333,6 +352,7 @@
 		"polish": "Doniczka",
 		"italian": "un vaso di fiori",
 		"hungarian": "egy virágtartót",
+		"czech": "květináč",
 	},
 	"furnitureCategory_AVase": {
 		"english": "a Vase",
@@ -352,6 +372,7 @@
 		"polish": "Waza",
 		"italian": "un vaso",
 		"hungarian": "egy vázát",
+		"czech": "vázu",
 	},
 	"furnitureCategory_AToolStorage": {
 		"english": "a place to store tools",
@@ -369,6 +390,7 @@
 		"polish": "miejsce do trzymania narzędzi",
 		"italian": "un posto per conservare gli strumenti",
 		"hungarian": "egy szerszámtartót",
+		"czech": "místo pro uskladnění nářadí",
 	},
 	"furnitureCategory_AWeaponStorage": {
 		"english": "a place to store weapons",
@@ -386,6 +408,7 @@
 		"polish": "miejsce do trzymania broni",
 		"italian": "un posto per conservare le armi",
 		"hungarian": "egy fegyvertárolót",
+		"czech": "místo pro uskladění zbraní",
 	},
 	"furnitureCategory_AClothesStorage": {
 		"english": "a place to store clothes",
@@ -403,6 +426,7 @@
 		"polish": "miejsce do trzymania ubrań",
 		"italian": "un posto per conservare i vestiti",
 		"hungarian": "egy ruhaállványt",
+		"czech": "místo na pověšení oblečení",
 	},
 	"furnitureCategory_AArmorStorage": {
 		"english": "a place to store armor",
@@ -417,9 +441,10 @@
 		"chinese": "储存盔甲的地方",
 		"arabic": "ﻉﻭﺭﺪﻟﺍ ﻦﻳﺰﺨﺘﻟ ﻥﺎﻜﻣ",
 		"korean": "갑옷을 둘 공간",
-		"polish": "miejsce do trzymania zbroji",
+		"polish": "miejsce do trzymania zbroi",
 		"italian": "un posto per conservare le armature",
 		"hungarian": "egy páncélállványt",
+		"czech": "místo na pověšení brnění",
 	},
 	"wishLocation_Room": {
 		"english": "%hisHer% Room",
@@ -440,8 +465,9 @@
 		"chinese": "%hisHer%房间",
 		"arabic": "ﺔﻓﺮﻏ %hisHer%",
 		"korean": "%heShe%의 방",
-		"polish": "%jegoJej% pokoju",
+		"polish": "%jegoJej% pokój",
 		"hungarian": "a szobájába",
+		"czech": "vlastní pokoj",
 	
 	},
 	"wishLocation_House": {
@@ -463,8 +489,9 @@
 		"chinese": "%hisHer%房子",
 		"arabic": "ﺖﻴﺑ %hisHer%",
 		"korean": "%heShe%의 집",
-		"polish": "%jegoJej% domu",
+		"polish": "%jegoJej% dom",
 		"hungarian": " a házába",
+		"czech": "vlastní dům",
 	},
 	"wishLocation_Colony": {
 		"english": "the Colony",
@@ -484,6 +511,7 @@
 		"polish": "Kolonia",
 		"italian": "colonia",
 		"hungarian": "a faluba",
+		"czech": "kolonii",
 	},
 	"wishLocation_Owned": {
 		"english": "%hisHer% Possession",
@@ -498,6 +526,8 @@
 		"italian": "suo possesso",
 		"hungarian": "birtokolni",
 		"turkish": "Onun eşyası",
+		"polish": "%jegoJej% właność",
+		"czech": "vlastní majetek",
 	},
 	"useSatisfactionRewardPoints": {
 		"english": "Use Satisfaction Reward Points",
@@ -514,9 +544,10 @@
 		"chinese": "使用满意奖励点数",
 		"arabic": "ﺎﺿﺮﻟﺍ ﺓﺄﻓﺎﻜﻣ ﻁﺎﻘﻧ ﻡﺪﺨﺘﺳﺍ",
 		"korean": "만족 포인트 사용하기",
-		"polish": "Użyj punktów nagród zadowolenia",
+		"polish": "Użyć Punktów Nagród Zadowolenia",
 		"italian": "Usa punti ricompensa soddisfazione",
 		"hungarian": "Elégdettségi pontok elhasználása",
+		"czech": "Použít body odměn za spokojenost",
 	},
 	"getRidOfTrait": {
 		"english": "Get rid of Trait: %trait%",
@@ -536,6 +567,7 @@
 		"polish": "Pozbyć się cechy: %trait%",
 		"italian": "Sbarazzarsi del tratto: %trait%",
 		"hungarian": "Elhagyni a következő rossz szokást: %trait%",
+		"czech": "Zbavit se vlastnosti: %trait%",
 	},
 	"getRidOfCondition": {
 		"english": "Get rid of Condition: %condition%",
@@ -555,6 +587,7 @@
 		"polish": "Pozbyć się uwarunkowania %condition%",
 		"italian": "Sbarazzarsi della condizione: %condition%",
 		"hungarian": "Elveszíteni a következő kondíciót: %condition%",
+		"czech": "Zbavit se stavu: %condition%",
 	},
 	"getBackToFullHealth": {
 		"english": "Get back to full health",
@@ -574,6 +607,7 @@
 		"polish": "Wrócić do pełni zdrowia",
 		"italian": "Tornare in piena salute",
 		"hungarian": "Teljes életerő elérése",
+		"czech": "Získat plné zdraví",
 	},
 	"getBigPayday": {
 		"english": "Get a big payday of at least %coins% coins",
@@ -591,6 +625,7 @@
 		"polish": "Otrzymać dużą wypłatę, co najmniej %coins% monet",
 		"italian": "Ottenere un grande salario di almeno %coins% monete",
 		"hungarian": "Nagy fizetést kapni",
+		"czech": "Získat velkou denní výplatu alespoň %coins% mincí",
 	},
 	"defeatGoblin": {
 		"english": "Defeat Tiki Goblin",
@@ -607,7 +642,8 @@
 		"korean": "티키고블린과 싸워 이기기",
 		"polish": "Pokonać Goblina Tiki",
 		"italian": "Sconfiggere un goblin Tiki",
-		"hungarian": "Legyőzni egy Tiki Goblint"
+		"hungarian": "Legyőzni egy Tiki Goblint",
+		"czech": "Porazit Tiki goblina",
 	},
 	"storeFoodForWinter": {
 		"english": "Store at least %food% meals in preparation for winter",
@@ -625,6 +661,7 @@
 		"polish": "Mieć w magazynie przynajmniej %food% posiłków przygotowanych na zimę",
 		"italian": "Conservare almeno %food% pasti in preparazione per l'inverno",
 		"hungarian": "%food% adag élelmet eltárolni a télre",
+		"czech": "Skladovat alespoň %food% jídla jako zásobu na zimu.",
 	},
 	"improveRelationsWithFactionToXPoints": {
 		"english": "Improve relations with \"%faction%\" to %points% points",
@@ -640,6 +677,7 @@
 		"polish": "Poprawić relacje z \"%faction%\" do %points% punktów",
 		"hungarian": "Jobb kapcsolatot létesíteni a  \"%faction%\"%points%ra",
 		"turkish": "\"%faction%\" ile ilişkileri %points% noktasına kadar düzelt",
+		"czech": "Zlepšit vztahy s \"%faction%\" na %points% bodů",
 	},
 	"worsenRelationsWithFactionToXPoints": {
 		"english": "Worsen relations with \"%faction%\" to %points% points",
@@ -655,6 +693,7 @@
 		"polish": "Pogorszyć relacje z \"%faction%\" do %points% punktów",
 		"hungarian": "Roszabb kapcsolatot létesíteni a  \"%faction%\"%points%ra",
 		"turkish": "\"%faction%\" ile ilişkileri %points% noktasına kadar düşür",
+		"czech": "Zhoršit vztahy s \"%faction%\" na %points% bodů",
 	},
 	"getChildhoodHappinessPoint": {
 		"english": "Get Childhood Happiness Point",
@@ -664,6 +703,9 @@
 		"russian": "Получить очки детского счатья",
 		"portuguese": "Obter Ponto de Felicidade na Infância",
 		"chinese": "获得童年幸福点",
+		"italian": "Ottenere un punto felicità infantile",
+		"polish": "Zdobyć Punkt Szczęścia Dziecka",
+		"czech": "Získat dětský bod štěstí",
 	},
 	"getChildhoodEducationPoint": {
 		"english": "Get Childhood Education Point",
@@ -673,6 +715,9 @@
 		"russian": "Получить очки детского образования",
 		"portuguese": "Obter Ponto de Educação Infantil",
 		"chinese": "获得童年教育知识点",
+		"italian": "Ottenere un punto educazione infantile",
+		"polish": "Zdobyć Punkt Edukacji Dziecka",
+		"czech": "Získat dětský bod vzdělání",
 	},
 	"haveChild": {
 		"english": "Have Child",
@@ -682,6 +727,9 @@
 		"russian": "Завести ребенка",
 		"portuguese": "Tem criança",
 		"chinese": "生儿育女",
+		"italian": "Avere un figlio",
+		"polish": "Mieć Dziecko",
+		"czech": "Mít dítě",
 	},
 	"getRelationshipWith": {
 		"english": "Reach Relationship '%relationship%' with %name%",
@@ -691,5 +739,8 @@
 		"russian": "Достичь отношений '%relationship%' с %name%",
 		"portuguese": "Alcance o relacionamento '%relationship%' com %name%",
 		"chinese": "与 %name%人际关系达到 '%relationship%'",
+		"italian": "Raggiungere una relazione '%relationship%' con %name%",
+		"polish": "Osiągnąć relację '%relationship%' z %name%",
+		"czech": "Dosáhnout vztahu '%relationship%' s %name%",
 	},
 }

@@ -294,11 +294,11 @@
 	"thoughtTitle_ColonistDiedTooEarly": {
 		"english": "Colonist Died too early",
 		"german": "Kolonist zu früh gestorben",
+		"italian": "Un colono è morto prematuramente",
 		//TODO-turkish
 		//TODO-dutch
 		//TODO-ukrainian
 		//TODO-korean
-		//TODO-italian
 		"spanish": "Un colono ha muerto",
 		"french": "Un colon est mort trop tôt",
 		"turkish": "Yerleşimci öldü",
@@ -308,7 +308,6 @@
 		"ukrainian":"Колоніст Помер",
 		"korean": "개척자가 죽음",
 		"chinese": "殖民者英年早逝",
-		"italian": "Colono morto",
 		"polish": "Śmierć kolonisty",
 	},
 	"thoughtDesc_ColonistDiedTooEarly": {
@@ -333,6 +332,7 @@
 		"russian": "Колонист умер из-за старости",
 		"portuguese": "Colonista morreu de velhice",
 		"chinese": "殖民者寿终正寝",
+		"italian": "Un colono è morto di vecchiaia",
 	},
 	"thoughtDesc_ColonistDiedOfOldAge": {
 		"english": "%firstName% has lived a long life but we all die sooner or later. We all can be happy to have had %himHer% around.",
@@ -342,6 +342,7 @@
 		"french": "Le colon a vécu longtemps. Mais nous mourrons tous tôt ou tard...",
 		"spanish": "%firstName% ha vivido una larga vida, pPero todos moriremos tarde o temprano. Podemos estar contentos de haberl%oA% tenido cerca",
 		"chinese": "付出了一生.终将会死去的...",
+		"italian": "%firstName% ha vissuto una lunga vita, ma prima o poi tutti dobbiamo morire. Siamo stati felici di averl%OA% avuto con noi.",
 	},
 	"thoughtTitle_FightWon": {
 		"english": "Won a Fight",
@@ -1776,15 +1777,17 @@
 		"russian": "Устал учиться",
 		"portuguese": "Cansado de estudar",
 		"chinese": "厌倦学习",
+		"italian": "Stanc%OA% di studiare",
 	},
 	"thoughtDesc_TiredOfStudying": {
 		"english": "Nooo. I don't want to study anymooore! Why do I have to learn this? I'm never gonna need to know this for sure.",
 		"german": "Nein! Ich will nicht mehr lernen! Wieso muss ich das überhaupt? Ich werde das ganze Wissen bestimmt sowieso nicht brauchen.",
 		"french": "Nooon ! Je ne veux plus étudier ! Pourquoi apprendre ça ? Je n'en aurai jamais besoin.",
 		"spanish": "Nooo ¡Ya no quiero estudiar más! ¿Por qué tengo que aprender esto? De seguro nunca voy a necesitar saber esto.",
-		"russian": "Нееет. Я не хочу больше учиться! Почему я должен это учить? Я не уверен, что мне это вообще когда-либо пригодиться!",
+		"russian": "Нееет. Я не хочу больше учиться! Почему я должен это учить? Я не уверен, что мне это вообще когда-либо пригодится!",
 		"portuguese": "Nããão. Eu não quero mais estudar! Por que eu tenho que aprender isso? Eu nunca vou precisar saber disso com certeza.",
 		"chinese": "不，我不想学习任何东西！为什么我必须学习这个？我永远也不需要，这我很肯定。",
+		"italian": "Nooo. Non voglio più studiare! Perché devo imparare questo? Non ne avrò di certo bisogno.",
 	},
 	"thoughtTitle_BadJoke": {
 		"english": "Had to witness terrible joke",
@@ -1794,6 +1797,7 @@
 		"russian": "Подслушал ужастную шутку",
 		"portuguese": "Tive que testemunhar piada terrível",
 		"chinese": "听到了恶俗笑话",
+		"italian": "Ha dovuto assistere ad uno scherzo terribile",
 	},
 	"thoughtDesc_BadJoke": {
 		"english": "Oh my god, did you hear %firstName%'s joke? It was so cheesy that my life is worse for hearing it.",
@@ -1803,6 +1807,7 @@
 		"russian": "Боже мой, вы вообще слышали шутку %firstName%? Она настолько ужастна, что аж до муражек!",
 		"portuguese": "Oh meu Deus, você ouviu a piada de %firstName%? Era tão brega que minha vida é pior por ouvi-la.",
 		"chinese": "哦，天哪，您听到%firstName%的笑话了吗？太俗气了，我的生活变得更糟。",
+		"italian": "Oh mio Dio, hai sentito dello scherzo di %firstName%? Era così di cattivo gusto che la mia vita è peggiorata sentendolo.",
 	},
 	"thoughtTitle_PutSomeoneElseDown": {
 		"english": "Put someone else down",
@@ -1812,6 +1817,7 @@
 		"russian": "Насмехается над кем-то",
 		"portuguese": "Coloque alguém para baixo",
 		"chinese": "放下仇恨",
+		"italian": "Denigrare qualcuno",
 	},
 	"thoughtDesc_PutSomeoneElseDown": {
 		"english": "Say what you want, but I think %firstName% deserved the rant. Voicing my honest opinions makes me feel good about myself.",
@@ -1821,6 +1827,7 @@
 		"russian": "Говорите что хотите, но я считаю, что %firstName% заслужил этих слов. Это мое личное мнение, мне стало в разы лучше после того, как я высказал это вслух!",
 		"portuguese": "Diga o que quiser, mas acho que% firstName% mereceu o discurso retórico. Expressar minhas opiniões honestas me faz sentir bem comigo mesmo.",
 		"chinese": "说出您想要的，但我认为%firstName%得到了应有的报应。表达了我真实的意见自我感觉良好。",
+		"italian": "Dite quello che volete, ma penso che %firstName% se lo sia meritato. Esprimere le mie oneste opinioni mi fa sentire bene con me stess%OA%.",
 	},
 	"thoughtTitle_ReceivedInsult": {
 		"english": "Received Insult",
@@ -1830,6 +1837,7 @@
 		"russian": "Оскорблен",
 		"portuguese": "Insulto recebido",
 		"chinese": "受到侮辱",
+		"italian": "Insulto ricevuto",
 	},
 	"thoughtDesc_ReceivedInsult": {
 		"english": "%firstName% just gravely insulted me. That was uncalled for!",
@@ -1839,6 +1847,7 @@
 		"russian": "%firstName% очень серьезно оскорбил меня. Это было неуместно!",
 		"portuguese": "%firstName% apenas me insultou gravemente. Isso foi desnecessário!",
 		"chinese": "%firstName% 狠狠地侮辱了我。这很不公平！",
+		"italian": "%firstName% mi ha gravemente insultat%OA%. Era fuori luogo!",
 	},
 	"thoughtTitle_Parenthood": {
 		"english": "Parenthood",
@@ -1848,6 +1857,7 @@
 		"russian": "%Parenthood%",
 		"portuguese": "Paternidade",
 		"chinese": "为人父母",
+		"italian": "Genitorialità",
 	},
 	"thoughtDesc_Parenthood": {
 		"english": "Children can be exhausting, but they also give me strength.",
@@ -1857,6 +1867,7 @@
 		"russian": "Хоть дети и иногда утомительны, но они дают мне силы жить дальше.",
 		"portuguese": "As crianças podem ser cansativas, mas também me dão força.",
 		"chinese": "孩子们可能很折磨人，但是他们也给了我动力",
+		"italian": "I figli possono essere estenuanti, ma mi danno anche la forza.",
 	},
 	"thoughtTitle_FeelingDeadInside": {
 		"english": "Feeling Dead Inside",
@@ -1866,6 +1877,7 @@
 		"russian": "Ощущает себя мертвым внутри",
 		"portuguese": "Sentindo-se morto por dentro",
 		"chinese": "内心沉迷",
+		"italian": "Sentirsi morti dentro",
 	},
 	"thoughtDesc_FeelingDeadInside": {
 		"english": "That Elixir has rejuvenated my body, but it clouds my mind. I feel older than ever.",
@@ -1875,6 +1887,7 @@
 		"russian": "Хоть этот эликсир и омолодил мое тело, но он так же и омрачил мой разум. Я чувствую себя очень старым.",
 		"portuguese": "Esse Elixir rejuvenesceu meu corpo, mas obscureceu minha mente. Eu me sinto mais velho do que nunca.",
 		"chinese": "那个青春不老药使我的身体恢复了活力，但它朦胧了我的思维。我觉得更老了",
+		"italian": "Quell'elisir ha ringiovanito il mio corpo, ma ha annebbiato la mia mente. Mi sento più vecchi%OA% che mai.",
 	},
 	"thoughtTitle_BuiltSnowman": {
 		"english": "Built Snowman",
@@ -1882,6 +1895,8 @@
 		"french": "Bonhomme de neige construit",
 		"russian": "Построил снеговика",
 		"portuguese": "Boneco de neve construído",
+		"italian": "Pupazzo di neve costruito",
+		"chinese": "堆雪人",
 	},
 	"thoughtDesc_BuiltSnowman": {
 		"english": "Wow, I didn't think I'd have so much fun building a snowman.",
@@ -1889,6 +1904,8 @@
 		"french": "Waouh ! Je ne pensais pas que je m'amuserais autant à construire un bonhomme de neige.",	
 		"russian": "Вау, я и не думал, что строить снеговиков это так весело!",
 		"portuguese": "Uau, eu não achei que me divertisse tanto construindo um boneco de neve.",
+		"italian": "Wow, non pensavo che mi sarei divertit%OA% tanto a costruire un pupazzo di neve.",
+		"chinese": "哇，我觉得我堆雪人不怎么有趣。",
 	},
 	"thoughtTitle_Acceptance": {
 		"english": "Acceptance",

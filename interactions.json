@@ -228,8 +228,11 @@
 		"english": "Plant",
 		"german": "Pflanzen",
 		"french": "Planter",
+		"spanish": "Planta",
 		"russian": "Посадить",
 		"portuguese": "Plantar",
+		"italian": "Pianta",
+		"chinese": "种植",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -367,6 +370,7 @@
 		"russian": "Выпил эликсир молодости",
 		"portuguese": "Beber Elixir da Juventude",
 		"chinese": "青年饮品",
+		"italian": "Bevi l'elisir di giovinezza",
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
@@ -388,7 +392,7 @@
 		"english": "Learn about Foresting",
 		"german": "Forstwirtschaft lernen",
 		"french": "Apprendre la foresterie",
-		"spanish": "Aprende sobre forestación",
+		"spanish": "Aprende sobre silvicultura",
 		"turkish": "Ormancılık öğren",
 		"portuguese": "Saiba mais sobre o florestamento",
 		"dutch": "Leer over het Bosbeheer",
@@ -488,6 +492,7 @@
 		"russian": "Обучиться жизненным навыкам",
 		"portuguese": "Aprenda habilidades para a vida",
 		"chinese": "学习生活技能",
+		"italian": "Apprendi le competenze di vita",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -1260,10 +1265,11 @@
 		"english": "Talk about Food",
 		"german": "Über Essen reden",
 		"french": "Parler de nourriture",
-		"spanish": "Habla sobre Comida",
+		"spanish": "Habla sobre comida",
 		"russian": "Разговаривать о еде",
 		"portuguese": "Fale sobre comida",
 		"chinese": "讨论食物",
+		"italian": "Parla di cibo",
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
@@ -1545,6 +1551,7 @@
 		"russian": "Обнять %name%",
 		"portuguese": "Abraço %name%",
 		"chinese": "拥抱 %name%",
+		"italian": "Abbraccia %name%",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1583,6 +1590,7 @@
 		"russian": "Обидеть",
 		"portuguese": "Insulto",
 		"chinese": "侮辱",
+		"italian": "Insulta",
 	},
 	"InsultPerson": {
 		"english": "Insult %name%",
@@ -1592,6 +1600,7 @@
 		"russian": "Обидеть %name%",
 		"portuguese": "Insulto %name%",
 		"chinese": "侮辱 %name%",
+		"italian": "Insulta %name%",
 	},
 	"Apologize": {
 		"english": "Apologize",
@@ -1601,6 +1610,7 @@
 		"russian": "Извиниться",
 		"portuguese": "Peça desculpas",
 		"chinese": "道歉",
+		"italian": "Scusati",
 	},
 	"MagicSmile": { // only used for debugging
 		"english": "Magic Smile",
@@ -1610,6 +1620,7 @@
 		"russian": "Магически улыбнуться",
 		"portuguese": "Sorriso Mágico",
 		"chinese": "魔术微笑",
+		"italian": "Sorriso magico",
 	},
 	"Kiss": {
 		"english": "Kiss",
@@ -1619,6 +1630,7 @@
 		"russian": "Поцеловать",
 		"portuguese": "Beijo",
 		"chinese": "亲吻",
+		"italian": "Bacia",
 	},
 	"KissPerson": {
 		"english": "Kiss %name%",
@@ -1628,6 +1640,7 @@
 		"russian": "Поцеловать %name%",
 		"portuguese": "Beijar %name%",
 		"chinese": "亲吻 %name%",
+		"italian": "Bacia %name%",
 	},
 	"BreakUp": {
 		"english": "Break up",
@@ -1637,6 +1650,7 @@
 		"russian": "Расстаться",
 		"portuguese": "Romper",
 		"chinese": "分手",
+		"italian": "Separati",
 	},
 	// used when someone wants to interact with this colonist
 	// and the colonist is waiting for the action to be performed
@@ -1649,6 +1663,7 @@
 		"russian": "Ожидает кое-кого",
 		"portuguese": "Aguarde alguém",
 		"chinese": "等待某人",
+		"italian": "Aspettando qualcuno",
 	},
 	"RiskyJoke": {
 		"english": "Risky Joke",
@@ -1658,6 +1673,7 @@
 		"russian": "Острая шутка",
 		"portuguese": "Piada arriscada",
 		"chinese": "冒险笑话",
+		"italian": "Barzelletta pericolosa",
 	},
 	"TellRiskyJokeTo": {
 		"english": "Tell Risky Joke to %name%",
@@ -1667,6 +1683,7 @@
 		"russian": "Рассказать острую шутку %name%",
 		"portuguese": "Conte piada arriscada para %name%",
 		"chinese": "讲冒险笑话给 %name%听",
+		"italian": "Racconta una barzelletta pericolosa a %name%",
 	},
 	"Impress": {
 		"english": "Impress",
@@ -1676,6 +1693,7 @@
 		"russian": "Впечатлить",
 		"portuguese": "Impressionar",
 		"chinese": "印象深刻",
+		"italian": "Impressiona",
 	},
 	"ImpressPerson": {
 		"english": "Impress %name%",
@@ -1685,6 +1703,7 @@
 		"russian": "Впечатлить %name%",
 		"portuguese": "Impressionar %name%",
 		"chinese": "对 %name%印象深刻",
+		"italian": "Impressiona %name%",
 	},
 	"BuildSnowman": {
 		"english": "Build Snowman",
@@ -1694,19 +1713,27 @@
 		"russian": "Построить снеговика",
 		"portuguese": "Construir boneco de neve",
 		"chinese": "堆雪人",
+		"italian": "Costruisci pupazzo di neve",
 	},
 	"Care": { // caring for plants, animals, colleagues, ...
 		"english": "Care",
 		"german": "Pflegen",
 		"french": "Prendre soin",
+		"spanish": "Cuidar",
 		"russian": "Ухаживать",
 		"portuguese": "Cuidado",
+		"italian": "Cura",
+		"chinese": "照料",
 	},
 	"TeachLifeSkills": {
 		"english": "Educate",
 		"german": "Ausbilden",
+		"spanish": "Educar",
 		"french": "Éduquer",
 		"portuguese": "Educar",
+		"italian": "Educa",
+		"russian": "Обучать",
+		"chinese": "教育",
 	},
 
 
@@ -1748,6 +1775,8 @@
 		"spanish": "Contar un chiste a un miembro de \"%faction%\"",
 		"russian": "Рассказать шутку жителю \"%faction%\"",
 		"portuguese": "Conte uma piada para um membro da \"%faction%\"",
+		"italian": "Racconta una barzelletta ad un membro di \"%faction%\"",
+		"chinese": "向 \"%faction%\"的成员讲笑话",
 	},
 
 
@@ -1883,6 +1912,7 @@
 		"polish": "Nie ma gdzie składować: %resource%",
 		"portuguese": "%resource% estoque está cheio",
 		"chinese": "%resource% 库存已满",
+		"italian": "La riserva di %resource% è piena",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -1968,8 +1998,11 @@
 		"english": "Next interaction in %time%",
 		"german": "Nächste Interaktion in %time%",
 		"french": "Prochaine interaction dans %time%",
+		"spanish": "Siguiente interacción en %time%",
 		"russian": "Следующее взаимодействие в %time%",
 		"portuguese": "Próxima interação em %time%",
+		"italian": "Prossima interazione tra %time%",
+		"chinese": "下次互动在 %time%",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",
@@ -2116,7 +2149,10 @@
 		"german": "Fähigkeit fehlt: %skill%",
 		"french": "Compétence manquante : %skill%",
 		"russian": "Отсутствует навык: %skill%",
+		"spanish": "Habilidad requerida: %skill%",
 		"portuguese": "Habilidade ausente: %skill%",
+		"italian": "Abilità mancante: %skill%",
+		"chinese": "缺失技能：%skill%",
 	}
 	
 }

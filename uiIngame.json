@@ -3699,4 +3699,32 @@
 		"polish": "%points% punktów umiejętności dostępnych",
 		"czech": "%points% dovednostních bodů k dispozici",
 	},
+	"willResplenishIn":  {
+		"english": "Will replenish in %days% days",
+		"german":  "Regeneration: %days% Tage",
+	},
+	"resourcesLeft":  {
+		"english": "%resource% left",
+		"german":  "%resource% übrig",
+	},
+	"gatheringSpeed":  { // use \\% to type %
+		"english": "Gathering speed: %speed% %resource%/minute",
+		"german": "Sammelgeschwindigkeit: %speed% %resource%/minute",
+	},
+	"growthProgress":  {
+		"english": "Growth Progress",
+		"german":  "Wachstumsfortschritt",
+	},
+	"typicalGrowthTime":  {
+		"english": "Typical time to grow: %minDays% - %maxDays% days",
+		"german":  "Typische Wachstumszeit: %minDays% - %maxDays% Tage",
+	},
+	"possibleYieldWhenGrown":  {
+		"english": "Possible yield: ",
+		"german":  "Typische Wachstumszeit: %minDays% - %maxDays% Tage",
+	},
+	"amountWatered": {
+		"english":  "Amount watered: %watered%/2",
+		"german":  "Male bewässert: %watered%/2",
+	},
 }

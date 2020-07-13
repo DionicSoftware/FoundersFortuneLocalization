@@ -1,6 +1,7 @@
 {
 
 	// SMALL FEEDBACK TO PLAYER ACTIONS
+	// ********************************
 	"notEnoughResources": {
 		"english": "Not enough Resources!",
 		"dutch": "Niet genoeg middelen!",
@@ -132,6 +133,8 @@
 
 
 	// SMALL NOTIFICATIONS ON TOP RIGHT
+	// ********************************
+
 	"colonistDied": {
 		"english": "A Colonist just died!",
 		"dutch": "Een kolonist is net overleden!",
@@ -748,6 +751,7 @@
 
 
 	// FLOATING TEXTS
+	// **************
 	"expectationFulfilled": {
 		"english": "Expectation fulfilled",
 		"dutch": "Verwactingen vervuld",
@@ -935,10 +939,15 @@
 		"chinese": "%firstName%很不安",
 		"italian": "%firstName% è arrabbiat%OA%"
 	},
+	"drankElixirOfYouth": {
+		"english": "%firstName% gets %days% extra days!",
+		"german": "%firstName% bekommt %days% Tage extra!",
+	},
 
 
 
 	// NEWCOMER QUESTIONING
+	// ********************
 	"migrantSays": {
 		"english": "Migrant: %text%",
 		"german": "Migrant: %text%",
@@ -1014,6 +1023,7 @@
 
 
 	// BIG GAME MESSAGES
+	// *****************
 	"messageTitle_GoblinsAttacking": {
 		"english": "The Tikigoblins are attacking!",
 		"dutch": "De Tikigoblins vallen aan!",
@@ -1793,7 +1803,15 @@
 		"korean": "이 정착지를 %hours% 시간동안 플레이하셨습니다. Founders' Fortune의 무료 버전을 잘 즐기고 계신 것 같아요. 스토어를 확인하고 저희에게 도움을 주는 걸 고려해보세요!",
 		"chinese": "你已经游玩了这个殖民地%hours%小时了，看起来你正在享受 Founders'Fortune 的试玩版本！可以考虑去商店购买正版支持我们！",
 		"italian": "Hai giocato a questa colonia per %hours% ore e sembra che tu ti stia divertendo con la versione gratuita di Founders' Fortune! Valuta la possibilità di visitare il negozio e di supportarci!"
-	}
+	},
+	"messageTitle_negativeTraitEvent": {
+		"english":  "Psychological Problems",
+		"german":  "Psychische Probleme",
+	},
+	"messageText_negativeTraitEvent": {
+		"english":  "%firstName% has been miserable for a long time now. %cap-hisHer% bad mental state has caused %himHer% to gain a new trait: '%trait%'",
+		"german":  "%firstName% fühlt ist jetzt schon lange unglückglich. Sein schlechter mentaler Zustand hat jetzt auch zu anderen Problemen geführt: Er hat jetzt die Eigenschaft '%trait%' bekommen.",
+	},
 
 
 }

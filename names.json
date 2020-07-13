@@ -11,9 +11,17 @@
 		"chinese": "%firstName% %lastName%",
 		"italian": "%firstName% %lastName%",
 	},
-	"customNameSheep": {
+	"customNameSheep": { // you can use gendered expressions here if you add it to the genderDictionary
 		"english": "%name% the Sheep",
 		"german": "%name% das Schaf",
+	},
+	"customNameCow": {
+		"english": "%name% the Cow",
+		"german": "%name% die Kuh",
+	},
+	"customNamePig": {
+		"english": "%name% the Pig",
+		"german": "%name% das Schwein",
 	},
 
 

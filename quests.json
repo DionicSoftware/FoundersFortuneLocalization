@@ -39,5 +39,66 @@
 		"english": "%firstName% needs to %interaction%",
 		"german":  "%firstName% muss %interaction%",
 	},
+	"haveStorageForItems": {
+		"english": "Have storage for %items%",
+	},
+
+	"quest_treasureStorage": {
+		"english": "Hiding the Treasure",
+		"german": "Den Schatz verstecken",
+	},
+	"quest_treasureStorageDescription": {
+		"english": "%faction% want to store their treasure with you until it's safe for them to come back and get it. They promised you a cut of the profits.",
+	},
+	"quest_treasureStorageIntro": {
+		"english": "Ahoy. One of our ships is being chased and has a ton of coins on board. Can we hide the treasure in the storage on your island for a while? You'll get a cut of the money when we come back.",
+	},
+	"quest_treasureStorageIntroDeclined": {
+		"english": "I knew it. We will remember that you make a terrible business partner.",
+	},
+	"quest_treasureStorageIntroAccepted": { // %items% can be something like "40 Tomatoes, 300 Coins"
+		"english": "Thanks. We are storing %items% with you. Please make sure you have enough space in your stockpiles. We will be back once it's safe.",
+	},
+	"quest_treasureStorageReturn": {
+		"english": "Ahoy, mate. We're back for that treasure we left with you. Have you kept it save?",
+	},
+	"hereYouGo": {
+		"english": "Sure, here you go.",
+	},
+	"weDontHaveItAnymore": {
+		"english": "We don't have it anymore...",
+	},
+	"weAreKeepingIt": {
+		"english": "Actually, we decided we're keeping it.",
+	},
+	"quest_treasureStorageReturnWillBeBack": {
+		"english": "I can't believe that! The incompetence! Tell you what, we're going to be back in a couple of days and you better have retrieved it. I don't care how you do it!",
+	},
+	"youreGoingToRegretThis": {
+		"english": "You are going to regret this.",
+		"german": "Das werdet ihr bereuen!",
+		"spanish": "Vas a arrepentirte de esto.",
+		"portuguese": "Você vai se arrepender disso.",
+		"russian": "Вы должны заслужить это.",
+		"french": "Vous allez le regretter.",
+		"korean": "이 일을 후회하게 될 거요.",
+		"dutch": "Je gaat hier spijt van krijgen.",
+		"turkish": "Buna pişman olacaksın.",
+		"chinese": "你会后悔的。",
+		"italian": "Te ne pentirai.",
+		"polish": "Pożałujecie tej decyzji!"
+	},
+	"quest_treasureStorageSuccess": {
+		"english": "Thanks, good doing business with you, mate! Here is your cut: %items%.\n\nSee you on the seven seas!",
+	},
+	"quest_treasureStorageWait": {
+		"english": "Wait for %faction% to get back",
+	},
+	"quest_treasureStorageAttack": {
+		"english": "%faction% are coming to attack you any moment ",
+	},
+	"quest_treasureStorageHereIsTreasure": {
+		"english": "Alright, here is our treasure: %items%\n\nKeep it safe and don't spend it! We'll be back.",
+	},
 }
 

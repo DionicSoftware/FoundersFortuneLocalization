@@ -230,6 +230,14 @@
 		"turkish": "İşlenmemiş buğday nahoş olabilir, ama pişmiş yemek yapımında esas malzemedir",
 		"chinese": "未经加工的小麦可能不受欢迎，但在制作烘焙食品时至关重要！",
 	},
+	"resourceName_RawMeat": {
+		"english": "Raw Meat",
+		"german": "Rohes Fleisch",
+	},
+	"resourceName_Milk": {
+		"english": "Milk",
+		"german": "Milch",
+	},
 	"resourceName_FoodCooked": {
 		"english": "Cooked Food",
 		"german": "Gekochtes Essen",
@@ -418,6 +426,10 @@
 		"arabic": "!ﻡﻮﻴﻟﺍ ﺀﺪﺒﻟ ﺓﺪﻴﺟ ﺔﻘﻳﺮﻃ .ﺍﺪﺟ ﺓﺬﻳﺬﻟ ﻦﻜﻟﻭ ﺦﺒﻄﻟﺍ ﻲﻓ ﺍﺪﺟ ﺔﻄﻴﺴﺑ",
 		"italian": "Così semplice da realizzare ma così gustoso. Un buon modo per iniziare la giornata!",
 	},
+	"resourceName_GrilledMeat": {
+		"english": "Grilled Meat",
+		"german": "Gegrilltes Fleisch",
+	},
 	"resourceName_PumpkinStew": {
 		"english": "Pumpkin Stew",
 		"german": "Kürbiseintopf",
@@ -480,6 +492,10 @@
 		"arabic": ".ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺎﻤﺋﺍﺩ ﺐﺳﺎﻨﻣ ﺲﻃﺎﻄﺒﻟﺍ ﺀﺎﺴﺣ ﻦﻣ ﻖﺒﻃ !ﺓﺬﻳﺬﻟﻭ ﺔﻳﺬﻐﻣ",
 		"italian": "Nutriente e gustosa! Un piatto di zuppa di patate funziona sempre per i tuoi coloni.",
 	},
+	"resourceName_MeatAndPotatoes": {
+		"english": "Meat and Potatoes",
+		"german": "Fleisch und Kartoffeln",
+	},
 	"resourceName_FruitSalad": {
 		"english": "Fruit Salad",
 		"german": "Obstsalat",
@@ -510,6 +526,10 @@
 		"korean": "단것을 좋아하는 개척자들이 가장 선호하는 음식.",
 		"arabic": ".ﻮﻠﺤﻟﺍ ﻞﻛﻸﻟ ﻦﻴﺒﺤﻤﻟﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﻦﻴﺑ ًﺍﺪﺟ ﻊﺋﺎﺷ ﻖﺒﻃ",
 		"italian": "Un piatto molto popolare tra i coloni che hanno un debole per i dolci.",
+	},
+	"resourceName_Cheese": {
+		"english": "Cheese",
+		"german": "Käse",
 	},
 	"resourceName_Bread": {
 		"english": "Bread",
@@ -559,8 +579,19 @@
 		"polish": "Ciasto truskawkowe",
 	},
 	"resourceDescription_StrawberryCake": {
-		"english": "The taste of spring - or at least as close as it can get.",
-		"german": "Der Geschmack des Frühlings vereint in einem leckeren Kuchen.",
+		// TODO-french: good thoughts
+		// TODO-spanish: good thoughts
+		// TODO-turkish: good thoughts
+		// TODO-portuguese: good thoughts
+		// TODO-dutch: good thoughts
+		// TODO-russian: good thoughts
+		// TODO-ukrainian: good thoughts
+		// TODO-chinese: good thoughts
+		// TODO-korean: good thoughts
+		// TODO-arabic: good thoughts
+		// TODO-italian: good thoughts
+		"english": "The taste of spring - or at least as close as it can get. Gets up the mood of every villager.",
+		"german": "Der Geschmack des Frühlings vereint in einem leckeren Kuchen. Hebt die Laune eines jeden Dorfbewohners.",
 		"french": "Le goût du printemps - ou du moins aussi près que possible.",
 		"spanish": "El sabor de la primavera - o al menos lo más cerca que se puede.",
 		"turkish": "İlkbaharın lezzeti - en azından olabildiğince.",

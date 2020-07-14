@@ -24,6 +24,46 @@
 		"german": "%name% das Schwein",
 	},
 
+	// Animals
+	// *******
+
+	"animal_sheep":  {
+		"english": "Sheep",
+		"german": "Schaf",
+	},
+	"animal_sheep_Plural":  { // in some languages plural and singular are the same
+		"english": "Sheep",
+		"german": "Schafe",
+	},
+	"animalDesc_sheep":  {
+		"english": "Sheep are good alrounders to keep your economy going. They can provide you with wool, but only a small amount of meat.",
+		"german": "Schafe sind gute Allzwecktiere. Sie können dein Dorf mit Wolle und einer kleinen Menge Fleisch versorgen.",
+	},
+	"animal_cow":  {
+		"english": "Cow",
+		"german": "Kuh",
+	},
+	"animal_cow_Plural":  {
+		"english": "Cow",
+		"german": "Kuh",
+	},
+	"animalDesc_cow":  {
+		"english": "Cows are more difficult to tame and they take longer to grow up. But it's worth it: They can provide you with milk and a large amount of meat.",
+		"german": "Kühe sind scher zu zähmen und benötigen mehr Zeit um aufzuwachsen. Aber es lohnt sich: Sie versorgen dein Dorf mit Milch und einer großen Menge Fleisch.",
+	},
+	"animal_pig":  {
+		"english": "Pig",
+		"german": "Schwein",
+	},
+	"animal_pig_Plural":  {
+		"english": "Pig",
+		"german": "Schwein",
+	},
+	"animalDesc_pig":  {
+		"english": "Pigs grow up quickly and provide you with a large amount of meat. The ultimate solution to keep your villagers fed!",
+		"german": "Schweine werden schnell erwachsen und bringen eine große Menge Fleisch ein. Die ultimative Lösung um deine Nahrungsversorgung sicherzustellen!",
+	},
+
 
 	// Male Names
 	//***********

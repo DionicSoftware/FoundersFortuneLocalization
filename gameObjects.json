@@ -4312,6 +4312,14 @@
 		"chinese": "你还记得当你引入木制工具时生产力的提高吗?想象一下，一旦你升级到石器，将会发生什么!你所需要的只是这个工坊和一个熟练的工匠，你该动手了!",
 		"italian": "Ricordi l'incremento di produttività quando hai introdotto gli strumenti di legno? Immagina cosa succederà dopo aver aggiornato gli strumenti con la pietra! Tutto ciò che ti serve è questo banco da lavoro ed un abile fabbro e dovresti essere a posto!",
 	},
+	"loom":  {
+		"english":  "Loom",
+		"german":  "Webstuhl",
+	},
+	"loomDescription":  {
+		"english":  "As the foundation of every textile industry, nothing turns raw material into usable cloth faster than this loom.",
+		"german":  "Das Fundament jeder Textilindustrie. Nichts verwandelt rohes Material in nutzbare Stoffe schneller als dieser Webstuhl.",
+	},
 	"tailor": {
 		"english": "Tailor's Workshop",
 		"german": "Schneiderei",
@@ -8068,5 +8076,56 @@
 		"portuguese": "Boneco de neve",
 		"italian": "Pupazzo di neve",
 		"chinese": "雪人",
+	},
+
+	// Area of Effect
+	// **************
+	"toolChest":  {
+		"english":  "Tool Chest",
+		"german":  "Werkzeugkiste",
+	},
+	"toolChestDescription":  {
+		"english":  "When you're busy working, nothing is more annoying than having to look for your screwdriver... again. With this tool chest, all nearby villagers work 50% faster.",
+		"german":  "Nichts ist schlimmer als mitten in der Arbeit deinen Schraubenzieher suchen zu müssen... schon wieder. Mit dieser Werkzeugkiste arbeiten alle Dörfler in der Nähe 50% schneller.",
+	},
+	"medicalToolChest":  { // "tool" can also be "instruments" or "equipment"
+		"english":  "Medical Tool Chest",
+		"german":  "Kiste für medzinische Instrumente",
+	},
+	"medicalToolChestDescription":  {
+		"english":  "Having all your first-class medical equipment right where you need it can make the difference between life and death. All nearby treatments work twice as well.",
+		"german":  "Einfacher Zugang zu allen nötigen Instrumenten kann den Unterschied zwischen Leben und Tod machen. Alle Behandlungen in der Nähe funktionieren doppelt so gut.",
+	},
+	"paintingGoodVibes":  {
+		"english":  "Painting of Good Vibes",
+		"german":  "Gemälde der Guten Stimmung",
+	},
+	"paintingGoodVibesDescription":  {
+		"english":  "Isn't this piece amazing? The colors? The composition? This painting exudes good vibes and happy thoughts.",
+		"german":  "Ist dieses Stück nicht großartig? Die Farben? Die Komposition? Dieses Bild strahlt gute Gefühle aus.",
+	},
+	"scarecrow":  {
+		"english":  "Scarecrow",
+		"german":  "Vogelscheuche",
+	},
+	"scarecrowDescription":  {
+		"english":  "Birds beware! Use this simple yet effective scarecrow to keep unwanted visitors off your fields and boost food production by 50%!",
+		"german":  "Vögel, nehmt euch in acht! Mit dieser einfachen, aber effektiven Vogelscheuche kannst du unerwünschte Besucher von deinen Feldern fern halten und die Produktion um 50% beschleunigen!",
+	},
+	"dreamCatcher":  {
+		"english":  "Dream Catcher",
+		"german":  "Traumfänger",
+	},
+	"dreamCatcherDescription":  {
+		"english":  "Mysterious forces work through this artifact to keep bad dreams away. Villagers sleeping near it will have good dreams every single night.",
+		"german":  "Mysteriöse Kräfte strömen durch dieses Artefakt und halten schlechte Träume fern. Dorfbewohner, die in der Nähe schlafen, werden jede Nacht nur gute Träume haben.",
+	},
+	"bedOfTranquility":  {
+		"english":  "Bed of Tranquility",
+		"german":  "Bett der ultimativen Ruhe",
+	},
+	"bedOfTranquilityDescription":  {
+		"english":  "This has got to be the softest and most comfortable ever made. Its occupants are able to rest 30% quicker!",
+		"german":  "Das muss das weicheste und bequemste Bett der Welt sein. Jeder, der drain schläft, ist 30% schneller wieder fit!",
 	},
 }

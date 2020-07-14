@@ -1,0 +1,43 @@
+﻿{
+	"quest_inspirationForMasterpiece":  {
+		"english": "Inspiration for Masterpiece",
+		"german":  "Inspiration für ein Meisterwerk",
+	},
+	"quest_inspirationForMasterpieceDescription":  {
+		"english": "Inspiration has struck %firstName% like a lightning bolt. %cap-heShe% has got an idea for a great masterpiece and can't stop thinking about it.",
+		"german":  "%firstName% glaubt %erSie% hat eine geniale Idee und kann an nichts anderes mehr denken als dieses Meisterwerk zu erschaffen.",
+	},
+	"masterpieceCompleted":  {
+		"english": "Masterpiece completed!",
+		"german":  "Meisterwerk vollendet",
+	},
+	"masterpieceCompletedDescription":  {
+		"english": "%firstName% has completed %hisHer% masterpiece. Proudly, %heShe% shows the result of his labor to the rest of the village.\n%cap-heShe% created: %masterpiece%",
+		"german":  "%firstName% hat %seinIhr% Meisterwerk fertiggestellt. Stolz zeigt %erSie% den anderen Dorfbewohnern die Früchte seiner Arbeit.\n%cap-erSie% hat erschaffen: %masterpiece%",
+	},
+	"masterpieceFailed":  {
+		"english": "Masterpiece Failed!",
+		"german":  "Meisterwerk fehlgeschlagen",
+	},
+	"masterpieceFailedDescription":  {
+		"english": "%firstName% tried so hard, but %heShe% didn't manage to make his masterpiece. At least %heShe% got some experience and leveld up as a %profession%.",
+		"german":  "%firstName% hat es so stark versucht, aber %erSie% hat es nicht geschafft %seineIhre% Idee in die Tat umzusetzen. Zumindest hat %erSie% Erfahrung gesammelt und ist ein Level als %profession% aufgestiegen.",
+	},
+	"collectItems": {
+		"english": "Collect %amount% pieces of %item%",
+		"german":  "Sammle %amount% %item%",
+	},
+	"needsFurnitureInRoom": {
+		"english": "%firstName% needs in %hisHer% room: %furniture%",
+		"german":  "%firstName% brauch in %seinemIhrem% Zimmer: %furniture%",
+	},
+	"needsFurnitureInHouse": {
+		"english": "%firstName% needs in %hisHer% house: %furniture%",
+		"german":  "%firstName% brauch in %seinemIhrem% Haus: %furniture%",
+	},
+	"needsToDoAction": {
+		"english": "%firstName% needs to %interaction%",
+		"german":  "%firstName% muss %interaction%",
+	},
+}
+

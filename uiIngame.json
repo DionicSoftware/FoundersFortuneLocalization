@@ -3727,4 +3727,28 @@
 		"english":  "Amount watered: %watered%/2",
 		"german":  "Male bewässert: %watered%/2",
 	},
+	"animalHandling":  {
+		"english": "Animal Handling",
+		"german": "Tierzucht",
+	},
+	"animalsInVillage":  { // if it doesn't work with your grammer, just say "Animals in Village"
+		"english": "%animalType% in Village",
+		"german": "%animalType% im Dorf",
+	},
+	"breedingLimit":  {
+		"english": "Breeding Limit",
+		"german": "Zuchtobergrenze",
+	},
+	"automaticallyAssignExtrasToButcher":  { // if it's too long, skip "assign"
+		"english": "Automatically assign extra animals to butcher",
+		"german": "Automatisch übrige Tiere schlachten",
+	},
+	"tamed":  {
+		"english": "Tamed",
+		"german": "Gezähmt",
+	},
+	"untamed":  {
+		"english": "Wild",
+		"german": "Wild",
+	},
 }

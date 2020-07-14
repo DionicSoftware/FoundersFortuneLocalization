@@ -14,14 +14,17 @@
 	"customNameSheep": { // you can use gendered expressions here if you add it to the genderDictionary
 		"english": "%name% the Sheep",
 		"german": "%name% das Schaf",
+		"french": "%name% le mouton",
 	},
 	"customNameCow": {
 		"english": "%name% the Cow",
 		"german": "%name% die Kuh",
+		"french": "%name% la vache",
 	},
 	"customNamePig": {
 		"english": "%name% the Pig",
 		"german": "%name% das Schwein",
+		"french": "%name% le cochon",
 	},
 
 	// Animals
@@ -30,38 +33,47 @@
 	"animal_sheep":  {
 		"english": "Sheep",
 		"german": "Schaf",
+		"french": "Mouton",
 	},
 	"animal_sheep_Plural":  { // in some languages plural and singular are the same
 		"english": "Sheep",
 		"german": "Schafe",
+		"french": "Moutons",
 	},
 	"animalDesc_sheep":  {
 		"english": "Sheep are good alrounders to keep your economy going. They can provide you with wool, but only a small amount of meat.",
 		"german": "Schafe sind gute Allzwecktiere. Sie können dein Dorf mit Wolle und einer kleinen Menge Fleisch versorgen.",
+		"french": "Les moutons sont de bons alliés pour faire tourner l'économie. Ils peuvent vous fournir de la laine, mais seulement une petite quantité de viande.",
 	},
 	"animal_cow":  {
 		"english": "Cow",
 		"german": "Kuh",
+		"french": "Vache",
 	},
 	"animal_cow_Plural":  {
 		"english": "Cows",
 		"german": "Kuh",
+		"french": "Vaches",
 	},
 	"animalDesc_cow":  {
 		"english": "Cows are more difficult to tame and they take longer to grow up. But it's worth it: They can provide you with milk and a large amount of meat.",
 		"german": "Kühe sind scher zu zähmen und benötigen mehr Zeit um aufzuwachsen. Aber es lohnt sich: Sie versorgen dein Dorf mit Milch und einer großen Menge Fleisch.",
+		"french": "Les vaches sont plus difficiles à apprivoiser et mettent plus de temps à grandir. Mais cela en vaut la peine : elles peuvent vous fournir du lait et une grande quantité de viande.",
 	},
 	"animal_pig":  {
 		"english": "Pig",
 		"german": "Schwein",
+		"french": "Cochon",
 	},
 	"animal_pig_Plural":  {
 		"english": "Pigs",
 		"german": "Schwein",
+		"french": "Cochons",
 	},
 	"animalDesc_pig":  {
 		"english": "Pigs grow up quickly and provide you with a large amount of meat. The ultimate solution to keep your villagers fed!",
 		"german": "Schweine werden schnell erwachsen und bringen eine große Menge Fleisch ein. Die ultimative Lösung um deine Nahrungsversorgung sicherzustellen!",
+		"french": "Les cochons grandissent rapidement et vous fournissent une grande quantité de viande. La solution ultime pour nourrir vos villageois !",
 	},
 
 

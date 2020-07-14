@@ -51,38 +51,49 @@
 	},
 	"haveStorageForItems": {
 		"english": "Have storage for %items%",
+		"french": "Avoir un stockage pour %items%",
 	},
 
 	"quest_treasureStorage": {
 		"english": "Hiding the Treasure",
 		"german": "Den Schatz verstecken",
+		"french": "Cacher le trésor",
 	},
 	"quest_treasureStorageDescription": {
 		"english": "%faction% want to store their treasure with you until it's safe for them to come back and get it. They promised you a cut of the profits.",
+		"french": "%faction% veulent conserver leur trésor avec vous jusqu'à ce qu'ils puissent revenir le chercher en toute sécurité. Ils vous ont promis une part des bénéfices.",
 	},
 	"quest_treasureStorageIntro": {
 		"english": "Ahoy. One of our ships is being chased and has a ton of coins on board. Can we hide the treasure in the storage on your island for a while? You'll get a cut of the money when we come back.",
+		"french": "Ohé ! Un de nos navires est poursuivi et a une tonne de pièces à bord. Pouvons-nous cacher le trésor dans la réserve de votre île pendant un certain temps ? Vous aurez une part de l'argent à notre retour.",
 	},
 	"quest_treasureStorageIntroDeclined": {
 		"english": "I knew it. We will remember that you make a terrible business partner.",
+		"french": "Je le savais. Nous nous souviendrons que vous faites un terrible partenaire commercial.",
 	},
 	"quest_treasureStorageIntroAccepted": { // %items% can be something like "40 Tomatoes, 300 Coins"
 		"english": "Thanks. We are storing %items% with you. Please make sure you have enough space in your stockpiles. We will be back once it's safe.",
+		"french": "Merci. Nous stockons %items% chez vous. Veillez à disposer d'un espace suffisant dans vos réserves. Nous reviendrons dès que la sécurité sera assurée.",
 	},
 	"quest_treasureStorageReturn": {
 		"english": "Ahoy, mate. We're back for that treasure we left with you. Have you kept it save?",
+		"french": "Ohé, mon gars. Nous sommes de retour pour le trésor que nous avons laissé chez vous. Vous l'avez gardé ?",
 	},
 	"hereYouGo": {
 		"english": "Sure, here you go.",
+		"french": "Bien sûr, le voici.",
 	},
 	"weDontHaveItAnymore": {
 		"english": "We don't have it anymore...",
+		"french": "Nous ne l'avons plus...",
 	},
 	"weAreKeepingIt": {
 		"english": "Actually, we decided we're keeping it.",
+		"french": "En fait, nous avons décidé de le garder.",
 	},
 	"quest_treasureStorageReturnWillBeBack": {
 		"english": "I can't believe that! The incompetence! Tell you what, we're going to be back in a couple of days and you better have retrieved it. I don't care how you do it!",
+		"french": "Je n'arrive pas à y croire ! L'incompétence ! Je vais vous dire, nous allons revenir dans quelques jours et vous avez intérêt à l'avoir récupéré. Je me fiche de la façon dont vous le faites !",
 	},
 	"youreGoingToRegretThis": {
 		"english": "You are going to regret this.",
@@ -100,15 +111,19 @@
 	},
 	"quest_treasureStorageSuccess": {
 		"english": "Thanks, good doing business with you, mate! Here is your cut: %items%.\n\nSee you on the seven seas!",
+		"french": "Merci, ce fut un plaisir de faire affaires avec vous ! Voici votre part : %items%.\n\nÀ bientôt sur les sept mers !",
 	},
 	"quest_treasureStorageWait": {
 		"english": "Wait for %faction% to get back",
+		"french": "Attendre que les %faction% reviennent",
 	},
 	"quest_treasureStorageAttack": {
 		"english": "%faction% are coming to attack you any moment ",
+		"french": "%faction% viennent vous attaquer à tout moment",
 	},
 	"quest_treasureStorageHereIsTreasure": {
 		"english": "Alright, here is our treasure: %items%\n\nKeep it safe and don't spend it! We'll be back.",
+		"french": "Très bien, voici notre trésor : %items%\n\nGardez-le en sécurité et ne le dépensez pas ! Nous reviendrons.",
 	},
 }
 

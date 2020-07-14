@@ -43,14 +43,17 @@
 	"quest_accept": {
 		"english": "Accept",
 		"german": "Akzeptieren",
+		"french": "Accepter",
 	},
 	"quest_decline": {
 		"english": "Decline",
 		"german": "Ablehnen",
+		"french": "Refuser",
 	},
 	"quest_item_confirm": {
 		"english": "Confirm",
 		"german": "Bestätigen",
+		"french": "Confirmer",
 	},
 	"research": {
 		"english": "Research",
@@ -3703,53 +3706,66 @@
 	"willResplenishIn":  {
 		"english": "Will replenish in %days% days",
 		"german":  "Regeneration: %days% Tage",
+		"french": "Se reconstituera dans %days% jours",
 	},
 	"resourcesLeft":  {
 		"english": "%resource% left",
 		"german":  "%resource% übrig",
+		"french": "%resource% restant",
 	},
 	"gatheringSpeed":  { // use \\% to type %
 		"english": "Gathering speed: %speed% %resource%/minute",
 		"german": "Sammelgeschwindigkeit: %speed% %resource%/minute",
+		"french": "Vitesse de collecte : %speed% %resource%/minute",
 	},
 	"growthProgress":  {
 		"english": "Growth Progress",
 		"german":  "Wachstumsfortschritt",
+		"french": "Progression de la croissance",
 	},
 	"typicalGrowthTime":  {
 		"english": "Typical time to grow: %minDays% - %maxDays% days",
 		"german":  "Typische Wachstumszeit: %minDays% - %maxDays% Tage",
+		"french": "Temps de croissance habituel : %minDays% à %maxDays% jours",
 	},
 	"possibleYieldWhenGrown":  {
 		"english": "Possible yield: ",
 		"german":  "Typische Wachstumszeit: %minDays% - %maxDays% Tage",
+		"french": "Rendement possible :",
 	},
 	"amountWatered": {
 		"english":  "Amount watered: %watered%/2",
 		"german":  "Male bewässert: %watered%/2",
+		"french": "Quantité arrosée : %watered%/2",
 	},
 	"animalHandling":  {
 		"english": "Animal Handling",
 		"german": "Tierzucht",
+		"french": "Traitement des animaux",
 	},
 	"animalsInVillage":  { // if it doesn't work with your grammer, just say "Animals in Village"
 		"english": "%animalType% in Village",
 		"german": "%animalType% im Dorf",
+		"french": "%animalType% dans le village",
 	},
 	"breedingLimit":  {
 		"english": "Breeding Limit",
 		"german": "Zuchtobergrenze",
+		"french": "Limite d'élevage",
 	},
 	"automaticallyAssignExtrasToButcher":  { // if it's too long, skip "assign"
 		"english": "Automatically assign extra animals to butcher",
 		"german": "Automatisch übrige Tiere schlachten",
+		"french": "Affecter auto. des animaux supp. au boucher",
 	},
 	"tamed":  {
 		"english": "Tamed",
 		"german": "Gezähmt",
+		"french": "Apprivoisé",
 	},
 	"untamed":  {
 		"english": "Wild",
 		"german": "Wild",
+		"french": "Sauvage",
 	},
 }

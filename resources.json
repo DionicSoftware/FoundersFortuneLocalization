@@ -233,10 +233,12 @@
 	"resourceName_RawMeat": {
 		"english": "Raw Meat",
 		"german": "Rohes Fleisch",
+		"french": "Viande crue",
 	},
 	"resourceName_Milk": {
 		"english": "Milk",
 		"german": "Milch",
+		"french": "Lait",
 	},
 	"resourceName_FoodCooked": {
 		"english": "Cooked Food",
@@ -429,6 +431,7 @@
 	"resourceName_GrilledMeat": {
 		"english": "Grilled Meat",
 		"german": "Gegrilltes Fleisch",
+		"french": "Viande grillée",
 	},
 	"resourceName_PumpkinStew": {
 		"english": "Pumpkin Stew",
@@ -495,6 +498,7 @@
 	"resourceName_MeatAndPotatoes": {
 		"english": "Meat and Potatoes",
 		"german": "Fleisch und Kartoffeln",
+		"french": "Viande et pommes de terre",
 	},
 	"resourceName_FruitSalad": {
 		"english": "Fruit Salad",
@@ -530,6 +534,7 @@
 	"resourceName_Cheese": {
 		"english": "Cheese",
 		"german": "Käse",
+		"french": "Fromage"
 	},
 	"resourceName_Bread": {
 		"english": "Bread",
@@ -579,7 +584,6 @@
 		"polish": "Ciasto truskawkowe",
 	},
 	"resourceDescription_StrawberryCake": {
-		// TODO-french: good thoughts
 		// TODO-spanish: good thoughts
 		// TODO-turkish: good thoughts
 		// TODO-portuguese: good thoughts
@@ -592,7 +596,7 @@
 		// TODO-italian: good thoughts
 		"english": "The taste of spring - or at least as close as it can get. Gets up the mood of every villager.",
 		"german": "Der Geschmack des Frühlings vereint in einem leckeren Kuchen. Hebt die Laune eines jeden Dorfbewohners.",
-		"french": "Le goût du printemps - ou du moins aussi près que possible.",
+		"french": "Le goût du printemps - ou du moins aussi près que possible. Permet de remonter l'humeur de chaque villageois.",
 		"spanish": "El sabor de la primavera - o al menos lo más cerca que se puede.",
 		"turkish": "İlkbaharın lezzeti - en azından olabildiğince.",
 		"portuguese": "O gosto da primavera - ou pelo menos tão perto quanto possível.",
@@ -856,10 +860,12 @@
 	"resourceName_Textiles": {
 		"english": "Textiles",
 		"german": "Textilien",
+		"french": "Textile",
 	},
 	"resourceDescription_Textiles": {
 		"english": "The Villagers can use cotton or wool to produce cloth for furniture and clothes.",
 		"german":  "Aus Baumwolle oder Schafswolle können die Dörfler Stoff herstellen.",
+		"french": "Les villageois peuvent utiliser du coton ou de la laine pour produire des tissus pour les meubles et les vêtements.",
 	},
 	"resourceName_Cotton": {
 		"english": "Cotton",
@@ -897,10 +903,12 @@
 	"resourceName_Wool": {
 		"english": "Wool",
 		"german": "Wolle",
+		"french": "Laine",
 	},
 	"resourceName_Cloth": {
 		"english": "Cloth",
 		"german": "Stoff",
+		"french": "Tissu",
 	},
 	"resourceName_Crystal": {
 		"english": "Crystal",

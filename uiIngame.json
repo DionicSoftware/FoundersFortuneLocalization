@@ -531,6 +531,14 @@
 		"bulgarian": "Оставете вашите колонисти да спят или им дайте лечебни отвари, за да повишат здравето си.",
 		"czech": "Pro zvýšení zdraví nechte své kolonisty spát nebo jim dejte léčivé lektvary.",
 	},
+	"needsTitleTameness": {
+		"english": "Tamness",
+		"german":  "Zähmung",
+	},
+	"needsDescriptionTameness": {
+		"english": "Once you managed to tame a wild animal, you need to care for it from time to time in order to keep it tame. The white line shows when the animal will become wild again.",
+		"german":  "Wenn du ein wildes Tier gezähmt hast, musst du dich gelgentlich um es kümmern, um es gezähmt zu halten. Die weiße Linie zeigt wann das Tier wieder wild wird.",
+	},
 	"humanWillGrowUpInDays": {
 		"english": "%firstName% will grow up in %days% days",
 		"german": "%firstName% wird in %days% Tagen erwachsen werden",
@@ -3761,6 +3769,10 @@
 		"english": "Automatically assign extra animals to butcher",
 		"german": "Automatisch übrige Tiere schlachten",
 		"french": "Affecter auto. des animaux supp. au boucher",
+	},
+	"tamingProgress":  {
+		"english": "Taming Progress: %status%",
+		"german": "Zähmungsfortschritt: %status%",
 	},
 	"tamed":  {
 		"english": "Tamed",

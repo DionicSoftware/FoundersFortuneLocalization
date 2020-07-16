@@ -5,7 +5,7 @@
 		"french": "Inspiration pour un chef-d'œuvre",
 	},
 	"quest_inspirationForMasterpieceDescription":  {
-		"english": "Inspiration has struck %firstName% like a lightning bolt. %cap-heShe% has got an idea for a great masterpiece and can't stop thinking about it.",
+		"english": "Inspiration has struck %firstName% like a bolt of lightning. %cap-heShe% has got an idea for a great masterpiece and can't stop thinking about it.",
 		"german":  "%firstName% glaubt %erSie% hat eine geniale Idee und kann an nichts anderes mehr denken als dieses Meisterwerk zu erschaffen.",
 		"french": "L'inspiration a frappé %firstName% comme un éclair. %cap-ilElle% a eu l'idée d'un grand chef-d'œuvre et ne peut s'empêcher d'y penser.",
 	},
@@ -48,6 +48,10 @@
 		"english": "%firstName% needs to %interaction%",
 		"german":  "%firstName% muss %interaction%",
 		"french": "%firstName% veut %interaction%",
+	},
+	"needsToDoActionOnFurniture": { // grammer can be difficult here. You can use () or : to express the idea
+		"english": "%firstName% needs to %interaction% on %furniture%",
+		"german":  "%firstName% muss %interaction% (%furniture%)",
 	},
 	"haveStorageForItems": {
 		"english": "Have storage for %items%",

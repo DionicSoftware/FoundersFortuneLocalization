@@ -37,21 +37,22 @@
 	"needsFurnitureInRoom": {
 		"english": "%firstName% needs in %hisHer% room: %furniture%",
 		"german":  "%firstName% brauch in %seinemIhrem% Zimmer: %furniture%",
-		"french": "%firstName% veut dans sa chambre : %furniture%",
+		"french": "%firstName% a besoin dans sa chambre de : %furniture%",
 	},
 	"needsFurnitureInHouse": {
 		"english": "%firstName% needs in %hisHer% house: %furniture%",
 		"german":  "%firstName% brauch in %seinemIhrem% Haus: %furniture%",
-		"french": "%firstName% veut dans sa maison : %furniture%",
+		"french": "%firstName% a besoin dans sa maison de : %furniture%",
 	},
 	"needsToDoAction": {
 		"english": "%firstName% needs to %interaction%",
 		"german":  "%firstName% muss %interaction%",
-		"french": "%firstName% veut %interaction%",
+		"french": "%firstName% doit %interaction%",
 	},
 	"needsToDoActionOnFurniture": { // grammer can be difficult here. You can use () or : to express the idea
 		"english": "%firstName% needs to %interaction% on %furniture%",
 		"german":  "%firstName% muss %interaction% (%furniture%)",
+		"french": "%firstName% doit %interaction% sur %furniture%",
 	},
 	"haveStorageForItems": {
 		"english": "Have storage for %items%",
@@ -136,11 +137,12 @@
 	"quest_treasureStorageRetrieveBefore": {
 		"english": "Retrieve %items% before '%faction%' get back",
 		"german":  "Lagere %items% bevor '%faction%' wiederkommen",
+		"french": "Récupérer %items% avant que « %faction% » revienne",
 	},
 	"quest_treasureStorageAttack": {
 		"english": "'%faction%' are coming to attack you any moment",
 		"german": "'%faction%' greifen bald an",
-		"french": "'%faction%' viennent vous attaquer à tout moment",
+		"french": "« %faction% » viennent vous attaquer à tout moment",
 	},
 	"quest_treasureStorageHereIsTreasure": {
 		"english": "Alright, here is our treasure: %items%\n\nKeep it safe and don't spend it! We'll be back.",

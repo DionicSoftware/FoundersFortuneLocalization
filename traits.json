@@ -586,7 +586,6 @@
 		"chinese": "%firstName% 会拒绝吃含有土豆的食物.如果%heShe%不小心吃到了,%heShe%将会有过敏反应.",
 		"korean": "%firstName%#{은} 감자가 들어간 음식을 되도록 안 먹으려고 합니다. 만약 그럴 수 밖에 없는 상황이 된다면, %heShe%는 알레르기 반응을 보일 겁니다.",
 		"italian": "%firstName% eviterà i cibi che contengono patate. Se è costrett%OA% a mangiarle comunque, avrà una reazione allergica.",
-		
 		"polish": "%firstName% będzie unikał wszystkich dań zawierających ziemniaki. Jeśli %onOna% zostanie zmuszony do zjedzenia czegoś z ziemniaków, %onOna% dostanie reakcji alergicznej.",
 	},
 	"traitTitle_AllergicToTomatoes": {
@@ -852,31 +851,37 @@
 		"english":  "Lactose Intolerant",
 		"german":  "Laktoseintolerant",
 		"french": "Intolérant%e% au lactose",
+		"italian":  "Intollerante al lattosio",
 	},
 	"traitDesc_LactoseIntolerant":  {
 		"english":  "Not all people can consume dairy products safely - and unfortunately %firstName% is one of them.",
 		"german":  "Nicht alle Leute können Milchprodukte zu sich nehmen - und %firstName% gehört auch dazu.",
 		"french": "Tout le monde ne peut pas consommer des produits laitiers en toute sécurité - et malheureusement, %firstName% est l'un%e% d'entre eux.",
+		"italian":  "Non tutte le persone possono consumare prodotti derivanti dal latte in modo sicuro e, sfortunatamente, %firstName% è una di quelle.",
 	},
 	"traitTitle_Vegetarian":  {
 		"english":  "Vegetarian",
 		"german":  "Vegetarier",
 		"french": "Végétarien",
+		"italian":  "Vegetarian%OA%",
 	},
 	"traitDesc_Vegetarian":  {
 		"english":  "%firstName% doesn't want to eat meat for a variety of reasons. Don't force %himHer% to.",
 		"german":  "%firstName% möchte aus verschiedenen Gründen kein Fleisch essen. Zwinge %ihnSie% nicht dazu.",
 		"french": "%firstName% ne veut pas manger de viande pour diverses raisons. Ne %leLa% forcez pas à le faire.",
+		"italian":  "%firstName% non vuole mangiare carne per diversi motivi. Non forzarl%OA%.",
 	},
 	"traitTitle_AnimalLover":  {
 		"english":  "Animal Lover",
 		"german":  "Tierliebhaber",
 		"french": "Ami%e% des animaux",
+		"italian":  "Amante degli animali",
 	},
 	"traitDesc_AnimalLover":  {
 		"english":  "%firstName% loves animals. Just playing with them for a bit will get %hisHer% mood up instantly.",
 		"german":  "%firstName% liebt Tiere. Ein bisschen mit ihnen zu spielen sorgt für sofortige gute Laune.",
 		"french": "%firstName% adore les animaux. Il lui suffit de jouer un peu avec eux pour que son humeur s'améliore instantanément.",
+		"italian":  "%firstName% adora gli animali. Il solo giocare con loro per un po' migliora il suo umore all'istante.",
 	},
 }
 

@@ -44,16 +44,19 @@
 		"english": "Accept",
 		"german": "Akzeptieren",
 		"french": "Accepter",
+		"italian": "Accetta",
 	},
 	"quest_decline": {
 		"english": "Decline",
 		"german": "Ablehnen",
 		"french": "Refuser",
+		"italian": "Rifiuta",
 	},
 	"quest_item_confirm": {
 		"english": "Confirm",
 		"german": "Bestätigen",
 		"french": "Confirmer",
+		"italian": "Conferma",
 	},
 	"research": {
 		"english": "Research",
@@ -535,11 +538,13 @@
 		"english": "Tamness",
 		"german":  "Zähmung",
 		"french": "Apprivoisement",
+		"italian": "Domesticità",
 	},
 	"needsDescriptionTameness": {
 		"english": "Once you managed to tame a wild animal, you need to care for it from time to time in order to keep it tame. The white line shows when the animal will become wild again.",
 		"german":  "Wenn du ein wildes Tier gezähmt hast, musst du dich gelgentlich um es kümmern, um es gezähmt zu halten. Die weiße Linie zeigt wann das Tier wieder wild wird.",
 		"french": "Une fois que vous avez réussi à apprivoiser un animal sauvage, vous devez en prendre soin de temps en temps pour qu'il reste apprivoisé. La ligne blanche indique le moment où l'animal redevient sauvage.",
+		"italian": "Una volta riusciti a domare un animale selvaggio, bisogna prendersene cura di volta in volta, al fine di mantenerlo addomesticato. La linea bianca mostra quando l'animale tornerà ad essere di nuovo selvaggio.",
 	},
 	"humanWillGrowUpInDays": {
 		"english": "%firstName% will grow up in %days% days",
@@ -2160,6 +2165,7 @@
 		"turkish": "Dükkanda özel bir şey yok.",
 		"polish": "Brak specjalnych przedmiotów w zapasach",
 		"czech": "Žádné zvláštní položky na skladu",
+		"italian": "Nessun oggetto speciale in deposito.",
 	},
 	"decoration": {
 		"english": "Decoration",
@@ -3440,6 +3446,7 @@
 	"days": { // used like "0.4 days"
 		"english": "days",
 		"german": "Tage",
+		"italian": "giorni",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -3721,75 +3728,90 @@
 		"english": "Will replenish in %days% days",
 		"german":  "Regeneration: %days% Tage",
 		"french": "Se reconstituera dans %days% jours",
+		"italian": "Rigenerazione in: %days% giorni",
 	},
 	"resourcesLeft":  {
 		"english": "%resource% left",
 		"german":  "%resource% übrig",
 		"french": "%resource% restant",
+		"italian": "%resource% rimasti",
 	},
 	"gatheringSpeed":  { // use \\% to type %
 		"english": "Gathering speed: %speed% %resource%/minute",
 		"german": "Sammelgeschwindigkeit: %speed% %resource%/minute",
 		"french": "Vitesse de collecte : %speed% %resource%/minute",
+		"italian": "Velocità raccolta: %speed% %resource%/minuto",
 	},
 	"growthProgress":  {
 		"english": "Growth Progress",
 		"german":  "Wachstumsfortschritt",
 		"french": "Progression de la croissance",
+		"italian": "Progresso crescita",
 	},
 	"typicalGrowthTime":  {
 		"english": "Typical time to grow: %minDays% - %maxDays% days",
 		"german":  "Typische Wachstumszeit: %minDays% - %maxDays% Tage",
 		"french": "Temps de croissance habituel : %minDays% à %maxDays% jours",
+		"italian": "Tempo abituale per crescere: %minDays% - %maxDays% giorni",
 	},
 	"possibleYieldWhenGrown":  {
 		"english": "Possible yield: ",
 		"german":  "Typische Wachstumszeit: %minDays% - %maxDays% Tage",
 		"french": "Rendement possible :",
+		"italian": "Rendimento possibile: ",
 	},
 	"amountWatered": {
 		"english":  "Amount watered: %watered%/2",
 		"german":  "Male bewässert: %watered%/2",
 		"french": "Quantité arrosée : %watered%/2",
+		"italian":  "Quantità annaffiata: %watered%/2",
 	},
 	"factionPointsInfo": {
 		"english":  "Relationship points: %points%",
 		"german":  "Beziehungspunkte: %points%",
 		"french": "Points de relation : %points%",
+		"italian":  "Punti relazione: %points%",
 	},
 	"animalHandling":  {
 		"english": "Animal Handling",
 		"german": "Tierzucht",
 		"french": "Traitement des animaux",
+		"italian": "Trattamento animali",
 	},
 	"animalsInVillage":  { // if it doesn't work with your grammer, just say "Animals in Village"
 		"english": "%animalType% in Village",
 		"german": "%animalType% im Dorf",
 		"french": "%animalType% dans le village",
+		"italian": "%animalType% nel villaggio",
 	},
 	"breedingLimit":  {
 		"english": "Breeding Limit",
 		"german": "Zuchtobergrenze",
 		"french": "Limite d'élevage",
+		"italian": "Limite allevamento",
 	},
 	"automaticallyAssignExtrasToButcher":  { // if it's too long, skip "assign"
 		"english": "Automatically assign extra animals to butcher",
 		"german": "Automatisch übrige Tiere schlachten",
 		"french": "Affecter auto. des animaux supp. au boucher",
+		"italian": "Assegna automaticamente altri animali al macello",
 	},
 	"tamingProgress":  {
 		"english": "Taming Progress: %status%",
 		"german": "Zähmungsfortschritt: %status%",
 		"french": "Progrès de l'apprivoisemment : %status%",
+		"italian": "Progresso addomesticamento: %status%",
 	},
 	"tamed":  {
 		"english": "Tamed",
 		"german": "Gezähmt",
 		"french": "Apprivoisé",
+		"italian": "Addomesticato",
 	},
 	"untamed":  {
 		"english": "Wild",
 		"german": "Wild",
 		"french": "Sauvage",
+		"italian": "Selvaggio",
 	},
 }

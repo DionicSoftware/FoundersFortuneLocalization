@@ -534,10 +534,12 @@
 	"needsTitleTameness": {
 		"english": "Tamness",
 		"german":  "Zähmung",
+		"french": "Apprivoisement",
 	},
 	"needsDescriptionTameness": {
 		"english": "Once you managed to tame a wild animal, you need to care for it from time to time in order to keep it tame. The white line shows when the animal will become wild again.",
 		"german":  "Wenn du ein wildes Tier gezähmt hast, musst du dich gelgentlich um es kümmern, um es gezähmt zu halten. Die weiße Linie zeigt wann das Tier wieder wild wird.",
+		"french": "Une fois que vous avez réussi à apprivoiser un animal sauvage, vous devez en prendre soin de temps en temps pour qu'il reste apprivoisé. La ligne blanche indique le moment où l'animal redevient sauvage.",
 	},
 	"humanWillGrowUpInDays": {
 		"english": "%firstName% will grow up in %days% days",
@@ -3778,6 +3780,7 @@
 	"tamingProgress":  {
 		"english": "Taming Progress: %status%",
 		"german": "Zähmungsfortschritt: %status%",
+		"french": "Progrès de l'apprivoisemment : %status%",
 	},
 	"tamed":  {
 		"english": "Tamed",

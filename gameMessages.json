@@ -257,7 +257,6 @@
 		"italian": "%firstName% ha perso conoscenza"
 	},
 	// TODO-dutch: firstName
-	// TODO-portuguese: firstName
 	// TODO-turkish: firstName
 	// TODO-bulgarian: firstName
 	// TODO-ukrainian: firstName
@@ -946,6 +945,7 @@
 		"french": "%firstName% obtient %days% jours supplémentaires !",
 		"italian": "%firstName% ottiene %days% giorni extra!",
 		"russian": "%firstName% получил %days% доп. дней!",
+		"portuguese": "%firstName% recebe %days% dias extras!",
 	},
 	"tamingSucceeded": {
 		"english": "Taming successful!",
@@ -953,6 +953,7 @@
 		"french": "Apprivoisement réussi !",
 		"italian": "Addomesticamento riuscito!",
 		"russian": "Приручение прошло успешно!",
+		"portuguese": "Domando com sucesso!",
 	},
 	"tamingInProgress": {
 		"english": "Taming in progress...",
@@ -960,6 +961,7 @@
 		"french": "Apprivoisement en cours...",
 		"italian": "Addomesticamento in corso...",
 		"russian": "Приручение в процессе...",
+		"portuguese": "Domando em andamento ...",
 	},
 
 
@@ -1828,6 +1830,7 @@
 		"french": "Problèmes psychologiques",
 		"italian":  "Problemi psicologici",
 		"russian": "Психологические проблемы",
+		"portuguese": "Problemas psicológicos",
 	},
 	"messageText_negativeTraitEvent": {
 		"english":  "%firstName% has been miserable for a long time now. %cap-hisHer% bad mental state has caused %himHer% to gain a new trait: '%trait%'",
@@ -1835,6 +1838,7 @@
 		"french":  "%firstName% est malheur%euxEuse% depuis trop longtemps. Son mauvais état mental lui a valu un nouveau trait : « %trait% »",
 		"italian":  "%firstName% è stat%OA% infelice per molto tempo. Il suo pessimo stato mentale %GliLe% ha fatto ottenere un nuovo tratto: '%trait%'",
 		"russian": "%firstName% был несчастен в течение долгого времени. Из-за этого он обрел новую черту: '%trait%'",
+		"portuguese": "%firstName% está infeliz há muito tempo. %cap-seuSua% seu mau estado mental fez com que ele se tornasse um novo traço: '%trait%'",
 	},
 
 

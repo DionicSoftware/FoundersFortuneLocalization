@@ -46,6 +46,7 @@
 		"french": "Accepter",
 		"italian": "Accetta",
 		"russian": "Принять",
+		"portuguese": "Aceitar",
 	},
 	"quest_decline": {
 		"english": "Decline",
@@ -53,6 +54,7 @@
 		"french": "Refuser",
 		"italian": "Rifiuta",
 		"russian": "Отклонить",
+		"portuguese": "Declínio",
 	},
 	"quest_item_confirm": {
 		"english": "Confirm",
@@ -60,6 +62,7 @@
 		"french": "Confirmer",
 		"italian": "Conferma",
 		"russian": "Подтвердить",
+		"portuguese": "confirme",
 	},
 	"research": {
 		"english": "Research",
@@ -543,6 +546,7 @@
 		"french": "Apprivoisement",
 		"italian": "Domesticità",
 		"russian": "Приручение",
+		"portuguese": "Domar",
 	},
 	"needsDescriptionTameness": {
 		"english": "Once you managed to tame a wild animal, you need to care for it from time to time in order to keep it tame. The white line shows when the animal will become wild again.",
@@ -550,6 +554,7 @@
 		"french": "Une fois que vous avez réussi à apprivoiser un animal sauvage, vous devez en prendre soin de temps en temps pour qu'il reste apprivoisé. La ligne blanche indique le moment où l'animal redevient sauvage.",
 		"italian": "Una volta riusciti a domare un animale selvaggio, bisogna prendersene cura di volta in volta, al fine di mantenerlo addomesticato. La linea bianca mostra quando l'animale tornerà ad essere di nuovo selvaggio.",
 		"russian": "После того, как вам удалось приручить дикое животное, вам нужно время от времени заботиться о нем, чтобы сохранить его. Белая линия показывает, когда животное снова станет диким.",
+		"portuguese": "Depois de domesticar um animal selvagem, você precisa cuidar dele de tempos em tempos para mantê-lo doméstico. A linha branca mostra quando o animal se tornará selvagem novamente.",
 	},
 	"humanWillGrowUpInDays": {
 		"english": "%firstName% will grow up in %days% days",
@@ -2798,7 +2803,6 @@
 	},
     "colonistIsDumbNoExperience": {
 		// TODO-spanish: make it shorter so it fits better
-		// TODO-portuguese: make it shorter so it fits better
 		// TODO-ukrainian: make it shorter so it fits better
 		// TODO-polish: make it shorter so it fits better - Done. Is it better now?
 		"english": "Unfortunately, %firstName% is dumb and is not going to gain any experience.",
@@ -2806,7 +2810,7 @@
 		"french": "Malheureusement, %firstName% est stupide et ne gagnera pas d'expérience.",
 		"spanish": "Desafortunadamente, %firstName% es tont%oA% y no ganará nada de experiencia en ningún trabajo.",
 		"turkish": "Ne yazık ki, %firstName% bir aptal ve çalıştığı işlerde tecrübe edinemeyecek.", 
-		"portuguese": "Infelizmente, %firstName% é burro e não vai ganhar experiência em nenhum trabalho.",
+		"portuguese": "Infelizmente, %firstName% é burro e não ganha experiência.",
 		"dutch": "Helaas, %firstName% is dom en zal geen ervaring opdoen in een baan",
 		"ukrainian":"На жаль, %firstName% туп%heshe_IY_A% і не може отримувати досвід в будь-якій роботі.",
 		"russian":"К сожалению, %firstName% туп%hesheEnd2% и не может получать опыт в любой работе.",
@@ -3454,6 +3458,7 @@
 		"french": "jours",
 		"italian": "giorni",
 		"russian": "дня",
+		"portuguese": "dias",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -3737,6 +3742,7 @@
 		"french": "Se reconstituera dans %days% jours",
 		"italian": "Rigenerazione in: %days% giorni",
 		"russian": "Пополнится через %days% дней",
+		"portuguese": "Reabastecerá em %days% dias",
 	},
 	"resourcesLeft":  {
 		"english": "%resource% left",
@@ -3744,6 +3750,7 @@
 		"french": "%resource% restant",
 		"italian": "%resource% rimasti",
 		"russian": "%resource% осталось",
+		"portuguese": "%resource% restantes",
 	},
 	"gatheringSpeed":  { // use \\% to type %
 		"english": "Gathering speed: %speed% %resource%/minute",
@@ -3751,6 +3758,7 @@
 		"french": "Vitesse de collecte : %speed% %resource%/minute",
 		"italian": "Velocità raccolta: %speed% %resource%/minuto",
 		"russian": "Скорость сбора: %speed% %resource% в минуту",
+		"portuguese": "Velocidade de coleta: %speed% %resource%/minute",
 	},
 	"growthProgress":  {
 		"english": "Growth Progress",
@@ -3758,6 +3766,7 @@
 		"french": "Progression de la croissance",
 		"italian": "Progresso crescita",
 		"russian": "Прогресс роста",
+		"portuguese": "Progresso do crescimento",
 	},
 	"typicalGrowthTime":  {
 		"english": "Typical time to grow: %minDays% - %maxDays% days",
@@ -3765,6 +3774,7 @@
 		"french": "Temps de croissance habituel : %minDays% à %maxDays% jours",
 		"italian": "Tempo abituale per crescere: %minDays% - %maxDays% giorni",
 		"russian": "Стандартное время для роста: %minDays% - %maxDays% дней",
+		"portuguese": "Tempo típico para crescer: %minDays% - %maxDays% dias",
 	},
 	"possibleYieldWhenGrown":  {
 		"english": "Possible yield: ",
@@ -3772,6 +3782,7 @@
 		"french": "Rendement possible :",
 		"italian": "Rendimento possibile: ",
 		"russian": "Возможная урожайность: ",
+		"portuguese": "Rendimento possível: ",
 	},
 	"amountWatered": {
 		"english":  "Amount watered: %watered%/2",
@@ -3779,6 +3790,7 @@
 		"french": "Quantité arrosée : %watered%/2",
 		"italian":  "Quantità annaffiata: %watered%/2",
 		"russian": "Количество полива: %watered%/2",
+		"portuguese": "Quantidade regada: %watered%/2",
 	},
 	"factionPointsInfo": {
 		"english":  "Relationship points: %points%",
@@ -3786,6 +3798,7 @@
 		"french": "Points de relation : %points%",
 		"italian":  "Punti relazione: %points%",
 		"russian": "Баллы отношений: %points%",
+		"portuguese": "Pontos de relacionamento: %points%",
 	},
 	"animalHandling":  {
 		"english": "Animal Handling",
@@ -3793,6 +3806,7 @@
 		"french": "Traitement des animaux",
 		"italian": "Trattamento animali",
 		"russian": "Уход за животными",
+		"portuguese": "Manuseio de animais",
 	},
 	"animalsInVillage":  { // if it doesn't work with your grammer, just say "Animals in Village"
 		"english": "%animalType% in Village",
@@ -3800,6 +3814,7 @@
 		"french": "%animalType% dans le village",
 		"italian": "%animalType% nel villaggio",
 		"russian": "%animalType% в деревне",
+		"portuguese": "%animalType% na vila",
 	},
 	"breedingLimit":  {
 		"english": "Breeding Limit",
@@ -3807,6 +3822,7 @@
 		"french": "Limite d'élevage",
 		"italian": "Limite allevamento",
 		"russian": "Предел размножения",
+		"portuguese": "Limite de reprodução",
 	},
 	"automaticallyAssignExtrasToButcher":  { // if it's too long, skip "assign"
 		"english": "Automatically assign extra animals to butcher",
@@ -3814,6 +3830,7 @@
 		"french": "Abattre automatiquement des animaux",
 		"italian": "Assegna automaticamente altri animali al macello",
 		"russian": "Автоматически назначать дополнительных животных мяснику",
+		"portuguese": "Atribuir automaticamente animais extras ao açougue",
 	},
 	"tamingProgress":  {
 		"english": "Taming Progress: %status%",
@@ -3821,6 +3838,7 @@
 		"french": "Progrès de l'apprivoisemment : %status%",
 		"italian": "Progresso addomesticamento: %status%",
 		"russian": "Процесс приручения: %status%",
+		"portuguese": "Domando o progresso: %status%",
 	},
 	"tamed":  {
 		"english": "Tamed",
@@ -3828,6 +3846,7 @@
 		"french": "Apprivoisé",
 		"italian": "Addomesticato",
 		"russian": "Приручен",
+		"portuguese": "Domesticado",
 	},
 	"untamed":  {
 		"english": "Wild",
@@ -3835,5 +3854,6 @@
 		"french": "Sauvage",
 		"italian": "Selvaggio",
 		"russian": "Дикий",
+		"portuguese": "Selvagem",
 	},
 }

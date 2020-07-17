@@ -8,6 +8,7 @@
 		"portuguese": "Relacionamentos",
 		"chinese": "人际关系",
 		"italian": "Relazioni",
+		"turkish": "İlişkiler",
 	},
 	"relationshipStatus": {
 		"english": "Relationship: %status%",
@@ -18,6 +19,7 @@
 		"portuguese": "Relação: %status%",
 		"chinese": "关系：%status%",
 		"italian": "Relazione: %status%",
+		"turkish": "İlişki: %status%",
 	},
 	"naturalRelationshipTendencyPositive": {
 		"english": "Natural tendency positive",
@@ -28,6 +30,7 @@
 		"portuguese": "Tendência natural positiva",
 		"italian": "Tendenza naturale positiva",
 		"chinese": "与人为善",
+		"turkish": "Doğal eğilim olumlu",
 	},
 	"naturalRelationshipTendencyNegative": {
 		"english": "Natural tendency negative",
@@ -38,6 +41,7 @@
 		"portuguese": "Tendência natural negativa",
 		"italian": "Tendenza naturale negativa",
 		"chinese": "与人为恶",
+		"turkish": "Doğal eğilim olumsuz",
 	},
 	"tooltipGettingChildren_Title": {
 		"english": "Children",
@@ -48,6 +52,7 @@
 		"portuguese": "Crianças",
 		"italian": "Bambino",
 		"chinese": "繁衍后代",
+		"turkish": "Çocuklar",
 	},
 	"tooltipGettingChildren_Desc": {
 		"english": "Once the relationship bar is maxed out and the expectations in the village are fulfilled, the couple will think about having children.",
@@ -69,6 +74,7 @@
 		"portuguese": "Próximo nível inferior: %level%",
 		"chinese": "低一级：%level%",
 		"italian": "Prossimo livello inferiore: %level%",
+		"turkish": "Sıradaki alt seviye: %level%",
 	},
 	"nextHigherLevel": {
 		"english": "Next Higher Level: %level%",
@@ -79,6 +85,7 @@
 		"portuguese": "Próximo nível superior: %level%",
 		"chinese": "高一级：%level%",
 		"italian": "Prossimo livello superiore: %level%",
+		"turkish": "Sıradaki üst seviye: %level%",
 	},
 
 	"relationship_Nemesis": {
@@ -90,6 +97,7 @@
 		"portuguese": "Nêmesis",
 		"chinese": "仇视",
 		"italian": "Nemesi",
+		"turkish": "Ezeli rakip",
 	},
 	"relationship_Enemy": {
 		"english": "Enemy",
@@ -100,6 +108,7 @@
 		"portuguese": "Inimig%oA%",
 		"chinese": "敌对",
 		"italian": "Nemic%OA%",
+		"turkish": "Düşman",
 	},
 	// I had to use an adjective here. If you can find a fitting noun for your language, like the other titles, use that!
 	"relationship_Disliked": {
@@ -111,6 +120,7 @@
 		"portuguese": "Não gostei",
 		"chinese": "厌恶",
 		"italian": "Disprezzat%OA%",
+		"turkish": "Sevilmeyen",
 	},
 	"relationship_Acquaintance": {
 		"english": "Acquaintance",
@@ -121,6 +131,7 @@
 		"portuguese": "Conhecid%oA%",
 		"chinese": "相识",
 		"italian": "Conoscente",
+		"turkish": "Tanıdık",
 	},
 	"relationship_Buddy": {
 		"english": "Buddy",
@@ -131,6 +142,7 @@
 		"portuguese": "camarada",
 		"chinese": "伙伴",
 		"italian": "Compagn%OA%",
+		"turkish": "Yakın",
 	},
 	"relationship_Friend": {
 		"english": "Friend",
@@ -141,6 +153,7 @@
 		"portuguese": "Amig%oA%",
 		"chinese": "朋友",
 		"italian": "Amic%OA%",
+		"turkish": "Arkadaş",
 	},
 	"relationship_GreatFriend": {
 		"english": "Great Friend",
@@ -151,6 +164,7 @@
 		"portuguese": "Grande amig%oA%",
 		"chinese": "好友",
 		"italian": "Miglior amic%OA%",
+		"turkish": "Yakın arkadaş",
 	},
 	"relationship_Lover": {
 		"english": "Lover",
@@ -161,6 +175,7 @@
 		"portuguese": "Amante",
 		"chinese": "情人",
 		"italian": "Amante",
+		"turkish": "Sevgili",
 	},
 	// if Wilhelm loves Tina, %hisHer% will be "her" (Tina) and %2-hisHer% will be "his" (Wilhelm)
 	"relationship_LoveOfTheirLife": {
@@ -254,6 +269,7 @@
 		"portuguese": "%sobrinhoSobrinha%",
 		"chinese": "%nephewNiece%",
 		"italian": "nipote",
+		"turkish": "Yeğen",
 	},
 	"Cousin": {
 		"english": "cousin",
@@ -264,6 +280,7 @@
 		"portuguese": "%primoPrima%",
 		"chinese": "cousin",
 		"italian": "%CuginoCugina%",
+		"turkish": "Kuzen",
 	},
 
 
@@ -278,6 +295,7 @@
 		"portuguese": "Chatead%oA%",
 		"chinese": "烦恼",
 		"italian": "Arrabbiat%OA%",
+		"turkish": "Üzgün",
 	},
 	"relationshipEffect_Upset_Description": {
 		"english": "%affectedName% is upset with %partnerName%. %cap-heShe% will not talk to %2-himHer% for some time.\n(%seconds% seconds left)",

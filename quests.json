@@ -7,6 +7,7 @@
 		"russian": "Вдохновение для шедевра",
 		"turkish": "Başyapıt için ilham",
 		"portuguese": "Inspiração para obra-prima",
+		"italian": "Ispirazione per un capolavoro",
 	},
 	"quest_inspirationForMasterpieceDescription":  {
 		"english": "Inspiration has struck %firstName% like a bolt of lightning. %cap-heShe% has got an idea for a great masterpiece and can't stop thinking about it.",
@@ -16,6 +17,7 @@
 		"russian": "Вдохновение снизошло на %firstName%, словно удар молнии! У %himHer% появилась идея по созданию великого шедевра и %heShe% не может перестать думать о ней.",
 		"turkish": "İlham %firstName%a bir şimşek gibi geldi. Bir başyapıt için harika bir fikri var artık, ve onu düşünmeden edemiyor.",
 		"portuguese": "A inspiração atingiu %firstName% como um raio. %cap-elEla% tem uma ideia para uma grande obra-prima e não consegue parar de pensar nisso.",
+		"italian": "L'ispirazione ha colpito %firstName% come un fulmine. Ha un'idea per un grande capolavoro e non riesce a smettere di pensarci.",
 	},
 	"masterpieceCompleted":  {
 		"english": "Masterpiece completed!",
@@ -25,6 +27,7 @@
 		"russian": "Шедевр сделан!",
 		"turkish": "Başyapıt tamamlandı!",
 		"portuguese": "Obra-prima concluída!",
+		"italian": "Capolavoro completato!",
 	},
 	"masterpieceCompletedDescription":  { // There is a "his" in English
 		"english": "%firstName% has completed %hisHer% masterpiece. Proudly, %heShe% shows the result of his labor to the rest of the village.\n%cap-heShe% created: %masterpiece%",
@@ -34,6 +37,7 @@
 		"russian": "%firstName% завершил%surnameA% свой шедевр. С гордностью %heShe% показывает результат своего труда остальной части деревни.\n%cap-heShe% создал%surnameA%: %masterpiece%",
 		"turkish": "%firstName% şaheserini tamamladı. Gururla eserini yerleşime gösteriyor. Huzurlarınızda %masterpiece%",
 		"portuguese": "%firstName% concluiu %seuSua% obra-prima. Orgulhosamente, %elEla% mostra o resultado de seu trabalho para o resto da vila.\n%cap-elEla% criou: %masterpiece%",
+		"italian": "%firstName% ha completato il suo capolavoro. Con orgoglio, mostra il risultato del suo lavoro al resto del villaggio.\nHa creato: %masterpiece%",
 	},
 	"masterpieceFailed":  {
 		"english": "Masterpiece Failed!",
@@ -43,6 +47,7 @@
 		"russian": "Шедевр не удался!",
 		"turkish": "Şaheser başarısız!",
 		"portuguese": "Obra-prima falhou!",
+		"italian": "Capolavoro fallito!",
 	},
 	"masterpieceFailedDescription":  {
 		"english": "%firstName% tried so hard, but %heShe% didn't manage to make his masterpiece. At least %heShe% got some experience and leveld up as a %profession%.",
@@ -52,6 +57,7 @@
 		"russian": "%firstName% очень старал%wordEnd%, но у %himHer% не удалось возвести шедевр. По крайней мере, %heShe% получил%surnameA% некоторый опыт и повысил%surnameA% навыки в %profession%.",
 		"turkish": "%firstName% çok çalıştı, ancak şaheserini tamamlamayı başaramadı. En azında %profession% mesleğinde deneyim kazandı.",
 		"portuguese": "%firstName% se esforçou muito, mas %eleEla% não conseguiu fazer sua obra-prima. Pelo menos, ele obteve alguma experiência e subiu de nível como %profession%.",
+		"italian": "%firstName% ce l'ha messa tutta, ma non è riuscit%OA% a realizzare il suo capolavoro. Tuttavia, ha guadagnato un po' di esperienza ed è salit%OA% di livello come %profession%.",
 	},
 	"collectItems": {
 		"english": "Collect %amount% pieces of %item%",
@@ -61,6 +67,7 @@
 		"russian": "Соберите %amount% штук %item%",
 		"turkish": "%amount% adet %item% topla",
 		"portuguese": "Colete %amount% Pieces of %item%",
+		"italian": "Colleziona %amount% unità di %item%",
 	},
 	"needsFurnitureInRoom": {
 		"english": "%firstName% needs in %hisHer% room: %furniture%",
@@ -70,6 +77,7 @@
 		"russian": "%firstName% нужно это в своей комнате: %furniture%",
 		"turkish": "%firstName% odası için %furniture% ihtiyaç duyuyor",
 		"portuguese": "firstName% precisa em %seuSua% quarto: %furniture%",
+		"italian": "%firstName% nella sua stanza ha bisogno di: %furniture%",
 	},
 	"needsFurnitureInHouse": {
 		"english": "%firstName% needs in %hisHer% house: %furniture%",
@@ -79,6 +87,7 @@
 		"russian": "%firstName% нужно это в своем доме: %furniture%",
 		"turkish": "%firstName% ev için %furniture% ihtiyaç duyuyor",
 		"portuguese": "%firstName% precisa em %seuSua% house: %furniture%",
+		"italian": "%firstName% nella sua casa ha bisogno di: %furniture%",
 	},
 	"needsToDoAction": {
 		"english": "%firstName% needs to %interaction%",
@@ -88,6 +97,7 @@
 		"russian": "%firstName% нужно %interaction%",
 		"turkish": "%firstName% %interaction% yapmalı",
 		"portuguese": "%firstName% precisa %interaction%",
+		"italian": "%firstName% deve %interaction%",
 	},
 	"needsToDoActionOnFurniture": { // grammer can be difficult here. You can use () or : to express the idea
 		"english": "%firstName% needs to %interaction% on %furniture%",
@@ -97,6 +107,7 @@
 		"russian": "%firstName% нужно %interaction% из/на %furniture%",
 		"turkish": "%firstName% %furniture% üzerinde %interaction% yapmalı",
 		"portuguese": "%firstName% precisa %interaction% em %furniture%",
+		"italian": "%firstName% deve %interaction% su: %furniture%",
 	},
 	"haveStorageForItems": {
 		"english": "Have storage for %items%",
@@ -106,8 +117,8 @@
 		"russian": "Иметь хранилище для %items%",
 		"turkish": "%items% için depolayacak alan lazım",
 		"portuguese": "Tenha armazenamento para %items%",
+		"italian": "Avere un deposito per %items%",
 	},
-
 	"quest_treasureStorage": {
 		"english": "Hiding the Treasure",
 		"german": "Den Schatz verstecken",
@@ -116,6 +127,7 @@
 		"russian": "Сокрытие сокровищ",
 		"turkish": "Hazineyi saklıyor",
 		"portuguese": "Escondendo o tesouro",
+		"italian": "Nascondere il tesoro",
 	},
 	"quest_treasureStorageDescription": {
 		"english": "%faction% want to store their treasure with you until it's safe for them to come back and get it. They promised you a cut of the profits.",
@@ -125,6 +137,7 @@
 		"russian": "%faction% хотят хранить свои сокровища у вас, чтобы сдержать их в безопасности до тех пор, пока они не вернутся. Они обещают вам долю.",
 		"turkish": "%faction% hazinelerini, kendilerini güvende hissedene kadar, sizde saklamak istiyor. Karşılığında pay vermeye söz verdiler",
 		"portuguese": "%faction% deseja guardar o tesouro com você até que seja seguro voltar e buscá-lo. Eles prometeram a você uma parte dos lucros.",
+		"italian": "%faction% vogliono conservare il loro tesoro da te fino quando non saranno al sicuro per tornare a prenderlo. Ti hanno promesso una parte del bottino.",
 	},
 	"quest_treasureStorageIntro": {
 		"english": "Ahoy. One of our ships is being chased and has a ton of coins on board. Can we hide the treasure in the storage on your island for a while? You'll get a cut of the money when we come back.",
@@ -134,6 +147,7 @@
 		"russian": "Еху! На один из наших короблей напали и за нами гонятся, а на корабле тонна монет! Можем ли мы спрятать у вас сокровища? Вы получите часть монет, когда мы вернемся.",
 		"turkish": "Gemilerimizden biri takip ediliyor, ve içinde bir ton para var. Bu hazineyi adanızda bir süre saklayabilir miyiz? Tabii ki size de bir karşılık vereceğiz.",
 		"portuguese": "Ahoy. Um de nossos navios está sendo perseguido e tem uma tonelada de moedas a bordo. Podemos esconder o tesouro no depósito da sua ilha por um tempo? Você receberá uma parte do dinheiro quando voltarmos.",
+		"italian": "Ehi! Una delle nostre navi è inseguita e ha una tonnellata di monete a bordo. Possiamo nascondere il tesoro nel deposito sulla tua isola per un po'? Avrai una parte del bottino quando torneremo.",
 	},
 	"quest_treasureStorageIntroDeclined": {
 		"english": "I knew it. We will remember that you make a terrible business partner.",
@@ -143,6 +157,7 @@
 		"russian": "Я так и знал. Мы запомним вас как ужасного делового партнера.",
 		"turkish": "Biliyordum. Berbat bir iş partneri olduğunuzu hatırlayacağız.",
 		"portuguese": "Eu sabia. Lembraremos que você é um péssimo parceiro de negócios.",
+		"italian": "Lo sapevo. Non dimenticheremo mai che sei un pessimo partner commerciale.",
 	},
 	"quest_treasureStorageIntroAccepted": { // %items% can be something like "40 Tomatoes, 300 Coins"
 		"english": "Thanks. We are storing %items% with you. Please make sure you have enough space in your stockpiles. We will be back once it's safe.",
@@ -152,6 +167,7 @@
 		"russian": "Спасибо! Мы оставим %items% у вас. Пожалуйста убедитесь, что у вас достаточно места на складе для их размещения. Мы вернемся сразу же, как только убедимся, что мы в безопасности.",
 		"turkish": "Teşekkürler. %items% sizde saklayacağız. Lütfen yeteri kadar yer olduğuna emin olun. Güvenli olduğunda geri geleceğiz.",
 		"portuguese": "Obrigado. Estamos armazenando %items% com você. Verifique se você tem espaço suficiente em seus estoques. Voltaremos quando for seguro.",
+		"italian": "Grazie. Stiamo depositando %items% da te. Assicurati di avere abbastanza spazio nelle tue riserve. Torneremo quando sarà sicuro.",
 	},
 	"quest_treasureStorageReturn": {
 		"english": "Ahoy, mate. We're back for that treasure we left with you. Have you kept it save?",
@@ -161,6 +177,7 @@
 		"russian": "Алоха, приятель. Мы вернулись за сокровищем, которое оставили тебе на хранение. Оно все еще у тебя?",
 		"turkish": "Selam dostum. Sizde bıraktığımız hazinemiz için döndük. Umarım güvendedir.",
 		"portuguese": "Ahoy, companheiro. Estamos de volta para o tesouro que deixamos com você. Você manteve isso salvo?",
+		"italian": "Ehi, amico. Siamo tornati per quel tesoro che ti abbiamo lasciato. L'hai tenuto al sicuro?",
 	},
 	"hereYouGo": {
 		"english": "Sure, here you go.",
@@ -170,6 +187,7 @@
 		"russian": "Конечно, держи.",
 		"turkish": "Elbette, buyurun.",
 		"portuguese": "Claro, aqui está você.",
+		"italian": "Certo, ecco a te.",
 	},
 	"weDontHaveItAnymore": {
 		"english": "We don't have it anymore...",
@@ -179,6 +197,7 @@
 		"russian": "Мы его потеряли...",
 		"turkish": "Maalesef, artık burada değil...",
 		"portuguese": "Não temos mais ...",
+		"italian": "Non lo abbiamo più...",
 	},
 	"weAreKeepingIt": {
 		"english": "Actually, we decided we're keeping it.",
@@ -188,6 +207,7 @@
 		"russian": "Вообще, мы решили оставить его себе.",
 		"turkish": "Aslına bakarsanız, hazineyi sahiplenmeye karar verdik.",
 		"portuguese": "Na verdade, decidimos que estamos mantendo.",
+		"italian": "In realtà, abbiamo deciso di tenerlo per noi.",
 	},
 	"quest_treasureStorageReturnWillBeBack": {
 		"english": "I can't believe that! The incompetence! Tell you what, we're going to be back in a couple of days and you better have retrieved it. I don't care how you do it!",
@@ -197,6 +217,7 @@
 		"russian": "Я не могу в это поверить! Что за некомпетентность! Вот что я тебе скажу - мы вернемся через пару дней и тебе лучше найти наше сокровище, нас не волнует как ты это сделаешь!",
 		"turkish": "İnanamıyorum! Beceriksizliğe bak! Birkaç gün içinde geri döneceğiz, ve bu süre içinde onu bulmuş olsanız iyi edersiniz. Nasıl yapacağınız umurumuzda değil!",
 		"portuguese": "Eu não acredito nisso! A incompetência! Vamos lhe dizer, voltaremos em alguns dias e é melhor você recuperá-lo. Eu não ligo como você faz isso!",
+		"italian": "Non posso crederci! Che incompetenza! Sai che ti dico? Torneremo tra un paio di giorni e sarà meglio che tu l'abbia recuperato. Non mi interessa come!",
 	},
 	"youreGoingToRegretThis": {
 		"english": "You are going to regret this.",
@@ -220,15 +241,17 @@
 		"russian": "Спасибо, с тобой приятно иметь дело! Вот твоя доля: %items%.\n\nУвидимся в морях!",
 		"turkish": "Teşekkürler, sizinle iş yapmak güzeldi. Buyurun payınız, %items%.\n\nYedi denize görüşmek üzere!",
 		"portuguese": "Obrigado, bom negócio com você, companheiro! Aqui está o seu corte: %items%.\n\nVejo você nos sete mares!",
+		"italian": "Grazie, è bello fare affari con te, amico! Ecco la tua parte: %items%.\n\nCi vediamo nei Sette Mari!",
 	},
 	"quest_treasureStorageWait": {
 		"english": "Wait for '%faction%' to get back",
 		"german":  "Warte bis '%faction%' wiederkommen",
 		"french": "Attendre que les '%faction%' reviennent",
-		"spanish": "Espera a que '%faction% estén de vuelta",'
+		"spanish": "Espera a que '%faction% estén de vuelta",
 		"russian": "Ожидайте возвращения '%faction%'",
 		"turkish": "'%faction%' dönmesi için bekle",
 		"portuguese": "Espere para '%faction%' volta",
+		"italian": "Aspetta che '%faction%' ritorni",
 	},
 	"quest_treasureStorageRetrieveBefore": {
 		"english": "Retrieve %items% before '%faction%' get back",
@@ -238,6 +261,7 @@
 		"russian": "Накопить %items% до возвращения '%faction%'",
 		"turkish": "'%faction%' dönmeden %items% bul",
 		"portuguese": "Recupere %items% antes de '%faction%' volta",
+		"italian": "Recupera %items% prima che '%faction%' ritorni",
 	},
 	"quest_treasureStorageAttack": {
 		"english": "'%faction%' are coming to attack you any moment",
@@ -247,6 +271,7 @@
 		"russian": "'%faction%' могут приплыть в любой момент",
 		"turkish": "'%faction%' saldırmaya geliyor",
 		"portuguese": "'%faction%' estão vindo para atacá-lo a qualquer momento",
+		"italian": "'%faction%' torneranno per attaccarti",
 	},
 	"quest_treasureStorageHereIsTreasure": {
 		"english": "Alright, here is our treasure: %items%\n\nKeep it safe and don't spend it! We'll be back.",
@@ -256,6 +281,7 @@
 		"russian": "Отлично! Вот наше сокровище: %items%\n\nСохраните его и не потратьте! Мы вернемся за ним.",
 		"turkish": "Pekala, işte hazinemiz: %items%\n\nLütfen güvende tutun ve harcamayın! Geri döneceğiz.",
 		"portuguese": "Tudo bem, aqui está o nosso tesouro: %items%\n\nMantenha-o seguro e não o gaste! Nós voltaremos.",
+		"italian": "Bene, ecco il nostro tesoro: %items%\n\nTienilo al sicuro e non spenderlo! Torneremo presto.",
 	},
 }
 

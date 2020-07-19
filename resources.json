@@ -234,15 +234,19 @@
 		"english": "Raw Meat",
 		"german": "Rohes Fleisch",
 		"french": "Viande crue",
+		"spanish": "Carne cruda",
 		"italian": "Carne cruda",
 		"russian": "Сырое мясо",
+		"portuguese": "Carne crua",
 	},
 	"resourceName_Milk": {
 		"english": "Milk",
 		"german": "Milch",
 		"french": "Lait",
+		"spanish": "Leche",
 		"italian": "Latte",
 		"russian": "Молоко",
+		"portuguese": "Leite",
 	},
 	"resourceName_FoodCooked": {
 		"english": "Cooked Food",
@@ -279,7 +283,7 @@
 		"english": "Edible Raw Food",
 		"german": "Essbares rohes Essen",
 		"french": "Aliments crus comestibles", 
-		"spanish": "Comida cruda",
+		"spanish": "Comida cruda comestible",
 		"turkish": "Çiğ yemek",
 		"portuguese": "Comida crua",
 		"dutch": "Rauw Eten",
@@ -436,8 +440,10 @@
 		"english": "Grilled Meat",
 		"german": "Gegrilltes Fleisch",
 		"french": "Viande grillée",
+		"spanish": "Carne asada",
 		"italian": "Carne grigliata",
 		"russian": "Жаренное мясо",
+		"portuguese": "Carne grelhada",
 	},
 	"resourceName_PumpkinStew": {
 		"english": "Pumpkin Stew",
@@ -474,7 +480,7 @@
 		"english": "Potato Soup",
 		"german": "Kartoffelsuppe",
 		"french": "Soupe de pomme de terre", 
-		"spanish": "Sopa de patata",
+		"spanish": "Sopa de patatas",
 		"turkish": "Patates çorbası",
 		"portuguese": "Sopa de batata",
 		"dutch": "Aardappel Soep",
@@ -505,8 +511,10 @@
 		"english": "Meat and Potatoes",
 		"german": "Fleisch und Kartoffeln",
 		"french": "Viande et pommes de terre",
+		"spanish": "Carne y patatas",
 		"italian": "Carne e patate",
 		"russian": "Мясо с картошкой",
+		"portuguese": "Carne e batatas",
 	},
 	"resourceName_FruitSalad": {
 		"english": "Fruit Salad",
@@ -543,8 +551,10 @@
 		"english": "Cheese",
 		"german": "Käse",
 		"french": "Fromage",
+		"spanish": "Queso",
 		"italian": "Formaggio",
 		"russian": "Сыр",
+		"portuguese": "Queijo",
 	},
 	"resourceName_Bread": {
 		"english": "Bread",
@@ -594,9 +604,7 @@
 		"polish": "Ciasto truskawkowe",
 	},
 	"resourceDescription_StrawberryCake": {
-		// TODO-spanish: good thoughts
 		// TODO-turkish: good thoughts
-		// TODO-portuguese: good thoughts
 		// TODO-dutch: good thoughts
 		// TODO-russian: good thoughts
 		// TODO-ukrainian: good thoughts
@@ -606,9 +614,9 @@
 		"english": "The taste of spring - or at least as close as it can get. Gets up the mood of every villager.",
 		"german": "Der Geschmack des Frühlings vereint in einem leckeren Kuchen. Hebt die Laune eines jeden Dorfbewohners.",
 		"french": "Le goût du printemps - ou du moins aussi près que possible. Permet de remonter l'humeur de chaque villageois.",
-		"spanish": "El sabor de la primavera - o al menos lo más cerca que se puede.",
+		"spanish": "El sabor de la primavera - o al menos, lo más cercano posible. Levantará el ánimo de cada colono",
 		"turkish": "İlkbaharın lezzeti - en azından olabildiğince.",
-		"portuguese": "O gosto da primavera - ou pelo menos tão perto quanto possível.",
+		"portuguese": "O sabor da primavera - ou pelo menos o mais perto possível. Levanta o humor de todos os aldeões.",
 		"dutch": "De smaak van lente - of tenminste zo dichtbij als het kan komen",
 		"russian": "Вкус весны - или, по крайней мере, настолько близкий, насколько это возможно.",
 		"ukrainian":"Смак весни - або, принаймні, настільки близький, наскільки це можливо.",
@@ -870,15 +878,19 @@
 		"english": "Textiles",
 		"german": "Textilien",
 		"french": "Textile",
+		"spanish": "Textiles",
 		"italian": "Tessuto",
 		"russian": "Текстиль",
+		"portuguese": "Têxteis",
 	},
 	"resourceDescription_Textiles": {
 		"english": "The Villagers can use cotton or wool to produce cloth for furniture and clothes.",
 		"german":  "Aus Baumwolle oder Schafswolle können die Dörfler Stoff herstellen.",
 		"french": "Les villageois peuvent utiliser du coton ou de la laine pour produire des tissus pour les meubles et les vêtements.",
+		"spanish": "Los colonos pueden usar algodón y lana para producir telas para muebles y ropa.",
 		"italian": "Gli abitanti possono usare il cotone o la lana per produrre tessuti per mobili e vestiti.",
 		"russian": "Жители деревни могут использовать хлопок или шерсть для производства ткани для мебели и одежды.",
+		"portuguese": "Os aldeões podem usar algodão ou lã para produzir tecidos para móveis e roupas.",
 	},
 	"resourceName_Cotton": {
 		"english": "Cotton",
@@ -917,15 +929,19 @@
 		"english": "Wool",
 		"german": "Wolle",
 		"french": "Laine",
+		"spanish": "Lana",
 		"italian": "Lana",
 		"russian": "Шерсть",
+		"portuguese": "Lã",
 	},
 	"resourceName_Cloth": {
 		"english": "Cloth",
 		"german": "Stoff",
 		"french": "Tissu",
+		"spanish": "Tela",
 		"italian": "Stoffa",
 		"russian": "Ткань",
+		"portuguese": "Pano",
 	},
 	"resourceName_Crystal": {
 		"english": "Crystal",

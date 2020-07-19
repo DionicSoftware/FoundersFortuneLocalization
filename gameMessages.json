@@ -257,7 +257,6 @@
 		"italian": "%firstName% ha perso conoscenza"
 	},
 	// TODO-dutch: firstName
-	// TODO-portuguese: firstName
 	// TODO-turkish: firstName
 	// TODO-bulgarian: firstName
 	// TODO-ukrainian: firstName
@@ -740,6 +739,7 @@
 		"french":  "%firstName% est un %profession% de niveau %level%",
 		"russian": "%firstName% достиг %level% уровня в %profession%",
 		"italian": "%firstName% ora è %profession% di livello %level%",
+		"portuguese": "%firstName% agora é um nível %level% %profession%",
 	},
 
 
@@ -944,22 +944,28 @@
 		"english": "%firstName% gets %days% extra days!",
 		"german": "%firstName% bekommt %days% Tage extra!",
 		"french": "%firstName% obtient %days% jours supplémentaires !",
+		"spanish": "¡%firstName% obtiene %days% días extra!",
 		"italian": "%firstName% ottiene %days% giorni extra!",
 		"russian": "%firstName% получил %days% доп. дней!",
+		"portuguese": "%firstName% recebe %days% dias extras!",
 	},
 	"tamingSucceeded": {
 		"english": "Taming successful!",
 		"german": "Zähmen erfolgreich!",
 		"french": "Apprivoisement réussi !",
+		"spanish": "¡Domesticación exitosa!",
 		"italian": "Addomesticamento riuscito!",
 		"russian": "Приручение прошло успешно!",
+		"portuguese": "Domando com sucesso!",
 	},
 	"tamingInProgress": {
 		"english": "Taming in progress...",
 		"german": "Versuche zähmen...",
 		"french": "Apprivoisement en cours...",
+		"spanish": "Domesticación en curso...",
 		"italian": "Addomesticamento in corso...",
 		"russian": "Приручение в процессе...",
+		"portuguese": "Domando em andamento ...",
 	},
 
 
@@ -1826,15 +1832,19 @@
 		"english":  "Psychological Problems",
 		"german":  "Psychische Probleme",
 		"french": "Problèmes psychologiques",
+		"spanish": "Problemas psicológicos",
 		"italian":  "Problemi psicologici",
 		"russian": "Психологические проблемы",
+		"portuguese": "Problemas psicológicos",
 	},
 	"messageText_negativeTraitEvent": {
 		"english":  "%firstName% has been miserable for a long time now. %cap-hisHer% bad mental state has caused %himHer% to gain a new trait: '%trait%'",
 		"german":  "%firstName% fühlt ist jetzt schon lange unglückglich. Sein schlechter mentaler Zustand hat jetzt auch zu anderen Problemen geführt: Er hat jetzt die Eigenschaft '%trait%' bekommen.",
 		"french":  "%firstName% est malheur%euxEuse% depuis trop longtemps. Son mauvais état mental lui a valu un nouveau trait : « %trait% »",
+		"spanish": "%firstName% ha sido miserable por un largo tiempo. Su mal estado mental ha causado que obtenga un nuevo rasgo: '%trait%'",
 		"italian":  "%firstName% è stat%OA% infelice per molto tempo. Il suo pessimo stato mentale %GliLe% ha fatto ottenere un nuovo tratto: '%trait%'",
 		"russian": "%firstName% был несчастен в течение долгого времени. Из-за этого он обрел новую черту: '%trait%'",
+		"portuguese": "%firstName% está infeliz há muito tempo. %cap-seuSua% seu mau estado mental fez com que ele se tornasse um novo traço: '%trait%'",
 	},
 
 

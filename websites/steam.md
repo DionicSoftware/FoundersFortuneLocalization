@@ -45,7 +45,7 @@ Um simulador de colônias de fantasia com foco em construção criativa, psicolo
 Lidar com recursos, agricultura, produção, ferramentas, armas, armaduras, comércio, defesa e pesquisa, bem como os desejos, expectativas, pensamentos e posses de cada colono.
 
 ### Spanish
-Un simulador de colonias de fantasía focalizado en construcciones creativas, psicología colonial y defensa de base.
+Un simulador de colonias de fantasía centrado en construcciones creativas, la psicología colonial y la defensa de base.
 Gestiona recursos, agricultura, producción, herramientas, equipo, comercio, defensa e investigación, así como los deseos, expectativas, pensamientos y posesiones de cada colono.
 
 ### Turkish

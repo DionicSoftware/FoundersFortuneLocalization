@@ -187,6 +187,7 @@
 		"portuguese": "Amor de %2-seuSua% vida",
 		"chinese": "爱 %2-hisHer% 一生",
 		"italian": "Amore della sua vita",
+		"turkish": "Hayatının aşkı",
 	},
 
 
@@ -199,6 +200,7 @@
 		"portuguese": "%firstName% é o %relativeStatus% de %firstName2%",
 		"chinese": "%firstName% 是 %firstName2% 的 %relativeStatus%",
 		"italian": "%firstName% è %relativeStatus% di %firstName2%",
+		"turkish": "%firstName%, %firstName2%'in %relativeStatus%",
 	},
 	"Child": {
 		"english": "%sonDaughter%",
@@ -316,6 +318,7 @@
 		"portuguese": "Impressionad%oA%",
 		"chinese": "印象深刻",
 		"italian": "Impressionat%OA%",
+		"turkish": "Etkilenmiş",
 	},
 	"relationshipEffect_Impressed_Description": {
 		"english": "%affectedName% is impressed by %partnerName%. Any positive interaction is twice as effective!\n(%seconds% seconds left)",
@@ -326,6 +329,7 @@
 		"portuguese": "%affectedName% está impressionado com %partnerName%. Qualquer interação positiva é duas vezes mais eficaz! \n(%seconds% segundos restantes)",
 		"chinese": "%affectedName% 对 %partnerName%印象深刻。任何好的互动都是两倍的效果。\n(还剩%seconds%秒)",
 		"italian": "%affectedName% è impressionat%OA% da %partnerName%. Ogni interazione positiva è due volte più efficace!\n(%seconds% secondi rimasti)",
+		"turkish": "%affectedName% %partnerName% tarafından etkilendi. Herhangi bir olumlu etkileşim iki kat daha etkili!\n(%seconds% saniye kaldı)",
 	},
 	"relationshipEffect_NotImpressed_Title": {
 		"english": "Not Impressed",
@@ -336,6 +340,7 @@
 		"portuguese": "Não estou impressionado",
 		"chinese": "印象淡薄",
 		"italian": "Non impressionat%OA%",
+		"turkish": "Etkilenmemiş",
 	},
 	"relationshipEffect_NotImpressed_Description": {
 		"english": "%affectedName% is not impressed by %partnerName%. Any negative interaction is twice as detrimental!\n(%seconds% seconds left)",
@@ -346,6 +351,7 @@
 		"portuguese": "%affectedName% não está impressionado com %partnerName%. Qualquer interação negativa é duas vezes mais prejudicial! \n(%seconds% segundos restantes)",
 		"chinese": "%affectedName% 没有对 %partnerName%有深刻的印象。任何坏的影响都是两倍效果。\n(还剩%seconds%秒)",
 		"italian": "%affectedName% non è impressionat%OA% da %partnerName%. Ogni interazione negativa è due volte più dannosa!\n(%seconds% secondi rimasti)",
+		"turkish": "%affectedName% %partnerName% tarafından etkilenmedi. Herhangi bir olumsuz etkileşim iki kat daha zararlı!\n(%seconds% saniye kaldı)",
 	},
 	"relationshipEffect_LowerLevelLocked_Description": {
 		"english": "Lower Level locked for %seconds% seconds.",
@@ -356,6 +362,7 @@
 		"portuguese": "Nível inferior bloqueado por %segundos% segundos.",
 		"chinese": "较低的级别锁定 %seconds%秒。",
 		"italian": "Livello inferiore bloccato per %seconds% secondi.",
+		"turkish": "Alt seviye, %seconds% saniye boyunca kilitli.",
 	},
 	"relationshipEffect_HigherLevelLocked_Description": {
 		"english": "Higher Level locked for %seconds% seconds.",
@@ -366,5 +373,6 @@
 		"portuguese": "Nível superior bloqueado por %segundos% segundos.",
 		"chinese": "较高的级别锁定 %seconds%秒。",
 		"italian": "Livello superiore bloccato per %seconds% secondi.",
+		"turkish": "Üst seviye, %seconds% saniye boyunca kilitli.",
 	},
 }

@@ -48,6 +48,7 @@
 		"italian": "Accetta",
 		"russian": "Принять",
 		"portuguese": "Aceitar",
+		"turkish": "Kabul et",
 	},
 	"quest_decline": {
 		"english": "Decline",
@@ -57,6 +58,7 @@
 		"italian": "Rifiuta",
 		"russian": "Отклонить",
 		"portuguese": "Declínio",
+		"turkish": "Reddet",
 	},
 	"quest_item_confirm": {
 		"english": "Confirm",
@@ -66,6 +68,7 @@
 		"italian": "Conferma",
 		"russian": "Подтвердить",
 		"portuguese": "confirme",
+		"turkish": "Kabul",
 	},
 	"research": {
 		"english": "Research",
@@ -544,13 +547,14 @@
 		"czech": "Pro zvýšení zdraví nechte své kolonisty spát nebo jim dejte léčivé lektvary.",
 	},
 	"needsTitleTameness": {
-		"english": "Tamness",
+		"english": "Tameness",
 		"german":  "Zähmung",
 		"french": "Apprivoisement",
 		"spanish": "Domesticación",
 		"italian": "Domesticità",
 		"russian": "Приручение",
 		"portuguese": "Domar",
+		"turkish": "Uysallık",
 	},
 	"needsDescriptionTameness": {
 		"english": "Once you managed to tame a wild animal, you need to care for it from time to time in order to keep it tame. The white line shows when the animal will become wild again.",
@@ -560,6 +564,7 @@
 		"italian": "Una volta riusciti a domare un animale selvaggio, bisogna prendersene cura di volta in volta, al fine di mantenerlo addomesticato. La linea bianca mostra quando l'animale tornerà ad essere di nuovo selvaggio.",
 		"russian": "После того, как вам удалось приручить дикое животное, вам нужно время от времени заботиться о нем, чтобы сохранить его. Белая линия показывает, когда животное снова станет диким.",
 		"portuguese": "Depois de domesticar um animal selvagem, você precisa cuidar dele de tempos em tempos para mantê-lo doméstico. A linha branca mostra quando o animal se tornará selvagem novamente.",
+		"turkish": "Vahşi bir hayvanı uysallaştırdıktan sonra, bu uysallığı korumak için zaman zaman ona bakmanız lazım. Beyaz çizgi vahşileşme gelişimini gösterir.",
 	},
 	"humanWillGrowUpInDays": {
 		"english": "%firstName% will grow up in %days% days",
@@ -1207,6 +1212,7 @@
 		"italian": "Essere di buon umore o di cattivo umore farà guadagnare lentamente punti felicità infanzia positivi o negativi.\nA seconda di quali punti vengono raccolti, il bambino otterrà tratti positivi o negativi al suo compleanno.",
 		"polish": "Bycie w dobrym lub złym nastroju, powoli nabija pozytywne bądź negatywne punkty dziecięcego zadowolenia. \nW zależności od tego, jakie punkty są zebrane, dziecko zdobędzie albo pozytywne, albo negatywne cechy w swoje urodziny.",
 		"czech": "Pobýváním v dobré nebo špatné náladě postupně získává pozitivní nebo negativní body štěstí.\nV závislosti na počtu nasbíraných bodů potom získá pozitivní nebo negativní vlastnosti na své narozeniny.",
+		"turkish": "Ruhsal durum yavaşça çocukluk mutluluk puanlarını etkiler.\nToplanan puanlara göre, çocuk büyüdüğünde doğum gününde iyi veya kötü karakter özellikleri kazanır.",
 	},
 	"childhoodEducation": {
 		"english": "Education",
@@ -1232,6 +1238,7 @@
 		"italian": "Ogni bambino può imparare le competenze di vita da uno scaffale. Il giorno del suo compleanno, può utilizzare questi punti per ottenere un grande vantaggio in qualsiasi professione.\nSe l'educazione viene interrotta prima che un tema sia pienamente compreso e che un punto sia guadagnato, il progresso verrà lentamente dimenticato.",
 		"polish": "Każde dziecko może nauczyć się umiejętności życiowych przy półce na książki. W swoje urodziny mogą użyć tych punktów, by mieć lepszy start w swoim zawodzie. \nJeśli edukacja zostanie wstrzymana, zanim nauczany temat zostanie w pełni przyswojony i zarobi się punkt, wiedza zostanie z czasem zapomniana.",
 		"czech": "Každé dítě se může učit životní dovednosti pomocí knih v knihovně. Na jejich narozeniny pak můžou použít tyto body a získat tím výborný start v jejich budoucí profesi.\nPokud je vzdělávání přerušeno před tím, než je téma plně pochopeno a je získán bod, postup je pomalu zapomínán.",
+		"turkish": "Çocuklar kitaplıkları kullanarak yaşam becerileri edinebilirler. Doğum günlerinde, hayat puanlarını kullanarak seçecekleri mesleklerde bir adım önde başlayabilirler.\nEğitim, bir konu tamamen öğrenilmeden yarım bırakılırsa, ilerleme yavaşça unutulur.", 
 	},
 
 	// Birthday Panel (Child born)
@@ -3464,6 +3471,7 @@
 		"italian": "giorni",
 		"russian": "дня",
 		"portuguese": "dias",
+		"turkish": "günler",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -3754,6 +3762,7 @@
 		"italian": "Rigenerazione in: %days% giorni",
 		"russian": "Пополнится через %days% дней",
 		"portuguese": "Reabastecerá em %days% dias",
+		"turkish": "%days% günde geri dolacak",
 	},
 	"resourcesLeft":  {
 		"english": "%resource% left",
@@ -3763,6 +3772,7 @@
 		"italian": "%resource% rimasti",
 		"russian": "%resource% осталось",
 		"portuguese": "%resource% restantes",
+		"turkish": "%resource% kaldı",
 	},
 	"gatheringSpeed":  { // use \\% to type %
 		"english": "Gathering speed: %speed% %resource%/minute",
@@ -3772,6 +3782,7 @@
 		"italian": "Velocità raccolta: %speed% %resource%/minuto",
 		"russian": "Скорость сбора: %speed% %resource% в минуту",
 		"portuguese": "Velocidade de coleta: %speed% %resource%/minute",
+		"turkish": "Toplama hızı: %speed% %resource%/minute",
 	},
 	"growthProgress":  {
 		"english": "Growth Progress",
@@ -3781,6 +3792,7 @@
 		"italian": "Progresso crescita",
 		"russian": "Прогресс роста",
 		"portuguese": "Progresso do crescimento",
+		"turkish": "Büyüme İlerlemesi",
 	},
 	"typicalGrowthTime":  {
 		"english": "Typical time to grow: %minDays% - %maxDays% days",
@@ -3790,6 +3802,7 @@
 		"italian": "Tempo abituale per crescere: %minDays% - %maxDays% giorni",
 		"russian": "Стандартное время для роста: %minDays% - %maxDays% дней",
 		"portuguese": "Tempo típico para crescer: %minDays% - %maxDays% dias",
+		"turkish": "Ortalama büyüme süresi: %minDays% - %maxDays% days",
 	},
 	"possibleYieldWhenGrown":  {
 		"english": "Possible yield: ",
@@ -3799,6 +3812,7 @@
 		"italian": "Rendimento possibile: ",
 		"russian": "Возможная урожайность: ",
 		"portuguese": "Rendimento possível: ",
+		"turkish": "Muhtemel verim: ",
 	},
 	"amountWatered": {
 		"english":  "Amount watered: %watered%/2",
@@ -3808,10 +3822,12 @@
 		"italian":  "Quantità annaffiata: %watered%/2",
 		"russian": "Количество полива: %watered%/2",
 		"portuguese": "Quantidade regada: %watered%/2",
+		"turkish": "Sulanan miktar: %watered%/2",
 	},
 	"plantNeedsCare": {
 		"english":  "Plant needs care",
 		"german":  "Pflanze benötigt Pflege",
+		"turkish": "Bitkilerin ilgiye ihtiyacı var",
 	},
 	"factionPointsInfo": {
 		"english":  "Relationship points: %points%",
@@ -3821,6 +3837,7 @@
 		"italian":  "Punti relazione: %points%",
 		"russian": "Баллы отношений: %points%",
 		"portuguese": "Pontos de relacionamento: %points%",
+		"turkish": "İlişki puanları: %points%",
 	},
 	"animalHandling":  {
 		"english": "Animal Handling",
@@ -3830,6 +3847,7 @@
 		"italian": "Trattamento animali",
 		"russian": "Уход за животными",
 		"portuguese": "Manuseio de animais",
+		"turkish": "Hayvancılık",
 	},
 	"animalsInVillage":  { // if it doesn't work with your grammer, just say "Animals in Village"
 		"english": "%animalType% in Village",
@@ -3839,6 +3857,7 @@
 		"italian": "%animalType% nel villaggio",
 		"russian": "%animalType% в деревне",
 		"portuguese": "%animalType% na vila",
+		"turkish": "Yerleşimdeki %animalType%",
 	},
 	"breedingLimit":  {
 		"english": "Breeding Limit",
@@ -3848,6 +3867,7 @@
 		"italian": "Limite allevamento",
 		"russian": "Предел размножения",
 		"portuguese": "Limite de reprodução",
+		"turkish": "Islah Limiti",
 	},
 	"automaticallyAssignExtrasToButcher":  { // if it's too long, skip "assign"
 		"english": "Automatically assign extra animals to butcher",
@@ -3857,6 +3877,7 @@
 		"italian": "Assegna automaticamente altri animali al macello",
 		"russian": "Автоматически назначать дополнительных животных мяснику",
 		"portuguese": "Atribuir automaticamente animais extras ao açougue",
+		"turkish": "Fazla hayvaları otomatik olarak kasapa yolla",
 	},
 	"tamingProgress":  {
 		"english": "Taming Progress: %status%",
@@ -3866,6 +3887,7 @@
 		"italian": "Progresso addomesticamento: %status%",
 		"russian": "Процесс приручения: %status%",
 		"portuguese": "Domando o progresso: %status%",
+		"turkish": "Uysallaştırma Süreci: %status%",
 	},
 	"tamed":  {
 		"english": "Tamed",
@@ -3875,6 +3897,7 @@
 		"italian": "Addomesticato",
 		"russian": "Приручен",
 		"portuguese": "Domesticado",
+		"turkish": "Uysal",
 	},
 	"untamed":  {
 		"english": "Wild",
@@ -3884,5 +3907,6 @@
 		"italian": "Selvaggio",
 		"russian": "Дикий",
 		"portuguese": "Selvagem",
+		"turkish": "Vahşi",
 	},
 }

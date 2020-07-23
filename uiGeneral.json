@@ -307,7 +307,6 @@
 		"turkish": "\"%save%\" kaydını silmek istediğinizden emin misiniz? Bunun geri dönüşümü yok.",
 		"czech": "Opravdu chcete přepsat hru \"%save%\"? Bude navždy ztracena.",
 	},
-	// TODO-turkish
 	// TODO-korean
 	// TODO-polish
 	"saveNotCompatibleWithGameVersion": {
@@ -316,7 +315,7 @@
 		"french": "Cette sauvegarde n'est pas compatible avec votre version de jeu.\nVous pouvez jouer aux anciennes versions en utilisant la fonction « Betas » de Steam.",
 		"spanish": "Este guardado no es compatible con tu versión de juego.\nPuedes jugar versiones antiguas usando la opción 'Betas' de Steam.",
 		"italian": "Questo salvataggio non è compatibile con la tua versione di gioco.\nPuoi giocare alle vecchie versioni usando la funzione 'Beta' tramite Steam.",
-		"turkish": "Bu kayıt yüklü oyun sürümü ile uyumlu değil.\nEski bir oyun versiyonu ile oynamaya devam etmek için açıklamaları son duyurular arasından bulabilirsiniz..",
+		"turkish": "Bu kayıt yüklü oyun sürümü ile uyumlu değil.\nEski sürümlerle oynamak için Steam üzerindeki 'Betalar' özelliğine bakın.",
 		"portuguese": "Esta gravação não é compatível com a versão do seu jogo.\nVocê pode reproduzir versões antigas usando o recurso 'Beta' no Steam.",
 		"russian": "Это сохранение несовместимо с текущей версией игры.\nВы можете запустить старую версию игры во вкладке бета-версий Steam.",
 		"korean": "이 저장 파일은 게임 버전과 호환되지 않습니다.\n공지사항에서 구 버전에서 저장된 게임을 이어하는 방법에 대한 튜토리얼을 찾아볼 수 있습니다.",
@@ -2473,7 +2472,6 @@
 		"polish": "Zdobyte ulepszenia",
 		"czech": "Získaná vylepšení",
 	},
-	//TODO-turkish: Tikigoblins -> Enemies
 	//TODO-dutch: Tikigoblins -> Enemies
 	//TODO-ukrainian: Tikigoblins -> Enemies
 	//TODO-russian: Tikigoblins -> Enemies
@@ -2487,7 +2485,7 @@
 		"german": "Feinde getötet",
 		"french": "Ennemis tués",
 		"spanish": "Enemigos asesinados",
-		"turkish": "Tikigoblinler öldürüldü",
+		"turkish": "Düşmanlar öldürüldü",
 		"portuguese": "Inimigos matados",
 		"dutch": "Tikigoblins Vermoord",
 		"ukrainian":"Тікігоблінів вбито",

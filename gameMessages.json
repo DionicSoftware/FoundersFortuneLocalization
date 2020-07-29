@@ -43,7 +43,8 @@
 		"polish": "Trzeba zbudować na podłodze",
 		"portuguese": "Precisa ser construído no chão",
 		"chinese": "需要在地板上建造",
-		"italian": "Deve essere costruito sul pavimento"
+		"italian": "Deve essere costruito sul pavimento",
+		"turkish": "Bir zemin üzerine yerleştirilmeli",
 	},
 	"needsToBeBuiltNextToFloor": { // used for wall building
 		"english": "Needs to be built next to floor tile",
@@ -54,7 +55,8 @@
 		"polish": "Trzeba zbudować w pobliżu podłogi",
 		"portuguese": "Precisa ser construído próximo ao piso",
 		"chinese": "需要在地板边缘建造",
-		"italian": "Deve essere costruito accanto ad un pavimento"
+		"italian": "Deve essere costruito accanto ad un pavimento",
+		"turkish": "Bir döşeme karosunun yayına yerleştirilmeli",
 	},
 	"needsToBeBuiltAboveRoomOrTerrain": { // used for floor building
 		"english": "Needs to be built above room or on solid ground",
@@ -64,7 +66,8 @@
 		"russian": "Это нужно размещать над комнатой или на земле",
 		"portuguese": "Precisa ser construído acima da sala ou em terreno sólido",
 		"chinese": "需要在房间内或牢固的地面上建造",
-		"italian": "Deve essere costruito sopra una stanza o su un terreno solido"
+		"italian": "Deve essere costruito sopra una stanza o su un terreno solido",
+		"turkish": "Bir zemin üzerinde ya da oda üstüne yerleştirilmeli",
 	},
 	"placeBlocked": {
 		"english": "This Place is blocked by something!",
@@ -159,7 +162,8 @@
 		"russian": "%firstName% вырастет завтра.",
 		"portuguese": "%firstName% vai crescer amanhã.",
 		"chinese": "%firstName% 明天将会长大。",
-		"italian": "%firstName% crescerà domani."
+		"italian": "%firstName% crescerà domani.",
+		"turkish": "%firstName%, yarın büyümüş olacak.",
 	},
 	"notificationTitle_isApproachingEndOfLife": {
 		"english": "%firstName% is nearing the end of %hisHer% long life.",
@@ -169,7 +173,8 @@
 		"russian": "%firstName% доживает последние дни своей жизни.",
 		"portuguese": "%firstName% está chegando ao final de %seuSua% vida útil.",
 		"chinese": "%firstName%即将结束%hisHer%的一生。",
-		"italian": "%firstName% sta per giungere alla fine della sua lunga vita."
+		"italian": "%firstName% sta per giungere alla fine della sua lunga vita.",
+		"turkish": "%firstName%, yaşamının sonuna ermek üzere.",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -237,7 +242,6 @@
 		"polish": "Jesteś atakowany!"
 	},
 	// TODO-dutch: firstName
-	// TODO-turkish: firstName
 	// TODO-bulgarian: firstName
 	// TODO-ukrainian: firstName
 	// TODO-korean: firstName
@@ -248,7 +252,7 @@
 		"french": "%firstName% a perdu connaissance",
 		"spanish": "%firstName% perdió la conciencia",
 		"portuguese": "%firstName% perdeu a Consciência",
-		"turkish": "Yerleşimci bilincini kaybetti",
+		"turkish": "%firstName% bilincini kaybetti",
 		"bulgarian": "Колонист изгуби съзнание",
 		"russian": "%firstName% потерял сознание",
 		"ukrainian": "Колоніст знепритомнів",
@@ -257,7 +261,6 @@
 		"italian": "%firstName% ha perso conoscenza"
 	},
 	// TODO-dutch: firstName
-	// TODO-turkish: firstName
 	// TODO-bulgarian: firstName
 	// TODO-ukrainian: firstName
 	// TODO-korean: firstName
@@ -268,7 +271,7 @@
 		"french": "%firstName% est mort%e%",
 		"spanish": "%firstName% murió",
 		"portuguese": "%firstName% morreu",
-		"turkish": "Yerleşimci öldü",
+		"turkish": "%firstName% öldü",
 		"bulgarian": "Колонист умря",
 		"russian": "%firstName% умер",
 		"ukrainian": "Колоніст помер",
@@ -285,7 +288,8 @@
 		"russian": "%firstName% умер из-за старости",
 		"portuguese": "%firstName% morreu de velhice",
 		"chinese": "%firstName% 衰老而死",
-		"italian": "%firstName% è mort%OA% di vecchiaia"
+		"italian": "%firstName% è mort%OA% di vecchiaia",
+		"turkish": "%firstName% yaşlılıktan öldü",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -699,7 +703,8 @@
 		"portuguese": "Piratas estão chegando a qualquer momento ...",
 		"italian": "I pirati arriveranno da un momento all'altro...",
 		"korean": "해적이 곧 들이닥칠 것 같습니다...",
-		"chinese": "海盗随时都会来..."
+		"chinese": "海盗随时都会来...",
+		"turkish": "Korsanlar her an gelebilir...",
 	},
 	"notificationTitle_PiratesHaveLanded": {
 		"english": "Pirates have landed!",
@@ -710,7 +715,8 @@
 		"portuguese": "Piratas desembarcaram!",
 		"italian": "I pirati sono approdati!",
 		"korean": "해적이 상륙했습니다!",
-		"chinese": "海盗登陆了！"
+		"chinese": "海盗登陆了！",
+		"turkish": "Korsanlar karaya ayak bastı",
 	},
 	"notificationTitle_FactionWillComeForTributeIn": {
 		"english": "'%faction%' will come for %tribute% in %days% days",
@@ -721,7 +727,8 @@
 		"portuguese": "'%faction%' virá para  %tribute% in %days% dias",
 		"italian": "'%faction%' arriverà in %days% giorni per %tribute%",
 		"korean": "'%faction%'#{이} %tribute%#{을} 바치기 위해 %days%일 내로 올 겁니다",
-		"chinese": "'%faction%' 将会%days%天内在 %tribute% 出现"
+		"chinese": "'%faction%' 将会%days%天内在 %tribute% 出现",
+		"turkish": "'%faction%',  %tribute% için %days% gün içinde gelecek",
 	},
 	"notificationTitle_NoEmptyGrave": {
 		"english": "There is no empty grave",
@@ -731,7 +738,8 @@
 		"russian": "Здесь нет пустой могилы",
 		"portuguese": "Não há sepultura vazia",
 		"italian": "Non ci sono tombe vuote",
-		"chinese": "没有空余的坟墓-TODO"
+		"chinese": "没有空余的坟墓-TODO",
+		"turkish": "Boş mezar yok",
 	},
 	"notificationTitle_ProfessionLevelUp": {
 		"english": "%firstName% is now a level %level% %profession%",
@@ -740,6 +748,7 @@
 		"russian": "%firstName% достиг %level% уровня в %profession%",
 		"italian": "%firstName% ora è %profession% di livello %level%",
 		"portuguese": "%firstName% agora é um nível %level% %profession%",
+		"turkish": "%firstName%, mesleği %profession% de %level% seviyesinde",
 	},
 
 
@@ -808,7 +817,8 @@
 		"russian": "Дипломатические отношения улучшены",
 		"portuguese": "Relações Diplomáticas Melhoradas",
 		"chinese": "外交关系改善",
-		"italian": "Relazioni diplomatiche migliorate"
+		"italian": "Relazioni diplomatiche migliorate",
+		"turkish": "Diplomatik ilişkiler geliştirildi",
 	},
 	"treatmentSuccessful": {
 		"english": "Treatment\nSuccessful",
@@ -908,7 +918,8 @@
 		"russian": "Впечатлен%surnameA%",
 		"portuguese": "Impressionad%oA%",
 		"chinese": "印象深刻",
-		"italian": "Impressionat%OA%"
+		"italian": "Impressionat%OA%",
+		"turkish": "Etkilendi",
 	},
 	"notImpressed": {
 		"english": "Not Impressed",
@@ -918,7 +929,8 @@
 		"russian": "Не впечатлен%surnameA%",
 		"portuguese": "Não estou impressionado",
 		"chinese": "印象淡薄",
-		"italian": "Non impressionat%OA%"
+		"italian": "Non impressionat%OA%",
+		"turkish": "Etkilenmedi",
 	},
 	"upsetWithSomeone": {
 		"english": "Upset with %firstName%",
@@ -928,7 +940,8 @@
 		"russian": "Обижен%surnameA% на %firstName%",
 		"portuguese": "Chateado com %firstName%",
 		"chinese": "对 %firstName%感到不安",
-		"italian": "Arrabbiat%OA% con %firstName%"
+		"italian": "Arrabbiat%OA% con %firstName%",
+		"turkish": "%firstName%den dolayı üzgün",
 	},
 	"someoneIsUpset": {
 		"english": "%firstName% is upset",
@@ -938,7 +951,8 @@
 		"russian": "%firstName% обижен%surnameA%",
 		"portuguese": "%firstName% está chateado",
 		"chinese": "%firstName%很不安",
-		"italian": "%firstName% è arrabbiat%OA%"
+		"italian": "%firstName% è arrabbiat%OA%",
+		"turkish": "%firstName% üzgün",
 	},
 	"drankElixirOfYouth": {
 		"english": "%firstName% gets %days% extra days!",
@@ -948,6 +962,7 @@
 		"italian": "%firstName% ottiene %days% giorni extra!",
 		"russian": "%firstName% получил %days% доп. дней!",
 		"portuguese": "%firstName% recebe %days% dias extras!",
+		"turkish": "%firstName% fazladan %days% gün kazandı!",
 	},
 	"tamingSucceeded": {
 		"english": "Taming successful!",
@@ -957,6 +972,7 @@
 		"italian": "Addomesticamento riuscito!",
 		"russian": "Приручение прошло успешно!",
 		"portuguese": "Domando com sucesso!",
+		"turkish": "Ehlileştirme başarılı",
 	},
 	"tamingInProgress": {
 		"english": "Taming in progress...",
@@ -966,6 +982,7 @@
 		"italian": "Addomesticamento in corso...",
 		"russian": "Приручение в процессе...",
 		"portuguese": "Domando em andamento ...",
+		"turkish": "Ehlileştirme süreci",
 	},
 
 
@@ -982,7 +999,8 @@
 		"polish": "Imigrant: %text%",
 		"portuguese": "Migrante: %text%",
 		"chinese": "移民： %text%",
-		"italian": "Migrante: %text%"
+		"italian": "Migrante: %text%",
+		"turkish": "Göçmen: %text%",
 	},
 	"iHaveTrait": {
 		"english": "I have the trait '%trait%'.",

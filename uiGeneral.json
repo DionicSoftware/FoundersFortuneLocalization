@@ -16,6 +16,7 @@
 		"polish": "Nowa gra",
 		"italian": "Nuova partita",
 		"czech": "Nová hra",
+		"romanian": "Joc nou",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -33,6 +34,7 @@
 		"polish": "Zapisz grę",
 		"italian": "Salva partita",
 		"czech": "Uložit hru",
+		"romanian": "Salvează jocul",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -50,6 +52,7 @@
 		"polish": "Wczytaj grę",
 		"italian": "Carica partita",
 		"czech": "Načíst hru",
+		"romanian": "Încarcă jocul",
 	},
 	"settings": {
 		"english": "Settings",
@@ -67,6 +70,7 @@
 		"polish": "Ustawienia",
 		"italian": "Opzioni",
 		"czech": "Nastavení",
+		"romanian": "Setări",
 	},
 	"quit": {
 		"english": "Quit",
@@ -84,6 +88,7 @@
 		"polish": "Wyjdź",
 		"italian": "Esci",
 		"czech": "Odejít",
+		"romanian": "Ieși",
 	},
 	"website": {
 		"english": "Website",
@@ -101,6 +106,7 @@
 		"polish": "Strona internetowa",
 		"italian": "Sito web",
 		"czech": "Webstránka",
+		"romanian": "Sait web",
 	},
 	"forum": {
 		"english": "Forum",
@@ -118,6 +124,7 @@
 		"polish": "Forum",
 		"italian": "Forum",
 		"czech": "Fórum",
+		"romanian": "Forum",
 	},
 	"supportDevelopment": {
 		"english": "Support Development",
@@ -135,6 +142,7 @@
 		"polish": "Wspieraj rozwój",
 		"italian": "Supporta lo sviluppo",
 		"czech": "Podpořit vývoj",
+		"romanian": "Susține dezvoltarea",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -152,6 +160,7 @@
 		"polish": "Aktualizacja dostępna",
 		"italian": "Aggiornamento disponibile!",
 		"czech": "Je dostupná aktualizace!",
+		"romanian": "Actualizare disponibilă!",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -169,6 +178,7 @@
 		"polish": "Ściągnij najnowszą wersję",
 		"italian": "Ottieni la versione più recente",
 		"czech": "Získat nejnovější verzi",
+		"romanian": "Obține cea mai nouă versiune",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -186,6 +196,7 @@
 		"polish": "Twoja wersja",
 		"italian": "La tua versione",
 		"czech": "Vaše verze",
+		"romanian": "Versiunea dvs.",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -203,6 +214,7 @@
 		"polish": "Obecna wersja",
 		"italian": "Versione attuale",
 		"czech": "Aktuální verze",
+		"romanian": "Versiunea curentă",
 	},
 	"underConstruction": {
 		"english": "Under Construction!",
@@ -220,6 +232,7 @@
 		"polish": "W budowie!",
 		"italian": "In costruzione!",
 		"czech": "Ve výstavbě!",
+		"romanian": "În construcție!",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -237,6 +250,7 @@
 		"polish": "Główne menu",
 		"italian": "Menu principale",
 		"czech": "Hlavní menu",
+		"romanian": "Meniul principal",
 	},
 	"giveFeedback": {
 		"english": "Give Feedback",
@@ -254,6 +268,7 @@
 		"polish": "Podziel się opinią",
 		"italian": "Fornisci un feedback",
 		"czech": "Zpětná vazba",
+		"romanian": "Trimite feedback",
 	},
 
 
@@ -274,6 +289,7 @@
 		"polish": "Wczytaj",
 		"italian": "Carica",
 		"czech": "Načíst",
+		"romanian": "Încarcă",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -291,6 +307,7 @@
 		"polish": "Nadpisz",
 		"italian": "Sovrascrivi",
 		"czech": "Přepsat",
+		"romanian": "Suprascrie",
 	},
 	"reallyDeleteSave": {
 		"english": "Are you sure you want to delete the save \"%save%\"? It will be gone forever.",
@@ -306,6 +323,7 @@
 		"polish": "Jesteś pewien, że chcesz usunąć zapis \"%save%\"? Zapis zostanie usunięty na zawsze.",
 		"turkish": "\"%save%\" kaydını silmek istediğinizden emin misiniz? Bunun geri dönüşümü yok.",
 		"czech": "Opravdu chcete přepsat hru \"%save%\"? Bude navždy ztracena.",
+		"romanian": "Sigur doriți să ștergeți salvarea \"%save%\"? O veți pierde pentru totdeauna.",
 	},
 	// TODO-korean
 	// TODO-polish
@@ -322,6 +340,7 @@
 		"polish": "Ten zapis nie jest kompatybilny z twoją wersją gry.\nZaktualizuj swoją wersję gry.",
 		"chinese": "此存档与您的游戏版本不兼容。\n您可以在最新公告中找到有关如何继续使用旧游戏版本的教程。",
 		"czech": "Tato uložená pozice není kompatibilní se současnou verzí hry.\nStarší uložené pozice můžete hrát díky Steam funkci 'Beta'",
+		"romanian": "Această salvare nu este compatibilă cu versiunea dvs. de joc.\nPuteți juca versiuni vechi folosind funcția „Betas” din Steam.",
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -337,6 +356,7 @@
 		"polish": "Ta gra nie była zapisywana przez %minutes% minut. Jesteś pewien, że chcesz wyjść do menu głównego bez zapisywania?",
 		"turkish":  "Oyunu %minutes% dakikadır kaydetmediniz. Kaydetmeden ana menüye geri dönmek istediğinden emin misiniz?",
 		"czech": "Hra nebyla uložena posledních %minutes% minut. Opravdu se chcete vrátit do hlavní nabídky bez uložení?",
+		"romanian": "Jocul nu a fost salvat timp de %minutes% minute. Sigur doriți să vă întoarceți la meniul principal fără să salvați?",
 	},
 	"newSave": {
 		"english": "New Save",
@@ -354,6 +374,7 @@
 		"polish": "Nowy zapis",
 		"italian": "Nuovo salvataggio",
 		"czech": "Nová pozice",
+		"romanian": "Salvare nouă",
 	},
 	"savegameName": { // background when player enters an empty save game name
 		"english": "Savegame Name",
@@ -371,6 +392,7 @@
 		"polish": "Nazwa zapisu",
 		"italian": "Nome salvataggio",
 		"czech": "Název uložené hry",
+		"romanian": "Numele jocului salvat",
 	},
 	"mostAwesomeColony": { // default name for new colony
 		"english": "Most Awesome Colony",
@@ -388,6 +410,7 @@
 		"polish": "Najcudowniejsza kolonia",
 		"italian": "La colonia più splendida",
 		"czech": "Nejúžasnější kolonie",
+		"romanian": "Cea mai impresionantă colonie",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -405,6 +428,7 @@
 		"polish": "Zabronione znaki w nazwie pliku",
 		"italian": "Caratteri proibiti nel nome del file",
 		"czech": "Zakázané znaky v názvu souboru",
+		"romanian": "Caractere interzise în numele fișierului",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -422,6 +446,7 @@
 		"polish": "Nazwa pliku zbyt długa",
 		"italian": "Nome del file troppo lungo",
 		"czech": "Název souboru je příliš dlouhý",
+		"romanian": "Numele fișierului este prea lung",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -439,6 +464,7 @@
 		"polish": "Nazwa pliku zbyt krótka",
 		"italian": "Nome del file troppo corto",
 		"czech": "Název souboru je příliš krátký",
+		"romanian": "Numele fișierului este prea scurt",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -456,6 +482,7 @@
 		"polish": "Nazwa pliku już w użyciu",
 		"italian": "Nome del file già in uso",
 		"czech": "Název souboru je již použit",
+		"romanian": "Numele fișierului este folosit deja",
 	},
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
@@ -473,6 +500,7 @@
 		"polish": "Mody mogą być niekompatybilne\nMody w zapisie:",
 		"italian": "Le mod potrebbero essere incompatibili!\nMod nel salvataggio:",
 		"czech": "Mody mohou být nekompatibilní!\nMody v uložené hře:",
+		"romanian": "Modurile pot fi incompatibile!\nModuri în salvare:",
 	},
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
@@ -490,6 +518,7 @@
 		"polish": "Brak",
 		"italian": "Nessuna",
 		"czech": "Žádné",
+		"romanian": "Niciunul",
 	},
 
 
@@ -512,6 +541,7 @@
 		"polish": "Mody i dodatkowa zawartość",
 		"italian": "Mod e contenuti aggiuntivi",
 		"czech": "Mody a dodatečný obsah",
+		"romanian": "Moduri și conținut suplimentar",
 	},
 	"author": {
 		"english": "Author",
@@ -529,6 +559,7 @@
 		"polish": "Autor",
 		"italian": "Autore",
 		"czech": "Autor",
+		"romanian": "Autor",
 	},
 	"active": {
 		"english": "Active",
@@ -546,6 +577,7 @@
 		"polish": "Aktywny",
 		"italian": "Attiva",
 		"czech": "Aktivní",
+		"romanian": "Activ",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -563,6 +595,7 @@
 		"polish": "Nie masz zainstalowanych żadnych modów ani dodatkowej zawartości.",
 		"italian": "Non hai alcuna mod o contenuto aggiuntivo installato.",
 		"czech": "Nemáte nainstalovány žádné mody ani dodatečný obsah.",
+		"romanian": "Nu aveți niciun mod sau conținut suplimentar instalat.",
 	},
 	"modsOnRoadmap": {
 		"english": "Mod Support is currently on our Roadmap.\nOur supporters use this menu to manage their supporter packages.",
@@ -579,7 +612,8 @@
 		"korean": "아직은 모드를 지원할 계획입니다.\n이 메뉴는 우리를 후원해준 분들이 후원자 패키지를 관리하기 위해 사용합니다.",
 		"polish": "Wsparcie modów jest obecnie w planach.\nNasi współtwórcy używają tego menu aby zarządzać ich pakietami.",
 		"italian": "Il supporto alle mod è attualmente sulla nostra mappa di sviluppo.\nI nostri sostenitori usano questo menu per gestire i loro pacchetti supporto.",
-		"czech": "Podpora modů je aktuálně v naší roadmapě.\nNaši podporovatelé používají toto menu ke správě svých balíčků.",		
+		"czech": "Podpora modů je aktuálně v naší roadmapě.\nNaši podporovatelé používají toto menu ke správě svých balíčků.",
+		"romanian": "Suportul modurilor este în prezent planificat.\nSuporterii noștri folosesc acest meniu pentru a-și gestiona pachetele de suport.",
 	},
 	"openModFolder": {
 		"english": "Open Mod Folder",
@@ -597,6 +631,7 @@
 		"polish": "Otwórz folder z modami",
 		"italian": "Apri cartella mod",
 		"czech": "Otevřít adresář s mody",
+		"romanian": "Deschide dosarul modului",
 	},
 	"openWorkshop": { //steam workshop
 		"english": "Open Workshop",
@@ -611,6 +646,7 @@
 		"chinese": "打开创意工坊",
 		"italian": "Apri il Workshop",
 		"czech": "Otevřít Workshop",
+		"romanian": "Deschide Atelierul",
 	},
 	"modCompatible_Title": {
 		"english": "Content compatible",
@@ -628,6 +664,7 @@
 		"polish": "Zawartość kompatybilna",
 		"italian": "Contenuto compatibile",
 		"czech": "Kompatibilní s obsahem",
+		"romanian": "Conținut compatibil",
 	},
 	"modCompatible_Text": {
 		"english": "This content has been marked by the developers as compatible.",
@@ -645,6 +682,7 @@
 		"polish": "Ta zawartość została oznaczona przez deweloperów jako kompatybilna",
 		"italian": "Questo contenuto è stato contrassegnato dagli sviluppatori come compatibile.",
 		"czech": "Tento obsah byl vývojáři označen jako kompatibilní.",
+		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind compatibil.",
 	},
 	"modMostlyCompatible_Title": {
 		"english": "Content mostly compatible",
@@ -661,6 +699,7 @@
 		"italian": "Contenuto per lo più compatibile",
 		"chinese": "模组内容兼容",
 		"czech": "Obsah je většinou kompatibilní",
+		"romanian": "Conținut în mare parte compatibil",
 	},
 	"modMostlyCompatible_Text": {
 		"english": "This content has been marked by the developers as mostly compatible. It could contain bugs, but you can use it anyways.",
@@ -677,6 +716,7 @@
 		"chinese": "开发人员将此内容标记为基本兼容。它可能包含bug，但无论如何您都可以使用它。",
 		"polish": "Ta zawartość została oznaczona przez twórców jako najbardziej kompatybilna. Może zawierać błędy, ale możesz i tak z niej skorzystać.",
 		"czech": "Tento obsah byl vývojáři označen jako většinově kompatibilní. Může obsahovat chyby, ale přesto jej můžete použít.",
+		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind în mare parte compatibil. Poate conține bug-uri, dar îl poți folosi oricum.",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
@@ -694,6 +734,7 @@
 		"italian": "Contenuto incompatibile",
 		"polish": "Zawartość niekompatybilna",
 		"czech": "Nekompatibilní obsah",
+		"romanian": "Conținut incompatibil",
 	},
 	"modIncompatible_Text": {
 		"english": "This content has been marked by the developers as incompatible.\nYou need to update it in order to activate it.",
@@ -711,6 +752,7 @@
 		"italian": "Questo contenuto è stato contrassegnato dagli sviluppatori come incompatibile.\nDevi aggiornarlo per poterlo attivare.",
 		"polish": "Ta zawartość została oznaczona przez twórców jako niekompatybilna. \nMusisz ją zupdate'ować aby móc ją aktywować.",
 		"czech": "Tento obsah byl vývojáři označen jako nekompatibilní.\nPro použití je nutné provést aktualizaci.",
+		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind incompatibil.\nTrebuie să-l actualizați pentru a-l activa.",
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
@@ -728,6 +770,7 @@
 		"italian": "Applica e riavvia",
 		"polish": "Zatwierdź i zrestartuj",
 		"czech": "Použít a restartovat",
+		"romanian": "Aplică și repornește",
 	},
 	
 
@@ -748,6 +791,7 @@
 		"italian": "Qualsiasi feedback ci aiuterà a migliorare il gioco!",
 		"polish": "Każda, nawet najmniejsza uwaga pomaga nam poprawić grę dla Ciebie!",
 		"czech": "Jakýkoliv podnět nám pomůže, abychom pro vás mohli hru vylepšit!",
+		"romanian": "Fiecare feedback ne ajută să îmbunătățim jocul pentru tine!",
 	},
 	"feedbackType": {
 		"english": "Category",
@@ -765,6 +809,7 @@
 		"italian": "Categoria",
 		"polish": "Kategoria",
 		"czech": "Kategorie",
+		"romanian": "Categorie",
 	},
 	"general": {
 		"english": "General",
@@ -782,6 +827,7 @@
 		"italian": "Generale",
 		"polish": "Opinia",
 		"czech": "Obecné",
+		"romanian": "General",
 	},
 	"bugReport": {
 		"english": "Bug Report",
@@ -799,6 +845,7 @@
 		"italian": "Segnalazione bug",
 		"polish": "Zgłoś błąd",
 		"czech": "Hlášení chyb",
+		"romanian": "Raportează o eroare",
 	},
 	"framerate": {
 		"english": "Framerate",
@@ -816,6 +863,7 @@
 		"italian": "FPS",
 		"polish": "Ilość FPS",
 		"czech": "FPS",
+		"romanian": "FPS",
 	},
 	"feedback": {
 		"english": "Feedback",
@@ -833,6 +881,7 @@
 		"italian": "Feedback",
 		"polish": "Treść",
 		"czech": "Zpětná vazba",
+		"romanian": "Feedback",
 	},
 	"enterFeedback": {
 		"english": "Enter Feedback...",
@@ -850,6 +899,7 @@
 		"italian": "Inserisci feedback...",
 		"polish": "Wprowadź treść...",
 		"czech": "Vložte zpětnou vazbu...",
+		"romanian": "Introduceți feedbackul...",
 	},
 	"emailAddressOptional": {
 		"english": "Email Address (optional!)",
@@ -867,6 +917,7 @@
 		"italian": "Indirizzo e-mail (facoltativo!)",
 		"polish": "Podaj adres e-mail (opcjonalnie)",
 		"czech": "E-mailová adresa (volitelně!)",
+		"romanian": "Adresa de e-mail (opțional!)",
 	},
 	"clickToSubmit": {
 		"english": "Click to submit",
@@ -884,6 +935,7 @@
 		"italian": "Clicca per inviare",
 		"polish": "Naciśnij buźkę, aby wysłać",
 		"czech": "Klikněte pro odeslání",
+		"romanian": "Clicați pentru a trimite",
 	},
 	"thankYou": {
 		"english": "Thank you!",
@@ -901,6 +953,7 @@
 		"italian": "Grazie!",
 		"polish": "Dziękujemy!",
 		"czech": "Děkujeme!",
+		"romanian": "Mulțumesc!",
 	},
 	"feedbackSubmittedSuccessfully": {
 		"english": "Feedback submitted successfully",
@@ -918,6 +971,7 @@
 		"italian": "Il tuo feedback è stato inviato con successo",
 		"polish": "Feedback został wysłany.",
 		"czech": "Zpětná vazba úspěšně odeslána",
+		"romanian": "Feedbackul a fost trimis cu succes",
 	},
 	"Oops": {
 		"english": "Oops...",
@@ -935,6 +989,7 @@
 		"italian": "Ops...",
 		"polish": "Ups...",
 		"czech": "Ups...",
+		"romanian": "Hopa...",
 	},
 	"feedbackSystemBug": {
 		"english": "There seems to be a bug in the feedback system.\nPlease try again later or let us know via contact@foundersfortune.com",
@@ -951,6 +1006,7 @@
 		"korean": "피드백 시스템에 문제가 있는 것 같습니다.\n다음에 다시 시도해주시거나, contact@foundersfortune.com 로 직접 메일을 보내주세요",
 		"italian": "Sembra esserci un bug nel sistema dei feedback.\nProva di nuovo più tardi o contattaci tramite contact@foundersfortune.com",
 		"czech": "Vypadá to, že je nějaký problém v systému hlášení chyb.\nZkuste to prosím znovu později a nebo nás kontaktujte prostřednictvím emailu contact@foundersfortune.com",
+		"romanian": "Se pare că există o eroare în sistemul de feedback.\nÎncercați din nou mai târziu sau comunicați-ne la contact@foundersfortune.com",
 	},
 	"feedbackConnectionIssue": {
 		"english": "There seems to be a connection issue\nCould you please check your internet connection?",
@@ -968,6 +1024,7 @@
 		"italian": "Sembra esserci un problema di connessione.\nPotresti controllare la tua connessione ad internet?",
 		"polish": "Wygląda na to że wystąpił problem z połączeniem.\nSprawdź swoje połączenie z internetem.",
 		"czech": "Zdá se, že nastal problém s připojením.\nZkontrolujte prosím vaše internetové připojení.",
+		"romanian": "Se pare că există o problemă de conexiune.\nAți putea să vă verificați conexiunea la internet?",
 	},
 	"youreWelcome": {
 		"english": "You're Welcome",
@@ -985,6 +1042,7 @@
 		"italian": "Prego",
 		"polish": "Zamknij",
 		"czech": "Není zač",
+		"romanian": "Cu plăcere",
 	},
 	"retry": {
 		"english": "retry",
@@ -1002,6 +1060,7 @@
 		"italian": "Riprova",
 		"polish": "Ponów",
 		"czech": "zkusit znovu",
+		"romanian": "reîncearcă",
 	},
 
 
@@ -1022,6 +1081,7 @@
 		"italian": "Video",
 		"polish": "Wideo",
 		"czech": "Video",
+		"romanian": "Video",
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -1039,6 +1099,7 @@
 		"italian": "Qualità grafica",
 		"polish": "Jakość grafiki",
 		"czech": "Kvalita grafiky",
+		"romanian": "Calitate grafică",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -1056,6 +1117,7 @@
 		"italian": "Bassa",
 		"polish": "Niska",
 		"czech": "Nízká",
+		"romanian": "Redusă",
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -1073,6 +1135,7 @@
 		"italian": "Media",
 		"polish": "Średnia",
 		"czech": "Střední",
+		"romanian": "Medie",
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -1090,6 +1153,7 @@
 		"italian": "Alta",
 		"polish": "Wysoka",
 		"czech": "Vysoká",
+		"romanian": "Ridicată",
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -1107,6 +1171,7 @@
 		"italian": "Risoluzione",
 		"polish": "Rozdzielczość",
 		"czech": "Rozlišení",
+		"romanian": "Rezoluție",
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -1124,6 +1189,7 @@
 		"italian": "Modalità schermo",
 		"polish": "Tryb obrazu",
 		"czech": "Mód zobrazení",
+		"romanian": "Modul de afișare",
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -1141,6 +1207,7 @@
 		"italian": "Finestra",
 		"polish": "Okno",
 		"czech": "V okně",
+		"romanian": "În fereastră",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -1158,6 +1225,7 @@
 		"italian": "Schermo intero",
 		"polish": "Pełny ekran",
 		"czech": "Fullscreen",
+		"romanian": "Ecran complet",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -1175,6 +1243,7 @@
 		"italian": "Vsync",
 		"polish": "Vsync",
 		"czech": "Vsync",
+		"romanian": "Vsync",
 	},
 	"slowVsync": {
 		"english": "Slow",
@@ -1190,6 +1259,7 @@
 		"chinese": "慢",
 		"polish": "Powolne",
 		"czech": "Pomalý",
+		"romanian": "Lent",
 	},
 	"on": {
 		"english": "On",
@@ -1207,6 +1277,7 @@
 		"italian": "Sì",
 		"polish": "Tak",
 		"czech": "Zapnuto",
+		"romanian": "Activat",
 	},
 	"off": {
 		"english": "Off",
@@ -1224,6 +1295,7 @@
 		"italian": "No",
 		"polish": "Nie",
 		"czech": "Vypnuto",
+		"romanian": "Dezactivat",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -1241,6 +1313,7 @@
 		"italian": "Luminosità",
 		"polish": "Jasność",
 		"czech": "Jas",
+		"romanian": "Luminozitate",
 	},
 	"audio": {
 		"english": "Audio",
@@ -1258,6 +1331,7 @@
 		"italian": "Audio",
 		"polish": "Audio",
 		"czech": "Zvuk",
+		"romanian": "Audio",
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -1275,6 +1349,7 @@
 		"italian": "Volume generale",
 		"polish": "Otoczenie",
 		"czech": "Celková hlasitost",
+		"romanian": "Volum global",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -1292,6 +1367,7 @@
 		"italian": "Effetti sonori",
 		"polish": "Dźwięki",
 		"czech": "Zvukové efekty",
+		"romanian": "Efecte sonore",
 	},
 	"music": {
 		"english": "Music",
@@ -1309,6 +1385,7 @@
 		"italian": "Musica",
 		"polish": "Muzyka",
 		"czech": "Hudba",
+		"romanian": "Muzică",
 	},
 	"other": {
 		"english": "Other",
@@ -1326,6 +1403,7 @@
 		"italian": "Altro",
 		"polish": "Inne",
 		"czech": "Ostatní",
+		"romanian": "Alte",
 	},
 	"language": {
 		"english": "Language",
@@ -1343,6 +1421,7 @@
 		"italian": "Lingua",
 		"polish": "Język",
 		"czech": "Jazyk",
+		"romanian": "Limbă",
 	},
 
 
@@ -1363,6 +1442,7 @@
 		"italian": "English",
 		"polish": "English",
 		"czech": "English",
+		"romanian": "English",
 	},
 	"German": {
 		"english": "Deutsch",
@@ -1380,6 +1460,7 @@
 		"italian": "Deutsch",
 		"polish": "Deutsch",
 		"czech": "Deutsch",
+		"romanian": "Deutsch",
 	},	
 	"French": {
 		"english": "Français",
@@ -1397,6 +1478,7 @@
 		"italian": "Français",
 		"polish": "Français",
 		"czech": "Français",
+		"romanian": "Français",
 	},	
 	"Spanish": {
 		"english": "Español",
@@ -1414,6 +1496,7 @@
 		"italian": "Español",
 		"polish": "Español",
 		"czech": "Español",
+		"romanian": "Español",
 	},
 	"Portuguese": {
 		"english": "Portuges",
@@ -1431,6 +1514,7 @@
 		"italian": "Portuges",
 		"polish": "Portuges",
 		"czech": "Portuges",
+		"romanian": "Portuges",
 	},
 	"Turkish": {
 		"english": "Türkçe",
@@ -1448,6 +1532,7 @@
 		"italian": "Türkçe",
 		"polish": "Türkçe",
 		"czech": "Türkçe",
+		"romanian": "Türkçe",
 	},
 	"Dutch": { 
 		"english": "Nederlands",
@@ -1465,6 +1550,7 @@
 		"italian": "Nederlands",
 		"polish": "Nederlands",
 		"czech": "Nederlands",
+		"romanian": "Nederlands",
 	},
 	"Ukrainian": { 
 		"english": "Українська",
@@ -1482,6 +1568,7 @@
 		"italian": "Українська",
 		"polish": "Українська",
 		"czech": "Українська",
+		"romanian": "Українська",
 	},
 	"Russian": { 
 		"english": "Русский",
@@ -1499,6 +1586,7 @@
 		"italian": "Русский",
 		"polish": "Русский",
 		"czech": "Русский",
+		"romanian": "Русский",
 	},
 	"Chinese": { 
 		"english": "简体中文",
@@ -1516,6 +1604,7 @@
 		"italian": "简体中文",
 		"polish": "简体中文",
 		"czech": "简体中文",
+		"romanian": "简体中文",
 	},
 	"Korean": {
 		"english": "한국어",
@@ -1533,6 +1622,7 @@
 		"italian": "한국어",
 		"polish": "한국어",
 		"czech": "한국어",
+		"romanian": "한국어",
 	},
 	"Arabic": { 
 		"english": "ﺔﻴﺑﺮﻌﻟﺍ",
@@ -1550,6 +1640,7 @@
 		"italian": "ﺔﻴﺑﺮﻌﻟﺍ",
 		"polish": "ﺔﻴﺑﺮﻌﻟﺍ",
 		"czech": "ﺔﻴﺑﺮﻌﻟﺍ",
+		"romanian": "ﺔﻴﺑﺮﻌﻟﺍ",
 	},
 	"Italian": { 
 		"english": "Italiano",
@@ -1567,6 +1658,7 @@
 		"italian": "Italiano",
 		"polish": "Italiano",
 		"czech": "Italiano",
+		"romanian": "Italiano",
 	},
 	 "Czech": { 
 		"english": "Čeština",
@@ -1584,6 +1676,25 @@
 		"italian": "Čeština",
 		"polish": "Čeština",
 		"czech": "Čeština",
+		"romanian": "Čeština",
+	},
+	"Romanian": {
+		"english": "Română",
+		"german": "Română",
+		"french": "Română",
+		"spanish": "Română",
+		"turkish": "Română",
+		"portuguese": "Română",
+		"dutch": "Română",
+		"ukrainian":"Română",
+		"russian":"Română",
+		"chinese": "Română",
+		"korean": "Română",
+		"arabic": "Română",
+		"italian": "Română",
+		"polish": "Română",
+		"czech": "Română",
+		"romanian": "Română",
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -1601,6 +1712,7 @@
 		"italian": "Scorrimento del mouse ai bordi",
 		"polish": "Skrolowanie na krawędziach",
 		"czech": "Posouvání myší na okrajích",
+		"romanian": "Derularea cu mausul la marginea ecranului",
 		
 	},
 	"developerMode": {
@@ -1616,6 +1728,7 @@
 		"turkish": "Geliştirici modu",
 		"chinese": "开发者模式",
 		"czech": "Vývojářský režim",
+		"romanian": "Modul pentru dezvoltatori",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -1633,6 +1746,7 @@
 		"italian": "Funzionamento in background",
 		"polish": "Gra działa w tle",
 		"czech": "Hra aktivní na pozadí",
+		"romanian": "Jocul activ în fundal",
 	},
 	"cameraSpeed": {
 		"english": "Camera Speed",
@@ -1649,6 +1763,7 @@
 		"chinese": "镜头速度",
 		"polish": "Prędkość kamery",
 		"czech": "Rychlost kamery",
+		"romanian": "Viteza camerei",
 	},
 
 
@@ -1669,6 +1784,7 @@
 		"italian": "Caricamento del mondo...",
 		"polish": "Wczytywanie świata...",
 		"czech": "Načítání světa...",
+		"romanian": "Încărcarea lumii...",
 	},
 	"reset": {
 		"english": "Reset",
@@ -1686,6 +1802,7 @@
 		"italian": "Ripristina",
 		"polish": "Resetuj",
 		"czech": "Reset",
+		"romanian": "Resetează",
 	},
 	"ok": {
 		"english": "Ok",
@@ -1699,6 +1816,7 @@
 		"chinese": "Ok",
 		"italian": "Ok",
 		"czech": "Ok",
+		"romanian": "Ok",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -1716,6 +1834,7 @@
 		"italian": "Conferma",
 		"polish": "Zatwierdź",
 		"czech": "Potvrdit",
+		"romanian": "Confirmă",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -1733,6 +1852,7 @@
 		"italian": "Annulla",
 		"polish": "Anuluj",
 		"czech": "Zrušit",
+		"romanian": "Renunță",
 	},
 	"apply": {
 		"english": "Apply",
@@ -1750,6 +1870,7 @@
 		"italian": "Applica",
 		"polish": "Zastosuj",
 		"czech": "Použít",
+		"romanian": "Aplică",
 	},
 
 
@@ -1770,6 +1891,7 @@
 		"italian": "Controlli telecamera",
 		"polish": "Sterowanie kamerą",
 		"czech": "Ovládání kamery",
+		"romanian": "Controlul camerei",
 	},
 	"keyBindings": {
 		"english": "Key Bindings",
@@ -1787,6 +1909,7 @@
 		"italian": "Assegnazione tasti",
 		"polish": "Zmień przypisanie klawiszy",
 		"czech": "Změna přiřazení kláves",
+		"romanian": "Configurarea tastaturii",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -1804,6 +1927,7 @@
 		"italian": "Avanti",
 		"polish": "Do przodu",
 		"czech": "Dopředu",
+		"romanian": "Înainte",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -1821,6 +1945,7 @@
 		"italian": "Indietro",
 		"polish": "Do tyłu",
 		"czech": "Dozadu",
+		"romanian": "Înapoi",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -1838,6 +1963,7 @@
 		"italian": "Sinistra",
 		"polish": "Lewo",
 		"czech": "Doleva",
+		"romanian": "Stânga",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -1855,6 +1981,7 @@
 		"italian": "Destra",
 		"polish": "Prawo",
 		"czech": "Doprava",
+		"romanian": "Dreapta",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -1872,6 +1999,7 @@
 		"italian": "Ruota",
 		"polish": "Obróć",
 		"czech": "Otočit",
+		"romanian": "Rotește",
 	},
 	"zoomIn": {
 		"english": "Zoom In",
@@ -1888,6 +2016,7 @@
 		"chinese": "放大",
 		"polish": "Przybliż",
 		"czech": "Přiblížit",
+		"romanian": "Mărește",
 	},
 	"zoomOut": {
 		"english": "Zoom Out",
@@ -1904,6 +2033,7 @@
 		"chinese": "缩小",
 		"polish": "Oddal",
 		"czech": "Oddálit",
+		"romanian": "Micșorează",
 	},
 	"floorUp": {
 		"english": "Floor up",
@@ -1917,6 +2047,7 @@
 		"chinese": "楼上",
 		"italian": "Piano superiore",
 		"czech": "Podlaží nahoru",
+		"romanian": "Etajul superior",
 	},
 	"floorDown": {
 		"english": "Floor down",
@@ -1930,6 +2061,7 @@
 		"chinese": "楼下",
 		"italian": "Piano inferiore",
 		"czech": "Podlaží dolů",
+		"romanian": "Etajul inferior",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -1947,6 +2079,7 @@
 		"italian": "Controllo del tempo",
 		"polish": "Prędkość gry",
 		"czech": "Ovládání času",
+		"romanian": "Controlul timpului",
 	},
 	"pause": {
 		"english": "Pause",
@@ -1964,6 +2097,7 @@
 		"italian": "Pausa",
 		"polish": "Pauza",
 		"czech": "Pauza",
+		"romanian": "Pauză",
 	},
 	"normalSpeed": {
 		"english": "Normal Speed",
@@ -1981,6 +2115,7 @@
 		"italian": "Velocità normale",
 		"polish": "Normalna",
 		"czech": "Normální rychlost",
+		"romanian": "Viteză normală",
 	},
 	"2xSpeed": {
 		"english": "2x Speed",
@@ -1998,6 +2133,7 @@
 		"italian": "Velocità x2",
 		"polish": "Prędkość x2",
 		"czech": "Rychlost x2",
+		"romanian": "Viteză 2x",
 	},
 	"4xSpeed": {
 		"english": "4x Speed",
@@ -2015,6 +2151,7 @@
 		"italian": "Velocità x4",
 		"polish": "Prędkość x4",
 		"czech": "Rychlost x4",
+		"romanian": "Viteză 4x",
 	},
 	"colonistInteraction": {
 		"english": "Colonist Interaction",
@@ -2032,6 +2169,7 @@
 		"italian": "Interazione colono",
 		"polish": "Interakcja",
 		"czech": "Interakce s kolonistou",
+		"romanian": "Controlul coloniștilor",
 	},
 	"multipleOrders": {
 		"english": "Multiple Orders",
@@ -2049,6 +2187,7 @@
 		"italian": "Ordini multipli",
 		"polish": "Kolejkowanie zadań",
 		"czech": "Vícečetný úkol",
+		"romanian": "Comenzi multiple",
 	},
 	"furnitureHandling": {
 		"english": "Furniture Handling",
@@ -2066,6 +2205,7 @@
 		"italian": "Gestione mobili",
 		"polish": "Meblowanie",
 		"czech": "Přesun nábytku",
+		"romanian": "Manipularea mobilierului",
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -2083,6 +2223,7 @@
 		"italian": "Ruota a sinistra",
 		"polish": "Obróć w lewo",
 		"czech": "Otočit doleva",
+		"romanian": "Rotește spre stânga",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -2100,6 +2241,7 @@
 		"italian": "Ruota a destra",
 		"polish": "Obróć w prawo",
 		"czech": "Otočit doprava",
+		"romanian": "Rotește spre dreapta",
 	},
 	"precisionPlacement": {
 		"english": "Precision Placement",
@@ -2117,6 +2259,7 @@
 		"italian": "Posizionamento di precisione",
 		"polish": "Precyzyjne umieszczanie",
 		"czech": "Přesné umístění",
+		"romanian": "Poziționare precisă",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -2134,6 +2277,7 @@
 		"italian": "Varie",
 		"polish": "Pozostałe",
 		"czech": "Ostatní",
+		"romanian": "Diverse",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -2151,6 +2295,7 @@
 		"italian": "Screenshot",
 		"polish": "Zrzut ekranu",
 		"czech": "Snímek obrazovky",
+		"romanian": "Captură de ecran",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -2168,6 +2313,7 @@
 		"italian": "Apri cartella screenshot",
 		"polish": "Otwórz katalog zrzutów ekranu",
 		"czech": "Otevřít adresář snímků",
+		"romanian": "Deschide dosarul cu capturile de ecran",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -2185,6 +2331,7 @@
 		"italian": "Mostra FPS",
 		"polish": "Pokaż FPS",
 		"czech": "Zobrazit FPS",
+		"romanian": "Afișează FPS",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -2202,6 +2349,7 @@
 		"italian": "Tasto sinistro del mouse",
 		"polish": "Lewy przycisk myszy",
 		"czech": "Levé tlačítko myši",
+		"romanian": "Butonul din stânga al mausului",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -2219,6 +2367,7 @@
 		"italian": "Tasto destro del mouse",
 		"polish": "Prawy przycisk myszy",
 		"czech": "Pravé tlačítko myši",
+		"romanian": "Butonul din dreapta al mausului",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -2236,6 +2385,7 @@
 		"italian": "Tasto centrale del mouse",
 		"polish": "Środkowy przycisk myszy",
 		"czech": "Prostřední tlačítko myši",
+		"romanian": "Butonul din mijloc al mausului",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -2253,6 +2403,7 @@
 		"italian": "Spazio",
 		"polish": "Spacja",
 		"czech": "Mezerník",
+		"romanian": "Spațiu",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -2269,6 +2420,7 @@
 		"korean": "Shift (왼쪽)",
 		"italian": "Shift (sinistro)",
 		"czech": "Shift (levý)",
+		"romanian": "Shift (stânga)",
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
@@ -2285,6 +2437,7 @@
 		"korean": "Shift (오른쪽)",
 		"italian": "Shift (destro)",
 		"czech": "Shift (pravý)",
+		"romanian": "Shift (dreapta)",
 	},
 	"key_LeftAlt": {
 		"english": "Alt (left)",
@@ -2301,6 +2454,7 @@
 		"korean": "Alt (왼쪽)",
 		"italian": "Alt (sinistro)",
 		"czech": "Alt (levý)",
+		"romanian": "Alt (stânga)",
 	},
 	"key_RightAlt": {
 		"english": "Alt (right)",
@@ -2317,6 +2471,7 @@
 		"korean": "Alt (오른쪽)",
 		"italian": "Alt (destro)",
 		"czech": "Alt (pravý)",
+		"romanian": "Alt (dreapta)",
 	},
 	"key_LeftControl": {
 		"english": "Control (left)",
@@ -2333,6 +2488,7 @@
 		"korean": "Ctrl (왼쪽)",
 		"italian": "Ctrl (sinistro)",
 		"czech": "Ctrl (levý)",
+		"romanian": "Ctrl (stânga)",
 	},
 	"key_RightControl": {
 		"english": "Control (right)",
@@ -2349,6 +2505,7 @@
 		"korean": "Ctrl (오른쪽)",
 		"italian": "Ctrl (destro)",
 		"czech": "Ctrl (pravý)",
+		"romanian": "Ctrl (dreapta)",
 	},
 	"key_CapsLock": {
 		"english": "Caps Lock",
@@ -2366,6 +2523,7 @@
 		"italian": "Bloc maiusc",
 		"polish": "CapsLock",
 		"czech": "Capslock",
+		"romanian": "Caps Lock",
 	},
 
 
@@ -2386,6 +2544,7 @@
 		"italian": "Partita terminata!",
 		"polish": "Koniec gry!",
 		"czech": "Konec hry!",
+		"romanian": "Joc încheiat!",
 	},
 	"backToMainMenu": {
 		"english": "Back to the Main Menu",
@@ -2403,6 +2562,7 @@
 		"italian": "Torna al menu principale",
 		"polish": "Wróć do menu",
 		"czech": "Vrátit se do hlavního menu",
+		"romanian": "Înapoi la meniul principal",
 	},
 	"yourColonyHasPerished": {
 		"english": "Your Colony has perished!",
@@ -2420,6 +2580,7 @@
 		"italian": "La tua colonia è distrutta!",
 		"polish": "Twoja kolonia przestała istnieć!",
 		"czech": "Vaše kolonie vymřela!",
+		"romanian": "Colonia ta a pierit!",
 	},
 	"totalPlayTime": {
 		"english": "Total Play Time",
@@ -2437,6 +2598,7 @@
 		"italian": "Tempo di gioco complessivo",
 		"polish": "Czas gry",
 		"czech": "Celkový čas hry",
+		"romanian": "Timp total de joc",
 	},
 	"averageHappiness": {
 		"english": "Average Happiness",
@@ -2454,6 +2616,7 @@
 		"italian": "Felicità media",
 		"polish": "Średnia szczęścia",
 		"czech": "Průměrná spokojenost",
+		"romanian": "Fericire medie",
 	},
 	"totalResearchCollected": {
 		"english": "Research collected",
@@ -2471,6 +2634,7 @@
 		"italian": "Ricerche effettuate",
 		"polish": "Zdobyte ulepszenia",
 		"czech": "Získaná vylepšení",
+		"romanian": "Cercetări acumulate",
 	},
 	//TODO-dutch: Tikigoblins -> Enemies
 	//TODO-ukrainian: Tikigoblins -> Enemies
@@ -2496,6 +2660,7 @@
 		"italian": "Nemici uccisi",
 		"polish": "Zabite gobliny",
 		"czech": "Zabitých Tikigoblinů",
+		"romanian": "Dușmani uciși",
 	},
 	"maxNumberOfColonists": {
 		"english": "Max. Number of Colonists",
@@ -2513,6 +2678,7 @@
 		"italian": "Numero massimo di coloni",
 		"polish": "Liczba kolonistów",
 		"czech": "Maximální počet kolonistů",
+		"romanian": "Numărul maxim de coloniști",
 	},
 	"uiStepBack": {
 		"english": "Back",
@@ -2530,6 +2696,7 @@
 		"italian": "Indietro",
 		"polish": "Wróć",
 		"czech": "Zpět",
+		"romanian": "Înapoi",
 	},
 
 
@@ -2550,6 +2717,7 @@
 		"italian": "Avvia partita",
 		"polish": "Start gry",
 		"czech": "Začít hru",
+		"romanian": "Începe jocul",
 	},
 	"selectStartingColonists": {
 		"english": "Select Starting Colonists",
@@ -2567,6 +2735,7 @@
 		"italian": "Seleziona i coloni iniziali",
 		"polish": "Wybierz początkowych kolonistów",
 		"czech": "Vyberte počáteční kolonisty",
+		"romanian": "Selectați coloniștii inițiali",
 	},
 	"randomColonist": {
 		"english": "Random Colonist",
@@ -2584,6 +2753,7 @@
 		"italian": "Colono casuale",
 		"polish": "Wylosuj",
 		"czech": "Náhodný kolonista",
+		"romanian": "Colonist aleatoriu",
 	},
 	"selectDifficulty": {
 		"english": "Select Difficulty",
@@ -2601,6 +2771,7 @@
 		"italian": "Seleziona la difficoltà",
 		"polish": "Wybierz poziom trudności",
 		"czech": "Vyberte obtížnost",
+		"romanian": "Selectați dificultatea",
 	},
 	"difficulty_0_Title": {
 		"english": "Calm World",
@@ -2618,6 +2789,7 @@
 		"italian": "Mondo pacifico",
 		"polish": "Spokojny",
 		"czech": "Poklidný svět",
+		"romanian": "Lume liniștită",
 	},
 	"difficulty_0_Desc": {
 		"english": "A more relaxing experience if you prefer creative base building over combat and survival.\nYour colonists take only half damage from all kinds of injuries.\nThe colony starts with 80 meals, colonists need less food, and can survive on smaller food rations.\nWatered plants yield higher harvests.\nYour colonists will still die if you don't take care of them!",
@@ -2635,6 +2807,7 @@
 		"italian": "Un'esperienza più rilassante se preferisci la costruzione di basi rispetto al combattimento e alla sopravvivenza.\nI tuoi coloni subiscono solo la metà dei danni causati dalle lesioni.\nLa colonia parte con 80 pasti. I coloni hanno bisogno di meno cibo e possono sopravvivere con razioni alimentari più piccole.\nLe piante irrigate producono raccolti più abbondanti.\nI tuoi coloni moriranno comunque se non ti prenderai cura di loro!",
 		"polish": "Bardziej relaksujący tryb rozgrywki dla graczy któzy preferują kreatywne budowanie i przetrwanie zamiast walki.\nKoloniście są bardziej wytrwali i potrzebują mniejszych racji żywnościowych.\nKolonia rozpoczyna z 80 porcjami jedzenia.\nPodlane grządki dają lepsze plony.\nMimo to nadal musisz opiekować się swoimi kolonistami!",
 		"czech": "Více odpočinkový zážitek, pokud máte raději kreativní budování základny místo bojů s nepřáteli a bojem přežití.\nVaši kolonisté utrpí pouze poloviční poškození z jakéhokoliv zranění.\nKolonie začíná s 80 jídly, kolonisté potřebují méně jíst a mohou přežít s menšími porcemi.\nZavlažené rostliny produkují vyšší výnosy.\nVaši kolonisté mohou stále zemřít, pokud se o ně nebudete starat!",
+		"romanian": "O experiență mai relaxantă dacă preferați construirea creativă a bazelor decât lupta și supraviețuirea.\nColoniștii dvs. nu suferă decât jumătate din daunele cauzate de toate tipurile de răni.\nColonia începe cu 80 buc. de mâncare, coloniștii au nevoie de mai puțină hrană și pot supraviețui cu rații alimentare mai mici.\nPlantele udate produc recolte mai mari.\nColoniștii dvs. vor muri dacă nu aveți grijă de ei.",
 	},
 	"difficulty_1_Title": {
 		"english": "Exciting World",
@@ -2652,6 +2825,7 @@
 		"italian": "Mondo esaltante",
 		"polish": "Ekscytujący",
 		"czech": "Vzrušující svět",
+		"romanian": "Lume captivantă",
 	},
 	"difficulty_1_Desc": {
 		"english": "The typical Founders' Fortune experience, mixing base building with survival.\nThe colony starts with 40 meals.\nSometimes colonists may die even though you try your best.",
@@ -2669,6 +2843,7 @@
 		"italian": "La tipica esperienza su Founders' Fortune, una combinazione tra costruzione di basi e sopravvivenza.\nLa colonia parte con 40 pasti.\nA volte i coloni moriranno anche se cerchi di fare del tuo meglio.",
 		"polish": "Typowe doświadczenie które łączy w sobie budowanie, przetrwanie i walkę.\nKolonia rozpoczyna z 40 posiłkami.\nMoże się zdarzyć, że ktoś umrze z błachego powodu.",
 		"czech": "Typický Founders' Fortune zážitek, vyvážené budování základny a boj.\nKolonie začíná se 40 jídly.\nNěkdy mohou kolonisté zemřít ať se budete snažit jakkoliv.",
+		"romanian": "Experiență tipică de Founders' Fortune, o combinație între construirea bazelor și supraviețuire.\nColonia începe cu 40 buc. de mâncare.\nUneori, coloniștii pot muri chiar dacă încercați tot posibilul.",
 	},
 	"difficulty_2_Title": {
 		"english": "Dangerous World",
@@ -2686,6 +2861,7 @@
 		"italian": "Mondo pericoloso",
 		"polish": "Niebezpieczny",
 		"czech": "Nebezpečný svět",
+		"romanian": "Lume periculoasă",
 	},
 	"difficulty_2_Desc": {
 		"english": "The world is a harsh place, so good luck trying to survive with fragile little colonists.\nYour colonists take 50% more damage from all kinds of injuries.\nThe colony starts with 10 meals and colonists get hungry more quickly.\nCatastrophes happen more often.\nA challenge for veteran players.",
@@ -2703,6 +2879,7 @@
 		"italian": "Il mondo è un posto crudele, perciò buona fortuna nel cercare di sopravvivere con dei piccoli e fragili coloni.\nI tuoi coloni subiscono il 50% in più di danni causati dalle lesioni.\nLa colonia parte con 10 pasti e i coloni diventano affamati più velocemente.\nLe catastrofi si verificano più spesso.\nUna sfida per i giocatori veterani.",
 		"polish": "Świat to okrutne miejsce, więc życzę powodzenia w utrzymaniu tych biednych kolonistów.\nKoloniści są mniej odporni niż zwykle i szybciej stają się głodni.\nKolonia rozpoczyna z 10 posiłkami.\nKatastrofy zdarzają się częściej.\nTo wyzwanie dla wytrawnych graczy.",
 		"czech": "Svět je drsné místo, takže hodně štěstí při snaze o přežití s vašimi malými křehkými kolonisty.\nVaši kolonisté obdrží o 50% více poškození z jakéhokoliv zranění.\nKolonie začíná s 10 jídly a kolonisté maji častěji hlad.\nKatastrofy se dějí častěji.\nVýzva pro ostřílené hráče.",
+		"romanian": "Lumea este un loc dur, deci mult noroc încercând să supraviețuiți cu mici coloniști fragili.\nColoniștii dvs. suferă cu 50% mai multe daune cauzate de toate tipurile de răni.\nColonia începe cu 10 buc. de mâncare și coloniștii se înfometează mai repede.\nCatastrofele se întâmplă mai des.\nO provocare pentru jucătorii veterani.",
 	},
 	"continue": {
 		"english": "Continue",
@@ -2720,6 +2897,7 @@
 		"italian": "Continua",
 		"polish": "Kontynuuj",
 		"czech": "Pokračovat",
+		"romanian": "Continuă",
 	},
 	"add": {
 		"english": "Add",
@@ -2737,6 +2915,7 @@
 		"italian": "Aggiungi",
 		"polish": "Dodaj",
 		"czech": "Přidat",
+		"romanian": "Adaugă",
 	},
 	"remove": {
 		"english": "Remove",
@@ -2754,6 +2933,7 @@
 		"italian": "Rimuovi",
 		"polish": "Usuń",
 		"czech": "Odstranit",
+		"romanian": "Elimină",
 	},
 	"select": {
 		"english": "Select",
@@ -2771,6 +2951,7 @@
 		"italian": "Seleziona",
 		"polish": "Wybierz",
 		"czech": "Vybrat",
+		"romanian": "Selectează",
 	},
 	"unableToLoadSaveFile": {
 		"english": "Unable to load save file",
@@ -2788,6 +2969,7 @@
 		"italian": "Impossibile caricare il salvataggio",
 		"polish": "Nie udało się wczytać gry",
 		"czech": "Nepodařilo se načíst uloženou hru",
+		"romanian": "Imposibil de încărcat fișierul salvat",
 	},
 	"unableToLoadSaveFileText": {
 		"english": "The game could not read your save file. Sorry!\nPlease try again first. If it keeps happening, send your save file to daniel@foundersfortune.com so I can investigate the error and try to get a fix into the next update.\nThanks for your help!",
@@ -2804,5 +2986,6 @@
 		"korean": "세이브 파일을 읽을 수 없습니다. 죄송해요!\n일단 다시 시도해보세요. 증상이 반복된다면, 세이브 파일을 daniel@foundersfortune.com 으로 보내주세요. 제가 조사해보고 다음 업데이트땐 이런 일이 없도록 고치려고 노력해볼게요.\n도움을 주셔서 고맙습니다!",
 		"italian": "Il gioco non riesce a leggere il tuo salvataggio. Ci dispiace!\nTenta di nuovo. Se l'errore permane, invia il tuo salvataggio a daniel@foundersfortune.com in modo da darci la possibilità di investigare sull'errore e di provare a sistemare le cose nel prossimo aggiornamento.\nGrazie per il tuo aiuto!",
 		"czech": "Pardon! Hra nemohla přečíst soubor uložené hry.\nZkuste to prosím znovu, pokud problém přetrvává zašlete soubor s uloženou hrou na daniel@foundersfortune.com, abych mohl zjistit kde se stala chyba a mohl jí opravit při příští aktualizaci.\nDěkuji za vaši pomoc!",
+		"romanian": "Jocul nu a putut citi fișierul dvs. de salvare. Ne pare rău!\nÎncercați din nou mai întâi. Dacă se întâmplă în continuare, trimiteți fișierul dvs. de salvare la daniel@foundersfortune.com ca să pot investiga eroarea și să încerc să o remediez în următoarea actualizare.\nMulțumesc pentru ajutor!",
 	}
 }

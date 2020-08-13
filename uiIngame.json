@@ -13,6 +13,7 @@
 		"italian": "Max:",
 		"turkish": "Maks:",
 		"czech": "Max:",
+		"romanian": "Max:",
 	},
 	"year_no": {
 		"english": "Year %year%",
@@ -26,6 +27,7 @@
 		"turkish": "Yıl %year%",
 		"polish": "Rok %year%",
 		"czech": "Rok %year%",
+		"romanian": "Anul %year%",
 	},
 	"quest_log": {
 		"english": "Quest Log",
@@ -39,6 +41,7 @@
 		"turkish": "Görev günlüğü",
 		"polish": "Dziennik Misji",
 		"czech": "Seznam úkolů",
+		"romanian": "Jurnalul de misiuni",
 	},
 	"quest_accept": {
 		"english": "Accept",
@@ -49,6 +52,7 @@
 		"russian": "Принять",
 		"portuguese": "Aceitar",
 		"turkish": "Kabul et",
+		"romanian": "Acceptă",
 	},
 	"quest_decline": {
 		"english": "Decline",
@@ -59,6 +63,7 @@
 		"russian": "Отклонить",
 		"portuguese": "Declínio",
 		"turkish": "Reddet",
+		"romanian": "Refuză",
 	},
 	"quest_item_confirm": {
 		"english": "Confirm",
@@ -69,6 +74,7 @@
 		"russian": "Подтвердить",
 		"portuguese": "confirme",
 		"turkish": "Kabul",
+		"romanian": "Confirmă",
 	},
 	"research": {
 		"english": "Research",
@@ -87,6 +93,7 @@
 		"italian": "Ricerca",
 		"bulgarian": "Изследване",
 		"czech": "Výzkum",
+		"romanian": "Cercetare",
 	},
 	"researchOverview": {
 		"english": "Research Overview",
@@ -105,6 +112,7 @@
 		"italian": "Panoramica ricerche",
 		"bulgarian": "Преглед на изследванията",
 		"czech": "Přehled výzkumu",
+		"romanian": "Prezentare generală a cercetării",
 	},
 	"nothingUnlocked": {
 		"english": "Nothing unlocked.",
@@ -123,6 +131,7 @@
 		"italian": "Nulla sbloccato.",
 		"bulgarian": "Нищо не е отключено.",
 		"czech": "Nic neodemčeno.",
+		"romanian": "Nimic deblocat.",
 	},
 	"unlockedObjects": {
 		"english": "Unlocked Objects:",
@@ -141,6 +150,7 @@
 		"italian": "Oggetti sbloccati:",
 		"bulgarian": "Отключени обекти:",
 		"czech": "Odemknuté položky:",
+		"romanian": "Obiecte deblocate:",
 	},
 
 
@@ -160,6 +170,7 @@
 		"bulgarian": "Дипломация",
 		"polish": "Dyplomacja",
 		"czech": "Diplomacie",
+		"romanian": "Diplomație",
 	},
 	"showOnMap": {
 		"english": "Show Location",
@@ -176,6 +187,7 @@
 		"bulgarian": "Показване на местоположението",
 		"polish": "Pokaż na mapie",
 		"czech": "Zobrazit na mapě",
+		"romanian": "Afișează locația",
 	},
 	"contactFaction": {
 		"english": "Contact",
@@ -192,6 +204,7 @@
 		"bulgarian": "Контакт",
 		"polish": "Skontaktuj się",
 		"czech": "Kontaktovat",
+		"romanian": "Contactează",
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
@@ -208,6 +221,7 @@
 		"bulgarian": "Точки за връзка:",
 		"polish": "Punkty relacji:",
 		"czech": "Body vztahů:",
+		"romanian": "Puncte de relație",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -224,6 +238,7 @@
 		"bulgarian": "макс",
 		"polish": "maks.",
 		"czech": "max.",
+		"romanian": "max",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
@@ -240,6 +255,7 @@
 		"bulgarian": "Неутрални отношения",
 		"polish": "Neutralne relacje",
 		"czech": "Neutrální vztahy",
+		"romanian": "Relații neutre",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
@@ -256,6 +272,7 @@
 		"bulgarian": "Примирие (%seconds% сек.)",
 		"polish": "Pokój (%seconds% sek.)",
 		"czech": "Příměří (%seconds% s)",
+		"romanian": "Armistițiu (%seconds% s)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
@@ -272,6 +289,7 @@
 		"bulgarian": "Ще атакува на място",
 		"polish": "Agresywni",
 		"czech": "Zaútočí na potkání",
+		"romanian": "Va ataca la vedere",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -288,6 +306,7 @@
 		"bulgarian": "Обтегнати отношения",
 		"polish": "Napięte relacje",
 		"czech": "Napjaté vztahy",
+		"romanian": "Relații tensionate",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
@@ -304,6 +323,7 @@
 		"bulgarian": "Приятелски отношения",
 		"polish": "Przyjazne relacje",
 		"czech": "Přátelské vztahy",
+		"romanian": "Relații de prietenie",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
@@ -320,6 +340,7 @@
 		"bulgarian": "Приятелски, ако връзката е над %friendlyLimit%.\nАтакувайте на място, ако връзката е под %attackingLimit%.",
 		"polish": "Przyjaźni, jeśli relacje osiągną ponad %friendlyLimit%. \nAtakują w przypadku ujrzenia kolonisty, jeśli relacje są poniżej %attackingLimit%.",
 		"czech": "Přátelské, pokud jsou vztahy přes %friendlyLimit%.\nZaútočí na potkání pokud jsou vzahy méně než %attackingLimit%.",
+		"romanian": "Prietenos dacă relațiile depășesc %friendlyLimit%.\nAtacă la vedere dacă relațiile sunt sub %attackingLimit%.",
 	},
 	"switchFloors": {
 		"english": "Switch Floors",
@@ -334,6 +355,7 @@
 		"italian": "Cambia piano",
 		"turkish": "Katları değiştir",
 		"czech": "Přepnutí podlaží",
+		"romanian": "Schimbă etajele",
 	},
 	"switchFloorsDescription": {
 		"english": "Click here to switch to a different floor.\nDefault hotkeys: R/F",
@@ -348,6 +370,7 @@
 		"italian": "Clicca qui per passare ad un piano differente.\nTasti di scelta rapida predefiniti: R/F",
 		"turkish": "Başka bir kata geçmek için buraya tıkla.\nVarsayılan tuşlar: R/F",
 		"czech": "Klikněte zde pro přepnutí do jiného podlaží.\nVýchozí klávesy: R/F",
+		"romanian": "Clicați aici pentru a trece la un alt etaj.\nComenzi rapide implicite: R/F",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
@@ -362,6 +385,7 @@
 		"italian": "Costruire al piano %floor% costa il %percentage%% in più.",
 		"turkish": "%floor% katında inşaatın maaliyeti %percentage%% daha fazla.",
 		"czech": "Stavba na podlaží %floor% stojí o %percentage%% více.",
+		"romanian": "Construcția la etajul %floor% costă cu %percentage%% mai mult.",
 	},
 
 
@@ -383,6 +407,7 @@
 		"italian": "Umore",
 		"bulgarian": "Настроение",
 		"czech": "Nálada",
+		"romanian": "Dispoziție",
 	},
 	"friendships": {
 		"english": "Friendships",
@@ -401,6 +426,7 @@
 		"italian": "Socialità",
 		"bulgarian": "Приятелства",
 		"czech": "Vztahy",
+		"romanian": "Prietenie",
 	},
 	"hunger": {
 		"english": "Hunger",
@@ -419,6 +445,7 @@
 		"italian": "Fame",
 		"bulgarian": "Глад",
 		"czech": "Hlad",
+		"romanian": "Foame",
 	},
 	"stamina": {
 		"english": "Stamina",
@@ -437,6 +464,7 @@
 		"italian": "Energia",
 		"bulgarian": "Енергия",
 		"czech": "Energie",
+		"romanian": "Rezistență",
 	},
 	"health": {
 		"english": "Health",
@@ -455,6 +483,7 @@
 		"italian": "Salute",
 		"bulgarian": "Здраве",
 		"czech": "Zdraví",
+		"romanian": "Sănătate",
 	},
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -473,6 +502,7 @@
 		"italian": "Se non rendi felici i tuoi coloni, inizieranno ad essere sprezzanti e potrebbero smettere di seguire i tuoi ordini.",
 		"bulgarian": "Ако не поддържате доброто настроение на заселниците, те може да пламнат и да спрат да следват вашите команди.",
 		"czech": "Pokud nebudete udržovat své kolonisty šťastné, mohou začít vzdorovat a možná přestanou poslouchat vaše příkazy.",
+		"romanian": "Dacă nu vă mențineți coloniștii fericiți, vor începe să fie sfidători și s-ar putea să nu vă mai urmeze ordinele dvs.",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -491,6 +521,7 @@
 		"italian": "Questo bisogno non è stato ancora completamente implementato nel gioco.",
 		"bulgarian": "Тази нужда все още не е напълно включена в играта.",
 		"czech": "Tato potřeba zatím nebyla do hry plně implementována.",
+		"romanian": "Această nevoie nu a fost încă pe deplin inclusă în joc.",
 	},
 	"needsDescriptionHunger": {
 		"english": "Gather apples or plant crops to take care of food.",

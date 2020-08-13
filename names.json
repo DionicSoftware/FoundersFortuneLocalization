@@ -10,6 +10,7 @@
 		"dutch": "%firstName% %lastName%",
 		"chinese": "%firstName% %lastName%",
 		"italian": "%firstName% %lastName%",
+		"romanian": "%firstName% %lastName%",
 	},
 	"customNameSheep": { // you can use gendered expressions here if you add it to the genderDictionary
 		"english": "%name% the Sheep",
@@ -50,6 +51,7 @@
 		"italian": "Pecora",
 		"russian":  "Овца",
 		"portuguese": "Ovelha",
+		"romanian": "Oaie",
 	},
 	"animal_sheep_Plural":  { // in some languages plural and singular are the same
 		"english": "Sheep",
@@ -59,6 +61,7 @@
 		"italian": "Pecore",
 		"russian":  "Овцы",
 		"portuguese": "Carneiro",
+		"romanian": "Oi",
 	},
 	"animalDesc_sheep":  {
 		"english": "Sheep are good alrounders to keep your economy going. They can provide you with wool, but only a small amount of meat.",
@@ -77,6 +80,7 @@
 		"italian": "Mucca",
 		"russian":  "Корова",
 		"portuguese": "Vaca",
+		"romanian": "Vacă",
 	},
 	"animal_cow_Plural":  {
 		"english": "Cows",
@@ -86,6 +90,7 @@
 		"italian": "Mucche",
 		"russian":  "Коровы",
 		"portuguese": "Vacas",
+		"romanian": "Vaci",
 	},
 	"animalDesc_cow":  {
 		"english": "Cows are more difficult to tame and they take longer to grow up. But it's worth it: They can provide you with milk and a large amount of meat.",
@@ -104,6 +109,7 @@
 		"italian": "Maiale",
 		"russian":  "Свинья",
 		"portuguese": "Porco",
+		"romanian": "Porc",
 	},
 	"animal_pig_Plural":  {
 		"english": "Pigs",
@@ -113,6 +119,7 @@
 		"italian": "Maiali",
 		"russian":  "Свиньи",
 		"portuguese": "Porcos",
+		"romanian": "Porci",
 	},
 	"animalDesc_pig":  {
 		"english": "Pigs grow up quickly and provide you with a large amount of meat. The ultimate solution to keep your villagers fed!",
@@ -143,6 +150,7 @@
 		"polish": "Abraham",
 		"chinese": "亚伯拉罕",
 		"italian": "Abraham",
+		"romanian": "Avram",
 	},
 	"wilhelmMaleName_2": {
 		"english": "Adam",
@@ -159,6 +167,7 @@
 		"polish": "Adam",
 		"chinese": "亚当",
 		"italian": "Adam",
+		"romanian": "Adam",
 	},
 	"wilhelmMaleName_3": {
 		"english": "Albert",
@@ -175,6 +184,7 @@
 		"polish": "Albert",
 		"chinese": "艾伯特",
 		"italian": "Albert",
+		"romanian": "Albert",
 	},
 	"wilhelmMaleName_4": {
 		"english": "Alex",
@@ -191,6 +201,7 @@
 		"polish": "Aleks",
 		"chinese": "亚历克斯",
 		"italian": "Alex",
+		"romanian": "Alex",
 	},
 	"wilhelmMaleName_5": {
 		"english": "Alexander",
@@ -207,6 +218,7 @@
 		"polish": "Aleksander",
 		"chinese": "亚历山大",
 		"italian": "Alexander",
+		"romanian": "Alexandru",
 	},
 	"wilhelmMaleName_6": {
 		"english": "Andreas",
@@ -223,6 +235,7 @@
 		"polish": "Andrzej",
 		"chinese": "安德里亚斯",
 		"italian": "Andreas",
+		"romanian": "Andrei",
 	},
 	"wilhelmMaleName_7": {
 		"english": "Anton",
@@ -239,6 +252,7 @@
 		"polish": "Antek",
 		"chinese": "安东",
 		"italian": "Anton",
+		"romanian": "Anton",
 	},
 	"wilhelmMaleName_8": {
 		"english": "Antonius",
@@ -255,6 +269,7 @@
 		"polish": "Antoni",
 		"chinese": "安东尼",
 		"italian": "Antonius",
+		"romanian": "Antoniu",
 	},
 	"wilhelmMaleName_9": {
 		"english": "Archibald",
@@ -271,6 +286,7 @@
 		"polish": "Archibald",
 		"chinese": "阿奇博尔德",
 		"italian": "Archibald",
+		"romanian": "Aurel",
 	},
 	"wilhelmMaleName_10": {
 		"english": "Armin",
@@ -287,6 +303,7 @@
 		"polish": "Armin",
 		"chinese": "阿米",
 		"italian": "Armin",
+		"romanian": "Alin",
 	},
 	"wilhelmMaleName_11": {
 		"english": "August",
@@ -303,6 +320,7 @@
 		"polish": "August",
 		"chinese": "奥古斯特",
 		"italian": "August",
+		"romanian": "Augustin",
 	},
 	"wilhelmMaleName_12": {
 		"english": "Ben",
@@ -1604,6 +1622,7 @@
 		"polish": "Andrzeja",
 		"chinese": "安德莉亚",
 		"italian": "Andrea",
+		"romanian": "Andreea",
 	},
 	"wilhelmFemaleName_2": {
 		"english": "Agathe",
@@ -1620,6 +1639,7 @@
 		"polish": "Agata",
 		"chinese": "阿加特",
 		"italian": "Agathe",
+		"romanian": "Agata",
 	},
 	"wilhelmFemaleName_3": {
 		"english": "Angelika",
@@ -1636,6 +1656,7 @@
 		"polish": "Angelika",
 		"chinese": "安格莉卡",
 		"italian": "Angelika",
+		"romanian": "Angelica",
 	},
 	"wilhelmFemaleName_4": {
 		"english": "Agnes",
@@ -1652,6 +1673,7 @@
 		"polish": "Agnieszka",
 		"chinese": "艾格尼丝",
 		"italian": "Agnes",
+		"romanian": "Anca",
 	},
 	"wilhelmFemaleName_5": {
 		"english": "Alexandra",
@@ -1668,6 +1690,7 @@
 		"polish": "Aleksandra",
 		"chinese": "亚历山德拉",
 		"italian": "Alexandra",
+		"romanian": "Alexandra",
 	},
 	"wilhelmFemaleName_6": {
 		"english": "Amalia",
@@ -1684,6 +1707,7 @@
 		"polish": "Amelia",
 		"chinese": "阿玛莉亚",
 		"italian": "Amalia",
+		"romanian": "Amalia",
 	},
 	"wilhelmFemaleName_7": {
 		"english": "Amelie",
@@ -1700,6 +1724,7 @@
 		"polish": "Alicja",
 		"chinese": "阿茉莉",
 		"italian": "Amelie",
+		"romanian": "Amelia",
 	},
 	"wilhelmFemaleName_8": {
 		"english": "Anita",
@@ -1716,6 +1741,7 @@
 		"polish": "Anita",
 		"chinese": "安尼塔",
 		"italian": "Anita",
+		"romanian": "Aneta",
 	},
 	"wilhelmFemaleName_9": {
 		"english": "Anna",
@@ -1732,6 +1758,7 @@
 		"polish": "Anna",
 		"chinese": "安娜",
 		"italian": "Anna",
+		"romanian": "Ana",
 	},
 	"wilhelmFemaleName_10": {
 		"english": "Anneliese",
@@ -1748,6 +1775,7 @@
 		"polish": "Aldona",
 		"chinese": "安娜丽丝",
 		"italian": "Anneliese",
+		"romanian": "Anabela",
 	},
 	"wilhelmFemaleName_11": {
 		"english": "Annika",
@@ -1764,6 +1792,7 @@
 		"polish": "Aurelia",
 		"chinese": "安妮卡",
 		"italian": "Annika",
+		"romanian": "Anica",
 	},
 	"wilhelmFemaleName_12": {
 		"english": "Antonia",
@@ -1780,6 +1809,7 @@
 		"polish": "Antonina",
 		"chinese": "安东尼娅",
 		"italian": "Antonia",
+		"romanian": "Antonia",
 	},
 	"wilhelmFemaleName_13": {
 		"english": "Barbara",
@@ -4552,6 +4582,7 @@
 		"dutch": "Het Handelsgilde",
 		"italian": "La gilda dei mercanti",
 		"chinese": "商人公会",
+		"romanian": "Ghilda negustorilor",
 	},
 	"captainsPirates": {
 		"english": "Captain %name%'s Pirates",

@@ -589,6 +589,7 @@
 		"russian": "Приручение",
 		"portuguese": "Domar",
 		"turkish": "Uysallık",
+		"romanian": "Îmblânzire",
 	},
 	"needsDescriptionTameness": {
 		"english": "Once you managed to tame a wild animal, you need to care for it from time to time in order to keep it tame. The white line shows when the animal will become wild again.",
@@ -599,6 +600,7 @@
 		"russian": "После того, как вам удалось приручить дикое животное, вам нужно время от времени заботиться о нем, чтобы сохранить его. Белая линия показывает, когда животное снова станет диким.",
 		"portuguese": "Depois de domesticar um animal selvagem, você precisa cuidar dele de tempos em tempos para mantê-lo doméstico. A linha branca mostra quando o animal se tornará selvagem novamente.",
 		"turkish": "Vahşi bir hayvanı uysallaştırdıktan sonra, bu uysallığı korumak için zaman zaman ona bakmanız lazım. Beyaz çizgi vahşileşme gelişimini gösterir.",
+		"romanian": "După ce ați reușit să îmblânziți un animal sălbatic, trebuie să aveți grijă de el din când în când pentru a-l păstra îmblânzit. Linia albă arată când animalul va deveni din nou sălbatic.",
 	},
 	"humanWillGrowUpInDays": {
 		"english": "%firstName% will grow up in %days% days",
@@ -612,6 +614,7 @@
 		"turkish": "%firstName%, %days% günde büyüyecek",
 		"polish": "%firstName% dorośnie za %days% dni",
 		"czech": "%firstName% vyroste za %days% dní",
+		"romanian": "%firstName% va crește peste %days% zile",
 	},
 	"humanWillGetOldInDays": {
 		"english": "%firstName% will get old in %days% days",
@@ -625,6 +628,7 @@
 		"turkish": "%firstName%, %days% günde yaşlanacak",
 		"polish": "%firstName% zestarzeje się za %days% dni",
 		"czech": "%firstName% zestárne za %days% dní",
+		"romanian": "%firstName% va îmbătrâni peste %days% zile",
 	},
 	"humanWillPassAwayInDays": {
 		"english": "%firstName% will pass away in %days% days",
@@ -638,6 +642,7 @@
 		"turkish": "%firstName%, %days% günde ölecek",
 		"polish": "%firstName% umrze za %days% dni",
 		"czech": "%firstName% zemře za %days% dní",
+		"romanian": "%firstName% va muri peste %days% zile",
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -656,6 +661,7 @@
 		"italian": "Razioni di cibo",
 		"bulgarian": "Хранителни дажби",
 		"czech": "Příděly jídla",
+		"romanian": "Rațiile alimentare",
 		
 	},
 	"thoughts": {
@@ -675,6 +681,7 @@
 		"italian": "Pensieri",
 		"bulgarian": "Мисли",
 		"czech": "Myšlenky",
+		"romanian": "Gânduri",
 		
 	},
 	"personality": {
@@ -694,6 +701,7 @@
 		"italian": "Personalità",
 		"bulgarian": "Индивидуалност",
 		"czech": "Osobnost",
+		"romanian": "Personalitate",
 	},
 	"saveChanges": {
 		"english": "Save Changes",
@@ -712,6 +720,7 @@
 		"italian": "Salva cambiamenti",
 		"bulgarian": "Запазите промените",
 		"czech": "Uložit změny",
+		"romanian": "Salvează modificările",
 	},
 	"name": {
 		"english": "Name",
@@ -730,6 +739,7 @@
 		"italian": "Nome",
 		"bulgarian": "Име",
 		"czech": "Jméno",
+		"romanian": "Nume",
 	},
 	"experience": {
 		"english": "Experience",
@@ -748,6 +758,7 @@
 		"italian": "Esperienza",
 		"bulgarian": "Опит",
 		"czech": "Zkušenosti",
+		"romanian": "Experiență",
 	},
 	"skills": {
 		"english": "Skills",
@@ -761,6 +772,7 @@
 		"turkish": "Yetenekler",
 		"polish": "Umiejętności",
 		"czech": "Dovednosti",
+		"romanian": "Abilități",
 	},
 	"noProfessionalSkills": {
 		"english": "No professional skills to speak of.",
@@ -774,6 +786,7 @@
 		"turkish": "Kayda değer bir yetenek yok",
 		"polish": "Brak profesjonalnych umiejętności wartych wymienienia.",
 		"czech": "Žádné profesní dovednosti, které by stály za řeč.",
+		"romanian": "Nu există abilități profesionale de a vorbi.",
 	},
 	"view": {
 		"english": "View",
@@ -792,6 +805,7 @@
 		"italian": "Mostra",
 		"bulgarian": "Изглед",
 		"czech": "Ukázat",
+		"romanian": "Vezi",
 	},
 	"info": {
 		"english": "Info",
@@ -810,6 +824,7 @@
 		"italian": "Info",
 		"bulgarian": "Информация",
 		"czech": "Info",
+		"romanian": "Info",
 	},
 	"openWebsiteShort": {
 		"english": "Open",
@@ -828,6 +843,7 @@
 		"italian": "Apri",
 		"bulgarian": "Отворен",
 		"czech": "Otevřít",
+		"romanian": "Deschide",
 	},
 	"dismiss": {
 		"english": "Ok",
@@ -846,6 +862,7 @@
 		"italian": "Ok",
 		"bulgarian": "Добре",
 		"czech": "Ok",
+		"romanian": "Ok",
 	},
 	"chooseNewJob": {
 		"english": "Choose New Job",
@@ -864,6 +881,7 @@
 		"italian": "Scegli nuovo lavoro",
 		"bulgarian": "Изберете нова работа",
 		"czech": "Vybrat novou profesi",
+		"romanian": "Alegeți un nou loc de muncă",
 	},
 	"specialization": {
 		"english": "Specialization",
@@ -882,6 +900,7 @@
 		"italian": "Specializzazione",
 		"bulgarian": "Специализация",
 		"czech": "Specializace",
+		"romanian": "Specializare",
 	},
 	"nextLevel": {
 		"english": "Next Level",
@@ -900,6 +919,7 @@
 		"italian": "Prossimo livello",
 		"bulgarian": "Следващо ниво",
 		"czech": "Další úroveň",
+		"romanian": "Nivelul următor",
 	},
 	"experienceAcroynom": {
 		"english": "Exp",
@@ -918,6 +938,7 @@
 		"italian": "Esp",
 		"bulgarian": "Exp",
 		"czech": "Exp.",
+		"romanian": "Exp",
 	},
 	"changeProfession": {
 		"english": "Change",
@@ -936,6 +957,7 @@
 		"italian": "Cambia",
 		"bulgarian": "Промяна",
 		"czech": "Změnit",
+		"romanian": "Schimbă",
 	},
 	"promote": {
 		"english": "Promote",
@@ -954,6 +976,7 @@
 		"italian": "Promuovi",
 		"bulgarian": "Повишение",
 		"czech": "Povýšit",
+		"romanian": "Promovează",
 	},
 	"promototions_Title": {
 		"english": "Promotions",
@@ -972,6 +995,7 @@
 		"italian": "Promozioni",
 		"bulgarian": "Повишения",
 		"czech": "Povýšení",
+		"romanian": "Promoții",
 	},
 	"promototions_Desc": {
 		"english": "Once your colonists gather enough experience in their profession, you can promote them to unlock new skills",
@@ -990,6 +1014,7 @@
 		"italian": "Una volta che i tuoi coloni hanno acquisito sufficiente esperienza nella loro professione, puoi promuoverli per sbloccare nuove abilità.",
 		"bulgarian": "След като вашите колонисти съберат достатъчно опит в професията си, можете да ги повишите, за да отключите нови умения",
 		"czech": "Jakmile vaši kolonisté získají dostatek zkušeností ve svých profesích, můžete je povýšit a odemknout jim nové dovednosti.",
+		"romanian": "Odată ce coloniștii dvs. au câștigat suficientă experiență în profesia lor, îi puteți promova pentru a debloca noi abilități.",
 	},
 	"combat": {
 		"english": "Combat",
@@ -1008,6 +1033,7 @@
 		"italian": "Combatti",
 		"bulgarian": "Битка",
 		"czech": "Boj",
+		"romanian": "Luptă",
 	},
 	"equipment": {
 		"english": "Equipment",
@@ -1026,6 +1052,7 @@
 		"italian": "Equipaggiamento",
 		"bulgarian": "Оборудване",
 		"czech": "Vybavení",
+		"romanian": "Echipament",
 	},
 	"tool": {
 		"english": "Tool",
@@ -1044,6 +1071,7 @@
 		"italian": "Strumento",
 		"bulgarian": "Инструмент",
 		"czech": "Nástroj",
+		"romanian": "Instrument",
 	},
 	"clothing": {
 		"english": "Clothing",
@@ -1062,6 +1090,7 @@
 		"italian": "Abito",
 		"bulgarian": "Oблекло",
 		"czech": "Oblečení",
+		"romanian": "Îmbrăcăminte",
 	},
 	"damage": {
 		"english": "Damage",
@@ -1080,6 +1109,7 @@
 		"italian": "Danno",
 		"bulgarian": "Щета",
 		"czech": "Poškození",
+		"romanian": "Daună",
 	},
 	"protection": {
 		"english": "Protection",
@@ -1098,6 +1128,7 @@
 		"italian": "Protezione",
 		"bulgarian": "Защита",
 		"czech": "Ochrana",
+		"romanian": "Protecție",
 	},
 	"Spring": {
 		"english": "Spring",
@@ -1116,6 +1147,7 @@
 		"italian": "Primavera",
 		"bulgarian": "Пролет",
 		"czech": "Jaro",
+		"romanian": "Primăvară",
 	},
 	"Summer": {
 		"english": "Summer",
@@ -1134,6 +1166,7 @@
 		"italian": "Estate",
 		"bulgarian": "Лято",
 		"czech": "Léto",
+		"romanian": "Vară",
 	},
 	"Fall": {
 		"english": "Fall",
@@ -1152,6 +1185,7 @@
 		"italian": "Autunno",
 		"bulgarian": "Есен",
 		"czech": "Podzim",
+		"romanian": "Toamnă",
 	},
 	"Winter": {
 		"english": "Winter",
@@ -1170,6 +1204,7 @@
 		"italian": "Inverno",
 		"bulgarian": "Зима",
 		"czech": "Zima",
+		"romanian": "Iarnă",
 	},
 	"seasons": {
 		"english": "Seasons",
@@ -1188,6 +1223,7 @@
 		"italian": "Stagioni",
 		"bulgarian": "Сезони",
 		"czech": "Roční období",
+		"romanian": "Anotimpuri",
 	},
 	"seasonsDescription": {
 		"english": "This bar shows how much time is left until the seasons change.",
@@ -1206,6 +1242,7 @@
 		"italian": "Questa barra mostra quanto tempo rimane prima che la stagione cambi.",
 		"bulgarian": "Тази лента показва колко време остава до промяна на сезоните.",
 		"czech": "Tento sloupec ukazuje, kolik času zbývá do změny ročního období.",
+		"romanian": "Această bară arată cât timp mai rămâne până când se schimbă anotimpurile.",
 	},
 
 	// Growing Up Panel
@@ -1221,6 +1258,7 @@
 		"turkish": "Büyüyor",
 		"polish": "Dorastanie",
 		"czech": "Dětství",
+		"romanian": "Creștere",
 	},
 	"childhoodExperiences": {
 		"english": "Childhood Experiences",
@@ -1234,6 +1272,7 @@
 		"turkish": "Çocukluk Deneyimleri",
 		"polish": "Dziecięce Doświadczenie",
 		"czech": "Zkušenosti z dětství",
+		"romanian": "Experiențele copilăriei",
 	},
 	"childhoodHappinessTooltip_Description": {
 		"english": "Being in a good or bad mood slowly earns positive or negative childhood happiness points.\nDepending on which points are collected, the child will gain positive or negative traits on their birthday.",
@@ -1247,6 +1286,7 @@
 		"polish": "Bycie w dobrym lub złym nastroju, powoli nabija pozytywne bądź negatywne punkty dziecięcego zadowolenia. \nW zależności od tego, jakie punkty są zebrane, dziecko zdobędzie albo pozytywne, albo negatywne cechy w swoje urodziny.",
 		"czech": "Pobýváním v dobré nebo špatné náladě postupně získává pozitivní nebo negativní body štěstí.\nV závislosti na počtu nasbíraných bodů potom získá pozitivní nebo negativní vlastnosti na své narozeniny.",
 		"turkish": "Ruhsal durum yavaşça çocukluk mutluluk puanlarını etkiler.\nToplanan puanlara göre, çocuk büyüdüğünde doğum gününde iyi veya kötü karakter özellikleri kazanır.",
+		"romanian": "Fiind într-o dispoziție bună sau rea câștigă încet puncte de fericire pozitive sau negative.\nÎn funcție de ce puncte sunt colectate, copilul va câștiga trăsături pozitive sau negative de ziua lui.",
 	},
 	"childhoodEducation": {
 		"english": "Education",
@@ -1260,6 +1300,7 @@
 		"turkish": "Eğitim",
 		"polish": "Edukacja",
 		"czech": "Vzdělávání",
+		"romanian": "Educație",
 	},
 	"childhoodEducationTooltip_Description": {
 		"english": "Every Child can learn life skills at the book shelf. On their birthday, they can use these points to get a great head start in any profession.\nIf the education is stopped before a topic is fully understood and a point is earned, the progress will slowly be forgotten.",
@@ -1273,6 +1314,7 @@
 		"polish": "Każde dziecko może nauczyć się umiejętności życiowych przy półce na książki. W swoje urodziny mogą użyć tych punktów, by mieć lepszy start w swoim zawodzie. \nJeśli edukacja zostanie wstrzymana, zanim nauczany temat zostanie w pełni przyswojony i zarobi się punkt, wiedza zostanie z czasem zapomniana.",
 		"czech": "Každé dítě se může učit životní dovednosti pomocí knih v knihovně. Na jejich narozeniny pak můžou použít tyto body a získat tím výborný start v jejich budoucí profesi.\nPokud je vzdělávání přerušeno před tím, než je téma plně pochopeno a je získán bod, postup je pomalu zapomínán.",
 		"turkish": "Çocuklar kitaplıkları kullanarak yaşam becerileri edinebilirler. Doğum günlerinde, hayat puanlarını kullanarak seçecekleri mesleklerde bir adım önde başlayabilirler.\nEğitim, bir konu tamamen öğrenilmeden yarım bırakılırsa, ilerleme yavaşça unutulur.", 
+		"romanian": "Fiecare copil poate învăța abilități de viață la raftul de cărți. De ziua lor de naștere, ei pot folosi aceste puncte pentru a obține un mare avantaj în orice profesie.\nDacă educația este întreruptă înainte ca un subiect să fie înțeles pe deplin și să obțină un punct, progresul va fi uitat încet.",
 	},
 
 	// Birthday Panel (Child born)
@@ -1288,6 +1330,7 @@
 		"turkish": "Bir çocuk doğdu!",
 		"polish": "Urodziło się Dziecko!",
 		"czech": "Narodilo se dítě!",
+		"romanian": "S-a născut un copil!",
 	},
 	"childBornDescription": {
 		"english": "%parent1% and %parent2% have got a %sonDaughter%!\nOverjoyed, they are thinking about a name for the child.\n\nWhat should their %sonDaughter% be called?",
@@ -1301,6 +1344,7 @@
 		"turkish": "%parent1% ve %parent2% çiftinin bir %sonDaughter%ları oldu!\nSevinçle çocuklarına isim vermek istiyorlar.\n\nÇocuklarının adı ne olsun?",
 		"polish": "%parent1% i %parent2% mają %synaCórkę%! \nSzczęśliwi rodzice zastanawiają się nad imieniem dla dziecka.\n\nJakie imię nadać ich %synowiCórce%?",
 		"czech": "%parent1% a %parent2% mají %synaDceru%!\nŠťastní rodiče, přemýšlí jaké asi dostane jméno.\n\nJak by se %melA% jejich %synDcera% jmenovat?",
+		"romanian": "%parent1% și %parent2% au %unO% %fiuFiica%!\nFoarte fericiți, ei se gândesc la un nume pentru copil.\n\nCe nume ar trebui să aibă %fiulFiica% lor?",
 	},
 	"welcomeHuman": {
 		"english": "Welcome %firstName%!",
@@ -1314,6 +1358,7 @@
 		"turkish":  "Hoşgeldin %firstName%!",
 		"polish": "Witaj %firstName%!",
 		"czech": "Vítej %firstName%!",
+		"romanian": "Bine ai venit, %firstName%!",
 	},
 	"unnamed": { // used before player has assigned a name
 		"english": "Unnamed",
@@ -1327,6 +1372,7 @@
 		"turkish": "İsimsiz",
 		"polish": "Bezimienn%yA%",
 		"czech": "Bezejmenn%yA%",
+		"romanian": "Fără nume",
 	},
 
 	// Birthday Panel (becoming Adult)

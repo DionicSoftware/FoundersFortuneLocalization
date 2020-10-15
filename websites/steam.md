@@ -171,7 +171,7 @@ Construye tu colonia
 
 Cuando los colonos llegan, no tienen nada salvo su ropa. Toma el control y ordénales recolectar materiales y construir paredes, suelos y muebles.
 
-¡No estás limitado a edificios predefinidos! Diseña tus proprias casas y dales un estilo a tu gusto. ¡Hay docenas de elementos de construcción y mobiliario que puedes utilizar para crear la colonia que siempre soñaste!
+¡No estás limitado a edificios predefinidos! Diseña tus proprias casas y dales un estilo a tu gusto. ¡Hay docenas de elementos de construcción y mobiliario que puedes utilizar para crear la colonia de tus sueños!
 
 
 ### Turkish
@@ -270,7 +270,7 @@ Cada colono reage a eventos, felizes ou tristes, e reflete isso em seu comportam
 ### Spanish
 Cuida a tus colonos
 
-Los colonos son tu principal prioridad. Al principio, solo debes proveerlos de comida y refugio. ¡Pero el mundo está lleno de peligros! Una infección puede ser fatal para el guerrero más poderoso y una plaga puede devastar completamente tu colonia.
+Los colonos son tu principal prioridad. Al comienzo, solo debes proveerlos de comida y refugio. ¡Pero el mundo está lleno de peligros! Una infección puede ser fatal para el guerrero más poderoso y una plaga puede devastar completamente tu colonia.
 
 Cada colono reacciona a los eventos de distinta forma, y se refleja en su comportamiento. Los colonos felices recibirán un incremento en su productividad - Los colonos apenados podrían tener una crisis de rabia.
 
@@ -1207,7 +1207,7 @@ En el pasado, hemos hecho varias versiones Alfa disponibles a través de nuestro
 
 Todas las características que aparecen en el Tráiler, en las capturas de pantalla y en la sección "Acerca de este juego" ya están implementadas y son jugables.
 
-Las actualizaciones principales en Acceso Anticipado usualmente romperán la compatibilidad de los juegos guardados. Mantenemos la versión más antigua para que puedas continuar jugando en ella, pero no podrás jugar las partidad guardadas en la Alpha 9 con la versión Alpha 10, por ejemplo. Esto solo aplica mientras estemos en Acceso Anticipado.
+Las actualizaciones principales en Acceso Anticipado usualmente romperán la compatibilidad de los juegos guardados. Mantenemos la versión más antigua para que puedas continuar jugando en ella, pero, por ejemplo, no podrás jugar las partidas guardadas en la Alpha 9 con la versión Alpha 10. Esto solo aplica mientras estemos en Acceso Anticipado.
 
 //TODO-dev
 

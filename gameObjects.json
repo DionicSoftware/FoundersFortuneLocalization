@@ -13,7 +13,7 @@
 		"ukrainian":"Кошик для сирої їжі",
 		"korean": "과일 바구니",
 		"dutch": "Mand voor Rauw Eten",
-		"polish": "Kosz na surowe jedzenie",
+		"polish": "Kosz z jedzeniem",
 		"chinese": "生食篮子",
 		"italian": "Cesto per cibi crudi",
 	},
@@ -6481,7 +6481,7 @@
 		"french": "Escalier délabré",
 		"russian": "Дрянная лестница",
 		"spanish": "Escaleras de Mala Calidad",
-		"polish": "Proste schody",
+		"polish": "Proste drewniane schody",
 		"portuguese": "Escadas de má qualidade",
 		"chinese": "简陋楼梯",
 		"italian": "Scale scadenti",
@@ -6502,7 +6502,7 @@
 		"french": "Escalier décent",
 		"russian": "Приличная лестница",
 		"spanish": "Escaleras Decentes",
-		"polish": "Zwykłe schody",
+		"polish": "Drewniane schody",
 		"portuguese": "Escadas decentes",
 		"chinese": "体面楼梯",
 		"italian": "Scale decenti",
@@ -6577,7 +6577,7 @@
 		"korean": "단순한 목제 문",
 		"chinese": "简易木门",
 		"italian": "Porta di legno semplice",
-		"polish": "Drewniana framuga",
+		"polish": "Proste drewniane drzwi",
 	},
 	"doorWoodCheapDescription": {
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6616,7 +6616,7 @@
 		"korean": "단순한 목제 문",
 		"chinese": "简易木门",
 		"italian": "Porta di legno robusta",
-		"polish": "Framuga z progiem",
+		"polish": "Wzmocnione drewniane drzwi",
 	},
 	"doorWoodSturdyDescription": {
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6654,7 +6654,7 @@
 		"ukrainian":"Дерев'яні двері з орнаментом",
 		"korean": "장식된 목제 문",
 		"chinese": "装饰木门",
-		"polish": "Framuga z progiem",
+		"polish": "Nowoczesne drewniane drzwi",
 		"italian": "Porta di legno moderna",
 	},
 	"doorWoodModernDescription": {
@@ -6694,7 +6694,7 @@
 		"ukrainian":"Дерев'яні двері з орнаментом",
 		"korean": "장식된 목제 문",
 		"chinese": "装饰木门",
-		"polish": "Framuga z progiem",
+		"polish": "Nowoczesne drzwi z przeszkleniem",
 		"italian": "Porta di legno moderna con finestra",
 	},
 	"doorWoodModernWindowDescription": {
@@ -6725,6 +6725,7 @@
 		"portuguese": "Porta redonda do castelo",
 		"italian": "Porta rotonda da castello",
 		"chinese": "拱形城堡门",
+		"polish": "Zamkowe drzwi łukowe",
 	},
 	"doorStoneRoundDescription": {
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6756,6 +6757,7 @@
 		"portuguese": "Portão pequeno da paliçada",
 		"italian": "Cancello piccolo da palizzata",
 		"chinese": "小栅栏门",
+		"polish": "Brama palisady",
 	},
 	"palisadeGateSmallDescription": {
 		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
@@ -6780,6 +6782,7 @@
 		"portuguese": "Portão de paliçada coberto",
 		"italian": "Cancello coperto da palizzata",
 		"chinese": "屋顶木栅栏门",
+		"polish": "Brama palisady z zadaszeniem",
 	},
 	"palisadeGateDescription": {
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6809,6 +6812,7 @@
 		"portuguese": "Portão defensivo de madeira forte",
 		"italian": "Cancello difensivo di legno resistente",
 		"chinese": "坚固防御木门",
+		"polish": "Brama wzmocnionej zapory",
 	},
 	"woodWallDefense0GateDescription": {
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6837,6 +6841,7 @@
 		"portuguese": "Portão do castelo",
 		"italian": "Cancello da castello",
 		"chinese": "城堡门",
+		"polish": "Brama zamkowa",
 	},
 	"stoneWallDefense0GateDescription": {
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -6865,6 +6870,7 @@
 		"portuguese": "Portão da Grande Fortaleza",
 		"italian": "Cancello grande da fortezza",
 		"chinese": "城堡大门",
+		"polish": "Brama fortecy",
 	},
 	"stoneWallDefense1GateDescription": {
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -7697,6 +7703,7 @@
 		"korean": "단순한 목제 기둥",
 		"chinese": "简易木柱",
 		"italian": "Colonna di legno semplice",
+		"polish": "Prosta drewniana kolumna",
 	},
 	"woodPillar0Variation0Description": {
 		"english": "A simple wooden beam. Get's the job done!",
@@ -7725,6 +7732,7 @@
 		"korean": "단순한 목제 기둥",
 		"chinese": "简易木柱",
 		"italian": "Colonna di legno semplice",
+		"polish": "Prosta drewniana kolumna",
 	},
 	"woodPillar0Variation1Description": {
 		"english": "A simple wooden beam. Get's the job done!",
@@ -7753,6 +7761,7 @@
 		"korean": "단순한 목제 기둥",
 		"chinese": "简易木柱",
 		"italian": "Colonna di legno semplice",
+		"polish": "Prosta drewniana kolumna",
 	},
 	"woodPillar0Variation2Description": {
 		"english": "A simple wooden beam. Get's the job done!",
@@ -7781,6 +7790,7 @@
 		"korean": "단순한 목제 기둥",
 		"chinese": "简易木柱",
 		"italian": "Colonna di legno semplice",
+		"polish": "Prosta drewniana kolumna",
 	},
 	"woodPillar0Variation3Description": {
 		"english": "A simple wooden beam. Get's the job done!",
@@ -7809,6 +7819,7 @@
 		"korean": "단순한 목제 기둥",
 		"chinese": "简易木柱",
 		"italian": "Colonna di legno semplice",
+		"polish": "Prosta drewniana kolumna",
 	},
 	"woodPillar0Variation4Description": {
 		"english": "A simple wooden beam. Get's the job done!",
@@ -7837,6 +7848,7 @@
 		"korean": "단순한 목제 기둥",
 		"chinese": "简易木柱",
 		"italian": "Colonna di legno semplice",
+		"polish": "Prosta drewniana kolumna",
 	},
 	"woodPillar0Variation5Description": {
 		"english": "A simple wooden beam. Get's the job done!",
@@ -7865,6 +7877,7 @@
 		"korean": "장식된 목제 기둥",
 		"chinese": "装饰木柱",
 		"italian": "Colonna di legno ornata",
+		"polish": "Rzeźbiona drewniana kolumna",
 	},
 	"woodPillar1Variation0Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
@@ -7893,6 +7906,7 @@
 		"korean": "장식된 목제 기둥",
 		"chinese": "装饰木柱",
 		"italian": "Colonna di legno ornata",
+		"polish": "Rzeźbiona drewniana kolumna",
 	},
 	"woodPillar1Variation1Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
@@ -7921,6 +7935,7 @@
 		"korean": "장식된 목제 기둥",
 		"chinese": "装饰木柱",
 		"italian": "Colonna di legno ornata",
+		"polish": "Rzeźbiona drewniana kolumna",
 	},
 	"woodPillar1Variation2Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
@@ -7949,6 +7964,7 @@
 		"korean": "장식된 목제 기둥",
 		"chinese": "装饰木柱",
 		"italian": "Colonna di legno ornata",
+		"polish": "Rzeźbiona drewniana kolumna",
 	},
 	"woodPillar1Variation3Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
@@ -7977,6 +7993,7 @@
 		"korean": "장식된 목제 기둥",
 		"chinese": "装饰木柱",
 		"italian": "Colonna di legno ornata",
+		"polish": "Rzeźbiona drewniana kolumna",
 	},
 	"woodPillar1Variation4Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
@@ -8005,6 +8022,7 @@
 		"korean": "장식된 목제 기둥",
 		"chinese": "装饰木柱",
 		"italian": "Colonna di legno ornata",
+		"polish": "Rzeźbiona drewniana kolumna",
 	},
 	"woodPillar1Variation5Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
@@ -8033,6 +8051,7 @@
 		"korean": "둥근 목제 기둥",
 		"chinese": "圆木柱",
 		"italian": "Colonna di legno rotonda",
+		"polish": "Okrągła drewniana kolumna",
 	},
 	"woodPillar2Description": {
 		"english": "If this pillar was any better, Atlas would lose his job!",
@@ -8061,6 +8080,7 @@
 		"korean": "단순한 석제 기둥",
 		"chinese": "简易石柱",
 		"italian": "Colonna di pietra semplice",
+		"polish": "Kamienna kolumna",
 	},
 	"stonePillar0Description": {
 		"english": "One might wonder whether this stone pillar is really capable of carrying more weight than its wooden counterparts.",

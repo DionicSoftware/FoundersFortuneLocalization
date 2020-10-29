@@ -4202,7 +4202,9 @@
 		"french": "Aléatoire",
 	},
 	"debug": { // doesn't need to be translated
-		"english": "Debugging"
+		"english": "Debugging",
+	  "german": "Debugging",
+		"french": "Debugging",
 	},
 	"animalZones":  {
 		"english":  "Animal Zones",
@@ -4213,5 +4215,17 @@
 		"english":  "Designate zones to keep all of your animals in a specific place.",
 		"german": "Markiere Zonen um all deine Tiere an einem bestimmten Ort zu halten.",
 		"french": "Désignez des zones pour garder tous vos animaux dans un endroit spécifique.",
+	},
+	"travelPanelTitle":  {
+		"english": "New Horizons",
+		"german":  "Neue Horizonte",
+	},
+	"travelPanelDesc":  {
+		"english": "Are you ready to leave this town?\nYou can select a couple of competent villagers to leave this island and start a new village in a new land.\nYou may want to save this village before you leave.",
+		"german":  "Bist du bereit diese Stadt zu verlassen?\nDu kannst ein paar fähige Siedler auf die Reise schicken um ein neues Dorf in einem neuen Land zu starten\nMöglicherweise willst du das Spiel speichern bevor du es verlässt.",
+	},
+	"depart":  {
+		"english": "Set the sails!",
+		"german":  "Setzt die Segel!",
 	},
 }

@@ -190,7 +190,7 @@
 		"arabic": "ﺔﺘﻴﻤﻟﺍ ﺕﺎﺗﺎﺒﻨﻟﺍ ﻊﻴﻤﺟ ﻝﺯﺃ",
 		"chinese": "移除所有枯萎的植物",
 		"italian": "Rimuovi tutte le piante morte",
-		"polish": "Usuń wszystkie martwe rośliny",
+		"polish": "Usuń wszystkie obumarłe rośliny",
 	},
 	"WaterPlant": {
 		"english": "Water Plant",
@@ -233,6 +233,7 @@
 		"portuguese": "Plantar",
 		"italian": "Pianta",
 		"chinese": "种植",
+		"polish": "Zasadź",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -280,7 +281,7 @@
 		"arabic": "%object% ﺪﺼﺣﺍ",
 		"chinese": "收获%object%",
 		"italian": "Raccogli %object%",
-		"polish": "Zbierz %object%",
+		"polish": "Zbierz: %object%",
 	},
 	"Construct": {
 		"english": "Construct",
@@ -371,6 +372,7 @@
 		"portuguese": "Beber Elixir da Juventude",
 		"chinese": "青年饮品",
 		"italian": "Bevi l'elisir di giovinezza",
+		"polish": "Wypij eliksir młodości",
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
@@ -493,6 +495,7 @@
 		"portuguese": "Aprenda habilidades para a vida",
 		"chinese": "学习生活技能",
 		"italian": "Apprendi le competenze di vita",
+		"polish": "Ucz się o życiu",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -524,7 +527,7 @@
 		"arabic":"ﺔﻠﻣﺎﻛ ﺔﺤﺼﺑ ﻥﻮﻜﺗ ﻰﺘﺣ ﻡﻮﻨﻟﺎﺑ ﻢﻗ",
 		"chinese": "睡到完全康复",
 		"italian": "Dormi finché la salute non si rigenera",
-		"polish": "Śpij aż się wyleczysz",
+		"polish": "Śpij aż do wyzdrowienia",
 	},
 	"SleepOnGround": {
 		"english": "Sleep on the Ground",
@@ -572,7 +575,7 @@
 		"arabic":"ﻲﺳﺮﻛ ﻰﻠﻋ ﺲﻠﺟﺍ",
 		"chinese": "坐在椅上",
 		"italian": "Sedersi su una sedia",
-		"polish": "Usiądź",
+		"polish": "Usiądź na krześle",
 	},
 	"Bury": {
 		"english": "Bury",
@@ -588,7 +591,7 @@
 		"arabic":"ﻦﻓﺩﺍ",
 		"chinese": "埋葬",
 		"italian": "Seppellisci",
-		"polish": "Zakop",
+		"polish": "Pochowaj",
 	},
 	"AcceptMigrants": {
 		"english": "Accept Migrants",
@@ -604,7 +607,7 @@
 		"arabic":"ﺮﺟﺎﻬﻤﻟﺍ ﻞﺒﻗﺍ",
 		"chinese": "接收移民",
 		"italian": "Accetta migranti",
-		"polish": "Przyjmij imigrantów",
+		"polish": "Przyjmij migrantów",
 	},
 	"RejectMigrants": {
 		"english": "Reject Migrants",
@@ -620,7 +623,7 @@
 		"arabic":"ﺮﺟﺎﻬﻤﻟﺍ ﺾﻓﺭﺍ",
 		"chinese": "拒绝移民",
 		"italian": "Respingi migranti",
-		"polish": "Odeślij imigrantów",
+		"polish": "Odeślij migrantów",
 	},
 	"LeaveIsland": {
 		"english": "Leave Island",
@@ -652,7 +655,7 @@
 		"arabic":"ﺡﻭﺮﺠﻟﺍ ﺪﻤﺿ",
 		"chinese": "包扎伤口",
 		"italian": "Benda ferite",
-		"polish": "Opatrz ranę",
+		"polish": "Opatrz rany",
 	},
 	"SplintLeg": {
 		"english": "Splint Leg",
@@ -828,7 +831,7 @@
 		"arabic":"ﺕﺍﺪﻌﻤﻟﺍ ﺔﻟﺍﺯﺇ",
 		"chinese": "移除装备",
 		"italian": "Rimuovi equipaggiamento",
-		"polish": "Usuń ekwipunek",
+		"polish": "Usuń wyposażenie",
 	},
 	"LightBonfire": {
 		"english": "Light Bonfire",
@@ -876,7 +879,7 @@
 		"arabic":"ﺩﺭﺍﻮﻤﻟﺍ ﻊﻤﺟ",
 		"chinese": "收集资源",
 		"italian": "Raccogli risorse",
-		"polish": "Zbieraj surowiec",
+		"polish": "Zbieraj surowce",
 	},
 	"Guard": {
 		"english": "Guard",
@@ -892,7 +895,7 @@
 		"arabic":"ﺔﻳﺎﻤﺣ",
 		"chinese": "守卫",
 		"italian": "Proteggi",
-		"polish": "Obroń",
+		"polish": "Strzeż",
 	},
 	"GuardTower": {
 		"english": "Guard Tower",
@@ -908,6 +911,7 @@
 		"arabic":"ﺔﺳﺍﺮﺤﻟﺍ ﺝﺮﺑ",
 		"chinese": "守卫塔",
 		"italian": "Proteggi la torre",
+		"polish": "Chroń wieżę",
 	},
 	"ProcessResource": {
 		"english": "Process Resource",
@@ -923,7 +927,7 @@
 		"arabic":"ﺩﺭﺍﻮﻤﻟﺍ ﺔﺠﻟﺎﻌﻣ",
 		"chinese": "资源进度",
 		"italian": "Trasforma risorse",
-		"polish": "Przeprocesuj",
+		"polish": "Przetwórz zasoby",
 	},
 	"ChangeProfession": {
 		"english": "Change",
@@ -987,7 +991,7 @@
 		"arabic":"ﻡﺎﻌﻄﻟﺍ ﻊﻤﺟ",
 		"chinese": "收集食物",
 		"italian": "Raccogli cibo",
-		"polish": "Zbierz jedzenie",
+		"polish": "Zbierz: Jedzenie",
 	},
 	"interaction_cutTree": {
 		"english": "Cut Tree",
@@ -1003,7 +1007,7 @@
 		"arabic":"ﺓﺮﺠﺸﻟﺍ ﻊﻄﻗ",
 		"chinese": "砍伐树木",
 		"italian": "Abbatti albero",
-		"polish": "Zbierz drewno",
+		"polish": "Zbierz: Drewno",
 	},
 	"interaction_mineStone": {
 		"english": "Mine Stone",
@@ -1019,7 +1023,7 @@
 		"arabic":"ﺓﺭﺎﺠﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 		"chinese": "挖掘岩石",
 		"italian": "Estrai pietra",
-		"polish": "Zbierz kamień",
+		"polish": "Zbierz: Kamień",
 	},
 	"interaction_mineIronOre": {
 		"english": "Mine Iron Ore",
@@ -1035,7 +1039,7 @@
 		"arabic":"ﺪﻳﺪﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 		"chinese": "挖掘铁矿",
 		"italian": "Estrai minerale di ferro",
-		"polish": "Zbierz żelazo",
+		"polish": "Zbierz: Żelazo",
 	},
 	"GatherResource": {
 		"english": "Gather %resource%",
@@ -1067,7 +1071,7 @@
 		"arabic":"%profession% ﺢﺒﺻﺃ",
 		"chinese": "转职为 %profession%",
 		"italian": "Diventa: %profession%",
-		"polish": "Zmień profesję: %profession%",
+		"polish": "Wybierz profesję: %profession%",
 	},
 	"TryFluTreatment": {
 		"english": "Try Flu Treatment",
@@ -1131,7 +1135,7 @@
 		"arabic":"ﻡﺎﻌﻄﻟﺍ ﻮﻬﻃ",
 		"chinese": "烹饪食物",
 		"italian": "Cuoci cibo",
-		"polish": "Gotuj",
+		"polish": "Gotuj jedzenie",
 	},
 	"interaction_Forge": {
 		"english": "Forge",
@@ -1205,6 +1209,7 @@
 		"russian": "Ткать",
 		"portuguese": "Tecer",
 		"italian": "Tessi",
+		"polish": "Pomachaj",
 	},
 	"interaction_produceMedicalPotions": {
 		"english": "Produce Healing Potions",
@@ -1220,7 +1225,7 @@
 		"arabic":"ﺀﺎﻔﺷ ﺕﺎﻋﺮﺟ ﺝﺎﺘﻧﺇ",
 		"chinese": "生产药水",
 		"italian": "Produci pozioni curative",
-		"polish": "Twórz mikstury",
+		"polish": "Twórz mikstury lecznicze",
 	},
 	"interaction_produceMedicine": {
 		"english": "Produce Medicine",
@@ -1279,6 +1284,7 @@
 		"portuguese": "Fale sobre comida",
 		"chinese": "讨论食物",
 		"italian": "Parla di cibo",
+		"polish": "Rozmawiaj o jedzeniu",
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
@@ -1310,7 +1316,7 @@
 		"arabic":"ﺔﻴﻜﻠﻤﻟﺍ ﺬﺧ",
 		"chinese": "获得拥有权",
 		"italian": "Assumi la proprietà",
-		"polish": "Zostań właścicielem",
+		"polish": "Przejmij na własność",
 	},
 	"TakeOwnershipFrom": {
 		"english": "Take Ownership from %name%",
@@ -1454,7 +1460,7 @@
 		"arabic":"%firstName% ﺭﺮﺣ",
 		"chinese": "自由的%firstName%",
 		"italian": "Libera %firstName%",
-		"polish": "Uwolnij: %firstName%",
+		"polish": "Uwolnij %firstName%",
 	},
 	"DrinkBeer": {
 		"english": "Drink Beer",
@@ -1561,6 +1567,7 @@
 		"portuguese": "Abraço %name%",
 		"chinese": "拥抱 %name%",
 		"italian": "Abbraccia %name%",
+		"polish": "Przytul %name%",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1600,6 +1607,7 @@
 		"portuguese": "Insulto",
 		"chinese": "侮辱",
 		"italian": "Insulta",
+		"polish": "Obraź",
 	},
 	"InsultPerson": {
 		"english": "Insult %name%",
@@ -1610,6 +1618,7 @@
 		"portuguese": "Insulto %name%",
 		"chinese": "侮辱 %name%",
 		"italian": "Insulta %name%",
+		"polish": "Obraź %name%",
 	},
 	"Apologize": {
 		"english": "Apologize",
@@ -1653,6 +1662,7 @@
 		"portuguese": "Beijar %name%",
 		"chinese": "亲吻 %name%",
 		"italian": "Bacia %name%",
+		"polish": "Pocałuj %name%",
 	},
 	"BreakUp": {
 		"english": "Break up",
@@ -1688,7 +1698,7 @@
 		"portuguese": "Piada arriscada",
 		"chinese": "冒险笑话",
 		"italian": "Barzelletta pericolosa",
-		"polish": "Chamski żart",
+		"polish": "Chamski dowcip",
 	},
 	"TellRiskyJokeTo": {
 		"english": "Tell Risky Joke to %name%",
@@ -1699,6 +1709,7 @@
 		"portuguese": "Conte piada arriscada para %name%",
 		"chinese": "讲冒险笑话给 %name%听",
 		"italian": "Racconta una barzelletta pericolosa a %name%",
+		"polish": "Opowiedz chmski dowcip dla %name%",
 	},
 	"Impress": {
 		"english": "Impress",
@@ -1709,6 +1720,7 @@
 		"portuguese": "Impressionar",
 		"chinese": "印象深刻",
 		"italian": "Impressiona",
+		"polish": "Zaimponuj",
 	},
 	"ImpressPerson": {
 		"english": "Impress %name%",
@@ -1719,6 +1731,7 @@
 		"portuguese": "Impressionar %name%",
 		"chinese": "对 %name%印象深刻",
 		"italian": "Impressiona %name%",
+		"polish": "Zaimponuj dla %name%",
 	},
 	"BuildSnowman": {
 		"english": "Build Snowman",
@@ -1740,6 +1753,7 @@
 		"portuguese": "Cuidado",
 		"italian": "Cura",
 		"chinese": "照料",
+		"polish": "Dbaj",
 	},
 	"TeachLifeSkills": {
 		"english": "Educate",
@@ -1750,6 +1764,7 @@
 		"italian": "Educa",
 		"russian": "Обучать",
 		"chinese": "教育",
+		"polish": "Edukuj",
 	},
 	"WorkOnMasterpiece": {
 		"english": "Work on Masterpiece",
@@ -1759,6 +1774,7 @@
 		"russian": "Работа над шедевром",
 		"portuguese": "Trabalho em obra-prima",
 		"italian": "Lavora su un capolavoro",
+		"polish": "Pracuj nad arcydziełem",
 	},
 	"Tame": {
 		"english": "Tame",
@@ -1825,6 +1841,7 @@
 		"german": "Schiff Bauen",
 		"french": "Construire le navire",
 		"spanish": "Construye un Barco",
+		"polish": "Buduj statek",
 	},
 
 
@@ -1856,6 +1873,7 @@
 		"russian": "Поговорить с кем-то из фракции \"%faction%\"",
 		"italian": "Parla con un membro di \"%faction%\"",
 		"turkish": "\"%faction%\" üyesiyle konuş"
+		"polish": "Porozmawiaj z członkiem grupy \"%faction%\"",
 	},
 	"HugFaction": {
 		"english": "Hug member of \"%faction%\"",
@@ -1869,6 +1887,7 @@
 		"russian": "Обнять кого-то из фракции \"%faction%\"",
 		"italian": "Abbraccia un membro di \"%faction%\"",
 		"turkish": "\"%faction%\" üyesine sarıl",
+		"polish": "Uściskaj członkka grupy \"%faction%\"",
 	},
 	"RiskyJokeFaction": {
 		"english": "Tell joke to member of \"%faction%\"",
@@ -1879,6 +1898,7 @@
 		"portuguese": "Conte uma piada para um membro da \"%faction%\"",
 		"italian": "Racconta una barzelletta ad un membro di \"%faction%\"",
 		"chinese": "向 \"%faction%\"的成员讲笑话",
+		"polish": "Opowiedz dowcip członkowi grupy: \"%faction%\"",
 	},
 
 
@@ -2002,7 +2022,7 @@
 		"arabic":"ﻥﻮﺠﺴﻣ ﺮﻤﻌﺘﺴﻤﻟﺍ",
 		"chinese": "殖民者被关起来了",
 		"italian": "Il colono è rinchiuso",
-		"polish": "Kolonista jest zamknięty",
+		"polish": "Kolonista jest uwięziony",
 	},
 	"stockpileIsFull": {
 		"english": "%resource% stockpile is full",
@@ -2046,7 +2066,7 @@
 		"arabic":"%profession%ـﻛ ﺔﻴﻓﺎﻛ ﺓﺮﺒﺧ ﻚﻠﻤﻳ ﻻ %firstName%",
 		"chinese": "%firstName%没有足够的%profession%经验",
 		"italian": "%firstName% non ha abbastanza esperienza come %profession%",
-		"polish": "%firstName% nie ma doświadczenia jako %profession%",
+		"polish": "%firstName% nie ma doświadczenia w profesji: %profession%",
 	},
 	"notUsableInSeason": {
 		"english": "Not possible in %season%",
@@ -2062,7 +2082,7 @@
 		"arabic":"%season% ﻲﻓ ﻦﻜﻤﻣ ﺮﻴﻏ",
 		"chinese": "在%season%季节不能生长",
 		"italian": "Impossibile in %season%",
-		"polish": "Nie można zasadzić w %season%",
+		"polish": "Nie można zasadzić w porze roku: %season%",
 	},
 	"noTimeBeforeSeasonChanges": {
 		"english": "Not enough time before season changes",
@@ -2078,7 +2098,7 @@
 		"arabic":"ﻢﺳﻮﻤﻟﺍ ﺮﻴﻐﺗ ﻞﺒﻗ ﻲﻓﺎﻛ ﺮﻴﻏ ﺖﻗﻭ",
 		"chinese": "在季节变更之前没有足够的时间生长成熟",
 		"italian": "Non c'è abbastanza tempo prima del cambio di stagione",
-		"polish": "Zbyt mało czasu w tym sezonie",
+		"polish": "Zbyt mało czasu przed zmianą pory roku",
 	},
 	"nextTryIn": {
 		"english": "Next try in",
@@ -2094,7 +2114,7 @@
 		"arabic":"ﻲﻓ ﻝﻭﺎﺣ ﺔﻠﺒﻘﻤﻟﺍ ﺓﺮﻤﻟﺍ",
 		"chinese": "尝试下一个",
 		"italian": "Prossimo tentativo in",
-		"polish": "Spróbuj w",
+		"polish": "Następnie spróbuj",
 	},
 	"nextInteractionIn": {
 		"english": "Next interaction in %time%",
@@ -2105,6 +2125,7 @@
 		"portuguese": "Próxima interação em %time%",
 		"italian": "Prossima interazione tra %time%",
 		"chinese": "下次互动在 %time%",
+		"polish": "Następna interakcja za %time%",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",
@@ -2184,7 +2205,7 @@
 		"arabic":"ﺚﺤﺑ ﺭﺎﻴﺘﺧﺍ ﻢﺘﻳ ﻢﻟ",
 		"chinese": "没有选择研究",
 		"italian": "Nessuna ricerca selezionata",
-		"polish": "Wybierz kolejne badania",
+		"polish": "Nie wybrano badań",
 	},
 	"resourceNotNecessaryForResearch": {
 		"english": "Doesn't need to analyze %resource% for current research",
@@ -2255,6 +2276,7 @@
 		"portuguese": "Habilidade ausente: %skill%",
 		"italian": "Abilità mancante: %skill%",
 		"chinese": "缺失技能：%skill%",
+		"polish": "Brakująca umiejętność: %skill%",
 	}
 	
 }

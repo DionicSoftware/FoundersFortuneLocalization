@@ -1,5 +1,4 @@
 ﻿{	
-	// THOUGHTS
 	"thoughtTitle_DebugGood": {
 		"english": "Good Feeling",
 		"german": "Gutes Gefühl",
@@ -28,6 +27,7 @@
 		"korean": "지금 그냥 기분이 좋은데, 왜 그런진 모르겠어요.",
 		"chinese": "我现在很开心，我也不知道为什么。",
 		"italian": "Sono davvero felice in questo momento e non so davvero il perché.",
+		"polish": "Jestem teraz po prostu szczęśliw%yA% i naprawdę nie wiem dlaczego.",
 	},
 	"thoughtTitle_DebugBad": {
 		"english": "Bad Feeling",
@@ -57,6 +57,7 @@
 		"korean": "조금 슬픈 기분이 드는데, 왜 그런진 모르겠어요.",
 		"chinese": "我现在很难过，我也不知道为什么。",
 		"italian": "Sono davvero triste in questo momento e non so davvero il perché.",
+		"polish": "Jestem teraz po prostu przybit%yA% i naprawdę nie wiem dlaczego",
 	},
 	"thoughtTitle_MinorPain": {
 		"english": "Minor Pain",
@@ -86,6 +87,7 @@
 		"korean": "아얏. 좀 아파요.",
 		"chinese": "哎哟，这好痛啊。",
 		"italian": "Ahi. Fa male.",
+		"polish": "Ała. To boli!",
 	},
 	"thoughtTitle_MediumPain": {
 		"english": "Serious Pain",
@@ -115,6 +117,7 @@
 		"korean": "으악. 꽤 심하게 아프네요.",
 		"chinese": "啊，疼得好厉害啊。",
 		"italian": "Ahia. Fa molto male.",
+		"polish": "Ach, to bardzo boli",
 	},
 	"thoughtTitle_ExtremePain": {
 		"english": "Extreme Pain",
@@ -144,6 +147,7 @@
 		"korean": "으아아아아... 참을 수 없이 아파요!",
 		"chinese": "啊……难以忍受啊!",
 		"italian": "Ooohhh... è insopportabile!",
+		"polish": "Ooooch! Ten ból jest nie do zniesienia!",
 	},
 	"thoughtTitle_Hungry": {
 		"english": "Hungry",
@@ -173,6 +177,7 @@
 		"korean": "저기... 뭘 먹은지 꽤 된 것 같아요.",
 		"chinese": "天啊...我好久没吃东西了。",
 		"italian": "Cavolo... non mangio da un po'.",
+		"polish": "Reety.... Dawno nie jadłem.",
 	},
 	"thoughtTitle_Exhausted": {
 		"english": "Exhausted",
@@ -202,6 +207,7 @@
 		"korean": "하루가 너무 길었어요... 지금 당장 잠들고 싶어요.",
 		"chinese": "这漫长的一天…我现在只想睡觉。",
 		"italian": "È stata una lunga giornata... voglio solo dormire adesso.",
+		"polish": "To był długi dzień ... Teraz po prostu chcę tylko pospać.",
 	},
 	"thoughtTitle_NewColony": {
 		"english": "New Colony",
@@ -216,7 +222,7 @@
 		"korean": "새 정착지",
 		"chinese": "新移民",
 		"italian": "Nuova colonia",
-		"polish": "Nowa kolonia",
+		"polish": "Nowa Kolonia",
 	},
 	"thoughtDesc_NewColony": {
 		"english": "A new beginning! Let's make ourselves at home here!",
@@ -231,6 +237,7 @@
 		"korean": "새로운 시작! 우리의 집을 만들어봐요!",
 		"chinese": "一个新的开始!我们在这里就像在自己家一样!",
 		"italian": "Un nuovo inizio! Facciamo di questo luogo la nostra casa!",
+		"polish": "Nowy początek! Poczujmy się tutaj jak w domu!",
 	},
 	"thoughtTitle_WellRested": {
 		"english": "Well Rested",
@@ -260,6 +267,7 @@
 		"korean": "오 맞아요. 편안한 침대에서 늘어지게 자는 것만큼 좋은 게 있을까요.",
 		"chinese": "噢是的，没有什么比在舒适的床上睡懒觉更爽的了。",
 		"italian": "Oh, sì. Non c'è nulla di meglio che dormire fino a tardi in un comodo letto.",
+		"polish": "O tak. Nie ma nic lepszego niż spanie do późna w wygodnym łóżku.",
 	},
 	"thoughtTitle_SleptOnGround": {
 		"english": "Slept on Ground",
@@ -289,6 +297,7 @@
 		"korean": "어으. 왜 침대에서 잘 수 없는거죠? 땅바닥에서 자는건 고약해요.",
 		"chinese": "啊，为什么我不能睡在床上?睡在地上很不爽啊。",
 		"italian": "Bleah! Perché non posso dormire in un letto? Dormire per terra fa schifo.",
+		"polish": "Uch. Dlaczego nie mogę spać w łóżku? Spanie na ziemi jest do bani.",
 	},
 	// when colonist doesn't die of old age, but other things like physical violoence or starvation
 	"thoughtTitle_ColonistDiedTooEarly": {
@@ -308,7 +317,7 @@
 		"ukrainian":"Колоніст Помер",
 		"korean": "개척자가 죽음",
 		"chinese": "殖民者英年早逝",
-		"polish": "Śmierć kolonisty",
+		"polish": "Kolonista umarł za wcześnie",
 	},
 	"thoughtDesc_ColonistDiedTooEarly": {
 		"english": "My friend and fellow colonist died. Damn. I feel kind of empty now.",
@@ -323,6 +332,7 @@
 		"korean": "내 친구이자 동료인 개척자가 죽었어요. 제기랄. 마음 속이 텅 빈 느낌이에요.",
 		"chinese": "我的殖民者朋友兼同伴去世了。该死,我现在觉得有点空虚了。",
 		"italian": "Il mio amico e concittadino colono è morto. Dannazione. Sento un vuoto adesso.",
+		"polish": "M%ójOja% przyjaciel i towarzysz zginął. Cholera. Czuję się teraz trochę pusty.",
 	},
 	"thoughtTitle_ColonistDiedOfOldAge": {
 		"english": "Colonist Died of Old Age",
@@ -333,6 +343,7 @@
 		"portuguese": "Colonista morreu de velhice",
 		"chinese": "殖民者寿终正寝",
 		"italian": "Un colono è morto di vecchiaia",
+		"polish": "Kolonista umarł ze starości",
 	},
 	"thoughtDesc_ColonistDiedOfOldAge": {
 		"english": "%firstName% has lived a long life but we all die sooner or later. We all can be happy to have had %himHer% around.",
@@ -343,6 +354,7 @@
 		"spanish": "%firstName% ha vivido una larga vida, pPero todos moriremos tarde o temprano. Podemos estar contentos de haberl%oA% tenido cerca",
 		"chinese": "付出了一生.终将会死去的...",
 		"italian": "%firstName% ha vissuto una lunga vita, ma prima o poi tutti dobbiamo morire. Siamo stati felici di averl%OA% avuto con noi.",
+		"polish": "%firstName% miał%nicA% długie życie, ale prędzej czy później wszyscy umieramy. Powinniśmy być szczęśliwi, że %onOna% jest w pobliżu.",
 	},
 	"thoughtTitle_FightWon": {
 		"english": "Won a Fight",
@@ -372,6 +384,7 @@
 		"korean": "오 예! 누가 승자인지 보여줬어요!",
 		"chinese": "噢耶!让他们知道谁是大佬的感觉真爽!",
 		"italian": "Oh, sì! Vediamo chi comanda adesso!",
+		"polish": "O tak! Dobrze jest pokazać im, kto tu jest hardkorem!",
 	},
 	"thoughtTitle_FightLost": {
 		"english": "Lost a Fight",
@@ -401,6 +414,7 @@
 		"korean": "마구 두들겨 맞았어요. 믿을 수가 없네요. 단순히 아픈 것 뿐만 아니라 모욕적이에요.",
 		"chinese": "不敢相信刚刚我被打了一顿。这不仅很痛还很耻辱。",
 		"italian": "Ne ho prese a bizzeffe. Non ci posso credere. Non è solo doloroso, ma anche umiliante.",
+		"polish": "Zostałem pobity. Nie mogę w to uwierzyć... to jest nie tylko bolesne, ale i upokarzające!",
 	},
 	"thoughtTitle_ColonistKilled": {
 		"english": "Killed Colonist",
@@ -430,6 +444,7 @@
 		"korean": "방금 우리 중의 한 명을 죽였어요. 어떻게 내가 그럴 수 있죠?!",
 		"chinese": "我刚刚杀了我们的殖民同伴。我为什么这么做?!",
 		"italian": "Ho appena ucciso uno dei nostri. Come ho potuto?!",
+		"polish": "Właśnie zamordował%emAm% jednego z naszych. Jak mogł%emAm% to zrobić?!",
 	},
 	"thoughtTitle_BlewOffSteam": {
 		"english": "Blew off Steam",
@@ -444,6 +459,7 @@
 		"korean": "분노를 분출함",
 		"chinese": "发泄心情 ",
 		"italian": "Sfogata",
+		"polish": "Spuszczenie pary",
 	},
 	"thoughtDesc_BlewOffSteam": {
 		"english": "Ah, it feels good to have let out all my frustration. Maybe life is not so bleak after all.",
@@ -458,6 +474,7 @@
 		"korean": "아, 나의 불만을 모두 풀어버리고 나니 기분이 좋네요. 어쨌든 삶이 그렇게 암울하지만은 않을거에요.",
 		"chinese": "啊，把我所有的沮丧都发泄出来感觉真好。也许生活并没有那么凄凉。",
 		"italian": "Ah, che bello aver sfogato tutta la mia frustrazione. Forse la vita non è poi così desolante dopotutto.",
+		"polish": "Ach, jak dobrze jest wyrzucić z siebie całą swoją frustrację. Może jednak życie nie jest takie ponure.",
 	},
 	"thoughtTitle_LookingForwardToNewDay": {
 		"english": "Looking forward to a new day",
@@ -472,7 +489,7 @@
 		"korean": "새로운 날을 고대함",
 		"chinese": "期待明天",
 		"italian": "Impaziente di un nuovo giorno",
-		"polish": "Po nocy przychodzi dzień",
+		"polish": "Po nocy zawsze nastaje dzień",
 	},
 	"thoughtDesc_LookingForwardToNewDay": {
 		"english": "I had a bad day recently, but I'm hopeful that it'll get better soon.",
@@ -487,6 +504,7 @@
 		"korean": "좋지 않은 하루였어요. 하지만 조만간 더 나아질 거라고 기대합니다.",
 		"chinese": "我最近过得很糟糕，但我希望很快会好起来。",
 		"italian": "Ho avuto una giornataccia, spero che le cose andranno meglio.",
+		"polish": "Miał%emAm% ostatnio zły dzień, ale mam nadzieję, że wkrótce będzie lepiej.",
 	},
 	"thoughtTitle_MyFurnitureDestroyed": {
 		"english": "Owned furniture has been destroyed",
@@ -719,6 +737,7 @@
 		"korean": "%firstName%#{과}의 대화는 즐거웠어.",
 		"chinese": "我喜欢和我的朋友%firstName%聊天",
 		"italian": "Mi è piaciuto molto parlare con %firstName%.",
+		"polish": "Lubię rozmawiać z moim przyjacielem.",
 	},
 	"thoughtTitle_BadConversation": {
 		"english": "Bad Conversation",
@@ -748,6 +767,7 @@
 		"korean": "%firstName%#{은} 자기 중심적이야. %heShe%가 말하는걸 참고 들을 수가 없어.",
 		"chinese": "%firstName%如此的充满自己%自己%。我无法忍受听他说话。",
 		"italian": "%firstName% si da così tante arie. Non potevo sopportare i suoi discorsi.",
+		"polish": "%firstName% jest niesamowicie zarozumiał%yA%.  Nie mogę już znieść %jegoJej% słuchania.",
 	},
 	"thoughtTitle_GoodDream": {
 		"english": "Good Dream",
@@ -1848,6 +1868,7 @@
 		"portuguese": "%firstName% apenas me insultou gravemente. Isso foi desnecessário!",
 		"chinese": "%firstName% 狠狠地侮辱了我。这很不公平！",
 		"italian": "%firstName% mi ha gravemente insultat%OA%. Era fuori luogo!",
+		"polish": "%firstName% poważnie mnie obrazi%iłaIł%. To było nie na miejscu!",
 	},
 	"thoughtTitle_Parenthood": {
 		"english": "Parenthood",
@@ -2271,6 +2292,7 @@
 		"korean": "내 생각에, 나는 잘 하고 있는 것 같아.",
 		"chinese": "我想我做得很好。",
 		"italian": "Me la cavo abbastanza.",
+		"polish": "Myślę, że wszystko w porządku.",
 	},
 	"moodPhrase_Neutral2": {
 		"english": "Seems like a normal day to me.",

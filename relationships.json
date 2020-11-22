@@ -9,6 +9,7 @@
 		"chinese": "人际关系",
 		"italian": "Relazioni",
 		"turkish": "İlişkiler",
+		"polish": "Relacje i związki",
 	},
 	"relationshipStatus": {
 		"english": "Relationship: %status%",
@@ -20,6 +21,7 @@
 		"chinese": "关系：%status%",
 		"italian": "Relazione: %status%",
 		"turkish": "İlişki: %status%",
+		"polish": "Poziom relacji: %status%",
 	},
 	"naturalRelationshipTendencyPositive": {
 		"english": "Natural tendency positive",
@@ -31,6 +33,7 @@
 		"italian": "Tendenza naturale positiva",
 		"chinese": "与人为善",
 		"turkish": "Doğal eğilim olumlu",
+		"polish": "Pozytywny trend naturalny",
 	},
 	"naturalRelationshipTendencyNegative": {
 		"english": "Natural tendency negative",
@@ -42,6 +45,7 @@
 		"italian": "Tendenza naturale negativa",
 		"chinese": "与人为恶",
 		"turkish": "Doğal eğilim olumsuz",
+		"polish": "Negatywny trend naturalny",
 	},
 	"tooltipGettingChildren_Title": {
 		"english": "Children",
@@ -53,6 +57,7 @@
 		"italian": "Bambino",
 		"chinese": "繁衍后代",
 		"turkish": "Çocuklar",
+		"polish": "Dziecko",
 	},
 	"tooltipGettingChildren_Desc": {
 		"english": "Once the relationship bar is maxed out and the expectations in the village are fulfilled, the couple will think about having children.",
@@ -64,6 +69,7 @@
 		"italian": "Una volta che la barra di relazione è massimizzata e le aspettative nel villaggio sono soddisfatte, la coppia penserà ad avere bambini.",
 		"chinese": "一旦关系值达到最大并且满足了村庄的期望，这对夫妇就会考虑生孩子。",
 		"turkish": "İlşki seviye göstergesi dolduğunda ve çiftin yerleşimdeki beklentileri karşılandığında, çocuk yapmayı düşünmeye başlarlar.",
+		"polish": "Gdy pasek relacji osiągnie maksimum, a oczekiwania kolonistów zostaną spełnione, para pomyśli o potomstwie.",
 	},
 
 	"nextLowerLevel": {
@@ -76,6 +82,7 @@
 		"chinese": "低一级：%level%",
 		"italian": "Prossimo livello inferiore: %level%",
 		"turkish": "Sıradaki alt seviye: %level%",
+		"polish": "Następny niższy poziom: %level%"
 	},
 	"nextHigherLevel": {
 		"english": "Next Higher Level: %level%",
@@ -87,6 +94,7 @@
 		"chinese": "高一级：%level%",
 		"italian": "Prossimo livello superiore: %level%",
 		"turkish": "Sıradaki üst seviye: %level%",
+		"polish": "Następny wyższy poziom: %level%"
 	},
 
 	"relationship_Nemesis": {
@@ -99,6 +107,7 @@
 		"chinese": "仇视",
 		"italian": "Nemesi",
 		"turkish": "Ezeli rakip",
+		"polish": "Nemezys",
 	},
 	"relationship_Enemy": {
 		"english": "Enemy",
@@ -110,6 +119,7 @@
 		"chinese": "敌对",
 		"italian": "Nemic%OA%",
 		"turkish": "Düşman",
+		"polish": "Wróg",
 	},
 	// I had to use an adjective here. If you can find a fitting noun for your language, like the other titles, use that!
 	"relationship_Disliked": {
@@ -122,6 +132,7 @@
 		"chinese": "厌恶",
 		"italian": "Disprezzat%OA%",
 		"turkish": "Sevilmeyen",
+		"polish": "Nie lubian%yA%",
 	},
 	"relationship_Acquaintance": {
 		"english": "Acquaintance",
@@ -133,6 +144,7 @@
 		"chinese": "相识",
 		"italian": "Conoscente",
 		"turkish": "Tanıdık",
+		"polish": "Znajom%yA%",
 	},
 	"relationship_Buddy": {
 		"english": "Buddy",
@@ -155,6 +167,8 @@
 		"chinese": "朋友",
 		"italian": "Amic%OA%",
 		"turkish": "Arkadaş",
+		"polish": "Kumpel%nicA%",
+		"polish": "Przyjaciel",
 	},
 	"relationship_GreatFriend": {
 		"english": "Great Friend",
@@ -166,6 +180,7 @@
 		"chinese": "好友",
 		"italian": "Miglior amic%OA%",
 		"turkish": "Yakın arkadaş",
+		"polish": "Świetny przyjaciel",
 	},
 	"relationship_Lover": {
 		"english": "Lover",
@@ -177,6 +192,7 @@
 		"chinese": "情人",
 		"italian": "Amante",
 		"turkish": "Sevgili",
+		"polish": "Ukochan%yA%",
 	},
 	// if Wilhelm loves Tina, %hisHer% will be "her" (Tina) and %2-hisHer% will be "his" (Wilhelm)
 	"relationship_LoveOfTheirLife": {
@@ -189,6 +205,7 @@
 		"chinese": "爱 %2-hisHer% 一生",
 		"italian": "Amore della sua vita",
 		"turkish": "Hayatının aşkı",
+		"polish": "Miłóść życia",
 	},
 
 
@@ -212,6 +229,7 @@
 		"portuguese": "%filhoFilha%",
 		"chinese": "%sonDaughter%",
 		"italian": "%FiglioFiglia%",
+		"polish": "%synCórka%",
 	},
 	"Parent": {
 		"english": "%fatherMother%",
@@ -222,6 +240,7 @@
 		"portuguese": "%paiMae%",
 		"chinese": "%fatherMother%",
 		"italian": "%PadreMadre%",
+		"polish": "%ojciecMatka%",
 	},
 	"Sibling": {
 		"english": "%brotherSister%",
@@ -232,6 +251,7 @@
 		"portuguese": "%irmaoIrma%",
 		"chinese": "%brotherSister%",
 		"italian": "%FratelloSorella%",
+		"polish": "%bratSiostra%",
 	},
 	"Grandparent": {
 		"english": "%grandpaGrandma%",
@@ -242,6 +262,7 @@
 		"portuguese": "%avôAvó%",
 		"chinese": "%grandpaGrandma%",
 		"italian": "%NonnoNonna%",
+		"polish": "%dziadekBabcia%",
 	},
 	"Grandchild": {
 		"english": "%grandsonGranddaughter%",
@@ -252,6 +273,7 @@
 		"portuguese": "%netoNeta%",
 		"chinese": "%grandsonGranddaughter%",
 		"italian": "nipote",
+		"polish": "%wnukWnuczka%",
 	},
 	"UncleAunt": {
 		"english": "%uncleAunt%",
@@ -262,6 +284,7 @@
 		"portuguese": "%tioTia%",
 		"chinese": "%uncleAunt%",
 		"italian": "%ZioZia%",
+		"polish": "%wujekCiocia%",
 	},
 	"NephewNiece": {
 		"english": "%nephewNiece%",
@@ -273,6 +296,7 @@
 		"chinese": "%nephewNiece%",
 		"italian": "nipote",
 		"turkish": "Yeğen",
+		"polish": "%bratBrata%",
 	},
 	"Cousin": {
 		"english": "cousin",
@@ -284,6 +308,7 @@
 		"chinese": "cousin",
 		"italian": "%CuginoCugina%",
 		"turkish": "Kuzen",
+		"polish": "%kuzynKuzyna%",
 	},
 
 
@@ -299,6 +324,7 @@
 		"chinese": "烦恼",
 		"italian": "Arrabbiat%OA%",
 		"turkish": "Üzgün",
+		"polish": "Zdenerowan%yA%",
 	},
 	"relationshipEffect_Upset_Description": {
 		"english": "%affectedName% is upset with %partnerName%. %cap-heShe% will not talk to %2-himHer% for some time.\n(%seconds% seconds left)",
@@ -321,6 +347,7 @@
 		"chinese": "印象深刻",
 		"italian": "Impressionat%OA%",
 		"turkish": "Etkilenmiş",
+		"polish": "Pod wrażeniem",
 	},
 	"relationshipEffect_Impressed_Description": {
 		"english": "%affectedName% is impressed by %partnerName%. Any positive interaction is twice as effective!\n(%seconds% seconds left)",
@@ -343,6 +370,7 @@
 		"chinese": "印象淡薄",
 		"italian": "Non impressionat%OA%",
 		"turkish": "Etkilenmemiş",
+		"polish": "Nie pod wrażeniem",
 	},
 	"relationshipEffect_NotImpressed_Description": {
 		"english": "%affectedName% is not impressed by %partnerName%. Any negative interaction is twice as detrimental!\n(%seconds% seconds left)",
@@ -365,6 +393,7 @@
 		"chinese": "较低的级别锁定 %seconds%秒。",
 		"italian": "Livello inferiore bloccato per %seconds% secondi.",
 		"turkish": "Alt seviye, %seconds% saniye boyunca kilitli.",
+		"polish": "Niższy poziom zablokowany na %seconds% sekund.",
 	},
 	"relationshipEffect_HigherLevelLocked_Description": {
 		"english": "Higher Level locked for %seconds% seconds.",
@@ -376,5 +405,6 @@
 		"chinese": "较高的级别锁定 %seconds%秒。",
 		"italian": "Livello superiore bloccato per %seconds% secondi.",
 		"turkish": "Üst seviye, %seconds% saniye boyunca kilitli.",
+		"polish": "Wyższy poziom zablokowany na %seconds% sekund.",
 	},
 }

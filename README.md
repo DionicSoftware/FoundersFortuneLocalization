@@ -7,7 +7,7 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 ## Installation instruction
 
 ###### - **[EN]** Put the files in your game folder and rename it "**localization**". Don't forget to **create a "custom.txt"** containing the following:
-###### - **[ES]** Coloca los archivos en tu carpeta de juego y cámbiales el nombre a "**localization**". No olvides **crear un "custom.txt"** que contenga lo siguiente:
+###### - **[ES]** Coloca los archivos en tu carpeta de juego y cambia su nombre a "**localization**". No olvides **crear un "custom.txt"** que contenga lo siguiente:
 ###### - **[DE]** Legen Sie die Dateien in Ihren Spielordner und benennen Sie ihn in "**localization**" um. Vergessen Sie nicht, **eine "custom.txt"** zu erstellen, die Folgendes enthält:
 ###### - **[FR]** Placez les fichiers dans votre dossier de jeu et renommez-le en "**localization**". N'oubliez pas de **créer un "custom.txt"** contenant les éléments suivants :
 ###### - **[PT]** Coloque os arquivos na sua pasta do jogo e renomeá-lo como "**localization**", não esqueça de **criar um "custom.txt"** contendo o seguinte:
@@ -18,12 +18,12 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 ###### - **[NL]** Plaats de bestanden in je gamemap en hernoem het "**localization **". Vergeet niet ** een "custom.txt" ** te maken met het volgende:
 ###### - **[IT]** Inserisci i file nella tua cartella di gioco e rinomina la cartella in "**localization**". Ricorda di **creare un file "custom.txt"** contenente quanto segue:
 ###### - **[CN]** 将下载的文件夹放到游戏根目录并重命名为 "**localization**". 不要忘记 **创建一个 "custom.txt"文件** 里面写着以下内容:
-###### - **[PL]** Umieść folder z plikami w katalogu gry i zmień nazwę na "**localization**". Stwórz **plik "custom.txt"** zawierający poniższą formułę:
+###### - **[PL]** Umieść folder z plikami w katalogu gry i zmień jego nazwę na "**localization**". Stwórz w nim **plik "custom.txt"** zawierający poniższą formułę:
 
 ## Custom.txt:
 ```
 Game Version:
-Alpha 12.1
+Beta 1.2.3
 Forced Language:
 english
 ```

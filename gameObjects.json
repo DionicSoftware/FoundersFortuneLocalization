@@ -13,9 +13,9 @@
 		"ukrainian": "Кошик для сирої їжі",
 		"korean": "과일 바구니",
 		"dutch": "Mand voor Rauw Eten",
-		"polish": "Kosz z jedzeniem",
 		"chinese": "生食篮子",
-		"italian": "Cesto per cibi crudi"
+		"italian": "Cesto per cibi crudi",
+		"polish": "Kosz z jedzeniem"
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -33,9 +33,9 @@
 		"ukrainian": "Цей кошик зберігає сиру їжу. Кожен раз, коли колоністи проголодаются, вони будуть підходити до неї і брати що-небудь поїсти до тих пір, поки їжа не закінчиться.",
 		"korean": "이 바구니에 과일과 채소를 담아 개척자들에게 제공하세요. 배가 고파지면, 바구니에서 먹을 것을 꺼내어 먹을겁니다 - 충분한 음식이 저장되어있다면, 말이죠.",
 		"dutch": "Gebruik deze mand om te zorgen dat je kolonisten rauw eten kunnen eten. Als ze honger hebben, komen ze naar de mand om wat te eten - zolang je genoeg voedsel in voorraad hebt.",
-		"polish": "Użyj tego koszyka, aby zapewnić Twoim kolonistom surowe jedzenie. Jeśli staną się oni głodni, przyjdą do koszyka, aby wziąć coś do jedzenia - tak długo jak masz wystarczająco jedzenia w magazynie.",
 		"chinese": "用这个篮子给你的殖民者提供生的食物。当他们饿了的时候，只要你有足够的食物，他们就会到篮子里来找吃的。\n\n此架子最多存放 %capacityFoodRaw% 生鲜食材。",
-		"italian": "Usa questo cesto per fornire ai tuoi coloni i cibi crudi. Ogni volta che hanno fame, verranno nel cesto a prendere qualcosa da mangiare, a patto che tu abbia a disposizione abbastanza cibo.\n\nQuesto cesto può conservare fino a %capacityFoodRaw% cibi crudi."
+		"italian": "Usa questo cesto per fornire ai tuoi coloni i cibi crudi. Ogni volta che hanno fame, verranno nel cesto a prendere qualcosa da mangiare, a patto che tu abbia a disposizione abbastanza cibo.\n\nQuesto cesto può conservare fino a %capacityFoodRaw% cibi crudi.",
+		"polish": "W tym koszyku koloniści gromadzić będą podstawowe pożywienia zebrane z dzikich krzaków i drzew owocowych oraz ogródka. Gdy zgłodnieją, przyjdą do niego, aby wziąść coś do jedzenia."
 	},
 	"foodShelfCampfire": {
 		"english": "Shelf for Food from the Campfire",
@@ -48,9 +48,9 @@
 		"ukrainian": "Полиця для їжі, приготовленої на багатті",
 		"korean": "모닥불에 구운 음식 보관용 선반",
 		"dutch": "Plankenkast voor Eten van het Kampvuur",
-		"polish": "Regał na jedzenie z ogniska",
 		"chinese": "烤制食物架子",
-		"italian": "Scaffale per cibo dal falò"
+		"italian": "Scaffale per cibo dal falò",
+		"polish": "Półki na jedzenie z ogniska"
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -68,9 +68,9 @@
 		"ukrainian": "Це об'єднання полиці і корзини - ідеальне місце для зберігання продуктів, приготованих на вогнищі.",
 		"korean": "선반 위에 바구니가 잔뜩 놓여있습니다 - 모닥불에 구운 음식들을 저장하기에 최적의 장소죠!",
 		"dutch": "Deze mix van een plankenkast en een mand is de ideale plaats om eten op te slaan dat gekookt is boven een kampvuur!",
-		"polish": "To połączenie szafki i koszyka jest idealnym miejsce na trzymanie jedzenie, które zostało upieczone nad ogniem.",
 		"chinese": "架子与篮子的结合体是储存在烤制食物的理想办法!\n\n此架子最多存放 %capacityFoodCooked% 烤制食物。",
-		"italian": "Questa combinazione di mensole e cesti è il luogo ideale per conservare i cibi cotti al falò!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti."
+		"italian": "Questa combinazione di mensole e cesti è il luogo ideale per conservare i cibi cotti al falò!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
+		"polish": "Ten zestaw półek jest idealnym miejscem na przechowywanie upieczonego nad ogniem jedzenia."
 	},
 	"foodShelfKitchen": {
 		"english": "Shelf for Food from the Kitchen",
@@ -83,9 +83,9 @@
 		"dutch": "Plankenkast voor Eten uit de Keuken",
 		"ukrainian": "Полиця для їжі з кухні",
 		"korean": "조리된 음식 보관용 선반",
-		"polish": "Szafka na przygotowane jedzenie",
 		"chinese": "烹饪食物架子",
-		"italian": "Scaffale per cibo da cucina"
+		"italian": "Scaffale per cibo da cucina",
+		"polish": "Półki na jedzenie z kuchni",
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -103,9 +103,9 @@
 		"dutch": "Welke plaats is beter om eten uit de keuken op te slaan dan deze wonderbaarlijke plankenkast?",
 		"ukrainian": "Хіба є краще місце щоб зберігати їжу приготовлену на кухні?",
 		"korean": "조리된 음식을 보관하기에 이 멋진 선반보다 나은 곳이 있을까요?",
-		"polish": "Czy jest lepsze miejsce na trzymanie przygotowanych posiłków niż ta piękna szafka?",
 		"chinese": "还有什么地方比这个华丽的架子更适合存放烹饪食物呢?\n\n此架子最多存放 %capacityFoodCooked% 烹饪食物。",
-		"italian": "Quale posto migliore per conservare il tuo cibo da cucina se non su questo splendido scaffale!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti."
+		"italian": "Quale posto migliore per conservare il tuo cibo da cucina se non su questo splendido scaffale!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
+		"polish": "Czy jest lepsze miejsce na trzymanie przygotowanych posiłków niż taki elegancki zestaw półek?"
 	},
 	"foodShelfBakery": {
 		"english": "Shelf for Baked Food",
@@ -118,9 +118,9 @@
 		"dutch": "Plankenkast voor Gebakken Eten",
 		"ukrainian": "Полиця для випеченої їжі",
 		"korean": "화덕에 구운 음식 보관용 선반",
-		"polish": "Szafka na wypieki",
 		"chinese": "烤制食物架",
-		"italian": "Scaffale per cibi da forno"
+		"italian": "Scaffale per cibi da forno",
+		"polish": "Półki na wypieki"
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -138,9 +138,9 @@
 		"dutch": "Deze plankenkast is je eerste keus voor eten dat gebakken is in een bakkerij.",
 		"ukrainian": "Ця полиця ідеально підійде для зберігання випічки.",
 		"korean": "화덕에 구운 음식을 둘 곳을 찾고 있다면, 이 선반이 최고의 선택입니다.",
-		"polish": "Idealna szafka na wypieki z piekarni.",
 		"chinese": "这个架子是你在面包工坊烘焙食物的首选。\n\n此架子最多存放 %capacityFoodCooked% 烹饪食物。",
-		"italian": "Questa scaffale è la tua prima scelta per i cibi che sono stati cotti al forno.\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti."
+		"italian": "Questa scaffale è la tua prima scelta per i cibi che sono stati cotti al forno.\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
+		"polish": "Zestaw półek do prezentowania pysznych wypieków."
 	},
 	"potionMedicineStorage": {
 		"english": "Healing Potion Cabinet",
@@ -153,9 +153,9 @@
 		"korean": "회복약 보관장",
 		"dutch": "Helende Drankjes Kast",
 		"turkish": "Şifa İksirleri Dolabı",
-		"polish": "Gablota na mikstury lecznicze",
 		"chinese": "治疗药水架子",
-		"italian": "Armadietto di pozioni curative"
+		"italian": "Armadietto di pozioni curative",
+		"polish": "Gablota na mikstury lecznicze"
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -173,9 +173,9 @@
 		"korean": "다리를 다쳤나요? 어디 아픈가요? 피를 을리나요? 어떤 아픔을 겪고 있더라도, 회복약은 언제나 좋은 선택입니다. 진짜로 병을 낫게 하진 않겠지만, 최소한 고통은 줄여줄테니까요. 아, 또 맛도 좋아요.",
 		"dutch": "Doet je been pijn? Ben je ziek? Bloed verlies? Het maakt niet uit wat voor pijn je hebt, een helend drankje is altijd een goed idee. Ook als het niet echt je conditie verbeterd, het verminderd tenminste de pijn. En deze drankjes smaken ook nog goed.",
 		"turkish": "Bacağın mı ağrıyor? Hasta mısın? Kan mı kaybediyorsun? Başına bela olan sağlık sorunu ne olursa olsun iyileştirici bir iksir her zaman iyi bir fikirdir. Durumunu iyileştirmese bile, en azından acıyı uyuşturuyor, üstelik bu iksirlerin tadı da güzel.",
-		"polish": "Twoja noga boli? Jesteś chory? Krwawisz? Nie ma znaczenia jaka krzywda Ci się stała, mikstura lecznicza to zawsze dobry pomysł. Nawet jeśli niekoniecznie poprawia Twój stan, to przynajmniej redukuje ból. No i te mikstury też smakują dobrze.",
 		"chinese": "腿疼了?生病了?流血了?不管你受到什么样的伤害，一瓶治疗药水总是个好办法。即使它不能完全治愈你的病况，至少它能麻痹你的疼痛。这些药水也挺好喝的。\n\n此架子最多可存放 %capacityHealingPotion% 治疗药水。",
-		"italian": "Ti fa male la gamba? Sei malato? Perdi sangue? Indipendentemente dal tipo di danno che hai subito, assumere una pozione curativa è sempre una buona idea. Anche se non cura davvero la tua condizione, almeno intorpidisce il dolore. Inoltre, queste pozioni hanno un buon sapore.\n\nQuesto scaffale può conservare fino a %capacityMedicine% medicine e %capacityHealingPotion% pozioni curative."
+		"italian": "Ti fa male la gamba? Sei malato? Perdi sangue? Indipendentemente dal tipo di danno che hai subito, assumere una pozione curativa è sempre una buona idea. Anche se non cura davvero la tua condizione, almeno intorpidisce il dolore. Inoltre, queste pozioni hanno un buon sapore.\n\nQuesto scaffale può conservare fino a %capacityMedicine% medicine e %capacityHealingPotion% pozioni curative.",
+		"polish": "Boli noga a może złapałeś jakieś choróbsko? Nie ma znaczenia jaka krzywda Ci się stała, mikstura lecznicza wnet postawi cię na nogi.... albo przynajmniej uśmierzy ból. Poza tym te mikstury smakują też dobrze.",
 	},
 	"beerRefillBarrel": {
 		"english": "Beer Barrel",
@@ -188,9 +188,9 @@
 		"turkish": "Bira Fıçısı",
 		"dutch": "Bier Ton",
 		"spanish": "Barril de cerveza",
-		"polish": "Beczka piwa",
 		"chinese": "啤酒桶",
-		"italian": "Barile di birra"
+		"italian": "Barile di birra",
+		"polish": "Beczka na piwo"
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -208,9 +208,9 @@
 		"dutch": "Een manier van opslag en de origine van vers bier, bier tonnen zijn zeer belangrijk voor alle kolonieën (Nou, zolang er nog bier in zit...). Je zult zien hoe blij je kolonisten worden als je ze toestaat om hun bekers te vullen. Proost!",
 		"turkish": "Saklama aracı ve taze biranın kaynağı olarak, bira fıçısı tüm yerleşimler için büyük önem taşıyor (En azından içinde biraz kaldığı sürece ...). Yerleşimcilerinizin bardaklarını doldurmalarına izin verildiğinde ne kadar mutlu olduklarını göreceksiniz. Şerefe!",
 		"spanish": "Como medio de almacenamiento y origen de la cerveza fresca, el barril de cerveza tiene una grande importancia para todas las colonias (Bueno, mientras haya quedado algo dentro...). Verás hasta que punto tus colonos estarán felices cuando los permitas rellenar sus cañas. ¡Salud!\n\nEste barril puede contener hasta %capacityBeer% de cerveza.",
-		"polish": "Jako miejsce przechowywania i pochodzenia świeżego piwa, beczka piwna jest bardzo ważna dla wszystkich kolonii (Przynajmniej tak długo, jak ktoś w nich jeszcze został...).  Zobaczysz jak szczęśliwi koloniści się stają kiedy pozwolisz im napełnić ich kufle. Na zdrowie!",
 		"chinese": "啤酒桶作为一种储藏手段和新鲜啤酒的来源，对所有的殖民地来说都是非常重要的(嗯，只要还有一些酒在里面……)。当你的殖民者把杯子装满时，你会看到他们有多高兴。干杯!\n\n此桶最多可容纳%capacityBeer%啤酒。",
-		"italian": "Come mezzo di conservazione e di provenienza della birra fresca, un barile di birra è di grande importanza per tutte le colonie là fuori (beh, a patto che sia pieno ovviamente...). Vedrai quanto saranno felici i tuoi coloni quando permetterai loro di riempire le loro tazze. Salute!\n\nQuesto barile può contenere fino a %capacityBeer% birre."
+		"italian": "Come mezzo di conservazione e di provenienza della birra fresca, un barile di birra è di grande importanza per tutte le colonie là fuori (beh, a patto che sia pieno ovviamente...). Vedrai quanto saranno felici i tuoi coloni quando permetterai loro di riempire le loro tazze. Salute!\n\nQuesto barile può contenere fino a %capacityBeer% birre.",
+		"polish": "Jako źródło świeżego piwa, beczka zawierająca ten złocisty trunek jest bardzo ważna w każdej kolonii (przynajmniej tak długo, jak ktoś w niej jeszcze został...).  Zobaczysz jak szczęśliwymi koloniści się stają gdy tylko napełnią swe kufle. Na zdrowie!"
 	},
 
 
@@ -228,9 +228,9 @@
 		"russian": "Простой Деревянный Комод",
 		"ukrainian": "Дерев'яний Комод",
 		"korean": "단순한 목제 서랍장",
-		"polish": "Prosta drewniana komoda",
 		"chinese": "简易木制梳妆台",
-		"italian": "Comodino di legno semplice"
+		"italian": "Comodino di legno semplice",
+		"polish": "Prosta drewniana komoda"
 	},
 	"dresserWoodPlanks0Variation0Description": {
 		"english": "A dresser made out of rough wooden planks.",
@@ -243,9 +243,9 @@
 		"russian": "Комод из грубых деревянных досок.",
 		"ukrainian": "Комод з грубих дерев'яних дощок.",
 		"korean": "거친 나무 판자로 만들어진 서랍장.",
-		"polish": "Komoda wykonana ze zwykłych drewnianych desek.",
 		"chinese": "用粗糙的木板做成的梳妆台。",
-		"italian": "Un comodino realizzato con assi di legno grezzo."
+		"italian": "Un comodino realizzato con assi di legno grezzo.",
+		"polish": "Komoda sklecona ze zwykłych nieheblowanych desek.",
 	},
 	"dresserWoodPlanks0Variation1": {
 		"english": "Simple Wooden Dresser",
@@ -275,7 +275,7 @@
 		"korean": "거친 나무 판자로 만들어진 넓은 서랍장.",
 		"chinese": "用粗糙的木板做成的宽梳妆台。",
 		"italian": "Un ampio comodino realizzato con assi di legno grezzo.",
-		"polish": "Szeroka komoda wykonana ze zwykłych drewnianych desek."
+		"polish": "Szeroka komoda zbita z nieheblowanych desek."
 	},
 	"dresserWoodPlanks0Variation2": {
 		"english": "Simple Wooden Dresser",
@@ -305,7 +305,7 @@
 		"korean": "거친 나무 판자로 만들어진 높은 서랍장.",
 		"chinese": "用粗糙的木板做成的高梳妆台。",
 		"italian": "Un comodino alto realizzato con assi di legno grezzo.",
-		"polish": "Wysoka komoda wykonana ze zwykłych drewnianych desek."
+		"polish": "Wysoka komoda wykonana z nieheblowanych desek."
 	},
 	"dresserWoodLog0Variation0": {
 		"english": "Natural Wooden Dresser",
@@ -320,7 +320,7 @@
 		"korean": "나무결이 살아있는 서랍장",
 		"chinese": "天然木制梳妆台",
 		"italian": "Comodino di legno naturale",
-		"polish": "Naturalna drewniana komoda"
+		"polish": "Drewniana komoda"
 	},
 	"dresserWoodLog0Variation0Description": {
 		"english": "A dresser made out of natural looking wood.",
@@ -335,7 +335,7 @@
 		"korean": "결이 살아있는 나무로 만들어진 서랍장.",
 		"chinese": "天然木材做成的梳妆台。",
 		"italian": "Un comodino in legno dall'aspetto naturale.",
-		"polish": "Komoda wykonana z naturalnie wyglądającego drewna."
+		"polish": "Komoda wykonana ze starannie dobranego drewna."
 	},
 	"dresserWoodLog0Variation1": {
 		"english": "Natural Wooden Dresser",
@@ -350,7 +350,7 @@
 		"korean": "나무결이 살아있는 서랍장",
 		"chinese": "天然木制梳妆台",
 		"italian": "Comodino di legno naturale",
-		"polish": "Naturalna drewniana komoda"
+		"polish": "Drewniana komoda"
 	},
 	"dresserWoodLog0Variation1Description": {
 		"english": "A wide dresser made out of natural looking wood.",
@@ -365,7 +365,7 @@
 		"korean": "결이 살아있는 나무로 만들어진 넓은 서랍장.",
 		"chinese": "宽大的梳妆台，用看上去是天然木头做的。",
 		"italian": "Un ampio comodino in legno dall'aspetto naturale.",
-		"polish": "Szeroka komoda wykonana z naturalnie wyglądającego drewna."
+		"polish": "Szeroka komoda wykonana ze starannie dobranego drewna."
 	},
 	"dresserWoodLog0Variation2": {
 		"english": "Natural Wooden Dresser",
@@ -380,7 +380,7 @@
 		"korean": "나무결이 살아있는 서랍장",
 		"chinese": "天然木制梳妆台",
 		"italian": "Comodino di legno naturale",
-		"polish": "Naturalna drewniana komoda"
+		"polish": "Drewniana komoda"
 	},
 	"dresserWoodLog0Variation2Description": {
 		"english": "A tall dresser made out of natural looking wood.",
@@ -395,7 +395,7 @@
 		"korean": "결이 살아있는 나무로 만들어진 높은 서랍장.",
 		"chinese": "高高的梳妆台，用看上去是天然木头做的。",
 		"italian": "Un comodino alto in legno dall'aspetto naturale.",
-		"polish": "Wysoka komoda wykonana z naturalnie wyglądającego drewna."
+		"polish": "Wysoka komoda wykonana ze starannie dobranego drewna."
 	},
 	"dresserStoneBlock0Variation0": {
 		"english": "Simple Stone Dresser",
@@ -425,7 +425,7 @@
 		"korean": "돌을 깎아내 만든 서랍장.",
 		"chinese": "用石块雕刻的梳妆台。",
 		"italian": "Un comodino ricavato da un blocco di pietra.",
-		"polish": "Komoda wykonana z kamiennego bloku."
+		"polish": "Komoda wyciosana z kamiennego bloku."
 	},
 	"dresserStoneBlock0Variation1": {
 		"english": "Simple Stone Dresser",
@@ -455,7 +455,7 @@
 		"korean": "돌을 깎아내 만든 넓은 서랍장.",
 		"chinese": "用石块雕成的宽梳妆台。",
 		"italian": "Un ampio comodino ricavato da un blocco di pietra.",
-		"polish": "Szeroka komoda wykonana z kamiennego bloku."
+		"polish": "Szeroka komoda wyciosana z kamiennego bloku."
 	},
 	"dresserStoneBlock0Variation2": {
 		"english": "Simple Stone Dresser",
@@ -485,7 +485,7 @@
 		"korean": "돌을 깎아내 만든 높은 서랍장.",
 		"chinese": "用石块雕成的高梳妆台。",
 		"italian": "Un comodino alto ricavato da un blocco di pietra.",
-		"polish": "Wysoka komoda wykonana z kamiennego bloku."
+		"polish": "Wysoka komoda wyciosana z kamiennego bloku."
 	},
 	"dresserWoodPlanks1Variation0": {
 		"english": "Advanced Wooden Dresser",
@@ -500,7 +500,7 @@
 		"korean": "고급 목제 서랍장",
 		"chinese": "高级木制梳妆台",
 		"italian": "Comodino di legno rifinito",
-		"polish": "Zaawansowana drewniana komoda"
+		"polish": "Elegancka drewniana komoda"
 	},
 	"dresserWoodPlanks1Variation0Description": {
 		"english": "A dresser made out of only the finest wooden planks.",
@@ -515,7 +515,7 @@
 		"korean": "최상의 목재로만 만들어진 서랍장.",
 		"chinese": "梳妆台采用最好的木板制作。",
 		"italian": "Un comodino realizzato solo con le migliori assi di legno.",
-		"polish": "Komoda wykonana z najlepszych drewnianych desek"
+		"polish": "Komoda wykonana z drewnianych desek najwyższej jakości."
 	},
 	"dresserWoodPlanks1Variation1": {
 		"english": "Advanced Wooden Dresser",
@@ -530,7 +530,7 @@
 		"korean": "고급 목제 서랍장",
 		"chinese": "高级木制梳妆台",
 		"italian": "Comodino di legno rifinito",
-		"polish": "Zaawansowana drewniana komoda"
+		"polish": "Elegancka drewniana komoda"
 	},
 	"dresserWoodPlanks1Variation1Description": {
 		"english": "A wide dresser made out of only the finest wooden planks.",
@@ -545,7 +545,7 @@
 		"korean": "최상의 목재로만 만들어진 넓은 서랍장.",
 		"chinese": "宽梳妆台采用最好的木板制作。",
 		"italian": "Un ampio comodino realizzato solo con le migliori assi di legno.",
-		"polish": "Szeroka komoda wykonana z najlepszych drewnianych desek"
+		"polish": "Szeroka komoda wykonana z drewnianych desek najwyższej jakości."
 	},
 	"dresserWoodPlanks1Variation2": {
 		"english": "Advanced Wooden Dresser",
@@ -560,7 +560,7 @@
 		"korean": "고급 목제 서랍장",
 		"chinese": "高级木制梳妆台",
 		"italian": "Comodino di legno rifinito",
-		"polish": "Zaawansowana drewniana komoda"
+		"polish": "Elegancka drewniana komoda"
 	},
 	"dresserWoodPlanks1Variation2Description": {
 		"english": "A tall dresser made out of only the finest wooden planks.",
@@ -575,7 +575,7 @@
 		"korean": "최상의 목재로만 만들어진 높은 서랍장.",
 		"chinese": "高梳妆台采用最好的木板制作。",
 		"italian": "Un comodino alto realizzato solo con le migliori assi di legno.",
-		"polish": "Wysoka komoda wykonana z najlepszych drewnianych desek"
+		"polish": "Wysoka komoda wykonana z drewnianych desek najwyższej jakości."
 	},
 
 	// Shelves
@@ -609,7 +609,7 @@
 		"korean": "빠르게 조립된 목제 선반은 아무 물건이나 넣어두기 딱 좋은 공간입니다.",
 		"chinese": "这个快速组装的木架子是存放杂物的好地方。",
 		"italian": "Questo scaffale in legno assemblato rapidamente è il luogo ideale per conservare qualsiasi tipo di oggetto.",
-		"polish": "Ta szybko złożona z drewna szafka to ideala lokalizacja na trzymanie swoich rzeczy."
+		"polish": "Ta po prędce sklecona szafka to idealne miejsce na twoje rzeczy."
 	},
 	"shelfWoodPlanks0Variation1": {
 		"english": "Simple Wooden Shelf",
@@ -639,7 +639,7 @@
 		"korean": "빠르게 조립된 목제 선반은 아무 물건이나 넣어두기 딱 좋은 공간입니다.",
 		"chinese": "这个快速组装的木架子是存放杂物的好地方。",
 		"italian": "Questo scaffale in legno assemblato rapidamente è il luogo ideale per conservare qualsiasi tipo di oggetto.",
-		"polish": "Ta szybko złożona z drewna szafka to ideala lokalizacja na trzymanie swoich rzeczy."
+		"polish": "Ta na szybko sklecona szafka to idealne miejsce na twoje rzeczy."
 	},
 	"shelfWoodLog0Variation0": {
 		"english": "Natural Wooden Shelf",
@@ -654,7 +654,7 @@
 		"korean": "나무결이 살아있는 선반",
 		"chinese": "天然架子",
 		"italian": "Scaffale di legno naturale",
-		"polish": "Szafka z naturalnego drewna"
+		"polish": "Drewniana szafka"
 	},
 	"shelfWoodLog0Variation0Description": {
 		"english": "This wooden shelf stresses your colonists' deep connection to nature.",
@@ -669,7 +669,7 @@
 		"korean": "이 목제 선반을 본 개척자들은 자연과 강한 연대감을 느낍니다.",
 		"chinese": "这个木架子注重殖民者与大自然的深层联系。",
 		"italian": "Questo scaffale di legno mette in risalto la profonda connessione tra i tuoi coloni e la natura.",
-		"polish": "Ta drewniana szafka podkreśla głęboką więź twoich kolonistów z naturą."
+		"polish": "Ta drewniana szafka tylko podkreśli głęboką więź twoich kolonistów z naturą."
 	},
 	"shelfWoodLog0Variation1": {
 		"english": "Natural Wooden Shelf",
@@ -684,7 +684,7 @@
 		"korean": "나무결이 살아있는 선반",
 		"chinese": "天然架子",
 		"italian": "Scaffale di legno naturale",
-		"polish": "Szafka z naturalnego drewna"
+		"polish": "Drewniana szafka"
 	},
 	"shelfWoodLog0Variation1Description": {
 		"english": "This wooden shelf stresses your colonists' deep connection to nature.",
@@ -699,7 +699,7 @@
 		"korean": "이 목제 선반을 본 개척자들은 자연과 강한 연대감을 느낍니다.",
 		"chinese": "这个木架子注重殖民者与大自然的深层联系。",
 		"italian": "Questo scaffale di legno mette in risalto la profonda connessione tra i tuoi coloni e la natura.",
-		"polish": "Ta drewniana szafka podkreśla głęboką więź twoich kolonistów z naturą."
+		"polish": "Ta drewniana szafka podkreśi nierozerwalną więź twych kolonistów z naturą."
 	},
 	"shelfStoneBlock0Variation0": {
 		"english": "Simple Stone Shelf",
@@ -729,7 +729,7 @@
 		"korean": "무거운 돌 덩어리를 깎아 만들어진 선반. 당신에게 넘어지는 걸 상상하진 마세요...",
 		"chinese": "用一块大石头雕刻成的架子。最好不要想象这东西砸在你身上。",
 		"italian": "Uno scaffale ricavato da un pesante blocco di pietra. Meglio non immaginare cosa succederebbe se ti cadesse addosso...",
-		"polish": "Szafka z litego kamienia. Lepiej nie myśleć co by się stało gdyby kogoś przygniotła."
+		"polish": "Szafka z solidnego kawałka skały. Lepiej nie myśleć co by się stało gdyby kogoś przygniotła."
 	},
 	"shelfStoneBlock0Variation1": {
 		"english": "Simple Stone Shelf",
@@ -774,7 +774,7 @@
 		"korean": "고급 목제 선반",
 		"chinese": "高级架子",
 		"italian": "Scaffale di legno rifinito",
-		"polish": "Wysokiej jakości drewniana szafka"
+		"polish": "Elegancka drewniana szafka"
 	},
 	"shelfWoodPlanks1Variation1Description": {
 		"english": "A precisely crafted shelf, made out of dark wood. Gives your house some class.",
@@ -789,7 +789,7 @@
 		"korean": "어두운 빛깔의 목재로 만들어진 정교하게 만들어진 선반. 당신의 집에 격을 더해 줍니다.",
 		"chinese": "用深色木头制成的精致的架子。给你的房子升一个档次。",
 		"italian": "Uno scaffale realizzato con cura, utilizzando del legno scuro. Dona alla tua casa un po' di classe.",
-		"polish": "Precyzyjnie rzeźbiona szafka z ciemnego drewna. Nadaje wnętrzu trochę klasy."
+		"polish": "Kunsztownie zdobiona szafka z ciemnego drewna nada każdemu wnętrzu trochę klasy."
 	},
 	"shelfWoodPlanks1Variation1": {
 		"english": "Advanced Wooden Shelf",
@@ -804,7 +804,7 @@
 		"korean": "고급 목제 선반",
 		"chinese": "高级架子",
 		"italian": "Scaffale di legno rifinito",
-		"polish": "Wysokiej jakości drewniana szafka"
+		"polish": "Elegancka drewniana szafka"
 	},
 	"shelfWoodPlanks1Variation0Description": {
 		"english": "A precisely crafted shelf, made out of dark wood. Gives your house some class.",
@@ -819,7 +819,7 @@
 		"korean": "어두운 빛깔의 목재로 만들어진 정교하게 만들어진 선반. 당신의 집에 격을 더해 줍니다.",
 		"chinese": "用深色木头制成的精致的架子。给你的房子升一个档次。",
 		"italian": "Uno scaffale realizzato con cura, utilizzando del legno scuro. Dona alla tua casa un po' di classe.",
-		"polish": "Precyzyjnie rzeźbiona szafka z ciemnego drewna. Nadaje wnętrzu trochę klasy."
+		"polish": "Kunsztownie zdobiona szafka z ciemnego drewna nada każdemu wnętrzu odrobinę klasy."
 	},
 
 	// Closets
@@ -838,7 +838,7 @@
 		"korean": "단순한 목제 옷장",
 		"chinese": "简易木制衣柜",
 		"italian": "Armadio di legno semplice",
-		"polish": "Prosta drewniana szafa"
+		"polish": "Prosta drewniana komoda"
 	},
 	"closetWoodPlanks0Variation0Description": {
 		"english": "This quickly assembled wooden wardrobe is the ideal storage location for random stuff.",
@@ -853,7 +853,7 @@
 		"korean": "빠르게 조립된 목제 옷장은 아무 물건이나 넣어두기 딱 좋은 공간입니다.",
 		"chinese": "这个快速组装的木制衣柜是存放杂物的好地方。",
 		"italian": "Questo armadio di legno assemblato rapidamente è il luogo ideale per riporre oggetti casuali.",
-		"polish": "Ta prosta komoda z drewna nadaje się do przechowywania ubrań i różnych gratów."
+		"polish": "Ta prosta drewniana komoda nadaje się do przechowywania ubrań i różnych bibelotów."
 	},
 	"closetWoodLog0Variation0": {
 		"english": "Natural Wooden Wardrobe",
@@ -868,7 +868,7 @@
 		"korean": "나무결이 살아있는 옷장",
 		"chinese": "天然木制衣柜",
 		"italian": "Armadio di legno naturale",
-		"polish": "Prosta drewniana szafa"
+		"polish": "Prosta drewniana komoda"
 	},
 	"closetWoodLog0Variation0Description": {
 		"english": "This wardrobe stresses your colonists' deep connection to nature.",
@@ -883,7 +883,7 @@
 		"korean": "이 목제 옷장을 본 개척자들은 자연과 강한 연대감을 느낍니다.",
 		"chinese": "这个衣柜注重你的殖民者与大自然的深层联系。",
 		"italian": "Questo armadio mette in risalto la profonda connessione tra i tuoi coloni e la natura.",
-		"polish": "Ta prosta komoda z drewna nadaje się do przechowywania ubrań i różnych gratów."
+		"polish": "Ta prosta drewniana komoda podkreśi nierozerwalną więź twych kolonistów z naturą."
 	},
 	"closetStoneBlock0Variation0": {
 		"english": "Simple Stone Wardrobe",
@@ -898,7 +898,7 @@
 		"korean": "단순한 석제 옷장",
 		"chinese": "简易石制衣柜",
 		"italian": "Armadio di pietra semplice",
-		"polish": "Prosta kamienna szafa"
+		"polish": "Prosta kamienna komoda"
 	},
 	"closetStoneBlock0Variation0Description": {
 		"english": "A wardrobe carved out of a heavy stone block. Better not imagine that thing falling on you.",
@@ -913,7 +913,7 @@
 		"korean": "무거운 돌 덩어리를 깎아 만들어진 옷장. 당신에게 넘어지는 걸 상상하진 마세요...",
 		"chinese": "用一块大石头雕刻而成的衣柜。最好不要想象这东西砸在你身上。",
 		"italian": "Un armadio ricavato da un pesante blocco di pietra. Meglio non immaginare cosa succederebbe se ti cadesse addosso...",
-		"polish": "Szafa z litego kamienia. Lepiej nie myśleć co by się stało gdyby kogoś przygniotła."
+		"polish": "Komoda z litego kamienia. Ciężka, więc lepiej uważać by kogoś nie przygniotła."
 	},
 	"closetWoodPlanks1Variation0": {
 		"english": "Advanced Wooden Wardrobe",
@@ -928,7 +928,7 @@
 		"korean": "고급 목제 옷장",
 		"chinese": "高级木制衣柜",
 		"italian": "Armadio di legno rifinito",
-		"polish": "Wysokiej jakości drewniana szafa"
+		"polish": "Elegancka drewniana komoda"
 	},
 	"closetWoodPlanks1Variation0Description": {
 		"english": "A precisely crafted wardrobe, made out of dark wood. Gives your house some class.",
@@ -943,7 +943,7 @@
 		"korean": "어두운 빛깔의 목재로 만들어진 정교하게 만들어진 옷장. 당신의 집에 격을 더해 줍니다.",
 		"chinese": "用深色木头制成的精致的柜子。给你的房子升一个档次。",
 		"italian": "Un armadio realizzato con cura, utilizzando del legno scuro. Dona alla tua casa un po' di classe.",
-		"polish": "Precyzyjnie rzeźbiona szafa z ciemnego drewna. Nadaje wnętrzu trochę klasy."
+		"polish": "Kunsztownie ozdobiona szafka z ciemnego drewna nada każdemu wnętrzu odrobinę klasy."
 	},
 
 	// Carpets
@@ -960,7 +960,8 @@
 		"turkish": "Zengin halısı 3x2",
 		"korean": "부자의 러그 3xs",
 		"chinese": "富丽地毯 3x2",
-		"italian": "Tappeto di ricchezza 3x2"
+		"italian": "Tappeto di ricchezza 3x2",
+		"polish": "Dywanik 3x2"
 	},
 	"carpet3x2_0_0Description": {
 		"english": "This red, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -973,7 +974,8 @@
 		"turkish": "Bu kırmızı, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 빨갛고, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款红色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto rosso di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto rosso di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten czerwony, elegancki dywanik nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpet3x2_0_1": {
 		"english": "Rug of Wealth 3x2",
@@ -986,7 +988,8 @@
 		"turkish": "Zengin halısı 3x2",
 		"korean": "부자의 러그 3x2",
 		"chinese": "富丽地毯 3x2",
-		"italian": "Tappeto di ricchezza 3x2"
+		"italian": "Tappeto di ricchezza 3x2",
+		"polish": "Dywanik 3x2"
 	},
 	"carpet3x2_0_1Description": {
 		"english": "This blue, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -999,7 +1002,8 @@
 		"turkish": "Bu mavi, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 파랗고, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款蓝色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto blu di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto blu di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten niebieski, elegancki dywanik nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpet3x2_0_2": {
 		"english": "Rug of Wealth 3x2",
@@ -1012,7 +1016,8 @@
 		"turkish": "Zengin halısı 3x2",
 		"korean": "부자의 러그 3x2",
 		"chinese": "富丽地毯 3x2",
-		"italian": "Tappeto di ricchezza 3x2"
+		"italian": "Tappeto di ricchezza 3x2",
+		"polish": "Dywanik 3x2"
 	},
 	"carpet3x2_0_2Description": {
 		"english": "This green, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1025,7 +1030,8 @@
 		"turkish": "Bu yeşil, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 초록의, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款绿色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto verde di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto verde di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten zielony, elegancki dywanik nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpet3x2_1_0": {
 		"english": "Rug of Square Order 3x2",
@@ -1038,7 +1044,8 @@
 		"turkish": "Kare desenli halı 3x2",
 		"korean": "사각 무늬 러그 3x2",
 		"chinese": "方纹地毯 3x2",
-		"italian": "Tappeto di ordine quadrato 3x2"
+		"italian": "Tappeto di ordine quadrato 3x2",
+		"polish": "Dywanik 3x2"
 	},
 	"carpet3x2_1_0Description": {
 		"english": "A well made purple rug with a very structured pattern. Everything is in order!",
@@ -1051,7 +1058,9 @@
 		"turkish": "Bol detaylı desen ile kaliteli bir mor halı. Her şey yolunda!",
 		"korean": "구조적 패턴의 잘 만든 보라색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的紫色地毯，精心编织的图案。一切都显示得秩序井然！",
-		"italian": "Un tappeto viola ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto viola ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidnie utkany purpurowy dywanik z gustownym wzorem."
+		
 	},
 	"carpet3x2_1_1": {
 		"english": "Rug of Square Order 3x2",
@@ -1064,7 +1073,8 @@
 		"turkish": "Kare desenli halı 3x2",
 		"korean": "사각 무늬 러그 3x2",
 		"chinese": "方纹地毯 3x2",
-		"italian": "Tappeto di ordine quadrato 3x2"
+		"italian": "Tappeto di ordine quadrato 3x2",
+		"polish": "Dywanik 3x2"
 	},
 	"carpet3x2_1_1Description": {
 		"english": "A well made yellow rug with a very structured pattern. Everything is in order!",
@@ -1077,7 +1087,8 @@
 		"turkish": "Bol detaylı desen ile kaliteli bir sarı halı. Her şey yolunda!",
 		"korean": "구조적 패턴의 잘 만든 노란색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的黄色地毯，精心编织的图案。一切都显示得秩序井然！",
-		"italian": "Un tappeto giallo ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto giallo ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidnie utkany żółty dywanik z gustownym wzorem."
 	},
 	"carpet3x2_1_2": {
 		"english": "Rug of Square Order 3x2",
@@ -1090,7 +1101,8 @@
 		"turkish": "Kare desenli halı 3x2",
 		"korean": "사각 무늬 러그 3x2",
 		"chinese": "方纹地毯 3x2",
-		"italian": "Tappeto di ordine quadrato 3x2"
+		"italian": "Tappeto di ordine quadrato 3x2",
+		"polish": "Dywanik 3x2"
 	},
 	"carpet3x2_1_2Description": {
 		"english": "A well made orange rug with a very structured pattern. Everything is in order!",
@@ -1103,7 +1115,8 @@
 		"turkish": "Bol detaylı desen ile kaliteli bir turuncu halı. Her şey yolunda!",
 		"korean": "구조적 패턴의 잘 만든 주황색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的橙色地毯，精心编织的图案。一切都显示得秩序井然！",
-		"italian": "Un tappeto arancione ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto arancione ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidnie utkany pomarańczowy dywanik z gustownym wzorem."
 	},
 	"carpetCircle3x2_0_0": {
 		"english": "Round Rug of Wealth 3x2",
@@ -1116,7 +1129,8 @@
 		"turkish": "Yuvarlak zengin halısı 3x2",
 		"korean": "부자의 둥근 러그 3x2",
 		"chinese": "富丽圆地毯 3x2",
-		"italian": "Tappetto di ricchezza rotondo 3x2"
+		"italian": "Tappetto di ricchezza rotondo 3x2",
+		"polish": "Dywanik 3x2"
 	},
 	"carpetCircle3x2_0_0Description": {
 		"english": "This red, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1129,7 +1143,8 @@
 		"turkish": "Bu kırmızı, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 빨갛고, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款红色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto rosso di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto rosso di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten czerwony, okrągły dywanik nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpetCircle3x2_0_1": {
 		"english": "Round Rug of Wealth 3x2",
@@ -1142,7 +1157,8 @@
 		"turkish": "Yuvarlak zengin halısı 3x2",
 		"korean": "부자의 둥근 러그 3x2",
 		"chinese": "富丽圆地毯 3x2",
-		"italian": "Tappetto di ricchezza rotondo 3x2"
+		"italian": "Tappetto di ricchezza rotondo 3x2",
+		"polish": "Dywanik 3x2"
 	},
 	"carpetCircle3x2_0_1Description": {
 		"english": "This blue, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1155,7 +1171,8 @@
 		"turkish": "Bu mavi, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 파랗고, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款红色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto blu di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto blu di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten niebieski, okrągły dywanik nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpetCircle3x2_0_2": {
 		"english": "Round Rug of Wealth 3x2",
@@ -1168,7 +1185,8 @@
 		"turkish": "Yuvarlak zengin halısı 3x2",
 		"korean": "부자의 둥근 러그 3x2",
 		"chinese": "富丽圆地毯 3x2",
-		"italian": "Tappetto di ricchezza rotondo 3x2"
+		"italian": "Tappetto di ricchezza rotondo 3x2",
+		"polish": "Dywanik 3x2"
 	},
 	"carpetCircle3x2_0_2Description": {
 		"english": "This green, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1181,7 +1199,8 @@
 		"turkish": "Bu yeşil, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 초록의, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款红色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto verde di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto verde di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten zielony, okrągły dywanik nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpetCircle3x2_1_0": {
 		"english": "Round Rug of Square Order 3x2",
@@ -1194,7 +1213,8 @@
 		"turkish": "Kare desenli, yuvarlak halı 3x2",
 		"korean": "사각 무늬 둥근 러그 3x2",
 		"chinese": "方纹圆地毯 3x2",
-		"italian": "Tappeto di ordine quadrato rotondo 3x2"
+		"italian": "Tappeto di ordine quadrato rotondo 3x2",
+		"polish": "Dywanik 3x2"
 	},
 	"carpetCircle3x2_1_0Description": {
 		"english": "A well made purple rug with a very structured pattern. Everything is in order!",
@@ -1206,7 +1226,8 @@
 		"portuguese": "Um tapete roxo bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 주황색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的紫色地毯，精心编织的图案。一切都显示得秩序井然！",
-		"italian": "Un tappeto viola ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto viola ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidny, okrągły i purpurowy dywanik z gustownym wzorem."
 	},
 	"carpetCircle3x2_1_1": {
 		"english": "Round Rug of Square Order 3x2",
@@ -1219,7 +1240,8 @@
 		"turkish": "Kare desenli, yuvarlak halı 3x2",
 		"korean": "사각 무늬 둥근 러그 3x2",
 		"chinese": "方纹圆地毯 3x2",
-		"italian": "Tappeto di ordine quadrato rotondo 3x2"
+		"italian": "Tappeto di ordine quadrato rotondo 3x2",
+		"polish": "Dywanik 3x2"
 	},
 	"carpetCircle3x2_1_1Description": {
 		"english": "A well made yellow rug with a very structured pattern. Everything is in order!",
@@ -1231,7 +1253,8 @@
 		"portuguese": "Um tapete amarelo bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 노란색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的黄色地毯，精心编织的图案。一切都显示得秩序井然！",
-		"italian": "Un tappeto giallo ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto giallo ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidny, okrągły i żółty dywanik z gustownym wzorem."
 	},
 	"carpetCircle3x2_1_2": {
 		"english": "Round Rug of Square Order 3x2",
@@ -1244,7 +1267,8 @@
 		"turkish": "Kare desenli, yuvarlak halı 3x2",
 		"korean": "사각 무늬 둥근 러그 3x2",
 		"chinese": "方纹圆地毯 3x2",
-		"italian": "Tappeto di ordine quadrato rotondo 3x2"
+		"italian": "Tappeto di ordine quadrato rotondo 3x2",
+		"polish": "Dywanik 3x2"
 	},
 	"carpetCircle3x2_1_2Description": {
 		"english": "A well made orange rug with a very structured pattern. Everything is in order!",
@@ -1256,7 +1280,8 @@
 		"portuguese": "Um tapete laranja bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 주황색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的橙色地毯，精心编织的图案。一切都显示得秩序井然！",
-		"italian": "Un tappeto arancione ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto arancione ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidny, okrągły i pomarańczowy dywanik z gustownym wzorem."
 	},
 	"carpet3x3_0_0": {
 		"english": "Rug of Wealth 3x3",
@@ -1269,7 +1294,8 @@
 		"turkish": "Zengin halısı 3x3",
 		"korean": "부자의 러그 3x3",
 		"chinese": "富丽地毯 3x3",
-		"italian": "Tappeto di ricchezza 3x3"
+		"italian": "Tappeto di ricchezza 3x3",
+		"polish": "Dywanik 3x3"
 	},
 	"carpet3x3_0_0Description": {
 		"english": "This red, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1282,7 +1308,8 @@
 		"turkish": "Bu kırmızı, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 빨갛고, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款红色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto rosso di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto rosso di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten czerwony, kwadratowy dywanik nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpet3x3_0_1": {
 		"english": "Rug of Wealth 3x3",
@@ -1295,7 +1322,8 @@
 		"turkish": "Zengin halısı 3x3",
 		"korean": "부자의 러그 3x3",
 		"chinese": "富丽地毯 3x3",
-		"italian": "Tappeto di ricchezza 3x3"
+		"italian": "Tappeto di ricchezza 3x3",
+		"polish": "Dywanik 3x3"
 	},
 	"carpet3x3_0_1Description": {
 		"english": "This blue, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1308,7 +1336,8 @@
 		"turkish": "Bu mavi, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 파랗고, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款蓝色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto blu di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto blu di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten niebieski, kwadratowy dywanik nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpet3x3_0_2": {
 		"english": "Rug of Wealth 3x3",
@@ -1321,7 +1350,8 @@
 		"turkish": "Zengin halısı 3x3",
 		"korean": "부자의 러그 3x3",
 		"chinese": "富丽地毯 3x3",
-		"italian": "Tappeto di ricchezza 3x3"
+		"italian": "Tappeto di ricchezza 3x3",
+		"polish": "Dywanik 3x3"
 	},
 	"carpet3x3_0_2Description": {
 		"english": "This green, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1334,7 +1364,8 @@
 		"turkish": "Bu yeşil, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 초록의, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款绿色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto verde di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto verde di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten zielony, kwadratowy dywanik nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpet3x3_1_0": {
 		"english": "Rug of Square Order 3x3",
@@ -1347,7 +1378,8 @@
 		"turkish": "Kare desenli halı 3x3",
 		"korean": "사각무늬 러그 3x3",
 		"chinese": "方纹地毯 3x3",
-		"italian": "Tappeto di ordine quadrato 3x3"
+		"italian": "Tappeto di ordine quadrato 3x3",
+		"polish": "Dywanik 3x3"
 	},
 	"carpet3x3_1_0Description": {
 		"english": "A well made purple rug with a very structured pattern. Everything is in order!",
@@ -1359,7 +1391,8 @@
 		"portuguese": "Um tapete roxo bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 보라색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的紫色地毯，精心编织的图案。一切都显示得秩序井然！",
-		"italian": "Un tappeto viola ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto viola ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidny, prostokątny i purpurowy dywanik z gustownym wzorem."
 	},
 	"carpet3x3_1_1": {
 		"english": "Rug of Square Order 3x3",
@@ -1372,7 +1405,8 @@
 		"turkish": "Kare desenli halı 3x3",
 		"korean": "사각무늬 러그 3x3",
 		"chinese": "方纹地毯 3x3",
-		"italian": "Tappeto di ordine quadrato 3x3"
+		"italian": "Tappeto di ordine quadrato 3x3",
+		"polish": "Dywanik 3x3"
 	},
 	"carpet3x3_1_1Description": {
 		"english": "A well made yellow rug with a very structured pattern. Everything is in order!",
@@ -1384,7 +1418,8 @@
 		"portuguese": "Um tapete amarelo bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 노란색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的黄色地毯，精心编织的图案。一切都显示得秩序井然！",
-		"italian": "Un tappeto giallo ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto giallo ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidny, prostokątny i żółty dywanik z gustownym wzorem."
 	},
 	"carpet3x3_1_2": {
 		"english": "Rug of Square Order 3x3",
@@ -1396,7 +1431,8 @@
 		"portuguese": "Tapete de Ordem Quadrada 3x3",
 		"korean": "사각무늬 러그 3x3",
 		"chinese": "方纹地毯 3x3",
-		"italian": "Tappeto di ordine quadrato 3x3"
+		"italian": "Tappeto di ordine quadrato 3x3",
+		"polish": "Dywanik 3x3"
 	},
 	"carpet3x3_1_2Description": {
 		"english": "A well made orange rug with a very structured pattern. Everything is in order!",
@@ -1408,7 +1444,8 @@
 		"portuguese": "Um tapete laranja bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 주황색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的橙色地毯，精心编织的图案。一切都显示得秩序井然！",
-		"italian": "Un tappeto arancione ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto arancione ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidny, prostokątny i pomarańczowy dywanik z gustownym wzorem."
 	},
 	"carpetCircle3x3_0_0": {
 		"english": "Round Rug of Wealth 3x3",
@@ -1420,7 +1457,8 @@
 		"portuguese": "Tapete Redondo de Riqueza 3x3",
 		"korean": "부자의 둥근 러그 3x3",
 		"chinese": "富丽圆地毯 3x3",
-		"italian": "Tappeto di ricchezza rotondo 3x3"
+		"italian": "Tappeto di ricchezza rotondo 3x3",
+		"polish": "Dywanik 3x3"
 	},
 	"carpetCircle3x3_0_0Description": {
 		"english": "This red, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1433,7 +1471,8 @@
 		"turkish": "Bu kırmızı, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 빨갛고, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款红色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto rosso di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto rosso di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten czerwony, okrągły dywanik nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpetCircle3x3_0_1": {
 		"english": "Round Rug of Wealth 3x3",
@@ -1445,7 +1484,8 @@
 		"portuguese": "Tapete Redondo de Riqueza 3x3",
 		"korean": "부자의 둥근 러그 3x3",
 		"chinese": "富丽圆地毯 3x3",
-		"italian": "Tappeto di ricchezza rotondo 3x3"
+		"italian": "Tappeto di ricchezza rotondo 3x3",
+		"polish": "Dywanik 3x3"
 	},
 	"carpetCircle3x3_0_1Description": {
 		"english": "This blue, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1458,7 +1498,8 @@
 		"turkish": "Bu mavi, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 파랗고, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款蓝色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto blu di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto blu di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten niebieski, okrągły dywanik nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpetCircle3x3_0_2": {
 		"english": "Round Rug of Wealth 3x3",
@@ -1470,7 +1511,8 @@
 		"portuguese": "Tapete Redondo de Riqueza 3x3",
 		"korean": "부자의 둥근 러그 3x3",
 		"chinese": "富丽圆地毯 3x3",
-		"italian": "Tappeto di ricchezza rotondo 3x3"
+		"italian": "Tappeto di ricchezza rotondo 3x3",
+		"polish": "Dywanik 3x3"
 	},
 	"carpetCircle3x3_0_2Description": {
 		"english": "This green, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1483,7 +1525,8 @@
 		"turkish": "Bu yeşil, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 초록의, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款绿色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto verde di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto verde di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten zielony, okrągły dywanik nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpetCircle3x3_1_0": {
 		"english": "Round Rug of Square Order 3x3",
@@ -1496,7 +1539,8 @@
 		"turkish": "Kare desenli, yuvarlak halı 3x3",
 		"korean": "사각무늬 둥근 러그 3x3",
 		"chinese": "方纹圆地毯 3x3",
-		"italian": "Tappeto di ordine quadrato rotondo 3x3"
+		"italian": "Tappeto di ordine quadrato rotondo 3x3",
+		"polish": "Dywanik 3x3"
 	},
 	"carpetCircle3x3_1_0Description": {
 		"english": "A well made purple rug with a very structured pattern. Everything is in order!",
@@ -1508,7 +1552,9 @@
 		"portuguese": "Um tapete roxo bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 보라색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的紫色地毯，精心编织的图案。一切都显示得秩序井然！",
-		"italian": "Un tappeto viola ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto viola ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidny, okrągły i purpurowy dywanik z gustownym wzorem."
+		
 	},
 	"carpetCircle3x3_1_1": {
 		"english": "Round Rug of Square Order 3x3",
@@ -1521,7 +1567,8 @@
 		"turkish": "Kare desenli, yuvarlak halı 3x3",
 		"korean": "사각무늬 둥근 러그 3x3",
 		"chinese": "方纹圆地毯 3x3",
-		"italian": "Tappeto di ordine quadrato rotondo 3x3"
+		"italian": "Tappeto di ordine quadrato rotondo 3x3",
+		"polish": "Dywanik 3x3"
 	},
 	"carpetCircle3x3_1_1Description": {
 		"english": "A well made yellow rug with a very structured pattern. Everything is in order!",
@@ -1533,7 +1580,8 @@
 		"portuguese": "Um tapete amarelo bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 노란색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的黄色地毯，精心编织的图案。一切都显示得秩序井然！",
-		"italian": "Un tappeto giallo ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto giallo ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidny, okrągły i żółty dywanik z gustownym wzorem."
 	},
 	"carpetCircle3x3_1_2": {
 		"english": "Round Rug of Square Order 3x3",
@@ -1546,7 +1594,8 @@
 		"turkish": "Kare desenli, yuvarlak halı 3x3",
 		"korean": "사각무늬 둥근 러그 3x3",
 		"chinese": "方纹圆地毯 3x3",
-		"italian": "Tappeto di ordine quadrato rotondo 3x3"
+		"italian": "Tappeto di ordine quadrato rotondo 3x3",
+		"polish": "Dywanik 3x3"
 	},
 	"carpetCircle3x3_1_2Description": {
 		"english": "A well made orange rug with a very structured pattern. Everything is in order!",
@@ -1558,7 +1607,8 @@
 		"portuguese": "Um tapete laranja bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 주황색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的橙色地毯，精心编织的图案。一切都显示得秩序井然！",
-		"italian": "Un tappeto arancione ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto arancione ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidny, okrągły i pomarańczowy dywanik z gustownym wzorem."
 	},
 	"carpet5x3_0_0": {
 		"english": "Rug of Wealth 5x3",
@@ -1571,7 +1621,8 @@
 		"turkish": "Zengin halısı 5x3",
 		"korean": "부자의 러그 5x3",
 		"chinese": "富丽地毯 5x3",
-		"italian": "Tappeto di ricchezza 5x3"
+		"italian": "Tappeto di ricchezza 5x3",
+		"polish": "Dywan 5x3"
 	},
 	"carpet5x3_0_0Description": {
 		"english": "This red, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1584,7 +1635,8 @@
 		"turkish": "Bu kırmızı, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 빨갛고, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款红色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto rosso di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto rosso di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten solidny, czerwony dywan nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpet5x3_0_1": {
 		"english": "Rug of Wealth 5x3",
@@ -1597,7 +1649,8 @@
 		"turkish": "Zengin halısı 5x3",
 		"korean": "부자의 러그 5x3",
 		"chinese": "富丽地毯 5x3",
-		"italian": "Tappeto di ricchezza 5x3"
+		"italian": "Tappeto di ricchezza 5x3",
+		"polish": "Dywan 5x3"
 	},
 	"carpet5x3_0_1Description": {
 		"english": "This blue, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1610,7 +1663,8 @@
 		"turkish": "Bu mavi, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 파랗고, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款蓝色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto blu di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto blu di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten solidny, niebieski dywan nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpet5x3_0_2": {
 		"english": "Rug of Wealth 5x3",
@@ -1623,7 +1677,8 @@
 		"turkish": "Zengin halısı 5x3",
 		"korean": "부자의 러그 5x3",
 		"chinese": "富丽地毯 5x3",
-		"italian": "Tappeto di ricchezza 5x3"
+		"italian": "Tappeto di ricchezza 5x3",
+		"polish": "Dywan 5x3"
 	},
 	"carpet5x3_0_2Description": {
 		"english": "This green, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
@@ -1636,7 +1691,8 @@
 		"turkish": "Bu yeşil, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
 		"korean": "이 초록의, 고급진 러그는 당신이 방에서 놓치고 있던 특별한 무언가를 더해줍니다. 무얼 말하는지 알죠!",
 		"chinese": "这款绿色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Questo tappeto verde di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!"
+		"italian": "Questo tappeto verde di alta qualità dona alle tue stanze quel tocco speciale che prima mancava. Sai cosa intendo!",
+		"polish": "Ten solidny, zielony dywan nada każdemu pokojowi tego czegoś czego w nim brakowało. Och, wiesz co mam na myśli!"
 	},
 	"carpet5x3_1_0": {
 		"english": "Rug of Square Order 5x3",
@@ -1649,7 +1705,8 @@
 		"turkish": "Kare desenli halı 5x3",
 		"korean": "사각무늬 러그 5x3",
 		"chinese": "方纹地毯 5x3",
-		"italian": "Tappeto di ordine quadrato 5x3"
+		"italian": "Tappeto di ordine quadrato 5x3",
+		"polish": "Dywan 5x3"
 	},
 	"carpet5x3_1_0Description": {
 		"english": "A well made purple rug with a very structured pattern. Everything is in order!",
@@ -1674,7 +1731,8 @@
 		"turkish": "Kare desenli halı 5x3",
 		"korean": "사각무늬 러그 5x3",
 		"chinese": "方纹地毯 5x3",
-		"italian": "Tappeto di ordine quadrato 5x3"
+		"italian": "Tappeto di ordine quadrato 5x3",
+		"polish": "Dywan 5x3"
 	},
 	"carpet5x3_1_1Description": {
 		"english": "A well made yellow rug with a very structured pattern. Everything is in order!",
@@ -1686,7 +1744,8 @@
 		"portuguese": "Um tapete amarelo bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 노란색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "这款黄色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Un tappeto giallo ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto giallo ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidnie utkany żółty dywan z gustownym wzorem."
 	},
 	"carpet5x3_1_2": {
 		"english": "Rug of Square Order 5x3",
@@ -1699,7 +1758,8 @@
 		"turkish": "Kare desenli halı 5x3",
 		"korean": "사각무늬 러그 5x3",
 		"chinese": "方纹地毯 5x3",
-		"italian": "Tappeto di ordine quadrato 5x3"
+		"italian": "Tappeto di ordine quadrato 5x3",
+		"polish": "Dywan 5x3"
 	},
 	"carpet5x3_1_2Description": {
 		"english": "A well made orange rug with a very structured pattern. Everything is in order!",
@@ -1711,7 +1771,8 @@
 		"portuguese": "Um tapete laranja bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 주황색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "这款橙色高品质地毯为您的房间提升了档次。你知道我的意思！",
-		"italian": "Un tappeto arancione ben realizzato con un motivo ben strutturato. Tutto è in ordine!"
+		"italian": "Un tappeto arancione ben realizzato con un motivo ben strutturato. Tutto è in ordine!",
+		"polish": "Solidnie utkany pomarańczowy dywan z gustownym wzorem."
 	},
 
 
@@ -1760,7 +1821,7 @@
 		"korean": "무거운 철제 상자",
 		"chinese": "金属箱子",
 		"italian": "Baule pesante di metallo",
-		"polish": "Metalowa skrzynia"
+		"polish": "Żelazna skrzynia"
 	},
 	"chest1Description": {
 		"english": "Solid, reliable, and good looking. This chest is a great way to make your home look more homely.",
@@ -1793,7 +1854,7 @@
 		"korean": "나무통",
 		"chinese": "木盆",
 		"italian": "Barile di legno",
-		"polish": "Beczka"
+		"polish": "Drewniana beczka"
 	},
 	"barrel1Description": {
 		"english": "Incredible craftsmanship meets timeless design. You have never seen a barrel like it.",
@@ -1807,7 +1868,8 @@
 		"ukrainian": "Неймовірна робота майстрів і унікальний дизайн - ось основні плюси цієї чудової бочки.",
 		"korean": "믿을 수 없는 장인정신과 불변의 디자인이 만났습니다. 이런 통을 본 적이 없을걸요.",
 		"chinese": "高超的工艺配上超前的设计。你从未见过这样的桶。",
-		"italian": "L'incredibile artigianato incontra un design senza tempo. Mai visto un barile simile."
+		"italian": "L'incredibile artigianato incontra un design senza tempo. Mai visto un barile simile.",
+		"polish": "Wyjątkowo solidny i ponadczasowy projekt. Takiej beczki to nigdy nie widziałeś."
 	},
 
 	// Pot Plants
@@ -1826,7 +1888,7 @@
 		"korean": "나무컵에 심은 식물",
 		"chinese": "木盆栽",
 		"italian": "Pianta in secchio di legno",
-		"polish": "Kwiaty w wiadrze"
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood0Variation0Description": {
 		"english": "A simple wooden bucket with purple spring flowers planted in it. The smell is very invigorating.",
@@ -1840,7 +1902,8 @@
 		"ukrainian": "Просте дерев'яне відро з весняними фіолетовими квітами, посадженими в нього. Пахнуть неймовірно!",
 		"korean": "간단하게 나무 컵에 보라색 봄 꽃을 심었습니다. 상쾌한 향기가 나네요.",
 		"chinese": "简易的木盆里面种着紫色的春花。这种味道非常提神。",
-		"italian": "Un semplice secchio di legno con fiori primaverili viola piantati all'interno. L'odore è molto tonificante."
+		"italian": "Un semplice secchio di legno con fiori primaverili viola piantati all'interno. L'odore è molto tonificante.",
+		"polish": "Zwykłe drewniane wiaderko z wiosennymi purpurowymi kwiatami w środku. Pachnie bardzo orzeźwiająco."
 	},
 	"potWood0Variation1": {
 		"english": "Pot Plant in Wooden Bucket",
@@ -1855,7 +1918,7 @@
 		"korean": "나무컵에 심은 식물",
 		"chinese": "木盆栽",
 		"italian": "Pianta in secchio di legno",
-		"polish": "Kwiaty w wiadrze"
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood0Variation1Description": {
 		"english": "A simple wooden bucket with white spring flowers planted in it. The smell is very invigorating.",
@@ -1869,7 +1932,8 @@
 		"ukrainian": "Просте дерев'яне відро з весняними білими квітками, посадженими в нього. Пахнуть неймовірно!",
 		"korean": "간단하게 나무 컵에 하얀 봄 꽃을 심었습니다. 상쾌한 향기가 나네요.",
 		"chinese": "简易的木盆里面种着白色的春花。这种味道非常提神。",
-		"italian": "Un semplice secchio di legno con fiori primaverili bianchi piantati all'interno. L'odore è molto tonificante."
+		"italian": "Un semplice secchio di legno con fiori primaverili bianchi piantati all'interno. L'odore è molto tonificante.",
+		"polish": "Zwykłe drewniane wiaderko z białymi wiosennymi kwiatami w środku. Pachnie bardzo orzeźwiająco."
 	},
 	"potWood0Variation2": {
 		"english": "Pot Plant in Wooden Bucket",
@@ -1884,7 +1948,7 @@
 		"korean": "나무컵에 심은 식물",
 		"chinese": "木盆栽",
 		"italian": "Pianta in secchio di legno",
-		"polish": "Kwiaty w wiadrze"
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood0Variation2Description": {
 		"english": "A simple wooden bucket with a tiny tree planted in it. Make your colony a greener place!",
@@ -1898,7 +1962,8 @@
 		"ukrainian": "Просте дерев'яне відро з маленьким деревом, посадженим в нього. Виглядає неймовірно!",
 		"korean": "간단하게 나무 컵에 작은 묘목을 심었습니다. 정착지를 초록으로 물들여봐요!",
 		"chinese": "简易的木盆里面种着一棵小树。让你的殖民地更加绿色自然!",
-		"italian": "Un secchio di legno semplice con all'interno un minuscolo albero. Rendi la tua colonia un posto più verde!"
+		"italian": "Un secchio di legno semplice con all'interno un minuscolo albero. Rendi la tua colonia un posto più verde!",
+		"polish": "Zwykłe drewniane wiaderko z małym drzewkiem w środku. Uczyni twoją kolonię zieleńszym miejscem."
 	},
 	"potWood0Variation3": {
 		"english": "Pot Plant in Wooden Bucket",
@@ -1912,7 +1977,8 @@
 		"ukrainian": "Кущ в древ'яному відрі",
 		"korean": "나무컵에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in secchio di legno"
+		"italian": "Pianta in secchio di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood0Variation3Description": {
 		"english": "A simple wooden bucket with a bush planted in it. The impeccable rectangular cut is a sign of good care. The right choice for bush lovers!",
@@ -1940,7 +2006,8 @@
 		"ukrainian": "Квітка в дерев'яному відрі",
 		"korean": "나무컵에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in secchio di legno"
+		"italian": "Pianta in secchio di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood0Variation4Description": {
 		"english": "A simple wooden bucket with a yellow summer flower planted in it. The vibrant color makes it stand out.",
@@ -1954,7 +2021,8 @@
 		"ukrainian": "Просте дерев'яне відро з літніми жовтими квітками, посадженими в нього. Пахнуть неймовірно!",
 		"korean": "간단하게 나무 컵에 노란 여름 꽃을 심었습니다. 강렬한 색깔이 눈에 띄네요.",
 		"chinese": "简易的木盆里面种着一朵黄色的夏花。鲜艳的颜色使它显得很突出。",
-		"italian": "Un secchio di legno semplice con un fiore giallo estivo piantato all'interno. Il colore acceso lo fa risaltare."
+		"italian": "Un secchio di legno semplice con un fiore giallo estivo piantato all'interno. Il colore acceso lo fa risaltare.",
+		"polish": "Zwykłe drewniane wiaderko z żółtymi letnimi kwiatami w środku. Ich soczyste kolory są zachwycające."
 	},
 	"potWood0Variation5": {
 		"english": "Pot Plant in Wooden Bucket",
@@ -1968,7 +2036,8 @@
 		"ukrainian": "Квітка в дерев'яному відрі",
 		"korean": "나무컵에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in secchio di legno"
+		"italian": "Pianta in secchio di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood0Variation5Description": {
 		"english": "A simple wooden bucket with a blue summer flower planted in it. The vibrant color makes it stand out.",
@@ -1982,7 +2051,8 @@
 		"ukrainian": "Просте дерев'яне відро з літніми синіми квітками, посадженими в нього. Пахнуть неймовірно!",
 		"korean": "간단하게 나무 컵에 파란 여름 꽃을 심었습니다. 강렬한 색깔이 눈에 띄네요.",
 		"chinese": "简易的木盆里面种着一朵蓝色的夏花。鲜艳的颜色使它显得很突出。",
-		"italian": "Un secchio di legno semplice con un fiore blu estivo piantato all'interno. Il colore acceso lo fa risaltare."
+		"italian": "Un secchio di legno semplice con un fiore blu estivo piantato all'interno. Il colore acceso lo fa risaltare.",
+		"polish": "Zwykłe drewniane wiaderko z niebieskimi letnimi kwiatami w środku. Ich soczyste kolory są zachwycające."
 	},
 	"potWood0Variation6": {
 		"english": "Pot Plant in Wooden Bucket",
@@ -1996,7 +2066,8 @@
 		"ukrainian": "Квітка в дерев'яному відрі",
 		"korean": "나무컵에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in secchio di legno"
+		"italian": "Pianta in secchio di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood0Variation6Description": {
 		"english": "A simple wooden bucket with a red fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you the most happy.",
@@ -2024,7 +2095,8 @@
 		"ukrainian": "Квітка в дерев'яному відрі",
 		"korean": "나무컵에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in secchio di legno"
+		"italian": "Pianta in secchio di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood0Variation7Description": {
 		"english": "A simple wooden bucket with an orange fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you the most happy.",
@@ -2052,7 +2124,8 @@
 		"ukrainian": "Квітка в дерев'яному горщику",
 		"korean": "나무로 된 화분에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in secchio di legno"
+		"italian": "Pianta in secchio di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood1Variation0Description": {
 		"english": "A simple wooden pot with purple spring flowers planted in it. The smell is very invigorating.",
@@ -2066,7 +2139,8 @@
 		"ukrainian": "Простий дерев'яний горщик з весняними фіолетовими квітками, посадженими в нього. Пахнуть неймовірно!",
 		"korean": "간단하게 나무 화분에 보라색 봄 꽃을 심었습니다. 상쾌한 향기가 나네요.",
 		"chinese": "简易的木盆里面种着紫色的春花。这种味道非常提神。",
-		"italian": "Un vaso di legno semplice con fiori viola primaverili piantati all'interno. L'odore è molto tonificante."
+		"italian": "Un vaso di legno semplice con fiori viola primaverili piantati all'interno. L'odore è molto tonificante.",
+		"polish": "Zwykłe drewniane wiaderko z purpurowymi wiosennymi kwiatami w środku. Pachnie bardzo orzeźwiająco."
 	},
 	"potWood1Variation1": {
 		"english": "Pot Plant in Wooden Pot",
@@ -2080,7 +2154,8 @@
 		"ukrainian": "Квітка в дерев'яному горщику",
 		"korean": "나무로 된 화분에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in vaso di legno"
+		"italian": "Pianta in vaso di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood1Variation1Description": {
 		"english": "A simple wooden pot with white spring flowers planted in it. The smell is very invigorating.",
@@ -2094,7 +2169,8 @@
 		"ukrainian": "Простий дерев'яний горщик з весняними білими квітками, посадженими в нього. Пахнуть неймовірно!",
 		"korean": "간단하게 나무 화분에 하얀 봄 꽃을 심었습니다. 상쾌한 향기가 나네요.",
 		"chinese": "简易的木盆里面种着白色的春花。这种味道非常提神。",
-		"italian": "Un vaso di legno semplice con fiori bianchi primaverili piantati all'interno. L'odore è molto tonificante."
+		"italian": "Un vaso di legno semplice con fiori bianchi primaverili piantati all'interno. L'odore è molto tonificante.",
+		"polish": "Zwykłe drewniane wiaderko z białymi wiosennymi kwiatami w środku. Pachnie bardzo orzeźwiająco."
 	},
 	"potWood1Variation2": {
 		"english": "Pot Plant in Wooden Pot",
@@ -2108,7 +2184,8 @@
 		"ukrainian": "Маленьке дерево в дерев'яному горщику",
 		"korean": "나무로 된 화분에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in vaso di legno"
+		"italian": "Pianta in vaso di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood1Variation2Description": {
 		"english": "A simple wooden pot with a tiny tree planted in it. Make your colony a greener place!",
@@ -2136,7 +2213,8 @@
 		"ukrainian": "Кущ в дерев'яному горщику",
 		"korean": "나무로 된 화분에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in vaso di legno"
+		"italian": "Pianta in vaso di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood1Variation3Description": {
 		"english": "A simple wooden pot with a bush planted in it. The impeccable rectangular cut is a sign of good care. The right choice for bush lovers!",
@@ -2164,7 +2242,8 @@
 		"ukrainian": "Квітка в дерев'яному горщику",
 		"korean": "나무로 된 화분에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in vaso di legno"
+		"italian": "Pianta in vaso di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood1Variation4Description": {
 		"english": "A simple wooden pot with a yellow summer flower planted in it. The vibrant color makes it stand out.",
@@ -2192,7 +2271,8 @@
 		"ukrainian": "Квітка в дерев'яному горщику",
 		"korean": "나무로 된 화분에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in vaso di legno"
+		"italian": "Pianta in vaso di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood1Variation5Description": {
 		"english": "A simple wooden pot with a blue summer flower planted in it. The vibrant color makes it stand out.",
@@ -2220,7 +2300,8 @@
 		"ukrainian": "Квітка в дерев'яному горщику",
 		"korean": "나무로 된 화분에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in vaso di legno"
+		"italian": "Pianta in vaso di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood1Variation6Description": {
 		"english": "A simple wooden pot with a red fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you the most happy.",
@@ -2248,7 +2329,8 @@
 		"ukrainian": "Квітка в дерев'яному горщику",
 		"korean": "나무로 된 화분에 심은 식물",
 		"chinese": "木盆栽",
-		"italian": "Pianta in vaso di legno"
+		"italian": "Pianta in vaso di legno",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potWood1Variation7Description": {
 		"english": "A simple wooden pot with an orange fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you the most happy.",
@@ -2276,7 +2358,8 @@
 		"ukrainian": "Квітка в кам'яному горщику",
 		"korean": "돌로 된 화분에 심은 식물",
 		"chinese": "石盆栽",
-		"italian": "Pianta in vaso di pietra"
+		"italian": "Pianta in vaso di pietra",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potStone0Variation0Description": {
 		"english": "A impressive stone pot with purple spring flowers planted in it. The smell is very invigorating.",
@@ -2304,7 +2387,8 @@
 		"ukrainian": "Квітка в кам'яному горщику",
 		"korean": "돌로 된 화분에 심은 식물",
 		"chinese": "石盆栽",
-		"italian": "Pianta in vaso di pietra"
+		"italian": "Pianta in vaso di pietra",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potStone0Variation1Description": {
 		"english": "A impressive stone pot with white spring flowers planted in it. The smell is very invigorating.",
@@ -2332,7 +2416,8 @@
 		"ukrainian": "Маленьке дерево в кам'яному горщику",
 		"korean": "돌로 된 화분에 심은 식물",
 		"chinese": "石盆栽",
-		"italian": "Pianta in vaso di pietra"
+		"italian": "Pianta in vaso di pietra",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potStone0Variation2Description": {
 		"english": "A impressive stone pot with a bush planted in it. The immpeccable rectangular cut is a sign of good care. The right choice for bush lovers!",
@@ -2360,7 +2445,8 @@
 		"ukrainian": "Кущ в кам'яному горщику",
 		"korean": "돌로 된 화분에 심은 식물",
 		"chinese": "石盆栽",
-		"italian": "Pianta in vaso di pietra"
+		"italian": "Pianta in vaso di pietra",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potStone0Variation3Description": {
 		"english": "A impressive stone pot with a cornered bush planted in it. The right choice for bush lovers!",
@@ -2388,7 +2474,8 @@
 		"ukrainian": "Квітка в кам'яному горщику",
 		"korean": "돌로 된 화분에 심은 식물",
 		"chinese": "石盆栽",
-		"italian": "Pianta in vaso di pietra"
+		"italian": "Pianta in vaso di pietra",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potStone0Variation4Description": {
 		"english": "A impressive stone pot with a yellow summer flower planted in it. The vibrant color makes it stand out.",
@@ -2416,7 +2503,8 @@
 		"ukrainian": "Квітка в кам'яному горщику",
 		"korean": "돌로 된 화분에 심은 식물",
 		"chinese": "石盆栽",
-		"italian": "Pianta in vaso di pietra"
+		"italian": "Pianta in vaso di pietra",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potStone0Variation5Description": {
 		"english": "A impressive stone pot with a blue summer flower planted in it. The vibrant color makes it stand out.",
@@ -2444,7 +2532,8 @@
 		"ukrainian": "Квітка в кам'яному горщику",
 		"korean": "돌로 된 화분에 심은 식물",
 		"chinese": "石盆栽",
-		"italian": "Pianta in vaso di pietra"
+		"italian": "Pianta in vaso di pietra",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potStone0Variation6Description": {
 		"english": "A simple stone bucket with a red fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you the most happy.",
@@ -2472,7 +2561,8 @@
 		"ukrainian": "Квітка в кам'яному горщику",
 		"korean": "돌로 된 화분에 심은 식물",
 		"chinese": "石盆栽",
-		"italian": "Pianta in vaso di pietra"
+		"italian": "Pianta in vaso di pietra",
+		"polish": "Wiaderko z kwiatami"
 	},
 	"potStone0Variation7Description": {
 		"english": "A simple stone bucket with an orange fall flower planted in it. It's scent is entchanting. Sometimes it's the simple things that make you the most happy.",
@@ -2504,7 +2594,8 @@
 		"ukrainian": "Синя Амфора",
 		"korean": "채색된 암포라",
 		"chinese": "双耳瓶",
-		"italian": "Anfora dipinta"
+		"italian": "Anfora dipinta",
+		"polish": "Malowana amfora"
 	},
 	"vase0Variation0Description": {
 		"english": "This blue painted amphora is very valuable but fragile at the same time.",
@@ -2518,7 +2609,8 @@
 		"ukrainian": "Ця пофарбована в синій колір амфора виглядає дорого. Але в той же час, вона дуже тендітна.",
 		"korean": "파랑으로 채색된 이 암포라는 꽤 가치있는 물건이지만, 동시에 깨지기 쉬운 물건이기도 합니다.",
 		"chinese": "这个蓝色的双耳瓶非常珍贵的同时也很脆弱。",
-		"italian": "Questa anfora dipinta di blu è molto preziosa ma al contempo fragile."
+		"italian": "Questa anfora dipinta di blu è molto preziosa ma al contempo fragile.",
+		"polish": "Ta niebieska amfora jest niezwykle cenna ale też bardzo krucha."
 	},
 	"vase0Variation1": {
 		"english": "Painted Amphora",
@@ -2532,7 +2624,8 @@
 		"ukrainian": "Оранжева Амфора",
 		"korean": "채색된 암포라",
 		"chinese": "双耳瓶",
-		"italian": "Anfora dipinta"
+		"italian": "Anfora dipinta",
+		"polish": "Malowana amfora"
 	},
 	"vase0Variation1Description": {
 		"english": "This orange painted amphora is very valuable but fragile at the same time.",
@@ -2546,7 +2639,8 @@
 		"ukrainian": "Ця пофарбована в оранжевий колір амфора виглядає дорого. Але в той же час, вона дуже тендітна.",
 		"korean": "주황으로 채색된 이 암포라는 꽤 가치있는 물건이지만, 동시에 깨지기 쉬운 물건이기도 합니다.",
 		"chinese": "这个橙色的双耳瓶非常珍贵的同时也很脆弱。",
-		"italian": "Quest'anfora dipinta d'arancione è molto preziosa ma al contempo fragile."
+		"italian": "Quest'anfora dipinta d'arancione è molto preziosa ma al contempo fragile.",
+		"polish": "Ta pomarańczowa amfora jest niezwykle cenna ale też bardzo krucha."
 	},
 	"vase0Variation2": {
 		"english": "Painted Amphora",
@@ -2560,7 +2654,8 @@
 		"ukrainian": "Зелена Амфора",
 		"korean": "채색된 암포라",
 		"chinese": "双耳瓶",
-		"italian": "Anfora dipinta"
+		"italian": "Anfora dipinta",
+		"polish": "Malowana amfora"
 	},
 	"vase0Variation2Description": {
 		"english": "This green painted amphora is very valuable but fragile at the same time.",
@@ -2574,7 +2669,8 @@
 		"ukrainian": "Ця пофарбована в зелений колір амфора виглядає дорого. Але в той же час, вона дуже тендітна.",
 		"korean": "초록으로 채색된 이 암포라는 꽤 가치있는 물건이지만, 동시에 깨지기 쉬운 물건이기도 합니다.",
 		"chinese": "这个绿色的双耳瓶非常珍贵的同时也很脆弱",
-		"italian": "Quest'anfora dipinta di verde è molto preziosa ma al contempo fragile."
+		"italian": "Quest'anfora dipinta di verde è molto preziosa ma al contempo fragile.",
+		"polish": "Ta zielona amfora jest niezwykle cenna ale też bardzo krucha."
 	},
 
 	// Chimneys
@@ -2592,7 +2688,8 @@
 		"ukrainian": "Камін",
 		"korean": "간단한 벽난로",
 		"chinese": "简易壁炉",
-		"italian": "Camino semplice"
+		"italian": "Camino semplice",
+		"polish": "Prosty kominek"
 	},
 	"chimney0Description": {
 		"english": "Build a fireplace to add some class to your room.",
@@ -2606,7 +2703,8 @@
 		"ukrainian": "Побудуйте камін, щоб додати затишку в вашу кімнату.",
 		"korean": "벽난로를 설치해 당신의 방에 약간의 격을 더하세요.",
 		"chinese": "建造一个壁炉给你的房间增添点档次。",
-		"italian": "Costruisci un camino per aggiungere un po' di classe alle tue stanze."
+		"italian": "Costruisci un camino per aggiungere un po' di classe alle tue stanze.",
+		"polish": "Z kominkiem każdy pokój staje się przytulniejszy."
 	},
 	"chimney1": {
 		"english": "Extended Fireplace",
@@ -2620,7 +2718,8 @@
 		"ukrainian": "Великий камін",
 		"korean": "확장된 벽난로",
 		"chinese": "高级壁炉",
-		"italian": "Camino esteso"
+		"italian": "Camino esteso",
+		"polish": "Duży kominek"
 	},
 	"chimney1Description": {
 		"english": "It is a sign of decadent wealth to have this masterpiece of craftsmanship in one's bedroom - and a bedroom large enough to contain it!",
@@ -2652,7 +2751,8 @@
 		"ukrainian": "Жива огорожа",
 		"korean": "산울타리",
 		"chinese": "树篱",
-		"italian": "Siepe"
+		"italian": "Siepe",
+		"polish": "Żywopłot"
 	},
 	"hedge0Description": {
 		"english": "A must have for every high class colony.",
@@ -2666,7 +2766,8 @@
 		"ukrainian": "Має бути в кожній розвитій колонії.",
 		"korean": "고급스러운 정착지의 필수 아이템.",
 		"chinese": "每个高级殖民地都必须拥有一个。",
-		"italian": "Impossibile non possederne qualcuna in una colonia di alta classe."
+		"italian": "Impossibile non possederne qualcuna in una colonia di alta classe.",
+		"polish": "Każda porządna kolonia powinna mieć taki żywopłot."
 	},
 	"hedge0Corner": {
 		"english": "Hedge Corner",
@@ -2680,7 +2781,8 @@
 		"ukrainian": "Кутова Жива огорожа",
 		"korean": "모서리 산울타리",
 		"chinese": "树篱角",
-		"italian": "Siepe quadrata"
+		"italian": "Siepe quadrata",
+		"polish": "Żywopłot narożny"
 	},
 	"hedge0CornerDescription": {
 		"english": "A must have for every high class colony.",
@@ -2694,7 +2796,8 @@
 		"ukrainian": "Має бути в кожній розвитій колонії.",
 		"korean": "고급스러운 정착지의 필수 아이템.",
 		"chinese": "每个高级殖民地都必须拥有一个。",
-		"italian": "Impossibile non possederne qualcuna in una colonia di alta classe."
+		"italian": "Impossibile non possederne qualcuna in una colonia di alta classe.",
+		"polish": "Każda porządna kolonia powinna mieć taki żywopłot."
 	},
 	"hedge1": {
 		"english": "Small Hedge",
@@ -2709,7 +2812,8 @@
 		"ukrainian": "Жива огорожа",
 		"korean": "작은 산울타리",
 		"chinese": "小树篱",
-		"italian": "Siepe piccola"
+		"italian": "Siepe piccola",
+		"polish": "Niski żywopłot"
 	},
 	"hedge1Description": {
 		"english": "A must have for every high class colony.",
@@ -2723,7 +2827,8 @@
 		"ukrainian": "Має бути в кожній розвитій колонії.",
 		"korean": "고급스러운 정착지의 필수 아이템.",
 		"chinese": "每个高级殖民地都必须拥有一个。",
-		"italian": "Impossibile non possederne qualcuna in una colonia di alta classe."
+		"italian": "Impossibile non possederne qualcuna in una colonia di alta classe.",
+		"polish": "Każda porządna kolonia powinna mieć taki żywopłot."
 	},
 	"hedge1Corner": {
 		"english": "Small Hedge Corner",
@@ -2738,7 +2843,8 @@
 		"ukrainian": "Кутова Жива огорожа",
 		"korean": "작은 모서리 산울타리",
 		"chinese": "小树篱角",
-		"italian": "Siepe quadrata piccola"
+		"italian": "Siepe quadrata piccola",
+		"polish": "Niski żywopłot narożny"
 	},
 	"hedge1CornerDescription": {
 		"english": "A must have for every high class colony.",
@@ -2752,7 +2858,8 @@
 		"ukrainian": "Має бути в кожній розвитій колонії.",
 		"korean": "고급스러운 정착지의 필수 아이템.",
 		"chinese": "每个高级殖民地都必须拥有一个。",
-		"italian": "Impossibile non possederne qualcuna in una colonia di alta classe."
+		"italian": "Impossibile non possederne qualcuna in una colonia di alta classe.",
+		"polish": "Każda porządna kolonia powinna mieć taki żywopłot."
 	},
 
 	// Tables
@@ -2770,7 +2877,8 @@
 		"ukrainian": "Звичайний Дерев'яний стіл",
 		"korean": "거친 목제 식탁",
 		"chinese": "粗制木桌",
-		"italian": "Tavolo di legno grezzo"
+		"italian": "Tavolo di legno grezzo",
+		"polish": "Zwykły drewniany stół"
 	},
 	"tableLog0Description": {
 		"english": "With a table like that, feasting outside will probably become an entirely different experience.",
@@ -2798,7 +2906,8 @@
 		"ukrainian": "Грубий дерев'яний стіл",
 		"korean": "거친 목제 식탁",
 		"chinese": "粗制木桌",
-		"italian": "Tavolo di legno grezzo"
+		"italian": "Tavolo di legno grezzo",
+		"polish": "Drewniany stół"
 	},
 	"tableLog1Description": {
 		"english": "A simple table made out of rough wooden planks and tree stumps.",
@@ -2826,7 +2935,8 @@
 		"ukrainian": "Натуральний дерев'яний стіл для вітальні",
 		"korean": "나무결이 살아있는 거실용 식탁",
 		"chinese": "天然客厅木桌子",
-		"italian": "Tavolo da salotto di legno naturale"
+		"italian": "Tavolo da salotto di legno naturale",
+		"polish": "Stół z naturalnego drewna"
 	},
 	"tableLowLog0Description": {
 		"english": "A low living room table made out of a very thick log.",
@@ -2854,7 +2964,8 @@
 		"ukrainian": "Дерев'яний стіл для вітальні",
 		"korean": "단순한 거실용 목제 식탁",
 		"chinese": "简易客厅木桌子",
-		"italian": "Tavolo da salotto di legno semplice"
+		"italian": "Tavolo da salotto di legno semplice",
+		"polish": "Drewniany stół do salonu"
 	},
 	"tableLowPlanks0Description": {
 		"english": "A low living room table made out of rough wooden planks.",
@@ -2882,7 +2993,8 @@
 		"ukrainian": "Дерев'яний стіл",
 		"korean": "단순한 목제 식탁",
 		"chinese": "简易木桌",
-		"italian": "Tavolo di legno semplice"
+		"italian": "Tavolo di legno semplice",
+		"polish": "Zwykły drewniany stół"
 	},
 	"tablePlanks0Description": {
 		"english": "A simple wooden table made out of rough planks. Gets the job done.",
@@ -2910,7 +3022,8 @@
 		"ukrainian": "Кам'яний Стіл",
 		"korean": "단순한 석제 식탁",
 		"chinese": "简易石桌",
-		"italian": "Tavolo di pietra semplice"
+		"italian": "Tavolo di pietra semplice",
+		"polish": "Zwykły kamienny stół"
 	},
 	"tableStoneSimple0Description": {
 		"english": "Carved out of stone, this table is basically just a huge block. Looks a little heavy.",
@@ -2938,7 +3051,8 @@
 		"ukrainian": "Стіл зі Cкатертиною",
 		"korean": "고급 목제 식탁",
 		"chinese": "高级木桌",
-		"italian": "Tavolo di legno rifinito"
+		"italian": "Tavolo di legno rifinito",
+		"polish": "Elegancki drewniany stół" //??
 	},
 	"tablePlanks1Description": {
 		"english": "A precisely crafted wooden table. The table cloth introduces a bit of color to your home.",
@@ -2966,7 +3080,8 @@
 		"korean": "맥주용 식탁",
 		"turkish": "Bira masası",
 		"chinese": "啤酒桌子",
-		"italian": "Tavolo di birra"
+		"italian": "Tavolo di birra",
+		"polish": "Stół z beczek"
 	},
 	"tableBeer0Description": {
 		"english": "The perfect table to enjoy a cold, smooth beer. Has an \"Oktoberfest\" vibe to it!",
@@ -2998,7 +3113,8 @@
 		"korean": "그루터기 의자",
 		"dutch": "Houten Stronk Kruk",
 		"chinese": "树桩凳子",
-		"italian": "Sgabello ceppo di albero"
+		"italian": "Sgabello ceppo di albero",
+		"polish": "Pniak do siedzenia"
 	},
 	"chairStump0Description": {
 		"english": "A tree stump that got made into a stool. Better than sitting on the floor for sure.",
@@ -3012,7 +3128,8 @@
 		"ukrainian": "Пень, з якого зробили табуретку. Всяко краще, ніж сидіти на підлозі.",
 		"korean": "나무 그루터기가 의자가 되었습니다. 바닥에 앉는것보단 낫죠, 확실히.",
 		"chinese": "做成凳子的树桩比坐在地板上好多了。",
-		"italian": "Un ceppo di albero trasformato in uno sgabello. Meglio che sedersi sul pavimento..."
+		"italian": "Un ceppo di albero trasformato in uno sgabello. Meglio che sedersi sul pavimento...",
+		"polish": "Pniak, który posłuży za miejsce do siedzenia. To chyba lepsze niż siedzieć na gołej ziemi?"
 	},
 	"chairStump1": {
 		"english": "Tree Stump Chair",
@@ -3026,7 +3143,8 @@
 		"ukrainian": "Стілець зі стовбура дерева",
 		"korean": "그루터기 의자",
 		"chinese": "树桩椅子",
-		"italian": "Sedia ceppo di albero"
+		"italian": "Sedia ceppo di albero",
+		"polish": "Krzesło z pniaka"
 	},
 	"chairStump1Description": {
 		"english": "A chair made out of a tree trunk. The perfect way to sit in front of a campfire.",
@@ -3054,7 +3172,8 @@
 		"ukrainian": "Табуретка з стовбура дерева",
 		"korean": "그루터기 의자",
 		"chinese": "树桩凳子",
-		"italian": "Sgabello ceppo di albero"
+		"italian": "Sgabello ceppo di albero",
+		"polish": "Stołek z pniaka"
 	},
 	"chairStump2Description": {
 		"english": "A tree stump that got made into a stool. Better than sitting on the floor for sure.",
@@ -3068,7 +3187,8 @@
 		"ukrainian": "Табуретка з стовбура дерева. Всяко краще, ніж сидіти на підлозі.",
 		"korean": "나무 그루터기가 의자가 되었습니다. 바닥에 앉는것보단 낫죠, 확실히.",
 		"chinese": "做成凳子的树桩比坐在地板上好多了。",
-		"italian": "Un ceppo di albero trasformato in uno sgabello. Meglio che sedersi sul pavimento..."
+		"italian": "Un ceppo di albero trasformato in uno sgabello. Meglio che sedersi sul pavimento...",
+		"polish": "Pniak, który posłuży za stołek do siedzenia. To chyba lepsze niż siedzieć na gołej ziemi?"
 	},
 	"chairStump3": {
 		"english": "Tree Stump Stool",
@@ -3082,7 +3202,8 @@
 		"ukrainian": "Табуретка з стовбура дерева",
 		"korean": "그루터기 의자",
 		"chinese": "树桩凳子",
-		"italian": "Sgabello ceppo di albero"
+		"italian": "Sgabello ceppo di albero",
+		"polish": "Stołek z pniaka"
 	},
 	"chairStump3Description": {
 		"english": "A tree stump that got made into a stool. Better than sitting on the floor for sure.",
@@ -3096,7 +3217,8 @@
 		"ukrainian": "Табуретка з стовбура дерева. Всяко краще, ніж сидіти на підлозі.",
 		"korean": "나무 그루터기가 의자가 되었습니다. 바닥에 앉는것보단 낫죠, 확실히.",
 		"chinese": "做成凳子的树桩比坐在地板上好多了。",
-		"italian": "Un ceppo di albero trasformato in uno sgabello. Meglio che sedersi sul pavimento..."
+		"italian": "Un ceppo di albero trasformato in uno sgabello. Meglio che sedersi sul pavimento...",
+		"polish": "Pniak, który posłuży za stołek do siedzenia. To chyba lepsze niż siedzieć na gołej ziemi?"
 	},
 	"chairStoneBlock0": {
 		"english": "Stone Block Stool",
@@ -3110,7 +3232,8 @@
 		"ukrainian": "Табурет з кам'яного блоку",
 		"korean": "석제 의자",
 		"chinese": "石墩凳子",
-		"italian": "Sgabello blocco di pietra"
+		"italian": "Sgabello blocco di pietra",
+		"polish": "Kamień do siedzenia"
 	},
 	"chairStoneBlock0Description": {
 		"english": "A stone block that got made into a stool. Might be a bit cold in winter.",
@@ -3138,7 +3261,8 @@
 		"ukrainian": "Дерев'яний стілець",
 		"korean": "단순한 목제 의자",
 		"chinese": "简易木椅子",
-		"italian": "Sedia di legno semplice"
+		"italian": "Sedia di legno semplice",
+		"polish": "Drewniane krzesło"
 	},
 	"chairPlanks0Description": {
 		"english": "Made out of rough planks, this chair surely isn't too inviting. Then again you want your colonists to work instead of sitting all day...",
@@ -3166,7 +3290,8 @@
 		"ukrainian": "Простий дерев'яний стілець",
 		"korean": "단순한 목제 의자",
 		"chinese": "简易扶手木椅子",
-		"italian": "Sedia di legno semplice"
+		"italian": "Sedia di legno semplice",
+		"polish": "Drewniane krzesło"
 	},
 	"chairPlanks1Description": {
 		"english": "Made out of rough planks, this chair with armrest surely isn't too inviting. Then again you want your colonists to work instead of sitting all day...",
@@ -3194,7 +3319,8 @@
 		"ukrainian": "Кам'яний стілець",
 		"korean": "단순한 석제 의자",
 		"chinese": "简易石椅子",
-		"italian": "Sedia di pietra semplice"
+		"italian": "Sedia di pietra semplice",
+		"polish": "Kamienne krzesło"
 	},
 	"chairstoneSimple0Description": {
 		"english": "One might wonder if this chair really offers any way of comfort, but then again it is made for eternity.",
@@ -3222,7 +3348,8 @@
 		"ukrainian": "Простий кам'яний стілець",
 		"korean": "단순한 석제 의자",
 		"chinese": "简易扶手石椅子",
-		"italian": "Sedia di pietra semplice"
+		"italian": "Sedia di pietra semplice",
+		"polish": "Kamienne krzesło"
 	},
 	"chairstoneSimple1Description": {
 		"english": "One might wonder if this chair really offers any way of comfort, but this chair is made for eternity at least.",
@@ -4004,7 +4131,8 @@
 		"ukrainian": "Медичний Стіл",
 		"korean": "약품 수납장",
 		"chinese": "药柜",
-		"italian": "Armadietto dei medicinali"
+		"italian": "Armadietto dei medicinali",
+		"polish": "Stanowisko lekarskie"
 	},
 	"medicineCabinetDescription": {
 		"english": "Ever since the great plague 227 years ago, people have been scared of diseases. At this handy cabinet, a knowledgeable doctor can create remedies which treat the most common illnesses.",
@@ -4033,7 +4161,7 @@
 		"korean": "연구대",
 		"chinese": "研究书架",
 		"italian": "Leggio di ricerca",
-		"polish": "Stanowisko do badań"
+		"polish": "Stanowisko badawcze"
 	},
 	"bookStandDescription": {
 		"english": "This book stand can be used for research. Smart colonists can analyze crystals to generate research points. Once enough research has been conducted, new technologies are unlocked.",
@@ -4062,7 +4190,7 @@
 		"korean": "스크롤 서가",
 		"chinese": "研究卷轴架",
 		"italian": "Supporto per pergamene di ricerche",
-		"polish": "Biblioteczka do badań"
+		"polish": "Biblioteczka badawcza"
 	},
 	"bookStandScrollsDescription": {
 		"english": "This impressive scroll stand is necessary for advanced research. Scrolls offer a lot of secrets to discover which can bring your colony a huge step forward.",
@@ -4319,7 +4447,8 @@
 		"spanish": "Telar",
 		"russian": "Ткацкий станок",
 		"portuguese": "Tear",
-		"italian": "Telaio"
+		"italian": "Telaio",
+		"polish": "Krosno",
 	},
 	"loomDescription": {
 		"english": "As the foundation of every textile industry, nothing turns raw material into usable cloth faster than this loom.",
@@ -4396,7 +4525,8 @@
 		"russian": "Глубокая шахта камня",
 		"portuguese": "Mina de Pedra Profunda",
 		"italian": "Miniera di pietra profonda",
-		"chinese": "石头矿坑"
+		"chinese": "石头矿坑",
+		"polish": "Kamieniołom"
 	},
 	"deepMineStoneDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for stone - but you will be able to get a lot more of it out of the ground.",
@@ -4416,7 +4546,8 @@
 		"russian": "Глубокая шахта железа",
 		"portuguese": "Mina de Minério de Ferro Profundo",
 		"italian": "Miniera di ferro profonda",
-		"chinese": "铁矿矿坑"
+		"chinese": "铁矿矿坑",
+		"polish": "Kopalnia żelaza"
 	},
 	"deepMineIronDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for iron ore - but you will be able to get a lot more of it out of the ground.",
@@ -4436,7 +4567,8 @@
 		"russian": "Глубокая кристалов",
 		"portuguese": "Mina de Cristal Profundo",
 		"italian": "Miniera di cristallo profonda",
-		"chinese": "水晶矿坑"
+		"chinese": "水晶矿坑",
+		"polish": "Kopalnia kryształu"
 	},
 	"deepMineCrystalDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for crystals - but you will be able to get a lot more of it out of the ground.",
@@ -4642,7 +4774,8 @@
 		"russian": "Почва для выращивания сосен",
 		"portuguese": "Solo para o cultivo de pinheiros",
 		"italian": "Terreno per la coltivazione di pini",
-		"chinese": "种植松树的土壤"
+		"chinese": "种植松树的土壤",
+		"polish": "Grządka na sadzonki sosny"
 	},
 	"growingSpotTreeDescription": {
 		"english": "Bring the forest to your front lawn and plant beautiful pine trees whereever you want!",
@@ -4662,7 +4795,8 @@
 		"russian": "Почва для выращивания хлопка",
 		"portuguese": "Solo para o cultivo de plantas de algodão",
 		"italian": "Terreno per la coltivazione di piante di cotone",
-		"chinese": "种植棉花的土壤"
+		"chinese": "种植棉花的土壤",
+		"polish": "Grządka na krzaki bawełny"
 	},
 	"growingSpotCottonDescription": {
 		"english": "If you want to mass produce certain types of clothing, cotton farms are certainly going to help.",
@@ -4682,7 +4816,8 @@
 		"russian": "Почва для выращивания яблонь",
 		"portuguese": "Solo para o cultivo de macieiras",
 		"italian": "Terreno per la coltivazione di meli",
-		"chinese": "种植苹果树的土壤"
+		"chinese": "种植苹果树的土壤",
+		"polish": "Grządka na sadzonki jabłoni"
 	},
 	"growingSpotTreeAppleDescription": {
 		"english": "While they take a long time to grow, apple trees pay off over the long run.",
@@ -4714,7 +4849,7 @@
 		"korean": "크리스탈",
 		"chinese": "水晶",
 		"italian": "Cristallo",
-		"polish": "Kryształy"
+		"polish": "Kryształ"
 	},
 	"ironOre": {
 		"english": "Iron Ore",
@@ -4774,7 +4909,7 @@
 		"korean": "그루터기",
 		"chinese": "树桩",
 		"italian": "Tronco d'albero",
-		"polish": "Pień"
+		"polish": "Pniak"
 	},
 	"tree_02": {
 		"english": "Large Tree",
@@ -4804,7 +4939,7 @@
 		"korean": "그루터기",
 		"chinese": "树桩",
 		"italian": "Tronco d'albero",
-		"polish": "Pień"
+		"polish": "Pniak"
 	},
 	"tree_03": {
 		"english": "Normal Tree",
@@ -4818,7 +4953,8 @@
 		"ukrainian": "Дерево",
 		"korean": "나무",
 		"chinese": "树木",
-		"italian": "Albero"
+		"italian": "Albero",
+		"polish": "Drzewo"
 	},
 	"tree_03Stump": {
 		"english": "Tree Stump",
@@ -4832,7 +4968,8 @@
 		"ukrainian": "Пень",
 		"korean": "그루터기",
 		"chinese": "树桩",
-		"italian": "Tronco d'albero"
+		"italian": "Tronco d'albero",
+		"polish": "Pniak"
 	},
 	"tree_04": {
 		"english": "Small Tree",
@@ -4846,7 +4983,8 @@
 		"ukrainian": "Маленьке дерево",
 		"korean": "작은 나무",
 		"chinese": "小树",
-		"italian": "Albero piccolo"
+		"italian": "Albero piccolo",
+		"polish": "Drzewo"
 	},
 	"tree_04Stump": {
 		"english": "Tree Stump",
@@ -4860,7 +4998,8 @@
 		"ukrainian": "Пень",
 		"korean": "그루터기",
 		"chinese": "树桩",
-		"italian": "Tronco d'albero"
+		"italian": "Tronco d'albero",
+		"polish": "Pniak"
 	},
 	"tree_05": {
 		"english": "Small Tree",
@@ -4874,7 +5013,8 @@
 		"ukrainian": "Маленьке дерево",
 		"korean": "작은 나무",
 		"chinese": "小树",
-		"italian": "Albero piccolo"
+		"italian": "Albero piccolo",
+		"polish": "Drzewo"
 	},
 	"tree_05Stump": {
 		"english": "Tree Stump",
@@ -4888,7 +5028,8 @@
 		"ukrainian": "Пень",
 		"korean": "그루터기",
 		"chinese": "树桩",
-		"italian": "Tronco d'albero"
+		"italian": "Tronco d'albero",
+		"polish": "Pniak"
 	},
 	"treeBroken0": {
 		"english": "Old log",
@@ -4948,7 +5089,7 @@
 		"korean": "사과나무",
 		"chinese": "苹果树",
 		"italian": "Melo",
-		"polish": "Jabłonka"
+		"polish": "Jabłoń"
 	},
 	"treeApple1": {
 		"english": "Apple Tree",
@@ -4963,7 +5104,7 @@
 		"korean": "사과나무",
 		"chinese": "苹果树",
 		"italian": "Melo",
-		"polish": "Jabłonka"
+		"polish": "Jabłoń"
 	},
 	"treeApple2": {
 		"english": "Apple Tree",
@@ -4978,7 +5119,7 @@
 		"korean": "사과나무",
 		"chinese": "苹果树",
 		"italian": "Melo",
-		"polish": "Jabłonka"
+		"polish": "Jabłoń"
 	},
 	"plantCotton": {
 		"english": "Cotton Plant",
@@ -4993,7 +5134,7 @@
 		"korean": "목화나무",
 		"chinese": "棉花树",
 		"italian": "Pianta del cotone",
-		"polish": "Krzew bawełny"
+		"polish": "Krzak bawełny"
 	},
 	"wildHealplant": {
 		"english": "Wild Healing Plant",
@@ -5008,7 +5149,7 @@
 		"korean": "야생 약초",
 		"chinese": "野生草药",
 		"italian": "Pianta curativa selvaggia",
-		"polish": "Dzikie zioła lecznicze"
+		"polish": "Dzikie zioło lecznicze"
 	},
 	"rock_01": {
 		"english": "Normal Rock",
@@ -5102,7 +5243,7 @@
 		"korean": "책장",
 		"chinese": "大型书柜",
 		"italian": "Grande libreria",
-		"polish": "Biblioteczka"
+		"polish": "Duża biblioteczka"
 	},
 	"bookshelfDescription": {
 		"english": "Want to learn new abilities? Want to hone your skills? This bookshelf contains all the knowledge you need to further your education.",
@@ -5126,8 +5267,8 @@
 		"russian": "Детская книжная полка",
 		"portuguese": "Estante para Crianças",
 		"chinese": "儿童书架",
-		"polish": "Regał do pokoju dziecinnego",
-		"italian": "Libreria per bambini"
+		"italian": "Libreria per bambini",
+		"polish": "Dziecięca biblioteczka"
 	},
 	"bookshelfChildDescription": {
 		"english": "This bookshelf contains some simple books to introduce kids to all kinds of interesting topics. Use this to give them a good education.",
@@ -5185,7 +5326,7 @@
 		"korean": "화톳불",
 		"chinese": "营火",
 		"italian": "Falò",
-		"polish": "Ognisko sygnalizacyjne"
+		"polish": "Ognisko sygnałowe"
 	},
 	"bonfireDescription": {
 		"english": "Bright fire that can be seen for miles. Attracts migrants and traders.",
@@ -5243,7 +5384,7 @@
 		"korean": "감시탑",
 		"chinese": "瞭望塔",
 		"italian": "Torre di guardia",
-		"polish": "Wieża obronna"
+		"polish": "Wieża strażnicza"
 	},
 	"watchtowerDescription": {
 		"english": "Send your archers up this tower to give them a safe position to shoot from.",
@@ -5272,7 +5413,7 @@
 		"korean": "튼튼한 감시탑",
 		"chinese": "加固瞭望塔",
 		"italian": "Torre di guardia rinforzata",
-		"polish": "Murowana wieża obronna"
+		"polish": "Murowana wieża strażnicza"
 	},
 	"watchtowerStoneDescription": {
 		"english": "Send your archers up this tower to give them a safe position to shoot from.",
@@ -5327,10 +5468,10 @@
 		"french": "Réserve de bois",
 		"spanish": "Depósito de Madera",
 		"russian": "Склад бревен",
-		"polish": "Skład drewna",
 		"portuguese": "Estoque de madeira",
 		"chinese": "木材存箱",
-		"italian": "Riserva di legno"
+		"italian": "Riserva di legno",
+		"polish": "Skład drewna"
 	},
 	"stockpileWoodDescription": {
 		"english": "Large, strong, and durable. These are the qualities you need when you want to store tons of logs.\n\nThis stockpile can hold up to %capacityWood% wood.",
@@ -5348,10 +5489,10 @@
 		"french": "Réserve de pierre",
 		"spanish": "Depósito de Piedra",
 		"russian": "Склад камня",
-		"polish": "Skład kamienia",
 		"portuguese": "Estoque de pedra",
 		"chinese": "石材存箱",
-		"italian": "Riserva di pietra"
+		"italian": "Riserva di pietra",
+		"polish": "Skład kamienia"
 	},
 	"stockpileStoneDescription": {
 		"english": "Make sure your villagers don't stub their toes on heavy rocks and build a proper stockpile for your raw material stones.\n\nThis stockpile can hold up to %capacityStone% stone.",
@@ -5369,10 +5510,10 @@
 		"french": "Réserve de cristal",
 		"spanish": "Depósito de Cristal",
 		"russian": "Склад кристаллов",
-		"polish": "Skład kryształów",
 		"portuguese": "Estoque de Cristal",
 		"chinese": "水晶存箱",
-		"italian": "Riserva di cristalli"
+		"italian": "Riserva di cristalli",
+		"polish": "Skład kryształu"
 	},
 	"stockpileCrystalDescription": {
 		"english": "Has your scholar ever run out of crystals in the middle of some important analysis? Make sure research can progress without impediments by building up a stock of crystals.\n\n This stockpile can hold up to %capacityCrystal% crystals.",
@@ -5391,7 +5532,8 @@
 		"spanish": "Depósito de textiles",
 		"russian": "Склад текстиля",
 		"portuguese": "Estoque de têxteis",
-		"italian": "Riserva di tessuti"
+		"italian": "Riserva di tessuti",
+		"polish": "Skład tekstyliów"
 	},
 	"stockpileTextileDescription": {
 		"english": "Winter is a perfect time to do some tailoring, but you can't harvest frozen cotton. Use this shelf to store your cotton summer surplus as well as your wool and cloth.\n\nThis shelf can fit up to %capacityTextiles% textiles.",
@@ -5632,7 +5774,7 @@
 		"korean": "무기 보관함",
 		"chinese": "武器架",
 		"italian": "Rastrelliera per armi",
-		"polish": "Regał na broń"
+		"polish": "Stojak na broń"
 	},
 	"equipmentRackWeapon0Description": {
 		"english": "The ideal repository for weapons that aren't in use at the moment.",
@@ -5661,7 +5803,7 @@
 		"korean": "무기 전시대",
 		"chinese": "武器展示柜",
 		"italian": "Teca per armi",
-		"polish": "Szafka do prezentowania broni"
+		"polish": "Gablotka do prezentowania broni"
 	},
 	"equipmentRackWeapon1Description": {
 		"english": "Extraordinary weapons can be showcased in this fancy weapon cabinet.",
@@ -5846,7 +5988,7 @@
 		"korean": "밤에도 따뜻하게.",
 		"chinese": "让你在晚上睡觉能保暖。",
 		"italian": "Ti tiene al caldo durante la notte.",
-		"polish": "Proste posłanie które utrzyma ciepło w nocy."
+		"polish": "Proste posłanie, które utrzyma ciepło w nocy."
 	},
 
 	// Graves
@@ -6340,7 +6482,7 @@
 		"korean": "벽에 걸린 단순한 횃불",
 		"chinese": "简易壁灯",
 		"italian": "Torcia semplice da muro",
-		"polish": "Prymitywna pochodnia naścienna"
+		"polish": "Prosta pochodnia naścienna"
 	},
 	"lightWallTorch0Description": {
 		"english": "The easiest way to get light in the dark.",
@@ -6427,7 +6569,7 @@
 		"korean": "벽에 걸린 장식 횃불",
 		"chinese": "装饰壁灯",
 		"italian": "Torcia ornata da muro",
-		"polish": "Zamkowa pochodnia naścienna"
+		"polish": "Zdobiona pochodnia naścienna"
 	},
 	"lightWallTorch3Description": {
 		"english": "Use this stylish torch to light your home at night.",
@@ -6812,7 +6954,7 @@
 		"portuguese": "Portão defensivo de madeira forte",
 		"italian": "Cancello difensivo di legno resistente",
 		"chinese": "坚固防御木门",
-		"polish": "Brama wzmocnionej zapory"
+		"polish": "Brama zapory"
 	},
 	"woodWallDefense0GateDescription": {
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -7405,7 +7547,8 @@
 		"chinese": "传统短窗帘",
 		"russian": "Традиционные короткие шторы",
 		"portuguese": "Cortinas Curtas Tradicionais",
-		"italian": "Tende corte tradizionali"
+		"italian": "Tende corte tradizionali",
+		"polish": "Krótkie zasłony"
 	},
 	"curtainsShort0Variation0Description": {
 		"english": "A elegant way of making your room more colorful.",
@@ -7429,7 +7572,8 @@
 		"chinese": "传统短窗帘",
 		"russian": "Традиционные короткие шторы",
 		"portuguese": "Cortinas Curtas Tradicionais",
-		"italian": "Tende corte tradizionali"
+		"italian": "Tende corte tradizionali",
+		"polish": "Krótkie zasłony"
 	},
 	"curtainsShort0Variation1Description": {
 		"english": "A elegant way of making your room more colorful.",
@@ -7453,7 +7597,8 @@
 		"chinese": "传统短窗帘",
 		"russian": "Традиционные короткие шторы",
 		"portuguese": "Cortinas Curtas Tradicionais",
-		"italian": "Tende corte tradizionali"
+		"italian": "Tende corte tradizionali",
+		"polish": "Krótkie zasłony"
 	},
 	"curtainsShort0Variation2Description": {
 		"english": "A elegant way of making your room more colorful.",
@@ -7477,7 +7622,8 @@
 		"chinese": "三角窗帘",
 		"russian": "Треугольный занавес",
 		"portuguese": "Cortina Triangular",
-		"italian": "Tenda triangolare"
+		"italian": "Tenda triangolare",
+		"polish": "Trójkątne zasłony"
 	},
 	"curtainsShort1Variation0Description": {
 		"english": "This basic curtain has a modern touch to it.",
@@ -7551,7 +7697,8 @@
 		"chinese": "简易长窗帘",
 		"russian": "Простые длинные шторы",
 		"portuguese": "Cortinas longas simples",
-		"italian": "Tende lunghe semplici"
+		"italian": "Tende lunghe semplici",
+		"polish": "Długie zasłony"
 	},
 	"curtainsLong0Variation0Description": {
 		"english": "2 pieces of colored fabric hanging from a stick. Let's call them curtains and hang them somewhere.",
@@ -7575,7 +7722,8 @@
 		"chinese": "简易长窗帘",
 		"russian": "Простые длинные шторы",
 		"portuguese": "Cortinas longas simples",
-		"italian": "Tende lunghe semplici"
+		"italian": "Tende lunghe semplici",
+		"polish": "Długie zasłony"
 	},
 	"curtainsLong0Variation1Description": {
 		"english": "2 pieces of colored fabric hanging from a stick. Let's call them curtains and hang them somewhere.",
@@ -7599,7 +7747,8 @@
 		"chinese": "简易长窗帘",
 		"russian": "Простые длинные шторы",
 		"portuguese": "Cortinas longas simples",
-		"italian": "Tende lunghe semplici"
+		"italian": "Tende lunghe semplici",
+		"polish": "Długie zasłony"
 	},
 	"curtainsLong0Variation2Description": {
 		"english": "2 pieces of colored fabric hanging from a stick. Let's call them curtains and hang them somewhere.",
@@ -7623,7 +7772,8 @@
 		"chinese": "传统长窗帘",
 		"russian": "Традиционные длинные шторы",
 		"portuguese": "Cortinas Longas Tradicionais",
-		"italian": "Tende lunghe tradizionali"
+		"italian": "Tende lunghe tradizionali",
+		"polish": "Długie zasłony"
 	},
 	"curtainsLong1Variation0Description": {
 		"english": "If it is castle atmosphere you're going for, these curtains would definitely do the trick!",
@@ -7647,7 +7797,8 @@
 		"chinese": "传统长窗帘",
 		"russian": "Традиционные длинные шторы",
 		"portuguese": "Cortinas Longas Tradicionais",
-		"italian": "Tende lunghe tradizionali"
+		"italian": "Tende lunghe tradizionali",
+		"polish": "Długie zasłony"
 	},
 	"curtainsLong1Variation1Description": {
 		"english": "If it is castle atmosphere you're going for, these curtains would definitely do the trick!",
@@ -7671,7 +7822,8 @@
 		"chinese": "传统长窗帘",
 		"russian": "Традиционные длинные шторы",
 		"portuguese": "Cortinas Longas Tradicionais",
-		"italian": "Tende lunghe tradizionali"
+		"italian": "Tende lunghe tradizionali",
+		"polish": "Długie zasłony"
 	},
 	"curtainsLong1Variation2Description": {
 		"english": "If it is castle atmosphere you're going for, these curtains would definitely do the trick!",
@@ -8105,7 +8257,8 @@
 		"russian": "Снеговик",
 		"portuguese": "Boneco de neve",
 		"italian": "Pupazzo di neve",
-		"chinese": "雪人"
+		"chinese": "雪人",
+		"polish": "Bałwan"
 	},
 
 	// Area of Effect
@@ -8117,7 +8270,8 @@
 		"spanish": "Caja de herramientas",
 		"italian": "Cassetta degli attrezzi",
 		"russian": "Набор инструментов",
-		"portuguese": "Caixa de ferramentas"
+		"portuguese": "Caixa de ferramentas",
+		"polish": "Skrzynia z narzędziami"
 	},
 	"toolChestDescription": {
 		"english": "When you're busy working, nothing is more annoying than having to look for your screwdriver... again. With this tool chest, all nearby villagers work 50% faster.",
@@ -8135,7 +8289,8 @@
 		"spanish": "Caja de herramientas médicas",
 		"italian": "Cassetta degli attrezzi medici",
 		"russian": "Набор медицинских преднадлежностей",
-		"portuguese": "Baú de ferramentas médicas"
+		"portuguese": "Baú de ferramentas médicas",
+		"polish": "Skrzynia na medykamenty"
 	},
 	"medicalToolChestDescription": {
 		"english": "Having all your first-class medical equipment right where you need it can make the difference between life and death. All nearby treatments work twice as well.",
@@ -8144,7 +8299,8 @@
 		"spanish": "Tener todo tu equipo médico de primera clase justo donde lo necesitas puede marcar la diferencia entre la vida y la muerte. Todos los tratamientos cercanos funcionan el doble de bien.",
 		"italian": "Avere tutta l'attrezzatura medica di prima classe proprio dove serve può fare la differenza tra la vita e la morte. Tutti i trattamenti eseguiti nelle vicinanze sono il doppio più efficaci.",
 		"russian": "Когда кто-то находится на грани смерти, первоклассное медицинское оборудование точно увеличить шансы на выживание. Все медицинские процедуры рядом в два раза эффективнее.",
-		"portuguese": "Ter todo o seu equipamento médico de primeira classe, exatamente onde você precisa, pode fazer a diferença entre a vida e a morte. Todos os tratamentos nas proximidades também funcionam duas vezes."
+		"portuguese": "Ter todo o seu equipamento médico de primeira classe, exatamente onde você precisa, pode fazer a diferença entre a vida e a morte. Todos os tratamentos nas proximidades também funcionam duas vezes.",
+		"polish": "Posiadanie zawsze pod ręką remediów na wszelakie schorzenia bardzo często decyduje o życiu i śmierci. Każde leczenie w jej pobliżu trwa dwa razy krócej." //??
 	},
 	"paintingGoodVibes": {
 		"english": "Painting of Good Vibes",
@@ -8171,7 +8327,8 @@
 		"spanish": "Espantapájaros",
 		"italian": "Spaventapasseri",
 		"russian": "Пугало",
-		"portuguese": "Espantalho"
+		"portuguese": "Espantalho",
+		"polish": "Strach na wróble"
 	},
 	"scarecrowDescription": {
 		"english": "Birds beware! Use this simple yet effective scarecrow to keep unwanted visitors off your fields and boost food production by 50%!",
@@ -8180,7 +8337,9 @@
 		"spanish": "¡Cuidado pájaros! Usa este sencillo, pero efectivo espantapájaros para mantener las visitas no deseadas lejos de tus campos ¡y mejorar la producción de comida en un 50%!",
 		"italian": "Uccelli, fate attenzione! Questo spaventapasseri semplice, ma efficace, è utile a tenere lontani i visitatori indesiderati dai tuoi campi e ad aumentare la produzione di cibo del 50%!",
 		"russian": "Долой птиц! Используйте это простое, но эффективное чучело, чтобы отвлечь нежелательных посетителей от ваших полей и увеличить производство продуктов питания на 50%!",
-		"portuguese": "Pássaros, cuidado! Use este espantalho simples e eficaz para manter visitantes indesejados fora de seus campos e aumentar a produção de alimentos em 50%!"
+		"portuguese": "Pássaros, cuidado! Use este espantalho simples e eficaz para manter visitantes indesejados fora de seus campos e aumentar a produção de alimentos em 50%!",
+		"polish": "Uwaga ptaszyska! Dzięki strachowi na wróble skrzydlate szkodniki będą się trzymać z dala od twoich grządek a to dodatkowo zwiększy zbiory o połowę!"
+		
 	},
 	"dreamCatcher": {
 		"english": "Dream Catcher",
@@ -8189,7 +8348,8 @@
 		"spanish": "Atrapasueños",
 		"italian": "Acchiappasogni",
 		"russian": "Ловец снов",
-		"portuguese": "Apanhador de Sonhos"
+		"portuguese": "Apanhador de Sonhos",
+		"polish": "Łapacz snów",
 	},
 	"dreamCatcherDescription": {
 		"english": "Mysterious forces work through this artifact to keep bad dreams away. Villagers sleeping near it will have good dreams every single night.",
@@ -8198,7 +8358,8 @@
 		"spanish": "Fuerzas misteriosas operan a través de este artefacto para mantener las pesadillas alejadas. Los colonos que duerman cerca de él, tendrán buenos sueños todas las noches.",
 		"italian": "Forze misteriose lavorano tramite questo manufatto per tenere lontani i brutti sogni. Gli abitanti che dormono vicino ad esso faranno bei sogni ogni notte.",
 		"russian": "Таинственные силы внутри этого артефакта помогают держать дурные сны подальше. Деревенские жители, спящие рядом, будут иметь хорошие сны каждую ночь.",
-		"portuguese": "Forças misteriosas trabalham nesse artefato para afastar os pesadelos. Os moradores que dormem perto dele terão bons sonhos todas as noites."
+		"portuguese": "Forças misteriosas trabalham nesse artefato para afastar os pesadelos. Os moradores que dormem perto dele terão bons sonhos todas as noites.",
+		"polish": "Ten tajemniczy artefakt zapewni każdemu koloniście dobry sen, zbiera złe sny i koszmary i wysyła je w niebyt."
 	},
 	"bedOfTranquility": {
 		"english": "Bed of Tranquility",
@@ -8222,30 +8383,35 @@
 		"english": "Shipyard",
 		"german": "Schiffswerft",
 		"french": "Chantier naval",
-		"spanish": "Astillero"
+		"spanish": "Astillero",
+		"polish": "Stocznia"
 	},
 	"shipYardDescription": {
 		"english": "Have you ever dreamt about taking off and sailing into the sunset? Starting a new life in a different place? This shipyard can help you achieve your dreams and send your most adventourus villagers on the ultimate journey.",
 		"german": "Hast du jemals davon geträumt aufzubrechen und in den Sonnenuntergang zu segeln? Davon ein neues Leben an einem anderen Ort zu starten? Diese Schiffswerft kann dir helfen diese Träume zu erreichen und deine abenteurlustigsten Dorfbewohner auf die ultimative Reise zu schicken.",
 		"french": "Avez-vous déjà rêvé d'embarquer et de naviguer vers le coucher du soleil ? De commencer une nouvelle vie dans un endroit différent ? Ce chantier naval peut vous aider à réaliser vos rêves et à envoyer vos villageois les plus aventuriers dans un voyage ultime.",
-		"spanish": "¿Has soñado alguna vez en salir y navegar hasta el ocaso? ¿Empezar una nueva vida en un lugar diferente? Este astillero puede ayudarte a alcanzar tus sueños y enviar a tus aldeanos más aventureros en el viaje definitivo."
+		"spanish": "¿Has soñado alguna vez en salir y navegar hasta el ocaso? ¿Empezar una nueva vida en un lugar diferente? Este astillero puede ayudarte a alcanzar tus sueños y enviar a tus aldeanos más aventureros en el viaje definitivo.",
+		"polish": "Czy kiedykolwiek marzyłeś i żeglowaniu w kierunku zachodzącego słońca, rzuceniu tego wszystkiego i starcie w nowym miejscu? Dzięki tej stoczni możesz spełnić swoje i twoich kolonistów marzenia o wielkiej wyprawie ku nieznanym lądom.",
 	},
 	"skeleton1": {
 		"english":  "Skeleton",
 		"german":  "Skelett",
 		"french": "Squelette",
 		"spanish": "Esqueleto",
+		"polish": "Szkielet"
 	},
 	"skeleton2": {
 		"english":  "Skeleton",
 		"german":  "Skelett",
 		"french": "Squelette",
 		"spanish": "Esqueleto",
+		"polish": "Szkielet"
 	},
 	"skeleton3":  {
 		"english":  "Skeleton",
 		"german":  "Skelett",
 		"french": "Squelette",
 		"spanish": "Esqueleto",
+		"polish": "Szkielet"
 	},
 }

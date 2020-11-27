@@ -29,7 +29,7 @@
 		"korean": "과일과 채소",
 		"arabic": "ﺥﻮﺒﻄﻣ ﺮﻴﻏ ﻡﺎﻌﻃ",
 		"italian": "Cibo crudo",
-		"polish": "Surowe jedzenie",
+		"polish": "Surowa żywność",
 	},
 	"resourceName_Food": {
 		"english": "Food",
@@ -45,7 +45,7 @@
 		"korean": "음식",
 		"arabic": "ﻡﺎﻌﻃ",
 		"italian": "Cibo",
-		"polish": "Jedzenie",
+		"polish": "Żywność",
 	},
 	"resourceDescription_FoodRaw": {
 		"english": "Your colonists need food to survive. Every type you gather is raw at first and can be cooked.",
@@ -61,7 +61,7 @@
 		"korean": "개척자들이 살아남기 위해서는 음식이 필요합니다. 자연에서 채취하는 모든 음식은 생야채로 취급되며, 요리의 재료가 됩니다.",
 		"arabic": ".ﻪﻴﻬﻃ ﻦﻜﻤﻳﻭ ﺔﻳﺍﺪﺒﻟﺍ ﻲﻓ ﺥﻮﺒﻄﻣ ﺮﻴﻏ ﻥﻮﻜﻳ ﻪﻌﻤﺠﺑ ﻡﻮﻘﺗ ﻉﻮﻧ ﻞﻛ .ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ ﻡﺎﻌﻄﻟﺍ ﻰﻟﺇ ﻚﻳﺪﻟ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺝﺎﺘﺤﻳ",
 		"italian": "I tuoi coloni hanno bisogno di cibo per sopravvivere. Ogni tipologia di cibo che raccogli è cruda e può essere cucinata.",
-		"polish": "Twoi koloniści potrzebują pożywienia. Każdy rodzaj zebranego jedzenia jest surowy i może zostać ugotowany.",
+		"polish": "Twoi koloniści potrzebują pożywienia. Każdy rodzaj zebranego jedzenia jest surowy i może zostać przyrządzony.",
 	},
 	"resourceName_Apple": {
 		"english": "Apple",
@@ -239,6 +239,7 @@
 		"italian": "Carne cruda",
 		"russian": "Сырое мясо",
 		"portuguese": "Carne crua",
+		"polish": "Surowe mięso",
 	},
 	"resourceName_Milk": {
 		"english": "Milk",
@@ -248,6 +249,7 @@
 		"italian": "Latte",
 		"russian": "Молоко",
 		"portuguese": "Leite",
+		"polish": "Mleko",
 	},
 	"resourceName_FoodCooked": {
 		"english": "Cooked Food",
@@ -263,7 +265,7 @@
 		"korean": "조리된 음식",
 		"arabic": "ﺥﻮﺒﻄﻣ ﻡﺎﻌﻃ",
 		"italian": "Cibo cotto",
-		"polish": "Przygotowane jedzenie",
+		"polish": "Przyrządzona żywność",
 	},
 	"resourceDescription_FoodCooked": {
 		"english": "A colonist will take cooked food over raw food every time. Colonists get happy thoughts from eating cooked food.",
@@ -294,7 +296,7 @@
 		"korean": "과일과 채소",
 		"arabic": "ﺥﻮﺒﻄﻣ ﺮﻴﻏ ﻡﺎﻌﻃ",
 		"italian": "Cibo crudo",
-		"polish": "Surowe jedzenie",
+		"polish": "Surowa żywność",
 	},
 	"resourceName_SimpleMeal": {
 		"english": "Campfire Food",
@@ -445,6 +447,7 @@
 		"italian": "Carne grigliata",
 		"russian": "Жаренное мясо",
 		"portuguese": "Carne grelhada",
+		"polish": "Pieczone mięso",
 	},
 	"resourceName_PumpkinStew": {
 		"english": "Pumpkin Stew",
@@ -460,7 +463,7 @@
 		"korean": "호박 스튜",
 		"arabic": "ﻦﻴﻄﻘﻴﻟﺍ ﺀﺎﺴﺣ",
 		"italian": "Stufato di zucca",
-		"polish": "Krem z dyni",
+		"polish": "Krem dyniowy",
 	},
 	"resourceDescription_PumpkinStew": {
 		"english": "Fresh pumpkins cooked together with potatoes. This is why your colonists can't wait for fall to arrive!",
@@ -516,6 +519,7 @@
 		"italian": "Carne e patate",
 		"russian": "Мясо с картошкой",
 		"portuguese": "Carne e batatas",
+		"polish": "Mięso z ziemniakami",
 	},
 	"resourceName_FruitSalad": {
 		"english": "Fruit Salad",
@@ -556,6 +560,7 @@
 		"italian": "Formaggio",
 		"russian": "Сыр",
 		"portuguese": "Queijo",
+		"polish": "Ser",
 	},
 	"resourceName_Bread": {
 		"english": "Bread",
@@ -883,6 +888,7 @@
 		"italian": "Tessuto",
 		"russian": "Текстиль",
 		"portuguese": "Têxteis",
+		"polish": "Tekstylia",
 	},
 	"resourceDescription_Textiles": {
 		"english": "The Villagers can use cotton or wool to produce cloth for furniture and clothes.",
@@ -934,6 +940,7 @@
 		"italian": "Lana",
 		"russian": "Шерсть",
 		"portuguese": "Lã",
+		"polish": "Wełna",
 	},
 	"resourceName_Cloth": {
 		"english": "Cloth",
@@ -943,6 +950,7 @@
 		"italian": "Stoffa",
 		"russian": "Ткань",
 		"portuguese": "Pano",
+		"polish": "Płótno",
 	},
 	"resourceName_Crystal": {
 		"english": "Crystal",
@@ -1093,6 +1101,7 @@
 		"portuguese": "Elixir da Juventude",
 		"chinese": "青春不老药",
 		"italian": "Elisir di giovinezza",
+		"polish": "Eliksir młodości",
 	},
 	"resourceDescription_ElixirOfYouth": {
 		"english": "Most scholars have doubted is existence for the longest time, but recently more and more stories about it have surfaced. The elixir apparently gives youth, but you'll have to pay for it one way or the other.",

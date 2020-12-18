@@ -23,7 +23,7 @@ Visit [this forum post](https://forum.foundersfortune.com/t/how-to-help-translat
 ## Custom.txt:
 ```
 Game Version:
-Beta 1.2.3
+Release 1.0.1
 Forced Language:
 english
 ```

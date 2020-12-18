@@ -351,7 +351,6 @@
 	},
 	"stoneFloorCleanBricks": {
 		// TODO-dutch
-		// TODO-french
 		// TODO-portuguese
 		// TODO-bulgarian
 		// TODO-turkish
@@ -364,7 +363,7 @@
 		"english": "Dark Stone Tiles Floor",
 		"german": "Dunkler Steinfließenboden",
 		"dutch":  "Ruw stenen vloer",
-		"french": "Sol en pierre brute",
+		"french": "Carrelage en pierre foncée",
 		"spanish": "Piso de losas de piedra oscuras",
 		"portuguese": "Assoalho de pedra áspero",
 		"bulgarian": "Груб под от камък",
@@ -394,7 +393,6 @@
 	},
 	"stoneFloorCleanTiles": {
 		// TODO-dutch
-		// TODO-french
 		// TODO-portuguese
 		// TODO-bulgarian
 		// TODO-turkish
@@ -407,7 +405,7 @@
 		"english": "Light Stone Tiles Floor",
 		"german": "Heller Steinfliesenboden",
 		"dutch":  "Stenen vloertegels",
-		"french": "Sol de tuiles en pierre",
+		"french": "Carrelage en pierre claire",
 		"spanish": "Piso de losas de piedra claras",
 		"portuguese": "Piso de pedra",
 		"bulgarian": "Подови Настилки от Камък",
@@ -602,21 +600,25 @@
 	"carpetCubes": {
 		"english": "Cube Carpet",
 		"german":  "Würfelteppich",
+		"french": "Tapis en cube",
 		"spanish": "Alfombra cúbica",
 	},
 	"carpetCubesDescription": {
 		"english": "The pattern on this carpet represents structure. Orderliness. Stability. It gives the viewer a calm mind and let's them focus on the tasks at hand.",
 		"german":  "Das Muster auf diesem Teppich steht für Struktur. Für Ordnung. Stabilität. Es beruhigt die Seele des Betrachters und ermöglicht ihm, sich auf seine Aufgaben zu konzentrieren.",
+		"french": "Le motif sur ce tapis représente la structure. L'ordre. La stabilité. Elle donne au spectateur un sentiment de calme et lui permet de se concentrer sur les tâches à accomplir.",
 		"spanish": "El patrón de esta alfombra representa estructura. Orden. Estabilidad. Brinda al espectador una mente calmada y permite que se concentre en las tareas en cuestión.",
 	},
 	"carpetTriangles": {
 		"english": "Confusing-Color-Carpet",
 		"german":  "Verwirrende-Farben-Teppich",
+		"french": "Tapis aux couleurs déroutantes",
 		"spanish": "Alfombra de color confuso",
 	},
 	"carpetTrianglesDescription": {
 		"english": "Don't stare at this pattern for too long or you might get hypnotized! Use this carpet when you want to express you're ... different.",
 		"german":  "Starre nicht zu lange auf dieses Muster oder du läuft in Gefahr hypnotisiert zu werden! Verwende diesen Teppich wenn du ausdrücken willst, dass du ... anders ... bist.",
+		"french": "Ne fixez pas ce motif trop longtemps ou vous pourriez être hypnotisé ! Utilisez ce tapis lorsque vous voulez exprimer votre différence.",
 		"spanish": "¡No mires este diseño por mucho tiempo o puede que quedes hipnotizado! Usa esta alfombra cuando quieras expresar que eres... diferente.",
 	},
 
@@ -691,11 +693,13 @@
 	"floorStoneCobbles": {
 		"english": "Scaled Cobble Pavement",
 		"german":  "Schuppenbogenpflaster",
+		"french": "Dallage en pavés écaillés",
 		"spanish": "Pavimento de adoquines escalados",
 	},
 	"floorStoneCobblesDescription": {
 		"english": "Once you have survived for a couple of years, you may want to upgrade the look of your town. And this stunning type of pavement is going to be part of that upgrade! Show your villagers you care, by providing them with a nice environment in the inner city.",
 		"german":  "Sobald du die ersten paar Jahre überlebt hast, möchtest du möglicherweise das Aussehen deiner Stadt verbessern. Und dieses atemberaubende Pflaster wird Teil des neuen Looks sein! Zeige deinen Dorfbewohner, dass du dich um sie kümmerst, indem du ihnen eine wunderschöne Innenstadt gibst.",
+		"french": "Après avoir survécu pendant quelques années, vous voudrez peut-être améliorer l'aspect de votre village. Et ce type de pavage étonnant fera partie de cette amélioration ! Montrez à vos villageois que vous vous souciez d'eux, en leur offrant un environnement agréable dans le centre ville.",
 		"spanish": "Una vez hayas sobrevivido por un par de años, puede que quieras mejorar el aspecto de tu ciudad. ¡Y este deslumbrante tipo de pavimento será parte de esa mejora! Demuestra a los aldeanos que te preocupas, al proveerles de un ambiente agradable en el centro urbano.",
 	},
 

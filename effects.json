@@ -15,6 +15,7 @@
 		"korean": "피를 흘림",
 		"chinese": "表面创伤",
 		"italian": "Ferite sanguinanti",
+		"Norwegian": "Bløende sår",
 	},
 	"effectDesc_Bleeding": {
 		"english": "%firstName% bleeding! Make sure that %hisHer% wounds are bandaged properly. Otherwise, %firstName% could die of blood loss.",
@@ -33,6 +34,7 @@
 		"korean": "%firstName%#{이} 피를 흘리고 있습니다! %heShe%의 상처에 붕대를 잘 감았는지 꼭 확인하세요. 그렇지 않으면, %firstName%#{이} 과다출혈로 사망할 수도 있습니다.",
 		"chinese": "%firstName%流血了!一定要把他的伤口包扎好。否则%firstName%可能会死于失血过多。",
 		"italian": "%firstName% sta sanguinando! Assicurati che le sue ferite vengano fasciate accuratamente. Altrimenti, %firstName% potrebbe morire per dissanguamento.",
+		"Norwegian": "%firstName% blør! vær sikker på at %han/hun% sår er bandasjert ordentlig, hvis ikke kan %firstName% dø av blodtap.",
 	},
 	"effectTitle_Unconscious": {
 		"english": "Unconscious",
@@ -50,6 +52,7 @@
 		"korean": "의식 불명",
 		"chinese": "失去意识",
 		"italian": "Incosciente",
+		"Norwegian": "Bevisstløs"
 	},
 	"effectDesc_Unconscious": {
 		"english": "It's going to take a while before %firstName% wakes up.",
@@ -67,6 +70,7 @@
 		"korean": "%firstName%#{이} 깨어나기까지 좀 걸릴 겁니다.",
 		"chinese": "%firstName%需要一段时间才能苏醒过来。",
 		"italian": "Ci vorrà un po' prima che %firstName% si svegli.",
+		"Norwegian": "det vil ta en stund før %firstName% vokner opp. 
 	},
 	"effectTitle_Bandage": {
 		"english": "Bandage",
@@ -84,6 +88,7 @@
 		"korean": "붕대 감음",
 		"chinese": "绷带包扎",
 		"italian": "Fasciatura",
+		"Norwegian": "bandasje"
 	},
 	"effectDesc_Bandage": {
 		"english": "The bandage is stopping the blood loss.",
@@ -101,6 +106,7 @@
 		"korean": "붕대가 출혈을 막아주고 있어요.",
 		"chinese": "绷带正在止血。",
 		"italian": "La fasciatura sta arrestando la fuoriuscita di sangue.",
+		"Norwegian": "bandasjen stopper blodtapet.",
 	},
 	"effectTitle_Healthy": {
 		"english": "No Effects",
@@ -118,6 +124,7 @@
 		"korean": "이상 없음",
 		"chinese": "没有效果",
 		"italian": "Nessun effetto",
+		"Norwegian": "ingen effekt",
 	},
 	"effectDesc_Healthy": {
 		"english": "%firstName% is healthy!",
@@ -135,6 +142,7 @@
 		"korean": "%firstName%#{은} 건강합니다!",
 		"chinese": "%firstName%很健康！",
 		"italian": "%firstName% è in salute!",
+		"Norwegian": "%firstName% er frisk!",
 	},
 	"effectTitle_Starving": {
 		"english": "Starving",
@@ -152,6 +160,7 @@
 		"korean": "굶주림",
 		"chinese": "饥肠辘辘",
 		"italian": "Affamat%OA%",
+		"Norwegian": "sulter"
 	},
 	"effectDesc_Starving": {
 		"english": "%firstName% hasn't eaten in a long time. %cap-heShe% needs to find something to eat soon in order to survive.",
@@ -170,6 +179,7 @@
 		"korean": "%firstName%#{은} 오랫동안 먹지 않았습니다. %heShe%가 살아남기 위해서는 되도록 빠르게 무언가 먹을 걸 찾아야 합니다.",
 		"chinese": "%firstName%很久没有吃东西了。为了生存下去%heShe%必须尽快找些吃的。",
 		"italian": "%firstName% non mangia da molto tempo. Deve trovare al più presto qualcosa da mangiare per poter sopravvivere.",
+		"Norwegian": "%firstName% har ikke spist på en god stund. %cap-hanhun% trenger å finne noe å spise snart, for å overleve.",
 	},
 	"effectTitle_HealingPotion": {
 		"english": "Healing Potion",
@@ -187,6 +197,7 @@
 		"korean": "회복약",
 		"chinese": "治疗药水",
 		"italian": "Pozione curativa",
+		"Norwegian": "helbredende trylledrikk",
 	},
 	"effectDesc_HealingPotion": {
 		"english": "The healing potion %firstName% drank is doing its work and restoring some health.",
@@ -204,6 +215,7 @@
 		"korean": "%firstName%#{이} 마신 회복약이 효과를 보이고 있습니다. 생명력을 회복하고 있어요.",
 		"chinese": "%firstName%喝下治疗药水后恢复了健康。",
 		"italian": "La pozione curativa che %firstName% ha bevuto sta facendo il suo effetto e %LoLa% sta aiutando a recuperare la salute.",
+		"Norwegian": "den helbredende trylledrikken %firstName% drakk, gjør jobben sin og får nå mer liv.
 	},
 	"effectTitle_Flu": {
 		"english": "Flu",
@@ -221,6 +233,7 @@
 		"korean": "감기",
 		"chinese": "流行感冒",
 		"italian": "Influenza",
+		"Norwegian": "influensa"
 	},
 	"effectDesc_Flu": {
 		"english": "%firstName% has caught the Flu. Make sure %heShe% stays in bed in the coming days and is treated with medicine by a doctor. Do not underestimate the illness!",
@@ -240,6 +253,7 @@
 		"korean": "%firstName%#{은} 감기에 걸렸습니다. %heShe%가 며칠간 침대에 누워있게 해 주고, 의사가 약을 처방할 수 있게 해 주세요. 가벼운 병도 얕보지 마세요!",
 		"chinese": "%firstName%得了流感。在接下来的几天里，一定要卧床休息，并接受医生的药物治疗。千万不要低估疾病!",
 		"italian": "%firstName% ha contratto l'influenza. Assicurati che rimanga a letto nei prossimi giorni e che venga visitat%OA% da un medico. Non sottovalutare la malattia!",
+		"Norwegian": "%firstName% har blitt forkjølet. sørg for at %hanhun% blir i sengen de neste dagene og blir behandlet med medisin av en doktor. ikke undervurder sykdommen!",
 	},
 	"effectTitle_SleepingInBed": {
 		"english": "Resting in Bed",
@@ -257,6 +271,7 @@
 		"korean": "침대에서 휴식",
 		"chinese": "躺在床上",
 		"italian": "Riposo a letto",
+		"Norwegian": "sover i sengen",
 	},
 	"effectDesc_SleepingInBed": {
 		"english": "%firstName% is resting and slowly re-gaining health.",
@@ -276,6 +291,7 @@
 		"korean": "%firstName%#{은} 쉬고 있으며, 생명력이 서서히 회복되고 있습니다.",
 		"chinese": "%firstName%在休息慢慢地恢复健康。",
 		"italian": "%firstName% sta riposando e sta recupendo la sua salute un po' alla volta.",
+		"Norwegian": "%firstName% slapper av og får sakte tilbake liv.",
 	},
 	"effectTitle_AllergicReaction": {
 		"english": "Allergic Reaction",
@@ -293,6 +309,7 @@
 		"korean": "알레르기 반응",
 		"chinese": "过敏反应",
 		"italian": "Reazione allergica",
+		"Norwegian": "allergisk reaksjon",
 	},
 	"effectDesc_AllergicReaction": {
 		"english": "%firstName% was forced to eat food %heShe% is allergic to. Now %hisHer% body has had an allergic reaction.",
@@ -311,6 +328,7 @@
 		"korean": "%firstName%#{이} 알레르기가 있는 음식을 먹었습니다. %heShe%의 몸 여기저기에 알레르기 증상이 나타나고 있어요.",
 		"chinese": "%firstName%吃了过敏的食物。现在他的身体出现了过敏反应。",
 		"italian": "%firstName% è stat%OA% costretto a mangiare del cibo a cui era allergic%OA%. Adesso il suo corpo ha avuto una reazione allergica.",
+		"Norwegian": "%firstName% ble tvunget til å spise mat %hanhun% er allergisk mot. Nå vil %hanshennes% kropp ha en allergisk reaksjon.",
 	},
 	"effectStage": {
 		"english": "Stage",
@@ -327,6 +345,7 @@
 		"korean": "단계",
 		"chinese": "手舞足蹈",
 		"italian": "Stadio",
+		"Norwegian": "scene",
 	},
 	"effectTitle_SmallFoodRationsSlowness": {
 		"english": "Works slowly",
@@ -343,6 +362,7 @@
 		"korean": "느리게 일함",
 		"chinese": "工作迟钝",
 		"italian": "Lavora lentamente",
+		"Norwegian": "jobber sakte",
 	},
 	"effectDesc_SmallFoodRationsSlowness": {
 		"english": "%firstName% receives only small food rations, so %heShe% just lacks the energy to work properly and takes longer to complete tasks.",
@@ -361,6 +381,7 @@
 		"korean": "%firstName%#{은} 음식을 적게 배분받았습니다. 그래서 %heShe%는 제대로 일할 수 있는 에너지가 부족합니다. 일을 끝마치는 데에 더 많은 시간이 걸립니다.",
 		"chinese": "%firstName%只得到少量的食物配给，所以%firstName%只是缺乏精力工作，需要更长的时间来完成任务。",
 		"italian": "%firstName% si nutre solo con piccole razioni alimentari, per cui gli mancano le energie per lavorare e per questo impiega più tempo per completare gli incarichi.",
+		"Norwegian": "%firstName% får kun små porsjoner med mat, så %hanhun% har ikke energi til å jobbe ordentlig og bruker lenger tid på å fullføre oppgaver."
 	},
 	"effectTitle_LegHurt": {
 		"english": "Hurt leg: Walks slowly",
@@ -376,6 +397,7 @@
 		"korean": "다리를 다침: 느리게 걸음",
 		"chinese": "腿伤：行走迟缓",
 		"italian": "Gamba ferita: cammina lentamente",
+		"Norwegian": "skadet ben: går sakte",
 	},
 	"effectDesc_LegHurt": {
 		"english": "%firstName% has hurt %hisHer% leg. Splints will help it heal more quickly.",
@@ -391,6 +413,7 @@
 		"korean": "%firstName%#{은} 다리를 다쳤습니다. 부목을 댄다면 좀 더 빠르게 나을거에요.",
 		"chinese": "%firstName%的腿受伤了。夹板可以帮助它更快地愈合。",
 		"italian": "%firstName% si è ferit%OA% alla gamba. Le stecche l%OA% aiuteranno a guarire più rapidamente.",
+		"Norwegian": "%firstName% har skadet benet. skinne vil helbrede det kjappere.",
 	},
 	"effectTitle_LegBroken": {
 		"english": "Broken leg: Can't walk",
@@ -406,6 +429,7 @@
 		"korean": "다리가 부러짐: 걸을 수 없음",
 		"chinese": "腿折：不能行走",
 		"italian": "Gamba rotta: non può camminare",
+		"Norwegian": "brukket ben, kan ikke gå",
 	},
 	"effectDesc_LegBroken": {
 		"english": "%firstName% has broken %hisHer% leg and cannot walk anymore. You need to apply splints, or %firstName% may be permanently disabled!",
@@ -421,6 +445,7 @@
 		"korean": "%firstName%의 다리가 부러져, 더이상 걸을 수 없습니다. 부목을 대지 않으면, %firstName%#{은} 평생 장애를 갖게 될 거에요!",
 		"chinese": "%firstName%的腿骨折了，不能再走路了。您必须使用夹板，否则%firstName%可能永久断腿了!",
 		"italian": "%firstName% si è rott%OA% una gamba e non può più camminare. Devi applicare delle stecche, o %firstName% potrebbe rimanere invalido a vita!",
+		"Norwegian": "%firstName% har brukket %hanshennes% ben og kan ikke gå mer. du må legge på en skinne, hvis ikke vil %firstName% få varig skade.",
 	},
 	"effectTitle_ArmHurt": {
 		"english": "Hurt arm: Works slowly",
@@ -436,6 +461,7 @@
 		"korean": "팔을 다침: 느리게 일함",
 		"chinese": "手伤: 工作迟缓",
 		"italian": "Braccio ferito: lavora lentamente",
+		"Norwegian": "skadet arm: jobber sakte",
 	},
 	"effectDesc_ArmHurt": {
 		"english": "%firstName% has hurt %hisHer% arm. Splints will help it heal more quickly.",
@@ -451,6 +477,7 @@
 		"korean": "%firstName%#{은} 팔을 다쳤습니다. 부목을 댄다면 좀 더 빠르게 나을거에요.",
 		"chinese": "%firstName%胳膊受伤了。夹板可以帮助它更快地愈合。",
 		"italian": "%firstName% si è ferit%OA% al braccio. Le stecche l%OA% aiuteranno a guarire più rapidamente.",
+		"Norwegian": "%firstName% har skadet %hanshennes% arm. skinne vil hjelpe for at det skal gro kjappere.",
 	},
 	"effectTitle_ArmBroken": {
 		"english": "Broken arm: Can't work",
@@ -466,6 +493,7 @@
 		"korean": "팔이 부러짐: 일할 수 없음",
 		"chinese": "手折: 不能工作",
 		"italian": "Braccio rotto: lavora lentamente",
+		"Norwegian": " brukket arm: kan ikke jobbe",
 	},
 	"effectDesc_ArmBroken": {
 		"english": "%firstName% has broken %hisHer% arm and cannot work anymore. Splints will help it heal more quickly.",
@@ -481,6 +509,8 @@
 		"korean": "%firstName%의 팔이 부러져, 더이상 일할 수 없습니다. 부목을 댄다면 좀 더 빠르게 나을거에요.",
 		"chinese": "%firstName%的胳膊骨折了，不能再工作了。夹板可以帮助它更快地愈合。",
 		"italian": "%firstName% si è rott%OA% un braccio e non può più lavorare. Le stecche l%OA% aiuteranno a guarire più in fretta.",
+		"Norwegian": "%firstName har brukkes %hanshennes% arm og kan ikke jobbe mer. skinne vil hjelpe for at det skal gro kjappere.",
+		
 	},
 	"effectTitle_LegSplint": {
 		"english": "Leg splints",
@@ -496,6 +526,7 @@
 		"korean": "다리에 부목",
 		"chinese": "腿部夹板",
 		"italian": "Stecca alla gamba",
+		"Norwegian": "ben skinne"
 	},
 	"effectDesc_LegSplint": {
 		"english": "The leg is stabilized now. It will heal in a short while.",
@@ -511,8 +542,9 @@
 		"korean": "다리가 좀 안정되었습니다. 조금만 지나면 다 나을거에요.",
 		"chinese": "腿现在固定好了。过一会儿就会恢复了。",
 		"italian": "La gamba è stabilizzata adesso. Guarirà in breve tempo.",
+		"Norwegian": " benet er blitt stabilisert nå. og vil leges på kort tid.",
 	},
-	"effectTitle_ArmSplint": {
+	"effectTitle_armSplint": {
 		"english": "Arm splints",
 		"german": "Arm geschient",
 		"french": "Attelle (bras)",
@@ -525,7 +557,8 @@
 		"ukrainian":"Шина на руці",
 		"korean": "팔에 부목",
 		"chinese": "手臂夹板",
-		"italian": "Stecca al braccio",
+		"italian": "Stecca al braccio",'
+		"Norwegian": "arms skinne",
 	},
 	"effectDesc_ArmSplint": {
 		"english": "The arm is stabilized now. It will heal in a short while.",
@@ -541,6 +574,7 @@
 		"korean": "팔이 좀 안정되었습니다. 조금만 지나면 다 나을거에요.",
 		"chinese": "手臂现在固定好了。过一会儿就会恢复了。",
 		"italian": "Il braccio è stabilizzato adesso. Guarirà in breve tempo.",
+		"Norwegian": "armen er blitt stabilisert nå, og vil leges på kort tid.",
 	},
 	"effectTitle_LuckierHeal": {
 		"english": "Improved Healing Skills",
@@ -552,6 +586,7 @@
 		"portuguese": "Habilidades de Cura Melhoradas",
 		"turkish": "İleri seviye iyileştirme yetenekleri",
 		"polish": "Ulepszone umiejętności lecznicze",
+		"Norwegian": "forbedret helbredelse evne"
 	},
 	"effectDesc_LuckierHeal": {
 		"english": "Treatments will succeed with a higher probability.",
@@ -563,6 +598,7 @@
 		"portuguese": "Os tratamentos terão sucesso com uma maior probabilidade.",
 		"turkish": "Tedavinin iyileşmesi daha yüksek ihtimal",
 		"polish": "Leczenie ma większe szanse powodzenia.",
+		"Norwegian": "behandlingen vil lykkes med større sansynelighet.",
 	},
 	"effectTitle_FasterWork": {
 		"english": "Faster Work Speed",
@@ -574,6 +610,7 @@
 		"portuguese": "Maior velocidade de trabalho",
 		"turkish": "Daha hızlı çalışma",
 		"polish": "Szybsza praca",
+		"Norwegian": "økt arbeids hastighet"
 	},
 	"effectDesc_FasterWork": {
 		"english": "%firstName% works faster.",
@@ -585,6 +622,7 @@
 		"portuguese": "%firstName% funciona mais rápido.",
 		"turkish": "%firstName% daha hızlı çalışır",
 		"polish": "%firstName% szybciej pracuje",
+		"Norwegian": "%firstName% jobber fortere.",
 	},
 	"effectTitle_NoNightmare": {
 		"english": "Nightmare protection",
@@ -596,6 +634,7 @@
 		"portuguese": "Proteção de pesadelo",
 		"turkish": "Kabus koruması",
 		"polish": "Ochrona przed koszmarami",
+		"Norwegian": "Mareritt beskyttelse",
 	},
 	"effectDesc_NoNightmare": {
 		"english": "%firstName% will not get any nightmares.",
@@ -607,6 +646,7 @@
 		"portuguese": "%firstName% não terá pesadelos.",
 		"turkish": "%firstName% kabus görmeyecek",
 		"polish": "%firstName% nie będzie miewać koszmarów.",
+		"Norwegian": "%firstName% vil ikke få mareritt.",
 	},
 }
 

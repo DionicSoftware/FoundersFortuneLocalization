@@ -13,6 +13,7 @@
 		"korean": "백과사전",
 		"chinese": "百科全书",
 		"italian": "Enciclopedia",
+		"Norwegian": "Leksikon",
 	},
 	"helpMenuTitle_basics": {
 		"english": "Basics",
@@ -28,6 +29,7 @@
 		"korean": "기초",
 		"chinese": "基础",
 		"italian": "Nozioni di base",
+		"Norwegian": "Grunnleggende",
 	},
 	"helpMenuTitle_research": {
 		"english": "Research",
@@ -43,6 +45,7 @@
 		"korean": "연구",
 		"chinese": "研究",
 		"italian": "Ricerca",
+		"Norwegian": "undersøke",
 	},
 	"helpMenuTitle_foodProduction": {
 		"english": "Food Production",
@@ -58,6 +61,7 @@
 		"korean": "식량 생산",
 		"chinese": "食物加工",
 		"italian": "Produzione di cibo",
+		"Norwegian": "mat produksjon",
 	},
 	"helpMenuTitle_health": {
 		"english": "Health",
@@ -73,6 +77,7 @@
 		"korean": "생명력",
 		"chinese": "健康",
 		"italian": "Salute",
+		"Norwegian": "helse",
 	},
 	"helpMenuTitle_immigration": {
 		"english": "Immigration",
@@ -88,6 +93,7 @@
 		"korean": "이주",
 		"chinese": "移民",
 		"italian": "Immigrazione",
+		"Norwegian": "innvandrer",
 	},
 	"helpMenuTitle_professions": {
 		"english": "Professions",
@@ -103,6 +109,7 @@
 		"korean": "직업",
 		"chinese": "职业",
 		"italian": "Professioni",
+		"Norwegian": "yrke",
 	},
 	"helpMenuTitle_mood": {
 		"english": "Mood",
@@ -118,6 +125,7 @@
 		"korean": "기분",
 		"chinese": "心情",
 		"italian": "Umore",
+		"Norwegian": "humør",
 	},
 
 	
@@ -221,6 +229,14 @@ Inoltre, dovrai assicurarsi che ci sia sempre abbastanza cibo in deposito, sopra
 Assicurati che i tuoi coloni siano sani e salvi per mantenere il buon umore nella tua colonia. Nativi aggressivi, malattie debilitanti e condizioni meteorologiche avverse sono solo alcune delle sfide che dovrai affrontare lungo la tua strada. Se esporrai troppo a lungo i tuoi coloni alle difficoltà, potrebbero smettere di seguire i tuoi ordini e iniziare a fare quello che vogliono.
 											
 Buona fortuna a stabilirti su quest'isola!",
+		"Norwegian": "velkommen!
+du må ta godt vare på kolonien din, om du ønsker at populasjonen skal vokse, 
+aller viktigste er å sørge for at de alltid har nok mat på lager, spesielt når vinteren står på tur. fortell kolonien direkte hva de skal gjøre, eller velg et yrke, så gjør dem det automatisk. bønder og håndverkere, Soldater og lærere, gjør alle sin jobb for kolonien. be lærerne om å undersøke nye teknologier og åpne fler avanserte bygninger, utstyr og ferdigheter.
+
+å behold kolonien trygg og frisk for å beholde et godt humør på laget. Agressiv innfødte, sykdom og dårlig vær er bare noen få av utfordringene du vil komme til å oppleve på veien. hvis du lar kolonien ha det tøft for lenge vil de muligens stoppe å jobbe for deg, og gjør istedenfor det de har lyst til.
+
+lykke til med å sette opp din koloni på øya!",
+		
 	},
 	"helpMenuText_research": {
 		"english": "Your scholars come up with new technologies by studying the magic crystals scattered all around your settlement. Send out miners to collect some and build a book stand so your scholars may read up on techniques to analyze the crystals. Make sure to select the next technology in the research panel in the top right corner.",
@@ -236,6 +252,7 @@ Buona fortuna a stabilirti su quest'isola!",
 		"korean": "학자들은 정착지 주변에 흩어진 마법 크리스탈을 연구하여 새로운 기술을 가져올겁니다. 광부들을 보내 크리스탈을 수집하고, 연구대를 지어 학자들이 크리스탈을 분석하고 기술을 연구할 수 있도록 하세요. 화면 오른쪽 상단에 위치한 연구 패널에서 연구할 기술을 선택하는 것을 잊지 마세요.",
 		"chinese": "你们的学者通过研究散布在你们殖民地周围的魔法水晶，研究出新的技术。派矿工去收集一些，并建造一个书架，这样你的学者就可以阅读关于分析水晶的技术。确保在右上角的研究面板中选择下一个新技术。",
 		"italian": "I tuoi eruditi inventano nuove tecnologie studiando i cristalli magici sparsi in tutta l'isola. Invia dei minatori per raccoglierne alcuni e costruisci un leggio in modo che i tuoi eruditi possano documentarsi sulle tecniche per analizzare i cristalli. Assicurati di selezionare la tecnologia da ricercare nel pannello di ricerca nell'angolo in alto a destra.",
+		"Norwegian": "din lærer kommer opp med nye teknologier ved å studere magiske krystaller som ligger overalt rundt deg. send ut gruvearbeidere for å samle inn, og bygg en bok stand så læreren kan lese seg opp på teknologier og analysere krystallene. husk å velge neste teknologi i etterforskings panelet i toppen på høyre hjørnet.,
 	},
 	"helpMenuText_foodProduction": {
 		"english": "Food matters. Good food makes colonists happy, bad food makes colonists sick, little food makes colonists slow, and no food means colonists will die. So, make sure you've got your production chain set up to provide for everyone!",
@@ -251,6 +268,7 @@ Buona fortuna a stabilirti su quest'isola!",
 		"korean": "음식은 중요합니다. 좋은 음식은 개척자들을 행복하게 하지만, 잘못 먹은 음식은 개척자를 아프게 합니다. 음식을 적게 먹으면 개척자가 느려지고, 음식이 없으면 개척자가 죽습니다. 그러니 모두에게 음식을 제공할 수 있도록 생산 단계가 잘 연결되어있는지 확인하세요!",
 		"chinese": "食物很重要。美味的食物使殖民者快乐，难吃的食物使殖民者生病，缺少食物配给使殖民者变得工作缓慢，没有食物殖民者将会饿死。 因此请确保您的生产链能为每个人提供食物！",
 		"italian": "Nutrirsi è importante. Il buon cibo rende felici i coloni, il cattivo cibo li fa ammalare, poco cibo li rallenta e nessun cibo li farà morire. Per cui, assicurati di avere una catena di produzione attiva per fornire del cibo a tutti!",
+		"Norwegian": "mat er viktig. god mat gjør kolonien glad, dårlig mat gjør kolonien syk, lite mat gjør kolonistene trege, null mat gjør at de vil dø. så vær sikker på at du har satt opp produksjonen for at det er nok til alle!",
 	},
 	"helpMenuTitle_foodProduction_farming": {
 		"english": "Farming",
@@ -266,6 +284,7 @@ Buona fortuna a stabilirti su quest'isola!",
 		"korean": "농사",
 		"chinese": "农业",
 		"italian": "Coltivazione",
+		"Norwegian": "jordbruk"
 	},
 	"helpMenuText_foodProduction_farming": {
 		"english": "Everything begins in the fields, where industrious farmers spend their days caring for your crops. Depending on the season, they can sow a different selection of plants for food or medicinal purposes. Plants grow no matter how well you care for them, but good farmers use their watering cans to keep them growing optimally and increase their yield significantly.
@@ -304,6 +323,7 @@ Zanim zaczniesz sadzić jak szalony, ważne ostrzeżenie: wszystkie rośliny, kt
 		"italian": "Tutto inizia dai campi, dove i contadini operosi trascorrono le loro giornate a prendersi cura dei tuoi raccolti. A seconda della stagione, possono seminare una diversa selezione di piante a fini alimentari o medicinali. Le piante crescono indipendentemente da quanto ti prendi cura di loro, ma i contadini più astuti usano i loro innaffiatoi per farle crescere in modo ottimale e aumentare significativamente la loro resa.
 Ora, prima di iniziare a piantare come un pazzo, un'ultima parola di avvertimento: tutte le piante che non vengono raccolte prima della fine della loro stagione moriranno senza produrre cibo per la tua colonia!
 Buona coltivazione!",
+		"Norwegian":
 	},
 	"helpMenuTitle_foodProduction_expectations": {
 		"english": "Food Expectations",
@@ -319,6 +339,7 @@ Buona coltivazione!",
 		"korean": "음식에 대한 기대",
 		"chinese": "食品期望",
 		"italian": "Aspettative alimentari",
+		"Norwegian":
 	},
 	"helpMenuText_foodProduction_expectations": {
 		"english": "Colonists can deal with a lot of hardship, but they are not stupid. When your colony grows in size and numbers, they will start to expect better food than just eating raw plants. Using the campfire or the kitchen you can make meals of higher quality for demanding colonists. If you can run a bakery as well, they will welcome the variety!
@@ -346,6 +367,7 @@ Sommige kolonisten hebben favoriete maaltijden en krijgen een stemmingsboost als
 		"chinese": "殖民者可以应付很多困难，但他们并不笨。当你的殖民地规模和数量在增长时，它们会开始期待更好的食物，而不仅仅是生吃植物。使用营火或厨房，你可以为苛刻的殖民者提供更高质量的食物。如果你能经营面包工坊时，他们会喜欢各种各样的面包! 殖民者有各自喜欢的食物，如果他们能吃到的话，他们的情绪会得到提升。有一些人对某些食物过敏，会尽量避免食用。如果没有其他食物，他们可能会被迫食用，从而导致过敏反应。”",
 		"italian": "I coloni possono affrontare molte difficoltà, ma non sono stupidi. Quando la tua colonia cresce in dimensioni e numero, i coloni inizieranno ad aspettarsi del cibo migliore rispetto al semplice consumo di piante crude. Usando il falò o la cucina puoi preparare pasti di qualità superiore per i coloni esigenti. Se riesci a gestire anche una panetteria, apprezzeranno la varietà!
 Alcuni coloni hanno i loro piatti preferiti e ottengono un aumento dell'umore se li mangiano. Altri, sono allergici ad alcuni tipi di alimenti e li eviteranno a tutti i costi. Se non c'è altro disponibile, potrebbero essere costretti a mangiarli comunque, provocando una reazione allergica.",
+		"Norwegian":
 	},
 	"helpMenuTitle_foodProduction_rations": {
 		"english": "Food Rations",
@@ -361,6 +383,7 @@ Alcuni coloni hanno i loro piatti preferiti e ottengono un aumento dell'umore se
 		"korean": "식량 배급",
 		"chinese": "食物配给",
 		"italian": "Razioni di cibo",
+		"Norwegian":
 	},
 	"helpMenuText_foodProduction_rations": {
 		"english": "Winter is long and even the best colonies sometimes fail to perpare adequate stockpiles. If you worry about the survival of your colony, you can limit the food rations for each colonist. While this preserves more food for later, your colonists will feel weak and are not going to be able to work as quickly. 
@@ -389,6 +412,7 @@ Aan de andere kant, als je voorraden vol zijn en er voldoende reserves zijn, kun
 		"chinese": "冬天很长，即使是最好的殖民地有时也无法储存足够的食物。如果你担心你的殖民地发展，你可以限制每个殖民者的食物配给。虽然这为以后保存了更多的食物，但你的殖民者会感到饥饿虚弱，他们工作将会变的缓慢。另一方面，如果你的储备充足，你可以增加食物配给的量来增加幸福感。”",
 		"italian": "L'inverno è lungo e anche le migliori colonie a volte non riescono a conservare una quantità adeguata di cibo. Se sei preoccupato della sopravvivenza della tua colonia, puoi limitare le razioni alimentari per ogni colono. Sebbene questo serva ad avere più scorte di cibo nel lungo periodo, i tuoi coloni si sentiranno deboli e non saranno in grado di lavorare molto velocemente a causa delle razioni ridotte.
 D'altra parte, se le tue riserve di cibo sono abbondanti, puoi aumentare le razioni alimentari per ottenere un incremento della felicità!",
+		"Norwegian":
 	},
 	"helpMenuTitle_foodProduction_bugs": {
 		"english": "Bug Infestations",
@@ -404,6 +428,7 @@ D'altra parte, se le tue riserve di cibo sono abbondanti, puoi aumentare le razi
 		"korean": "병충해 발생",
 		"chinese": "虫害",
 		"italian": "Infestazione di insetti",
+		"Norwegian":
 	},
 	"helpMenuText_foodProduction_bugs": {
 		"english": "Every year, the dreaded bugs pose a serious danger to your harvest. If a bug infestation is detected, your colonists need to be quick and remove all affected plants before the infestation spreads. You could lose all your work in seconds!",
@@ -419,6 +444,7 @@ D'altra parte, se le tue riserve di cibo sono abbondanti, puoi aumentare le razi
 		"korean": "매년, 무서운 벌레들이 당신의 수확에 심각한 위협을 가합니다. 병충해 발생이 확인되었다면, 개척자들이 감염이 퍼지기 전에 빠르게 감염된 식물을 제거해야 합니다. 한 순간에 모든 일이 물거품이 될 수도 있어요!",
 		"chinese": "每年，可怕的虫子都会给农作物收获带来严重破坏。如果发现虫害，您的殖民者需要快速移除所有受虫害的植物，防止蔓延。你可以在几秒钟内完成清除虫害工作！",
 		"italian": "Ogni anno, i temuti insetti rappresentano un grave pericolo per il tuo raccolto. Se viene rilevata un'infestazione di insetti, i tuoi coloni devono essere rapidi nel rimuovere tutte le piante interessate prima che si diffonda l'infestazione. Potresti perdere tutto il tuo raccolto in pochi secondi!",
+		"Norwegian":
 	},
 
 	"helpMenuText_health": {
@@ -447,6 +473,7 @@ Podstawowym środkiem zapobiegawczym jest dawanie tym biednym, małym ludzikom n
 最基本的补救办法是给这些可怜的小家伙们一些时间休息。躺在床上让他们的身体慢慢恢复。查看状态面板(心脏图标)，查看关于健康状态的详细信息。",
 		"italian": "Ci sono molte cose brutte che possono accadere ai coloni che lavorano duramente.
 Il rimedio più semplice è consentire ai poveretti di riposare per un po' di tempo. Essere sdraiati su un letto garantirà ai loro corpi un po' di recupero dal malessere. Dai un'occhiata al pannello di stato (icona del cuore) per vedere i dettagli sul loro stato di salute.",
+		"Norwegian":
 	},
 	"helpMenuTitle_health_alchemy": {
 		"english": "Alchemy",
@@ -462,6 +489,7 @@ Il rimedio più semplice è consentire ai poveretti di riposare per un po' di te
 		"korean": "연금술",
 		"chinese": "炼金术 ",
 		"italian": "Alchimia",
+		"Norwegian":
 	},
 	"helpMenuText_health_alchemy": {
 		"english": "If you have colonists with some experience as a doctor, they can usually handle basic alchemy and produce potions from healing plants. While tasting horrific, these concoctions accelerate the healing process significantly.",
@@ -477,6 +505,7 @@ Il rimedio più semplice è consentire ai poveretti di riposare per un po' di te
 		"korean": "의사로서의 경험이 어느정도 쌓인 개척자가 있다면, 그들은 보통 기초적인 연금술을 다룰 줄 알고, 약초에서 물약을 만들어낼 줄 알 겁니다. 맛은 끔찍하지만, 그 혼합물들은 회복 속도를 무척 빠르게 증가시킵니다.",
 		"chinese": "如果你有医生的经验的殖民者，他们通常可以处理基本的炼金术和用草药生产药水。虽然味道不好，但这些混合物能显著加快愈合过程。",
 		"italian": "Se hai dei coloni con una certa esperienza come medici, allora potrai occuparti dell'alchimia di base e sarai in grado di produrre pozioni usando piante curative. Sebbene il loro sapore sia orribile, queste preparazioni accelerano significativamente il processo di guarigione.",
+		"Norwegian":
 	},
 	"helpMenuTitle_health_wounds": {
 		"english": "Wounds",
@@ -492,6 +521,7 @@ Il rimedio più semplice è consentire ai poveretti di riposare per un po' di te
 		"korean": "부상",
 		"chinese": "伤口",
 		"italian": "Ferite",
+		"Norwegian":
 	},
 	"helpMenuText_health_wounds": {
 		"english": "Doctors show their true strength when dealing with badly wounded colonists. When push comes to shove and the colony needs to be defended against raiders, injuries are inevitable. Colonists can lose consciousness on the battlefield. While they are losing blood and holding on to dear life, a doctor can rush out, bandage their wounds and administer healing potions to prevent the worst.",
@@ -507,6 +537,7 @@ Il rimedio più semplice è consentire ai poveretti di riposare per un po' di te
 		"korean": "의사는 심각한 부상을 입은 개척자를 만났을 때 그 진정한 힘을 보여줍니다. 상황이 더 안 좋아지고, 정착지에서는 침략자를 방어해야 할 때, 부상은 필연적입니다. 개척자는 전장에서 의식을 잃을 수도 있습니다. 그들이 피를 흘리면서도 살아남아있는 동안, 의사는 달려나가 그들의 상처에 붕대를 감고, 회복약을 뿌려 최악의 상황을 막아냅니다.",
 		"chinese": "医生在处理严重受伤的殖民者时体现出他重要性。当殖民地紧急关头需要抵御侵略者时，受伤是难免的。殖民者可能会在战场上失去意识。当他们失血时，医生可以为他们包扎伤口，并使用治疗药水来防止恶化。",
 		"italian": "I medici mostrano la loro vera forza quando hanno a che fare con dei coloni gravemente feriti. Quando le cose si mettono male e la colonia deve difendersi dai predoni, le ferite sono inevitabili. I coloni possono perdere conoscenza sul campo di battaglia. Quando perdono sangue e lottano fra la vita e la morte, un medico può giungere in soccorso, bendando le ferite e somministrando pozioni curative per prevenire il peggio.",
+		"Norwegian":
 	},
 	"helpMenuTitle_health_illnesses": {
 		"english": "Illnesses",
@@ -522,6 +553,7 @@ Il rimedio più semplice è consentire ai poveretti di riposare per un po' di te
 		"korean": "질병",
 		"chinese": "疾病",
 		"italian": "Malattie",
+		"Norwegian":
 	},
 	"helpMenuText_health_illnesses": {
 		"english": "Finally, big colonies are prone to illnesses spreading amongst the colonists. Make sure to keep a good stock of medicine in storage and have a trained doctor attend to them with regular treatments for better chances of recovery.",
@@ -537,6 +569,7 @@ Il rimedio più semplice è consentire ai poveretti di riposare per un po' di te
 		"korean": "결국, 큰 정착지는 개척자들 사이에서 질병이 퍼져 나가는 것에 취약합니다. 질병이 나을 확률을 높이려면 약품을 충분히 보관해두고, 훈련된 의사가 정기적으로 치료할 수 있도록 준비해두세요.",
 		"chinese": "最后，大型殖民地容易在殖民者中传播疾病。一定要储备足够的药物，并请一位受过训练的医生定期治疗，以获得更好的康复效果。",
 		"italian": "Le grandi colonie sono più inclini alla diffusione delle malattie tra i coloni. Assicurati di conservare una buona scorta di medicinali e di avere un medico esperto per seguire i pazienti con trattamenti regolari per migliorare le loro possibilità di recupero.",
+		"Norwegian":
 	},
 	"helpMenuText_immigration": {
 		"english": "Your starting crew may be hardworking or not, but the colony will never reach greatness if it doesn’t grow. To attract immigrants you will need to build a big bonfire on a tower. This light signal, shining far into the distance, is seen by random wanderers and explorers.
@@ -561,7 +594,8 @@ Niektórzy mogą przybyć sami lub z przyjaciółmi, by odwiedzić Cię i spyta�
 그들 중 누군가는 혼자 또는 친구와 함께 방문하여 정착지에 합류할 수 있는지 물어볼거에요.",		
 		"chinese": "你的初始成员可能很努力，也可能不努力，但如果殖民地不发展起来，它永远不会达到繁荣的状况。为了吸引移民，你需要在塔上放一堆篝火。这个火光信号，能传播到很远的地方，被随机的流浪者和探险者看到。有些人可能会独自或携带朋友来拜访你，并要求加入殖民地。",
 		"italian": "Che la tua squadra di partenza lavori alacremente o meno, ma la colonia non raggiungerà mai lo splendore se non cresce. Per attirare degli immigrati dovrai costruire un grande falò su una torre. Questo segnale luminoso, capace di risplendere da lontano, può essere visto da vagabondi ed esploratori casuali.
-Alcuni possono venire a farti visita da soli o con amici e chiederti di unirsi alla tua colonia.",	
+Alcuni possono venire a farti visita da soli o con amici e chiederti di unirsi alla tua colonia.",
+		"Norwegian":
 	},
 	"helpMenuTitle_immigration_expectations": {
 		"english": "Expectations",
@@ -577,6 +611,7 @@ Alcuni possono venire a farti visita da soli o con amici e chiederti di unirsi a
 		"korean": "기대",
 		"chinese": "期望",
 		"italian": "Aspettative",
+		"Norwegian":
 	},
 	"helpMenuText_immigration_expectations": {
 		"english": "Once the colony starts growing and getting more and more wealthy, the colonists want to have a piece of the pie as well. They start expecting good food, a nice looking, comfortable home and a degree of general life statisfaction.
@@ -604,6 +639,7 @@ Nierealizowanie ich oczekiwań nie sprawi, że koloniści odwrócą się od cieb
 		"chinese": "一旦殖民地开始发展，变得越来越富有，殖民者也想变得更好。他们开始期待好的食物，漂亮的房子，舒适的家和一定程度的生活满意度。不满足这些期望并不会让殖民者反抗你，但会阻碍殖民地的发展:当移民考虑加入你的殖民地时，他们会考虑到在你的殖民地生活的舒适和好处。如果你的殖民者的期望没有得到满足，你就无法说服新移民加入!",
 		"italian": "Una volta che la colonia inizia a crescere e diventa sempre più ricca, anche i coloni vogliono avere un pezzo della torta. Cominciano ad aspettarsi del buon cibo, una bella casa confortevole e un certo grado di statisfazione generale di vita.
 Non soddisfare queste aspettative non mette i coloni contro di te, ma impedisce la crescita futura. Nel momento in cui i migranti prendono in considerazione la tua colonia, valutano le comodità e i benefici presenti nel tuo insediamento. Se le aspettative dei tuoi coloni non vengono soddisfatte, non puoi convincere nuove persone ad unirsi!",
+		"Norwegian":
 	},
 	"helpMenuTitle_immigration_overview": {
 		"english": "Immigration Overview",
@@ -619,6 +655,7 @@ Non soddisfare queste aspettative non mette i coloni contro di te, ma impedisce 
 		"korean": "이주 요약",
 		"chinese": "移民概述",
 		"italian": "Panoramica sull'immigrazione",
+		"Norwegian":
 	},
 	"helpMenuText_immigration_overview": {
 		"english": "Click on your bonfire to get a detailed overview of the immigration status.
@@ -647,6 +684,7 @@ Na obrazku poniżej widać że oczekiwania kolonistów nie zostały spełnione, 
 在这图中，殖民者的期望没有得到满足，所以殖民地不会继续发展。",
 		"italian": "Clicca sul tuo falò per ottenere una panoramica dettagliata sullo stato dell'immigrazione.
 In questa immagine le aspettative dei coloni non sono soddisfatte, perciò la colonia non crescerà.",
+		"Norwegian":
 	},
 
 	"helpMenuText_professions": {
@@ -676,6 +714,7 @@ Jednakże każdy w kolonii jest odpowiedzialny za tworzenie podłóg, ścian i m
 然而，在殖民地的每个人都要负责建造地板、墙壁和家具，不管他们的职业任务是什么!",
 		"italian": "Le professioni possono aiutare ad automatizzare le attività ripetitive nella colonia. Usa il pannello del lavoro (icona a forma di martello) nella panoramica dei personaggi per assegnare professioni diverse ai tuoi abitanti. Una volta assegnato un lavoro, eseguiranno automaticamente le attività associate alla professione.
 Ricorda che nella colonia sono tutti responsabili della costruzione di pavimenti, pareti e mobili, indipendentemente dal loro incarico!",
+		"Norwegian":
 	},
 	"helpMenuTitle_professions_experience": {
 		"english": "Job Experience and Promotions",
@@ -691,6 +730,7 @@ Ricorda che nella colonia sono tutti responsabili della costruzione di pavimenti
 		"korean": "직업 경험치와 진급",
 		"chinese": "职业经验及升职",
 		"italian": "Esperienza lavorativa e promozioni",
+		"Norwegian":
 	},
 	"helpMenuText_professions_experience": {
 		"english": "The colonist's stage in their profession is shown with the stars in the job panel. With every completed task, your colonists gather experience for their relevant profession.\nYou can see their experience in the job panel and use the promote button to unlock the next level in their career. A higher level usually comes with new skills that allows them to use better tools and craft more advanced items.",
@@ -707,6 +747,7 @@ Die aktuelle Berufsstufe und den aktuellen Erfahrungswert kannst du im Berufefen
 		"korean": "개척자의 직업 수준은 직업 패널에서 별 모양으로 나타납니다. 동작을 끝마칠 때마다, 개척자는 관련된 직업에 대한 경험치를 얻습니다.\n쌓인 경험치는 직업 패널에서 볼 수 있으며, 진급 버튼을 눌러 그들의 경력에 다음 단계를 열어줄 수 있습니다. 레벨을 높이면 대개 더 나은 도구를 사용하거나 더 발전된 물품을 제작할 수 있는 새로운 기술을 얻게 됩니다.",
 		"chinese": "殖民者的职业等级在工作面板上的星星数量表示。每完成一项任务，你的殖民者就会为相关的职业积累经验。你可以在工作面板中看到他们的经历，并点击转职按钮解锁他们职业的下一个等级。更高职业等级通常伴随着新的技能，使他们能够使用更好的工具和制作更高级的物品。",
 		"italian": "Lo stato del colono nella sua professione è mostrato con delle stelle nel pannello di lavoro. Ad ogni incarico completato, i tuoi coloni guadagnano esperienza nella loro professione pertinente.\nPuoi vedere la loro esperienza nel pannello di lavoro e utilizzare il pulsante Promuovi per sbloccare il livello successivo della loro carriera. Un livello superiore, solitamente, viene fornito quando si hanno nuove competenze che consentono loro di utilizzare strumenti migliori e di creare oggetti più avanzati.",
+		"Norwegian":
 	},
 	"helpMenuTitle_professions_education": {
 		"english": "Education",
@@ -722,6 +763,7 @@ Die aktuelle Berufsstufe und den aktuellen Erfahrungswert kannst du im Berufefen
 		"korean": "교육",
 		"chinese": "教育",
 		"italian": "Formazione",
+		"Norwegian":
 	},
 	"helpMenuText_professions_education": {
 		"english": "Sometimes you just can’t wait for learning by doing, and your colonists need to look up how to do more complicated stuff to advance to the next stage in their career more easily. Build a book shelf so they can pick up books about their profession and gather experience much faster.
@@ -750,6 +792,7 @@ Zbuduj regał z książkami, dzięki książkom traktującym o ich zawodach zdob
 士兵们建议使用训练假人训练战斗，因为这种方法比让殖民者同伴作陪练更不容易受伤。",
 		"italian": "A volte per imparare nuove cose bisogna mettersi in gioco. I tuoi coloni devono cercare un modo per fare cose più complicate per avanzare più facilmente alla fase successiva della loro carriera. Costruisci una libreria in modo che possano leggere libri sulla loro professione e guadagnare esperienze molto più velocemente.
 Per quanto riguarda i soldati, è preferibile farli allenare nel combattimento con un manichino d'addestramento, dal momento che in quel modo si è meno inclini a subire delle lesioni a differenza di quando ci si addestra tra coloni stessi.",
+		"Norwegian":
 	},
 	"helpMenuText_mood": {
 		"english": "While most colonists are not very picky about their circumstances, they do require a certain level of comfort and safety to reach happiness. Exhaustion, pain, and the death of a friend can all be causes for bad mood. Provide good care, food and entertainment to keep the spirits up. Look at the status panel in the character screen to read the minds of your colonists.",
@@ -765,6 +808,7 @@ Per quanto riguarda i soldati, è preferibile farli allenare nel combattimento c
 		"korean": "대부분의 개척자들이 그렇게 까탈스러운 건 아니지만은, 행복을 느끼기 위해서는 일정한 정도의 편안함과 안전이 담보되어야 합니다. 탈진, 고통, 그리고 동료의 죽음까지, 모든 것이 기분을 축 쳐지게 할 수 있습니다. 적절한 보살핌과, 음식과, 즐거움을 주어 활기찬 기분을 만들어주세요. 캐릭터의 상태 창을 확인하고, 개척자의 생각을 읽어보세요.",
 		"chinese": "虽然大多数殖民者对他们的环境不是很挑剔，但他们确实需要一定程度的舒适和安全来获得幸福。疲惫、疼痛和同伴逝世都可能是坏心情的原因。提供安全保护，食物和定时娱乐。查看角色的状态面板，了解你的殖民者的想法。",
 		"italian": "Sebbene la gran parte dei coloni non è molto esigente quando si tratta delle loro condizioni, essi richiedono comunque un certo livello di comfort e sicurezza per essere felici. L'esaurimento nervoso, il dolore e la morte di un amico possono essere tutte cause di cattivo umore. Fornisci delle buone cure, del buon cibo e dell'intrattenimento per mantenere alto l'umore. Dai un'occhiata al pannello di stato nella schermata personaggio per leggere le menti dei tuoi coloni.",
+		"Norwegian":
 	},
 	"helpMenuTitle_mood_rebellion": {
 		"english": "Rebellion",
@@ -780,6 +824,7 @@ Per quanto riguarda i soldati, è preferibile farli allenare nel combattimento c
 		"korean": "반란",
 		"chinese": "反抗",
 		"italian": "Ribellione",
+		"Norwegian":
 	},
 	"helpMenuText_mood_rebellion": {
 		"english": "Your colonists give their best, but everyone has their breaking point. Hardships can lead to bad mood, bad mood can lead to hopelessness and hopelessness can lead to anger, apathy, or desertion (not the dark side in this case). Your colonists may remove themselves from your command and choose to do their own thing instead.",
@@ -795,6 +840,7 @@ Per quanto riguarda i soldati, è preferibile farli allenare nel combattimento c
 		"korean": "개척자들은 최선을 다 할테지만, 누구나 한계점이란 게 있습니다. 혹독한 일은 나쁜 기분을 불러오고, 나쁜 기분은 희망을 사라지게 하고, 사라진 희망은 분노와 무관심, 또는 탈선을 불러옵니다. 개척자들은 당신의 명령으로부터 탈출한 다음, 대신 자신이 하고싶은 일을 하려고 할 수도 있습니다.",
 		"chinese": "你们的殖民者尽了最大努力，但每个人都有自己的极限。困难会导致坏心情，坏心情会导致绝望，绝望会导致愤怒、冷漠或遗弃(不，这不是黑暗面)。你的殖民者可能会脱离你的指挥，选择做他们自己的事情。",
 		"italian": "I tuoi coloni danno il meglio di sé, ma ognuno ha i suoi limiti. Le avversità possono portare al cattivo umore, il cattivo umore può portare alla disperazione e la disperazione può portare alla rabbia, all'apatia o alla diserzione (non al lato oscuro in questo caso). I tuoi coloni possono smettere di eseguire gli ordini e scegliere di fare ciò che vogliono.",
+		"Norwegian":
 	},
 	"helpMenuTitle_mood_inspiration": {
 		"english": "Inspiration",
@@ -810,6 +856,7 @@ Per quanto riguarda i soldati, è preferibile farli allenare nel combattimento c
 		"korean": "영감",
 		"chinese": "鼓舞",
 		"italian": "Ispirazione",
+		"Norwegian":
 	},
 	"helpMenuText_mood_inspiration": {
 		"english": "On the other hand, your colonists could be having the time of their lives. If they are really happy, they can enter a state of inspiration in which they work with seeming unlimited energy, without needing any sleep! When they reach this rare state, they just cannot stop smiling.",
@@ -825,6 +872,7 @@ Per quanto riguarda i soldati, è preferibile farli allenare nel combattimento c
 		"korean": "반면, 개척자들은 자신을 위한 시간을 보낼 수 있습니다. 정말로 행복할 때면, 개척자는 영감의 단계에 진입하게 될 수도 있습니다. 이 단계에서, 그들은 잠도 필요없는 거의 무제한의 에너지를 가진 것처럼 일할 수 있습니다! 드물게 이 상태에 진입한 개척자들에게서는, 미소가 지워지지 않습니다.",
 		"chinese": "另一方面，你的殖民者可能正享受着他们一生中最快乐的时光。如果他们真的很快乐，他们可以进入一种鼓舞的状态，在这种状态下，他们不需要任何睡眠休息就可以无限精力地工作。当他们达到这种罕见的状态时，他们就会忍不住地微笑。",
 		"italian": "D'altra parte, i tuoi coloni potrebbero darsi alla pazza gioia. Se sono davvero felici, possono entrare in uno stato d'ispirazione in cui lavorano con un'energia apparentemente illimitata, senza bisogno di dormire! Quando raggiungono questo raro stato, non riescono a smettere di sorridere.",
+		"Norwegian":
 	},
 	
 	"helpMenuTitle_wishes": {
@@ -841,6 +889,7 @@ Per quanto riguarda i soldati, è preferibile farli allenare nel combattimento c
 		"korean": "소원",
 		"chinese": "愿望",
 		"italian": "Desideri",
+		"Norwegian":
 	},
 	"helpMenuText_wishes": {
 		"english": "Every inhabitant in the colony is here because of a dream.
@@ -881,6 +930,7 @@ Oczywiście, czasem jest ciężko spełnić każde ich życzenie. To o czym kolo
 		"italian": "Ogni abitante della colonia è qui per un sogno.
 Il sogno di una vita migliore.
 Certo, a volte sarà difficile. Ma nel frattempo, i coloni vogliono costruire una casa di loro gradimento, qualcosa in cui si sentano a loro agio. Cosa questo significhi esattamente, viene mostrato nel pannello dei desideri di ogni colono.",
+		"Norwegian":
 	},
 	"helpMenuTitle_wishes_fulfillingDenying": {
 		"english": "Fulfilling and Denying Wishes",
@@ -896,6 +946,7 @@ Certo, a volte sarà difficile. Ma nel frattempo, i coloni vogliono costruire un
 		"korean": "소원을 들어주거나 거부하는 것",
 		"chinese": "实现和拒绝愿望",
 		"italian": "Soddisfare e negare i desideri",
+		"Norwegian":
 	},
 	"helpMenuText_wishes_fulfillingDenying": {
 		"english": "It's your decision whether you make the colonists happy or not. If you fulfill the wish of a colonist, they are going to become a little happier for a while.
@@ -924,6 +975,7 @@ Z drugiej strony, możesz także odrzucać życzenia, lecz ryzykujesz w ten spos
 相反，你也可以选择拒绝实现愿望。这就是你告诉殖民者这个愿望不会实现的方式，所以他们会想出另一个愿望。尽管他们仍然会为此感到难过。",
 		"italian": "Sta a te decidere se rendere felici o meno i coloni. Se soddisfi i desideri dei tuoi coloni, diventeranno più felici per un po'.
 Al contrario, puoi anche scegliere di negare i desideri. In questo modo dici ai coloni che quel desiderio non verrà soddisfatto, in modo che possano pensare ad altro. Tuttavia, ci restanno male.",
+		"Norwegian":
 	},
 	"helpMenuTitle_wishes_satisfaction": {
 		"english": "Life satisfaction",
@@ -939,6 +991,7 @@ Al contrario, puoi anche scegliere di negare i desideri. In questo modo dici ai 
 		"korean": "생활 만족도",
 		"chinese": "生活满意度",
 		"italian": "Soddisfazione di vita",
+		"Norwegian":
 	},
 	"helpMenuText_wishes_satisfaction": {
 		"english": "If you fulfill more and more wishes of your colonist, they are going to become ever more satisfied with their life in the colony. This satisfaction is not only necessary for attracting new migrants, but has a long term impact as well. With each satisfaction level, your colonist earns a life satisfaction point. Once the colonist has enough of them, these points can be used to change one of their fundamental traits.
@@ -965,7 +1018,8 @@ Na przykład, ktoś cierpiący na pesymizm może być dużym ciężarem dla kolo
 		"chinese": "如果你满足殖民者越来越多的愿望，他们就会对殖民地的生活越来越满意。这种满足感不仅是吸引新移民的必要条件，而且还有一些长时效果:每升一个满意等级，你的殖民者都会获得一生活满意度点。一旦殖民者有了足够生活满意点，可以用来改变他们一个基本特性。
 例如，一个悲观的人可能会成为殖民地的累赘。然而，如果殖民者积累了足够的生活满意度，你可以让他们忘记悲观的性格，取而代之的是一些积极性格。",
 		"italian": "Se soddisfi sempre di più i desideri dei tuoi coloni, diventeranno sempre più soddisfatti della loro vita nella colonia. Questa soddisfazione non è solo necessaria per attirare nuovi migranti, ma ha anche un impatto a lungo termine. Ad ogni livello di soddisfazione, i tuoi coloni guadagnano un punto soddisfazione di vita. Una volta che i coloni ne hanno abbastanza, questi punti possono essere spesi per cambiare uno dei loro tratti caratteristici.
-Ad esempio: una persona pessimista potrebbe essere un vero ostacolo per la colonia. Tuttavia, se il colono accumula abbastanza punti soddisfazione di vita, puoi fargli dimenticare il tratto 'pessimista' e sostituirlo con qualcosa di positivo.",	
+Ad esempio: una persona pessimista potrebbe essere un vero ostacolo per la colonia. Tuttavia, se il colono accumula abbastanza punti soddisfazione di vita, puoi fargli dimenticare il tratto 'pessimista' e sostituirlo con qualcosa di positivo.",
+		"Norwegian":
 	},
 
 
@@ -979,6 +1033,7 @@ Ad esempio: una persona pessimista potrebbe essere un vero ostacolo per la colon
 		"chinese": "人际关系",
 		"italian": "Relazioni",
 		"polish": "Relacje",
+		"Norwegian":
 	},
 	"helpMenuText_relationships": {
 		"english": "No one wants to feel alone in the world and that is especially true for your villagers. Making friends and maintaining old frienships is not only fun, it's a core part of their wellbeing.
@@ -1007,6 +1062,7 @@ Una volta che il villaggio è cresciuto un po', i suoi abitanti vorranno farsi n
 		"polish": "Na świecie nikt nie chce czuć się samotny, a dotyczy to w szczególności twoich kolonistów. Nawiązywanie przyjaźni i utrzymywanie ich to nie tylko dobra rozrywka, ale także podstawa dla dobrego samopoczucia.
 		
 Gdy wioska się nieco rozrośnie, jej mieszkańcy będą chcieli nawiązać nowe przyjaźnie. Pozwól im na interakcje między sobą celem wzmocnienia łączących ich więzi.",
+		"Norwegian":
 	},
 	"helpMenuTitle_relationships_interactions": {
 		"english": "Social Interactions",
@@ -1018,6 +1074,7 @@ Gdy wioska się nieco rozrośnie, jej mieszkańcy będą chcieli nawiązać nowe
 		"chinese": "社交互动",
 		"italian": "Interazioni sociali",
 		"polish": "Interakcje społeczne",
+		"Norwegian":
 	},
 	"helpMenuText_relationships_interactions": {
 		"english": "There are a few different ways people can interact:
@@ -1109,6 +1166,7 @@ Se hai un sacco di gente che vuole farsi nuovi amici, prova ad organizzare una f
 - Chociaż przytulanie nie poprawia bezpośrednio relacji, sprawia, że wszyscy czują się lepiej - uściski są jednak dostępne tylko dla kumpli i przyjaciół.
 
 Jeśli masz wielu mieszkańców, którzy chcą poznać nowych przyjaciół, spróbuj zorganizować przyjęcie!",
+		"Norwegian":
 	},
 	"helpMenuTitle_relationships_kids": {
 		"english": "Having Kids",
@@ -1120,6 +1178,7 @@ Jeśli masz wielu mieszkańców, którzy chcą poznać nowych przyjaciół, spr�
 		"chinese": "生育孩子",
 		"italian": "Avere figli",
 		"polish": "Posiadanie dzieci",
+		"Norwegian":
 	},
 	"helpMenuText_relationships_kids": {
 		"english": "Once two adults have reached a great friendship, they can kiss in order to make their relationship a romantic one. Only when they reach the maximum possible romantic relationship level, they will be thinking about having kids.
@@ -1149,5 +1208,6 @@ Affinché il villaggio possa accogliere nuovi membri, le aspettative di tutti gl
 		"polish": "Gdy dwoje dorosłych osiągnie w relacjach poziom wielkiej przyjaźni, mogą się pocałować, aby ich związek stał się romantyczny. Dopiero gdy osiągną maksymalny możliwy poziom romantycznego związku, zaczną myśleć o posiadaniu dzieci.
 
 Aby wioska mogła przyjąć nowych członków, oczekiwania wszystkich jej mieszkańców muszą zostać spełnione.",
+		"Norwegian":
 	},
 }

@@ -169,7 +169,7 @@
 		"chinese": "饥肠辘辘",
 		"italian": "Affamat%OA%",
 		"Norwegian": "sulter",
-		"japanese": "空腹",
+		"japanese": "飢え",
 	},
 	"effectDesc_Starving": {
 		"english": "%firstName% hasn't eaten in a long time. %cap-heShe% needs to find something to eat soon in order to survive.",
@@ -189,6 +189,7 @@
 		"chinese": "%firstName%很久没有吃东西了。为了生存下去%heShe%必须尽快找些吃的。",
 		"italian": "%firstName% non mangia da molto tempo. Deve trovare al più presto qualcosa da mangiare per poter sopravvivere.",
 		"Norwegian": "%firstName% har ikke spist på en god stund. %cap-hanhun% trenger å finne noe å spise snart, for å overleve.",
+		"japanese": "%firstName%は長い間食べ物を口にしていません。%heShe%には早急に食べ物が必要です。",
 	},
 	"effectTitle_HealingPotion": {
 		"english": "Healing Potion",
@@ -207,6 +208,7 @@
 		"chinese": "治疗药水",
 		"italian": "Pozione curativa",
 		"Norwegian": "helbredende trylledrikk",
+		"japanese": "回復薬",
 	},
 	"effectDesc_HealingPotion": {
 		"english": "The healing potion %firstName% drank is doing its work and restoring some health.",
@@ -225,6 +227,7 @@
 		"chinese": "%firstName%喝下治疗药水后恢复了健康。",
 		"italian": "La pozione curativa che %firstName% ha bevuto sta facendo il suo effetto e %LoLa% sta aiutando a recuperare la salute.",
 		"Norwegian": "den helbredende trylledrikken %firstName% drakk, gjør jobben sin og får nå mer liv.",
+		"japanese": "回復薬の効果により%firstName%のヘルスは幾らか回復しました。",
 	},
 	"effectTitle_Flu": {
 		"english": "Flu",

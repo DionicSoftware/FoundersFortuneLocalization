@@ -16,7 +16,7 @@
 		"chinese": "表面创伤",
 		"italian": "Ferite sanguinanti",
 		"Norwegian": "Bløende sår",
-		"japanese": "出血中",
+		"japanese": "出血",
 	},
 	"effectDesc_Bleeding": {
 		"english": "%firstName% bleeding! Make sure that %hisHer% wounds are bandaged properly. Otherwise, %firstName% could die of blood loss.",
@@ -36,7 +36,7 @@
 		"chinese": "%firstName%流血了!一定要把他的伤口包扎好。否则%firstName%可能会死于失血过多。",
 		"italian": "%firstName% sta sanguinando! Assicurati che le sue ferite vengano fasciate accuratamente. Altrimenti, %firstName% potrebbe morire per dissanguamento.",
 		"Norwegian": "%firstName% blør! vær sikker på at %han/hun% sår er bandasjert ordentlig, hvis ikke kan %firstName% dø av blodtap.",
-		"japanese": "%firstName%が出血しています！%firstName%が失血により死亡するかもしれないため、%hisHer%の傷を治療してください。",
+		"japanese": "%firstName%が出血しています。失血によって死亡するかもしれません。早急にケガの確認が必要です。",
 	},
 	"effectTitle_Unconscious": {
 		"english": "Unconscious",
@@ -74,7 +74,7 @@
 		"chinese": "%firstName%需要一段时间才能苏醒过来。",
 		"italian": "Ci vorrà un po' prima che %firstName% si svegli.",
 		"Norwegian": "det vil ta en stund før %firstName% vokner opp.", 
-		"japanese": "%firstName%の意識が戻るまでにはしばらく時間がかかります。",
+		"japanese": "%firstName%の意識が戻るまでにはしばらく時間が必要です　。",
 	},
 	"effectTitle_Bandage": {
 		"english": "Bandage",
@@ -93,7 +93,7 @@
 		"chinese": "绷带包扎",
 		"italian": "Fasciatura",
 		"Norwegian": "bandasje",
-		"japanese": "包帯",
+		"japanese": "止血",
 	},
 	"effectDesc_Bandage": {
 		"english": "The bandage is stopping the blood loss.",
@@ -112,7 +112,7 @@
 		"chinese": "绷带正在止血。",
 		"italian": "La fasciatura sta arrestando la fuoriuscita di sangue.",
 		"Norwegian": "bandasjen stopper blodtapet.",
-		"japanese": "出血を止めます。",
+		"japanese": "止血するため包帯による治療を行います。",
 	},
 	"effectTitle_Healthy": {
 		"english": "No Effects",
@@ -150,7 +150,7 @@
 		"chinese": "%firstName%很健康！",
 		"italian": "%firstName% è in salute!",
 		"Norwegian": "%firstName% er frisk!",
-		"japanese": "%firstName%は健康です！",
+		"japanese": "%firstName%の状態は良好です。",
 	},
 	"effectTitle_Starving": {
 		"english": "Starving",
@@ -169,7 +169,7 @@
 		"chinese": "饥肠辘辘",
 		"italian": "Affamat%OA%",
 		"Norwegian": "sulter",
-		"japanese": "飢え",
+		"japanese": "空腹",
 	},
 	"effectDesc_Starving": {
 		"english": "%firstName% hasn't eaten in a long time. %cap-heShe% needs to find something to eat soon in order to survive.",
@@ -189,7 +189,7 @@
 		"chinese": "%firstName%很久没有吃东西了。为了生存下去%heShe%必须尽快找些吃的。",
 		"italian": "%firstName% non mangia da molto tempo. Deve trovare al più presto qualcosa da mangiare per poter sopravvivere.",
 		"Norwegian": "%firstName% har ikke spist på en god stund. %cap-hanhun% trenger å finne noe å spise snart, for å overleve.",
-		"japanese": "%firstName%は長い間食べ物を口にしていません。%heShe%には早急に食べ物が必要です。",
+		"japanese": "%firstName%は長い間食べ物を口にしていません。早急に食べ物が必要です。",
 	},
 	"effectTitle_HealingPotion": {
 		"english": "Healing Potion",
@@ -227,7 +227,7 @@
 		"chinese": "%firstName%喝下治疗药水后恢复了健康。",
 		"italian": "La pozione curativa che %firstName% ha bevuto sta facendo il suo effetto e %LoLa% sta aiutando a recuperare la salute.",
 		"Norwegian": "den helbredende trylledrikken %firstName% drakk, gjør jobben sin og får nå mer liv.",
-		"japanese": "回復薬の効果により%firstName%のヘルスは幾らか回復しました。",
+		"japanese": "回復薬の効果により%firstName%の体調は幾らか回復します。",
 	},
 	"effectTitle_Flu": {
 		"english": "Flu",
@@ -246,6 +246,7 @@
 		"chinese": "流行感冒",
 		"italian": "Influenza",
 		"Norwegian": "influensa",
+		"japanese": "インフルエンザ",
 	},
 	"effectDesc_Flu": {
 		"english": "%firstName% has caught the Flu. Make sure %heShe% stays in bed in the coming days and is treated with medicine by a doctor. Do not underestimate the illness!",
@@ -266,6 +267,7 @@
 		"chinese": "%firstName%得了流感。在接下来的几天里，一定要卧床休息，并接受医生的药物治疗。千万不要低估疾病!",
 		"italian": "%firstName% ha contratto l'influenza. Assicurati che rimanga a letto nei prossimi giorni e che venga visitat%OA% da un medico. Non sottovalutare la malattia!",
 		"Norwegian": "%firstName% har blitt forkjølet. sørg for at %hanhun% blir i sengen de neste dagene og blir behandlet med medisin av en doktor. ikke undervurder sykdommen!",
+		"japanese": "%firstName%はインフルエンザにかかりました。医者の投薬治療と安静が必要です。決して油断しないでください。",
 	},
 	"effectTitle_SleepingInBed": {
 		"english": "Resting in Bed",
@@ -284,6 +286,7 @@
 		"chinese": "躺在床上",
 		"italian": "Riposo a letto",
 		"Norwegian": "sover i sengen",
+		"japanese": "休息",
 	},
 	"effectDesc_SleepingInBed": {
 		"english": "%firstName% is resting and slowly re-gaining health.",
@@ -304,6 +307,7 @@
 		"chinese": "%firstName%在休息慢慢地恢复健康。",
 		"italian": "%firstName% sta riposando e sta recupendo la sua salute un po' alla volta.",
 		"Norwegian": "%firstName% slapper av og får sakte tilbake liv.",
+		"japanese": "%firstName%は寝具で休息しています。ゆっくりと体調が回復しています。",
 	},
 	"effectTitle_AllergicReaction": {
 		"english": "Allergic Reaction",
@@ -322,6 +326,7 @@
 		"chinese": "过敏反应",
 		"italian": "Reazione allergica",
 		"Norwegian": "allergisk reaksjon",
+		"japanese": "アレルギー反応",
 	},
 	"effectDesc_AllergicReaction": {
 		"english": "%firstName% was forced to eat food %heShe% is allergic to. Now %hisHer% body has had an allergic reaction.",
@@ -341,6 +346,7 @@
 		"chinese": "%firstName%吃了过敏的食物。现在他的身体出现了过敏反应。",
 		"italian": "%firstName% è stat%OA% costretto a mangiare del cibo a cui era allergic%OA%. Adesso il suo corpo ha avuto una reazione allergica.",
 		"Norwegian": "%firstName% ble tvunget til å spise mat %hanhun% er allergisk mot. Nå vil %hanshennes% kropp ha en allergisk reaksjon.",
+		"japanese": "%firstName%はアレルギーを起こしています。アレルギーのある食べ物を食べざる負えない状況になった為です。",
 	},
 	"effectStage": {
 		"english": "Stage",
@@ -358,6 +364,7 @@
 		"chinese": "手舞足蹈",
 		"italian": "Stadio",
 		"Norwegian": "scene",
+		"japanese": "状態",
 	},
 	"effectTitle_SmallFoodRationsSlowness": {
 		"english": "Works slowly",
@@ -375,6 +382,7 @@
 		"chinese": "工作迟钝",
 		"italian": "Lavora lentamente",
 		"Norwegian": "jobber sakte",
+		"japanese": "作業の遅滞",　
 	},
 	"effectDesc_SmallFoodRationsSlowness": {
 		"english": "%firstName% receives only small food rations, so %heShe% just lacks the energy to work properly and takes longer to complete tasks.",
@@ -394,6 +402,7 @@
 		"chinese": "%firstName%只得到少量的食物配给，所以%firstName%只是缺乏精力工作，需要更长的时间来完成任务。",
 		"italian": "%firstName% si nutre solo con piccole razioni alimentari, per cui gli mancano le energie per lavorare e per questo impiega più tempo per completare gli incarichi.",
 		"Norwegian": "%firstName% får kun små porsjoner med mat, så %hanhun% har ikke energi til å jobbe ordentlig og bruker lenger tid på å fullføre oppgaver.",
+		"japanese": "%firstName%は少量の食べ物しか口にしていないため、体力が不足し作業完了の時間がかかります。",
 	},
 	"effectTitle_LegHurt": {
 		"english": "Hurt leg: Walks slowly",

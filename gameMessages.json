@@ -39,6 +39,7 @@
 		"german": "Muss in der Nähe von Wasser gebaut werden!",
 		"french": "Doit être construit au bord de l'eau !",
 		"spanish": "¡Necesita ser construido junto al agua!",
+		"portuguese": "Precisa ser construído junto à água!",
 	},
 	"needsToBeBuiltOnFloor": { // used for furniture building
 		"english": "Needs to be built on floor",
@@ -301,11 +302,13 @@
 		"english": "%fullName% died",
 		"german": "%fullName% gestorben",
 		"french": "%fullName% est mort",
+		"portuguese": "%fullName% morreu",		
 	},
 	"notificationTitle_AnimalBecameWild": {
 		"english": "%fullName% has become untamed",
 		"german": "%fullName% ist jetzt ungezähmt",
 		"french": "%fullName% n'est plus apprivoisé%e%",
+		"portuguese": "%fullName% tornou-se selvagem",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -598,7 +601,7 @@
 	},
 	//	"notificationTitle_MissingPossessions": {
 	//		"english": "Colonist is missing %hisHer% Possessions",
-	//	    	"dutch": "Kolonist ontbreekt %zijnHaar% bezittingen",
+	//	    "dutch": "Kolonist ontbreekt %zijnHaar% bezittingen",
 	//		"german": "Kolonist findet sein Eigentum nicht mehr",
 	//		"french": "Il manque des possessions à un colon",
 	//		"spanish": "Un colono ha perdido sus posesiones",

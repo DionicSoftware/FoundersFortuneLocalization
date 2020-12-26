@@ -367,7 +367,7 @@
 		"polish": "Przyjaźń, jeśli relacje osiągną poziom %friendlyLimit%. \nJeśli relacje są poniżej poziomu %attackingLimit% zatakują bez wahania.",
 		"czech": "Přátelské, pokud jsou vztahy přes %friendlyLimit%.\nZaútočí na potkání pokud jsou vzahy méně než %attackingLimit%.",
 		"romanian": "Prietenos dacă relațiile depășesc %friendlyLimit%.\nAtacă la vedere dacă relațiile sunt sub %attackingLimit%.",
-		"japanese": "関係が%friendlyLimit%を超えると親密となります。\n%attackingLimit%未満の場合は敵対となり、近づくと攻撃されます。",
+		"japanese": "関係が%friendlyLimit%を超えると親密となります。\n%attackingLimit%未満の場合は敵対となり近づくと攻撃されます。",
 	},
 	"switchFloors": {
 		"english": "Switch Floors",
@@ -399,7 +399,7 @@
 		"turkish": "Başka bir kata geçmek için buraya tıkla.\nVarsayılan tuşlar: R/F",
 		"czech": "Klikněte zde pro přepnutí do jiného podlaží.\nVýchozí klávesy: R/F",
 		"romanian": "Clicați aici pentru a trece la un alt etaj.\nComenzi rapide implicite: R/F",
-		"japanese": "表示される階を切替えます。\nホットキー:R/F",
+		"japanese": "表示される階を切替えます。0階は1階です。\nホットキー:R/F",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
@@ -415,7 +415,7 @@
 		"turkish": "%floor% katında inşaatın maaliyeti %percentage%% daha fazla.",
 		"czech": "Stavba na podlaží %floor% stojí o %percentage%% více.",
 		"romanian": "Construcția la etajul %floor% costă cu %percentage%% mai mult.",
-		"japanese": "%floor%階は%percentage%%以上の建設費がかかります。",
+		"japanese": "%floor%階は%percentage%%以上の建設費がかかります。0階は1階です。",
 	},
 
 
@@ -478,7 +478,7 @@
 		"bulgarian": "Глад",
 		"czech": "Hlad",
 		"romanian": "Foame",
-		"japanese": "満腹感",
+		"japanese": "満腹度",
 	},
 	"stamina": {
 		"english": "Stamina",
@@ -498,7 +498,7 @@
 		"bulgarian": "Енергия",
 		"czech": "Energie",
 		"romanian": "Energie",
-		"japanese": "体力",
+		"japanese": "持続力",
 	},
 	"health": {
 		"english": "Health",
@@ -518,7 +518,7 @@
 		"bulgarian": "Здраве",
 		"czech": "Zdraví",
 		"romanian": "Sănătate",
-		"japanese": "体調",
+		"japanese": "体力",
 	},
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -538,7 +538,7 @@
 		"bulgarian": "Ако не поддържате доброто настроение на заселниците, те може да пламнат и да спрат да следват вашите команди.",
 		"czech": "Pokud nebudete udržovat své kolonisty šťastné, mohou začít vzdorovat a možná přestanou poslouchat vaše příkazy.",
 		"romanian": "Dacă nu vă mențineți coloniștii fericiți, vor începe să fie sfidători și s-ar putea să nu vă mai urmeze ordinele dvs.",
-		"japanese": "コロニスト達が幸せであり続けるならば、反抗もせず貴方の命令に従い続けます。",
+		"japanese": "コロニストの要求を叶える事で増加します。注意してください。心情の低下でコロニストは反抗的になり貴方の命令に従わなくなります。",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -578,6 +578,7 @@
 		"bulgarian": "Съберете ябълки или растителни култури, за да се грижите за храната.",
 		"czech": "Pro získání jídla sbírejte jablka nebo pěstujte rostliny.",
 		"romanian": "Culegeți mere sau cultivați plante de cultură pentru a menține proviziile alimentare.",
+		"japanese": "果物の採集、家畜の飼育等を行い食べ物を確保してください。",
 	},
 	"needsDescriptionStamina": {
 		"english": "Give your colonist a break every once in a while so they can recover.",
@@ -597,6 +598,7 @@
 		"bulgarian": "Дайте почивка на заселниците всеки път, за да може да се възстановът.",
 		"czech": "Dopřejte svému kolonistovi přestávky, aby si mohl odpočinout.",
 		"romanian": "Oferiți-le coloniștilor o pauză din când în când pentru a se putea odihni.",
+		"japanese": "コロニストを休憩させる事で回復します。適度に休憩を入れてください。",
 	},
 	"needsDescriptionHealth": {
 		"english": "Let your colonists sleep and or give them healing potions to increase their health.",
@@ -616,6 +618,7 @@
 		"bulgarian": "Оставете вашите колонисти да спят или им дайте лечебни отвари, за да повишат здравето си.",
 		"czech": "Pro zvýšení zdraví nechte své kolonisty spát nebo jim dejte léčivé lektvary.",
 		"romanian": "Lăsați-vă coloniștii să doarmă sau dați-le poțiuni vindecătoare pentru a-și îmbunătăți sănătatea.",
+		"japanese": "睡眠と回復薬により回復します。注意してください。体力が０になると死亡します。",
 	},
 	"needsTitleTameness": {
 		"english": "Tameness",
@@ -629,6 +632,7 @@
 		"romanian": "Îmblânzire",
 		"czech": "Ochočený",
 		"polish": "Owajanie",
+		"japanese": "手なづけ",
 	},
 	"needsDescriptionTameness": {
 		"english": "Once you managed to tame a wild animal, you need to care for it from time to time in order to keep it tame. The white line shows when the animal will become wild again.",
@@ -641,6 +645,7 @@
 		"turkish": "Vahşi bir hayvanı uysallaştırdıktan sonra, bu uysallığı korumak için zaman zaman ona bakmanız lazım. Beyaz çizgi vahşileşme gelişimini gösterir.",
 		"romanian": "După ce ați reușit să îmblânziți un animal sălbatic, trebuie să aveți grijă de el din când în când pentru a-l păstra îmblânzit. Linia albă arată când animalul va deveni din nou sălbatic.",
 		"polish": "Kiedy już udało ci się oswoić dzikie zwierzę, musisz od czasu do czasu o nie zadbać, aby pozostało udomowione. Biały wskaźnik pokazuje, kiedy zwierzę ponownie stanie się dzikie.",
+		"japanese": "野生動物を手なづけて家畜にします。注意してください。家畜にしても世話を怠ると再び野生化します。",
 	},
 	"humanWillGrowUpInDays": {
 		"english": "%firstName% will grow up in %days% days",
@@ -655,6 +660,7 @@
 		"polish": "%firstName% dorośnie za %days% dni",
 		"czech": "%firstName% vyroste za %days% dní",
 		"romanian": "%firstName% va crește peste %days% zile",
+		"japanese": "%firstName%は子供です。%days%日後に大人になります。",
 	},
 	"humanWillGetOldInDays": {
 		"english": "%firstName% will get old in %days% days",
@@ -669,6 +675,7 @@
 		"polish": "%firstName% zestarzeje się za %days% dni",
 		"czech": "%firstName% zestárne za %days% dní",
 		"romanian": "%firstName% va îmbătrâni peste %days% zile",
+		"japanese": "%firstName%は大人です。%days%日後に老人になります。",
 	},
 	"humanWillPassAwayInDays": {
 		"english": "%firstName% will pass away in %days% days",
@@ -683,6 +690,7 @@
 		"polish": "%firstName% umrze za %days% dni",
 		"czech": "%firstName% zemře za %days% dní",
 		"romanian": "%firstName% va muri peste %days% zile",
+		"japanese": "%firstName%は老人です。%days%日後に亡くなります。",
 	},
 	"foodRations": {
 		"english": "Food Rations",

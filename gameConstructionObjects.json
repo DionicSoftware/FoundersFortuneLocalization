@@ -294,24 +294,28 @@
 		"german":  "Quadratischer Holzboden",
 		"french": "Plancher carré",
 		"spanish": "Piso de madera cuadrado",
+		"portuguese": "Piso de madeira quadrado",
 	},
 	"floorSquareWoodDescription": {
 		"english": "How do you take 5 different types of wood and make floor that looks good? This is the answer!",
 		"german":  "Wie machst man aus 5 verschieden Arten von Holz einen Boden, der gut aussieht? Das ist die Antwort!",
 		"french": "Comment prendre 5 types de bois différents et faire un plancher qui a de l'allure ? Voici la réponse !",
 		"spanish": "¿Cómo tomas 5 tipos de madera distintos y creas un suelo que se vea bien? ¡Esta es la respueta!",
+		"portuguese": "Como você pega 5 tipos diferentes de madeira e faz um piso com uma boa aparência? Esta é a resposta!",
 	},
 	"floorArrowsWood": {
 		"english": "Herringbone Wooden Floor",
 		"german":  "Fischgräten-Holzboden",
 		"french": "Plancher à chevron",
 		"spanish": "Piso de madera en espinapez",
+		"portuguese": "Piso de madeira espinha",
 	},
 	"floorArrowsWoodDescription": {
 		"english": "I'm not sure why this pattern is named after a fish skeleton, but it actually looks pretty great!",
 		"german":  "Ich weiß nicht, wieso dieses Muster nach einem Fischskelett benannt ist, aber es sieht eigentlich ganz gut aus!",
 		"french": "Des planches ordonnées de façon originale, qui le rend en fait assez beau !",
 		"spanish": "No estoy seguro de por qué este patrón tiene el nombre del esqueleto de un pez, ¡pero en realidad se ve muy bien!",
+		"portuguese": "Não sei por que esse padrão tem o nome de um esqueleto de peixe, mas na verdade parece muito bom!",
 	},
 
 // Stone Floors
@@ -351,7 +355,6 @@
 	},
 	"stoneFloorCleanBricks": {
 		// TODO-dutch
-		// TODO-portuguese
 		// TODO-bulgarian
 		// TODO-turkish
 		// TODO-russian
@@ -365,7 +368,7 @@
 		"dutch":  "Ruw stenen vloer",
 		"french": "Carrelage en pierre foncée",
 		"spanish": "Piso de losas de piedra oscuras",
-		"portuguese": "Assoalho de pedra áspero",
+		"portuguese": "Piso de ladrilhos de pedra escura",
 		"bulgarian": "Груб под от камък",
 		"turkish": "Pürüzlü Taş Zemin",
 		"russian": "Грубый каменный пол",
@@ -393,7 +396,6 @@
 	},
 	"stoneFloorCleanTiles": {
 		// TODO-dutch
-		// TODO-portuguese
 		// TODO-bulgarian
 		// TODO-turkish
 		// TODO-russian
@@ -407,7 +409,7 @@
 		"dutch":  "Stenen vloertegels",
 		"french": "Carrelage en pierre claire",
 		"spanish": "Piso de losas de piedra claras",
-		"portuguese": "Piso de pedra",
+		"portuguese": "Piso de ladrilhos de pedra clara",
 		"bulgarian": "Подови Настилки от Камък",
 		"turkish": "Taş Fayans Zemin",
 		"russian": "Каменная плитка",
@@ -602,24 +604,28 @@
 		"german":  "Würfelteppich",
 		"french": "Tapis en cube",
 		"spanish": "Alfombra cúbica",
+		"portuguese": "Tapete Cube",
 	},
 	"carpetCubesDescription": {
 		"english": "The pattern on this carpet represents structure. Orderliness. Stability. It gives the viewer a calm mind and let's them focus on the tasks at hand.",
 		"german":  "Das Muster auf diesem Teppich steht für Struktur. Für Ordnung. Stabilität. Es beruhigt die Seele des Betrachters und ermöglicht ihm, sich auf seine Aufgaben zu konzentrieren.",
 		"french": "Le motif sur ce tapis représente la structure. L'ordre. La stabilité. Elle donne au spectateur un sentiment de calme et lui permet de se concentrer sur les tâches à accomplir.",
 		"spanish": "El patrón de esta alfombra representa estructura. Orden. Estabilidad. Brinda al espectador una mente calmada y permite que se concentre en las tareas en cuestión.",
+		"portuguese": "O padrão neste tapete representa a estrutura. Ordem. Estabilidade. Isso dá ao espectador uma mente calma e permite que eles se concentrem nas tarefas em questão.",
 	},
 	"carpetTriangles": {
 		"english": "Confusing-Color-Carpet",
 		"german":  "Verwirrende-Farben-Teppich",
 		"french": "Tapis aux couleurs déroutantes",
 		"spanish": "Alfombra de color confuso",
+		"portuguese": "Confundindo Tapete Cor",
 	},
 	"carpetTrianglesDescription": {
 		"english": "Don't stare at this pattern for too long or you might get hypnotized! Use this carpet when you want to express you're ... different.",
 		"german":  "Starre nicht zu lange auf dieses Muster oder du läuft in Gefahr hypnotisiert zu werden! Verwende diesen Teppich wenn du ausdrücken willst, dass du ... anders ... bist.",
 		"french": "Ne fixez pas ce motif trop longtemps ou vous pourriez être hypnotisé ! Utilisez ce tapis lorsque vous voulez exprimer votre différence.",
 		"spanish": "¡No mires este diseño por mucho tiempo o puede que quedes hipnotizado! Usa esta alfombra cuando quieras expresar que eres... diferente.",
+		"portuguese": "Não olhe fixamente para este padrão por muito tempo ou você pode ficar hipnotizado! Use este tapete quando quiser expressar que você é ... diferente.",
 	},
 
 
@@ -695,12 +701,14 @@
 		"german":  "Schuppenbogenpflaster",
 		"french": "Dallage en pavés écaillés",
 		"spanish": "Pavimento de adoquines escalados",
+		"portuguese": "Pavimento de calçada em escala",
 	},
 	"floorStoneCobblesDescription": {
 		"english": "Once you have survived for a couple of years, you may want to upgrade the look of your town. And this stunning type of pavement is going to be part of that upgrade! Show your villagers you care, by providing them with a nice environment in the inner city.",
 		"german":  "Sobald du die ersten paar Jahre überlebt hast, möchtest du möglicherweise das Aussehen deiner Stadt verbessern. Und dieses atemberaubende Pflaster wird Teil des neuen Looks sein! Zeige deinen Dorfbewohner, dass du dich um sie kümmerst, indem du ihnen eine wunderschöne Innenstadt gibst.",
 		"french": "Après avoir survécu pendant quelques années, vous voudrez peut-être améliorer l'aspect de votre village. Et ce type de pavage étonnant fera partie de cette amélioration ! Montrez à vos villageois que vous vous souciez d'eux, en leur offrant un environnement agréable dans le centre ville.",
 		"spanish": "Una vez hayas sobrevivido por un par de años, puede que quieras mejorar el aspecto de tu ciudad. ¡Y este deslumbrante tipo de pavimento será parte de esa mejora! Demuestra a los aldeanos que te preocupas, al proveerles de un ambiente agradable en el centro urbano.",
+		"portuguese": "Depois de sobreviver por alguns anos, você pode querer melhorar a aparência de sua cidade. E esse tipo de pavimento deslumbrante fará parte dessa atualização! Mostre aos seus aldeões que você se importa, proporcionando-lhes um ambiente agradável no centro da cidade.",
 	},
 
 // Wooden Walls

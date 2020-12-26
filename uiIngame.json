@@ -166,7 +166,7 @@
 		"bulgarian": "Отключени обекти:",
 		"czech": "Odemknuté položky:",
 		"romanian": "Obiecte deblocate:",
-		"japanese": "解除：",
+		"japanese": "解除:",
 	},
 
 
@@ -241,6 +241,7 @@
 		"polish": "Poziom relacji:",
 		"czech": "Body vztahů:",
 		"romanian": "Puncte de relație",
+		"japanese": "関係",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -312,6 +313,7 @@
 		"polish": "zaatakują, gdy tylko zobaczą",
 		"czech": "Zaútočí na potkání",
 		"romanian": "Va ataca la vedere",
+		"japanese": "敵対",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -329,6 +331,7 @@
 		"polish": "Napięte relacje",
 		"czech": "Napjaté vztahy",
 		"romanian": "Relații tensionate",
+		"japanese": "緊張",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
@@ -346,6 +349,7 @@
 		"polish": "Przyjazne relacje",
 		"czech": "Přátelské vztahy",
 		"romanian": "Relații de prietenie",
+		"japanese": "親密",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
@@ -363,6 +367,7 @@
 		"polish": "Przyjaźń, jeśli relacje osiągną poziom %friendlyLimit%. \nJeśli relacje są poniżej poziomu %attackingLimit% zatakują bez wahania.",
 		"czech": "Přátelské, pokud jsou vztahy přes %friendlyLimit%.\nZaútočí na potkání pokud jsou vzahy méně než %attackingLimit%.",
 		"romanian": "Prietenos dacă relațiile depășesc %friendlyLimit%.\nAtacă la vedere dacă relațiile sunt sub %attackingLimit%.",
+		"japanese": "関係が%friendlyLimit%を超えると親密となります。\n%attackingLimit%未満の場合は敵対となり、近づくと攻撃されます。",
 	},
 	"switchFloors": {
 		"english": "Switch Floors",
@@ -378,6 +383,7 @@
 		"turkish": "Katları değiştir",
 		"czech": "Přepnutí podlaží",
 		"romanian": "Schimbă etajele",
+		"japanese": "階の切替",
 	},
 	"switchFloorsDescription": {
 		"english": "Click here to switch to a different floor.\nDefault hotkeys: R/F",
@@ -393,6 +399,7 @@
 		"turkish": "Başka bir kata geçmek için buraya tıkla.\nVarsayılan tuşlar: R/F",
 		"czech": "Klikněte zde pro přepnutí do jiného podlaží.\nVýchozí klávesy: R/F",
 		"romanian": "Clicați aici pentru a trece la un alt etaj.\nComenzi rapide implicite: R/F",
+		"japanese": "表示される階を切替えます。\nホットキー:R/F",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
@@ -408,6 +415,7 @@
 		"turkish": "%floor% katında inşaatın maaliyeti %percentage%% daha fazla.",
 		"czech": "Stavba na podlaží %floor% stojí o %percentage%% více.",
 		"romanian": "Construcția la etajul %floor% costă cu %percentage%% mai mult.",
+		"japanese": "%floor%階は%percentage%%以上の建設費がかかります。",
 	},
 
 
@@ -430,6 +438,7 @@
 		"bulgarian": "Настроение",
 		"czech": "Nálada",
 		"romanian": "Dispoziție",
+		"japanese": "心情",
 	},
 	"friendships": {
 		"english": "Friendships",
@@ -449,6 +458,7 @@
 		"bulgarian": "Приятелства",
 		"czech": "Vztahy",
 		"romanian": "Prietenie",
+		"japanese": "友情",
 	},
 	"hunger": {
 		"english": "Hunger",
@@ -468,6 +478,7 @@
 		"bulgarian": "Глад",
 		"czech": "Hlad",
 		"romanian": "Foame",
+		"japanese": "満腹感",
 	},
 	"stamina": {
 		"english": "Stamina",
@@ -487,6 +498,7 @@
 		"bulgarian": "Енергия",
 		"czech": "Energie",
 		"romanian": "Energie",
+		"japanese": "体力",
 	},
 	"health": {
 		"english": "Health",
@@ -506,6 +518,7 @@
 		"bulgarian": "Здраве",
 		"czech": "Zdraví",
 		"romanian": "Sănătate",
+		"japanese": "体調",
 	},
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -525,6 +538,7 @@
 		"bulgarian": "Ако не поддържате доброто настроение на заселниците, те може да пламнат и да спрат да следват вашите команди.",
 		"czech": "Pokud nebudete udržovat své kolonisty šťastné, mohou začít vzdorovat a možná přestanou poslouchat vaše příkazy.",
 		"romanian": "Dacă nu vă mențineți coloniștii fericiți, vor începe să fie sfidători și s-ar putea să nu vă mai urmeze ordinele dvs.",
+		"japanese": "コロニスト達が幸せであり続けるならば、反抗もせず貴方の命令に従い続けます。",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -544,6 +558,7 @@
 		"bulgarian": "Тази нужда все още не е напълно включена в играта.",
 		"czech": "Tato potřeba zatím nebyla do hry plně implementována.",
 		"romanian": "Această nevoie nu a fost încă pe deplin inclusă în joc.",
+		"japanese": "現在実装されていません。",
 	},
 	"needsDescriptionHunger": {
 		"english": "Gather apples or plant crops to take care of food.",

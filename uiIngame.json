@@ -1367,7 +1367,7 @@
 		"czech": "Pobýváním v dobré nebo špatné náladě postupně získává pozitivní nebo negativní body štěstí.\nV závislosti na počtu nasbíraných bodů potom získá pozitivní nebo negativní vlastnosti na své narozeniny.",
 		"turkish": "Ruhsal durum yavaşça çocukluk mutluluk puanlarını etkiler.\nToplanan puanlara göre, çocuk büyüdüğünde doğum gününde iyi veya kötü karakter özellikleri kazanır.",
 		"romanian": "Fiind într-o dispoziție bună sau rea câștigă încet puncte de fericire pozitive sau negative.\nÎn funcție de ce puncte sunt colectate, copilul va câștiga trăsături pozitive sau negative de ziua lui.",
-		"japanese": "子供は誕生日に個性を獲得しますが、その個性は子供時代の心情が影響します。",
+		"japanese": "子供は誕生日に前向きまたは後ろ向きな個性を獲得します。子供時代の心情が良いほど前向きな個性を獲得します。",
 	},
 	"childhoodEducation": {
 		"english": "Education",
@@ -1397,7 +1397,7 @@
 		"czech": "Každé dítě se může učit životní dovednosti pomocí knih v knihovně. Na jejich narozeniny pak můžou použít tyto body a získat tím výborný start v jejich budoucí profesi.\nPokud je vzdělávání přerušeno před tím, než je téma plně pochopeno a je získán bod, postup je pomalu zapomínán.",
 		"turkish": "Çocuklar kitaplıkları kullanarak yaşam becerileri edinebilirler. Doğum günlerinde, hayat puanlarını kullanarak seçecekleri mesleklerde bir adım önde başlayabilirler.\nEğitim, bir konu tamamen öğrenilmeden yarım bırakılırsa, ilerleme yavaşça unutulur.", 
 		"romanian": "Fiecare copil poate învăța abilități de viață la raftul de cărți. De ziua lor de naștere, ei pot folosi aceste puncte pentru a obține un mare avantaj în orice profesie.\nDacă educația este întreruptă înainte ca un subiect să fie înțeles pe deplin și să obțină un punct, progresul va fi uitat încet.",
-		"japanese": "本棚を設置する事で子供に教育の経験を得る事ができます。その経験により子供は誕生日にスキルを獲得できます。教育が途中で停止された場合は経験を得る事はできません。",
+		"japanese": "本棚を設置する事で子供に教育の経験を積ませる事ができます。積んだ教育の経験により子供は誕生日にスキルを獲得できます。教育が途中で停止された場合は経験を積む事はできません。",
 	},
 
 	// Birthday Panel (Child born)
@@ -1459,6 +1459,7 @@
 		"polish": "Bezimienn%yA%",
 		"czech": "Bezejmenn%yA%",
 		"romanian": "Fără nume",
+		"japanese": "子供の名前",
 	},
 
 	// Birthday Panel (becoming Adult)
@@ -1475,6 +1476,7 @@
 		"turkish": "%firstName% büyüdü!",
 		"polish": "%firstName% dor%ósłOsła%!",
 		"czech": "%firstName% vyrost%lA%!",
+		"japanese": "%firstName%は大人になりました。",
 	},
 	"positiveTraits": {
 		"english": "Positive Traits",
@@ -1489,6 +1491,7 @@
 		"turkish": "Olumlu özellikler",
 		"polish": "Cechy pozytywne",
 		"czech": "Pozitivní vlastnosti",
+		"japanese": "前向きな個性",
 	},
 	"lotsPositiveExperiencesGainedTraits": {
 		"english": "%firstName% had a lot of good experiences in %hisHer% childhood and gained the following traits:",
@@ -1503,6 +1506,7 @@
 		"turkish": "%firstName% çocukluğunda çok iyi deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
 		"polish": "%firstName% miał%nicA% wiele dobrych dośwadczeń w swoim dzieciństwie i zyskał%nicA% następujące cechy:",
 		"czech": "%firstName% získa%lA% hodně dobrých zkušeností v dětství a získa%lA% tyto vlastnosti:",
+		"japanese": "%firstName%は多くの良い心情を重ねる事ができ、次の個性を獲得する事ができました。",
 	},
 	"somePositiveExperiencesGainedTraits": {
 		"english": "%firstName% had some good experiences in %hisHer% childhood and gained the following traits:",
@@ -1517,6 +1521,7 @@
 		"turkish": "%firstName% çocukluğunda bazı iyi deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
 		"polish": "%firstName% miał%nicA% trochę przyjemnych doświadczeń w swoim dzieciństwie i zdobył%nicA% następujące cechy:",
 		"czech": "%firstName% získa%lA% pár dobrých zkušeností v dětství a získa%lA% tyto vlastnosti:",
+		"japanese": "%firstName%はいくつかの良い心情を重ねる事ができ、次の個性を獲得する事ができました。",
 	},
 	"negativeTraits": {
 		"english": "Negative Traits",
@@ -1531,6 +1536,7 @@
 		"turkish": "Olumsuz özellikler",
 		"polish": "Cechy negatywne",
 		"czech": "Negativní vlastnosti",
+		"japanese": "後ろ向きな個性",
 	},
 	"lotsNegativeExperiencesGainedTraits": {
 		"english": "%firstName% had a lot of bad experiences in %hisHer% childhood and gained the following traits:",
@@ -1545,6 +1551,7 @@
 		"turkish": "%firstName% çocukluğunda çok kötü deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
 		"polish": "%firstName% doświadczył%nicA% wielu przykrych sytuacji w swoim dzieciństwie i zdobył%nicA% następujące cechy:",
 		"czech": "%firstName% získa%lA% hodně špatných zkušeností v dětství a získa%lA% tyto vlastnosti:",
+		"japanese": "%firstName%は多くの悪い心情を重ねてしまい、次の個性を獲得してしまいました。",
 	},
 	"someNegativeExperiencesGainedTraits": {
 		"english": "%firstName% had some bad experiences in %hisHer% childhood and gained the following traits:",
@@ -1559,6 +1566,7 @@
 		"turkish": "%firstName% çocukluğunda bazı kötü deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
 		"polish": "%firstName% miał%nicA% kilka przykrych doświadczeń w swoim dzieciństwie i zdobył%nicA% następujące cechy:",
 		"czech": "%firstName% získa%lA% pár špatných zkušeností v dětství a získa%lA% tyto vlastnosti:",
+		"japanese": "%firstName%はいくつかの悪い心情を重ねてしまい、次の個性を獲得してしまいました。",
 	},
 	"education": {
 		"english": "Education",
@@ -1573,6 +1581,7 @@
 		"turkish": "Eğitim",
 		"polish": "Edukacja",
 		"czech": "Vzdělávání",
+		"japanese": "教育",
 	},
 	"educationPointsCollected": {
 		"english": "%firstName% has collected %points% Education points that %heShe% can now spend on Profession Levels:",
@@ -1587,6 +1596,7 @@
 		"turkish": "%firstName%, %points% eğtim puanı kazandı. Bu puanlarla meslek seviyesini arttırabilir",
 		"polish": "%firstName% zebrał%nicA% %points% punktów Edukacji, które może teraz wydać na poziomy zawodów:",
 		"czech": "%firstName% získa%lA% %points% vzdělávacích bodů, které může použít ve svém profesním rozhraní",
+		"japanese": "%firstName%は%points%の教育の経験を積む事ができました。これを使ってスキルを獲得してください。",
 	},
 	"pointCost": {
 		"english": "Point Cost",
@@ -1601,6 +1611,7 @@
 		"turkish": "Puan maliyeti",
 		"polish": "Koszt w pkt",
 		"czech": "Cena bodů",
+		"japanese": "消費ポイント",
 	},
 	"pointsLeft": {
 		"english": "%points% Points Left",
@@ -1615,6 +1626,7 @@
 		"turkish": "%points% puan kaldı",
 		"polish": "Pozostało %points% punktów",
 		"czech": "%points% bodů zbývá",
+		"japanese": "残り%points%ポイント",
 	},
 	"happyBirthday": {
 		"english": "Happy Birthday!",
@@ -1629,6 +1641,7 @@
 		"turkish": "Mutlu yıllar!",
 		"polish": "Sto lat z okazji urodzin!",
 		"czech": "Všechno nejlepší!",
+		"japanese": "誕生日おめでとう！",
 	},
 
 	// wish panel
@@ -1650,6 +1663,7 @@
 		"romanian": "Puncte de satisfacție",
 		"bulgarian": "Точки на удовлетворение",
 		"czech": "Body spokojenosti",
+		"japanese": "満足度",
 	},
 	"wishPointsTip_Desc": {
 		"english": "Every fulfilled wish makes your colonist more satisfied with life.",
@@ -1669,6 +1683,7 @@
 		"romanian": "Fiecare dorință împlinită îl face pe colonistul tău mai satisfăcut de viață.",
 		"bulgarian": "Всяко изпълнено желание прави вашия колонист по-доволен от живота.",
 		"czech": "Každé splněné přání učiní kolonistu více spokojenějším.",
+		"japanese": "この願いを叶える事でコロニストはこれだけの満足度を得る事ができます。",
 	},
 	"wishDenyTip_Title": {
 		"english": "Deny Wish",
@@ -1688,6 +1703,7 @@
 		"romanian": "Refuză dorința",
 		"bulgarian": "Откажи желание",
 		"czech": "Odmítnout přání",
+		"japanese": "願いを拒否",
 	},
 	"wishDenyTip_Desc": {
 		"english": "You can tell your colonists that you're not going to fulfill this wish. They'll be annoyed, but they will choose a different one.",
@@ -1707,6 +1723,7 @@
 		"romanian": "Puteți spune coloniștilor dvs. că nu veți îndeplini această dorință. Se vor enerva, dar vor alege una diferită.",
 		"bulgarian": "Можете да кажете на колонистите, че няма да изпълните това желание. Ще се дразнят, но ще изберат друго.",
 		"czech": "Můžete svému kolonistovi říct, že mu toto přání nesplníte. Bude sice naštvaný, ale vybere si jiné přání.",
+		"japanese": "この願いを拒否するとこのコロニストの心情が下がります。そして新たな願いを出してきます。",
 	},
 	"satisfactionPoints_Title": {
 		"english": "Satisfaction",
@@ -1726,7 +1743,7 @@
 		"romanian": "Satisfacție",
 		"bulgarian": "Удовлетворение",
 		"czech": "Spokojenost",
-		
+		"japanese": "満足度",		
 	},
 	"satisfactionPoints_Desc": {
 		"english": "Fulfill your colonists' wishes and they will be satisfied with life. When the bar is full they gets one lifetime satisfaction point.",

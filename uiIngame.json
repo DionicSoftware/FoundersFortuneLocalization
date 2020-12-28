@@ -2792,7 +2792,7 @@
 		"romanian": "Sănătate maximă instantanee",
 		"bulgarian": "Незабавно възстановяване на здравето",
 		"czech": "Okamžité doplnění zdraví",
-		"japanese": "瞬間健康回復",
+		"japanese": "健康の回復",
 	},
 	"cureIllness": {
 		"english": "Cure Illness",
@@ -2832,7 +2832,7 @@
 		"romanian": "Creștere de motivație",
 		"bulgarian": "Повишение на Мотивацията",
 		"czech": "Motivační boost",
-		"japanese": "士気向上",
+		"japanese": "心情の増加",
 	},
 	"forgetAllBadThoughts": {
 		"english": "Forget negative Thoughts",
@@ -2852,7 +2852,7 @@
 		"romanian": "Uită de gândurile negative",
 		"bulgarian": "Забравете отрицателните мисли",
 		"czech": "Zapomenout všechny negativní myšlenky",
-		"japanese": "後ろ向きな考えは忘れる",
+		"japanese": "後ろ向きの考えの忘却",
 	},
 	"activeTraits": {
 		"english": "Active Traits",
@@ -2872,7 +2872,7 @@
 		"romanian": "Trăsături active",
 		"bulgarian": "Активни черти",
 		"czech": "Aktivní vlastnosti",
-		"japanese": "前向きな個性",
+		"japanese": "所持している個性",
 	},
 	"availableTraits": {
 		"english": "Available Traits",
@@ -2892,7 +2892,7 @@
 		"romanian": "Trăsături disponibile",
 		"bulgarian": "Налични черти",
 		"czech": "Dostupné vlastnosti",
-		"japanese": "利用可能な個性",
+		"japanese": "獲得可能な個性",
 	},
 	"sleepingSpot": {
 		"english": "Sleeping Spot",
@@ -3214,7 +3214,7 @@
 		"romanian": "Posesie importantă",
 		"bulgarian": "Важно притежание",
 		"czech": "Důležité vlastnictví",
-		"japanese": "重要な所有物",
+		"japanese": "大事な所有物",
 	},
 	"importantPossession_Desc": {
 		"english": "%name% likes this thing a lot and does not want to give it up.\n\nYou can not use it to fulfill anyone else's wishes.",
@@ -3636,6 +3636,7 @@
 		"romanian": "Confirmă schimbul",
 		"bulgarian": "Потвърдете търговията",
 		"czech": "Potvrdit transakci",
+		"japanese": "取引の確認",
 	},
 	"sellItemsOfValue": {
 		"english": "Selling items with a value of %coins% coins",
@@ -3655,6 +3656,7 @@
 		"romanian": "Vânzarea obiectelor cu o valoare de %coins% monede",
 		"bulgarian": "Продажба на предмети със стойност %coins% монети",
 		"czech": "Prodej předmětů v ceně %coins% mincí",
+		"japanese": "%coins%コインで売却",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -3674,6 +3676,7 @@
 		"romanian": "Cumpărarea obiectelor cu o valoare de %coins% monede",
 		"bulgarian": "Купуване на предмети със стойност %coins% монети",
 		"czech": "Nákup předmětů v hodnotě %coins% mincí",
+		"japanese": "%coins%コインで購入",
 	},
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",
@@ -3693,6 +3696,7 @@
 		"romanian": "Colonia câștigă %coins% monede din această tranzacție.",
 		"bulgarian": "Колонията печели %coins% монети от тази сделка.",
 		"czech": "Kolonie získá z této transakce %coins% mincí.",
+		"japanese": "この取引によって%coins%コインの受け取り",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
@@ -3712,6 +3716,7 @@
 		"romanian": "Colonia plătește %coins% monede pentru această tranzacție.",
 		"bulgarian": "Колонията плаща %coins% монети за тази сделка.",
 		"czech": "Kolonie zaplatí v rámci této transakce %coins% mincí.",
+		"japanese": "この取引によって%coins%コインの支払い",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",
@@ -3731,6 +3736,7 @@
 		"romanian": "Colonia nu are %coins% monede să plătească pentru această tranzacție.",
 		"bulgarian": "Колонията няма %coins% монети, за да плати тази сделка.",
 		"czech": "Kononie nemá na zaplacení této transakce %coins% mincí.",
+		"japanese": "取引の支払いに必要な%coins%コインがありません。",
 	},
 	"stockpilesOutOfSpaceForAmount": {
 		"english": "Stockpiles don't have enough space for %amount% %resource%.",
@@ -3746,6 +3752,7 @@
 		"turkish": "Depoda %amount% %resource% için yeteri kadar boş yer yok.",
 		"polish": "Brak miejsca w magazynach na %amount% %resource%.",
 		"czech": "Sklady nemají dostatečnou kapacitu na uskladění %amount% %resource%.",
+		"japanese": "%amount%の%resource%を備蓄するための十分な空きがありません。",
 	},
 
 

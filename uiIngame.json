@@ -2143,7 +2143,7 @@
 		"romanian": "În modul de luptă coloniștii dvs. își vor pune echipamentul de luptă și vor înceta să lucreze, să se relaxeze sau să vorbească cu ceilalți. Acest lucru vă permite să le controlați mai ușor în luptă.",
 		"bulgarian": "В боен режим вашите колонисти ще облекат бойната си екипировка и ще спрат да работят върху работата си, да се отпускат или да разговарят с други. Това ви позволява да ги контролирате по-лесно в битка.",
 		"czech": "V bojovém režimu si vaši kolonisté obléknou bojové vybavení a přestanou pracovat, odpočívat nebo mluvit s ostatními. Toto vám umožní snadnější kontrolu kolonistů v boji.",
-		"japanese": "コロニスト達は戦闘の装備を身に着けると共に、仕事、休息等全ての行動を取らず戦闘に全力を尽くせるよう待機します。",　　
+		"japanese": "戦闘の装備を身に着けると共に、仕事、休息等全ての行動を取らず戦闘に全力を尽くせるよう待機します。コロニストの場合はその個人が対象です。",　　
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -2792,6 +2792,7 @@
 		"romanian": "Sănătate maximă instantanee",
 		"bulgarian": "Незабавно възстановяване на здравето",
 		"czech": "Okamžité doplnění zdraví",
+		"japanese": "瞬間健康回復",
 	},
 	"cureIllness": {
 		"english": "Cure Illness",
@@ -2811,6 +2812,7 @@
 		"romanian": "Vindecă boala",
 		"bulgarian": "Заздравяване на болести",
 		"czech": "Vyléčení nemoci",
+		"japanese": "病気の治療",
 	},
 	"motivationBoost": {
 		"english": "Motivation Boost",
@@ -2830,6 +2832,7 @@
 		"romanian": "Creștere de motivație",
 		"bulgarian": "Повишение на Мотивацията",
 		"czech": "Motivační boost",
+		"japanese": "士気向上",
 	},
 	"forgetAllBadThoughts": {
 		"english": "Forget negative Thoughts",
@@ -2849,6 +2852,7 @@
 		"romanian": "Uită de gândurile negative",
 		"bulgarian": "Забравете отрицателните мисли",
 		"czech": "Zapomenout všechny negativní myšlenky",
+		"japanese": "後ろ向きな考えは忘れる",
 	},
 	"activeTraits": {
 		"english": "Active Traits",
@@ -2868,6 +2872,7 @@
 		"romanian": "Trăsături active",
 		"bulgarian": "Активни черти",
 		"czech": "Aktivní vlastnosti",
+		"japanese": "前向きな個性",
 	},
 	"availableTraits": {
 		"english": "Available Traits",
@@ -2887,6 +2892,7 @@
 		"romanian": "Trăsături disponibile",
 		"bulgarian": "Налични черти",
 		"czech": "Dostupné vlastnosti",
+		"japanese": "利用可能な個性",
 	},
 	"sleepingSpot": {
 		"english": "Sleeping Spot",
@@ -2906,6 +2912,7 @@
 		"romanian": "Loc de dormit",
 		"bulgarian": "Място за сън",
 		"czech": "Místo na spaní",
+		"japanese": "寝る場所",
 	},
 	"isInRoom": {
 		"english": "Is in room",
@@ -2925,6 +2932,7 @@
 		"romanian": "Este în cameră",
 		"bulgarian": "В стаята е",
 		"czech": "Je v pokoji",
+		"japanese": "部屋にいます",
 	},
 	"yes": {
 		"english": "Yes",
@@ -2944,6 +2952,7 @@
 		"romanian": "Da",
 		"bulgarian": "Да",
 		"czech": "Ano",
+		"japanese": "はい",
 	},
 	"no": {
 		"english": "No",
@@ -2963,6 +2972,7 @@
 		"romanian": "Nu",
 		"bulgarian": "Не",
 		"czech": "Ne",
+		"japanese": "いいえ",
 	},
 	"bedroomBeauty": {
 		"english": "Bedroom beauty",
@@ -2982,6 +2992,7 @@
 		"romanian": "Frumusețea dormitorului",
 		"bulgarian": "Красотата на спалнята",
 		"czech": "Krása ložnice",
+		"japanese": "綺麗な寝室",
 	},
 	"houseBeauty": {
 		"english": "House beauty",
@@ -3001,6 +3012,7 @@
 		"romanian": "Frumusețea casei",
 		"bulgarian": "Красотата на къщата",
 		"czech": "Krása domu",
+		"japanese": "綺麗な家",
 	},
 	"owner": {
 		"english": "Owner",
@@ -3020,6 +3032,7 @@
 		"romanian": "Proprietar",
 		"bulgarian": "Собственик",
 		"czech": "Vlastník",
+		"japanese": "所有者",
 	},
 	"nobody": {
 		"english": "Nobody",
@@ -3039,6 +3052,7 @@
 		"romanian": "Nimeni",
 		"bulgarian": "Никой",
 		"czech": "Nikdo",
+		"japanese": "誰も",
 	},
 	"immigration": {
 		"english": "Immigration",
@@ -3058,6 +3072,7 @@
 		"romanian": "Imigrație",
 		"bulgarian": "Имиграция",
 		"czech": "Imigrace",
+		"japanese": "移民",
 	},
 	"immigration_status_maxColonists": {
 		"english": "Your colony has reached its maximum size. Congratulations! Be sure to post a picture in the forums!",
@@ -3077,6 +3092,7 @@
 		"romanian": "Colonia dvs. a atins dimensiunea sa maximă. Felicitări! Asigurați-vă că postați o imagine pe forum!",
 		"bulgarian": "Колонията ви е достигнала максималния си размер. Честито! Не забравяйте да публикувате снимка във форумите!",
 		"czech": "Vaše kolonie dosáhla maximální velikosti. Gratulujeme! Nezapomeňte nasdílet obrázky na fóra!",
+		"japanese": "貴方のコロニーのコロニストは最大人数に達しました。おめでとうございます！フォーラムに写真を投稿してください！",
 	},
 	"immigration_status_noBonfire": {
 		"english": "No Bonfire is burning. Migrants are not able to find the colony.",
@@ -3096,6 +3112,7 @@
 		"romanian": "Niciun foc mare nu arde. Migranții nu vă vor găsi colonia.",
 		"bulgarian": "Никой огън не гори. Мигрантите не успяват да намерят колонията.",
 		"czech": "Nehoří žádný signální oheň. Migranti nemohou kolonii najít.",
+		"japanese": "篝火がないため、移民はコロニーを見つける事ができません。
 	},
 	"immigration_status_expectationsNotMet": {
 		"english": "Your colonists' expectations are not met. No migrants are going to join this colony.",
@@ -3115,6 +3132,7 @@
 		"romanian": "Așteptările coloniștilor dvs. nu sunt îndeplinite. Niciun migrant nu se va alătura acestei colonii.",
 		"bulgarian": "Очакванията на вашите колонисти не са изпълнени. Никакви мигранти няма да се присъединят към тази колония.",
 		"czech": "Přání vašich kolonistů nejsou splněna. Žádní další migranti se ke kolonii nepřipojí.",
+		"japanese": "移民はコロニスト達の悲しみ溢れる様子からコロニーに移住する気持ちが湧きません。",
 	},
 	"immigration_status_ok": {
 		"english": "All your colonists' expectations are met. Next chance for migrants in %time%.",
@@ -3134,6 +3152,7 @@
 		"romanian": "Toate așteptările coloniștilor dvs. sunt îndeplinite. Următoarea oportunitate pentru sosirea migranților în %time%.",
 		"bulgarian": "Всички очаквания на вашите колонисти са изпълнени. Следващ шанс за мигранти в %time% минути.",
 		"czech": "Všechna přání vašich kolonistů jsou splněna. Další migrant dorazí za %time%.",
+		"japanese": "全てのコロニスト達の願いが",
 	},
     "colonistIsDumbNoExperience": {
 		// TODO-ukrainian: make it shorter so it fits better

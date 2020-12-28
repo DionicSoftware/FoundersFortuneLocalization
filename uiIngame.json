@@ -3696,7 +3696,7 @@
 		"romanian": "Colonia câștigă %coins% monede din această tranzacție.",
 		"bulgarian": "Колонията печели %coins% монети от тази сделка.",
 		"czech": "Kolonie získá z této transakce %coins% mincí.",
-		"japanese": "この取引によって%coins%コインの受け取り",
+		"japanese": "この取引により%coins%コインの受け取り",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
@@ -3716,7 +3716,7 @@
 		"romanian": "Colonia plătește %coins% monede pentru această tranzacție.",
 		"bulgarian": "Колонията плаща %coins% монети за тази сделка.",
 		"czech": "Kolonie zaplatí v rámci této transakce %coins% mincí.",
-		"japanese": "この取引によって%coins%コインの支払い",
+		"japanese": "この取引により%coins%コインの支払い",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",
@@ -3774,6 +3774,7 @@
 		"romanian": "Fie nu ați produs încă niciun echipament,\nsau toate echipamentele dvs. sunt în prezent utilizate de coloniști.",
 		"bulgarian": "Или все още не сте произвели никакво оборудване \n цялото ви оборудване в момента се използва от вашите колонисти.",
 		"czech": "Buď jste zatím nevytvořili žádné vybavení \nnebo je všechno vybavení již používáno vašimi kolonisty.",
+		"japanese": "家具がない。または全ての家具は所有されています。",
 	},
 	"sellPrice": {
 		"english": "Selling Price",
@@ -3793,6 +3794,7 @@
 		"romanian": "Prețul de vânzare",
 		"bulgarian": "Продажна цена",
 		"czech": "Prodejní cena",
+		"japanese": "売却価格",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -3812,6 +3814,7 @@
 		"romanian": "minute",
 		"bulgarian": "минути",
 		"czech": "minut",
+		"japanese": "分",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -3831,6 +3834,7 @@
 		"romanian": "secunde",
 		"bulgarian": "секунди",
 		"czech": "sekund",
+		"japanese": "秒",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -3850,6 +3854,7 @@
 		"romanian": "s",
 		"bulgarian": "с",
 		"czech": "s",
+		"japanese": "秒",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -3869,6 +3874,7 @@
 		"romanian": "sec",
 		"bulgarian": "сек",
 		"czech": "sek",
+		"japanese": "秒",
 	},
 	"days": { // used like "0.4 days"
 		"english": "days",
@@ -3881,6 +3887,7 @@
 		"turkish": "günler",
 		"romanian": "zile",
 		"polish": "dni",
+		"japanese": "日",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -3900,6 +3907,7 @@
 		"romanian": "Petreceri",
 		"bulgarian": "Партита",
 		"czech": "Párty",
+		"japanese": "パーティ",
 	},
 	"partiesDesc": {
 		"english": "Parties give your colonists a chance to relax and socialize. The more time your colonists spend dancing, eating, and drinking, the higher their mood is going to rise.",
@@ -3919,6 +3927,7 @@
 		"romanian": "Petrecerile oferă coloniștilor dvs. șansa de a se relaxa și de a se socializa. Cu cât coloniștii dvs. petrec mai mult timp dansând, mâncând și bând, cu atât dispoziția lor va crește.",
 		"bulgarian": "Партитата дават шанс на вашите колонисти да се отпуснат и да си общуват. Колкото повече време колонистите ви прекарват танци, ядене и пиене, толкова по-високо настроението им ще се повиши.",
 		"czech": "Párty dávají vašim kolonistům příležitost se odreagovat a socializovat se. Čím více času stráví vaši kolonisté tancem, popíjením a pojídáním jídla, tím více se jim zlepší nálada.",
+		"japanese": "パーティはコロニストの社交場です。ダンス、食事を楽しむパーティは時間が長いほど心情が増加します。",
 	},
 	"startPartyButton": {
 		"english": "Start Party",
@@ -3938,6 +3947,7 @@
 		"romanian": "Începe petrecerea",
 		"bulgarian": "Стартирай парти",
 		"czech": "Zahájit párty",
+		"japanese": "パーティの開始",
 	},
 	"cantStartPartyDuringReady": {
 		"english": "Can't start party during raid",
@@ -3957,6 +3967,7 @@
 		"romanian": "Nu se poate începe o petrecere în timpul unui atac",
 		"bulgarian": "Не може да стартирате парти по време на нападение",
 		"czech": "Není možné zahájit párty v průběhu nájezdu",
+		"japanese": "襲撃中はパーティを開始できません。",
 	},
 	"cantStartPartyBecauseAlreadyPartying": {
 		"english": "Can't start party while colonists are already celebrating",
@@ -3976,6 +3987,7 @@
 		"romanian": "Nu se poate începe o petrecere în timp ce coloniștii deja sărbătoresc",
 		"bulgarian": "Не може да стартирате парти, докато колонистите вече празнуват",
 		"czech": "Není možné zahájit párty, když již kolonisté slaví",
+		"japanese": "他の祝い事が行われている間はパーティを開始できません。",
 	},
 	"coinsToStartParty": {
 		"english": "%coins% Coins to start party",
@@ -3995,6 +4007,7 @@
 		"romanian": "%coins% monede pentru a începe petrecerea",
 		"bulgarian": "%coins% монети за да стартирате парти",
 		"czech": "%coins% mincí pro zahájení párty",
+		"japanese": "パーティ費用%coins%コイン",
 	},
 	"atLeastBeerInStock": {
 		"english": "At least %beer% beer in stock",
@@ -4014,6 +4027,7 @@
 		"romanian": "Cel puțin %beer% beri în stoc",
 		"bulgarian": "Поне %beer% бира в склада",
 		"czech": "Alespoň %beer% piva na skladě",
+		"japanese": "ビールの在庫%beer%",
 	},
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
@@ -4033,6 +4047,7 @@
 		"romanian": "Cel puțin %food% alimente în stoc",
 		"bulgarian": "Поне %food% храна в склада",
 		"czech": "Alespoň %food% jídla na skladě",
+		"japanese": "食べ物の在庫%food%",
 	},
 	"partyRequirements": {
 		"english": "Party Requirements",
@@ -4052,6 +4067,7 @@
 		"romanian": "Cerințele petrecerii",
 		"bulgarian": "Изисквания към партитата",
 		"czech": "Požadavky na párty",
+		"japanese": "パーティの要件",
 	},
 	"customCamera": { // activated with F4
 		"english": "Custom Camera", // or free-flying camera

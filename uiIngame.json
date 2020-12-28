@@ -399,7 +399,7 @@
 		"turkish": "Başka bir kata geçmek için buraya tıkla.\nVarsayılan tuşlar: R/F",
 		"czech": "Klikněte zde pro přepnutí do jiného podlaží.\nVýchozí klávesy: R/F",
 		"romanian": "Clicați aici pentru a trece la un alt etaj.\nComenzi rapide implicite: R/F",
-		"japanese": "表示される階を切替えます。階の表示が違うので注意してください。\nホットキー:R/F",
+		"japanese": "表示される階を切替えます。階の表示が違うので注意してください。",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
@@ -538,7 +538,7 @@
 		"bulgarian": "Ако не поддържате доброто настроение на заселниците, те може да пламнат и да спрат да следват вашите команди.",
 		"czech": "Pokud nebudete udržovat své kolonisty šťastné, mohou začít vzdorovat a možná přestanou poslouchat vaše příkazy.",
 		"romanian": "Dacă nu vă mențineți coloniștii fericiți, vor începe să fie sfidători și s-ar putea să nu vă mai urmeze ordinele dvs.",
-		"japanese": "コロニストの要求を叶える事で増加します。注意してください。心情の低下はコロニストが反抗的になり貴方の命令に従わなくなります。",
+		"japanese": "コロニストの願いを叶える事で増加します。注意してください。心情の低下はコロニストが反抗的になり貴方の命令に従わなくなります。",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -618,7 +618,7 @@
 		"bulgarian": "Оставете вашите колонисти да спят или им дайте лечебни отвари, за да повишат здравето си.",
 		"czech": "Pro zvýšení zdraví nechte své kolonisty spát nebo jim dejte léčivé lektvary.",
 		"romanian": "Lăsați-vă coloniștii să doarmă sau dați-le poțiuni vindecătoare pentru a-și îmbunătăți sănătatea.",
-		"japanese": "睡眠と回復薬により回復します。注意してください。健康の低下は心情に影響を及ぼし0はコロニストが死亡します。",
+		"japanese": "睡眠と回復薬により回復します。注意してください。健康の低下は心情に影響を及ぼし0になるとコロニストが死亡します。",
 	},
 	"needsTitleTameness": {
 		"english": "Tameness",
@@ -920,7 +920,7 @@
 		"bulgarian": "Добре",
 		"czech": "Ok",
 		"romanian": "Ok",
-		"japanese": "決定",
+		"japanese": "閉じる",
 	},
 	"chooseNewJob": {
 		"english": "Choose New Job",
@@ -1763,6 +1763,7 @@
 		"romanian": "Îndeplinește dorințele coloniștilor tăi și ei vor fi mulțumiți de viață. Când bara este plină, ei obțin un punct de satisfacție a vieții.",
 		"bulgarian": "Изпълнете желанията на вашите колонисти и те ще бъдат доволни от живота. Когато лентата е пълна, те получават една точка за удовлетвореност от живота.",
 		"czech": "Plňte přání kolonistů, aby byli spokojení se svým životem. Když se sloupec naplní získají bod životní spokojenosti.",
+		"japanese": "コロニストの願いを叶える事でバーが満たされます。このバーがすべて満たされると彼らの満足ポイントを獲得します。",
 	},
 	"satisfactionLevel_Title": {
 		"english": "Satisfaction Level",
@@ -1782,6 +1783,7 @@
 		"romanian": "Nivelul de satisfacție",
 		"bulgarian": "Ниво на удовлетвореност",
 		"czech": "Úroveň spokojenosti",
+		"japanese": "満足度レベル",
 	},
 	"satisfactionLevel_Desc": {
 		"english": "Represents the total lifetime satisfaction of your colonist.",
@@ -1801,6 +1803,7 @@
 		"romanian": "Reprezintă satisfacția totală a vieții colonistului dvs.",
 		"bulgarian": "Представлява общото удовлетворение от живота на вашия колонист.",
 		"czech": "Reprezentuje celkovou životní spokojenost vašeho kolonisty.",
+		"japanese": "レベルが上がるにつれて、コロニストの満足度は
 	},
 	"promotions_Title": {
 		"english": "Promotions",

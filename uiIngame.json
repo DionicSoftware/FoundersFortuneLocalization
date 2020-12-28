@@ -2163,7 +2163,7 @@
 		"romanian": "Informații despre joc și statistici",
 		"bulgarian": "Информация за играта и статистика",
 		"czech": "Informace o hře a statistiky",
-		"japanese": "情報と統計",
+		"japanese": "コロニー情報",
 	},
 	"difficulty": {
 		"english": "Difficulty",
@@ -2203,6 +2203,7 @@
 		"romanian": "Bogăția coloniei",
 		"bulgarian": "Богатство на колонията",
 		"czech": "Bohatství kolonie",
+		"japanese": "発展度",
 	},
 	"colonistHappiness": {
 		"english": "Colonist Happiness",
@@ -2222,6 +2223,7 @@
 		"romanian": "Fericirea coloniei",
 		"bulgarian": "Щастие на колонията",
 		"czech": "Spokojenost kolonistů",
+		"japanese": "平均心情",
 	},
 	"worldId": { // You can just translate it to "world". It needs to be short enough
 		"english": "World ID",
@@ -2241,6 +2243,7 @@
 		"romanian": "ID lume",
 		"bulgarian": "ID на Света",
 		"czech": "ID světa",
+		"japanese": "ワールドID",
 	},
 	"beauty": {
 		"english": "Beauty",
@@ -2260,6 +2263,7 @@
 		"romanian": "Frumusețe",
 		"bulgarian": "Красота",
 		"czech": "Krása",
+		"japanese": "美しさ",
 	},
 	"objectStrength": { // to describe how difficult it is to destruct an object, like a wall, in a fight
 		"english": "Strength",
@@ -2279,6 +2283,7 @@
 		"chinese": "力量",
 		"bulgarian": "Сила",
 		"czech": "Odolnost",
+		"japanese": "耐久力",
 	},
 	"work": {
 		"english": "Work",
@@ -2298,6 +2303,7 @@
 		"romanian": "Muncă",
 		"bulgarian": "Работа",
 		"czech": "Práce",
+		"japanese": "作業",
 	},
 	"farming": {
 		"english": "Farming",
@@ -2317,6 +2323,7 @@
 		"romanian": "Agricultură",
 		"bulgarian": "Земеделие",
 		"czech": "Farmaření",
+		"japanese": "農業",
 	},
 	"life": {
 		"english": "Life",
@@ -2336,6 +2343,7 @@
 		"romanian": "Viață",
 		"bulgarian": "Живот",
 		"czech": "Život",
+		"japanese": "生活",
 	},
 	"military": {
 		"english": "Military",
@@ -2355,6 +2363,7 @@
 		"romanian": "Militărie",
 		"bulgarian": "Армия",
 		"czech": "Boj",
+		"japanese": "軍事",
 	},
 	"lights": {
 		"english": "Lights",
@@ -2374,6 +2383,7 @@
 		"romanian": "Lumini",
 		"bulgarian": "Светлини",
 		"czech": "Světla",
+		"japanese": "照明",
 	},
 	"seating": {
 		"english": "Seating",
@@ -2393,6 +2403,7 @@
 		"romanian": "Scaune",
 		"bulgarian": "Седалки",
 		"czech": "Posezení",
+		"japanese": "椅子",
 	},
 	"tables": {
 		"english": "Tables",
@@ -2412,6 +2423,7 @@
 		"romanian": "Mese",
 		"bulgarian": "Маси",
 		"czech": "Stoly",
+		"japanese": "卓",
 	},
 	"storage": {
 		"english": "Storage",
@@ -2431,6 +2443,7 @@
 		"romanian": "Depozitare",
 		"bulgarian": "Склад",
 		"czech": "Skladování",
+		"japanese": "貯蔵庫",
 	},
 	"noSpecialItemsInStore": {
 		"english": "No special items in store.",
@@ -2445,6 +2458,7 @@
 		"czech": "Žádné zvláštní položky na skladu",
 		"italian": "Nessun oggetto speciale in deposito.",
 		"romanian": "Nu există obiecte speciale în depozit.",
+		"japanese": "特別な物はありません。",
 	},
 	"decoration": {
 		"english": "Decoration",
@@ -2464,6 +2478,7 @@
 		"romanian": "Decorație",
 		"bulgarian": "Декорация",
 		"czech": "Dekorace",
+		"japanese": "装飾",
 	},
 	"rugs": {
 		"english": "Rugs",
@@ -2481,6 +2496,7 @@
 		"bulgarian": "Килими",
 		"polish": "Dywany",
 		"czech": "Koberce",
+		"japanese": "絨毯",
 	},
 	"floors": {
 		"english": "Floors",
@@ -2500,6 +2516,7 @@
 		"romanian": "Podele",
 		"bulgarian": "Под",
 		"czech": "Podlahy",
+		"japanese": "床",
 	},
 	"walls": {
 		"english": "Walls",
@@ -2519,6 +2536,7 @@
 		"romanian": "Pereți",
 		"bulgarian": "Стени",
 		"czech": "Zdi",
+		"japanese": "壁",
 	},
 	"fortifications": {
 		"english": "Fortifications",
@@ -2538,6 +2556,7 @@
 		"romanian": "Fortificații",
 		"bulgarian": "Укрепления",
 		"czech": "Opevnění",
+		"japanese": "防衛",
 	},
 	"doors": {
 		"english": "Doors",
@@ -2557,6 +2576,7 @@
 		"romanian": "Uși",
 		"bulgarian": "Врати",
 		"czech": "Dveře",
+		"japanese": "扉",
 	},
 	"windows": {
 		"english": "Windows",
@@ -2576,6 +2596,7 @@
 		"romanian": "Ferestre",
 		"bulgarian": "Прозорци",
 		"czech": "Okna",
+		"japanese": "窓",
 	},
 	"stairs": {
 		"english": "Stairs",
@@ -2591,6 +2612,7 @@
 		"romanian": "Scări",
 		"turkish": "Merdivenler",
 		"czech": "Schodiště",
+		"japanese": "階段",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -2610,6 +2632,7 @@
 		"romanian": "Piloni",
 		"bulgarian": "Стълбове",
 		"czech": "Sloupy",
+		"japanese": "支柱",
 	},
 	"requiredTech": {
 		"english": "Required Technology",

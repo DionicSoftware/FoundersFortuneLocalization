@@ -254,6 +254,7 @@
 		"chinese": "装饰地板",
 		"italian": "Pavimento decorato",
 		"polish": "Klepka podłogowa",
+		"japanese": "装飾された床",
 	},
 	"ornamentWoodFloorMetalDescription": {
 		"english": "Dwarf up your colony with this stylish floor.",
@@ -270,6 +271,7 @@
 		"chinese": "用这时髦的地板使你的殖民地Dwarf up。",
 		"italian": "Rivivi lo splendore nanico con questo pavimento elegante.",
 		"polish": "Stwórz niepowtarzalną domową atmosferę dzięki tej stylowej podłodze.",
+		"japanese": "装飾されていますがみすぼらしく見えるかもしれません。",
 	},
 	"ornamentWoodFloorMetalCross": {
 		"english": "Ornamented Floor",
@@ -286,6 +288,7 @@
 		"chinese": "装饰地板",
 		"italian": "Pavimento decorato",
 		"polish": "Klepka podłogowa",
+		"japanese": "装飾された床",
 	},
 	"ornamentWoodFloorMetalCrossDescription": {
 		"english": "Dwarf up your colony with this stylish floor.",
@@ -302,6 +305,7 @@
 		"chinese": "用这时髦的地板使你的殖民地Dwarf up",
 		"italian": "Rivivi lo splendore nanico con questo pavimento elegante.",
 		"polish": "Twoja rodzina z pewnością pokocha tę stylową podłogę.",
+		"japanese": "装飾されていますがみすぼらしく見えるかもしれません。",
 	},
 	"floorSquareWood": {
 		"english": "Square Wooden Floor",
@@ -309,6 +313,7 @@
 		"french": "Plancher carré",
 		"spanish": "Piso de madera cuadrado",
 		"portuguese": "Piso de madeira quadrado",
+		"japanese": "四角模様の木の床",
 	},
 	"floorSquareWoodDescription": {
 		"english": "How do you take 5 different types of wood and make floor that looks good? This is the answer!",
@@ -316,6 +321,7 @@
 		"french": "Comment prendre 5 types de bois différents et faire un plancher qui a de l'allure ? Voici la réponse !",
 		"spanish": "¿Cómo tomas 5 tipos de madera distintos y creas un suelo que se vea bien? ¡Esta es la respueta!",
 		"portuguese": "Como você pega 5 tipos diferentes de madeira e faz um piso com uma boa aparência? Esta é a resposta!",
+		"japanese": "多数の木材を使った見栄えの良い木の床です。",
 	},
 	"floorArrowsWood": {
 		"english": "Herringbone Wooden Floor",
@@ -323,6 +329,7 @@
 		"french": "Plancher à chevron",
 		"spanish": "Piso de madera en espinapez",
 		"portuguese": "Piso de madeira espinha",
+		"japanese": "魚骨模様の木の床",
 	},
 	"floorArrowsWoodDescription": {
 		"english": "I'm not sure why this pattern is named after a fish skeleton, but it actually looks pretty great!",
@@ -330,6 +337,7 @@
 		"french": "Des planches ordonnées de façon originale, qui le rend en fait assez beau !",
 		"spanish": "No estoy seguro de por qué este patrón tiene el nombre del esqueleto de un pez, ¡pero en realidad se ve muy bien!",
 		"portuguese": "Não sei por que esse padrão tem o nome de um esqueleto de peixe, mas na verdade parece muito bom!",
+		"japanese": "床の模様が魚の骨格に似ているかなり見栄えのする木の床です。",
 	},
 
 // Stone Floors
@@ -350,6 +358,7 @@
 		"chinese": "简易石地板",
 		"italian": "Pavimento di pietra semplice",
 		"polish": "Prosta kamienna podłoga",
+		"japanese": "簡単な石の床",
 	},
 	"stoneFloorDescription": {
 		"english": "While this stone floor might be cold to the touch it's suitable for workshops.",
@@ -366,6 +375,7 @@
 		"chinese": "虽然这块石头地板摸起来可能很冰冷，但它适合建造工坊。",
 		"italian": "Questo pavimento di pietra, freddo al tatto, è perfetto per la costruzione di una bottega.",
 		"polish": "Zimna w dotyku idealnie nadaje się do profesjonalnego warsztatu.",
+		"japanese": "適当に敷かれた石の床です。作業場の床に向いています。",
 	},
 	"stoneFloorCleanBricks": {
 		// TODO-dutch
@@ -391,6 +401,7 @@
 		"chinese": "粗糙石地板",
 		"italian": "Pavimento di pietra grezza",
 		"polish": "Kostka brukowa",
+		"japanese": "黒光りの石の床",
 	},
 	"stoneFloorCleanBricksDescription": {
 		"english": "This stone floor looks like it was built for eternity.",
@@ -407,6 +418,7 @@
 		"chinese": "这块石头地板看起来像是为耐用而建的。",
 		"italian": "Questo pavimento di pietra sembra costruito per durare un'eternità.",
 		"polish": "Solidna kostka, która wytrzyma wieczność.",
+		"japanese": "黒く光る石の床です。悠久性を感じます。",
 	},
 	"stoneFloorCleanTiles": {
 		// TODO-dutch
@@ -432,6 +444,7 @@
 		"chinese": "瓷砖地板",
 		"italian": "Pavimento di piastrelle di pietra",
 		"polish": "Piaskowiec",
+		"japanese": "明るい色の石の床",
 	},
 	"stoneFloorCleanTilesDescription": {
 		"english": "Nice and very clean. Still, eating from it is not recommended!",
@@ -448,6 +461,7 @@
 		"chinese": "又漂亮又干净。不过，还是不推荐用它来吃东西!",
 		"italian": "Bello e piuttosto pulito. Tuttavia, mangiarci sopra non è la migliore delle idee!",
 		"polish": "Ładny i bardzo czysty. Jednak jedzenie z niego nie jest dobrym pomysłem!",
+		"japanese": "明るい色の石の床です。とても素敵で綺麗です。",
 	},
 	
 // Carpets
@@ -466,6 +480,7 @@
 		"italian": "Moquette reale",
 		"turkish": "Saltanat Halısı",
 		"polish": "Królewski dywan",
+		"japanese": "青色の皇室絨毯",
 	},
 	"carpetRoyalBlue_Description": {
 		"english": "This classy blue carpet pleases both feet and eyes. Fluffy and good looking!",

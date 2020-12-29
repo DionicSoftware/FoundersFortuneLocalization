@@ -538,7 +538,7 @@
 		"bulgarian": "Ако не поддържате доброто настроение на заселниците, те може да пламнат и да спрат да следват вашите команди.",
 		"czech": "Pokud nebudete udržovat své kolonisty šťastné, mohou začít vzdorovat a možná přestanou poslouchat vaše příkazy.",
 		"romanian": "Dacă nu vă mențineți coloniștii fericiți, vor începe să fie sfidători și s-ar putea să nu vă mai urmeze ordinele dvs.",
-		"japanese": "願いが叶う、対人関係、出来事等で増減します。注意してください。心情の低下はコロニストが反抗的になり貴方の命令に従わなくなります。",
+		"japanese": "願いが叶う、対人関係、日々の出来事等で増減します。注意してください。心情の低下はコロニストの反感を買い貴方の命令に従わなくなる時があります。",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -960,7 +960,7 @@
 		"bulgarian": "Специализация",
 		"czech": "Specializace",
 		"romanian": "Specializare",
-		"japanese": "専門分野",
+		"japanese": "専業の選択",
 	},
 	"nextLevel": {
 		"english": "Next Level",
@@ -4086,6 +4086,7 @@
 		"romanian": "Cameră liberă",
 		"bulgarian": "Персонализирана камера",
 		"czech": "Volná kamera",
+		"japanese": "カメラ",
 	},
 	"customCameraHotkeys": {
 		"english": "Open/close info panel: T\nToggle wall movement: Z\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
@@ -4105,6 +4106,7 @@
 		"romanian": "Deschide/închide panoul de informații: T\nActivează/dezactivează mișcarea pereților: Z\nMod cinematografic: C\nSchimbă viteza camerei: Rotița mausului\nSus și jos: Shift stânga și Ctrl stânga",
 		"bulgarian": "Отваряне/затваряне на информационен панел: T\nЗаключване на движението на стената: Z\nКъм режим на кино: C\nПромяна на скоростта на камерата: Колело на мишката\nНагоре и надолу: Ляв Shift и Ляв CTRL ",
 		"czech": "Otevírá/zavírá info panel: T\nPřepínání posunu stěn: Z\nKino režim: C\nZměnit rychlost kamery: kolečko myši\nNahoru a dolů: Levý shift a levý control",
+		"japanese": "カメラ情報パネルの有無:T\n壁の有無:Z\nシネマ風画像の切替:C\nカメラ速度の変更:マウスホイール\n上下移動:左Shift左Ctrl",
 	},
 	"camSpeed": {
 		"english": "Cam speed",
@@ -4124,6 +4126,7 @@
 		"romanian": "Viteza camerei",
 		"bulgarian": "Скорост на камерата",
 		"czech": "Rychlost kamery",
+		"japanese": "カメラ速度",
 	},
 	"skillLevel": {
 		"english": "Level %level%",
@@ -4138,6 +4141,7 @@
 		"turkish": "Seviye %level%",
 		"polish": "Poziom %level%",
 		"czech": "Úroveň %level%",
+		"japanese": "レベル%level%",
 	},
 	"professionsTitle": {
 		"english": "Professions - %fullName%",
@@ -4152,6 +4156,7 @@
 		"turkish": "Meslekler - %fullName%",
 		"polish": "Zawody - %fullName%",
 		"czech": "Karta zawodów - %fullName%",
+		"japanese": "%fullName%の作業一覧",
 	},
 	"progressToNextLevel": {
 		"english": "Progress to next level: %currentPoints% / %totalPoints%",
@@ -4166,6 +4171,7 @@
 		"turkish": "Sıradaki seviyeyi geçiş: %currentPoints% / %totalPoints%",
 		"polish": "Punkty do kolejnego poziomu:  %currentPoints% / %totalPoints%",
 		"czech": "Postup na další úroveň: %currentPoints% / %totalPoints%",
+		"japanese": "次のレベルまで:%currentPoints%/%totalPoints%",
 	},
 	"xPoints": {
 		"english": "%points% Points",
@@ -4180,6 +4186,7 @@
 		"turkish": "%points% Puan",
 		"polish": "%points% Punktów",
 		"czech": "%points% bodů",
+		"japanese": "%points%ポイント",
 	},
 	"skillPointsAvailable": {
 		"english": "%points% skill points available",
@@ -4194,6 +4201,7 @@
 		"turkish": "%points% yetenek puanı mevcut",
 		"polish": "%points% punktów umiejętności dostępnych",
 		"czech": "%points% dovednostních bodů k dispozici",
+		"japanese": "%points%ポイント利用可能",
 	},
 	"willResplenishIn":  {
 		"english": "Will replenish in %days% days",
@@ -4206,6 +4214,7 @@
 		"portuguese": "Reabastecerá em %days% dias",
 		"turkish": "%days% günde geri dolacak",
 		"polish": "Odnowi się za %days% dni",
+		"japanese": "採取できるまで%days%日",
 	},
 	"resourcesLeft":  {
 		"english": "%resource% left",
@@ -4218,6 +4227,7 @@
 		"portuguese": "%resource% restantes",
 		"turkish": "%resource% kaldı",
 		"polish": "%resource% - pozostało",
+		"japanese": "%resource%残り",
 	},
 	"gatheringSpeed":  { // use \\% to type %
 		"english": "Gathering speed: %speed% %resource%/minute",
@@ -4230,6 +4240,7 @@
 		"portuguese": "Velocidade de coleta: %speed% %resource%/minute",
 		"turkish": "Toplama hızı: %speed% %resource%/minute",
 		"polish": "Szybkość pozyskiwania: %speed% na minutę",
+		"japanese": "採取速度:%speed%/分",
 	},
 	"growthProgress":  {
 		"english": "Growth Progress",

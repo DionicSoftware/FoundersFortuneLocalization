@@ -118,7 +118,7 @@
 		"chinese": "中世纪木地板",
 		"italian": "Pavimento di legno medievale",
 		"polish": "Ciemna drewniana podłoga",
-		"japanese": "中世の木の床",
+		"japanese": "中世式建築の床",
 	},
 	"medievalWoodFloorDescription": {
 		"english": "If floors could tell stories...",
@@ -135,7 +135,7 @@
 		"chinese": "这地板有着它的历史...",
 		"italian": "Se i pavimenti potessero raccontare storie...",
 		"polish": "Gdyby podłoga mogła mówić...",
-		"japanese": "歴史を感じられる木の床です。",
+		"japanese": "中世の歴史を感じられる木の床です。",
 	},
 	"parquet": {
 		"english": "Parquet",
@@ -779,6 +779,7 @@
 		"chinese": "简易木墙",
 		"italian": "Parete di legno semplice",
 		"polish": "Prosta ściana z desek",
+		"japanese": "簡単な木の壁",
 	},
 	"woodWallDescription": {
 		"english": "This wooden wall doesn't look very trustworthy but it's a good start.",
@@ -795,6 +796,7 @@
 		"chinese": "这堵木墙看起来不太可靠，但这是一个好的开始。",
 		"italian": "Questa parete di legno non sembra molto affidabile, ma è un buon inizio.",
 		"polish": "Ta drewniana ściana nie wygląda nazbyt solidnie, ale na początek lepsze to niż nic.",
+		"japanese": "適当に建てられた木の壁です。最初に選択する壁としては良いかもしれません。",
 	},
 	"cobWall": {
 		"english": "Cob Wall",
@@ -810,6 +812,7 @@
 		"chinese": "土墙 ",
 		"italian": "Parete di cob",
 		"polish": "Ściana ze sklejki",
+		"japanese": "土の壁",
 	},
 	"cobWallDescription": {
 		"english": "This cob wall might not be that sturdy but it doesn't take a lot of resources to build it.",
@@ -825,6 +828,7 @@
 		"chinese": "这堵土墙可能没有那么坚固，但它并不需要很多资源来建造。",
 		"italian": "Questa parete di cob potrebbe non essere così robusta, ma ci vogliono poche risorse per costruirla.",
 		"polish": "Taka ściana ze sklejki nie jest zbyt wytrzymała, ale za to nie wymaga dużych nakładów.",
+		"japanese": "頑丈ではありませんが、たくさんの資源を必要としません。",
 	},
 	"cleanWoodWallCross": {
 		"english": "Clean Wooden Wall (horizontal)",
@@ -841,6 +845,7 @@
 		"chinese": "整洁木墙(水平)",
 		"italian": "Parete di legno rifinita (orizzontale)",
 		"polish": "Ściana z paneli (poziomo)",
+		"japanese": "横模様の木の壁",
 	},
 	"cleanWoodWallCrossDescription": {
 		"english": "Well made wooden wall for settlers with good taste.",
@@ -857,6 +862,7 @@
 		"chinese": "制作精良的木墙，适合有品位的移民。",
 		"italian": "Una parete di legno ben realizzata, per coloni con un po' di buon gusto.",
 		"polish": "Dobrze wykonana drewniana ściana z paneli dla osadników z dobrym gustem.",
+		"japanese": "基本的な手間をかけた木を横に重ねた壁です。",
 	},
 	"cleanWoodWallUp": {
 		"english": "Clean Wooden Wall (vertical)",
@@ -873,6 +879,7 @@
 		"chinese": "整洁木墙(垂直)",
 		"italian": "Parete di legno rifinita (verticale)",
 		"polish": "Ściana z paneli (pionowo)",
+		"japanese": "縦模様の木の壁",
 	},
 	"cleanWoodWallUpDescription": {
 		"english": "Well made wooden wall for settlers with good taste.",
@@ -889,6 +896,7 @@
 		"chinese": "制作精良的木墙，适合有品位的移民。",
 		"italian": "Una parete di legno ben realizzata, per coloni con un po' di buon gusto.",
 		"polish": "Dobrze wykonana drewniana ściana z paneli dla osadników z dobrym gustem.",
+		"japanese": "基本的な手間をかけた木を縦に並べた壁です。",
 	},
 	"roughWoodWall": {
 		"english": "Natural Wooden Wall",
@@ -905,6 +913,7 @@
 		"chinese": "天然木墙",
 		"italian": "Parete di legno naturale",
 		"polish": "Ściana z krojonego drewna",
+		"japanese": "自然風の木の壁",
 	},
 	"roughWoodWallDescription": {
 		"english": "This wall is probably a good choice for all the nature-loving colonists out there.",
@@ -921,6 +930,7 @@
 		"chinese": "对于热爱大自然的殖民者来说，这面墙可能是一个不错的选择。",
 		"italian": "Questa parete risulta probabilmente la scelta migliore per tutti i coloni amanti della natura.",
 		"polish": "Ta ściana to dobry wybór dla każdego kto kocha szyk i elegancję.",
+		"japanese": "できる限り自然のままの姿を残した木の壁です。自然を愛するコロニストは感激するでしょう。",
 	},
 	"woodWallOverlap": {
 		"english": "Overlapping Wooden Wall",
@@ -937,6 +947,7 @@
 		"chinese": "层叠木墙",
 		"italian": "Parete sovrapposta di legno",
 		"polish": "Ściana z gontów",
+		"japanese": "鎧張りの壁",
 	},
 	"woodWallOverlapDescription": {
 		"english": "Timeless wood wall with angled planks.",
@@ -953,6 +964,7 @@
 		"chinese": "耐用的木墙和角板",
 		"italian": "Una parete di legno eterna con assi inclinate.",
 		"polish": "Ponadczasowa drewniana ściana z zachodzącymi na siebie deskami.",
+		"japanese": "鎧の様に木を重ね張りした木の壁です。",
 	},
 
 // Stone Walls
@@ -973,6 +985,7 @@
 		"chinese": "简易石墙",
 		"italian": "Parete di pietra semplice",
 		"polish": "Prosta ściana z kamieni",
+		"japanese": "簡単な石の壁",
 	},
 	"stoneWallDescription": {
 		"english": "While this stone wall might be cold to the touch, it's suitable for workshops.",
@@ -989,6 +1002,7 @@
 		"chinese": "虽然这个石墙很冰冷，但它适合建造作坊。",
 		"italian": "Questa parete di pietra, fredda al tatto, è perfetta per la costruzione di una bottega.",
 		"polish": "Chociaż ta kamienna ściana jest zimna w dotyku, nadaje się do warsztatów.",
+		"japanese": "適当に石を積み上げた壁です。作業場に向いています。",
 	},
 	"stoneWallCleanBricks": {
 		"english": "Smooth Stone Brick Wall",
@@ -1005,6 +1019,7 @@
 		"chinese": "光滑石砖墙",
 		"italian": "Parete di mattoni di pietra liscia",
 		"polish": "Ściana z piaskowca",
+		"japanese": "石レンガの壁",
 	},
 	"stoneWallCleanBricksDescription": {
 		"english": "Perfect for dungeons - but this stone wall can also be used for various less creepy projects.",
@@ -1021,6 +1036,7 @@
 		"chinese": "完美的地牢 - 但这个石墙也可用于各种少见建筑。",
 		"italian": "Perfetta per costruire delle segrete, sebbene questa parete di pietra può essere utilizzata anche per vari progetti meno inquietanti.",
 		"polish": "Idealna do lochów... ale można jej użyć też do mniej 'dyskusyjnych' projektów.",
+		"japanese": "石をレンガの様に削り積み重ねた壁です。趣があります。",
 	},
 	"stoneWallCleanTile": {
 		"english": "Stone Tiles Wall",
@@ -1037,6 +1053,7 @@
 		"chinese": "石砖墙",
 		"italian": "Parete di piastrelle di pietra",
 		"polish": "Ściana z klinkieru",
+		"japanese": "石タイルの壁",
 	},
 	"stoneWallCleanTileDescription": {
 		"english": "With this wall you can really impress the neighbors.",
@@ -1053,6 +1070,7 @@
 		"chinese": "有了这面墙，你就可以吸引邻居。",
 		"italian": "Con questa parete potrai davvero impressionare i tuoi vicini.",
 		"polish": "Taką ścianą na pewno zaimponujesz sąsiadom, to przecież klinkier!",
+		"japanese": "石を細かいタイルの様に削り積み重ねた壁です。とても素晴らしいです。",
 	},
 	
 // Hybrid Walls
@@ -1073,6 +1091,7 @@
 		"chinese": "框架木墙",
 		"italian": "Parete a graticcio",
 		"polish": "Mur pruski",
+		"japanese": "木組みの壁",
 	},
 	"fachwerkWall0Description": {
 		"english": "That's some solid and good looking piece of wall, just like it was used for houses in medieval Europe.",
@@ -1089,6 +1108,7 @@
 		"chinese": "那是坚固而美观的墙，就像中世纪欧洲的房屋的墙壁一样。",
 		"italian": "È una parete solida e di bell'aspetto, usata maggiormente per costruire le case nell'Europa medievale.",
 		"polish": "Solidny i dobrze wyglądający kawałek ściany, taki jaki był używany do budowy w czasach Śródziemia.",
+		"japanese": "中世ヨーロッパ時代の家に使われていた頑丈で見栄えの良い壁です。",
 	},
 	"fachwerkWall1": {
 		"english": "Fachwerk Wall",
@@ -1105,6 +1125,7 @@
 		"chinese": "框架木墙",
 		"italian": "Parete a graticcio",
 		"polish": "Mur pruski",
+		"japanese": "木組みの壁",
 	},
 	"fachwerkWall1Description": {
 		"english": "That's some solid and good looking piece of wall, just like it was used for houses in medieval Europe.",
@@ -1121,6 +1142,7 @@
 		"chinese": "那是坚固而美观的墙，就像中世纪欧洲的房屋的墙壁一样。",
 		"italian": "È una parete solida e di bell'aspetto, usata maggiormente per costruire le case nell'Europa medievale.",
 		"polish": "Solidny i dobrze wyglądający kawałek ściany, taki jaki był używany do budowy w czasach Śródziemia.",
+		"japanese": "中世ヨーロッパ時代の家に使われていた頑丈で見栄えの良い壁です。",
 	},
 	"fachwerkWall2": {
 		"english": "Fachwerk Wall",
@@ -1137,6 +1159,7 @@
 		"chinese": "框架木墙",
 		"italian": "Parete a graticcio",
 		"polish": "Mur pruski",
+		"japanese": "木組みの壁",
 	},
 	"fachwerkWall2Description": {
 		"english": "That's some solid and good looking piece of wall, just like it was used for houses in medieval Europe.",
@@ -1153,6 +1176,7 @@
 		"chinese": "那是坚固而美观的墙，就像中世纪欧洲的房屋的墙壁一样。",
 		"italian": "È una parete solida e di bell'aspetto, usata maggiormente per costruire le case nell'Europa medievale.",
 		"polish": "Solidny i dobrze wyglądający kawałek ściany, taki jaki był używany do budowy w czasach Śródziemia.",
+		"japanese": "中世ヨーロッパ時代の家に使われていた頑丈で見栄えの良い壁です。",
 	},
 	"fachwerkWall3": {
 		"english": "Fachwerk Wall",
@@ -1169,6 +1193,7 @@
 		"chinese": "框架木墙",
 		"italian": "Parete a graticcio",
 		"polish": "Mur pruski",
+		"japanese": "木組みの壁",
 	},
 	"fachwerkWall3Description": {
 		"english": "That's some solid and good looking piece of wall, just like it was used for houses in medieval Europe.",
@@ -1185,6 +1210,7 @@
 		"chinese": "那是坚固而美观的墙，就像中世纪欧洲的房屋的墙壁一样。",
 		"italian": "È una parete solida e di bell'aspetto, usata maggiormente per costruire le case nell'Europa medievale.",
 		"polish": "Solidny i dobrze wyglądający kawałek ściany, taki jaki był używany do budowy w czasach Śródziemia.",
+		"japanese": "中世ヨーロッパ時代の家に使われていた頑丈で見栄えの良い壁です。",
 	},
 	
 // Fences
@@ -1205,6 +1231,7 @@
 		"chinese": "简易木栅栏",
 		"italian": "Recinzione di legno semplice",
 		"polish": "Drewniany płot",
+		"japanese": "簡単な木の柵",
 	},
 	"fenceWoodSimpleDescription": {
 		"english": "This wood fence has seen better days for sure. Better hope the next guest won't take it appart.",
@@ -1221,6 +1248,7 @@
 		"chinese": "这个木栅栏已经很破旧了。但愿下个光顾的人不会把它弄散架。",
 		"italian": "Questa recinzione di legno ha sicuramente visto giorni migliori. Speriamo regga fino all'arrivo del prossimo ospite.",
 		"polish": "To drewniane ogrodzenie z pewnością widziało lepsze dni. Lepiej mieć nadzieję że nikt za mocno się o niego nie oprze.",
+		"japanese": "適当に木を打ち付けた柵です。",
 	},
 	"fenceWoodLogLeather": {
 		"english": "Round Wood Fence",
@@ -1237,6 +1265,7 @@
 		"chinese": "圆木栅栏",
 		"italian": "Recinzione di legno rotonda",
 		"polish": "Ogrodzenie z bali",
+		"japanese": "丸太の柵",
 	},
 	"fenceWoodLogLeatherDescription": {
 		"english": "This fence won't stop hostiles from getting to your precious colony. Then again it looks nice so just build it anyways.",
@@ -1253,6 +1282,7 @@
 		"chinese": "这栅栏不能阻止敌人进入你的领地。它看起来很漂亮，所以无论如何都要建造它。",
 		"italian": "Questa recinzione non impedirà ai nemici di raggiungere la tua preziosa colonia. Ma d'altronde sembra bella, perciò perché non costruirla?",
 		"polish": "To ogrodzenie raczej nie powstrzyma złoczyńców przed dostaniem się na twoją posesję. Z drugiej strony wygląda ładnie, więc po prostu je zbuduj",
+		"japanese": "丸太をしっかりと打ち付けた見た目の良い柵です。",
 	},
 	"fenceStone0": {
 		"english": "Stone Fence 'Pride'",
@@ -1265,6 +1295,7 @@
 		"chinese": "石栅栏 '自豪'",
 		"italian": "Recinzione di pietra 'Superbia'",
 		"polish": "Kamienne ogrodzenie 'Duma'",
+		"japanese": "立派な石の柵",
 	},
 	"fenceStone0Description": {
 		"english": "When it's time to show off how far you've come, simple wooden fences won't do the trick. This design not only shows your friends how well your village is doing, it also makes the villagers feel proud of their achievements.",
@@ -1277,6 +1308,7 @@
 		"chinese": "当需要炫耀您走了多远的时候，简单的木栅栏将无济于事。这种设计不仅向您的朋友展示了您的村庄的状况，而且使殖民者为之骄傲 他们的建设成果。",
 		"italian": "Quando è il momento di mostrare quanto sei arrivato lontano, delle semplici recinzioni di legno non basteranno. Questo design non solo mostra ai tuoi amici come il tuo villaggio stia crescendo bene, ma fa anche sentire gli abitanti orgogliosi dei loro risultati.",
 		"polish": "Kiedy nadejdzie czas, aby pochwalić się swoimi osiągnięciami, proste drewniane ogrodzenia to za mało. Ten projekt nie tylko pokazuje wszystkim, jak rozkwita twa osada, ale także napawa kolonistów dumą ze swoich osiągnięć.",
+		"japanese": "装飾が立派な石の柵です。これだけの柵の設置は自慢できます。",
 	},
 	"fenceStone1": {
 		"english": "Stone Fence 'Security'",
@@ -1289,6 +1321,7 @@
 		"chinese": "石栅栏 '安全'",
 		"italian": "Recinzione di pietra 'Sicurezza'",
 		"polish": "Kamienne ogrodzenie 'Bezpieczeństwo'",
+		"japanese": "安全そうな石の柵",
 		
 	},
 	"fenceStone1Description": {
@@ -1302,6 +1335,7 @@
 		"chinese": "这个围栏实际上并没有比其他任何石制围栏都牢固，但是看起来像那样。当您想让您的殖民地显得坚强和自信时，请选择此围栏。",
 		"italian": "Questa recinzione in realtà non è più sicura di una qualsiasi altra recinzione di pietra, ma *sembra* così. Quando vuoi che la tua colonia sembri forte e sicura di sé, scegli questa recinzione.",
 		"polish": "To ogrodzenie nie jest właściwie ani bardziej, ani mniej bezpieczne niż jakiekolwiek inne kamienne ogrodzenie, ale za to jak się prezentuje! Jeśli chcesz, aby twoja kolonia wyglądała na silną i zaradną, wybierz to ogrodzenie.",
+		"japanese": "それなりの柵です。安全そうに見えますが柵なので限度があります。",
 	},
 
 // Fortification

@@ -36,7 +36,7 @@
 		"chinese": "%firstName%流血了!一定要把他的伤口包扎好。否则%firstName%可能会死于失血过多。",
 		"italian": "%firstName% sta sanguinando! Assicurati che le sue ferite vengano fasciate accuratamente. Altrimenti, %firstName% potrebbe morire per dissanguamento.",
 		"Norwegian": "%firstName% blør! vær sikker på at %han/hun% sår er bandasjert ordentlig, hvis ikke kan %firstName% dø av blodtap.",
-		"japanese": "%firstName%が出血しています。失血によって死亡するかもしれません。早急にケガの確認が必要です。",
+		"japanese": "%firstName%が出血しています。失血によって死亡するかもしれません。早急に治療が必要です。",
 	},
 	"effectTitle_Unconscious": {
 		"english": "Unconscious",
@@ -74,7 +74,7 @@
 		"chinese": "%firstName%需要一段时间才能苏醒过来。",
 		"italian": "Ci vorrà un po' prima che %firstName% si svegli.",
 		"Norwegian": "det vil ta en stund før %firstName% vokner opp.", 
-		"japanese": "%firstName%の意識が戻るまでにはしばらく時間が必要です　。",
+		"japanese": "%firstName%の意識が戻るまでしばらく時間がかかります。",
 	},
 	"effectTitle_Bandage": {
 		"english": "Bandage",
@@ -307,7 +307,7 @@
 		"chinese": "%firstName%在休息慢慢地恢复健康。",
 		"italian": "%firstName% sta riposando e sta recupendo la sua salute un po' alla volta.",
 		"Norwegian": "%firstName% slapper av og får sakte tilbake liv.",
-		"japanese": "%firstName%は寝具で休息しています。ゆっくりと体力が回復しています。",
+		"japanese": "%firstName%は寝具で休息しています。ゆっくりと健康と持続力が回復しています。",
 	},
 	"effectTitle_AllergicReaction": {
 		"english": "Allergic Reaction",
@@ -419,6 +419,7 @@
 		"chinese": "腿伤：行走迟缓",
 		"italian": "Gamba ferita: cammina lentamente",
 		"Norwegian": "skadet ben: går sakte",
+		"japanese": "足を負傷:移動速度減少",
 	},
 	"effectDesc_LegHurt": {
 		"english": "%firstName% has hurt %hisHer% leg. Splints will help it heal more quickly.",
@@ -435,6 +436,7 @@
 		"chinese": "%firstName%的腿受伤了。夹板可以帮助它更快地愈合。",
 		"italian": "%firstName% si è ferit%OA% alla gamba. Le stecche l%OA% aiuteranno a guarire più rapidamente.",
 		"Norwegian": "%firstName% har skadet benet. skinne vil helbrede det kjappere.",
+		"japanese": "足を負傷しました。治りが早くなる添え木の治療を行ってください。",
 	},
 	"effectTitle_LegBroken": {
 		"english": "Broken leg: Can't walk",
@@ -451,6 +453,7 @@
 		"chinese": "腿折：不能行走",
 		"italian": "Gamba rotta: non può camminare",
 		"Norwegian": "brukket ben, kan ikke gå",
+		"japanese": "足を骨折:移動不可",
 	},
 	"effectDesc_LegBroken": {
 		"english": "%firstName% has broken %hisHer% leg and cannot walk anymore. You need to apply splints, or %firstName% may be permanently disabled!",
@@ -467,6 +470,7 @@
 		"chinese": "%firstName%的腿骨折了，不能再走路了。您必须使用夹板，否则%firstName%可能永久断腿了!",
 		"italian": "%firstName% si è rott%OA% una gamba e non può più camminare. Devi applicare delle stecche, o %firstName% potrebbe rimanere invalido a vita!",
 		"Norwegian": "%firstName% har brukket %hanshennes% ben og kan ikke gå mer. du må legge på en skinne, hvis ikke vil %firstName% få varig skade.",
+		"japanese": "足を骨折しました。早急に添え木の治療が必要です。そうしないと%firstName%は永遠に動けません。",
 	},
 	"effectTitle_ArmHurt": {
 		"english": "Hurt arm: Works slowly",
@@ -483,6 +487,7 @@
 		"chinese": "手伤: 工作迟缓",
 		"italian": "Braccio ferito: lavora lentamente",
 		"Norwegian": "skadet arm: jobber sakte",
+		"japanese": "腕を負傷:作業速度減少",
 	},
 	"effectDesc_ArmHurt": {
 		"english": "%firstName% has hurt %hisHer% arm. Splints will help it heal more quickly.",
@@ -499,6 +504,7 @@
 		"chinese": "%firstName%胳膊受伤了。夹板可以帮助它更快地愈合。",
 		"italian": "%firstName% si è ferit%OA% al braccio. Le stecche l%OA% aiuteranno a guarire più rapidamente.",
 		"Norwegian": "%firstName% har skadet %hanshennes% arm. skinne vil hjelpe for at det skal gro kjappere.",
+		"japanese": "腕を負傷しました。治りが早くなる添え木の治療を行ってください。",
 	},
 	"effectTitle_ArmBroken": {
 		"english": "Broken arm: Can't work",
@@ -515,6 +521,7 @@
 		"chinese": "手折: 不能工作",
 		"italian": "Braccio rotto: lavora lentamente",
 		"Norwegian": " brukket arm: kan ikke jobbe",
+		"japanese": "腕を骨折:作業不可",
 	},
 	"effectDesc_ArmBroken": {
 		"english": "%firstName% has broken %hisHer% arm and cannot work anymore. Splints will help it heal more quickly.",
@@ -531,7 +538,7 @@
 		"chinese": "%firstName%的胳膊骨折了，不能再工作了。夹板可以帮助它更快地愈合。",
 		"italian": "%firstName% si è rott%OA% un braccio e non può più lavorare. Le stecche l%OA% aiuteranno a guarire più in fretta.",
 		"Norwegian": "%firstName har brukkes %hanshennes% arm og kan ikke jobbe mer. skinne vil hjelpe for at det skal gro kjappere.",
-		
+		"japanese": "腕を骨折しました。早急に添え木の治療が必要です。そうしないと%firstName%は永遠に作業できません。",
 	},
 	"effectTitle_LegSplint": {
 		"english": "Leg splints",
@@ -548,6 +555,7 @@
 		"chinese": "腿部夹板",
 		"italian": "Stecca alla gamba",
 		"Norwegian": "ben skinne",
+		"japanese": "足用添え木",
 	},
 	"effectDesc_LegSplint": {
 		"english": "The leg is stabilized now. It will heal in a short while.",
@@ -564,6 +572,7 @@
 		"chinese": "腿现在固定好了。过一会儿就会恢复了。",
 		"italian": "La gamba è stabilizzata adesso. Guarirà in breve tempo.",
 		"Norwegian": " benet er blitt stabilisert nå. og vil leges på kort tid.",
+		"japanese": "添え木の治療を行いました。時間が経てば治ります。",
 	},
 	"effectTitle_armSplint": {
 		"english": "Arm splints",
@@ -580,6 +589,7 @@
 		"chinese": "手臂夹板",
 		"italian": "Stecca al braccio",
 		"Norwegian": "arms skinne",
+		"japanese": "腕用添え木",
 	},
 	"effectDesc_ArmSplint": {
 		"english": "The arm is stabilized now. It will heal in a short while.",
@@ -596,6 +606,7 @@
 		"chinese": "手臂现在固定好了。过一会儿就会恢复了。",
 		"italian": "Il braccio è stabilizzato adesso. Guarirà in breve tempo.",
 		"Norwegian": "armen er blitt stabilisert nå, og vil leges på kort tid.",
+		"japanese": "添え木の治療を行いました。時間が経てば治ります。",
 	},
 	"effectTitle_LuckierHeal": {
 		"english": "Improved Healing Skills",

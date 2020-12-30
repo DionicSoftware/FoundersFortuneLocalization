@@ -16,7 +16,7 @@
 		"chinese": "生食篮子",
 		"italian": "Cesto per cibi crudi",
 		"polish": "Kosz z jedzeniem"
-		"japanese": "食べ物用バスケット",
+		"japanese": "食材用バスケット",
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -37,6 +37,7 @@
 		"chinese": "用这个篮子给你的殖民者提供生的食物。当他们饿了的时候，只要你有足够的食物，他们就会到篮子里来找吃的。\n\n此架子最多存放 %capacityFoodRaw% 生鲜食材。",
 		"italian": "Usa questo cesto per fornire ai tuoi coloni i cibi crudi. Ogni volta che hanno fame, verranno nel cesto a prendere qualcosa da mangiare, a patto che tu abbia a disposizione abbastanza cibo.\n\nQuesto cesto può conservare fino a %capacityFoodRaw% cibi crudi.",
 		"polish": "W tym koszyku koloniści gromadzić będą podstawowe pożywienia zebrane z dzikich krzaków i drzew owocowych oraz ogródka. Gdy zgłodnieją, przyjdą do niego, aby wziąść coś do jedzenia."
+		"japanese": "食材を貯蔵するバスケットです。コロニストの食事のためにすぐに設置しましょう。\n\n貯蔵量%capacityFoodRaw%", 
 	},
 	"foodShelfCampfire": {
 		"english": "Shelf for Food from the Campfire",
@@ -52,6 +53,7 @@
 		"chinese": "烤制食物架子",
 		"italian": "Scaffale per cibo dal falò",
 		"polish": "Półki na jedzenie z ogniska"
+		"japanese": "簡易な料理棚",
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -72,6 +74,7 @@
 		"chinese": "架子与篮子的结合体是储存在烤制食物的理想办法!\n\n此架子最多存放 %capacityFoodCooked% 烤制食物。",
 		"italian": "Questa combinazione di mensole e cesti è il luogo ideale per conservare i cibi cotti al falò!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
 		"polish": "Ten zestaw półek jest idealnym miejscem na przechowywanie upieczonego nad ogniem jedzenia."
+		"japanese": "料理を貯蔵するための簡易な棚です。料理棚の設置はまずこれからしましょう。\n\n貯蔵量%capacityFoodCooked%",
 	},
 	"foodShelfKitchen": {
 		"english": "Shelf for Food from the Kitchen",
@@ -87,6 +90,7 @@
 		"chinese": "烹饪食物架子",
 		"italian": "Scaffale per cibo da cucina",
 		"polish": "Półki na jedzenie z kuchni",
+		"japanese": "料理棚",
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -107,6 +111,7 @@
 		"chinese": "还有什么地方比这个华丽的架子更适合存放烹饪食物呢?\n\n此架子最多存放 %capacityFoodCooked% 烹饪食物。",
 		"italian": "Quale posto migliore per conservare il tuo cibo da cucina se non su questo splendido scaffale!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
 		"polish": "Czy jest lepsze miejsce na trzymanie przygotowanych posiłków niż taki elegancki zestaw półek?"
+		"japanese": "一般的な料理を貯蔵するための棚です。そこそこ豪華です。\n\n貯蔵量%capacityFoodCooked%",
 	},
 	"foodShelfBakery": {
 		"english": "Shelf for Baked Food",
@@ -122,6 +127,7 @@
 		"chinese": "烤制食物架",
 		"italian": "Scaffale per cibi da forno",
 		"polish": "Półki na wypieki"
+		"japanese": "豪華な料理棚",
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -142,6 +148,7 @@
 		"chinese": "这个架子是你在面包工坊烘焙食物的首选。\n\n此架子最多存放 %capacityFoodCooked% 烹饪食物。",
 		"italian": "Questa scaffale è la tua prima scelta per i cibi che sono stati cotti al forno.\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
 		"polish": "Zestaw półek do prezentowania pysznych wypieków."
+		"japanese": "料理を貯蔵するための棚です。とても豪華です。もう最高です。\n\n貯蔵量%capacityFoodCooked%",
 	},
 	"potionMedicineStorage": {
 		"english": "Healing Potion Cabinet",
@@ -157,6 +164,7 @@
 		"chinese": "治疗药水架子",
 		"italian": "Armadietto di pozioni curative",
 		"polish": "Gablota na mikstury lecznicze"
+		"japanese": "薬保管戸棚",
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -177,6 +185,7 @@
 		"chinese": "腿疼了?生病了?流血了?不管你受到什么样的伤害，一瓶治疗药水总是个好办法。即使它不能完全治愈你的病况，至少它能麻痹你的疼痛。这些药水也挺好喝的。\n\n此架子最多可存放 %capacityHealingPotion% 治疗药水。",
 		"italian": "Ti fa male la gamba? Sei malato? Perdi sangue? Indipendentemente dal tipo di danno che hai subito, assumere una pozione curativa è sempre una buona idea. Anche se non cura davvero la tua condizione, almeno intorpidisce il dolore. Inoltre, queste pozioni hanno un buon sapore.\n\nQuesto scaffale può conservare fino a %capacityMedicine% medicine e %capacityHealingPotion% pozioni curative.",
 		"polish": "Boli noga a może złapałeś jakieś choróbsko? Nie ma znaczenia jaka krzywda Ci się stała, mikstura lecznicza wnet postawi cię na nogi.... albo przynajmniej uśmierzy ból. Poza tym te mikstury smakują też dobrze.",
+		"japanese": "薬を保管する戸棚です。薬、回復薬を保管できます。薬はとても大事な物です。きちんと保管しましょ。\n\n保管量　薬%capacityMedicine%個　回復薬%capacityHealingPotion%個",
 	},
 	"beerRefillBarrel": {
 		"english": "Beer Barrel",

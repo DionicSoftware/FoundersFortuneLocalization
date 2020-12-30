@@ -1248,7 +1248,7 @@
 		"chinese": "这个木栅栏已经很破旧了。但愿下个光顾的人不会把它弄散架。",
 		"italian": "Questa recinzione di legno ha sicuramente visto giorni migliori. Speriamo regga fino all'arrivo del prossimo ospite.",
 		"polish": "To drewniane ogrodzenie z pewnością widziało lepsze dni. Lepiej mieć nadzieję że nikt za mocno się o niego nie oprze.",
-		"japanese": "適当に木を打ち付けた柵です。",
+		"japanese": "適当に板を打ち付けた柵です。",
 	},
 	"fenceWoodLogLeather": {
 		"english": "Round Wood Fence",
@@ -1265,7 +1265,7 @@
 		"chinese": "圆木栅栏",
 		"italian": "Recinzione di legno rotonda",
 		"polish": "Ogrodzenie z bali",
-		"japanese": "丸太の柵",
+		"japanese": "木の柵",
 	},
 	"fenceWoodLogLeatherDescription": {
 		"english": "This fence won't stop hostiles from getting to your precious colony. Then again it looks nice so just build it anyways.",
@@ -1282,7 +1282,7 @@
 		"chinese": "这栅栏不能阻止敌人进入你的领地。它看起来很漂亮，所以无论如何都要建造它。",
 		"italian": "Questa recinzione non impedirà ai nemici di raggiungere la tua preziosa colonia. Ma d'altronde sembra bella, perciò perché non costruirla?",
 		"polish": "To ogrodzenie raczej nie powstrzyma złoczyńców przed dostaniem się na twoją posesję. Z drugiej strony wygląda ładnie, więc po prostu je zbuduj",
-		"japanese": "丸太をしっかりと打ち付けた見た目の良い柵です。",
+		"japanese": "細い丸太を打ち付けた見た目の良い柵です。",
 	},
 	"fenceStone0": {
 		"english": "Stone Fence 'Pride'",
@@ -1295,7 +1295,7 @@
 		"chinese": "石栅栏 '自豪'",
 		"italian": "Recinzione di pietra 'Superbia'",
 		"polish": "Kamienne ogrodzenie 'Duma'",
-		"japanese": "立派な石の柵",
+		"japanese": "石の柵",
 	},
 	"fenceStone0Description": {
 		"english": "When it's time to show off how far you've come, simple wooden fences won't do the trick. This design not only shows your friends how well your village is doing, it also makes the villagers feel proud of their achievements.",
@@ -1308,7 +1308,7 @@
 		"chinese": "当需要炫耀您走了多远的时候，简单的木栅栏将无济于事。这种设计不仅向您的朋友展示了您的村庄的状况，而且使殖民者为之骄傲 他们的建设成果。",
 		"italian": "Quando è il momento di mostrare quanto sei arrivato lontano, delle semplici recinzioni di legno non basteranno. Questo design non solo mostra ai tuoi amici come il tuo villaggio stia crescendo bene, ma fa anche sentire gli abitanti orgogliosi dei loro risultati.",
 		"polish": "Kiedy nadejdzie czas, aby pochwalić się swoimi osiągnięciami, proste drewniane ogrodzenia to za mało. Ten projekt nie tylko pokazuje wszystkim, jak rozkwita twa osada, ale także napawa kolonistów dumą ze swoich osiągnięć.",
-		"japanese": "装飾が立派な石の柵です。これだけの柵の設置は自慢できます。",
+		"japanese": "石で作られているため安全そうに見えますが、限度があります",
 	},
 	"fenceStone1": {
 		"english": "Stone Fence 'Security'",
@@ -1321,7 +1321,7 @@
 		"chinese": "石栅栏 '安全'",
 		"italian": "Recinzione di pietra 'Sicurezza'",
 		"polish": "Kamienne ogrodzenie 'Bezpieczeństwo'",
-		"japanese": "安全そうな石の柵",
+		"japanese": "石の柵",
 		
 	},
 	"fenceStone1Description": {
@@ -1335,7 +1335,7 @@
 		"chinese": "这个围栏实际上并没有比其他任何石制围栏都牢固，但是看起来像那样。当您想让您的殖民地显得坚强和自信时，请选择此围栏。",
 		"italian": "Questa recinzione in realtà non è più sicura di una qualsiasi altra recinzione di pietra, ma *sembra* così. Quando vuoi che la tua colonia sembri forte e sicura di sé, scegli questa recinzione.",
 		"polish": "To ogrodzenie nie jest właściwie ani bardziej, ani mniej bezpieczne niż jakiekolwiek inne kamienne ogrodzenie, ale za to jak się prezentuje! Jeśli chcesz, aby twoja kolonia wyglądała na silną i zaradną, wybierz to ogrodzenie.",
-		"japanese": "それなりの柵です。安全そうに見えますが柵なので限度があります。",
+		"japanese": "石で作られているため安全そうに見えますが、限度あります。",
 	},
 
 // Fortification
@@ -1354,6 +1354,7 @@
 		"chinese": "栅栏",
 		"italian": "Palizzata",
 		"polish": "Palisada",
+		"japanese": "木の塀",
 	},
 	"palisadeDescription": {
 		"english": "A simple but effective way of securing your property.",
@@ -1369,6 +1370,7 @@
 		"chinese": "一个简单而有效的保护你财产的方法。",
 		"italian": "Un modo semplice ma efficace per proteggere la tua proprietà.",
 		"polish": "Prosty, ale skuteczny sposób na zabezpieczenie swojego obejścia.",
+		"japanese": "古今東西お馴染みのコロニー防衛の木の塀です。",
 	},
 	"woodWallDefense0": {
 		"english": "Log Fortification",
@@ -1384,6 +1386,7 @@
 		"chinese": "原木防御工事",
 		"italian": "Fortificazione di legno",
 		"polish": "Zapora z kłód",
+		"japanese": "丸太の塀",
 	},
 	"woodWallDefense0Description": {
 		"english": "This log fortification makes your colony a much safer space!",
@@ -1399,6 +1402,7 @@
 		"chinese": "这个原木防御工事让你的殖民地更安全!",
 		"italian": "Questa fortificazione rende la tua colonia un luogo molto più sicuro!",
 		"polish": "Ta prosta barykada z kłód prostym sposobem uczyni twoje włości bezpieczniejszymi.",
+		"japanese": "丸太をしっかりと積み重ねた塀です。更に強固になっています。",
 	},
 	"stoneWallDefense0": {
 		"english": "Castle Fortification",
@@ -1417,6 +1421,7 @@
 		"chinese": "加固防御工事",
 		"italian": "Fortificazione di pietra",
 		"polish": "Mur zamkowy",
+		"japanese": "城壁",
 	},
 	"stoneWallDefense0Description": {
 		"english": "Circled with this fortification, your colonists will have a carefree good night's sleep!",
@@ -1432,6 +1437,7 @@
 		"chinese": "围绕一圈防御工事，你的殖民者将会有一个无忧无虑的好觉!",
 		"italian": "Circondati da questa fortificazione, i tuoi coloni potranno dormire sonni tranquilli!",
 		"polish": "Ta solidna fortyfikacja zapewni każdemu koloniście spokojny sen.",
+		"japanese": "丸太の塀より更に強化されています。何も持たない者には破られる事はないでしょう。",
 	},
 	"stoneWallDefense1": {
 		"english": "Brick Fortification",
@@ -1447,6 +1453,7 @@
 		"chinese": "砖墙防御工事",
 		"italian": "Fortificazione di mattoni",
 		"polish": "Mur forteczny",
+		"japanese": "堡塁",
 	},
 	"stoneWallDefense1Description": {
 		"english": "Let your enemies tremble with fear when they see this masterpiece of a wall!",
@@ -1462,5 +1469,6 @@
 		"chinese": "当你的敌人看到这堵墙时，让他们感到害怕颤抖吧!",
 		"italian": "Lascia che i tuoi nemici tremino di paura alla vista di questa maestosa costruzione!",
 		"polish": "Niech twoi wrogowie drżą ze strachu, gdy zobaczą z czym muszą się zmierzyć.",
+		"japanese": "要塞です。これを破るには大砲を持ってこないとだめでしょう。",
 	},
 }

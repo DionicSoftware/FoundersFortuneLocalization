@@ -1320,7 +1320,7 @@
 		"bulgarian": "Тази лента показва колко време остава до промяна на сезоните.",
 		"czech": "Tento sloupec ukazuje, kolik času zbývá do změny ročního období.",
 		"romanian": "Această bară arată cât timp mai rămâne până când se schimbă anotimpurile.",
-		"japanese": "時間経過を表し、バーが満たされると次の季節へ替わります。",
+		"japanese": "今の季節の時間経過を表します。最大になると次の季節へ替わります。",
 	},
 
 	// Growing Up Panel
@@ -1983,7 +1983,7 @@
 		"romanian": "Setările coloniei",
 		"bulgarian": "Настройки на колонията",
 		"czech": "Nastavení kolonie",
-		"japanese": "コロニーの設定",
+		"japanese": "資材の収取の設定",
 	},
 	"onlyCutDesignatedTrees": {
 		"english": "Only cut designated trees",
@@ -2143,7 +2143,7 @@
 		"romanian": "În modul de luptă coloniștii dvs. își vor pune echipamentul de luptă și vor înceta să lucreze, să se relaxeze sau să vorbească cu ceilalți. Acest lucru vă permite să le controlați mai ușor în luptă.",
 		"bulgarian": "В боен режим вашите колонисти ще облекат бойната си екипировка и ще спрат да работят върху работата си, да се отпускат или да разговарят с други. Това ви позволява да ги контролирате по-лесно в битка.",
 		"czech": "V bojovém režimu si vaši kolonisté obléknou bojové vybavení a přestanou pracovat, odpočívat nebo mluvit s ostatními. Toto vám umožní snadnější kontrolu kolonistů v boji.",
-		"japanese": "戦闘の装備を身に着けると共に、仕事、休息等全ての行動を取らず戦闘に全力を尽くせるよう待機します。コロニストの場合はその個人が対象です。",
+		"japanese": "戦闘の装備を身に着けると共に、仕事、休息等全ての行動を取らずその場で待機します。コロニストの詳細画面で指定した場合はそのコロニストだけが対象になります。",
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -2672,7 +2672,7 @@
 		"romanian": "Clicați pentru a renunța.\nApăsați %keyBinding% pentru a conecta în lanț comenzi.",
 		"bulgarian": "Кликнете за Отказ. \nКликнете %keyBinding% към верижните команди.",
 		"czech": "Klikněte pro zrušení.\nStiskněte %keyBinding% pro zřetězení příkazů.",
-		"japanese": "クリックで取り消しします。",
+		"japanese": "このアイコンをクリックすると作業を中止します。",
 	},
 	"satisfaction": {
 		"english": "Satisfaction",
@@ -2872,7 +2872,7 @@
 		"romanian": "Trăsături active",
 		"bulgarian": "Активни черти",
 		"czech": "Aktivní vlastnosti",
-		"japanese": "所持している個性",
+		"japanese": "現在の個性",
 	},
 	"availableTraits": {
 		"english": "Available Traits",
@@ -3174,7 +3174,7 @@
 		"polish": "Niestety, %firstName% jest głup%iA% i nie zdobędzie doświadczenia z żadnej pracy.",
 		"bulgarian": "За съжаление, %firstName% е тъп и няма да натрупа опит в никоя работа.",
 	    	"czech": "Naneštěstí %firstName% je hloup%yA%, takže nezíská žádné zkušenosti.",
-		"japanese": "残念ながら、%firstName%はお馬鹿のため経験を積む事ができません。",   
+		"japanese": "残念ながら、%firstName%はお馬鹿のため経験を生かす事ができません。",   
 	},
 	"importantPossessions": {
 		"english": "Important Possessions",

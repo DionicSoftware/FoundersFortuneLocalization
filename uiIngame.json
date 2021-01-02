@@ -1983,7 +1983,7 @@
 		"romanian": "Setările coloniei",
 		"bulgarian": "Настройки на колонията",
 		"czech": "Nastavení kolonie",
-		"japanese": "資材の収集設定",
+		"japanese": "資材収集の優先範囲の実行",
 	},
 	"onlyCutDesignatedTrees": {
 		"english": "Only cut designated trees",
@@ -2003,7 +2003,7 @@
 		"romanian": "Taie doar copacii marcați",
 		"bulgarian": "Изрежете само определени дървета",
 		"czech": "Kácet pouze označené stromy",
-		"japanese": "伐採の指定",
+		"japanese": "伐採の優先範囲を実行",
 	},
 	"onlyMineDesignatedRocksOres": {
 		"english": "Only mine designated rocks/ores",
@@ -2023,7 +2023,7 @@
 		"romanian": "Extrage doar rocile/mineralele marcate",
 		"bulgarian": "Копайте само определени скали/руди",
 		"czech": "Těžit pouze označené kameny/rudy",
-		"japanese": "採掘の指定",
+		"japanese": "採掘の優先範囲を実行",
 	},
 	"onlyGatherDesignatedPlants": {
 		"english": "Only gather designated plants",
@@ -2043,7 +2043,7 @@
 		"romanian": "Recoltează doar plantele marcate",
 		"bulgarian": "Събирайте само определени растения",
 		"czech": "Sbírat pouze označené rostliny",
-		"japanese": "採集の指定",
+		"japanese": "採集の優先範囲を実行",
 	},
 	"designations": {
 		"english": "Designations",
@@ -2063,7 +2063,7 @@
 		"romanian": "Marcaje",
 		"bulgarian": "Предназначение",
 		"czech": "Označení",
-		"japanese": "指定",
+		"japanese": "優先範囲の設定",
 	},
 	"designationTooltip_Title": {
 		"english": "Select specific resources to gather",
@@ -2083,7 +2083,7 @@
 		"romanian": "Selectează resurse specifice de colectat",
 		"bulgarian": "Изберете конкретни ресурси за събиране",
 		"czech": "Označte pouze vybrané zdroje pro sběr",
-		"japanese": "収集する資源を選択してください。",
+		"japanese": "資材を選択してください。",
 	},
 	"designationTooltip_Desc": {
 		"english": "With the designation tool you can restrict resource gathering to the objects you have marked with the tool. The colonists are only going to work on designated objects automatically.",
@@ -2103,7 +2103,7 @@
 		"romanian": "Cu instrumentul de marcare puteți limita colectarea de resurse la obiectele pe care le-ați marcat cu instrumentul. Coloniștii vor lucra automat numai la obiectele marcate.",
 		"bulgarian": "С инструмента за обозначаване можете да ограничите събирането на ресурси до обектите, които сте маркирали с инструмента. Колонистите ще работят само по определени обекти автоматично.",
 		"czech": "S nástrojem na označování můžete omezit oblast pro sběr na pouze označené suroviny. Kolonisté budou automaticky pracovat pouze v těchto označených oblastech.",
-		"japanese": "収集したい資源を指定または取り消しをする事ができます。コロニストは指定された対象に対して自動的に収集を行います。",
+		"japanese": "優先的に収集したい範囲を設定して優先を実行した場合は指定された範囲を優先的に収集します。",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",

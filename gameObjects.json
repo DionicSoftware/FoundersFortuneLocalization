@@ -111,7 +111,7 @@
 		"chinese": "还有什么地方比这个华丽的架子更适合存放烹饪食物呢?\n\n此架子最多存放 %capacityFoodCooked% 烹饪食物。",
 		"italian": "Quale posto migliore per conservare il tuo cibo da cucina se non su questo splendido scaffale!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
 		"polish": "Czy jest lepsze miejsce na trzymanie przygotowanych posiłków niż taki elegancki zestaw półek?",
-		"japanese": "一般的な料理を貯蔵するための棚です。そこそこ豪華です。\n\n貯蔵量%capacityFoodCooked%",
+		"japanese": "料理を貯蔵するための棚です。そこそこ豪華です。\n\n貯蔵量%capacityFoodCooked%",
 	},
 	"foodShelfBakery": {
 		"english": "Shelf for Baked Food",
@@ -4557,7 +4557,7 @@
 		"korean": "인상적인 스크롤 서가는 고급 연구에 필수적입니다. 스크롤을 많은 비밀을 감추고 있으며, 이 비밀을 밝혀낼 경우 정착지에 큰 발전을 가져올 수 있습니다.",
 		"chinese": "这个令人印象深刻的卷轴架是高级研究的必要条件。卷轴提供了许多秘密，可以帮助你发现知识让你的殖民地向前迈进了一大步。",
 		"italian": "Questo impressionante supporto per pergamene è necessario per le ricerche avanzate. Le pergamene contengono molti segreti da scoprire, utili alla tua colonia per fare un enorme passo in avanti.",
-		"japanese": "高度な研究の技術にはスクロールの解析も必要です。スクロールは商人が販売しています。高値ですが頑張って手に入れましょう。",
+		"japanese": "高度な技術の研究にはスクロールの解析も必要です。スクロールは商人が販売しています。高値ですが頑張って手に入れましょう。",
 	},
 	"campfire": {
 		"english": "Campfire",
@@ -4666,6 +4666,7 @@
 		"chinese": "啤酒厂",
 		"italian": "Birrificio",
 		"polish": "Browar",
+		"japanese": "醸造台",
 	},
 	"breweryDescription": {
 		"english": "This masterpiece of brewing technology enables you to brew the finest beer for your colony. All you need now is an experienced brewmaster and you can get started!",
@@ -4680,6 +4681,7 @@
 		"turkish": "Bu bira üretim teknolojisinin şaheseri, yerleşiminiz için en iyi birayı hazırlamanıza olanak tanır. Şimdi ihtiyacınız olan tek şey deneyimli bir bira ustası!",
 		"chinese": "这杰出酿造技术使您能够酿造出最好的啤酒。现在你所需要的只是一个经验丰富的酿酒大师，你可以开始了!",
 		"italian": "Questo capolavoro di tecnologia per la birra ti consente di preparare la birra più pregiata per la tua colonia. Tutto ciò di cui hai bisogno ora è un mastro birraio per dare inizio alla festa!",
+		"japanese": "コロニストの最高の楽しみの一つと言えるビールを作る事ができるのはこれしかありません。一刻も早く設置してあげましょう。",
 	},
 	"forge": {
 		"english": "Forge",
@@ -4695,6 +4697,7 @@
 		"chinese": "铁匠铺",
 		"italian": "Forgia",
 		"polish": "Kuźnia",
+		"japanese": "鍛冶場",
 	},
 	"forgeDescription": {
 		"english": "This forge is suited for professional blacksmiths who want to create masterpieces with their tools.",
@@ -4709,6 +4712,7 @@
 		"korean": "이 대장간은 베테랑 대장장이에게 딱 맞춰져있습니다. 본인의 도구로 직접 명품을 만들어내고 싶어하는 그런 사람들 말이에요.",
 		"chinese": "这个铁匠铺适合想用工具创造杰作的专业铁匠使用。",
 		"italian": "Questa forgia è adatta ai fabbri professionisti che vogliono creare capolavori con i loro strumenti.",
+		"japanese": "道具、防具などコロニストの生活向上のために設置してあげましょう。",
 	},
 	"bowmaker": {
 		"english": "Bowyer's Workshop",
@@ -4724,6 +4728,7 @@
 		"chinese": "弓箭工坊",
 		"italian": "Banco di fabbricazione archi",
 		"polish": "Warsztat łuczarza",
+		"japanese": "弓製作台",
 	},
 	"bowmakerDescription": {
 		"english": "A skilled craftsman can create ranged weapons here.",
@@ -4738,6 +4743,7 @@
 		"korean": "숙련된 수공업자는 이곳에서 원거리 무기를 만들 수 있습니다.",
 		"chinese": "一个熟练的工匠可以在这里制造远程武器。",
 		"italian": "Un abile fabbro è in grado di creare armi a distanza usando questo banco.",
+		"japanese": "遠隔武器である弓を持つ事は大きなアドバンテージです。",
 	},
 	"workbench": {
 		"english": "Carpenter's Workshop",
@@ -4754,6 +4760,7 @@
 		"chinese": "木匠工坊",
 		"italian": "Banco da carpentiere",
 		"polish": "Warsztat cieśli",
+		"japanese": "木器製作台",
 	},
 	"workbenchDescription": {
 		"english": "Tired of waiting for building materials? Let a carpenter use this basic workbench to make simple wooden tools, that make your colonists' jobs easier.",
@@ -4769,6 +4776,7 @@
 		"korean": "건축 자재가 모이길 기다리다 지치셨나요? 목수는 이 기본 작업대에서 간단한 목제 도구들을 만들 수 있습니다. 도구가 있다면 일하는게 쉬워지죠.",
 		"chinese": "厌倦了等待建筑材料?让木匠使用这个基本的工作台来制作简单的木制工具，让你的殖民者的工作更轻松。",
 		"italian": "Stanco di aspettare l'arrivo dei materiali da costruzione? Lascia che un carpentiere usi questo banco da lavoro basilare per creare semplici strumenti di legno per facilitare il lavoro dei tuoi coloni.",
+		"japanese": "やはり道具がないと時間がかかります。思いつくのは造形も楽な木です。簡単ではありますが木から道具を製作しましょう。",
 	},
 	"masonsWorkbench": {
 		"english": "Mason's Workshop",
@@ -4784,6 +4792,7 @@
 		"chinese": "石匠工坊",
 		"italian": "Banco da muratura",
 		"polish": "Warsztat kamieniarza",
+		"japanese": "石器製作台",
 	},
 	"masonsWorkbenchDescription": {
 		"english": "Do you remember the productivity boost when you introduced wooden tools? Just imagine what will happen once you upgrade to stone tools! All you need is this workshop and a skilled craftsman and you should be good to go!",
@@ -4798,6 +4807,7 @@
 		"turkish": "Tahta aletlere geçtiğinizdeki üretkenlik artışını hatırlıyor musunuz? Taş aletlere geçtiğinizde ne olacağını hayal edin! İhtiyacınız olan tek şey bu atölye ve yetenekli bir usta ve gerisi gelecek!",
 		"chinese": "你还记得当你引入木制工具时生产力的提高吗?想象一下，一旦你升级到石器，将会发生什么!你所需要的只是这个工坊和一个熟练的工匠，你该动手了!",
 		"italian": "Ricordi l'incremento di produttività quando hai introdotto gli strumenti di legno? Immagina cosa succederà dopo aver aggiornato gli strumenti con la pietra! Tutto ciò che ti serve è questo banco da lavoro ed un abile fabbro e dovresti essere a posto!",
+		"japanese": "木製といえど道具は生活に大きな利便を与えます。それが木製より硬い石製であったら？考える事は一緒です。",
 	},
 	"loom": {
 		"english": "Loom",
@@ -4808,6 +4818,7 @@
 		"portuguese": "Tear",
 		"italian": "Telaio",
 		"polish": "Krosno",
+		"japanese": "織機",
 	},
 	"loomDescription": {
 		"english": "As the foundation of every textile industry, nothing turns raw material into usable cloth faster than this loom.",
@@ -4817,6 +4828,7 @@
 		"russian": "Как основа любой текстильной промышленности, ничто не превращает сырье в пригодную для использования ткань быстрее, чем этот ткацкий станок",
 		"portuguese": "Como base de toda indústria têxtil, nada transforma matéria-prima em tecido utilizável mais rapidamente do que este tear.",
 		"italian": "Come fondamenta di ogni industria tessile, nulla trasforma la materia prima in tessuto utilizzabile più velocemente di questo telaio.",
+		"japanese": "布を作るにはこの織機しかありません。",
 	},
 	"tailor": {
 		"english": "Tailor's Workshop",
@@ -4832,6 +4844,7 @@
 		"chinese": "裁缝工坊",
 		"italian": "Banco da sartoria",
 		"polish": "Warsztat tkacza",
+		"japanese": "仕立て作業台",
 	},
 	"tailorDescription": {
 		"english": "Only the finest clothes get made at this tailor's workbench.",
@@ -4846,6 +4859,7 @@
 		"korean": "제단사의 작업대에서는 질 좋은 옷만이 만들어집니다.",
 		"chinese": "最好的衣服只有在这个裁缝工作台上才能做。",
 		"italian": "Solo i migliori abiti vengono realizzati su questo banco da sartoria.",
+		"japanese": "最高級の服を仕立てる事ができます。",
 	},
 	"potionLab": {
 		"english": "Potion Laboratory",
@@ -4861,6 +4875,7 @@
 		"chinese": "药剂实验室",
 		"italian": "Laboratorio di pozioni",
 		"polish": "Laboratorium",
+		"japanese": "回復薬制作台",
 	},
 	"potionLabDescription": {
 		"english": "Experienced doctors can use this lab to create healing potions.",
@@ -4875,6 +4890,7 @@
 		"korean": "경험많은 의사는 이 실험대에서 회복약을 만들 수 있습니다.",
 		"chinese": "有经验的医生可以利用这个实验室来制作治疗药水。",
 		"italian": "I medici esperti possono utilizzare questo laboratorio per creare pozioni curative.",
+		"japanese": "回復薬を製作できます。",
 	},
 	"deepMineStone": {
 		"english": "Deep Stone Mine",
@@ -4886,6 +4902,7 @@
 		"italian": "Miniera di pietra profonda",
 		"chinese": "石头矿坑",
 		"polish": "Kamieniołom",
+		"japanese": "石坑",
 	},
 	"deepMineStoneDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for stone - but you will be able to get a lot more of it out of the ground.",
@@ -4896,6 +4913,7 @@
 		"portuguese": "A mineração nas profundezas é muito mais difícil do que a mineração na superfície. As minas caras precisam de pessoal instruído que levará mais tempo para extrair pedra - mas você poderá extrair muito mais do solo.",
 		"italian": "L'estrazione in profondità è molto più difficile di quella in superficie. Le dispendiose miniere hanno bisogno di persone istruite che impiegheranno più tempo per estrarre la pietra, ma che saranno in grado di ottenerne molta di più.",
 		"chinese": "在矿坑比在地面上挖掘困难得多。珍贵的矿物需要受过良好教育的人员，需要更长的时间才能开采出石材-但是您将能够从地下开采更多的石材。",
+		"japanese": "地表の採掘よりは困難を伴いますが、より多くの石の採掘量が得られます。",
 	},
 	"deepMineIron": {
 		"english": "Deep Iron Ore Mine",
@@ -4907,6 +4925,7 @@
 		"italian": "Miniera di ferro profonda",
 		"chinese": "铁矿矿坑",
 		"polish": "Kopalnia żelaza",
+		"japanese": "鉄坑",
 	},
 	"deepMineIronDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for iron ore - but you will be able to get a lot more of it out of the ground.",
@@ -4917,6 +4936,7 @@
 		"portuguese": "A mineração nas profundezas é muito mais difícil do que a mineração na superfície. As minas caras precisam de pessoal qualificado que levará mais tempo para extrair minério de ferro - mas você poderá extrair muito mais do solo.",
 		"italian": "L'estrazione in profondità è molto più difficile di quella in superficie. Le dispendiose miniere hanno bisogno di persone istruite che impiegheranno più tempo per estrarre il ferro, ma che saranno in grado di ottenerne molta di più.",
 		"chinese": "在矿坑比在地面上挖掘困难得多。珍贵的矿物需要受过良好教育的人员，需要更长的时间才能开采出铁矿-但是您将能够从地下开采更多的铁矿。",
+		"japanese": "地表の採掘よりは困難を伴いますが、より多くの鉄鉱の採掘量が得られます。",
 	},
 	"deepMineCrystal": {
 		"english": "Deep Crystal Mine",
@@ -4928,6 +4948,7 @@
 		"italian": "Miniera di cristallo profonda",
 		"chinese": "水晶矿坑",
 		"polish": "Kopalnia kryształu",
+		"japanese": "クリスタル抗",
 	},
 	"deepMineCrystalDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for crystals - but you will be able to get a lot more of it out of the ground.",
@@ -4938,6 +4959,7 @@
 		"portuguese": "A mineração nas profundezas é muito mais difícil do que a mineração na superfície. As minas caras precisam de pessoal instruído que levará mais tempo para extrair cristais - mas você poderá extrair muito mais do solo.",
 		"italian": "L'estrazione in profondità è molto più difficile di quella in superficie. Le dispendiose miniere hanno bisogno di persone istruite che impiegheranno più tempo per estrarre i cristalli, ma che saranno in grado di ottenerne molta di più.",
 		"chinese": "在矿坑比在地面上挖掘困难得多。珍贵的矿物需要受过良好教育的人员，需要更长的时间才能开采出水晶-但是您将能够从地下开采更多的水晶。",
+		"japanese": "地表の採掘よりは困難を伴いますが、より多くのクリスタルの採掘量が得られます。",
 	},
 
 
@@ -4960,6 +4982,7 @@
 		"chinese": "西红柿",
 		"italian": "Terreno per pomodori",
 		"polish": "Grządka na pomidory",
+		"japanese": "トマト",
 	},
 	"farmTomatoSoilDescription": {
 		"english": "Tomatoes are good crops for inexperienced farmers to ensure a stable food supply. Growing from spring to summer, they often provide the bulk of food supply in the beginning of the year.",
@@ -4974,6 +4997,7 @@
 		"korean": "토마토는 농사가 처음인 농부들에게도 일정한 음식을 제공해주는 괜찮은 작물입니다. 봄부터 여름까지 자라며, 주로 연초에 한 무더기의 식량을 제공합니다.",
 		"chinese": "对于没有经验的农民来说，西红柿是很好的作物，可以确保稳定的食物供应。它们从春季生长到夏季，通常在年初提供大部分的食物供应。",
 		"italian": "I pomodori rappresentano un buon raccolto per gli agricoltori inesperti, in quanto garantiscono una scorta alimentare stabile. Crescendo dalla primavera all'estate, spesso forniscono la maggior parte delle forniture alimentari all'inizio dell'anno.",
+		"japanese": "トマトは初心者向けの良い作物です。春から夏にかけて成長し年の初めに収穫できます。",
 	},
 	"farmPumpkinSoil": {
 		"english": "Soil for Pumpkins",
@@ -4989,6 +5013,7 @@
 		"chinese": "南瓜",
 		"italian": "Terreno per zucche",
 		"polish": "Grządka na dynie",
+		"japanese": "かぼちゃ",
 	},
 	"farmPumpkinSoilDescription": {
 		"english": "Aren't pumpkins great? If you care for them well, they will provide a ton of good food. But you need to be quick as they only grow them in fall. Pumpkins grow slowly but yield more food per harvest.",
@@ -5003,6 +5028,7 @@
 		"korean": "호박이란, 대단하지 않나요? 잘 돌봐주면, 막대한 양의 음식을 얻을 수 있으니까요. 하지만 가을에만 자라기 때문에 빠르게 움직여야 합니다. 호박은 천천히 자라지만, 더 많은 음식을 수확할 수 있습니다.",
 		"chinese": "南瓜好不好?如果你照顾的不错，它们会提供大量的优质食物。但是你需要尽早播种，因为它们只在秋天生长。南瓜生长缓慢，但每次收获会收获很多的食物。",
 		"italian": "Cosa c'è di meglio delle zucche? Se ti prendi cura di loro, forniranno un sacco di buon cibo. Tuttavia, devi essere veloce poiché crescono solo in autunno. Le zucche crescono lentamente ma producono più cibo per ogni raccolto.",
+		"japanese": "手間をかければそれだけ多くの収穫量が得られます。しかし秋しか成長しないため素早く世話をする必要があります。",
 	},
 	"farmWheatSoil": {
 		"english": "Soil for Wheat",
@@ -5018,6 +5044,7 @@
 		"chinese": "小麦",
 		"italian": "Terreno per grano",
 		"polish": "Grządka na pszenicę",
+		"japanese": "麦",
 	},
 	"farmWheatSoilDescription": {
 		"english": "Wheat can not be eaten directly and needs to be processed first at the bakery. That's why wheat fields are typically found in big, wealthy colonies that can afford to provide amazing bread and even cakes for their citizens. Wheat grows from summer until fall. Wheat grows slowly but yields more food per harvest.",

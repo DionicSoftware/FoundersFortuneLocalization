@@ -18,7 +18,7 @@
 		"italian": "Desideri",
 		"hungarian": "Vágyak",
 		"czech": "Přání",
-		"japanese":"願い",
+		"japanese": "願い",
 	},
 	"discover": {
 		"english": "Discover %tech%",
@@ -39,6 +39,7 @@
 		"italian": "Scoprire %tech%",
 		"hungarian": "Feltalálni a(z)%tech%",
 		"czech": "Vyzkoumat %tech%",
+		"japanese": "%tech% を発見しました",
 	},
 	"GetProfession": {
 		"english": "Get a job",
@@ -59,6 +60,7 @@
 		"italian": "Avere un lavoro",
 		"hungarian": "Munkahelyet kapni",
 		"czech": "Získat práci",
+		"japanese": "就職する",
 	},
 	"GetSleepingSpot": {
 		"english": "Get a sleeping spot",
@@ -79,6 +81,7 @@
 		"italian": "Avere un posto in cui dormire",
 		"hungarian": "Saját hálózsák",
 		"czech": "Mít místo na spaní",
+		"japanese": "眠れる場所があります",
 	},
 	"GetBedroom": {
 		"english": "Get a bedroom",
@@ -99,6 +102,7 @@
 		"italian": "Avere una camera da letto",
 		"hungarian": "Saját hálószoba",
 		"czech": "Mít ložnici",
+		"japanese": "寝室を取得",
 	},
 	"reachLevelAsA": {
 		"english": "Reach level %level% as a %profession%",
@@ -119,6 +123,7 @@
 		"italian": "Raggiungere il livello %level% come %profession%",
 		"hungarian": "Elérni a következő szintet %level% as a %profession%",
 		"czech": "Dosáhnout úrovně %level% v profesi %profession%",
+		"japanese": " %profession% が %level% レベルに達しました",
 	},
 	"getFurnitureInLocation": {
 		"english": "Get %furniture% in %location%",
@@ -139,6 +144,7 @@
 		"italian": "Avere nella %location%: %furniture%",
 		"hungarian": "%furniture% a %location%ba",
 		"czech": "Mít %furniture% v %location%",
+		"japanese": " %furniture% を %location% に配置",
 	},
 	"getBackFurnitureInLocation": {
 		"english": "Get %furniture% back in %location%",
@@ -157,6 +163,7 @@
 		"italian": "Avere %furniture% indietro a %location%",
 		"hungarian": "%furniture% visszatenni a %location%ba",
 		"czech": "Mít %furniture% zpátky v %location%",
+		"japanese": " %furniture% を %location% に戻す",
 		
 	},
 	"furnitureCategory_AChair": {
@@ -178,6 +185,7 @@
 		"italian": "una sedia",
 		"hungarian": " egy széket",
 		"czech": "židli",
+		"japanese": "イス",
 	},
 	"furnitureCategory_ATable": {
 		"english": "a Table",
@@ -198,6 +206,7 @@
 		"italian": "un tavolo",
 		"hungarian": "egy asztalt",
 		"czech": "stůl",
+		"japanese": "テーブル",
 	},
 	"furnitureCategory_AArmchair": {
 		"english": "an Armchair",
@@ -218,6 +227,7 @@
 		"italian": "una poltrona",
 		"hungarian": "egy karosszéket",
 		"czech": "křeslo",
+		"japanese": "アームチェア",
 	},
 	"furnitureCategory_ACouch": {
 		"english": "a Couch",
@@ -238,6 +248,7 @@
 		"italian": "un divano",
 		"hungarian": "egy kanapét",
 		"czech": "pohovku",
+		"japanese": "ソファー",
 	},
 	"furnitureCategory_AFireplace": {
 		"english": "a Fireplace",
@@ -258,6 +269,8 @@
 		"italian": "un camino",
 		"hungarian": "egy tűzhelyet",
 		"czech": "krb",
+		"japanese": "暖炉",
+		
 	},
 	"furnitureCategory_ASmallShelf": {
 		"english": "a Dresser",
@@ -278,6 +291,7 @@
 		"italian": "un comodino",
 		"hungarian": "egy éjjeli szekrényt",
 		"czech": "prádelník",
+		"japanese": "ドレッサー",
 	},
 	"furnitureCategory_ABigShelf": {
 		"english": "a Big Shelf or Wardrobe",
@@ -298,6 +312,7 @@
 		"italian": "un grande scaffale o armadio",
 		"hungarian": "egy nagy szekrényt vagy wardróbot",
 		"czech": "velkou knihovnu nebo skříň",
+		"japanese": "大きなクローゼット",
 	},
 	"furnitureCategory_AChest": {
 		"english": "a Chest",
@@ -318,6 +333,7 @@
 		"italian": "un baule",
 		"hungarian": "egy ládát",
 		"czech": "truhla",
+		"japanese": "チェスト",
 	},
 	"furnitureCategory_ARug": {
 		"english": "a Rug",

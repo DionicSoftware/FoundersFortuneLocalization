@@ -16,7 +16,7 @@
 		"polish": "Nowa gra",
 		"italian": "Nuova partita",
 		"czech": "Nová hra",
-		"romanian": "Joc nou"
+		"romanian": "Joc nou",
 		"japanese": "New Game",
 	},
 	"saveGame": {
@@ -35,7 +35,7 @@
 		"polish": "Zapisz grę",
 		"italian": "Salva partita",
 		"czech": "Uložit hru",
-		"romanian": "Salvează jocul"
+		"romanian": "Salvează jocul",
 		"japanese": "ゲームを保存する",
 	},
 	"loadGame": {
@@ -54,7 +54,7 @@
 		"polish": "Wczytaj grę",
 		"italian": "Carica partita",
 		"czech": "Načíst hru",
-		"romanian": "Încarcă jocul"
+		"romanian": "Încarcă jocul",
 		"japanese": "Load Game",
 	},
 	"settings": {
@@ -73,7 +73,7 @@
 		"polish": "Ustawienia",
 		"italian": "Opzioni",
 		"czech": "Nastavení",
-		"romanian": "Setări"
+		"romanian": "Setări",
 		"japanese": "Settings",
 	},
 	"quit": {
@@ -92,7 +92,7 @@
 		"polish": "Wyjdź",
 		"italian": "Esci",
 		"czech": "Odejít",
-		"romanian": "Ieși"
+		"romanian": "Ieși",
 		"japanese": "Quit",
 	},
 	"website": {
@@ -111,7 +111,7 @@
 		"polish": "Strona internetowa",
 		"italian": "Sito web",
 		"czech": "Webstránka",
-		"romanian": "Sait web"
+		"romanian": "Sait web",
 		"japanese": "Website",
 	},
 	"forum": {
@@ -130,7 +130,7 @@
 		"polish": "Forum",
 		"italian": "Forum",
 		"czech": "Fórum",
-		"romanian": "Forum"
+		"romanian": "Forum",
 		"japanese": "Forum",
 	},
 	"supportDevelopment": {
@@ -149,7 +149,7 @@
 		"polish": "Wesprzyj rozwój gry",
 		"italian": "Supporta lo sviluppo",
 		"czech": "Podpořit vývoj",
-		"romanian": "Susține dezvoltarea"
+		"romanian": "Susține dezvoltarea",
 		"japanese": "Support Development",
 	},
 	"updateAvailable": {
@@ -168,7 +168,7 @@
 		"polish": "Dostępna aktualizacja!",
 		"italian": "Aggiornamento disponibile!",
 		"czech": "Je dostupná aktualizace!",
-		"romanian": "Actualizare disponibilă!"
+		"romanian": "Actualizare disponibilă!",
 		"japanese": "アップデートが利用可能です!",
 	},
 	"getNewestVersion": {
@@ -187,7 +187,7 @@
 		"polish": "Pobierz najnowszą wersję",
 		"italian": "Ottieni la versione più recente",
 		"czech": "Získat nejnovější verzi",
-		"romanian": "Obține cea mai nouă versiune"
+		"romanian": "Obține cea mai nouă versiune",
 		"japanese": "最新パージョンをダウンロードする",
 	},
 	"yourVersion": {
@@ -206,7 +206,7 @@
 		"polish": "Twoja wersja",
 		"italian": "La tua versione",
 		"czech": "Vaše verze",
-		"romanian": "Versiunea dvs."
+		"romanian": "Versiunea dvs.",
 		"japanese": "あなたのインストールされたバージョン",
 	},
 	"currentVersion": {
@@ -225,7 +225,7 @@
 		"polish": "Obecna wersja",
 		"italian": "Versione attuale",
 		"czech": "Aktuální verze",
-		"romanian": "Versiunea curentă"
+		"romanian": "Versiunea curentă",
 		"japanese": "現在のバージョン",
 	},
 	"underConstruction": {
@@ -244,7 +244,7 @@
 		"polish": "W budowie!",
 		"italian": "In costruzione!",
 		"czech": "Ve výstavbě!",
-		"romanian": "În construcție!"
+		"romanian": "În construcție!",
 		"japanese": "開発中!",
 	},
 	"mainMenu": {
@@ -263,7 +263,7 @@
 		"polish": "Główne menu",
 		"italian": "Menu principale",
 		"czech": "Hlavní menu",
-		"romanian": "Meniul principal"
+		"romanian": "Meniul principal",
 		"japanese": "メインメニュー",
 	},
 	"giveFeedback": {
@@ -282,7 +282,7 @@
 		"polish": "Podziel się opinią",
 		"italian": "Fornisci un feedback",
 		"czech": "Zpětná vazba",
-		"romanian": "Trimite feedback"
+		"romanian": "Trimite feedback",
 		"japanese": "フィードバックを送る",
 	},
 
@@ -304,7 +304,7 @@
 		"polish": "Wczytaj",
 		"italian": "Carica",
 		"czech": "Načíst",
-		"romanian": "Încarcă"
+		"romanian": "Încarcă",
 		"japanese": "ロードする",
 	},
 	"overwriteSave": { // needs to be short
@@ -323,7 +323,7 @@
 		"polish": "Nadpisz",
 		"italian": "Sovrascrivi",
 		"czech": "Přepsat",
-		"romanian": "Suprascrie"
+		"romanian": "Suprascrie",
 		"japanese": "上書き保存する",
 	},
 	"reallyDeleteSave": {
@@ -340,7 +340,7 @@
 		"polish": "Jesteś pewien, że chcesz usunąć zapis \"%save%\"? Uwaga! Nie będzie można go odzyskać.",
 		"turkish": "\"%save%\" kaydını silmek istediğinizden emin misiniz? Bunun geri dönüşümü yok.",
 		"czech": "Opravdu chcete přepsat hru \"%save%\"? Bude navždy ztracena.",
-		"romanian": "Sigur doriți să ștergeți salvarea \"%save%\"? O veți pierde pentru totdeauna."
+		"romanian": "Sigur doriți să ștergeți salvarea \"%save%\"? O veți pierde pentru totdeauna.",
 		"japanese": "\"%save%\"を削除します。本当に削除してもよろしいですか?",
 	},
 	// TODO-korean
@@ -358,7 +358,7 @@
 		"polish": "Ten zapis nie jest kompatybilny z twoją wersją gry.\nZaktualizuj swoją wersję do najnowszej.",
 		"chinese": "此存档与您的游戏版本不兼容。\n您可以在最新公告中找到有关如何继续使用旧游戏版本的教程。",
 		"czech": "Tato uložená pozice není kompatibilní se současnou verzí hry.\nStarší uložené pozice můžete hrát díky Steam funkci 'Beta'",
-		"romanian": "Această salvare nu este compatibilă cu versiunea dvs. de joc.\nPuteți juca versiuni vechi folosind funcția „Betas” din Steam."
+		"romanian": "Această salvare nu este compatibilă cu versiunea dvs. de joc.\nPuteți juca versiuni vechi folosind funcția „Betas” din Steam.",
 		"japanese": "このセーブデーターは現在のゲームバージョンと互換性がありません。\nSteamのベーター機能を使用して古いバージョンのゲームをプレイすることができます。",
 	},
 	"reallyQuitGame": {
@@ -375,7 +375,7 @@
 		"polish": "Ta gra nie była zapisywana przez %minutes% minut. Jesteś pewien, że chcesz wyjść do menu głównego bez zapisywania?",
 		"turkish": "Oyunu %minutes% dakikadır kaydetmediniz. Kaydetmeden ana menüye geri dönmek istediğinden emin misiniz?",
 		"czech": "Hra nebyla uložena posledních %minutes% minut. Opravdu se chcete vrátit do hlavní nabídky bez uložení?",
-		"romanian": "Jocul nu a fost salvat timp de %minutes% minute. Sigur doriți să vă întoarceți la meniul principal fără să salvați?"
+		"romanian": "Jocul nu a fost salvat timp de %minutes% minute. Sigur doriți să vă întoarceți la meniul principal fără să salvați?",
 		"japanese": "現在ゲームは %minutes% 分のあいだ保存されていません。保存せずにメインメニュー画面に戻ってもよろしいですか？",
 	},
 	"newSave": {
@@ -394,7 +394,8 @@
 		"polish": "Nowy zapis",
 		"italian": "Nuovo salvataggio",
 		"czech": "Nová pozice",
-		"romanian": "Salvare nouă"
+		"romanian": "Salvare nouă",
+		"japanese": "New Save",
 	},
 	"savegameName": { // background when player enters an empty save game name
 		"english": "Savegame Name",
@@ -412,7 +413,8 @@
 		"polish": "Nazwa zapisu",
 		"italian": "Nome salvataggio",
 		"czech": "Název uložené hry",
-		"romanian": "Numele jocului salvat"
+		"romanian": "Numele jocului salvat",
+		"japanese": "Savegame Name",
 	},
 	"mostAwesomeColony": { // default name for new colony
 		"english": "Most Awesome Colony",
@@ -430,7 +432,8 @@
 		"polish": "Najwspanialsza kolonia",
 		"italian": "La colonia più splendida",
 		"czech": "Nejúžasnější kolonie",
-		"romanian": "Cea mai impresionantă colonie"
+		"romanian": "Cea mai impresionantă colonie",
+		"japanese": "世界で最も素晴らしいコロニー",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -448,7 +451,8 @@
 		"polish": "Nieprawidłowe znaki w nazwie pliku",
 		"italian": "Caratteri proibiti nel nome del file",
 		"czech": "Zakázané znaky v názvu souboru",
-		"romanian": "Caractere interzise în numele fișierului"
+		"romanian": "Caractere interzise în numele fișierului",
+		"japanese": "ファイルに使用できない禁止文字が含まれています",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -466,7 +470,8 @@
 		"polish": "Nazwa pliku zbyt długa",
 		"italian": "Nome del file troppo lungo",
 		"czech": "Název souboru je příliš dlouhý",
-		"romanian": "Numele fișierului este prea lung"
+		"romanian": "Numele fișierului este prea lung",
+		"japanese": "ファイル名が長すぎます",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -484,7 +489,8 @@
 		"polish": "Nazwa pliku zbyt krótka",
 		"italian": "Nome del file troppo corto",
 		"czech": "Název souboru je příliš krátký",
-		"romanian": "Numele fișierului este prea scurt"
+		"romanian": "Numele fișierului este prea scurt",
+		"japanese": "ファイル名が短すぎます",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -502,7 +508,8 @@
 		"polish": "Nazwa pliku już w użyciu",
 		"italian": "Nome del file già in uso",
 		"czech": "Název souboru je již použit",
-		"romanian": "Numele fișierului este folosit deja"
+		"romanian": "Numele fișierului este folosit deja",
+		"japanese": "すでに使用されているファイル名です",
 	},
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
@@ -520,7 +527,8 @@
 		"polish": "Mody mogą być niekompatybilne\nMody w zapisie:",
 		"italian": "Le mod potrebbero essere incompatibili!\nMod nel salvataggio:",
 		"czech": "Mody mohou být nekompatibilní!\nMody v uložené hře:",
-		"romanian": "Modurile pot fi incompatibile!\nModuri în salvare:"
+		"romanian": "Modurile pot fi incompatibile!\nModuri în salvare:",
+		"japanese": "Modは互換性がない可能性があります!\n保存済みのMod:",
 	},
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
@@ -538,7 +546,8 @@
 		"polish": "Brak",
 		"italian": "Nessuna",
 		"czech": "Žádné",
-		"romanian": "Niciunul"
+		"romanian": "Niciunul",
+		"japanese": "なし",
 	},
 
 
@@ -561,7 +570,8 @@
 		"polish": "Mody i zawartość dodatkowa",
 		"italian": "Mod e contenuti aggiuntivi",
 		"czech": "Mody a dodatečný obsah",
-		"romanian": "Moduri și conținut suplimentar"
+		"romanian": "Moduri și conținut suplimentar",
+		"japanese": "Modと追加コンテンツ",
 	},
 	"author": {
 		"english": "Author",
@@ -579,7 +589,8 @@
 		"polish": "Autor",
 		"italian": "Autore",
 		"czech": "Autor",
-		"romanian": "Autor"
+		"romanian": "Autor",
+		"japanese": "著者",
 	},
 	"active": {
 		"english": "Active",
@@ -597,7 +608,8 @@
 		"polish": "Aktywny",
 		"italian": "Attiva",
 		"czech": "Aktivní",
-		"romanian": "Activ"
+		"romanian": "Activ",
+		"japanese": "アクティブ",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -615,7 +627,8 @@
 		"polish": "Nie masz zainstalowanych żadnych modów ani dodatkowej zawartości.",
 		"italian": "Non hai alcuna mod o contenuto aggiuntivo installato.",
 		"czech": "Nemáte nainstalovány žádné mody ani dodatečný obsah.",
-		"romanian": "Nu aveți niciun mod sau conținut suplimentar instalat."
+		"romanian": "Nu aveți niciun mod sau conținut suplimentar instalat.",
+		"japanese": "Modや追加のコンテンツはインストールされていません",
 	},
 	"openModFolder": {
 		"english": "Open Mod Folder",
@@ -633,7 +646,9 @@
 		"polish": "Otwórz folder z modami",
 		"italian": "Apri cartella mod",
 		"czech": "Otevřít adresář s mody",
-		"romanian": "Deschide dosarul modului"
+		"romanian": "Deschide dosarul modului",
+		"japanese": "Modフォルダーを開く",
+		
 	},
 	"openWorkshop": { //steam workshop
 		"english": "Open Workshop",
@@ -666,7 +681,8 @@
 		"polish": "Zawartość kompatybilna",
 		"italian": "Contenuto compatibile",
 		"czech": "Kompatibilní s obsahem",
-		"romanian": "Conținut compatibil"
+		"romanian": "Conținut compatibil",
+		"japanese": "互換性のあるコンテンツ",
 	},
 	"modCompatible_Text": {
 		"english": "This content has been marked by the developers as compatible.",
@@ -684,7 +700,8 @@
 		"polish": "Ta zawartość została oznaczona przez deweloperów jako kompatybilna",
 		"italian": "Questo contenuto è stato contrassegnato dagli sviluppatori come compatibile.",
 		"czech": "Tento obsah byl vývojáři označen jako kompatibilní.",
-		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind compatibil."
+		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind compatibil.",
+		"japanese": "このコンテンツは開発者によって互換性があるとマークされています",
 	},
 	"modMostlyCompatible_Title": {
 		"english": "Content mostly compatible",
@@ -701,7 +718,9 @@
 		"italian": "Contenuto per lo più compatibile",
 		"chinese": "模组内容兼容",
 		"czech": "Obsah je většinou kompatibilní",
-		"romanian": "Conținut în mare parte compatibil"
+		"romanian": "Conținut în mare parte compatibil",
+		"japanese": "ほとんど互換性のあるコンテンツ",
+		
 	},
 	"modMostlyCompatible_Text": {
 		"english": "This content has been marked by the developers as mostly compatible. It could contain bugs, but you can use it anyways.",
@@ -718,7 +737,8 @@
 		"chinese": "开发人员将此内容标记为基本兼容。它可能包含bug，但无论如何您都可以使用它。",
 		"polish": "Ta zawartość została oznaczona przez twórców jako najbardziej kompatybilna. Może zawierać błędy, ale możesz i tak z niej skorzystać.",
 		"czech": "Tento obsah byl vývojáři označen jako většinově kompatibilní. Může obsahovat chyby, ale přesto jej můžete použít.",
-		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind în mare parte compatibil. Poate conține bug-uri, dar îl poți folosi oricum."
+		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind în mare parte compatibil. Poate conține bug-uri, dar îl poți folosi oricum.",
+		"japanese": "このコンテンツは、開発者によってほとんど互換性があるとマークされています。\nバグが含まれている可能性がありますが使用することはできます",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
@@ -736,7 +756,8 @@
 		"italian": "Contenuto incompatibile",
 		"polish": "Zawartość niekompatybilna",
 		"czech": "Nekompatibilní obsah",
-		"romanian": "Conținut incompatibil"
+		"romanian": "Conținut incompatibil",
+		"japanese": "このコンテンツには互換性がありません",
 	},
 	"modIncompatible_Text": {
 		"english": "This content has been marked by the developers as incompatible.\nYou need to update it in order to activate it.",
@@ -754,7 +775,9 @@
 		"italian": "Questo contenuto è stato contrassegnato dagli sviluppatori come incompatibile.\nDevi aggiornarlo per poterlo attivare.",
 		"polish": "Ta zawartość została oznaczona przez twórców jako niekompatybilna. \nAby ją aktywaować musisz ją najpierw zaktualizwać.",
 		"czech": "Tento obsah byl vývojáři označen jako nekompatibilní.\nPro použití je nutné provést aktualizaci.",
-		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind incompatibil.\nTrebuie să-l actualizați pentru a-l activa."
+		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind incompatibil.\nTrebuie să-l actualizați pentru a-l activa.",
+		"japanese": "このコンテンツは開発者によって互換性がないとマークされています。\nアクティブ化するにはコンテンツを更新する必要があります",
+	},
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
@@ -772,7 +795,8 @@
 		"italian": "Applica e riavvia",
 		"polish": "Zatwierdź i zrestartuj",
 		"czech": "Použít a restartovat",
-		"romanian": "Aplică și repornește"
+		"romanian": "Aplică și repornește",
+		"japanese": "適用して再起動する",
 	},
 
 
@@ -793,7 +817,8 @@
 		"italian": "Qualsiasi feedback ci aiuterà a migliorare il gioco!",
 		"polish": "Każda twoja uwaga jest cenna i pomaga nam ulepszyć grę!",
 		"czech": "Jakýkoliv podnět nám pomůže, abychom pro vás mohli hru vylepšit!",
-		"romanian": "Fiecare feedback ne ajută să îmbunătățim jocul pentru tine!"
+		"romanian": "Fiecare feedback ne ajută să îmbunătățim jocul pentru tine!",
+		"japanese": "フィードバックされた全ては私たちが、あなたのためにゲームを改善するのにとても役立ちます!",
 	},
 	"feedbackType": {
 		"english": "Category",
@@ -811,7 +836,8 @@
 		"italian": "Categoria",
 		"polish": "Kategoria",
 		"czech": "Kategorie",
-		"romanian": "Categorie"
+		"romanian": "Categorie",
+		"japanese": "カテゴリー",
 	},
 	"general": {
 		"english": "General",
@@ -829,7 +855,8 @@
 		"italian": "Generale",
 		"polish": "Opinia",
 		"czech": "Obecné",
-		"romanian": "General"
+		"romanian": "General",
+		"japanese": "一般",
 	},
 	"bugReport": {
 		"english": "Bug Report",
@@ -847,7 +874,8 @@
 		"italian": "Segnalazione bug",
 		"polish": "Zgłoś błąd",
 		"czech": "Hlášení chyb",
-		"romanian": "Raportează o eroare"
+		"romanian": "Raportează o eroare",
+		"japanese": "バグを報告する",
 	},
 	"framerate": {
 		"english": "Framerate",
@@ -865,7 +893,8 @@
 		"italian": "FPS",
 		"polish": "Ilość FPS",
 		"czech": "FPS",
-		"romanian": "FPS"
+		"romanian": "FPS",
+		"japanese": "フレームレート[FPS]",
 	},
 	"feedback": {
 		"english": "Feedback",
@@ -883,7 +912,8 @@
 		"italian": "Feedback",
 		"polish": "Feedback",
 		"czech": "Zpětná vazba",
-		"romanian": "Feedback"
+		"romanian": "Feedback",
+		"japanese": "フィードバック",
 	},
 	"enterFeedback": {
 		"english": "Enter Feedback...",
@@ -901,7 +931,8 @@
 		"italian": "Inserisci feedback...",
 		"polish": "Wprowadź treść...",
 		"czech": "Vložte zpětnou vazbu...",
-		"romanian": "Introduceți feedbackul..."
+		"romanian": "Introduceți feedbackul...",
+		"japanese": "フィードバックを入力してください",
 	},
 	"emailAddressOptional": {
 		"english": "Email Address (optional!)",
@@ -919,7 +950,8 @@
 		"italian": "Indirizzo e-mail (facoltativo!)",
 		"polish": "Podaj adres e-mail (opcjonalnie)",
 		"czech": "E-mailová adresa (volitelně!)",
-		"romanian": "Adresa de e-mail (opțional!)"
+		"romanian": "Adresa de e-mail (opțional!)",
+		"japanese": "電子メールアドレス (オプション!)",
 	},
 	"clickToSubmit": {
 		"english": "Click to submit",
@@ -937,7 +969,8 @@
 		"italian": "Clicca per inviare",
 		"polish": "Kliknij aby wysłać",
 		"czech": "Klikněte pro odeslání",
-		"romanian": "Clicați pentru a trimite"
+		"romanian": "Clicați pentru a trimite",
+		"japanese": "クリックして送信",
 	},
 	"thankYou": {
 		"english": "Thank you!",
@@ -955,7 +988,8 @@
 		"italian": "Grazie!",
 		"polish": "Dziękujemy!",
 		"czech": "Děkujeme!",
-		"romanian": "Mulțumesc!"
+		"romanian": "Mulțumesc!",
+		"japanese": "ありがとう!",
 	},
 	"feedbackSubmittedSuccessfully": {
 		"english": "Feedback submitted successfully",
@@ -973,7 +1007,8 @@
 		"italian": "Il tuo feedback è stato inviato con successo",
 		"polish": "Feedback został wysłany.",
 		"czech": "Zpětná vazba úspěšně odeslána",
-		"romanian": "Feedbackul a fost trimis cu succes"
+		"romanian": "Feedbackul a fost trimis cu succes",
+		"japanese": "フィードバックは正常に送信されました!",
 	},
 	"Oops": {
 		"english": "Oops...",
@@ -991,7 +1026,8 @@
 		"italian": "Ops...",
 		"polish": "Ups...",
 		"czech": "Ups...",
-		"romanian": "Hopa..."
+		"romanian": "Hopa...",
+		"japanese": "おっと･･･",
 	},
 	"feedbackSystemBug": {
 		"english": "There seems to be a bug in the feedback system.\nPlease try again later or let us know via contact@foundersfortune.com",
@@ -1008,7 +1044,8 @@
 		"korean": "피드백 시스템에 문제가 있는 것 같습니다.\n다음에 다시 시도해주시거나, contact@foundersfortune.com 로 직접 메일을 보내주세요",
 		"italian": "Sembra esserci un bug nel sistema dei feedback.\nProva di nuovo più tardi o contattaci tramite contact@foundersfortune.com",
 		"czech": "Vypadá to, že je nějaký problém v systému hlášení chyb.\nZkuste to prosím znovu později a nebo nás kontaktujte prostřednictvím emailu contact@foundersfortune.com",
-		"romanian": "Se pare că există o eroare în sistemul de feedback.\nÎncercați din nou mai târziu sau comunicați-ne la contact@foundersfortune.com"
+		"romanian": "Se pare că există o eroare în sistemul de feedback.\nÎncercați din nou mai târziu sau comunicați-ne la contact@foundersfortune.com",
+		"japanese": "フィードバックシステムにバグがあるようです。\n時間を置いて、もう一度試してみるか contact@foundersfortune.com にお知らせください",
 	},
 	"feedbackConnectionIssue": {
 		"english": "There seems to be a connection issue\nCould you please check your internet connection?",
@@ -1026,7 +1063,8 @@
 		"italian": "Sembra esserci un problema di connessione.\nPotresti controllare la tua connessione ad internet?",
 		"polish": "Wygląda na to że wystąpił problem z połączeniem.\nSprawdź swoje połączenie z internetem.",
 		"czech": "Zdá se, že nastal problém s připojením.\nZkontrolujte prosím vaše internetové připojení.",
-		"romanian": "Se pare că există o problemă de conexiune.\nAți putea să vă verificați conexiunea la internet?"
+		"romanian": "Se pare că există o problemă de conexiune.\nAți putea să vă verificați conexiunea la internet?",
+		"japanese": "接続に問題があるようです。\nインターネット接続を確認してみてください",
 	},
 	"youreWelcome": {
 		"english": "You're Welcome",

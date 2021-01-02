@@ -350,6 +350,7 @@
 		"turkish": "bir kilim",
 		"polish": "Dywan",
 		"czech": "koberec",
+		"japanese": "ラグ",
 	},
 	"furnitureCategory_AFlowerPot": {
 		"english": "a Flower Pot",
@@ -370,6 +371,7 @@
 		"italian": "un vaso di fiori",
 		"hungarian": "egy virágtartót",
 		"czech": "květináč",
+		"japanese": "フラワーポッド",
 	},
 	"furnitureCategory_AVase": {
 		"english": "a Vase",
@@ -390,6 +392,7 @@
 		"italian": "un vaso",
 		"hungarian": "egy vázát",
 		"czech": "vázu",
+		"japanese": "花瓶",
 	},
 	"furnitureCategory_AToolStorage": {
 		"english": "a place to store tools",
@@ -408,6 +411,7 @@
 		"italian": "un posto per conservare gli strumenti",
 		"hungarian": "egy szerszámtartót",
 		"czech": "místo pro uskladnění nářadí",
+		"japanese": "道具保管庫",
 	},
 	"furnitureCategory_AWeaponStorage": {
 		"english": "a place to store weapons",
@@ -426,6 +430,7 @@
 		"italian": "un posto per conservare le armi",
 		"hungarian": "egy fegyvertárolót",
 		"czech": "místo pro uskladění zbraní",
+		"japanese": "武器保管庫",
 	},
 	"furnitureCategory_AClothesStorage": {
 		"english": "a place to store clothes",
@@ -444,6 +449,7 @@
 		"italian": "un posto per conservare i vestiti",
 		"hungarian": "egy ruhaállványt",
 		"czech": "místo na pověšení oblečení",
+		"japanese": "洋服保管庫",
 	},
 	"furnitureCategory_AArmorStorage": {
 		"english": "a place to store armor",
@@ -462,6 +468,7 @@
 		"italian": "un posto per conservare le armature",
 		"hungarian": "egy páncélállványt",
 		"czech": "místo na pověšení brnění",
+		"japanese": "防具保管庫",
 	},
 	"wishLocation_Room": {
 		"english": "%hisHer% Room",
@@ -485,6 +492,7 @@
 		"polish": "%jegoJej% pokój",
 		"hungarian": "a szobájába",
 		"czech": "vlastní pokoj",
+		"japanese": "%hisHer% の部屋",
 	
 	},
 	"wishLocation_House": {
@@ -492,6 +500,7 @@
 		"german": "%seinemIhrem% Haus",
 		"french": "sa maison",
 		"italian": "sua casa",
+
 		//TODO-bulgarian
 		//TODO-swedish
 		//TODO-dutch
@@ -509,6 +518,7 @@
 		"polish": "%jegoJej% dom",
 		"hungarian": " a házába",
 		"czech": "vlastní dům",
+		"japanese": "%hisHer% の家",
 	},
 	"wishLocation_Colony": {
 		"english": "the Colony",
@@ -529,6 +539,7 @@
 		"italian": "colonia",
 		"hungarian": "a faluba",
 		"czech": "kolonii",
+		"japanese": "コロニー",
 	},
 	"wishLocation_Owned": {
 		"english": "%hisHer% Possession",
@@ -545,6 +556,7 @@
 		"turkish": "Onun eşyası",
 		"polish": "%jegoJej% własność",
 		"czech": "vlastní majetek",
+		"japanese": "%hisHer% の所有物",
 	},
 	"useSatisfactionRewardPoints": {
 		"english": "Use Satisfaction Reward Points",
@@ -565,6 +577,7 @@
 		"italian": "Usa punti ricompensa soddisfazione",
 		"hungarian": "Elégdettségi pontok elhasználása",
 		"czech": "Použít body odměn za spokojenost",
+		"japanese": "満足度ポイントを使用します",
 	},
 	"getRidOfTrait": {
 		"english": "Get rid of Trait: %trait%",
@@ -585,6 +598,7 @@
 		"italian": "Sbarazzarsi del tratto: %trait%",
 		"hungarian": "Elhagyni a következő rossz szokást: %trait%",
 		"czech": "Zbavit se vlastnosti: %trait%",
+		"japanese": "不要な特性を取り除きます: %trait%",
 	},
 	"getRidOfCondition": {
 		"english": "Get rid of Condition: %condition%",
@@ -605,6 +619,7 @@
 		"italian": "Sbarazzarsi della condizione: %condition%",
 		"hungarian": "Elveszíteni a következő kondíciót: %condition%",
 		"czech": "Zbavit se stavu: %condition%",
+		"japanese": "状態を取り除きます: %condition%",
 	},
 	"getBackToFullHealth": {
 		"english": "Get back to full health",
@@ -625,6 +640,7 @@
 		"italian": "Tornare in piena salute",
 		"hungarian": "Teljes életerő elérése",
 		"czech": "Získat plné zdraví",
+		"japanese": "完全な健康状態に戻ります",
 	},
 	"getBigPayday": {
 		"english": "Get a big payday of at least %coins% coins",
@@ -643,6 +659,7 @@
 		"italian": "Ottenere un grande salario di almeno %coins% monete",
 		"hungarian": "Nagy fizetést kapni",
 		"czech": "Získat velkou denní výplatu alespoň %coins% mincí",
+		"japanese": "大きな収穫がありました。今日は少なくとも %coins% コインを入手しました",
 	},
 	"defeatGoblin": {
 		"english": "Defeat Tiki Goblin",

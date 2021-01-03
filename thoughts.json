@@ -602,7 +602,7 @@
 		"chinese": "我刚刚以前所未有的好心情度过了一天。相比之下，平凡的生活似乎没有那么好。",
 		"italian": "Ho appena trascorso una giornata con il miglior umore di sempre. La vita normale non sembra essere altrettanto bella in confronto.",
 		"polish": "Dzisiaj był wspaniały dzień bo miał%emAm%% świetny nastrój. W porównaniu z nim normalne życie wydaje się po prostu nudne.",
-		"japanese": "私は、今までで最高の気分で一日を過ごしました。普段の生活と比較すると見劣りするほどです。やはり普段の生活はそれほど良くはないようです。,
+		"japanese": "私は、今までで最高の気分で一日を過ごしました。普段の生活と比較すると見劣りするほどです。やはり普段の生活はそれほど良くはないようです。",
 	},
 	"thoughtTitle_AteRawFood": {
 		"english": "Ate Raw Food",
@@ -1290,7 +1290,7 @@
 		"chinese": "如愿以偿",
 		"italian": "Desiderio soddisfatto",
 		"polish": "Spełnione życzenie",
-		"japanese": "",
+		"japanese": "欲しいものを手に入れる",
 	},
 	"thoughtDesc_WishFulfilled": {
 		"english": "My wish came true! In this colony I can get what I want.",
@@ -1306,7 +1306,7 @@
 		"chinese": "我的愿望实现了!在这个殖民地，我可以得到我想要的。",
 		"italian": "Il mio desiderio si è avverato! In questa colonia posso ottenere quello che voglio.",
 		"polish": "Moje życzenie się spełniło! W tej kolonii mogę dostać to, czego chcę.",
-		"japanese": "私の願いが叶いました!このコロニーで私は欲しいものを手に入れることができます。",
+		"japanese": "私の願いが叶いました!このコロニーで私は欲しいものを手に入れることができます!",
 	},
 	"thoughtTitle_WishDenied": {
 		"english": "Wish denied",
@@ -1322,7 +1322,7 @@
 		"chinese": "事与愿违",
 		"italian": "Desiderio negato",
 		"polish": "Niespełnione życzenie",
-		"japanese": "私の願いが叶いました!このコロニーで私は欲しいものを手に入れることができます。",
+		"japanese": "拒否したい",
 	},
 	"thoughtDesc_WishDenied": {
 		"english": "My wish has been denied. In my opinion, it should've been easily possible to fulfill! Man, now I'm mad.",
@@ -1338,6 +1338,7 @@
 		"chinese": "我的愿望被拒绝了。在我看来，这应该是很容易实现的!伙计，现在我快疯了。",
 		"italian": "Mi è stato negato il mio desiderio. Secondo me sarebbe stato facilmente realizzabile! Cavolo, sono arrabbiat%OA%.",
 		"polish": "Moje życzenie pozostało niespełnione choć nie było czymś nadzwyczajnym. Teraz to jestem wściekły!",
+		"japanese": "私の願いは拒否されてしまいました。もっと簡単にうまくいくと思っていたのですが...今、私は激怒しています。",
 	},
 	"thoughtTitle_BarelySurvivedRaid": {
 		"english": "Barely survived raid",
@@ -1353,6 +1354,7 @@
 		"chinese": "九死一生",
 		"italian": "Sopravvissut%OA% a stento all'attacco",
 		"polish": "Barely survived raid", // to do
+		"japanese": "九死に一生を得る",
 	},
 	"thoughtDesc_BarelySurvivedRaid": {
 		"english": "Phew, the attack is over. I can count myself lucky I survived this.",
@@ -1368,6 +1370,7 @@
 		"chinese": "唷，战斗结束了。我能活下来真是幸运。",
 		"italian": "Uff, l'attacco è finito. Posso ritenermi fortunat%OA% ad essere sopravvissut%OA%.",
 		"polish": "Uff, atak się skończył. Skoro przeżył%emAm% to chyba mogę uważać się za szczęściarza.",
+		"japanese": "ふぅ、襲撃は終わりました。これを生き延びられたのはとても幸運でした。",
 	},
 	"thoughtTitle_LazyDay": {
 		"english": "Having a Lazy Day",
@@ -1383,6 +1386,7 @@
 		"chinese": "饱食终日",
 		"italian": "Giornata pigra",
 		"polish": "Leniuchowanie",
+		"japanese": "怠惰な一日",
 	},
 	"thoughtDesc_LazyDay": {
 		"english": "I had a bad time recently, so today I'm taking it easy. Don't wanna work too much, right? ",
@@ -1398,6 +1402,7 @@
 		"chinese": "我最近过得很糟糕，所以今天我吃了就睡不想工作，可以吧?",
 		"italian": "Ho passato un brutto momento di recente, perciò oggi me la prenderò comoda. Non vuoi mica che lavori troppo, no?",
 		"polish": "Niedawno miał%emAm% kiepski czas, więc dzisiaj odpoczywam. Nie warto się przepracowywać, prawda?? ",
+		"japanese": "最近は、大変なことばかりで苦労したので、今日は気楽にのんびりとやっていきます。過労死したくないでしょ?",
 	},
 	"thoughtTitle_EnvyBedroomBeauty": {
 		"english": "Envious of %firstName%'s room",
@@ -1413,6 +1418,7 @@
 		"chinese": "羡慕他人",
 		"italian": "Invidios%OA% della stanza di %firstName%",
 		"polish": "Envious of %firstName%'s room", // to do
+		"japanese": "%firstName% の部屋がうらやましくて嫉妬しています",
 	},
 	"thoughtDesc_EnvyBedroomBeauty": {
 		"english": "%fullName% has such a cool bedroom, why can't I have something like that?",
@@ -1428,6 +1434,7 @@
 		"chinese": "%fullName%拥有这么酷的卧室，为什么我不能有那样的东西?",
 		"italian": "%fullName% ha una camera da letto così bella, perché non posso averne una uguale?",
 		"polish": "%fullName% ma taką fajną sypialnię, dlaczego nie mogę mieć czegoś takiego?",
+		"japanese": "%firstName% は、とても素敵な寝室を持っています。なぜ、私も同じような素敵な部屋を持っていないのですか?",
 	},
 //	"thoughtTitle_MissingPossessions": {
 //		"english": "Missing important possessions",
@@ -1440,6 +1447,7 @@
 //		"ukrainian":"Пропали важливі речі",
 //		"korean": "중요한 소유물을 잃어버림",
 //		"chinese": "不翼而飞",
+	        "japanese": "重要な所持品がありません!",
 //	},
 //	"thoughtDesc_MissingPossessions": {
 //		"english": "I can't find some of my most important possessions in my bedroom or in my house. I wonder where they went?",
@@ -1452,6 +1460,7 @@
 //		"ukrainian":"Я не можу знайти свою важливу річ в моїй спальні! Поняття не маю куди вона пропала.",
 //		"korean": "내 가장 중요한 물건을 집에서도, 내 방에서도 찾을 수가 없어. 대체 어디로 간 거지?"
 //		"chinese": "我在卧室里找不到我重要的财产。我想知道他们去哪儿了?",
+	 　　　　"japanese": "寝室や家の中を探してみましたが、最も重要な所持品のいくつかを見つけることができませんでした。それはどこにいってしまったのでしょうか?",
 //	},
 	"thoughtTitle_LowSalary": {
 		"english": "Received low salary",
@@ -1467,6 +1476,7 @@
 		"chinese": "入不敷出",
 		"italian": "Salario basso",
 		"polish": "Kiepskie zarobki",
+		"japanese": "わずかな給金を受け取った",
 	},
 	"thoughtDesc_LowSalary": {
 		"english": "My last payday was really small. I deserve better than that!",
@@ -1482,6 +1492,7 @@
 		"chinese": "我上一个发薪日真的太少了。我应该得到更多的!",
 		"italian": "Il mio ultimo salario è stato davvero misero. Merito di meglio!",
 		"polish": "Moja ostatnia wypłata była naprawdę mała. Zasługuję na więcej!",
+		"japanese": "私の給料日の給金は、本当に少なかったです。私には、その給金以上の価値があるはずです!",
 	},
 	"thoughtTitle_HighSalary": {
 		"english": "Received high salary",
@@ -1497,6 +1508,7 @@
 		"chinese": "日进斗金",
 		"italian": "Salario alto",
 		"polish": "Wysokie zarobki",
+		"japanese": "多くの給金を受け取った!",
 	},
 	"thoughtDesc_HighSalary": {
 		"english": "My last payday was really high. So much money!",
@@ -1512,6 +1524,7 @@
 		"chinese": "我上一个发薪日真的很多钱。超级多!",
 		"italian": "Il mio ultimo salario è stato davvero alto. Wow, così tanti soldi!",
 		"polish": "Moja ostatnia wypłata była naprawdę duża. Tyle hajsu!",
+		"japanese": "私の給料日の給金は、とても高かった。たくさんお金が貰えて嬉しいです!",
 	},
 	"thoughtTitle_MissingFloor": {
 		"english": "Floor missing in house",
@@ -1527,6 +1540,7 @@
 		"chinese": "家徒四壁",
 		"italian": "Pavimento mancante in casa",
 		"polish": "Brakująca podłoga",
+		"japanese": "家の床がありません",
 	},
 	"thoughtDesc_MissingFloor": {
 		"english": "There is a room in my house that's missing a floor. It feels like a construction site.",
@@ -1542,6 +1556,7 @@
 		"chinese": "我家房间缺少屋顶。感觉就像一个建筑工地。",
 		"italian": "C'è una stanza nella mia casa a cui manca il pavimento. Sembra di essere in un cantiere!",
 		"polish": "W moim domu jest pokój, w którym brakuje podłogi. Czuję się jak na placu budowy!",
+		"japanese": "私の家には床がない部屋があります。まるで、恥ずかしいことに建設現場のようです。",
 	},
 	"thoughtTitle_UnpreparedForWinter": {
 		"english": "Unprepared for winter",
@@ -1557,6 +1572,7 @@
 		"chinese": "凛冬将至",
 		"italian": "Impreparat%OA% all'inverno",
 		"polish": "Nieprzygotowany do zimy",
+		"japanese": "冬の準備ができていません",
 	},
 	"thoughtDesc_UnpreparedForWinter": {
 		"english": "I'm worried we're not going to have enough food to get through the winter. We really should start preparing for it.",
@@ -1572,6 +1588,7 @@
 		"chinese": "我担心我们没有足够的食物过冬。我们真的应该开始准备了。",
 		"italian": "Ho paura che non avremo abbastanza cibo per superare l'inverno. Dovremmo iniziare a prepararci sul serio.",
 		"polish": "Martwię się, że nie będziemy mieli dość jedzenia, by przetrwać zimę. Naprawdę powinniśmy zacząć się już do niej przygotowywać.",
+		"japanese": "冬の準備ができていません。冬を乗り切るのに十分な食料がないのではないかと心配です。すぐにでも準備を始めるべきです。",
 	},
 	"thoughtTitle_EnjoyingParty": {
 		"english": "Enjoying party",
@@ -1587,6 +1604,7 @@
 		"chinese": "享受聚会",
 		"italian": "Festa piacevole",
 		"polish": "Zadowolony z imprezy",
+		"japanese": "楽しいパーティー",
 	},
 	"thoughtDesc_EnjoyingParty": {
 		"english": "Finally I'm getting some time to unwind and just be happy with my fellow colonists! Feels great to just not worry for a while.",
@@ -1602,6 +1620,7 @@
 		"chinese": "终于有时间放松一下了，和我的殖民者朋友们在一起很开心!感觉很好，只是暂时不用担忧生活。",
 		"italian": "Finalmente ho l'occasione di rilassarmi un po' e di divertirmi con i miei compagni coloni! È fantastico non preoccuparsi di nulla per un po'.",
 		"polish": "Wreszcie mam trochę czasu na relaks i zabawę z innymi kolonistami! Wspaniale jest tak choć przez chwilę się nie martwić.",
+		"japanese": "今だけ私は落ち着いて、仲間のコロニストたちと幸せに過ごす時間ができました。しばらく人生について心配する必要がないだけで素晴らしい気分です。",
 	},
 	"thoughtTitle_HadFunAtParty": {
 		"english": "Had fun at party",
@@ -1617,6 +1636,7 @@
 		"chinese": "觥筹交错",
 		"italian": "Festa divertente",
 		"polish": "Świetnie się bawił%emAm%",
+		"japanese": "楽しいパーティーだった",
 	},
 	"thoughtDesc_HadFunAtParty": {
 		"english": "The last party we had was amazing! I'm glad we can find the time to slow down and celebrate our life here from time to time.",
@@ -1632,6 +1652,7 @@
 		"chinese": "我们上次聚会太棒了!我很高兴我们能有时间放慢脚步，时不时地在这里庆祝一下我们的生活。",
 		"italian": "L'ultima festa che abbiamo fatto è stata fantastica! Sono felice che abbiamo il tempo di goderci la vita di tanto in tanto.",
 		"polish": "Ta ostatnia impreza, była niesamowita! Cieszę się, że możemy od czasu do czasu zwolnić i poświętować.",
+		"japanese": "私たちが行った、パーティーは素晴らしかったです!時折、こうやってここでの生活を楽しむ余裕ができ、とても嬉しいです。",
 	},
 	"thoughtTitle_DrankBeer": {
 		"english": "Had a beer",
@@ -1647,6 +1668,7 @@
 		"chinese": "把酒言欢",
 		"italian": "Birra bevuta",
 		"polish": "Piwko",
+		"japanese": "ビールを飲んだ",
 	},
 	"thoughtDesc_DrankBeer": {
 		"english": "Mmmm, I enjoy drinking a special beverage from time to time.",
@@ -1662,6 +1684,7 @@
 		"chinese": "嗯，我喜欢偶尔喝点特别的饮料。",
 		"italian": "Mmmm, adoro bere qualcosa di speciale di tanto in tanto.",
 		"polish": "Mmmm, od czasu do czasu lubię sobie strzelić kufelek złocistego napoju.",
+		"japanese": "うーん、時々こうやって特別な一杯を飲むのが好きです。",
 	},
 	"thoughtTitle_EnjoyedFire": {
 		"english": "Enjoyed fire",
@@ -1677,6 +1700,7 @@
 		"chinese": "烤火取暖",
 		"italian": "Fuoco piacevole",
 		"polish": "Przyjemnie przy ognisku",
+		"japanese": "うーん、時々こうやって特別な一杯を飲むのが好きです。",
 	},
 	"thoughtDesc_EnjoyedFire": {
 

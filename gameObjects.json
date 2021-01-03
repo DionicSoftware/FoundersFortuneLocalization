@@ -5742,7 +5742,7 @@
 		"dutch": "Sommige mensen noemen het een irrigatie systeem, andere vinden het meer een gat met water erin. Het maakt niet uit hoe je het noemt - putten spelen een belangrijke rol als je je gewassen goeed wil verzorgen. Planten die water hebben gehad leveren dubbele en soms driedubbele oogst!",
 		"chinese": "有人称之为灌溉系统，也有人认为它更像是一个水洞。不管你怎么称呼它 - 当你想让你的庄稼得到良好的照料时，水井扮演着重要的角色。据报道，正确浇水的植物可以获得两到三倍的收成!",
 		"italian": "Alcuni lo definiscono un sistema di innaffiamento, altri lo considerano più semplicemente come un buco con dentro dell'acqua. Non importa come lo definisci: i pozzi svolgono un ruolo importante se vuoi che le tue colture ricevano la giusta dose di cure. Secondo alcuni, le piante innaffiate correttamente producono raccolti doppi o tripli!",
-		"japanese": "水は作物を育てるために必要不可欠な物です。作物の収穫をたくさん得たい場合は絶対に必要です。",
+		"japanese": "水は作物を育てるために必要不可欠な物です。作物を育てるなら必ず設置しましょう。",
 	},
 	"bonfire": {
 		"english": "Bonfire",
@@ -5773,7 +5773,7 @@
 		"korean": "저 멀리에서도 보이는 밝은 불빛. 이주자와 상인을 끌어들입니다.",
 		"chinese": "几英里外都能看到明亮的火焰。吸引移民和商人。",
 		"italian": "Un fuoco luminoso visibile da miglia di distanza. Attrae migranti e mercanti.",
-		"japanese": "遠い所でも見つける事ができます。移民と商人には必要な物です。",
+		"japanese": "遠い所でも見つける事ができます。移民と商人の目印のために必要です。",
 	},
 	"guardPost": {
 		"english": "Guard Post",
@@ -5789,6 +5789,7 @@
 		"chinese": "护柱",
 		"italian": "Posto di guardia",
 		"polish": "Posterunek",
+		"japanese": "防衛地点",
 	},
 	"guardPostDescription": {
 		"english": "Assign soldiers to guard this position with their lives.",
@@ -5803,6 +5804,7 @@
 		"korean": "병사를 배치해 목숨을 걸고 이 자리를 지키게 하세요.",
 		"chinese": "派士兵用他们的生命保卫这个阵地。",
 		"italian": "Assegnaci dei soldati affinché proteggano questa posizione con le loro vite.",
+		"japanese": "防衛する地点を設定します。",
 	},
 	"watchtower": {
 		"english": "Watchtower",
@@ -5818,6 +5820,7 @@
 		"chinese": "瞭望塔",
 		"italian": "Torre di guardia",
 		"polish": "Wieża strażnicza",
+		"japanese": "木の櫓",
 	},
 	"watchtowerDescription": {
 		"english": "Send your archers up this tower to give them a safe position to shoot from.",
@@ -5832,6 +5835,7 @@
 		"korean": "궁수를 탑 위로 보내 안전한 위치에서 활을 쏠 수 있도록 하세요.",
 		"chinese": "派你的弓箭手到这个塔上去，给他们一个安全的位置射击。",
 		"italian": "Invia i tuoi arcieri su questa torre per dare loro una posizione sicura da cui scoccare le frecce.",
+		"japanese": "射手が安全に攻撃できる場所です。射手がいる場合はすぐに移動させましょう。",
 	},
 	"watchtowerStone": {
 		"english": "Strong Watchtower",
@@ -5847,6 +5851,7 @@
 		"chinese": "加固瞭望塔",
 		"italian": "Torre di guardia rinforzata",
 		"polish": "Murowana wieża strażnicza",
+		"japanese": "石の櫓",
 	},
 	"watchtowerStoneDescription": {
 		"english": "Send your archers up this tower to give them a safe position to shoot from.",
@@ -5861,6 +5866,7 @@
 		"korean": "궁수를 탑 위로 보내 안전한 위치에서 활을 쏠 수 있도록 하세요.",
 		"chinese": "派你的弓箭手到这个塔上去，给他们一个安全的位置射击。",
 		"italian": "Invia i tuoi arcieri su questa torre per dare loro una posizione sicura da cui scoccare le frecce.",
+		"japanese": "射手が安全に攻撃できる場所です。射手がいる場合はすぐに移動させましょう。",
 	},
 	"trainingDummy": {
 		"english": "Training Dummy",
@@ -5876,6 +5882,7 @@
 		"chinese": "训练假人",
 		"italian": "Manichino d'addestramento",
 		"polish": "Manekin do ćwiczeń",
+		"japanese": "木人",
 	},
 	"trainingDummyDescription": {
 		"english": "You need to train your soldiers before they can do well in battle.",
@@ -5890,6 +5897,7 @@
 		"korean": "실전에서 잘 싸우려면, 미리 병사들을 훈련시켜야 합니다.",
 		"chinese": "你需要训练你的士兵才能在战斗中取得好成绩。",
 		"italian": "Devi addestrare i tuoi soldati affinché possano cavarsela in battaglia.",
+		"japanese": "戦闘には日頃の訓練が重要です。そのためのかかしです。",
 	},
 
 
@@ -5905,6 +5913,7 @@
 		"chinese": "木材存箱",
 		"italian": "Riserva di legno",
 		"polish": "Skład drewna",
+		"japanese": "木材置き場",
 	},
 	"stockpileWoodDescription": {
 		"english": "Large, strong, and durable. These are the qualities you need when you want to store tons of logs.\n\nThis stockpile can hold up to %capacityWood% wood.",
@@ -5915,6 +5924,7 @@
 		"portuguese": "Grande, forte e durável. Essas são as qualidades que você precisa quando deseja armazenar toneladas de toras. \n\nEste estoque pode armazenar até %capacityWood% madeira.",
 		"chinese": "又大又结实且耐用。当你需要存储大量的木材时就需要用到这个。\n\n该存箱能够存储 %capacityWood% 木材。",
 		"italian": "Grandi, forti e durevoli. Queste sono le qualità necessarie quando si vuole depositare tonnellate di tronchi.\n\nQuesta riserva può contenere fino a %capacityWood% unità di legno.",
+		"japanese": "木材を備蓄します。\n\n備蓄量%capacityWood%",
 	},
 	"stockpileStone": {
 		"english": "Stone Stockpile",
@@ -5926,6 +5936,7 @@
 		"chinese": "石材存箱",
 		"italian": "Riserva di pietra",
 		"polish": "Skład kamienia",
+		"japanese": "石置き場",
 	},
 	"stockpileStoneDescription": {
 		"english": "Make sure your villagers don't stub their toes on heavy rocks and build a proper stockpile for your raw material stones.\n\nThis stockpile can hold up to %capacityStone% stone.",
@@ -5936,6 +5947,7 @@
 		"portuguese": "Certifique-se de que seus moradores não apedrejam os pés em pedras pesadas e construa um estoque adequado para suas pedras de matéria-prima. \n\nEste estoque pode armazenar até %capacityStone% pedra.",
 		"chinese": "确保你的殖民者不行走在粗糙的石头上并为你建造以一个适合存储石材的地方。\n\n该存箱能够存储 %capacityStone% 石材。",
 		"italian": "Assicurati che i tuoi abitanti non sbattano le loro dita dei piedi sulle rocce pesanti e che costruiscano una riserva adeguata per le tue pietre.\n\nQuesta riserva può contenere fino a %capacityStone% unità di pietra.",
+		"japanese": "石を備蓄します。\n\n備蓄量%capacityStone%",
 	},
 	"stockpileCrystal": {
 		"english": "Crystal Stockpile",
@@ -5947,6 +5959,7 @@
 		"chinese": "水晶存箱",
 		"italian": "Riserva di cristalli",
 		"polish": "Skład kryształu",
+		"japanese": "クリスタル置き場",
 	},
 	"stockpileCrystalDescription": {
 		"english": "Has your scholar ever run out of crystals in the middle of some important analysis? Make sure research can progress without impediments by building up a stock of crystals.\n\n This stockpile can hold up to %capacityCrystal% crystals.",
@@ -5957,6 +5970,7 @@
 		"portuguese": "Seu estudioso já ficou sem cristais no meio de algumas análises importantes? Certifique-se de que a pesquisa possa progredir sem impedimentos criando um estoque de cristais. \n\nEsse estoque pode armazenar até %capacityCrystal% cristais.",
 		"chinese": "你的学者是否在研究某种重要的研究时用光水晶? 建造一个水晶存储的地方来确保研究顺利进行没有阻碍。\n\n 该存箱能够存储 %capacityCrystal% 水晶。",
 		"italian": "Il tuo studioso ha terminato i cristalli nel bel mezzo di un'importante analisi? Assicurati che la ricerca possa progredire senza ostacoli costruendo una scorta di cristalli.\n\nQuesta riserva può contenere fino a %capacityCrystal% cristalli.",
+		"japanese": "クリスタルを備蓄します。\n\n備蓄量%capacityCrystal%",
 	},
 	"stockpileTextile": {
 		"english": "Textiles Stockpile",
@@ -5967,6 +5981,7 @@
 		"portuguese": "Estoque de têxteis",
 		"italian": "Riserva di tessuti",
 		"polish": "Skład tekstyliów",
+		"japanese": "布地入れ",
 	},
 	"stockpileTextileDescription": {
 		"english": "Winter is a perfect time to do some tailoring, but you can't harvest frozen cotton. Use this shelf to store your cotton summer surplus as well as your wool and cloth.\n\nThis shelf can fit up to %capacityTextiles% textiles.",
@@ -5978,6 +5993,7 @@
 		//"chinese": "冬季是裁缝的好时机，但是你无法收获棉花。请使用这个来存储你夏季的存货。\n\n该存箱能够存储 %capacityTextiles% 棉花。",
 		"italian": "L'inverno è un momento perfetto per mettere in pratica un po' di sartoria, ma non è possibile raccogliere il cotone congelato. Utilizza questo scaffale per depositare il tuo surplus estivo, così come la lana e il tessuto.\n\nQuesto scaffale può contenere fino a %capacityTextiles% unità di tessuti.",
 		"portuguese": "O inverno é o momento perfeito para costurar, mas você não pode colher algodão congelado. Use esta prateleira para armazenar seu excedente de verão de algodão, bem como sua lã e tecido.\n\nEsta prateleira pode acomodar até %capacityTextiles% textile.",
+		"japanese": "コットン、ウール、布を備蓄します。\n\n備蓄量%capacityTextiles%",
 	},
 	"stockpileCoinSmall": {
 		"english": "Small Safe for Coins",
@@ -5989,6 +6005,7 @@
 		"portuguese": "Cofre pequeno para moedas",
 		"chinese": "小型硬币保险箱",
 		"italian": "Cassaforte piccola per monete",
+		"japanese": "小型の金庫",
 	},
 	"stockpileCoinSmallDescription": {
 		"english": "Did you ever feel like your treasures were not safe? As if a greedy thief could just walk in and take them? Protect your coins by hiding them away in this small but strong metal box!\n\nThis safe can hold up to %capacityCoins% coins.",
@@ -5999,6 +6016,7 @@
 		"portuguese": "Você já sentiu que seus tesouros não eram seguros? Como se um ladrão ganancioso pudesse entrar e pegá-los? Proteja suas moedas escondendo-as nesta pequena mas forte caixa de metal! \n\nEste cofre pode acomodar até %capacityCoins% moedas.",
 		"chinese": "你是否曾经觉得你的财产不够安全？好像轻易就能被小偷光顾？把硬币存放在这个坚固的保险箱里可以保护你的财产！\n\n该保险箱能够存储 %capacityCoins% 硬币。",
 		"italian": "Hai mai avuto la sensazione che i tuoi tesori non siano al sicuro? Come se un ladro avido potesse entrare e rubarli? Proteggi le tue monete nascondendole in questa piccola ma forte cassaforte di metallo!\n\nQuesta cassaforte può contenere fino a %capacityCoins% monete.",
+		"japanese": "大事な金庫です。\n\n収納量%capacityCoins%",
 	},
 	"stockpileCoinBig": {
 		"english": "Large Safe for Coins",
@@ -6010,6 +6028,7 @@
 		"portuguese": "Cofre grande para moedas",
 		"chinese": "大型硬币保险箱",
 		"italian": "Cassaforte grande per monete",
+		"japanese": "大型の金庫",
 	},
 	"stockpileCoinBigDescription": {
 		"english": "You have spent years accumulating your wealth so make sure it's locked away properly. This large safebox is made for those who possess treasures that just don't fit in any smaller safe anymore.\n\nThis safe can hold up to %capacityCoins% coins.",
@@ -6020,6 +6039,7 @@
 		"portuguese": "Você passou anos acumulando sua riqueza, portanto, verifique se ela está bem guardada. Este cofre grande é feito para aqueles que possuem tesouros que não cabem mais em nenhum cofre menor. \n\nEste cofre pode armazenar até %capacityCoins% moedas.",
 		"chinese": "你长时间积累的财富请确保安全的存放起来。这个大型保险箱是为了存放大量财富设计的，太适合存放于小的保险箱。\n\n该保险箱能够存储 %capacityCoins% 硬币。",
 		"italian": "Hai trascorso anni ad accumulare la tua ricchezza, perciò assicurati che sia al sicuro. Questa cassaforte grande è ideale per coloro che possiedono tesori che semplicemente non si adattano in qualsiasi cassaforte più piccola.\n\nQuesta cassaforte può contenere fino a %capacityCoins% monete.",
+		"japanese": "大事な金庫です。\n\n収納量%capacityCoins%",
 	},
 	"stockpileHealingPlant": {
 		"english": "Herbs Hanging Rack",
@@ -6031,6 +6051,7 @@
 		"portuguese": "Cremalheira de suspensão das ervas",
 		"chinese": "草药存架",
 		"italian": "",
+		"japanese": "薬草備蓄箱",
 	},
 	"stockpileHealingPlantDescription": {
 		"english": "Bring in the harvest and hang your healing plants on this rack to try. It was specifically designed to fit as much plants as possible on a small space.\n\nThis rack can fit up to %capacityHealingPlant% healing plants.",
@@ -6041,6 +6062,7 @@
 		"portuguese": "Traga a colheita e pendure suas plantas curativas nesta prateleira para tentar. Foi projetado especificamente para caber o máximo de plantas possível em um espaço pequeno. \n\nEste rack pode acomodar até %capacityHealingPlant% de plantas curativas.",
 		"chinese": "将你收获的治疗草药存放在这架子上。这是为了占地小存放更多的草药的设计。\n\n该存架能够存放 %capacityHealingPlant% 治疗草药。",
 		"italian": "Porta dentro il raccolto e appendi le piante curative su questa rastrelliera. È stata progettata specificamente per adattarsi a più piante possibili in piccoli spazi.\n\nQuestra rastrelliera può contenere fino a %capacityHealingPlant% piante curative.",
+		"japanese": "ヒーリングハーブを備蓄します。\n\n備蓄量%capacityHealingPlant%",
 	},
 	"stockpileBeer": {
 		"english": "Beer Barrel Storage",
@@ -6052,6 +6074,7 @@
 		"portuguese": "Armazenamento de barril de cerveja",
 		"chinese": "啤酒桶存架",
 		"italian": "Barile di deposito birra",
+		"japanese": "ビヤ樽貯蔵庫",
 	},
 	"stockpileBeerDescription": {
 		"english": "It's time for party! Make sure the party doesn't run dry by stocking up on beer first!\n\nThis shelf can fit up to %capacityBeer% beer.",
@@ -6062,6 +6085,7 @@
 		"portuguese": "Está na hora da festa! Certifique-se de que a festa não fique seca estocando cerveja primeiro! \n\nEsta prateleira pode acomodar até %capacityBeer% cerveja.",
 		"chinese": "是时候聚会啦！首先聚会要确保储存啤酒。确保不会'干喝'!\n\n该存架能够存放 %capacityBeer% 啤酒。",
 		"italian": "È tempo di festeggiamenti! Assicurati che la festa non si finisca facendo una bella scorta di birra!\n\nQuesto barile può contenere fino a %capacityBeer% birre.",
+		"japanese": "ビールを貯蔵します。\n\n貯蔵量%capacityBeer%",
 	},
 	"stockpileIronOre": {
 		"english": "Iron Ore Box",
@@ -6073,6 +6097,7 @@
 		"portuguese": "Caixa de Minério de Ferro",
 		"chinese": "铁矿存箱",
 		"italian": "Scatola ferro grezzo",
+		"japanese": "鉄鉱石備蓄箱",
 	},
 	"stockpileIronOreDescription": {
 		"english": "Simple, cheap, and effective: This iron ore box does not only do what it's supposed to, it also won last year's design price for it's simple, but functional design.\n\nThis box can hold up to %capacityIronOre% iron ore.",
@@ -6083,6 +6108,7 @@
 		"portuguese": "Simples, barato e eficaz: esta caixa de minério de ferro não apenas faz o que deveria, como também ganhou o preço do projeto do ano passado por seu design simples, mas funcional. \n\nEsta caixa pode conter até %capacityIronOre% minério de ferro.",
 		"chinese": "简单制作又实用: 这种存箱不仅实用，而且其制造建造、耗材便宜而获得去年的设计奖。\n\n该存箱能够存储 %capacityIronOre% 铁矿石。",
 		"italian": "Semplice, economica ed efficace: questa scatola per ferro grezzo non solo fa quello per cui è progettata, ma ha anche vinto il premio di progettazione dello scorso anno per il suo design semplice, ma funzionale.\n\nQuesta scatola può contenere fino a %capacityIronOre% unità di ferro grezzo.",
+		"japanese": "鉄鉱石を備蓄します。\n\n備蓄量%capacityIronOre%",
 	},
 	"stockpileRawFood": {
 		"english": "Raw Food Storage",
@@ -6094,6 +6120,7 @@
 		"portuguese": "Armazenamento de alimentos crus",
 		"chinese": "食材存箱",
 		"italian": "Riserva di cibo crudo",
+		"japanese": "食材貯蔵庫",
 	},
 	"stockpileRawFoodDescription": {
 		"english": "Full bellies make for happy faces. Food is one of the most important basic needs, so make sure your reserves are always stocked up.\n\nThis shelf can hold up to %capacityFoodRaw% raw food.",
@@ -6104,6 +6131,7 @@
 		"portuguese": "Barrigas cheias fazem caretas felizes. Os alimentos são uma das necessidades básicas mais importantes, portanto, verifique se suas reservas estão sempre estocadas. \n\nEsta prateleira pode armazenar até %capacityFoodRaw% de alimentos crus.",
 		"chinese": "吃得饱能使人高兴。食物是基本需求之一，因此请确保有足够的食物储备。\n\n该存箱能够存储 %capacityFoodRaw% 食材。",
 		"italian": "Le pance piene rendono i volti felici. Il cibo è uno dei bisogni di base più importanti, perciò assicurati che le riserve siano sempre rifornite.\n\nQuesto scaffale può contenere fino a %capacityFoodRaw% unità di cibo crudo.",
+		"japanese": "食材を貯蔵します。\n\n貯蔵量%capacityFoodRaw%",
 	},
 	"stockpileScroll": {
 		"english": "Storage Shelf for Scrolls",
@@ -6115,6 +6143,7 @@
 		"portuguese": "Prateleira de armazenamento para pergaminhos",
 		"chinese": "卷轴存架",
 		"italian": "Scaffale per pergamene",
+		"japanese": "スクロール保管庫",
 	},
 	"stockpileScrollDescription": {
 		"english": "The ancient knowledge inscribed on these fragile scrolls is very valuable. Make sure they are handled and stored with care and build a proper shelf for them.\n\nThis shelf can hold up to %capacityScroll% scrolls.",
@@ -6125,6 +6154,7 @@
 		"portuguese": "O conhecimento antigo inscrito nesses pergaminhos frágeis é muito valioso. Certifique-se de que eles sejam manuseados e armazenados com cuidado e construa uma prateleira adequada para eles. \n\nEsta prateleira pode conter até %capacityScroll% pergaminhos.",
 		"chinese": "这些易碎的卷轴上书写着非常有价值的古老知识。清确保小心的存放起来，并为它们建造一个架子。\n\n该存架能够存放 %capacityScroll% 卷轴。",
 		"italian": "L'antica conoscenza contenuta su queste fragli pergamene è molto preziosa. Assicurati che siano trattate e conservate con cura costruendo uno scaffale adatto ad esse.\n\nQuesto scaffale può contenere fino a%capacityScroll% pergamene.",
+		"japanese": "スクロールを保管します。\n\n保管量%capacityScroll%",
 	},
 
 
@@ -6143,6 +6173,7 @@
 		"chinese": "殖民船",
 		"italian": "Nave di migranti",
 		"polish": "Statek imigrantów",
+		"japanese": "移民船",
 	},
 	"boatTrader": {
 		"english": "Trader Ship",
@@ -6158,6 +6189,7 @@
 		"chinese": "交易船",
 		"italian": "Nave mercantile",
 		"polish": "Statek handlowy",
+		"japanese": "交易船",
 	},
 
 
@@ -6178,6 +6210,7 @@
 		"chinese": "工具架",
 		"italian": "Rastrelliera per strumenti",
 		"polish": "Regał na narzędzia",
+		"japanese": "道具保管庫",
 	},
 	"equipmentRackTool0Description": {
 		"english": "The ideal repository for tools that aren't in use at the moment.",
@@ -6192,6 +6225,7 @@
 		"korean": "도구를 보관하기에 딱. 지금은 아무도 사용하고 있지 않음.",
 		"chinese": "目前尚未可使用的工具存放架子",
 		"italian": "Il luogo ideale per riporre gli strumenti che non sono attualmente in uso.",
+		"japanese": "使わない道具はこの中にいれましょう。",
 	},
 	"equipmentRackWeapon0": {
 		"english": "Weapon Rack",
@@ -6207,6 +6241,7 @@
 		"chinese": "武器架",
 		"italian": "Rastrelliera per armi",
 		"polish": "Stojak na broń",
+		"japanese": "武器保管庫",
 	},
 	"equipmentRackWeapon0Description": {
 		"english": "The ideal repository for weapons that aren't in use at the moment.",
@@ -6221,6 +6256,7 @@
 		"korean": "무기를 보관하기에 딱. 지금은 아무도 사용하고 있지 않음.",
 		"chinese": "目前尚未可使用的工具存放架子",
 		"italian": "Il luogo ideale per riporre le armi che non sono attualmente in uso.",
+		"japanese": "使わない武器はここに置きましょう。",
 	},
 	"equipmentRackWeapon1": {
 		"english": "Weapon Display Case",
@@ -6236,6 +6272,7 @@
 		"chinese": "武器展示柜",
 		"italian": "Teca per armi",
 		"polish": "Gablotka do prezentowania broni",
+		"japanese": "武器展示棚",
 	},
 	"equipmentRackWeapon1Description": {
 		"english": "Extraordinary weapons can be showcased in this fancy weapon cabinet.",
@@ -6250,6 +6287,7 @@
 		"korean": "비범한 무기를 얻었다면 이 화려한 무기 전시대에 넣어 전시하세요.",
 		"chinese": "非凡的武器可以展示在这个武器柜。",
 		"italian": "In questa elegante teca puoi esporre le tue straordinarie armi.",
+		"japanese": "展示も兼ねる事ができます。",
 	},
 	"equipmentStandArmor0": {
 		"english": "Armor Stand",
@@ -6265,6 +6303,7 @@
 		"chinese": "盔甲架",
 		"italian": "Supporto per armature",
 		"polish": "Stojak na zbroję",
+		"japanese": "防具かけ",
 	},
 	"equipmentStandArmor0Description": {
 		"english": "The ideal repository for armor that isn't in use at the moment.",
@@ -6279,6 +6318,7 @@
 		"korean": "갑옷을 보관하기에 딱. 지금은 아무도 사용하고 있지 않음.",
 		"chinese": "目前尚未可使用的工具存放架子",
 		"italian": "Il luogo ideale per riporre le armature che non sono attualmente in uso.",
+		"japanese": "使わない防具はここにかけておきましょう。",
 	},
 	"equipmentStandClothes0": {
 		"english": "Clothes Stand",
@@ -6294,6 +6334,7 @@
 		"chinese": "衣架",
 		"italian": "Supporto per abiti",
 		"polish": "Wieszak na ubrania",
+		"japanese": "衣装かけ",
 	},
 	"equipmentStandClothes0Description": {
 		"english": "The ideal repository for clothes that aren't in use at the moment.",
@@ -6308,6 +6349,7 @@
 		"korean": "옷을 보관하기에 딱. 지금은 아무도 사용하고 있지 않음.",
 		"chinese": "目前尚未可使用的工具存放架子",
 		"italian": "Il luogo ideale per riporre gli abiti che non sono attualmente in uso.",
+		"japanese": "使わない衣装はここにかけておきましょう。",
 	},
 
 	// Beds

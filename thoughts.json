@@ -13,7 +13,7 @@
 		"chinese": "好心情",
 		"italian": "Buon presentimento",
 		"polish": "Czuje się dobrze",
-		"japanese": "機嫌がよい"
+		"japanese": "機嫌がよい",
 	},
 	"thoughtDesc_DebugGood": {
 		"english": "I'm just happy right now and I don't really know why.",
@@ -29,7 +29,7 @@
 		"chinese": "我现在很开心，我也不知道为什么。",
 		"italian": "Sono davvero felice in questo momento e non so davvero il perché.",
 		"polish": "Jestem teraz po prostu szczęśliw%yA% i naprawdę nie wiem dlaczego.",
-		"japanese": "理由はわかりませんが、なんだかとっても幸せな気持ちです。"
+		"japanese": "理由はわかりませんが、なんだかとっても幸せな気持ちです。",
 	},
 	"thoughtTitle_DebugBad": {
 		"english": "Bad Feeling",
@@ -45,7 +45,7 @@
 		"chinese": "坏心情",
 		"italian": "Brutto presentimento",
 		"polish": "Źle się czuję",
-		"japanese": "不機嫌"
+		"japanese": "不機嫌",
 	},
 	"thoughtDesc_DebugBad": {
 		"english": "I'm just sad right now and I don't really know why.",
@@ -61,7 +61,7 @@
 		"chinese": "我现在很难过，我也不知道为什么。",
 		"italian": "Sono davvero triste in questo momento e non so davvero il perché.",
 		"polish": "Jestem teraz po prostu przybit%yA% i naprawdę nie wiem dlaczego",
-		"japanese": "理由はわかりませんが、なんだか今はとても悲しい気持ちです。"
+		"japanese": "理由はわかりませんが、なんだか今はとても悲しい気持ちです。",
 	},
 	"thoughtTitle_MinorPain": {
 		"english": "Minor Pain",
@@ -77,6 +77,7 @@
 		"chinese": "轻微疼痛",
 		"italian": "Dolore lieve",
 		"polish": "Niewielki ból",
+		"japanese": "軽い痛み",
 	},
 	"thoughtDesc_MinorPain": {
 		"english": "Ouch. That hurts.",
@@ -92,6 +93,7 @@
 		"chinese": "哎哟，这好痛啊。",
 		"italian": "Ahi. Fa male.",
 		"polish": "Ała. To boli!",
+		"japanese": "いてて..。少しだけ痛みます。",
 	},
 	"thoughtTitle_MediumPain": {
 		"english": "Serious Pain",
@@ -107,6 +109,7 @@
 		"chinese": "剧烈疼痛",
 		"italian": "Dolore intenso",
 		"polish": "Umiarkowany ból",
+		"japanese": "深刻な痛み",
 	},
 	"thoughtDesc_MediumPain": {
 		"english": "Ow. That hurts pretty badly.",
@@ -122,6 +125,7 @@
 		"chinese": "啊，疼得好厉害啊。",
 		"italian": "Ahia. Fa molto male.",
 		"polish": "Ach, to bardzo boli",
+		"japanese": "うぅっ...とてつもなく痛いです。",
 	},
 	"thoughtTitle_ExtremePain": {
 		"english": "Extreme Pain",
@@ -137,6 +141,7 @@
 		"chinese": "极度疼痛",
 		"italian": "Dolore estremo",
 		"polish": "Okropny ból",
+		"japanese": "極度の痛み",
 	},
 	"thoughtDesc_ExtremePain": {
 		"english": "Ooohhh... This is unbearable!",
@@ -152,6 +157,7 @@
 		"chinese": "啊……难以忍受啊!",
 		"italian": "Ooohhh... è insopportabile!",
 		"polish": "Ooooch! Ten ból jest nie do zniesienia!",
+		"japanese": "うぐぐっ!!...たまらなく痛いです!!意識を保っているので精一杯です。",
 	},
 	"thoughtTitle_Hungry": {
 		"english": "Hungry",
@@ -167,6 +173,7 @@
 		"chinese": "饥饿",
 		"italian": "Affamat%OA%",
 		"polish": "Głód",
+		"japanese": "空腹",
 	},
 	"thoughtDesc_Hungry": {
 		"english": "Man... I haven't eaten in a while.",
@@ -182,6 +189,7 @@
 		"chinese": "天啊...我好久没吃东西了。",
 		"italian": "Cavolo... non mangio da un po'.",
 		"polish": "Reety.... Dawno nie jadłem.",
+		"japanese": "お腹が空きました。しばらく何も食べていません...",
 	},
 	"thoughtTitle_Exhausted": {
 		"english": "Exhausted",
@@ -197,6 +205,7 @@
 		"chinese": "疲惫",
 		"italian": "Esaust%OA%",
 		"polish": "Wyczerpanie",
+		"japanese": "疲労",
 	},
 	"thoughtDesc_Exhausted": {
 		"english": "It has been a long day... I just want to sleep right now.",
@@ -212,6 +221,7 @@
 		"chinese": "这漫长的一天…我现在只想睡觉。",
 		"italian": "È stata una lunga giornata... voglio solo dormire adesso.",
 		"polish": "To był długi dzień ... Teraz po prostu chcę tylko pospać.",
+		"japanese": "とても疲れました...今すぐにでも眠りたいです。",
 	},
 	"thoughtTitle_NewColony": {
 		"english": "New Colony",
@@ -227,6 +237,7 @@
 		"chinese": "新移民",
 		"italian": "Nuova colonia",
 		"polish": "Nowa Kolonia",
+		"japanese": "新しいコロニー",
 	},
 	"thoughtDesc_NewColony": {
 		"english": "A new beginning! Let's make ourselves at home here!",
@@ -242,6 +253,7 @@
 		"chinese": "一个新的开始!我们在这里就像在自己家一样!",
 		"italian": "Un nuovo inizio! Facciamo di questo luogo la nostra casa!",
 		"polish": "Nowy początek! Poczujmy się tutaj jak w domu!",
+		"japanese": "新しい生活のはじまりです。この場所が私たちの家です。居心地の良い場所にしましょう!",
 	},
 	"thoughtTitle_WellRested": {
 		"english": "Well Rested",
@@ -257,6 +269,7 @@
 		"chinese": "休息充沛 ",
 		"italian": "Ben riposat%OA%",
 		"polish": "Wypoczęty",
+		"japanese": "よく休みました",
 	},
 	"thoughtDesc_WellRested": {
 		"english": "Oh yes. There's nothing better than being able to sleep late in a comfortable bed.",
@@ -272,6 +285,7 @@
 		"chinese": "噢是的，没有什么比在舒适的床上睡懒觉更爽的了。",
 		"italian": "Oh, sì. Non c'è nulla di meglio che dormire fino a tardi in un comodo letto.",
 		"polish": "O tak. Nie ma nic lepszego niż spanie do późna w wygodnym łóżku.",
+		"japanese": "快適なベッドで十分に眠れることほど素晴らしいことはありません",
 	},
 	"thoughtTitle_SleptOnGround": {
 		"english": "Slept on Ground",
@@ -287,6 +301,7 @@
 		"chinese": "席地而睡",
 		"italian": "Dormito a terra",
 		"polish": "Spanie na podłodze",
+		"japanese": "地面で寝ました",
 	},
 	"thoughtDesc_SleptOnGround": {
 		"english": "Ugh. Why can't I sleep in a bed? Sleeping on the ground sucks.",
@@ -302,6 +317,7 @@
 		"chinese": "啊，为什么我不能睡在床上?睡在地上很不爽啊。",
 		"italian": "Bleah! Perché non posso dormire in un letto? Dormire per terra fa schifo.",
 		"polish": "Uch. Dlaczego nie mogę spać w łóżku? Spanie na ziemi jest do bani.",
+		"japanese": "うーん、どうしてベッドで寝られないの？地面で寝るのは合わないみたいです。身体中が痛いし背中がカチコチです。",
 	},
 	// when colonist doesn't die of old age, but other things like physical violoence or starvation
 	"thoughtTitle_ColonistDiedTooEarly": {
@@ -322,6 +338,7 @@
 		"korean": "개척자가 죽음",
 		"chinese": "殖民者英年早逝",
 		"polish": "Kolonista umarł za wcześnie",
+		"japanese": "コロニストは早死にしました",
 	},
 	"thoughtDesc_ColonistDiedTooEarly": {
 		"english": "My friend and fellow colonist died. Damn. I feel kind of empty now.",
@@ -337,6 +354,7 @@
 		"chinese": "我的殖民者朋友兼同伴去世了。该死,我现在觉得有点空虚了。",
 		"italian": "Il mio amico e concittadino colono è morto. Dannazione. Sento un vuoto adesso.",
 		"polish": "M%ójOja% przyjaciel i towarzysz zginął. Cholera. Czuję się teraz trochę pusty.",
+		"japanese": "私の友人と仲間のコロニストが亡くなりました。今は、とても悲しくて心にぽっかりと大きな穴が開いたようです。",
 	},
 	"thoughtTitle_ColonistDiedOfOldAge": {
 		"english": "Colonist Died of Old Age",
@@ -348,6 +366,7 @@
 		"chinese": "殖民者寿终正寝",
 		"italian": "Un colono è morto di vecchiaia",
 		"polish": "Kolonista umarł ze starości",
+		"japanese": "コロニストは寿命で亡くなりました",
 	},
 	"thoughtDesc_ColonistDiedOfOldAge": {
 		"english": "%firstName% has lived a long life but we all die sooner or later. We all can be happy to have had %himHer% around.",
@@ -359,6 +378,7 @@
 		"chinese": "付出了一生.终将会死去的...",
 		"italian": "%firstName% ha vissuto una lunga vita, ma prima o poi tutti dobbiamo morire. Siamo stati felici di averl%OA% avuto con noi.",
 		"polish": "%firstName% miał%nicA% długie życie, ale prędzej czy później wszyscy umieramy. Powinniśmy być szczęśliwi, że %onOna% jest w pobliżu.",
+		"japanese": "%firstName% は、長生きしましたが、遅かれ早かれ私たちも同じように皆死にます。ともに時間を過ごせたことを心から嬉しく思っています。",
 	},
 	"thoughtTitle_FightWon": {
 		"english": "Won a Fight",
@@ -374,6 +394,7 @@
 		"chinese": "战斗胜利",
 		"italian": "Scontro vinto",
 		"polish": "Wygrana walka",
+		"japanese": "戦いに勝利した",
 	},
 	"thoughtDesc_FightWon": {
 		"english": "Oh yeah! Feels good showing them who's boss!",
@@ -389,6 +410,7 @@
 		"chinese": "噢耶!让他们知道谁是大佬的感觉真爽!",
 		"italian": "Oh, sì! Vediamo chi comanda adesso!",
 		"polish": "O tak! Dobrze jest pokazać im, kto tu jest hardkorem!",
+		"japanese": "ふふふ!ここのボスが誰なのかを見せつけてやるのもいいですね!私たちの勝利です!!",
 	},
 	"thoughtTitle_FightLost": {
 		"english": "Lost a Fight",
@@ -404,6 +426,7 @@
 		"chinese": "战斗失败",
 		"italian": "Scontro perso",
 		"polish": "Przegrana walka",
+		"japanese": "戦いに敗北した",
 	},
 	"thoughtDesc_FightLost": {
 		"english": "I just got beaten up. I can't believe it. This is not only painful, but also humiliating.",
@@ -419,6 +442,7 @@
 		"chinese": "不敢相信刚刚我被打了一顿。这不仅很痛还很耻辱。",
 		"italian": "Ne ho prese a bizzeffe. Non ci posso credere. Non è solo doloroso, ma anche umiliante.",
 		"polish": "Zostałem pobity. Nie mogę w to uwierzyć... to jest nie tylko bolesne, ale i upokarzające!",
+		"japanese": "戦いに負けてしまいました。信じられません、これは苦痛であるだけでなくとても屈辱的です。",
 	},
 	"thoughtTitle_ColonistKilled": {
 		"english": "Killed Colonist",
@@ -434,6 +458,7 @@
 		"chinese": "击杀殖民",
 		"italian": "Colono ucciso",
 		"polish": "Zabójstwo",
+		"japanese": "コロニストを殺害",
 	},
 	"thoughtDesc_ColonistKilled": {
 		"english": "I just killed one of our own. How could I do that?!",
@@ -449,6 +474,7 @@
 		"chinese": "我刚刚杀了我们的殖民同伴。我为什么这么做?!",
 		"italian": "Ho appena ucciso uno dei nostri. Come ho potuto?!",
 		"polish": "Właśnie zamordował%emAm% jednego z naszych. Jak mogł%emAm% to zrobić?!",
+		"japanese": "私は、自分の仲間を殺してしまいました。一体、どうしたら...?",
 	},
 	"thoughtTitle_BlewOffSteam": {
 		"english": "Blew off Steam",
@@ -464,6 +490,7 @@
 		"chinese": "发泄心情 ",
 		"italian": "Sfogata",
 		"polish": "Spuszczenie pary",
+		"japanese": "欲求不満を解消",
 	},
 	"thoughtDesc_BlewOffSteam": {
 		"english": "Ah, it feels good to have let out all my frustration. Maybe life is not so bleak after all.",
@@ -479,6 +506,7 @@
 		"chinese": "啊，把我所有的沮丧都发泄出来感觉真好。也许生活并没有那么凄凉。",
 		"italian": "Ah, che bello aver sfogato tutta la mia frustrazione. Forse la vita non è poi così desolante dopotutto.",
 		"polish": "Ach, jak dobrze jest wyrzucić z siebie całą swoją frustrację. Może jednak życie nie jest takie ponure.",
+		"japanese": "ふぅー、欲求不満を解消できて、すっきりしました。結局のところ人生はそれほど暗いものではないのかもしれません。",
 	},
 	"thoughtTitle_LookingForwardToNewDay": {
 		"english": "Looking forward to a new day",
@@ -494,6 +522,7 @@
 		"chinese": "期待明天",
 		"italian": "Impaziente di un nuovo giorno",
 		"polish": "Po nocy zawsze nastaje dzień",
+		"japanese": "明日を楽しみにしています",
 	},
 	"thoughtDesc_LookingForwardToNewDay": {
 		"english": "I had a bad day recently, but I'm hopeful that it'll get better soon.",
@@ -509,6 +538,7 @@
 		"chinese": "我最近过得很糟糕，但我希望很快会好起来。",
 		"italian": "Ho avuto una giornataccia, spero che le cose andranno meglio.",
 		"polish": "Miał%emAm% ostatnio zły dzień, ale mam nadzieję, że wkrótce będzie lepiej.",
+		"japanese": "最近は、あまり良くないことばかりですが、そのうち良くなっていくことを願っています。",
 	},
 	"thoughtTitle_MyFurnitureDestroyed": {
 		"english": "Owned furniture has been destroyed",
@@ -524,6 +554,7 @@
 		"chinese": "家具被毁",
 		"italian": "Mobili di proprietà distrutti",
 		"polish": "Zniszczona własność",
+		"japanese": "所有している家具が破壊されました",
 	},
 	"thoughtDesc_MyFurnitureDestroyed": {
 		"english": "I had some pretty nice furniture in my bedroom, but somebody completely demolished it!",
@@ -539,6 +570,7 @@
 		"chinese": "我的卧室里有一些漂亮的家具，但是有人把它们全拆了!",
 		"italian": "Avevo dei bei mobili nella mia camera da letto, ma qualcuno li ha fatti a pezzi!",
 		"polish": "Miał%emAm% w sypialni całkiem niezłe meble, ale ktoś je całkowicie zdemolował!",
+		"japanese": "寝室には、かなり素敵な家具がいくつかありましたが、誰かがそれをめちゃくちゃに壊してしまいました!",
 	},
 	"thoughtTitle_InspirationOver": {
 		"english": "Inspiration over",
@@ -554,6 +586,7 @@
 		"chinese": "鼓舞人心",
 		"italian": "Ispirazione finita",
 		"polish": "Powrót do codzienności",
+		"japanese": "ひらめき",
 	},
 	"thoughtDesc_InspirationOver": {
 		"english": "I just spent a day in the best mood ever. Normal life seems just not as good in comparison.",
@@ -569,6 +602,7 @@
 		"chinese": "我刚刚以前所未有的好心情度过了一天。相比之下，平凡的生活似乎没有那么好。",
 		"italian": "Ho appena trascorso una giornata con il miglior umore di sempre. La vita normale non sembra essere altrettanto bella in confronto.",
 		"polish": "Dzisiaj był wspaniały dzień bo miał%emAm%% świetny nastrój. W porównaniu z nim normalne życie wydaje się po prostu nudne.",
+		"japanese": "私は、今までで最高の気分で一日を過ごしました。普段の生活と比較すると見劣りするほどです。やはり普段の生活はそれほど良くはないようです。,
 	},
 	"thoughtTitle_AteRawFood": {
 		"english": "Ate Raw Food",
@@ -584,6 +618,7 @@
 		"chinese": "茹毛饮血",
 		"italian": "Cibo crudo mangiato",
 		"polish": "Surowe jedzenie",
+		"japanese": "ローフードを食べた",
 	},
 	"thoughtDesc_AteRawFood": {
 		"english": "Eww! I can't stand raw food!",
@@ -599,6 +634,7 @@
 		"chinese": "噁!我受不了生的食物!",
 		"italian": "Puah! Non sopporto il cibo crudo!",
 		"polish": "Fuj! Nie znoszę surowego jedzenia!",
+		"japanese": "うっ...もうローフードは食べたくはありません。ちゃんとした料理が食べたいです。",
 	},
 	"thoughtTitle_AteCookedFood": {
 		"english": "Ate Cooked Food",
@@ -614,6 +650,7 @@
 		"chinese": "美味佳肴",
 		"italian": "Cibo cotto mangiato",
 		"polish": "Przygotowane jedzenie",
+		"japanese": "調理済みの食品を食べた",
 	},
 	"thoughtDesc_AteCookedFood": {
 		"english": "The food I just ate was delicious.",
@@ -629,6 +666,7 @@
 		"chinese": "我刚吃的食物很好吃。",
 		"italian": "Il cibo che ho appena mangiato era delizioso.",
 		"polish": "To co właśnie zjadłem było wyborne.",
+		"japanese": "調理したての食べ物は、とても美味しかったです!",
 	},
 	"thoughtTitle_Optimist": {
 		"english": "Optimistic",
@@ -644,6 +682,7 @@
 		"chinese": "乐观主义",
 		"italian": "Ottimista",
 		"polish": "Optymista",
+		"japanese": "楽観的",
 	},
 	"thoughtDesc_Optimist": {
 		"english": "I just think it will all work out great in the end.",
@@ -659,6 +698,7 @@
 		"chinese": "我只是觉得最后一切都会好起来的。",
 		"italian": "Penso che andrà tutto per il meglio.",
 		"polish": "Myślę, że w końcu wszystko dobrze się ułoży.",
+		"japanese": "なんだかんだあっても最終的には全てが、うまくいくと思っています。",
 	},
 	"thoughtTitle_Pessimist": {
 		"english": "Pessimistic",
@@ -674,6 +714,7 @@
 		"chinese": "悲观主义",
 		"italian": "Pessimista",
 		"polish": "Pesymista",
+		"japanese": "悲観的",
 	},
 	"thoughtDesc_Pessimist": {
 		"english": "Man, there is so much that could go wrong in the next couple of days...",
@@ -689,6 +730,7 @@
 		"chinese": "天哪，在接下来的几天里可能会出很多状况…",
 		"italian": "Cavolo, ci sono così tante cose che potrebbero non andare per il verso giusto nei prossimi giorni...",
 		"polish": "Ech, jest tak wiele rzeczy, które mogą się nie udać w ciągu najbliższych kilku dni ....",
+		"japanese": "あぁ...これからずっと不運な日々が続き、困難はさらに続くことでしょう。",
 	},
 	"thoughtTitle_YeahKilledSomeone": {
 		"english": "I killed someone!",
@@ -704,6 +746,7 @@
 		"chinese": "我杀了人 ",
 		"italian": "Ho ucciso qualcuno!",
 		"polish": "Zabiłem kogoś!",
+		"japanese": "誰かを殺した!",
 	},
 	"thoughtDesc_YeahKilledSomeone": {
 		"english": "Ha! I killed someone! Maybe I shouldn't tell the others, but I got such an adrenaline rush from this, it's great!",
@@ -719,6 +762,7 @@
 		"chinese": "哈!我杀了人!也许我不应该告诉其他人，但我的肾上腺素在激增，太棒了!",
 		"italian": "Ha! Ho ucciso qualcuno! Forse non dovrei dirlo agli altri, ma ho provato una grande scarica di adrenalina ed è stato grandioso!",
 		"polish": "Ha! Zabiłem kogoś! Może nie powinienem o tym mówić głośno, ale strasznie mnie to nakręciło, jest super!",
+		"japanese": "ハハッ!人を殺しました。人には打ち明けられませんが、アドレナリンが沸き上がってくるようです。素晴らしい感覚です。",
 	},
 	"thoughtTitle_PleasantConversation": {
 		"english": "Pleasant Conversation",

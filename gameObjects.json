@@ -6438,6 +6438,7 @@
 		"korean": "보기보단 편안합니다. 침대 주인은 마치 돌처럼 잘 거에요.",
 		"chinese": "看起来舒服多了。主人会睡得很安稳。",
 		"italian": "È più comodo di quanto sembri. Il proprietario dormirà come un sasso.",
+		"japanese": "見た目以上に快適です。ぐっすり寝る事ができます。",
 	},
 	"sleepingBag": {
 		"english": "Sleeping Bag",
@@ -6453,6 +6454,7 @@
 		"chinese": "睡袋",
 		"italian": "Sacco a pelo",
 		"polish": "Śpiwór",
+		"japanese": "寝袋",
 	},
 	"sleepingBagDescription": {
 		"english": "Keeps you warm at night.",
@@ -6468,6 +6470,7 @@
 		"chinese": "让你在晚上睡觉能保暖。",
 		"italian": "Ti tiene al caldo durante la notte.",
 		"polish": "Proste posłanie, które utrzyma ciepło w nocy.",
+		"japanese": "とりあえず最初に設置しましょう。何も無いより数倍ましです。",
 	},
 
 	// Graves
@@ -6487,6 +6490,7 @@
 		"chinese": "坟墓",
 		"italian": "Tomba",
 		"polish": "Grób",
+		"japanese": "墓",
 	},
 	"graveSimpleDescription": {
 		"english": "In the event of death, this is the simplest solution. Your enemies deserve no better than this for sure...",
@@ -6501,6 +6505,7 @@
 		"korean": "누군가 죽는다면, 이 무덤이 가장 간단한 해결책입니다. 물론 적들에게는 이 무덤보다 나은 게 없죠...",
 		"chinese": "一旦死了，这是最简单的解决方案。你的敌人肯定不会比这个更好…",
 		"italian": "In caso di morte, questa è la soluzione più semplice. I tuoi nemici non meritano nulla di meglio di questo, di sicuro...",
+		"japanese": "コロニストもいずれは亡くなります。生前の功績を称えて感謝しましょう。",
 	},
 	"graveWood": {
 		"english": "Grave with Wooden Cross",
@@ -6516,6 +6521,7 @@
 		"chinese": "十字架坟墓",
 		"italian": "Tomba con croce di legno",
 		"polish": "Grób z krzyżem",
+		"japanese": "十字架付き墓",
 	},
 	"graveWoodDescription": {
 		"english": "The wooden cross makes this grave look so much nicer already.",
@@ -6530,6 +6536,7 @@
 		"korean": "나무 십자가가 더해져 훨씬 멋진 무덤이 되었습니다.",
 		"chinese": "木制十字架使这座坟墓看起来已经好多了。",
 		"italian": "La croce di legno la rende già molto più bella.",
+		"japanese": "ちょっと立派な十字架付きです。",
 	},
 	"graveStone": {
 		"english": "Grave with Tombstone",
@@ -6545,6 +6552,7 @@
 		"chinese": "石碑坟墓",
 		"italian": "Tomba con lapide",
 		"polish": "Grób z nagrobkiem",
+		"japanese": "石碑付き墓",
 	},
 	"graveStoneDescription": {
 		"english": "This grave is worthy for your greatest warriors.",
@@ -6559,6 +6567,7 @@
 		"korean": "최고의 전사들이 묻힐 만한 무덤.",
 		"chinese": "这座坟墓配得上你们最伟大的战士。",
 		"italian": "Questa tomba è degna dei tuoi più grandi guerrieri.",
+		"japanese": "偉大な功績のあったコロニストに相応しい墓です。",
 	},
 
 	//statues
@@ -6578,6 +6587,7 @@
 		"chinese": "Founder雕像",
 		"italian": "Statua del fondatore",
 		"polish": "Posąg",
+		"japanese": "草創期の開拓者の像",
 	},
 	"statueFounderDescription": {
 		"english": "This statue honors the original Founders, which contributed to make this colony possible. Eternal thanks to them. May they always have food in winter!",
@@ -6592,6 +6602,7 @@
 		"korean": "최초의 개척자들을 기리기 위한 동상입니다. 이 정착지를 가능하도록 기여한 분들이죠. 그 분들께 끊임없는 감사를 전합니다. 그들에게는 겨울에 식량이 떨어지는 일이 없기를!",
 		"chinese": "这座雕像是为了纪念最初的建国者，他们为这个殖民地的建立做出了贡献。永远感谢他们。愿他们永远有食物过冬!",
 		"italian": "Questa statua onora i Fondatori originali che hanno contribuito a rendere possibile l'esistenza di questa colonia. Un eterno grazie a loro. Possano avere sempre cibo durante l'inverno!",
+		"japanese": "このコロニーを開拓した草創期のコロニスト。彼らへの感謝は尽きる事はない。永遠である。ここに彼らの名誉を称え像を建立します。",
 	},
 	// once the Founder's statue is built, it's dedicated to one of Founders' Fortune greatest supporters, so there name replaces %supporter% in these texts:
 	"statueFounderSupporter": {
@@ -6608,6 +6619,7 @@
 		"chinese": "伟大的%supporter%",
 		"italian": "%supporter%, l'Illustre",
 		"polish": "%supporter% Wspaniały",
+		"japanese": "偉大な%supporter%",
 	},
 	"statueFounderSupporterDescription": {
 		"english": "As one of the original Founders, %supporter% the Great contributed to make this colony possible.\n\nEternal thanks to %himHer%. May %heShe% always have food in winter!",
@@ -6622,6 +6634,7 @@
 		"korean": "최초의 개척자 중 한 명인 위대한 %supporter% 님은 이 정착지를 가능하게 해 주셨습니다.\n\n%heShe%에게 끊임없는 감사를 전합니다. %heShe%에게는 겨울에 식량이 떨어지는 일이 없기를!",
 		"chinese": "作为最初的创建者之一，这位伟大的%supporter%为这个殖民地做出了贡献。\n\n永远感谢%himHer%。愿%heShe%永远有食物过冬!",
 		"italian": "In qualità di uno dei Fondatori original, %supporter%, l'Illustre, ha contribuito a rendere possibile questa colonia.\n\nUn eterno grazie nei suoi confronti. Possa avere sempre cibo durante l'inverno!",
+		"japanese": "草創期のコロニストの一人である「偉大な%supporter%」の多大なる貢献によりコロニーの未来が拓かれました。我々もこれに続き未来へ飢える事無き様コロニーを発展させてまいります。",
 	},
 	"statueGoblin0": {
 		"english": "Statue of Kū the Strong",
@@ -6634,6 +6647,7 @@
 		"chinese": "强者Kū 雕像",
 		"dutch": "Standbeeld van Kū de Sterke",
 		"italian": "Statua di Kū, il Possente",
+		"japanese": "強きクーの像",
 	},
 	//TODO-korean: All 3 goblin statue descriptions have an additional sentence at the end. There is only 1 todo for all of them
 	//TODO-dutch: All 3 goblin statue descriptions have an additional sentence at the end. There is only 1 todo for all of them
@@ -6648,6 +6662,7 @@
 		"chinese": "这座雕像是 强者Kū。传说很久以前，正是他将这些岛屿的部落联合起来抵御海盗入侵。 直到今天，每个土著哥布林都知道他们的伟大指挥官的名字。",
 		"dutch": "Standbeeld vertoont Kū de Sterke. Legendes zeggen, dat hij het was die de stammen van het eiland verenigde om een piraten invasie af te slaan, lang geleden. Tot het heden, weet elke Tikigoblin de naam van hun grote commandant.",
 		"italian": "Questa statua rappresenta Kū, il Possente. Le leggende narrano che fu lui ad unire le tribù delle isole per combattere contro l'invasione dei pirati, molto tempo fa. Ad oggi, ogni Tikigoblin conosce il nome del suo grande comandante.\n\nCostruisci questa statua vicino ad un villaggio Tikigoblin e lo considereranno un regalo.",
+		"japanese": "ティキゴブリンに伝わる男性の強きクー。島の部族を団結させて海賊の侵入を撃退しました。すべてのティキゴブリンで彼の名前を知らない者はいません。ティキゴブリンの村の近くに建立すると友好の証となります。",
 	},
 	"statueGoblin1": {
 		"english": "Statue of Hina the Brave",
@@ -6660,6 +6675,7 @@
 		"chinese": "勇士希娜 雕像",
 		"dutch": "Standbeeld van Hina de Dappere",
 		"italian": "Statua di Hina, la Valorosa",
+		"japanese": "勇ましきヒナの像",
 	},
 	"statueGoblin1Description": {
 		"english": "As a role model for Tikigoblin women, Hina embodies courage, strength and wisdom. A long long time ago, she faced the danger of a vulcano eruption and thereby introduced the Tikigoblins to fire. Eternal thanks to her for light in the dark and hot meals in the cauldron!\n\nBuild this statue near a Tikigoblin village and they will consider it a present.",
@@ -6672,6 +6688,7 @@
 		"korean": "티키고블린 여성들의 롤모델이며, 용기와, 힘, 지혜를 상징합니다. 오래 오래 전, 화산 폭발의 위험을 직면했지만, 이를 극복하고 티키고블린에게 불을 다루는 방법을 알려주었습니다. 밤에도 빛을 밝혀주고 가마솥에 따끈한 식사를 가져다준 그녀에게 영원한 감사를.",
 		"chinese": "作为土著哥布林女性的榜样，希娜代表着了勇气、力量与智慧。很久很久以前，她面临着火山爆发的危险，给土著哥布林带来了火种。感谢她在黑暗中为我们带来光明，让大锅烹饪出热腾腾的饭菜!",
 		"italian": "Come modello per le donne Tikigoblin, Hina incarna coraggio, forza e saggezza. Molto tempo fa, affrontò la pericolosità di un'eruzione vulcanica e fu così che introdusse i Tikigoblin al fuoco. Un eterno grazie a lei per la luce dove regna il buio e per i pasti caldi dal calderone!\n\nCostruisci questa statua vicino a un villaggio di Tikigoblin e lo considereranno un regalo.",
+		"japanese": "ティキゴブリンに伝わる女性の勇ましきヒナ。自然災害により疲弊したティキゴブリンへ諦めない希望を与えました。今では女性の模範とする姿となっています。ティキゴブリンの村の近くに建立すると友好の証となります。",
 	},
 	"statueGoblin2": {
 		"english": "Statue of Wākea the Just",

@@ -16,6 +16,7 @@
 		"italian": "Lavorazione del legno",
 		"polish": "Stolarstwo",
 		"czech": "Zpracování dřeva",
+		"japanese": "木工", 
 	},
 	"tech_farming": {
 		"english": "Farming",
@@ -33,6 +34,7 @@
 		"italian": "Coltivazione",
 		"polish": "Rolnictwo",
 		"czech": "Farmaření",
+		"japanese": "農業", 
 	},
 
 	// Tier II
@@ -52,6 +54,7 @@
 		"italian": "Armamento",
 		"polish": "Prodekcja broni",
 		"czech": "Zbraně",
+		"japanese": "武器", 
 	},
 	"tech_architectureI": {
 		"english": "Architecture I",
@@ -69,6 +72,7 @@
 		"italian": "Architettura I",
 		"polish": "Architektura I",
 		"czech": "Architektura I",
+		"japanese": "建築 I", 
 	},
 	"tech_masonry": {
 		"english": "Masonry",
@@ -86,6 +90,7 @@
 		"italian": "Muratura",
 		"polish": "Kamieniarstwo",
 		"czech": "Kamenictví",
+		"japanese": "石工", 
 	},
 	"tech_furnitureI": {
 		"english": "Furniture I",
@@ -103,6 +108,7 @@
 		"italian": "Arredamento I",
 		"polish": "Meblarstwo I",
 		"czech": "Nábytek I",
+		"japanese": "家具 I", 
 	},
 	"tech_gardening": {
 		"english": "Gardening",
@@ -120,6 +126,7 @@
 		"italian": "Giardinaggio",
 		"polish": "Ogrodnictwo",
 		"czech": "Zahradničení",
+		"japanese": "園芸", 
 	},
 	"tech_writing": {
 		"english": "Writing",
@@ -137,6 +144,7 @@
 		"italian": "Scrittura",
 		"polish": "Pisarstwo",
 		"czech": "Psaní",
+		"japanese": "執筆", 
 	},
 
 	// Tier III
@@ -156,6 +164,7 @@
 		"italian": "Armi a distanza",
 		"polish": "Broń dystansowa",
 		"czech": "Zbraně na dálku",
+		"japanese": "遠隔武器", 
 	},
 	"tech_architectureII": {
 		"english": "Architecture II",
@@ -173,6 +182,7 @@
 		"italian": "Architettura II",
 		"polish": "Architektura II",
 		"czech": "Architektura II",
+		"japanese": "建築 II", 
 	},
 	"tech_furnitureII": {
 		"english": "Furniture II",
@@ -190,6 +200,7 @@
 		"italian": "Arredamento II",
 		"polish": "Meblarstwo II",
 		"czech": "Nábytek II",
+		"japanese": "家具 II", 
 	},
 	"tech_stoneWeapons": {
 		"english": "Stone Weapons",
@@ -207,6 +218,7 @@
 		"italian": "Armi di pietra",
 		"polish": "Kamienne bronie",
 		"czech": "Kamenné zbraně",
+		"japanese": "石の武器", 
 	},
 	"tech_stoneFurniture": {
 		"english": "Stone Furniture",
@@ -224,6 +236,7 @@
 		"italian": "Mobili di pietra",
 		"polish": "Kamienne meble",
 		"czech": "Kamenný nábytek",
+		"japanese": "石の家具", 
 	},
 	"tech_decoration": {
 		"english": "Decoration",
@@ -241,6 +254,7 @@
 		"italian": "Decorazione",
 		"polish": "Dekorowanie",
 		"czech": "Dekorace",
+		"japanese": "装飾", 
 	},
 	"tech_watering": { // "irrigation" was too modern and too uncommon. "Watering" is more fitting for unlocking a well.
 		"english": "Watering",
@@ -258,6 +272,7 @@
 		"italian": "Innaffiameno",
 		"polish": "Nawadnianie",
 		"czech": "Zavlažování",
+		"japanese": "水やり", 
 	},
 	"tech_medicine": {
 		"english": "Basic Medicine",
@@ -275,6 +290,7 @@
 		"italian": "Medicina di base",
 		"polish": "Podstawy medecyny",
 		"czech": "Základy medicíny",
+		"japanese": "水やり", 
 	},
 	"tech_brewery": {
 		"english": "Brewery",
@@ -292,6 +308,8 @@
 		"italian": "Birreria",
 		"polish": "Warzelnictwo",
 		"czech": "Pivovarnictví",
+		"japanese": "醸造所", 
+		
 	},
 
 	// Tier IV
@@ -311,6 +329,7 @@
 		"italian": "Torri",
 		"polish": "Budowa wierz",
 		"czech": "Veže",
+		"japanese": "塔", 
 	},
 	"tech_furnitureIII": {
 		"english": "Furniture III",
@@ -328,6 +347,7 @@
 		"italian": "Arredamento III",
 		"polish": "Meblarstwo III",
 		"czech": "Nábytek III",
+		"japanese": "家具 III", 
 	},
 	"tech_tailoring": {
 		"english": "Tailoring",
@@ -345,6 +365,7 @@
 		"italian": "Sartoria",
 		"polish": "Krawiectwo",
 		"czech": "Krejčovství",
+		"japanese": "仕立て", 
 	},
 	"tech_advancedTailoring": {
 		"english": "Advanced Tailoring",
@@ -362,6 +383,7 @@
 		"italian": "Sartoria avanzata",
 		"polish": "Zaawansowane krawiectwo",
 		"czech": "Pokročilé krejčovství",
+		"japanese": "上級な仕立て", 
 	},
 	"tech_advancedCooking": {
 		"english": "Advanced Cooking",
@@ -379,6 +401,7 @@
 		"italian": "Cucina avanzata",
 		"polish": "Zaawansowane gotowanie",
 		"czech": "Pokročilé vaření",
+		"japanese": "上級料理", 
 	},
 	"tech_alchemy": {
 		"english": "Alchemy",
@@ -396,6 +419,7 @@
 		"italian": "Alchimia",
 		"polish": "Alchemia",
 		"czech": "Alchimie",
+		"japanese": "錬金術", 
 	},
 
 	// Tier V
@@ -415,6 +439,7 @@
 		"italian": "Torri di guardia rinforzate",
 		"polish": "Budowa warowni",
 		"czech": "Silné věže",
+		"japanese": "強固な監視塔", 
 	},
 	"tech_forging": {
 		"english": "Forging",
@@ -432,6 +457,7 @@
 		"italian": "Forgiatura",
 		"polish": "Kowalstwo",
 		"czech": "Kovářství",
+		"japanese": "鍛造", 
 	},
 	"tech_weaponForging": {
 		"english": "Weapon Forging",
@@ -449,6 +475,7 @@
 		"italian": "Forgiatura di armi",
 		"polish": "Wykuwanie broni",
 		"czech": "Kování zbraní",
+		"japanese": "武器鍛造", 
 	},
 	"tech_armorForging": {
 		"english": "Armor Forging",
@@ -466,6 +493,7 @@
 		"italian": "Forgiatura di armature",
 		"polish": "Wykuwanie zbroi",
 		"czech": "Kování brnění",
+		"japanese": "防具鍛造", 
 	},
 	"tech_grainProcessing": {
 		"english": "Grain Processing",
@@ -483,6 +511,7 @@
 		"italian": "Lavorazione del grano",
 		"polish": "Przetwarzanie ziarna",
 		"czech": "Zpracování zrna",
+		"japanese": "穀物加工", 
 	},
 	"tech_shipBuilding": {
 		"english": "Ship Building",
@@ -491,5 +520,6 @@
 		"spanish": "Construcción Naval",
 		"polish": "Budowanie statków",
 		"portuguese": "Construção de Navios",
+		"japanese": "造船", 
 	},
 }

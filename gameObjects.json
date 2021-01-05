@@ -1981,7 +1981,7 @@
 		"chinese": "木制箱子",
 		"italian": "Baule di legno semplice",
 		"polish": "Prosta drewniana skrzynia",
-		"japanese": "簡素な木の宝箱",
+		"japanese": "簡素な宝箱",
 	},
 	"chest0Description": {
 		"english": "Solid and reliable. This chest is a great way to make your home look more homely.",
@@ -2012,7 +2012,7 @@
 		"chinese": "金属箱子",
 		"italian": "Baule pesante di metallo",
 		"polish": "Żelazna skrzynia",
-		"japanese": "金属の金庫",
+		"japanese": "宝箱",
 	},
 	"chest1Description": {
 		"english": "Solid, reliable, and good looking. This chest is a great way to make your home look more homely.",
@@ -2027,7 +2027,7 @@
 		"korean": "튼튼하고, 안심할 수 있고, 멋집니다. 이 상자가 있으면 집이 집 다워지는 느낌이에요.",
 		"chinese": "结实牢固又美观。这个箱子让你的家看起来更有家的感觉。",
 		"italian": "Solido, affidabile e di bell'aspetto. Questo baule è un ottimo per rendere la tua casa più accogliente.",
-		"japanese": "金属できた金庫です。正に一家に一台です。",
+		"japanese": "きちんと作られた宝箱です。鍵も複雑になっています。",
 	},
 
 	// Storage
@@ -6016,7 +6016,7 @@
 		"portuguese": "Você já sentiu que seus tesouros não eram seguros? Como se um ladrão ganancioso pudesse entrar e pegá-los? Proteja suas moedas escondendo-as nesta pequena mas forte caixa de metal! \n\nEste cofre pode acomodar até %capacityCoins% moedas.",
 		"chinese": "你是否曾经觉得你的财产不够安全？好像轻易就能被小偷光顾？把硬币存放在这个坚固的保险箱里可以保护你的财产！\n\n该保险箱能够存储 %capacityCoins% 硬币。",
 		"italian": "Hai mai avuto la sensazione che i tuoi tesori non siano al sicuro? Come se un ladro avido potesse entrare e rubarli? Proteggi le tue monete nascondendole in questa piccola ma forte cassaforte di metallo!\n\nQuesta cassaforte può contenere fino a %capacityCoins% monete.",
-		"japanese": "大事な金庫です。\n\n収納量%capacityCoins%",
+		"japanese": "小型の金庫です。大事なコインを収納するために必要です。\n\n収納量%capacityCoins%",
 	},
 	"stockpileCoinBig": {
 		"english": "Large Safe for Coins",
@@ -6039,7 +6039,7 @@
 		"portuguese": "Você passou anos acumulando sua riqueza, portanto, verifique se ela está bem guardada. Este cofre grande é feito para aqueles que possuem tesouros que não cabem mais em nenhum cofre menor. \n\nEste cofre pode armazenar até %capacityCoins% moedas.",
 		"chinese": "你长时间积累的财富请确保安全的存放起来。这个大型保险箱是为了存放大量财富设计的，太适合存放于小的保险箱。\n\n该保险箱能够存储 %capacityCoins% 硬币。",
 		"italian": "Hai trascorso anni ad accumulare la tua ricchezza, perciò assicurati che sia al sicuro. Questa cassaforte grande è ideale per coloro che possiedono tesori che semplicemente non si adattano in qualsiasi cassaforte più piccola.\n\nQuesta cassaforte può contenere fino a %capacityCoins% monete.",
-		"japanese": "大事な金庫です。\n\n収納量%capacityCoins%",
+		"japanese": "大型の金庫です。大事なコインを収納するために必要です。\n\n収納量%capacityCoins%",
 	},
 	"stockpileHealingPlant": {
 		"english": "Herbs Hanging Rack",
@@ -6097,7 +6097,7 @@
 		"portuguese": "Caixa de Minério de Ferro",
 		"chinese": "铁矿存箱",
 		"italian": "Scatola ferro grezzo",
-		"japanese": "鉄鉱石備蓄箱",
+		"japanese": "鉄鉱石置き場",
 	},
 	"stockpileIronOreDescription": {
 		"english": "Simple, cheap, and effective: This iron ore box does not only do what it's supposed to, it also won last year's design price for it's simple, but functional design.\n\nThis box can hold up to %capacityIronOre% iron ore.",
@@ -7075,6 +7075,7 @@
 		"korean": "이 우아한 횃불로 밤에도 당신의 집을 밝히세요.",
 		"chinese": "晚上用这款时尚的壁灯照亮你的家。",
 		"italian": "Usa questa torcia elegante per illuminare la tua casa durante la notte.",
+		"japanese": "壁に取り付けるたいまつです。家の壁に取り付けましょう。",
 	},
 	"lightWallTorch3": {
 		"english": "Ornamented Torch on Wall",
@@ -7090,6 +7091,7 @@
 		"chinese": "装饰壁灯",
 		"italian": "Torcia ornata da muro",
 		"polish": "Zdobiona pochodnia naścienna",
+		"japanese": "たいまつ",
 	},
 	"lightWallTorch3Description": {
 		"english": "Use this stylish torch to light your home at night.",
@@ -7104,6 +7106,7 @@
 		"korean": "이 우아한 횃불로 밤에도 당신의 집을 밝히세요.",
 		"chinese": "晚上用这款时尚的壁灯照亮你的家。",
 		"italian": "Usa questa torcia elegante per illuminare la tua casa durante la notte.",
+		"japanese": "壁に取り付けるたいまつです。装飾付きです。家の壁に取り付けましょう。",
 	},
 	"lightWallTorch4": {
 		"english": "Iron Torch on Wall",
@@ -7119,6 +7122,7 @@
 		"chinese": "铁制壁灯",
 		"italian": "Torcia di ferro da muro",
 		"polish": "Żelazna pochodnia",
+		"japanese": "たいまつ",
 	},
 	"lightWallTorch4Description": {
 		"english": "Use this stylish torch to light your home at night.",
@@ -7133,6 +7137,7 @@
 		"korean": "이 우아한 횃불로 밤에도 당신의 집을 밝히세요.",
 		"chinese": "晚上用这款时尚的壁灯照亮你的家。",
 		"italian": "Usa questa torcia elegante per illuminare la tua casa durante la notte.",
+		"japanese": "壁に取り付けるたいまつです。装飾付きです。家の壁に取り付けましょう。",
 	},
 
 	// Stairs
@@ -7147,6 +7152,7 @@
 		"portuguese": "Escadas de má qualidade",
 		"chinese": "简陋楼梯",
 		"italian": "Scale scadenti",
+		"japanese": "簡素な階段",
 	},
 	"stairs0Description": {
 		"english": "These stairs were put together quickly and without putting too much thought into it. No guarantees that they can actually hold the weight of a villager after they had some cake.",
@@ -7157,6 +7163,7 @@
 		"portuguese": "Essas escadas foram montadas rapidamente e sem muita reflexão. Não há garantias de que eles possam realmente suportar o peso de um morador depois de comer um bolo.",
 		"chinese": "这些楼梯被快速地组装在一起，而无需花费太多的心思。不能保证它们在吃完蛋糕后能否支撑起殖民者的体重。",
 		"italian": "Queste scale sono state messe insieme rapidamente e senza pensarci troppo. Non ci sono garanzie che possano reggere il peso di un abitante dopo che ha mangiato un po' di torta.",
+		"japanese": "あまり考えずに適当に作られた階段です。あまりにも適当なため体重が重いコロニストは使わない方が無難です。",
 	},
 	"stairs1": {
 		"english": "Decent Stairs",
@@ -7168,6 +7175,7 @@
 		"portuguese": "Escadas decentes",
 		"chinese": "体面楼梯",
 		"italian": "Scale decenti",
+		"japanese": "階段",
 	},
 	"stairs1Description": {
 		"english": "Not exactly the peak of craftsmanship, but they do their job. Build these stairs when your villagers deserve something nice, but you actually can't afford something nice.",
@@ -7178,6 +7186,7 @@
 		"portuguese": "Não é exatamente o pico do artesanato, mas eles fazem o seu trabalho. Construa essas escadas quando seus moradores merecem algo de bom, mas na verdade você não pode pagar por algo de bom.",
 		"chinese": "没有达到工艺的巅峰，但他们会尽自己的本分。当您的殖民者觉得配置一些不错的装饰，但您实际上买不起的东西时，请盖上楼梯。",
 		"italian": "Non proprio il massimo dell'artigianalità, ma fanno il loro lavoro. Costruisci queste scale quando gli abitanti meritano qualcosa di buono, ma in realtà non puoi permettertelo.",
+		"japanese": "きちんと作られた階段です。職人技の基本がしっかりと見受けられる階段です。できる限りこの階段を使いたいものです。",
 	},
 	"stairs2": {
 		"english": "Powerful Stairs",
@@ -7189,6 +7198,7 @@
 		"portuguese": "Poderosas escadas",
 		"chinese": "坚固楼梯",
 		"italian": "Scale poderose",
+		"japanese": "上質な階段",
 	},
 	"stairs2Description": {
 		"english": "If you took the word \"sturdy\" and made it into stairs, you'd end up with these. The Powerful Stairs are made using high quality wood, precise craftsmanship and a strong design to deliver a great taking-the-stairs-experience.",
@@ -7199,6 +7209,7 @@
 		"portuguese": "Se você pegasse a palavra \"resistente\" e subisse as escadas, acabaria com elas. As poderosas escadas são feitas com madeira de alta qualidade, artesanato preciso e um design robusto para proporcionar uma ótima experiência de subir escadas.",
 		"chinese": "如果您将\"坚固\"一词用到楼梯上，您将得到这个。坚固楼梯采用优质木材，精确的工艺和坚固的设计制成，可带来出色的效果 -造楼梯的经验。",
 		"italian": "Se tu prendessi la parola \"robusto\" e la trasformassi in scale, finiresti con queste. Le poderose scale sono realizzate con legno di alta qualità, artigianato preciso e un design robusto per offrire una grande esperienza durante la salita.",
+		"japanese": "木材も選別され更にきちんと作られた階段です。職人技がしっかりと見受けられる階段です。",
 	},
 	"stairs3": {
 		"english": "Royal Stairs",
@@ -7210,6 +7221,7 @@
 		"portuguese": "Escadas Reais",
 		"chinese": "皇家楼梯",
 		"italian": "Scale reali",
+		"japanese": "高級な階段",
 	},
 	"stairs3Description": {
 		"english": "Extravagant and only meant for the feet of the most respectable of villagers - these stairs exude effortless luxury. Impress friend and foe by taking them on a walk up the most expensive stairs they have ever seen.",
@@ -7220,6 +7232,7 @@
 		"portuguese": "Extravagantes e destinadas apenas aos pés dos moradores mais respeitáveis - essas escadas exalam luxo sem esforço. Impressione amigos e inimigos, levando-os a caminhar pelas escadas mais caras que já viram.",
 		"chinese": "很奢侈，只适合最受尊敬的殖民者的脚步-这些楼梯散发出毫不费力的奢华。通过走上他们有史以来最昂贵的楼梯，打动朋友和敌人。",
 		"italian": "Stravaganti e pensate solo per i piedi dei più rispettabili abitanti, queste scale trasudano semplicemente lusso. Impressiona un amico o un nemico invitandolo ad una passeggiata sulle scale più costose che abbiano mai visto.",
+		"japanese": "信じられない職人技が随所にみられる贅を極めた階段です。芸術品の一つです。",
 	},
 
 

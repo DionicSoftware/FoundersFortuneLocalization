@@ -14,6 +14,7 @@
 		"arabic": "%amount% %resource%",
 		"italian": "%amount% %resource%",
 		"polish": "%amount% %resource%",
+		"japanese": "%amount% %resource%",
 	},
 	"resourceName_FoodRaw": {
 		"english": "Raw Food",
@@ -30,6 +31,7 @@
 		"arabic": "ﺥﻮﺒﻄﻣ ﺮﻴﻏ ﻡﺎﻌﻃ",
 		"italian": "Cibo crudo",
 		"polish": "Surowa żywność",
+		"japanese": "食材",
 	},
 	"resourceName_Food": {
 		"english": "Food",
@@ -46,6 +48,7 @@
 		"arabic": "ﻡﺎﻌﻃ",
 		"italian": "Cibo",
 		"polish": "Żywność",
+		"japanese": "食べ物",
 	},
 	"resourceDescription_FoodRaw": {
 		"english": "Your colonists need food to survive. Every type you gather is raw at first and can be cooked.",
@@ -62,6 +65,7 @@
 		"arabic": ".ﻪﻴﻬﻃ ﻦﻜﻤﻳﻭ ﺔﻳﺍﺪﺒﻟﺍ ﻲﻓ ﺥﻮﺒﻄﻣ ﺮﻴﻏ ﻥﻮﻜﻳ ﻪﻌﻤﺠﺑ ﻡﻮﻘﺗ ﻉﻮﻧ ﻞﻛ .ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﺀﺎﻘﺒﻠﻟ ﻡﺎﻌﻄﻟﺍ ﻰﻟﺇ ﻚﻳﺪﻟ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﺝﺎﺘﺤﻳ",
 		"italian": "I tuoi coloni hanno bisogno di cibo per sopravvivere. Ogni tipologia di cibo che raccogli è cruda e può essere cucinata.",
 		"polish": "Twoi koloniści potrzebują pożywienia. Każdy rodzaj zebranego jedzenia jest surowy i może zostać przyrządzony.",
+		"japanese": "生存には食べ物が必要です。貴方が集める食べ物は食材ですが、調理する事もできます。",
 	},
 	"resourceName_Apple": {
 		"english": "Apple",
@@ -78,6 +82,7 @@
 		"arabic": "ﺡﺎﻔﺗ",
 		"italian": "Mela",
 		"polish": "Jabłka",
+		"japanese": "リンゴ",
 	},
 	"resourceDescription_Apple": {
 		"english": "Apples have always been one of the most popular treats. Except for winter, they grow throughout the entire year and can be used to cook very tasty dishes.",
@@ -106,6 +111,7 @@
 		"arabic": "ﻢﻃﺎﻤﻃ",
 		"italian": "Pomodoro",
 		"polish": "Pomidory",
+		"japanese": "トマト",
 	},
 	"resourceDescription_Tomato": {
 		"english": "It doesn't matter if you eat tomatoes raw or as part of a fancy meal. They always taste good!. ",
@@ -134,6 +140,7 @@
 		"arabic": "ﻦﻴﻄﻘﻳ",
 		"italian": "Zucca",
 		"polish": "Dynie",
+		"japanese": "かぼちゃ",
 	},
 	"resourceDescription_Pumpkin": {
 		"english": " ",
@@ -162,6 +169,7 @@
 		"arabic": "ﺲﻃﺎﻄﺑ",
 		"italian": "Patata",
 		"polish": "Ziemniaki",
+		"japanese": "じゃがいも",
 	},
 	"resourceDescription_Potato": {
 		"english": "Potatoes are often served as a side to various dishes. Some settlers even view them as staple food.",
@@ -190,6 +198,7 @@
 		"arabic": "ﺔﻟﻭﺍﺮﻓ",
 		"italian": "Fragola",
 		"polish": "Truskawki",
+		"japanese": "イチゴ",
 	},
 	"resourceDescription_Strawberry": {
 		"english": "As these tiny sweet berries only grow during spring, most colonists view it as delicacy and can't get enough of them.",
@@ -218,6 +227,7 @@
 		"arabic": "ﺢﻤﻗ",
 		"italian": "Grano",
 		"polish": "Pszenica",
+		"japanese": "麦",
 	},
 	"resourceDescription_Wheat": {
 		"english": "Unprocessed wheat might be unpalatable, but it is essential when it comes to making baked goods!",
@@ -240,6 +250,7 @@
 		"russian": "Сырое мясо",
 		"portuguese": "Carne crua",
 		"polish": "Surowe mięso",
+		"japanese": "生肉",
 	},
 	"resourceName_Milk": {
 		"english": "Milk",
@@ -250,6 +261,7 @@
 		"russian": "Молоко",
 		"portuguese": "Leite",
 		"polish": "Mleko",
+		"japanese": "ミルク",
 	},
 	"resourceName_FoodCooked": {
 		"english": "Cooked Food",
@@ -266,6 +278,7 @@
 		"arabic": "ﺥﻮﺒﻄﻣ ﻡﺎﻌﻃ",
 		"italian": "Cibo cotto",
 		"polish": "Przyrządzona żywność",
+		"japanese": "料理",
 	},
 	"resourceDescription_FoodCooked": {
 		"english": "A colonist will take cooked food over raw food every time. Colonists get happy thoughts from eating cooked food.",
@@ -281,6 +294,7 @@
 		"korean": "개척자들은 언제나 과일과 채소보다는 조리된 음식을 먼저 먹습니다. 개척자들은 조리된 음식을 먹으며 행복한 상상을 합니다.",
 		"arabic": ".ﺥﻮﺒﻄﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻝﻭﺎﻨﺗ ﻦﻣ ﺓﺪﻴﻌﺳ ﺭﺎﻜﻓﺃ ﻰﻠﻋ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﺼﺤﻳ .ﺥﻮﺒﻄﻤﻟﺍ ﺮﻴﻏ ﻰﻠﻋ ﺥﻮﺒﻄﻤﻟﺍ ﻡﺎﻌﻄﻟﺍ ﻥﻭﺮﻤﻌﺘﺴﻤﻟﺍ ﻞﻀﻔﻳ",
 		"italian": "I coloni preferiranno i cibi cotti a quelli crudi. Ogni volta che mangiano del cibo cotto, i loro pensieri diventano felici.",
+		"japanese": "コロニストは食材より料理を好みます。料理を食べる事で心情も上がる事でしょう。",
 	},
 	"resourceName_FoodRawEdible": {
 		"english": "Edible Raw Food",

@@ -7409,6 +7409,7 @@
 		"italian": "Porta rotonda da castello",
 		"chinese": "拱形城堡门",
 		"polish": "Zamkowe drzwi łukowe",
+		"japanese": "城の扉",
 	},
 	"doorStoneRoundDescription": {
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -7427,7 +7428,7 @@
 		"korean": "개척자들이 드나들 수 있게 해 주면서, 달갑지 않은 손님은 (대부분) 밖에 있게 해 줍니다.",
 		"chinese": "您想得到安全的保护，不是吗？ 没有像这样的坚固的门，靠城堡的墙也是没有用的。",
 		"italian": "Stai cercando quel po' di sicurezza in più, non è vero? Le mura del castello sono inutili senza una porta forte come questa.",
-		"japanese": "石も使う頑丈な扉です。城壁に似合います。",
+		"japanese": "石も使う頑丈な扉です。城に似合います。",
 	},
 
 
@@ -7469,7 +7470,7 @@
 		"italian": "Cancello coperto da palizzata",
 		"chinese": "屋顶木栅栏门",
 		"polish": "Brama palisady z zadaszeniem",
-		"japanese": "屋根付き丸太の門",
+		"japanese": "屋根付きの丸太の門",
 	},
 	"palisadeGateDescription": {
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
@@ -7616,7 +7617,7 @@
 		"dutch": "Dit raam laat meer naar binnen dan alleen zonlicht. Het is uiteindelijk eigenlijk gewoon een gat in de muur.",
 		"chinese": "这扇窗户不只是让我们沐浴阳光。它基本上只是墙上的一个洞而已……",
 		"italian": "Questa finestra farà entrare molto più di semplice luce solare. Dopotutto, è solo un buco nel muro...",
-		"japanese": "簡単に作られた窓です。",
+		"japanese": "簡単に作られた窓です。開ける事ができません。",
 	},
 	"windowWood1": {
 		"english": "Wooden Window",
@@ -7647,6 +7648,7 @@
 		"korean": "세계에 도사린 위험과 마주하지 않고도 밖을 볼 수 있게 해 줍니다.",
 		"chinese": "让你的殖民者向外看，不要让他们暴露在这个世界某处潜藏的危险之中。",
 		"italian": "Consente ai tuoi coloni di guardare all'esterno, senza che vengano esposti a pericoli celati da qualche parte in questo mondo.",
+		"japanese": "2枚窓です。これで開ける事ができます。風を取り入れましょう。",
 	},
 	"windowWood2": {
 		"english": "Wooden Window",
@@ -7677,6 +7679,7 @@
 		"korean": "세계에 도사린 위험과 마주하지 않고도 밖을 볼 수 있게 해 줍니다.",
 		"chinese": "让你的殖民者向外看，不要让他们暴露在这个世界某处潜藏的危险之中。",
 		"italian": "Consente ai tuoi coloni di guardare all'esterno, senza che vengano esposti a pericoli celati da qualche parte in questo mondo.",
+		"japanese": "しっかりとした窓になっています。ただ防犯が甘いです。",
 	},
 	"windowWood3": {
 		"english": "Advanced Wooden Window",
@@ -7707,6 +7710,7 @@
 		"korean": "색유리로 당신의 부를 과시하세요. 개척자들은 자신들이 특별하다고 느낄 겁니다.",
 		"chinese": "安装上彩色玻璃可以彰显你的财富，让你的殖民者感到荣幸。",
 		"italian": "Mostra la tua ricchezza sfoggiando vetri colorati e facendo sentire speciali i tuoi coloni.",
+		"japanese": "格子が付き安全になりましたが、1枚窓になり開ける事ができなくなりました。",
 	},
 	"windowWood4": {
 		"english": "Advanced Wooden Window",
@@ -7737,6 +7741,7 @@
 		"korean": "색유리로 당신의 부를 과시하세요. 개척자들은 자신들이 특별하다고 느낄 겁니다.",
 		"chinese": "安装上彩色玻璃可以彰显你的财富，让你的殖民者感到荣幸。",
 		"italian": "Mostra la tua ricchezza sfoggiando vetri colorati e facendo sentire speciali i tuoi coloni.",
+		"japanese": "完璧な窓になりました。2枚窓で開ける事もできます。格子も付いて安全です。",
 	},
 
 	// WindowBoxes
@@ -7755,6 +7760,7 @@
 		"chinese": "木窗花架",
 		"italian": "Vaso di legno per davanzale",
 		"polish": "Drewniana donica balkonowa",
+		"japanese": "ウインドウボックス",
 	},
 	"windowBoxWood0Variation0Description": {
 		"english": "Flowers are beautiful, right? These white spring flowers will make looking out the window an even more satisfying experience.",
@@ -7769,6 +7775,7 @@
 		"turkish": "Çiçekler güzel, değil mi? Bu beyaz bahar çiçekleri pencereden dışarı bakmayı daha da tatmin edici bir deneyim haline getirecek.",
 		"chinese": "花很漂亮吧?这些白色的春花将使窗外的风景更加令人舒心。",
 		"italian": "I fiori sono belli, vero? Questi fiori bianchi primaverili faranno sembrare la vista fuori dalla finestra un'esperienza ancora più soddisfacente.",
+		"japanese": "窓に彩を添えるウインドウボックスです。春に咲く白色の花が植えられています。",
 	},
 	"windowBoxWood0Variation1": {
 		"english": "Wooden Window Box",
@@ -7784,6 +7791,7 @@
 		"chinese": "木窗花架",
 		"italian": "Vaso di legno per davanzale",
 		"polish": "Drewniana donica balkonowa",
+		"japanese": "ウインドウボックス",
 	},
 	"windowBoxWood0Variation1Description": {
 		"english": "Flowers are beautiful, right? These purple spring flowers will make looking out the window an even more satisfying experience.",
@@ -7798,6 +7806,7 @@
 		"turkish": "Çiçekler güzel, değil mi? Bu mor bahar çiçekleri pencereden dışarı bakmayı daha da tatmin edici bir deneyim haline getirecek.",
 		"chinese": "花很漂亮吧?这些紫色的春花将使窗外的风景更加令人舒心。",
 		"italian": "I fiori sono belli, vero? Questi fiori viola primaverili faranno sembrare la vista fuori dalla finestra un'esperienza ancora più soddisfacente.",
+		"japanese": "窓に彩を添えるウインドウボックスです。春に咲く紫色の花が植えられています。",
 	},
 	"windowBoxWood0Variation2": {
 		"english": "Wooden Window Box",
@@ -7813,6 +7822,7 @@
 		"chinese": "木窗花架",
 		"italian": "Vaso di legno per davanzale",
 		"polish": "Drewniana donica balkonowa",
+		"japanese": "ウインドウボックス",
 	},
 	"windowBoxWood0Variation2Description": {
 		"english": "Flowers are beautiful, right? These yellow summer flowers will make looking out the window an even more satisfying experience.",
@@ -7827,6 +7837,7 @@
 		"turkish": "Çiçekler güzel, değil mi? Bu sarı yaz çiçekleri pencereden dışarı bakmayı daha da tatmin edici bir deneyim haline getirecek.",
 		"chinese": "花很漂亮吧?这些黄色的夏花将使窗外的风景更加令人舒心。",
 		"italian": "I fiori sono belli, vero? Questi fiori gialli estivi faranno sembrare la vista fuori dalla finestra un'esperienza ancora più soddisfacente.",
+		"japanese": "窓に彩を添えるウインドウボックスです。夏に咲く黄色の花が植えられています。",
 	},
 	"windowBoxWood0Variation3": {
 		"english": "Wooden Window Box",
@@ -7842,6 +7853,7 @@
 		"chinese": "木窗花架",
 		"italian": "Vaso di legno per davanzale",
 		"polish": "Drewniana donica balkonowa",
+		"japanese": "ウインドウボックス",
 	},
 	"windowBoxWood0Variation3Description": {
 		"english": "Flowers are beautiful, right? These blue summer flowers will make looking out the window an even more satisfying experience.",
@@ -7856,6 +7868,7 @@
 		"turkish": "Çiçekler güzel, değil mi? Bu mavi yaz çiçekleri pencereden dışarı bakmayı daha da tatmin edici bir deneyim haline getirecek.",
 		"chinese": "花很漂亮吧?这些蓝色的夏花将使窗外的风景更加令人舒心。",
 		"italian": "I fiori sono belli, vero? Questi fiori blu estivi faranno sembrare la vista fuori dalla finestra un'esperienza ancora più soddisfacente.",
+		"japanese": "窓に彩を添えるウインドウボックスです。夏に咲く青色の花が植えられています。",
 	},
 	"windowBoxWood0Variation4": {
 		"english": "Wooden Window Box",
@@ -7871,6 +7884,7 @@
 		"chinese": "木窗花架",
 		"italian": "Vaso di legno per davanzale",
 		"polish": "Drewniana donica balkonowa",
+		"japanese": "ウインドウボックス",
 	},
 	"windowBoxWood0Variation4Description": {
 		"english": "Flowers are beautiful, right? These red fall flowers will make looking out the window an even more satisfying experience.",
@@ -7885,6 +7899,7 @@
 		"turkish": "Çiçekler güzel, değil mi? Bu kırmızı sonbahar çiçekleri pencereden dışarı bakmayı daha da tatmin edici bir deneyim haline getirecek.",
 		"chinese": "花很漂亮吧?这些红色的秋花将使窗外的风景更加令人舒心。",
 		"italian": "I fiori sono belli, vero? Questi fiori rossi autunnali faranno sembrare la vista fuori dalla finestra un'esperienza ancora più soddisfacente.",
+		"japanese": "窓に彩を添えるウインドウボックスです。秋に咲く赤色の花が植えられています。",
 	},
 	"windowBoxWood0Variation5": {
 		"english": "Wooden Window Box",
@@ -7900,6 +7915,7 @@
 		"chinese": "木窗花架",
 		"italian": "Vaso di legno per davanzale",
 		"polish": "Drewniana donica balkonowa",
+		"japanese": "ウインドウボックス",
 	},
 	"windowBoxWood0Variation5Description": {
 		"english": "Flowers are beautiful, right? These orange fall flowers will make looking out the window an even more satisfying experience.",
@@ -7914,6 +7930,7 @@
 		"turkish": "Çiçekler güzel, değil mi? Bu turuncu sonbahar çiçekleri pencereden dışarı bakmayı daha da tatmin edici bir deneyim haline getirecek.",
 		"chinese": "花很漂亮吧?这些橙色的秋花将使窗外的风景更加令人舒心。",
 		"italian": "I fiori sono belli, vero? Questi fiori arancioni autunnali faranno sembrare la vista fuori dalla finestra un'esperienza ancora più soddisfacente.",
+		"japanese": "窓に彩を添えるウインドウボックスです。秋に咲く橙色の花が植えられています。",
 	},
 	// Window Shutters
 	//****************
@@ -7930,6 +7947,7 @@
 		"portuguese": "Obturadores da janela simples",
 		"italian": "Persiane semplici",
 		"polish": "Proste okiennice",
+		"japanese": "簡素な雨戸",
 	},
 	"windowShutter0Description": {
 		"english": "A simple constructiuon that does what it was build for.",
@@ -7942,6 +7960,7 @@
 		"russian": "Простая конструкция, которая выполняет свое предназначение",
 		"portuguese": "Uma construção simples que faz o que foi construído.",
 		"italian": "Una semplice costruzione che fa ciò per cui è stata costruita.",
+		"japanese": "簡単に作られた雨戸です。",
 	},
 	"windowShutter1_0": {
 		"english": "Traditional Window Shutters",
@@ -7955,6 +7974,7 @@
 		"portuguese": "Obturadores da janela tradicional",
 		"italian": "Persiane tradizionali",
 		"polish": "Tradycyjne okiennice",
+		"japanese": "雨戸",
 	},
 	"windowShutter1_0Description": {
 		"english": "These shatters have served as a reliable method of blocking those unpleasant sun rays for as long as history books date back. What has proven to be of great use in the past, can only be even better today, right?.",
@@ -7967,6 +7987,7 @@
 		"russian": "Эти ставни - надежный метод борьбы с солнечными лучами еще с давних времен. Почему бы не использовать их сейчас?",
 		"portuguese": "Esses estilhaços serviram como um método confiável de bloquear os raios desagradáveis do sol enquanto os livros de história surgirem. O que provou ser de grande utilidade no passado, só pode ser ainda melhor hoje, certo?",
 		"italian": "Queste persiane servono come metodo affidabile per bloccare quei raggi solari sgradevoli da prima che i libri di storia venissero scritti. Ciò che si è dimostrato essere di grande utilità in passato, può essere ancor più utile al giorno d'oggi, no?",
+		"japanese": "きちんと作られた赤色の雨戸です。",
 	},
 	"windowShutter1_1": {
 		"english": "Traditional Window Shutters",
@@ -7980,6 +8001,7 @@
 		"portuguese": "Obturadores da janela tradicional",
 		"italian": "Persiane tradizionali",
 		"polish": "Tradycyjne okiennice",
+		"japanese": "雨戸",
 	},
 	"windowShutter1_1Description": {
 		"english": "These shatters have served as a reliable method of blocking those unpleasant sun rays for as long as history books date back. What has proven to be of great use in the past, can only be even better today, right?.",
@@ -7992,6 +8014,7 @@
 		"russian": "Эти ставни - надежный метод борьбы с солнечными лучами еще с давних времен. Почему бы не использовать их сейчас?",
 		"portuguese": "Esses estilhaços serviram como um método confiável de bloquear os raios desagradáveis do sol enquanto os livros de história surgirem. O que provou ser de grande utilidade no passado, só pode ser ainda melhor hoje, certo?",
 		"italian": "Queste persiane servono come metodo affidabile per bloccare quei raggi solari sgradevoli da prima che i libri di storia venissero scritti. Ciò che si è dimostrato essere di grande utilità in passato, può essere ancor più utile al giorno d'oggi, no?",
+		"japanese": "きちんと作られた白色の雨戸です。",
 	},
 	"windowShutter1_2": {
 		"english": "Traditional Window Shutters",
@@ -8005,6 +8028,7 @@
 		"portuguese": "Obturadores da janela tradicional",
 		"italian": "Persiane tradizionali",
 		"polish": "Tradycyjne okiennice",
+		"japanese": "雨戸",
 	},
 	"windowShutter1_2Description": {
 		"english": "These shatters have served as a reliable method of blocking those unpleasant sun rays for as long as history books date back. What has proven to be of great use in the past, can only be even better today, right?.",
@@ -8017,6 +8041,7 @@
 		"russian": "Эти ставни - надежный метод борьбы с солнечными лучами еще с давних времен. Почему бы не использовать их сейчас?",
 		"portuguese": "Esses estilhaços serviram como um método confiável de bloquear os raios desagradáveis do sol enquanto os livros de história surgirem. O que provou ser de grande utilidade no passado, só pode ser ainda melhor hoje, certo?",
 		"italian": "Queste persiane servono come metodo affidabile per bloccare quei raggi solari sgradevoli da prima che i libri di storia venissero scritti. Ciò che si è dimostrato essere di grande utilità in passato, può essere ancor più utile al giorno d'oggi, no?",
+		"japanese": "きちんと作られた青色の雨戸です。",
 	},
 	"windowShutter2_0": {
 		"english": "Mediterranian Window Shutters",
@@ -8030,6 +8055,7 @@
 		"portuguese": "Obturadores da janela do Mediterrâneo",
 		"italian": "Persiane mediterranee",
 		"polish": "Okiennice w stylu śródziemnomorskim",
+		"japanese": "地中海風の雨戸",
 	},
 	"windowShutter2_0Description": {
 		"english": "These window shutters let fresh air pass right through them while still blocking burning hot sun rays? What a highly sophisticated masterpiece of advanced technology!",
@@ -8042,6 +8068,7 @@
 		"russian": "Эти ставни пропускают свежий воздух блокируя лучи солнца. Это невероятно!",
 		"portuguese": "Estes obturadores da janela deixam o ar fresco passar através deles enquanto ainda bloqueiam a queima de raios solares quentes? O que uma obra prima altamente sofisticada de tecnologia avançada!",
 		"italian": "Queste persiane sono in grado di far passare aria fresca bloccando al contempo i raggi del sole. Che capolavoro altamente sofisticato di tecnologia avanzata!",
+		"japanese": "地中海地域で見られる隙間のある黄色の雨戸です。光が薄く差し込みます。",
 	},
 	"windowShutter2_1": {
 		"english": "Mediterranian Window Shutters",
@@ -8055,6 +8082,7 @@
 		"portuguese": "Obturadores da janela do Mediterrâneo",
 		"italian": "Persiane mediterranee",
 		"polish": "Okiennice w stylu śródziemnomorskim",
+		"japanese": "地中海風の雨戸",
 	},
 	"windowShutter2_1Description": {
 		"english": "These window shutters let fresh air pass right through them while still blocking burning hot sun rays? What a highly sophisticated masterpiece of advanced technology!",
@@ -8067,6 +8095,7 @@
 		"russian": "Эти ставни пропускают свежий воздух блокируя лучи солнца. Это невероятно!",
 		"portuguese": "Estes obturadores da janela deixam o ar fresco passar através deles enquanto ainda bloqueiam a queima de raios solares quentes? O que uma obra prima altamente sofisticada de tecnologia avançada!",
 		"italian": "Queste persiane sono in grado di far passare aria fresca bloccando al contempo i raggi del sole. Che capolavoro altamente sofisticato di tecnologia avanzata!",
+		"japanese": "地中海地域で見られる隙間のある緑色の雨戸です。光が薄く差し込みます。",
 	},
 	"windowShutter2_2": {
 		"english": "Mediterranian Window Shutters",
@@ -8080,6 +8109,7 @@
 		"portuguese": "Obturadores da janela do Mediterrâneo",
 		"italian": "Persiane mediterranee",
 		"polish": "Okiennice w stylu śródziemnomorskim",
+		"japanese": "地中海風の雨戸",
 	},
 	"windowShutter2_2Description": {
 		"english": "These window shutters let fresh air pass right through them while still blocking burning hot sun rays? What a highly sophisticated masterpiece of advanced technology!",
@@ -8092,6 +8122,7 @@
 		"russian": "Эти ставни пропускают свежий воздух блокируя лучи солнца. Это невероятно!",
 		"portuguese": "Estes obturadores da janela deixam o ar fresco passar através deles enquanto ainda bloqueiam a queima de raios solares quentes? O que uma obra prima altamente sofisticada de tecnologia avançada!",
 		"italian": "Queste persiane sono in grado di far passare aria fresca bloccando al contempo i raggi del sole. Che capolavoro altamente sofisticato di tecnologia avanzata!",
+		"japanese": "地中海地域で見られる隙間のある茶色の雨戸です。光が薄く差し込みます。",
 	},
 
 	// Curtains
@@ -8107,6 +8138,7 @@
 		"portuguese": "Cortinas Curtas Tradicionais",
 		"italian": "Tende corte tradizionali",
 		"polish": "Krótkie zasłony",
+		"japanese": "短いカーテン",
 	},
 	"curtainsShort0Variation0Description": {
 		"english": "A elegant way of making your room more colorful.",
@@ -8119,6 +8151,7 @@
 		"russian": "Элегантный способ придать вашей комнате немного цвета.",
 		"portuguese": "Uma maneira elegante de tornar o seu quarto mais colorido.",
 		"italian": "Un modo elegante per rendere le tue stanze più colorate.",
+		"japanese": "部屋を明るくする赤色の短いカーテンです。",
 	},
 	"curtainsShort0Variation1": {
 		"english": "Traditional Short Curtains",
@@ -8132,6 +8165,7 @@
 		"portuguese": "Cortinas Curtas Tradicionais",
 		"italian": "Tende corte tradizionali",
 		"polish": "Krótkie zasłony",
+		"japanese": "短いカーテン",
 	},
 	"curtainsShort0Variation1Description": {
 		"english": "A elegant way of making your room more colorful.",
@@ -8144,6 +8178,7 @@
 		"russian": "Элегантный способ придать вашей комнате немного цвета.",
 		"portuguese": "Uma maneira elegante de tornar o seu quarto mais colorido.",
 		"italian": "Un modo elegante per rendere le tue stanze più colorate.",
+		"japanese": "部屋を明るくする青色の短いカーテンです。",
 	},
 	"curtainsShort0Variation2": {
 		"english": "Traditional Short Curtains",
@@ -8157,6 +8192,7 @@
 		"portuguese": "Cortinas Curtas Tradicionais",
 		"italian": "Tende corte tradizionali",
 		"polish": "Krótkie zasłony",
+		"japanese": "短いカーテン",
 	},
 	"curtainsShort0Variation2Description": {
 		"english": "A elegant way of making your room more colorful.",
@@ -8169,6 +8205,7 @@
 		"russian": "Элегантный способ придать вашей комнате немного цвета.",
 		"portuguese": "Uma maneira elegante de tornar o seu quarto mais colorido.",
 		"italian": "Un modo elegante per rendere le tue stanze più colorate.",
+		"japanese": "部屋を明るくする緑色の短いカーテンです。",
 	},
 	"curtainsShort1Variation0": {
 		"english": "Triangular Curtain",
@@ -8182,6 +8219,7 @@
 		"portuguese": "Cortina Triangular",
 		"italian": "Tenda triangolare",
 		"polish": "Trójkątne zasłony",
+		"japanese": "三角形のカーテン",
 	},
 	"curtainsShort1Variation0Description": {
 		"english": "This basic curtain has a modern touch to it.",
@@ -8194,6 +8232,7 @@
 		"russian": "У этого занавеса интересный оттенок.",
 		"portuguese": "Esta cortina básica tem um toque moderno.",
 		"italian": "Questa tenda basilare ha un tocco moderno.",
+		"japanese": "モダンな雰囲気のある赤色の三角形のカーテンです。",
 	},
 	"curtainsShort1Variation1": {
 		"english": "Triangular Curtain",
@@ -8207,6 +8246,7 @@
 		"portuguese": "Cortina Triangular",
 		"italian": "Tenda triangolare",
 		"polish": "Trójkątne zasłony",
+		"japanese": "三角形のカーテン",
 	},
 	"curtainsShort1Variation1Description": {
 		"english": "This basic curtain has a modern touch to it.",
@@ -8219,6 +8259,7 @@
 		"russian": "У этого занавеса интересный оттенок.",
 		"portuguese": "Esta cortina básica tem um toque moderno.",
 		"italian": "Questa tenda basilare ha un tocco moderno.",
+		"japanese": "モダンな雰囲気のある黄色の三角形のカーテンです。",
 	},
 	"curtainsShort1Variation2": {
 		"english": "Triangular Curtain",
@@ -8232,6 +8273,7 @@
 		"portuguese": "Cortina Triangular",
 		"italian": "Tenda triangolare",
 		"polish": "Trójkątne zasłony",
+		"japanese": "三角形のカーテン",
 	},
 	"curtainsShort1Variation2Description": {
 		"english": "This basic curtain has a modern touch to it.",
@@ -8244,6 +8286,7 @@
 		"russian": "У этого занавеса интересный оттенок.",
 		"portuguese": "Esta cortina básica tem um toque moderno.",
 		"italian": "Questa tenda basilare ha un tocco moderno.",
+		"japanese": "モダンな雰囲気のある紫色の三角形のカーテンです。",
 	},
 	"curtainsLong0Variation0": {
 		"english": "Simple Long Curtains",
@@ -8257,6 +8300,7 @@
 		"portuguese": "Cortinas longas simples",
 		"italian": "Tende lunghe semplici",
 		"polish": "Długie zasłony",
+		"japanese": "簡素な長いカーテン",		
 	},
 	"curtainsLong0Variation0Description": {
 		"english": "2 pieces of colored fabric hanging from a stick. Let's call them curtains and hang them somewhere.",
@@ -8269,6 +8313,7 @@
 		"russian": "2 куска цветной ткани свисающие с палки. Давайте назовем это шторами и повесим где-нибудь.",
 		"portuguese": "2 pedaços de tecido colorido pendurado em um bastão. Vamos chamá-los de cortinas e pendurá-los em algum lugar.",
 		"italian": "2 pezzi di tessuto colorato appesi ad un bastone. Chiamiamoli tende e appendiamoli da qualche parte.",
+		"japanese": "2枚の布から簡単に作られた赤色のカーテンですが、部屋に彩りが加わります。",
 	},
 	"curtainsLong0Variation1": {
 		"english": "Simple Long Curtains",
@@ -8282,6 +8327,7 @@
 		"portuguese": "Cortinas longas simples",
 		"italian": "Tende lunghe semplici",
 		"polish": "Długie zasłony",
+		"japanese": "簡素な長いカーテン",
 	},
 	"curtainsLong0Variation1Description": {
 		"english": "2 pieces of colored fabric hanging from a stick. Let's call them curtains and hang them somewhere.",
@@ -8294,6 +8340,7 @@
 		"russian": "2 куска цветной ткани свисающие с палки. Давайте назовем это шторами и повесим где-нибудь.",
 		"portuguese": "2 pedaços de tecido colorido pendurado em um bastão. Vamos chamá-los de cortinas e pendurá-los em algum lugar.",
 		"italian": "2 pezzi di tessuto colorato appesi ad un bastone. Chiamiamoli tende e appendiamoli da qualche parte.",
+		"japanese": "2枚の布から簡単に作られた黄色のカーテンですが、部屋に彩りが加わります。",
 	},
 	"curtainsLong0Variation2": {
 		"english": "Simple Long Curtains",
@@ -8307,6 +8354,7 @@
 		"portuguese": "Cortinas longas simples",
 		"italian": "Tende lunghe semplici",
 		"polish": "Długie zasłony",
+		"japanese": "簡素な長いカーテン",
 	},
 	"curtainsLong0Variation2Description": {
 		"english": "2 pieces of colored fabric hanging from a stick. Let's call them curtains and hang them somewhere.",
@@ -8319,6 +8367,7 @@
 		"russian": "2 куска цветной ткани свисающие с палки. Давайте назовем это шторами и повесим где-нибудь.",
 		"portuguese": "2 pedaços de tecido colorido pendurado em um bastão. Vamos chamá-los de cortinas e pendurá-los em algum lugar.",
 		"italian": "2 pezzi di tessuto colorato appesi ad un bastone. Chiamiamoli tende e appendiamoli da qualche parte.",
+		"japanese": "2枚の布から簡単に作られた紫色のカーテンですが、部屋に彩りが加わります。",
 	},
 	"curtainsLong1Variation0": {
 		"english": "Traditional Long Curtains",
@@ -8332,6 +8381,7 @@
 		"portuguese": "Cortinas Longas Tradicionais",
 		"italian": "Tende lunghe tradizionali",
 		"polish": "Długie zasłony",
+		"japanese": "長いカーテン",
 	},
 	"curtainsLong1Variation0Description": {
 		"english": "If it is castle atmosphere you're going for, these curtains would definitely do the trick!",
@@ -8344,6 +8394,7 @@
 		"russian": "Если вы жаждите атмосферы замка, тогда эти шторы отлично подойдут вам!",
 		"portuguese": "Se é a atmosfera do castelo que você está indo para, essas cortinas definitivamente faria o truque!",
 		"italian": "Se brami un'atmosfera da castello, queste tende fanno sicuramente al caso tuo!",
+		"japanese": "お城にあるような長い窓に合う赤色のカーテンです。",
 	},
 	"curtainsLong1Variation1": {
 		"english": "Traditional Long Curtains",
@@ -8357,6 +8408,7 @@
 		"portuguese": "Cortinas Longas Tradicionais",
 		"italian": "Tende lunghe tradizionali",
 		"polish": "Długie zasłony",
+		"japanese": "長いカーテン",
 	},
 	"curtainsLong1Variation1Description": {
 		"english": "If it is castle atmosphere you're going for, these curtains would definitely do the trick!",
@@ -8369,6 +8421,7 @@
 		"russian": "Если вы жаждите атмосферы замка, тогда эти шторы отлично подойдут вам!",
 		"portuguese": "Se é a atmosfera do castelo que você está indo para, essas cortinas definitivamente faria o truque!",
 		"italian": "Se brami un'atmosfera da castello, queste tende fanno sicuramente al caso tuo!",
+		"japanese": "お城にあるような長い窓に合う青色のカーテンです。",
 	},
 	"curtainsLong1Variation2": {
 		"english": "Traditional Long Curtains",
@@ -8382,6 +8435,7 @@
 		"portuguese": "Cortinas Longas Tradicionais",
 		"italian": "Tende lunghe tradizionali",
 		"polish": "Długie zasłony",
+		"japanese": "長いカーテン",
 	},
 	"curtainsLong1Variation2Description": {
 		"english": "If it is castle atmosphere you're going for, these curtains would definitely do the trick!",
@@ -8394,6 +8448,7 @@
 		"russian": "Если вы жаждите атмосферы замка, тогда эти шторы отлично подойдут вам!",
 		"portuguese": "Se é a atmosfera do castelo que você está indo para, essas cortinas definitivamente faria o truque!",
 		"italian": "Se brami un'atmosfera da castello, queste tende fanno sicuramente al caso tuo!",
+		"japanese": "お城にあるような長い窓に合う緑色のカーテンです。",
 	},
 
 
@@ -8414,6 +8469,7 @@
 		"chinese": "简易木柱",
 		"italian": "Colonna di legno semplice",
 		"polish": "Prosta drewniana kolumna",
+		"japanese": "簡素な木の支柱",
 	},
 	"woodPillar0Variation0Description": {
 		"english": "A simple wooden beam. Get's the job done!",
@@ -8428,6 +8484,7 @@
 		"korean": "단순한 목제 기둥입니다. 작업을 끝마치세요!",
 		"chinese": "一根简易的木柱。Get's the job done!",
 		"italian": "Una semplice trave di legno. Fa il suo dovere!",
+		"japanese": "簡単に作られた木の支柱です。",
 	},
 	"woodPillar0Variation1": {
 		"english": "Simple Wooden Pillar",
@@ -8443,6 +8500,7 @@
 		"chinese": "简易木柱",
 		"italian": "Colonna di legno semplice",
 		"polish": "Prosta drewniana kolumna",
+		"japanese": "簡素な木の支柱",
 	},
 	"woodPillar0Variation1Description": {
 		"english": "A simple wooden beam. Get's the job done!",
@@ -8457,6 +8515,7 @@
 		"korean": "단순한 목제 기둥입니다. 작업을 끝마치세요!",
 		"chinese": "一根简易的木柱。Get's the job done!",
 		"italian": "Una semplice trave di legno. Fa il suo dovere!",
+		"japanese": "簡単に作られた木の支柱です。",
 	},
 	"woodPillar0Variation2": {
 		"english": "Simple Wooden Pillar",
@@ -8472,6 +8531,7 @@
 		"chinese": "简易木柱",
 		"italian": "Colonna di legno semplice",
 		"polish": "Prosta drewniana kolumna",
+		"japanese": "簡素な木の支柱",
 	},
 	"woodPillar0Variation2Description": {
 		"english": "A simple wooden beam. Get's the job done!",
@@ -8486,6 +8546,7 @@
 		"korean": "단순한 목제 기둥입니다. 작업을 끝마치세요!",
 		"chinese": "一根简易的木柱。Get's the job done!",
 		"italian": "Una semplice trave di legno. Fa il suo dovere!",
+		"japanese": "簡単に作られた木の支柱です。",
 	},
 	"woodPillar0Variation3": {
 		"english": "Simple Wooden Pillar",
@@ -8501,6 +8562,7 @@
 		"chinese": "简易木柱",
 		"italian": "Colonna di legno semplice",
 		"polish": "Prosta drewniana kolumna",
+		"japanese": "簡素な木の支柱",
 	},
 	"woodPillar0Variation3Description": {
 		"english": "A simple wooden beam. Get's the job done!",
@@ -8515,6 +8577,7 @@
 		"korean": "단순한 목제 기둥입니다. 작업을 끝마치세요!",
 		"chinese": "一根简易的木柱。Get's the job done!",
 		"italian": "Una semplice trave di legno. Fa il suo dovere!",
+		"japanese": "簡単に作られた木の支柱です。",
 	},
 	"woodPillar0Variation4": {
 		"english": "Simple Wooden Pillar",
@@ -8530,6 +8593,7 @@
 		"chinese": "简易木柱",
 		"italian": "Colonna di legno semplice",
 		"polish": "Prosta drewniana kolumna",
+		"japanese": "簡素な木の支柱",
 	},
 	"woodPillar0Variation4Description": {
 		"english": "A simple wooden beam. Get's the job done!",
@@ -8544,6 +8608,7 @@
 		"korean": "단순한 목제 기둥입니다. 작업을 끝마치세요!",
 		"chinese": "一根简易的木柱。Get's the job done!",
 		"italian": "Una semplice trave di legno. Fa il suo dovere!",
+		"japanese": "簡単に作られた木の支柱です。",
 	},
 	"woodPillar0Variation5": {
 		"english": "Simple Wooden Pillar",
@@ -8559,6 +8624,7 @@
 		"chinese": "简易木柱",
 		"italian": "Colonna di legno semplice",
 		"polish": "Prosta drewniana kolumna",
+		"japanese": "簡素な木の支柱",
 	},
 	"woodPillar0Variation5Description": {
 		"english": "A simple wooden beam. Get's the job done!",
@@ -8573,6 +8639,7 @@
 		"korean": "단순한 목제 기둥입니다. 작업을 끝마치세요!",
 		"chinese": "一根简易的木柱梁。Get's the job done!",
 		"italian": "Una semplice trave di legno. Fa il suo dovere!",
+		"japanese": "簡単に作られた木の支柱です。",
 	},
 	"woodPillar1Variation0": {
 		"english": "Ornamented Wooden Pillar",
@@ -8588,6 +8655,7 @@
 		"chinese": "装饰木柱",
 		"italian": "Colonna di legno ornata",
 		"polish": "Rzeźbiona drewniana kolumna",
+		"japanese": "木の支柱",
 	},
 	"woodPillar1Variation0Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
@@ -8602,6 +8670,7 @@
 		"korean": "이렇게 쉽게 기둥을 세울 수 있다면 누가 내력벽을 필요로 할까요?",
 		"chinese": "如果你能靠这根柱子就能轻松撑起屋顶，谁还需要承重墙呢?",
 		"italian": "Chi ha bisogno di pareti portanti se si può facilmente fare affidamento su di una colonna?",
+		"japanese": "きちんと作られた木の支柱です。簡単ですが装飾も施されています。",
 	},
 	"woodPillar1Variation1": {
 		"english": "Ornamented Wooden Pillar",
@@ -8617,6 +8686,7 @@
 		"chinese": "装饰木柱",
 		"italian": "Colonna di legno ornata",
 		"polish": "Rzeźbiona drewniana kolumna",
+		"japanese": "木の支柱",
 	},
 	"woodPillar1Variation1Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
@@ -8631,6 +8701,7 @@
 		"korean": "이렇게 쉽게 기둥을 세울 수 있다면 누가 내력벽을 필요로 할까요?",
 		"chinese": "如果你能靠这根柱子就能轻松撑起屋顶，谁还需要承重墙呢?",
 		"italian": "Chi ha bisogno di pareti portanti se si può facilmente fare affidamento su di una colonna?",
+		"japanese": "きちんと作られた木の支柱です。簡単ですが装飾も施されています。",
 	},
 	"woodPillar1Variation2": {
 		"english": "Ornamented Wooden Pillar",
@@ -8646,6 +8717,7 @@
 		"chinese": "装饰木柱",
 		"italian": "Colonna di legno ornata",
 		"polish": "Rzeźbiona drewniana kolumna",
+		"japanese": "木の支柱",
 	},
 	"woodPillar1Variation2Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
@@ -8660,6 +8732,7 @@
 		"korean": "이렇게 쉽게 기둥을 세울 수 있다면 누가 내력벽을 필요로 할까요?",
 		"chinese": "如果你能靠这根柱子就能轻松撑起屋顶，谁还需要承重墙呢?",
 		"italian": "Chi ha bisogno di pareti portanti se si può facilmente fare affidamento su di una colonna?",
+		"japanese": "きちんと作られた木の支柱です。簡単ですが装飾も施されています。",
 	},
 	"woodPillar1Variation3": {
 		"english": "Ornamented Wooden Pillar",
@@ -8675,6 +8748,7 @@
 		"chinese": "装饰木柱",
 		"italian": "Colonna di legno ornata",
 		"polish": "Rzeźbiona drewniana kolumna",
+		"japanese": "木の支柱",
 	},
 	"woodPillar1Variation3Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
@@ -8689,6 +8763,7 @@
 		"korean": "이렇게 쉽게 기둥을 세울 수 있다면 누가 내력벽을 필요로 할까요?",
 		"chinese": "如果你能靠这根柱子就能轻松撑起屋顶，谁还需要承重墙呢?",
 		"italian": "Chi ha bisogno di pareti portanti se si può facilmente fare affidamento su di una colonna?",
+		"japanese": "きちんと作られた木の支柱です。簡単ですが装飾も施されています。",
 	},
 	"woodPillar1Variation4": {
 		"english": "Ornamented Wooden Pillar",
@@ -8704,6 +8779,7 @@
 		"chinese": "装饰木柱",
 		"italian": "Colonna di legno ornata",
 		"polish": "Rzeźbiona drewniana kolumna",
+		"japanese": "木の支柱",
 	},
 	"woodPillar1Variation4Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
@@ -8718,6 +8794,7 @@
 		"korean": "이렇게 쉽게 기둥을 세울 수 있다면 누가 내력벽을 필요로 할까요?",
 		"chinese": "如果你能靠这根柱子就能轻松撑起屋顶，谁还需要承重墙呢?",
 		"italian": "Chi ha bisogno di pareti portanti se si può facilmente fare affidamento su di una colonna?",
+		"japanese": "きちんと作られた木の支柱です。簡単ですが装飾も施されています。",
 	},
 	"woodPillar1Variation5": {
 		"english": "Ornamented Wooden Pillar",
@@ -8733,6 +8810,7 @@
 		"chinese": "装饰木柱",
 		"italian": "Colonna di legno ornata",
 		"polish": "Rzeźbiona drewniana kolumna",
+		"japanese": "木の支柱",
 	},
 	"woodPillar1Variation5Description": {
 		"english": "Who needs load-bearing walls if you can easily rely on this pillar?",
@@ -8747,6 +8825,7 @@
 		"korean": "이렇게 쉽게 기둥을 세울 수 있다면 누가 내력벽을 필요로 할까요?",
 		"chinese": "如果你能靠这根柱子就能轻松撑起屋顶，谁还需要承重墙呢?",
 		"italian": "Chi ha bisogno di pareti portanti se si può facilmente fare affidamento su di una colonna?",
+		"japanese": "きちんと作られた木の支柱です。簡単ですが装飾も施されています。",
 	},
 	"woodPillar2": {
 		"english": "Round Wooden Pillar",
@@ -8762,6 +8841,7 @@
 		"chinese": "圆木柱",
 		"italian": "Colonna di legno rotonda",
 		"polish": "Okrągła drewniana kolumna",
+		"japanese": "木の円柱",
 	},
 	"woodPillar2Description": {
 		"english": "If this pillar was any better, Atlas would lose his job!",
@@ -8776,6 +8856,7 @@
 		"korean": "이 기둥이 조금만 더 나았더라면, 아틀라스는 할 일이 없을거에요!",
 		"chinese": "如果这根柱子更好一点，Atlas都要失业了！",
 		"italian": "Se questa colonna fosse stata migliore, Atlas avrebbe perso il lavoro!",
+		"japanese": "職人技が光るものの見事に綺麗な円柱です。",
 	},
 	"stonePillar0": {
 		"english": "Simple Stone Pillar",
@@ -8791,6 +8872,7 @@
 		"chinese": "简易石柱",
 		"italian": "Colonna di pietra semplice",
 		"polish": "Kamienna kolumna",
+		"japanese": "石の支柱",
 	},
 	"stonePillar0Description": {
 		"english": "One might wonder whether this stone pillar is really capable of carrying more weight than its wooden counterparts.",
@@ -8805,6 +8887,7 @@
 		"korean": "어떤 사람이 질문했어요. 이 돌 기둥은 나무로 된 것보다 더 많은 무게를 지탱할 수 있나요?",
 		"chinese": "人们可能会想，这根石柱是否真的能比木质支柱承载更大的重量。",
 		"italian": "Ci si potrebbe chiedere se questa colonna di pietra sia davvero in grado di reggere più peso delle sue controparti in legno.",
+		"japanese": "簡素ですが装飾も施されている石の支柱です。",
 	},
 
 	"snowman": {
@@ -8817,6 +8900,7 @@
 		"italian": "Pupazzo di neve",
 		"chinese": "雪人",
 		"polish": "Bałwan",
+		"japanese": "雪だるま",
 	},
 
 	// Area of Effect
@@ -8830,6 +8914,7 @@
 		"russian": "Набор инструментов",
 		"portuguese": "Caixa de ferramentas",
 		"polish": "Skrzynia z narzędziami",
+		"japanese": "工具箱",
 	},
 	"toolChestDescription": {
 		"english": "When you're busy working, nothing is more annoying than having to look for your screwdriver... again. With this tool chest, all nearby villagers work 50% faster.",
@@ -8839,6 +8924,7 @@
 		"italian": "Quando stai lavorando, non c'è nulla di più fastidioso che dover cercare il tuo cacciavite... di nuovo. Con questa cassetta degli attrezzi, tutti gli abitanti nelle sue vicinanze lavorano il 50% più velocemente.",
 		"russian": "Когда вы так заняты своей работой, нет ничего более раздражающего, чем поиск своей отвертки... снова. С этим набором все жители деревни работают на 50% быстрее.",
 		"portuguese": "Quando você está ocupado trabalhando, nada é mais irritante do que ter que procurar sua chave de fenda ... novamente. Com este baú de ferramentas, todos os moradores próximos trabalham 50% mais rápido.",
+		"japanese": "整頓された工具は作業を円滑に進めます。近くにいるコロニストは作業速度が速くなります。",
 	},
 	"medicalToolChest": { // "tool" can also be "instruments" or "equipment"
 		"english": "Medical Tool Chest",
@@ -8849,6 +8935,7 @@
 		"russian": "Набор медицинских преднадлежностей",
 		"portuguese": "Baú de ferramentas médicas",
 		"polish": "Skrzynia na medykamenty",
+		"japanese": "医療器具箱",
 	},
 	"medicalToolChestDescription": {
 		"english": "Having all your first-class medical equipment right where you need it can make the difference between life and death. All nearby treatments work twice as well.",
@@ -8859,6 +8946,7 @@
 		"russian": "Когда кто-то находится на грани смерти, первоклассное медицинское оборудование точно увеличить шансы на выживание. Все медицинские процедуры рядом в два раза эффективнее.",
 		"portuguese": "Ter todo o seu equipamento médico de primeira classe, exatamente onde você precisa, pode fazer a diferença entre a vida e a morte. Todos os tratamentos nas proximidades também funcionam duas vezes.",
 		"polish": "Posiadanie zawsze pod ręką remediów na wszelakie schorzenia bardzo często decyduje o życiu i śmierci. Każde leczenie w jej pobliżu trwa dwa razy krócej.", //??
+		"japanese": "一刻でも早く治療を施す事は生死に大きな影響を与えます。近くにいるコロニストの受ける治療効果が倍になります。",
 	},
 	"paintingGoodVibes": {
 		"english": "Painting of Good Vibes",

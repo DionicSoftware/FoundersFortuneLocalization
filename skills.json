@@ -30,7 +30,7 @@
 		"chinese": "基础林业",
 		"polish": "Podstawy leśnictwa",
 		"turkish": "Temel ormancılık",
-		"japanese": "林業の基礎",
+		"japanese": "林業の基礎を学ぶ",
 	},
 	"skillDesc_foresterBasics": {
 		"english": "Can chop trees and that's basically it.",
@@ -186,7 +186,7 @@
 		"chinese": "大师服装",
 		"polish": "Strój Mistrza",
 		"turkish": "Giyim ustası",
-		"japanese": "達人の服",
+		"japanese": "達人の衣装",
 	},
 	"skillDesc_foresterMasterOutfit": {
 		"english": "Can wear outfits meant for master foresters.",
@@ -199,7 +199,7 @@
 		"chinese": "可以穿伐木工的大师服装",
 		"polish": "Można nosić strój przeznaczony dla mistrzów drwali.",
 		"turkish": "Usta oduncuların giyimlerini giyebilir",
-		"japanese": "林業の達人向けの服を着ることができます。",
+		"japanese": "林業の達人向けの衣装を着ることができます。",
 	},
 
 
@@ -215,7 +215,7 @@
 		"chinese": "基础挖掘",
 		"polish": "Podstawy górnictwa",
 		"turkish": "Temel madencilik",
-		"japanese": "採鉱の基礎",
+		"japanese": "採鉱の基礎を学ぶ",
 	},
 	"skillDesc_minerBasics": {
 		"english": "Can mine stone and crystals.",
@@ -267,7 +267,7 @@
 		"chinese": "石制工具",
 		"polish": "Kamienne narzędzia",
 		"turkish": "Taş aletleri",
-		"japanese": "石で出来た道具",
+		"japanese": "石製の道具",
 	},
 	"skillDesc_miningStoneTools": {
 		"english": "Can use stone tools to mine.",
@@ -319,6 +319,7 @@
 		"chinese": "石头矿坑",
 		"polish": "Wydobtcie kamienia w kamieniołomach",
 		"turkish": "Derin kaya madencliği",
+		"japanese": "石抗で石を採掘",
 	},
 	"skillDesc_deepStoneMine": {
 		"english": "Can go into deep mines to dig for additional stone.",
@@ -331,6 +332,7 @@
 		"chinese": "你可以从矿坑挖掘出更多的石头.",
 		"polish": "Można pozyskiwać kamień w kamieniołomach.",
 		"turkish": "Derin ocaklarda kaya madenciliği yapabilir",
+		"japanese": "もっと石を求めて、石抗に入り採掘することができます。",
 	},
 	"skillTitle_deepIronMine": {
 		"english": "Deep Iron Mining",
@@ -343,6 +345,7 @@
 		"chinese": "铁矿矿坑",
 		"polish": "Wydobycie rudy żelaza w kopalniach",
 		"turkish": "Derin ocak madenciliği",
+		"japanese": "鉄鉱石抗で鉄を採掘",
 	},
 	"skillDesc_deepIronMine": {
 		"english": "Can go into deep mines to dig for additional iron ore.",
@@ -354,6 +357,7 @@
 		"italian": "Può andare nelle miniere profonde per estrarre ulteriore ferro.",
 		"chinese": "你可以从矿坑挖掘出更多的铁矿.",
 		"polish": "Można wydobywać rudę żelaza w kopalniach.",
+		"japanese": "もっと鉄を求めて、鉄鉱石抗に入り採掘することができます。",
 	},
 	"skillTitle_deepCrystalMine": {
 		"english": "Deep Crystal Mining",
@@ -365,6 +369,7 @@
 		"italian": "Estrazione di cristalli in profondità",
 		"chinese": "水晶矿坑",
 		"polish": "Wydobycie kryształów w kopalniach",
+		"japanese": "クリスタル抗でクリスタルを採掘",
 	},
 	"skillDesc_deepCrystalMine": {
 		"english": "Can go into deep mines to dig for additional crystals.",
@@ -376,6 +381,7 @@
 		"italian": "Può andare nelle miniere profonde per estrarre ulteriore cristalli.",
 		"chinese": "你可以从矿坑挖掘出更多的水晶.",
 		"polish": "Można wydobywać kryształ w kopalniach.",
+		"japanese": "もっとクリスタルを求めて、クリスタル抗に入り採掘することができます。",
 	},
 	"skillTitle_minerMasterOutfit": {
 		"english": "Master Outfit",
@@ -387,6 +393,7 @@
 		"italian": "Vesti da maestro",
 		"chinese": "大师服装",
 		"polish": "Strój Mistrza",
+		"japanese": "達人の衣装",
 	},
 	"skillDesc_minerMasterOutfit": {
 		"english": "Can wear outfits meant for master miners.",
@@ -398,6 +405,7 @@
 		"italian": "Può indossare abiti pensati per maestri minatori.",
 		"chinese": "可以穿矿工的大师服装.",
 		"polish": "Można nosić strój przeznaczony dla mistrzów górnictwa.",
+		"japanese": "採掘の達人向けの衣装を着ることができます。",
 	},
 
 
@@ -413,6 +421,8 @@
 		"italian": "Basi della coltivazione",
 		"chinese": "基础农业",
 		"polish": "Podstawy rolnictwa",
+		"japanese": "農業の基礎が学べる",
+		
 	},
 	"skillDesc_farmerBasics": {
 		"english": "Knows enough how to stop plants from dying.",
@@ -424,6 +434,7 @@
 		"italian": "Ne sa abbastanza per impedire alle piante di morire.",
 		"chinese": "懂得如何种植农作物防止枯萎.",
 		"polish": "Umiejętności pozwalające na należyte dbanie o uprawy.",
+		"japanese": "植物が枯れるのを防ぐ知識と方法を学べます",
 	},
 	"skillTitle_sowStrawberries": {
 		"english": "Sowing Strawberries",
@@ -435,6 +446,7 @@
 		"italian": "Semina delle fragole",
 		"chinese": "播种草莓",
 		"polish": "Sianie truskawek",
+		"japanese": "イチゴの栽培",
 	},
 	"skillDesc_sowStrawberries": {
 		"english": "Can sow strawberries.",
@@ -446,6 +458,7 @@
 		"italian": "Può seminare le fragole.",
 		"chinese": "可以播种草莓",
 		"polish": "Można siać truskawki.",
+		"japanese": "イチゴの栽培をすることが出来ます。",
 	},
 	"skillTitle_sowWheat": {
 		"english": "Sowing Wheat",
@@ -457,6 +470,8 @@
 		"italian": "Semina del grano",
 		"chinese": "播种小麦",
 		"polish": "Sianie pszenicy",
+		"japanese": "小麦の栽培が可能になる",
+		
 	},
 	"skillDesc_sowWheat": {
 		"english": "Can sow wheat.",
@@ -468,6 +483,7 @@
 		"italian": "Può seminare il grano.",
 		"chinese": "可以播种小麦",
 		"polish": "Można siać pszenicę.",
+		"japanese": "小麦の栽培をすることが出来ます。",
 	},
 	"skillTitle_campfireCooking": {
 		"english": "Cooking at Campfire",
@@ -479,6 +495,7 @@
 		"italian": "Cottura al falò",
 		"chinese": "烤制食物",
 		"polish": "Gotowanie na ognisku",
+		"japanese": "焚き火で調理",
 	},
 	"skillDesc_campfireCooking": {
 		"english": "Can roast some food over the campfire.",
@@ -490,6 +507,7 @@
 		"italian": "Può arrostire del cibo al falò.",
 		"chinese": "可以在篝火旁边烤制食物.",
 		"polish": "Można przyrządzać jedzenie na ognisku.",
+		"japanese": "焚き火で、食べ物を焼くことが出来ます。",
 	},
 	"skillTitle_kitchenCooking": {
 		"english": "Cooking at Kitchen",
@@ -501,6 +519,7 @@
 		"italian": "Cottura in cucina",
 		"chinese": "烹饪食物.",
 		"polish": "Gotowanie w kuchni",
+		"japanese": "台所で調理",
 	},
 	"skillDesc_kitchenCooking": {
 		"english": "Can make delicious meals in the kitchen.",
@@ -512,6 +531,7 @@
 		"italian": "Può realizzare deliziosi pasti in cucina.",
 		"chinese": "可以在厨房烹饪食物.",
 		"polish": "Można przyrządzać posiłki w kuchni.",
+		"japanese": "台所で美味しい食事を作ることが出来ます。",
 	},
 	"skillTitle_bakeryCooking": {
 		"english": "Baking at Bakery",
@@ -523,6 +543,7 @@
 		"italian": "Cottura al forno",
 		"chinese": "烘培食物",
 		"polish": "Piekarnictwo",
+		"japanese": "パンと焼き菓子を焼く",
 	},
 	"skillDesc_bakeryCooking": {
 		"english": "Can use the bakery to make all kinds of baked goods.",
@@ -534,6 +555,8 @@
 		"italian": "Può utilizzare il forno per realizzare diversi tipi di prodotti.",
 		"chinese": "可以在面包烘培房烘培食物.",
 		"polish": "Można tworzyć wypieki w piekarni.",
+		"japanese": "石窯を使って、あらゆる種類の焼き菓子やパンを焼くことが出来ます。",
+		
 	},
 	"skillTitle_animalCare": {
 		"english": "Animal Care",
@@ -545,6 +568,7 @@
 		"italian": "Cura degli animali",
 		"chinese": "动物育员",
 		"polish": "Hodowla zwierząt",
+		"japanese": "動物の世話",
 	},
 	"skillDesc_animalCare": {
 		"english": "Can tame wild animals and care for them.",
@@ -556,6 +580,7 @@
 		"italian": "Può addomesticare gli animali selvatici e prendersi cura di loro.",
 		"chinese": "可以驯服野生动物并照顾它们.",
 		"polish": "Można oswajać dzikie zwierzęta i zajmować się nimi.",
+		"japanese": "野生動物を飼いならして世話をすることが出来ます。",
 	},
 	"skillTitle_shearingSheep": {
 		"english": "Shearing Sheep",
@@ -567,6 +592,7 @@
 		"italian": "Tosatura delle pecore",
 		"chinese": "修剪羊毛",
 		"polish": "Strzyżenie owiec",
+		"japanese": "羊の毛刈り",
 	},
 	"skillDesc_shearingSheep": {
 		"english": "Can shear sheep to get wool.",
@@ -578,6 +604,7 @@
 		"italian": "Può tosare le pecore per ottenere la lana.",
 		"chinese": "可以修剪羊获得羊毛",
 		"polish": "Można strzyc owce na wełnę.",
+		"japanese": "羊の毛刈りをして羊毛を手に入れることが出来ます。",
 	},
 	"skillTitle_farmerMasterOutfit": {
 		"english": "Master Outfit",
@@ -589,6 +616,8 @@
 		"italian": "Vesti da maestro",
 		"chinese": "大师服装",
 		"polish": "Strój Mistrza",
+		"japanese": "達人の衣装",
+		
 	},
 	"skillDesc_farmerMasterOutfit": {
 		"english": "Can wear outfits meant for master farmers.",
@@ -600,6 +629,7 @@
 		"italian": "Può indossare vesti pensate per maestri coltivatori.",
 		"chinese": "可以穿农民大师服装.",
 		"polish": "Można nosić strój przeznaczony dla mistrzów farmerstwa.",
+		"japanese": "農業の達人向けの衣装を着ることが出来ます。",
 	},
 
 
@@ -614,6 +644,7 @@
 		"italian": "Basi dell'artigianato",
 		"chinese": "基础工艺",
 		"polish": "Podstawy rzemieślnictwa",
+		"japanese": "クラフトの基本",
 	},
 	"skillDesc_craftsmanBasics": {
 		"english": "Can tell a hammer from a nail.",
@@ -625,6 +656,8 @@
 		"italian": "Può distinguere un martello da un chiodo.",
 		"chinese": "可以锤钉子造东西.",
 		"polish": "Pozwala odróżniać młotek od gwoździa.",
+		"japanese": "ハンマーと釘の使い方を学びます。",
+		
 	},
 	"skillTitle_forging": {
 		"english": "Forging",
@@ -636,6 +669,7 @@
 		"italian": "Forgiatura",
 		"chinese": "锻造制造",
 		"polish": "Wykuwanie",
+		"japanese": "鍛造",
 	},
 	"skillDesc_forging": {
 		"english": "Can use the forge to make tools, weapons, and armor.",
@@ -647,6 +681,8 @@
 		"italian": "Può usare la forgia per fabbricare utensili, armi e armature.",
 		"chinese": "可以使用熔炉制造工具,武器和装甲.",
 		"polish": "Można w kuźni wykuwać narzędzia, bronie i zbroje.",
+		"japanese": "鍛造スキルを使って、道具、武器、鎧を作ることが出来ます。",
+		
 	},
 	"skillTitle_makingBows": {
 		"english": "Making Bows",
@@ -658,6 +694,7 @@
 		"italian": "Fabbricazione di archi",
 		"chinese": "制造弓",
 		"polish": "Łuczarstwo",
+		"japanese": "弓を作成",
 	},
 	"skillDesc_makingBows": {
 		"english": "Can make bows.",
@@ -669,6 +706,7 @@
 		"italian": "Può fabbricare archi.",
 		"chinese": "可以制造弓",
 		"polish": "Można wytwarzać łuki.",
+		"japanese": "弓を作成することが出来ます。",
 	},
 	"skillTitle_tailoring": {
 		"english": "Tailoring",
@@ -680,6 +718,7 @@
 		"italian": "Sartoria",
 		"chinese": "裁缝服装",
 		"polish": "Krawiectwo",
+		"japanese": "仕立て",
 	},
 	"skillDesc_tailoring": {
 		"english": "Can use the tailor's workshop to make clothes and armor.",
@@ -691,6 +730,8 @@
 		"italian": "Può usare il banco da lavoro del sarto per realizzare vesti e armature.",
 		"chinese": "可以使用裁缝车间缝制衣服和防具.",
 		"polish": "Można używać warsztatu krawieckiego do szycia ubrań i pancerzy.",
+		"japanese": "仕立て作業台を使って、服や鎧を作ることが出来ます。",
+		
 	},
 	"skillTitle_weaving": {
 		"english": "Weaving",
@@ -702,6 +743,8 @@
 		"italian": "Tessitura",
 		"chinese": "纺织布匹",
 		"polish": "Tkactwo",
+		"japanese": "織り物を織る",
+		
 	}, // description doesn't exist (yet)
 	"skillTitle_tailoringMaster": {
 		"english": "Tailoring difficult cloth",
@@ -713,6 +756,7 @@
 		"italian": "Sartoria avanzata",
 		"chinese": "纺织各种各样的布匹",
 		"polish": "Zaawansowane krawiectwo.",
+		"japanese": "難易度の高い、あらゆる種類の布を織る",
 	},
 	"skillDesc_tailoringMaster": {
 		"english": "Some clothes require additional expertise to make.",
@@ -724,6 +768,7 @@
 		"italian": "Alcune vesti richiedono competenze avanzate per essere realizzate.",
 		"chinese": "有些衣服需要额外的专业知识才能缝制.",
 		"polish": "Niektóre kroje wymagają precyzyjnych zdolności do ich uszycia.",
+		"japanese": "一部の衣服は、作るために追加の専門知識が必要になります。",
 	},
 	"skillTitle_craftsmanMasterOutfit": {
 		"english": "Master Outfit",
@@ -735,6 +780,7 @@
 		"italian": "Vesti da maestro",
 		"chinese": "大师服装",
 		"polish": "Strój Mistrza",
+		"japanese": "達人の衣装",
 	},
 	"skillDesc_craftsmanMasterOutfit": {
 		"english": "Can wear outfits meant for master craftsmen.",
@@ -746,6 +792,7 @@
 		"italian": "Può indossare abiti pensati per maestri artigiani.",
 		"chinese": "可以穿工匠的大师服装.",
 		"polish": "Można nosić strój przeznaczony dla mistrzów rzemiosła.",
+		"japanese": "クラフトの達人向けの衣装を着ることが出来ます。",
 	},
 
 
@@ -761,6 +808,7 @@
 		"italian": "Basi della medicina",
 		"chinese": "基础医学",
 		"polish": "Podstawy medycyny",
+		"japanese": "医学の基礎を学ぶ",
 	},
 	"skillDesc_doctorBasics": {
 		"english": "Can tell medicine from poison (most times).",
@@ -772,6 +820,7 @@
 		"italian": "Può distinguere la medicina dal veleno (la maggior parte delle volte).",
 		"chinese": "可以分辨出药物和毒物（大多数情况下）.",
 		"polish": "Pozwala odróżnić lekarstwo od trucizny... zazwyczaj.",
+		"japanese": "ほとんどの場合、薬と毒を見分けることが出来ます。",
 	},
 	"skillTitle_fluTreatment": {
 		"english": "Flu Treatment",
@@ -783,6 +832,7 @@
 		"italian": "Trattamento per influenza",
 		"chinese": "治疗流感",
 		"polish": "Leczenie grypy",
+		"japanese": "簡易インフルエンザ治療薬",
 	},
 	"skillDesc_fluTreatment": {
 		"english": "Can try simple treatments for the flu.",
@@ -794,6 +844,7 @@
 		"italian": "Può provare semplici trattamenti per l'influenza.",
 		"chinese": "可以治疗轻度的流感.",
 		"polish": "Można wykorzystać tradycyjne kuracje w leczeniu grypy.",
+		"japanese": "インフルエンザの簡単な治療薬を作ることが出来ます。",
 	},
 	"skillTitle_makingMedicalPotions": {
 		"english": "Medical Potions",
@@ -805,6 +856,7 @@
 		"italian": "Pozioni mediche",
 		"chinese": "治疗药水",
 		"polish": "Mikstury lecznicze",
+		"japanese": "回復薬",
 	},
 	"skillDesc_makingMedicalPotions": {
 		"english": "Can make healing potions.",
@@ -816,6 +868,7 @@
 		"italian": "Può realizzare pozioni curative.",
 		"chinese": "可以制作治疗药水.",
 		"polish": "Można wytwarzać mikstury lecznicze.",
+		"japanese": "回復薬を作ることが出来ます。",
 	},
 	"skillTitle_betterFluTreatments": {
 		"english": "Better Flu Treatment",
@@ -827,6 +880,7 @@
 		"italian": "Trattamento per influenza avanzato",
 		"chinese": "强效治疗流感",
 		"polish": "Zaawansowane leczenie grypy",
+		"japanese": "良質なインフルエンザ治療薬",
 	},
 	"skillDesc_betterFluTreatments": {
 		"english": "Flu treatments have a higher chance of succeeding.",
@@ -838,6 +892,7 @@
 		"italian": "I trattamenti per l'influenza hanno maggiori possibilità di avere successo.",
 		"chinese": "流感治疗成功的可能性更高.",
 		"polish": "Leczenie grypy ma większe szanse powodzenia.",
+		"japanese": "より良質なインフルエンザ治療薬を作ることが出来ます。",
 	},
 	"skillTitle_applySplints": {
 		"english": "Applying Splints",
@@ -849,6 +904,7 @@
 		"italian": "Applicazione di stecche",
 		"chinese": "固定夹板",
 		"polish": "Zakładanie łubków",
+		"japanese": "簡易な添え木をつける",
 	},
 	"skillDesc_applySplints": {
 		"english": "Can apply splints to heal a hurt or broken limb.",
@@ -860,6 +916,7 @@
 		"italian": "Può applicare le stecche per curare un arto ferito o rotto.",
 		"chinese": "可以用夹板治愈受伤或折断的肢体.",
 		"polish": "Można stosować łubki, do unieruchomienia złamanej kończyny.",
+		"japanese": "簡易な添え木を使用して、怪我や手足の骨折を治療することが出来ます。",
 	},
 	"skillTitle_splintMaster": {
 		"english": "Splint Master",
@@ -871,6 +928,7 @@
 		"italian": "Maestro di stecche",
 		"chinese": "高级夹板",
 		"polish": "Mistrz łubków",
+		"japanese": "良質な添え木",
 	},
 	"skillDesc_splintMaster": {
 		"english": "Has a lower probability for messing up splints.",
@@ -882,6 +940,7 @@
 		"italian": "Ha una minore probabilità di applicare male le stecche.",
 		"chinese": "夹板损坏的几率较低.-TODO",
 		"polish": "Prawdopodobieństwo dodatkowego połamania kończyny staje się niższe.",
+		"japanese": "簡易な添え木に比べて、壊れにくい添え木です。",
 	},
 	"skillTitle_doctorMasterOutfit": {
 		"english": "Master Outfit",
@@ -893,6 +952,7 @@
 		"italian": "Vesti da maestro",
 		"chinese": "大师服装",
 		"polish": "Strój Mistrza",
+		"japanese": "達人の衣装",
 	},
 	"skillDesc_doctorMasterOutfit": {
 		"english": "Can wear outfits meant for master doctors.",
@@ -904,6 +964,7 @@
 		"italian": "Può indossare vesti pensate per maestri medici.",
 		"chinese": "可以穿医生的大师服装.",
 		"polish": "Można nosić strój przeznaczony dla mistrzów lekarzy.",
+		"japanese": "医者の達人向けの衣装を着ることが出来ます。",
 	},
 
 
@@ -918,6 +979,7 @@
 		"italian": "Fondamenti accademici",
 		"chinese": "基础学术",
 		"polish": "Podstawy akademickie",
+		"japanese": "学問の基礎を学ぶ",
 	},
 	"skillDesc_scholarBasics": {
 		"english": "Has understood the basics of the scientific method.",
@@ -929,6 +991,7 @@
 		"italian": "Ha compreso le basi del metodo scientifico.",
 		"chinese": "了解基础的科学知识.",
 		"polish": "Zrozumienie podstaw metodyki naukowej.",
+		"japanese": "科学的な基礎知識を学ぶことができる。",
 	},
 	"skillTitle_researchScrolls": {
 		"english": "Research Scrolls",
@@ -940,6 +1003,7 @@
 		"italian": "Pergamene di ricerca",
 		"chinese": "研究卷轴",
 		"polish": "Badanie zwojów",
+		"japanese": "スクロール解析",
 	},
 	"skillDesc_researchScrolls": {
 		"english": "Can read ancient scrolls to gain some knowledge out of them.",
@@ -951,6 +1015,7 @@
 		"italian": "Può leggere le antiche pergamene per ottenere qualche conoscenza.",
 		"chinese": "可以阅读卷轴以获取一些知识.",
 		"polish": "Można odkrywać wiedzę w starożytnych zwojach.",
+		"japanese": "スクロールを解析して、いくつかの知識を得ることが出来ます。",
 	},
 	"skillTitle_teaching": {
 		"english": "Teaching",
@@ -962,6 +1027,7 @@
 		"italian": "Insegnamento",
 		"chinese": "教书育人",
 		"polish": "Nauczanie",
+		"japanese": "人を教えて教育する",
 	},
 	"skillDesc_teaching": {
 		"english": "Can teach children life skills. In person teaching is always quicker then letting children learn from books.",
@@ -973,6 +1039,7 @@
 		"italian": "Può insegnare ai bambini competenze di vita. Insegnare di persona è sempre più veloce che lasciare che i bambini imparino dai libri.",
 		"chinese": "可以教孩子生活技能.亲自教学学得更快,然后让孩子们自主从书本中学习知识.",
 		"polish": "Można uczyć dzieci umiejętności przydatnych w życiu. Takie nauczanie jest szybsze niż nauka z książek.",
+		"japanese": "子供たちに、日常生活に対応した生き方を教えることが出来ます。直接、教えることは子供たちに本から学ばせるよりも早く教えることが出来ます。",
 	},
 	"skillTitle_scholarMasterOutfit": {
 		"english": "Master Outfit",
@@ -984,6 +1051,8 @@
 		"italian": "Vesti da maestro",
 		"chinese": "大师服装",
 		"polish": "Strój Mistrza",
+		"japanese": "達人の衣装",
+		
 	},
 	"skillDesc_scholarMasterOutfit": {
 		"english": "Can wear outfits meant for master scholars.",
@@ -995,6 +1064,7 @@
 		"italian": "Può indossare abiti pensati per maestri studiosi.",
 		"chinese": "可以穿教师的大师服装.",
 		"polish": "Można nosić strój przeznaczony dla uczonych mistrzów.",
+		"japanese": "学問の達人向けの衣装を着ることが出来ます。",
 	},
 
 
@@ -1009,6 +1079,8 @@
 		"italian": "Basi del combattimento",
 		"chinese": "基础战斗",
 		"polish": "Podstawy walki",
+		"japanese": "戦闘の基礎を学びます",
+		
 	},
 	"skillDesc_soldierBasics": {
 		"english": "Knows to aim the pointy end of the stick at the enemy.",
@@ -1020,6 +1092,7 @@
 		"italian": "Sa puntare la punta del bastone verso il nemico.",
 		"chinese": "懂得如何把武器挥向敌人.",
 		"polish": "Wiadomym jest, że we wroga należy skierować ten ostry koniec.",
+		"japanese": "敵と戦う基礎的な技術を学びます。",
 	},
 	"skillTitle_fightWoodenSwords": {
 		"english": "Wooden Swords",
@@ -1031,6 +1104,7 @@
 		"italian": "Spade di legno",
 		"chinese": "木制刀剑",
 		"polish": "Drewniane miecze",
+		"japanese": "木製の剣",
 	},
 	"skillDesc_fightWoodenSwords": {
 		"english": "Can fight with wooden swords.",
@@ -1042,6 +1116,7 @@
 		"italian": "Può lottare con le spade di legno.",
 		"chinese": "可以使用木制的剑战斗.",
 		"polish": "Można walczyć drewnianymi mieczami.",
+		"japanese": "木製の剣で戦うことが出来ます。",
 	},
 	"skillTitle_fightStoneSwords": {
 		"english": "Stone Swords",
@@ -1053,6 +1128,7 @@
 		"italian": "Spade di pietra",
 		"chinese": "石制刀剑",
 		"polish": "Kamienne miecze",
+		"japanese": "石製の剣",
 	},
 	"skillDesc_fightStoneSwords": {
 		"english": "Can fight with stone swords.",
@@ -1064,6 +1140,7 @@
 		"italian": "Può lottare con le spade di pietra.",
 		"chinese": "可以使用石制的剑战斗.",
 		"polish": "Można walczyć kamiennymi mieczami.",
+		"japanese": "石製の剣で戦うことが出来ます。",
 	},
 	"skillTitle_fightMetalSwords": {
 		"english": "Metal Swords",
@@ -1075,6 +1152,7 @@
 		"italian": "Spade di metallo",
 		"chinese": "铁制刀剑",
 		"polish": "Metalowe miecze",
+		"japanese": "金属製の剣",
 	},
 	"skillDesc_fightMetalSwords": {
 		"english": "Can fight with metal swords.",
@@ -1086,6 +1164,7 @@
 		"italian": "Può lottare con le spade di metallo.",
 		"chinese": "可以使用铁制的剑战斗.",
 		"polish": "Można walczyć metalowymi mieczami.",
+		"japanese": "金属製の剣で戦うことが出来ます。",
 	},
 	"skillTitle_fightBow": {
 		"english": "Archery",
@@ -1097,6 +1176,7 @@
 		"italian": "Arcieria",
 		"chinese": "射箭",
 		"polish": "Łucznictwo",
+		"japanese": "アーチェリー[洋弓]",
 	},
 	"skillDesc_fightBow": {
 		"english": "Can use ranged weapons to hurt the enemy from afar.",
@@ -1108,6 +1188,7 @@
 		"italian": "Può usare armi a distanza per ferire i nemici da lontano.",
 		"chinese": "可以使用远程武器远距离伤害敌人.",
 		"polish": "Można korzystać z broni dystansowej.",
+		"japanese": "遠距離武器を使用して遠くから敵を攻撃することが出来ます。",
 	},
 	"skillTitle_martialArts": {
 		"english": "Martial Arts",
@@ -1119,6 +1200,7 @@
 		"italian": "Arti marziali",
 		"chinese": "武术",
 		"polish": "Sztuki walki",
+		"japanese": "武技",
 	},
 	"skillDesc_martialArts": {
 		"english": "Can deal extra damage when unarmed.",
@@ -1130,6 +1212,7 @@
 		"italian": "Può infliggere danni aggiuntivi quando disarmato.",
 		"chinese": "空手战斗造成额外伤害.",
 		"polish": "Można zadawać dodatkowe obrażenia, będąc nieuzbrojonym.",
+		"japanese": "武装していないときに、追加のダメージを与えることが出来ます。",
 	},
 	"skillTitle_sneaking": {
 		"english": "Sneaking",
@@ -1141,6 +1224,7 @@
 		"italian": "Furtività",
 		"chinese": "潜行",
 		"polish": "Skradanie się",
+		"japanese": "忍び歩き",
 	},
 	"skillDesc_sneaking": {
 		"english": "Can walk around enemy camps without waking anyone.",
@@ -1152,6 +1236,8 @@
 		"italian": "Può camminare nei campi nemici senza svegliare nessuno.",
 		"chinese": "可以在敌方营地周围走动而不会惊动任何人.",
 		"polish": "Można bezszelestnie przekradać się wokół wrogich obozów.",
+		"japanese": "忍び歩きを習得すると、誰も起こさずに敵の陣営を歩き回ることが出来ます。",
+		
 	},
 	"skillTitle_mediumArmor": {
 		"english": "Medium Armor",
@@ -1163,6 +1249,9 @@
 		"italian": "Armatura media",
 		"chinese": "中型防具",
 		"polish": "Średnia zbroja",
+		"japanese": "ミディアムアーマー",
+		
+		
 	},
 	"skillDesc_mediumArmor": {
 		"english": "Can wear medium armor.",
@@ -1174,6 +1263,7 @@
 		"italian": "Può indossare armature medie.",
 		"chinese": "可以装备中型防具.",
 		"polish": "Można nosić średnią zbroję.",
+		"japanese": "ミディアムアーマーを着ることが出来ます。",
 	},
 	"skillTitle_heavyArmor": {
 		"english": "Heavy Armor",
@@ -1185,6 +1275,7 @@
 		"italian": "Armatura pesante",
 		"chinese": "重型防具",
 		"polish": "Ciężka zbroja",
+		"japanese": "ヘビィアーマー",
 	},
 	"skillDesc_heavyArmor": {
 		"english": "Can wear heavy armor.",
@@ -1196,5 +1287,6 @@
 		"italian": "Può indossare armature pesanti.",
 		"chinese": "可以装备重型防具.",
 		"polish": "Można nosić ciężką zbroję.",
+		"japanese": "ヘビィアーマーを着ることが出来ます。",
 	},
 }

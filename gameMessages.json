@@ -40,6 +40,7 @@
 		"french": "Doit être construit au bord de l'eau !",
 		"spanish": "¡Necesita ser construido junto al agua!",
 		"portuguese": "Precisa ser construído junto à água!",
+		"chinese": "需要建在水旁边!",
 	},
 	"needsToBeBuiltOnFloor": { // used for furniture building
 		"english": "Needs to be built on floor",
@@ -302,13 +303,15 @@
 		"english": "%fullName% died",
 		"german": "%fullName% gestorben",
 		"french": "%fullName% est mort",
-		"portuguese": "%fullName% morreu",		
+		"portuguese": "%fullName% morreu",
+		"chinese": "%firstName% 死了",
 	},
 	"notificationTitle_AnimalBecameWild": {
 		"english": "%fullName% has become untamed",
 		"german": "%fullName% ist jetzt ungezähmt",
 		"french": "%fullName% n'est plus apprivoisé%e%",
 		"portuguese": "%fullName% tornou-se selvagem",
+		"chinese": "%firstName% 驯服成功了",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -757,7 +760,7 @@
 		"russian": "Здесь нет пустой могилы",
 		"portuguese": "Não há sepultura vazia",
 		"italian": "Non ci sono tombe vuote",
-		"chinese": "没有空余的坟墓-TODO",
+		"chinese": "没有空余的坟墓",
 		"turkish": "Boş mezar yok",
 	},
 	"notificationTitle_ProfessionLevelUp": {
@@ -768,6 +771,7 @@
 		"italian": "%firstName% ora è %profession% di livello %level%",
 		"portuguese": "%firstName% agora é um nível %level% %profession%",
 		"turkish": "%firstName%, mesleği %profession% de %level% seviyesinde",
+		"chinese": "%firstName%现在是%level%级的%profession%",
 	},
 
 
@@ -982,6 +986,7 @@
 		"russian": "%firstName% получил %days% доп. дней!",
 		"portuguese": "%firstName% recebe %days% dias extras!",
 		"turkish": "%firstName% fazladan %days% gün kazandı!",
+		"chinese": "%firstName%额外获得%days%天！",
 	},
 	"tamingSucceeded": {
 		"english": "Taming successful!",
@@ -992,6 +997,7 @@
 		"russian": "Приручение прошло успешно!",
 		"portuguese": "Domando com sucesso!",
 		"turkish": "Ehlileştirme başarılı",
+		"chinese": "驯服成功！",
 	},
 	"tamingInProgress": {
 		"english": "Taming in progress...",
@@ -1002,6 +1008,7 @@
 		"russian": "Приручение в процессе...",
 		"portuguese": "Domando em andamento ...",
 		"turkish": "Ehlileştirme süreci",
+		"chinese": "正在驯服...",
 	},
 
 
@@ -1873,6 +1880,7 @@
 		"italian":  "Problemi psicologici",
 		"russian": "Психологические проблемы",
 		"portuguese": "Problemas psicológicos",
+		"chinese": "心理问题",
 	},
 	"messageText_negativeTraitEvent": {
 		"english":  "%firstName% has been miserable for a long time now. %cap-hisHer% bad mental state has caused %himHer% to gain a new trait: '%trait%'",
@@ -1882,6 +1890,7 @@
 		"italian":  "%firstName% è stat%OA% infelice per molto tempo. Il suo pessimo stato mentale %GliLe% ha fatto ottenere un nuovo tratto: '%trait%'",
 		"russian": "%firstName% был несчастен в течение долгого времени. Из-за этого он обрел новую черту: '%trait%'",
 		"portuguese": "%firstName% está infeliz há muito tempo. %cap-seuSua% seu mau estado mental fez com que ele se tornasse um novo traço: '%trait%'",
+		"chinese": "%firstName%很久以来一直很痛苦。%cap-hisHer%的不良心理状态已导致%himHer%获得新的症状：'%trait%'",
 	},
 
 

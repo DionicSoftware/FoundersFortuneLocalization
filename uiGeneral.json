@@ -778,6 +778,7 @@
 		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind incompatibil.\nTrebuie să-l actualizați pentru a-l activa.",
 		"japanese": "このコンテンツは開発者によって互換性がないとマークされています。\nアクティブ化するにはコンテンツを更新する必要があります",
 	},
+	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
 		"german": "Anwenden und neustarten",
@@ -1321,6 +1322,7 @@
 		"polish": "Detale trawy",
 		"portuguese": "Grama detalhada",
 		"japanese": "草の描画クオリティー",
+		"chinese": "更细致的草",
 	},
 	"on": {
 		"english": "On",
@@ -3169,6 +3171,7 @@
 		"polish": "Ustawienia nowej gry",
 		"portuguese": "Configurações do jogo",
 		"japanese": "ゲーム設定",
+		"chinese": "游戏设置",
 	},
 	"mapSize": {
 		"english": "Map Size",
@@ -3178,6 +3181,7 @@
 		"polish": "Wielkość mapy",
 		"portuguese": "Tamanho do mapa",
 		"japanese": "マップサイズ",
+		"chinese": "地图尺寸",
 	},
 	"mapSizeSmall": {
 		"english": "Small",
@@ -3187,6 +3191,7 @@
 		"polish": "Mała",
 		"portuguese": "Pequena",
 		"japanese": "小さい",
+		"chinese": "小型",
 	},
 	"mapSizeMedium": {
 		"english": "Medium",
@@ -3196,6 +3201,7 @@
 		"polish": "Średnia",
 		"portuguese": "Média",
 		"japanese": "中ぐらい",
+		"chinese": "中型",
 	},
 	"mapSizeLarge": {
 		"english": "Large",
@@ -3205,6 +3211,7 @@
 		"polish": "Duża",
 		"portuguese": "Grande",
 		"japanese": "大きい",
+		"chinese": "大型",
 	},
 	"advancedSettings": {
 		"english": "Advanced Settings",
@@ -3214,6 +3221,8 @@
 		"polish": "Ustawienia zaawansowane",
 		"portuguese": "Configurações avançadas",
 		"japanese": "高度な設定",
+		"chinese": "高级设置",
+	},
 	},
 	"peacefulPirates": {
 		"english": "Peaceful Pirates",
@@ -3223,6 +3232,7 @@
 		"polish": "Pacyfistyczni piraci",
 		"portuguese": "Piratas pacíficos",
 		"japanese": "平和な海賊",
+		"chinese": "和平海盗",
 	},
 	"peacefulGoblins": {
 		"english": "Peaceful Goblins",
@@ -3232,6 +3242,7 @@
 		"polish": "Pokojowe Gobliny",
 		"portuguese": "Goblins pacíficos",
 		"japanese": "平和なゴブリン",
+		"chinese": "和平哥布林",
 	},
 	"islandBiomes": {
 		"english": "Island Biomes",
@@ -3241,6 +3252,7 @@
 		"polish": "Biomy wysp",
 		"portuguese": "Biomas da Ilha",
 		"japanese": "アイランド",
+		"chinese": "海岛地形",
 	},
 	"biomesGrass": {
 		"english": "Mostly Grassland",
@@ -3250,6 +3262,7 @@
 		"polish": "Przeważnie trawiaste",
 		"portuguese": "Pastagem",
 		"japanese": "草原地帯",
+		"chinese": "草原地形",
 	},
 	"biomesMixed": {
 		"english": "Mixed",
@@ -3259,6 +3272,7 @@
 		"polish": "Mieszane",
 		"portuguese": "Misturada",
 		"japanese": "混合地帯",
+		"chinese": "混合地形",
 	},
 	"biomesForest": {
 		"english": "Mostly Forest",
@@ -3268,6 +3282,7 @@
 		"polish": "Przeważnie lesiste",
 		"portuguese": "Floresta",
 		"japanese": "森林地帯",
+		"chinese": "森林地形",
 	},
 	"goblinVillages": {
 		"english": "Goblin Villages",
@@ -3277,6 +3292,7 @@
 		"polish": "Wioski Goblinów",
 		"portuguese": "Aldeias goblins",
 		"japanese": "ゴブリンの村",
+		"chinese": "哥布林村庄",
 	},
 	"goblinVillagesNone": {
 		"english": "None",
@@ -3286,6 +3302,7 @@
 		"polish": "brak",
 		"portuguese": "Nenhum",
 		"japanese": "なし",
+		"chinese": "无",
 	},
 	"goblinVillagesFew": {
 		"english": "Few",
@@ -3295,6 +3312,7 @@
 		"polish": "Sporadyczne",
 		"portuguese": "Poucos",
 		"japanese": "少ない",
+		"chinese": "少量",
 	},
 	"goblinVillagesDefault": {
 		"english": "Some",
@@ -3304,6 +3322,7 @@
 		"polish": "Nieliczne",
 		"portuguese": "Alguns",
 		"japanese": "いくつか",
+		"chinese": "一些",
 	},
 	"goblinVillagesMany": {
 		"english": "Many",
@@ -3313,6 +3332,7 @@
 		"polish": "Częste",
 		"portuguese": "Muitos",
 		"japanese": "たくさん",
+		"chinese": "很多",
 	},
 	"aging": {
 		"english": "Aging",
@@ -3322,6 +3342,7 @@
 		"polish": "Starzenie się",
 		"portuguese": "Envelhecimento",
 		"japanese": "老化",
+		"chinese": "老化",
 	},
 	"agingTooltip": {
 		"english": "With slow aging, villagers live twice as long.\nWith fast aging, villagers age 50% quicker.",
@@ -3331,6 +3352,7 @@
 		"polish": "Przy wolnym starzeniu się, osadnicy żyją dwa razy dłużej.\nPrzy szybkim starzeniu się, osadnicy żyją o 50% krócej.",
 		"portuguese": "Com o envelhecimento lento, os aldeões vivem duas vezes mais.\nCom o envelhecimento rápido, os aldeões envelhecem 50% mais rápido.",
 		"japanese": "老化が遅いとコロニストは2倍長生きします。\n急速に老化するとコロニストは50%はやく老化してしまいます。",
+		"chinese": "老化速度缓慢，村民的寿命延长到原来的两倍。\n老化速度快速，村民的寿命缩减到原来的50%。",
 	},
 	"agingOff": {
 		"english": "Off",
@@ -3340,6 +3362,7 @@
 		"polish": "Wyłączone",
 		"portuguese": "Desativado",
 		"japanese": "OFF",
+		"chinese": "关闭",
 	},
 	"agingSlow": {
 		"english": "Slow",
@@ -3349,6 +3372,7 @@
 		"polish": "Wolne",
 		"portuguese": "Lento",
 		"japanese": "ゆっくり",
+		"chinese": "缓慢",
 	},
 	"agingDefault": {
 		"english": "Standard",
@@ -3358,6 +3382,7 @@
 		"polish": "Normalne",
 		"portuguese": "Normal",
 		"japanese": "ふつう",
+		"chinese": "标准",
 	},
 	"agingFast": {
 		"english": "Fast",
@@ -3367,6 +3392,7 @@
 		"polish": "Szybkie",
 		"portuguese": "Rápido",
 		"japanese": "速い",
+		"chinese": "快速",
 	},
 	"newGameSaveName": { // default save game name when settlers have left by boat
 		"english": "Save after boat departed",
@@ -3376,6 +3402,7 @@
 		"polish": "Zapis z początku gry",
 		"portuguese": "Salvar depois de barco partiu",
 		"japanese": "船が出発したあとのバックアップ",
+		"chinese": "船只出发后保存游戏",
 	},
 	"credits": {
 		"english": "Credits",
@@ -3384,6 +3411,7 @@
 		"spanish": "Créditos",
 		"portuguese": "Créditos",
 		"japanese": "クレジット",
+		"chinese": "鸣谢",
 	},
 	"saveCorrupted":  {
 		"english": "Unfortunately this save file seems to be corrupted and can not be read.",
@@ -3391,5 +3419,6 @@
 		"french": "Malheureusement, ce fichier de sauvegarde semble être corrompu et ne peut pas être lu.",
 		"portuguese": "Infelizmente, este arquivo salvo parece estar corrompido e não pode ser lido.",
 		"japanese": "残念ながらこのセーブデーターは破損しているようで読み取ることができません。",
+		"chinese": "不幸的是，此存档文件似乎已损坏，无法读取。",
 	}
 }

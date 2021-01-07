@@ -302,7 +302,7 @@
 		"russian": "Вашей колонии явно понравится этот стильный пол.",
 		"ukrainian":"Вашій колонії явно сподобається ця стильна підлог.",
 		"korean": "이 스타일리쉬한 바닥을 깔고 나면 정착지가 초라해 보일지도 몰라요.",
-		"chinese": "用这时髦的地板使你的殖民地Dwarf up",
+		"chinese": "用这时髦的地板使你的殖民地矮人化",
 		"italian": "Rivivi lo splendore nanico con questo pavimento elegante.",
 		"polish": "Twoja rodzina z pewnością pokocha tę stylową podłogę.",
 		"japanese": "装飾されていますがみすぼらしく見えるかもしれません。",
@@ -314,6 +314,7 @@
 		"spanish": "Piso de madera cuadrado",
 		"portuguese": "Piso de madeira quadrado",
 		"japanese": "四角模様の木の床",
+		"chinese": "方形木地板",
 	},
 	"floorSquareWoodDescription": {
 		"english": "How do you take 5 different types of wood and make floor that looks good? This is the answer!",
@@ -322,6 +323,7 @@
 		"spanish": "¿Cómo tomas 5 tipos de madera distintos y creas un suelo que se vea bien? ¡Esta es la respueta!",
 		"portuguese": "Como você pega 5 tipos diferentes de madeira e faz um piso com uma boa aparência? Esta é a resposta!",
 		"japanese": "多数の木材を使った見栄えの良い木の床です。",
+		"chinese": "如何拿5种不同类型的木材制成看起来不错的地板？这就是答案！",
 	},
 	"floorArrowsWood": {
 		"english": "Herringbone Wooden Floor",
@@ -330,6 +332,7 @@
 		"spanish": "Piso de madera en espinapez",
 		"portuguese": "Piso de madeira espinha",
 		"japanese": "魚骨模様の木の床",
+		"chinese": "鱼骨木地板",
 	},
 	"floorArrowsWoodDescription": {
 		"english": "I'm not sure why this pattern is named after a fish skeleton, but it actually looks pretty great!",
@@ -338,6 +341,7 @@
 		"spanish": "No estoy seguro de por qué este patrón tiene el nombre del esqueleto de un pez, ¡pero en realidad se ve muy bien!",
 		"portuguese": "Não sei por que esse padrão tem o nome de um esqueleto de peixe, mas na verdade parece muito bom!",
 		"japanese": "床の模様が魚の骨格に似ているかなり見栄えのする木の床です。",
+		"chinese": "我不知道为什么这种图案以鱼的骨骼命名，但是实际上看起来很棒！",
 	},
 
 // Stone Floors
@@ -646,6 +650,7 @@
 		"spanish": "Alfombra cúbica",
 		"portuguese": "Tapete Cube",
 		"japanese": "立体模様の絨毯",
+		"chinese": "立方体地毯",
 	},
 	"carpetCubesDescription": {
 		"english": "The pattern on this carpet represents structure. Orderliness. Stability. It gives the viewer a calm mind and let's them focus on the tasks at hand.",
@@ -654,6 +659,7 @@
 		"spanish": "El patrón de esta alfombra representa estructura. Orden. Estabilidad. Brinda al espectador una mente calmada y permite que se concentre en las tareas en cuestión.",
 		"portuguese": "O padrão neste tapete representa a estrutura. Ordem. Estabilidade. Isso dá ao espectador uma mente calma e permite que eles se concentrem nas tarefas em questão.",
 		"japanese": "正方形の立体模様が描かれた絨毯です。不思議と眺めていると落ち着いてきます。",
+		"chinese": "地毯上的立方体图案代表着结构、有序、稳定性。它使观众保持冷静，让他们专注于手头的工作。",
 	},
 	"carpetTriangles": {
 		"english": "Confusing-Color-Carpet",
@@ -662,6 +668,7 @@
 		"spanish": "Alfombra de color confuso",
 		"portuguese": "Confundindo Tapete Cor",
 		"japanese": "錯視模様の絨毯",
+		"chinese": "幻彩地毯",
 	},
 	"carpetTrianglesDescription": {
 		"english": "Don't stare at this pattern for too long or you might get hypnotized! Use this carpet when you want to express you're ... different.",
@@ -670,6 +677,7 @@
 		"spanish": "¡No mires este diseño por mucho tiempo o puede que quedes hipnotizado! Usa esta alfombra cuando quieras expresar que eres... diferente.",
 		"portuguese": "Não olhe fixamente para este padrão por muito tempo ou você pode ficar hipnotizado! Use este tapete quando quiser expressar que você é ... diferente.",
 		"japanese": "錯視模様が描かれた絨毯です。頭が混乱しますので長時間見つめないでください。",
+		"chinese": "不要长时间盯着这地毯，否则您可能会被催眠！ 当你想表达自己与众不同时，请使用此地毯。",
 	},
 
 
@@ -751,6 +759,7 @@
 		"spanish": "Pavimento de adoquines escalados",
 		"portuguese": "Pavimento de calçada em escala",
 		"japanese": "複雑な模様の石の道",
+		"chinese": "鹅卵石路面。",
 	},
 	"floorStoneCobblesDescription": {
 		"english": "Once you have survived for a couple of years, you may want to upgrade the look of your town. And this stunning type of pavement is going to be part of that upgrade! Show your villagers you care, by providing them with a nice environment in the inner city.",
@@ -759,6 +768,7 @@
 		"spanish": "Una vez hayas sobrevivido por un par de años, puede que quieras mejorar el aspecto de tu ciudad. ¡Y este deslumbrante tipo de pavimento será parte de esa mejora! Demuestra a los aldeanos que te preocupas, al proveerles de un ambiente agradable en el centro urbano.",
 		"portuguese": "Depois de sobreviver por alguns anos, você pode querer melhorar a aparência de sua cidade. E esse tipo de pavimento deslumbrante fará parte dessa atualização! Mostre aos seus aldeões que você se importa, proporcionando-lhes um ambiente agradável no centro da cidade.",
 		"japanese": "敷設に時間がかかる石の道です。幾何学的な模様が描かれ、発展したコロニーに相応しい素晴らしい道です。",
+		"chinese": "生活了几年后，你可能需要升级城镇的外观。这种令人惊叹的路面类型将成为升级的一部分！在内城区为他们提供良好的环境，向村民展示您的关心。",
 	},
 
 // Wooden Walls

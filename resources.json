@@ -14,7 +14,7 @@
 		"arabic": "%amount% %resource%",
 		"italian": "%amount% %resource%",
 		"polish": "%amount% %resource%",
-		"japanese": "%amount% %resource%",
+		"japanese": "%resource% %amount%",
 	},
 	"resourceName_FoodRaw": {
 		"english": "Raw Food",
@@ -311,6 +311,7 @@
 		"arabic": "ﺥﻮﺒﻄﻣ ﺮﻴﻏ ﻡﺎﻌﻃ",
 		"italian": "Cibo crudo",
 		"polish": "Surowa żywność",
+		"japanese": "食材",
 	},
 	"resourceName_SimpleMeal": {
 		"english": "Campfire Food",
@@ -327,6 +328,7 @@
 		"arabic": "ﻢﻴﺨﻤﻟﺍ ﺭﺎﻧ ﻦﻣ ﻡﺎﻌﻃ",
 		"italian": "Cibo da falò",
 		"polish": "Jedzenie z ogniska",
+		"japanese": "焚火の料理",
 	},
 	"resourceName_GoodMeal": {
 		"english": "Kitchen Food",
@@ -343,6 +345,7 @@
 		"arabic": "ﺦﺒﻄﻤﻟﺍ ﻡﺎﻌﻃ",
 		"italian": "Cibo da cucina",
 		"polish": "Jedzenie z kuchni",
+		"japanese": "台所の料理",
 	},
 	"resourceName_BakedMeal": {
 		"english": "Baked Food",
@@ -359,6 +362,7 @@
 		"arabic": "ﺯﻮﺒﺨﻣ ﻡﺎﻌﻃ",
 		"italian": "Cibo da forno",
 		"polish": "Pieczone jedzenie",
+		"japanese": "石窯の料理",
 	},
 	"resourceName_BakedApple": {
 		"english": "Baked Apple",
@@ -375,6 +379,7 @@
 		"arabic": "ﻮﻬﻄﻣ ﺡﺎﻔﺗ",
 		"italian": "Mela cotta",
 		"polish": "Pieczone jabłko",
+		"japanese": "焼きリンゴ",
 	},
 	"resourceDescription_BakedApple": {
 		"english": "Especially tasty on cold winter days.",
@@ -406,6 +411,7 @@
 		"arabic": "ﺔﻳﻮﺸﻣ ﺲﻃﺎﻄﺑ",
 		"italian": "Patata al forno",
 		"polish": "Pieczony ziemniak",
+		"japanese": "焼きじゃが",
 	},
 	"resourceDescription_BakedPotato": {
 		"english": "Every hard working settler loves baked potatoes for their fluffy interior and crisp skin.",
@@ -437,6 +443,7 @@
 		"arabic": "ﻩﻮﻬﻄﻣ ﻢﻃﺎﻤﻃ",
 		"italian": "Pomodoro al forno",
 		"polish": "Pieczony pomidor",
+		"japanese": "焼きトマト",
 	},
 	"resourceDescription_BakedTomato": {
 		"english": "So simple to make but so tasty. A good way to start the day!",
@@ -462,6 +469,7 @@
 		"russian": "Жаренное мясо",
 		"portuguese": "Carne grelhada",
 		"polish": "Pieczone mięso",
+		"japanese": "肉の丸焼き",
 	},
 	"resourceName_PumpkinStew": {
 		"english": "Pumpkin Stew",
@@ -478,6 +486,7 @@
 		"arabic": "ﻦﻴﻄﻘﻴﻟﺍ ﺀﺎﺴﺣ",
 		"italian": "Stufato di zucca",
 		"polish": "Krem dyniowy",
+		"japanese": "かぼちゃのシチュー",
 	},
 	"resourceDescription_PumpkinStew": {
 		"english": "Fresh pumpkins cooked together with potatoes. This is why your colonists can't wait for fall to arrive!",
@@ -509,6 +518,7 @@
 		"arabic": "ﺲﻃﺎﻄﺒﻟﺍ ﺀﺎﺴﺣ",
 		"italian": "Zuppa di patate",
 		"polish": "Kartoflanka",
+		"japanese": "じゃがいものスープ",
 	},
 	"resourceDescription_PotatoSoup": {
 		"english": "Nutritious and tasty! A plate of potato soup always works for your settlers.",
@@ -534,6 +544,7 @@
 		"russian": "Мясо с картошкой",
 		"portuguese": "Carne e batatas",
 		"polish": "Mięso z ziemniakami",
+		"japanese": "肉とじゃがいもの炒め物",
 	},
 	"resourceName_FruitSalad": {
 		"english": "Fruit Salad",
@@ -550,6 +561,7 @@
 		"arabic": "ﺔﻛﺍﻮﻓ ﺔﻄﻠﺳ",
 		"italian": "Macedonia",
 		"polish": "Sałatka owocowa",
+		"japanese": "フルーツサラダ",
 	},
 	"resourceDescription_FruitSalad": {
 		"english": "A very popular dish among colonists with a sweet tooth.",
@@ -575,6 +587,7 @@
 		"russian": "Сыр",
 		"portuguese": "Queijo",
 		"polish": "Ser",
+		"japanese": "チーズ",
 	},
 	"resourceName_Bread": {
 		"english": "Bread",
@@ -591,6 +604,7 @@
 		"arabic": "ﺰﺒﺧ",
 		"italian": "Pane",
 		"polish": "Chleb",
+		"japanese": "パン",
 	},
 	"resourceDescription_Bread": {
 		"english": "Crispy on the outside, fluffy on the inside. What would life be without bread?",
@@ -622,6 +636,7 @@
 		"arabic": "ﺔﻟﻭﺍﺮﻔﻟﺍ ﻚﻴﻛ",
 		"italian": "Torta di fragole",
 		"polish": "Ciasto truskawkowe",
+		"japanese": "イチゴケーキ",
 	},
 	"resourceDescription_StrawberryCake": {
 		// TODO-turkish: good thoughts
@@ -660,6 +675,7 @@
 		"arabic": "ﺡﺎﻔﺘﻟﺍ ﺓﺮﻴﻄﻓ",
 		"italian": "Strudel di mele",
 		"polish": "Szarlotka",
+		"japanese": "アップルシュトルーデル",
 	},
 	"resourceDescription_AppleStrudel": {
 		"english": "With an amazing length of 752 meters, the longest apple strudel got made in a country far far away on the 15th of August. One can simply not have enough of this tasty dish!",
@@ -691,6 +707,7 @@
 		"arabic": "ﺪﻳﺪﺣ",
 		"italian": "Minerale di ferro",
 		"polish": "Ruda żelaza",
+		"japanese": "鉄鉱石",
 	},
 	"resourceDescription_IronOre": {
 		"english": "In order to produce more advanced tools, weapons and armor, you need to find and mine iron ore.",
@@ -722,6 +739,7 @@
 		"arabic": "ﺮﺠﺣ",
 		"italian": "Pietra",
 		"polish": "Kamień",
+		"japanese": "石",
 	},
 	"resourceDescription_Stone": {
 		"english": "Anytime you want to build something durable and fire-proof, you should prefer stone over wood.",
@@ -753,6 +771,7 @@
 		"arabic": "ﺀﺎﻔﺸﻟﺍ ﺕﺎﺗﺎﺒﻧ",
 		"italian": "Piante curative",
 		"polish": "Zioła lecznicze",
+		"japanese": "ヒーリングハーブ",
 	},
 	"resourceDescription_HealingPlant": {
 		"english": "Healing plants can be found in the wild or cultivated at home. They are a vital ingredient for most medical supplies.",
@@ -784,6 +803,7 @@
 		"arabic": "ﺔﻳﺮﺒﻟﺍ ﺀﺎﻔﺸﻟﺍ ﺕﺎﺗﺎﺒﻧ",
 		"italian": "Piante curative selvatiche",
 		"polish": "Dzikie zioła",
+		"japanese": "ヒーリングハーブ",
 	},
 	"resourceName_HealingPlantCultivated": {
 		"english": "Cultivated Healing Plants",
@@ -816,6 +836,7 @@
 		"arabic": "ﺀﺎﻔﺸﻟﺍ ﺕﺎﻋﺮﺟ",
 		"italian": "Pozioni curative",
 		"polish": "Mikstury lecznicze",
+		"japanese": "回復薬",
 	},
 	"resourceDescription_HealingPotion": {
 		"english": "When your colonists are wounded, it's best to give them healing potions to speed up the healing process.",
@@ -847,6 +868,7 @@
 		"arabic": "ﺽﺍﺮﻣﻷﺍ ﺔﻳﻭﺩﺃ",
 		"italian": "Medicinale",
 		"polish": "Lekarstwa",
+		"japanese": "ワクチン",
 	},
 	"resourceDescription_Medicine": {
 		"english": "There are various illnesses your colonists can get. This medicine treats most of them.",
@@ -878,6 +900,7 @@
 		"arabic": "ﺐﺸﺧ",
 		"italian": "Legna",
 		"polish": "Drewno",
+		"japanese": "木材",
 	},
 	"resourceDescription_Wood": {
 		"english": "Most things can be made out of wood in one way or another. This includes Walls, Doors, Floors, Furniture, Tools and Weapons.",
@@ -903,6 +926,7 @@
 		"russian": "Текстиль",
 		"portuguese": "Têxteis",
 		"polish": "Tekstylia",
+		"japanese": "繊維類",
 	},
 	"resourceDescription_Textiles": {
 		"english": "The Villagers can use cotton or wool to produce cloth for furniture and clothes.",
@@ -928,6 +952,7 @@
 		"arabic": "ﻦﻄﻗ",
 		"italian": "Cotone",
 		"polish": "Bawełna",
+		"japanese": "コットン",
 	},
 	"resourceDescription_Cotton": {
 		"english": "Cotton is used for all things that are made out of cloth. This includes stuff like beds, armchairs, and clothes.",
@@ -955,6 +980,7 @@
 		"russian": "Шерсть",
 		"portuguese": "Lã",
 		"polish": "Wełna",
+		"japanese": "ウール",
 	},
 	"resourceName_Cloth": {
 		"english": "Cloth",
@@ -965,6 +991,7 @@
 		"russian": "Ткань",
 		"portuguese": "Pano",
 		"polish": "Płótno",
+		"japanese": "布",
 	},
 	"resourceName_Crystal": {
 		"english": "Crystal",
@@ -981,6 +1008,7 @@
 		"arabic": "ﺕﺍﺭﻮﻠﺑ",
 		"italian": "Cristallo",
 		"polish": "Kryształy",
+		"japanese": "クリスタル",
 	},
 	"resourceDescription_Crystal": {
 		"english": "Crystals are gems with many interesting properties. Your colonists can gather and study them as a way of doing research.",
@@ -1012,6 +1040,7 @@
 		"arabic": "ﺕﺎﻃﻮﻄﺨﻤﻟﺍ",
 		"italian": "Pergamena",
 		"polish": "Zwoje",
+		"japanese": "スクロール",
 	},
 	"resourceDescription_Scroll": {
 		"english": "Ancient secrets are written on these scrolls. Experienced scholars can discover technology by carefully studying their texts. Some traders sell them at a high price",
@@ -1043,6 +1072,7 @@
 		"arabic": "ﺀﺎﻤﻟﺍ",
 		"italian": "Acqua",
 		"polish": "Woda",
+		"japanese": "水",
 	},
 	"resourceName_Coins": {
 		"english": "Coins",
@@ -1059,6 +1089,7 @@
 		"arabic": "ﺔﻴﻧﺪﻌﻣ ﺕﻼﻤﻋ",
 		"italian": "Monete",
 		"polish": "Monety",
+		"japanese": "コイン",
 	},
 	"resourceDescription_Coins": {
 		"english": "Money makes the world go round. Trade with other factions, pay your colonists, or use your coins to finance extravagant furniture.",
@@ -1090,6 +1121,7 @@
 		"arabic": "ﺓﺮﻴﺑ",
 		"italian": "Birra",
 		"polish": "Piwo",
+		"japanese": "ビール",
 	},
 	"resourceDescription_Beer": {
 		"english": "Made out of carefully selected pumpkins and only the finest wheat grain. Has a rich and roasty flavor",
@@ -1116,6 +1148,7 @@
 		"chinese": "青春不老药",
 		"italian": "Elisir di giovinezza",
 		"polish": "Eliksir młodości",
+		"japanese": "若返りの秘薬",
 	},
 	"resourceDescription_ElixirOfYouth": {
 		"english": "Most scholars have doubted is existence for the longest time, but recently more and more stories about it have surfaced. The elixir apparently gives youth, but you'll have to pay for it one way or the other.",

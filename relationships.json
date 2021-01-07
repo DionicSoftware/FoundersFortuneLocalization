@@ -10,6 +10,7 @@
 		"italian": "Relazioni",
 		"turkish": "İlişkiler",
 		"polish": "Relacje i związki",
+		"japanese": "関係",
 	},
 	"relationshipStatus": {
 		"english": "Relationship: %status%",
@@ -22,6 +23,7 @@
 		"italian": "Relazione: %status%",
 		"turkish": "İlişki: %status%",
 		"polish": "Poziom relacji: %status%",
+		"japanese": "関係: %status%",
 	},
 	"naturalRelationshipTendencyPositive": {
 		"english": "Natural tendency positive",
@@ -34,6 +36,7 @@
 		"chinese": "与人为善",
 		"turkish": "Doğal eğilim olumlu",
 		"polish": "Pozytywny trend naturalny",
+		"japanese": "自然にポジティブな傾向",
 	},
 	"naturalRelationshipTendencyNegative": {
 		"english": "Natural tendency negative",
@@ -46,6 +49,7 @@
 		"chinese": "与人为恶",
 		"turkish": "Doğal eğilim olumsuz",
 		"polish": "Negatywny trend naturalny",
+		"japanese": "自然にネガティブな傾向",
 	},
 	"tooltipGettingChildren_Title": {
 		"english": "Children",
@@ -58,6 +62,9 @@
 		"chinese": "繁衍后代",
 		"turkish": "Çocuklar",
 		"polish": "Dziecko",
+		"japanese": "子供を授かる",
+		
+		
 	},
 	"tooltipGettingChildren_Desc": {
 		"english": "Once the relationship bar is maxed out and the expectations in the village are fulfilled, the couple will think about having children.",
@@ -70,6 +77,7 @@
 		"chinese": "一旦关系值达到最大并且满足了村庄的期望，这对夫妇就会考虑生孩子。",
 		"turkish": "İlşki seviye göstergesi dolduğunda ve çiftin yerleşimdeki beklentileri karşılandığında, çocuk yapmayı düşünmeye başlarlar.",
 		"polish": "Gdy pasek relacji osiągnie maksimum, a oczekiwania kolonistów zostaną spełnione, para pomyśli o potomstwie.",
+		"japanese": "関係バーが、限界に達してコロニーでの期待が満たされるとカップルたちは子供を持つことを考えます。",
 	},
 
 	"nextLowerLevel": {
@@ -83,6 +91,7 @@
 		"italian": "Prossimo livello inferiore: %level%",
 		"turkish": "Sıradaki alt seviye: %level%",
 		"polish": "Następny niższy poziom: %level%"
+		"japanese": "次の下位関係レベル: %level%",
 	},
 	"nextHigherLevel": {
 		"english": "Next Higher Level: %level%",
@@ -95,6 +104,7 @@
 		"italian": "Prossimo livello superiore: %level%",
 		"turkish": "Sıradaki üst seviye: %level%",
 		"polish": "Następny wyższy poziom: %level%"
+		"japanese": "次の上位関係レベル: %level%",
 	},
 
 	"relationship_Nemesis": {
@@ -108,6 +118,7 @@
 		"italian": "Nemesi",
 		"turkish": "Ezeli rakip",
 		"polish": "Nemezys",
+		"japanese": "憎しみ",
 	},
 	"relationship_Enemy": {
 		"english": "Enemy",
@@ -120,6 +131,7 @@
 		"italian": "Nemic%OA%",
 		"turkish": "Düşman",
 		"polish": "Wróg",
+		"japanese": "憎しみ",
 	},
 	// I had to use an adjective here. If you can find a fitting noun for your language, like the other titles, use that!
 	"relationship_Disliked": {
@@ -133,6 +145,7 @@
 		"italian": "Disprezzat%OA%",
 		"turkish": "Sevilmeyen",
 		"polish": "Nie lubian%yA%",
+		"japanese": "嫌悪",
 	},
 	"relationship_Acquaintance": {
 		"english": "Acquaintance",
@@ -145,6 +158,7 @@
 		"italian": "Conoscente",
 		"turkish": "Tanıdık",
 		"polish": "Znajom%yA%",
+		"japanese": "知り合い",
 	},
 	"relationship_Buddy": {
 		"english": "Buddy",
@@ -157,6 +171,7 @@
 		"italian": "Compagn%OA%",
 		"turkish": "Yakın",
 		"polish": "Kumpel%nicA%",
+		"japanese": "相棒",
 	},
 	"relationship_Friend": {
 		"english": "Friend",
@@ -169,6 +184,7 @@
 		"italian": "Amic%OA%",
 		"turkish": "Arkadaş",
 		"polish": "Przyjaciel",
+		"japanese": "友達",
 	},
 	"relationship_GreatFriend": {
 		"english": "Great Friend",
@@ -181,6 +197,7 @@
 		"italian": "Miglior amic%OA%",
 		"turkish": "Yakın arkadaş",
 		"polish": "Świetny przyjaciel",
+		"japanese": "親友",
 	},
 	"relationship_Lover": {
 		"english": "Lover",
@@ -193,6 +210,7 @@
 		"italian": "Amante",
 		"turkish": "Sevgili",
 		"polish": "Ukochan%yA%",
+		"japanese": "恋人",
 	},
 	// if Wilhelm loves Tina, %hisHer% will be "her" (Tina) and %2-hisHer% will be "his" (Wilhelm)
 	"relationship_LoveOfTheirLife": {
@@ -206,6 +224,7 @@
 		"italian": "Amore della sua vita",
 		"turkish": "Hayatının aşkı",
 		"polish": "Miłóść życia",
+		"japanese": "あなたの人生の愛",
 	},
 
 
@@ -219,6 +238,7 @@
 		"chinese": "%firstName% 是 %firstName2% 的 %relativeStatus%",
 		"italian": "%firstName% è %relativeStatus% di %firstName2%",
 		"turkish": "%firstName%, %firstName2%'in %relativeStatus%",
+		"japanese": "%firstName% は、%firstName2%'の %relativeStatus% です",
 	},
 	"Child": {
 		"english": "%sonDaughter%",
@@ -230,6 +250,7 @@
 		"chinese": "%sonDaughter%",
 		"italian": "%FiglioFiglia%",
 		"polish": "%synCórka%",
+		"japanese": "%sonDaughter%",
 	},
 	"Parent": {
 		"english": "%fatherMother%",
@@ -241,6 +262,7 @@
 		"chinese": "%fatherMother%",
 		"italian": "%PadreMadre%",
 		"polish": "%ojciecMatka%",
+		"japanese": "%fatherMother%",
 	},
 	"Sibling": {
 		"english": "%brotherSister%",
@@ -252,6 +274,7 @@
 		"chinese": "%brotherSister%",
 		"italian": "%FratelloSorella%",
 		"polish": "%bratSiostra%",
+		"japanese": "%brotherSister%",
 	},
 	"Grandparent": {
 		"english": "%grandpaGrandma%",
@@ -263,6 +286,7 @@
 		"chinese": "%grandpaGrandma%",
 		"italian": "%NonnoNonna%",
 		"polish": "%dziadekBabcia%",
+		"japanese": "%grandpaGrandma%",
 	},
 	"Grandchild": {
 		"english": "%grandsonGranddaughter%",
@@ -274,6 +298,7 @@
 		"chinese": "%grandsonGranddaughter%",
 		"italian": "nipote",
 		"polish": "%wnukWnuczka%",
+		"japanese": "%grandsonGranddaughter%",
 	},
 	"UncleAunt": {
 		"english": "%uncleAunt%",
@@ -285,6 +310,7 @@
 		"chinese": "%uncleAunt%",
 		"italian": "%ZioZia%",
 		"polish": "%wujekCiocia%",
+		"japanese": "%uncleAunt%",
 	},
 	"NephewNiece": {
 		"english": "%nephewNiece%",
@@ -297,6 +323,7 @@
 		"italian": "nipote",
 		"turkish": "Yeğen",
 		"polish": "%bratBrata%",
+		"japanese": "%nephewNiece%",
 	},
 	"Cousin": {
 		"english": "cousin",
@@ -309,6 +336,7 @@
 		"italian": "%CuginoCugina%",
 		"turkish": "Kuzen",
 		"polish": "%kuzynKuzyna%",
+		"japanese": "%cousinCousine%",
 	},
 
 
@@ -325,6 +353,7 @@
 		"italian": "Arrabbiat%OA%",
 		"turkish": "Üzgün",
 		"polish": "Zdenerowan%yA%",
+		"japanese": "相手との関係を壊す",
 	},
 	"relationshipEffect_Upset_Description": {
 		"english": "%affectedName% is upset with %partnerName%. %cap-heShe% will not talk to %2-himHer% for some time.\n(%seconds% seconds left)",
@@ -336,6 +365,7 @@
 		"chinese": "%affectedName% 因 %partnerName%而感到不安。%heShe% 在一段时间内都不与 %2-himHer% 谈话。\n(还剩%seconds%秒)",
 		"italian": "%affectedName% è arrabbiat%OA% con %partnerName%. Non %GliLe% parlerà per qualche tmepo.\n(%seconds% secondi rimasti)",
 		"turkish": "%affectedName%, %partnerName%den dolayı üzgün. Onunla bir süre konuşmayacak.\n(%seconds% saniye kaldı)",
+		"japanese": "%affectedName% は、%partnerName% に腹を立てています。%cap-heShe% は、しばらくの間 %2-himHer% を避けます。\n(%seconds% 残り秒数)",
 	},
 	"relationshipEffect_Impressed_Title": {
 		"english": "Impressed",
@@ -348,6 +378,7 @@
 		"italian": "Impressionat%OA%",
 		"turkish": "Etkilenmiş",
 		"polish": "Pod wrażeniem",
+		"japanese": "感銘",
 	},
 	"relationshipEffect_Impressed_Description": {
 		"english": "%affectedName% is impressed by %partnerName%. Any positive interaction is twice as effective!\n(%seconds% seconds left)",
@@ -359,6 +390,7 @@
 		"chinese": "%affectedName% 对 %partnerName%印象深刻。任何好的互动都是两倍的效果。\n(还剩%seconds%秒)",
 		"italian": "%affectedName% è impressionat%OA% da %partnerName%. Ogni interazione positiva è due volte più efficace!\n(%seconds% secondi rimasti)",
 		"turkish": "%affectedName% %partnerName% tarafından etkilendi. Herhangi bir olumlu etkileşim iki kat daha etkili!\n(%seconds% saniye kaldı)",
+		"japanese": "%affectedName% は、%partnerName% に感銘しました。積極的なやり取りは2倍効果的です。関係を上昇させたい、あなた向け。\n(%seconds% 残り秒数)",
 	},
 	"relationshipEffect_NotImpressed_Title": {
 		"english": "Not Impressed",
@@ -371,6 +403,7 @@
 		"italian": "Non impressionat%OA%",
 		"turkish": "Etkilenmemiş",
 		"polish": "Nie pod wrażeniem",
+		"japanese": "感銘を受けない",
 	},
 	"relationshipEffect_NotImpressed_Description": {
 		"english": "%affectedName% is not impressed by %partnerName%. Any negative interaction is twice as detrimental!\n(%seconds% seconds left)",
@@ -382,6 +415,7 @@
 		"chinese": "%affectedName% 没有对 %partnerName%有深刻的印象。任何坏的影响都是两倍效果。\n(还剩%seconds%秒)",
 		"italian": "%affectedName% non è impressionat%OA% da %partnerName%. Ogni interazione negativa è due volte più dannosa!\n(%seconds% secondi rimasti)",
 		"turkish": "%affectedName% %partnerName% tarafından etkilenmedi. Herhangi bir olumsuz etkileşim iki kat daha zararlı!\n(%seconds% saniye kaldı)",
+		"japanese": "%affectedName% は %partnerName% に感銘を受けません。それどころか、悪い方向に2倍ほど相互作用してしまいます!関係を低下させたい、あなた向け。\n(%seconds% 残り秒数)",
 	},
 	"relationshipEffect_LowerLevelLocked_Description": {
 		"english": "Lower Level locked for %seconds% seconds.",
@@ -394,6 +428,7 @@
 		"italian": "Livello inferiore bloccato per %seconds% secondi.",
 		"turkish": "Alt seviye, %seconds% saniye boyunca kilitli.",
 		"polish": "Niższy poziom zablokowany na %seconds% sekund.",
+		"japanese": "下位関係レベルが %seconds% 秒間ロックされました。",
 	},
 	"relationshipEffect_HigherLevelLocked_Description": {
 		"english": "Higher Level locked for %seconds% seconds.",
@@ -406,5 +441,6 @@
 		"italian": "Livello superiore bloccato per %seconds% secondi.",
 		"turkish": "Üst seviye, %seconds% saniye boyunca kilitli.",
 		"polish": "Wyższy poziom zablokowany na %seconds% sekund.",
+		"japanese": "上位関係レベルが %seconds% 秒間ロックされました。",
 	},
 }

@@ -151,7 +151,7 @@
 		"turkish": "%faction% hazinelerini, kendilerini güvende hissedene kadar, sizde saklamak istiyor. Karşılığında pay vermeye söz verdiler",
 		"portuguese": "%faction% deseja guardar o tesouro com você até que seja seguro voltar e buscá-lo. Eles prometeram a você uma parte dos lucros.",
 		"italian": "%faction% vogliono conservare il loro tesoro da te fino quando non saranno al sicuro per tornare a prenderlo. Ti hanno promesso una parte del bottino.",
-		"japanese": "%faction% は、彼らが安全になって戻ってくるまで、あなたと一緒に宝物を保管したいと思っています。彼らは、あなたに支払いとして宝物の一部を約束しました。",
+		"japanese": "%faction% は、彼らが安全になって戻ってくるまで、あなたと一緒に宝物を保管したいと思っています。彼らは、あなたにお礼として宝物の一部を約束しました。",
 		
 	},
 	"quest_treasureStorageIntro": {
@@ -207,7 +207,7 @@
 		"turkish": "Elbette, buyurun.",
 		"portuguese": "Claro, aqui está você.",
 		"italian": "Certo, ecco a te.",
-		"japanese": "もちろん、さあどうぞ",
+		"japanese": "もちろん、どうぞ",
 	},
 	"weDontHaveItAnymore": {
 		"english": "We don't have it anymore...",
@@ -310,6 +310,7 @@
 		"turkish": "Pekala, işte hazinemiz: %items%\n\nLütfen güvende tutun ve harcamayın! Geri döneceğiz.",
 		"portuguese": "Tudo bem, aqui está o nosso tesouro: %items%\n\nMantenha-o seguro e não o gaste! Nós voltaremos.",
 		"italian": "Bene, ecco il nostro tesoro: %items%\n\nTienilo al sicuro e non spenderlo! Torneremo presto.",
+		"japanese":"Alright, here is our treasure: %items%\n\nKeep it safe and don't spend it! We'll be back.",
 		"japanese": "了解しました。ここに私たちの宝物があります。: %items%\n\nあなたを信用して託します。安全に保管して使わないでください。我々は必ず戻ってきます。",
 	},
 
@@ -322,6 +323,7 @@
 		"french": "À la recherche du passé",
 		"spanish": "Desenterrando el Pasado",
 		"portuguese": "Desenterrando o passado",
+		"japanese": "過去を思い起こす",
 	},
 	"quest_ghostDesc": {
 		"english": "Recurring nightmares about %hisHer% fallen friend %ghostName% have driven %firstName% to make sacrifices to try and make peace with the past",
@@ -329,6 +331,7 @@
 		"french": "Des cauchemars récurrents sur son ami perdu %ghostName% ont mené %firstName% à faire des sacrifices pour essayer de faire la paix avec le passé",
 		"spanish": "Las pesadillas recurrentes sobre su amigo fallecido %ghostName%, han llevado a %firstName% a hacer sacrificios para tratar de hacer las paces con el pasado",
 		"portuguese": "Pesadelos recorrentes sobre %seuSua% amig%oA% caído %ghostName% levaram %firstName% a fazer sacrifícios para tentar fazer as pazes com o passado",
+		"japanese": " %hisHer% の、かつての友人 %ghostName% に関する悪夢を繰り返し見る様になり %firstName% は、ついに過去の禍根について和解をするために犠牲を払うことに決めました。",
 	},
 	"quest_ghostIntroTitle": {
 		"english": "Digging up the Past",
@@ -336,6 +339,7 @@
 		"french": "À la recherche du passé",
 		"spanish": "Desenterrando el Pasado",
 		"portuguese": "Desenterrando o passado",
+		"japanese": "過去を思い起こす",
 	},
 	"quest_ghostIntroDesc": {
 		"english": "Lately, %firstName% has been getting nightmares about %hisHer% old friend %ghostName%, who died some time ago. It's always the same dream. %firstName% has sunk deep into %hisHer% thoughts. %cap-heShe% wants to make peace with the past, and plans to sacrifice some items each night to show %hisHer% departed friend that %heShe% cares.",
@@ -343,6 +347,7 @@
 		"french": "Récemment, %firstName% a fait des cauchemars à propos de son ancien ami %ghostName%, qui est mort il y a quelque temps. C'est toujours le même rêve. %firstName% s'est enfoncé%e% profondément dans ses pensées. %cap-ilElle% veut faire la paix avec le passé, et prévoit de sacrifier quelque chose chaque soir pour montrer à son ami défunt qu'%ilElle% y pense toujours.",
 		"spanish": "Últimamente, %firstName% ha estado teniendo pesadillas sobre %ghostName%, un%A% viej%oA% amig%oA% que murió hace algún tiempo. Siempre es el mismo sueño. %firstName%  ha profundizado en sus pensamientos. %cap-élElla% Quiere hacer las paces con el pasado y planea sacrificar algunos objetos cada noche para mostrarle a su amig%oA% que a %élElla% le importa.",
 		"portuguese": "Ultimamente, %firstName% tem tido pesadelos sobre %seuSua% velho amigo %ghostName%, que morreu há algum tempo. É sempre o mesmo sonho. %firstName% mergulhou profundamente nos pensamentos de %seuSua%. %cap-eleEla% quer fazer as pazes com o passado e planeja sacrificar alguns itens todas as noites para mostrar a %seuSua% amig%oA% falecido que %eleEla% se importa.",
+		"japanese":  "最近、 %firstName% は、しばらく前に亡くなった、旧友の %ghostName% についての悪夢を見ています。それはいつも同じ内容の夢です。 %firstName% は、そのため物思いに深く沈んでいます。そして毎晩、何かを犠牲にして、亡くなった友人を気にかけていることを示し、過去と和解することを計画しています。",
 	},
 	"quest_ghostFriendlyGhostAppearedTitle": {
 		"english": "Ghost Appeared",
@@ -350,6 +355,7 @@
 		"french": "Un fantôme est apparu",
 		"spanish": "Ha aparecido un fantasma",
 		"portuguese": "Fantasma Apareceu",
+		"japanese": "幽霊が現れた",
 	},
 	"quest_ghostFriendlyGhostAppearedDesc": {
 		"english": "When %firstName% made %hisHer% sacrifice for this night, suddenly a ghostly figure appeared out of thin air. %cap-heShe% was given a chance to make peace with %hisHer% friend %ghostName%, so go and talk to them before they have to leave this world!",
@@ -357,6 +363,7 @@
 		"french": "Lorsque %firstName% fît son sacrifice nocturne, une figure fantomatique apparut soudainement de nulle part. %cap-ilElle% a l'opportunité de faire la paix avec son ami %ghostName%, alors faites-les discuter avant qu'il ne doive quitter ce monde !",
 		"spanish": "Cuando %firstName% hizo su sacrificio por esta noche, de pronto una figura fantasmagórica apareció de la nada. %cap-élElla% recibió una oportunidad para hacer las paces con su amig%oA% %ghostName%, ¡así que ve y habla con %élElla% antes que abandone este mundo!",
 		"portuguese": "Quando %firstName% fez %seuSua% sacrifício por esta noite, de repente uma figura fantasmagórica apareceu do nada. %eleEla% teve a chance de fazer as pazes com seu amigo %ghostName%, então vá e fale com %eleEla% antes que tenham que deixar este mundo!",
+		"japanese": "%firstName% が、夜に犠牲を払ったとき、突然幽霊のような姿が、薄気味悪いところから現れました。 %cap-heShe% は、%hisHer% の友人 %ghostName% と話し、和解する機会を与えられました。すぐに行って話をしてきてください。幽霊がこの世を去ってしまう前に。",
 	},
 	"quest_ghostMadePeaceTitle": {
 		"english": "Finally at peace",
@@ -364,6 +371,7 @@
 		"french": "Enfin en paix",
 		"spanish": "Finalmente en paz",
 		"portuguese": "Finalmente em paz",
+		"japanese": "ついに平和に",
 	},
 	"quest_ghostMadePeaceDesc": {
 		"english": "%firstName% has had chance to reunite with %hisHer% friend %ghostName% and has accepted their past. %cap-heShe% has become a wiser person and got a permanent mood boost.",

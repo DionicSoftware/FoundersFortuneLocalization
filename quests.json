@@ -357,7 +357,7 @@
 		"french": "Des cauchemars récurrents sur son ami perdu %ghostName% ont mené %firstName% à faire des sacrifices pour essayer de faire la paix avec le passé",
 		"spanish": "Las pesadillas recurrentes sobre su amigo fallecido %ghostName%, han llevado a %firstName% a hacer sacrificios para tratar de hacer las paces con el pasado",
 		"portuguese": "Pesadelos recorrentes sobre %seuSua% amig%oA% caído %ghostName% levaram %firstName% a fazer sacrifícios para tentar fazer as pazes com o passado",
-		"japanese": " %hisHer% の、かつての友人 %ghostName% に関する悪夢を繰り返し見る様になり %firstName% は、ついに過去の禍根について和解をするために犠牲を払うことに決めました。",
+		"japanese": " %hisHer% の、友人が悪霊となり %ghostName% に関する悪夢を繰り返し見る様になりました。 %firstName% は、ついに過去との和解をするために犠牲を払うことに決めました。",
 		"chinese": "反复出现在%hisHer%噩梦中的朋友%ghostName%鬼魂让%firstName%不得不尝试献祭自我,并接受过去",
 	},
 	"quest_ghostIntroTitle": {
@@ -412,6 +412,7 @@
 		"spanish": "%firstName% ha tenido la oportunidad de reunirse con su amig%oA% %ghostName% y ha aceptado su pasado. %cap-élElla% se ha vuelto una persona más sabia y ha obtenido un aumento permanente de su éstado de ánimo",
 		"portuguese": "%firstName% teve a chance de se reunir com %seuSua% amig%oA% %ghostName% e aceitou seu passado. %cap-eleEla% tornou-se uma pessoa mais sábia e obteve um impulso permanente de humor.",
 		"chinese": "%firstName%有机会与%hisHer%朋友%ghostName%鬼魂团聚,并接受了他们的过去.%cap-heShe%成为一个比较理智的人,并获得了永久的情绪提升.",
+		"japanese": "%firstName% は、 %hisHer% の友人 %ghostName% と再会する機会がありました。そして、過去を受け入れ %cap-heShe% は、より賢い人になり永続的な気分を後押ししました。",",
 	},
 	"quest_ghostColonyJoinedTitle": {
 		"english": "Ghost joined the village!",
@@ -420,6 +421,7 @@
 		"spanish": "¡Un fantasma se unió a la aldea!",
 		"portuguese": "Ghost juntou-se à aldeia!",
 		"chinese": "鬼魂加入了村庄!",
+		"japanese": "幽霊がコロニーに加わった!",
 	},
 	"quest_ghostColonyJoinedDesc": {
 		"english": "%firstName% came down to reunite with %hisHer% friend %humanName%, but has decided that the time to leave has not come yet. %cap-heShe% decided to stay on earth for now and has joined the village. %humanName% is overjoyed.",
@@ -428,6 +430,7 @@
 		"spanish": "%firstName% vino a reunirse con su amig%oA% %humanName%, pero ha decidido que aún no ha llegado su momento de partir. %cap-élElla% decidió quedarse en la tierra por ahora y se ha unido a la aldea. %humanName% está lleno de alegría.",
 		"portuguese": "%firstName% desceu para se reunir com %seuSua% amigo %humanName%, mas decidiu que ainda não é hora de ir embora. %cap-eleEla% decidiu ficar na Terra por enquanto e se juntou à aldeia. %humanName% está radiante.",
 		"chinese": "%firstName%坐下来与%hisHer%朋友%humanName%鬼魂团聚,但距离决定离开的时间未到.%cap-heShe%决定暂时留在地球上,并加入了村庄. %humanName%喜出望外.",
+		"japanese": "%firstName% は、 %hisHer% の友人 %humanName%と再会するために降りてきましたが、去る時はまだ来ていないと判断しました。 %cap-heShe% は、今のところは地球に留まることに決め、コロニーに加わることにしたようです。 %humanName% は大喜びです!",
 	},
 	"quest_ghostAngryGhostAppearedTitle": {
 		"english": "Nightmares Becoming Reality!",
@@ -436,6 +439,7 @@
 		"spanish": "¡Las pesadillas se vuelven realidad!",
 		"portuguese": "Pesadelos se tornando realidade!",
 		"chinese": "噩梦成为现实!",
+		"japanese": "悪夢が現実になる!",
 	},
 	"quest_ghostAngryGhostAppearedDesc": {
 		"english": "%firstName% has made %hisHer% sacrifice to make peace, but %hisHer% fallen friend %ghostName% doesn't want to forgive. They have materialized as a ghost and are looking for revenge. Defend the village!",
@@ -444,6 +448,7 @@
 		"spanish": "%firstName% ha hecho su sacrificio para la paz, pero su amig%oA% caíd%oA% %ghostName% no quiere perdonar. Se ha materializado como un fantasma y está en busca de venganza. ¡Defiende la aldea!",
 		"portuguese": "%firstName% fez %seuSua% sacrifíci%oA% para fazer as pazes, mas %seuSua% amig%oA% caído %ghostName% não quer perdoar. Eles se materializaram como fantasmas e estão em busca de vingança. Defenda a aldeia!",
 		"chinese": "%firstName%为了和解献祭了%hisHer%生命,但是%hisHer%堕落的朋友%ghostName%鬼魂并不想就此原谅.他们化身为鬼魂,正寻找机会报仇.保卫村庄!",
+		"japanese": "%firstName% は、 %hisHer% を犠牲にして平和を築きましたが %hisHer% の悪霊の友人 %ghostName% は過去を許したくはありません。彼らは悪霊として実体化し復讐をしようとしています。コロニーを守ってください!",
 	},
 	"quest_ghostAngyGhostDoneTitle": {
 		"english": "Ghost has been banished",
@@ -452,6 +457,7 @@
 		"spanish": "Un fantasma ha sido desterrado",
 		"portuguese": "Fantasma foi banido",
 		"chinese": "鬼魂已被解放",
+		"japanese": "幽霊は解放されました",
 	},
 	"quest_ghostAngryGhostDoneDesc": {
 		"english": "The bitter soul of %firstName% has been freed and sent back to the realm of the dead. %humanName% feels a deep relief to have finished this chapter of their life.",
@@ -460,6 +466,7 @@
 		"spanish": "El alma amarga de %firstName% ha sido liberada y enviada de vuelta a la tierra de los muertos. %humanName% siente un alivio profundo al haber concluído este capítulo de su vida.",
 		"portuguese": "A alma amarga de %firstName% foi libertada e enviada de volta ao reino dos mortos. %humanName% sente um profundo alívio por ter terminado este capítulo de sua vida.",
 		"chinese": "痛苦灵魂被%firstName%解放,并被送回了亡者国度.%humanName%对完成本章的生活深感欣慰.%humanName%完成了%heShe%生命的篇章.",
+		"japanese": " %firstName% によって、苦しむ魂は解放され、死者の領域に送り返されました。 %humanName% は、彼の人生の章の終わりに深い安堵を感じています。",
 	},
 	"quest_ghostMakePeace":  {
 		"english": "Talk to %firstName% and make peace",
@@ -468,6 +475,7 @@
 		"spanish": "Habla con %firstName% y haz las paces",
 		"portuguese": "Fale com %firstName% e faça as pazes",
 		"chinese": "与%firstName%交谈并和解",
+		"japanese": "%firstName% に話しかけて解決する",
 	},
 	"quest_ghostSayGoodbye":  {
 		"english": "Say goodbye to %firstName%",
@@ -476,6 +484,7 @@
 		"spanish": "Dile adiós a %firstName%",
 		"portuguese": "Diga adeus a %firstName%",
 		"chinese": "与%firstName%道别",
+		"japanese": "%firstName% に別れを告げる",
 		
 	},
 	"quest_ghostFreeSoul": {
@@ -485,6 +494,7 @@
 		"spanish": "Libera el alma de %firstName%",
 		"portuguese": "Liberte a alma de %firstName%",
 		"chinese": "解放%firstName%的灵魂",
+		"japanese": "%firstName% の魂を解放する",
 	},
 
 
@@ -496,6 +506,7 @@
 		"spanish": "Amanecer",
 		"portuguese": "Alvorecer",
 		"chinese": "黎明",
+		"japanese": "夜明け",
 	},
 	"Midday": {
 		"english": "Midday",
@@ -504,6 +515,7 @@
 		"spanish": "Mediodía",
 		"portuguese": "Meio-dia",
 		"chinese": "正午",
+		"japanese": "真昼",
 	},
 	"Dusk": {
 		"english": "Dusk",
@@ -512,6 +524,7 @@
 		"spanish": "Anochecer",
 		"portuguese": "Crepúsculo",
 		"chinese": "黄昏",
+		"japanese": "夕暮れ",
 	},
 	"Night": {
 		"english": "Night",
@@ -520,6 +533,7 @@
 		"spanish": "Noche",
 		"portuguese": "Noite",
 		"chinese": "午夜",
+		"japanese": "夜",
 	},
 	"quest_waitUntilDaytime": {
 		"english": "Wait until %daytime%",
@@ -528,6 +542,7 @@
 		"spanish": "Espera hasta %daytime%",
 		"portuguese": "Espere até %daytime%",
 		"chinese": "等到%daytime%",
+		"japanese": " %daytime% まで待ちます",
 	},
 	"quest_waitUntilDaytimeXDaysFromNow": {
 		"english": "Wait until %daytime% %days% days from now",
@@ -536,6 +551,7 @@
 		"spanish": "Espera hasta %daytime% %days% días a partir de ahora",
 		"portuguese": "Espere até %daytime% em %days% dias a partir de agora",
 		"chinese": "等到从现在开始第%days%天的%daytime%",
+		"japanese": "今から %daytime% %days% 日まで待ちます",
 		
 	},
 }

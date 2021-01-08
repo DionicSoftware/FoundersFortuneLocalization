@@ -16,7 +16,8 @@
 		"arabic": "ﺔﻔﻴﻇﻭ ﻼﺑ",
 		"korean": "무직",
 		"polish": "Bez zawodu",
-		"italian": "Senza lavoro"
+		"italian": "Senza lavoro",
+		"japanese":"仕事がない",
 	},
 	"professionDesc_NoJob": {
 		"english": "Select a job for your settler so they may work more independently.",
@@ -32,7 +33,8 @@
 		"arabic": ".ﺔﻴﻟﻼﻘﺘﺳﺍ ﺮﺜﻛﺃ ﻞﻜﺸﺑ ﻞﻤﻌﻟﺍ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻰﺘﺣ ﻦﻴﻨﻃﻮﺘﺴﻤﻠﻟ ﺔﻔﻴﻇﻭ ﺩﺪﺣ",
 		"korean": "개척자에게 직업을 정해주고 나면, 알아서 자신의 할 일을 찾아가기 시작합니다.",
 		"polish": "Wybierz zawód dla swojego osadnika, dzięki temu będzie pracować bardziej niezależnie.",
-		"italian": "Seleziona un lavoro per il tuo colono, in modo che possa lavorare in modo più indipendente."
+		"italian": "Seleziona un lavoro per il tuo colono, in modo che possa lavorare in modo più indipendente.",
+		"japanese":"コロニストたちが、働くことができるようにコロニストの仕事を選択してください。",
 	},
 	"professionName_Farmer": {
 		"english": "Farmer",
@@ -48,7 +50,8 @@
 		"arabic": "ﻉﺭﺍﺰﻣ",
 		"korean": "농부",
 		"polish": "Rolnik",
-		"italian": "Contadino"
+		"italian": "Contadino",
+		"japanese":"農民",
 	},
 	"professionDesc_Farmer": {
 		"english": "Farmers are responsible for food production and cooking food. When not busy, they also gather cotton.",
@@ -64,7 +67,8 @@
 		"arabic": ".ﺎًﻀﻳﺍ ﻦﻄﻘﻟﺍ ﻊﻤﺠﺑ ﻥﻮﻣﻮﻘﻳ ،ﻥﻮﻟﻮﻐﺸﻣ ﻥﻮﻧﻮﻜﻳ ﻻ ﺎﻣﺪﻨﻋ .ﺦﺒﻄﻟﺍﻭ ﻡﺎﻌﻄﻟﺍ ﺝﺎﺘﻧﺇ ﻦﻋ ﻥﻮﻟﻭﺆﺴﻣ ﻥﻮﻋﺭﺍﺰﻤﻟﺍ",
 		"korean": "농부는 식재료를 마련하고 음식을 요리할 책임이 있습니다. 바쁘지 않으면, 목화를 채집하러 나가기도 하죠.",
 		"polish": "Rolnicy są odpowiedzialni za produkcję i przygotowywanie jedzenia. Kiedy nie mają innego zajęcia, będą także zbierać bawełnę.",
-		"italian": "I contadini sono responsabili della produzione e della cottura del cibo. Quando non sono occupati, raccolgono anche il cotone."
+		"italian": "I contadini sono responsabili della produzione e della cottura del cibo. Quando non sono occupati, raccolgono anche il cotone.",
+		"japanese":"農民は、食料生産と食料の調理に責任があります。忙しくないときは、コットンも集めます。",
 	},
 	"professionName_Forester": {
 		"english": "Forester",
@@ -80,7 +84,8 @@
 		"arabic": "ﺮّﺠَﺸُﻣ",
 		"korean": "나무꾼",
 		"polish": "Drwal",
-		"italian": "Guardaboschi"
+		"italian": "Guardaboschi",
+		"japanese":"木こり",
 	},
 	"professionDesc_Forester": {
 		"english": "As a forester, your settler cuts down trees for wood. For Mother Nature's sake, foresters also takes care of saplings.",
@@ -96,7 +101,8 @@
 		"arabic": ".ﺕﻼﺘﺸﻟﺎﺑ ﻲﻨﺘﻌﻳ ،ﻡﻷﺍ ﺔﻌﻴﺒﻄﻟﺍ ﻞﺟﺃ ﻦﻣﻭ .ﺐﺸﺨﻟﺍ ﻰﻠﻋ ﻝﻮﺼﺤﻠﻟ ﺭﺎﺠﺷﻷﺍ ﻊﻄﻘﺑ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻳ ﺮّﺠَﺸُﻤﻛ",
 		"korean": "나무꾼은 나무를 베어 목재를 만들어냅니다. 대자연을 위해, 묘목을 건드리지는 않습니다.",
 		"polish": "Jako drwal, osadnik ścina drzewa na drewno. Dba także o przyrodę poprzez sadzenie nowych drzew.",
-		"italian": "In qualità di guardaboschi, i tuoi coloni abbattono gli alberi per ricavarne legna. Per l'amor di madre natura, si occupano anche del rimboschimento."
+		"italian": "In qualità di guardaboschi, i tuoi coloni abbattono gli alberi per ricavarne legna. Per l'amor di madre natura, si occupano anche del rimboschimento.",
+		"japanese":"木こりは、森林管理者として木を伐採します。母なる自然を守るために、木こりは苗木の世話や植林もします。",
 	},
 	"professionName_Miner": {
 		"english": "Miner",
@@ -112,7 +118,9 @@
 		"arabic": "ﻢﺠﻨﻣ ﻞﻣﺎﻋ",
 		"korean": "광부",
 		"polish": "Górnik",
-		"italian": "Minatore"
+		"italian": "Minatore",
+		"japanese":"鉱夫",
+		
 	},
 	"professionDesc_Miner": {
 		"english": "Miners gather stones, mine for iron and collect crystals.",
@@ -128,7 +136,8 @@
 		"arabic": ".ﺕﺍﺭﻮﻠﺒﻟﺍ ﻊﻤﺟﻭ ﺪﻳﺪﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺘﻟﺍ ،ﺓﺭﺎﺠﺤﻟﺍ ﻊﻤﺠﺑ ﻥﻮﻣﻮﻘﻳ ﻢﺟﺎﻨﻤﻟﺍ ﻝﺎﻤﻋ",
 		"korean": "광부는 돌을 채집하고, 철광석을 캐거나 크리스탈을 수집합니다.",
 		"polish": "Górnicy zbierają kamienie i kryształy oraz wydobywają rudy żelaza.",
-		"italian": "I minatori raccolgono pietre, estraggono ferro e racimolano cristalli."
+		"italian": "I minatori raccolgono pietre, estraggono ferro e racimolano cristalli.",
+		"japanese":"鉱夫は、石を集め、鉄を採掘し、クリスタルを集めます。",
 	},
 	"professionName_Craftsman": {
 		"english": "Craftsman",
@@ -144,7 +153,8 @@
 		"arabic": "ﻲﻓَﺮِﺣ",
 		"korean": "수공업자",
 		"polish": "Rzemieślnik",
-		"italian": "Fabbro"
+		"italian": "Fabbro",
+		"japanese":"職人",
 	},
 	"professionDesc_Craftsman": {
 		"english": "As a craftsman, your settler produces all the goods that you order at one of your workshops.",
@@ -160,7 +170,8 @@
 		"arabic": ".ﻞﻤﻌﻟﺍ ﺵﺭﻭ ﻯﺪﺣﺇ ﻲﻓ ﺎﻬﺒﻠﻄﺗ ﻲﺘﻟﺍ ﻊﺋﺎﻀﺒﻟﺍ ﻊﻴﻤﺟ ﻦﻃﻮﺘﺴﻤﻟﺍ ﺞﺘﻨﻳ ﻲﻓَﺮِﺤﻛ",
 		"korean": "수공업자는 당신이 작업대에 지시해둔 물품들을 생산해냅니다.",
 		"polish": "Będąc rzemieślnikiem, twój kolonista produkuje wszelkiego rodzaju dobra, które można odebrać w jednym z warsztatów.",
-		"italian": "In qualità di fabbri, i tuoi coloni produrranno tutti i beni che ordini nei banchi da lavoro."
+		"italian": "In qualità di fabbri, i tuoi coloni produrranno tutti i beni che ordini nei banchi da lavoro.",
+		"japanese":"職人として、あなたのコロニストは貴方の製作台で注文する全ての商品を生産します。",
 	},
 	"professionName_Doctor": {
 		"english": "Doctor",
@@ -176,7 +187,8 @@
 		"arabic": "ﺐﻴﺒﻃ",
 		"korean": "의사",
 		"polish": "Lekarz",
-		"italian": "Medico"
+		"italian": "Medico",
+		"japanese":"医者",
 	},
 	"professionDesc_Doctor": {
 		"english": "A doctor tries to keep your colonists alive. If hurt, doctors treat them so they can go back to working for you.",
@@ -192,7 +204,8 @@
 		"arabic": ".ﻚﻠﺟﺃ ﻦﻣ ﻞﻤﻌﻟﺍ ﻰﻟﺇ ﺓﺩﻮﻌﻟﺍ ﻦﻣ ﺍﻮﻨﻜﻤﺘﻳ ﻰﺘﺣ ﺀﺎﺒﻃﻷﺍ ﻢﻬﺠﻟﺎﻌﻳ ، ﺔﺑﺎﺻﻹﺍ ﺔﻟﺎﺣ ﻲﻓ .ﺓﺎﻴﺤﻟﺍ ﺪﻴﻗ ﻰﻠﻋ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺀﺎﻘﺑﺇ ﺐﻴﺒﻄﻟﺍ ﻝﻭﺎﺤﻳ",
 		"korean": "의사는 개척자들이 죽지 않게 하려고 노력합니다. 만약 다친 사람이 있다면, 의사는 그들을 치료해 다시 일할 수 있게 합니다.",
 		"polish": "Lekarz dba o zdrowie twoich kolonistów. Leczy urazy, złamania i choroby... wystawia L4 tak by twoi oadnicy mogli jak naszybciej powrócić do pracy.",
-		"italian": "I medici cercano di mantenere in vita i tuoi coloni. Se qualcuno si ferisce, si occupano della sua guarigione in modo che possa tornare a lavorare."
+		"italian": "I medici cercano di mantenere in vita i tuoi coloni. Se qualcuno si ferisce, si occupano della sua guarigione in modo che possa tornare a lavorare.",
+		"japanese":"医者は、あなたのコロニストを生かし続けようと努力します。傷ついた場合、医者はコロニストがあなたのために働くことが出来る様になるように治療しようとします。",
 	},
 	"professionName_Soldier": {
 		"english": "Soldier",
@@ -208,7 +221,8 @@
 		"arabic": "ﻱﺪﻨﺟ",
 		"korean": "군인",
 		"polish": "Żołnierz",
-		"italian": "Soldato"
+		"italian": "Soldato",
+		"japanese":"兵士",
 	},
 	"professionDesc_Soldier": {
 		"english": "Soldiers keep your colony safe. As they have more experience with fighting than the average settler, they can use advanced weapons.",
@@ -224,7 +238,8 @@
 		"arabic": ".ﺔﻣﺪﻘﺘﻤﻟﺍ ﺔﺤﻠﺳﻷﺍ ﻡﺍﺪﺨﺘﺳﺍ ﻢﻬﻨﻜﻤﻴﻓ ، ﻱﺩﺎﻌﻟﺍ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻦﻣ ﺮﺜﻛﺃ ﻝﺎﺘﻘﻟﺍ ﻲﻓ ﺓﺮﺒﺧ ﻢﻬﻳﺪﻟ ﻥﻷﻭ .ﺓﺮﻤﻌﺘﺴﻤﻟﺍ ﻥﺎﻣﺃ ﻰﻠﻋ ﻥﻮﻈﻓﺎﺤﻳ ﺩﻮﻨﺠﻟﺍ",
 		"korean": "군인은 정착지를 안전하게 지킵니다. 그들은 다른 평범한 개척자보다 더 많은 전투를 겪었기 때문에, 더 나은 무기를 사용할 수 있습니다.",
 		"polish": "Żołnierze dbają o bezpieczeństwo twojej osady. Ponieważ mają doświadczenie w wojennym rzemiośle walczą lepiej niż przeciętni osadnicy i mogą używać bardziej zaawansowanego oręża.",
-		"italian": "I soldati tengono al sicuro la tua colonia. Dato che hanno più esperienza nei combattenti rispetto ai coloni medi, possono usare armi avanzate."
+		"italian": "I soldati tengono al sicuro la tua colonia. Dato che hanno più esperienza nei combattenti rispetto ai coloni medi, possono usare armi avanzate.",
+		"japanese":"兵士は、あなたのコロニーを安全に保ちます。兵士は普通のコロニストよりも戦闘の経験が豊富にあるため、高度な武器を使用することができます。",
 	},
 	"professionName_Scholar": {
 		"english": "Scholar",
@@ -240,7 +255,8 @@
 		"arabic": "ﻢﻟﺎﻋ",
 		"korean": "학자",
 		"polish": "Uczony",
-		"italian": "Erudito"
+		"italian": "Erudito",
+		"japanese":"学者",
 	},
 	"professionDesc_Scholar": {
 		"english": "As a scholar, your colonist research new technologies to advance your colony.",
@@ -256,7 +272,8 @@
 		"arabic": ".ﻚﺗﺮﻤﻌﺘﺴﻣ ﺰﻳﺰﻌﺘﻟ ﺓﺪﻳﺪﺟ ﺕﺎﻴﻨﻘﺗ ﻦﻋ ﺚﺤﺒﻟﺎﺑ ﻦﻃﻮﺘﺴﻤﻟﺍ ﻡﻮﻘﻳ ﻢﻟﺎﻌﻛ",
 		"korean": "학자는 정착지를 발전시키기 위해 새로운 기술을 연구합니다.",
 		"polish": "Będąc uczonym, kolonista odkrywa nowe technologie, niezbędne by osada mogła się rozwijać.",
-		"italian": "In qualità di eruditi, i tuoi coloni ricercano nuove tecnologie per far avanzare la tua colonia."
+		"italian": "In qualità di eruditi, i tuoi coloni ricercano nuove tecnologie per far avanzare la tua colonia.",
+		"japanese":"学者として、あなたのコロニストはコロニーを進歩させるために新しい技術を研究します。",
 	},
 	"professionName_Builder": {
 		"english": "Builder",
@@ -269,6 +286,7 @@
 		"turkish": "İnşaatçı",
 		"polish": "Budowniczy",
 		"chinese": "建造者",
+		"japanese":"建造者",
 	},
 	"professionDesc_Builder": {
 		"english": "Builders are responsible for constructing, moving, and removing large structures and furniture in your village.",
@@ -281,6 +299,7 @@
 		"turkish": "İnşaatçılar, yerleşimdeki büyük yapıların ve mobilyaların yapımından, taşınmasından ve kaldırılmasından sorumludur.",
 		"polish": "Budowniczowie są odpowiedzialni za wznoszenie, przenoszenie i usuwanie konstrukcji oraz mebli w twojej wiosce.",
 		"chinese": "建造者在你的村庄负责建造、移动和拆除大型建筑物和家具。",
+		"japanese":"建造者は、あなたのコロニーの大きな構造物を建築したり、家具を作成したり、設置物の移動、撤去などをすることができます。",
 	},
 
 
@@ -298,6 +317,8 @@
 		"chinese": "砍伐树木",
 		"turkish": "Ağaç kesme",
 		"polish": "Wycinka drzew",
+		"japanese":"木を切る",
+		
 	},
 	"professionSpecialization_growTrees": {
 		"english": "Plant Trees",
@@ -310,6 +331,7 @@
 		"chinese": "种植树木",
 		"turkish": "Ağaç dikme",
 		"polish": "Sadzenie drzew",
+		"japanese":"木を植える",
 	},
 	"professionSpecialization_clearStumps": {
 		"english": "Clear stumps",
@@ -322,6 +344,7 @@
 		"turkish": "Kütükleri kaldırma",
 		"polish": "Usuwanie pniaków",
 		"chinese": "移除树桩",
+		"japanese":"切り株を撤去する",
 	},
 
 
@@ -340,7 +363,8 @@
 		"arabic": "ﺓﺭﺎﺠﻨﻟﺍ",
 		"korean": "목공일 하기",
 		"polish": "Stolarstwo",
-		"italian": "Carpenteria"
+		"italian": "Carpenteria",
+		"japanese":"大工",
 	},
 	"professionSpecialization_masonry": {
 		"english": "Masonry",
@@ -356,7 +380,8 @@
 		"arabic": "ﺀﺎﻨﺒﻟﺍ",
 		"korean": "석공일 하기",
 		"polish": "Kamieniarstwo",
-		"italian": "Muratura"
+		"italian": "Muratura",
+		"japanese":"石工職",
 	},
 	"professionSpecialization_forging": {
 		"english": "Forging",
@@ -372,7 +397,9 @@
 		"arabic": "ﺓﺩﺍﺪﺤﻟﺍ",
 		"korean": "대장 작업",
 		"polish": "Wykuwanie",
-		"italian": "Forgiatura"
+		"italian": "Forgiatura",
+		"japanese":"鍛造",
+		
 	},
 	"professionSpecialization_weaving": {
 		"english": "Weaving",
@@ -384,6 +411,7 @@
 		"italian": "Tessitura",
 		"turkish": "Dokuma",
 		"chinese": "纺织",
+		"japanese":"織り物を織る",
 	},
 	"professionSpecialization_tailoring": {
 		"english": "Tailoring",
@@ -399,7 +427,9 @@
 		"arabic": "ﺔﻃﺎﻴﺨﻟﺍ",
 		"korean": "재봉 작업",
 		"polish": "Krawiectwo",
-		"italian": "Sartoria"
+		"italian": "Sartoria",
+		"japanese":"仕立て",
+		
 	},
 
 	// MINER
@@ -417,7 +447,8 @@
 		"arabic": "ﺓﺭﺎﺠﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 		"korean": "돌 캐기",
 		"polish": "Wydobywaj kamień",
-		"italian": "Estrazione della pietra"
+		"italian": "Estrazione della pietra",
+		"japanese":"石を採掘",
 	},
 	"professionSpecialization_mineIron": {
 		"english": "Mine Iron Ore",
@@ -433,7 +464,8 @@
 		"arabic": "ﺪﻳﺪﺤﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 		"korean": "철광석 캐기",
 		"polish": "Wydobywaj rudę żelaza",
-		"italian": "Estrazione del ferro"
+		"italian": "Estrazione del ferro",
+		"japanese":"鉄を採掘",
 	},
 	"professionSpecialization_mineCrystal": {
 		"english": "Mine Crystals",
@@ -449,7 +481,8 @@
 		"arabic": "ﺕﺍﺭﻮﻠﺒﻟﺍ ﻦﻋ ﺐﻴﻘﻨﺗ",
 		"korean": "크리스탈 캐기",
 		"polish": "Wydobywaj kryształy",
-		"italian": "Estrazione dei cristalli"
+		"italian": "Estrazione dei cristalli",
+		"japanese":"クリスタルを採掘",
 	},
 
 	// FARMER
@@ -467,7 +500,8 @@
 		"arabic": "ﻝﻮﻘﺤﻟﺍ ﺔﻳﺎﻋﺭ",
 		"korean": "밭일 하기",
 		"polish": "Dbaj o uprawy",
-		"italian": "Cura dei campi"
+		"italian": "Cura dei campi",
+		"japanese":"畑の世話をする",
 	},
 	"professionSpecialization_cook": {
 		"english": "Cook Food",
@@ -483,7 +517,8 @@
 		"arabic": "ﻡﺎﻌﻄﻟﺍ ﻲﻬﻃ",
 		"korean": "음식 요리하기",
 		"polish": "Gotuj jedzenie",
-		"italian": "Cottura del cibo"
+		"italian": "Cottura del cibo",
+		"japanese":"料理をする",
 	},
 	"professionSpecialization_harvestCotton": {
 		"english": "Gather cotton",
@@ -499,7 +534,8 @@
 		"arabic": "ﻦﻄﻘﻟﺍ ﻊﻤﺟ",
 		"korean": "목화 채집하기",
 		"polish": "Zbieraj bawełnę",
-		"italian": "Raccoglimento del cotone"
+		"italian": "Raccoglimento del cotone",
+		"japanese":"コットンを収穫",
 	},
 	"professionSpecialization_harvestApples": {
 		"english": "Harvest Apples",
@@ -515,7 +551,8 @@
 		"arabic": "ﺡﺎﻔﺘﻟﺍ ﺩﺎﺼﺣ",
 		"korean": "사과 따기",
 		"polish": "Zbieraj jabłka",
-		"italian": "Raccolta delle mele"
+		"italian": "Raccolta delle mele",
+		"japanese":"リンゴを収穫",
 	},
 	"professionSpecialization_careForAnimals": {
 		"english": "Care for Animals",
@@ -528,6 +565,7 @@
 		"turkish": "Hayvanlarla ilgilenme",
 		"polish": "Opiekuj się zwierzętami",
 		"chinese": "照料动物",
+		"japanese":"家畜の世話をする",
 	},
 
 	// DOCTOR
@@ -545,7 +583,8 @@
 		"arabic": "ﺀﺍﻭﺪﻟﺍ ﺝﺎﺘﻧﺇ",
 		"korean": "치료약 만들기",
 		"polish": "Produkuj leki",
-		"italian": "Produzione di medicinali"
+		"italian": "Produzione di medicinali",
+		"japanese":"医薬品の製造",
 	},
 	"professionSpecialization_tendToPatients": {
 		"english": "Tend to Injured Colonists",
@@ -561,7 +600,8 @@
 		"arabic": "ﻦﻴﺑﺎﺼﻤﻟﺍ ﻦﻳﺮﻤﻌﺘﺴﻤﻟﺍ ﺔﻳﺎﻋﺭ",
 		"korean": "부상자 보살피기",
 		"polish": "Dbaj o zranionych kolonistów",
-		"italian": "Occuparsi dei coloni feriti"
+		"italian": "Occuparsi dei coloni feriti",
+		"japanese":"負傷者の世話をする",
 	},
 	"professionSpecialization_buryDead": {
 		"english": "Bury Dead",
@@ -577,7 +617,8 @@
 		"arabic": "ﻰﺗﻮﻤﻟﺍ ﻦﻓﺩ",
 		"korean": "시체 매장하기",
 		"polish": "Chowaj zmarłych",
-		"italian": "Seppellimento dei morti"
+		"italian": "Seppellimento dei morti",
+		"japanese":"埋葬する",
 	},
 	"professionSpecialization_brewBeer": {
 		"english": "Brew Beer",
@@ -593,7 +634,8 @@
 		"arabic": "ﺓﺮﻴﺒﻟﺍ ﺮﻴﻤﺨﺗ",
 		"korean": "맥주 양조하기",
 		"polish": "Waż piwo",
-		"italian": "Preparare birra"
+		"italian": "Preparare birra",
+		"japanese":"ビールを醸造",
 	},
 
 	// SCHOLAR
@@ -611,7 +653,8 @@
 		"arabic": "ﺕﺍﺭﻮﻠﺒﻟﺍ ﻞﻴﻠﺤﺗ",
 		"korean": "크리스탈 조사하기",
 		"polish": "Analizuj kryształy",
-		"italian": "Analizzare cristalli"
+		"italian": "Analizzare cristalli",
+		"japanese":"クリスタルを分析",
 	},
 	"professionSpecialization_performResearch": {
 		"english": "Perform Research",
@@ -625,5 +668,6 @@
 		"korean": "연구 수행",
 		"chinese": "进行研究",
 		"polish": "Prowadź badania",
+		"japanese":"研究をする",
 	}
 }

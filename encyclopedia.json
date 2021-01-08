@@ -244,7 +244,7 @@ aller viktigste er å sørge for at de alltid har nok mat på lager, spesielt n�
 å behold kolonien trygg og frisk for å beholde et godt humør på laget. Agressiv innfødte, sykdom og dårlig vær er bare noen få av utfordringene du vil komme til å oppleve på veien. hvis du lar kolonien ha det tøft for lenge vil de muligens stoppe å jobbe for deg, og gjør istedenfor det de har lyst til.
 
 lykke til med å sette opp din koloni på øya!",
-		"japanese": "ようこそFounders' Fortuneに
+		"japanese": "ようこそFounders' Fortuneに。
 
 入植者であるコロニストは希望を持ってこの土地に足を踏み入れました。彼らの入植地であるコロニーを発展させましょう。
 まずは篝火と家の建築です。続いて食料を調達する必要があります。
@@ -253,7 +253,7 @@ lykke til med å sette opp din koloni på øya!",
 コロニーの発展には様々な障害があります。油断しないでください。先住民であるティキゴブリンとの関係は安全を脅かす可能性があります。病気、天候も障害の一つです。
 これらの障害はコロニストの心情を挫けさす要因であり、長い時間そのままにしておく事はコロニストにとって良くない事です。早急に対処する事を心がけてください。
 
-貴方とコロニストで築くコロニーの発展を願って",
+さあ、コロニストのために大いにコロニーを発展させてください。",
 
 	},
 	"helpMenuText_research": {
@@ -271,7 +271,7 @@ lykke til med å sette opp din koloni på øya!",
 		"chinese": "你们的学者通过研究散布在你们殖民地周围的魔法水晶，研究出新的技术。派矿工去收集一些，并建造一个书架，这样你的学者就可以阅读关于分析水晶的技术。确保在右上角的研究面板中选择下一个新技术。",
 		"italian": "I tuoi eruditi inventano nuove tecnologie studiando i cristalli magici sparsi in tutta l'isola. Invia dei minatori per raccoglierne alcuni e costruisci un leggio in modo che i tuoi eruditi possano documentarsi sulle tecniche per analizzare i cristalli. Assicurati di selezionare la tecnologia da ricercare nel pannello di ricerca nell'angolo in alto a destra.",
 		"Norwegian": "din lærer kommer opp med nye teknologier ved å studere magiske krystaller som ligger overalt rundt deg. send ut gruvearbeidere for å samle inn, og bygg en bok stand så læreren kan lese seg opp på teknologier og analysere krystallene. husk å velge neste teknologi i etterforskings panelet i toppen på høyre hjørnet.",
-		"japanese": "研究はいたる所にあるクリスタルを解析する事で獲得する事ができます。右上隅の研究アイコンから研究一覧パネルを開き、獲得したい研究を選択してください。",
+		"japanese": "研究はいたる所にあるクリスタルを解析する事で獲得する事ができます。右上隅の研究アイコンから研究一覧パネルを開き、獲得したい研究を選択してください。また高度な研究はスクロールの解析も必要となります。決して楽ではありませんが、発展のため手を抜く事はできません。",
 	},
 	"helpMenuText_foodProduction": {
 		"english": "Food matters. Good food makes colonists happy, bad food makes colonists sick, little food makes colonists slow, and no food means colonists will die. So, make sure you've got your production chain set up to provide for everyone!",
@@ -288,7 +288,7 @@ lykke til med å sette opp din koloni på øya!",
 		"chinese": "食物很重要。美味的食物使殖民者快乐，难吃的食物使殖民者生病，缺少食物配给使殖民者变得工作缓慢，没有食物殖民者将会饿死。 因此请确保您的生产链能为每个人提供食物！",
 		"italian": "Nutrirsi è importante. Il buon cibo rende felici i coloni, il cattivo cibo li fa ammalare, poco cibo li rallenta e nessun cibo li farà morire. Per cui, assicurati di avere una catena di produzione attiva per fornire del cibo a tutti!",
 		"Norwegian": "mat er viktig. god mat gjør kolonien glad, dårlig mat gjør kolonien syk, lite mat gjør kolonistene trege, null mat gjør at de vil dø. så vær sikker på at du har satt opp produksjonen for at det er nok til alle!",
-		"japanese": "食べ物はとても重要です。おいしい食べ物はコロニストの心情を良くします。だめな食べ物は病気になる場合もあります。また量が少ないと作業にも影響します。食べ物が無くなるという事はコロニストの飢え死にを引き起こすため、絶対に避けてください。",
+		"japanese": "食べ物はとても重要です。おいしい食べ物はコロニストの心情を良くします。だめな食べ物は病気になる場合もあります。また食べる量が少ないと作業に影響します。食べ物が無くなるという事を絶対に避けてください。なぜならコロニストが飢え死にするからです。",
 	},
 	"helpMenuTitle_foodProduction_farming": {
 		"english": "Farming",
@@ -345,8 +345,9 @@ Zanim zaczniesz sadzić jak szalony, ważne ostrzeżenie: wszystkie rośliny, kt
 Ora, prima di iniziare a piantare come un pazzo, un'ultima parola di avvertimento: tutte le piante che non vengono raccolte prima della fine della loro stagione moriranno senza produrre cibo per la tua colonia!
 Buona coltivazione!",
 		"Norwegian": "alt starter i en åker, hvor ivrige bønder bruker dagene på å ta vare på avlingene. avhengig av sesongene kan de så forskjellige planter.",
-		"japanese": "農業は畑を作る事からから始まります。畑は季節、作物の用途の目的によって様々な種類の種が植えられます。そして、忘れてはいけない事として作物の世話はとても大事です。
-なぜなら、適正な世話は収穫量の違いとして表れるからです。食べ物のために今まさに植え始めようとしている貴方に警告します。収穫されなかった作物の全ては腐って食材にはなりません。",
+		"japanese": "農業は畑を作る事から始まります。畑は季節によって、作物の用途によって様々な種類の種が植えられます。
+作物の世話はとても大事な事であり手を抜いてはいけません。なぜなら、適正な世話は収穫量の違いとして表れるからです。
+早速、食べ物のために植え始めようとしている貴方に警告します。収穫されなかった作物の全ては腐って食材にはならない事を。",
 	},
 	"helpMenuTitle_foodProduction_expectations": {
 		"english": "Food Expectations",

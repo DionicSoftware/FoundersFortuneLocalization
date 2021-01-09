@@ -14,6 +14,7 @@
 		"korean": "%firstName%#{은} 행복합니다",
 		"italian": "%firstName% è felice.",
 		"polish": "%firstName% jest szczęśliw%yA%",
+		"japanese": "%firstName% は、幸せです",
 	},
 	"moodDesc_Bad": {
 		"english": "%firstName% is not having a good time",
@@ -29,6 +30,7 @@
 		"korean": "%firstName%의 시간은 즐겁지 않습니다",
 		"italian": "%firstName% non sta vivendo un buon momento.",
 		"polish": "%firstName% nie spędza zbyt miło czasu",
+		"japanese": "%firstName% は、楽しい時間を過ごせませんでした",
 	},
 	"moodDesc_Terrible": {
 		"english": "%firstName% is feeling terrible. %cap-heShe% is at risk of breaking down",
@@ -44,6 +46,7 @@
 		"korean": "%firstName%의 기분이 최악입니다. %heShe%가 파업할 위험이 있습니다",
 		"italian": "%firstName% si sente male. Sta rischiando di avere un crollo nervoso.",
 		"polish": "%firstName% czuje się podle. Istnieje ryzyko załamania nerwowego",
+		"japanese": "%firstName% は、酷い気分です。 %cap-heShe% が、ストライキする危険があります。",
 	},
 	"moodDesc_Breakdown": {
 		"english": "%firstName% is having a breakdown. Nothing can console %himHer% now.",
@@ -59,6 +62,7 @@
 		"korean": "%firstName%#{은} 파업중입니다. 지금은 그 무엇도 %heShe%를 위로할 수 없습니다.",
 		"italian": "%firstName% sta avendo un esaurimento nervoso. Nulla potrà %ConsolarloConsolarla% adesso.",
 		"polish": "%firstName% ma załamanie nerwowe i nic %jegoJej% nie pocieszy w tej chwili.",
+		"japanese":  "%firstName% は、ストライキ中です。 %himHer% は、指示を受け付けません。",
 	},
 	"moodDesc_LockedUp": {
 		"english": "%firstName% is locked up and is only concerned with freedom.",
@@ -74,6 +78,7 @@
 		"korean": "%firstName%#{은} 갇혀있으며, 자유를 되찾는 것만 생각하고 있습니다.",
 		"italian": "%firstName% è %RinchiusoRinchiusa% e il suo unico pensiero è la libertà.",
 		"polish": "%firstName% jest uwięziony i myśli tylko o wolności.",
+		"japanese":  "%firstName% は、閉じ込められています。 %himHer% は、自由について考えています。",
 	},
 	"expectationDesc_Good": {
 		"english": "%firstName% is content with %hisHer% life in the colony.",
@@ -89,6 +94,7 @@
 		"korean": "%firstName%#{은} 정착지에서의 삶에 만족하고 있습니다.",
 		"italian": "%firstName% è %ContentoContenta% della sua vita nella colonia.",
 		"polish": "%firstName% jest jest zadowolon%yA% ze swojego życia w osadzie.",
+		"japanese":  "%firstName% は、コロニーでの生活に満足しています。",
 	},
 	"expectationDesc_Neutral": {
 		"english": "%firstName% expects a little more of this colony. Migrants will only come when the expectations of the colonists are fulfilled.",
@@ -104,6 +110,7 @@
 		"korean": "%firstName%#{은} 이 정착지에 조금 더 기대하고 있습니다. 이주민들은 모든 정착지들의 기대가 충족되었을 때 올 것입니다.",
 		"italian": "%firstName% si aspetta un po' più da questa colonia. I migranti arriveranno solo se le aspettative dei coloni saranno soddisfatte.",
 		"polish": "%firstName% oczekuje trochę więcej od tej osady. Migranci przybędą dopiero wtedy, gdy spełnią się oczekiwania kolonistów.",
+		"japanese":  "%firstName% は、コロニーに、もう少し期待をしています。新しいコロニストがやってくるには、コロニストの期待を満たさなければなりません。",
 	},
 	"expectationDesc_Bad": {
 		"english": "%firstName% expects a lot more of this colony. Migrants will only come when the expectations of your colonists are fulfilled.",
@@ -119,6 +126,7 @@
 		"korean": "%firstName%#{은} 이 정착지에 기대하는게 많습니다. 이주민들은 모든 정착지들의 기대가 충족되었을 때 올 것입니다.",
 		"italian": "%firstName% si aspetta molto di più da questa colonia. I migranti arriveranno solo se le aspettative dei tuoi coloni saranno soddisfatte.",
 		"polish": "%firstName% oczekuje o wiele więcej od tej osady. Migranci przybędą dopiero wtedy, gdy spełnią się oczekiwania kolonistów.",
+		"japanese":  "%firstName% は、コロニーに、もっと沢山の期待をしています。新しいコロニストがやってくるには、コロニストの期待を満たさなければなりません。",
 	},
 	"expectationDesc_LockedUp": {
 		"english": "%firstName% is locked up by the goblins and doesn't count as part of the colony at the moment.",
@@ -134,6 +142,7 @@
 		"korean": "%firstName%#{은} 고블린들에게 갇혀있으며, 지금은 정착지의 일원으로 여겨지지 않습니다.",
 		"italian": "%firstName% è %StatoRinchiusoStataRinchiusa% dai goblin e al momento non conta come parte della colonia.",
 		"polish": "%firstName% jest uwięziony przez Gobliny i obecnie nie liczy się jako część osady.",
+		"japanese":  "%firstName% は、ゴブリンによって閉じ込められており、現時点ではコロニーの一部としてカウントされません。",
 	},
 
 
@@ -152,6 +161,7 @@
 		"korean": "%firstName%#{은} 파업중입니다! %heShe%가 다른 개척자의 가구를 파괴하고 있습니다!",
 		"italian": "%firstName% sta avendo un esaurimento nervoso! Sta distruggendo i mobili degli altri coloni!",
 		"polish": "%firstName% ma załamanie nerwowe i w furii niszczy meble należące do innych kolonistów!",
+		"japanese":  "%firstName% が、ストライキしています。%cap-heShe% が他のコロニストの家具を破壊しています!",
 	},
 	"colonistMoodDesc_crazy": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% is hitting other colonists!",
@@ -167,6 +177,7 @@
 		"korean": "%firstName%#{은} 파업중입니다! %heShe%가 다른 개척자를 때리고 있습니다!",
 		"italian": "%firstName% sta avendo un esaurimento nervoso! Sta attaccando gli altri coloni!",
 		"polish": "%firstName% ma załamanie nerwowe i w szale atakuje innych kolonistów!",
+		"japanese":  "%firstName% が、ストライキしています。%cap-heShe% が他のコロニストを襲っています!",
 	},
 	"colonistMoodDesc_lazyDay": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% decided to have a lazy day and take a lot of breaks.",
@@ -182,6 +193,7 @@
 		"korean": "%firstName%#{은} 파업중입니다! %heShe%는 아주 자주 쉬는 느긋한 하루를 보내기로 결심했습니다.",
 		"italian": "%firstName% sta avendo un esaurimento nervoso! Ha deciso di trascorrere una giornata senza far nulla e facendo numerose pause.",
 		"polish": "%firstName% ma załamanie nerwowe i z tego powodu ma zamiar cały dzień się obijać.",
+		"japanese":  "%firstName% は、ストライキしています。%cap-heShe% は怠惰な一日を過ごし、沢山の休暇を取ることにしました。",
 	},
 	"colonistMoodDesc_notWorking": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% refuses to work or follow any orders!",
@@ -197,5 +209,6 @@
 		"korean": "%firstName%#{은} 파업중입니다! %heShe%는 일을 하길 거부하고 있으며 어떤 명령도 따르지 않습니다!",
 		"italian": "%firstName% sta avendo un esaurimento nervoso! Rifiuta di lavorare o di eseguire qualunque ordine!",
 		"polish": "%firstName% ma załamanie nerwowe i odmawia wykonywania poleceń oraz słuchania innych",
+		"japanese":  "%firstName% は、ストライキしています。%cap-heShe% は仕事を拒否したり、指示に従うことを拒否しました!",
 	},
 }

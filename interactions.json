@@ -15,6 +15,7 @@
 		"chinese": "无所事事",
 		"italian": "Non fare nulla",
 		"polish": "Nic nie rób",
+		"japanese": "何もしない",
 	},
 	"Eat": {
 		"english": "Eat Something",
@@ -31,6 +32,7 @@
 		"chinese": "进食中",
 		"italian": "Mangia qualcosa",
 		"polish": "Zjedz coś",
+		"japanese": "何かを食べる",
 	},
 	"EatFood": {
 		"english": "Eat %food%",
@@ -47,6 +49,7 @@
 		"chinese": "吃%food%",
 		"italian": "Mangia %food%",
 		"polish": "Zjedz: %food%",
+		"japanese": " %food% を食べる",
 	},
 	"GiveFood": {
 		"english": "Give Food",
@@ -63,6 +66,7 @@
 		"chinese": "获取食物",
 		"italian": "Dai da mangiare",
 		"polish": "Daj jedzenie",
+		"japanese": "食べ物を与える",
 	},
 	"GiveHealingPotion": {
 		"english": "Give Healing Potion",
@@ -79,6 +83,7 @@
 		"chinese": "获取药水",
 		"italian": "Consegna pozione curativa",
 		"polish": "Daj miksturę leczniczą",
+		"japanese": "回復薬を与える",
 	},
 	"Repair": {
 		"english": "Repair",
@@ -95,6 +100,7 @@
 		"chinese": "修理",
 		"italian": "Ripara",
 		"polish": "Napraw",
+		"japanese": "修理",
 	},
 	"GoHere": {
 		"english": "Go Here",
@@ -111,6 +117,7 @@
 		"chinese": "前往这里",
 		"italian": "Vai qui",
 		"polish": "Idź tutaj",
+		"japanese": "ここに行く",
 	},
 	"WaitHere": {
 		"english": "Wait Here",
@@ -127,6 +134,7 @@
 		"chinese": "在这等着",
 		"italian": "Aspetta qui",
 		"polish": "Czekaj tutaj",
+		"japanese": "ここで待つ",
 	},
 	"Relax": {
 		"english": "Relax",
@@ -143,6 +151,7 @@
 		"chinese": "休息",
 		"italian": "Rilassarsi",
 		"polish": "Odpocznij",
+		"japanese": "休息",
 	},
 	"RemovePlant": {
 		"english": "Remove Plant",
@@ -159,6 +168,7 @@
 		"chinese": "移除植物",
 		"italian": "Rimuovi pianta",
 		"polish": "Usuń roślinę",
+		"japanese": "植物を取り除く",
 	},
 	"RemoveInfestedPlants": {
 		"english": "Remove all Infested Plants",
@@ -175,6 +185,7 @@
 		"chinese": "移除所有感染的植物",
 		"italian": "Rimuovi tutte le piante infestate",
 		"polish": "Usuń wszystkie zarażone rośliny",
+		"japanese": "感染した植物を全て取り除きます",
 	},
 	"RemoveDeadPlants": {
 		"english": "Remove all Dead Plants",
@@ -191,6 +202,7 @@
 		"chinese": "移除所有枯萎的植物",
 		"italian": "Rimuovi tutte le piante morte",
 		"polish": "Usuń wszystkie obumarłe rośliny",
+		"japanese": "枯れた植物をを全て取り除きます",
 	},
 	"WaterPlant": {
 		"english": "Water Plant",
@@ -207,6 +219,7 @@
 		"chinese": "浇水",
 		"italian": "Innaffia pianta",
 		"polish": "Podlej",
+		"japanese": "水やり",
 	},
 	"Sow": {
 		"english": "Sow",
@@ -223,6 +236,7 @@
 		"chinese": "播种",
 		"italian": "Semina",
 		"polish": "Zasadź",
+		"japanese": "種をまく",
 	},
 	"interaction_Plant": { // for example when planting a tree. Game mechanics are similar/same as sow
 		"english": "Plant",
@@ -234,6 +248,7 @@
 		"italian": "Pianta",
 		"chinese": "种植",
 		"polish": "Zasadź",
+		"japanese": "植える",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -250,6 +265,7 @@
 		"chinese": "收获",
 		"italian": "Raccogli",
 		"polish": "Zbierz",
+		"japanese": "収穫する",
 	},
 	"SowObject": {
 		"english": "Sow %object%",
@@ -266,6 +282,7 @@
 		"chinese": "播种%object%",
 		"italian": "Semina %object%",
 		"polish": "Posadź: %object%",
+		"japanese": "種をまく: %object%",
 	},
 	"HarvestObject": {
 		"english": "Harvest %object%",
@@ -282,6 +299,7 @@
 		"chinese": "收获%object%",
 		"italian": "Raccogli %object%",
 		"polish": "Zbierz: %object%",
+		"japanese":"収穫する: %object%",
 	},
 	"Construct": {
 		"english": "Construct",
@@ -298,6 +316,7 @@
 		"chinese": "建造",
 		"italian": "Costruisci",
 		"polish": "Zbuduj",
+		"japanese":"建造する",
 	},
 	"Deconstruct": { // letting a colonist remove furniture
 		"english": "Remove",
@@ -314,6 +333,7 @@
 		"chinese": "搬运",
 		"italian": "Rimuovi",
 		"polish": "Usuń",
+		"japanese":"削除",
 	},
 	"Fight": {
 		"english": "Fight",
@@ -330,6 +350,7 @@
 		"chinese": "战斗",
 		"italian": "Lotta",
 		"polish": "Walcz",
+		"japanese":"戦闘",
 	},
 	"Kill": {
 		"english": "Kill",
@@ -346,6 +367,7 @@
 		"chinese": "击杀",
 		"italian": "Uccidi",
 		"polish": "Zabij",
+		"japanese":"殺害",
 	},
 	"TakeHealingPotion": {
 		"english": "Take Healing Potion",
@@ -362,6 +384,7 @@
 		"chinese": "使用治疗药水",
 		"italian": "Prendi pozione curativa",
 		"polish": "Weź miksturę leczniczą",
+		"japanese":"回復薬を使用する",
 	},
 	"DrinkElixirOfYouth": {
 		"english": "Drink Elixir of Youth",
@@ -373,6 +396,7 @@
 		"chinese": "青年饮品",
 		"italian": "Bevi l'elisir di giovinezza",
 		"polish": "Wypij eliksir młodości",
+		"japanese":"若さのエリクサーを飲む",
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
@@ -389,6 +413,7 @@
 		"chinese": "学习务农",
 		"italian": "Apprendi di più sulla coltivazione",
 		"polish": "Ucz się o rolnictwie",
+		"japanese":"農業について学ぶ",
 	},
 	"LearnForesting": {
 		"english": "Learn about Foresting",
@@ -405,6 +430,7 @@
 		"chinese": "学习林业",
 		"italian": "Apprendi di più sul rimboschimento",
 		"polish": "Ucz się o leśnictwie",
+		"japanese":"林業について学ぶ",
 	},
 	"LearnMining": {
 		"english": "Learn about Mining",
@@ -421,6 +447,7 @@
 		"chinese": "学习挖掘",
 		"italian": "Apprendi di più sull'estrazione",
 		"polish": "Ucz się o wydobyciu",
+		"japanese":"採掘について学ぶ",
 	},
 	"LearnCrafting": {
 		"english": "Learn about Crafting",
@@ -437,6 +464,7 @@
 		"chinese": "学习工艺",
 		"italian": "Apprendi di più sulla fabbricazione",
 		"polish": "Ucz się o wytwarzaniu",
+		"japanese":"クラフトについて学ぶ",
 	},
 	"LearnFighting": {
 		"english": "Train for Combat",
@@ -453,6 +481,7 @@
 		"chinese": "训练战斗",
 		"italian": "Allenati al combattimento",
 		"polish": "Ćwicz walkę",
+		"japanese":"戦闘の訓練をする",
 	},
 	"LearnMedicine": {
 		"english": "Learn about Medicine",
@@ -469,6 +498,7 @@
 		"chinese": "学习医学",
 		"italian": "Impara di più sulla medicina",
 		"polish": "Ucz się o medycynie",
+		"japanese":"医学について学ぶ",
 	},
 	"LearnResearching": {
 		"english": "Learn about Researching",
@@ -485,6 +515,7 @@
 		"chinese": "学习研究",
 		"italian": "Impara di più sulla ricerca",
 		"polish": "Ucz się o wynalazkach",
+		"japanese":"研究について学ぶ",
 	},
 	"LearnLifeSkills": { // refers to all the things kids need to learn in order to grow up properly
 		"english": "Learn Life Skills",
@@ -496,6 +527,7 @@
 		"chinese": "学习生活技能",
 		"italian": "Apprendi le competenze di vita",
 		"polish": "Ucz się o życiu",
+		"japanese":"ライフスキルを学ぶ",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -512,6 +544,7 @@
 		"chinese": "睡眠",
 		"italian": "Dormi",
 		"polish": "Śpij",
+		"japanese":"寝る",
 	},
 	"SleepUntilHealthy": {
 		"english": "Sleep until completely healthy",
@@ -528,6 +561,7 @@
 		"chinese": "睡到完全康复",
 		"italian": "Dormi finché la salute non si rigenera",
 		"polish": "Śpij aż do wyzdrowienia",
+		"japanese":"完全に健康になるまで眠る",
 	},
 	"SleepOnGround": {
 		"english": "Sleep on the Ground",
@@ -544,6 +578,7 @@
 		"chinese": "睡在地上",
 		"italian": "Dormi a terra",
 		"polish": "Śpij na podłodze",
+		"japanese":"地面で寝る",
 	},
 	"Sit": {
 		"english": "Sit",
@@ -560,6 +595,7 @@
 		"chinese": "坐",
 		"italian": "Siediti",
 		"polish": "Usiądź",
+		"japanese":"座る",
 	},
 	"SitOnChair": {
 		"english": "Sit on Chair",
@@ -576,6 +612,7 @@
 		"chinese": "坐在椅上",
 		"italian": "Sedersi su una sedia",
 		"polish": "Usiądź na krześle",
+		"japanese":"椅子に座る",
 	},
 	"Bury": {
 		"english": "Bury",
@@ -592,6 +629,7 @@
 		"chinese": "埋葬",
 		"italian": "Seppellisci",
 		"polish": "Pochowaj",
+		"japanese":"埋葬",
 	},
 	"AcceptMigrants": {
 		"english": "Accept Migrants",
@@ -608,6 +646,7 @@
 		"chinese": "接收移民",
 		"italian": "Accetta migranti",
 		"polish": "Przyjmij migrantów",
+		"japanese":"新しいコロニストを受け入れる",
 	},
 	"RejectMigrants": {
 		"english": "Reject Migrants",
@@ -624,6 +663,7 @@
 		"chinese": "拒绝移民",
 		"italian": "Respingi migranti",
 		"polish": "Odeślij migrantów",
+		"japanese":"新しいコロニストを断る",
 	},
 	"LeaveIsland": {
 		"english": "Leave Island",
@@ -640,6 +680,7 @@
 		"chinese": "离开岛屿",
 		"italian": "Lascia l'isola",
 		"polish": "Opuść wyspę",
+		"japanese":"島を離れる",
 	},
 	"BandageWounds": {
 		"english": "Bandage Wounds",
@@ -656,6 +697,7 @@
 		"chinese": "包扎伤口",
 		"italian": "Benda ferite",
 		"polish": "Opatrz rany",
+		"japanese":"包帯で傷を保護",
 	},
 	"SplintLeg": {
 		"english": "Splint Leg",
@@ -672,6 +714,7 @@
 		"chinese": "腿部夹板",
 		"italian": "Applica stecca alla gamba",
 		"polish": "Usztywnij nogę",
+		"japanese":"脚に添え木を使用します",
 	},
 	"SplintArm": {
 		"english": "Splint Arm",
@@ -688,6 +731,7 @@
 		"chinese": "手臂夹板",
 		"italian": "Applica stecca al braccio",
 		"polish": "Usztywnij rękę",
+		"japanese":"腕に添え木を使用します",
 	},
 	"Destroy": {
 		"english": "Destroy",
@@ -704,6 +748,7 @@
 		"chinese": "破坏",
 		"italian": "Distruggi",
 		"polish": "Zniszcz",
+		"japanese":"破壊",
 	},
 	"Remove": {
 		"english": "Remove",
@@ -720,6 +765,7 @@
 		"chinese": "移除",
 		"italian": "Rimuovi",
 		"polish": "Usuń",
+		"japanese":"削除",
 	},
 	"Add": {
 		"english": "Add",
@@ -736,6 +782,7 @@
 		"chinese": "添加",
 		"italian": "Aggiungi",
 		"polish": "Dodaj",
+		"japanese":"追加",
 	},
 	"Produce": {
 		"english": "Produce",
@@ -752,6 +799,7 @@
 		"chinese": "产品",
 		"italian": "Produci",
 		"polish": "Produkuj",
+		"japanese":"生産する",
 	},
 	"Equip": {
 		"english": "Equip",
@@ -768,6 +816,7 @@
 		"chinese": "装备",
 		"italian": "Equipaggia",
 		"polish": "Załóż",
+		"japanese":"装備する",
 	},
 	"Unequip": {
 		"english": "Unequip",
@@ -784,6 +833,7 @@
 		"chinese": "卸下",
 		"italian": "Disequipaggia",
 		"polish": "Zdejmij",
+		"japanese":"装備解除",
 	},
 	"RemoveWeapon": {
 		"english": "Lay down Weapon",
@@ -800,6 +850,7 @@
 		"chinese": "放下武器",
 		"italian": "Abbassa l'arma",
 		"polish": "Odłóż broń",
+		"japanese":"武器を置く",
 	},
 	"RemoveArmor": {
 		"english": "Take off Armor",
@@ -816,6 +867,7 @@
 		"chinese": "脱下盔甲",
 		"italian": "Togliti l'armatura",
 		"polish": "Zdejmij zbroję",
+		"japanese":"装備を脱ぐ",
 	},
 	"RemoveEquipment": {
 		"english": "Remove Equipment",
@@ -832,6 +884,7 @@
 		"chinese": "移除装备",
 		"italian": "Rimuovi equipaggiamento",
 		"polish": "Usuń wyposażenie",
+		"japanese":"装備を取り除く",
 	},
 	"LightBonfire": {
 		"english": "Light Bonfire",
@@ -848,6 +901,7 @@
 		"chinese": "点亮营火",
 		"italian": "Accendi falò",
 		"polish": "Zapal ogień",
+		"japanese":"ビーコンを点火する",
 	},
 	"PutOutBonfire": {
 		"english": "Put out Bonfire",
@@ -864,6 +918,7 @@
 		"chinese": "放置营火",
 		"italian": "Spegni falò",
 		"polish": "Zgaś ogień",
+		"japanese":"ビーコンを消火する",
 	},
 	"GatherResources": {
 		"english": "Gather Resources",
@@ -880,6 +935,7 @@
 		"chinese": "收集资源",
 		"italian": "Raccogli risorse",
 		"polish": "Zbieraj surowce",
+		"japanese":"資源を収集する",
 	},
 	"Guard": {
 		"english": "Guard",
@@ -896,6 +952,7 @@
 		"chinese": "守卫",
 		"italian": "Proteggi",
 		"polish": "Strzeż",
+		"japanese":"守備する",
 	},
 	"GuardTower": {
 		"english": "Guard Tower",
@@ -912,6 +969,7 @@
 		"chinese": "守卫塔",
 		"italian": "Proteggi la torre",
 		"polish": "Chroń wieżę",
+		"japanese":"守備塔",
 	},
 	"ProcessResource": {
 		"english": "Process Resource",
@@ -928,6 +986,7 @@
 		"chinese": "资源进度",
 		"italian": "Trasforma risorse",
 		"polish": "Przetwórz zasoby",
+		"japanese":"資源過程",
 	},
 	"ChangeProfession": {
 		"english": "Change",
@@ -944,6 +1003,7 @@
 		"chinese": "变更",
 		"italian": "Cambia",
 		"polish": "Zmień",
+		"japanese":"変更",
 	},
 	"GiveProductionOrders": {
 		"english": "Give Production Orders",
@@ -960,6 +1020,7 @@
 		"chinese": "安排生产任务",
 		"italian": "Dai ordini di produzione",
 		"polish": "Zleć produkcję",
+		"japanese":"アイテムを製造リクエストする",
 	},
 	"FillWateringCan": {
 		"english": "Fill Watering Can",
@@ -976,6 +1037,7 @@
 		"chinese": "灌满水壶",
 		"italian": "Riempi innaffiatoio",
 		"polish": "Napełnij konewkę",
+		"japanese":"スプリンクラーを埋める",
 	},
 	"interaction_gatherFood": {
 		"english": "Gather Food",
@@ -992,6 +1054,7 @@
 		"chinese": "收集食物",
 		"italian": "Raccogli cibo",
 		"polish": "Zbierz: Jedzenie",
+		"japanese":"食べ物を集める",
 	},
 	"interaction_cutTree": {
 		"english": "Cut Tree",
@@ -1008,6 +1071,7 @@
 		"chinese": "砍伐树木",
 		"italian": "Abbatti albero",
 		"polish": "Zbierz: Drewno",
+		"japanese":"伐採する",
 	},
 	"interaction_mineStone": {
 		"english": "Mine Stone",
@@ -1024,6 +1088,7 @@
 		"chinese": "挖掘岩石",
 		"italian": "Estrai pietra",
 		"polish": "Zbierz: Kamień",
+		"japanese":"石を採掘する",
 	},
 	"interaction_mineIronOre": {
 		"english": "Mine Iron Ore",
@@ -1040,6 +1105,7 @@
 		"chinese": "挖掘铁矿",
 		"italian": "Estrai minerale di ferro",
 		"polish": "Zbierz: Żelazo",
+		"japanese":"鉄を採掘する",
 	},
 	"GatherResource": {
 		"english": "Gather %resource%",
@@ -1056,6 +1122,7 @@
 		"chinese": "收集%resource%",
 		"italian": "Raccogli %resource%",
 		"polish": "Zbierz: %resource%",
+		"japanese":"%resource% を収集",
 	},
 	"BecomeAProfession": {
 		"english": "Become a %profession%",
@@ -1072,6 +1139,7 @@
 		"chinese": "转职为 %profession%",
 		"italian": "Diventa: %profession%",
 		"polish": "Wybierz profesję: %profession%",
+		"japanese":"%profession% になる",
 	},
 	"TryFluTreatment": {
 		"english": "Try Flu Treatment",
@@ -1088,6 +1156,7 @@
 		"chinese": "尝试治疗流感",
 		"italian": "Prova il trattamento contro l'influenza",
 		"polish": "Wylecz grypę",
+		"japanese":"インフルエンザ治療を試す",
 	},
 	"interaction_analyzeCrystal": {
 		"english": "Analyze Crystal",
@@ -1104,6 +1173,7 @@
 		"chinese": "分析水晶",
 		"italian": "Analizza cristallo",
 		"polish": "Badaj kryształy",
+		"japanese":"クリスタルの解析",
 	},
 	"interaction_analyzeScroll": {
 		"english": "Analyze Scroll",
@@ -1120,6 +1190,7 @@
 		"chinese": "分析卷轴",
 		"italian": "Analizza pergamena",
 		"polish": "Czytaj zwoje",
+		"japanese":"スクロールを解析",
 	},
 	"interaction_cook": {
 		"english": "Cook Food",
@@ -1136,6 +1207,7 @@
 		"chinese": "烹饪食物",
 		"italian": "Cuoci cibo",
 		"polish": "Gotuj jedzenie",
+		"japanese":"料理をする",
 	},
 	"interaction_Forge": {
 		"english": "Forge",
@@ -1152,6 +1224,7 @@
 		"chinese": "锻造",
 		"italian": "Forgia",
 		"polish": "Wykuwaj broń",
+		"japanese":"鍛造をする",
 	},
 	"interaction_makeBows": {
 		"english": "Make Bows",
@@ -1168,6 +1241,7 @@
 		"chinese": "制造弓箭",
 		"italian": "Fabbrica archi",
 		"polish": "Rób łuki",
+		"japanese":"弓を製造する",
 	},
 	"interaction_makeTools": {
 		"english": "Make Tools",
@@ -1184,6 +1258,7 @@
 		"chinese": "制造工具",
 		"italian": "Fabbrica strumenti",
 		"polish": "Rób narzędzia",
+		"japanese":"道具を製造する",
 	},
 	"interaction_tailorClothes": {
 		"english": "Tailor Clothes",
@@ -1200,6 +1275,7 @@
 		"chinese": "缝纫衣服",
 		"italian": "Cuci vestiti",
 		"polish": "Szyj ubrania",
+		"japanese":"仕立てる",
 	},
 	"interaction_weave": {
 		"english": "Weave",
@@ -1211,6 +1287,7 @@
 		"italian": "Tessi",
 		"polish": "Pomachaj",
 		"chinese": "纺织",
+		"japanese":"織る",
 	},
 	"interaction_produceMedicalPotions": {
 		"english": "Produce Healing Potions",
@@ -1227,6 +1304,7 @@
 		"chinese": "生产药水",
 		"italian": "Produci pozioni curative",
 		"polish": "Twórz mikstury lecznicze",
+		"japanese":"回復薬を製造する",
 	},
 	"interaction_produceMedicine": {
 		"english": "Produce Medicine",
@@ -1243,6 +1321,7 @@
 		"chinese": "生产药水",
 		"italian": "Produci medicinale",
 		"polish": "Twórz leki",
+		"japanese":"医薬品を製造する",
 	},
 	"interaction_brewBeer": {
 		"english": "Brew Beer",
@@ -1259,6 +1338,7 @@
 		"chinese": "酿造酒水",
 		"italian": "Prepara birra",
 		"polish": "Warz piwo",
+		"japanese":"ビールを醸造する",
 	},
 	"Talk": {
 		"english": "Talk",
@@ -1275,6 +1355,7 @@
 		"chinese": "交流",
 		"italian": "Parla",
 		"polish": "Rozmawiaj",
+		"japanese":"交流する",
 	},
 	"TalkAboutFood": {
 		"english": "Talk about Food",
@@ -1286,6 +1367,7 @@
 		"chinese": "讨论食物",
 		"italian": "Parla di cibo",
 		"polish": "Rozmawiaj o jedzeniu",
+		"japanese":"食べ物について話す",
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
@@ -1302,6 +1384,7 @@
 		"chinese": "与%name%交流",
 		"italian": "Parlare con %name%",
 		"polish": "Rozmawiaj z %name%",
+		"japanese":"%name% に話しかける",
 	},
 	"TakeOwnership": {
 		"english": "Take Ownership",
@@ -1318,6 +1401,7 @@
 		"chinese": "获得拥有权",
 		"italian": "Assumi la proprietà",
 		"polish": "Przejmij na własność",
+		"japanese":"所有権を取得する",
 	},
 	"TakeOwnershipFrom": {
 		"english": "Take Ownership from %name%",
@@ -1334,6 +1418,7 @@
 		"chinese": "从%name%那里获得拥有权",
 		"italian": "Assumi la proprietà da %name%",
 		"polish": "Przejmij własność od %name%",
+		"japanese":"%name% から所有権を取得する",
 	},
 	"GiveUpOwnership": {
 		"english": "Give up Ownership",
@@ -1350,6 +1435,7 @@
 		"chinese": "放弃拥有权",
 		"italian": "Rinuncia alla proprietà",
 		"polish": "Zrzeknij się własności",
+		"japanese":"所有権を放棄する",
 	},
 	"CarryToBed": {
 		"english": "Carry to Bed",
@@ -1366,6 +1452,7 @@
 		"chinese": "携带床铺",
 		"italian": "Porta a letto",
 		"polish": "Zaprowadź do łóżka",
+		"japanese":"ベッドに運ぶ",
 	},
 	"PlaceTool": {
 		"english": "Unequip Tool",
@@ -1382,6 +1469,7 @@
 		"chinese": "卸下工具",
 		"italian": "Disequipaggia strumento",
 		"polish": "Odłóż narzędzie",
+		"japanese":"装備している道具を解除する",
 	},
 	"PlaceClothes": {
 		"english": "Unequip Clothes",
@@ -1398,6 +1486,7 @@
 		"chinese": "卸下衣服",
 		"italian": "Disequipaggia vestiti",
 		"polish": "Zdejmij ubranie",
+		"japanese":"装備している衣服を解除する",
 	},
 	"Trade": {
 		"english": "Trade",
@@ -1414,6 +1503,7 @@
 		"chinese": "交易",
 		"italian": "Commercia",
 		"polish": "Handluj",
+		"japanese":"貿易取引",
 	},
 	"LockUp": {
 		"english": "Lock Up",
@@ -1430,6 +1520,7 @@
 		"chinese": "锁上",
 		"italian": "Rinchiudi",
 		"polish": "Zamknij",
+		"japanese":"閉じ込める",
 	},
 	"FreeColonist": {
 		"english": "Free colonist",
@@ -1446,6 +1537,7 @@
 		"chinese": "自由移民",
 		"italian": "Libera colono",
 		"polish": "Uwolnij",
+		"japanese":"自由なコロニスト",
 	},
 	"FreeColonistFirstName": {
 		"english": "Free %firstName%",
@@ -1462,6 +1554,7 @@
 		"chinese": "自由的%firstName%",
 		"italian": "Libera %firstName%",
 		"polish": "Uwolnij %firstName%",
+		"japanese":"自由なコロニスト%firstName%",
 	},
 	"DrinkBeer": {
 		"english": "Drink Beer",
@@ -1478,6 +1571,8 @@
 		"chinese": "喝啤酒",
 		"italian": "Bevi birra",
 		"polish": "Wypij piwo",
+		"japanese":"ビールを飲む",
+		
 	},
 	"Dance": {
 		"english": "Dance",
@@ -1494,6 +1589,7 @@
 		"chinese": "跳舞",
 		"italian": "Balla",
 		"polish": "Tańcz",
+		"japanese":"ダンス",
 	},
 	"Enjoy": {
 		"english": "Enjoy",
@@ -1510,6 +1606,7 @@
 		"chinese": "享受",
 		"italian": "Divertiti",
 		"polish": "Ciesz się",
+		"japanese":"楽しむ",
 	},
 	"EnjoyFire": {
 		"english": "Enjoy Fire",
@@ -1526,6 +1623,7 @@
 		"chinese": "享受营火",
 		"italian": "Goditi il fuoco",
 		"polish": "Odpocznij przy ogniu",
+		"japanese":"火を楽しむ",
 	},
 	"Drum": {
 		"english": "Drum",
@@ -1542,6 +1640,7 @@
 		"chinese": "击鼓",
 		"italian": "Suona",
 		"polish": "Werbluj",
+		"japanese":"ドラム",
 	},
 	"Hug": {
 		"english": "Hug",
@@ -1558,6 +1657,7 @@
 		"chinese": "拥抱",
 		"italian": "Abbraccia",
 		"polish": "Przytul",
+		"japanese":"ハグをする",
 	},
 	"HugPerson": {
 		"english": "Hug %name%",
@@ -1569,6 +1669,7 @@
 		"chinese": "拥抱 %name%",
 		"italian": "Abbraccia %name%",
 		"polish": "Przytul %name%",
+		"japanese":"ハグをする %name%",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1585,6 +1686,7 @@
 		"chinese": "欢呼",
 		"italian": "Esulta",
 		"polish": "Ciesz się",
+		"japanese":"応援する",
 	},
 	"AskAboutTraits": {
 		"english": "Ask about traits",
@@ -1598,6 +1700,7 @@
 		"turkish": "Özelliklerini sor",
 		"polish": "Zapytaj o cechy",
 		"chinese": "询问特性",
+		"japanese":"特性について尋ねる",
 	},
 	"Insult": {
 		"english": "Insult",
@@ -1609,6 +1712,7 @@
 		"chinese": "侮辱",
 		"italian": "Insulta",
 		"polish": "Obraź",
+		"japanese":"侮辱する",
 	},
 	"InsultPerson": {
 		"english": "Insult %name%",
@@ -1620,6 +1724,7 @@
 		"chinese": "侮辱 %name%",
 		"italian": "Insulta %name%",
 		"polish": "Obraź %name%",
+		"japanese":"侮辱する %name%",
 	},
 	"Apologize": {
 		"english": "Apologize",
@@ -1631,6 +1736,7 @@
 		"chinese": "道歉",
 		"italian": "Scusati",
 		"polish": "Przeproś",
+		"japanese":"謝罪をする",
 	},
 	"MagicSmile": { // only used for debugging
 		"english": "Magic Smile",
@@ -1642,6 +1748,7 @@
 		"chinese": "魔术微笑",
 		"italian": "Sorriso magico",
 		"polish": "Magiczny uśmiech",
+		"japanese":"魅力的に微笑みかける",
 	},
 	"Kiss": {
 		"english": "Kiss",
@@ -1653,6 +1760,7 @@
 		"chinese": "亲吻",
 		"italian": "Bacia",
 		"polish": "Pocałuj",
+		"japanese":"キスする",
 	},
 	"KissPerson": {
 		"english": "Kiss %name%",
@@ -1664,6 +1772,7 @@
 		"chinese": "亲吻 %name%",
 		"italian": "Bacia %name%",
 		"polish": "Pocałuj %name%",
+		"japanese":"キスする %name%",
 	},
 	"BreakUp": {
 		"english": "Break up",
@@ -1675,6 +1784,7 @@
 		"chinese": "分手",
 		"italian": "Separati",
 		"polish": "Zerwij",
+		"japanese":"別れるために関係を壊す",
 	},
 	// used when someone wants to interact with this colonist
 	// and the colonist is waiting for the action to be performed
@@ -1689,6 +1799,7 @@
 		"chinese": "等待某人",
 		"italian": "Aspettando qualcuno",
 		"polish": "Zaczekaj na kogoś",
+		"japanese":"誰かを待つ",
 	},
 	"RiskyJoke": {
 		"english": "Risky Joke",
@@ -1700,6 +1811,7 @@
 		"chinese": "冒险笑话",
 		"italian": "Barzelletta pericolosa",
 		"polish": "Chamski dowcip",
+		"japanese":"危険なジョークを言う",
 	},
 	"TellRiskyJokeTo": {
 		"english": "Tell Risky Joke to %name%",
@@ -1711,6 +1823,8 @@
 		"chinese": "讲冒险笑话给 %name%听",
 		"italian": "Racconta una barzelletta pericolosa a %name%",
 		"polish": "Opowiedz chmski dowcip dla %name%",
+		"japanese":"%name% に、危険なジョークを言う",
+		
 	},
 	"Impress": {
 		"english": "Impress",
@@ -1722,6 +1836,8 @@
 		"chinese": "印象深刻",
 		"italian": "Impressiona",
 		"polish": "Zaimponuj",
+		"japanese":"印象づける",
+		
 	},
 	"ImpressPerson": {
 		"english": "Impress %name%",
@@ -1733,6 +1849,7 @@
 		"chinese": "对 %name%印象深刻",
 		"italian": "Impressiona %name%",
 		"polish": "Zaimponuj dla %name%",
+		"japanese":"印象づける %name%",
 	},
 	"BuildSnowman": {
 		"english": "Build Snowman",

@@ -12,6 +12,7 @@
 		"chinese": "你好，什么风把你吹来了?",
 		"italian": "Saluti! Cosa vi porta da noi?",
 		"polish": "Witaj! Co cię do nas sprowadza?",
+		"japanese": "うれしいです。何を持ってこられたのですか?",
 	},
 	"seeYouLater": { // default goodbye. Kind of nice, but still neutral
 		"english": "See you later.",
@@ -26,6 +27,7 @@
 		"chinese": "再见吧。",
 		"italian": "A più tardi.",
 		"polish": "Do zobaczenia.",
+		"japanese": "では、また!",
 	},
 	"goodbye": { // goodbye to be used when relations are not nice anymore
 		"english": "Goodbye.",
@@ -40,6 +42,7 @@
 		"chinese": "再见。",
 		"italian": "Addio.",
 		"polish": "Bywajcie.",
+		"japanese": "さようなら。",
 	},
 	"weAreSorry": {
 		"english": "We're sorry.",
@@ -53,6 +56,7 @@
 		"korean": "미안하네.",
 		"polish": "Przykro nam.",
 		"chinese": "我们很抱歉。",
+		"japanese": "申し訳ありません。",
 	},
 	"thanks": {
 		"english": "Thanks.",
@@ -67,6 +71,7 @@
 		"chinese": "谢谢。",
 		"italian": "Grazie.",
 		"polish": "Dziękujemy.",
+		"japanese": "ありがとう。",
 	},
 	"thanksALot": {
 		"english": "Thanks a lot!",
@@ -81,6 +86,7 @@
 		"chinese": "十分感谢！",
 		"italian": "Grazie mille!",
 		"polish": "Bardzo dziękujemy!",
+		"japanese": "どうも、ありがとう!",
 	},
 	"youreWelcome": { // said when colony did something another faction likes (giving presents, defending from pirates, etc.)
 		"english": "You're welcome.",
@@ -95,6 +101,7 @@
 		"chinese": "不用客气。",
 		"italian": "Prego.",
 		"polish": "Nie ma za co.",
+		"japanese": "どういたしまして。",
 	},
 	"weUnderstand": {
 		"english": "We understand.",
@@ -109,6 +116,7 @@
 		"chinese": "我们能理解。",
 		"italian": "Comprendiamo.",
 		"polish": "Rozumiemy.",
+		"japanese": "分かりました。",
 	},
 	"nothingValuableSelected": {
 		"english": "Present not valuable enough.",
@@ -124,6 +132,7 @@
 		"turkish": "Hediye yeterli değere sahip değil.",
 		"chinese": "目前价值不足。",
 		"polish": "To nie nadaje się na podarek.",
+		"japanese": "現在、それはあまり価値がないようです。",
 	},
 
 
@@ -140,6 +149,8 @@
 		"turkish": "%firstName% için serbest bırakılmasını görüşmek istiyorum.",
 		"chinese": "我想谈谈释放%firstName%的事宜。",
 		"italian": "Vorrei negoziare la liberazione di %firstName%.",
+		"japanese": "%firstName% の解放について交渉したいです。",
+		
 	},
 	"kidnappedFreeingText": {
 		"english": "We're ready to release %firstName% if you make it worth our while.\n\nWe require you to give us %tribute% in exchange.",
@@ -153,6 +164,8 @@
 		"turkish": "İyi bir değer karşılığında %firstName%'ı serbest bırakmaya hazırız.\n\nTakas için bize %haraç% vermenizi istiyoruz.",
 		"chinese": "如果你用等价的东西来交换的话我们随时能放了%firstName%。\n\n我们要求你们进贡%tribute%。",
 		"italian": "Siamo pronti a rilasciare %firstName% se ne varrà la pena.\n\nTi chiediamo di darci %tribute% in cambio.",
+		"japanese": "同等の価値のものを交換した場合、 %firstName% を解放しても問題ありません。。\n\nその代わりに %tribute% を提供してください。",
+		
 	},
 	"kidnappedFreeingAcceptButton": {
 		"english": "Fine, we'll pay.",
@@ -167,6 +180,8 @@
 		"chinese": "好吧，我们会交付的。",
 		"italian": "Bene, pagheremo.",
 		"polish": "Zgoda, zapłacimy.",
+		"japanese": "分かりました。支払いましょう。",
+		
 	},
 	"kidnappedFreeingDenyButton": {
 		"english": "Actually, we can't afford it.",
@@ -180,6 +195,7 @@
 		"turkish": "Aslına bakılırsa, bunu karşılayamayız.",
 		"chinese": "事实上，我们提供不了。",
 		"italian": "In realtà, non possiamo permettercelo.",
+		"japanese": "私たちには、それを買う余裕が現在ありません。",
 	},
 	"kidnappedFreeingAcceptedText": {
 		"english": "It's a deal. We freed %firstName% and will guarantee to not attack you for half a day, so you can come and get %himHer%.",
@@ -193,6 +209,7 @@
 		"turkish":  "Anlaştık. %firstName%'i serbest bıraktık ve yarım gün boyunca size saldırmayacağımızı garanti edeceğiz, böylece gelip onu alabilirsiniz.",
 		"chinese": "这是一个交易。我们会释放%firstName%，并保证在半天内不攻击您，然后您可以来接走%himHer%。",
 		"italian": "Affare fatto. Liberiamo %firstName% e ti garantiamo che non attaccheremo per metà giornata, così potrai venire a %PrenderloPrenderla%.",
+		"japanese": "これは、取引です。%firstName% を解放し、半日攻撃しないことを保証しましょう。",
 	},
 	"kidnappedFreeingAcceptedAnswer": {
 		"english": "Thanks.",
@@ -207,6 +224,7 @@
 		"chinese": "多谢",
 		"italian": "Grazie.",
 		"polish": "Dzięki.",
+		"japanese": "ありがとう。",
 	},
 
 
@@ -224,6 +242,7 @@
 		"chinese": "你下次打算什么时候再来?",
 		"italian": "Quando avete intenzione di farci visita?",
 		"polish": "Kiedy znowu się zobaczymy?",
+		"japanese": "次は、いつくる予定ですか?",
 	},
 	"traderArrivalAnyMoment": {
 		"english": "We're actually arriving any moment now!",
@@ -237,6 +256,7 @@
 		"turkish": "Gelmek üzereyiz aslında.",
 		"chinese": "我们马上就要到了!",
 		"italian": "In realtà arriveremo da un momento all'altro!",
+		"japanese": "私たちは、もうすぐ到着します!",
 	},
 	"traderArrivalInDays": {
 		"english": "We're planning to visit your village in %days1% to %days2% days.",
@@ -250,6 +270,7 @@
 		"turkish": "%days1%-%days2% gün arasında gelmeyi planlıyoruz.",
 		"chinese": "我们计划在%days1%到%days2%天内拜访你们的殖民地。",
 		"italian": "Abbiamo intenzione di visitare il vostro villaggio tra %days1% o %days2% giorni.",
+		"japanese": "days1% から %days2%日で、あなたのコロニーを訪問する予定です。",
 	},
 	"traderArrivalAskForFastArrival": {
 		"english": "Would you mind sailing here immediately?",
@@ -264,6 +285,7 @@
 		"chinese": "你介意马上航行到这里来吗?",
 		"italian": "Vi dispiacerebbe navigare qui immediatamente?",
 		"polish": "Czy mógłbyś natychmiast przypłynąć?",
+		"japanese": "すぐに船を出して、ここへ来てくれませんか?",
 	},
 	"traderArrivalThanksForInfo": {
 		"english": "Thanks for the info.",
@@ -278,6 +300,7 @@
 		"chinese": "感谢你的来信。",
 		"italian": "Grazie per l'informazione.",
 		"polish": "Dziękuję za informację.",
+		"japanese": "情報をありがとう!",
 	},
 	"traderArrivalFastAccepted": {
 		"english": "We will have to take a detour...\nIt really messes with our trading plans, but we'll make an exception for you.",
@@ -291,6 +314,7 @@
 		"turkish": "Yoldan sapmak zorunda kalacağız...\nTicaret planlarımızla uğraşıyoruz, ama sizin için bir istisna yapacağız.",
 		"chinese": "我们得绕道而行...\n这确实打乱了我们的贸易计划，但我们会为你破例的。",
 		"italian": "Dovremo fare una deviazione...\nIncasina un po' i nostri piani mercantili, ma faremo un'eccezione per te.",
+		"japanese": "情報をありがとう!",
 	},
 	"traderArrivalFastDenied": {
 		"english": "Sorry, we can't afford to take a detour for you.",

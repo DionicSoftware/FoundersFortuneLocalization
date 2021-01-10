@@ -1861,6 +1861,7 @@
 		"chinese": "堆雪人",
 		"italian": "Costruisci pupazzo di neve",
 		"polish": "Zbuduj bałwana",
+		"japanese":"雪だるまを作る",
 	},
 	"Care": { // caring for plants, animals, colleagues, ...
 		"english": "Care",
@@ -1872,6 +1873,7 @@
 		"italian": "Cura",
 		"chinese": "照料",
 		"polish": "Dbaj",
+		"japanese":"世話",
 	},
 	"TeachLifeSkills": {
 		"english": "Educate",
@@ -1883,6 +1885,7 @@
 		"russian": "Обучать",
 		"chinese": "教育",
 		"polish": "Edukuj",
+		"japanese":"教育",
 	},
 	"WorkOnMasterpiece": {
 		"english": "Work on Masterpiece",
@@ -1894,6 +1897,7 @@
 		"italian": "Lavora su un capolavoro",
 		"polish": "Pracuj nad arcydziełem",
 		"chinese": "创作杰作",
+		"japanese":"傑作に取り組む",
 	},
 	"Tame": {
 		"english": "Tame",
@@ -1905,6 +1909,7 @@
 		"italian": "Addomestica",
 		"polish": "Oswój",
 		"chinese": "驯服",
+		"japanese":"手なずける",
 	},
 	"careForAnimal": {
 		"english": "Care for Animal",
@@ -1916,6 +1921,7 @@
 		"italian": "Cura l'animale",
 		"polish": "Zaopiekuj się",
 		"chinese": "照料动物",
+		"japanese":"動物の世話",
 	},
 	"Shear": {
 		"english": "Shear",
@@ -1927,6 +1933,7 @@
 		"italian": "Tosa",
 		"polish": "Strzyż",
 		"chinese": "剪毛",
+		"japanese":"刈る",
 	},
 	"Butcher": {
 		"english": "Butcher",
@@ -1938,6 +1945,7 @@
 		"italian": "Macella",
 		"polish": "Ubij",
 		"chinese": "屠宰",
+		"japanese":"屠殺",
 	},
 	"Milk": {
 		"english": "Milk",
@@ -1949,6 +1957,7 @@
 		"italian": "Mungi",
 		"polish": "Wydój",
 		"chinese": "挤奶",
+		"japanese":"搾乳",
 	},
 	"interaction_clearStumps": {
 		"english": "Remove Stump",
@@ -1960,6 +1969,7 @@
 		"italian": "Rimuovi tronco",
 		"polish": "Usuń pniak",
 		"chinese": "移除树桩",
+		"japanese":"切り株を取り除く",
 	},
 	"interaction_produceShip":  {
 		"english": "Build Ship",
@@ -1969,6 +1979,7 @@
 		"polish": "Buduj statek",
 		"portuguese": "Construir navio",
 		"chinese": "建造船只",
+		"japanese":"造船",
 	},
 
 
@@ -2001,6 +2012,7 @@
 		"italian": "Parla con un membro di \"%faction%\"",
 		"turkish": "\"%faction%\" üyesiyle konuş",
 		"polish": "Porozmawiaj z członkiem grupy \"%faction%\"",
+		"japanese":"\"%faction%\"のメンバーと話す",
 	},
 	"HugFaction": {
 		"english": "Hug member of \"%faction%\"",
@@ -2015,6 +2027,7 @@
 		"italian": "Abbraccia un membro di \"%faction%\"",
 		"turkish": "\"%faction%\" üyesine sarıl",
 		"polish": "Uściskaj członkka grupy \"%faction%\"",
+		"japanese":"\"%faction%\"のメンバーとハグをする",
 	},
 	"RiskyJokeFaction": {
 		"english": "Tell joke to member of \"%faction%\"",
@@ -2026,6 +2039,7 @@
 		"italian": "Racconta una barzelletta ad un membro di \"%faction%\"",
 		"chinese": "向 \"%faction%\"的成员讲笑话",
 		"polish": "Opowiedz dowcip członkowi grupy: \"%faction%\"",
+		"japanese":"\"%faction%\"のメンバーに冗談を言う",
 	},
 
 
@@ -2054,6 +2068,7 @@
 		"chinese": "有人正在使用",
 		"italian": "Qualcun altro lo sta usando",
 		"polish": "Ktoś tego używa",
+		"japanese":"他の誰かがそれを使用しています",
 	},
 	"firstNameIsUsingThat": {
 		"english": "%firstName% is using that",
@@ -2070,6 +2085,7 @@
 		"chinese": "%firstName%正在使用",
 		"italian": "%firstName% lo sta usando",
 		"polish": "%firstName% tego używa",
+		"japanese":"%firstName% は、それを使用しています",
 	},
 	"goblinIsUsingThat": {
 		"english": "Goblin is using that",
@@ -2086,6 +2102,7 @@
 		"chinese": "哥布林正在使用",
 		"italian": "Un goblin lo sta usando",
 		"polish": "Goblin tego używa",
+		"japanese":"ゴブリンは、それを使用しています",
 	},
 	"visitorIsUsingThat": { // visitors like migrants or traders
 		"english": "A visitor is using that",
@@ -2102,6 +2119,7 @@
 		"chinese": "访问者正在使用",
 		"italian": "Un visitatore lo sta usando",
 		"polish": "Gość tego używa",
+		"japanese":"訪問者がそれを使用しています",
 	},
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",
@@ -2118,6 +2136,7 @@
 		"chinese": "因为腿断了不能走路",
 		"italian": "Non può camminare a causa della gamba rotta",
 		"polish": "Nie może chodzić z powodu złamanej nogi",
+		"japanese":"足の骨折で歩けません",
 	},
 	"cantWorkBrokenArm": {
 		"english": "Can't work because of broken arm",
@@ -2134,6 +2153,7 @@
 		"chinese": "因为手臂骨折不能工作",
 		"italian": "Non può lavorare a causa del braccio rotto",
 		"polish": "Nie może pracować z powodu złamanej ręki",
+		"japanese":"腕が折れたために働けません",
 	},
 	"cantInteractIsLockedUp": {
 		"english": "Colonist is locked up",
@@ -2150,6 +2170,7 @@
 		"chinese": "殖民者被关起来了",
 		"italian": "Il colono è rinchiuso",
 		"polish": "Kolonista jest uwięziony",
+		"japanese":"コロニストが閉じ込められている",
 	},
 	"stockpileIsFull": {
 		"english": "%resource% stockpile is full",
@@ -2162,6 +2183,7 @@
 		"portuguese": "%resource% estoque está cheio",
 		"chinese": "%resource% 库存已满",
 		"italian": "La riserva di %resource% è piena",
+		"japanese":"%resource% の備蓄でいっぱいです。",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -2178,6 +2200,7 @@
 		"chinese": "没有生产任务",
 		"italian": "Nessun ordine di produzione",
 		"polish": "Brak zleconej produkcji",
+		"japanese":"製造注文なし",
 	},
 	"notSufficientExperience": {
 		"english": "%firstName% doesn't have enough experience as %profession%",
@@ -2194,6 +2217,7 @@
 		"chinese": "%firstName%没有足够的%profession%经验",
 		"italian": "%firstName% non ha abbastanza esperienza come %profession%",
 		"polish": "%firstName% nie ma doświadczenia w profesji: %profession%",
+		"japanese":"%firstName% は%profession%の十分な経験がありません",
 	},
 	"notUsableInSeason": {
 		"english": "Not possible in %season%",
@@ -2210,6 +2234,7 @@
 		"chinese": "在%season%季节不能生长",
 		"italian": "Impossibile in %season%",
 		"polish": "Nie można zasadzić w porze roku: %season%",
+		"japanese":" %season%シーズンでは、成長できません",
 	},
 	"noTimeBeforeSeasonChanges": {
 		"english": "Not enough time before season changes",
@@ -2226,6 +2251,7 @@
 		"chinese": "在季节变更之前没有足够的时间生长成熟",
 		"italian": "Non c'è abbastanza tempo prima del cambio di stagione",
 		"polish": "Zbyt mało czasu przed zmianą pory roku",
+		"japanese":" 季節が変わる前に成長して成熟するのに十分な時間はありません",
 	},
 	"nextTryIn": {
 		"english": "Next try in",
@@ -2242,6 +2268,7 @@
 		"chinese": "尝试下一个",
 		"italian": "Prossimo tentativo in",
 		"polish": "Następnie spróbuj",
+		"japanese":"次は",
 	},
 	"nextInteractionIn": {
 		"english": "Next interaction in %time%",
@@ -2253,6 +2280,7 @@
 		"italian": "Prossima interazione tra %time%",
 		"chinese": "下次互动在 %time%",
 		"polish": "Następna interakcja za %time%",
+		"japanese":"次のインタラクション%time%",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",
@@ -2269,6 +2297,7 @@
 		"chinese": "因为特性：%trait% 限制",
 		"italian": "Non può a causa del tratto: %trait%",
 		"polish": "Nie można ze względu na cechę: %trait%",
+		"japanese":"特性のためにできません:%trait%",
 	},
 	"forbiddenBecauseNotHasTrait": {
 		"english": "Missing trait: %trait%",
@@ -2285,6 +2314,7 @@
 		"chinese": "缺少特性：%trait%",
 		"italian": "Tratto mancante: %trait%",
 		"polish": "Brakująca cecha: %trait%",
+		"japanese":"欠けてる特性:%trait%",
 	},
 	"cantGetResourceNearby": {
 		"english": "Can't get %resource% nearby",
@@ -2301,6 +2331,7 @@
 		"chinese": "无法获取附近的%resource%",
 		"italian": "Non può ottenere %resource% nelle vicinanze",
 		"polish": "Brakuje w pobliżu: %resource%",
+		"japanese":"近くの%resource%を取得できません",
 	},
 	"missingEquipmentEffect_WateringPlants": {
 		"english": "Needs a watering can",
@@ -2317,6 +2348,7 @@
 		"chinese": "需要一个水壶灌溉",
 		"italian": "Ha bisogno di un innaffiatoio",
 		"polish": "Potrzebna konewka",
+		"japanese":"じょうろが必要です",
 	},
 	"noResearchSelected": {
 		"english": "No Research selected",
@@ -2333,6 +2365,7 @@
 		"chinese": "没有选择研究",
 		"italian": "Nessuna ricerca selezionata",
 		"polish": "Nie wybrano badań",
+		"japanese":"研究が選択されていません",
 	},
 	"resourceNotNecessaryForResearch": {
 		"english": "Doesn't need to analyze %resource% for current research",
@@ -2349,6 +2382,7 @@
 		"chinese": "当前研究不需要分析%resource%",
 		"italian": "Non ha bisogno di analizzare %resource% per la ricerca attuale",
 		"polish": "Nie potrzeba: %resource% do aktualnych badań",
+		"japanese":"現在の調査のために%resource%を分析する必要はありません",
 	},
 	"notOwnedBy": {
 		"english": "Not owned by %firstName%",
@@ -2365,6 +2399,7 @@
 		"chinese": "不属于%firstName%",
 		"italian": "Non è di proprietà di %firstName%",
 		"polish": "Nie posiadane przez %firstName%",
+		"japanese":"%firstName%は、所有していません",
 	},
 	"cantWearClothesBecauseOfBodyShape": { // For example, goblins can't wear clothes with hats because of their head shape
 		"english": "Can't wear this type of clothing",
@@ -2379,6 +2414,7 @@
 		"italian": "Non può indossare questo tipo di vestiti",
 		"turkish": "Bu tipte kıyafet giyemez.",
 		"polish": "Nie można tego ubrać",
+		"japanese":"このタイプの服は着られません",
 	},
 	"cantInteractInCombatMode": {
 		"english": "%firstName% can't do that in combat mode",
@@ -2393,6 +2429,7 @@
 		"italian": "%firstName% non può farlo in modalità di combattimento",
 		"turkish": "%firstName% bunu savaş modunda yapamaz",
 		"polish": "%firsname% nie może tego zrobić w trybie walki",
+		"japanese":"%firstName%は、戦闘モードではそれを行うことができません",
 	},
 	"missingSkill": {
 		"english": "Missing skill: %skill%",
@@ -2404,6 +2441,7 @@
 		"italian": "Abilità mancante: %skill%",
 		"chinese": "缺失技能：%skill%",
 		"polish": "Brakująca umiejętność: %skill%",
+		"japanese":"不足しているスキル: %skill%",
 	}
 	
 }

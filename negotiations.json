@@ -164,7 +164,7 @@
 		"turkish": "İyi bir değer karşılığında %firstName%'ı serbest bırakmaya hazırız.\n\nTakas için bize %haraç% vermenizi istiyoruz.",
 		"chinese": "如果你用等价的东西来交换的话我们随时能放了%firstName%。\n\n我们要求你们进贡%tribute%。",
 		"italian": "Siamo pronti a rilasciare %firstName% se ne varrà la pena.\n\nTi chiediamo di darci %tribute% in cambio.",
-		"japanese": "同等の価値のものを交換した場合、 %firstName% を解放しても問題ありません。。\n\nその代わりに %tribute% を提供してください。",
+		"japanese": "同等の価値のものと交換した場合、 %firstName% を解放しても問題ありません。。\n\nその代わりに %tribute% を提供してください。",
 		
 	},
 	"kidnappedFreeingAcceptButton": {
@@ -558,7 +558,7 @@
 		"chinese": "我们要求你向我们进贡。",
 		"italian": "Vi chiediamo un tributo.",
 		"polish": "Żądamy daniny.",
-		"japanese": "私たちはあなたに敬意を表します。",
+		"japanese": "私たちはあなたに貢物を要求します。",
 	},
 	"tributeSelectionText": {
 		"english": "Really...?",
@@ -617,7 +617,7 @@
 		"turkish": "Onların haraç kabul etme olasılığı: yüzde %probability%",
 		"chinese": "他们接受贡品的概率:%probability% %",
 		"italian": "Probabilità che accettino il tributo: %probability% %.",
-		"japanese": "彼らが、賛辞を受け取る確率:%probability% %",
+		"japanese": "彼らが、貢物を受け取る確率:%probability% %",
 	},
 	"tributeAcceptedBecauseFriendship": {
 		"english": "We decided to make an exception and give you our wares because we see you as a friend. We can offer these things to help you out:",
@@ -705,7 +705,7 @@
 		"chinese": "如能提供下列物品，可能对你很有利:",
 		"italian": "Potrebbe essere nel tuo interesse darci le seguenti cose:",
 		"polish": "W dobrym interesie będzie, jeśli dostarczycie nam następujące rzeczy:",
-		"japanese": "次のアイテムを提供できれば、あなたにとって有益かもしれません:",
+		"japanese": "次のアイテムを提供できれば、あなたにとっていいことがあるかもしれません:",
 	},
 	"goblinTributeTextNeutralRelations": {
 		"english": "We need some materials and as a decent neighbor you should help us out here:",
@@ -720,7 +720,7 @@
 		"chinese": "我们需要一些材料，作为一个体面的邻居，你应该帮助我们:",
 		"italian": "Abbiamo bisogno di alcuni materiali e come buon vicino dovresti aiutarci:",
 		"polish": "Jako nasz najbliższy sąsiad, liczymy na wsparcie następującymi surowcami:",
-		"japanese": "私たちには、いくつかの材料が必要です。近しい隣人としてあなたは、ここで私たちを助けるべきです。:",
+		"japanese": "私たちには、いくつかのアイテムが必要です。近しい隣人としてあなたは、私たちを助けるべきです。:",
 	},
 	"goblinTributeTextGoodRelations": {
 		"english": "Dear friends, we're in need of some materials. Would you mind helping us out?",
@@ -735,7 +735,7 @@
 		"chinese": "爱的朋友，我们需要一些材料。你介意帮我们吗?",
 		"italian": "Cari amici, abbiamo bisogno di alcuni materiali. Vi dispiacerebbe aiutarci?",
 		"polish": "Przyjaciele, potrzebujemy kilku surowców. Pomożecie?",
-		"japanese": "親愛なる友よ、私たちはいくつかの材料を必要としています。私たちを助けてくれませんか?",
+		"japanese": "親愛なる友よ、私たちはいくつかのアイテムを必要としています。私たちを助けてくれませんか?",
 	},
 	"goblinTributeAcceptButton": {
 		"english": "Of course, there you go.",
@@ -750,7 +750,7 @@
 		"chinese": "当然可以了。",
 		"italian": "Ma certo, ecco a voi.",
 		"polish": "Oczywiście, proszę bardzo.",
-		"japanese": "もちろん、そこに行きます。",
+		"japanese": "もちろん。",
 	},
 	"goblinTributeDenyButton": {
 		"english": "We're not going to pay your tribute!",
@@ -765,7 +765,7 @@
 		"chinese": "我不会向你进贡的!",
 		"italian": "Non pagheremo il tuo tributo!",
 		"polish": "Nic wam nie wyślemy!",
-		"japanese": "私たちは、あなたに敬意を示しません!",
+		"japanese": "私たちは、あなたに何も送りません!",
 	},
 	"goblinTributeAcceptedBadRelations": {
 		"english": "You know what's good for you.",
@@ -780,7 +780,7 @@
 		"chinese": "你知道这样做对你有好处的。",
 		"italian": "Sai cos'è meglio per te.",
 		"polish": "Widzę że się rozuzmiemy.",
-		"japanese": "あなたは、あなたにとって何が最善か知っています。",
+		"japanese": "私たちは、お互いを理解し合えることが分かりました。",
 	},
 	"goblinTributeAcceptedNeutralRelations": {
 		"english": "Thanks for your help.",
@@ -795,7 +795,7 @@
 		"chinese": "感谢您的帮助。",
 		"italian": "Grazie per il tuo aiuto.",
 		"polish": "Dziękujemy za pomoc.",
-		"japanese": "ご協力いただきありがとうございます。",
+		"japanese": "協力してくれて、本当にありがとう。",
 	},
 	"goblinTributeAcceptedGoodRelations": {
 		"english": "Thanks! We're happy we can call you our friend.",
@@ -825,7 +825,7 @@
 		"chinese": "你会后悔的。",
 		"italian": "Te ne pentirai.",
 		"polish": "Pożałujecie tej decyzji!",
-		"japanese": "あなたはこれを後悔するでしょう。",
+		"japanese": "あなたはこの決断を後悔することでしょう。",
 	},
 	"tributeDeniedRegretThisWeWillSee": {
 		"english": "We'll see about that.",
@@ -853,7 +853,7 @@
 		"turkish": "Tutumunuzu hatırlayacağız.",
 		"chinese": "我们会记住你的态度。",
 		"italian": "Lo ricorderemo.",
-		"japanese": "私たちはあなたが、したことを覚えておきます。",
+		"japanese": "私たちはあなたが、下した決断を覚えておきます。",
 	},
 	"goblinTributeDeniedGoodRelations": {
 		"english": "That's a bummer. Friends should stick together.",
@@ -1114,7 +1114,7 @@
 		"korean": "우리의 마음이 바뀌었소. 아무것도 줄 수 없소!",
 		"turkish": "Fikrimizi değiştirdik. Hiçbir şey vermiyoruz!",
 		"chinese": "我们改变了主意。您什么也不会得到！",
-		"japanese": "私たちは、考えが変わりました。やはり何も得られません!",
+		"japanese": "私たちは、考えが変わりました。やはり何も渡せません!",
 	},
 	"timedTributePaidFull": {
 		"english": "Thanks! It's always nice doing business with you.",
@@ -1127,7 +1127,7 @@
 		"korean": "고맙소! 당신들과 거래하는건 참 좋은 일이오.",
 		"turkish": "Teşekkürler! Sizinle iş yapmak her zaman için bir zevk.",
 		"chinese": "谢谢！与您做生意总是很高兴。",
-		"japanese": "ありがとう!あなたとビジネスをするのはいつもいいことです!",
+		"japanese": "ありがとう!あなたとビジネスをするのは素晴らしいことです!",
 	},
 	"timedTributePaidEnough": {
 		"english": "Arggh...\n\nAlright. We're letting you get away with it this time.",

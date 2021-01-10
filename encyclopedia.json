@@ -364,7 +364,7 @@ Buona coltivazione!",
 		"chinese": "食品期望",
 		"italian": "Aspettative alimentari",
 		"Norwegian": "mat forventninger",
-		"japanese": "食べ物の要求",
+		"japanese": "食べ物の影響",
 	},
 	"helpMenuText_foodProduction_expectations": {
 		"english": "Colonists can deal with a lot of hardship, but they are not stupid. When your colony grows in size and numbers, they will start to expect better food than just eating raw plants. Using the campfire or the kitchen you can make meals of higher quality for demanding colonists. If you can run a bakery as well, they will welcome the variety!
@@ -412,7 +412,7 @@ noen kolonister vil ha en favoritt mat og få en humør boost hvis de får det. 
 		"chinese": "食物配给",
 		"italian": "Razioni di cibo",
 		"Norwegian": "matrasjon",
-		"japanese": "食べ物配分",
+		"japanese": "食べ物の配分",
 	},
 	"helpMenuText_foodProduction_rations": {
 		"english": "Winter is long and even the best colonies sometimes fail to perpare adequate stockpiles. If you worry about the survival of your colony, you can limit the food rations for each colonist. While this preserves more food for later, your colonists will feel weak and are not going to be able to work as quickly. 
@@ -510,7 +510,8 @@ Podstawowym środkiem zapobiegawczym jest dawanie tym biednym, małym ludzikom n
 Il rimedio più semplice è consentire ai poveretti di riposare per un po' di tempo. Essere sdraiati su un letto garantirà ai loro corpi un po' di recupero dal malessere. Dai un'occhiata al pannello di stato (icona del cuore) per vedere i dettagli sul loro stato di salute.",
 		"Norwegian": "det er mye galt som kan skje med hardt arbeidende kolonister.
 det mest vanlige er å gi folkene litt fritid, som å ligge i en seng som tilbyr kroppene å leges sakte. se på statuspanelet (hjerte ikon) for å se detaljer for status på helsen.",
-		
+		"japanese": "様々な悪い事がコロニストに起こりますが、それらの対策として一番基本的な事は休息を与える事です。
+休息は寝具で取る事ができます。休息をとるとゆっくりと健康が回復します。その効果はハートアイコンからの健康ステータスパネルで確認できます。",
 	},
 	"helpMenuTitle_health_alchemy": {
 		"english": "Alchemy",
@@ -527,6 +528,7 @@ det mest vanlige er å gi folkene litt fritid, som å ligge i en seng som tilbyr
 		"chinese": "炼金术 ",
 		"italian": "Alchimia",
 		"Norwegian": "alkymi",
+		"japanese": "薬の調合",
 	},
 	"helpMenuText_health_alchemy": {
 		"english": "If you have colonists with some experience as a doctor, they can usually handle basic alchemy and produce potions from healing plants. While tasting horrific, these concoctions accelerate the healing process significantly.",
@@ -543,7 +545,7 @@ det mest vanlige er å gi folkene litt fritid, som å ligge i en seng som tilbyr
 		"chinese": "如果你有医生的经验的殖民者，他们通常可以处理基本的炼金术和用草药生产药水。虽然味道不好，但这些混合物能显著加快愈合过程。",
 		"italian": "Se hai dei coloni con una certa esperienza come medici, allora potrai occuparti dell'alchimia di base e sarai in grado di produrre pozioni usando piante curative. Sebbene il loro sapore sia orribile, queste preparazioni accelerano significativamente il processo di guarigione.",
 		"Norwegian": "hvis du har kolonier som har erfaringer som lege, kan de vanligvis behandle alkymier og produsere heksedrikk fra helbredende planter. mens det smaker ille, vil disse drikkene forårsake at helbredelsen går mye kjappere.",
-		
+		"japanese": "医者のスキルを持つコロニストがいる場合、ヒーリングハーブから薬であるワクチン、回復薬を調合する事ができます。おぞましい程の味わいですが、薬は治療に絶大な効果を発揮します。",
 	},
 	"helpMenuTitle_health_wounds": {
 		"english": "Wounds",
@@ -560,6 +562,7 @@ det mest vanlige er å gi folkene litt fritid, som å ligge i en seng som tilbyr
 		"chinese": "伤口",
 		"italian": "Ferite",
 		"Norwegian": "sår",
+		"japanese": "ケガ",
 	},
 	"helpMenuText_health_wounds": {
 		"english": "Doctors show their true strength when dealing with badly wounded colonists. When push comes to shove and the colony needs to be defended against raiders, injuries are inevitable. Colonists can lose consciousness on the battlefield. While they are losing blood and holding on to dear life, a doctor can rush out, bandage their wounds and administer healing potions to prevent the worst.",
@@ -576,7 +579,7 @@ det mest vanlige er å gi folkene litt fritid, som å ligge i en seng som tilbyr
 		"chinese": "医生在处理严重受伤的殖民者时体现出他重要性。当殖民地紧急关头需要抵御侵略者时，受伤是难免的。殖民者可能会在战场上失去意识。当他们失血时，医生可以为他们包扎伤口，并使用治疗药水来防止恶化。",
 		"italian": "I medici mostrano la loro vera forza quando hanno a che fare con dei coloni gravemente feriti. Quando le cose si mettono male e la colonia deve difendersi dai predoni, le ferite sono inevitabili. I coloni possono perdere conoscenza sul campo di battaglia. Quando perdono sangue e lottano fra la vita e la morte, un medico può giungere in soccorso, bendando le ferite e somministrando pozioni curative per prevenire il peggio.",
 		"Norwegian": " leger viser dem virkelige styrke når de behandler sårede kolonister. når kolonien må forsvare seg mot finender, vil sår være garantert. kolonistene kan miste bevisstheten under kampen. mens de mister blod  og kjemper for livet, en lege kan forte seg, bandasjere sår og gi de heksedrikk for å forhindre det værste.",
-		
+		"japanese": "医者はコロニストの治療を行う大事な存在です。特に侵略者による襲撃が行われた場合は猶更です。コロニー防衛のためコロニストのケガは避けられないからです。出血により命を落とす最悪の事態を避けるためにも医者の治療を急がなくてはいけません。",
 	},
 	"helpMenuTitle_health_illnesses": {
 		"english": "Illnesses",
@@ -593,6 +596,7 @@ det mest vanlige er å gi folkene litt fritid, som å ligge i en seng som tilbyr
 		"chinese": "疾病",
 		"italian": "Malattie",
 		"Norwegian": "helse sykdom",
+		"japanese": "病気",
 	},
 	"helpMenuText_health_illnesses": {
 		"english": "Finally, big colonies are prone to illnesses spreading amongst the colonists. Make sure to keep a good stock of medicine in storage and have a trained doctor attend to them with regular treatments for better chances of recovery.",
@@ -609,6 +613,7 @@ det mest vanlige er å gi folkene litt fritid, som å ligge i en seng som tilbyr
 		"chinese": "最后，大型殖民地容易在殖民者中传播疾病。一定要储备足够的药物，并请一位受过训练的医生定期治疗，以获得更好的康复效果。",
 		"italian": "Le grandi colonie sono più inclini alla diffusione delle malattie tra i coloni. Assicurati di conservare una buona scorta di medicinali e di avere un medico esperto per seguire i pazienti con trattamenti regolari per migliorare le loro possibilità di recupero.",
 		"Norwegian": "endelig, store kolonier er utsatt for sykdommer som sprer seg blandt kolonistene. pass på å ha et bra lager med medisin og ha trente leger som passer på jevnlig for større sjanser for å bli friske.",
+		"japanese": "コロニストが増加するほど病気が広がる恐れが高くなります。病気の治療のために医者と十分な量のワクチンが必要です。必ず準備をしておきましょう。",
 	},
 	"helpMenuText_immigration": {
 		"english": "Your starting crew may be hardworking or not, but the colony will never reach greatness if it doesn’t grow. To attract immigrants you will need to build a big bonfire on a tower. This light signal, shining far into the distance, is seen by random wanderers and explorers.

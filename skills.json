@@ -56,7 +56,7 @@
 		"chinese": "石制工具",
 		"polish": "Kamienne narzędzia",
 		"turkish": "Taş Aletleri",
-		"japanese": "石の道具",
+		"japanese": "石の斧",
 	},
 	"skillDesc_woodcuttingStoneTools": {
 		"english": "Can use stone tools to cut trees.",
@@ -69,7 +69,7 @@
 		"chinese": "你可以使用石制工具砍伐树木.",
 		"polish": "Można używać kamiennych narzędzi do ściania drzew.",
 		"turkish": "Taştan aletlerle ağaç kesebilir",
-		"japanese": "石で出来た道具を使って木を切ることができます。",
+		"japanese": "石で出来た斧を使って木を切ることができます。",
 	},
 	"skillTitle_woodcuttingMetalTools": {
 		"english": "Metal Tools",
@@ -81,7 +81,7 @@
 		"chinese": "铁制工具",
 		"polish": "Metalowe narzędzia",
 		"turkish": "Metal aletler",
-		"japanese": "金属製の道具",
+		"japanese": "金属製の斧",
 	},
 	"skillDesc_woodcuttingMetalTools": {
 		"english": "Can use metal tools to cut trees.",
@@ -93,7 +93,7 @@
 		"chinese": "你可以使用铁制工具砍伐树木.",
 		"polish": "Można używać metalowych narzędzi do ściania drzew.",
 		"turkish": "Metal aletlerle ağaç kesebilir",
-		"japanese": "金属製の道具を使って木を切ることができます。",
+		"japanese": "金属製の斧を使って木を切ることができます。",
 	},
 	"skillTitle_growingTrees": {
 		//TODO-russian: pine trees
@@ -108,7 +108,7 @@
 		"chinese": "种植松树",
 		"polish": "Sadzenie sosen",
 		"turkish": "Çam ağacı dikebilir",
-		"japanese": "松の木を植える",
+		"japanese": "松の木[植林知識を取得]",
 	},
 	"skillDesc_growingTrees": {
 		"english": "Can plant and care for new pine trees.",
@@ -134,7 +134,7 @@
 		"chinese": "种植苹果树",
 		"polish": "Sadzenie jabłoni",
 		"turkish": "Elma ağacı dikebilir",
-		"japanese": "リンゴの木を植える",
+		"japanese": "リンゴの木[植林知識を取得]",
 	},
 	"skillDesc_growingAppleTrees": {
 		"english": "Can plant and care for new apple trees.",
@@ -160,7 +160,7 @@
 		"chinese": "种植棉花",
 		"polish": "Sadzenie bawełny",
 		"turkish": "Pamuk ekebilir",
-		"japanese": "コットンを栽培",
+		"japanese": "コットン[栽培知識を取得]",
 	},
 	"skillDesc_growingCotton": {
 		"english": "Can plant and care for new cotton plants.",
@@ -186,7 +186,7 @@
 		"chinese": "大师服装",
 		"polish": "Strój Mistrza",
 		"turkish": "Giyim ustası",
-		"japanese": "達人の衣装",
+		"japanese": "林業の達人の服",
 	},
 	"skillDesc_foresterMasterOutfit": {
 		"english": "Can wear outfits meant for master foresters.",
@@ -199,7 +199,7 @@
 		"chinese": "可以穿伐木工的大师服装",
 		"polish": "Można nosić strój przeznaczony dla mistrzów drwali.",
 		"turkish": "Usta oduncuların giyimlerini giyebilir",
-		"japanese": "林業の達人向けの衣装を着ることができます。",
+		"japanese": "林業の達人向けの服を着ることができます。",
 	},
 
 
@@ -267,7 +267,7 @@
 		"chinese": "石制工具",
 		"polish": "Kamienne narzędzia",
 		"turkish": "Taş aletleri",
-		"japanese": "石製の道具",
+		"japanese": "石製のツルハシ",
 	},
 	"skillDesc_miningStoneTools": {
 		"english": "Can use stone tools to mine.",
@@ -280,7 +280,7 @@
 		"chinese": "你可以使用石制工具挖掘.",
 		"polish": "Można używać kamiennych narzędzi w górnictwie.",
 		"turkish": "Madencilik işlerinde taş aletler kullanabilir",
-		"japanese": "石で出来た道具を使って採掘することができます。",
+		"japanese": "石で出来たツルハシを使って採掘することができます。",
 	},
 	"skillTitle_miningMetalTools": {
 		"english": "Metal Tools",
@@ -293,7 +293,7 @@
 		"chinese": "铁制工具",
 		"polish": "Metalowe narzędzia",
 		"turkish": "Metal aletleri",
-		"japanese": "金属製の道具",
+		"japanese": "金属製のツルハシ",
 	},
 	"skillDesc_miningMetalTools": {
 		"english": "Can use metal tools to mine.",
@@ -306,7 +306,7 @@
 		"chinese": "你可以使用铁制工具挖掘",
 		"polish": "Można używać metalowych narzędzi w górnictwie.",
 		"turkish": "Madencilik işlerinde metal aletler kullanabilir",
-		"japanese": "金属製の道具を使って採掘することができます。",
+		"japanese": "金属製のツルハシを使って採掘することができます。",
 	},
 	"skillTitle_deepStoneMine": {
 		"english": "Deep Stone Mining",
@@ -393,7 +393,7 @@
 		"italian": "Vesti da maestro",
 		"chinese": "大师服装",
 		"polish": "Strój Mistrza",
-		"japanese": "達人の衣装",
+		"japanese": "採掘の達人の服",
 	},
 	"skillDesc_minerMasterOutfit": {
 		"english": "Can wear outfits meant for master miners.",
@@ -405,7 +405,7 @@
 		"italian": "Può indossare abiti pensati per maestri minatori.",
 		"chinese": "可以穿矿工的大师服装.",
 		"polish": "Można nosić strój przeznaczony dla mistrzów górnictwa.",
-		"japanese": "採掘の達人向けの衣装を着ることができます。",
+		"japanese": "採掘の達人向けの服を着ることができます。",
 	},
 
 
@@ -446,7 +446,7 @@
 		"italian": "Semina delle fragole",
 		"chinese": "播种草莓",
 		"polish": "Sianie truskawek",
-		"japanese": "イチゴの栽培",
+		"japanese": "イチゴ[栽培知識を取得]",
 	},
 	"skillDesc_sowStrawberries": {
 		"english": "Can sow strawberries.",
@@ -470,7 +470,7 @@
 		"italian": "Semina del grano",
 		"chinese": "播种小麦",
 		"polish": "Sianie pszenicy",
-		"japanese": "麦の栽培が可能になる",
+		"japanese": "麦[栽培知識を取得]",
 		
 	},
 	"skillDesc_sowWheat": {
@@ -495,7 +495,7 @@
 		"italian": "Cottura al falò",
 		"chinese": "烤制食物",
 		"polish": "Gotowanie na ognisku",
-		"japanese": "焚き火で調理",
+		"japanese": "焚き火[調理技術を取得]",
 	},
 	"skillDesc_campfireCooking": {
 		"english": "Can roast some food over the campfire.",
@@ -519,7 +519,7 @@
 		"italian": "Cottura in cucina",
 		"chinese": "烹饪食物.",
 		"polish": "Gotowanie w kuchni",
-		"japanese": "台所で調理",
+		"japanese": "台所[調理技術を取得]",
 	},
 	"skillDesc_kitchenCooking": {
 		"english": "Can make delicious meals in the kitchen.",
@@ -543,7 +543,7 @@
 		"italian": "Cottura al forno",
 		"chinese": "烘培食物",
 		"polish": "Piekarnictwo",
-		"japanese": "パンと焼き菓子を焼く",
+		"japanese": "石窯[調理技術を取得]",
 	},
 	"skillDesc_bakeryCooking": {
 		"english": "Can use the bakery to make all kinds of baked goods.",
@@ -616,7 +616,7 @@
 		"italian": "Vesti da maestro",
 		"chinese": "大师服装",
 		"polish": "Strój Mistrza",
-		"japanese": "達人の衣装",
+		"japanese": "農業の達人服",
 		
 	},
 	"skillDesc_farmerMasterOutfit": {
@@ -629,7 +629,7 @@
 		"italian": "Può indossare vesti pensate per maestri coltivatori.",
 		"chinese": "可以穿农民大师服装.",
 		"polish": "Można nosić strój przeznaczony dla mistrzów farmerstwa.",
-		"japanese": "農業の達人向けの衣装を着ることが出来ます。",
+		"japanese": "農業の達人向けの服を着ることが出来ます。",
 	},
 
 
@@ -780,7 +780,7 @@
 		"italian": "Vesti da maestro",
 		"chinese": "大师服装",
 		"polish": "Strój Mistrza",
-		"japanese": "達人の衣装",
+		"japanese": "クラフトの達人服",
 	},
 	"skillDesc_craftsmanMasterOutfit": {
 		"english": "Can wear outfits meant for master craftsmen.",
@@ -792,7 +792,7 @@
 		"italian": "Può indossare abiti pensati per maestri artigiani.",
 		"chinese": "可以穿工匠的大师服装.",
 		"polish": "Można nosić strój przeznaczony dla mistrzów rzemiosła.",
-		"japanese": "クラフトの達人向けの衣装を着ることが出来ます。",
+		"japanese": "クラフトの達人向けの服を着ることが出来ます。",
 	},
 
 
@@ -904,7 +904,7 @@
 		"italian": "Applicazione di stecche",
 		"chinese": "固定夹板",
 		"polish": "Zakładanie łubków",
-		"japanese": "簡易な添え木をつける",
+		"japanese": "簡易な添え木",
 	},
 	"skillDesc_applySplints": {
 		"english": "Can apply splints to heal a hurt or broken limb.",
@@ -952,7 +952,7 @@
 		"italian": "Vesti da maestro",
 		"chinese": "大师服装",
 		"polish": "Strój Mistrza",
-		"japanese": "達人の衣装",
+		"japanese": "医者の達人服",
 	},
 	"skillDesc_doctorMasterOutfit": {
 		"english": "Can wear outfits meant for master doctors.",
@@ -964,7 +964,7 @@
 		"italian": "Può indossare vesti pensate per maestri medici.",
 		"chinese": "可以穿医生的大师服装.",
 		"polish": "Można nosić strój przeznaczony dla mistrzów lekarzy.",
-		"japanese": "医者の達人向けの衣装を着ることが出来ます。",
+		"japanese": "医者の達人向けの服を着ることが出来ます。",
 	},
 
 
@@ -1027,7 +1027,7 @@
 		"italian": "Insegnamento",
 		"chinese": "教书育人",
 		"polish": "Nauczanie",
-		"japanese": "人を教えて教育する",
+		"japanese": "教育者",
 	},
 	"skillDesc_teaching": {
 		"english": "Can teach children life skills. In person teaching is always quicker then letting children learn from books.",
@@ -1051,7 +1051,7 @@
 		"italian": "Vesti da maestro",
 		"chinese": "大师服装",
 		"polish": "Strój Mistrza",
-		"japanese": "達人の衣装",
+		"japanese": "学問の達人の服",
 		
 	},
 	"skillDesc_scholarMasterOutfit": {
@@ -1064,7 +1064,7 @@
 		"italian": "Può indossare abiti pensati per maestri studiosi.",
 		"chinese": "可以穿教师的大师服装.",
 		"polish": "Można nosić strój przeznaczony dla uczonych mistrzów.",
-		"japanese": "学問の達人向けの衣装を着ることが出来ます。",
+		"japanese": "学問の達人向けの服を着ることが出来ます。",
 	},
 
 
@@ -1176,7 +1176,7 @@
 		"italian": "Arcieria",
 		"chinese": "射箭",
 		"polish": "Łucznictwo",
-		"japanese": "アーチェリー[洋弓]",
+		"japanese": "アーチェリー",
 	},
 	"skillDesc_fightBow": {
 		"english": "Can use ranged weapons to hurt the enemy from afar.",

@@ -16,7 +16,7 @@
 		"korean": "자원이 부족합니다!",
 		"chinese": "资源不足!",
 		"italian": "Non hai abbastanza risorse!",
-		"polish": "Brakuje surowców!"
+		"polish": "Brakuje surowców!",
 		"japanese": "資源が不足しています!",
 	},
 	"cantBuildThisCloseToWater": {
@@ -33,7 +33,8 @@
 		"korean": "여기에 지을 수 없습니다. 물에 너무 가깝습니다!",
 		"chinese": "无法在如此靠近水的地方建造!",
 		"italian": "Non puoi costruire a così poca distanza dall'acqua!",
-		"polish": "Nie można zbudować tak blisko wody!"
+		"polish": "Nie można zbudować tak blisko wody!",
+		"japanese": "これを水源の近くに建てることは出来ません!",
 	},
 	"needsToBePlacedNearWater": {
 		"english": "Needs to be built next to water!",
@@ -42,6 +43,7 @@
 		"spanish": "¡Necesita ser construido junto al agua!",
 		"portuguese": "Precisa ser construído junto à água!",
 		"chinese": "需要建在水旁边!",
+		"japanese": "水源の近くに建てる必要があります!",
 	},
 	"needsToBeBuiltOnFloor": { // used for furniture building
 		"english": "Needs to be built on floor",
@@ -54,6 +56,7 @@
 		"chinese": "需要在地板上建造",
 		"italian": "Deve essere costruito sul pavimento",
 		"turkish": "Bir zemin üzerine yerleştirilmeli",
+		"japanese": "床に建てる必要があります!",
 	},
 	"needsToBeBuiltNextToFloor": { // used for wall building
 		"english": "Needs to be built next to floor tile",
@@ -66,6 +69,7 @@
 		"chinese": "需要在地板边缘建造",
 		"italian": "Deve essere costruito accanto ad un pavimento",
 		"turkish": "Bir döşeme karosunun yayına yerleştirilmeli",
+		"japanese": "床タイルの端に建てる必要があります!",
 	},
 	"needsToBeBuiltAboveRoomOrTerrain": { // used for floor building
 		"english": "Needs to be built above room or on solid ground",
@@ -77,6 +81,7 @@
 		"chinese": "需要在房间内或牢固的地面上建造",
 		"italian": "Deve essere costruito sopra una stanza o su un terreno solido",
 		"turkish": "Bir zemin üzerinde ya da oda üstüne yerleştirilmeli",
+		"japanese": "床または部屋の上に配置する必要があります",
 	},
 	"placeBlocked": {
 		"english": "This Place is blocked by something!",
@@ -92,7 +97,8 @@
 		"korean": "이 곳은 무언가로 막혀있습니다!",
 		"chinese": "这个地方被东西挡住了！",
 		"italian": "Questo posto è bloccato da qualcosa!",
-		"polish": "To miejsce jest zajęte!"
+		"polish": "To miejsce jest zajęte!",
+		"japanese": "この場所は何かによってブロックされています!",
 	},
 	"needsToBeBuiltAtWall": {
 		"english": "Needs to be built at a wall!",
@@ -108,7 +114,8 @@
 		"korean": "벽 위에 지어야 합니다!",
 		"chinese": "要建造在墙上!",
 		"italian": "Richiede una parete!",
-		"polish": "Trzeba zbudować na ścianie!"
+		"polish": "Trzeba zbudować na ścianie!",
+		"japanese": "壁に建てる必要があります!",
 	},
 	"notEnoughSpecificResource": {
 		"english": "Not enough %resource%!",
@@ -124,7 +131,8 @@
 		"korean": "%resource%#{가} 부족합니다!",
 		"chinese": "不足 %resource%!",
 		"italian": "Non hai abbastanza %resource%!",
-		"polish": "Brakuje: %resource%!"
+		"polish": "Brakuje: %resource%!",
+		"japanese": "%resource% が足りません!",
 	},
 	"needsToBePlacedInRoom": {
 		"english": "Needs to be placed in a finished room!",
@@ -140,7 +148,8 @@
 		"korean": "완성된 방 안에 위치시켜야 합니다!",
 		"chinese": "要放在一间完成的房间中!",
 		"italian": "Richiede una stanza completa!",
-		"polish": "Trzeba zbudować w pomieszczeniu!"
+		"polish": "Trzeba zbudować w pomieszczeniu!",
+		"japanese": "完成した部屋に配置する必要があります!",
 	},
 
 
@@ -161,7 +170,8 @@
 		"korean": "개척자가 방금 죽었습니다!",
 		"chinese": "一个殖民者死了!",
 		"italian": "Un colono è appena morto!",
-		"polish": "Kolonista nie żyje!"
+		"polish": "Kolonista nie żyje!",
+		"japanese": "入植者が亡くなった!",
 	},
 	"notificationTitle_willGrowUpTomorrow": {
 		"english": "%firstName% will grow up tomorrow.",
@@ -173,6 +183,7 @@
 		"chinese": "%firstName% 明天将会长大。",
 		"italian": "%firstName% crescerà domani.",
 		"turkish": "%firstName%, yarın büyümüş olacak.",
+		"japanese": "%firstName%　明日、成長します。",
 	},
 	"notificationTitle_isApproachingEndOfLife": {
 		"english": "%firstName% is nearing the end of %hisHer% long life.",
@@ -184,6 +195,7 @@
 		"chinese": "%firstName%即将结束%hisHer%的一生。",
 		"italian": "%firstName% sta per giungere alla fine della sua lunga vita.",
 		"turkish": "%firstName%, yaşamının sonuna ermek üzere.",
+		"japanese": "%firstName% 長い長い人生の終わりが近づいています。",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -199,7 +211,8 @@
 		"korean": "이제 %season%입니다.",
 		"chinese": "现在是%season%.",
 		"italian": "È %season%.",
-		"polish": "Obecnie jest %season%."
+		"polish": "Obecnie jest %season%.",
+		"japanese": "今は%season%です。",
 	},
 	"notificationTitle_ColonistTerribleMood": {
 		"english": "Desperation",
@@ -215,7 +228,8 @@
 		"korean": "절망",
 		"chinese": "绝望",
 		"italian": "Disperazione",
-		"polish": "Desperacja"
+		"polish": "Desperacja",
+		"japanese": "絶望",
 	},
 	"notificationTitle_ColonistBadMood": {
 		"english": "Low Spirits",
@@ -230,7 +244,8 @@
 		"ukrainian": "Зневіра",
 		"korean": "우울",
 		"chinese": "低落",
-		"italian": "Morale basso"
+		"italian": "Morale basso",
+		"japanese": "憂鬱",
 	},
 	"notificationTitle_Fight": { // when a colonist or colony construction or furniture is attacked
 		"english": "Fighting",
@@ -248,7 +263,8 @@
 		"korean": "전투중",
 		"chinese": "战斗",
 		"italian": "Combattimento",
-		"polish": "Jesteś atakowany!"
+		"polish": "Jesteś atakowany!",
+		"japanese": "戦い",
 	},
 	// TODO-dutch: firstName
 	// TODO-bulgarian: firstName
@@ -267,7 +283,8 @@
 		"ukrainian": "Колоніст знепритомнів",
 		"korean": "개척자가 의식을 잃었습니다",
 		"chinese": "%firstName% 失去意识",
-		"italian": "%firstName% ha perso conoscenza"
+		"italian": "%firstName% ha perso conoscenza",
+		"japanese": "%firstName% 意識を失いました",
 	},
 	// TODO-dutch: firstName
 	// TODO-bulgarian: firstName
@@ -287,7 +304,8 @@
 		"korean": "개척자가 죽었습니다",
 		"chinese": "%firstName%死亡",
 		"italian": "%firstName% è mort%OA%",
-		"polish": "Kolonista zmarł!"
+		"polish": "Kolonista zmarł!",
+		"japanese": "%firstName% 死亡!",
 	},
 	"notificationTitle_DeathOldAge": {
 		"english": "%firstName% died of old age",
@@ -299,6 +317,7 @@
 		"chinese": "%firstName% 衰老而死",
 		"italian": "%firstName% è mort%OA% di vecchiaia",
 		"turkish": "%firstName% yaşlılıktan öldü",
+		"japanese": "%firstName% 老齢で亡くなりました",
 	},
 	"notificationTitle_AnimalDeath": {
 		"english": "%fullName% died",
@@ -306,6 +325,7 @@
 		"french": "%fullName% est mort",
 		"portuguese": "%fullName% morreu",
 		"chinese": "%firstName% 死了",
+		"japanese": "%fullName% 死亡",
 	},
 	"notificationTitle_AnimalBecameWild": {
 		"english": "%fullName% has become untamed",

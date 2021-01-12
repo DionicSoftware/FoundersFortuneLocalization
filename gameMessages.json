@@ -1220,8 +1220,8 @@
 		"korean": "이주민이 도착했습니다!",
 		"chinese": "移民到了!",
 		"italian": "Migranti arrivati!",
-		"polish": "Przybył statek imigrantów!"
-		"japanese": "ティキゴブリンが攻撃している!",
+		"polish": "Przybył statek imigrantów!",
+		"japanese": "移民が到着しました!",
 	},
 	"messageText_MigrantsArrived": {
 		"english": "A few migrants have seen our fire signal and just arrived in a small boat. Send a colonist to accept them!",
@@ -1236,7 +1236,8 @@
 		"ukrainian": "Кілька мігрантів побачили наш полум'яний сигнал і щойно прибули на маленькому човні. Надішліть колоніста, щоб прийняти їх",
 		"korean": "어떤 이주자가 우리의 불꽃 신호를 보았고, 막 작은 배를 타고 이곳에 도달했습니다. 개척자를 보내 그들을 받아들이세요!",
 		"chinese": "一些移民看到了我们的火营信号，刚刚一艘小船登陆了。派一名殖民者去接应他们!",
-		"italian": "Alcuni migranti hanno visto il nostro segnale di fumo e sono appena arrivati su una piccola barca. Manda un colono ad accoglierli!"
+		"italian": "Alcuni migranti hanno visto il nostro segnale di fumo e sono appena arrivati su una piccola barca. Manda un colono ad accoglierli!",
+		"japanese": "数人の移民たちが、篝火の火の合図を見て小さな船に乗って到着しました。彼らを受け入れるためにコロニストを向かわせてください!",
 	},
 	"messageTitle_TraderArrived": {
 		"english": "Trader arrived!",
@@ -1253,7 +1254,8 @@
 		"korean": "상인이 도착했습니다!",
 		"chinese": "贸易商人到了!",
 		"italian": "Mercante arrivato!",
-		"polish": "Przybył statek handlarza!"
+		"polish": "Przybył statek handlarza!",
+		"japanese": "トレーダーが到着しました!",
 	},
 	"messageText_TraderArrived": {
 		"english": "A trader just made landfall on the coast. Send a colonist to haggle for some good deals!",
@@ -1268,7 +1270,8 @@
 		"korean": "상인이 막 해안에 상륙했습니다. 개척자를 보내 좋은 거래를 위해 흥정하세요!",
 		"chinese": "一位商人刚刚在海岸登陆。派一名殖民者去商讨价钱！",
 		"italian": "Un mercante è appena approdato sulla costa. Manda un colono per barattare un buon affare!",
-		"polish": "Statek handlarza właśnie dobił do brzegu. Wyślij tam kolonistę, jeśli chcesz pohandlować!"
+		"polish": "Statek handlarza właśnie dobił do brzegu. Wyślij tam kolonistę, jeśli chcesz pohandlować!",
+		"japanese": "トレーダーが海岸に到着したばかりです。コロニストを向かわせてお得な情報を手に入れたり取引をしましょう!",
 	},
 	"messageTitle_TraderRaid": {
 		"english": "The Traders' Guild is attacking the village!",
@@ -1282,7 +1285,8 @@
 		"korean": "상인 길드가 마을을 공격해옵니다!",
 		"turkish": "Ticaret Loncası köye saldırıyor!",
 		"italian": "La Gilda dei Mercanti sta attaccando il villaggio!",
-		"polish": "Gildia Handlarzy atakuje wioskę!"
+		"polish": "Gildia Handlarzy atakuje wioskę!",
+		"japanese": "トレーダーがコロニーを攻撃している!",
 	},
 	"messageText_TraderRaid": {
 		"english": "Usually, the Guild prefers to trade in peace. What did the colonists do to piss them off so badly?",
@@ -1296,7 +1300,8 @@
 		"korean": "대개는, 상인 길드는 평화로운 거래를 합니다. 우리 개척자가 저들에게 무슨 짓을 했다고 이렇게 화가 난 거죠?",
 		"turkish": "Genellikle, Lonca barış içinde ticaret yapmayı tercih eder. Yerleşimciler onları bu kadar sinirlendirmek için ne yaptı?",
 		"italian": "Di solito la gilda preferisce commerciare in pace. Cosa hanno fatto i coloni per farli arrabbiare così tanto?",
-		"polish": "Handlarze zazwyczaj mają do wszystkich neutralne lub nawet pokojowe stosunki. Co takiego zrobiłeś, że tak się wkurzyli?"
+		"polish": "Handlarze zazwyczaj mają do wszystkich neutralne lub nawet pokojowe stosunki. Co takiego zrobiłeś, że tak się wkurzyli?",
+		"japanese": "通常、トレーダーギルドは平和に貿易取引をすることを好みます。コロニストたちは、何故トレーダーギルドを怒らせるようなことをするのですか?",
 	},
 	"messageTitle_PirateRaid": {
 		"english": "Pirates have landed on the coast!",
@@ -1308,7 +1313,8 @@
 		"russian": "Пираты высадились на побережье!",
 		"korean": "해적이 해안에 상륙했습니다!",
 		"polish": "Na wyspie pojawili się piraci!",
-		"chinese": "海盗停靠在岸边了！"
+		"chinese": "海盗停靠在岸边了！",
+		"japanese": "海賊が海岸に上陸しました!",
 	},
 	"messageText_PirateRaid": {
 		"english": "The wild crew jumps from their ship weapons drawn. In their greedy faces you can see high hopes for easy loot.",
@@ -1320,7 +1326,9 @@
 		"russian": "Дикие пираты выпрыгивают из своего корабля с оружием в руке. В их жадных лицах вы видите для себя возможность легкой наживы.",
 		"korean": "사나운 선원들이 무기를 뽑아든 채 배에서 뛰어내립니다. 그들의 얼굴에서 손쉬운 약탈에 대한 높은 기대와 탐욕을 읽을 수 있습니다.",
 		"polish": "Banda piratów wyskakuje zza burty z bronią w ręku! Pilnuj się, na ich twarzy widać rządzę łatwej zdobyczy.",
-		"chinese": "野蛮海盗从船上抽出的武器后跳下船。从他们贪婪的面孔中，您可以看到被抢劫的场景。"
+		"chinese": "野蛮海盗从船上抽出的武器后跳下船。从他们贪婪的面孔中，您可以看到被抢劫的场景。",
+		"japanese": "野蛮な乗組員は、船からジャンプして上陸すると貪欲な表情が浮かべ、簡単に戦利品を奪える高い期待と高揚感に満ちているように見えます。",
+		
 	},
 	"messageTitle_BreakdownAttackFriends": {
 		"english": "Aggressive Tantrum!",
@@ -1336,7 +1344,8 @@
 		"korean": "성질을 부립니다!",
 		"chinese": "来势汹汹！",
 		"italian": "Scatto d'ira!",
-		"polish": "Napad agresji!"
+		"polish": "Napad agresji!",
+		"japanese": "侵略攻撃!",
 	},
 	"messageText_BreakdownAttackFriends": {
 		"english": "A colonist has been feeling horrible for a while now and just couldn't take it anymore. %cap-heShe% has gone crazy now and is beating up random people, friend or foe.",
@@ -1352,7 +1361,8 @@
 		"ukrainian": "Колоніс%heShe_T_TKA% довго терпі%hesheEnd% жахливі умови і тепер він просто не може більше це виносити. %heShe% збожеволі%hesheEnd% і тепер б'є всіх, хто потрапить під руку - жителів, друзів, ворогів.",
 		"korean": "이 개척자는 최근 끔찍한 기분 속에서 살아왔으며 더 이상은 견디지 못했습니다. %heShe%는 미쳐버렸고, 친구과 적을 구분하지 않고 아무에게나 주먹을 휘두르고 있습니다.",
 		"chinese": "该殖民者一直都很可怕，终于不在忍让了。%heShe%现在发疯地随意殴打他人，朋友或者敌人。",
-		"italian": "Un colono si sentiva uno schifo da un po' di tempo e non ne poteva più. Adesso è impazzito e sta attaccando persone a caso, amiche o nemiche."
+		"italian": "Un colono si sentiva uno schifo da un po' di tempo e non ne poteva più. Adesso è impazzito e sta attaccando persone a caso, amiche o nemiche.",
+		"japanese": "コロニストは、しばらくの間恐ろしいと感じていて、それに耐え続けることができませんでした。 %cap-heShe%は、今狂っており無差別な人々、友人、敵を攻撃し打ち負かしています。",
 	},
 	"messageTitle_BreakdownRefusingWork": {
 		"english": "Burnout!",
@@ -1368,7 +1378,8 @@
 		"korean": "파업!",
 		"chinese": "精疲力竭！",
 		"italian": "Esaurimento!",
-		"polish": "Przepracowanie"
+		"polish": "Przepracowanie",
+		"japanese": "燃え尽き症候群!",
 	},
 	"messageText_BreakdownRefusingWork": {
 		"english": "A colonist has worked too much under terrible conditions. %cap-heShe% has decided %heShe% just doesn't care anymore and is going to relax for a while.",
@@ -1385,7 +1396,8 @@
 		"korean": "이 개척자는 끔찍한 환경 속에서 너무 많이 일했습니다. %heShe%는 이제 아무것도 신경쓰지 않고, 잠시간 휴식을 취하려고 합니다.",
 		"chinese": "该殖民者辛勤劳作太久了。%heShe%现在什么也不管了，%heShe%只想去休息一段时间。",
 		"italian": "Un colono ha lavorato per troppo tempo in condizioni terribili, per cui ha semplicemente deciso che non gli importa più di nulla e che si rilasserà per un po'.",
-		"polish": "Jeden z kolonistów pracował ponad swoje siły od dłuższego czasu. Postanowił, że od tej chwili więcej czasu poświęci na relaks."
+		"polish": "Jeden z kolonistów pracował ponad swoje siły od dłuższego czasu. Postanowił, że od tej chwili więcej czasu poświęci na relaks.",
+		"japanese": "コロニストは酷い状況下で働きすぎました。そのためもう何もかもを放棄し気にしないと決めて、しばらくリラックスして過ごすつもりです!",
 	},
 	"messageTitle_BreakdownDestroyFurniture": {
 		"english": "Vandalism!",
@@ -1401,7 +1413,8 @@
 		"korean": "기물 파손!",
 		"chinese": "恶意破坏！",
 		"italian": "Vandalismo!",
-		"polish": "Wandalizm!"
+		"polish": "Wandalizm!",
+		"japanese": "破壊行為！",
 	},
 	"messageText_BreakdownDestroyFurniture": {
 		"english": "Life hasn't been the greatest for %firstName%. Now %heShe% has turned to vandalism to blow off some steam.",
@@ -1417,7 +1430,8 @@
 		"ukrainian": "%firstName% не бу%hesheEnd% задоволен%heshe_IY_A% своїм життям. Тепер  %heShe% випускає пар за допомогою вандалізму.",
 		"korean": "%firstName%의 생활은 최고의 생활이 아니었습니다. %heShe%는 화를 풀기 위해 기물들을 파손하기 시작했습니다.",
 		"chinese": "%firstName%的生活质量非常不好。现在%heShe%想破坏东西已发泄不满。",
-		"italian": "La vita non è stata generosa con %firstName%. Adesso sta compiendo atti di vandalismo per sfogarsi un po'."
+		"italian": "La vita non è stata generosa con %firstName%. Adesso sta compiendo atti di vandalismo per sfogarsi un po'.",
+		"japanese": "人生は%firstName%にとって最高なものではありませんでした。現在、 %heShe%はストレスを吹き飛ばすために破壊行為に目を向けています。",
 	},
 	"messageTitle_BreakdownLazyDay": {
 		"english": "Lazy Day",
@@ -1433,7 +1447,8 @@
 		"korean": "느긋한 하루",
 		"chinese": "慵懒惬意",
 		"italian": "Giornata pigra",
-		"polish": "Dzień wolnego"
+		"polish": "Dzień wolnego",
+		"japanese": "怠惰な一日",
 	},
 	"messageText_BreakdownLazyDay": {
 		"english": "Life hasn't been the greatest for %firstName%. Today %heShe% is taking it easy and will be taking a lot of long breaks.",
@@ -1450,7 +1465,8 @@
 		"korean": "%firstName%의 생활은 그렇게 좋지만은 않았습니다. 오늘 %heShe%는 긴장을 풀고 긴 휴식을 자주 취하려 합니다.",
 		"chinese": "%firstName%的生活质量非常不好。今天%heShe%只想休息多点时间。",
 		"italian": "La vita non è stata generosa con %firstName%. Oggi se la sta prenendo comoda e seguiranno anche delle lunghe pause.",
-		"polish": "Ostatnie dni nie oszczędzały tego kolonisty. %firstName% postanowił%heShe% że dzisiaj zrobi sobie wolne i odpocznie."
+		"polish": "Ostatnie dni nie oszczędzały tego kolonisty. %firstName% postanowił%heShe% że dzisiaj zrobi sobie wolne i odpocznie.",
+		"japanese": " %firstName%の人生は、最高の物ではありませんでした。今日、%heShe%は気持ちを楽にするために長い休憩を沢山取っています。",
 	},
 	"messageTitle_BugInfestation": {
 		"english": "Bug Infestation!",
@@ -1466,7 +1482,8 @@
 		"korean": "병충해 발생!",
 		"chinese": "虫灾！",
 		"italian": "Infestazione di insetti!",
-		"polish": "Plaga robactwa!"
+		"polish": "Plaga robactwa!",
+		"japanese": "害虫の発生!",
 	},
 	"messageText_BugInfestation": {
 		"english": "A swarm of bugs has come down on your fields and is destroying the harvest. The colonists need to cut affected plants before the infestation spreads.",
@@ -1482,7 +1499,8 @@
 		"korean": "벌레때가 밭에 나타나 수확물을 망치고 있습니다. 개척자를 보내 감염이 번지기 전에 감염된 작물을 잘라내세요.",
 		"chinese": "一大群虫子落在你的田地上，正在侵害农作物。殖民者需要在虫灾蔓延之前移除受影响的植物。",
 		"italian": "Uno sciame di insetti sta infestando i tuoi campi e sta distruggendo il raccolto. I coloni devono estirpare le piante malate prima che l'infestazione si diffonda.",
-		"polish": "Na twoich polach grasuje szarańcza! Koloniści powinni usunąć zainfekowane rośliny, zanim choroba się rozprzestrzeni."
+		"polish": "Na twoich polach grasuje szarańcza! Koloniści powinni usunąć zainfekowane rośliny, zanim choroba się rozprzestrzeni.",
+		"japanese": "害虫の群れが、あなたの畑にやってきて畑の作物をダメにしています。虫の被害が広がる前にコロニストは、被害を受けた作物を取り除く必要があります。",
 	},
 	"messageTitle_TutorialFood": {
 		"english": "Food and Hunger",
@@ -1497,7 +1515,8 @@
 		"ukrainian": "Їжа та голод",
 		"korean": "음식과 허기",
 		"chinese": "饥肠辘辘",
-		"italian": "Cibo e fame"
+		"italian": "Cibo e fame",
+		"japanese": "空腹",
 	},
 	"messageText_TutorialFood": {
 		"english": "Your colonists are hungry! You need to build something from which they can take their food, for example a food basket.",
@@ -1512,7 +1531,8 @@
 		"ukrainian": "Ваші колоністи голодні! Ви повинні побудувати щось, з чого вони зможуть взяти їжу, наприклад, продовольчий кошик.",
 		"korean": "개척자가 배고파합니다! 그들이 음식을 가져갈 수 있는 무언가를 만드세요. 예를 들면, 음식 바구니 같은거요.",
 		"chinese": "你的殖民者很饿！你需要建造提供食物的东西，例如食物篮子。",
-		"italian": "I tuoi coloni hanno fame! Devi costruire qualcosa da cui possano raccogliere il loro cibo, come ad esempio un cesto di cibo."
+		"italian": "I tuoi coloni hanno fame! Devi costruire qualcosa da cui possano raccogliere il loro cibo, come ad esempio un cesto di cibo.",
+		"japanese": "あなたのコロニストはお腹が空いています!あなたは彼らが食物をとることが出来る様に、例えば食材用かごを作る必要があります。",
 	},
 	"messageTitle_TutorialHealing": {
 		"english": "Healing",
@@ -1527,7 +1547,8 @@
 		"ukrainian": "Лікування",
 		"korean": "회복",
 		"chinese": "恢复",
-		"italian": "Guarigione"
+		"italian": "Guarigione",
+		"japanese": "回復",
 	},
 	"messageText_TutorialHealing": {
 		"english": "A colonist is wounded! Make sure they get enough sleep to rest their body. An experienced doctor can create more advanced remedies at the potion lab.",
@@ -1543,7 +1564,8 @@
 		"ukrainian": "Колоніст%heShe_T_TKA% поранен%heshe_IY_A%! Переконайтеся, що %heShe% висипається. Досвідчений лікар може створити ліки в столі зіллєваріння.",
 		"korean": "개척자가 부상을 입었습니다! 몸을 쉬게 하고 충분한 잠을 잘 수 있도록 해 주세요. 숙련된 의사는 고도의 약품을 만들어낼 수 있습니다.",
 		"chinese": "殖民者受伤了！确保他们有足够的睡眠来恢复身体。经验丰富的医生可以在药水工坊制造更高级的治疗方法。",
-		"italian": "Un colono è ferito! Assicurati che dorma abbastanza per far riposare il suo corpo. Un medico esperto può creare dei rimedi più avanzati presso il laboratorio di pozioni."
+		"italian": "Un colono è ferito! Assicurati che dorma abbastanza per far riposare il suo corpo. Un medico esperto può creare dei rimedi più avanzati presso il laboratorio di pozioni.",
+		"japanese": "コロニストが負傷しました!彼らが身体を休めるのに十分な睡眠を取ることを確認してください。経験豊富な医師は回復薬調合作業台でより高度な医薬品を作成できます。",
 	},
 	"messageTitle_TutorialScience": {
 		"english": "Science",
@@ -1558,7 +1580,8 @@
 		"ukrainian": "Наука",
 		"korean": "과학",
 		"chinese": "研究",
-		"italian": "Scienza"
+		"italian": "Scienza",
+		"japanese": "研究",	
 	},
 	"messageText_TutorialScience": {
 		"english": "In order to advance your colony, you need to gather research. You can do that by mining crystals and analyzing them on the research book stand. The science panel is at the top right!",
@@ -1573,7 +1596,8 @@
 		"ukrainian": "Щоб розвивати свою колонію, вам потрібно займатися дослідженнями. Ви можете зробити це, добуваючи кристали і аналізуючи їх в столі досліджень. Наукова панель розташовується вгорі праворуч!",
 		"korean": "정착지를 발전시키려면 연구를 해야 합니다. 크리스탈을 캐고 연구대에서 크리스탈을 분석하면 연구를 할 수 있습니다. 과학 패널은 우측 상단에 있습니다!",
 		"chinese": "为了发展你的殖民地，你需要研究。你可以通过挖掘水晶并放在研究书架上分析。研究科技树位于右上角！",
-		"italian": "Per far avanzare la tua colonia, devi effettuare delle ricerche. Per farlo, estrai i cristalli e analizzali al leggio di ricerca. Il pannello scientifico è in alto a destra!"
+		"italian": "Per far avanzare la tua colonia, devi effettuare delle ricerche. Per farlo, estrai i cristalli e analizzali al leggio di ricerca. Il pannello scientifico è in alto a destra!",
+		"japanese": "コロニーを進歩させるためには、研究を進める必要があります。あなたはクリスタルを採掘し、クリスタル解析台で解析することによって研究を進めることが出来ます。研究パネルへのアクセスは右上から出来ます!",
 	},
 	"messageTitle_TutorialMigrants": {
 		"english": "Migrants",
@@ -1588,7 +1612,8 @@
 		"ukrainian": "Мігранти",
 		"korean": "이주민",
 		"chinese": "移民",
-		"italian": "Migranti"
+		"italian": "Migranti",
+		"japanese": "移民",
 	},
 	"messageText_TutorialMigrants": {
 		"english": "If you want your colony to grow, you'll need to accept new people. Build a bonfire in order to attract migrants. Bonfires are unlocked via research.",
@@ -1603,7 +1628,8 @@
 		"ukrainian": "Якщо ви хочете, щоб ваша колонія росла, вам потрібно залучити нових жителів. Розведіть вогнище, щоб привернути мігрантів. Багаття відкриваються за допомогою досліджень.",
 		"korean": "정착지를 키우고 싶다면, 새로운 사람을 받아들여야 합니다. 화톳불을 피워 이주민들을 끌어들이세요. 화톳불은 연구를 통해 발견할 수 있습니다.",
 		"chinese": "如果你希望殖民地能够发展起来，你需要增加移民。建立营火以吸引移民。通过研究解锁营火。",
-		"italian": "Se vuoi che la tua colonia cresca, dovrai accettare nuove persone. Costruisci un falò per attirare i migranti. I falò vengono sbloccati tramite ricerca."
+		"italian": "Se vuoi che la tua colonia cresca, dovrai accettare nuove persone. Costruisci un falò per attirare i migranti. I falò vengono sbloccati tramite ricerca.",
+		"japanese": "コロニーを発展させたい場合は、新しいコロニストを受け入れる必要があります。移民を引き付けるには、篝火を作り点火させます。篝火は研究によって解放されます。",
 	},
 	"messageTitle_TutorialCameraRotation": {
 		"english": "Rotating the View",
@@ -1618,7 +1644,8 @@
 		"ukrainian": "Поворот камери",
 		"korean": "화면 회전",
 		"chinese": "旋转视图",
-		"italian": "Ruotare la visuale"
+		"italian": "Ruotare la visuale",
+		"japanese": "ビューを回転させる",
 	},
 	"messageText_TutorialCameraRotation": {
 		"english": "You can rotate the view by holding the middle mouse button.",

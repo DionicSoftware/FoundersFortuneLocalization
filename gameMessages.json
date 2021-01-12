@@ -333,6 +333,7 @@
 		"french": "%fullName% n'est plus apprivoisé%e%",
 		"portuguese": "%fullName% tornou-se selvagem",
 		"chinese": "%firstName% 驯服成功了",
+		"japanese": "%fullName% は、飼いならされました",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -348,7 +349,8 @@
 		"korean": "식량이 바닥을 보이고 있습니다",
 		"chinese": "食物吃完了",
 		"italian": "Il cibo sta per finire",
-		"polish": "Kończy się jedzenie"
+		"polish": "Kończy się jedzenie",
+		"japanese": "食料が不足しています",
 	},
 	"notificationTitle_NoFood": {
 		"english": "No Food left",
@@ -364,7 +366,9 @@
 		"korean": "남은 식량이 없습니다",
 		"chinese": "无食物库存",
 		"italian": "Non è rimasto più cibo",
-		"polish": "Jedzenie się skończyło!"
+		"polish": "Jedzenie się skończyło!",
+		"japanese": "食べ物が残っていません",
+		
 	},
 	"notificationTitle_HungryNoFoodContainer": {
 		"english": "Missing Food Storage",
@@ -380,7 +384,8 @@
 		"korean": "식량을 저장할 공간이 없습니다",
 		"chinese": "无法找到食物库存",
 		"italian": "Deposito di cibo mancante",
-		"polish": "Brakuje miejsca do składowania jedzenia"
+		"polish": "Brakuje miejsca do składowania jedzenia",
+		"japanese": "食料貯蔵庫がありません",
 	},
 	"notificationTitle_NoResearchSelected": { // used not only as notification, but also as tooltip title
 		"english": "No Research selected",
@@ -396,7 +401,8 @@
 		"korean": "진행중인 연구가 없습니다",
 		"chinese": "没有选择研究",
 		"italian": "Nessuna ricerca selezionata",
-		"polish": "Nie wybrano kolejnych badań"
+		"polish": "Nie wybrano kolejnych badań",
+		"japanese": "研究が選択されていません",
 	},
 	"notificationTitle_Illness": {
 		"english": "Illness",
@@ -412,7 +418,8 @@
 		"korean": "아픔",
 		"chinese": "疾病",
 		"italian": "Malattia",
-		"polish": "Kolonista choruje"
+		"polish": "Kolonista choruje",
+		"japanese": "病気",
 	},
 	"notificationTitle_ColonistJoined": {
 		"english": "Colonist joined",
@@ -428,7 +435,8 @@
 		"korean": "개척자가 합류했습니다",
 		"chinese": "移民加入",
 		"italian": "Un colono si è unito",
-		"polish": "Nowy członek koloni"
+		"polish": "Nowy członek koloni",
+		"japanese": "新しいコロニストが加わった",
 	},
 	"notificationTitle_MigrantsAreLeaving": {
 		"english": "Migrants are leaving",
@@ -444,7 +452,8 @@
 		"korean": "이주민이 떠나갑니다",
 		"chinese": "移民离开了",
 		"italian": "I migranti stanno partendo",
-		"polish": "Imigranci odchodzą"
+		"polish": "Imigranci odchodzą",
+		"japanese": "コロニストが去っていきました",
 	},
 	"notificationTitle_TraderIsLeaving": {
 		"english": "Trader is leaving",
@@ -460,7 +469,8 @@
 		"korean": "상인이 떠나갑니다",
 		"chinese": "贸易者离开了",
 		"italian": "Il mercante sta partendo",
-		"polish": "Handlarz odchodzi"
+		"polish": "Handlarz odchodzi",
+		"japanese": "トレーダーが去っていきました",
 	},
 	"notificationTitle_SeasonChanged": {
 		"english": "It is now %season%",
@@ -476,7 +486,8 @@
 		"korean": "이제 %season%입니다",
 		"chinese": "现在是%season%",
 		"italian": "È %season%",
-		"polish": "Obecnie jest %season%"
+		"polish": "Obecnie jest %season%",
+		"japanese": "今は%season%です",
 	},
 	"notificationTitle_LastDayOfSeason": {
 		"english": "It is the last day of %season%.",
@@ -492,7 +503,8 @@
 		"korean": "오늘은 %season%의 마지막 날입니다",
 		"chinese": "今天是%season%的最后一天.",
 		"italian": "%season%: ultimo giorno di stagione.",
-		"polish": "Dziś ostatni dzień tej pory roku"
+		"polish": "Dziś ostatni dzień tej pory roku",
+		"japanese": "%season%の最終日です",
 	},
 	"notificationTitle_AllergicReaction": {
 		"english": "Colonist has an allergic reaction",
@@ -508,7 +520,8 @@
 		"korean": "개척자가 알레르기 반응을 보이고 있습니다",
 		"chinese": "殖民者发生了过敏反应",
 		"italian": "Un colono ha una reazione allergica",
-		"polish": "Kolonista ma alergię"
+		"polish": "Kolonista ma alergię",
+		"japanese": "コロニストは、アレルギーです",
 	},
 	"notificationTitle_BugInfestationOver": { // means that the bug infestation is done, it's finished, it's no longer active
 		"english": "Bug infestation over",
@@ -525,7 +538,9 @@
 		"korean": "병충해가 사라졌습니다",
 		"chinese": "虫灾结束了",
 		"italian": "Infestazione di insetti terminata",
-		"polish": "Plaga opanowana"
+		"polish": "Plaga opanowana",
+		"japanese": "害虫の大発生",
+		
 	},
 	"notificationTitle_NeedToBuildBonfire": {
 		"english": "Need a Bonfire to get Migrants",
@@ -541,7 +556,9 @@
 		"korean": "이주민이 찾아오려면 화톳불이 필요합니다",
 		"chinese": "需要篝火来吸引移民",
 		"italian": "Hai bisogno di un falò per attirare i migranti",
-		"polish": "Potrzeba ogniska sygnalizacyjnego"
+		"polish": "Potrzeba ogniska sygnalizacyjnego",
+		"japanese": "新しいコロニストを得るには、篝火が必要です",
+		
 	},
 	"notificationTitle_UnfulfilledExpectations": {
 		"english": "Need to fulfill Expectations",
@@ -557,7 +574,8 @@
 		"korean": "기대를 충족시켜야 합니다",
 		"chinese": "需要满足期望",
 		"italian": "Devi soddisfare le aspettative",
-		"polish": "Trzeba spełnić oczekiwania kolonistów"
+		"polish": "Trzeba spełnić oczekiwania kolonistów",
+		"japanese": "コロニストの期待を満たす必要がある",
 	},
 	"notificationTitle_NeedBookstand": {
 		"english": "Need a Research Book Stand",
@@ -573,7 +591,8 @@
 		"korean": "연구대가 필요합니다",
 		"chinese": "需要一个研究用书架",
 		"italian": "Hai bisogno di un leggio per la ricerca",
-		"polish": "Zbuduj stanowisko do badań"
+		"polish": "Zbuduj stanowisko do badań",
+		"japanese": "クリスタル解析台が必要",
 	},
 	"notificationTitle_NeedToSelectResearch": {
 		"english": "Need to select Research",
@@ -589,7 +608,8 @@
 		"korean": "연구를 선택해야 합니다",
 		"chinese": "需要选择一项研究项目",
 		"italian": "Devi selezionare una ricerca",
-		"polish": "Wybierz kolejne badania"
+		"polish": "Wybierz kolejne badania",
+		"japanese": "研究を選択する必要があります",
 	},
 	"notificationTitle_NeedCrystals": {
 		"english": "Need Crystals for Research",
@@ -605,7 +625,8 @@
 		"korean": "연구를 위해서 크리스탈이 필요합니다",
 		"chinese": "需要水晶用于研究",
 		"italian": "Hai bisogno di cristalli per la ricerca",
-		"polish": "Potrzeba kryształów do badań"
+		"polish": "Potrzeba kryształów do badań",
+		"japanese": "研究には、クリスタルが必要です",
 	},
 	"notificationTitle_NeedToAnalyzeCrystals": {
 		"english": "Analyze Crystals on the Bookstand",
@@ -621,7 +642,8 @@
 		"korean": "연구대에서 크리스탈을 분석하세요",
 		"chinese": "在书架上分析水晶",
 		"italian": "Devi analizzare i cristalli sul leggio",
-		"polish": "Zbadaj kryształy na stanowisku do badań"
+		"polish": "Zbadaj kryształy na stanowisku do badań",
+		"japanese": "クリスタル解析台でクリスタルを解析する",
 	},
 	//	"notificationTitle_MissingPossessions": {
 	//		"english": "Colonist is missing %hisHer% Possessions",
@@ -633,7 +655,7 @@
 	//		"turkish": "Yerleşimci malını kaybetti",
 	//		"chinese": "殖民者失去了%hisHer%物品拥有权",
 	//		"italian": "",
-	//	},
+		//	},
 	"notificationTitle_LegHurt": {
 		"english": "%firstName% hurt %hisHer% Leg",
 		"dutch": "%firstName% heeft pijn aan %zijnHaar% been",
@@ -647,7 +669,8 @@
 		"korean": "%firstName%#{이} 다리를 다쳤습니다",
 		"chinese": "%firstName%伤到了%hisHer%的腿",
 		"italian": "%firstName% si è %FeritoFerita% alla gamba",
-		"polish": "%firstName% zranił%nicA% się w nogę"
+		"polish": "%firstName% zranił%nicA% się w nogę",
+		"japanese": "%firstName% は、脚に痛みがあります",
 	},
 	"notificationTitle_LegBroken": {
 		"english": "%firstName% broke %hisHer% Leg",
@@ -662,7 +685,8 @@
 		"korean": "%firstName%의 다리가 부러졌습니다",
 		"chinese": "%firstName%的腿骨折了",
 		"italian": "%firstName% si è %RottoRotta% la gamba",
-		"polish": "%firstName% złamał%nicA% nogę"
+		"polish": "%firstName% złamał%nicA% nogę",
+		"japanese": "%firstName% は脚を損傷しました",
 	},
 	"notificationTitle_ArmHurt": {
 		"english": "%firstName% hurt %hisHer% Arm",
@@ -677,7 +701,8 @@
 		"korean": "%firstName%#{이} 팔을 다쳤습니다",
 		"chinese": "%firstName%伤到了%hisHer%的手臂",
 		"italian": "%firstName% si è %FeritoFerita% al braccio",
-		"polish": "%firstName% zranił%nicA% się w rękę"
+		"polish": "%firstName% zranił%nicA% się w rękę",
+		"japanese": "%firstName% は、腕に痛みがあります",
 	},
 	"notificationTitle_ArmBroken": {
 		"english": "%firstName% broke %hisHer% Arm",
@@ -692,7 +717,8 @@
 		"korean": "%firstName%의 팔이 부러졌습니다",
 		"chinese": "%firstName%的手臂骨折了",
 		"italian": "%firstName% si è %RottoRotta% il braccio",
-		"polish": "firstName% złamał%nicA% rękę"
+		"polish": "firstName% złamał%nicA% rękę",
+		"japanese": "%firstName% は脚を損傷しました",
 	},
 	"notificationTitle_AutosaveComplete": {
 		"english": "Autosave complete",
@@ -707,7 +733,8 @@
 		"korean": "자동으로 저장되었습니다",
 		"chinese": "自动存档完成",
 		"italian": "Salvataggio automatico completato",
-		"polish": "Autozapis"
+		"polish": "Autozapis",
+		"japanese": "自動保存完了",
 	},
 	"notificationTitle_Party": {
 		"english": "Party!    %timeLeft%",
@@ -722,7 +749,8 @@
 		"korean": "축제!    %timeLeft%",
 		"chinese": "派对!    %timeLeft%",
 		"italian": "Festa!    %timeLeft%",
-		"polish": "Impreza!    %timeLeft%"
+		"polish": "Impreza!    %timeLeft%",
+		"japanese": "パーティ!%timeLeft%",
 	},
 	"notificationTitle_StatuePresentAccepted": {
 		"english": "Our statue present was gratefully accepted",
@@ -735,7 +763,8 @@
 		"chinese": "我们的雕像礼物被感激地接受了",
 		"korean": "우리가 보낸 조각상 선물이 훌륭하게 받아들여졌습니다.",
 		"turkish": "Heykel hediyemiz memnuniyetle kabul edildi",
-		"italian": "La nostra statua regalo è stata accettata con gratitudine"
+		"italian": "La nostra statua regalo è stata accettata con gratitudine",
+		"japanese": "私たちの銅像のプレゼントは、有難く受け取られました",
 	},
 	"notificationTitle_PiratesArrivingSoon": {
 		"english": "Pirates are arriving any moment now...",
@@ -748,6 +777,7 @@
 		"korean": "해적이 곧 들이닥칠 것 같습니다...",
 		"chinese": "海盗随时都会来...",
 		"turkish": "Korsanlar her an gelebilir...",
+		"japanese": "海賊たちは、すぐにでも到着します...",
 	},
 	"notificationTitle_PiratesHaveLanded": {
 		"english": "Pirates have landed!",
@@ -760,6 +790,7 @@
 		"korean": "해적이 상륙했습니다!",
 		"chinese": "海盗登陆了！",
 		"turkish": "Korsanlar karaya ayak bastı",
+		"japanese": "海賊が上陸しました!!",
 	},
 	"notificationTitle_FactionWillComeForTributeIn": {
 		"english": "'%faction%' will come for %tribute% in %days% days",
@@ -772,6 +803,7 @@
 		"korean": "'%faction%'#{이} %tribute%#{을} 바치기 위해 %days%일 내로 올 겁니다",
 		"chinese": "'%faction%' 将会%days%天内在 %tribute% 出现",
 		"turkish": "'%faction%',  %tribute% için %days% gün içinde gelecek",
+		"japanese": "'%faction%'は、%tribute%のために%days% daysあたりに到着します",
 	},
 	"notificationTitle_NoEmptyGrave": {
 		"english": "There is no empty grave",
@@ -783,6 +815,7 @@
 		"italian": "Non ci sono tombe vuote",
 		"chinese": "没有空余的坟墓",
 		"turkish": "Boş mezar yok",
+		"japanese": "空いている墓は、ありません",
 	},
 	"notificationTitle_ProfessionLevelUp": {
 		"english": "%firstName% is now a level %level% %profession%",
@@ -793,6 +826,8 @@
 		"portuguese": "%firstName% agora é um nível %level% %profession%",
 		"turkish": "%firstName%, mesleği %profession% de %level% seviyesinde",
 		"chinese": "%firstName%现在是%level%级的%profession%",
+		"japanese": "%firstName% は、レベル%level% %profession%になりました",
+		
 	},
 
 
@@ -820,7 +855,8 @@
 		"korean": "기대가 충족됨",
 		"chinese": "期望达成",
 		"italian": "Aspettativa soddisfatta",
-		"polish": "Spełniono oczekiwania"
+		"polish": "Spełniono oczekiwania",
+		"japanese": "期待が叶えられました",
 	},
 	"wishFulfilled": {
 		"english": "Wish fulfilled",
@@ -836,7 +872,8 @@
 		"korean": "소원이 이뤄짐",
 		"chinese": "愿望达成",
 		"italian": "Desiderio soddisfatto",
-		"polish": "Spełniono życzenia"
+		"polish": "Spełniono życzenia",
+		"japanese": "願いが叶えられました",
 	},
 	"wishDenied": {
 		"english": "Wish denied",
@@ -851,7 +888,8 @@
 		"ukrainian": "Мрії не судилося збутися",
 		"korean": "소원이 거부됨",
 		"chinese": "愿望拒绝",
-		"italian": "Desiderio negato"
+		"italian": "Desiderio negato",
+		"japanese": "拒否を希望",
 	},
 	"diplomaticRelationsImproved": {
 		"english": "Diplomatic Relations Improved",
@@ -863,6 +901,7 @@
 		"chinese": "外交关系改善",
 		"italian": "Relazioni diplomatiche migliorate",
 		"turkish": "Diplomatik ilişkiler geliştirildi",
+		"japanese": "外交関係の改善",
 	},
 	"treatmentSuccessful": {
 		"english": "Treatment\nSuccessful",
@@ -877,7 +916,8 @@
 		"korean": "치료\n성공",
 		"chinese": "医治\n成功",
 		"italian": "Trattamento\nriuscito",
-		"polish": "Leczenie\nudane"
+		"polish": "Leczenie\nudane",
+		"japanese": "治療\n成功",
 	},
 	"treatmentFailed": {
 		"english": "Treatment\nFailed",
@@ -892,7 +932,8 @@
 		"korean": "치료\n실패",
 		"chinese": "医治\n失败",
 		"italian": "Trattamento\nfallito",
-		"polish": "Leczenie\nnieudane"
+		"polish": "Leczenie\nnieudane",
+		"japanese": "治療\n失敗",
 	},
 	"legSplintSuccessful": {
 		"english": "Leg Splint\nSuccessful",
@@ -907,7 +948,8 @@
 		"korean": "다리 부목\n성공",
 		"chinese": "腿部夹板安置\n成功",
 		"italian": "Stecca per gamba\nriuscita",
-		"polish": "Usztywnienie\nudane"
+		"polish": "Usztywnienie\nudane",
+		"japanese": "脚の添え木\n成功",
 	},
 	"legSplintFailed": {
 		"english": "Leg Splint\nFailed",
@@ -922,7 +964,8 @@
 		"korean": "다리 부목\n실패",
 		"chinese": "腿部夹板安置\n失败",
 		"italian": "Stecca per gamba\nfallita",
-		"polish": "Usztywnienie\nienudane"
+		"polish": "Usztywnienie\nienudane",
+		"japanese": "脚の添え木\n失敗",
 	},
 	"armSplintSuccessful": {
 		"english": "Arm Splint\nSuccessful",
@@ -937,7 +980,8 @@
 		"korean": "팔 부목\n성공",
 		"chinese": "手臂夹板安置\n成功",
 		"italian": "Stecca per braccio\nriuscita",
-		"polish": "Usztywnienie\nudane"
+		"polish": "Usztywnienie\nudane",
+		"japanese": "腕の添え木\n成功",
 	},
 	"armSplintFailed": {
 		"english": "Arm Splint\nFailed",
@@ -952,7 +996,8 @@
 		"korean": "팔 부목\n실패",
 		"chinese": "手臂夹板安置\n失败",
 		"italian": "Stecca per braccio\nfallita",
-		"polish": "Usztywnienie\nnieudane"
+		"polish": "Usztywnienie\nnieudane",
+		"japanese": "腕の添え木\n失敗",
 	},
 	"impressed": {
 		"english": "Impressed",
@@ -964,6 +1009,8 @@
 		"chinese": "印象深刻",
 		"italian": "Impressionat%OA%",
 		"turkish": "Etkilendi",
+		"japanese": "感動",
+		
 	},
 	"notImpressed": {
 		"english": "Not Impressed",
@@ -975,6 +1022,7 @@
 		"chinese": "印象淡薄",
 		"italian": "Non impressionat%OA%",
 		"turkish": "Etkilenmedi",
+		"japanese": "関心しない",
 	},
 	"upsetWithSomeone": {
 		"english": "Upset with %firstName%",
@@ -986,6 +1034,7 @@
 		"chinese": "对 %firstName%感到不安",
 		"italian": "Arrabbiat%OA% con %firstName%",
 		"turkish": "%firstName%den dolayı üzgün",
+		"japanese": "%firstName%に腹を立てる",
 	},
 	"someoneIsUpset": {
 		"english": "%firstName% is upset",
@@ -997,6 +1046,7 @@
 		"chinese": "%firstName%很不安",
 		"italian": "%firstName% è arrabbiat%OA%",
 		"turkish": "%firstName% üzgün",
+		"japanese": "%firstName%は動揺している",
 	},
 	"drankElixirOfYouth": {
 		"english": "%firstName% gets %days% extra days!",
@@ -1008,6 +1058,7 @@
 		"portuguese": "%firstName% recebe %days% dias extras!",
 		"turkish": "%firstName% fazladan %days% gün kazandı!",
 		"chinese": "%firstName%额外获得%days%天！",
+		"japanese": "%firstName%は%days%日、余分に取得します!",
 	},
 	"tamingSucceeded": {
 		"english": "Taming successful!",
@@ -1019,6 +1070,7 @@
 		"portuguese": "Domando com sucesso!",
 		"turkish": "Ehlileştirme başarılı",
 		"chinese": "驯服成功！",
+		"japanese": "飼いならし成功!",
 	},
 	"tamingInProgress": {
 		"english": "Taming in progress...",
@@ -1030,6 +1082,7 @@
 		"portuguese": "Domando em andamento ...",
 		"turkish": "Ehlileştirme süreci",
 		"chinese": "正在驯服...",
+		"japanese": "飼いならしが進行中...",
 	},
 
 
@@ -1048,6 +1101,7 @@
 		"chinese": "移民： %text%",
 		"italian": "Migrante: %text%",
 		"turkish": "Göçmen: %text%",
+		"japanese": "移民: %text%",
 	},
 	"iHaveTrait": {
 		"english": "I have the trait '%trait%'.",
@@ -1058,7 +1112,8 @@
 		"portuguese": "Eu tenho a característica '%trait%'.",
 		"italian": "Ho il tratto '%trait%'.",
 		"korean": "나는 '%trait%' 성향이 있어요.",
-		"chinese": "拥有'%trait%'特性."
+		"chinese": "拥有'%trait%'特性.",
+		"japanese": "特性'%trait%'あります。",
 	},
 	"iHaveExperience": {
 		"english": "I am a level %level% %profession%.",
@@ -1069,7 +1124,8 @@
 		"portuguese": "Eu sou um nivel %level% %profession%.",
 		"italian": "Sono %UnUna% %profession% di livello %level%.",
 		"korean": "나는 %profession% %level%레벨이에요.",
-		"chinese": "我是一名 %level%级的 %profession%。"
+		"chinese": "我是一名 %level%级的 %profession%。",
+		"japanese": " 私は、レベル%level% %profession%です。",
 	},
 	"iHaveNoExperience": {
 		"english": "I don't have a lot of work experience.",
@@ -1080,7 +1136,9 @@
 		"portuguese": "Eu não tenho muita experiência de trabalho.",
 		"italian": "Non ho molta esperienza lavorativa.",
 		"korean": "일해본 경험이 많지는 않아요.",
-		"chinese": "我没有很多工作经验。"
+		"chinese": "我没有很多工作经验。",
+		"japanese": "仕事の経験はあまりありません。",
+		
 	},
 	"iDontLikeQuestioning": {
 		"english": "I don't like to be questioned like that.",
@@ -1091,7 +1149,8 @@
 		"portuguese": "Eu não gosto de ser questionado assim.",
 		"italian": "Non mi piace che mi vengano poste domande del genere.",
 		"korean": "그런 질문을 받고 싶진 않아요.",
-		"chinese": "我不喜欢这样被问到。"
+		"chinese": "我不喜欢这样被问到。",
+		"japanese": "私は、そのように質問されるのが好きではありません。",
 	},
 	"tooMuchQuestioning": {
 		"english": "That's enough questioning. Bye bye.",
@@ -1102,7 +1161,8 @@
 		"portuguese": "Chega de questionar. Tchau tchau.",
 		"italian": "Le domande sono state fin troppe. Ciao, ciao.",
 		"korean": "충분히 질문하신 것 같네요. 그럼 이만.",
-		"chinese": "问够了！再见。"
+		"chinese": "问够了！再见。",
+		"japanese": "十分な質問です!さようなら。",
 	},
 
 
@@ -1126,7 +1186,8 @@
 		"ukrainian": "Тікігобліни атакують!",
 		"korean": "티키고블린들이 공격해옵니다!",
 		"chinese": "土著哥布林发起了进攻!",
-		"italian": "I Tikigoblin stanno attaccando!"
+		"italian": "I Tikigoblin stanno attaccando!",
+		"japanese": "ティキゴブリンが攻撃している!",
 	},
 	"messageText_GoblinsAttacking": {
 		"english": "Tikigoblins have been sighted near our settlement. They are fast and do not seem to come in peace. Arm the colonists, so they may defend their home once again!",
@@ -1141,7 +1202,9 @@
 		"ukrainian": "Тікігобліни були помічені біля нашого поселення. Вони швидкі і здається прийшли не з миром. Приготуйте на бій колоністів, щоб вони могли захистити свій будинок!",
 		"korean": "정착지 근처에서 티키고블린이 목격되었습니다. 그들을 빠르게 움직이고 있지만, 평화를 위해 오는 것 같진 않습니다. 주거지를 방어할 수 있도록 개척자들을 무장시키세요!",
 		"chinese": "我们营地附近目击到了土著哥布林。他们行动快速，来者不善。殖民者武装起来，再次保卫他们的家园!",
-		"italian": "I Tikigoblin sono stati avvistati nei pressi del nostro insediamento. Sono veloci e non sembrano venire in pace. Arma i coloni, in modo che possano difendere le loro case!"
+		"italian": "I Tikigoblin sono stati avvistati nei pressi del nostro insediamento. Sono veloci e non sembrano venire in pace. Arma i coloni, in modo che possano difendere le loro case!",
+		"japanese": "ティキゴブリンは、私たちのコロニーの近くで目撃されました。彼らは速く動き、平和的に接触しようと訪問する者ですら拒みます。彼らから自分たちのコロニーを守ることが出来る様にコロニストたちを武装させましょう!",
+		
 	},
 	"messageTitle_MigrantsArrived": {
 		"english": "Migrants arrived!",
@@ -1158,6 +1221,7 @@
 		"chinese": "移民到了!",
 		"italian": "Migranti arrivati!",
 		"polish": "Przybył statek imigrantów!"
+		"japanese": "ティキゴブリンが攻撃している!",
 	},
 	"messageText_MigrantsArrived": {
 		"english": "A few migrants have seen our fire signal and just arrived in a small boat. Send a colonist to accept them!",

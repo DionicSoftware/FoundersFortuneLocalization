@@ -16,6 +16,7 @@
 		"chinese": "生食篮子",
 		"italian": "Cesto per cibi crudi",
 		"polish": "Kosz z jedzeniem",
+		"czech": "Koš se surovinami",
 		"japanese": "食材用かご",
 	},
 	//TODO-turkish: additional sentence at the end
@@ -37,7 +38,8 @@
 		"chinese": "用这个篮子给你的殖民者提供生的食物。当他们饿了的时候，只要你有足够的食物，他们就会到篮子里来找吃的。\n\n此架子最多存放 %capacityFoodRaw% 生鲜食材。",
 		"italian": "Usa questo cesto per fornire ai tuoi coloni i cibi crudi. Ogni volta che hanno fame, verranno nel cesto a prendere qualcosa da mangiare, a patto che tu abbia a disposizione abbastanza cibo.\n\nQuesto cesto può conservare fino a %capacityFoodRaw% cibi crudi.",
 		"polish": "W tym koszyku koloniści gromadzić będą podstawowe pożywienia zebrane z dzikich krzaków i drzew owocowych oraz ogródka. Gdy zgłodnieją, przyjdą do niego, aby wziąść coś do jedzenia.",
-		"japanese": "食材を貯蔵するかごです。コロニストの食事のためにすぐに設置しましょう。\n\n貯蔵量%capacityFoodRaw%", 
+		"japanese": "食材を貯蔵するかごです。コロニストの食事のためにすぐに設置しましょう。\n\n貯蔵量%capacityFoodRaw%",
+		"czech": "Pomocí tohoto koše můžete svým kolonistům poskytnout surové jídlo. Kdykoli budou mít hlad, přijdou ke koši, aby si dali něco k jídlu - pokud máte v zásobě dostatek jídla. \ N \ nTento koš pojme až% capacityFoodRaw% surového jídla.",
 	},
 	"foodShelfCampfire": {
 		"english": "Shelf for Food from the Campfire",
@@ -54,6 +56,7 @@
 		"italian": "Scaffale per cibo dal falò",
 		"polish": "Półki na jedzenie z ogniska",
 		"japanese": "簡易な料理の棚",
+		"czech": "Regál na vařené jídlo z ohniště",
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -75,6 +78,7 @@
 		"italian": "Questa combinazione di mensole e cesti è il luogo ideale per conservare i cibi cotti al falò!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
 		"polish": "Ten zestaw półek jest idealnym miejscem na przechowywanie upieczonego nad ogniem jedzenia.",
 		"japanese": "料理を貯蔵するための簡易な棚です。料理棚の設置はまずこれからしましょう。\n\n貯蔵量%capacityFoodCooked%",
+		"czech": "Tento regál je kombinací police a koše jako ideální místo pro skladování potravin vařených na ohništi! \ N \ nRegál pojme až% capacityFoodCooked% vařeného jídla.",
 	},
 	"foodShelfKitchen": {
 		"english": "Shelf for Food from the Kitchen",
@@ -91,6 +95,7 @@
 		"italian": "Scaffale per cibo da cucina",
 		"polish": "Półki na jedzenie z kuchni",
 		"japanese": "料理の棚",
+		"czech": "Regál na vařené jídlo z kuchyně",
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -112,6 +117,7 @@
 		"italian": "Quale posto migliore per conservare il tuo cibo da cucina se non su questo splendido scaffale!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
 		"polish": "Czy jest lepsze miejsce na trzymanie przygotowanych posiłków niż taki elegancki zestaw półek?",
 		"japanese": "料理を貯蔵するための棚です。そこそこ豪華です。\n\n貯蔵量%capacityFoodCooked%",
+		"czech": "Tento regál je nejlepším místem na uložení vařeného jídla z kuchyně. \ N \ nTento regál pojme až% capacityFoodCooked% vařeného jídla.
 	},
 	"foodShelfBakery": {
 		"english": "Shelf for Baked Food",
@@ -128,6 +134,7 @@
 		"italian": "Scaffale per cibi da forno",
 		"polish": "Półki na wypieki",
 		"japanese": "豪華な料理の棚",
+		"czech": "Regál na pečené jídlo"
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -149,6 +156,7 @@
 		"italian": "Questa scaffale è la tua prima scelta per i cibi che sono stati cotti al forno.\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
 		"polish": "Zestaw półek do prezentowania pysznych wypieków.",
 		"japanese": "料理を貯蔵するための棚です。とても豪華です。もう最高です。\n\n貯蔵量%capacityFoodCooked%",
+		"czech": "Tento regál slouží k uložení pečeného jídla. \n\nPojme až %capacityFoodCooked% pečeného jídla.
 	},
 	"potionMedicineStorage": {
 		"english": "Healing Potion Cabinet",
@@ -165,6 +173,7 @@
 		"italian": "Armadietto di pozioni curative",
 		"polish": "Gablota na mikstury lecznicze",
 		"japanese": "薬保管戸棚",
+		"czech": "Skříň na léčivé lektvary"
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -186,6 +195,8 @@
 		"italian": "Ti fa male la gamba? Sei malato? Perdi sangue? Indipendentemente dal tipo di danno che hai subito, assumere una pozione curativa è sempre una buona idea. Anche se non cura davvero la tua condizione, almeno intorpidisce il dolore. Inoltre, queste pozioni hanno un buon sapore.\n\nQuesto scaffale può conservare fino a %capacityMedicine% medicine e %capacityHealingPotion% pozioni curative.",
 		"polish": "Boli noga a może złapałeś jakieś choróbsko? Nie ma znaczenia jaka krzywda Ci się stała, mikstura lecznicza wnet postawi cię na nogi.... albo przynajmniej uśmierzy ból. Poza tym te mikstury smakują też dobrze.",
 		"japanese": "薬を保管する戸棚です。薬であるワクチン、回復薬を保管できます。薬はとても大事な物です。きちんと保管しましょう。\n\n保管量　ワクチン%capacityMedicine%個　回復薬%capacityHealingPotion%個",
+		"czech": "Bolí tě noha? Je ti špatně? Krvácíš? Bez ohledu na to co tě trápí, léčivý lektvar je vždy dobrý nápad. I když to opravdu nevyléčí tvůj stav, alespoň to otupí bolest. A tyto lektvary také chutnají dobře. \ N \ nTato skříň může pojmout až% capacityMedicine% léčivých přípravků a až% capacityHealingPotion% léčivých lektvarů.",
+
 	},
 	"beerRefillBarrel": {
 		"english": "Beer Barrel",
@@ -202,6 +213,7 @@
 		"italian": "Barile di birra",
 		"polish": "Beczka na piwo",
 		"japanese": "ビヤ樽",
+		"czech": "Pivní sud"
 	},
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
@@ -223,6 +235,7 @@
 		"italian": "Come mezzo di conservazione e di provenienza della birra fresca, un barile di birra è di grande importanza per tutte le colonie là fuori (beh, a patto che sia pieno ovviamente...). Vedrai quanto saranno felici i tuoi coloni quando permetterai loro di riempire le loro tazze. Salute!\n\nQuesto barile può contenere fino a %capacityBeer% birre.",
 		"polish": "Jako źródło świeżego piwa, beczka zawierająca ten złocisty trunek jest bardzo ważna w każdej kolonii (przynajmniej tak długo, jak ktoś w niej jeszcze został...).  Zobaczysz jak szczęśliwymi koloniści się stają gdy tylko napełnią swe kufle. Na zdrowie!",
 		"japanese": "コロニストを幸せにするビールを貯蔵するビヤ樽です。コロニーの繁栄を祝ってカンパーイ！\n\n貯蔵量%capacityBeer%",
+		"czech": "Pivní sud slouží jako prostředek pro skladování čerstvého piva a je velmi důležitý pro všechny kolonisty (pokud tu nějací zůstanou ...). Uvidíte, jak šťastní jsou vaši kolonisté, když jim dovolíte naplnit své půllitry. Na zdraví! \ N \ nTento sud může obsahovat až% capacity beer% piva.",
 	},
 
 

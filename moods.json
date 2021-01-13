@@ -15,6 +15,7 @@
 		"italian": "%firstName% è felice.",
 		"polish": "%firstName% jest szczęśliw%yA%",
 		"japanese": "%firstName% は、幸せです",
+		"czech": "%firstName% je šťastn%yA%!",
 	},
 	"moodDesc_Bad": {
 		"english": "%firstName% is not having a good time",
@@ -31,6 +32,8 @@
 		"italian": "%firstName% non sta vivendo un buon momento.",
 		"polish": "%firstName% nie spędza zbyt miło czasu",
 		"japanese": "%firstName% は、楽しい時間を過ごせませんでした",
+		"czech": "%firstName% se nemá dobře!",
+		
 	},
 	"moodDesc_Terrible": {
 		"english": "%firstName% is feeling terrible. %cap-heShe% is at risk of breaking down",
@@ -47,6 +50,7 @@
 		"italian": "%firstName% si sente male. Sta rischiando di avere un crollo nervoso.",
 		"polish": "%firstName% czuje się podle. Istnieje ryzyko załamania nerwowego",
 		"japanese": "%firstName% は、酷い気分です。 %cap-heShe% が、ストライキする危険があります。",
+		"czech": "%firstName% se cítí strašně. %cap-heShe% možná bude neovladateln%yA%!",
 	},
 	"moodDesc_Breakdown": {
 		"english": "%firstName% is having a breakdown. Nothing can console %himHer% now.",
@@ -63,6 +67,7 @@
 		"italian": "%firstName% sta avendo un esaurimento nervoso. Nulla potrà %ConsolarloConsolarla% adesso.",
 		"polish": "%firstName% ma załamanie nerwowe i nic %jegoJej% nie pocieszy w tej chwili.",
 		"japanese":  "%firstName% は、ストライキ中です。 %himHer% は、指示を受け付けません。",
+		"czech": "%firstName% je neovladateln%yA%! Nelze mu zadat žádný úkol.",
 	},
 	"moodDesc_LockedUp": {
 		"english": "%firstName% is locked up and is only concerned with freedom.",
@@ -79,6 +84,7 @@
 		"italian": "%firstName% è %RinchiusoRinchiusa% e il suo unico pensiero è la libertà.",
 		"polish": "%firstName% jest uwięziony i myśli tylko o wolności.",
 		"japanese":  "%firstName% は、閉じ込められています。 %himHer% は、自由について考えています。",
+		"czech": "%firstName% je stísněn%yA%. Zajímá se o to, jak být více svobodn%yA%.",
 	},
 	"expectationDesc_Good": {
 		"english": "%firstName% is content with %hisHer% life in the colony.",
@@ -95,6 +101,8 @@
 		"italian": "%firstName% è %ContentoContenta% della sua vita nella colonia.",
 		"polish": "%firstName% jest jest zadowolon%yA% ze swojego życia w osadzie.",
 		"japanese":  "%firstName% は、コロニーでの生活に満足しています。",
+		"czech": "%firstName% je spokojen%yA% s životem v kolinii.",
+		
 	},
 	"expectationDesc_Neutral": {
 		"english": "%firstName% expects a little more of this colony. Migrants will only come when the expectations of the colonists are fulfilled.",
@@ -111,6 +119,7 @@
 		"italian": "%firstName% si aspetta un po' più da questa colonia. I migranti arriveranno solo se le aspettative dei coloni saranno soddisfatte.",
 		"polish": "%firstName% oczekuje trochę więcej od tej osady. Migranci przybędą dopiero wtedy, gdy spełnią się oczekiwania kolonistów.",
 		"japanese":  "%firstName% は、コロニーに、もう少し期待をしています。新しいコロニストがやってくるには、コロニストの期待を満たさなければなりません。",
+		"czech": "%firstName% očekává od kolonie mnohem více. Další migranti se objeví až po naplnění očekávání zdejších kolonistů.",
 	},
 	"expectationDesc_Bad": {
 		"english": "%firstName% expects a lot more of this colony. Migrants will only come when the expectations of your colonists are fulfilled.",
@@ -127,6 +136,7 @@
 		"italian": "%firstName% si aspetta molto di più da questa colonia. I migranti arriveranno solo se le aspettative dei tuoi coloni saranno soddisfatte.",
 		"polish": "%firstName% oczekuje o wiele więcej od tej osady. Migranci przybędą dopiero wtedy, gdy spełnią się oczekiwania kolonistów.",
 		"japanese":  "%firstName% は、コロニーに、もっと沢山の期待をしています。新しいコロニストがやってくるには、コロニストの期待を満たさなければなりません。",
+		"czech": "%firstName% očekává od kolonie něco málo navíc. Další migranti se objeví až po naplnění očekávání zdejších kolonistů.",
 	},
 	"expectationDesc_LockedUp": {
 		"english": "%firstName% is locked up by the goblins and doesn't count as part of the colony at the moment.",
@@ -143,6 +153,7 @@
 		"italian": "%firstName% è %StatoRinchiusoStataRinchiusa% dai goblin e al momento non conta come parte della colonia.",
 		"polish": "%firstName% jest uwięziony przez Gobliny i obecnie nie liczy się jako część osady.",
 		"japanese":  "%firstName% は、ゴブリンによって閉じ込められており、現時点ではコロニーの一部としてカウントされません。",
+		"czech": "%firstName% je v zajetí goblinů a není tudíž k dispozici.",
 	},
 
 
@@ -162,6 +173,7 @@
 		"italian": "%firstName% sta avendo un esaurimento nervoso! Sta distruggendo i mobili degli altri coloni!",
 		"polish": "%firstName% ma załamanie nerwowe i w furii niszczy meble należące do innych kolonistów!",
 		"japanese":  "%firstName% が、ストライキしています。%cap-heShe% が他のコロニストの家具を破壊しています!",
+		"czech": "%firstName% se duševně zhroutil%lA%! %cap-heShe% ničí nábytek ostatních kolonistů!",
 	},
 	"colonistMoodDesc_crazy": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% is hitting other colonists!",
@@ -178,6 +190,7 @@
 		"italian": "%firstName% sta avendo un esaurimento nervoso! Sta attaccando gli altri coloni!",
 		"polish": "%firstName% ma załamanie nerwowe i w szale atakuje innych kolonistów!",
 		"japanese":  "%firstName% が、ストライキしています。%cap-heShe% が他のコロニストを襲っています!",
+		"czech": "%firstName% se duševně zhroutil%lA%! %cap-heShe% mlátí ostatní kolonisty!",
 	},
 	"colonistMoodDesc_lazyDay": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% decided to have a lazy day and take a lot of breaks.",
@@ -194,6 +207,7 @@
 		"italian": "%firstName% sta avendo un esaurimento nervoso! Ha deciso di trascorrere una giornata senza far nulla e facendo numerose pause.",
 		"polish": "%firstName% ma załamanie nerwowe i z tego powodu ma zamiar cały dzień się obijać.",
 		"japanese":  "%firstName% は、ストライキしています。%cap-heShe% は怠惰な一日を過ごし、沢山の休暇を取ることにしました。",
+		"czech": "%firstName% se duševně zhroutil%lA%! %cap-heShe% má líný den a bere si v tento den čas na odpočinek.",
 	},
 	"colonistMoodDesc_notWorking": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% refuses to work or follow any orders!",
@@ -210,5 +224,6 @@
 		"italian": "%firstName% sta avendo un esaurimento nervoso! Rifiuta di lavorare o di eseguire qualunque ordine!",
 		"polish": "%firstName% ma załamanie nerwowe i odmawia wykonywania poleceń oraz słuchania innych",
 		"japanese":  "%firstName% は、ストライキしています。%cap-heShe% は仕事を拒否したり、指示に従うことを拒否しました!",
+		"czech": "%firstName% se duševně zhroutil%lA%! %cap-heShe% odmítá pracovat nebo plnit jakékoli příkazy.",
 	},
 }

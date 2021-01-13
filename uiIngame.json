@@ -4161,7 +4161,7 @@
 		"chinese": "专业职业 - %fullName%",
 		"turkish": "Meslekler - %fullName%",
 		"polish": "Zawody - %fullName%",
-		"czech": "Karta zawodów - %fullName%",
+		"czech": "Karta profese - %fullName%",
 		"japanese": "%fullName%の作業一覧",
 	},
 	"progressToNextLevel": {
@@ -4222,6 +4222,7 @@
 		"polish": "Odnowi się za %days% dni",
 		"japanese": "収集できるまで%days%日",
 		"chinese": "%days%天后可收获",
+		"czech": "Doplní se za %days% dní",
 	},
 	"resourcesLeft":  {
 		"english": "%resource% left",
@@ -4236,6 +4237,7 @@
 		"polish": "%resource% - pozostało",
 		"japanese": "%resource%残り",
 		"chinese": "还剩%resource%",
+		"czech": "%resource% zbývá",
 	},
 	"gatheringSpeed":  { // use \\% to type %
 		"english": "Gathering speed: %speed% %resource%/minute",
@@ -4250,6 +4252,7 @@
 		"polish": "Szybkość pozyskiwania: %speed% na minutę",
 		"japanese": "採取速度:%speed%/分",
 		"chinese": "收获速度:%speed%%resource%/分",
+		"czech": "Rychlost sběru: %speed% %resource%/minutu",
 	},
 	"growthProgress":  {
 		"english": "Growth Progress",
@@ -4264,6 +4267,7 @@
 		"polish": "Postęp wzrostu",
 		"japanese": "育生状況",
 		"chinese": "生长情况",
+		"czech": "Pokrok růstu",
 	},
 	"typicalGrowthTime":  {
 		"english": "Typical time to grow: %minDays% - %maxDays% days",
@@ -4278,6 +4282,7 @@
 		"polish": "Czas wzrostu: %minDays% - %maxDays% dni",
 		"japanese": "育生時間:%minDays%-%maxDays%日",
 		"chinese": "生长时间:%minDays%-%maxDays%日",
+		"czech": "Čas růstu: %minDays% - %maxDays% dní",
 	},
 	"possibleYieldWhenGrown":  {
 		"english": "Possible yield: ",
@@ -4292,6 +4297,7 @@
 		"polish": "Przewidywane zbiory",
 		"japanese": "予想収量",
 		"chinese": "预期产量:",
+		"czech": "Možný výnos: ",
 	},
 	"amountWatered": {
 		"english":  "Amount watered: %watered%/2",
@@ -4306,6 +4312,7 @@
 		"polish": "Ilość podlań: %watered%/2",
 		"japanese": "給水量:%watered%/2",
 		"chinese": "浇水量:%watered%/2",
+		"czech":  "Zalévané množství: %watered%/2",
 	},
 	"plantNeedsCare": {
 		"english":  "Plant needs care",
@@ -4317,6 +4324,7 @@
 		"portuguese": "A planta precisa de cuidados",
 		"japanese": "作物に世話が必要です。",
 		"chinese": "作物种子需要照料",
+		"czech":  "Rostlina potřebuje péči",
 	},
 	"factionPointsInfo": {
 		"english":  "Relationship points: %points%",
@@ -4331,6 +4339,7 @@
 		"polish":  "Punkty relacji: %points%",
 		"japanese": "関係:%points%",
 		"chinese": "友好值:%points%",
+		"czech":  "Vztahové body: %points%",
 	},
 	"animalHandling":  {
 		"english": "Animal Handling",
@@ -4345,6 +4354,7 @@
 		"polish": "Opieka nad zwierzętami",
 		"japanese": "解体",
 		"chinese": "屠宰",
+		"czech": "Manipulace se zvířaty",
 	},
 	"animalsInVillage":  { // if it doesn't work with your grammer, just say "Animals in Village"
 		"english": "%animalType% in Village",
@@ -4359,6 +4369,7 @@
 		"polish": "%animalType% - ilość w wiosce",
 		"japanese": "%animalType%の牧場",
 		"chinese": "%animalType% 牧场",
+		"czech": "%animalType% ve vesnici",
 	},
 	"breedingLimit":  {
 		"english": "Breeding Limit",
@@ -4373,6 +4384,7 @@
 		"polish": "Limit rozrodu",
 		"japanese": "最大家畜数",
 		"chinese": "最大家畜数",
+		"czech": "Chovatelský limit",
 	},
 	"automaticallyAssignExtrasToButcher":  { // if it's too long, skip "assign"
 		"english": "Automatically assign extra animals to butcher",
@@ -4387,6 +4399,7 @@
 		"polish": "Automatycznie przypisuj zwierzęta do uboju",
 		"japanese": "最大数を超えた家畜を屠殺",
 		"chinese": "自动将多余的家畜分配给屠夫屠宰",
+		"czech": "Automaticky přiřaďte na porážku další zvířata",
 		
 	},
 	"tamingProgress":  {
@@ -4402,6 +4415,7 @@
 		"polish": "Postęp udamawiania: %status%",
 		"japanese": "手なづけ状況:%status%",
 		"chinese": "驯服进度: %status%",
+		"czech": "Pokrok ochočení: %status%",
 	},
 	"tamed":  {
 		"english": "Tamed",
@@ -4416,6 +4430,7 @@
 		"polish": "Udomowione",
 		"japanese": "手なづけ完了",
 		"chinese": "已驯服",
+		"czech": "Ochočeno",
 	},
 	"untamed":  {
 		"english": "Wild",
@@ -4430,6 +4445,7 @@
 		"polish": "Dzikie",
 		"japanese": "野生",
 		"chinese": "野生",
+		"czech": "Divoký",
 	},
 	"ChangeAppearance":  {
 		"english":  "Change Appearance",
@@ -4440,6 +4456,7 @@
 		"portuguese": "Mudar a aparência",
 		"japanese": "外見の変更",
 		"chinese": "变更外观",
+		"czech":  "Změnit vzhled",
 	},
 	"confirmChanges":  {
 		"english":  "Confirm Changes",
@@ -4450,6 +4467,7 @@
 		"portuguese": "Confirme as alterações",
 		"japanese": "変更の確認",
 		"chinese": "变更确认",
+		"czech":  "Potvrďte změny",
 	},
 	"objects":  {
 		"english":  "Objects",
@@ -4460,6 +4478,7 @@
 		"portuguese": "Objetos",
 		"japanese": "対象",
 		"chinese": "对象",
+		"czech":  "Objekty",
 	},
 	"colors":  {
 		"english":  "Colors",
@@ -4470,6 +4489,7 @@
 		"portuguese": "Cores",
 		"japanese": "色",
 		"chinese": "颜色",
+		"czech":  "Barvy",
 	},
 	"hat":  {
 		"english":  "Hat",
@@ -4480,6 +4500,7 @@
 		"portuguese": "Chapéu",
 		"japanese": "頭",
 		"chinese": "帽子",
+		"czech":  "Klobouk",
 	},
 	"hair":  {
 		"english":  "Hair",
@@ -4490,6 +4511,7 @@
 		"portuguese": "Cabelo",
 		"japanese": "髪",
 		"chinese": "发型",
+		"czech":  "Vlasy",
 	},
 	"face":  {
 		"english":  "Face",
@@ -4500,6 +4522,7 @@
 		"portuguese": "Rosto",
 		"japanese": "顔",
 		"chinese": "脸部",
+		"czech":  "Obličej",
 	},
 	"torso":  {
 		"english":  "Torso",
@@ -4510,6 +4533,7 @@
 		"portuguese": "Tronco",
 		"japanese": "胴体",
 		"chinese": "身体",
+		"czech":  "Tělo",
 	},
 	"skin":  {
 		"english":  "Skin",
@@ -4520,6 +4544,7 @@
 		"portuguese": "Pele",
 		"japanese": "肌",
 		"chinese": "皮肤",
+		"czech":  "Kůže",
 	},
 	"randomize":  {
 		"english":  "Randomize",
@@ -4530,6 +4555,7 @@
 		"portuguese": "Aleatório",
 		"japanese": "ランダム",
 		"chinese": "随机",
+		"czech":  "Náhodně",
 	},
 	"debug": { // doesn't need to be translated
 		"english": "Debugging",
@@ -4539,6 +4565,7 @@
 		"portuguese": "Depurando",
 		"japanese": "デバッグ",
 		"chinese": "调试",
+		"czech": "Debugging",
 	},
 	"animalZones":  {
 		"english":  "Animal Zones",
@@ -4549,6 +4576,7 @@
 		"portuguese": "Zonas Animais",
 		"japanese": "牧場",
 		"chinese": "牧场",
+		"czech":  "Zvířecí zóny",
 	},
 	"animalZonesTooltip_Desc":  {
 		"english":  "Designate zones to keep all of your animals in a specific place.",
@@ -4559,6 +4587,7 @@
 		"portuguese": "Designe zonas para manter todos os seus animais em um local específico.",
 		"japanese": "家畜を飼育する牧場の範囲を指定します。",
 		"chinese": "指定区域将所有动物都圈养在特定的区域.",
+		"czech":  "Určete zóny, aby všechna vaše zvířata byla na konkrétním místě.",
 	},
 	"travelPanelTitle":  {
 		"english": "New Horizons",
@@ -4569,6 +4598,7 @@
 		"portuguese": "Novos horizontes",
 		"japanese": "新天地へ",
 		"chinese": "新旅程",
+		"czech": "Nové Obzory",
 	},
 	"travelPanelDesc":  {
 		"english": "Are you ready to leave this town?\nYou can select a couple of competent villagers to leave this island and start a new village in a new land.\nYou may want to save this village before you leave.",
@@ -4579,6 +4609,7 @@
 		"portuguese": "Você está pronto para deixar esta cidade? \nVocê pode selecionar alguns aldeões competentes para deixar esta ilha e começar uma nova aldeia em uma nova terra. \nVocê pode querer salvar esta aldeia antes de partir.",
 		"japanese": "新天地に出発する準備ができましたか？\n新たなコロニーを建設するため何人かのコロニストを連れていく事ができます。",
 		"chinese": "你准备离开这个城镇吗?\n你可以选择几个有能力的村民离开这个岛屿,并在新的土地上建立一个新村庄.\n你可能要在离开之前保存这个村庄.",
+		"czech": "Jste připraveni opustit toto město? \yMůžete si vybrat pár kompetentních vesničanů, kteří opustí tento ostrov a založí novou vesnici v Nové zemi. \nMožná budete chtít tuto vesnici chránit, než odejdete.",
 	},
 	"depart":  {
 		"english": "Set the sails!",
@@ -4589,5 +4620,6 @@
 		"portuguese": "Ajuste as velas!",
 		"japanese": "新天地に出発だ",
 		"chinese": "新旅程启程!",
+		"czech": "Rozložte plachty!",
 	},
 }

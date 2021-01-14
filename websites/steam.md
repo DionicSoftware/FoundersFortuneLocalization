@@ -76,9 +76,14 @@ Gestisci risorse, coltivazione, produzione, strumenti, armi, armature, commercio
 Symulacja kolonii fantasy, skupionej na kreatywnym budowaniu, psychologii kolonistów i obronie bazy.
 Zamij się zbieraniem zasobów, rolnictwem, produkcją, narzędziami, bronią, zbroją, handlem, obroną i badaniami oraz życzeniami, oczekiwaniami, myślami i domami każdego kolonisty.
 
- ### japanese
+ ### Japanese
  ファンタジーなコロニーシュミレーターです。建物の建設や入植者心理学、コロニー防衛に焦点を当てています。
 　資源、農業、生産、道具、武器、鎧、貿易、防衛、研究、および、一人ひとりの入植者たちの願い、期待、考え、財産を管理します。
+ 
+ ### Czech
+fantasy kolonie se zaměřením na kreativní budování, psychologii kolonistů a obranu základny.
+Převezměte kontrolu nad zdroji, zemědělstvím, výrobou, nástroji, brněním, obchodováním a výzkumem, stejně jako s přáními, očekáváními, a také majetkem každého kolonisty.
+
 
 
 
@@ -123,9 +128,11 @@ Substitute "..." with your language
 ### Polish
 (Polskie tłumaczenie wykonała społeczność.)
 
-### japanese
+### Japanese
 （翻訳はコミュニティによって行われました。）
 
+### Czech
+( Český překlad byl vytvořen komunitou )
 
 
 
@@ -230,13 +237,20 @@ Z przybyciem, twoi koloniści nie mają nic prócz ubrania na plecach. Przejmij 
 
 Masz nieograniczone możliwości w tworzeniu budynków! Sam zaprojektuj własne domy i stylizuj je według własnych upodobań. Istnieją dziesiątki elementów konstrukcyjnych i mebli, których możesz użyć do stworzenia osady, o której zawsze marzyłeś!
 
-### japanese
+### Japanese
 コロニーを作る
 
 あなたの入植者が最初に島に上陸したとき、彼らは着の身着のままでした。あなたは、彼らを管理および制御しながら材料を収集させ壁、床、および家具を作ります。
 あらかじめ作られている建物はありません!あなたは、あなた自身の好みに従って家を設計し建築することができます。
 
 このゲームでは、あなたの理想のコロニーを作るために使用できる建築や家具のパターンが沢山あります。
+
+### Czech
+Vybudujte svoji kolonii
+
+Když dorazí vaši kolonisté, nemají na sobě nic jiného než oblečení. Převezměte kontrolu nad nimi a řeknete, aby sbírali materiály, a také stavěli zdi, podlahy a nábytek.
+
+Nejste omezeni na předdefinované budovy! Navrhněte si své vlastní domy a upravte je podle svých představ. Existují desítky konstrukčních a nábytkových prvků, které můžete použít k vytvoření osady, o kterých jste vždy snili!
 
 
 
@@ -333,7 +347,7 @@ I coloni sono la tua massima priorità. All'inizio, devi semplicemente fornire l
 
 Ogni colono reagisce agli eventi, felici o tristi che siano, e questi influiscono sul suo comportamento. I coloni felici vanteranno un incremento della loro produttività. I coloni tristi, d'altra parte, potrebbero avere uno scatto d'ira.
 
-### japanese
+### Japanese
 入植者の世話をする。
 
 入植者の世話は、あなたの最優先事項です。最初は、彼らに食べ物と避難所を提供するだけです。しかし、世界は危険に満ちています!
@@ -341,6 +355,13 @@ Ogni colono reagisce agli eventi, felici o tristi che siano, e questi influiscon
 
 全ての入植者は、幸せまたは悲しい出来事に反応し、それが彼らの行動に反映されます。幸せな入植者は、仕事の効率を良くするでしょう。
 不幸な入植者は、かんしゃくを起こすかもしれません。
+
+### Czech
+Pečuj o své kolonisty
+
+Kolonisté jsou vaší nejvyšší prioritou. Nejprve jim musíte poskytnout jídlo a přístřeší. Ale svět je plný nebezpečí! Infekce se může stát nejsilnějšímu válečníkovi smrtelnou a mor může vyhladit celou vaši kolonii.
+
+Každý kolonista reaguje na události, veselé i smutné, a odráží to ve svém chování. Šťastní kolonisté dostanou boost produktivity - Nešťastní kolonisté se mohou rozčílit.
 
 
 
@@ -460,7 +481,7 @@ Se ignori le esigenze e i desideri dei tuoi coloni per troppo tempo, potrebbero 
 A quel punto, tutte le scommesse sono chiuse…
 
 
-### japanese
+### Japanese
 かんしゃくに対処する
 
 理想的な生活を実現するためには、すべての願いを実現する必要があります。少なくともこれがトニーの考えです。
@@ -468,6 +489,13 @@ A quel punto, tutte le scommesse sono chiuse…
 入植者のニーズや希望を、あまりにも長い間無視していると入植者は、かんしゃくをおこし理性を失います。
 
 その時...すべてが終わることでしょう
+
+### Czech
+Vypořádejte se s záchvaty vzteku
+
+V ideálním životě se všechna vaše přání splní, alespoň to si myslí Toni. Splněná přání mohou podpořit dobrou náladu. Zatímco hlad, zranění, nudné rozhovory nebo dokonce noční můry způsobí, že se vaši kolonisti budou cítit špatně.
+
+Pokud příliš dlouho ignorujete potřeby a přání svých kolonistů, jeden z nich by se mohl zhroutit a začít se rozčílit.
 
 
 
@@ -565,7 +593,7 @@ Il cibo è importante. Il buon cibo rende felici i coloni, il cibo sbagliato li 
 
 Coltiva una varietà di colture stagionali e crea una cucina per preparare dei pasti deliziosi. Assicurati di fare scorta prima che arrivi l'inverno e agisci in fretta nel caso in cui uno sciame di insetti affamati infesti i tuoi campi!
 
-### japanese
+### Japanese
 農地を設定する
 
 食べ物は重要です。高品質の食べ物は、入植者を幸せにし、質の悪い食べ物は入植者を病気にします。
@@ -573,6 +601,13 @@ Coltiva una varietà di colture stagionali e crea una cucina per preparare dei p
 
 さまざまな季節の作物を植えて、おいしい食事を作るためのキッチンを作りましょう。
 冬が来る前に、かならず食べ物を買いだめしておき、害虫が畑に発生したらすぐに対処するようにしてください!
+
+### Czech
+Založte si farmu
+
+Na jídle záleží. Dobré jídlo dělá kolonisty šťastnými, naopak špatné jídlo dělá kolonisty nemocnými, málo jídla kolonisty zpomaluje a bez jídla kolonisti umírají.
+
+Pěstujte různé sezónní plodiny a připravte si kuchyň, která vám připraví lahodná jídla. Nezapomeňte jednat rychle a zásobit jídlem se před krutou zimou, Když na vaše pole sestoupí roj hladových brouků!
 
 
 
@@ -670,13 +705,21 @@ Sfrutta il tempo che hai a disposizione ed assicurati di avere abbastanza scorte
 
 Quando le scorte diminuiscono e il vento gelido soffia all'esterno, è facile perdere le speranze...
 
-### japanese
+### Japanese
 冬を過ごす
 
 冬が来るので時間を最大限に活用して十分な食料を確保しましょう。食料供給を半分にする必要がないように頑張ってください。
 それは結果的に、あなたの入植者たちを弱体化されてしまうからです。
 
 食料供給が減少し冷たい風が外で吠えると、希望を失いがちです
+
+### Czech
+
+Přežijte Zimu
+
+Využijte čas, který máte, a ujistěte se, že máte uloženo dostatek jídla, protože se blíží Zima. Doufejme, že spotřebu jídla nebudete muset snížit na polovinu - protože to oslabí vaše kolonisty.
+
+Když zásoby potravin ubývají a mrazivý studený vítr vane venku, tak je snadné ztratit naději ...
 
 
 
@@ -773,7 +816,7 @@ Si è diffusa la notizia che la tua colonia ha iniziato a produrre beni. Incontr
 
 Cerca di tenere la produzione attiva in modo da avere sempre qualcosa da vendere. Una colonia matura deve pagare buoni salari per rendere felici tutti. Se il morale è basso, dei fondi aggiuntivi possono persino comprare un po' di felicità!
 
-### japanese
+### Japanese
 商品を取引してお金持ちになる
 
 あなたのコロニーが商品を生産し始めたという噂が広まりました。商人に挨拶して古代の巻物をどれほど手に入れられるかどうか、または冬の準備のために
@@ -781,6 +824,14 @@ Cerca di tenere la produzione attiva in modo da avere sempre qualcosa da vendere
 
 常に何かを売れるように、生産を維持するようにしてください。発展したコロニーは、皆を幸せにするために良い給料を払う必要があります。
 士気が低い場合は、追加の給与でほんの少しの幸せを買う事さえ可能です。
+
+### Czech
+Obchodujte se zbožím a zbohatněte
+
+Koluje zpráva, že vaše kolonie začala vyrábět zboží. Přívetjete obchodníky a zjistěte, zda můžete získat dobrou nabídku na některé starodávné svitky nebo koupit další jídlo k přípravě na zimu.
+
+Snažte se udržovat produkci, abyste měli vždy co prodávat. Zralá kolonie musí platit dobré platy, aby byli všichni šťastní. Pokud je morálka nízká, mince mohou dokonce koupit trochu štěstí!
+
 
 
 
@@ -878,13 +929,21 @@ Costruire la tua casa è un lungo processo e le risorse e la forza lavoro non so
 
 Scegli con cura gli eruditi, poiché se la loro personalità non si adatta a questo tipo di lavoro, non faranno molti progressi.
 
-### japanese
+### Japanese
 研究技術
 
 家を建てるのは、長いプロセスであり、資源と人的資源が必要です。賢い入植者は、より良い装備、新しい家具、建設要素のロックを解除するために
 新しいテクノロジーの研究に多くの時間を費やしています。
 
 学者を慎重に選んでください。彼らの性格がこの種の仕事に適していない場合、彼らはあまり進歩しません。
+
+### Czech
+Vyzkoumej technologie
+
+Stavba vašeho domu je dlouhý proces a zdroje a pracovní síla nejsou jediné věci, které potřebujete. Inteligentní osadníci věnují spoustu času výzkumu nových technologií, čímž odemykají lepší vybavení, nový nábytek a konstrukční prvky.
+
+Pečlivě vybírejte vědce - pokud jejich osobnost nesedí pro tento typ práce, nebudou dělat velký pokrok.
+
 
 
 
@@ -982,7 +1041,7 @@ Non sei il solo a vivere in questa nuova terra che chiami "casa". I Tikigoblin c
 
 Addestra i tuoi coloni nell'arte della guerra ed equipaggiali con le migliori armi e armature che possiedi. Costruisci mura e torri per garantire la sicurezza della tua colonia. In questo modo, sarà difficile per i tuoi nemici avere la meglio!
 
-### japanese
+### Japanese
 前哨基地を守る
 
 あなたが「家」と呼ぶ、この新しい土地にいるのは、あなただけではありません。
@@ -990,6 +1049,14 @@ Addestra i tuoi coloni nell'arte della guerra ed equipaggiali con le migliori ar
 
 入植者を戦えるように訓練し、あなたが持っている最高の武器と鎧を装備させてください。あなたのコロニーの安全を確保するために壁と塔を建ててください。
 あなたの敵は、きっとあなたに嫌がらせするのに苦労することでしょう!
+
+### Czech
+Chraňte svoji základnu
+
+Nejste sami v této nové zemi, které říkáte domov. Tikigoblini, kteří tam žijí, nejsou tak šťastní z vašeho usazovacího úsilí a mohli by vás navštívit, aby vás zastavili.
+
+Vycvičte své kolonisty ve válečném umění a vybavte je nejlepšími zbraněmi a brněním, které máte. Postavte zdi a věže, abyste zajistili bezpečnost své kolonie - tak se vaši nepřátelé budou jen těžko snažit se s vámi potýkat!
+
 
 
 
@@ -1038,11 +1105,15 @@ Bir süredir Web sitemizden halka açık bir Alpha yürütüyoruz ve Steam'deki 
 ### Italian
 Abbiamo condotto un'Alpha pubblica dal nostro sito web per un po' e stiamo continuando questo progetto su Steam. Abbiamo utilizzato i feedback come luce guida per determinare quali funzionalità implementare, quali miglioramenti alla qualità di vita apportare e quali bug correggere per primi. Insieme stiamo garantendo la migliore esperienza possibile!
 
-### japanese
+### Japanese
 
 私たちは、しばらくの間、ウェブサイトで公開アルファ版をリリースしました。また、ゲームをSteamに掲載しました。
 フィードバックをガイドとして使用し、実装する機能、ゲームパフォーマンスの向上、および最初に修正するバグを決定しました。
 私たちは、共に可能な限り最高のゲーム体験を目指して一生懸命働いています!
+
+### Czech
+Již nějakou dobu provozujeme veřejnou Alpha verzi z našeho webu a v tomto projektu pokračujeme ve službě Steam. Zpětnou vazbu jsme použili jako vodítko k určení, které funkce mají být implementovány, jakou kvalitu vylepšení v reálném čase je třeba provést a které chyby je třeba opravit jako první. Tohle všechno společně vytváříme pro ten nejlepší možný zážitek!
+
 
 
 
@@ -1090,8 +1161,12 @@ Aldığımız desteğin miktarına bağlı olarak, Eylül 2019 ve Eylül 2020 ar
 ### Italian
 A seconda della quantità di supporto che riceveremo, prevediamo di lasciare l'accesso anticipato tra Settembre 2019 e Settembre 2020.
 
-### japanese
+### Japanese
 受けたサポートの量に基づいて、2019年9月から2020年9月まで早期アクセスを維持する予定です。
+
+### Czech
+V závislosti na výši podpory, kterou dostáváme, plánujeme ponechat předčasný přístup mezi zářím 2019 a zářím 2020.
+
 
 
 
@@ -1260,6 +1335,19 @@ Queste sono cose che vorremmo realizzare e i risultati finali dipenderanno dalla
 これらは私たちがやりたいことであり、最終的な結果はファウンダーズフォーチュンによって見つけられたサポートの量に依存します。
 サポートが、まったく得られない場合は、現在のゲーム体験をできるだけスムーズにするためにゲームを最適化することにします。
 
+### Czech
+Mezi velké položky v našem plánu patří
+[list]
+[*] Vícepodlažní budovy a střechy
+[*] Zvířata a domácí zvířata
+[*]Vztahy
+[*] Několik ostrovů
+[*] Jiné frakce
+[/list]
+
+To jsou věci, které bychom rádi udělali, a konečné výsledky závisí na výši podpory, kterou Founders Fortune dostane. Pokud nedostaneme vůbec žádnou podporu, přejdeme na odstranování bugů a uděláme současný zážitek co nejplynulejší.
+
+
 
 
 # Early Access - What is the current state of the Early Access version?
@@ -1364,13 +1452,21 @@ Tutte le funzionalità presenti nei trailer, negli screenshot e nella sezione "I
 //TODO-italian
 // change your language to "dev" when you're done so I remember to update it!
 
-### japanese
+### Japanese
 これまで当社のWebサイトを通じてプレイヤーに様々なアルファ版を提供してきました。
 執筆時点では、毎日100〜300人のプレーヤーがいて、技術ツリーのロックを解除するのに18時間以上、人口制限に達するまでにさらに多くの時間を費やしていることがよくあります。
 予告編、スクリーンショット、および以下の「このゲームについて」セクションのすべての機能は、実装可能であり、プレイ可能です。
 早期アクセスのメジャーアップデートは通常、セーブゲームの互換性を壊します。
 引き続きプレイできるように、古いバージョンを保持していますが、たとえば、Alpha10でAlpha9のセーブゲームをプレイすることはできません。
 これは、早期アクセスを利用している場合にのみ適用されます。
+
+### Czech
+V minulosti jsme prostřednictvím našich webových stránek zpřístupnili hráčům různé Alpha verze. V době psaní tohoto článku máme každý den 100–300 hráčů, kteří často stráví více než 18 hodin odemykáním technologického stromu a ještě více času na dosažení populačního limitu.
+
+Všechny funkce v Trailerů, Screenshotů jsou v sekci „O této hře“. Jsou implementovány níže a je možné je přehrát.
+
+Hlavní aktualizace v rámci Early Access obvykle narušují kompatibilitu her. Udržujeme starší verzi pro vás, abyste mohli pokračovat v hraní, ale například s Alpha 10 nebudete moci hrát Alpha 9 uložené hry. To platí, pouze pokud jste v předběžném přístupu.
+
 
 
 
@@ -1419,10 +1515,12 @@ Oyuna daha fazla özellik katarken, Founders' Fortune fiyatını yükseltmeyi pl
 ### Italian
 Abbiamo in mente di aumentare il prezzo di Founders' Fortune man mano che aggiungiamo più funzionalità al gioco. Il prezzo esatto dipenderà dalla quantità di contenuti che andremo ad aggiungere.
 
-### japanese
+### Japanese
 ゲームに機能を追加するにつれて、Founders'Fortuneの価格を引き上げる予定です。
 正確な量は、追加できるコンテンツの量によって異なります。
 
+### Czech
+Plánujeme zvýšit cenu Founders Fortune, když do hry přidáme další funkce a možnosti. Přesné množství závisí na tom, kolik obsahu bude přidáno.
 
 
 # Early Access - How are you planning on involving the Community in your development process?
@@ -1470,8 +1568,12 @@ Harika bir topluluğumuz var ve bunları oyun içi geri bildirim kutumuz, Discor
 ### Italian
 Abbiamo una comunità straordinaria che stiamo già coinvolgendo ampiamente tramite il nostro sistema di feedback in gioco, il server Discord e il forum. Abbiamo anche organizzato alcuni streaming su Twitch per rispondere alle domande della comunità dal vivo.
 
-### japanese
+### Japanese
 私たちには素晴らしいコミュニティがあり、ゲーム内のフィードバックボックス、Discord Server、フォーラムを通じて、すでにかなり広範囲にコミュニティを関与させています。
 また、Twitch Streamerに参加して、コミュニティからの質問にライブで回答しています。
+
+### Czech
+Máme úžasnou komunitu a zapojujeme je poměrně rozsáhle již prostřednictvím našeho pole zpětné vazby ve hře, serveru Discord a diskůzního fóra. Také jsme se připojili na platformu Twitch kde streamujeme, abychom naživo odpověděli na otázky z komunity.
+
 
 

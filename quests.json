@@ -10,6 +10,7 @@
 		"italian": "Ispirazione per un capolavoro",
 		"japanese": "傑作のインスピレーション",
 		"chinese": "灵感涌现",
+		"czech": "Inspirace pro Veledílo",
 	},
 	"quest_inspirationForMasterpieceDescription":  {
 		"english": "Inspiration has struck %firstName% like a bolt of lightning. %cap-heShe% has got an idea for a great masterpiece and can't stop thinking about it.",
@@ -22,6 +23,7 @@
 		"italian": "L'ispirazione ha colpito %firstName% come un fulmine. Ha un'idea per un grande capolavoro e non riesce a smettere di pensarci.",
 		"japanese": "インスピレーションが稲妻のように %firstName% を襲いました。 %cap-heShe% は、素晴らしい傑作のアイデアが思い浮かび、それについて考えるのをやめることが出来ません。",
 		"chinese": "灵感如同闪电一般击中%firstName%.%cap-heShe%有了一个伟大的想法,思绪不断涌现.",
+		"czech": "Inspirace zasáhla %firstName% tak jako blesk z nebe. %cap-heShe% má nápad na skvělé veledílo a nemůže na něj přestat myslet.",
 	},
 	"masterpieceCompleted":  {
 		"english": "Masterpiece completed!",
@@ -34,6 +36,7 @@
 		"italian": "Capolavoro completato!",
 		"japanese": "傑作完成!",
 		"chinese": "杰作完成!",
+		"czech": "Veledílo dokončeno!",
 	},
 	"masterpieceCompletedDescription":  {
 		"english": "%firstName% has completed %hisHer% masterpiece. Proudly, %heShe% shows the result of %hisHer% labor to the rest of the village.\n%cap-heShe% created: %masterpiece%",
@@ -46,6 +49,7 @@
 		"italian": "%firstName% ha completato il suo capolavoro. Con orgoglio, mostra il risultato del suo lavoro al resto del villaggio.\nHa creato: %masterpiece%",
 		"japanese": "%firstName% は、傑作を完成させました。%hisHer% は、仕事の成果をコロニーのコロニストたちに誇らしげに示しました。\n%cap-heShe% が作成しました。: %masterpiece%",
 		"chinese": "%firstName%已经完成了%hisHer%杰作.%heShe%很荣幸地在村里展示了%heShe%的劳动成果.\n%cap-heShe%创建了: %masterpiece%",
+		"czech": "%firstName% dokonči%lA% %hisHer% veledílo. Pyšně, %heShe% ukazuje výsledek %hisHer% práce zbytku vesnice.\n%cap-heShe% vytvoři%lA%: %masterpiece%",
 	},
 	"masterpieceFailed":  {
 		"english": "Masterpiece Failed!",
@@ -58,6 +62,7 @@
 		"italian": "Capolavoro fallito!",
 		"japanese": "傑作は出来ませんでした!",
 		"chinese": "杰作失败!",
+		"czech": "Veledílo selhalo!",
 	},
 	"masterpieceFailedDescription":  {
 		"english": "%firstName% tried so hard, but %heShe% didn't manage to make his masterpiece. At least %heShe% got some experience and leveld up as a %profession%.",
@@ -70,6 +75,7 @@
 		"italian": "%firstName% ce l'ha messa tutta, ma non è riuscit%OA% a realizzare il suo capolavoro. Tuttavia, ha guadagnato un po' di esperienza ed è salit%OA% di livello come %profession%.",
 		"japanese": "%firstName% は、一生懸命に努力しましたが %heShe% は、傑作を生みだすことは出来ませんでした。少なくとも %heShe% は、ある程度の経験を積み%profession%としてレベルアップしました。",
 		"chinese": "%firstName%已经尽力了,虽然未能完成%heShe%杰作,但至少%heShe%从中获得不少经验,并升级为%profession%.",
+		"czech": "%firstName% se tak moc snaži%lA%, ale %heShe% nedokáza%lA% udělat své veledílo. Alespoň %heShe% získa%lA% nějaké zkušenosti a postup na vyšší úroveň jako %profession%.",
 	},
 	"collectItems": {
 		"english": "Collect %amount% pieces of %item%",
@@ -82,6 +88,7 @@
 		"italian": "Colleziona %amount% unità di %item%",
 		"japanese": " %item% を %amount% 収集。",
 		"chinese": "收集%amount%个%item%",
+		"czech": "Sežeň %amount% kusů %item%",
 	},
 	"needsFurnitureInRoom": {
 		"english": "%firstName% needs in %hisHer% room: %furniture%",
@@ -94,6 +101,7 @@
 		"italian": "%firstName% nella sua stanza ha bisogno di: %furniture%",
 		"japanese": "%firstName% は、自分の部屋にこのアイテムが欲しいと思っています。: %furniture%",
 		"chinese": "%firstName%%hisHer%房间需要:%furniture%",
+		"czech": "%firstName% potřebuje v %hisHer% pokoji: %furniture%",
 	},
 	"needsFurnitureInHouse": {
 		"english": "%firstName% needs in %hisHer% house: %furniture%",
@@ -106,6 +114,7 @@
 		"italian": "%firstName% nella sua casa ha bisogno di: %furniture%",
 		"japanese": "%firstName% は、自宅にこのアイテムが欲しいと思っています。: %furniture%",
 		"chinese": "%firstName%%hisHer%房屋需要:%furniture%",
+		"czech": "%firstName% potřebuje v %hisHer% domě: %furniture%",
 	},
 	"needsToDoAction": {
 		"english": "%firstName% needs to %interaction%",
@@ -118,6 +127,7 @@
 		"italian": "%firstName% deve %interaction%",
 		"japanese": "%firstName% は、 %interaction% する必要があります。",
 		"chinese": "%firstName%需要%interaction%",
+		"czech": "%firstName% potřebuje %interaction%",
 	},
 	"needsToDoActionOnFurniture": { // grammer can be difficult here. You can use () or : to express the idea
 		"english": "%firstName% needs to %interaction% on %furniture%",
@@ -130,6 +140,7 @@
 		"italian": "%firstName% deve %interaction% su: %furniture%",
 		"japanese": "%firstName% は、%furniture% を %interaction% する必要があります。",
 		"chinese": "%firstName%需要到%furniture%进行%interaction%(交互)",
+		"czech": "%firstName% potřebuje %interaction% (%furniture%)",
 	},
 	"haveStorageForItems": {
 		"english": "Have storage for %items%",
@@ -142,6 +153,7 @@
 		"italian": "Avere un deposito per %items%",
 		"japanese": " %items% の倉庫があります。",
 		"chinese": "存放%items%",
+		"czech": "Mít úložiště pro %items%",
 	},
 	"quest_treasureStorage": {
 		"english": "Hiding the Treasure",
@@ -154,6 +166,7 @@
 		"italian": "Nascondere il tesoro",
 		"japanese": "宝物を隠す",
 		"chinese": "藏匿宝藏",
+		"czech": "Ukrýt poklad",
 	},
 	"quest_treasureStorageDescription": {
 		"english": "%faction% want to store their treasure with you until it's safe for them to come back and get it. They promised you a cut of the profits.",
@@ -166,6 +179,7 @@
 		"italian": "%faction% vogliono conservare il loro tesoro da te fino quando non saranno al sicuro per tornare a prenderlo. Ti hanno promesso una parte del bottino.",
 		"japanese": "%faction% は、彼らが安全になって戻ってくるまで、あなたと一緒に宝物を保管したいと思っています。彼らは、あなたにお礼として宝物の一部を約束しました。",
 		"chinese": "%faction%希望你藏匿好他们的宝藏,直到他们可以安全地回来并取回为止.他们向你许诺了部分宝藏作为回报.",
+		"czech": "%faction% want to store their treasure with you until it's safe for them to come back and get it. They promised you a cut of the profits.",
 	},
 	"quest_treasureStorageIntro": {
 		"english": "Ahoy. One of our ships is being chased and has a ton of coins on board. Can we hide the treasure in the storage on your island for a while? You'll get a cut of the money when we come back.",
@@ -178,6 +192,7 @@
 		"italian": "Ehi! Una delle nostre navi è inseguita e ha una tonnellata di monete a bordo. Possiamo nascondere il tesoro nel deposito sulla tua isola per un po'? Avrai una parte del bottino quando torneremo.",
 		"japanese": "アホイ!現在、私たちの船には大量のコインが積んであります。しかし船の一つが追跡されており危険な状態です。しばらくの間、島の倉庫に宝物を隠してもいいですか？お礼として宝物の一部を支払います。",
 		"chinese": "哎呀!我们有一艘船正在被追捕,船上有一吨货币,我们能否在你岛上的仓库藏匿宝藏?等我们回来后你会得到一笔钱.",
+		"czech": "Ahoj. Jedna z našich lodí je pronásledována a má na palubě hromadu mincí. Můžeme na chvíli skrýt poklad v úložišti na vašem ostrově? Až se vrátíme, dostanete za to nějaké mince.",
 	},
 	"quest_treasureStorageIntroDeclined": {
 		"english": "I knew it. We will remember that you make a terrible business partner.",
@@ -190,6 +205,7 @@
 		"italian": "Lo sapevo. Non dimenticheremo mai che sei un pessimo partner commerciale.",
 		"japanese": "私は、あなたが酷いビジネスパートナーであったことを決して忘れないでしょう。",
 		"chinese": "我就知道!你并不值得成为合作伙伴.我们会记住的.",
+		"czech": "Věděl jsem to! Budeme si pamatovat, že jste strašný obchodní partner.",
 	},
 	"quest_treasureStorageIntroAccepted": { // %items% can be something like "40 Tomatoes, 300 Coins"
 		"english": "Thanks. We are storing %items% with you. Please make sure you have enough space in your stockpiles. We will be back once it's safe.",
@@ -202,6 +218,7 @@
 		"italian": "Grazie. Stiamo depositando %items% da te. Assicurati di avere abbastanza spazio nelle tue riserve. Torneremo quando sarà sicuro.",
 		"japanese": "ありがとう!私たちは、あなたと一緒に %items% を保管することにします。倉庫に十分なスペースがあることを確認してください。安全になったら必ず戻ってきます。 ",
 		"chinese": "感谢,我们现在将%items%存放在你仓库里,请确保你的仓库有足够的空间.等安全了,我们会回来的.",
+		"czech": "Dík. Uložíme zde %items%. Ujistěte se, že máte ve svých skladištích dostatek místa. Jakmile to bude bezpečné, vrátíme se.",
 	},
 	"quest_treasureStorageReturn": {
 		"english": "Ahoy, mate. We're back for that treasure we left with you. Have you kept it save?",
@@ -214,6 +231,7 @@
 		"italian": "Ehi, amico. Siamo tornati per quel tesoro che ti abbiamo lasciato. L'hai tenuto al sicuro?",
 		"japanese": "アホイ!友よ。私たちは、安全になったので貴方と一緒に保管した宝物を取りに戻ってきました。ちゃんと保管できていますか?",
 		"chinese": "嗨伙计,我们回来了.我们存放在你的那批宝藏,你有保管好吗?",
+		"czech": "Ahoj, kámo. Jsme zpět pro ten poklad, který jsme u tebe nechali. Ochránil si ho?",
 	},
 	"hereYouGo": {
 		"english": "Sure, here you go.",
@@ -226,6 +244,7 @@
 		"italian": "Certo, ecco a te.",
 		"japanese": "もちろん、どうぞ",
 		"chinese": "当然,这就给回你.",
+		"czech": "Jistě, tady ho máš.",
 	},
 	"weDontHaveItAnymore": {
 		"english": "We don't have it anymore...",
@@ -238,6 +257,7 @@
 		"italian": "Non lo abbiamo più...",
 		"japanese": "ごめんなさい。もう、ここにはありません...",
 		"chinese": "我们一点都没剩下...",
+		"czech": "Už ho nemáme ...",
 	},
 	"weAreKeepingIt": {
 		"english": "Actually, we decided we're keeping it.",
@@ -250,6 +270,7 @@
 		"italian": "In realtà, abbiamo deciso di tenerlo per noi.",
 		"japanese": "実際、私たちはそれを維持しました。",
 		"chinese": "实际上,我们决定留下它.",
+		"czech": "Vlastně jsme se rozhodli, že si ho necháme.",
 	},
 	"quest_treasureStorageReturnWillBeBack": {
 		"english": "I can't believe that! The incompetence! Tell you what, we're going to be back in a couple of days and you better have retrieved it. I don't care how you do it!",
@@ -262,6 +283,7 @@
 		"italian": "Non posso crederci! Che incompetenza! Sai che ti dico? Torneremo tra un paio di giorni e sarà meglio che tu l'abbia recuperato. Non mi interessa come!",
 		"japanese": "そんな、まさか。信じられません!こんな馬鹿な話はありません、何とか言ってください!とにかく私たちは、数日したらもう一度戻ってきます。あなたはそれまでに、責任を持ってきちんと取り戻してください。",
 		"chinese": "我简直不敢相信!没用的东西!告诉你,我们将在几天后回来,你最好找回它.我不在乎你怎么去弄回来!",
+		"czech": "Nemůžu tomu uvěřit! Taková neschopnost! Něco ti řeknu, za pár dní se vrátíme a ty tady měj vše, co jsme ti tu nechali. Nezajímá mě, jak to děláš!",
 	},
 	"youreGoingToRegretThis": {
 		"english": "You are going to regret this.",
@@ -277,6 +299,7 @@
 		"italian": "Te ne pentirai.",
 		"polish": "Pożałujecie tej decyzji!",
 		"japanese": "あなたは、自分がしたことを後悔するべきです。",
+		"czech": "Budeš toho litovat.",
 	},
 	"quest_treasureStorageSuccess": {
 		"english": "Thanks, good doing business with you, mate! Here is your cut: %items%.\n\nSee you on the seven seas!",
@@ -289,6 +312,7 @@
 		"italian": "Grazie, è bello fare affari con te, amico! Ecco la tua parte: %items%.\n\nCi vediamo nei Sette Mari!",
 		"japanese": "ありがとう!私はあなたとならうまくやっていけそうです。まさに仲間だ!これが私から貴方へのお礼の気持ちです。: %items%.\n\nいつか七つの海でお会いしましょう!さらば!",
 		"chinese": "谢谢你,和你做生意很不错!这是你的报酬: %items%.\n\n日后七海上再见.",
+		"czech": "Díky, dobře se s tebou obchoduje, kámo! Tady je tvůj podíl: %items%.\n\nUvidíme se na sedmi mořích!",
 	},
 	"quest_treasureStorageWait": {
 		"english": "Wait for '%faction%' to get back",
@@ -301,6 +325,7 @@
 		"italian": "Aspetta che '%faction%' ritorni",
 		"japanese": "'%faction%' が戻るのを待ってください。 ",
 		"chinese": "等待'%faction%'回来.",
+		"czech": "Čekej na'%faction%' vrátí se ",
 	},
 	"quest_treasureStorageRetrieveBefore": {
 		"english": "Retrieve %items% before '%faction%' get back",
@@ -313,6 +338,7 @@
 		"italian": "Recupera %items% prima che '%faction%' ritorni",
 		"japanese": "'%faction%' が戻ってくる前に、%items% を取り戻してください。",
 		"chinese": "在'%faction%'回来之前检查一下%items%.",
+		"czech": "Získej zpět %items% před návratem '%faction%'",
 	},
 	"quest_treasureStorageAttack": {
 		"english": "'%faction%' are coming to attack you any moment",
@@ -325,6 +351,7 @@
 		"italian": "'%faction%' torneranno per attaccarti",
 		"japanese":"'%faction%' は、いつでもあなたを攻撃するようになります。",
 		"chinese": "'%faction%'随时会来攻击你.",
+		"czech": "'%faction%' na vás každou chvíli zaútočí",
 	},
 	"quest_treasureStorageHereIsTreasure": {
 		"english": "Alright, here is our treasure: %items%\n\nKeep it safe and don't spend it! We'll be back.",
@@ -337,6 +364,7 @@
 		"italian": "Bene, ecco il nostro tesoro: %items%\n\nTienilo al sicuro e non spenderlo! Torneremo presto.",
 		"japanese": "了解しました。ここに私たちの宝物があります。: %items%\n\nあなたを信用して託します。安全に保管して使わないでください。我々は必ず戻ってきます。",
 		"chinese": "好了,这是我们的宝藏:%items%\n\n请保管好,不要偷用!我们会回来的.",
+		"czech": "Dobře, tady je náš poklad: %items%\n\nUdržujte ho v bezpečí a neutrácejte ho! Vrátíme se.",
 	},
 
 
@@ -350,6 +378,7 @@
 		"portuguese": "Desenterrando o passado",
 		"japanese": "過去を思い起こす",
 		"chinese": "深究往事",
+		"czech": "Šťourání se v minulosti",
 	},
 	"quest_ghostDesc": {
 		"english": "Recurring nightmares about %hisHer% fallen friend %ghostName% have driven %firstName% to make sacrifices to try and make peace with the past",
@@ -359,6 +388,7 @@
 		"portuguese": "Pesadelos recorrentes sobre %seuSua% amig%oA% caído %ghostName% levaram %firstName% a fazer sacrifícios para tentar fazer as pazes com o passado",
 		"japanese": " %hisHer% の、友人が悪霊となり %ghostName% に関する悪夢を繰り返し見る様になりました。 %firstName% は、ついに過去との和解をするために犠牲を払うことに決めました。",
 		"chinese": "反复出现在%hisHer%噩梦中的朋友%ghostName%鬼魂让%firstName%不得不尝试献祭自我,并接受过去",
+		"czech": "Recurring nightmares about %hisHer% fallen friend %ghostName% have driven %firstName% to make sacrifices to try and make peace with the past",
 	},
 	"quest_ghostIntroTitle": {
 		"english": "Digging up the Past",
@@ -368,6 +398,7 @@
 		"portuguese": "Desenterrando o passado",
 		"japanese": "過去を思い起こす",
 		"chinese": "深究往事",
+		"czech": "Šťourání se v minulosti",
 	},
 	"quest_ghostIntroDesc": {
 		"english": "Lately, %firstName% has been getting nightmares about %hisHer% old friend %ghostName%, who died some time ago. It's always the same dream. %firstName% has sunk deep into %hisHer% thoughts. %cap-heShe% wants to make peace with the past, and plans to sacrifice some items each night to show %hisHer% departed friend that %heShe% cares.",
@@ -377,6 +408,7 @@
 		"portuguese": "Ultimamente, %firstName% tem tido pesadelos sobre %seuSua% velho amigo %ghostName%, que morreu há algum tempo. É sempre o mesmo sonho. %firstName% mergulhou profundamente nos pensamentos de %seuSua%. %cap-eleEla% quer fazer as pazes com o passado e planeja sacrificar alguns itens todas as noites para mostrar a %seuSua% amig%oA% falecido que %eleEla% se importa.",
 		"japanese":  "最近、 %firstName% は、しばらく前に亡くなった、旧友の %ghostName% についての悪夢を見ています。それはいつも同じ内容の夢です。 %firstName% は、そのため物思いに深く沈んでいます。そして毎晩、何かを犠牲にして、亡くなった友人を気にかけていることを示し、過去と和解することを計画しています。",
 		"chinese": "最近%firstName%一直在噩梦中梦到在前不久逝世了的朋友%ghostName%鬼魂.一直重复着相同的梦境,%firstName%迷失在这梦境中.%cap-heShe%想要接受过去,并打算每晚献祭一些物品,以表明%heShe%对已离开的朋友的怀念.",
+		"czech": "Lately, %firstName% has been getting nightmares about %hisHer% old friend %ghostName%, who died some time ago. It's always the same dream. %firstName% has sunk deep into %hisHer% thoughts. %cap-heShe% wants to make peace with the past, and plans to sacrifice some items each night to show %hisHer% departed friend that %heShe% cares.",
 	},
 	"quest_ghostFriendlyGhostAppearedTitle": {
 		"english": "Ghost Appeared",
@@ -386,6 +418,7 @@
 		"portuguese": "Fantasma Apareceu",
 		"japanese": "幽霊が現れた",
 		"chinese": "鬼魂出现",
+		"czech": "Objevil se duch",
 	},
 	"quest_ghostFriendlyGhostAppearedDesc": {
 		"english": "When %firstName% made %hisHer% sacrifice for this night, suddenly a ghostly figure appeared out of thin air. %cap-heShe% was given a chance to make peace with %hisHer% friend %ghostName%, so go and talk to them before they have to leave this world!",
@@ -395,6 +428,7 @@
 		"portuguese": "Quando %firstName% fez %seuSua% sacrifício por esta noite, de repente uma figura fantasmagórica apareceu do nada. %eleEla% teve a chance de fazer as pazes com seu amigo %ghostName%, então vá e fale com %eleEla% antes que tenham que deixar este mundo!",
 		"japanese": "%firstName% が、夜に犠牲を払ったとき、突然幽霊のような姿が、薄気味悪いところから現れました。 %cap-heShe% は、%hisHer% の友人 %ghostName% と話し、和解する機会を与えられました。すぐに行って話をしてきてください。幽霊がこの世を去ってしまう前に。",
 		"chinese": "当%firstName%准备献祭时,突然出现一个幽灵般地人影.%cap-heShe%得到了与%hisHer%朋友%ghostName%鬼魂和好的机会,因此必须在他们离开这个世界之前先与他们交谈一番!",
+		"czech": "When %firstName% made %hisHer% sacrifice for this night, suddenly a ghostly figure appeared out of thin air. %cap-heShe% was given a chance to make peace with %hisHer% friend %ghostName%, so go and talk to them before they have to leave this world!",
 	},
 	"quest_ghostMadePeaceTitle": {
 		"english": "Finally at peace",
@@ -404,6 +438,7 @@
 		"portuguese": "Finalmente em paz",
 		"japanese": "ついに平和に",
 		"chinese": "终于平静下来了",
+		"czech": "Konečně v míru",
 	},
 	"quest_ghostMadePeaceDesc": {
 		"english": "%firstName% has had chance to reunite with %hisHer% friend %ghostName% and has accepted their past. %cap-heShe% has become a wiser person and got a permanent mood boost.",
@@ -413,6 +448,7 @@
 		"portuguese": "%firstName% teve a chance de se reunir com %seuSua% amig%oA% %ghostName% e aceitou seu passado. %cap-eleEla% tornou-se uma pessoa mais sábia e obteve um impulso permanente de humor.",
 		"chinese": "%firstName%有机会与%hisHer%朋友%ghostName%鬼魂团聚,并接受了他们的过去.%cap-heShe%成为一个比较理智的人,并获得了永久的情绪提升.",
 		"japanese": "%firstName% は、 %hisHer% の友人 %ghostName% と再会する機会がありました。そして、過去を受け入れ %cap-heShe% は、より賢い人になり永続的な気分を後押ししました。",
+		"czech": "%firstName% has had chance to reunite with %hisHer% friend %ghostName% and has accepted their past. %cap-heShe% has become a wiser person and got a permanent mood boost.",
 	},
 	"quest_ghostColonyJoinedTitle": {
 		"english": "Ghost joined the village!",
@@ -422,6 +458,7 @@
 		"portuguese": "Ghost juntou-se à aldeia!",
 		"chinese": "鬼魂加入了村庄!",
 		"japanese": "幽霊がコロニーに加わった!",
+		"czech": "Duch se připojil k vesnici!",
 	},
 	"quest_ghostColonyJoinedDesc": {
 		"english": "%firstName% came down to reunite with %hisHer% friend %humanName%, but has decided that the time to leave has not come yet. %cap-heShe% decided to stay on earth for now and has joined the village. %humanName% is overjoyed.",
@@ -431,6 +468,7 @@
 		"portuguese": "%firstName% desceu para se reunir com %seuSua% amigo %humanName%, mas decidiu que ainda não é hora de ir embora. %cap-eleEla% decidiu ficar na Terra por enquanto e se juntou à aldeia. %humanName% está radiante.",
 		"chinese": "%firstName%坐下来与%hisHer%朋友%humanName%鬼魂团聚,但距离决定离开的时间未到.%cap-heShe%决定暂时留在地球上,并加入了村庄. %humanName%喜出望外.",
 		"japanese": "%firstName% は、 %hisHer% の友人 %humanName%と再会するために降りてきましたが、去る時はまだ来ていないと判断しました。 %cap-heShe% は、今のところは地球に留まることに決め、コロニーに加わることにしたようです。 %humanName% は大喜びです!",
+		"czech": "%firstName% came down to reunite with %hisHer% friend %humanName%, but has decided that the time to leave has not come yet. %cap-heShe% decided to stay on earth for now and has joined the village. %humanName% is overjoyed.",
 	},
 	"quest_ghostAngryGhostAppearedTitle": {
 		"english": "Nightmares Becoming Reality!",
@@ -440,6 +478,7 @@
 		"portuguese": "Pesadelos se tornando realidade!",
 		"chinese": "噩梦成为现实!",
 		"japanese": "悪夢が現実になる!",
+		"czech": "Noční můry se stávají realitou!",
 	},
 	"quest_ghostAngryGhostAppearedDesc": {
 		"english": "%firstName% has made %hisHer% sacrifice to make peace, but %hisHer% fallen friend %ghostName% doesn't want to forgive. They have materialized as a ghost and are looking for revenge. Defend the village!",
@@ -449,6 +488,7 @@
 		"portuguese": "%firstName% fez %seuSua% sacrifíci%oA% para fazer as pazes, mas %seuSua% amig%oA% caído %ghostName% não quer perdoar. Eles se materializaram como fantasmas e estão em busca de vingança. Defenda a aldeia!",
 		"chinese": "%firstName%为了和解献祭了%hisHer%生命,但是%hisHer%堕落的朋友%ghostName%鬼魂并不想就此原谅.他们化身为鬼魂,正寻找机会报仇.保卫村庄!",
 		"japanese": "%firstName% は、 %hisHer% を犠牲にして平和を築きましたが %hisHer% の悪霊の友人 %ghostName% は過去を許したくはありません。彼らは悪霊として実体化し復讐をしようとしています。コロニーを守ってください!",
+		"czech": "%firstName% has made %hisHer% sacrifice to make peace, but %hisHer% fallen friend %ghostName% doesn't want to forgive. They have materialized as a ghost and are looking for revenge. Defend the village!",
 	},
 	"quest_ghostAngyGhostDoneTitle": {
 		"english": "Ghost has been banished",
@@ -458,6 +498,7 @@
 		"portuguese": "Fantasma foi banido",
 		"chinese": "鬼魂已被解放",
 		"japanese": "幽霊は解放されました",
+		"czech": "Duch byl vykázán",
 	},
 	"quest_ghostAngryGhostDoneDesc": {
 		"english": "The bitter soul of %firstName% has been freed and sent back to the realm of the dead. %humanName% feels a deep relief to have finished this chapter of their life.",
@@ -467,6 +508,7 @@
 		"portuguese": "A alma amarga de %firstName% foi libertada e enviada de volta ao reino dos mortos. %humanName% sente um profundo alívio por ter terminado este capítulo de sua vida.",
 		"chinese": "痛苦灵魂被%firstName%解放,并被送回了亡者国度.%humanName%对完成本章的生活深感欣慰.%humanName%完成了%heShe%生命的篇章.",
 		"japanese": " %firstName% によって、苦しむ魂は解放され、死者の領域に送り返されました。 %humanName% は、彼の人生の章の終わりに深い安堵を感じています。",
+		"czech": "The bitter soul of %firstName% has been freed and sent back to the realm of the dead. %humanName% feels a deep relief to have finished this chapter of their life.",
 	},
 	"quest_ghostMakePeace":  {
 		"english": "Talk to %firstName% and make peace",
@@ -476,6 +518,7 @@
 		"portuguese": "Fale com %firstName% e faça as pazes",
 		"chinese": "与%firstName%交谈并和解",
 		"japanese": "%firstName% に話しかけて解決する",
+		"czech": "Promluv s %firstName% a uzavři mír",
 	},
 	"quest_ghostSayGoodbye":  {
 		"english": "Say goodbye to %firstName%",
@@ -485,6 +528,7 @@
 		"portuguese": "Diga adeus a %firstName%",
 		"chinese": "与%firstName%道别",
 		"japanese": "%firstName% に別れを告げる",
+		"czech": "Rozluč se s %firstName%",
 		
 	},
 	"quest_ghostFreeSoul": {
@@ -495,6 +539,7 @@
 		"portuguese": "Liberte a alma de %firstName%",
 		"chinese": "解放%firstName%的灵魂",
 		"japanese": "%firstName% の魂を解放する",
+		"czech": "Svobodn%yA% duše %firstName%",
 	},
 
 
@@ -507,6 +552,7 @@
 		"portuguese": "Alvorecer",
 		"chinese": "黎明",
 		"japanese": "夜明け",
+		"czech": "svítání",
 	},
 	"Midday": {
 		"english": "Midday",
@@ -516,6 +562,7 @@
 		"portuguese": "Meio-dia",
 		"chinese": "正午",
 		"japanese": "真昼",
+		"czech": "poledne",
 	},
 	"Dusk": {
 		"english": "Dusk",
@@ -525,6 +572,7 @@
 		"portuguese": "Crepúsculo",
 		"chinese": "黄昏",
 		"japanese": "夕暮れ",
+		"czech": "soumrak",
 	},
 	"Night": {
 		"english": "Night",
@@ -534,6 +582,7 @@
 		"portuguese": "Noite",
 		"chinese": "午夜",
 		"japanese": "夜",
+		"czech": "noc",
 	},
 	"quest_waitUntilDaytime": {
 		"english": "Wait until %daytime%",
@@ -543,6 +592,7 @@
 		"portuguese": "Espere até %daytime%",
 		"chinese": "等到%daytime%",
 		"japanese": " %daytime% まで待ちます",
+		"czech": "Počkej dokud nebude %daytime%",
 	},
 	"quest_waitUntilDaytimeXDaysFromNow": {
 		"english": "Wait until %daytime% %days% days from now",
@@ -552,6 +602,7 @@
 		"portuguese": "Espere até %daytime% em %days% dias a partir de agora",
 		"chinese": "等到从现在开始第%days%天的%daytime%",
 		"japanese": "今から %daytime% %days% 日まで待ちます",
+		"czech": "Počkej do %daytime% %days% dny ode dneška",
 		
 	},
 }

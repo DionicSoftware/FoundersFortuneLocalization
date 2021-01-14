@@ -76,6 +76,10 @@ Gestisci risorse, coltivazione, produzione, strumenti, armi, armature, commercio
 Symulacja kolonii fantasy, skupionej na kreatywnym budowaniu, psychologii kolonistów i obronie bazy.
 Zamij się zbieraniem zasobów, rolnictwem, produkcją, narzędziami, bronią, zbroją, handlem, obroną i badaniami oraz życzeniami, oczekiwaniami, myślami i domami każdego kolonisty.
 
+ ### japanese
+ ファンタジーなコロニーシュミレーターです。建物の建設や入植者心理学、コロニー防衛に焦点を当てています。
+　資源、農業、生産、道具、武器、鎧、貿易、防衛、研究、および、一人ひとりの入植者たちの願い、期待、考え、財産を管理します。
+
 
 
 # Long Description - Translation Disclaimer
@@ -118,6 +122,9 @@ Substitute "..." with your language
 
 ### Polish
 (Polskie tłumaczenie wykonała społeczność.)
+
+### japanese
+（翻訳はコミュニティによって行われました。）
 
 
 
@@ -223,6 +230,15 @@ Z przybyciem, twoi koloniści nie mają nic prócz ubrania na plecach. Przejmij 
 
 Masz nieograniczone możliwości w tworzeniu budynków! Sam zaprojektuj własne domy i stylizuj je według własnych upodobań. Istnieją dziesiątki elementów konstrukcyjnych i mebli, których możesz użyć do stworzenia osady, o której zawsze marzyłeś!
 
+### japanese
+コロニーを作る
+
+あなたの入植者が最初に島に上陸したとき、彼らは着の身着のままでした。あなたは、彼らを管理および制御しながら材料を収集させ壁、床、および家具を作ります。
+あらかじめ作られている建物はありません!あなたは、あなた自身の好みに従って家を設計し建築することができます。
+
+このゲームでは、あなたの理想のコロニーを作るために使用できる建築や家具のパターンが沢山あります。
+
+
 
 
 # Long Description - Colonist Section
@@ -316,6 +332,16 @@ Prenditi cura dei tuoi coloni
 I coloni sono la tua massima priorità. All'inizio, devi semplicemente fornire loro cibo e alloggio. Ma il mondo è pieno di pericoli! Un'infezione può rivelarsi fatale anche per il guerriero più forte e un'infestazione può spazzare via l'intera colonia.
 
 Ogni colono reagisce agli eventi, felici o tristi che siano, e questi influiscono sul suo comportamento. I coloni felici vanteranno un incremento della loro produttività. I coloni tristi, d'altra parte, potrebbero avere uno scatto d'ira.
+
+### japanese
+入植者の世話をする。
+
+入植者の世話は、あなたの最優先事項です。最初は、彼らに食べ物と避難所を提供するだけです。しかし、世界は危険に満ちています!
+感染症は最強な戦士にとって致命的であり、疫病はコロニー全体を破壊する可能性があります。
+
+全ての入植者は、幸せまたは悲しい出来事に反応し、それが彼らの行動に反映されます。幸せな入植者は、仕事の効率を良くするでしょう。
+不幸な入植者は、かんしゃくを起こすかもしれません。
+
 
 
 
@@ -434,6 +460,16 @@ Se ignori le esigenze e i desideri dei tuoi coloni per troppo tempo, potrebbero 
 A quel punto, tutte le scommesse sono chiuse…
 
 
+### japanese
+かんしゃくに対処する
+
+理想的な生活を実現するためには、すべての願いを実現する必要があります。少なくともこれがトニーの考えです。
+願いが叶えられ満足すれば良い気分を促進することが出来ますが、空腹、怪我、退屈な会話、そして悪夢は、あなたの入植者の気分を悪くする可能性があります。
+入植者のニーズや希望を、あまりにも長い間無視していると入植者は、かんしゃくをおこし理性を失います。
+
+その時...すべてが終わることでしょう
+
+
 
 
 # Long Description - Farm Section
@@ -528,6 +564,16 @@ Organizza il processo di coltivazione
 Il cibo è importante. Il buon cibo rende felici i coloni, il cibo sbagliato li fa ammalare, poco cibo li rallenta e nessun cibo li fa morire.
 
 Coltiva una varietà di colture stagionali e crea una cucina per preparare dei pasti deliziosi. Assicurati di fare scorta prima che arrivi l'inverno e agisci in fretta nel caso in cui uno sciame di insetti affamati infesti i tuoi campi!
+
+### japanese
+農地を設定する
+
+食べ物は重要です。高品質の食べ物は、入植者を幸せにし、質の悪い食べ物は入植者を病気にします。
+また、食べ物が少なすぎると入植者は遅くなり食べ物がなくなると入植者は死んでしまいます。
+
+さまざまな季節の作物を植えて、おいしい食事を作るためのキッチンを作りましょう。
+冬が来る前に、かならず食べ物を買いだめしておき、害虫が畑に発生したらすぐに対処するようにしてください!
+
 
 
 
@@ -624,6 +670,15 @@ Sfrutta il tempo che hai a disposizione ed assicurati di avere abbastanza scorte
 
 Quando le scorte diminuiscono e il vento gelido soffia all'esterno, è facile perdere le speranze...
 
+### japanese
+冬を過ごす
+
+冬が来るので時間を最大限に活用して十分な食料を確保しましょう。食料供給を半分にする必要がないように頑張ってください。
+それは結果的に、あなたの入植者たちを弱体化されてしまうからです。
+
+食料供給が減少し冷たい風が外で吠えると、希望を失いがちです
+
+
 
 
 # Long Description - Trading Section
@@ -717,6 +772,15 @@ Scambia merci e arricchisciti
 Si è diffusa la notizia che la tua colonia ha iniziato a produrre beni. Incontra i mercanti in viaggio e tenta di stabilire un buon accordo sull'acquisto di alcune pergamene antiche o del cibo aggiuntivo per prepararti all'inverno.
 
 Cerca di tenere la produzione attiva in modo da avere sempre qualcosa da vendere. Una colonia matura deve pagare buoni salari per rendere felici tutti. Se il morale è basso, dei fondi aggiuntivi possono persino comprare un po' di felicità!
+
+### japanese
+商品を取引してお金持ちになる
+
+あなたのコロニーが商品を生産し始めたという噂が広まりました。商人に挨拶して古代の巻物をどれほど手に入れられるかどうか、または冬の準備のために
+追加の食べ物を購入できるかどうかを確認してみてください。
+
+常に何かを売れるように、生産を維持するようにしてください。発展したコロニーは、皆を幸せにするために良い給料を払う必要があります。
+士気が低い場合は、追加の給与でほんの少しの幸せを買う事さえ可能です。
 
 
 
@@ -814,6 +878,14 @@ Costruire la tua casa è un lungo processo e le risorse e la forza lavoro non so
 
 Scegli con cura gli eruditi, poiché se la loro personalità non si adatta a questo tipo di lavoro, non faranno molti progressi.
 
+### japanese
+研究技術
+
+家を建てるのは、長いプロセスであり、資源と人的資源が必要です。賢い入植者は、より良い装備、新しい家具、建設要素のロックを解除するために
+新しいテクノロジーの研究に多くの時間を費やしています。
+
+学者を慎重に選んでください。彼らの性格がこの種の仕事に適していない場合、彼らはあまり進歩しません。
+
 
 
 # Long Description - Defense Section
@@ -910,6 +982,15 @@ Non sei il solo a vivere in questa nuova terra che chiami "casa". I Tikigoblin c
 
 Addestra i tuoi coloni nell'arte della guerra ed equipaggiali con le migliori armi e armature che possiedi. Costruisci mura e torri per garantire la sicurezza della tua colonia. In questo modo, sarà difficile per i tuoi nemici avere la meglio!
 
+### japanese
+前哨基地を守る
+
+あなたが「家」と呼ぶ、この新しい土地にいるのは、あなただけではありません。
+元からいるティキゴブリンは、あなたがここに定住していることを良く思っておらず、あなたのコロニーの発展を妨げるために訪ねて来るかもしれません。
+
+入植者を戦えるように訓練し、あなたが持っている最高の武器と鎧を装備させてください。あなたのコロニーの安全を確保するために壁と塔を建ててください。
+あなたの敵は、きっとあなたに嫌がらせするのに苦労することでしょう!
+
 
 
 # Early Access - Why Early Access?
@@ -957,6 +1038,12 @@ Bir süredir Web sitemizden halka açık bir Alpha yürütüyoruz ve Steam'deki 
 ### Italian
 Abbiamo condotto un'Alpha pubblica dal nostro sito web per un po' e stiamo continuando questo progetto su Steam. Abbiamo utilizzato i feedback come luce guida per determinare quali funzionalità implementare, quali miglioramenti alla qualità di vita apportare e quali bug correggere per primi. Insieme stiamo garantendo la migliore esperienza possibile!
 
+### japanese
+
+私たちは、しばらくの間、ウェブサイトで公開アルファ版をリリースしました。また、ゲームをSteamに掲載しました。
+フィードバックをガイドとして使用し、実装する機能、ゲームパフォーマンスの向上、および最初に修正するバグを決定しました。
+私たちは、共に可能な限り最高のゲーム体験を目指して一生懸命働いています!
+
 
 
 # Early Access - Approximately how long will this game be in Early Access?
@@ -1002,6 +1089,9 @@ Aldığımız desteğin miktarına bağlı olarak, Eylül 2019 ve Eylül 2020 ar
 
 ### Italian
 A seconda della quantità di supporto che riceveremo, prevediamo di lasciare l'accesso anticipato tra Settembre 2019 e Settembre 2020.
+
+### japanese
+受けたサポートの量に基づいて、2019年9月から2020年9月まで早期アクセスを維持する予定です。
 
 
 
@@ -1157,6 +1247,19 @@ I grandi elementi della nostra tabella di marcia includono:
 
 Queste sono cose che vorremmo realizzare e i risultati finali dipenderanno dalla quantità di supporto che Founders' Fortune riceverà. Se non riceveremo alcun supporto, passeremo al perfezionamento del tutto e renderemo l'esperienza più fluida possibile.
 
+### japanese
+開発ロードマップの大きな項目は次のとおりです。
+[list]
+[*]複数階の建物と屋根
+[*]動物とペット
+[*]関係
+[*]複数の島
+[*]その他の派閥
+[/list]
+
+これらは私たちがやりたいことであり、最終的な結果はファウンダーズフォーチュンによって見つけられたサポートの量に依存します。
+サポートが、まったく得られない場合は、現在のゲーム体験をできるだけスムーズにするためにゲームを最適化することにします。
+
 
 
 # Early Access - What is the current state of the Early Access version?
@@ -1261,6 +1364,15 @@ Tutte le funzionalità presenti nei trailer, negli screenshot e nella sezione "I
 //TODO-italian
 // change your language to "dev" when you're done so I remember to update it!
 
+### japanese
+これまで当社のWebサイトを通じてプレイヤーに様々なアルファ版を提供してきました。
+執筆時点では、毎日100〜300人のプレーヤーがいて、技術ツリーのロックを解除するのに18時間以上、人口制限に達するまでにさらに多くの時間を費やしていることがよくあります。
+予告編、スクリーンショット、および以下の「このゲームについて」セクションのすべての機能は、実装可能であり、プレイ可能です。
+早期アクセスのメジャーアップデートは通常、セーブゲームの互換性を壊します。
+引き続きプレイできるように、古いバージョンを保持していますが、たとえば、Alpha10でAlpha9のセーブゲームをプレイすることはできません。
+これは、早期アクセスを利用している場合にのみ適用されます。
+
+
 
 # Early Access - Will the game be priced differently during and after Early Access?
 ***********************************************************************************
@@ -1307,6 +1419,9 @@ Oyuna daha fazla özellik katarken, Founders' Fortune fiyatını yükseltmeyi pl
 ### Italian
 Abbiamo in mente di aumentare il prezzo di Founders' Fortune man mano che aggiungiamo più funzionalità al gioco. Il prezzo esatto dipenderà dalla quantità di contenuti che andremo ad aggiungere.
 
+### japanese
+ゲームに機能を追加するにつれて、Founders'Fortuneの価格を引き上げる予定です。
+正確な量は、追加できるコンテンツの量によって異なります。
 
 
 
@@ -1354,3 +1469,9 @@ Harika bir topluluğumuz var ve bunları oyun içi geri bildirim kutumuz, Discor
 
 ### Italian
 Abbiamo una comunità straordinaria che stiamo già coinvolgendo ampiamente tramite il nostro sistema di feedback in gioco, il server Discord e il forum. Abbiamo anche organizzato alcuni streaming su Twitch per rispondere alle domande della comunità dal vivo.
+
+### japanese
+私たちには素晴らしいコミュニティがあり、ゲーム内のフィードバックボックス、Discord Server、フォーラムを通じて、すでにかなり広範囲にコミュニティを関与させています。
+また、Twitch Streamerに参加して、コミュニティからの質問にライブで回答しています。
+
+

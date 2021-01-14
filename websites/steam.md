@@ -81,7 +81,7 @@ Zamij się zbieraniem zasobów, rolnictwem, produkcją, narzędziami, bronią, z
 　資源、農業、生産、道具、武器、鎧、貿易、防衛、研究、および、一人ひとりの入植者たちの願い、期待、考え、財産を管理します。
  
  ### Czech
-fantasy kolonie se zaměřením na kreativní budování, psychologii kolonistů a obranu základny.
+Fantasy kolonie se zaměřením na kreativní budování, psychologii kolonistů a obranu základny.
 Převezměte kontrolu nad zdroji, zemědělstvím, výrobou, nástroji, brněním, obchodováním a výzkumem, stejně jako s přáními, očekáváními, a také majetkem každého kolonisty.
 
 
@@ -250,7 +250,7 @@ Vybudujte svoji kolonii
 
 Když dorazí vaši kolonisté, nemají na sobě nic jiného než oblečení. Převezměte kontrolu nad nimi a řeknete, aby sbírali materiály, a také stavěli zdi, podlahy a nábytek.
 
-Nejste omezeni na předdefinované budovy! Navrhněte si své vlastní domy a upravte je podle svých představ. Existují desítky konstrukčních a nábytkových prvků, které můžete použít k vytvoření osady, o kterých jste vždy snili!
+Nejste omezeni na předdefinované budovy! Navrhněte si své vlastní domy a upravte je podle svých představ. Existují desítky konstrukčních a nábytkových prvků, které můžete použít k vytvoření osady, o které jste vždy snili!
 
 
 
@@ -361,7 +361,7 @@ Pečuj o své kolonisty
 
 Kolonisté jsou vaší nejvyšší prioritou. Nejprve jim musíte poskytnout jídlo a přístřeší. Ale svět je plný nebezpečí! Infekce se může stát nejsilnějšímu válečníkovi smrtelnou a mor může vyhladit celou vaši kolonii.
 
-Každý kolonista reaguje na události, veselé i smutné, a odráží to ve svém chování. Šťastní kolonisté dostanou boost produktivity - Nešťastní kolonisté se mohou rozčílit.
+Každý kolonista reaguje na události, veselé i smutné, a odráží to ve svém chování. Šťastní kolonisté dostanou boost produktivity - nešťastní kolonisté se mohou rozčílit.
 
 
 
@@ -493,10 +493,9 @@ A quel punto, tutte le scommesse sono chiuse…
 ### Czech
 Vypořádejte se s záchvaty vzteku
 
-V ideálním životě se všechna vaše přání splní, alespoň to si myslí Toni. Splněná přání mohou podpořit dobrou náladu. Zatímco hlad, zranění, nudné rozhovory nebo dokonce noční můry způsobí, že se vaši kolonisti budou cítit špatně.
+V ideálním životě se všechna vaše přání splní, alespoň to si myslí Toni. Splněná přání mohou podpořit dobrou náladu. Zatímco hlad, zranění, nudné rozhovory nebo dokonce noční můry způsobí, že se vaši kolonisté budou cítit špatně.
 
-Pokud příliš dlouho ignorujete potřeby a přání svých kolonistů, jeden z nich by se mohl zhroutit a začít se rozčílit.
-
+Pokud příliš dlouho ignorujete potřeby a přání svých kolonistů, jeden z nich by se mohl rozčílit a pak třeba i zhroutit.
 
 
 
@@ -717,7 +716,7 @@ Quando le scorte diminuiscono e il vento gelido soffia all'esterno, è facile pe
 
 Přežijte Zimu
 
-Využijte čas, který máte, a ujistěte se, že máte uloženo dostatek jídla, protože se blíží Zima. Doufejme, že spotřebu jídla nebudete muset snížit na polovinu - protože to oslabí vaše kolonisty.
+Využijte čas, který máte a ujistěte se, že máte uloženo dostatek jídla, protože se blíží zima. Doufejme, že spotřebu jídla nebudete muset snížit na polovinu - protože to oslabí vaše kolonisty.
 
 Když zásoby potravin ubývají a mrazivý studený vítr vane venku, tak je snadné ztratit naději ...
 
@@ -828,7 +827,7 @@ Cerca di tenere la produzione attiva in modo da avere sempre qualcosa da vendere
 ### Czech
 Obchodujte se zbožím a zbohatněte
 
-Koluje zpráva, že vaše kolonie začala vyrábět zboží. Přívetjete obchodníky a zjistěte, zda můžete získat dobrou nabídku na některé starodávné svitky nebo koupit další jídlo k přípravě na zimu.
+Koluje zpráva, že vaše kolonie začala vyrábět zboží. Přívítejte obchodníky a zjistěte, zda můžete získat dobrou nabídku na některé starodávné svitky nebo koupit další jídlo k přípravě na zimu.
 
 Snažte se udržovat produkci, abyste měli vždy co prodávat. Zralá kolonie musí platit dobré platy, aby byli všichni šťastní. Pokud je morálka nízká, mince mohou dokonce koupit trochu štěstí!
 
@@ -1340,12 +1339,12 @@ Mezi velké položky v našem plánu patří
 [list]
 [*] Vícepodlažní budovy a střechy
 [*] Zvířata a domácí zvířata
-[*]Vztahy
+[*] Vztahy
 [*] Několik ostrovů
 [*] Jiné frakce
 [/list]
 
-To jsou věci, které bychom rádi udělali, a konečné výsledky závisí na výši podpory, kterou Founders Fortune dostane. Pokud nedostaneme vůbec žádnou podporu, přejdeme na odstranování bugů a uděláme současný zážitek co nejplynulejší.
+To jsou věci, které bychom rádi udělali, a konečné výsledky závisí na výši podpory, kterou Founders Fortune dostane. Pokud nedostaneme vůbec žádnou podporu, přejdeme na odstraňování bugů a uděláme současný zážitek co nejplynulejší.
 
 
 
@@ -1463,9 +1462,9 @@ Tutte le funzionalità presenti nei trailer, negli screenshot e nella sezione "I
 ### Czech
 V minulosti jsme prostřednictvím našich webových stránek zpřístupnili hráčům různé Alpha verze. V době psaní tohoto článku máme každý den 100–300 hráčů, kteří často stráví více než 18 hodin odemykáním technologického stromu a ještě více času na dosažení populačního limitu.
 
-Všechny funkce v Trailerů, Screenshotů jsou v sekci „O této hře“. Jsou implementovány níže a je možné je přehrát.
+Všechny funkce v Trailerech, Screenshotech jsou v sekci „O této hře“. Jsou implementovány níže a je možné je přehrát.
 
-Hlavní aktualizace v rámci Early Access obvykle narušují kompatibilitu her. Udržujeme starší verzi pro vás, abyste mohli pokračovat v hraní, ale například s Alpha 10 nebudete moci hrát Alpha 9 uložené hry. To platí, pouze pokud jste v předběžném přístupu.
+Hlavní aktualizace v rámci Early Access obvykle narušují kompatibilitu her. Udržujeme starší verzi pro vás, abyste mohli pokračovat v hraní, ale například s Alpha 10 nebudete moci hrát Alpha 9 uložené hry. To platí pouze pokud jste v předběžném přístupu.
 
 
 
@@ -1573,7 +1572,7 @@ Abbiamo una comunità straordinaria che stiamo già coinvolgendo ampiamente tram
 また、Twitch Streamerに参加して、コミュニティからの質問にライブで回答しています。
 
 ### Czech
-Máme úžasnou komunitu a zapojujeme je poměrně rozsáhle již prostřednictvím našeho pole zpětné vazby ve hře, serveru Discord a diskůzního fóra. Také jsme se připojili na platformu Twitch kde streamujeme, abychom naživo odpověděli na otázky z komunity.
+Máme úžasnou komunitu a zapojujeme je poměrně rozsáhle již prostřednictvím našeho pole zpětné vazby ve hře, serveru Discord a diskuzního fóra. Také jsme se připojili na platformu Twitch kde streamujeme, abychom naživo odpověděli na otázky z komunity.
 
 
 

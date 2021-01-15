@@ -3022,6 +3022,7 @@
 		"italian": "Anfora dipinta",
 		"polish": "Malowana amfora",
 		"japanese": "彩られたアンフォラ",
+		"czech": "Modře malovaná amfora",
 	},
 	"vase0Variation0Description": {
 		"english": "This blue painted amphora is very valuable but fragile at the same time.",
@@ -3038,6 +3039,7 @@
 		"italian": "Questa anfora dipinta di blu è molto preziosa ma al contempo fragile.",
 		"polish": "Ta niebieska amfora jest niezwykle cenna ale też bardzo krucha.",
 		"japanese": "赤色のアンフォラです。とても美しいです。",
+		"czech": "Tato modře malovaná amfora je velmi cenná, ale zároveň křehká.",
 	},
 	"vase0Variation1": {
 		"english": "Painted Amphora",
@@ -3054,6 +3056,7 @@
 		"italian": "Anfora dipinta",
 		"polish": "Malowana amfora",
 		"japanese": "彩られたアンフォラ",
+		"czech": "Oranžově malovaná amfora",
 	},
 	"vase0Variation1Description": {
 		"english": "This orange painted amphora is very valuable but fragile at the same time.",
@@ -3070,6 +3073,7 @@
 		"italian": "Quest'anfora dipinta d'arancione è molto preziosa ma al contempo fragile.",
 		"polish": "Ta pomarańczowa amfora jest niezwykle cenna ale też bardzo krucha.",
 		"japanese": "緑色のアンフォラです。とても美しいです。",
+		"czech": "Tato oranžově malovaná amfora je velmi cenná, ale zároveň křehká.",
 	},
 	"vase0Variation2": {
 		"english": "Painted Amphora",
@@ -3086,6 +3090,7 @@
 		"italian": "Anfora dipinta",
 		"polish": "Malowana amfora",
 		"japanese": "彩られたアンフォラ",
+		"czech": "Zeleně malovaná amfora",
 	},
 	"vase0Variation2Description": {
 		"english": "This green painted amphora is very valuable but fragile at the same time.",
@@ -3102,6 +3107,7 @@
 		"italian": "Quest'anfora dipinta di verde è molto preziosa ma al contempo fragile.",
 		"polish": "Ta zielona amfora jest niezwykle cenna ale też bardzo krucha.",
 		"japanese": "青色のアンフォラです。とても美しいです。",
+		"czech": "Tato zeleně malovaná amfora je velmi cenná, ale zároveň křehká.",
 	},
 
 	// Chimneys
@@ -3122,6 +3128,7 @@
 		"italian": "Camino semplice",
 		"polish": "Prosty kominek",
 		"japanese": "簡素な暖炉",
+		"czech": "Obyčejný krb",
 	},
 	"chimney0Description": {
 		"english": "Build a fireplace to add some class to your room.",
@@ -3138,6 +3145,7 @@
 		"italian": "Costruisci un camino per aggiungere un po' di classe alle tue stanze.",
 		"polish": "Z kominkiem każdy pokój staje się przytulniejszy.",
 		"japanese": "簡単に作られた暖炉です。暖かいです。",
+		"czech": "Postavte krb a tím vylepšete komfort vašeho pokoje",
 	},
 	"chimney1": {
 		"english": "Extended Fireplace",
@@ -3154,6 +3162,7 @@
 		"italian": "Camino esteso",
 		"polish": "Duży kominek",
 		"japanese": "暖炉",
+		"czech": "Luxusní krb",
 	},
 	"chimney1Description": {
 		"english": "It is a sign of decadent wealth to have this masterpiece of craftsmanship in one's bedroom - and a bedroom large enough to contain it!",
@@ -3169,6 +3178,8 @@
 		"chinese": "单人卧室拥有这杰作是一种财富的象征 - 卧室大到足以容纳它!",
 		"italian": "È segno di ricchezza decadente avere questo capolavoro di artigianato nella propria camera da letto, oltre ad avere una camera da letto abbastanza grande da contenerlo ovviamente!",
 		"japanese": "職人技が映えるすごい暖炉です。これが設置できる事は大金持ちの証拠です。",
+		//TODO-polish
+		"czech": "Je to známka velkého bohatství, mít toto mistrovské dílo řemeslné výroby v ložnici - a ložnici dostatečně velkou na to, aby ho obsahovala!",
 	},
 
 	// Hedges
@@ -3189,6 +3200,7 @@
 		"italian": "Siepe",
 		"polish": "Żywopłot",
 		"japanese": "生垣",
+		"czech": "Živý plot",
 	},
 	"hedge0Description": {
 		"english": "A must have for every high class colony.",
@@ -3205,6 +3217,7 @@
 		"italian": "Impossibile non possederne qualcuna in una colonia di alta classe.",
 		"polish": "Każda porządna kolonia powinna mieć taki żywopłot.",
 		"japanese": "高級住宅には必要な生垣です。",
+		"czech": "Tento živý plot musí mít každá prvotřídní kolonie.",
 	},
 	"hedge0Corner": {
 		"english": "Hedge Corner",
@@ -3221,6 +3234,7 @@
 		"italian": "Siepe quadrata",
 		"polish": "Żywopłot narożny",
 		"japanese": "コーナー用生垣",
+		"czech": "Živý plot - rohový",
 	},
 	"hedge0CornerDescription": {
 		"english": "A must have for every high class colony.",
@@ -3237,11 +3251,11 @@
 		"italian": "Impossibile non possederne qualcuna in una colonia di alta classe.",
 		"polish": "Każda porządna kolonia powinna mieć taki żywopłot.",
 		"japanese": "コーナー等に利用してください。",
+		"czech": "Tento živý plot musí mít každá prvotřídní kolonie.",
 	},
 	"hedge1": {
 		"english": "Small Hedge",
 		"german": "Kleine Hecke",
-		//TODO-ukrainian
 		"french": "Petite haie",
 		"spanish": "Seto pequeño",
 		"portuguese": "Cobertura Pequena",
@@ -3254,6 +3268,7 @@
 		"italian": "Siepe piccola",
 		"polish": "Niski żywopłot",
 		"japanese": "背が低い生垣",
+		"czech": "Nízký živý plot",
 	},
 	"hedge1Description": {
 		"english": "A must have for every high class colony.",
@@ -3270,11 +3285,11 @@
 		"italian": "Impossibile non possederne qualcuna in una colonia di alta classe.",
 		"polish": "Każda porządna kolonia powinna mieć taki żywopłot.",
 		"japanese": "背が低い生垣です。好みに合わせて利用してください。",
+		"czech": "Tento živý plot musí mít každá prvotřídní kolonie.",
 	},
 	"hedge1Corner": {
 		"english": "Small Hedge Corner",
 		"german": "Kleine Hecke Eckstück",
-		//TODO-ukrainian
 		"french": "Petit coin de haie",
 		"spanish": "Seto pequeño en esquina",
 		"dutch": "Klein Heg Hoekstuk",
@@ -3287,6 +3302,7 @@
 		"italian": "Siepe quadrata piccola",
 		"polish": "Niski żywopłot narożny",
 		"japanese": "背が低いコーナー用生垣",
+		"czech": "Nízký živý plot - rohový",
 	},
 	"hedge1CornerDescription": {
 		"english": "A must have for every high class colony.",
@@ -3303,6 +3319,7 @@
 		"italian": "Impossibile non possederne qualcuna in una colonia di alta classe.",
 		"polish": "Każda porządna kolonia powinna mieć taki żywopłot.",
 		"japanese": "コーナー等に利用してください。",
+		"czech": "Tento živý plot musí mít každá prvotřídní kolonie.",
 	},
 
 	// Tables
@@ -3323,6 +3340,7 @@
 		"italian": "Tavolo di legno grezzo",
 		"polish": "Zwykły drewniany stół",
 		"japanese": "丸太のテーブル",
+		"czech": "Obyčejný dřevěný stůl",
 	},
 	"tableLog0Description": {
 		"english": "With a table like that, feasting outside will probably become an entirely different experience.",
@@ -3338,6 +3356,8 @@
 		"chinese": "有了这样一张桌子，在户外吃饭可能会变成一种完全不同的体验。",
 		"italian": "Con un tavolo del genere, festeggiare fuori diventerà probabilmente un'esperienza completamente diversa.",
 		"japanese": "作りは雑ですが、テーブルの有無で料理の美味しさは変わります。",
+		//TODO-polish
+		"czech": "S takovým stolem se hodování venku pravděpodobně stane úplně jiným zážitkem.",
 	},
 	"tableLog1": {
 		"english": "Rough Wooden Table",
@@ -3354,6 +3374,7 @@
 		"italian": "Tavolo di legno grezzo",
 		"polish": "Drewniany stół",
 		"japanese": "木板のテーブル",
+		"czech": "Dřevěný stůl",
 	},
 	"tableLog1Description": {
 		"english": "A simple table made out of rough wooden planks and tree stumps.",
@@ -3369,6 +3390,8 @@
 		"chinese": "粗糙的木板和树桩做成的简易桌子。",
 		"italian": "Un tavolo semplice, realizzato con assi di legno grezzo e ceppi di alberi.",
 		"japanese": "手間がかけられているテーブルです。その分美しいです。",
+		//TODO-polish
+		"czech": "Jednoduchý stůl vyrobený z nehoblovaných dřevěných prken a pařezů.",
 	},
 	"tableLowLog0": {
 		"english": "Natural Wooden Living Room Table",
@@ -3385,6 +3408,7 @@
 		"italian": "Tavolo da salotto di legno naturale",
 		"polish": "Stół z naturalnego drewna",
 		"japanese": "切株のテーブル",
+		"czech": "Přírodní dřevěný konferenční stůl",
 	},
 	"tableLowLog0Description": {
 		"english": "A low living room table made out of a very thick log.",
@@ -3400,6 +3424,8 @@
 		"chinese": "用很厚的原木做成的低矮客厅桌子。",
 		"italian": "Un tavolo da salotto basso, realizzato con un tronco molto spesso.",
 		"japanese": "切株です。居間用のため背が低いです。",
+		//TODO-polish
+		"czech": "Nízký konferenční stůl vyrobený z velmi silného dřeva.",
 	},
 	"tableLowPlanks0": {
 		"english": "Simple Wooden Living Room Table",
@@ -3416,9 +3442,10 @@
 		"italian": "Tavolo da salotto di legno semplice",
 		"polish": "Drewniany stół do salonu",
 		"japanese": "丸い木のテーブル",
+		"czech": "Obyčejný dřevěný konferenční stůl",
 	},
 	"tableLowPlanks0Description": {
-		"english": "A low living room table made out of rough wooden planks.",
+		"english": "A low living room table made out of raw planks of wood.",
 		"german": "Ein niedriger Wohnzimmertisch, der aus groben Planken gefertigt wurde.",
 		"french": "Une table de salle à manger fabriquée avec des planches de bois brut.",
 		"spanish": "Una mesa de sala baja, hecha de ásperas tablas de madera.",
@@ -3430,7 +3457,9 @@
 		"korean": "거친 나무 판자들로 만들어진 나지막한 거실용 식탁.",
 		"chinese": "用粗糙木板做成的低矮客厅桌子。",
 		"italian": "Un tavolo da salotto basso, realizzato con assi di legno grezzo.",
-		"japanese": "丸いテーブルに仕上げました。居間用のため背が低いです。",		
+		"japanese": "丸いテーブルに仕上げました。居間用のため背が低いです。",	
+		//TODO-polish
+		"czech": "Nízký konferenční stůl vyrobený ze surových planěk dřeva.",
 	},
 	"tablePlanks0": {
 		"english": "Simple Wooden Table",
@@ -3447,6 +3476,7 @@
 		"italian": "Tavolo di legno semplice",
 		"polish": "Zwykły drewniany stół",
 		"japanese": "木のテーブル",
+		"czech": "Jednoduchý dřevěný stůl",
 	},
 	"tablePlanks0Description": {
 		"english": "A simple wooden table made out of rough planks. Gets the job done.",
@@ -3462,6 +3492,8 @@
 		"chinese": "粗糙木板做成的简易木桌。完成任务。",
 		"italian": "Un tavolo di legno semplice, realizzato con assi ruvide. Fa il suo dovere.",
 		"japanese": "きちんと作られてたテーブルです。",
+		//TODO-polish
+		"czech": "Jednoduchý dřevěný stůl vyrobený z hrubých prken.",
 	},
 	"tableStoneSimple0": {
 		"english": "Simple Stone Table",
@@ -3478,6 +3510,7 @@
 		"italian": "Tavolo di pietra semplice",
 		"polish": "Zwykły kamienny stół",
 		"japanese": "簡素な石のテーブル",
+		"czech": "Obyčejný kamenný stůl",
 	},
 	"tableStoneSimple0Description": {
 		"english": "Carved out of stone, this table is basically just a huge block. Looks a little heavy.",
@@ -3493,6 +3526,8 @@
 		"chinese": "这张桌子由石头雕刻而成，基本上就是一个巨大的石块。看起来有点重。",
 		"italian": "Scolpito dalla pietra, questo tavolo in pratica è solamente un enorme blocco. Sembra un bel po' pesante.",
 		"japanese": "テーブルに利用できる様に削られた石です。作りは簡単ですが、意外と手間がかかります。",
+		//TODO-polish
+		"czech": "Stůl vytesaný z kamene. Vypadá trochu těžce.",
 	},
 	"tablePlanks1": {
 		"english": "Advanced Wooden Table",
@@ -3509,6 +3544,7 @@
 		"italian": "Tavolo di legno rifinito",
 		"polish": "Elegancki drewniany stół", //??
 		"japanese": "高級な木のテーブル",
+		"czech": "Lepší dřevěný stůl",
 	},
 	"tablePlanks1Description": {
 		"english": "A precisely crafted wooden table. The table cloth introduces a bit of color to your home.",
@@ -3524,6 +3560,8 @@
 		"chinese": "精心制作的木桌。这桌子给你的家增添了一点色彩。",
 		"italian": "Un tavolo di legno realizzato con cura. La tovaglia introduce un po' di colore in casa tua.",
 		"japanese": "職人技が映える見事な木のテーブルです。テーブルクロスが彩を添えるでしょう。",
+		//TODO-polish
+		"czech": "Precizně zpracovaný dřevěný stůl. Ubrus vnese do vašeho domova trochu barvy.",
 	},
 	"tableBeer0": {
 		"english": "Beer Table",
@@ -3540,6 +3578,7 @@
 		"italian": "Tavolo di birra",
 		"polish": "Stół z beczek",
 		"japanese": "ビヤテーブル",
+		"czech": "Pivní stůl",
 	},
 	"tableBeer0Description": {
 		"english": "The perfect table to enjoy a cold, smooth beer. Has an \"Oktoberfest\" vibe to it!",
@@ -3555,6 +3594,8 @@
 		"chinese": "是用享受冰爽啤酒的餐桌。有一种\"啤酒节\"的气氛!",
 		"italian": "Il tavolo perfetto per poter gustare una birra fredda e gustosa. Crea un'ambiente da \"Oktoberfest\"!",
 		"japanese": "名前の通りビールを飲むためだけのテーブルです。完璧に仕上げられています。カンバーイ！",
+		//TODO-polish
+		"czech": "Perfektní stůl k vychutnání studeného lahodného piva. Má atmosféru Oktoberfestu!",
 	},
 
 	// Chairs
@@ -3575,6 +3616,7 @@
 		"italian": "Sgabello ceppo di albero",
 		"polish": "Pniak do siedzenia",
 		"japanese": "切株の椅子",
+		"czech": "Dřevěná pařezová stolička",
 	},
 	"chairStump0Description": {
 		"english": "A tree stump that got made into a stool. Better than sitting on the floor for sure.",
@@ -3591,6 +3633,7 @@
 		"italian": "Un ceppo di albero trasformato in uno sgabello. Meglio che sedersi sul pavimento...",
 		"polish": "Pniak, który posłuży za miejsce do siedzenia. To chyba lepsze niż siedzieć na gołej ziemi?",
 		"japanese": "切株をそのまま椅子にしました。地べたに座るよりはマシです。",
+		"czech": "Pařez, který se stal židlí. Lepší než sedět na podlaze.",
 	},
 	"chairStump1": {
 		"english": "Tree Stump Chair",
@@ -3607,6 +3650,7 @@
 		"italian": "Sedia ceppo di albero",
 		"polish": "Krzesło z pniaka",
 		"japanese": "切株の椅子",
+		"czech": "Židle z pařezu",
 	},
 	"chairStump1Description": {
 		"english": "A chair made out of a tree trunk. The perfect way to sit in front of a campfire.",
@@ -3621,6 +3665,8 @@
 		"korean": "나무 기둥을 잘라 의자가 되었습니다. 모닥불 앞에 앉기에 딱 좋습니다.",
 		"chinese": "用树桩做成的椅子。坐在篝火前的首选。",
 		"italian": "Una sedia realizzata da un tronco d'albero. Il modo perfetto di sedersi davanti a un falò.",
+		//TODO-polish
+		"czech": "Křeslo vyrobené z kmene stromu. Ideální způsob, jak sedět před táborovým ohněm.",
 		"japanese": "切株の椅子に背もたれを付けました。とても良い感じです。",
 	},
 	"chairStump2": {
@@ -3638,6 +3684,7 @@
 		"italian": "Sgabello ceppo di albero",
 		"polish": "Stołek z pniaka",
 		"japanese": "切株の椅子",
+		"czech": "Pařezová stolička",
 	},
 	"chairStump2Description": {
 		"english": "A tree stump that got made into a stool. Better than sitting on the floor for sure.",
@@ -3654,6 +3701,7 @@
 		"italian": "Un ceppo di albero trasformato in uno sgabello. Meglio che sedersi sul pavimento...",
 		"polish": "Pniak, który posłuży za stołek do siedzenia. To chyba lepsze niż siedzieć na gołej ziemi?",
 		"japanese": "切株をそのまま椅子にしました。地べたに座るよりはマシです。",
+		"czech": "Pařez, který se stal stoličkou. Lepší než sedět na podlaze.",
 	},
 	"chairStump3": {
 		"english": "Tree Stump Stool",
@@ -3670,6 +3718,7 @@
 		"italian": "Sgabello ceppo di albero",
 		"polish": "Stołek z pniaka",
 		"japanese": "切株の椅子",
+		"czech": "Pařezová stolice",
 	},
 	"chairStump3Description": {
 		"english": "A tree stump that got made into a stool. Better than sitting on the floor for sure.",
@@ -3686,6 +3735,7 @@
 		"italian": "Un ceppo di albero trasformato in uno sgabello. Meglio che sedersi sul pavimento...",
 		"polish": "Pniak, który posłuży za stołek do siedzenia. To chyba lepsze niż siedzieć na gołej ziemi?",
 		"japanese": "切株をそのまま椅子にしました。地べたに座るよりはマシです。",
+		"czech": "Pařez, který se stal stolicí. Lepší než sedět na podlaze.",
 	},
 	"chairStoneBlock0": {
 		"english": "Stone Block Stool",
@@ -3702,6 +3752,7 @@
 		"italian": "Sgabello blocco di pietra",
 		"polish": "Kamień do siedzenia",
 		"japanese": "簡素な石の椅子",
+		"czech": "Kamenná stolička",
 	},
 	"chairStoneBlock0Description": {
 		"english": "A stone block that got made into a stool. Might be a bit cold in winter.",
@@ -3717,6 +3768,8 @@
 		"chinese": "一块做成凳子的石头。冬天可能有点冷。",
 		"italian": "Un blocco di pietra trasformato in uno sgabello. Potrebbe risultare un po' freddo d'inverno.",
 		"japanese": "ブロックの様に削った石の椅子です。冬はとても冷たいです。",
+		//TODO-polish
+		"czech": "Kamenný blok, který se stal stoličkou. V zimě na něm může být trochu zima.",
 	},
 	"chairPlanks0": {
 		"english": "Simple Wooden Chair",
@@ -3733,6 +3786,7 @@
 		"italian": "Sedia di legno semplice",
 		"polish": "Drewniane krzesło",
 		"japanese": "簡素な木の椅子",
+		"czech": "Obyčejná dřevěná židle",
 	},
 	"chairPlanks0Description": {
 		"english": "Made out of rough planks, this chair surely isn't too inviting. Then again you want your colonists to work instead of sitting all day...",
@@ -3748,6 +3802,8 @@
 		"chinese": "这把椅子是用粗糙的木板做的，肯定不太吸引人。你希望你的殖民者努力工作而不是整天坐着…",
 		"italian": "Realizzata con delle assi grezze, questa sedia certamente non risulta invitante. Ma d'altronde, vuoi davvero che i tuoi coloni stiano seduti tutto il giorno invece di lavorare?",
 		"japanese": "簡単に作られた木の椅子です。かっこいいとは言えません。",
+		//TODO-polish
+		"czech": "Tato židle vyrobená z hrubých prken rozhodně není příliš příjemná. Raději si přejte, aby vaši kolonisté pracovali, místo toho, abyste na ní seděli celý den ...",
 	},
 	"chairPlanks1": {
 		"english": "Simple Wooden Chair",
@@ -3764,6 +3820,7 @@
 		"italian": "Sedia di legno semplice",
 		"polish": "Drewniane krzesło",
 		"japanese": "簡素な木の椅子",
+		"czech": "Jednoduchá dřevěná židle",
 	},
 	"chairPlanks1Description": {
 		"english": "Made out of rough planks, this chair with armrest surely isn't too inviting. Then again you want your colonists to work instead of sitting all day...",
@@ -3779,6 +3836,8 @@
 		"chinese": "这把扶手椅子是用粗糙的木板做的，肯定不太吸引人。你希望你的殖民者努力工作而不是整天坐着…",
 		"italian": "Realizzata con delle assi grezze, questa sedia certamente non risulta invitante. Ma d'altronde, vuoi davvero che i tuoi coloni stiano seduti tutto il giorno invece di lavorare?",
 		"japanese": "簡単に作られた木の椅子です。かっこいいとは言えません。",
+		//TODO-polish
+		"czech": "Tato židle vyrobená z hrubých prken rozhodně není příliš příjemná. Raději si přejte, aby vaši kolonisté pracovali, místo toho, abyste na ní seděli celý den ...",
 	},
 	"chairStoneSimple0": {
 		"english": "Simple Stone Chair",
@@ -3795,6 +3854,7 @@
 		"italian": "Sedia di pietra semplice",
 		"polish": "Kamienne krzesło",
 		"japanese": "石の椅子",
+		"czech": "Obyčejná kamenná židle",
 	},
 	"chairStoneSimple0Description": {
 		"english": "One might wonder if this chair really offers any way of comfort, but then again it is made for eternity.",
@@ -3810,6 +3870,8 @@
 		"chinese": "有人可能会想，这把椅子是否真的能让人感到舒适，但话又说回来，它是为了耐用而设计的。",
 		"italian": "Ci si potrebbe chiedere se questa sedia offra davvero qualche confort, ma d'altra parte è stata fatta per durate per l'eternità.",
 		"japanese": "きちんと作られた石の椅子です。素敵ですが、冬はとても座る気が起こりません。",
+		//TODO-polish
+		"czech": "Člověk by se mohl ptát, jestli tato židle opravdu nabízí nějaký způsob pohodlí, ale zase vydrží věčnost.",
 	},
 	"chairStoneSimple1": {
 		"english": "Simple Stone Chair",
@@ -3826,6 +3888,7 @@
 		"italian": "Sedia di pietra semplice",
 		"polish": "Kamienne krzesło",
 		"japanese": "石の椅子",
+		"czech": "Jednoduché kamenné křeslo",
 	},
 	"chairStoneSimple1Description": {
 		"english": "One might wonder if this chair really offers any way of comfort, but this chair is made for eternity at least.",
@@ -3841,6 +3904,8 @@
 		"chinese": "有人可能会想，这把椅子是否真的能让人感到舒适，但这把椅子至少是为耐用而做的。",
 		"italian": "Ci si potrebbe chiedere se questa sedia offra davvero qualche confort, ma d'altra parte è stata fatta per durate per l'eternità.",
 		"japanese": "きちんと作られた石の椅子です。素敵ですが、冬はとても座る気が起こりません。",
+		//TODO-polish
+		"czech": "Člověk by se mohl ptát, jestli tato židle opravdu nabízí nějaký způsob pohodlí, ale zase vydrží věčnost.",
 	},
 	"chairPlanks2": {
 		"english": "Advanced Wooden Chair",
@@ -3856,6 +3921,8 @@
 		"chinese": "高级木椅子",
 		"italian": "Sedia di legno raffinato",
 		"japanese": "高級な木の椅子",
+		//TODO-polish
+		"czech": "Lepší dřevěná židle",
 	},
 	"chairPlanks2Description": {
 		"english": "A chair worthy of a well situated Colonist. Way more expensive than necessary but you know you have got to have it.",
@@ -3871,6 +3938,8 @@
 		"chinese": "椅子配得上地位优越的殖民者。比普通的要贵得多，但你知道你必须拥有它。",
 		"italian": "Una sedia degna di un colono ben collocato. Molto più costosa del necessario, ma sai di doverne possedere una.",
 		"japanese": "コロニストが憧れるとても立派な木の椅子です。装飾もすごいです。",
+		//TODO-polish
+		"czech": "Židle hodná dobře situovaného kolonisty. Je sice dražší, než je nutné, ale vy víte, že ji musíte mít.",
 	},
 	"chairPlanks3": {
 		"english": "Advanced Wooden Chair",
@@ -3886,6 +3955,8 @@
 		"chinese": "高级木椅子",
 		"italian": "Sedia di legno raffinato",
 		"japanese": "高級な木の椅子",
+		//TODO-polish
+		"czech": "Dřevěná židle",
 	},
 	"chairPlanks3Description": {
 		"english": "A chair worthy of a well situated Colonist. Way more expensive than necessary but you know you have got to have it.",
@@ -3901,6 +3972,7 @@
 		"chinese": "椅子配得上地位优越的殖民者。比普通的要贵得多，但你知道你必须拥有它。",
 		"italian": "Una sedia degna di un colono ben collocato. Molto più costosa del necessario, ma sai di doverne possedere una.",
 		"japanese": "コロニストが憧れるとても立派な木の椅子です。装飾もすごいです。",
+		"czech": "Židle hodná dobře situovaného kolonisty. Je sice dražší, než je nutné, ale vy víte, že ji musíte mít.",
 	},
 
 	// Benches

@@ -15,6 +15,7 @@
 		"italian": "Pacifista",
 		"polish": "Pacyfist%aKa%",
 		"japanese": "平和主義者",
+		"czech": "Pacifista",
 	},
 	"traitDesc_Pacifist": {
 		"english": "%firstName% believes in the good in the world - maybe a little too much. Refuses to fight anyone unless %heShe% is already heavily wounded.",
@@ -33,6 +34,7 @@
 		"italian": "%firstName% crede nel bene nel mondo, forse un po' troppo. Rifiuta di combattere contro chiunque, a meno che non sia già gravemente ferito.",
 		"polish": "%firstName% wierzy w dobro w świecie - może trochę zbyt bardzo. Odmawia walki z kimkolwiek, chyba że zostanie silnie pobit%yA%",
  		"japanese": "%firstName% 平和主義者です。誰かが酷く殴られない限り誰とも戦おうとはしません。",
+		"czech": "%firstName% věří v dobro ve světě - možná až trochu moc. Odmítá bojovat s kýmkoli, dokud není již těžce zraněn%yA%.",
 	},
 	"traitTitle_BattleHardened": {
 		"english": "Experienced in Battle",
@@ -50,6 +52,7 @@
 		"italian": "Veteran%OA% di guerra",
 		"polish": "Doświadczon%yA% w walce",
 		"japanese": "戦闘経験あり",
+		"czech": "Zkušený v bitvě",
 	},
 	"traitDesc_BattleHardened": {
 		"english": "Already has much experience on the battlefield and is not scared off easily. Does not receive mood penalties for pain and death around %himHer%.",
@@ -68,6 +71,7 @@
 		"italian": "Ha già molta esperienza sul campo di battaglia e non si spaventa facilmente. Non riceve alcuna penalità di umore a causa del dolore o della morte di qualcuno.",
 		"polish": "%firstName% ma już dużo bojowego doświadczenia i nie daje się łatwo wystraszyć. Nie otrzymuje kar do humoru z powodu bólu i śmierci dookoła siebie.",
 		"japanese": "%firstName% すでに多くの戦いを経験しているため簡単に怖がることはありません。戦いにおける誰かの痛みや死による気分によるペナルティも受けません。",
+		"czech": "Má mnoho zkušeností na bojišti a nedá se snadno vystrašit. Není penalizován za okolní bolest a smrt na bojišti.",
 	},
 	"traitTitle_Optimist": {
 		"english": "Optimist",
@@ -85,12 +89,12 @@
 		"italian": "Ottimista",
 		"polish": "Optymist%aKa%",
 		"japanese": "楽観主義者",
+		"czech": "Optimista",
 	},
 	"traitDesc_Optimist": {
 		"english": "Glass-half-full kind of %guyGirl%. Receives a permanent mood boost.",
 		"german": "%firstName% sieht jedes Glas lieber als halb voll. Erhält einen permanenten Stimmungsbonus.",
 		"french": "Genre de personne avec un verre à moitié plein. Reçoit un boost d'humeur permanent.",
-		//TODO-bulgarian
 		"spanish": "%firstName% es el tipo de persona que ve el vaso medio lleno. Recibe un incremento permanente en su humor.",
 		"turkish": "Bardağın dolu tarafını görüyor. Kalıcı ruh hali artışına sahip.",
 		"bulgarian": "Стъклен наполовина пълноценен тип. Получава постоянен тласък на настроението.",
@@ -103,6 +107,7 @@
 		"italian": "Vede sempre il bicchiere mezzo pieno. Riceve un miglioramento permanente dell'umore.",
 		"polish": "%firstName% to typ osoby, która uważa, że szklanka jest do połowy pełna. Otrzymuje stały bonus do humoru.",
 		"japanese": "%firstName% グラスの水が半分であっても半分もまだ入っていると思うポジティブな思考力を持っています。ユーモアがあるので永続的なムードブーストを取得できます。",
+		"czech": "Dostává trvalý boost dobré nálady.",
 	},
 	"traitTitle_Pessimist": {
 		"english": "Pessimist",
@@ -120,12 +125,12 @@
 		"italian": "Pessimista",
 		"polish": "Pesymist%aKa%",
 		"japanese": "悲観論者",
+		"czech": "Pesimista",
 	},
 	"traitDesc_Pessimist": {
 		"english": "Glass-half-empty kind of %guyGirl%. Receives a permanent mood penalty.",
 		"german": "%firstName% sieht das Glas lieber als halb leer. Erhält einen permanenten Stimmungsmalus.", 
 		"french": "Genre de personne avec un verre à moitié vide. Reçoit une pénalité d'humeur permanente.",
-		//TODO-bulgarian
 		"spanish": "%firstName% es el tipo de persona que ve el vaso medio vacío. Recibe un descenso permanente en su humor.",
 		"turkish": "Bardağın boş tarafını görüyor. Kalıcı ruh hali azalışına sahip.",
 		"bulgarian": "Стъклен наполовина пълноценен тип. Получава постоянен тласък на настроението.",
@@ -138,6 +143,7 @@
 		"italian": "Vede sempre il bicchiere mezzo vuoto. Riceve una penalità permanente dell'umore.",
 		"polish": "%firstName% to typ osoby, dla której szklanka jest do połowy pusta. Otrzymuję permanentną karę do nastroju.",
 		"japanese": "%firstName% グラスの水が半分のとき、もう半分しかないという悲観的な思考をします。そのため永続的なペナルティが気分に付与されます。",
+		"czech": "Dostává pravidelný boost špatné nálady.",
 	},
 	"traitTitle_Killer": {
 		"english": "Killer",
@@ -155,12 +161,12 @@
 		"italian": "Assassin%OA%",
 		"polish": "Zabójca",
 		"japanese": "暗殺者",
+		"czech": "Zabiják",
 	},
 	"traitDesc_Killer": {
 		"english": "%firstName% has a strange interest in violence. Gets positive thoughts from killing. Usually able to control %himselfHerself%.",
 		"german": "%firstName% hat ein sonderbares Interesse an Gewalt. Erhält positive Gedanken durch Töten. Kann sich normalerweise kontrollieren.", 
 		"french": "%firstName% a un intérêt étrange pour la violence. Obtient des pensées positives lorsqu'%ilElle% tue. Habituellement en mesure de se contrôler.",
-		//TODO-bulgarian
 		"spanish": "%firstName% tiene un extraño interés por la violencia. Obtiene buenos pensamientos al matar. Normalmente es capaz de controlarse a sí %mismoMisma%.",
 		"turkish": "%firstName% şiddete garip bir ilgi duyuyor. Öldürmekten olumlu düşünceler alıyor. Genellikle kendini kontrol edebiliyor.",
 		"bulgarian": "%firstName% има странен интерес към насилието. Получава положителни мисли от убийството. Обикновено може да се контролира.",
@@ -173,6 +179,7 @@
 		"italian": "%firstName% ha uno strano interesse per la violenza. Quando uccide, emergono pensieri positivi. Di solito è in grado di controllarsi.",
 		"polish": "%firstName% przejawia niepokojące zainteresowanie przemocą. Zabijanie wprawia %goJą% w dobry humor. Na szczęście zazwyczaj jest w stanie się kontrolować.",
 		"japanese": "%firstName% 暴力に興味があり殺害を好みます。殺害すると気分がよくなりポジティブな気持ちになります。普段から暴力と殺人衝動をコントロールすることができます。",
+		"czech": "%firstName% má zvláštní zájem o násilí. Získává pozitivní myšlenky ze zabíjení, ale umí je ovládnout (občas).",
 	},
 	"traitTitle_GoodHealth": {
 		"english": "Good Health",
@@ -190,6 +197,7 @@
 		"italian": "Buona salute",
 		"polish": "Krzep%kiKa%",
 		"japanese": "健康",
+		"czech": "Dobré zdraví",
 	},
 	"traitDesc_GoodHealth": {
 		"english": "A lifetime of exercise and healthy foods has provided %firstName% with a very robust health. Treatments are 20% more likely to succeed.",
@@ -207,6 +215,7 @@
 		"italian": "Una vita di esercizi e cibi sani ha fornito a %firstName% una salute molto ferrea. I trattamenti hanno il 20% in più di probabilità di successo.",
 		"polish": "Życie wypełnione ćwiczeniami i zdrowe odżywianie zapewniło %muJej% bardzo dobre zdrowie. Leczenie jest o 20% bardziej skuteczne.",
 		"japanese": "適度な運動と健康的な食事に満ちた生活は、健康的な身体を作りました。治療を試みた場合の成功率は20%高くなります。",
+		"czech": "Léčba má o 20% větší pravděpodobnost úspěchu.",
 	},
 	"traitTitle_BadHealth": {
 		"english": "Bad Health",
@@ -224,6 +233,7 @@
 		"italian": "Cattiva salute",
 		"polish": "Cherlaw%yA%",
 		"japanese": "不健康",
+		"czech": "Špatné zdraví",
 	},
 	"traitDesc_BadHealth": {
 		"english": "For no specific reason, %firstName%'s immune system is not as good as others. Treatments are 20% more likely to fail.",
@@ -241,6 +251,7 @@
 		"italian": "Senza alcun motivo specifico, il sistema immunitario di %firstName% non è buono come gli altri. I trattamenti hanno il 20% di probabilità in più di fallire.",
 		"polish": "Bez żadnego konkretnego powodu, %firstName% ma gorszy system odpornościowy od innych. Leczenie ma 20% mniej szans na powodzenie.",
 		"japanese": "%firstName% 現在不健康な状態にあるため免疫力がありません。治療を試みた場合、失敗する可能性が20%高くなります。",
+		"czech": "Pravděpodobnost u léčby je 20% selhání.",
 	},
 	"traitTitle_Overeater": {
 		"english": "Overeater",
@@ -258,12 +269,12 @@
 		"italian": "Sovrappeso",
 		"polish": "Łakomczuch",
 		"japanese": "食いしん坊",
+		"czech": "Přejídač",
 	},
 	"traitDesc_Overeater": {
 		"english": "%firstName% loves food and isn't always able to control %himselfHerself%. Sometimes %heShe% will just continue eating even though %heShe% is already full.",
 		"german": "%firstName% liebt Essen und kann sich nicht immer kontrollieren. Manchmal hört %erSie% einfach nicht auf zu essen, obwohl %erSie% eigentlich schon satt ist.", 
 		"french": "%firstName% aime la nourriture et n'est pas capable de se contrôler. Parfois %ilElle% continue de manger même %s'ilSielle% est déjà plein%e%.",
-		//TODO-bulgarian
 		"dutch": "%firstName% houd van eten en is niet altijd in staat zichzelf in te houden. Soms eet %hijZij% door terwijl %hijZij% al vol zit.",
 		"spanish": "A %firstName% le encanta la comida y no siempre logra controlarse. Algunas veces continúa comiendo incluso estando llen%oA%.",
 		"turkish": "%firstName% yemek yemeyi seviyor ve her zaman kendini kontrol edemiyor. Bazen tok olsa bile yemeye devam edecek.",
@@ -276,6 +287,7 @@
 		"italian": "%firstName% ama il cibo e non sempre è in grado di controllarsi. A volte continuerà a mangiare anche se è pien%OA%.",
 		"polish": "%firstName% kocha jedzenie i nie zawsze jest w stanie się kontrolować. Czasami będzie po prostu jeść bez opamiętania, nawet jeśli będzie już najedzon%yA%.",
 		"japanese": "%firstName% 食べることが大好きで常に食欲をコントロールすることが難しいです。すでにお腹がいっぱいになっていても、衝動的に食べてしまうことがあります。",
+		"czech": "Milovník jídla, který se jen těžko ovládá. Někdy jí i přes to, že už je syt%yA%",
 	},
 	"traitTitle_Survivor": {
 		"english": "Survivalist",
@@ -293,12 +305,12 @@
 		"italian": "Survivalista",
 		"polish": "Surwiwalist%aKa%",
 		"japanese": "サバイバリスト",
+		"czech": "Přeživší",
 	},
 	"traitDesc_Survivor": {
 		"english": "%firstName% has survived quite a few sticky situations and knows what it takes. When others would die, %heShe% gets a 25% health boost and gains consciousness. (Only once in 24 hours)",
 		"german": "%firstName% hat schon einiges überlebt und %erSie% hat nicht vor das zu ändern. Wo andere sterben würden bekommt %erSie% einen 25% Gesundheitsboost und erlangt wieder das Bewusstsein (Nur einmal in 24 Stunden)", 
 		"french": "%firstName% a survécu à des situations et sait ce que cela fait. Quand les autres mourront, %ilElle% obtiendra un boost de santé de 25% et gagnera en connaissance. (Seulement une fois toute les 24 heures)",
-		//TODO-bulgarian
 		"dutch": "%firstName% heeft al veel krappe situaties overleeft en weet wat er voor nodig is. Als andere zouden sterven, krijgt %hijZij% een 25% gezondheids boost en krijgt het bewustzijn. (Één keer per 24 uur)",
 		"spanish": "%firstName% ha sobrevivido ante algunas situaciones complicadas y sabe lo que se necesita para ello. Cuando otros morirían, %élElla% recibe un 25% extra de salud y se recupera de los desmayos. (Solo una vez cada 24 horas)",
 		"turkish": "%firstName% bir kaç zorlu duruma rağmen hala hayatta ve ne yapması gerektiğini biliyor. Başkası öldüğünde %25 sağlık kazanıyor ve bilinci açılıyor (24 saatte bir kez).",
@@ -311,7 +323,7 @@
 		"italian": "%firstName% è sopravvissut%OA% a parecchie situazioni delicate e sa ciò che bisogna fare. Quando gli altri muoiono, ottiene un aumento della salute del 25% e acquisisce consapevolezza. (Solo una volta ogni 24 ore)",
 		"polish": "%firstName% przetrwał%nicA% kilka nieciekawych sytuacji i wie co trzeba w takich chwilach robić. Kiedy inni umierają, %onOna% otrzymuje 25% dodatkowego bonusu do zdrowia i odzyskuje świadomość (raz na 24 godziny)",
 		"japanese": "%firstName% かなり厳しい状況でも生き残り、生き残るためには何が必要かを理解しています。ふつうの人ならば死ぬほどの状況でも %heShe% は25%の生命力ボーナスを取得し意識不明の状態に陥るだけで済みます。(24時間に1回)",
-		
+		"czech": "I když ostatní zemřou, získá 25% zdraví a nabyde vědomí. (pouze jednou za 24 hodin)",
 	
 	},
 	"traitTitle_Insomnia": {
@@ -330,6 +342,7 @@
 		"italian": "Insonnia",
 		"polish": "Nocny marek",
 		"japanese": "不眠症",
+		"czech": "Insomniak",
 	},
 	"traitDesc_Insomnia": {
 		"english": "%firstName% has trouble sleeping and doesn't rest as well as others. Takes double the time to fully rest compared to others..",
@@ -347,6 +360,7 @@
 		"italian": "%firstName% ha difficoltà a dormire e non riposa bene come gli altri. Necessita del doppio del tempo per riposare completamente...",
 		"polish": "%firstName% ma problemy z zasypianiem i nie wysypia się tak dobrze jak inni. Potrzebuje dwa razy więcej czasu na odpoczynek.",
 		"japanese": "%firstName% 不眠症です。眠りにつくのが難しく他の人と同じように眠ることができません。休むためには通常の人の2倍の時間が必要です。",
+		"czech": "%firstName% má problémy se spánkem a neodpočívá tak dobře jako ostatní. Plný odpočinek zabere 2x tolik času, ve srovnání s ostatními ..",
 	},
 	"traitTitle_Tireless": {
 		"english": "Tireless",
@@ -364,12 +378,12 @@
 		"italian": "Instancabile",
 		"polish": "Niezmordowan%yA%",
 		"japanese": "疲れ知らず",
+		"czech": "Neúnavný",
 	},
 	"traitDesc_Tireless": {
 		"english": "%firstName% doesn't need much sleep. Only rests half as long as others before %heShe%'s completely fit again.",
 		"german": "%firstName% braucht nicht viel Schlaf. Schläft nur halb so lange wie andere bevor %erSie% wieder fit ist.", 
 		"french": "%firstName% n'a pas besoin de dormir beaucoup. Se repose moitié moins longtemps que les autres personnes avant qu'%ilElle% ne soit complètement en forme.",
-		//TODO-bulgarian
 		"dutch": "%firstName% heeft niet zoveel slaap nodig. Rust in vergelijking met andere maar de helft van de tijd totdat %hijZij% weer helemaal fit is.",
 		"spanish": "%firstName% no necesita muchas horas de sueño. Solo necesita descansar la mitad que los demás para sentirse renovad%oA% de nuevo.",
 		"turkish": "%firstName% çok fazla uyumaya ihtiyaç duymuyor. Diğerlerinin yarısı kadar uykuyla yetinebiliyor.",
@@ -382,6 +396,7 @@
 		"italian": "%firstName% non ha bisogno di dormire molto. Deve riposare solo la metà degli altri prima che sia di nuovo completamente in forma.",
 		"polish": "%firstName% nie potrzebuje wiele snu. Wystarczy %muJej% go o połowę mniej niż innym by powrócić do pełni sił.",
 		"japanese": "%firstName% あまり睡眠を必要としません。普通の人の半分の時間で十分な休息をとることができ、すぐに元気になります。",
+		"czech": "%firstName% epotřebuje moc spánku. Odpočívá jen 1/2 času co ostatní.",
 	},
 	"traitTitle_Smart": {
 		"english": "Fast Learner",
@@ -399,12 +414,12 @@
 		"italian": "Impara in fretta",
 		"polish": "Bystr%yA%",
 		"japanese": "物覚えがいい",
+		"czech": "Učenlivý člověk",
 	},
 	"traitDesc_Smart": {
 		"english": "%firstName% is a bright %guyGirl% and %heShe% knows it. %cap-heShe% can learn new skills in half the time.",
 		"german": "%firstName% ist ein echt schlauer Kolonist. %cap-erSie% kann neue Fähigkeiten in der Hälfte der Zeit erlernen.",
 		"french": "%firstName% est quelqu'un d'intelligent et %ilElle% le sait. %cap-ilElle% peut apprendre de nouvelles compétences deux fois plus vite.",
-		//TODO-bulgarian
 		"spanish": "%firstName% es un%A% %chicoChica% brillante y lo sabe. Puede aprender nuevas habilidades en la mitad de tiempo.",
 		"turkish": "%firstName% parlak birisi ve bunun farkında. Yarı sürede yeni beceriler öğrenebilir.",
 		"dutch": "%firstName% is een slimme %jongeMeid% en %hijZij% weet het. %cap-hijZij% kan nieuwe vaardigheden dubbel zo snel leren.",
@@ -417,6 +432,7 @@
 		"italian": "%firstName% è %UnUna% tip%OA% brillante e lo sa. Può apprendere nuove abilità nella metà del tempo.",
 		"polish": "%firstName% to bystry umysł i %onOna% dobrze o tym wie. Może się nauczyć nowych umiejętności dwa razy szybciej.",
 		"japanese": "%firstName% 物覚えがよく早分かりです。そのため普通の人の半分の時間で新しいスキルを学ぶことができます!",
+		"czech": "Učí se novým dovednostem za 1/2 času co ostatní kolonisté.",
 	},
 	"traitTitle_Dumb": {
 		"english": "Dumb",
@@ -434,12 +450,12 @@
 		"italian": "Ottus%OA%",
 		"polish": "Głupi%nicA%",
 		"japanese": "おバカ",
+		"czech": "Hlupák",
 	},
 	"traitDesc_Dumb": {
 		"english": "Unfortunately, thinking has never been %hisHer% strong suit. %cap-heShe% will not gain experience and not level up in any job ever.",
 		"german": "Leider war %firstName% noch nie gut im Denken. %cap-erSie% kann keine Erfahrung sammeln und in keinem Beruf aufsteigen.", 
 		"french": "Malheureusement, penser n'a jamais été son fort. %cap-ilElle% ne gagnera pas d'expérience et n'augmentera pas de niveau dans n'importe quel métier.",
-		//TODO-bulgarian
 		"dutch": "Helaas, denken is nooit %zijnHaar% sterkste eigenschap geweest. %cap-hijZij% zal geen ervaring opdoen en geen levels krijgen in een baan.",
 		"spanish": "Lamentablemente, pensar nunca ha sido su fuerte. No ganará experiencia ni subirá de nivel en ningún trabajo, nunca.",
 		"turkish": "Maalesef, düşünme hiç bir zaman onun güçlü özelliği olmadı. Deneyim kazanamayacak ve hiç bir işte seviye atlamayacak.",
@@ -452,6 +468,7 @@
 		"italian": "Sfortunatamente, pensare non è mai stato il suo punto di forza. Non acquisirà esperienza e non potrà mai salire di livello in nessun lavoro.",
 		"polish": "Niestety, myślenie to nie jest %jegoJej% mocna strona. %firstName% nigdy nie będzie otrzymywał%nicA% doświadczenia ani awansował%nicA% w jakimkolwiek zawodzie.",
 		"japanese": "残念なことに %firstName% は、考えることが苦手なおバカです。どの仕事をさせてもレベルアップすることはありません。",
+		"czech": "Naneštěstí myšlení nikdy nebylo %hisHer% silnou stránskou. %cap-heShe% nezíská zkušenosti a nezvýší úroveň v žádné práci.",
 	},
 	"traitTitle_FavoriteFoodPumpkinStew": {
 		"english": "Favorite Food: Pumpkin Stew",
@@ -469,6 +486,7 @@
 		"italian": "Cibo preferito: Stufato di zucca",
 		"polish": "Uwielbia krem z dyni",
 		"japanese": "好きな食べ物: かぼちゃのシチュー",
+		"czech": "Oblíbené jídlo: Dýňový guláš",
 		
 	},
 	"traitDesc_FavoriteFoodPumpkinStew": {
@@ -487,6 +505,7 @@
 		"italian": "%firstName% non vede l'ora di prendere un'altra porzione di delizioso stufato di zucca.",
 		"polish": "%firstName% po prostu nie może się doczekać, żeby dostać kolejną porcję pysznego kremu z dyni.",
 		"japanese": "%firstName% かぼちゃのシチューが大好物です。もう一皿おかわりする日が待ちきれません。",
+		"czech": "%firstName% se prostě nemůže dočkat, až si dá další misku lahodného dýňového gulášu.",
 	},
 	"traitTitle_FavoriteFoodFruitSalad": {
 		"english": "Favorite Food: Fruit Salad",
@@ -504,6 +523,7 @@
 		"italian": "Cibo preferito: Macedonia",
 		"polish": "Uwielbia sałatkę owocową",
 		"japanese": "好きな食べ物: フルーツサラダ",
+		"czech": "Oblíbené jídlo: Ovocný salát",
 	},
 	"traitDesc_FavoriteFoodFruitSalad": {
 		"english": "%firstName% just can't wait to get another bowl of delicious fruit salad.",
@@ -521,6 +541,7 @@
 		"italian": "%firstName% non vede l'ora di prendere un'altra porzione di deliziosa macedonia.",
 		"polish": "%firstName% po prostu nie może się doczekać, żeby dostać kolejną porcję sałatki owocowej.",
 		"japanese": "%firstName% フルーツサラダが大好物です。もう一皿おかわりする日が待ちきれません。",
+		"czech": "%firstName% se prostě nemůže dočkat, až si dá další misku lahodného ovocného salátu.",
 	},
 	"traitTitle_FavoriteFoodAppleStrudel": {
 		"english": "Favorite Food: Apple Strudel",
@@ -538,6 +559,7 @@
 		"italian": "Cibo preferito: Strudel di mele",
 		"polish": "Uwielbia jabłecznik",
 		"japanese": "好きな食べ物: アップルシュトルーデル",
+		"czech": "Oblíbené jídlo: Jablečný závin",
 	},
 	"traitDesc_FavoriteFoodAppleStrudel": {
 		"english": "%firstName% just can't wait to get another piece of delicious apple strudel.",
@@ -555,6 +577,7 @@
 		"italian": "%firstName% non vede l'ora di prendere un'altra porzione di delizioso strudel di mele.",
 		"polish": "%firstName% po prostu nie może się doczekać, żeby dostać kolejną porcję jabłecznika.",
 		"japanese": "%firstName% アップルシュトルーデルが大好物です。もう一皿おかわりする日が待ちきれません。",
+		"czech": "%firstName% se prostě nemůže dočkat, až si dá další kousek lahodného jablečného závinu",
 	},
 	"traitTitle_AllergicToApples": {
 		"english": "Allergic to Apples",
@@ -572,12 +595,12 @@
 		"italian": "Allergia alle mele",
 		"polish": "Alergia na jabłka",
 		"japanese": "りんごアレルギー",
+		"czech": "Alergický na jablka",
 	},
 	"traitDesc_AllergicToApples": {
 		"english": "%firstName% will avoid dishes that contain apples. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
 		"german": "%firstName% wird Gerichte meiden, die Äpfel beinalten. Wenn %erSie% trotzdem gezwungen ist es zu essen, wird %erSie% eine allergische Reaktion haben",
 		"french": "%firstName% évite les plats qui contiennent des pommes. %cap-s'ilSielle% est forcé%e% à en manger, %ilElle% aura des réactions allergiques.",
-		//TODO-bulgarian
 		"dutch": "%firstName% zal maaltijden met appels vermijden. Als %hijZij% gedwongen wordt om het toch te eten, krijgt %hijZij% een allergische reactie.",
 		"spanish": "%firstName% evitará comer platos que contengan manzana. Si es forzad%oA% a comerlos, sufrirá una reacción alérgica.",
 		"turkish": "%firstName%, elma içeren yemeklerden kaçınır. Yemek zorunda kalırsa, alerjik reaksiyona girer.",
@@ -590,6 +613,7 @@
 		"italian": "%firstName% eviterà i cibi che contengono mele. Se è costrett%OA% a mangiarle comunque, avrà una reazione allergica.",
 		"polish": "%firstName% będzie unikał%nicA% wszelkich dań zawierających jabłka. Jeśli zje coś co zawiera jabłka to dostanie reakcji alergicznej.",
 		"japanese": "%firstName% りんごアレルギーです。そのためリンゴを含む料理を避けます。もしも食べることを余儀なくされた場合、アレルギー反応を起こすでしょう。",
+		"czech": "%firstName% se vyhne pokrmům, které obsahují jablka. Pokud je z donucení sní, bude mít alergickou reakci.",
 	},
 	"traitTitle_AllergicToPotatoes": {
 		"english": "Allergic to Potatoes",
@@ -607,6 +631,7 @@
 		"italian": "Allergia alle patate",
 		"polish": "Alergia na ziemniaki",
 		"japanese": "じゃがいもアレルギー",
+		"czech": "Alergický na brambory",
 	},
 	"traitDesc_AllergicToPotatoes": {
 		"english": "%firstName% will avoid dishes that contain potatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -625,6 +650,7 @@
 		"italian": "%firstName% eviterà i cibi che contengono patate. Se è costrett%OA% a mangiarle comunque, avrà una reazione allergica.",
 		"polish": "%firstName% będzie unikał%nicA% wszelkich dań zawierających ziemniaki. Jeśli zje coś co zawiera ziemniaki to dostanie reakcji alergicznej.",
 		"japanese": "%firstName% じゃがいもアレルギーです。そのためジャガイモを含む料理を避けます。もしも食べることを余儀なくされた場合、アレルギー反応を起こすでしょう。",
+		"czech": "%firstName% se vyhne pokrmům, které obsahují bramboty. Pokud je z donucení sní, bude mít alergickou reakci.",
 	},
 	"traitTitle_AllergicToTomatoes": {
 		"english": "Allergic to Tomatoes",
@@ -642,6 +668,7 @@
 		"italian": "Allergia ai pomodori",
 		"polish": "Alergia na pomidory",
 		"japanese": "トマトアレルギー",
+		"czech": "Alergický na rajčata",
 	},
 	"traitDesc_AllergicToTomatoes": {
 		"english": "%firstName% will avoid dishes that contain tomatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -660,6 +687,7 @@
 		"italian": "%firstName% eviterà i cibi che contengono pomodori. Se è costrett%OA% a mangiarli comunque, avrà una reazione allergica.",
 		"polish": "%firstName% będzie unikał%nicA% wszelkich dań zawierających pomidory. Jeśli zje coś co zawiera pomidory to dostanie reakcji alergicznej.",
 		"japanese": "%firstName% トマトアレルギーです。そのためトマトを含む料理を避けます。もしも食べることを余儀なくされた場合、アレルギー反応を起こすでしょう。",
+		"czech": "%firstName% se vyhne pokrmům, které obsahují rajčata. Pokud je z donucení sní, bude mít alergickou reakci.",
 	},
 	"traitTitle_Limping": {
 		"english": "Limping",
@@ -676,6 +704,7 @@
 		"italian": "Zopp%OA%",
 		"polish": "Kulaw%yA%",
 		"japanese": "足が不自由",
+		"czech": "Kulhání",
 	},
 	"traitDesc_Limping": {
 		"english": "Because of an accident, %firstName% has a bad leg and is limping. %cap-heShe% walks a little slower than other colonists.",
@@ -692,6 +721,7 @@
 		"italian": "A causa di un incidente, %firstName% ha una gamba malata e zoppica. Cammina un po' più lentamente degli altri coloni.",
 		"polish": "Z powodu przykrego wypadku ze strzałą w kolanie, %firstName% kuleje i chodzi przez to nieco wolniej niż inni koloniści.",
 		"japanese": "%firstName%は、足に怪我をしており、事故により足を引きずっています。%cap-heShe%は、他のコロニストたちよりも少しゆっくり歩きます。",
+		"czech": "Kvůli nehodě má %firstName% špatnou nohu a kulhá. %cap-heShe% chodí trochu pomaleji než ostatní kolonisté.",
 	},
 	"traitTitle_Xenophobe": {
 		"english": "Xenophobe",
@@ -707,6 +737,7 @@
 		"italian": "Xenofob%OA%",
 		"polish": "Ksenofob",
 		"japanese": "よそ者恐怖症",
+		"czech": "Xenofob",
 	},
 	"traitDesc_Xenophobe": {
 		"english": "%firstName% doesn't trust strangers very much. %cap-heShe% doesn't want to get too friendly with other factions and has no problem defending the colony from others.",
@@ -722,6 +753,7 @@
 		"italian": "%firstName% non si fida molto degli estranei. Non vuole relazionarsi troppo con le altre fazioni e non ha problemi a difendere la colonia dagli altri.",
 		"polish": "%firstName% nie lubi obcych. Nie chce się zaprzyjaźniać z innymi frakcjami i raczej woli z nimi walczyć. Jest za to mocn%yA w gębie.",
 		"japanese": "%firstName% 見知らぬ人をあまり信頼していません。他の派閥と友好的になりたくないので他の派閥からコロニーを守るのに問題はありません。",
+		"czech": "%firstName% moc cizím lidem nedůvěřuje. %cap-heShe% se nechce příliš kamarádit s jinými frakcemi a nemá problém bránit kolonii před ostatními.",
 	},
 	"traitTitle_Xenophile": {
 		"english": "Xenophile",
@@ -737,6 +769,7 @@
 		"italian": "Esterofil%OA%",
 		"polish": "Ksenofil",
 		"japanese": "よそ者好き",
+		"czech": "Xenofil",
 	},
 	"traitDesc_Xenophile": {
 		"english": "%firstName% loves to get to know all kinds of different people. %cap-heShe% is quick to trust newcomers and doesn't like fighting other factions.",
@@ -752,6 +785,7 @@
 		"italian": "%firstName% adora conoscere gente di culture differenti. Si fida dei nuovi arrivati e non %GliLe% piace combattere contro le altre fazioni.",
 		"polish": "%firstName% uwielbia poznawać nowe osoby i bardzo szybko nabiera do nich zaufania. Nie lubi walczyć z innymi frakcjami.",
 		"japanese": "%firstName% あらゆる種類の様々な人々と知り合うのが大好きです。よそ者をすぐに信頼してしまいます。他の派閥と戦うのは好きではありません。",
+		"czech": "%firstName% miluje poznávání nejrůznějších cizích lidí. %cap-heShe% rychle důvěřuje nováčkům a má problém s bojem s jinými frakcemi.",
 		
 	},
 	"traitTitle_Diplomat": {
@@ -768,6 +802,7 @@
 		"italian": "Diplomatic%OA%",
 		"polish": "Dyplomat%aKa%",
 		"japanese": "外交官",
+		"czech": "Diplomat",
 	},
 	"traitDesc_Diplomat": {
 		"english": "Because of %hisHer% charismatic nature, %firstName% is quick to make friends and smooth over past quarrels. When %heShe% socializes with members of other factions, there is a small chance to increase diplomatic relationships.",
@@ -783,6 +818,7 @@
 		"italian": "A causa della sua natura carismatica, %firstName% fa velocemente amicizia e appiana i problemi legati al passato. Quando socializza con i membri delle altre fazioni, c'è una piccola possibilità di aumentare le relazioni diplomatiche.",
 		"polish": "Ze względu na %jegoJej% charyzmatyczną naturę, %firstName% szybko zaprzyjaźnia się z innymi i potrafi łagodzić wszelkie zatargi. Kiedy socjalizuje się z członkami innej rakcji, istnieje niewielka szansa na poprawę relacji dyplomatycznych.",
 		"japanese": "%firstName% カリスマ性が高く、すぐに友達を作り過去の喧嘩もすぐに仲直りさせてしまいます。他の派閥のメンバーと交流する際には外交関係を強化する可能性がわずかにあります。",
+		"czech": "Má charismatickou povahu, rychle se spřátelía hádky si pamatuje velmi krátce. Když se %heShe% stýká s členy jiných frakcí, existuje malá šance na navýšení diplomatických vztahů.",
 	},
 	"traitTitle_LovesSummer": {
 		"english": "Loves Summer",
@@ -798,6 +834,7 @@
 		"italian": "Amante dell'estate",
 		"polish": "Kocha lato",
 		"japanese": "夏が大好き",
+		"czech": "Miluje léto",
 	},
 	"traitDesc_LovesSummer": {
 		"english": "When the air is warm and the weather is sunny, %firstName% feels like everything is right with the world.",
@@ -813,6 +850,7 @@
 		"italian": "Quando l'aria è calda e il tempo è soleggiato, a %firstName% sembra che il mondo sia tutto in equilibrio.",
 		"polish": "Kiedy powietrze jest ciepłe a pogoda słoneczna, %firstName% czuje że wszystko na świecie idzie w dobrym kierunku.",
 		"japanese": "%firstName% 夏が大好きです。夏の日差しで、空気が暖かく、空が晴れ渡るとき世界のすべてが素晴らしいと感じます。",
+		"czech": "Když je vzduch teplý a počasí je slunečné má %firstName% pocit, že je se světem všechno v pořádku.",
 	},
 	"traitTitle_LovesSpring": {
 		"english": "Loves Spring",
@@ -828,6 +866,7 @@
 		"italian": "Amante della primavera",
 		"polish": "Kocha wiosnę",
 		"japanese": "春が大好き",
+		"czech": "Miluje jaro",
 	},
 	"traitDesc_LovesSpring": {
 		"english": "%firstName% loves breathing the fresh air of spring and see nature bloom once again.",
@@ -843,6 +882,7 @@
 		"italian": "%firstName% adora respirare l'aria fresca di primavera e vedere la natura fiorire ancora una volta.",
 		"polish": "%firstName% uwielbia oddychać świeżym powietrzem pachnącym wiosną i delektować się rozkwitającą naturą.",
 		"japanese": "%firstName% 春が大好きです。春の新鮮な空気を吸うのも、自然が再び蘇り、芽吹いていくのを見るのも大好きです。",
+		"czech": "%firstName% miluje dýchání čerstvého vzduchu jara a o když vidí, jak příroda znovu kvete.",
 	},
 	"traitTitle_HatesWinter": {
 		"english": "Hates Winter",
@@ -858,6 +898,7 @@
 		"italian": "Odio per l'inverno",
 		"polish": "Nienawidzi zimy",
 		"japanese": "冬が嫌い",
+		"czech": "Nesnáší zimu",
 	},
 	"traitDesc_HatesWinter": {
 		"english": "Darker days and colder nights are not %firstName%'s idea of fun, so winter is not %hisHer% favorite time of the year.",
@@ -873,6 +914,7 @@
 		"italian": "Giorni più bui e notti più fredde non costituiscono l'idea di divertimento per %firstName%, per cui l'inverno non è il suo periodo dell'anno preferito.",
 		"polish": "Ciemniejsze dni i zimniejsze noce to nie jest to co %firstName% lubi najbardziej, zima nie jest dla %niegoNiej% najszczęśliwszą porą roku.",
 		"japanese": "%firstName% 冬が嫌いです。昼は薄暗く陽は少なく、夜は凍える様に寒いからです。また楽しみも少ないためどうしても好きになれない季節です。",
+		"czech": "Potemnělé dny a chladnější noci nejsou vůbec libou představou zábavy. Nemá je rá%dA%!",
 	},
 	"traitTitle_HatesFall": {
 		"english": "Hates Fall",
@@ -888,6 +930,7 @@
 		"italian": "Odio per l'autunno",
 		"polish": "Nienawidzi jesieni",
 		"japanese": "秋が嫌い",
+		"czech": "Nenávidí podzim",
 	},
 	"traitDesc_HatesFall": {
 		"english": "%firstName% doesn't really care for the colorful leaves in fall and instead spends %hisHer% time complaining about the muddy paths and the windy days.",
@@ -903,6 +946,7 @@
 		"italian": "A %firstName% non importa nulla delle foglie colorate autunnali, preferisce trascorrere il suo tempo a lamentarsi dei sentieri fangosi e delle giornate ventose.",
 		"polish": "%firstName% niekoniecznie zachwyca się kolorowymi liśćmi sypiącymi się na jesień z drzew, woli wiecznie narzkać na zabłocone ścieżki i wilgotne, wietrzne dni.",
 		"japanese": "%firstName% 秋が嫌いです。秋の色とりどりの葉には興味がありません。いつも泥だらけの小道や風の強い木枯らしの日について不満ばかりを口にしてしまいます。",
+		"czech": "%firstName% se opravdu nestará o barevné listí na podzim a místo toho tráví celý svůj čas stěžováním si na blátivé cesty a větrné dny.",
 	},
 	"traitTitle_LactoseIntolerant":  {
 		"english":  "Lactose Intolerant",
@@ -915,6 +959,7 @@
 		"polish":  "Nie toleruje laktozy",
 		"japanese": "乳糖不耐症",
 		"chinese": "乳糖不耐症",
+		"czech":  "alergický na mléko",
 	},
 	"traitDesc_LactoseIntolerant":  {
 		"english":  "Not all people can consume dairy products safely - and unfortunately %firstName% is one of them.",
@@ -927,6 +972,7 @@
 		"polish":  "Niektóre osoby nie mogą spożywać nabiału ze względu na nietolerancję laktozy. Niestety %firstName% jest jedną z nich.",
 		"japanese": "すべての人が乳製品を安全に消費できるわけではありません。残念ながら %firstName% は、乳糖不耐症のため乳製品を取ると胃腸の調子が悪くなってしまいます。",
 		"chinese": "并非所有人都能安全地食用乳制品-不幸的是%firstName%是其中之一。",
+		"czech":  "Ne všichni lidé mohou bezpečně konzumovat mléčné výrobky - a bohužel %firstName% je jedním z nich.",
 	},
 	"traitTitle_Vegetarian":  {
 		"english":  "Vegetarian",
@@ -939,6 +985,7 @@
 		"polish":  "Wegetarian%inKa%",
 		"japanese": "完全菜食のヴィーガン",
 		"chinese": "素食主义者",
+		"czech":  "Vegetarián",
 	},
 	"traitDesc_Vegetarian":  {
 		"english":  "%firstName% doesn't want to eat meat for a variety of reasons. Don't force %himHer% to.",
@@ -951,6 +998,7 @@
 		"polish":  "%firstName% ma swoje powody aby nie jeść mięsa. Nie zmuszaj %goJej% do tego.",
 		"japanese": "%firstName% さまざまな理由で肉を食べたくありません。無理に肉を食べさせないようにしてください。",
 		"chinese": "%firstName%出于多种原因不想吃肉。不要强迫%himHer%。",
+		"czech":  "%firstName% nechce jíst maso z různých důvodů.",
 	},
 	"traitTitle_AnimalLover":  {
 		"english":  "Animal Lover",
@@ -963,6 +1011,7 @@
 		"polish":  "Miłośnik zwierząt",
 		"japanese": "動物好き",
 		"chinese": "动物爱好者",
+		"czech":  "Milovník zvířat",
 	},
 	"traitDesc_AnimalLover":  {
 		"english":  "%firstName% loves animals. Just playing with them for a bit will get %hisHer% mood up instantly.",
@@ -975,6 +1024,7 @@
 		"polish":  "%firstName% kocha zwierzęta. Wystarczy że spędzi z nimi trochę czasu i od razu czuje się lepiej.",
 		"japanese": "%firstName% 動物が大好きです。動物たちと遊ぶだけで気分が上がります。",
 		"chinese": "%firstName%非常喜欢动物。仅是和它们一起玩耍，心情就会立刻变好。",
+		"czech":  "%firstName% miluje zvířata. Když si s nimi hraje, dostává dobrou náladu.",
 	},
 }
 

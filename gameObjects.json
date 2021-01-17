@@ -22,7 +22,6 @@
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
-	//TODO-dutch: additional sentence at the end
 	//TODO-polish: additional sentence at the end
 	"appleBasketDescription": {
 		"english": "Use this basket to provide your colonists with raw food. Whenever they are hungry, they will come to the basket to get something to eat - as long as you have enough food in store.\n\nThis basket can store up to %capacityFoodRaw% raw food.",
@@ -34,7 +33,7 @@
 		"russian": "Эта корзина хранит сырую пищу. Каждый раз, когда колонисты проголодаются, они будут подходить к ней и брать что-нибудь поесть до тех пор, пока еда не закончится.\n\nЭта корзина может хранить до %capacityFoodRaw% сырой пищи.",
 		"ukrainian": "Цей кошик зберігає сиру їжу. Кожен раз, коли колоністи проголодаются, вони будуть підходити до неї і брати що-небудь поїсти до тих пір, поки їжа не закінчиться.",
 		"korean": "이 바구니에 과일과 채소를 담아 개척자들에게 제공하세요. 배가 고파지면, 바구니에서 먹을 것을 꺼내어 먹을겁니다 - 충분한 음식이 저장되어있다면, 말이죠.",
-		"dutch": "Gebruik deze mand om te zorgen dat je kolonisten rauw eten kunnen eten. Als ze honger hebben, komen ze naar de mand om wat te eten - zolang je genoeg voedsel in voorraad hebt.",
+		"dutch": "Gebruik deze mand om te zorgen dat je kolonisten rauw eten kunnen eten. Als ze honger hebben, komen ze naar de mand om wat te eten - zolang je genoeg voedsel in voorraad hebt.\n\nDeze mand kan to maximaal %capacityFoodRaw% aan rauw voedsel bevatten.",
 		"chinese": "用这个篮子给你的殖民者提供生的食物。当他们饿了的时候，只要你有足够的食物，他们就会到篮子里来找吃的。\n\n此架子最多存放 %capacityFoodRaw% 生鲜食材。",
 		"italian": "Usa questo cesto per fornire ai tuoi coloni i cibi crudi. Ogni volta che hanno fame, verranno nel cesto a prendere qualcosa da mangiare, a patto che tu abbia a disposizione abbastanza cibo.\n\nQuesto cesto può conservare fino a %capacityFoodRaw% cibi crudi.",
 		"polish": "W tym koszyku koloniści gromadzić będą podstawowe pożywienia zebrane z dzikich krzaków i drzew owocowych oraz ogródka. Gdy zgłodnieją, przyjdą do niego, aby wziąść coś do jedzenia.",
@@ -61,7 +60,6 @@
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
-	//TODO-dutch: additional sentence at the end
 	//TODO-polish: additional sentence at the end
 	"foodShelfCampfireDescription": {
 		"english": "This mixture of shelf and basket is the ideal place to store food that's been cooked on a campfire!\n\nThis shelf can store up to %capacityFoodCooked% cooked food.",
@@ -73,7 +71,7 @@
 		"russian": "Это объединение полки и корзины - идеальное место для хранения продуктов, приготовленных на костре.\n\nЭта корзина может хранить до %capacityFoodCooked% приготовленной пищи.",
 		"ukrainian": "Це об'єднання полиці і корзини - ідеальне місце для зберігання продуктів, приготованих на вогнищі.",
 		"korean": "선반 위에 바구니가 잔뜩 놓여있습니다 - 모닥불에 구운 음식들을 저장하기에 최적의 장소죠!",
-		"dutch": "Deze mix van een plankenkast en een mand is de ideale plaats om eten op te slaan dat gekookt is boven een kampvuur!",
+		"dutch": "Deze mix van een plankenkast en een mand is de ideale plaats om eten op te slaan dat gekookt is boven een kampvuur!\n\nDeze plakenkast kan maximaal %capacityFoodCooked% bereid voedsel bevatten.",
 		"chinese": "架子与篮子的结合体是储存在烤制食物的理想办法!\n\n此架子最多存放 %capacityFoodCooked% 烤制食物。",
 		"italian": "Questa combinazione di mensole e cesti è il luogo ideale per conservare i cibi cotti al falò!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
 		"polish": "Ten zestaw półek jest idealnym miejscem na przechowywanie upieczonego nad ogniem jedzenia.",
@@ -100,7 +98,6 @@
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
-	//TODO-dutch: additional sentence at the end
 	//TODO-polish: additional sentence at the end
 	"foodShelfKitchenDescription": {
 		"english": "What better place to store your kitchen food than on this gorgeous shelf!\n\nThis shelf can store up to %capacityFoodCooked% cooked food.",
@@ -110,7 +107,7 @@
 		"portuguese": "Qual o melhor lugar para guardar os alimentos da sua cozinha do que nesta maravilhosa prateleira!\n\nEsta prateleira pode armazenar até %capacityFoodCooked% de alimentos cozidos.",
 		"turkish": "Mutfak Yemeklerini saklamak için bu muhteşem raftan daha iyi bir yer var mı?",
 		"russian": "Разве есть место лучше для хранения еды, приготовленной на кухне?!\n\nЭта полка может хранить до %capacityFoodCooked% приготовленной еды.",
-		"dutch": "Welke plaats is beter om eten uit de keuken op te slaan dan deze wonderbaarlijke plankenkast?",
+		"dutch": "Welke plaats is beter om eten uit de keuken op te slaan dan deze wonderbaarlijke plankenkast?\n\nDeze plankenkast kan tot maximaal %capacityFoodCooked% bereid voedsel bevatten.",
 		"ukrainian": "Хіба є краще місце щоб зберігати їжу приготовлену на кухні?",
 		"korean": "조리된 음식을 보관하기에 이 멋진 선반보다 나은 곳이 있을까요?",
 		"chinese": "还有什么地方比这个华丽的架子更适合存放烹饪食物呢?\n\n此架子最多存放 %capacityFoodCooked% 烹饪食物。",
@@ -139,7 +136,6 @@
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
-	//TODO-dutch: additional sentence at the end
 	//TODO-polish: additional sentence at the end
 	"foodShelfBakeryDescription": {
 		"english": "This shelf is your first choice for food that was baked at a bakery.\n\nThis shelf can store up to %capacityFoodCooked% cooked food.",
@@ -149,7 +145,7 @@
 		"portuguese": "Esta prateleira é a sua primeira escolha para alimentos cozidos em uma padaria.\n\nEsta prateleira pode armazenar até %capacityFoodCooked% de alimentos cozidos.",
 		"turkish": "Bu raf fırında pişirilen yiyecekler için ilk tercihiniz olacak.",
 		"russian": "Эта полка идеально подойдет для хранения выпечки.\n\nЭта полка может хранить до %capacityFoodCooked% приготовленной еды.",
-		"dutch": "Deze plankenkast is je eerste keus voor eten dat gebakken is in een bakkerij.",
+		"dutch": "Deze plankenkast is je eerste keus voor eten dat gebakken is in een bakkerij.\n\nDeze plankenkast kan tot maximaal %capacityFoodCooked% bereid voedsel bevatten.",
 		"ukrainian": "Ця полиця ідеально підійде для зберігання випічки.",
 		"korean": "화덕에 구운 음식을 둘 곳을 찾고 있다면, 이 선반이 최고의 선택입니다.",
 		"chinese": "这个架子是你在面包工坊烘焙食物的首选。\n\n此架子最多存放 %capacityFoodCooked% 烹饪食物。",
@@ -178,7 +174,6 @@
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
-	//TODO-dutch: additional sentence at the end
 	//TODO-polish: additional sentence at the end
 	"potionMedicineStorageDescription": {
 		"english": "Does your leg hurt? Are you sick? Losing blood? No matter what kind of harm has fallen upon you, a healing potion is always a good idea. Even if it doesn't really cure your condition, at least it numbs the pain. And these potions taste good, too.\n\nThis shelf can store up to %capacityMedicine% medicine and up to %capacityHealingPotion% healing potions.",
@@ -189,7 +184,7 @@
 		"russian": "У вас болит нога? Вы болеете? Потеряли много крови? Независимо от того, какой вред вам нанесен, лечебное зелье всегда будет хорошей идеей. Оно не лечит, однако, оно помогает ослабить боль. А еще, эти зелья такие вкусные!\n\nЭтот шкаф может хранить до %capacityMedicine% лекарст и до %capacityHealingPotion% лечебных зелий.",
 		"ukrainian": "У вас болить нога? Ви хворієте? Втратили багато крові? Незалежно від того, якої шкоди вам завдано, лікувальне зілля завжди буде гарною ідеєю. Воно не лікує, проте воно допомагає послабити біль. А ще ці зілля такі смачні!",
 		"korean": "다리를 다쳤나요? 어디 아픈가요? 피를 을리나요? 어떤 아픔을 겪고 있더라도, 회복약은 언제나 좋은 선택입니다. 진짜로 병을 낫게 하진 않겠지만, 최소한 고통은 줄여줄테니까요. 아, 또 맛도 좋아요.",
-		"dutch": "Doet je been pijn? Ben je ziek? Bloed verlies? Het maakt niet uit wat voor pijn je hebt, een helend drankje is altijd een goed idee. Ook als het niet echt je conditie verbeterd, het verminderd tenminste de pijn. En deze drankjes smaken ook nog goed.",
+		"dutch": "Doet je been pijn? Ben je ziek? Bloed verlies? Het maakt niet uit wat voor pijn je hebt, een helend drankje is altijd een goed idee. Ook als het niet echt je conditie verbeterd, het verminderd tenminste de pijn. En deze drankjes smaken ook nog goed.\n\nDeze plankenkast kan tot maximaal %capacityMedicine% aan medicijnen en tot maximaal %capacityHealingPotion% aan helende drankjes bevatten.",
 		"turkish": "Bacağın mı ağrıyor? Hasta mısın? Kan mı kaybediyorsun? Başına bela olan sağlık sorunu ne olursa olsun iyileştirici bir iksir her zaman iyi bir fikirdir. Durumunu iyileştirmese bile, en azından acıyı uyuşturuyor, üstelik bu iksirlerin tadı da güzel.",
 		"chinese": "腿疼了?生病了?流血了?不管你受到什么样的伤害，一瓶治疗药水总是个好办法。即使它不能完全治愈你的病况，至少它能麻痹你的疼痛。这些药水也挺好喝的。\n\n此架子最多可存放 %capacityHealingPotion% 治疗药水。",
 		"italian": "Ti fa male la gamba? Sei malato? Perdi sangue? Indipendentemente dal tipo di danno che hai subito, assumere una pozione curativa è sempre una buona idea. Anche se non cura davvero la tua condizione, almeno intorpidisce il dolore. Inoltre, queste pozioni hanno un buon sapore.\n\nQuesto scaffale può conservare fino a %capacityMedicine% medicine e %capacityHealingPotion% pozioni curative.",
@@ -218,7 +213,6 @@
 	//TODO-turkish: additional sentence at the end
 	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
-	//TODO-dutch: additional sentence at the end
 	//TODO-polish: additional sentence at the end
 	"beerRefillBarrelDescription": {
 		"english": "As a means of storage and the origin of fresh beer, a beer barrel is of high importance to all colonies out there (Well, as long as there is some left in there...). You'll see how happy your colonists get when you allow them to fill up their mugs. Cheers!\n\nThis barrel can contain up to %capacityBeer% beer.",
@@ -228,7 +222,7 @@
 		"portuguese": "Como meio de armazenamento e a origem da cerveja fresca, um barril de cerveja é de grande importância para todas as colônias por aí (bem, desde que ainda restem algumas lá ...). Você verá como seus colonos ficam felizes quando você permite que eles encham suas canecas. Saúde! \n\nEste barril pode conter até %capacityBeer% cerveja.",
 		"ukrainian": "Пивна бочка відмінно підійде для зберігання пива. Вона дуже потрібна колоністами (Ну, поки вона не спустошиться ...). Ви відразу побачите, як настрій ваших колоністів підніметься після вживання цього пшеничного напою. Ура!",
 		"korean": "맥주를 신선하게 보관하다가 따라낼 수 있는 수단인 맥주통은 모든 개척자들에게 가장 중요한 물건입니다 (뭐, 남은 맥주가 있을 때의 이야기지만요...). 개척자들이 맥주잔을 채울 수 있게 해 준다면, 그들이 얼마나 기뻐하는지 보게 될 겁니다. 건배!",
-		"dutch": "Een manier van opslag en de origine van vers bier, bier tonnen zijn zeer belangrijk voor alle kolonieën (Nou, zolang er nog bier in zit...). Je zult zien hoe blij je kolonisten worden als je ze toestaat om hun bekers te vullen. Proost!",
+		"dutch": "Een manier van opslag en de origine van vers bier, bier tonnen zijn zeer belangrijk voor alle kolonieën (Nou, zolang er nog bier in zit...). Je zult zien hoe blij je kolonisten worden als je ze toestaat om hun bekers te vullen. Proost!\n\nDit vat kan tot maximaal %capacityBeer% bier bevatten.",
 		"turkish": "Saklama aracı ve taze biranın kaynağı olarak, bira fıçısı tüm yerleşimler için büyük önem taşıyor (En azından içinde biraz kaldığı sürece ...). Yerleşimcilerinizin bardaklarını doldurmalarına izin verildiğinde ne kadar mutlu olduklarını göreceksiniz. Şerefe!",
 		"spanish": "Como medio de almacenamiento y origen de la cerveza fresca, el barril de cerveza tiene una grande importancia para todas las colonias (Bueno, mientras haya quedado algo dentro...). Verás hasta que punto tus colonos estarán felices cuando los permitas rellenar sus cañas. ¡Salud!\n\nEste barril puede contener hasta %capacityBeer% de cerveza.",
 		"chinese": "啤酒桶作为一种储藏手段和新鲜啤酒的来源，对所有的殖民地来说都是非常重要的(嗯，只要还有一些酒在里面……)。当你的殖民者把杯子装满时，你会看到他们有多高兴。干杯!\n\n此桶最多可容纳%capacityBeer%啤酒。",
@@ -1151,7 +1145,6 @@
 		"czech": "Fialový koberec 3x2",
 	},
 	"carpet3x2_0_2Description": {
-		// TODO-dutch: swapped green and purple
 		// TODO-russian: swapped green and purple
 		// TODO-turkish: swapped green and purple
 		// TODO-korean: swapped green and purple
@@ -1161,7 +1154,7 @@
 		"german": "Dieser hochwertige, lila Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
 		"french": "Ce tapis violet de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
 		"spanish": "Este tapete violeta, de alta calidad le da a tus habitaciones aquello especial que les falta. ¡Sabes a qué me refiero!",
-		"dutch": "Dit groene, hoog kwaliteit vloerkleed geeft je kame dat wat altijd mist. Je weet wat ik bedoel!",
+		"dutch": "Dit paarse, hoog kwaliteit vloerkleed geeft je kame dat wat altijd mist. Je weet wat ik bedoel!",
 		"russian": "Этот зеленый ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
 		"portuguese": "Este tapete roxo de alta qualidade dá aos seus quartos aquele pequeno detalhe especial que está faltando. Você sabe o que eu quero dizer!",
 		"turkish": "Bu yeşil, yüksek kaliteli halı, odalarınıza eksik olan küçük bir şeyi verir. Ne demek istediğimi anlıyorsunuz!",
@@ -1189,7 +1182,6 @@
 		"czech": "Zelený koberec 3x2",
 	},
 	"carpet3x2_1_0Description": {
-		// TODO-dutch: swapped green and purple
 		// TODO-russian: swapped green and purple
 		// TODO-turkish: swapped green and purple
 		// TODO-korean: swapped green and purple
@@ -1200,7 +1192,7 @@
 		"french": "Un tapis vert bien fait avec un motif très structuré. Tout est en ordre !",
 		"spanish": "Un tapete verde bien hecho con un patrón muy estructurado. ¡Todo está en orden!",
 		"russian": "Высококлассный фиолетовый ковер с орнаментом. Как вы пожелаете!",
-		"dutch": "Een goed gemaakt paars vloerkleed met een net patroon. Alles is in orde!",
+		"dutch": "Een goed gemaakt groene vloerkleed met een net patroon. Alles is in orde!",
 		"portuguese": "Um tapete verde bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"turkish": "Bol detaylı desen ile kaliteli bir mor halı. Her şey yolunda!",
 		"korean": "구조적 패턴의 잘 만든 보라색 러그입니다. 모든 것이 정돈되어있어요!",
@@ -1355,7 +1347,6 @@
 		"czech": "Fialový koberec 3x2",
 	},
 	"carpetCircle3x2_0_2Description": {
-		// TODO-dutch: swapped green and purple
 		// TODO-russian: swapped green and purple
 		// TODO-turkish: swapped green and purple
 		// TODO-korean: swapped green and purple
@@ -1363,7 +1354,7 @@
 		// TODO-polish: swapped green and purple
 		"english": "This purple, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
 		"german": "Dieser hochwertige, lila Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
-		"dutch": "Dit groene, hoge kwaliteit vloerkleed geeft je kamer dat wat altijd mist. Je weet wat ik bedoel!",
+		"dutch": "Dit paarse, hoge kwaliteit vloerkleed geeft je kamer dat wat altijd mist. Je weet wat ik bedoel!",
 		"french": "Ce tapis violet de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
 		"spanish": "Este tapete violeta, de alta calidad le da a tus habitaciones aquello especial que les falta. ¡Sabes a qué me refiero!",
 		"russian": "Этот зеленый ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
@@ -1393,7 +1384,6 @@
 		"czech": "Zelený koberec 3x2",
 	},
 	"carpetCircle3x2_1_0Description": {
-		// TODO-dutch: swapped green and purple
 		// TODO-russian: swapped green and purple
 		// TODO-turkish: swapped green and purple
 		// TODO-korean: swapped green and purple
@@ -1404,7 +1394,7 @@
 		"french": "Un tapis vert bien fait avec un motif très structuré. Tout est en ordre !",
 		"spanish": "Un tapete verde bien hecho con un patrón muy estructurado. ¡Todo está en orden!",
 		"russian": "Высококлассный оранжевый ковер с орнаментом. Как вы пожелаете!",
-		"dutch": "Een goed gemaakt paars vloerkleed met een net patroon. Alles is in orde!",
+		"dutch": "Een goed gemaakt groene vloerkleed met een net patroon. Alles is in orde!",
 		"portuguese": "Um tapete verde bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 주황색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的绿色地毯，精心编织的图案。一切都显示得秩序井然！",
@@ -1556,7 +1546,6 @@
 		"czech": "Fialový koberec 3x3",
 	},
 	"carpet3x3_0_2Description": {
-		// TODO-dutch: swapped green and purple
 		// TODO-russian: swapped green and purple
 		// TODO-turkish: swapped green and purple
 		// TODO-korean: swapped green and purple
@@ -1564,7 +1553,7 @@
 		// TODO-polish: swapped green and purple
 		"english": "This purple, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
 		"german": "Dieser hochwertige, lila Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
-		"dutch": "Dit groene, hoge kwaliteit vloerkleed geeft je kamer dat wat altijd mist. Je weet wat ik bedoel!",
+		"dutch": "Dit paarse, hoge kwaliteit vloerkleed geeft je kamer dat wat altijd mist. Je weet wat ik bedoel!",
 		"french": "Ce tapis violet de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
 		"spanish": "Este tapete violeta, de alta calidad le da a tus habitaciones aquello especial que les falta. ¡Sabes a qué me refiero!",
 		"russian": "Этот зеленый ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
@@ -1594,7 +1583,6 @@
 		"czech": "Zelený koberec 3x3",
 	},
 	"carpet3x3_1_0Description": {
-		// TODO-dutch: swapped green and purple
 		// TODO-russian: swapped green and purple
 		// TODO-turkish: swapped green and purple
 		// TODO-korean: swapped green and purple
@@ -1605,7 +1593,7 @@
 		"french": "Un tapis vert bien fait avec un motif très structuré. Tout est en ordre !",
 		"spanish": "Un tapete verde bien hecho con un patrón muy estructurado. ¡Todo está en orden!",
 		"russian": "Высококлассный фиолетовый ковер с орнаментом. Как вы пожелаете!",
-		"dutch": "Een goed gemaakt paars vloerkleed met een net patroon. Alles is in orde!",
+		"dutch": "Een goed gemaakt groen vloerkleed met een net patroon. Alles is in orde!",
 		"portuguese": "Um tapete verde bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 보라색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的绿色地毯，精心编织的图案。一切都显示得秩序井然！",
@@ -1753,7 +1741,6 @@
 		"czech": "Fialový koberec 3x3",
 	},
 	"carpetCircle3x3_0_2Description": {
-		// TODO-dutch: swapped green and purple
 		// TODO-russian: swapped green and purple
 		// TODO-turkish: swapped green and purple
 		// TODO-korean: swapped green and purple
@@ -1761,7 +1748,7 @@
 		// TODO-polish: swapped green and purple
 		"english": "This purple, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
 		"german": "Dieser hochwertige, lila Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
-		"dutch": "Dit groene, hoge kwaliteit vloerkleed geeft je kamer dat wat altijd mist. Je weet wat ik bedoel!",
+		"dutch": "Dit paarse, hoge kwaliteit vloerkleed geeft je kamer dat wat altijd mist. Je weet wat ik bedoel!",
 		"french": "Ce tapis violet de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
 		"spanish": "Este tapete violeta, de alta calidad le da a tus habitaciones aquello especial que les falta. ¡Sabes a qué me refiero!",
 		"russian": "Этот зеленый ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
@@ -1791,7 +1778,6 @@
 		"czech": "Zelený koberec 3x3",
 	},
 	"carpetCircle3x3_1_0Description": {
-		// TODO-dutch: swapped green and purple
 		// TODO-russian: swapped green and purple
 		// TODO-turkish: swapped green and purple
 		// TODO-korean: swapped green and purple
@@ -1802,7 +1788,7 @@
 		"french": "Un tapis vert bien fait avec un motif très structuré. Tout est en ordre !",
 		"spanish": "Un tapete verde bien hecho con un patrón muy estructurado. ¡Todo está en orden!",
 		"russian": "Высококлассный фиолетовый ковер с орнаментом. Как вы пожелаете!",
-		"dutch": "Een goed gemaakt paars vloerkleed met een net patroon. Alles is in orde!",
+		"dutch": "Een goed gemaakt groen vloerkleed met een net patroon. Alles is in orde!",
 		"portuguese": "Um tapete verde bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 보라색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "精心制作的绿色地毯，精心编织的图案。一切都显示得秩序井然！",
@@ -1954,7 +1940,6 @@
 		"czech": "Fialový koberec 5x3",
 	},
 	"carpet5x3_0_2Description": {
-		// TODO-dutch: swapped green and purple
 		// TODO-russian: swapped green and purple
 		// TODO-turkish: swapped green and purple
 		// TODO-korean: swapped green and purple
@@ -1962,7 +1947,7 @@
 		// TODO-polish: swapped green and purple
 		"english": "This purple, high-quality rug gives your rooms that special little something that's missing. You know what I mean!",
 		"german": "Dieser hochwertige, lila Teppich verleiht deinem Heim das gewisse Extra. Du weißt schon was ich meine!",
-		"dutch": "Dit groene, hoge kwaliteit vloerkleed geeft je kamer dat wat altijd mist. Je weet wat ik bedoel!",
+		"dutch": "Dit paarse, hoge kwaliteit vloerkleed geeft je kamer dat wat altijd mist. Je weet wat ik bedoel!",
 		"french": "Ce tapis violet de haute qualité donne à vos pièces ce petit quelque chose de spécial qui leur manque. Vous voyez ce que je veux dire !",
 		"spanish": "Este tapete violeta, de alta calidad le da a tus habitaciones aquello especial que les falta. ¡Sabes a qué me refiero!",
 		"russian": "Этот зеленый ковер высокого качества придаст вашим комнатам изюминку, которой не хватало. Если вы понимаете, о чем я.",
@@ -1992,7 +1977,6 @@
 		"czech": "Zelený koberec 5x3",
 	},
 	"carpet5x3_1_0Description": {
-		// TODO-dutch: swapped green and purple
 		// TODO-russian: swapped green and purple
 		// TODO-turkish: swapped green and purple
 		// TODO-korean: swapped green and purple
@@ -2003,7 +1987,7 @@
 		"french": "Un tapis vert bien fait avec un motif très structuré. Tout est en ordre !",
 		"spanish": "Un tapete verde bien hecho con un patrón muy estructurado. ¡Todo está en orden!",
 		"russian": "Высококлассный фиолетовый ковер с орнаментом. Как вы пожелаете!",
-		"dutch": "Een goed gemaakt paars vloerkleed met een net patroon. Alles is in orde!",
+		"dutch": "Een goed gemaakt groen vloerkleed met een net patroon. Alles is in orde!",
 		"portuguese": "Um tapete verde bem feito com um padrão muito estruturado. Tudo está em ordem!",
 		"korean": "구조적 패턴의 잘 만든 보라색 러그입니다. 모든 것이 정돈되어있어요!",
 		"chinese": "这款绿色高品质地毯为您的房间提升了档次。你知道我的意思！",

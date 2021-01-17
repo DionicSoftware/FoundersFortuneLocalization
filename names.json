@@ -26,6 +26,7 @@
 		"polish": "Owca %name%",
 		"japanese": "%name%",
 		"chinese": "%name%",
+		"czech": "Ovce jménem %name%",
 	},
 	"customNameCow": {
 		"english": "%name% the Cow",
@@ -39,6 +40,7 @@
 		"polish": "Krowa %name%",
 		"japanese": "%name%",
 		"chinese": "%name%",
+		"czech": "Kráva jménem %name%",
 	},
 	"customNamePig": {
 		"english": "%name% the Pig",
@@ -52,6 +54,7 @@
 		"polish": "Świnka %name%",
 		"japanese": "%name%",
 		"chinese": "%name%",
+		"czech": "Prase jménem %name%",
 	},
 
 	// Animals
@@ -69,6 +72,7 @@
 		"polish": "Owca",
 		"japanese": "羊",
 		"chinese": "羊",
+		"czech": "Ovce",
 	},
 	"animal_sheep_Plural":  { // in some languages plural and singular are the same
 		"english": "Sheep",
@@ -82,6 +86,7 @@
 		"polish": "Owce",
 		"japanese": "羊の群れ",
 		"chinese": "羊群",
+		"czech": "Ovce",
 	},
 	"animalDesc_sheep":  {
 		"english": "Sheep are good alrounders to keep your economy going. They can provide you with wool, but only a small amount of meat.",
@@ -94,6 +99,7 @@
 		"romanian": "Oile sunt bune pentru a vă menține economia. Ele vă pot oferi lână, însă doar o cantitate mică de carne.",
 		"japanese": "羊は生活を支える良い家畜あり、肉を少量とウールを手に入れる事が出来ます。",
 		"chinese": "牧羊是使经济持续发展的好办法，它们可以为您提供羊毛，但只能提供少量的肉。",
+		"czech": "Ovce vám poskytnou vlnu, ale jen malé množství masa.",
 	},
 	"animal_cow":  {
 		"english": "Cow",
@@ -107,6 +113,7 @@
 		"polish": "Krowa",
 		"japanese": "牛",
 		"chinese": "牛",
+		"czech": "Kráva",
 	},
 	"animal_cow_Plural":  {
 		"english": "Cows",
@@ -120,6 +127,7 @@
 		"polish": "Krowy",
 		"japanese": "牛の群れ",
 		"chinese": "牛群",
+		"czech": "Krávy",
 	},
 	"animalDesc_cow":  {
 		"english": "Cows are more difficult to tame and they take longer to grow up. But it's worth it: They can provide you with milk and a large amount of meat.",
@@ -132,6 +140,7 @@
 		"romanian": "Vacile sunt mai greu de îmblânzit și durează mai mult să crească. Dar merită: ele vă pot oferi lapte și o cantitate mare de carne.",
 		"japanese": "牛の飼育は時間と手間がかかりますが、それに見合うだけの肉と牛乳を手に入れる事が出来ます。",
 		"chinese": "奶牛较难驯服，成长所需的时间也更长。但这一切都值得：它们可以为你提供牛奶和大量肉类。",
+		"czech": "Krávy se obtížněji krotí a vyrůstají déle. Ale stojí to za to: Mohou vám poskytnout mléko a velké množství masa.",
 	},
 	"animal_pig":  {
 		"english": "Pig",
@@ -145,6 +154,7 @@
 		"polish": "Świnia",
 		"japanese": "豚",
 		"chinese": "猪",
+		"czech": "Prase",
 	},
 	"animal_pig_Plural":  {
 		"english": "Pigs",
@@ -158,6 +168,7 @@
 		"polish": "Świnie",
 		"japanese": "豚の群れ",
 		"chinese": "猪群",
+		"czech": "Prasata",
 	},
 	"animalDesc_pig":  {
 		"english": "Pigs grow up quickly and provide you with a large amount of meat. The ultimate solution to keep your villagers fed!",
@@ -170,6 +181,7 @@
 		"romanian": "Porcii cresc rapid și vă oferă o cantitate mare de carne. Soluția ultimă pentru a vă menține sătenii hrăniți.",
 		"japanese": "豚は成長が早く肉を大量に手に入れる事が出来るため、豚の飼育はコロニー維持の必須の一つです。",
 		"chinese": "猪长得很快，并为您提供大量的肉。这是让村民饱食的最终解决方案！",
+		"czech": "Prasata rychle rostou a poskytují velké množství masa. Konečné řešení, jak udržet své vesničany nasycené!",
 	},
 
 
@@ -193,6 +205,7 @@
 		"italian": "Abraham",
 		"romanian": "Avram",
 		"japanese": "アブラハム",
+		"czech": "Abraham",
 	},
 	"wilhelmMaleName_2": {
 		"english": "Adam",
@@ -211,6 +224,7 @@
 		"italian": "Adam",
 		"romanian": "Adam",
 		"japanese": "アダム",
+		"czech": "Adam",
 	},
 	"wilhelmMaleName_3": {
 		"english": "Albert",
@@ -229,6 +243,7 @@
 		"italian": "Albert",
 		"romanian": "Albert",
 		"japanese": "アルバート",
+		"czech": "Albert",
 	},
 	"wilhelmMaleName_4": {
 		"english": "Alex",
@@ -247,6 +262,7 @@
 		"italian": "Alex",
 		"romanian": "Alex",
 		"japanese": "アレックス",
+		"czech": "Alex",
 	},
 	"wilhelmMaleName_5": {
 		"english": "Alexander",
@@ -265,6 +281,7 @@
 		"italian": "Alexander",
 		"romanian": "Alexandru",
 		"japanese": "アレクサンダー",
+		"czech": "Alexandr",
 	},
 	"wilhelmMaleName_6": {
 		"english": "Andreas",
@@ -283,6 +300,7 @@
 		"italian": "Andreas",
 		"romanian": "Andrei",
 		"japanese": "アンドレアス",
+		"czech": "Aleš",
 	},
 	"wilhelmMaleName_7": {
 		"english": "Anton",
@@ -301,6 +319,7 @@
 		"italian": "Anton",
 		"romanian": "Anton",
 		"japanese": "アントン",
+		"czech": "Artur",
 	},
 	"wilhelmMaleName_8": {
 		"english": "Antonius",
@@ -319,6 +338,7 @@
 		"italian": "Antonius",
 		"romanian": "Antoniu",
 		"japanese": "アントニウス",
+		"czech": "Antonín",
 	},
 	"wilhelmMaleName_9": {
 		"english": "Archibald",
@@ -337,6 +357,7 @@
 		"italian": "Archibald",
 		"romanian": "Aurel",
 		"japanese": "アーチボルド",
+		"czech": "Archibald",
 	},
 	"wilhelmMaleName_10": {
 		"english": "Armin",
@@ -355,6 +376,7 @@
 		"italian": "Armin",
 		"romanian": "Alin",
 		"japanese": "アーミン",
+		"czech": "Armin",
 	},
 	"wilhelmMaleName_11": {
 		"english": "August",
@@ -372,7 +394,8 @@
 		"chinese": "奥古斯特",
 		"italian": "August",
 		"romanian": "Augustin",
-		"japanese": "オーガスト",		
+		"japanese": "オーガスト",
+		"czech": "August",
 	},
 	"wilhelmMaleName_12": {
 		"english": "Ben",
@@ -390,6 +413,7 @@
 		"chinese": "本",
 		"italian": "Ben",
 		"japanese": "ベン",
+		"czech": "Ben",
 	},
 	"wilhelmMaleName_13": {
 		"english": "Benjamin",
@@ -407,6 +431,7 @@
 		"chinese": "本杰明",
 		"italian": "Benjamin",
 		"japanese": "ベンジャミン",
+		"czech": "Benjamin",
 	},
 	"wilhelmMaleName_14": {
 		"english": "Bert",
@@ -424,6 +449,7 @@
 		"chinese": "伯特",
 		"italian": "Bert",
 		"japanese": "バート",
+		"czech": "Bert",
 	},
 	"wilhelmMaleName_15": {
 		"english": "Bernhard",
@@ -441,6 +467,7 @@
 		"chinese": "伯恩哈德",
 		"italian": "Bernhard",
 		"japanese": "ベルンハルト",
+		"czech": "Bernhard",
 	},
 	"wilhelmMaleName_16": {
 		"english": "Carlo",
@@ -458,6 +485,7 @@
 		"chinese": "卡洛",
 		"italian": "Carlo",
 		"japanese": "カルロ",
+		"czech": "Karel",
 	},
 	"wilhelmMaleName_17": {
 		"english": "Christian",
@@ -475,6 +503,7 @@
 		"chinese": "克里斯蒂安",
 		"italian": "Christian",
 		"japanese": "クリスチャン",
+		"czech": "Kristián",
 	},
 	"wilhelmMaleName_18": {
 		"english": "Christoph",
@@ -492,6 +521,7 @@
 		"chinese": "克里斯托夫",
 		"italian": "Christoph",
 		"japanese": "クリストフ",
+		"czech": "Kryštof",
 	},
 	"wilhelmMaleName_19": {
 		"english": "Daniel",
@@ -509,6 +539,7 @@
 		"chinese": "丹尼尔",
 		"italian": "Daniel",
 		"japanese": "ダニエル",
+		"czech": "Daniel",
 	},
 	"wilhelmMaleName_20": {
 		"english": "David",
@@ -526,6 +557,7 @@
 		"chinese": "戴维",
 		"italian": "David",
 		"japanese": "デビッド",
+		"czech": "David",
 	},
 	"wilhelmMaleName_21": {
 		"english": "Dennis",
@@ -543,6 +575,7 @@
 		"chinese": "丹尼斯",
 		"italian": "Dennis",
 		"japanese": "デニス",
+		"czech": "Denis",
 	},
 	"wilhelmMaleName_22": {
 		"english": "Dimitri",
@@ -560,6 +593,7 @@
 		"chinese": "迪米特里",
 		"italian": "Dimitri",
 		"japanese": "ディミトリ",
+		"czech": "Dušan",
 	},
 	"wilhelmMaleName_23": {
 		"english": "Eberhard",
@@ -576,7 +610,8 @@
 		"polish": "Emmanuel",
 		"chinese": "埃伯哈德",
 		"italian": "Eberhard",
-		"japanese": "エバハルト",		
+		"japanese": "エバハルト",
+		"czech": "Evžen",
 	},
 	"wilhelmMaleName_24": {
 		"english": "Eduard",
@@ -594,6 +629,7 @@
 		"chinese": "爱德华",
 		"italian": "Eduard",
 		"japanese": "エドゥアルド",
+		"czech": "Eduard",
 	},
 	"wilhelmMaleName_25": {
 		"english": "Emil",
@@ -611,6 +647,7 @@
 		"chinese": "埃米尔",
 		"italian": "Emil",
 		"japanese": "エミル",
+		"czech": "Emil",
 	},
 	"wilhelmMaleName_26": {
 		"english": "Ferdinand",
@@ -628,6 +665,7 @@
 		"chinese": "斐迪南",
 		"italian": "Ferdinand",
 		"japanese": "フェルディナンド",
+		"czech": "Ferdinand",
 	},
 	"wilhelmMaleName_27": {
 		"english": "Florian",
@@ -645,8 +683,9 @@
 		"chinese": "佛罗莱恩",
 		"italian": "Florian",
 		"japanese": "フロリアン",
+		"czech": "Felix",
 	},
-		"wilhelmMaleName_28": {
+	"wilhelmMaleName_28": {
 		"english": "Franz",
 		"german": "Franz",
 		"french": "Franck", 
@@ -662,6 +701,7 @@
 		"chinese": "弗朗茨",
 		"italian": "Franz",
 		"japanese": "フランツ",
+		"czech": "František",
 	},
 	"wilhelmMaleName_29": {
 		"english": "Frederick",
@@ -679,6 +719,7 @@
 		"chinese": "弗雷德里克",
 		"italian": "Frederick",
 		"japanese": "フレデリック",
+		"czech": "Frederik",
 	},
 	"wilhelmMaleName_30": {
 		"english": "Friedrich",
@@ -696,6 +737,7 @@
 		"chinese": "弗雷德里希",
 		"italian": "Friedrich",
 		"japanese": "フリードリヒ",
+		"czech": "Fridrich",
 	},
 	"wilhelmMaleName_31": {
 		"english": "Fritz",
@@ -713,6 +755,7 @@
 		"chinese": "弗里茨",
 		"italian": "Fritz",
 		"japanese": "フリッツ",
+		"czech": "Filip",
 	},
 	"wilhelmMaleName_32": {
 		"english": "Gabriel",
@@ -730,6 +773,7 @@
 		"chinese": "加百列",
 		"italian": "Gabriel",
 		"japanese": "ガブリエル",
+		"czech": "Gabriel",
 	},
 	"wilhelmMaleName_33": {
 		"english": "Günther",
@@ -747,6 +791,7 @@
 		"chinese": "君特",
 		"italian": "Günther",
 		"japanese": "ギュンター",
+		"czech": "Gregor",
 	},
 	"wilhelmMaleName_34": {
 		"english": "Gustav",
@@ -764,6 +809,7 @@
 		"chinese": "古斯塔夫",
 		"italian": "Gustav",
 		"japanese": "グフタス",
+		"czech": "Gustav",
 	},
 	"wilhelmMaleName_35": {
 		"english": "Hans",
@@ -781,6 +827,7 @@
 		"chinese": "汉斯",
 		"italian": "Hans",
 		"japanese": "ハンス",
+		"czech": "Jan",
 	},
 	"wilhelmMaleName_36": {
 		"english": "Helmut",
@@ -798,6 +845,7 @@
 		"chinese": "科尔",
 		"italian": "Helmut",
 		"japanese": "ヘルムート",
+		"czech": "Hugo",
 	},
 	"wilhelmMaleName_37": {
 		"english": "Herbert",
@@ -815,6 +863,7 @@
 		"chinese": "赫伯特",
 		"italian": "Herbert",
 		"japanese": "ハーバート",
+		"czech": "Herbert",
 	},
 	"wilhelmMaleName_38": {
 		"english": "Hermann",
@@ -832,6 +881,7 @@
 		"chinese": "赫尔曼",
 		"italian": "Hermann",
 		"japanese": "ヘルマン",
+		"czech": "Herman",
 	},
 	"wilhelmMaleName_39": {
 		"english": "Hubert",
@@ -849,6 +899,7 @@
 		"chinese": "休伯特",
 		"italian": "Hubert",
 		"japanese": "ヒューバート",
+		"czech": "Hubert",
 	},
 	"wilhelmMaleName_40": {
 		"english": "Horst",
@@ -866,6 +917,7 @@
 		"chinese": "霍斯特",
 		"italian": "Horst",
 		"japanese": "ホルスト",
+		"czech": "Hynek",
 	},
 	"wilhelmMaleName_41": {
 		"english": "Jan",
@@ -883,6 +935,7 @@
 		"chinese": "简",
 		"italian": "Jan",
 		"japanese": "ジャン",
+		"czech": "Jiří",
 	},
 	"wilhelmMaleName_42": {
 		"english": "Jannis",
@@ -900,6 +953,7 @@
 		"chinese": "詹妮斯",
 		"italian": "Jannis",
 		"japanese": "ジャニス",
+		"czech": "Jarmil",
 	},
 	"wilhelmMaleName_43": {
 		"english": "Jacob",
@@ -917,6 +971,7 @@
 		"chinese": "雅各布",
 		"italian": "Jacob",
 		"japanese": "ヤコブ",
+		"czech": "Jakub",
 	},
 	"wilhelmMaleName_44": {
 		"english": "Jens",
@@ -934,6 +989,7 @@
 		"chinese": "延斯",
 		"italian": "Jens",
 		"japanese": "イェンス",
+		"czech": "Jozef",
 	},
 	"wilhelmMaleName_45": {
 		"english": "Joachim",
@@ -951,6 +1007,7 @@
 		"chinese": "约阿希姆",
 		"italian": "Joachim",
 		"japanese": "ヨアヒム",
+		"czech": "Janek",
 	},
 	"wilhelmMaleName_46": {
 		"english": "Johann",
@@ -968,6 +1025,7 @@
 		"chinese": "约翰",
 		"italian": "Johann",
 		"japanese": "ヨハン",
+		"czech": "Johan",
 	},
 	"wilhelmMaleName_47": {
 		"english": "Johannes",
@@ -985,6 +1043,7 @@
 		"chinese": "约翰尼斯",
 		"italian": "Johannes",
 		"japanese": "ヨハネス",
+		"czech": "Jindřich",
 	},
 	"wilhelmMaleName_48": {
 		"english": "Jonathan",
@@ -1002,6 +1061,7 @@
 		"chinese": "乔纳森",
 		"italian": "Jonathan",
 		"japanese": "ジョナサン",
+		"czech": "Julián",
 	},
 	"wilhelmMaleName_49": {
 		"english": "Josef",
@@ -1019,6 +1079,7 @@
 		"chinese": "约瑟夫",
 		"italian": "Josef",
 		"japanese": "ジョセフ",
+		"czech": "Josef",
 	},
 	"wilhelmMaleName_50": {
 		"english": "Jürgen",
@@ -1036,6 +1097,7 @@
 		"chinese": "尤尔根 ",
 		"italian": "Jürgen",
 		"japanese": "ユルゲン",
+		"czech": "Ivoš",
 	},
 	"wilhelmMaleName_51": {
 		"english": "Carl",
@@ -1053,6 +1115,7 @@
 		"chinese": "卡尔",
 		"italian": "Carl",
 		"japanese": "カール",
+		"czech": "Igor",
 	},
 	"wilhelmMaleName_52": {
 		"english": "Kilian",
@@ -1070,6 +1133,7 @@
 		"chinese": "基利恩",
 		"italian": "Kilian",
 		"japanese": "キリアン",
+		"czech": "Kvído",
 	},
 	"wilhelmMaleName_53": {
 		"english": "Konrad",
@@ -1087,6 +1151,7 @@
 		"chinese": "康拉德",
 		"italian": "Konrad",
 		"japanese": "コンラッド",
+		"czech": "Konrád",
 	},
 	"wilhelmMaleName_54": {
 		"english": "Konstantin",
@@ -1104,6 +1169,7 @@
 		"chinese": "康斯坦丁",
 		"italian": "Konstantin",
 		"japanese": "コンスタンチン",
+		"czech": "Konstantin",
 	},
 	"wilhelmMaleName_55": {
 		"english": "Lucas",
@@ -1121,8 +1187,9 @@
 		"chinese": "卢卡斯",
 		"italian": "Lucas",
 		"japanese": "ルーカス",
+		"czech": "Lukáš",
 	},
-		"wilhelmMaleName_56": {
+	"wilhelmMaleName_56": {
 		"english": "Leo",
 		"german": "Leo",
 		"french": "Léo", 
@@ -1138,6 +1205,7 @@
 		"chinese": "利奥",
 		"italian": "Leo",
 		"japanese": "レオ",
+		"czech": "Leo",
 	},
 	"wilhelmMaleName_57": {
 		"english": "Leonardo",
@@ -1155,6 +1223,7 @@
 		"chinese": "李奥纳多",
 		"italian": "Leonardo",
 		"japanese": "レオナルド",
+		"czech": "Leonard",
 	},
 	"wilhelmMaleName_58": {
 		"english": "Mario",
@@ -1172,6 +1241,7 @@
 		"chinese": "马里奥 ",
 		"italian": "Mario",
 		"japanese": "マリオ",
+		"czech": "Mário",
 	},
 	"wilhelmMaleName_59": {
 		"english": "Martin",
@@ -1189,6 +1259,7 @@
 		"chinese": "马丁",
 		"italian": "Martin",
 		"japanese": "マーティン",
+		"czech": "Martin",
 	},
 	"wilhelmMaleName_60": {
 		"english": "Marvin",
@@ -1206,6 +1277,7 @@
 		"chinese": "马文",
 		"italian": "Marvin",
 		"japanese": "マーヴィン",
+		"czech": "Mojmír",
 	},
 	"wilhelmMaleName_61": {
 		"english": "Matthew",
@@ -1223,6 +1295,7 @@
 		"chinese": "马修 ",
 		"italian": "Matthew",
 		"japanese": "マシュー",
+		"czech": "Matěj",
 	},
 	"wilhelmMaleName_62": {
 		"english": "Max",
@@ -1240,6 +1313,7 @@
 		"chinese": "马克斯",
 		"italian": "Max",
 		"japanese": "マックス",
+		"czech": "Max",
 	},
 	"wilhelmMaleName_63": {
 		"english": "Maximilian",
@@ -1257,6 +1331,7 @@
 		"chinese": "马克西米兰",
 		"italian": "Maximilian",
 		"japanese": "マキシミリアン",
+		"czech": "Maxmilián",
 	},
 	"wilhelmMaleName_64": {
 		"english": "Michael",
@@ -1274,6 +1349,7 @@
 		"chinese": "迈克尔",
 		"italian": "Michael",
 		"japanese": "マイケル",
+		"czech": "Michael",
 	},
 	"wilhelmMaleName_65": {
 		"english": "Moritz",
@@ -1291,6 +1367,7 @@
 		"chinese": "莫里茨",
 		"italian": "Moritz",
 		"japanese": "モリッツ",
+		"czech": "Marek",
 	},
 	"wilhelmMaleName_66": {
 		"english": "Nathanael",
@@ -1308,6 +1385,7 @@
 		"chinese": "纳撒尼尔",
 		"italian": "Nathanael",
 		"japanese": "ナタナエル",
+		"czech": "Marcel",
 	},
 	"wilhelmMaleName_67": {
 		"english": "Nico",
@@ -1325,6 +1403,7 @@
 		"chinese": "尼科",
 		"italian": "Nico",
 		"japanese": "ニコ",
+		"czech": "Miloš",
 	},
 	"wilhelmMaleName_68": {
 		"english": "Oliver",
@@ -1342,6 +1421,7 @@
 		"chinese": "奥利弗",
 		"italian": "Oliver",
 		"japanese": "オリバー",
+		"czech": "Oliver",
 	},
 	"wilhelmMaleName_69": {
 		"english": "Otto",
@@ -1359,6 +1439,7 @@
 		"chinese": "奥托",
 		"italian": "Otto",
 		"japanese": "オットー",
+		"czech": "Oto",
 	},
 	"wilhelmMaleName_70": {
 		"english": "Patrick",
@@ -1376,6 +1457,7 @@
 		"chinese": "帕特里克",
 		"italian": "Patrick",
 		"japanese": "パトリック",
+		"czech": "Patrik",
 	},
 	"wilhelmMaleName_71": {
 		"english": "Peter",
@@ -1393,6 +1475,7 @@
 		"chinese": "彼得",
 		"italian": "Peter",
 		"japanese": "ピーター",
+		"czech": "Petr",
 	},
 	"wilhelmMaleName_72": {
 		"english": "Philipp",
@@ -1410,6 +1493,7 @@
 		"chinese": "菲利普",
 		"italian": "Philipp",
 		"japanese": "フィリップ",
+		"czech": "Pavel",
 	},
 	"wilhelmMaleName_73": {
 		"english": "Ralf",
@@ -1427,6 +1511,7 @@
 		"chinese": "拉尔夫",
 		"italian": "Ralf",
 		"japanese": "ラルフ",
+		"czech": "Rudolf",
 	},
 	"wilhelmMaleName_74": {
 		"english": "René",
@@ -1444,6 +1529,7 @@
 		"chinese": "勒内",
 		"italian": "René",
 		"japanese": "ルネ",
+		"czech": "René",
 	},
 	"wilhelmMaleName_75": {
 		"english": "Robert",
@@ -1461,6 +1547,7 @@
 		"chinese": "罗伯特",
 		"italian": "Robert",
 		"japanese": "ロバート",
+		"czech": "Robert",
 	},
 	"wilhelmMaleName_76": {
 		"english": "Roland",
@@ -1478,6 +1565,7 @@
 		"chinese": "罗兰",
 		"italian": "Roland",
 		"japanese": "ローランド",
+		"czech": "Roland",
 	},
 	"wilhelmMaleName_77": {
 		"english": "Roman",
@@ -1495,6 +1583,7 @@
 		"chinese": "罗曼",
 		"italian": "Roman",
 		"japanese": "ローマン",
+		"czech": "Roman",
 	},
 	"wilhelmMaleName_78": {
 		"english": "Sebastian",
@@ -1512,6 +1601,7 @@
 		"chinese": "塞巴斯蒂安",
 		"italian": "Sebastian",
 		"japanese": "セバスチャン",
+		"czech": "Sebastián",
 	},
 	"wilhelmMaleName_79": {
 		"english": "Samuel",
@@ -1529,6 +1619,7 @@
 		"chinese": "塞缪尔",
 		"italian": "Samuel",
 		"japanese": "サミュエル",
+		"czech": "Samuel",
 	},
 	"wilhelmMaleName_80": {
 		"english": "Siegfried",
@@ -1546,6 +1637,7 @@
 		"chinese": "齐格弗里德",
 		"italian": "Siegfried",
 		"japanese": "ジークフリート",
+		"czech": "Šimon",
 	},
 	"wilhelmMaleName_81": {
 		"english": "Stefan",
@@ -1563,6 +1655,7 @@
 		"chinese": "斯蒂芬",
 		"italian": "Stefan",
 		"japanese": "ステファン",
+		"czech": "Štěpán",
 	},
 	"wilhelmMaleName_82": {
 		"english": "Thilo",
@@ -1580,6 +1673,7 @@
 		"chinese": "蒂洛",
 		"italian": "Thilo",
 		"japanese": "ティーロ",
+		"czech": "Teodor",
 	},
 	"wilhelmMaleName_83": {
 		"english": "Thomas",
@@ -1597,6 +1691,7 @@
 		"chinese": "托马斯",
 		"italian": "Thomas",
 		"japanese": "トーマス",
+		"czech": "Tomáš",
 	},
 	"wilhelmMaleName_84": {
 		"english": "Tobias",
@@ -1614,6 +1709,7 @@
 		"chinese": "托拜厄斯",
 		"italian": "Tobias",
 		"japanese": "トビアス",
+		"czech": "Tobiáš",
 	},
 	"wilhelmMaleName_85": {
 		"english": "Toni",
@@ -1631,6 +1727,7 @@
 		"chinese": "托妮",
 		"italian": "Toni",
 		"japanese": "トニ",
+		"czech": "Vilém",
 	},
 	"wilhelmMaleName_87": {
 		"english": "Walter",
@@ -1648,6 +1745,7 @@
 		"chinese": "沃尔特",
 		"italian": "Walter",
 		"japanese": "ウォルター",
+		"czech": "Vojtěch",
 	},
 	"wilhelmMaleName_88": {
 		"english": "Werner",
@@ -1665,6 +1763,7 @@
 		"chinese": "维尔纳",
 		"italian": "Werner",
 		"japanese": "ウェルナー",
+		"czech": "Viktor",
 	},
 	//please do NOT change Wilhelm ;)
 	"wilhelmMaleName_86": {
@@ -1683,6 +1782,7 @@
 		"chinese": "威廉",
 		"italian": "Wilhelm",
 		"japanese": "ウィルヘルム",
+		"czech": "Wilhelm",
 	},
 	"wilhelmMaleName_89": {
 		"english": "Wolfgang",
@@ -1700,6 +1800,7 @@
 		"chinese": "沃尔夫冈",
 		"italian": "Wolfgang",
 		"japanese": "ウルフガング",
+		"czech": "Vendelín",
 	},
 	"wilhelmMaleName_90": {
 		"english": "Xaver",
@@ -1717,6 +1818,7 @@
 		"chinese": "克萨韦尔",
 		"italian": "Xaver",
 		"japanese": "クザーヴァー",
+		"czech": "Vladan",
 	},
 	"wilhelmMaleName_91": {
 		"english": "Zacharias",
@@ -1734,6 +1836,7 @@
 		"chinese": "撒迦利亚",
 		"italian": "Zacharias",
 		"japanese": "ツァハリアス",
+		"czech": "Zachariáš",
 	},
 
 // Female Names

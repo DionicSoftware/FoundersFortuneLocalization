@@ -14,7 +14,7 @@
 		"chinese": "百科全书",
 		"italian": "Enciclopedia",
 		"Norwegian": "Leksikon",
-		"japanese": "ヘルプ",
+		"japanese": "ヘルプメニュー",
 		"czech": "Encyklopedie",
 	},
 	"helpMenuTitle_basics": {
@@ -1081,6 +1081,7 @@ Na przykład, ktoś cierpiący na pesymizm może być dużym ciężarem dla kolo
 例如，一个悲观的人可能会成为殖民地的累赘。然而，如果殖民者积累了足够的生活满意度，你可以让他们忘记悲观的性格，取而代之的是一些积极性格。",
 		"italian": "Se soddisfi sempre di più i desideri dei tuoi coloni, diventeranno sempre più soddisfatti della loro vita nella colonia. Questa soddisfazione non è solo necessaria per attirare nuovi migranti, ma ha anche un impatto a lungo termine. Ad ogni livello di soddisfazione, i tuoi coloni guadagnano un punto soddisfazione di vita. Una volta che i coloni ne hanno abbastanza, questi punti possono essere spesi per cambiare uno dei loro tratti caratteristici.
 Ad esempio: una persona pessimista potrebbe essere un vero ostacolo per la colonia. Tuttavia, se il colono accumula abbastanza punti soddisfazione di vita, puoi fargli dimenticare il tratto 'pessimista' e sostituirlo con qualcosa di positivo.",
+		"japanese": "コロニストの様々な願いにはそれに応じた満足度があります。これらが叶い、そして一定の満足度に達した場合、満足度ポイントを獲得できます。これらの満足度ポイントは、状況の改善、個性の変更に使用できます。",
 	},
 
 
@@ -1123,6 +1124,9 @@ Una volta che il villaggio è cresciuto un po', i suoi abitanti vorranno farsi n
 		"polish": "Na świecie nikt nie chce czuć się samotny, a dotyczy to w szczególności twoich kolonistów. Nawiązywanie przyjaźni i utrzymywanie ich to nie tylko dobra rozrywka, ale także podstawa dla dobrego samopoczucia.
 		
 Gdy wioska się nieco rozrośnie, jej mieszkańcy będą chcieli nawiązać nowe przyjaźnie. Pozwól im na interakcje między sobą celem wzmocnienia łączących ich więzi.",
+		"japanese": "コロニストは孤独になりたいとは思っていません。なぜなら彼らの幸せの一つが友人を作り、友情を育む事であるからです。
+		
+コロニーの発展と共に彼らの友人を作る事、友情を育む事も忘れずに行ってください。",
 	},
 	"helpMenuTitle_relationships_interactions": {
 		"english": "Social Interactions",
@@ -1134,6 +1138,7 @@ Gdy wioska się nieco rozrośnie, jej mieszkańcy będą chcieli nawiązać nowe
 		"chinese": "社交互动",
 		"italian": "Interazioni sociali",
 		"polish": "Interakcje społeczne",
+		"japanese": "コミュニケーションの方法",
 	},
 	"helpMenuText_relationships_interactions": {
 		"english": "There are a few different ways people can interact:
@@ -1225,6 +1230,14 @@ Se hai un sacco di gente che vuole farsi nuovi amici, prova ad organizzare una f
 - Chociaż przytulanie nie poprawia bezpośrednio relacji, sprawia, że wszyscy czują się lepiej - uściski są jednak dostępne tylko dla kumpli i przyjaciół.
 
 Jeśli masz wielu mieszkańców, którzy chcą poznać nowych przyjaciół, spróbuj zorganizować przyjęcie!",
+		"japanese": "コロニストは主に会話を通じて関係を築きます。ただし、楽しい場合もあれば詰まらない場合もあります。
+ジョークは非常に効果的である反面、非常に危険な物です。
+食べ物の話題は会話の定番ネタですが、空腹を招きます。
+ハグは関係を改善しませんが、心情を良くする事ができます。また親しい間柄でしか行えません。
+感銘を受けている場合、関係に与える前向きな効果は増大します。
+侮辱は関係を悪化させます。謝罪は少しだけ埋め合わせるだけです。
+
+友人をたくさん作りたいと考えるならば、パーティを開く事も考えてみてください。",
 	},
 	"helpMenuTitle_relationships_kids": {
 		"english": "Having Kids",
@@ -1236,6 +1249,7 @@ Jeśli masz wielu mieszkańców, którzy chcą poznać nowych przyjaciół, spr�
 		"chinese": "生育孩子",
 		"italian": "Avere figli",
 		"polish": "Posiadanie dzieci",
+		"japanese": "子供",
 	},
 	"helpMenuText_relationships_kids": {
 		"english": "Once two adults have reached a great friendship, they can kiss in order to make their relationship a romantic one. Only when they reach the maximum possible romantic relationship level, they will be thinking about having kids.
@@ -1265,5 +1279,7 @@ Affinché il villaggio possa accogliere nuovi membri, le aspettative di tutti gl
 		"polish": "Gdy dwoje dorosłych osiągnie w relacjach poziom wielkiej przyjaźni, mogą się pocałować, aby ich związek stał się romantyczny. Dopiero gdy osiągną maksymalny możliwy poziom romantycznego związku, zaczną myśleć o posiadaniu dzieci.
 
 Aby wioska mogła przyjąć nowych członków, oczekiwania wszystkich jej mieszkańców muszą zostać spełnione.",
+		"japanese": "大人であるコロニストが素晴らしい友情を育んだ場合、更に魅力的な関係になるべくキスする事ができます。それらの関係が深まった場合、彼らは子供を授かりたいと思うでしょう。ただし、全てのコロニストの期待が満たされている必要があります。",
+
 	},
 }

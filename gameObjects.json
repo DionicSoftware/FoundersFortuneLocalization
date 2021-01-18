@@ -4638,7 +4638,7 @@
 		"czech": "Tiki kontejner",
 	},
 	"tikiPots0": {
-		"english": "Tiki květináč",
+		"english": "Tiki Pots",
 		"german": "Tikivasen",
 		"french": "Pots tikis",
 		"spanish": "Ollas Tiki",
@@ -4651,7 +4651,7 @@
 		"chinese": "土著花盆",
 		"italian": "Vasi Tiki",
 		"japanese": "壺",
-		"czech": "Tiki Pots",
+		"czech": "Tiki hrnec",
 	},
 	"tikiPots1": {
 		"english": "Tiki Pots",
@@ -4667,7 +4667,7 @@
 		"chinese": "土著花盆",
 		"italian": "Vasi Tiki",
 		"japanese": "壺",
-		"czech": "Tiki Pots",
+		"czech": "Tiki hrnec",
 	},
 	"tikiPots2": {
 		"english": "Tiki Pots",
@@ -4683,7 +4683,7 @@
 		"chinese": "土著花盆",
 		"italian": "Vasi Tiki",
 		"japanese": "壺",
-		"czech": "Tiki Pots",
+		"czech": "Tiki hrnec",
 	},
 	"tikiHang0": {
 		"english": "Mystical Tiki Artefact",
@@ -5583,9 +5583,6 @@
 		"japanese": "収穫まで時間がかかりますが、それに見合うだけの価値があります。",
 		"czech": "I když jim růst trvá dlouho, jabloně se z dlouhodobého hlediska vyplatí.",
 	},
-
-
-
 
 	// Resources
 	//**********
@@ -7094,7 +7091,7 @@
 		"italian": "%supporter%, l'Illustre",
 		"polish": "%supporter% Wspaniały",
 		"japanese": "偉大な%supporter%",
-		//TODO-czech
+		"czech": "%supporter% Velik%yA%",
 	},
 	"statueFounderSupporterDescription": {
 		"english": "As one of the original Founders, %supporter% the Great contributed to make this colony possible.\n\nEternal thanks to %himHer%. May %heShe% always have food in winter!",
@@ -7110,7 +7107,7 @@
 		"chinese": "作为最初的创建者之一，这位伟大的%supporter%为这个殖民地做出了贡献。\n\n永远感谢%himHer%。愿%heShe%永远有食物过冬!",
 		"italian": "In qualità di uno dei Fondatori original, %supporter%, l'Illustre, ha contribuito a rendere possibile questa colonia.\n\nUn eterno grazie nei suoi confronti. Possa avere sempre cibo durante l'inverno!",
 		"japanese": "草創期のコロニストの一人である「偉大な%supporter%」の多大なる貢献によりコロニーの未来が拓かれました。我々もこれに続き未来へ飢える事無き様コロニーを発展させてまいります。",
-		//TODO-czech
+		"czech": "Jako jeden z hlavních Zakladatelů, %supporter% Velik%yA% přispěl k tomu, aby byla tato kolonie možná.\n\nVelké díky. Můžeme mít pořád jídlo v zimě!",
 	},
 	"statueGoblin0": {
 		"english": "Statue of Kū the Strong",
@@ -7124,7 +7121,7 @@
 		"dutch": "Standbeeld van Kū de Sterke",
 		"italian": "Statua di Kū, il Possente",
 		"japanese": "強きクーの像",
-		//TODO-czech
+		"czech": "Socha Kū Silného",
 	},
 	//TODO-korean: All 3 goblin statue descriptions have an additional sentence at the end. There is only 1 todo for all of them
 	//TODO-dutch: All 3 goblin statue descriptions have an additional sentence at the end. There is only 1 todo for all of them
@@ -7140,7 +7137,8 @@
 		"dutch": "Standbeeld vertoont Kū de Sterke. Legendes zeggen, dat hij het was die de stammen van het eiland verenigde om een piraten invasie af te slaan, lang geleden. Tot het heden, weet elke Tikigoblin de naam van hun grote commandant.",
 		"italian": "Questa statua rappresenta Kū, il Possente. Le leggende narrano che fu lui ad unire le tribù delle isole per combattere contro l'invasione dei pirati, molto tempo fa. Ad oggi, ogni Tikigoblin conosce il nome del suo grande comandante.\n\nCostruisci questa statua vicino ad un villaggio Tikigoblin e lo considereranno un regalo.",
 		"japanese": "ティキゴブリンに伝わる強きクー。男性である彼は島の部族を団結させて海賊の侵入を撃退しました。すべてのティキゴブリンで彼の名前を知らない者はいません。ティキゴブリンの村の近くに建立すると友好の証となります。",
-		//TODO-czech
+		"czech": "Tato socha ukazuje Kū Silného. Legendy říkají, že to byl on, kdo už dávno spojil kmeny ostrovů, aby zahnaly pirátskou invazi. Dodnes každý Tikigoblin zná jméno svého velkého velitele.\n\nPostavte tuto sochu poblíž vesnice Tikigoblinů a oni ji pak budou považovat za dárek.",
+		
 	},
 	"statueGoblin1": {
 		"english": "Statue of Hina the Brave",
@@ -7154,7 +7152,7 @@
 		"dutch": "Standbeeld van Hina de Dappere",
 		"italian": "Statua di Hina, la Valorosa",
 		"japanese": "勇ましきヒナの像",
-		//TODO-czech
+		"czech": "Socha Hiny Statečného",
 	},
 	"statueGoblin1Description": {
 		"english": "As a role model for Tikigoblin women, Hina embodies courage, strength and wisdom. A long long time ago, she faced the danger of a vulcano eruption and thereby introduced the Tikigoblins to fire. Eternal thanks to her for light in the dark and hot meals in the cauldron!\n\nBuild this statue near a Tikigoblin village and they will consider it a present.",
@@ -7168,7 +7166,7 @@
 		"chinese": "作为土著哥布林女性的榜样，希娜代表着了勇气、力量与智慧。很久很久以前，她面临着火山爆发的危险，给土著哥布林带来了火种。感谢她在黑暗中为我们带来光明，让大锅烹饪出热腾腾的饭菜!",
 		"italian": "Come modello per le donne Tikigoblin, Hina incarna coraggio, forza e saggezza. Molto tempo fa, affrontò la pericolosità di un'eruzione vulcanica e fu così che introdusse i Tikigoblin al fuoco. Un eterno grazie a lei per la luce dove regna il buio e per i pasti caldi dal calderone!\n\nCostruisci questa statua vicino a un villaggio di Tikigoblin e lo considereranno un regalo.",
 		"japanese": "ティキゴブリンに伝わる勇ましきヒナ。女性である彼女は自然災害により疲弊したティキゴブリンへ諦めない希望を与えました。今では女性の模範とする姿となっています。ティキゴブリンの村の近くに建立すると友好の証となります。",
-		//TODO-czech
+		"czech": "Jako vzor pro ženy Tikigoblinů ztělesňuje Hina odvahu, sílu a moudrost. Věčné díky jí za světlo ve tmě a teplá jídla v kotli!\n\nPostavte tuto sochu poblíž vesnice Tikigoblinů.Budou ji považovat za dárek.",
 	},
 	"statueGoblin2": {
 		"english": "Statue of Wākea the Just",
@@ -7182,7 +7180,7 @@
 		"dutch": "Standbeeld van Wākea de Rechtvaardige",
 		"italian": "Statua di Wākea, il Giusto",
 		"japanese": "厳正なワーケアの像",
-		//TODO-czech
+		"czech": "Socha Wākea Spravedlivého",
 	},
 	"statueGoblin2Description": {
 		"english": "In a time of long lasting war and destruction, Wākea the Just's talent for negotiation enabled a (short-lived) era of peace. While the tribes still quarrel over several matters, Wākea taught them that it's sometimes better to give in and work together. No matter how severe the conflict might seem, there is always a solution. One just has to search for it!\n\nBuild this statue near a Tikigoblin village and they will consider it a present.",
@@ -7196,7 +7194,7 @@
 		"chinese": "漫长的战争过后wakea成功的协调各部落进入了(短暂)和平的时代。虽然部落们不太乐意，但wakea还是教导了他们要共同合作、放弃成见等道理。无论冲突有多激烈，总会有解决办法的。只要有人尝试去寻找这个方法！",
 		"italian": "In un'epoca di guerre e distruzione durevoli, il talento di Wākea il Giusto permise, tramite la negoziazione, la giunta di un'era di pace (di breve durata). Sebbene le tribù litighino ancora sulle questioni gravi, Wākea ha insegnato loro che a volte è meglio cedere e lavorare insieme. Non importa quanto possa sembrare grave il conflitto, c'è sempre una soluzione. Bisogna solo saperla cercare!\n\nCostruisci questa statua vicino a un villaggio di Tikigoblin e lo considereranno un regalo.",
 		"japanese": "ティキゴブリンにに伝わる厳正なワーケア。男性である彼は長く続いた戦争と破壊の時代を話術による交渉で終わらせました。今でも問題は残っていますが、解決のために争いは行われていません。ティキゴブリンの村の近くに建立すると友好の証となります。",
-		//TODO-czech
+		"czech": "V době dlouhotrvající války a ničení umožnil talent Wākea Spravedlivého vyjednat (krátkodobou) éru míru. Zatímco se kmeny stále hádají kvůli několika věcem, Wākea je naučil, že je někdy lepší vzdát se a spolupracovat. Bez ohledu na to, jak závažný by se konflikt mohl zdát, vždy existuje řešení. Stačí jej hledat!\n\nPostavte tuto sochu poblíž vesnice Tikigoblinů. Budou ji považovat za dárek.",
 	},
 
 	// Lights

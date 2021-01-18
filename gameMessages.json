@@ -214,7 +214,7 @@
 		"italian": "%firstName% sta per giungere alla fine della sua lunga vita.",
 		"turkish": "%firstName%, yaşamının sonuna ermek üzere.",
 		"japanese": "%firstName% 長い長い人生の終わりが近づいています。",
-		"czech": "%firstName% je blízko svému konci. %hisHer% žila dlouhý život.",
+		"czech": "%firstName% je blízko svému konci. Ži%lA% dlouhý život.",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -350,7 +350,7 @@
 		"portuguese": "%fullName% morreu",
 		"chinese": "%firstName% 死了",
 		"japanese": "%fullName% 死亡",
-		"czech": "%fullName% umřela",
+		"czech": "%fullName% umře%lA%",
 	},
 	"notificationTitle_AnimalBecameWild": {
 		"english": "%fullName% has become untamed",
@@ -717,7 +717,7 @@
 		"italian": "%firstName% si è %FeritoFerita% alla gamba",
 		"polish": "%firstName% zranił%nicA% się w nogę",
 		"japanese": "%firstName% は、脚に痛みがあります",
-		"czech": "%firstName% se zrani%lA% %hisHer% nohu",
+		"czech": "%firstName% si zrani%lA% svou nohu",
 	},
 	"notificationTitle_LegBroken": {
 		"english": "%firstName% broke %hisHer% Leg",
@@ -734,7 +734,7 @@
 		"italian": "%firstName% si è %RottoRotta% la gamba",
 		"polish": "%firstName% złamał%nicA% nogę",
 		"japanese": "%firstName% は脚を損傷しました",
-		"czech": "%firstName% si zlomi%lA% %hisHer% nohu",
+		"czech": "%firstName% si zlomi%lA% svou nohu",
 	},
 	"notificationTitle_ArmHurt": {
 		"english": "%firstName% hurt %hisHer% Arm",
@@ -751,7 +751,7 @@
 		"italian": "%firstName% si è %FeritoFerita% al braccio",
 		"polish": "%firstName% zranił%nicA% się w rękę",
 		"japanese": "%firstName% は、腕に痛みがあります",
-		"czech": "%firstName% si zrani%lA% %hisHer% ruku",
+		"czech": "%firstName% si zrani%lA% svou ruku",
 	},
 	"notificationTitle_ArmBroken": {
 		"english": "%firstName% broke %hisHer% Arm",
@@ -768,7 +768,7 @@
 		"italian": "%firstName% si è %RottoRotta% il braccio",
 		"polish": "firstName% złamał%nicA% rękę",
 		"japanese": "%firstName% は脚を損傷しました",
-		"czech": "%firstName% si zlomi%lA% %hisHer% ruku",
+		"czech": "%firstName% si zlomi%lA% svou ruku",
 	},
 	"notificationTitle_AutosaveComplete": {
 		"english": "Autosave complete",
@@ -1467,7 +1467,7 @@
 		"chinese": "该殖民者一直都很可怕，终于不在忍让了。%heShe%现在发疯地随意殴打他人，朋友或者敌人。",
 		"italian": "Un colono si sentiva uno schifo da un po' di tempo e non ne poteva più. Adesso è impazzito e sta attaccando persone a caso, amiche o nemiche.",
 		"japanese": "コロニストは、しばらくの間恐ろしいと感じていて、それに耐え続けることができませんでした。 %cap-heShe%は、今狂っており無差別な人々、友人、敵を攻撃し打ち負かしています。",
-		"czech": "Kolonista se už nějakou dobu cítil hrozně a už to nedokázal vydržet. %cap-heShe% se nyní zblázni%lA% a mlátí náhodné lidi...přátelé nebo nepřátelé.",
+		"czech": "Kolonista se už nějakou dobu cítil hrozně a už to nedokázal vydržet. nyní se zblázni%lA% a mlátí náhodné lidi...přátelé nebo nepřátelé.",
 	},
 	"messageTitle_BreakdownRefusingWork": {
 		"english": "Burnout!",
@@ -1503,7 +1503,7 @@
 		"italian": "Un colono ha lavorato per troppo tempo in condizioni terribili, per cui ha semplicemente deciso che non gli importa più di nulla e che si rilasserà per un po'.",
 		"polish": "Jeden z kolonistów pracował ponad swoje siły od dłuższego czasu. Postanowił, że od tej chwili więcej czasu poświęci na relaks.",
 		"japanese": "コロニストは酷い状況下で働きすぎました。そのためもう何もかもを放棄し気にしないと決めて、しばらくリラックスして過ごすつもりです!",
-		"czech": "Kolonista za strašných podmínek pracoval příliš mnoho. %cap-heShe% se rozhod%lA% %heShe% už se o to nestará a na chvíli si odpočine.",
+		"czech": "Kolonista za strašných podmínek pracoval příliš dlouho. Rozhod%lA% se o nic se nestarat a na chvíli si odpočine.",
 	},
 	"messageTitle_BreakdownDestroyFurniture": {
 		"english": "Vandalism!",
@@ -1538,7 +1538,7 @@
 		"chinese": "%firstName%的生活质量非常不好。现在%heShe%想破坏东西已发泄不满。",
 		"italian": "La vita non è stata generosa con %firstName%. Adesso sta compiendo atti di vandalismo per sfogarsi un po'.",
 		"japanese": "人生は%firstName%にとって最高なものではありませんでした。現在、 %heShe%はストレスを吹き飛ばすために破壊行為に目を向けています。",
-		"czech": "Život tady není ten nejlepší pro %firstName%. Teď %heShe% se obráti%lA% k vandalismu, aby odpáli%lA% trochu páry.",
+		"czech": "Život tady není ten nejlepší pro %firstName%. Teď se %firstName% obráti%lA% k vandalismu, aby odpáli%lA% trochu páry.",
 	},
 	"messageTitle_BreakdownLazyDay": {
 		"english": "Lazy Day",
@@ -2172,7 +2172,7 @@
 		"portuguese": "%firstName% está infeliz há muito tempo. %cap-seuSua% seu mau estado mental fez com que ele se tornasse um novo traço: '%trait%'",
 		"chinese": "%firstName%很久以来一直很痛苦。%cap-hisHer%的不良心理状态已导致%himHer%获得新的症状：'%trait%'",
 		"japanese": "%firstName%は長い間悲惨な状況でした。%cap-hisHer% の精神状態が悪いため、新しい特性を獲得したようです。: '%trait%'",
-		"czech":  "%firstName% se cítí už dlouho mizerně. %cap-hisHer% má špatný duševní stav, který %himHer% způsobil novou trvalou vlastnost : '%trait%'",
+		"czech":  "%firstName% se cítí už dlouho mizerně. Má špatný duševní stav, který způsobil novou trvalou vlastnost : '%trait%'",
 	},
 
 

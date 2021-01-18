@@ -135,7 +135,7 @@
 		"chinese": "不错的铁制武器，由技艺精湛的工匠锻造而成。",
 		"italian": "Un'arma da mischia decente. Forgiata da un abile fabbro.",
 		"japanese": "まともな近接武器。熟練した職人によって鍛造されました。",
-		"czech": "Slušná zbraň na blízko. Kovaná zkušeným řemeslníkem.",
+		"czech": "Slušná zbraň na blízko ukovaná zkušeným řemeslníkem.",
 	},
 
 // Axes
@@ -241,7 +241,7 @@
 		"chinese": "从树木中获得150%的木材。你准备好用木头建立一个帝国了吗?",
 		"italian": "Usarla ti farà ricavare il 150% in più di legna dagli alberi. Il tuo impero di legno potrà avere inizio.",
 		"japanese": "鉄の斧は、木から150%多く材木を取得できます。この金属の斧があれば、帝国建設だって夢じゃない!",
-		"czech": "Získá ze stromů o 150% více dřeva. Jste připraveni vybudovat impérium ze dřeva?",
+		"czech": "Získá ze stromů o 150% více dřeva. Jste připraveni vybudovat dřevěné impérium?",
 	},
 
 // Pickaxes
@@ -279,7 +279,7 @@
 		"chinese": "采矿可以获得50%的资源。有人说踢腿不太健康。",
 		"italian": "Usandolo potrai estrarre il 50% in più di minerali. Secondo alcuni calciare non era la soluzione più salutare.",
 		"japanese": "木のツルハシは、採掘の際に50%多く採掘することが出来ます。足で蹴りながらの採掘は健康的ではないと誰かが言いました。",
-		"czech": "Z těžby získá o 50% více zdrojů. Někdo řekl, že kopat nohou není tak zdravé.",
+		"czech": "Z těžby získá o 50% více zdrojů. Někdo tu říkal, že kopat nohou není tak zdravé.",
 	},
 	"equipmentName_pickaxeStone": {
 		"english": "Stone Pickaxe",
@@ -313,7 +313,7 @@
 		"chinese": "从采矿中获得双倍的资源。你打算怎么处理这些石头和铁矿",
 		"italian": "Con questo potrai estrarre il doppio dei minerali. Cosa hai intenzione di fare con così tanta pietra e ferro?",
 		"japanese": "石のツルハシは、採掘の際に2倍多く採掘することが出来ます。そんなに沢山、石や鉄を採掘してどうするつもりですか?",
-		"czech": "Získá zdvojnásobení množství zdrojů z těžby. Co budeš dělat se vším tím kamenem a železem?",
+		"czech": "Získá dvojnásob množství zdrojů z těžby. Co budeš dělat se vším tím kamenem a železem?",
 	},
 	"equipmentName_pickaxeIron": {
 		"english": "Iron Pickaxe",
@@ -387,7 +387,7 @@
 		"chinese": "每一支箭都会造成重伤 - 如果它击中目标的话。",
 		"italian": "Ogni freccia infligge una grande quantità di danni, sempre se va a segno.",
 		"japanese": "それぞれの矢は、それが当たった場合、深刻な量のダメージを与えることが出来ます。",
-		"czech": "Každý šíp způsobí vážné poškození - pokud zasáhne.",
+		"czech": "Každý šíp způsobí vážné poškození - pokud tedy zasáhne.",
 	},
 
 // Clubs
@@ -426,7 +426,7 @@
 		"chinese": "土著哥布林用的就是这个普通的棍子。它可能对收藏家有特殊的价值!",
 		"italian": "Questo semplice bastone è usato dai Tikigoblin. Potrebbe avere un valore speciale per i collezionisti!",
 		"japanese": "木のこん棒は、ティキゴブリンが良く使っています。コレクターによっては特別な価値があるのかもしれません!",
-		"czech": "Tento obyčejný palcát používají Tiki goblini. Pro sběratele by mohl mít zvláštní hodnotu!",
+		"czech": "Tento obyčejný palcát používají Tikigoblini. Pro sběratele by mohl mít zvláštní hodnotu!",
 	},
 	"equipmentName_clubStone": {
 		"english": "Stone Club",
@@ -615,7 +615,7 @@
 		"chinese": "需要很长时间才能生产出来，但能很好地防护穿着的人。",
 		"italian": "Fabbricarla impiega molto tempo, ma protegge piuttosto bene il portatore.",
 		"japanese": "生産には長い時間がかかりますが、持ち主をしっかりと保護してくれます。",
-		"czech": "Výroba trvá dlouho, ale chrání svého nositele docela dobře.",
+		"czech": "Výroba trvá sice dlouho, ale chrání svého nositele docela dobře.",
 	},
 	"equipmentName_armorTraderGuard": {
 		"english": "Trader Guard Armor",
@@ -714,7 +714,7 @@
 		"chinese": "该盔甲注重本质，很适合兼职战士穿戴。",
 		"italian": "Concentrandosi sull'essenziale, questa armatura si adatta bene ai soldati part-time.",
 		"japanese": "この鎧は本質に焦点を当てており、パートタイムの兵士にぴったりです。",
-		"czech": "Se zaměřením na to podstatné, tato zbroj vyhovuje vojákům na částečný úvazek.",
+		"czech": "Tato zbroj vyhovuje vojákům pro občasný boj.",
 	},
 	"equipmentName_armorTikiMedium": {
 		"english": "Tiki Wood Armor",
@@ -745,7 +745,7 @@
 		"chinese": "虽然这种木质盔甲会发出嘎吱声，但它非常轻并有一定程度保护。",
 		"polish": "Choć ta drewniana zbroje wydaje kołaczące odgłosy to zarazem jest bardzo lekka i daje niezłą ochronę.",
 		"japanese": "この木製鎧は、ガタガタと音を立てますが非常に軽く、許容できる範囲の保護を提供してくれます。",
-		"czech": "Zatímco tento dřevěný pancíř vydává chrastící zvuky, je velmi lehký a nabízí přijatelnou ochranu.",
+		"czech": "Ikdyž tento dřevěný pancíř vydává nelibé chrastící zvuky, je velmi lehký a nabízí přijatelnou ochranu.",
 	},
 	"equipmentName_armorGambeson": {
 		"english": "Gambeson",
@@ -779,7 +779,7 @@
 		"chinese": "每个成为战士的必需装备。",
 		"italian": "L'equipaggiamento base di ogni aspirante guerriero.",
 		"japanese": "戦士の基本装備",
-		"czech": "Základní výbava každého rádoby bojovníka.",
+		"czech": "Základní výbava každého *rádoby* bojovníka.",
 	},
 
 

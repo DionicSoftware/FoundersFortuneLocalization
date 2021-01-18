@@ -179,7 +179,7 @@
 		"italian": "%faction% vogliono conservare il loro tesoro da te fino quando non saranno al sicuro per tornare a prenderlo. Ti hanno promesso una parte del bottino.",
 		"japanese": "%faction% は、彼らが安全になって戻ってくるまで、あなたと一緒に宝物を保管したいと思っています。彼らは、あなたにお礼として宝物の一部を約束しました。",
 		"chinese": "%faction%希望你藏匿好他们的宝藏,直到他们可以安全地回来并取回为止.他们向你许诺了部分宝藏作为回报.",
-// TODO-czech	"czech": "%faction% want to store their treasure with you until it's safe for them to come back and get it. They promised you a cut of the profits.",
+		"czech": "%faction% chce ukrýt svůj poklad u tebe v kolonii, dokud se pro něj nebudou moci bezpečně vrátit. Slíbili vám podíl na zisku.",
 	},
 	"quest_treasureStorageIntro": {
 		"english": "Ahoy. One of our ships is being chased and has a ton of coins on board. Can we hide the treasure in the storage on your island for a while? You'll get a cut of the money when we come back.",
@@ -366,10 +366,6 @@
 		"chinese": "好了,这是我们的宝藏:%items%\n\n请保管好,不要偷用!我们会回来的.",
 		"czech": "Dobře, tady je náš poklad: %items%\n\nUdržujte ho v bezpečí a neutrácejte ho! Vrátíme se.",
 	},
-
-
-
-
 	"quest_ghostTitle": {
 		"english": "Digging up the Past",
 		"german": "Gefangen in der Vergangenheit",
@@ -388,7 +384,7 @@
 		"portuguese": "Pesadelos recorrentes sobre %seuSua% amig%oA% caído %ghostName% levaram %firstName% a fazer sacrifícios para tentar fazer as pazes com o passado",
 		"japanese": " %hisHer% の、友人が悪霊となり %ghostName% に関する悪夢を繰り返し見る様になりました。 %firstName% は、ついに過去との和解をするためにいくつかの犠牲を払うことに決めました。",
 		"chinese": "反复出现在%hisHer%噩梦中的朋友%ghostName%鬼魂让%firstName%不得不尝试献祭自我,并接受过去",
-// TODO-czech	"czech": "Recurring nightmares about %hisHer% fallen friend %ghostName% have driven %firstName% to make sacrifices to try and make peace with the past",
+		"czech": "Opakující se noční můry nad ztraceným přítelem %ghostName% vedly %firstName% k oběti ve snaze uzavřít mír s minulostí",
 	},
 	"quest_ghostIntroTitle": {
 		"english": "Digging up the Past",
@@ -408,7 +404,7 @@
 		"portuguese": "Ultimamente, %firstName% tem tido pesadelos sobre %seuSua% velho amigo %ghostName%, que morreu há algum tempo. É sempre o mesmo sonho. %firstName% mergulhou profundamente nos pensamentos de %seuSua%. %cap-eleEla% quer fazer as pazes com o passado e planeja sacrificar alguns itens todas as noites para mostrar a %seuSua% amig%oA% falecido que %eleEla% se importa.",
 		"japanese":  "最近、 %firstName% は、しばらく前に亡くなった、旧友の %ghostName% についての悪夢を見ています。それはいつも同じ内容の夢です。 %firstName% は、そのため物思いに深く沈んでいます。そして毎晩、何かを犠牲にして、亡くなった友人を気にかけていることを示し、過去と和解することを計画しています。",
 		"chinese": "最近%firstName%一直在噩梦中梦到在前不久逝世了的朋友%ghostName%鬼魂.一直重复着相同的梦境,%firstName%迷失在这梦境中.%cap-heShe%想要接受过去,并打算每晚献祭一些物品,以表明%heShe%对已离开的朋友的怀念.",
-// TODO-czech	"czech": "Lately, %firstName% has been getting nightmares about %hisHer% old friend %ghostName%, who died some time ago. It's always the same dream. %firstName% has sunk deep into %hisHer% thoughts. %cap-heShe% wants to make peace with the past, and plans to sacrifice some items each night to show %hisHer% departed friend that %heShe% cares.",
+		"czech": "Nedávno mě%lA% %firstName% noční můry o svém starém příteli %ghostName%, kter%yA% před nějakou dobou zemře%lA%. Je to stále stejný sen. %firstName% kles%lA% hluboko do jeho myšlenek. %firstName% chce uzavřít mír s minulostí a plánuje každou noc něco obětovat, aby ukáza%lA% svému zesnulému příteli, že to má stále na paměti.",
 	},
 	"quest_ghostFriendlyGhostAppearedTitle": {
 		"english": "Ghost Appeared",
@@ -428,7 +424,7 @@
 		"portuguese": "Quando %firstName% fez %seuSua% sacrifício por esta noite, de repente uma figura fantasmagórica apareceu do nada. %eleEla% teve a chance de fazer as pazes com seu amigo %ghostName%, então vá e fale com %eleEla% antes que tenham que deixar este mundo!",
 		"japanese": "%firstName% が、夜に犠牲を払ったとき、突然幽霊のような姿が、薄気味悪いところから現れました。 %cap-heShe% は、%hisHer% の友人 %ghostName% と話し、和解する機会を与えられました。すぐに行って話をしてきてください。幽霊がこの世を去ってしまう前に。",
 		"chinese": "当%firstName%准备献祭时,突然出现一个幽灵般地人影.%cap-heShe%得到了与%hisHer%朋友%ghostName%鬼魂和好的机会,因此必须在他们离开这个世界之前先与他们交谈一番!",
-// TODO-czech	"czech": "When %firstName% made %hisHer% sacrifice for this night, suddenly a ghostly figure appeared out of thin air. %cap-heShe% was given a chance to make peace with %hisHer% friend %ghostName%, so go and talk to them before they have to leave this world!",
+		"czech": "Když %firstName% proved%lA% noční oběť, z ničeho nic se najednou objevila strašidelná postava. %cap-heShe% má nyní příležitost uzavřít mír se svým přítelem %ghostName%. Rychle s duchem promluvte, než bude muset opustit tento svět nadobro!",
 	},
 	"quest_ghostMadePeaceTitle": {
 		"english": "Finally at peace",
@@ -448,7 +444,7 @@
 		"portuguese": "%firstName% teve a chance de se reunir com %seuSua% amig%oA% %ghostName% e aceitou seu passado. %cap-eleEla% tornou-se uma pessoa mais sábia e obteve um impulso permanente de humor.",
 		"chinese": "%firstName%有机会与%hisHer%朋友%ghostName%鬼魂团聚,并接受了他们的过去.%cap-heShe%成为一个比较理智的人,并获得了永久的情绪提升.",
 		"japanese": "%firstName% は、 %hisHer% の友人 %ghostName% と再会する機会がありました。そして、過去を受け入れ %cap-heShe% は、より賢い人になり永続的な気分を後押ししました。",
-// TODO-czech	"czech": "%firstName% has had chance to reunite with %hisHer% friend %ghostName% and has accepted their past. %cap-heShe% has become a wiser person and got a permanent mood boost.",
+		"czech": "%firstName% mě%lA% to štěstí, že objevi%lA% svého přítele %ghostName% a vyrovnali se spolu se svou minulostí. %cap-heShe% se teď sta%lA% moudřejším člověkem a má trvale zvednutou náladu.",
 	},
 	"quest_ghostColonyJoinedTitle": {
 		"english": "Ghost joined the village!",
@@ -468,7 +464,7 @@
 		"portuguese": "%firstName% desceu para se reunir com %seuSua% amigo %humanName%, mas decidiu que ainda não é hora de ir embora. %cap-eleEla% decidiu ficar na Terra por enquanto e se juntou à aldeia. %humanName% está radiante.",
 		"chinese": "%firstName%坐下来与%hisHer%朋友%humanName%鬼魂团聚,但距离决定离开的时间未到.%cap-heShe%决定暂时留在地球上,并加入了村庄. %humanName%喜出望外.",
 		"japanese": "%firstName% は、 %hisHer% の友人 %humanName%と再会するために降りてきましたが、去る時はまだ来ていないと判断しました。 %cap-heShe% は、今のところは地球に留まることに決め、コロニーに加わることにしたようです。 %humanName% は大喜びです!",
-// TODO-czech	"czech": "%firstName% came down to reunite with %hisHer% friend %humanName%, but has decided that the time to leave has not come yet. %cap-heShe% decided to stay on earth for now and has joined the village. %humanName% is overjoyed.",
+		"czech": "%firstName% sestoupi%lA% , aby objevi%lA% svého přítele %humanName%, ale rozhod%lA% se, že ještě není čas odejít. %cap-heShe% se zatím rozhod%lA% zůstat na Zemi a připoji%lA% se ke kolonii. %humanName% má radost.",
 	},
 	"quest_ghostAngryGhostAppearedTitle": {
 		"english": "Nightmares Becoming Reality!",
@@ -488,7 +484,7 @@
 		"portuguese": "%firstName% fez %seuSua% sacrifíci%oA% para fazer as pazes, mas %seuSua% amig%oA% caído %ghostName% não quer perdoar. Eles se materializaram como fantasmas e estão em busca de vingança. Defenda a aldeia!",
 		"chinese": "%firstName%为了和解献祭了%hisHer%生命,但是%hisHer%堕落的朋友%ghostName%鬼魂并不想就此原谅.他们化身为鬼魂,正寻找机会报仇.保卫村庄!",
 		"japanese": "%firstName% は、 %hisHer% を犠牲にして平和を築きましたが %hisHer% の悪霊の友人 %ghostName% は過去を許したくはありません。彼らは悪霊として実体化し復讐をしようとしています。コロニーを守ってください!",
-// TODO-czech	"czech": "%firstName% has made %hisHer% sacrifice to make peace, but %hisHer% fallen friend %ghostName% doesn't want to forgive. They have materialized as a ghost and are looking for revenge. Defend the village!",
+		"czech": "%firstName% se obětova%lA%, aby dosáh%lA% míru, ale jeho zesnulý přítel %ghostName% nechce už dál nikomu nic odpouštět. Zhmotnil se jako duch a hledá pomstu. Braňte kolonii!",
 	},
 	"quest_ghostAngyGhostDoneTitle": {
 		"english": "Ghost has been banished",
@@ -508,7 +504,7 @@
 		"portuguese": "A alma amarga de %firstName% foi libertada e enviada de volta ao reino dos mortos. %humanName% sente um profundo alívio por ter terminado este capítulo de sua vida.",
 		"chinese": "痛苦灵魂被%firstName%解放,并被送回了亡者国度.%humanName%对完成本章的生活深感欣慰.%humanName%完成了%heShe%生命的篇章.",
 		"japanese": " %firstName% によって、苦しむ魂は解放され、死者の領域に送り返されました。 %humanName% は、彼の人生の章の終わりに深い安堵を感じています。",
-// TODO-czech	"czech": "The bitter soul of %firstName% has been freed and sent back to the realm of the dead. %humanName% feels a deep relief to have finished this chapter of their life.",
+		"czech": "Krutá duše %firstName% byla osvobozena a vrácena zpět do říše mrtvých. %humanName% cítí hlubokou úlevu nad dokončením této životní kapitoly.",
 	},
 	"quest_ghostMakePeace":  {
 		"english": "Talk to %firstName% and make peace",
@@ -541,9 +537,6 @@
 		"japanese": "%firstName% の魂を解放する",
 		"czech": "Svobodn%yA% duše %firstName%",
 	},
-
-
-
 	"Dawn": {
 		"english": "Dawn",
 		"german": "Morgen",

@@ -622,7 +622,7 @@
 		"italian": "Vi chiediamo questi oggetti.",
 		"polish": "Tego żądamy!",
 		"japanese": "これらのアイテムをください。",
-//TODO-czech	"czech": "",
+		"czech": "Dejte nám tyto věci.",
 	},
 	"tributeSelectionJustKidding": {
 		"english": "Just Kidding.",
@@ -730,9 +730,6 @@
 		"japanese": "そのようなことを要求してくるとは残念です。\n\nあなたは、私たちと友達ではなく、私たちを怖がらせて服従を要求するのですね。要求には答えません。それと、私たちは貴方の小さなコロニーの事も恐れてはいません。\n\nこの話は終わりです。",
 		"czech": "Je úbohé, jak si myslíte, že můžete něco takového požadovat.\n\nNejste náš přítel a nevyděsíte nás možným podrobením se s tak malou vesnicí.\n\nTato konverzace skončila.",
 	},
-
-
-	
 	"goblinTributeTextBadRelations": {
 		"english": "It might be in your best interest to give us the following things:",
 		"german": "Ihr tätet gut daran, uns die folgenden Dinge zu überlassen:",
@@ -982,6 +979,7 @@
 		"korean": "정말 고맙네! 당신네 섬으로 바로 가지. 친구여, 전투를 준비하시게.",
 		"chinese": "太感谢你了！我们将直接前往你的所在的岛屿。为战斗做好准备，朋友。",
 		"japanese": "どうもありがとう!私たちはあなたの島に直接向かいます。友よ。戦いの準備をしてください。",
+		"czech": "Děkuji mnohokrát! Vydáme se přímo na váš ostrov. Připravte se na boj, příteli.",
 	},
 	"pirateChaseHelpRefusedAnswer": {
 		"english": "We're disappointed by your cowardice in our time of need.\n\nMaybe we shouldn't be surprised...",
@@ -995,6 +993,7 @@
 		"korean": "필요한 순간에 보여준 당신들의 비겁함에 실망했네.\n\n어쩌면 그렇게 놀랄만한 일은 아니었는지도...",
 		"chinese": "在我们需要帮助的时候你缺胆怯了，我对你很失望。\n\n也许我们不该有什么指望...",
 		"japanese": "私たちは、助けが必要なときにあなたの支援がなかったことに失望しています。\n\n私たちは、希望を持つべきではなかった...",
+		"czech": "Jsme zklamáni vaší zbabělostí.\n\nMožná bychom neměli být překvapeni...",
 		
 	},
 	"pirateChaseHelpSuccess": {
@@ -1009,9 +1008,8 @@
 		"korean": "좋아! 우리가 저것들을 쫓아냈어! 저것들이 교훈을 얻었겠지.\n\n도움을 주어 정말로 고맙소.",
 		"chinese": "太好了！我们把他们赶走了！让他们得到教训！\n\n非常感谢你的帮助。",
 		"japanese": "やった!私たちは、ならず者たちを追い払いました。彼らにはいい教訓になったことでしょう。\n\n助けてくれてありがとうございます。",
+		"czech": "Ano! Zahnali jsme je! Nechť je to pro ně bude ponaučením.\n\nDěkuji vám za vaši pomoc.",
 	},
-
-
 	"pirateChaseHelpFailure": {
 		"english": "Oh no. No no no.\n\nThey were too strong. We have some terrible losses to mourn.",
 		"german": "Oh nein. Nein, nein, nein.\nSie waren zu stark. Wir trauern über schreckliche Verluste.",
@@ -1024,10 +1022,8 @@
 		"korean": "오 저런. 안돼 안돼 안돼.\n\n저들은 너무 강해. 끔찍하게 죽은 이들을 애도하세.",
 		"chinese": "哦，不，不，不。\n\n它们太强了。我们恐怕要损失一些东西了。",
 		"japanese": "あぁ、嫌だ、まさか･･･こんなことになるなんて。\n\n相手が強すぎる。損失が多すぎて悲しみが追い付かない。",
+		"czech": "Ach ne. Nééé.\n\nByli příliš silní. Máme strašné ztráty.",
 	},
-
-
-
 	// timed tributes
 	"timedTributeDemand": {
 		"english": "Hey! Nice to see you again.\n\nWe've noticed we need some more things to keep our operations running. You won't mind providing them for us, right?\n\nWe'd need: %tribute%\n\nYou have %days% days to deliver.",
@@ -1041,6 +1037,7 @@
 		"turkish": "Hey! Sizi tekrar görmek güzel.\n\nFaaliyetlerimize devam edebilmek için birkaç şeye daha ihtiyacımız olduğunu farkettik. Bunları karşılamak sizin için bir sıkıntı oluşturmaz değil mi?\n\n İhtiyacımız %tribute%.\n\n%days% gün içinde göndermeniz gerekiyor.",
 		"chinese": "嘿!很高兴再次见到您。\n\n我们注意到我们还需要一些物资来保持我们正常生活。您不介意为我们提供这些物资，对吧？\n\n我们需要： %tribute%\n\n你有 %days% 天时间交付。",
 		"japanese": "また、お会いできて嬉しいです。\n\n業務を継続するには、まだいくつかのものが必要です。できたら、私たちを助けてくれませんか?\n\n必要なもの: %tribute%\n\n %days% 日以内に欲しいです。",
+		"czech": "Ahoj! Rád vás znovu vidím.\n\nVšimli jsme si, že k udržení chodu našich operací potřebujeme ještě několik věcí. Nebude vám vadit, když nám je poskytnete, že?\n\nPotřebovali bychom: %tribute% \n\nMáte %days% dní na doručení.",
 	},
 	"timedTributeDemandAccept": {
 		"english": "Of course. We'd be happy to help you out with that.",
@@ -1054,6 +1051,7 @@
 		"turkish": "Tabii ki. Size yardımcı olmaktan mutluluk duyarız.",
 		"chinese": "当然。我们很乐意为您提供帮助。",
 		"japanese": "もちろんです。喜んでお手伝いさせていただきます。",
+		"czech": "Samozřejmě. Rádi vám s tím pomůžeme.",
 	},
 	"timedTributeDemandRefuse": {
 		"english": "What? No, forget it.",
@@ -1067,6 +1065,7 @@
 		"turkish": "Ne? Unutun gitsin.",
 		"chinese": "什么？不，算了。",
 		"japanese": "なに?いや、忘れてください。",
+		"czech": "Co? Ne, zapomeňte na to.",
 	},
 	"timedTributeDemandAcceptAnswer": {
 		"english": "Thanks. We're going to be back shortly.",
@@ -1080,6 +1079,7 @@
 		"turkish": "Teşekkürler. Kısa süre içinde geri geleceğiz.",
 		"chinese": "谢谢。我们很快就会回来。",
 		"japanese": "ありがとうございます。まもなく戻ってきます。",
+		"czech": "Dík. Brzy se vrátíme.",
 	},
 	"timedTributeDemandRefuseAreYouSure": {
 		"english": "What? Are you sure? This is not going to end well for you...",
@@ -1093,6 +1093,7 @@
 		"turkish": "Ne? Emin misiniz? Bu sizin için iyi sonuçlanmaz...",
 		"chinese": "什么？您确定吗？这对您来说不会很好...",
 		"japanese": "え?よろしいのですか?それは、あなたにとって素晴らしいことではないでしょう...",
+		"czech": "Co? Jsi si jist%yA%? To pro tebe neskončí dobře ...",
 	},
 	"timedTributeDemandRefuseAreYouSureGiveIn": {
 		"english": "Nevermind, we'll make it for you.",
@@ -1106,6 +1107,7 @@
 		"turkish": "Önemli değil, karşılığını veririz.",
 		"chinese": "没关系，我们会为您提供。",
 		"japanese": "OK、OK。お手伝いします。",
+		"czech": "Nevadí, uděláme to za vás.",
 	},
 	"timedTributeDemandRefuseAreYouSureRefuse": {
 		"english": "We will not do anything for you.",
@@ -1119,6 +1121,7 @@
 		"turkish": "Sizin için hiçbir şey yapmayız.",
 		"chinese": "我们不会为您做任何事情。",
 		"japanese": "私たちはあなたのために何もしません。",
+		"czech": "Neuděláme pro vás nic.",
 	},
 	"timedTributeCollecting": {
 		"english": "Hello again. Do you have the items we asked for?",
@@ -1132,6 +1135,7 @@
 		"turkish": "Tekrar merhaba. Sorduğumuz parçalar yanınızda mı?",
 		"chinese": "再次问好。您有我们要的东西吗？",
 		"japanese": "こんにちは。私たちが欲しがっていた商品は、ありますか?",
+		"czech": "Ahoj. Máte věci, o které jsme vás žádali?",
 	},
 	"timedTributeCollectingHereYouGo": {
 		"english": "Of course. Here you go",
@@ -1145,6 +1149,7 @@
 		"turkish": "Tabii ki. Buyrun",
 		"chinese": "当然。给你吧。",
 		"japanese": "もちろんです。どうぞ。",
+		"czech": "Samozřejmě. Tady je máte.",
 	},
 	"timedTributeCollectingAlmostMadeIt": {
 		"english": "Sorry, we couldn't make it. Please take what we have.",
@@ -1158,6 +1163,7 @@
 		"turkish": "Maalesef, yetiştiremedik. Lütfen elimizdekileri alın.",
 		"chinese": "对不起，我们做不到。请拿走我们的东西吧。",
 		"japanese": "ごめんなさい、できません。私たちが持っているものを持っていってください。",
+		"czech": "Omlouváme se, ale nedokázali jsme to. Vezměte prosím, co máme.",
 	},
 	"timedTributeCollectingChangedMind": {
 		"english": "We changed our mind. You're getting nothing!",
@@ -1171,6 +1177,7 @@
 		"turkish": "Fikrimizi değiştirdik. Hiçbir şey vermiyoruz!",
 		"chinese": "我们改变了主意。您什么也不会得到！",
 		"japanese": "私たちは、考えが変わりました。やはり何も渡せません!",
+		"czech": "Změnili jsme názor. Nedostanete nic!",
 	},
 	"timedTributePaidFull": {
 		"english": "Thanks! It's always nice doing business with you.",
@@ -1184,6 +1191,7 @@
 		"turkish": "Teşekkürler! Sizinle iş yapmak her zaman için bir zevk.",
 		"chinese": "谢谢！与您做生意总是很高兴。",
 		"japanese": "ありがとう!あなたとビジネスをするのは素晴らしいことです!",
+		"czech": "Dík! Je vždy příjemné s vámi obchodovat.",
 	},
 	"timedTributePaidEnough": {
 		"english": "Arggh...\n\nAlright. We're letting you get away with it this time.",
@@ -1197,6 +1205,7 @@
 		"turkish": "Arggh...\n\nPeki ala. Şimdilik göz yumacağız.",
 		"chinese": "啊...\n\n好。我们这次帮您摆脱它。",
 		"japanese": "ああ...\n\nまあいいでしょう。今回はそれで逃げることが出来ます。",
+		"czech": "Arggh...\n\nDobře. Tentokrát vám to projde.",
 	},
 	"timedTributePaidNotEnough": {
 		"english": "No, that's not going to be enough for us. You are going to have to pay in other ways now.",
@@ -1210,6 +1219,7 @@
 		"turkish": "Hayır, bu bizim için yeterli değil. Başka yöntemlerle ödemek zorunda kalacaksınız.",
 		"chinese": "不，对我们来说这些还不够。您现在必须以其他方式支付。",
 		"japanese": "いいえ、それだけでは十分ではありません。他の方法で支払う必要があります。",
+		"czech": "Ne, to nám nebude stačit. Nyní budete muset platit jinými způsoby.",
 	},
 	"requestDefense": {
 		"english": "Please come and help defend our village!",
@@ -1219,6 +1229,7 @@
 		"portuguese": "Por favor, venha e ajude a defender nossa aldeia!",
 		"chinese": "请过来帮我们保卫村庄！",
 		"japanese": "私たちのコロニーを守るために来てください!",
+		"czech": "Přijďte prosím pomoci bránit naši vesnici!",
 	},
 	"helpShipDefense": {
 		"english": "Hold the line, my friend! We currently have peaceful vistors on your island. We will send a ship with trained fighters as soon as possible!",
@@ -1228,6 +1239,7 @@
 		"portuguese": "Segure a linha, meu amigo! Atualmente, temos visitantes pacíficos em sua ilha. Enviaremos um navio com lutadores treinados o mais rápido possível!",
 		"chinese": "等一下，我的朋友！目前我们已派往和平使者到你的岛上。我们将尽快派遣训练有素的战斗船只前往！",
 		"japanese": "友よ。私たちは、あなたの島に平和の使者を送りました。私たちは、よく訓練された戦闘船をできるだけ早く手配します。",
+		"czech": "Vydržte, příteli! V současné době máme na vašem ostrově jen klidné návštěvníky. Co nejdříve pošleme loď s trénovanými bojovníky!",
 	},
 	"helpDefense": {
 		"english": "Hold the line, my friend! We will come to your aid as soon as possible!",
@@ -1237,6 +1249,7 @@
 		"portuguese": "Segure a linha, meu amigo! Iremos ajudá-lo o mais rápido possível!",
 		"chinese": "等一下，我的朋友！我们将尽快为你提供帮助！",
 		"japanese": "友よ。私たちは、早めにあなた方を助けに向かいます。",
+		"czech": "Vydržte, příteli! Přijedeme vám co nejdříve na pomoc!",
 	},
 	"cantHelpNowDefense": {
 		"english": "I'm sorry. We'd love to help you, but right now we can't afford to lose anyone.",
@@ -1246,6 +1259,7 @@
 		"portuguese": "Eu sinto Muito. Adoraríamos ajudá-lo, mas agora não podemos perder ninguém.",
 		"chinese": "对不起。我们很乐意为你提供帮助，但是现在我们承受不起失去任何一个人的后果。",
 		"japanese": "ごめんなさい。私たちはあなたを助けたいのですが、今のところ私たちは誰かを失うわけにはいきません。",
+		"czech": "Omlouvám se. Rádi bychom vám pomohli, ale právě teď si nemůžeme dovolit nikoho ztratit.",
 	},
 	"helpedRecentlyDefense": {
 		"english": "I'm sorry, we just helped you out recently. We need some time to heal and take care of ourselves.",
@@ -1255,6 +1269,7 @@
 		"portuguese": "Desculpe, acabamos de ajudá-lo recentemente. Precisamos de algum tempo para nos curar e cuidar de nós mesmos.",
 		"chinese": "抱歉，我们最近已经为你提供了帮助。我们需要一些时间来治疗和照顾自己。",
 		"japanese": "申し訳ありませんが、私たちは最近あなたをお手伝いしました。そのため、私たちは自分自身の傷を癒し、世話をするのに少し時間が必要です。",
+		"czech": "Omlouvám se, právě jsme vám nedávno pomohli. Potřebujeme nějaký čas, abychom se uzdravili a postarali se sami o sebe.",
 	},
 	"wontHelpDefense": {
 		"english": "What? We don't know or like you that well. You can take care of it yourself.",
@@ -1264,5 +1279,6 @@
 		"portuguese": "O que? Não o conhecemos ou gostamos muito de você. Você pode cuidar disso sozinho.",
 		"chinese": "什么？我们不太了解或喜欢你。你可以自己解决它。",
 		"japanese": "え?なんですか。私たちはあなたのことをよく知らないか、好きではありません。あなたは、自分の問題を自分で解決すべきです。",
+		"czech": "Co? Tak dobře vás neznáme ani vás nemáme rádi. Postarejte se o to sami!.",
 	},
 }

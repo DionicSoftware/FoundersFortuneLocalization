@@ -550,7 +550,7 @@
 		"bulgarian": "Ако не поддържате доброто настроение на заселниците, те може да пламнат и да спрат да следват вашите команди.",
 		"czech": "Pokud nebudete udržovat své kolonisty šťastné, mohou začít vzdorovat a možná přestanou poslouchat vaše příkazy.",
 		"romanian": "Dacă nu vă mențineți coloniștii fericiți, vor începe să fie sfidători și s-ar putea să nu vă mai urmeze ordinele dvs.",
-		"japanese": "願いが叶う、対人関係、日々の出来事等で増減します。注意してください。心情の低下はコロニストの反感を買い貴方の命令に従わなくなる時があります。",
+		"japanese": "願い事が叶う、対人関係、日々の出来事等で増減します。心情の低下はコロニストの反抗を買い貴方の命令に従わなくなる時があります。",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -630,7 +630,7 @@
 		"bulgarian": "Оставете вашите колонисти да спят или им дайте лечебни отвари, за да повишат здравето си.",
 		"czech": "Pro zvýšení zdraví nechte své kolonisty spát nebo jim dejte léčivé lektvary.",
 		"romanian": "Lăsați-vă coloniștii să doarmă sau dați-le poțiuni vindecătoare pentru a-și îmbunătăți sănătatea.",
-		"japanese": "睡眠と回復薬により回復します。注意してください。健康が無くなるとコロニストは死亡します。",
+		"japanese": "睡眠と回復薬により回復します。健康が無くなるとコロニストは死亡します。",
 	},
 	"needsTitleTameness": {
 		"english": "Tameness",
@@ -660,7 +660,7 @@
 		"turkish": "Vahşi bir hayvanı uysallaştırdıktan sonra, bu uysallığı korumak için zaman zaman ona bakmanız lazım. Beyaz çizgi vahşileşme gelişimini gösterir.",
 		"romanian": "După ce ați reușit să îmblânziți un animal sălbatic, trebuie să aveți grijă de el din când în când pentru a-l păstra îmblânzit. Linia albă arată când animalul va deveni din nou sălbatic.",
 		"polish": "Kiedy już udało ci się oswoić dzikie zwierzę, musisz od czasu do czasu o nie zadbać, aby pozostało udomowione. Biały wskaźnik pokazuje, kiedy zwierzę ponownie stanie się dzikie.",
-		"japanese": "野生動物を手なづけて家畜にします。注意してください。家畜にしても世話を怠ると再び野生化します。",
+		"japanese": "野生動物を手なづけて家畜にします。家畜にしても世話を怠ると再び野生化します。",
 		"chinese": "一旦你驯服了野生动物，就需要不时地照料它以保持驯服状态。白线表示何时该动物将再次变得野生。",
 		"czech": "Jakmile se vám podařilo zkrotit divoké zvíře, musíte se o něj čas od času starat, abyste zůstalo ochočené. Bílá čára ukazuje, kdy bude zvíře opět divoké.",
 	},
@@ -981,7 +981,7 @@
 		"bulgarian": "Специализация",
 		"czech": "Specializace",
 		"romanian": "Specializare",
-		"japanese": "専業の選択",
+		"japanese": "作業の選択",
 	},
 	"nextLevel": {
 		"english": "Next Level",
@@ -1101,7 +1101,7 @@
 		"bulgarian": "След като вашите колонисти съберат достатъчно опит в професията си, можете да ги повишите, за да отключите нови умения",
 		"czech": "Jakmile vaši kolonisté získají dostatek zkušeností ve svých profesích, můžete je povýšit a odemknout jim nové dovednosti.",
 		"romanian": "Odată ce coloniștii dvs. au câștigat suficientă experiență în profesia lor, îi puteți promova pentru a debloca noi abilități.",
-		"japanese": "コロニストは仕事の経験を十分に積んだ場合、その仕事に関する新たなスキルを取得できます。",
+		"japanese": "コロニストは職業の経験を十分に積んだ場合、その職業に関する新たなスキルを取得できます。",
 	},
 	"combat": {
 		"english": "Combat",
@@ -1391,7 +1391,7 @@
 		"czech": "Pobýváním v dobré nebo špatné náladě postupně získává pozitivní nebo negativní body štěstí.\nV závislosti na počtu nasbíraných bodů potom získá pozitivní nebo negativní vlastnosti na své narozeniny.",
 		"turkish": "Ruhsal durum yavaşça çocukluk mutluluk puanlarını etkiler.\nToplanan puanlara göre, çocuk büyüdüğünde doğum gününde iyi veya kötü karakter özellikleri kazanır.",
 		"romanian": "Fiind într-o dispoziție bună sau rea câștigă încet puncte de fericire pozitive sau negative.\nÎn funcție de ce puncte sunt colectate, copilul va câștiga trăsături pozitive sau negative de ziua lui.",
-		"japanese": "子供は誕生日に前向きまたは後ろ向きな個性を獲得します。子供時代の心情が良いほど前向きな個性を獲得します。",
+		"japanese": "子供時代の心情により前向き、後ろ向きの満足度ポイントを獲得します。誕生日にその満足度ポイントに応じて前向きまたは後ろ向きな個性を獲得します。",
 	},
 	"childhoodEducation": {
 		"english": "Education",
@@ -1423,7 +1423,7 @@
 		"czech": "Každé dítě se může učit životní dovednosti pomocí knih v knihovně. Na jejich narozeniny pak můžou použít tyto body a získat tím výborný start v jejich budoucí profesi.\nPokud je vzdělávání přerušeno před tím, než je téma plně pochopeno a je získán bod, postup je pomalu zapomínán.",
 		"turkish": "Çocuklar kitaplıkları kullanarak yaşam becerileri edinebilirler. Doğum günlerinde, hayat puanlarını kullanarak seçecekleri mesleklerde bir adım önde başlayabilirler.\nEğitim, bir konu tamamen öğrenilmeden yarım bırakılırsa, ilerleme yavaşça unutulur.", 
 		"romanian": "Fiecare copil poate învăța abilități de viață la raftul de cărți. De ziua lor de naștere, ei pot folosi aceste puncte pentru a obține un mare avantaj în orice profesie.\nDacă educația este întreruptă înainte ca un subiect să fie înțeles pe deplin și să obțină un punct, progresul va fi uitat încet.",
-		"japanese": "本棚を設置する事で子供に教育の経験を積ませる事ができます。積んだ教育の経験により子供は誕生日にスキルを獲得できます。教育が途中で停止された場合は経験を積む事はできません。",
+		"japanese": "本棚を設置する事で子供に教育をする事ができます。教育を受けた子供はそれに応じた教育ポイントを獲得できます。誕生日に教育ポイントに応じてスキルを獲得できます。教育が途中で停止された場合は教育ポイントは獲得できません。",
 	},
 
 	// Birthday Panel (Child born)
@@ -1457,7 +1457,7 @@
 		"polish": "%parent1% i %parent2% mają %synaCórkę%! \nSzczęśliwi rodzice zastanawiają się nad imieniem dla dziecka.\n\nJakie imię nadać ich dziecku?",
 		"czech": "%parent1% a %parent2% mají %synaDceru%!\nŠťastní rodiče, přemýšlí jaké asi dostane jméno.\n\nJak by se %melA% jejich %synDcera% jmenovat?",
 		"romanian": "%parent1% și %parent2% au %unO% %fiuFiica%!\nFoarte fericiți, ei se gândesc la un nume pentru copil.\n\nCe nume ar trebui să aibă %fiulFiica% lor?",
-		"japanese": "%parent1%と%parent2%は喜びに満ちています。二人の生まれたばかりの大事な%sonDaughter%へ素敵な名前をプレゼントしてあげましょう。",
+		"japanese": "%parent1%と%parent2%は喜びに満ちています。二人の生まれたばかりの大事な%sonDaughter%へ素敵な名前をプレゼントしてください。",
 	},
 	"welcomeHuman": {
 		"english": "Welcome %firstName%!",
@@ -1635,7 +1635,7 @@
 		"turkish": "%firstName%, %points% eğtim puanı kazandı. Bu puanlarla meslek seviyesini arttırabilir",
 		"polish": "%firstName% zebrał%nicA% %points% punktów Edukacji, które może teraz wydać na poziomy zawodów:",
 		"czech": "%firstName% získa%lA% %points% vzdělávacích bodů, které může použít ve svém profesním rozhraní",
-		"japanese": "%firstName%は%points%の教育の経験を積む事ができました。これを使ってスキルを獲得してください。",
+		"japanese": "%firstName%は%points%の教育ポイントを獲得する事ができました。これを使ってスキルを獲得してください。",
 	},
 	"pointCost": {
 		"english": "Point Cost",
@@ -1725,7 +1725,7 @@
 		"romanian": "Fiecare dorință împlinită îl face pe colonistul tău mai satisfăcut de viață.",
 		"bulgarian": "Всяко изпълнено желание прави вашия колонист по-доволен от живота.",
 		"czech": "Každé splněné přání učiní kolonistu více spokojenějším.",
-		"japanese": "この願いを叶える事で獲得できるコロニストの満足度です。",
+		"japanese": "この願い事を叶える事で獲得できる満足度です。",
 	},
 	"wishDenyTip_Title": {
 		"english": "Deny Wish",
@@ -1745,7 +1745,7 @@
 		"romanian": "Refuză dorința",
 		"bulgarian": "Откажи желание",
 		"czech": "Odmítnout přání",
-		"japanese": "願いを断る",
+		"japanese": "願い事を断る",
 	},
 	"wishDenyTip_Desc": {
 		"english": "You can tell your colonists that you're not going to fulfill this wish. They'll be annoyed, but they will choose a different one.",
@@ -1765,7 +1765,7 @@
 		"romanian": "Puteți spune coloniștilor dvs. că nu veți îndeplini această dorință. Se vor enerva, dar vor alege una diferită.",
 		"bulgarian": "Можете да кажете на колонистите, че няма да изпълните това желание. Ще се дразнят, но ще изберат друго.",
 		"czech": "Můžete svému kolonistovi říct, že mu toto přání nesplníte. Bude sice naštvaný, ale vybere si jiné přání.",
-		"japanese": "この願いを断り新たな願いを出してもらいます。ただし、心情が下がりますので注意してください。",
+		"japanese": "この願い事を断り新たな願いを出してもらいます。ただし、心情が下がりますので注意してください。",
 	},
 	"satisfactionPoints_Title": {
 		"english": "Satisfaction",
@@ -1805,7 +1805,7 @@
 		"romanian": "Îndeplinește dorințele coloniștilor tăi și ei vor fi mulțumiți de viață. Când bara este plină, ei obțin un punct de satisfacție a vieții.",
 		"bulgarian": "Изпълнете желанията на вашите колонисти и те ще бъдат доволни от живота. Когато лентата е пълна, те получават една точка за удовлетвореност от живота.",
 		"czech": "Plňte přání kolonistů, aby byli spokojení se svým životem. Když se sloupec naplní získají bod životní spokojenosti.",
-		"japanese": "コロニストの願いを叶えると満たされます。すべて満たされると満足ポイントを獲得します。",
+		"japanese": "コロニストの願い事を叶えると満たされます。すべて満たされると満足ポイントを獲得します。",
 	},
 	"satisfactionLevel_Title": {
 		"english": "Satisfaction Level",
@@ -1885,7 +1885,7 @@
 		"romanian": "Odată ce coloniștii dvs. au câștigat suficientă experiență, îi puteți promova pentru a debloca noi abilități.",
 		"bulgarian": "След като вашите колонисти са събрали достатъчно опит, можете да ги повишите, за да отключите нови умения.",
 		"czech": "Jakmile vaši kolonisté získají dostatek zkušeností, můžete je povýšit a odemknout tím nové dovednosti.",
-		"japanese": "コロニストは仕事の経験を十分に積んだ場合、その仕事に関する新たなスキルを取得できます。",
+		"japanese": "コロニストは職業の経験を十分に積んだ場合、その職業に関する新たなスキルを取得できます。",
 	},
 	"productionMode_Produce": {
 		"english": "Produce",
@@ -2756,7 +2756,7 @@
 		"romanian": "Recompense",
 		"bulgarian": "Награди",
 		"czech": "Odměny",
-		"japanese": "満足ポイント",
+		"japanese": "満足度ポイント",
 	},
 	"point": {
 		"english": "Point",
@@ -2896,7 +2896,7 @@
 		"romanian": "Uită de gândurile negative",
 		"bulgarian": "Забравете отрицателните мисли",
 		"czech": "Zapomenout všechny negativní myšlenky",
-		"japanese": "後ろ向きの考えの忘却",
+		"japanese": "後ろ向きの考えの消去",
 	},
 	"activeTraits": {
 		"english": "Active Traits",
@@ -3176,7 +3176,7 @@
 		"romanian": "Așteptările coloniștilor dvs. nu sunt îndeplinite. Niciun migrant nu se va alătura acestei colonii.",
 		"bulgarian": "Очакванията на вашите колонисти не са изпълнени. Никакви мигранти няма да се присъединят към тази колония.",
 		"czech": "Přání vašich kolonistů nejsou splněna. Žádní další migranti se ke kolonii nepřipojí.",
-		"japanese": "訪問したコロニストは満足な期待が得られていないこのコロニーに移住する気がありません。",
+		"japanese": "訪問したコロニストは住環境が整っていないこのコロニーに移住する気がありません。",
 	},
 	"immigration_status_ok": {
 		"english": "All your colonists' expectations are met. Next chance for migrants in %time%.",
@@ -3196,7 +3196,7 @@
 		"romanian": "Toate așteptările coloniștilor dvs. sunt îndeplinite. Următoarea oportunitate pentru sosirea migranților în %time%.",
 		"bulgarian": "Всички очаквания на вашите колонисти са изпълнени. Следващ шанс за мигранти в %time% минути.",
 		"czech": "Všechna přání vašich kolonistů jsou splněna. Další migrant dorazí za %time%.",
-		"japanese": "期待に十分応えられているコロニーです。%time%に新たなコロニストが訪問します。",
+		"japanese": "素晴らしい住環境のコロニーです。%time%後に新たなコロニストが訪問します。",
 	},
     "colonistIsDumbNoExperience": {
 		// TODO-ukrainian: make it shorter so it fits better
@@ -3278,7 +3278,7 @@
 		"romanian": "%name% iubește mult acest lucru și nu vrea să renunțe la el.\n\nNu îl puteți folosi pentru a îndeplini dorințele altcuiva.",
 		"bulgarian": "%name% харесва това нещо много и не иска да се откаже от него.\n\nНе можете да го използвате, за да изпълните желанията на някой друг.",
 		"czech": "%name% má tuto věc velmi rá%dA% a nechce se jí vzdát.\n\nNemůžete ji tedy použít na splnění přání někoho jiného.",
-		"japanese": "%name%はこれをとても気に入り手放さないため、他のコロニストの願いのために使う事はできません。",
+		"japanese": "%name%はこれをとても気に入り手放さないため、他のコロニストの願い事のために使う事はできません。",
 	},
 	"paymentInCoinsPerDay": {
 		"english": "Payment in coins per day",
@@ -3975,7 +3975,7 @@
 		"romanian": "Petrecerile oferă coloniștilor dvs. șansa de a se relaxa și de a se socializa. Cu cât coloniștii dvs. petrec mai mult timp dansând, mâncând și bând, cu atât dispoziția lor va crește.",
 		"bulgarian": "Партитата дават шанс на вашите колонисти да се отпуснат и да си общуват. Колкото повече време колонистите ви прекарват танци, ядене и пиене, толкова по-високо настроението им ще се повиши.",
 		"czech": "Párty dávají vašim kolonistům příležitost se odreagovat a socializovat se. Čím více času stráví vaši kolonisté tancem, popíjením a pojídáním jídla, tím více se jim zlepší nálada.",
-		"japanese": "パーティはコロニストの社交場です。ダンス、食事を楽しむパーティは時間が長いほど心情が増加します。",
+		"japanese": "パーティはコロニストの社交場です。ダンス、食事を楽しむパーティは開催時間が長いほど心情が増加します。",
 	},
 	"startPartyButton": {
 		"english": "Start Party",
@@ -4268,7 +4268,7 @@
 		"portuguese": "Reabastecerá em %days% dias",
 		"turkish": "%days% günde geri dolacak",
 		"polish": "Odnowi się za %days% dni",
-		"japanese": "収集できるまで%days%日",
+		"japanese": "再度収集できるまで%days%日",
 		"chinese": "%days%天后可收获",
 		"czech": "Doplní se za %days% dní",
 	},
@@ -4649,7 +4649,7 @@
 		"dutch": "Dieren zones",
 		"polish":  "Strefa dla zwierząt",
 		"portuguese": "Zonas Animais",
-		"japanese": "牧場",
+		"japanese": "牧場の設定",
 		"chinese": "牧场",
 		"czech":  "Zvířecí zóny",
 	},
@@ -4685,7 +4685,7 @@
 		"spanish": "¿Estás listo para dejar este pueblo?\nPuedes seleccionar un puñado de aldeanos competentes para dejar esta isla y comenzar una colonia en una nueva tierra.\nPuede que quieras guardar esta aldea antes de irte.",
 		"polish": "Czy jesteś gotowy, aby opuścić to miasto? \nMożesz wybrać wyznaczyć kilku kompetentnych kolonistów, aby opuścili tę wyspę i założyli kolonię w nowej krainie. \nMożesz zachować tę kolonię przed wyjazdem.",
 		"portuguese": "Você está pronto para deixar esta cidade? \nVocê pode selecionar alguns aldeões competentes para deixar esta ilha e começar uma nova aldeia em uma nova terra. \nVocê pode querer salvar esta aldeia antes de partir.",
-		"japanese": "新天地に出発する準備ができましたか？\n新たなコロニーを建設するため何人かのコロニストを連れていく事ができます。",
+		"japanese": "新天地に出発する準備ができましたか？\n新たなコロニーを建設するため何人かコロニストを連れていく事ができます。",
 		"chinese": "你准备离开这个城镇吗?\n你可以选择几个有能力的村民离开这个岛屿,并在新的土地上建立一个新村庄.\n你可能要在离开之前保存这个村庄.",
 		"czech": "Jste připraveni opustit toto město?\nMůžete si vybrat několik vesničanů, kteří opustí tento ostrov a založí novou vesnici v Nové zemi.",
 		

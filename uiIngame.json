@@ -3156,7 +3156,7 @@
 		"romanian": "Niciun foc mare nu arde. Migranții nu vă vor găsi colonia.",
 		"bulgarian": "Никой огън не гори. Мигрантите не успяват да намерят колонията.",
 		"czech": "Nehoří žádný signální oheň. Migranti nemohou kolonii najít.",
-		"japanese": "篝火がないため、訪問したコロニストはコロニーを見つける事ができません。",
+		"japanese": "篝火が消えているため、新たなコロニストはコロニーを訪問する事ができません。",
 	},
 	"immigration_status_expectationsNotMet": {
 		"english": "Your colonists' expectations are not met. No migrants are going to join this colony.",
@@ -3176,7 +3176,7 @@
 		"romanian": "Așteptările coloniștilor dvs. nu sunt îndeplinite. Niciun migrant nu se va alătura acestei colonii.",
 		"bulgarian": "Очакванията на вашите колонисти не са изпълнени. Никакви мигранти няма да се присъединят към тази колония.",
 		"czech": "Přání vašich kolonistů nejsou splněna. Žádní další migranti se ke kolonii nepřipojí.",
-		"japanese": "訪問したコロニストは住環境が整っていないこのコロニーに移住する気がありません。",
+		"japanese": "住環境が整っていないコロニーのため、新たなコロニストが訪問する事はありません。",
 	},
 	"immigration_status_ok": {
 		"english": "All your colonists' expectations are met. Next chance for migrants in %time%.",
@@ -3196,7 +3196,7 @@
 		"romanian": "Toate așteptările coloniștilor dvs. sunt îndeplinite. Următoarea oportunitate pentru sosirea migranților în %time%.",
 		"bulgarian": "Всички очаквания на вашите колонисти са изпълнени. Следващ шанс за мигранти в %time% минути.",
 		"czech": "Všechna přání vašich kolonistů jsou splněna. Další migrant dorazí za %time%.",
-		"japanese": "素晴らしい住環境のコロニーです。%time%後に新たなコロニストが訪問します。",
+		"japanese": "住環境が整ったコロニーです。%time%後に新たなコロニストが訪問する予定です。",
 	},
     "colonistIsDumbNoExperience": {
 		// TODO-ukrainian: make it shorter so it fits better
@@ -3278,7 +3278,7 @@
 		"romanian": "%name% iubește mult acest lucru și nu vrea să renunțe la el.\n\nNu îl puteți folosi pentru a îndeplini dorințele altcuiva.",
 		"bulgarian": "%name% харесва това нещо много и не иска да се откаже от него.\n\nНе можете да го използвате, за да изпълните желанията на някой друг.",
 		"czech": "%name% má tuto věc velmi rá%dA% a nechce se jí vzdát.\n\nNemůžete ji tedy použít na splnění přání někoho jiného.",
-		"japanese": "%name%はこれをとても気に入り手放さないため、他のコロニストの願い事のために使う事はできません。",
+		"japanese": "%name%はこれをとても気に入り手放す気がないため、他のコロニストの願い事のために使う事はできません。",
 	},
 	"paymentInCoinsPerDay": {
 		"english": "Payment in coins per day",

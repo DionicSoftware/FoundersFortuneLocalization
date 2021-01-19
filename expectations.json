@@ -14,7 +14,7 @@
 		"polish": "Oczekiwania",
 		"korean": "기대",
 		"italian": "Aspettative",
-		"japanese": "期待",
+		"japanese": "住環境",
 		"czech": "Očekávání",
 	},
 	"notUnlockedYet": {
@@ -32,7 +32,7 @@
 		"polish": "Jeszcze nieodblokowane",
 		"korean": "아직 풀리지 않음",
 		"italian": "Non ancora sbloccato",
-		"japanese": "まだロック解除されていません",
+		"japanese": "対処する必要なし",
 		"czech": "Ještě to není odemčeno",
 	},
 	"notRelevantYet_Title": {
@@ -50,7 +50,7 @@
 		"polish": "Jeszcze nieistotne",
 		"korean": "아직 의미가 없음",
 		"italian": "Non ancora rilevante",
-		"japanese": "まだ利用できません",
+		"japanese": "対処する必要なし",
 		"czech": "Zatím to není relevantní",
 	},
 	"notRelevantYet_Desc_home": {
@@ -68,7 +68,7 @@
 		"polish": "%firstName% nie dba o dom w tej chwili.",
 		"korean": "%firstName%#{은} 아직 집에 대해 신경쓰지 않고 있습니다.",
 		"dutch":  "%firstName% Geeft niet om een huis nu dit ogenblik.",
-		"japanese": "%firstName% は、現時点では%hisHer%家を気にしません。",
+		"japanese": "%firstName% は、今のところ家を気にしません。",
 		"czech": "%firstName% se v tuto chvíli nestará o svůj domov.",
 	},
 	"notRelevantYet_Desc_lifeSatisfaction": {
@@ -86,7 +86,7 @@
 		"polish": "%firstName% nie dba o zadowolenie z życia w tej chwili.",
 		"korean": "%firstName%#{은} 아직 기대하는 삶이 없습니다.",
 		"italian": "%firstName% non ha alcun interesse per la sua soddisfazione di vita al momento.",
-		"japanese": "%firstName% は、現時点では人生の満足度は気にしません。",
+		"japanese": "%firstName% は、今のところ満足度は気にしません。",
 		"czech": "%firstName% se v tuto chvíli nestará o životní spokojenost.",
 	},
 	"notRelevantYet_Desc_promotions": {
@@ -104,7 +104,7 @@
 		"polish": "%firstName% nie dba o awans w tej chwili.",
 		"korean": "%firstName%#{은} 아직 진급에 대해 생각하지 않고 있습니다.",
 		"italian": "%firstName% non ha alcun interesse per le promozioni al momento.",
-		"japanese": "%firstName% は、今のところ昇進を気にしません。",
+		"japanese": "%firstName% は、今のところ職業を気にしません。",
 		"czech": "%firstName% se v tuto chvíli nestará o povýšení.",
 	},
 	"notRelevantYet_Desc_salary": {
@@ -374,7 +374,7 @@
 		"polish": "Osiągn%ąłĘła% mistrzostwo w swoim zawodzie",
 		"korean": "%heShe%의 직업군에서 베테랑이 됨",
 		"italian": "%cap-PadronePadrona% della sua professione",
-		"japanese": "習得した%hisHer% 職業",
+		"japanese": "習得した%hisHer%職業",
 		"czech": "Zvýši%lA% svou profesi",
 	},
 	"promotionsSatisfactionGood": {
@@ -801,7 +801,7 @@
 		"polish": "%firstName% chce wypłatę w wysokości %coins% monet na dzień.",
 		"korean": "%firstName%#{은} 최소한 하루에 %coins% 코인쯤 받을 거라고 예상하고 있습니다.",
 		"italian": "%firstName% si aspetta un salario minimo di %coins% monete al giorno.",
-		"japanese": "%firstName%は、一日あたり%coins%コインの最低賃金を期待しています。",
+		"japanese": "%firstName%は一日あたり%coins%コインの支払いが必要です。",
 		"czech": "%firstName% požaduje alespoň %coins% mincí za den.",
 	},
 	"food": {
@@ -837,7 +837,7 @@
 		"polish": "Jedzenie z ogniska",
 		"korean": "모닥불에 구운 음식",
 		"italian": "Cibo da falò",
-		"japanese": "焚き火で焼いた料理",
+		"japanese": "焚き火で作られた料理",
 		"czech": "Jídlo z ohniště",
 	},
 	"goodOrBakedMeals": {
@@ -910,7 +910,7 @@
 		"polish": "Posiada miejsce do spania",
 		"korean": "자신만의 잠자리를 가지기",
 		"italian": "Possedere un posto letto",
-		"japanese": "寝る場所を所有しました",
+		"japanese": "寝具を所有",
 		"czech": "Vlastní místo na spaní",
 	},
 	"sleepsInside": {
@@ -928,7 +928,7 @@
 		"polish": "Śpi wewnątrz",
 		"korean": "실내에서 자기",
 		"italian": "Dormire al coperto",
-		"japanese": "中で眠る",
+		"japanese": "室内での睡眠",
 		"czech": "Spát uvnitř domu",
 	},
 	"ownsBed": {
@@ -946,7 +946,7 @@
 		"polish": "Posiada właściwe łóżko",
 		"korean": "제대로 된 침대 가지기",
 		"italian": "Possedere un letto adeguato",
-		"japanese": "適切なベッドを所有しています",
+		"japanese": "ベッドを所有",
 		"czech": "Vlastnit pořádnou postel",
 	},
 	"ownsBedroom": {
@@ -964,7 +964,7 @@
 		"polish": "Posiada sypialnię",
 		"korean": "나만의 침실 가지기",
 		"italian": "Possedere una stanza da letto",
-		"japanese": "寝室を所有しています",
+		"japanese": "寝室を所有",
 		"czech": "Mít vlastní ložnici",
 	},
 	"ownsHouse": {
@@ -982,7 +982,7 @@
 		"polish": "Posiada dom",
 		"korean": "나만의 집 가지기",
 		"italian": "Possedere una casa",
-		"japanese": "家を所有しています",
+		"japanese": "自宅を所有",
 		"czech": "Mít vlastní dům",
 	},
 	"ownsHouse3Rooms": {
@@ -1000,7 +1000,7 @@
 		"polish": "Posiada dom z trzema dużymi pokojami",
 		"korean": "3개의 큰 방이 있는 집 가지기",
 		"italian": "Possedere una casa con 3 grandi stanze",
-		"japanese": "大きな部屋が3つある家を所有しています",
+		"japanese": "大きな部屋が3つある自宅を所有",
 		"czech": "Vlastnit dům se 3 velkými pokoji",
 	},
 	"ownsHouse5Rooms": {
@@ -1018,7 +1018,7 @@
 		"polish": "Posiada dom z pięcioma dużymi pokojami",
 		"korean": "5개의 큰 방이 있는 집 가지기",
 		"italian": "Possedere una casa con 5 grandi stanze",
-		"japanese": "大きな部屋が5つある家を所有しています",
+		"japanese": "大きな部屋が5つある自宅を所有",
 		"czech": "Vlastnit dům s 5 velkými pokoji",
 	},
 	"lifeSatisfactionLevel": {
@@ -1036,7 +1036,7 @@
 		"polish": "Poziom zadowolenia z życia na poziomie %number%",
 		"korean": "생활 만족도 %number% 레벨",
 		"italian": "Soddisfazione di vita livello %number%",
-		"japanese": "生活満足度レベル%number%",
+		"japanese": "満足度レベル%number%",
 		"czech": "Úroveň životní spokojenosti: %number%",
 	},
 	"needToFulfillWishes": {
@@ -1054,7 +1054,7 @@
 		"polish": "Życzenia do spełnienia",
 		"korean": "소원이 이루어져야 합니다",
 		"italian": "Desidera soddisfare i suoi desideri",
-		"japanese": "願いを叶える必要があります",
+		"japanese": "願い事を叶える必要があります。",
 		"czech": "Je třeba splnit přání kolonisty",
 	},
 	"wantsJob_Title": {
@@ -1072,7 +1072,7 @@
 		"polish": "Chce pracę",
 		"korean": "직업을 갖고싶어",
 		"italian": "Vuole un lavoro",
-		"japanese": "仕事が欲しいです",
+		"japanese": "職業に就く",
 		"czech": "Chce práci",
 	},
 	"wantsJob_Desc": {
@@ -1090,7 +1090,7 @@
 		"polish": "%firstName% nie ma pracy w tym momencie. Przez to czuje się %niezadowolon%yA%.",
 		"korean": "%firstName%#{은} 아직 직업이 없습니다. %heShe%는 성취감을 느끼지 못하고 있습니다.",
 		"italian": "%firstName% non ha un lavoro al momento. Questo %LoLa% fa sentire irrealizzato.",
-		"japanese": "%firstName%は、現在仕事を持っていません。それは%himHer%の生活が満たされていないように感じさせています。 ",
+		"japanese": "%firstName%を職業に就けてください。無職のため%himHer%の生活が充実していない様に感じています。 ",
 		"czech": "%firstName% teď nemá žádnou práci a kvůli tomu se cítí nenaplněn%yA%.",
 	},
 }

@@ -36,7 +36,7 @@
 		"chinese": "%firstName%流血了!一定要把他的伤口包扎好。否则%firstName%可能会死于失血过多。",
 		"italian": "%firstName% sta sanguinando! Assicurati che le sue ferite vengano fasciate accuratamente. Altrimenti, %firstName% potrebbe morire per dissanguamento.",
 		"Norwegian": "%firstName% blør! vær sikker på at %han/hun% sår er bandasjert ordentlig, hvis ikke kan %firstName% dø av blodtap.",
-		"japanese": "%firstName%が出血しています。失血によって死亡するかもしれません。早急に治療が必要です。",
+		"japanese": "%firstName%は出血しています。失血によって死亡するかもしれません。早急に治療が必要です。",
 	},
 	"effectTitle_Unconscious": {
 		"english": "Unconscious",
@@ -74,7 +74,7 @@
 		"chinese": "%firstName%需要一段时间才能苏醒过来。",
 		"italian": "Ci vorrà un po' prima che %firstName% si svegli.",
 		"Norwegian": "det vil ta en stund før %firstName% vokner opp.", 
-		"japanese": "%firstName%の意識が戻るまでしばらく時間がかかります。",
+		"japanese": "%firstName%は意識不明になりました。意識が自然と戻るにはしばらく時間がかかります。",
 	},
 	"effectTitle_Bandage": {
 		"english": "Bandage",
@@ -340,7 +340,7 @@
 		"chinese": "%firstName%吃了过敏的食物。现在他的身体出现了过敏反应。",
 		"italian": "%firstName% è stat%OA% costretto a mangiare del cibo a cui era allergic%OA%. Adesso il suo corpo ha avuto una reazione allergica.",
 		"Norwegian": "%firstName% ble tvunget til å spise mat %hanhun% er allergisk mot. Nå vil %hanshennes% kropp ha en allergisk reaksjon.",
-		"japanese": "%firstName%はアレルギーを起こしています。アレルギーのある食べ物を食べざる負えない状況になった為です。",
+		"japanese": "%firstName%はアレルギー症状の出る食べ物を食べたため、アレルギーを起こしました。",
 		"czech": "%firstName% jed%lA% z donucení jídlo na které je alergick%yA%!. Má teď díky tomu alergickou reakci.",
 	},
 	"effectStage": {
@@ -397,7 +397,7 @@
 		"chinese": "%firstName%只得到少量的食物配给，所以%firstName%只是缺乏精力工作，需要更长的时间来完成任务。",
 		"italian": "%firstName% si nutre solo con piccole razioni alimentari, per cui gli mancano le energie per lavorare e per questo impiega più tempo per completare gli incarichi.",
 		"Norwegian": "%firstName% får kun små porsjoner med mat, så %hanhun% har ikke energi til å jobbe ordentlig og bruker lenger tid på å fullføre oppgaver.",
-		"japanese": "%firstName%は少量の食べ物しか口にできないため、力が沸かず作業完了の時間がかかります。",
+		"japanese": "%firstName%は普段より少ない量の食べ物のため、力が沸かず作業の時間が長くなります。",
 		"czech": "%firstName% dostává jen malé dávky jídla a díky tomu má nedostatek energie. Dokončení úkolů tedy trvá déle.",
 	},
 	"effectTitle_LegHurt": {
@@ -433,7 +433,7 @@
 		"chinese": "%firstName%的腿受伤了。夹板可以帮助它更快地愈合。",
 		"italian": "%firstName% si è ferit%OA% alla gamba. Le stecche l%OA% aiuteranno a guarire più rapidamente.",
 		"Norwegian": "%firstName% har skadet benet. skinne vil helbrede det kjappere.",
-		"japanese": "足を負傷しました。治りが早くなる添え木の治療を行ってください。",
+		"japanese": "%firstName%は足を負傷しました。添え木による治療を行えば早く完治します。",
 		"czech": "%firstName% má zraněnou nohu. Dlaha od lékaře určitě urychlí proces hojení.",
 	},
 	"effectTitle_LegBroken": {
@@ -469,7 +469,7 @@
 		"chinese": "%firstName%的腿骨折了，不能再走路了。您必须使用夹板，否则%firstName%可能永久断腿了!",
 		"italian": "%firstName% si è rott%OA% una gamba e non può più camminare. Devi applicare delle stecche, o %firstName% potrebbe rimanere invalido a vita!",
 		"Norwegian": "%firstName% har brukket %hanshennes% ben og kan ikke gå mer. du må legge på en skinne, hvis ikke vil %firstName% få varig skade.",
-		"japanese": "足を骨折しました。早急に添え木の治療が必要です。そうしないと%firstName%は永遠に動けません。",
+		"japanese": "%firstName%は足を骨折しました。完治するには非常に時間がかかります。早急に添え木による治療を行ってください。",
 		"czech": "%firstName% si zlomi%lA% nohu a nemůže chodit. Musíte použít dlahu, jinak se může stát, že už nikdy nebude chodit!",
 	},
 	"effectTitle_ArmHurt": {
@@ -505,7 +505,7 @@
 		"chinese": "%firstName%胳膊受伤了。夹板可以帮助它更快地愈合。",
 		"italian": "%firstName% si è ferit%OA% al braccio. Le stecche l%OA% aiuteranno a guarire più rapidamente.",
 		"Norwegian": "%firstName% har skadet %hanshennes% arm. skinne vil hjelpe for at det skal gro kjappere.",
-		"japanese": "腕を負傷しました。治りが早くなる添え木の治療を行ってください。",
+		"japanese": "%firstName%は腕を負傷しました。添え木による治療を行えば早く完治します。",
 		"czech": "%firstName% má zraněnou ruku. Dlaha od lékaře jistě uleví od bolesti.",
 	},
 	"effectTitle_ArmBroken": {
@@ -541,7 +541,7 @@
 		"chinese": "%firstName%的胳膊骨折了，不能再工作了。夹板可以帮助它更快地愈合。",
 		"italian": "%firstName% si è rott%OA% un braccio e non può più lavorare. Le stecche l%OA% aiuteranno a guarire più in fretta.",
 		"Norwegian": "%firstName har brukkes %hanshennes% arm og kan ikke jobbe mer. skinne vil hjelpe for at det skal gro kjappere.",
-		"japanese": "腕を骨折しました。早急に添え木の治療が必要です。そうしないと%firstName%は永遠に作業できません。",
+		"japanese": "%firstName%は腕を骨折しました。完治するには非常に時間がかかります。早急に添え木による治療を行ってください。",
 		"czech": "%firstName% si zlomi%lA% ruku a nemůže pracovat. Musíte použít dlahu k rychlejšímu uzdravení.",
 	},
 	"effectTitle_LegSplint": {

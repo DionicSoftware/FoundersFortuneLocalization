@@ -51,7 +51,7 @@
 		"chinese": "吃%food%",
 		"italian": "Mangia %food%",
 		"polish": "Zjedz: %food%",
-		"japanese": " %food% を食べる",
+		"japanese": "%food%を食べる",
 		"czech": "Sněz %food%",
 	},
 	"GiveFood": {
@@ -299,7 +299,7 @@
 		"chinese": "播种%object%",
 		"italian": "Semina %object%",
 		"polish": "Posadź: %object%",
-		"japanese": "種をまく: %object%",
+		"japanese": "種をまく:%object%",
 		"czech": "Zasaď %object%",
 	},
 	"HarvestObject": {
@@ -317,7 +317,7 @@
 		"chinese": "收获%object%",
 		"italian": "Raccogli %object%",
 		"polish": "Zbierz: %object%",
-		"japanese":"収穫する: %object%",
+		"japanese":"収穫する:%object%",
 		"czech": "Skliď %object%",
 	},
 	"Construct": {
@@ -957,7 +957,7 @@
 		"chinese": "点亮营火",
 		"italian": "Accendi falò",
 		"polish": "Zapal ogień",
-		"japanese":"ビーコンを点火する",
+		"japanese":"篝火を点火する",
 		"czech": "Zapal signální oheň",
 	},
 	"PutOutBonfire": {
@@ -975,7 +975,7 @@
 		"chinese": "放置营火",
 		"italian": "Spegni falò",
 		"polish": "Zgaś ogień",
-		"japanese":"ビーコンを消火する",
+		"japanese":"篝火を消火する",
 		"czech": "Uhas signální oheň",
 	},
 	"GatherResources": {
@@ -1191,7 +1191,7 @@
 		"chinese": "收集%resource%",
 		"italian": "Raccogli %resource%",
 		"polish": "Zbierz: %resource%",
-		"japanese":"%resource% を集める",
+		"japanese":"%resource%を集める",
 		"czech": "Shromaždi %resource%",
 	},
 	"BecomeAProfession": {
@@ -1209,7 +1209,7 @@
 		"chinese": "转职为 %profession%",
 		"italian": "Diventa: %profession%",
 		"polish": "Wybierz profesję: %profession%",
-		"japanese":"%profession% になる",
+		"japanese":"%profession%になる",
 		"czech": "Staň se %profession%",
 	},
 	"TryFluTreatment": {
@@ -1471,7 +1471,7 @@
 		"chinese": "与%name%交流",
 		"italian": "Parlare con %name%",
 		"polish": "Rozmawiaj z %name%",
-		"japanese":"%name% に話しかける",
+		"japanese":"%name%に話しかける",
 		"czech": "Mluv s %name%",
 	},
 	"TakeOwnership": {
@@ -1507,7 +1507,7 @@
 		"chinese": "从%name%那里获得拥有权",
 		"italian": "Assumi la proprietà da %name%",
 		"polish": "Przejmij własność od %name%",
-		"japanese":"%name% から所有権を取得する",
+		"japanese":"%name%から所有権を取得する",
 		"czech": "Přivlastni si to od %name%",
 	},
 	"GiveUpOwnership": {
@@ -1774,7 +1774,7 @@
 		"chinese": "拥抱 %name%",
 		"italian": "Abbraccia %name%",
 		"polish": "Przytul %name%",
-		"japanese":"ハグをする %name%",
+		"japanese":"%name%とハグをする",
 		"czech": "Obejmi %name%",
 	},
 	"Cheer": {
@@ -1808,7 +1808,7 @@
 		"turkish": "Özelliklerini sor",
 		"polish": "Zapytaj o cechy",
 		"chinese": "询问特性",
-		"japanese":"特性について尋ねる",
+		"japanese":"個性について尋ねる",
 		"czech": "Zeptej se na vlastnosti migranta",
 	},
 	"Insult": {
@@ -1836,7 +1836,7 @@
 		"chinese": "侮辱 %name%",
 		"italian": "Insulta %name%",
 		"polish": "Obraź %name%",
-		"japanese":"侮辱する %name%",
+		"japanese":"%name%を侮辱する",
 		"czech": "Uraž %name%",
 	},
 	"Apologize": {
@@ -1892,7 +1892,7 @@
 		"chinese": "亲吻 %name%",
 		"italian": "Bacia %name%",
 		"polish": "Pocałuj %name%",
-		"japanese":"キスする %name%",
+		"japanese":"%name%とキスする",
 		"czech": "Polib %name%",
 	},
 	"BreakUp": {
@@ -1981,7 +1981,7 @@
 		"chinese": "对 %name%印象深刻",
 		"italian": "Impressiona %name%",
 		"polish": "Zaimponuj dla %name%",
-		"japanese":"印象づける %name%",
+		"japanese":"%name%へ印象づける",
 		"czech": "Zapůsob na %name%",
 	},
 	"BuildSnowman": {
@@ -2245,7 +2245,7 @@
 		"chinese": "%firstName%正在使用",
 		"italian": "%firstName% lo sta usando",
 		"polish": "%firstName% tego używa",
-		"japanese":"%firstName% は、それを使用しています",
+		"japanese":"%firstName%は、それを使用しています",
 		"czech": "%firstName% to již využívá",
 	},
 	"goblinIsUsingThat": {
@@ -2263,7 +2263,7 @@
 		"chinese": "哥布林正在使用",
 		"italian": "Un goblin lo sta usando",
 		"polish": "Goblin tego używa",
-		"japanese":"ゴブリンは、それを使用しています",
+		"japanese":"ティキゴブリンは、それを使用しています",
 		"czech": "Goblin to již využívá",
 	},
 	"visitorIsUsingThat": { // visitors like migrants or traders
@@ -2350,7 +2350,7 @@
 		"portuguese": "%resource% estoque está cheio",
 		"chinese": "%resource% 库存已满",
 		"italian": "La riserva di %resource% è piena",
-		"japanese":"%resource% の備蓄でいっぱいです。",
+		"japanese":"%resource%の備蓄でいっぱいです。",
 		"czech": "%resource% už nelze uskladnit. Sklad je plný.",
 	},
 	"noProductionOrders": {
@@ -2386,7 +2386,7 @@
 		"chinese": "%firstName%没有足够的%profession%经验",
 		"italian": "%firstName% non ha abbastanza esperienza come %profession%",
 		"polish": "%firstName% nie ma doświadczenia w profesji: %profession%",
-		"japanese":"%firstName% は%profession%の十分な経験がありません",
+		"japanese":"%firstName%は%profession%の経験が十分ではありません",
 		"czech": "%firstName% nemá dostatek zkušeností pro %profession%",
 	},
 	"notUsableInSeason": {
@@ -2404,7 +2404,7 @@
 		"chinese": "在%season%季节不能生长",
 		"italian": "Impossibile in %season%",
 		"polish": "Nie można zasadzić w porze roku: %season%",
-		"japanese":" %season%シーズンでは、成長できません",
+		"japanese":"%season%の季節は、成長できません",
 		"czech": "Toto není možné dělat v %season%",
 	},
 	"noTimeBeforeSeasonChanges": {
@@ -2454,7 +2454,7 @@
 		"italian": "Prossima interazione tra %time%",
 		"chinese": "下次互动在 %time%",
 		"polish": "Następna interakcja za %time%",
-		"japanese":"次のインタラクション%time%",
+		"japanese":"次の交流まで%time%",
 		"czech": "Další činnost za %time%",
 	},
 	"forbiddenBecauseHasTrait": {
@@ -2472,7 +2472,7 @@
 		"chinese": "因为特性：%trait% 限制",
 		"italian": "Non può a causa del tratto: %trait%",
 		"polish": "Nie można ze względu na cechę: %trait%",
-		"japanese":"特性のためにできません:%trait%",
+		"japanese":"個性のためできません:%trait%",
 		"czech": "Nemůže, protože nemá schopnost: %trait%",
 	},
 	"forbiddenBecauseNotHasTrait": {
@@ -2490,7 +2490,7 @@
 		"chinese": "缺少特性：%trait%",
 		"italian": "Tratto mancante: %trait%",
 		"polish": "Brakująca cecha: %trait%",
-		"japanese":"欠けてる特性:%trait%",
+		"japanese":"欠けてる個性:%trait%",
 		"czech": "Nemá schopnost: %trait%",
 	},
 	"cantGetResourceNearby": {
@@ -2562,7 +2562,7 @@
 		"chinese": "当前研究不需要分析%resource%",
 		"italian": "Non ha bisogno di analizzare %resource% per la ricerca attuale",
 		"polish": "Nie potrzeba: %resource% do aktualnych badań",
-		"japanese":"現在の調査のために%resource%を分析する必要はありません",
+		"japanese":"現在の研究のために%resource%を解析する必要はありません",
 		"czech": "Není už potřeba zkoumat %resource% pro tento výzkum",
 	},
 	"notOwnedBy": {
@@ -2626,7 +2626,7 @@
 		"italian": "Abilità mancante: %skill%",
 		"chinese": "缺失技能：%skill%",
 		"polish": "Brakująca umiejętność: %skill%",
-		"japanese":"不足しているスキル: %skill%",
+		"japanese":"不足しているスキル:%skill%",
 		"czech": "Chybí schopnost: %skill%",
 	}
 	

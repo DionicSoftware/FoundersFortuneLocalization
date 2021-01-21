@@ -183,7 +183,7 @@
 		"chinese": "饥饿",
 		"italian": "Affamat%OA%",
 		"polish": "Głód",
-		"japanese": "空腹",
+		"japanese": "飢え",
 		"czech": "Hladov%yA%",
 	},
 	"thoughtDesc_Hungry": {
@@ -841,7 +841,7 @@
 		"chinese": "我喜欢和我的朋友%firstName%聊天",
 		"italian": "Mi è piaciuto molto parlare con %firstName%.",
 		"polish": "Lubię rozmawiać z moim przyjacielem.",
-		"japanese": "友達の %firstName% と話すのはとても楽しかったです",
+		"japanese": "友達の%firstName%と話すのはとても楽しかったです",
 		"czech": "Bavilo mě mluvit s %firstName%.",
 	},
 	"thoughtTitle_BadConversation": {
@@ -875,7 +875,7 @@
 		"chinese": "%firstName%如此的充满自己%himselfHerself%。我无法忍受听他说话。",
 		"italian": "%firstName% si da così tante arie. Non potevo sopportare i suoi discorsi.",
 		"polish": "%firstName% jest niesamowicie zarozumiał%yA%. Nie mogę już znieść %jegoJej% gadania.",
-		"japanese": "%firstName% は、自分の話ばかりします。人の話ばかり聞かされるのは我慢できません。",
+		"japanese": "%firstName%は、自分の話ばかりします。人の話ばかり聞かされるのは我慢できません。",
 		"czech": "%firstName% je tak egoistický. Nemoh%lA% jsem to dál vydržet poslouchat.",
 	},
 	"thoughtTitle_GoodDream": {
@@ -1301,7 +1301,7 @@
 		"chinese": "食不果腹",
 		"italian": "Razioni di cibo scarse",
 		"polish": "Małe racje żywnościowe",
-		"japanese": "少ない食糧配給",
+		"japanese": "少ない食べ物の配分",
 		"czech": "Malé potravinové dávky",
 	},
 	"thoughtDesc_SmallFoodRations": {
@@ -1335,7 +1335,7 @@
 		"chinese": "饱食暖衣",
 		"italian": "Razioni di cibo abbondanti",
 		"polish": "Duże racje żywnościowe",
-		"japanese": "たくさんの食糧配給",
+		"japanese": "たくさんの食べ物の配分",
 		"czech": "Velké potravinové dávky",
 	},
 	"thoughtDesc_LargeFoodRations": {
@@ -1505,7 +1505,7 @@
 		"chinese": "羡慕他人",
 		"italian": "Invidios%OA% della stanza di %firstName%",
 		"polish": "Envious of %firstName%'s room", // to do
-		"japanese": "%firstName% の部屋がうらやましくて嫉妬しています",
+		"japanese": "%firstName%の部屋がうらやましくて嫉妬しています",
 		"czech": "Závidím místnosti %firstName%",
 	},
 	"thoughtDesc_EnvyBedroomBeauty": {
@@ -1522,7 +1522,7 @@
 		"chinese": "%fullName%拥有这么酷的卧室，为什么我不能有那样的东西?",
 		"italian": "%fullName% ha una camera da letto così bella, perché non posso averne una uguale?",
 		"polish": "%fullName% ma taką fajną sypialnię, dlaczego nie mogę mieć czegoś takiego?",
-		"japanese": "%firstName% は、とても素敵な部屋を持っています。なぜ、私も同じような素敵な部屋を持っていないのですか?",
+		"japanese": "%firstName%は、とても素敵な部屋を持っています。なぜ、私も同じような素敵な部屋を持っていないのですか?",
 		"czech": "%fullName% má tak cool ložnici, proč nemohu něco takového mít i já?",
 	},
 //	"thoughtTitle_MissingPossessions": {
@@ -1874,7 +1874,7 @@
 		"russian": "Дружит с гоблинами",
 		"italian": "Troppo amichevole con i goblin",
 		"polish": "Spoufalenie z goblinami",
-		"japanese": "ゴブリンとの相性がよすぎる",
+		"japanese": "ティキゴブリンとの相性がよすぎる",
 		"czech": "Příliš přátelsk%yA% s gobliny",
 	},
 	"thoughtDesc_TooFriendlyWithGoblins": {
@@ -1889,7 +1889,7 @@
 		"russian": "Наша колония дружит с некоторыми гоблинами... Я не против мира, просто я не думаю, что мы можем им доверять.",
 		"italian": "La nostra colonia è amica di alcuni goblin... Non ho nulla contro la pace, ma non credo che dovremmo fidarci di loro così tanto.",
 		"polish": "Our colony is friendly with some goblins... I have nothing against peace, but I don't think we should trust them all that much.",  // to do
-		"japanese": "私たちのコロニーは、いくつかのゴブリンと友好的です。私は、平和的な彼らとの共存に反対することはありませんが、信頼しすぎるべきではありません。",
+		"japanese": "私たちのコロニーは、いくつかのティキゴブリンと友好的です。私は、平和的な彼らとの共存に反対することはありませんが、信頼しすぎるべきではありません。",
 		"czech": "Naše kolonie je až moc přátelská s některými gobliny ... Nemám nic proti míru, ale nemyslím si, že bychom jim měli tolik věřit.",
 	},
 	"thoughtTitle_AggressiveRelationsWithGoblins": {
@@ -1904,7 +1904,7 @@
 		"russian": "Вражда с гоблинами",
 		"italian": "Relazioni aggressive con i goblin",
 		"polish": "Napięte relacje z Goblinami",
-		"japanese": "ゴブリンとの攻撃的な関係",
+		"japanese": "ティキゴブリンとの攻撃的な関係",
 		"czech": "Agresivní vztahy s gobliny",
 	},
 	"thoughtDesc_AggressiveRelationsWithGoblins": {
@@ -1919,7 +1919,7 @@
 		"russian": "Обидно, что мы не можем жить в мире с гоблинами. Может все-таки есть способ?",
 		"italian": "È un peccato non poter vivere insieme ai goblin in pace. Non c'è un modo per essere amici?",
 		"polish": "Szkoda, że nie żyjemy z goblinami w pokoju. Czy nie możemy znaleźć sposobu na bycie przyjaciółmi?",
-		"japanese": "現在、ゴブリンとは敵対関係です。ゴブリンと一緒に平和に暮らすことができないのは残念です。どうにか友達になる方法を見つけられませんか?",
+		"japanese": "現在、ティキゴブリンとは敵対関係です。ゴブリンと一緒に平和に暮らすことができないのは残念です。どうにか友達になる方法を見つけられませんか?",
 		"czech": "Je škoda, že nežijeme spolu s gobliny v míru. Nemůžeme najít způsob, jak být přáteli?",
 	},
 	"thoughtTitle_DislikedVisitorInTown": {
@@ -2086,7 +2086,7 @@
 		"korean": "질문을 받음",
 		"chinese": "遭人质疑",
 		"polish": "Został%nicA% przesłuchan%yA%",
-		"japanese": "特性について質問された",
+		"japanese": "個性について質問された",
 		"czech": "Vyslýchání",
 	},
 	"thoughtDesc_WasQuestioned": {
@@ -2160,7 +2160,7 @@
 		"chinese": "哦，天哪，您听到%firstName%的笑话了吗？太俗气了，我的生活变得更糟。",
 		"italian": "Oh mio Dio, hai sentito dello scherzo di %firstName%? Era così di cattivo gusto che la mia vita è peggiorata sentendolo.",
 		"polish": "O boziu, to było tak tandetne, że mi uszy zwiędły.",
-		"japanese": "%firstName% のジョークを聞いたことがありますか？とても酷いジョークなので、それを聞くだけで私の気分は悪くなります。",
+		"japanese": "%firstName%のジョークを聞いたことがありますか？とても酷いジョークなので、それを聞くだけで私の気分は悪くなります。",
 		"czech": "Pane bože, slyše%lA% jsem vtip od %firstName%. Bylo to tak trapné a otřesné!",
 	},
 	"thoughtTitle_PutSomeoneElseDown": {
@@ -2188,7 +2188,7 @@
 		"chinese": "说出您想要的，但我认为%firstName%得到了应有的报应。表达了我真实的意见自我感觉良好。",
 		"italian": "Dite quello che volete, ma penso che %firstName% se lo sia meritato. Esprimere le mie oneste opinioni mi fa sentire bene con me stess%OA%.",
 		"polish": "Say what you want, but I think %firstName% deserved the rant. Voicing my honest opinions makes me feel good about myself.", // to do
-		"japanese": "%firstName% の発言は暴言に値すると思います。私は自分の正直な意見を表明することでこれ以上、自分自身の気分を悪くさせたくないのです。",
+		"japanese": "%firstName%の発言は暴言に値すると思います。私は自分の正直な意見を表明することでこれ以上、自分自身の気分を悪くさせたくないのです。",
 		"czech": "Říkejte si co chcete, ale myslím, že %firstName% si to za to chvástání zaslouži%lA%.",
 	},
 	"thoughtTitle_ReceivedInsult": {
@@ -2216,7 +2216,7 @@
 		"chinese": "%firstName% 狠狠地侮辱了我。这很不公平！",
 		"italian": "%firstName% mi ha gravemente insultat%OA%. Era fuori luogo!",
 		"polish": "%firstName% poważnie mnie obrazi%iłaIł%. To było nie na miejscu!",
-		"japanese": "%firstName% は、私をひどく侮辱しました。そんな事は望んでいません!",
+		"japanese": "%firstName%は、私をひどく侮辱しました。そんな事は望んでいません!",
 		"czech": "%firstName% mě vážně urazi%lA%!",
 	},
 	"thoughtTitle_Parenthood": {
@@ -2448,7 +2448,7 @@
 		"spanish": "%firstName% tuvo la oportunidad de hablar con su vieja amistad y aceptar su pasado. %cap-élElla% ahora es un poco más sabi%oA% y un poco más feliz.",
 		"dutch": "%firstName% had een kans om met zijn overleden vriend te praten en hun verleden te accepteren. %hijZij% is nu een beetje wijzer en een beetje gelukkiger.",
 		"portuguese": "%firstName% teve a chance de falar com seu amigo falecido e aceitar seu passado. %cap-eleEla% agora está um pouco mais sábio e feliz.",
-		"japanese": "%firstName% 亡くなった、かつての友人と話をすることができました。友人との過去のわだかまりについて話し合い、少しだけ心が満たされました。",
+		"japanese": "%firstName%は亡くなった、かつての友人と話をすることができました。友人との過去のわだかまりについて話し合い、少しだけ心が満たされました。",
 		"chinese": "%firstName%有机会与已故的朋友交谈并接受他们的过去。%cap-heShe%现在变得更加明智以及更加幸福。",
 		"czech": "%firstName% mě%lA% možnost promluvit si se svým zesnulým přítelem a smířit se s jeho odchodem. %cap-heShe% je nyní trochu moudřejší a i trochu šťastnější.",
 	},
@@ -2470,7 +2470,7 @@
 		"spanish": "%firstName% fue capaz de liberar el alma de su amistad fallecida y ahora está sintiendo un profundo alivio.",
 		"dutch": "%firstName% was in staat om de ziel van zijn dode vriend te bevrijden en voelt nu een diepe opluchting.",
 		"portuguese": "%firstName% conseguiu libertar a alma de seu amigo morto e agora está sentindo um profundo alívio.",
-		"japanese": "%firstName% かつての友人の魂を解放することができ、今は深い安堵の気持ちを感じています。",
+		"japanese": "%firstName%はかつての友人の魂を解放することができ、今は深い安堵の気持ちを感じています。",
 		"chinese": "%firstName%解放了已故朋友的灵魂，现在深感欣慰。",
 		"czech": "%firstName% dokáza%lA% osvobodit duši svého mrtvého přítele a nyní pociťuje hlubokou úlevu.",
 	},

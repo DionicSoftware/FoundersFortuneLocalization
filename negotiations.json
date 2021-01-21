@@ -154,7 +154,7 @@
 		"turkish": "%firstName% için serbest bırakılmasını görüşmek istiyorum.",
 		"chinese": "我想谈谈释放%firstName%的事宜。",
 		"italian": "Vorrei negoziare la liberazione di %firstName%.",
-		"japanese": "%firstName% の解放について交渉したいです。",
+		"japanese": "%firstName%の解放について交渉したいです。",
 		"czech": "Rá%dA% bych jedna%lA% o osvobození %firstName%.",
 		
 	},
@@ -170,7 +170,7 @@
 		"turkish": "İyi bir değer karşılığında %firstName%'ı serbest bırakmaya hazırız.\n\nTakas için bize %haraç% vermenizi istiyoruz.",
 		"chinese": "如果你用等价的东西来交换的话我们随时能放了%firstName%。\n\n我们要求你们进贡%tribute%。",
 		"italian": "Siamo pronti a rilasciare %firstName% se ne varrà la pena.\n\nTi chiediamo di darci %tribute% in cambio.",
-		"japanese": "捕虜と同等の価値のものと交換した場合、 %firstName% を解放しても問題ありません。。\n\n%tribute% を提供してください。",
+		"japanese": "捕虜と同等の価値のものと交換した場合、%firstName%を解放しても問題ありません。\n\n%tribute%を提供してください。",
 		"czech": "Jsme připraveni vydat %firstName% pokud se o to zasloužíte.\n\nVýměnou žádáme %tribute%.",
 	},
 	"kidnappedFreeingAcceptButton": {
@@ -217,7 +217,7 @@
 		"turkish":  "Anlaştık. %firstName%'i serbest bıraktık ve yarım gün boyunca size saldırmayacağımızı garanti edeceğiz, böylece gelip onu alabilirsiniz.",
 		"chinese": "这是一个交易。我们会释放%firstName%，并保证在半天内不攻击您，然后您可以来接走%himHer%。",
 		"italian": "Affare fatto. Liberiamo %firstName% e ti garantiamo che non attaccheremo per metà giornata, così potrai venire a %PrenderloPrenderla%.",
-		"japanese": "これは、取引です。%firstName% を解放し、半日攻撃しないことを保証しましょう。",
+		"japanese": "これは、取引です。%firstName%を解放し、半日攻撃しないことを保証しましょう。",
 		"czech": "Je to dohoda. Osvobodili jsme %firstName% a zaručíme, že na vás nebudeme útočit půl dne, takže si vězně můžete vyzvednout.",
 	},
 	"kidnappedFreeingAcceptedAnswer": {
@@ -279,7 +279,7 @@
 		"turkish": "%days1%-%days2% gün arasında gelmeyi planlıyoruz.",
 		"chinese": "我们计划在%days1%到%days2%天内拜访你们的殖民地。",
 		"italian": "Abbiamo intenzione di visitare il vostro villaggio tra %days1% o %days2% giorni.",
-		"japanese": "%days1% から %days2%日で、あなたのコロニーを訪問する予定です。",
+		"japanese": "%days1%日から%days2%日で、あなたのコロニーを訪問する予定です。",
 		"czech": "Plánujeme navštívit vaši vesnici za %days1% až %days2% dny.",
 	},
 	"traderArrivalAskForFastArrival": {
@@ -517,7 +517,7 @@
 		"turkish": "Aslında bunu karşılayamayız",
 		"chinese": "事实上，我们负担不起。",
 		"italian": "In realtà, non possiamo permettercelo.",
-		"japanese": "私たちは、今それを買う余裕はありません。",
+		"japanese": "私たちは、今それを揃える余裕はありません。",
 		"czech": "Vlastně si to nemůžeme dovolit.",
 	},
 	"acceptPresentsBadRelations": {
@@ -1027,7 +1027,7 @@
 		"korean": "여! 다시 보니 반갑구려.\n\n우리가 작업을 하다보니 몇 가지 좀 부족한 게 눈에 띄어서 말이네. 부족한 부분을 좀 얻어갈까 하는데, 괜찮소?\n\n우리가 필요한건: %tribute%\n\n이것들을 %days%일 안에 가져다 줄 수 있겠나.",
 		"turkish": "Hey! Sizi tekrar görmek güzel.\n\nFaaliyetlerimize devam edebilmek için birkaç şeye daha ihtiyacımız olduğunu farkettik. Bunları karşılamak sizin için bir sıkıntı oluşturmaz değil mi?\n\n İhtiyacımız %tribute%.\n\n%days% gün içinde göndermeniz gerekiyor.",
 		"chinese": "嘿!很高兴再次见到您。\n\n我们注意到我们还需要一些物资来保持我们正常生活。您不介意为我们提供这些物资，对吧？\n\n我们需要： %tribute%\n\n你有 %days% 天时间交付。",
-		"japanese": "また、お会いできて嬉しいです。\n\n業務を継続するには、まだいくつかのものが必要です。できたら、私たちを助けてくれませんか?\n\n必要なもの: %tribute%\n\n %days% 日以内に欲しいです。",
+		"japanese": "また、お会いできて嬉しいです。\n\n業務を継続するには、まだいくつかのものが必要です。できたら、私たちを助けてくれませんか?\n\n必要なもの:%tribute%\n\n %days%日以内に欲しいです。",
 		"czech": "Ahoj! Rád vás znovu vidím.\n\nVšimli jsme si, že k udržení chodu našich operací potřebujeme ještě několik věcí. Nebude vám vadit, když nám je poskytnete, že?\n\nPotřebovali bychom: %tribute% \n\nMáte %days% dní na doručení.",
 	},
 	"timedTributeDemandAccept": {

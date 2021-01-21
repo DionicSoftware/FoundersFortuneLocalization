@@ -305,7 +305,7 @@
 		"italian": "Carica",
 		"czech": "Načíst",
 		"romanian": "Încarcă",
-		"japanese": "ロードする",
+		"japanese": "読み込み",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -324,7 +324,7 @@
 		"italian": "Sovrascrivi",
 		"czech": "Přepsat",
 		"romanian": "Suprascrie",
-		"japanese": "上書き保存する",
+		"japanese": "上書き保存",
 	},
 	"reallyDeleteSave": {
 		"english": "Are you sure you want to delete the save \"%save%\"? It will be gone forever.",
@@ -377,7 +377,7 @@
 		"turkish": "Oyunu %minutes% dakikadır kaydetmediniz. Kaydetmeden ana menüye geri dönmek istediğinden emin misiniz?",
 		"czech": "Hra nebyla uložena posledních %minutes% minut. Opravdu se chcete vrátit do hlavní nabídky bez uložení?",
 		"romanian": "Jocul nu a fost salvat timp de %minutes% minute. Sigur doriți să vă întoarceți la meniul principal fără să salvați?",
-		"japanese": "現在ゲームは%minutes%分のあいだ保存されていません。保存せずにメインメニュー画面に戻ってもよろしいですか？",
+		"japanese": "このゲームは%minutes%分間保存されていません。保存せずにメインメニュー画面に戻ってもよろしいですか？",
 	},
 	"newSave": {
 		"english": "New Save",
@@ -396,7 +396,7 @@
 		"italian": "Nuovo salvataggio",
 		"czech": "Nová pozice",
 		"romanian": "Salvare nouă",
-		"japanese": "新規に保存する",
+		"japanese": "新規保存",
 	},
 	"savegameName": { // background when player enters an empty save game name
 		"english": "Savegame Name",
@@ -415,7 +415,7 @@
 		"italian": "Nome salvataggio",
 		"czech": "Název uložené hry",
 		"romanian": "Numele jocului salvat",
-		"japanese": "Savegame Name",
+		"japanese": "ファイル名が未入力",
 	},
 	"mostAwesomeColony": { // default name for new colony
 		"english": "Most Awesome Colony",
@@ -453,7 +453,7 @@
 		"italian": "Caratteri proibiti nel nome del file",
 		"czech": "Zakázané znaky v názvu souboru",
 		"romanian": "Caractere interzise în numele fișierului",
-		"japanese": "ファイルに使用できない禁止文字が含まれています",
+		"japanese": "ファイル名に使用できない禁止文字が含まれています",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -610,7 +610,7 @@
 		"italian": "Attiva",
 		"czech": "Aktivní",
 		"romanian": "Activ",
-		"japanese": "アクティブ",
+		"japanese": "適用",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -2698,7 +2698,7 @@
 		"polish": "Koniec gry!",
 		"czech": "Konec hry!",
 		"romanian": "Joc încheiat!",
-		"japanese": "Game Over!",
+		"japanese": "ゲームオーバー!",
 	},
 	"backToMainMenu": {
 		"english": "Back to the Main Menu",
@@ -2878,7 +2878,7 @@
 		"polish": "Rozpocznij grę",
 		"czech": "Začít hru",
 		"romanian": "Începe jocul",
-		"japanese":  "Start Game",
+		"japanese":  "ゲーム開始",
 	},
 	"selectStartingColonists": {
 		"english": "Select Starting Colonists",
@@ -2954,7 +2954,7 @@
 		"polish": "Niski",
 		"czech": "Poklidný svět",
 		"romanian": "Lume liniștită",
-		"japanese": "平和な世界",
+		"japanese": "平和",
 	},
 	"difficulty_0_Desc": {
 		"english": "A more relaxing experience if you prefer creative base building over combat and survival.\nYour colonists take only half damage from all kinds of injuries.\nThe colony starts with 80 meals, colonists need less food, and can survive on smaller food rations.\nWatered plants yield higher harvests.\nYour colonists will still die if you don't take care of them!",
@@ -2993,7 +2993,7 @@
 		"polish": "Wyzwanie",
 		"czech": "Vzrušující svět",
 		"romanian": "Lume captivantă",
-		"japanese": "エキサイティングな世界",
+		"japanese": "エキサイティング",
 		
 	},
 	"difficulty_1_Desc": {
@@ -3013,7 +3013,7 @@
 		"polish": "Typowe doświadczenie które łączy w sobie budowanie, przetrwanie i walkę.\nKolonia rozpoczyna z 40 posiłkami.\nMoże się zdarzyć, że ktoś umrze z błachego powodu.",
 		"czech": "Typický Founders' Fortune zážitek, vyvážené budování základny a boj.\nKolonie začíná se 40 jídly.\nNěkdy mohou kolonisté zemřít ať se budete snažit jakkoliv.",
 		"romanian": "Experiență tipică de Founders' Fortune, o combinație între construirea bazelor și supraviețuire.\nColonia începe cu 40 buc. de mâncare.\nUneori, coloniștii pot muri chiar dacă încercați tot posibilul.",
-		"japanese": "ファウンダーズフォーチュンを楽しみたい方にぴったりです。\n基地の建設とサバイバルの組み合わせで難易度が増しています。\nコロニーの食糧は40食から始まり、あなたが最善を尽くしてもコロニストが死ぬことがあります。",
+		"japanese": "Founders' Fortuneを楽しみたい方にぴったりです。\n基地の建設とサバイバルの組み合わせで難易度が増しています。\nコロニーの食糧は40食から始まり、あなたが最善を尽くしてもコロニストが死ぬことがあります。",
 	},
 	"difficulty_2_Title": {
 		"english": "Dangerous World",
@@ -3032,7 +3032,7 @@
 		"polish": "Niebezpieczny świat",
 		"czech": "Nebezpečný svět",
 		"romanian": "Lume periculoasă",
-		"japanese": "とても危険な世界",
+		"japanese": "とても危険",
 	},
 	"difficulty_2_Desc": {
 		"english": "The world is a harsh place, so good luck trying to survive with fragile little colonists.\nYour colonists take 50% more damage from all kinds of injuries.\nThe colony starts with 10 meals and colonists get hungry more quickly.\nCatastrophes happen more often.\nA challenge for veteran players.",
@@ -3070,7 +3070,7 @@
 		"polish": "Kontynuuj",
 		"czech": "Pokračovat",
 		"romanian": "Continuă",
-		"japanese": "コンテニュー",
+		"japanese": "進む",
 	},
 	"add": {
 		"english": "Add",
@@ -3108,7 +3108,7 @@
 		"polish": "Usuń",
 		"czech": "Odstranit",
 		"romanian": "Elimină",
-		"japanese": "リムーブ",
+		"japanese": "削除",
 	},
 	"select": {
 		"english": "Select",
@@ -3127,7 +3127,7 @@
 		"polish": "Wybierz",
 		"czech": "Vybrat",
 		"romanian": "Selectează",
-		"japanese": "選択する",
+		"japanese": "選択",
 	},
 	"unableToLoadSaveFile": {
 		"english": "Unable to load save file",
@@ -3262,7 +3262,7 @@
 		"dutch": "Vreedzame Goblins",
 		"polish": "Pokojowe Gobliny",
 		"portuguese": "Goblins pacíficos",
-		"japanese": "平和なゴブリン",
+		"japanese": "平和なティキゴブリン",
 		"chinese": "和平哥布林",
 		"czech": "Mírumilovní goblini",
 	},
@@ -3322,7 +3322,7 @@
 		"dutch": "Goblin dorpen",
 		"polish": "Wioski Goblinów",
 		"portuguese": "Aldeias goblins",
-		"japanese": "ゴブリンの村",
+		"japanese": "ティキゴブリンの村",
 		"chinese": "哥布林村庄",
 		"czech": "Vesnice goblinů",
 	},
@@ -3454,7 +3454,7 @@
 		"dutch": "Opslaan na vertrek van de boot",
 		"polish": "Zapis z początku gry",
 		"portuguese": "Salvar depois de barco partiu",
-		"japanese": "船が出発したあとのバックアップ",
+		"japanese": "船が出港後保存する",
 		"chinese": "船只出发后保存游戏",
 		"czech": "Uložit poté, co loď vypluje",
 	},

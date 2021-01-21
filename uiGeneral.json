@@ -17,7 +17,7 @@
 		"italian": "Nuova partita",
 		"czech": "Nová hra",
 		"romanian": "Joc nou",
-		"japanese": "New Game",
+		"japanese": "ゲームを始める",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -55,7 +55,7 @@
 		"italian": "Carica partita",
 		"czech": "Načíst hru",
 		"romanian": "Încarcă jocul",
-		"japanese": "Load Game",
+		"japanese": "ゲームを読み込みする",
 	},
 	"settings": {
 		"english": "Settings",
@@ -74,7 +74,7 @@
 		"italian": "Opzioni",
 		"czech": "Nastavení",
 		"romanian": "Setări",
-		"japanese": "Settings",
+		"japanese": "設定",
 	},
 	"quit": {
 		"english": "Quit",
@@ -93,7 +93,7 @@
 		"italian": "Esci",
 		"czech": "Odejít",
 		"romanian": "Ieși",
-		"japanese": "Quit",
+		"japanese": "ゲームを終了する",
 	},
 	"website": {
 		"english": "Website",
@@ -377,7 +377,7 @@
 		"turkish": "Oyunu %minutes% dakikadır kaydetmediniz. Kaydetmeden ana menüye geri dönmek istediğinden emin misiniz?",
 		"czech": "Hra nebyla uložena posledních %minutes% minut. Opravdu se chcete vrátit do hlavní nabídky bez uložení?",
 		"romanian": "Jocul nu a fost salvat timp de %minutes% minute. Sigur doriți să vă întoarceți la meniul principal fără să salvați?",
-		"japanese": "現在ゲームは %minutes% 分のあいだ保存されていません。保存せずにメインメニュー画面に戻ってもよろしいですか？",
+		"japanese": "現在ゲームは%minutes%分のあいだ保存されていません。保存せずにメインメニュー画面に戻ってもよろしいですか？",
 	},
 	"newSave": {
 		"english": "New Save",
@@ -396,7 +396,7 @@
 		"italian": "Nuovo salvataggio",
 		"czech": "Nová pozice",
 		"romanian": "Salvare nouă",
-		"japanese": "New Save",
+		"japanese": "新規に保存する",
 	},
 	"savegameName": { // background when player enters an empty save game name
 		"english": "Savegame Name",
@@ -820,7 +820,7 @@
 		"polish": "Każda twoja uwaga jest cenna i pomaga nam ulepszyć grę!",
 		"czech": "Jakýkoliv podnět nám pomůže, abychom pro vás mohli hru vylepšit!",
 		"romanian": "Fiecare feedback ne ajută să îmbunătățim jocul pentru tine!",
-		"japanese": "フィードバックされた全ては私たちが、あなたのためにゲームを改善するのにとても役立ちます!",
+		"japanese": "全てのフィードバックは私たちがゲームを改善するのにとても役立ちます!",
 	},
 	"feedbackType": {
 		"english": "Category",
@@ -1221,7 +1221,7 @@
 		"polish": "Rozdzielczość",
 		"czech": "Rozlišení",
 		"romanian": "Rezoluție",
-		"japanese": "解決",
+		"japanese": "解像度",
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -1259,7 +1259,7 @@
 		"polish": "W oknie",
 		"czech": "V okně",
 		"romanian": "În fereastră",
-		"japanese": "ウィンドウモード",
+		"japanese": "ウィンドウ",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -1278,7 +1278,7 @@
 		"polish": "Pełny ekran",
 		"czech": "Fullscreen",
 		"romanian": "Ecran complet",
-		"japanese": "フルスクリーンモード",
+		"japanese": "フルスクリーン",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -2794,7 +2794,7 @@
 		"polish": "Zdobyte ulepszenia",
 		"czech": "Získaná vylepšení",
 		"romanian": "Cercetări acumulate",
-		"japanese": "収集された研究",
+		"japanese": "獲得した研究",
 	},
 	//TODO-ukrainian: Tikigoblins -> Enemies
 	//TODO-russian: Tikigoblins -> Enemies

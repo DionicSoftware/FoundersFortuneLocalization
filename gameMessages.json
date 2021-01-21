@@ -144,7 +144,7 @@
 		"chinese": "不足 %resource%!",
 		"italian": "Non hai abbastanza %resource%!",
 		"polish": "Brakuje: %resource%!",
-		"japanese": "%resource% が足りません!",
+		"japanese": "%resource%が足りません!",
 		"czech": "Nedostatek %resource%!",
 	},
 	"needsToBePlacedInRoom": {
@@ -199,7 +199,7 @@
 		"chinese": "%firstName% 明天将会长大。",
 		"italian": "%firstName% crescerà domani.",
 		"turkish": "%firstName%, yarın büyümüş olacak.",
-		"japanese": "%firstName%　明日、成長します。",
+		"japanese": "%firstName%は明日大人になります。",
 		"czech": "%firstName% zítra vyroste.",
 	},
 	"notificationTitle_isApproachingEndOfLife": {
@@ -213,7 +213,7 @@
 		"chinese": "%firstName%即将结束%hisHer%的一生。",
 		"italian": "%firstName% sta per giungere alla fine della sua lunga vita.",
 		"turkish": "%firstName%, yaşamının sonuna ermek üzere.",
-		"japanese": "%firstName% 長い長い人生の終わりが近づいています。",
+		"japanese": "%firstName%の長い長い人生が終わりへと近づいています。",
 		"czech": "%firstName% je blízko svému konci. Ži%lA% dlouhý život.",
 	},
 	"itIsNowSeason": {
@@ -304,7 +304,7 @@
 		"korean": "개척자가 의식을 잃었습니다",
 		"chinese": "%firstName% 失去意识",
 		"italian": "%firstName% ha perso conoscenza",
-		"japanese": "%firstName% 意識を失いました",
+		"japanese": "%firstName%は意識を失いました",
 		"czech": "%firstName% ztrati%lA% vědomí",
 	},
 	// TODO-bulgarian: firstName
@@ -325,7 +325,7 @@
 		"chinese": "%firstName%死亡",
 		"italian": "%firstName% è mort%OA%",
 		"polish": "Kolonista zmarł!",
-		"japanese": "%firstName% 死亡!",
+		"japanese": "%firstName%は死亡しました!",
 		"czech": "%firstName% zemře%lA%",
 	},
 	"notificationTitle_DeathOldAge": {
@@ -339,7 +339,7 @@
 		"chinese": "%firstName% 衰老而死",
 		"italian": "%firstName% è mort%OA% di vecchiaia",
 		"turkish": "%firstName% yaşlılıktan öldü",
-		"japanese": "%firstName% 老齢で亡くなりました",
+		"japanese": "%firstName%は老齢で亡くなりました",
 		"czech": "%firstName% zemře%lA% na stáří",
 	},
 	"notificationTitle_AnimalDeath": {
@@ -349,7 +349,7 @@
 		"dutch": "%fullName% is dood",
 		"portuguese": "%fullName% morreu",
 		"chinese": "%firstName% 死了",
-		"japanese": "%fullName% 死亡",
+		"japanese": "%fullName%は死にました",
 		"czech": "%fullName% umře%lA%",
 	},
 	"notificationTitle_AnimalBecameWild": {
@@ -359,7 +359,7 @@
 		"dutch": "%fullName% werd weer wild",
 		"portuguese": "%fullName% tornou-se selvagem",
 		"chinese": "%firstName% 驯服成功了",
-		"japanese": "%fullName% は、飼いならされました",
+		"japanese": "%fullName%は、飼いならされました",
 		"czech": "%fullName% přestala být ochočená",
 	},
 	"notificationTitle_LowFood": {
@@ -377,7 +377,7 @@
 		"chinese": "食物吃完了",
 		"italian": "Il cibo sta per finire",
 		"polish": "Kończy się jedzenie",
-		"japanese": "食料が不足しています",
+		"japanese": "食べ物が不足しています",
 		"czech": "Dochází jídlo",
 	},
 	"notificationTitle_NoFood": {
@@ -596,7 +596,7 @@
 		"chinese": "需要篝火来吸引移民",
 		"italian": "Hai bisogno di un falò per attirare i migranti",
 		"polish": "Potrzeba ogniska sygnalizacyjnego",
-		"japanese": "新しいコロニストを得るには、篝火が必要です",
+		"japanese": "新たなコロニストが訪問するために篝火が必要です",
 		"czech": "Potřebujete postavit signální oheň, aby se k nám přidali migranti",
 		
 	},
@@ -615,7 +615,7 @@
 		"chinese": "需要满足期望",
 		"italian": "Devi soddisfare le aspettative",
 		"polish": "Trzeba spełnić oczekiwania kolonistów",
-		"japanese": "コロニストの期待を満たす必要がある",
+		"japanese": "整えられたコロニストの住環境が必要です",
 		"czech": "Je třeba plnit očekávání či přání kolonistů",
 	},
 	"notificationTitle_NeedBookstand": {
@@ -633,7 +633,7 @@
 		"chinese": "需要一个研究用书架",
 		"italian": "Hai bisogno di un leggio per la ricerca",
 		"polish": "Zbuduj stanowisko do badań",
-		"japanese": "クリスタル解析台が必要",
+		"japanese": "クリスタル解析台が必要です",
 		"czech": "Potřebujete vybudovat Stojan s výzkumnou knihou",
 	},
 	"notificationTitle_NeedToSelectResearch": {
@@ -716,7 +716,7 @@
 		"chinese": "%firstName%伤到了%hisHer%的腿",
 		"italian": "%firstName% si è %FeritoFerita% alla gamba",
 		"polish": "%firstName% zranił%nicA% się w nogę",
-		"japanese": "%firstName% は、脚に痛みがあります",
+		"japanese": "%firstName%は、脚に痛みがあります",
 		"czech": "%firstName% si zrani%lA% svou nohu",
 	},
 	"notificationTitle_LegBroken": {
@@ -733,7 +733,7 @@
 		"chinese": "%firstName%的腿骨折了",
 		"italian": "%firstName% si è %RottoRotta% la gamba",
 		"polish": "%firstName% złamał%nicA% nogę",
-		"japanese": "%firstName% は脚を損傷しました",
+		"japanese": "%firstName%は、脚を損傷しました",
 		"czech": "%firstName% si zlomi%lA% svou nohu",
 	},
 	"notificationTitle_ArmHurt": {
@@ -750,7 +750,7 @@
 		"chinese": "%firstName%伤到了%hisHer%的手臂",
 		"italian": "%firstName% si è %FeritoFerita% al braccio",
 		"polish": "%firstName% zranił%nicA% się w rękę",
-		"japanese": "%firstName% は、腕に痛みがあります",
+		"japanese": "%firstName%は、腕に痛みがあります",
 		"czech": "%firstName% si zrani%lA% svou ruku",
 	},
 	"notificationTitle_ArmBroken": {
@@ -767,7 +767,7 @@
 		"chinese": "%firstName%的手臂骨折了",
 		"italian": "%firstName% si è %RottoRotta% il braccio",
 		"polish": "firstName% złamał%nicA% rękę",
-		"japanese": "%firstName% は脚を損傷しました",
+		"japanese": "%firstName% は、腕を損傷しました",
 		"czech": "%firstName% si zlomi%lA% svou ruku",
 	},
 	"notificationTitle_AutosaveComplete": {
@@ -861,7 +861,7 @@
 		"korean": "'%faction%'#{이} %tribute%#{을} 바치기 위해 %days%일 내로 올 겁니다",
 		"chinese": "'%faction%' 将会%days%天内在 %tribute% 出现",
 		"turkish": "'%faction%',  %tribute% için %days% gün içinde gelecek",
-		"japanese": "'%faction%'は、%tribute%のために%days% daysあたりに到着します",
+		"japanese": "'%faction%'は、%tribute%のために%days%日あたりに到着します",
 		"czech": "'%faction%' si přijde vyzvednout svou daň %tribute% za %days% dní",
 	},
 	"notificationTitle_NoEmptyGrave": {
@@ -888,7 +888,7 @@
 		"portuguese": "%firstName% agora é um nível %level% %profession%",
 		"turkish": "%firstName%, mesleği %profession% de %level% seviyesinde",
 		"chinese": "%firstName%现在是%level%级的%profession%",
-		"japanese": "%firstName% は、レベル%level% %profession%になりました",
+		"japanese": "%firstName%は、レベル%level%の%profession%になりました",
 		"czech": "%firstName% je nyní na úrovni %level% %profession%",
 		
 	},
@@ -912,7 +912,7 @@
 		"chinese": "期望达成",
 		"italian": "Aspettativa soddisfatta",
 		"polish": "Spełniono oczekiwania",
-		"japanese": "期待が叶えられました",
+		"japanese": "住環境が改善されました",
 		"czech": "Očekávání splněno",
 	},
 	"wishFulfilled": {
@@ -930,7 +930,7 @@
 		"chinese": "愿望达成",
 		"italian": "Desiderio soddisfatto",
 		"polish": "Spełniono życzenia",
-		"japanese": "願いが叶えられました",
+		"japanese": "願い事が叶えられました",
 		"czech": "Přání splněno",
 	},
 	"wishDenied": {
@@ -1148,7 +1148,7 @@
 		"portuguese": "Domando com sucesso!",
 		"turkish": "Ehlileştirme başarılı",
 		"chinese": "驯服成功！",
-		"japanese": "飼いならし成功!",
+		"japanese": "手なずける事に成功!",
 		"czech": "Ochočování úspěšné!",
 	},
 	"tamingInProgress": {
@@ -1162,7 +1162,7 @@
 		"portuguese": "Domando em andamento ...",
 		"turkish": "Ehlileştirme süreci",
 		"chinese": "正在驯服...",
-		"japanese": "飼いならしが進行中...",
+		"japanese": "手なずけ中...",
 		"czech": "Probíhá ochočování ...",
 	},
 

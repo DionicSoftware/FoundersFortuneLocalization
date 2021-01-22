@@ -4381,6 +4381,7 @@
 		"japanese": "作物に世話が必要です。",
 		"chinese": "作物种子需要照料",
 		"czech":  "Rostlina potřebuje péči",
+		"russian":  "Растению нужна забота",
 	},
 	"factionPointsInfo": {
 		"english":  "Relationship points: %points%",
@@ -4522,6 +4523,7 @@
 		"japanese": "外見の変更",
 		"chinese": "变更外观",
 		"czech":  "Změnit vzhled",
+		"russian":  "Изменить внешний вид",
 	},
 	"confirmChanges":  {
 		"english":  "Confirm Changes",
@@ -4534,6 +4536,7 @@
 		"japanese": "変更の確認",
 		"chinese": "变更确认",
 		"czech":  "Potvrďte změny",
+		"russian":  "Подтвердить изменения",
 	},
 	"objects":  {
 		"english":  "Objects",
@@ -4546,6 +4549,7 @@
 		"japanese": "対象",
 		"chinese": "对象",
 		"czech":  "Objekty",
+		"russian":  "Объекты",
 	},
 	"colors":  {
 		"english":  "Colors",
@@ -4558,6 +4562,7 @@
 		"japanese": "色",
 		"chinese": "颜色",
 		"czech":  "Barvy",
+		"russian":  "Цвета",
 	},
 	"hat":  {
 		"english":  "Hat",
@@ -4570,6 +4575,7 @@
 		"japanese": "頭",
 		"chinese": "帽子",
 		"czech":  "Klobouk",
+		"russian":  "Шляпа",
 	},
 	"hair":  {
 		"english":  "Hair",
@@ -4582,6 +4588,7 @@
 		"japanese": "髪",
 		"chinese": "发型",
 		"czech":  "Vlasy",
+		"russian":  "Прическа",
 	},
 	"face":  {
 		"english":  "Face",
@@ -4594,6 +4601,7 @@
 		"japanese": "顔",
 		"chinese": "脸部",
 		"czech":  "Obličej",
+		"russian":  "Лицо",
 	},
 	"torso":  {
 		"english":  "Torso",
@@ -4606,6 +4614,7 @@
 		"japanese": "胴体",
 		"chinese": "身体",
 		"czech":  "Tělo",
+		"russian":  "Торс",
 	},
 	"skin":  {
 		"english":  "Skin",
@@ -4618,6 +4627,7 @@
 		"japanese": "肌",
 		"chinese": "皮肤",
 		"czech":  "Kůže",
+		"russian":  "Кожа",
 	},
 	"randomize":  {
 		"english":  "Randomize",
@@ -4630,6 +4640,7 @@
 		"japanese": "ランダム",
 		"chinese": "随机",
 		"czech":  "Náhodně",
+		"russian":  "Рандомизировать",
 	},
 	"debug": { // doesn't need to be translated
 		"english": "Debugging",
@@ -4641,6 +4652,7 @@
 		"japanese": "デバッグ",
 		"chinese": "调试",
 		"czech": "Debugging",
+		"russian":  "Debugging",
 	},
 	"animalZones":  {
 		"english":  "Animal Zones",
@@ -4653,6 +4665,7 @@
 		"japanese": "牧場の設定",
 		"chinese": "牧场",
 		"czech":  "Zvířecí zóny",
+		"russian":  "Зоны животных",
 	},
 	"animalZonesTooltip_Desc":  {
 		"english":  "Designate zones to keep all of your animals in a specific place.",
@@ -4665,6 +4678,7 @@
 		"japanese": "家畜を飼育する牧場の範囲を指定します。",
 		"chinese": "指定区域将所有动物都圈养在特定的区域.",
 		"czech":  "Určete zóny, aby všechna vaše zvířata byla na konkrétním místě.",
+		"russian":  "Определите зоны, чтобы держать всех ваших животных в определенном месте.",
 	},
 	"travelPanelTitle":  {
 		"english": "New Horizons",
@@ -4677,6 +4691,7 @@
 		"japanese": "新天地へ",
 		"chinese": "新旅程",
 		"czech": "Nové Obzory",
+		"russian":  "Новые горизонты",
 	},
 	"travelPanelDesc":  {
 		"english": "Are you ready to leave this town?\nYou can select a couple of competent villagers to leave this island and start a new village in a new land.\nYou may want to save this village before you leave.",
@@ -4689,7 +4704,7 @@
 		"japanese": "新天地に出発する準備ができましたか？\n新たなコロニーを建設するため何人かコロニストを連れていく事ができます。",
 		"chinese": "你准备离开这个城镇吗?\n你可以选择几个有能力的村民离开这个岛屿,并在新的土地上建立一个新村庄.\n你可能要在离开之前保存这个村庄.",
 		"czech": "Jste připraveni opustit toto město?\nMůžete si vybrat několik vesničanů, kteří opustí tento ostrov a založí novou vesnici v Nové zemi.",
-		
+		"russian":  "Готовы ли вы покинуть этот город? \nВы можете выбрать пару компетентных жителей, чтобы они покинули этот остров и основали новую деревню на новой земле. \nВозможно, вы захотите сохранить эту деревню перед тем, как уйти.",
 		},
 	"depart":  {
 		"english": "Set the sails!",
@@ -4702,5 +4717,6 @@
 		"japanese": "新天地に出発だ",
 		"chinese": "新旅程启程!",
 		"czech": "Rozviňte plachty!",
+		"russian":  "Расправить паруса!",
 	},
 }

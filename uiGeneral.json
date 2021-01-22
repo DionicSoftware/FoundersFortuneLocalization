@@ -1327,6 +1327,7 @@
 		"japanese": "草の描画クオリティー",
 		"chinese": "更细致的草",
 		"czech": "Detaily trávy",
+		"russian": "Детализация травы",
 	},
 	"on": {
 		"english": "On",
@@ -3199,6 +3200,7 @@
 		"japanese": "ゲーム設定",
 		"chinese": "游戏设置",
 		"czech": "Herní nastavení",
+		"russian": "Настройки игры",
 	},
 	"mapSize": {
 		"english": "Map Size",
@@ -3211,7 +3213,7 @@
 		"japanese": "マップサイズ",
 		"chinese": "地图尺寸",
 		"czech": "Velikost mapy",
-		
+		"russian": "Размер карты",
 	},
 	"mapSizeSmall": {
 		"english": "Small",
@@ -3224,6 +3226,7 @@
 		"japanese": "小さい",
 		"chinese": "小型",
 		"czech": "Malá",
+		"russian": "Маленькая",
 	},
 	"mapSizeMedium": {
 		"english": "Medium",
@@ -3236,6 +3239,7 @@
 		"japanese": "中ぐらい",
 		"chinese": "中型",
 		"czech": "Střední",
+		"russian": "Средняя",
 	},
 	"mapSizeLarge": {
 		"english": "Large",
@@ -3248,6 +3252,7 @@
 		"japanese": "大きい",
 		"chinese": "大型",
 		"czech": "Velká",
+		"russian": "Большая",
 	},
 	"advancedSettings": {
 		"english": "Advanced Settings",
@@ -3260,6 +3265,7 @@
 		"japanese": "高度な設定",
 		"chinese": "高级设置",
 		"czech": "Pokročilé nastavení",
+		"russian": "Дополнительные настройки",
 	},
 	"peacefulPirates": {
 		"english": "Peaceful Pirates",
@@ -3272,6 +3278,7 @@
 		"japanese": "平和な海賊",
 		"chinese": "和平海盗",
 		"czech": "Mírumilovní piráti",
+		"russian": "Мирные пираты",
 	},
 	"peacefulGoblins": {
 		"english": "Peaceful Goblins",
@@ -3284,6 +3291,7 @@
 		"japanese": "平和なティキゴブリン",
 		"chinese": "和平哥布林",
 		"czech": "Mírumilovní goblini",
+		"russian": "Мирные гоблины",
 	},
 	"islandBiomes": {
 		"english": "Island Biomes",
@@ -3296,6 +3304,7 @@
 		"japanese": "アイランド",
 		"chinese": "海岛地形",
 		"czech": "Povrch ostrova",
+		"russian": "Биомы островов",
 	},
 	"biomesGrass": {
 		"english": "Mostly Grassland",
@@ -3308,6 +3317,7 @@
 		"japanese": "草原地帯",
 		"chinese": "草原地形",
 		"czech": "Pastviny",
+		"russian": "Равнина",
 	},
 	"biomesMixed": {
 		"english": "Mixed",
@@ -3320,6 +3330,7 @@
 		"japanese": "混合地帯",
 		"chinese": "混合地形",
 		"czech": "Mix",
+		"russian": "Микс",
 	},
 	"biomesForest": {
 		"english": "Mostly Forest",
@@ -3332,6 +3343,7 @@
 		"japanese": "森林地帯",
 		"chinese": "森林地形",
 		"czech": "Lesy",
+		"russian": "Леса",
 	},
 	"goblinVillages": {
 		"english": "Goblin Villages",
@@ -3344,6 +3356,7 @@
 		"japanese": "ティキゴブリンの村",
 		"chinese": "哥布林村庄",
 		"czech": "Vesnice goblinů",
+		"russian": "Деревни гоблинов",
 	},
 	"goblinVillagesNone": {
 		"english": "None",
@@ -3356,6 +3369,7 @@
 		"japanese": "なし",
 		"chinese": "无",
 		"czech": "Žádné",
+		"russian": "Нет",
 	},
 	"goblinVillagesFew": {
 		"english": "Few",
@@ -3368,6 +3382,7 @@
 		"japanese": "少ない",
 		"chinese": "少量",
 		"czech": "Málo",
+		"russian": "Немного",
 	},
 	"goblinVillagesDefault": {
 		"english": "Some",
@@ -3380,6 +3395,7 @@
 		"japanese": "いくつか",
 		"chinese": "一些",
 		"czech": "Několik",
+		"russian": "Несколько",
 	},
 	"goblinVillagesMany": {
 		"english": "Many",
@@ -3392,6 +3408,7 @@
 		"japanese": "たくさん",
 		"chinese": "很多",
 		"czech": "Mnoho",
+		"russian": "Много",
 	},
 	"aging": {
 		"english": "Aging",
@@ -3404,6 +3421,7 @@
 		"japanese": "老化",
 		"chinese": "老化",
 		"czech": "Stárnutí",
+		"russian": "Старение",
 	},
 	"agingTooltip": {
 		"english": "With slow aging, villagers live twice as long.\nWith fast aging, villagers age 50% quicker.",
@@ -3416,6 +3434,7 @@
 		"japanese": "老化が遅いとコロニストは2倍長生きします。\n急速に老化するとコロニストは50%はやく老化してしまいます。",
 		"chinese": "老化速度缓慢，村民的寿命延长到原来的两倍。\n老化速度快速，村民的寿命缩减到原来的50%。",
 		"czech": "S pomalým stárnutím žijí vesničané dvakrát déle.\nS rychlým stárnutím vesničané stárnou o 50% rychleji.",
+		"russian": "При медленном старении жители живут вдвое дольше. \nПри быстром старении жители стареют на 50% быстрее.",
 	},
 	"agingOff": {
 		"english": "Off",
@@ -3428,6 +3447,7 @@
 		"japanese": "OFF",
 		"chinese": "关闭",
 		"czech": "Vypnuto",
+		"russian": "Выключено",
 	},
 	"agingSlow": {
 		"english": "Slow",
@@ -3440,6 +3460,7 @@
 		"japanese": "ゆっくり",
 		"chinese": "缓慢",
 		"czech": "Pomalu",
+		"russian": "Медленное",
 	},
 	"agingDefault": {
 		"english": "Standard",
@@ -3452,6 +3473,7 @@
 		"japanese": "ふつう",
 		"chinese": "标准",
 		"czech": "Standardně",
+		"russian": "Обычное",
 	},
 	"agingFast": {
 		"english": "Fast",
@@ -3464,6 +3486,7 @@
 		"japanese": "速い",
 		"chinese": "快速",
 		"czech": "Rychle",
+		"russian": "Быстрое",
 	},
 	"newGameSaveName": { // default save game name when settlers have left by boat
 		"english": "Save after boat departed",
@@ -3476,6 +3499,7 @@
 		"japanese": "船が出港後保存する",
 		"chinese": "船只出发后保存游戏",
 		"czech": "Uložit poté, co loď vypluje",
+		"russian": "Сохранение после отплытия лодки",
 	},
 	"credits": {
 		"english": "Credits",
@@ -3487,6 +3511,7 @@
 		"japanese": "クレジット",
 		"chinese": "鸣谢",
 		"czech": "Credits",
+		"russian": "Титры",
 	},
 	"saveCorrupted":  {
 		"english": "Unfortunately this save file seems to be corrupted and can not be read.",
@@ -3497,5 +3522,6 @@
 		"japanese": "残念ながらこのセーブデーターは破損しているようで読み取ることができません。",
 		"chinese": "不幸的是，此存档文件似乎已损坏，无法读取。",
 		"czech": "Bohužel se zdá, že tento uložený soubor je poškozený a nelze jej přečíst.",
+		"russian": "К сожалению, этот файл сохранения кажется поврежденным и не может быть прочитан.",
 	}
 }

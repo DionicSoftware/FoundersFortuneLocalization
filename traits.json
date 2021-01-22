@@ -33,7 +33,7 @@
 		"korean": "%firstName%#{은} 세상이 선하다고 믿고 있습니다 - 아마도 너무 믿는 듯 하죠. %heShe% 자신이 심하게 다치지 않은 한, 싸우지 않으려고 할 겁니다.",
 		"italian": "%firstName% crede nel bene nel mondo, forse un po' troppo. Rifiuta di combattere contro chiunque, a meno che non sia già gravemente ferito.",
 		"polish": "%firstName% wierzy w dobro w świecie - może trochę zbyt bardzo. Odmawia walki z kimkolwiek, chyba że zostanie silnie pobit%yA%",
- 		"japanese": "%firstName%は、平和主義者です。誰かが酷く殴られない限り誰とも戦おうとはしません。",
+ 		"japanese": "%firstName%は平和主義者です。誰かが酷く殴られない限り誰とも戦おうとはしません。",
 		"czech": "%firstName% věří v dobro ve světě - možná až trochu moc. Odmítá bojovat s kýmkoli, dokud není již těžce zraněn%yA%.",
 	},
 	"traitTitle_BattleHardened": {
@@ -70,7 +70,7 @@
 		"korean": "이미 전장에서 충분한 경험을 쌓았기에 쉽게 겁먹지 않습니다. 고통을 받거나 %heShe% 주변에서 누군가 죽더라도 기분이 안 좋아지는 일은 없습니다.",
 		"italian": "Ha già molta esperienza sul campo di battaglia e non si spaventa facilmente. Non riceve alcuna penalità di umore a causa del dolore o della morte di qualcuno.",
 		"polish": "%firstName% ma już dużo bojowego doświadczenia i nie daje się łatwo wystraszyć. Nie otrzymuje kar do humoru z powodu bólu i śmierci dookoła siebie.",
-		"japanese": "%firstName%は、すでに多くの戦いを経験しているため簡単に怖がることはありません。戦いにおける誰かの痛みや死による気分によるペナルティも受けません。",
+		"japanese": "%firstName%はすでに多くの戦いを経験しているため簡単に怖がる事はありません。戦いにおける痛みや仲間の死による心情の影響も受けません。",
 		"czech": "Má mnoho zkušeností na bojišti a nedá se snadno vystrašit. Není penalizován za okolní bolest a smrt na bojišti.",
 	},
 	"traitTitle_Optimist": {
@@ -106,7 +106,7 @@
 		"korean": "컵에 물이 반이나 차있네, 라는 마인드를 가진 %guyGirl%입니다. 항상 기분이 좋습니다.",
 		"italian": "Vede sempre il bicchiere mezzo pieno. Riceve un miglioramento permanente dell'umore.",
 		"polish": "%firstName% to typ osoby, która uważa, że szklanka jest do połowy pełna. Otrzymuje stały bonus do humoru.",
-		"japanese": "%firstName%は、グラスの水が半分であっても半分もまだ入っていると思うポジティブな思考力を持っています。ユーモアがあるので永続的なムードブーストを取得できます。",
+		"japanese": "%firstName%はグラスの水が半分の場合、まだ半分も入っていると考えるプラス思考を持っています。この思考は永続的に心情へ影響を与えます。",
 		"czech": "Dostává trvalý boost dobré nálady.",
 	},
 	"traitTitle_Pessimist": {
@@ -142,7 +142,7 @@
 		"korean": "컵에 물이 반밖에 없어, 라는 마인드의 %guyGirl%입니다. 항상 기분이 안 좋습니다.",
 		"italian": "Vede sempre il bicchiere mezzo vuoto. Riceve una penalità permanente dell'umore.",
 		"polish": "%firstName% to typ osoby, dla której szklanka jest do połowy pusta. Otrzymuję permanentną karę do nastroju.",
-		"japanese": "%firstName%は、グラスの水が半分のとき、もう半分しかないという悲観的な思考をします。そのため永続的なペナルティが気分に付与されます。",
+		"japanese": "%firstName%はグラスの水が半分の場合、もう半分しかないと考えるマイナス思考を持っています。この思考は永続的に心情へ影響を与えます。",
 		"czech": "Dostává pravidelný boost špatné nálady.",
 	},
 	"traitTitle_Killer": {
@@ -178,7 +178,7 @@
 		"korean": "%firstName%#{은} 폭력적인 것에 이상한 관심을 가집니다. 무언가를 죽일 때 긍정적인 생각을 합니다. 평소에는 스스로를 통제할 수 있습니다.",
 		"italian": "%firstName% ha uno strano interesse per la violenza. Quando uccide, emergono pensieri positivi. Di solito è in grado di controllarsi.",
 		"polish": "%firstName% przejawia niepokojące zainteresowanie przemocą. Zabijanie wprawia %goJą% w dobry humor. Na szczęście zazwyczaj jest w stanie się kontrolować.",
-		"japanese": "%firstName%は、暴力に興味があり殺害を好みます。殺害すると気分がよくなりポジティブな気持ちになります。普段から暴力と殺人衝動をコントロールすることができます。",
+		"japanese": "%firstName%は普通の人に見えますが、よりによって殺害すると興奮して気分が高揚する危険な人です。普段は殺人衝動を抑えているため何もありません。",
 		"czech": "%firstName% má zvláštní zájem o násilí. Získává pozitivní myšlenky ze zabíjení, ale umí je ovládnout (občas).",
 	},
 	"traitTitle_GoodHealth": {
@@ -196,7 +196,7 @@
 		"korean": "건강한",
 		"italian": "Buona salute",
 		"polish": "Krzep%kiKa%",
-		"japanese": "健康",
+		"japanese": "健康体",
 		"czech": "Dobré zdraví",
 	},
 	"traitDesc_GoodHealth": {
@@ -214,7 +214,7 @@
 		"korean": "%firstName%#{은} 평생 운동을 하며 건강한 음식을 먹어왔기 때문에 매우 튼튼합니다. 치료가 성공활 확률이 20% 증가합니다.",
 		"italian": "Una vita di esercizi e cibi sani ha fornito a %firstName% una salute molto ferrea. I trattamenti hanno il 20% in più di probabilità di successo.",
 		"polish": "Życie wypełnione ćwiczeniami i zdrowe odżywianie zapewniło %muJej% bardzo dobre zdrowie. Leczenie jest o 20% bardziej skuteczne.",
-		"japanese": "適度な運動と健康的な食事に満ちた生活は、健康的な身体を作りました。治療を試みた場合の成功率は20%高くなります。",
+		"japanese": "適度な運動と健康的な食事に満ちた生活は健康的な身体を作りました。治療を試みた場合の成功率は20%高くなります。",
 		"czech": "Léčba má o 20% větší pravděpodobnost úspěchu.",
 	},
 	"traitTitle_BadHealth": {

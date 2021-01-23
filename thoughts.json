@@ -13,7 +13,7 @@
 		"chinese": "好心情",
 		"italian": "Buon presentimento",
 		"polish": "Czuje się dobrze",
-		"japanese": "機嫌がよい",
+		"japanese": "幸せ",
 		"czech": "Dobrý pocit",
 	},
 	"thoughtDesc_DebugGood": {
@@ -30,7 +30,7 @@
 		"chinese": "我现在很开心，我也不知道为什么。",
 		"italian": "Sono davvero felice in questo momento e non so davvero il perché.",
 		"polish": "Jestem teraz po prostu szczęśliw%yA% i naprawdę nie wiem dlaczego.",
-		"japanese": "理由はわかりませんが、とっても幸せな気持ちです。",
+		"japanese": "理由はわかりませんが、とても幸せな気持ちです。",
 		"czech": "Právě teď jsem šťastn%yA% a ani nevím proč.",
 	},
 	"thoughtTitle_DebugBad": {
@@ -47,7 +47,7 @@
 		"chinese": "坏心情",
 		"italian": "Brutto presentimento",
 		"polish": "Źle się czuję",
-		"japanese": "不機嫌",
+		"japanese": "憂鬱",
 		"czech": "Špatný pocit",
 	},
 	"thoughtDesc_DebugBad": {
@@ -64,7 +64,7 @@
 		"chinese": "我现在很难过，我也不知道为什么。",
 		"italian": "Sono davvero triste in questo momento e non so davvero il perché.",
 		"polish": "Jestem teraz po prostu przybit%yA% i naprawdę nie wiem dlaczego",
-		"japanese": "理由はわかりませんが、今はとても悲しい気持ちです。",
+		"japanese": "理由はわかりませんが、気持ちがとても沈んでいます。",
 		"czech": "Právě teď jsem smutn%yA% a opravdu nevím proč.",
 	},
 	"thoughtTitle_MinorPain": {
@@ -81,7 +81,7 @@
 		"chinese": "轻微疼痛",
 		"italian": "Dolore lieve",
 		"polish": "Niewielki ból",
-		"japanese": "軽い痛み",
+		"japanese": "少し痛い",
 		"czech": "Menší bolest",
 	},
 	"thoughtDesc_MinorPain": {
@@ -98,7 +98,7 @@
 		"chinese": "哎哟，这好痛啊。",
 		"italian": "Ahi. Fa male.",
 		"polish": "Ała. To boli!",
-		"japanese": "いてて..。少しだけ痛みます。",
+		"japanese": "いてて...少し痛いがまだ大丈夫です。",
 		"czech": "Ouch. To bolí.",
 	},
 	"thoughtTitle_MediumPain": {
@@ -115,7 +115,7 @@
 		"chinese": "剧烈疼痛",
 		"italian": "Dolore intenso",
 		"polish": "Umiarkowany ból",
-		"japanese": "深刻な痛み",
+		"japanese": "痛い",
 		"czech": "Vážná bolest",
 	},
 	"thoughtDesc_MediumPain": {
@@ -132,7 +132,7 @@
 		"chinese": "啊，疼得好厉害啊。",
 		"italian": "Ahia. Fa molto male.",
 		"polish": "Ach, to bardzo boli",
-		"japanese": "うぅっ...とてつもなく痛いです。",
+		"japanese": "うぅっ...痛い、痛いです。我慢できません。",
 		"czech": "Ow. Dost to bolí.",
 	},
 	"thoughtTitle_ExtremePain": {
@@ -149,7 +149,7 @@
 		"chinese": "极度疼痛",
 		"italian": "Dolore estremo",
 		"polish": "Okropny ból",
-		"japanese": "極度の痛み",
+		"japanese": "たまらなく痛い",
 		"czech": "Extrémní bolest",
 	},
 	"thoughtDesc_ExtremePain": {
@@ -166,7 +166,7 @@
 		"chinese": "啊……难以忍受啊!",
 		"italian": "Ooohhh... è insopportabile!",
 		"polish": "Ooooch! Ten ból jest nie do zniesienia!",
-		"japanese": "うぐぐっ!!...たまらなく痛いです!!意識を保っているので精一杯です。",
+		"japanese": "うぐぐっ...たまらなく痛いです。もうだめです。今にも意識がなくなりそうです。",
 		"czech": "Ooohhh... Ta bolest je nesnesitelná!",
 	},
 	"thoughtTitle_Hungry": {
@@ -183,7 +183,7 @@
 		"chinese": "饥饿",
 		"italian": "Affamat%OA%",
 		"polish": "Głód",
-		"japanese": "空腹",
+		"japanese": "お腹が空いた",
 		"czech": "Hladov%yA%",
 	},
 	"thoughtDesc_Hungry": {
@@ -200,7 +200,7 @@
 		"chinese": "天啊...我好久没吃东西了。",
 		"italian": "Cavolo... non mangio da un po'.",
 		"polish": "Reety.... Dawno nie jadłem.",
-		"japanese": "お腹が空きました。しばらく何も食べていません...",
+		"japanese": "しばらく何も食べていません...今すぐ食べ物を口にしたいです。",
 		"czech": "Člověče ... už jsem nějakou dobu nejed%lA%.",
 	},
 	"thoughtTitle_Exhausted": {
@@ -217,7 +217,7 @@
 		"chinese": "疲惫",
 		"italian": "Esaust%OA%",
 		"polish": "Wyczerpanie",
-		"japanese": "疲労",
+		"japanese": "疲れた",
 		"czech": "Vyčerpan%yA%",
 	},
 	"thoughtDesc_Exhausted": {
@@ -268,7 +268,7 @@
 		"chinese": "一个新的开始!我们在这里就像在自己家一样!",
 		"italian": "Un nuovo inizio! Facciamo di questo luogo la nostra casa!",
 		"polish": "Nowy początek! Poczujmy się tutaj jak w domu!",
-		"japanese": "新しい生活のはじまりです。この場所が私たちの家です。居心地の良い場所にしましょう!",
+		"japanese": "新しい生活のはじまりです。このコロニーが私たちの家です。居心地の良い場所にします！",
 		"czech": "Nový začátek! Pojďme tady vytvořit náš nový domov!",
 	},
 	"thoughtTitle_WellRested": {
@@ -285,7 +285,7 @@
 		"chinese": "休息充沛 ",
 		"italian": "Ben riposat%OA%",
 		"polish": "Wypoczęty",
-		"japanese": "よく休みました",
+		"japanese": "よく寝ました",
 		"czech": "Dobře odpočat%yA%",
 	},
 	"thoughtDesc_WellRested": {
@@ -302,7 +302,7 @@
 		"chinese": "噢是的，没有什么比在舒适的床上睡懒觉更爽的了。",
 		"italian": "Oh, sì. Non c'è nulla di meglio che dormire fino a tardi in un comodo letto.",
 		"polish": "O tak. Nie ma nic lepszego niż spanie do późna w wygodnym łóżku.",
-		"japanese": "快適なベッドで十分に眠れることほど素晴らしいことはありません",
+		"japanese": "十分に眠れる事ができました。とても爽快で素晴らしい気分です。",
 		"czech": "Ach ano. Není nic lepšího, než spát v pohodlné posteli.",
 	},
 	"thoughtTitle_SleptOnGround": {
@@ -336,7 +336,7 @@
 		"chinese": "啊，为什么我不能睡在床上?睡在地上很不爽啊。",
 		"italian": "Bleah! Perché non posso dormire in un letto? Dormire per terra fa schifo.",
 		"polish": "Uch. Dlaczego nie mogę spać w łóżku? Spanie na ziemi jest do bani.",
-		"japanese": "うーん、どうしてベッドで寝られないの？地面で寝るのは合わないみたいです。身体中が痛いし背中がカチコチです。",
+		"japanese": "地面で寝ると身体中が痛いし背中がカチコチです。気分は最悪です。",
 		"czech": "Fuj. Proč nemůžu spát v posteli? Spánek na zemi mě naštve.",
 	},
 	// when colonist doesn't die of old age, but other things like physical violoence or starvation
@@ -354,7 +354,7 @@
 		"korean": "개척자가 죽음",
 		"chinese": "殖民者英年早逝",
 		"polish": "Kolonista umarł za wcześnie",
-		"japanese": "コロニストは早死にしました",
+		"japanese": "仲間が死んだ",
 		"czech": "Kolonista zemřel příliš brzy",
 	},
 	"thoughtDesc_ColonistDiedTooEarly": {
@@ -371,7 +371,7 @@
 		"chinese": "我的殖民者朋友兼同伴去世了。该死,我现在觉得有点空虚了。",
 		"italian": "Il mio amico e concittadino colono è morto. Dannazione. Sento un vuoto adesso.",
 		"polish": "M%ójOja% przyjaciel i towarzysz zginął. Cholera. Czuję się teraz trochę pusty.",
-		"japanese": "私の友人と仲間のコロニストが亡くなりました。今は、とても悲しくて心にぽっかりと大きな穴が開いたようです。",
+		"japanese": "親しかったコロニストが亡くなりました。とても悲しくて心にぽっかりと大きな穴が開いたようです。",
 		"czech": "Můj přítel a kolega kolonista zemřel. Sakra. Cítím se teď trochu prázdn%yA%.",
 	},
 	"thoughtTitle_ColonistDiedOfOldAge": {
@@ -385,7 +385,7 @@
 		"chinese": "殖民者寿终正寝",
 		"italian": "Un colono è morto di vecchiaia",
 		"polish": "Kolonista umarł ze starości",
-		"japanese": "コロニストは寿命で亡くなりました",
+		"japanese": "仲間が寿命で亡くなった",
 		"czech": "Kolonista zemřel na stáří",
 	},
 	"thoughtDesc_ColonistDiedOfOldAge": {
@@ -399,7 +399,7 @@
 		"chinese": "付出了一生.终将会死去的...",
 		"italian": "%firstName% ha vissuto una lunga vita, ma prima o poi tutti dobbiamo morire. Siamo stati felici di averl%OA% avuto con noi.",
 		"polish": "%firstName% miał%nicA% długie życie, ale prędzej czy później wszyscy umieramy. Powinniśmy być szczęśliwi, że %onOna% jest w pobliżu.",
-		"japanese": "%firstName% は、長生きしましたが、遅かれ早かれ私たちも同じように皆死にます。ともに時間を過ごせたことを心から嬉しく思っています。",
+		"japanese": "親しかった%firstName%は老衰で亡くなりました。共に時間を過ごせた事を心から嬉しく思っています。安らかにお眠りください。",
 		"czech": "%firstName% ži%lA% dlouhý život, ale všichni dříve nebo později zemřeme. Vzpomínáme!",
 	},
 	"thoughtTitle_FightWon": {
@@ -433,7 +433,7 @@
 		"chinese": "噢耶!让他们知道谁是大佬的感觉真爽!",
 		"italian": "Oh, sì! Vediamo chi comanda adesso!",
 		"polish": "O tak! Dobrze jest pokazać im, kto tu jest hardkorem!",
-		"japanese": "ふふふ!ここのボスが誰なのかを見せつけてやるのもいいですね!私たちの勝利です!!",
+		"japanese": "勝利です！ふふふ！この島の支配者が誰なのかを見せつけてやるのもいいですね。",
 		"czech": "Super! Je dobré ukázat jim, kdo je tady šéf!",
 	},
 	"thoughtTitle_FightLost": {
@@ -467,7 +467,7 @@
 		"chinese": "不敢相信刚刚我被打了一顿。这不仅很痛还很耻辱。",
 		"italian": "Ne ho prese a bizzeffe. Non ci posso credere. Non è solo doloroso, ma anche umiliante.",
 		"polish": "Zostałem pobity. Nie mogę w to uwierzyć... to jest nie tylko bolesne, ale i upokarzające!",
-		"japanese": "戦いに負けてしまいました。信じられません、これは苦痛であるだけでなくとても屈辱的です。",
+		"japanese": "戦いに負けてしまいました。信じられません。苦痛のみならず屈辱をも感じています。",
 		"czech": "Právě mě zbili. Nemůžu tomu uvěřit. To je nejen bolestivé, ale také ponižující.",
 	},
 	"thoughtTitle_ColonistKilled": {
@@ -484,7 +484,7 @@
 		"chinese": "击杀殖民",
 		"italian": "Colono ucciso",
 		"polish": "Zabójstwo",
-		"japanese": "コロニストを殺害",
+		"japanese": "仲間を殺害した",
 		"czech": "Zabitý kolonista",
 	},
 	"thoughtDesc_ColonistKilled": {
@@ -501,7 +501,7 @@
 		"chinese": "我刚刚杀了我们的殖民同伴。我为什么这么做?!",
 		"italian": "Ho appena ucciso uno dei nostri. Come ho potuto?!",
 		"polish": "Właśnie zamordował%emAm% jednego z naszych. Jak mogł%emAm% to zrobić?!",
-		"japanese": "私は、自分の仲間を殺してしまいました。一体、どうしたら...?",
+		"japanese": "私は自分の仲間を殺してしまいました。一体、どうしたら...？",
 		"czech": "Právě jsem zabi%lA% jednoho z našich. Jak jsem to moh%lA% udělat?!",
 	},
 	"thoughtTitle_BlewOffSteam": {
@@ -518,7 +518,7 @@
 		"chinese": "发泄心情 ",
 		"italian": "Sfogata",
 		"polish": "Spuszczenie pary",
-		"japanese": "ストレスを解消",
+		"japanese": "ストレスを解消した",
 		"czech": "Upouští páru",
 	},
 	"thoughtDesc_BlewOffSteam": {
@@ -535,7 +535,7 @@
 		"chinese": "啊，把我所有的沮丧都发泄出来感觉真好。也许生活并没有那么凄凉。",
 		"italian": "Ah, che bello aver sfogato tutta la mia frustrazione. Forse la vita non è poi così desolante dopotutto.",
 		"polish": "Ach, jak dobrze jest wyrzucić z siebie całą swoją frustrację. Może jednak życie nie jest takie ponure.",
-		"japanese": "ふぅー、ストレスを解消できて、すっきりしました。結局のところ人生はそれほど暗いものではないのかもしれません。",
+		"japanese": "ふぅー、ストレスを解消できてすっきりしました。結局のところ人生はそれほど暗いものではないのかもしれません。",
 		"czech": "Ah, je to dobrý pocit, když jsem vypustil veškerou svou frustraci. Možná život nakonec není tak bezútěšný.",
 	},
 	"thoughtTitle_LookingForwardToNewDay": {
@@ -552,7 +552,7 @@
 		"chinese": "期待明天",
 		"italian": "Impaziente di un nuovo giorno",
 		"polish": "Po nocy zawsze nastaje dzień",
-		"japanese": "明日を楽しみにしています",
+		"japanese": "明日が楽しみだ",
 		"czech": "Těšíme se na nový den",
 	},
 	"thoughtDesc_LookingForwardToNewDay": {
@@ -569,7 +569,7 @@
 		"chinese": "我最近过得很糟糕，但我希望很快会好起来。",
 		"italian": "Ho avuto una giornataccia, spero che le cose andranno meglio.",
 		"polish": "Miał%emAm% ostatnio zły dzień, ale mam nadzieję, że wkrótce będzie lepiej.",
-		"japanese": "最近は良くないことばかりですが、そのうち良くなっていくことを願っています。",
+		"japanese": "まあ、今日は良くない日でしたが、明日は今日より良い日になると思います。",
 		"czech": "Nedávno jsem mě%lA% špatný den, ale doufám, že se to brzy zlepší.",
 	},
 	"thoughtTitle_MyFurnitureDestroyed": {
@@ -586,7 +586,7 @@
 		"chinese": "家具被毁",
 		"italian": "Mobili di proprietà distrutti",
 		"polish": "Zniszczona własność",
-		"japanese": "所有している家具が破壊されました",
+		"japanese": "自分の家具が壊された",
 		"czech": "Vlastněný nábytek byl zničen",
 	},
 	"thoughtDesc_MyFurnitureDestroyed": {
@@ -603,7 +603,7 @@
 		"chinese": "我的卧室里有一些漂亮的家具，但是有人把它们全拆了!",
 		"italian": "Avevo dei bei mobili nella mia camera da letto, ma qualcuno li ha fatti a pezzi!",
 		"polish": "Miał%emAm% w sypialni całkiem niezłe meble, ale ktoś je całkowicie zdemolował!",
-		"japanese": "部屋には、かなり素敵な家具がいくつかありましたが、誰かがそれをめちゃくちゃに壊してしまいました!",
+		"japanese": "部屋にあった素敵な家具が誰かにめちゃくちゃに壊された。最悪だ！",
 		"czech": "Ve své ložnici jsem měl docela pěkný nábytek, ale někdo ho úplně zničil!",
 	},
 	"thoughtTitle_InspirationOver": {
@@ -620,7 +620,7 @@
 		"chinese": "鼓舞人心",
 		"italian": "Ispirazione finita",
 		"polish": "Powrót do codzienności",
-		"japanese": "ひらめき",
+		"japanese": "とても良い気分",
 		"czech": "Inspirace skončila",
 	},
 	"thoughtDesc_InspirationOver": {
@@ -637,7 +637,7 @@
 		"chinese": "我刚刚以前所未有的好心情度过了一天。相比之下，平凡的生活似乎没有那么好。",
 		"italian": "Ho appena trascorso una giornata con il miglior umore di sempre. La vita normale non sembra essere altrettanto bella in confronto.",
 		"polish": "Dzisiaj był wspaniały dzień bo miał%emAm%% świetny nastrój. W porównaniu z nim normalne życie wydaje się po prostu nudne.",
-		"japanese": "今までで最高の気分で一日を過ごしました。普段の生活と比較すると見劣りするほどです。やはり普段の生活はそれほど良くはないようです。",
+		"japanese": "普段の気分はそれほど良い物ではないけれど、今日の一日は良い気分で過ごす事ができた。最高！",
 		"czech": "Právě jsem strávi%lA% den v nejlepší náladě. Normální život se ve srovnání nezdá tak dobrý.",
 	},
 	"thoughtTitle_AteRawFood": {
@@ -654,7 +654,7 @@
 		"chinese": "茹毛饮血",
 		"italian": "Cibo crudo mangiato",
 		"polish": "Surowe jedzenie",
-		"japanese": "生の食べ物を食べた",
+		"japanese": "食材を食べた",
 		"czech": "Jedli suroviny",
 	},
 	"thoughtDesc_AteRawFood": {
@@ -671,7 +671,7 @@
 		"chinese": "噁!我受不了生的食物!",
 		"italian": "Puah! Non sopporto il cibo crudo!",
 		"polish": "Fuj! Nie znoszę surowego jedzenia!",
-		"japanese": "うっ...もう生の食べ物は食べたくはありません。ちゃんと加熱した料理が食べたいです。",
+		"japanese": "うっ...もう食材は食べたくはありません。ちゃんとした料理が食べたいです。",
 		"czech": "Eww! Nemůžu vystát syrové jídlo!",
 	},
 	"thoughtTitle_AteCookedFood": {
@@ -688,7 +688,7 @@
 		"chinese": "美味佳肴",
 		"italian": "Cibo cotto mangiato",
 		"polish": "Przygotowane jedzenie",
-		"japanese": "調理済みの食品を食べた",
+		"japanese": "料理を食べた",
 		"czech": "Jedli vařené jídlo",
 	},
 	"thoughtDesc_AteCookedFood": {
@@ -705,7 +705,7 @@
 		"chinese": "我刚吃的食物很好吃。",
 		"italian": "Il cibo che ho appena mangiato era delizioso.",
 		"polish": "To co właśnie zjadłem było wyborne.",
-		"japanese": "調理したての食べ物は、とても美味しかったです!",
+		"japanese": "調理したての料理はとても美味しかったです！",
 		"czech": "Jídlo, které jsem právě jed%lA%, bylo vynikající.",
 	},
 	"thoughtTitle_Optimist": {
@@ -722,7 +722,7 @@
 		"chinese": "乐观主义",
 		"italian": "Ottimista",
 		"polish": "Optymista",
-		"japanese": "楽観的",
+		"japanese": "大丈夫、心配ないさ",
 		"czech": "Optimistick%yA%",
 	},
 	"thoughtDesc_Optimist": {
@@ -739,7 +739,7 @@
 		"chinese": "我只是觉得最后一切都会好起来的。",
 		"italian": "Penso che andrà tutto per il meglio.",
 		"polish": "Myślę, że w końcu wszystko dobrze się ułoży.",
-		"japanese": "なんだかんだあっても最終的には全てが、うまくいくと思っています。",
+		"japanese": "なんだかんだあっても最終的には全てはうまく収まるはずです。",
 		"czech": "Jen si myslím, že to nakonec všechno dobře dopadne.",
 	},
 	"thoughtTitle_Pessimist": {
@@ -756,7 +756,7 @@
 		"chinese": "悲观主义",
 		"italian": "Pessimista",
 		"polish": "Pesymista",
-		"japanese": "悲観的",
+		"japanese": "大丈夫？心配だ",
 		"czech": "Pesimistick%yA%",
 	},
 	"thoughtDesc_Pessimist": {
@@ -773,7 +773,7 @@
 		"chinese": "天哪，在接下来的几天里可能会出很多状况…",
 		"italian": "Cavolo, ci sono così tante cose che potrebbero non andare per il verso giusto nei prossimi giorni...",
 		"polish": "Ech, jest tak wiele rzeczy, które mogą się nie udać w ciągu najbliższych kilku dni ....",
-		"japanese": "あぁ...これからずっと不運な日々が続き、困難はさらに続くことでしょう。",
+		"japanese": "あぁ...これからずっと困難な日々が続くと思うと心配が尽きません。",
 		"czech": "Člověče, je toho tolik, co by se mohlo v příštích několika dnech pokazit ...",
 	},
 	"thoughtTitle_YeahKilledSomeone": {
@@ -790,7 +790,7 @@
 		"chinese": "我杀了人 ",
 		"italian": "Ho ucciso qualcuno!",
 		"polish": "Zabiłem kogoś!",
-		"japanese": "誰かを殺した!",
+		"japanese": "殺した",
 		"czech": "Někoho jsem zabi%lA%!",
 	},
 	"thoughtDesc_YeahKilledSomeone": {
@@ -841,7 +841,7 @@
 		"chinese": "我喜欢和我的朋友%firstName%聊天",
 		"italian": "Mi è piaciuto molto parlare con %firstName%.",
 		"polish": "Lubię rozmawiać z moim przyjacielem.",
-		"japanese": "友達の%firstName%と話すのはとても楽しかったです",
+		"japanese": "%firstName%との会話がとても興味深く、楽しく時間を過ごしました。",
 		"czech": "Bavilo mě mluvit s %firstName%.",
 	},
 	"thoughtTitle_BadConversation": {
@@ -858,7 +858,7 @@
 		"chinese": "出言无忌",
 		"italian": "Conversazione pessima",
 		"polish": "Nieprzyjemna rozmowa",
-		"japanese": "楽しくない会話",
+		"japanese": "つまらない会話",
 		"czech": "Špatná konverzace",
 	},
 	"thoughtDesc_BadConversation": {
@@ -875,7 +875,7 @@
 		"chinese": "%firstName%如此的充满自己%himselfHerself%。我无法忍受听他说话。",
 		"italian": "%firstName% si da così tante arie. Non potevo sopportare i suoi discorsi.",
 		"polish": "%firstName% jest niesamowicie zarozumiał%yA%. Nie mogę już znieść %jegoJej% gadania.",
-		"japanese": "%firstName%は、自分の話ばかりします。人の話ばかり聞かされるのは我慢できません。",
+		"japanese": "%firstName%との会話は興味がなく面白くもありませんでした。無駄な時間を過ごしてしまいました。",
 		"czech": "%firstName% je tak egoistický. Nemoh%lA% jsem to dál vydržet poslouchat.",
 	},
 	"thoughtTitle_GoodDream": {
@@ -909,7 +909,7 @@
 		"chinese": "也许梦是有意义的?我当然希望如此。",
 		"italian": "Che i sogni abbiano un significato? Lo spero proprio.",
 		"polish": "Może sny jednak mają znaczenie? Mam nadzieję, że tak.",
-		"japanese": "いい夢を見たけれど、夢には意味があるのかな?あるなら、そうだといいな。",
+		"japanese": "いい夢を見ました。正夢になると最高です。",
 		"czech": "Možná mají sny přece jen smysl...Určitě...doufám.",
 	},
 	"thoughtTitle_BadDream": {
@@ -943,7 +943,7 @@
 		"chinese": "昨晚我没睡好。整晚都在做噩梦。",
 		"italian": "La scorsa notte non riuscivo a dormire. Ho fatto dei brutti sogni per tutta la notte.",
 		"polish": "Ostatniej nocy nie mogłem się wyspać. Całą noc męczyły mnie koszmary.",
-		"japanese": "昨夜は良く眠れませんでした。一晩中ずっと良くない夢を見ました。",
+		"japanese": "昨夜は悪い夢にうなされて良く眠れませんでした。",
 		"czech": "Včera v noci jsem nemoh%lA% tak dobře spát. Mě%lA% špatné sny celou noc.",
 	},
 	"thoughtTitle_Nightmare": {
@@ -977,7 +977,7 @@
 		"chinese": "昨晚我做了一个关于我朋友的噩梦。我甚至有点战颤抖。",
 		"italian": "La scorsa notte ho avuto un incubo orribile in cui c'erano i miei amici. Sono ancora un po' scoss%OA%.",
 		"polish": "Ostatniej nocy miał%emAm% okropny koszmar związany z moimi przyjaciółmi. Wciąż jestem trochę wstrząśnięty.",
-		"japanese": "昨夜、友達が出てくる恐ろしい悪夢を見ました。恐ろしい内容だったので私はまだ少し動揺しています。",
+		"japanese": "昨夜は恐ろしい悪夢を見ました。未だに動揺しています。それ程恐ろしい悪夢でした。",
 		"czech": "Včera v noci jsem mě%lA% o svých přátelích strašlivou noční můru. Stále jsem z toho trochu otřesen%yA%.",
 	},
 	"thoughtTitle_AteFavoriteMeal": {
@@ -1011,7 +1011,7 @@
 		"chinese": "嗯……我终于又能吃到我最喜欢的食物了!",
 		"italian": "Mmmm... finalmente ho potuto mangiare il mio cibo preferito!",
 		"polish": "Mniam... W końcu znowu dostał%emAm% swoje ulubione jedzenie!",
-		"japanese": "やっと、また好きな食べ物が食べられるようになりました!",
+		"japanese": "やった！この食べ物は大好物です！とてもうれしいです！",
 		"czech": "Mmmm ... konečně.... muse%lA%  jsem si dát znovu své oblíbené jídlo!",
 	},
 	"thoughtTitle_AteGoodMeal": {
@@ -1045,7 +1045,7 @@
 		"chinese": "我最近吃了一顿美食。我没想到能在这里吃到这么美味的东西",
 		"italian": "Di recente sto mangiando bene. Non pensavo che avremmo potuto ottenere qualcosa di così gustoso qui.",
 		"polish": "Niedawno zjadł%emAm% pyszny posiłek. Nie sądziłem, że można tu dostać coś tak smacznego.",
-		"japanese": "久しぶりに美味しい食べ物を食べました。このコロニーで、こんなに美味しいものが手に入るとは思いませんでした。",
+		"japanese": "久しぶりに美味しい食べ物を食べました。このコロニーでこんなに美味しいものが手に入るとは思いませんでした。",
 		"czech": "Nedávno jsem měl velmi dobré jídlo. Nemyslel jsem si, že bychom tu mohli něco tak chutného dostat.",
 	},
 	"thoughtTitle_AteGreatMeal": {
@@ -1079,7 +1079,7 @@
 		"chinese": "这是我吃过的最好的食物!比我预想的要好吃得多!",
 		"italian": "Questo è il miglior cibo che io abbia mai assaggiato! Molto meglio di quanto mi aspettassi da questa colonia!",
 		"polish": "To najlepsze jedzenie, jakie kiedykolwiek jadł%emAm%! O wiele lepsze niż to, czego się spodziewałem po tej kolonii!",
-		"japanese": "これは、私が今までに味わった中で最高の食べ物です。私が、このコロニーに期待していた食事よりも、はるかに優れています!",
+		"japanese": "今までに味わった中で最高の食べ物です。このコロニーに期待していた食べ物よりもはるかに優れています！",
 		"czech": "Toto je nejlepší jídlo, jaké jsem kdy ochutna%lA%! Je to mnohem lepší, než jsem od této kolonie očekáva%lA%!",
 	},
 	"thoughtTitle_AteVarietyOfGoodFood": {
@@ -1096,7 +1096,7 @@
 		"chinese": "八珍玉食",
 		"italian": "Varietà di buon cibo mangiata",
 		"polish": "Ate Variety of Good Food", // to do
-		"japanese": "美味しいもの沢山食べた",
+		"japanese": "たくさんの美味しい食べ物",
 		"czech": "Jíst různé dobré jídlo",
 	},
 	"thoughtDesc_AteVarietyOfGoodFood": {
@@ -1113,7 +1113,7 @@
 		"chinese": "有这么多种类的食物可供选择。令人惊讶!",
 		"italian": "Ci sono così tanti tipi di alimenti tra cui scegliere. È fantastico!",
 		"polish": "Jest tak wiele rodzajów jedzenia do wyboru. To wprost niesamowite!",
-		"japanese": "たくさんの種類の食べ物から好きなものを選ぶことができます。これは、すごいことです!",
+		"japanese": "これだけたくさんの食べ物から好きな食べ物を選んで食べても良いとは興奮します！",
 		"czech": "Existuje tu tolik druhů jídla, ze kterých si můžete vybrat. Je to úžasné!",
 	},
 	"thoughtTitle_DietLacksVarietyOfGoodFood": {
@@ -1130,7 +1130,7 @@
 		"chinese": "枯燥无味",
 		"italian": "Scarsa varietà di cibo",
 		"polish": "Food lacks Variety", // to do
-		"japanese": "この食べ物には多様性が欠けています",
+		"japanese": "みすぼらしい食べ物",
 		"czech": "Jídlu chybí rozmanitost",
 	},
 	"thoughtDesc_DietLacksVarietyOfGoodFood": {
@@ -1147,7 +1147,7 @@
 		"chinese": "我认为殖民地的伙食应该要做到各种烹饪美食以及各种各样的烘焙食品。",
 		"italian": "Penso che questa colonia possa permettersi una selezione di pasti buoni cotti in cucina o al forno.",
 		"polish": "Myślę, że ta kolonia powinna zapewnić lepszy wybór posiłków i wypieków.",
-		"japanese": "このコロニーは台所からの美味しい食事だけでなく、さまざまな焼き菓子などの料理のレパートリーを、もっと増やすべきです。",
+		"japanese": "料理だけでなく、さまざまな焼き菓子などレパートリーをもっと増してほしいです。",
 		"czech": "Myslím, že tato kolonie by si mohla být schopna dovolit výběr dobrého jídla z kuchyně i různé pečivo.",
 	},
 	"thoughtTitle_AteRawFoodHasHigherExpectations": {
@@ -1164,7 +1164,7 @@
 		"chinese": "味同嚼蜡",
 		"italian": "Cibo improvvisato mangiato",
 		"polish": "Had to Eat Unprepared Food", // to do
-		"japanese": "調理されていない生の食べ物をたべなければならなかった",
+		"japanese": "調理前の生の食材を食べた",
 		"czech": "Muse%lA% jíst nepřipravené jídlo",
 	},
 	"thoughtDesc_AteRawFoodHasHigherExpectations": {
@@ -1181,7 +1181,7 @@
 		"chinese": "我不得不吃这随便做的食物。啊，我想要吃得更好。",
 		"italian": "Ho dovuto mangiare del cibo improvvisato. Bleah. Mi piacerebbe avere dei pasti migliori.",
 		"polish": "Musiał%emAm% zjeść nieprzygotowane jedzenie. Fuj! Chciałbym dostawać lepsze posiłki.",
-		"japanese": "私は、加熱されていない生の食べ物を食べなければなりませんでした。うーん。欲を言えば...もっと良い食事をしたいです。",
+		"japanese": "調理が必要な生の食材を食べました。おいしくありません。気分が悪いです。",
 		"czech": "Muse%lA% jsem jíst nepřipravené jídlo. Fuj. Chtě%lA% bych mít lepší jídlo.",
 	},
 	"thoughtTitle_AteRawFoodHasMuchHigherExpectations": {
@@ -1198,7 +1198,7 @@
 		"chinese": "淡而无味",
 		"italian": "Cibo improvvisato mangiato!",
 		"polish": "Had to eat unprepared Food!", // to do
-		"japanese": "調理されていない生の食べ物をたべなければならなかった",
+		"japanese": "調理前の生の食材を食べた",
 		"czech": "Muse%lA% jíst nepřipravené jídlo!",
 	},
 	"thoughtDesc_AteRawFoodHasMuchHigherExpectations": {
@@ -1215,7 +1215,7 @@
 		"chinese": "我不得不吃这随便做的食物。为什么? !像我这样的人不应该吃这样的食物!",
 		"italian": "Ho dovuto mangiare del cibo improvvisato. Perché?! Persone come me non dovrebbero mangiare cibo così!",
 		"polish": "Musiał%emAm% zjeść nieprzygotowane jedzenie. Dlaczego?! Ktoś taki jak ja nie powinien być zmuszany do jedzenia surowizny.",
-		"japanese": "私は、加熱されていない生の食べ物を食べなければなりませんでした。なぜこんな食べ物ばかりを食べなくてはならないのですか?私には相応しくない食事です!",
+		"japanese": "調理が必要な生の食材を食べました。おいしくありません。気分が悪いです。",
 		"czech": "Muse%lA% jsem jíst nepřipravené jídlo. Proč?! Někdo jako já by nemě%lA% jíst takové jídlo!",
 	},
 	"thoughtTitle_AteSimpleMealHasHigherExpectations": {
@@ -1232,7 +1232,7 @@
 		"chinese": "粗茶淡饭",
 		"italian": "Cibo semplice mangiato",
 		"polish": "Had to eat simple Food", // to do
-		"japanese": "簡単な食べ物を食べなければならなかった",
+		"japanese": "もっと手の込んだ料理が食べたい",
 		"czech": "Muse%lA% jíst jídlo z ohniště",
 	},
 	"thoughtDesc_AteSimpleMealHasHigherExpectations": {
@@ -1301,7 +1301,7 @@
 		"chinese": "食不果腹",
 		"italian": "Razioni di cibo scarse",
 		"polish": "Małe racje żywnościowe",
-		"japanese": "少ない食べ物の配分",
+		"japanese": "もっと食べたい",
 		"czech": "Malé potravinové dávky",
 	},
 	"thoughtDesc_SmallFoodRations": {
@@ -1335,7 +1335,7 @@
 		"chinese": "饱食暖衣",
 		"italian": "Razioni di cibo abbondanti",
 		"polish": "Duże racje żywnościowe",
-		"japanese": "たくさんの食べ物の配分",
+		"japanese": "たくさん食べられる",
 		"czech": "Velké potravinové dávky",
 	},
 	"thoughtDesc_LargeFoodRations": {
@@ -1369,7 +1369,7 @@
 		"chinese": "如愿以偿",
 		"italian": "Desiderio soddisfatto",
 		"polish": "Spełnione życzenie",
-		"japanese": "願いが叶えられて欲しいものを手に入れた",
+		"japanese": "願い事が叶えられた",
 		"czech": "Přání splněno",
 	},
 	"thoughtDesc_WishFulfilled": {
@@ -1403,7 +1403,7 @@
 		"chinese": "事与愿违",
 		"italian": "Desiderio negato",
 		"polish": "Niespełnione życzenie",
-		"japanese": "願いが拒否された",
+		"japanese": "願い事が拒否された",
 		"czech": "Přání odmítnuto",
 	},
 	"thoughtDesc_WishDenied": {
@@ -1437,7 +1437,7 @@
 		"chinese": "九死一生",
 		"italian": "Sopravvissut%OA% a stento all'attacco",
 		"polish": "Barely survived raid", // to do
-		"japanese": "九死に一生を得る",
+		"japanese": "九死に一生を得た",
 		"czech": "Sotva přeži%lA% nájezd",
 	},
 	"thoughtDesc_BarelySurvivedRaid": {
@@ -1505,7 +1505,7 @@
 		"chinese": "羡慕他人",
 		"italian": "Invidios%OA% della stanza di %firstName%",
 		"polish": "Envious of %firstName%'s room", // to do
-		"japanese": "%firstName%の部屋がうらやましくて嫉妬しています",
+		"japanese": "%firstName%の部屋がうらやましい",
 		"czech": "Závidím místnosti %firstName%",
 	},
 	"thoughtDesc_EnvyBedroomBeauty": {
@@ -1537,7 +1537,7 @@
 //		"korean": "중요한 소유물을 잃어버림",
 //		"chinese": "不翼而飞",
 	 	//TODO-polish
-//	        "japanese": "重要な所持品がありません!",
+//	        "japanese": "大事な所有物が消えた",
 //	        "czech": "Chybí důležité věci",
 //	},
 //	"thoughtDesc_MissingPossessions": {
@@ -1569,7 +1569,7 @@
 		"chinese": "入不敷出",
 		"italian": "Salario basso",
 		"polish": "Kiepskie zarobki",
-		"japanese": "わずかな給金を受け取った",
+		"japanese": "少ない給料",
 		"czech": "Dosta%lA% nízký plat",
 	},
 	"thoughtDesc_LowSalary": {
@@ -1603,7 +1603,7 @@
 		"chinese": "日进斗金",
 		"italian": "Salario alto",
 		"polish": "Wysokie zarobki",
-		"japanese": "多くの給金を受け取った!",
+		"japanese": "たくさんの給料",
 		"czech": "Dosta%lA% vysoký plat",
 	},
 	"thoughtDesc_HighSalary": {
@@ -1637,7 +1637,7 @@
 		"chinese": "家徒四壁",
 		"italian": "Pavimento mancante in casa",
 		"polish": "Brakująca podłoga",
-		"japanese": "家の床がありません",
+		"japanese": "家の床がない",
 		"czech": "V domě chybí podlaha",
 	},
 	"thoughtDesc_MissingFloor": {
@@ -1671,7 +1671,7 @@
 		"chinese": "凛冬将至",
 		"italian": "Impreparat%OA% all'inverno",
 		"polish": "Nieprzygotowany do zimy",
-		"japanese": "冬の準備ができていません",
+		"japanese": "冬の準備ができていない",
 		"czech": "Nejsme připraveni na zimu",
 	},
 	"thoughtDesc_UnpreparedForWinter": {
@@ -1705,7 +1705,7 @@
 		"chinese": "享受聚会",
 		"italian": "Festa piacevole",
 		"polish": "Zadowolony z imprezy",
-		"japanese": "楽しいパーティー",
+		"japanese": "パーティーが楽しい",
 		"czech": "Těší se na párty",
 	},
 	"thoughtDesc_EnjoyingParty": {
@@ -1739,7 +1739,7 @@
 		"chinese": "觥筹交错",
 		"italian": "Festa divertente",
 		"polish": "Świetnie się bawił%emAm%",
-		"japanese": "楽しいパーティーだった",
+		"japanese": "楽しかったパーティー",
 		"czech": "Bavi%lA% se na párty",
 	},
 	"thoughtDesc_HadFunAtParty": {
@@ -1807,7 +1807,7 @@
 		"chinese": "烤火取暖",
 		"italian": "Fuoco piacevole",
 		"polish": "Przyjemnie przy ognisku",
-		"japanese": "焚き火を楽しんだ。",
+		"japanese": "焚き火を楽しんだ",
 		"czech": "Uži%lA% si oheň",
 	},
 	"thoughtDesc_EnjoyedFire": {

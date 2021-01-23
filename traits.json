@@ -160,7 +160,7 @@
 		"korean": "살인자",
 		"italian": "Assassin%OA%",
 		"polish": "Zabójca",
-		"japanese": "暗殺者",
+		"japanese": "剣客",
 		"czech": "Zabiják",
 	},
 	"traitDesc_Killer": {
@@ -178,7 +178,7 @@
 		"korean": "%firstName%#{은} 폭력적인 것에 이상한 관심을 가집니다. 무언가를 죽일 때 긍정적인 생각을 합니다. 평소에는 스스로를 통제할 수 있습니다.",
 		"italian": "%firstName% ha uno strano interesse per la violenza. Quando uccide, emergono pensieri positivi. Di solito è in grado di controllarsi.",
 		"polish": "%firstName% przejawia niepokojące zainteresowanie przemocą. Zabijanie wprawia %goJą% w dobry humor. Na szczęście zazwyczaj jest w stanie się kontrolować.",
-		"japanese": "%firstName%は普通の人に見えますが、よりによって殺害すると興奮して気分が高揚する危険な人です。普段は殺人衝動を抑えているため何もありません。",
+		"japanese": "%firstName%は戦国時代の剣客のように命を惜しみません。命を懸けたその場所にこそ自分の場所があると考えています。",
 		"czech": "%firstName% má zvláštní zájem o násilí. Získává pozitivní myšlenky ze zabíjení, ale umí je ovládnout (občas).",
 	},
 	"traitTitle_GoodHealth": {
@@ -196,7 +196,7 @@
 		"korean": "건강한",
 		"italian": "Buona salute",
 		"polish": "Krzep%kiKa%",
-		"japanese": "健康体",
+		"japanese": "健康",
 		"czech": "Dobré zdraví",
 	},
 	"traitDesc_GoodHealth": {
@@ -214,7 +214,7 @@
 		"korean": "%firstName%#{은} 평생 운동을 하며 건강한 음식을 먹어왔기 때문에 매우 튼튼합니다. 치료가 성공활 확률이 20% 증가합니다.",
 		"italian": "Una vita di esercizi e cibi sani ha fornito a %firstName% una salute molto ferrea. I trattamenti hanno il 20% in più di probabilità di successo.",
 		"polish": "Życie wypełnione ćwiczeniami i zdrowe odżywianie zapewniło %muJej% bardzo dobre zdrowie. Leczenie jest o 20% bardziej skuteczne.",
-		"japanese": "適度な運動と健康的な食事に満ちた生活は健康的な身体を作りました。治療を試みた場合の成功率は20%高くなります。",
+		"japanese": "%firstName%は適度な運動と適正な食事により健康です。治療の成功率は20%高くなります。",
 		"czech": "Léčba má o 20% větší pravděpodobnost úspěchu.",
 	},
 	"traitTitle_BadHealth": {
@@ -232,7 +232,7 @@
 		"korean": "허약한",
 		"italian": "Cattiva salute",
 		"polish": "Cherlaw%yA%",
-		"japanese": "不健康",
+		"japanese": "病弱",
 		"czech": "Špatné zdraví",
 	},
 	"traitDesc_BadHealth": {
@@ -250,7 +250,7 @@
 		"korean": "별다른 이유가 없지만, %firstName%의 면역계는 다른 사람들만큼 좋지 못합니다. 치료가 실패할 확률이 20% 증가합니다.",
 		"italian": "Senza alcun motivo specifico, il sistema immunitario di %firstName% non è buono come gli altri. I trattamenti hanno il 20% di probabilità in più di fallire.",
 		"polish": "Bez żadnego konkretnego powodu, %firstName% ma gorszy system odpornościowy od innych. Leczenie ma 20% mniej szans na powodzenie.",
-		"japanese": "%firstName%は、現在不健康な状態にあるため免疫力がありません。治療を試みた場合、失敗する可能性が20%高くなります。",
+		"japanese": "%firstName%は病弱のため免疫力がありません。治療の失敗する可能性が20%高くなります。",
 		"czech": "Pravděpodobnost u léčby je 20% selhání.",
 	},
 	"traitTitle_Overeater": {
@@ -286,7 +286,7 @@
 		"korean": "%firstName%#{은} 음식을 사랑합니다. 하지만 항상 스스로를 통제할 수 있는 건 아닙니다. 가끔 %heShe%는 배가 부른 상태에서도 계속 먹습니다.",
 		"italian": "%firstName% ama il cibo e non sempre è in grado di controllarsi. A volte continuerà a mangiare anche se è pien%OA%.",
 		"polish": "%firstName% kocha jedzenie i nie zawsze jest w stanie się kontrolować. Czasami będzie po prostu jeść bez opamiętania, nawet jeśli będzie już najedzon%yA%.",
-		"japanese": "%firstName%は、食べることが大好きで常に食欲をコントロールすることが難しいです。すでにお腹がいっぱいになっていても、衝動的に食べてしまうことがあります。",
+		"japanese": "%firstName%は食べることが大好きで食欲を自制する事が難しいです。お腹がいっぱいになっていても衝動的に食べてしまう事があります。",
 		"czech": "Milovník jídla, který se jen těžko ovládá. Někdy jí i přes to, že už je syt%yA%",
 	},
 	"traitTitle_Survivor": {
@@ -322,7 +322,7 @@
 		"korean": "%firstName%#{은} 꽤 힘든 상황에서도 살아남았고, 살아남기 위해 무엇이 필요한지 알고 있습니다. 다른이들이라면 죽을만한 상황에서도, %heShe%는 25%의 생명력 보너스를 받고 의식불명 상태에 빠질 뿐입니다. (24시간에 한 번)",
 		"italian": "%firstName% è sopravvissut%OA% a parecchie situazioni delicate e sa ciò che bisogna fare. Quando gli altri muoiono, ottiene un aumento della salute del 25% e acquisisce consapevolezza. (Solo una volta ogni 24 ore)",
 		"polish": "%firstName% przetrwał%nicA% kilka nieciekawych sytuacji i wie co trzeba w takich chwilach robić. Kiedy inni umierają, %onOna% otrzymuje 25% dodatkowego bonusu do zdrowia i odzyskuje świadomość (raz na 24 godziny)",
-		"japanese": "%firstName%は、かなり厳しい状況でも生き残り、生き残るためには何が必要かを理解しています。ふつうの人ならば死ぬほどの状況でも%heShe%は25%の生命力ボーナスを取得し意識不明の状態に陥るだけで済みます。(24時間に1回)",
+		"japanese": "%firstName%は生き残るための知識を持ち、かなり厳しい状況でも生き残ります。ふつうの人ならば死ぬほどの状況でも25%の確率で意識不明の状態に陥るだけで済みます。(24時間に1回)",
 		"czech": "I když ostatní zemřou, získá 25% zdraví a nabyde vědomí. (pouze jednou za 24 hodin)",
 	
 	},
@@ -359,7 +359,7 @@
 		"korean": "%firstName%#{은} 잠드는 데에 어려움을 겪으며 다른 사람들만큼 깊게 자지 못합니다. 체력이 꽉 차는 데에 다른사람보다 두 배의 시간이 걸립니다.",
 		"italian": "%firstName% ha difficoltà a dormire e non riposa bene come gli altri. Necessita del doppio del tempo per riposare completamente...",
 		"polish": "%firstName% ma problemy z zasypianiem i nie wysypia się tak dobrze jak inni. Potrzebuje dwa razy więcej czasu na odpoczynek.",
-		"japanese": "%firstName%は、不眠症です。眠りにつくのが難しく他の人と同じように眠ることができません。休むためには通常の人の2倍の時間が必要です。",
+		"japanese": "%firstName%は不眠症です。眠りにつくのが難しく他の人と同じように眠る事ができません。通常の人の2倍の時間が必要です。",
 		"czech": "%firstName% má problémy se spánkem a neodpočívá tak dobře jako ostatní. Plný odpočinek zabere 2x tolik času, ve srovnání s ostatními ..",
 	},
 	"traitTitle_Tireless": {
@@ -395,7 +395,7 @@
 		"korean": "%firstName%#{은} 잠을 조금만 자도 괜찮습니다. 다른사람의 절반만 자고 일어나도 쌩쌩해집니다.",
 		"italian": "%firstName% non ha bisogno di dormire molto. Deve riposare solo la metà degli altri prima che sia di nuovo completamente in forma.",
 		"polish": "%firstName% nie potrzebuje wiele snu. Wystarczy %muJej% go o połowę mniej niż innym by powrócić do pełni sił.",
-		"japanese": "%firstName%は、あまり睡眠を必要としません。普通の人の半分の時間で十分な休息をとることができ、すぐに元気になります。",
+		"japanese": "%firstName%はあまり睡眠を必要としません。普通の人の半分の時間で十分な休息をとる事ができます。",
 		"czech": "%firstName% nepotřebuje moc spánku. Odpočívá jen 1/2 času co ostatní.",
 	},
 	"traitTitle_Smart": {
@@ -413,7 +413,7 @@
 		"korean": "빨리 배우는",
 		"italian": "Impara in fretta",
 		"polish": "Bystr%yA%",
-		"japanese": "物覚えがいい",
+		"japanese": "物覚えが良い",
 		"czech": "Učenliv%yA%",
 	},
 	"traitDesc_Smart": {
@@ -431,7 +431,7 @@
 		"korean": "%firstName%#{은} 똑똑한 %guyGirl%이며, 스스로도 알고 있습니다. %heShe%는 두 배로 빠르게 새로운 기술을 배웁니다.",
 		"italian": "%firstName% è %UnUna% tip%OA% brillante e lo sa. Può apprendere nuove abilità nella metà del tempo.",
 		"polish": "%firstName% to bystry umysł i %onOna% dobrze o tym wie. Może się nauczyć nowych umiejętności dwa razy szybciej.",
-		"japanese": "%firstName%は、物覚えがよく早分かりです。そのため普通の人の半分の時間で新しいスキルを学ぶことができます!",
+		"japanese": "%firstName%は物覚えが良く早分かりです。そのため普通の人の半分の時間で新しいスキルを学ぶ事ができます。",
 		"czech": "Učí se novým dovednostem za 1/2 času co ostatní kolonisté.",
 	},
 	"traitTitle_Dumb": {
@@ -467,7 +467,7 @@
 		"korean": "불행하게도, 생각하는 건 %heShe%의 특기가 아닙니다. %heShe%는 평생 어떤 직업에서도 경험치를 얻거나, 레벨업을 할 수 없습니다.",
 		"italian": "Sfortunatamente, pensare non è mai stato il suo punto di forza. Non acquisirà esperienza e non potrà mai salire di livello in nessun lavoro.",
 		"polish": "Niestety, myślenie to nie jest %jegoJej% mocna strona. %firstName% nigdy nie będzie otrzymywał%nicA% doświadczenia ani awansował%nicA% w jakimkolwiek zawodzie.",
-		"japanese": "残念なことに%firstName%は、考えることが苦手なおバカです。どの仕事をさせてもレベルアップすることはありません。",
+		"japanese": "残念なことに%firstName%は考える事が苦手です。どの仕事をさせてもレベルアップする事はありません。",
 		"czech": "Naneštěstí myšlení nikdy nebylo %jehoJeji% silnou stránkou. Nezíská nikdy zkušenosti a nezvýší ani svou úroveň v žádné práci.",
 	},
 	"traitTitle_FavoriteFoodPumpkinStew": {
@@ -485,7 +485,7 @@
 		"korean": "좋아하는 음식: 호박 스튜",
 		"italian": "Cibo preferito: Stufato di zucca",
 		"polish": "Uwielbia krem z dyni",
-		"japanese": "好きな食べ物: かぼちゃのシチュー",
+		"japanese": "好きな食べ物:かぼちゃのシチュー",
 		"czech": "Oblíbené jídlo: Dýňový guláš",
 		
 	},
@@ -504,7 +504,7 @@
 		"korean": "%firstName%#{은} 호박 스튜를 다시 먹을 수 있는 날이 오기를 목이 빠지게 기다리고 있습니다.",
 		"italian": "%firstName% non vede l'ora di prendere un'altra porzione di delizioso stufato di zucca.",
 		"polish": "%firstName% po prostu nie może się doczekać, żeby dostać kolejną porcję pysznego kremu z dyni.",
-		"japanese": "%firstName%は、かぼちゃのシチューが大好物です。もう一皿おかわりする日が待ちきれません。",
+		"japanese": "%firstName%はかぼちゃのシチューが大好物です。おかわりする時間が待ちきれないほどです。",
 		"czech": "%firstName% se prostě nemůže dočkat, až si dá další misku lahodného dýňového guláše.",
 	},
 	"traitTitle_FavoriteFoodFruitSalad": {
@@ -522,7 +522,7 @@
 		"korean": "좋아하는 음식: 과일 샐러드",
 		"italian": "Cibo preferito: Macedonia",
 		"polish": "Uwielbia sałatkę owocową",
-		"japanese": "好きな食べ物: フルーツサラダ",
+		"japanese": "好きな食べ物:フルーツサラダ",
 		"czech": "Oblíbené jídlo: Ovocný salát",
 	},
 	"traitDesc_FavoriteFoodFruitSalad": {
@@ -540,7 +540,7 @@
 		"korean": "%firstName%#{은} 과일 샐러드를 다시 먹을 수 있는 날이 오기를 목이 빠지게 기다리고 있습니다.",
 		"italian": "%firstName% non vede l'ora di prendere un'altra porzione di deliziosa macedonia.",
 		"polish": "%firstName% po prostu nie może się doczekać, żeby dostać kolejną porcję sałatki owocowej.",
-		"japanese": "%firstName%は、フルーツサラダが大好物です。もう一皿おかわりする日が待ちきれません。",
+		"japanese": "%firstName%はフルーツサラダが大好物です。おかわりする時間が待ちきれないほどです。",
 		"czech": "%firstName% se prostě nemůže dočkat, až si dá další misku lahodného ovocného salátu.",
 	},
 	"traitTitle_FavoriteFoodAppleStrudel": {
@@ -558,7 +558,7 @@
 		"korean": "좋아하는 음식: 사과 슈트루델",
 		"italian": "Cibo preferito: Strudel di mele",
 		"polish": "Uwielbia jabłecznik",
-		"japanese": "好きな食べ物: アップルシュトルーデル",
+		"japanese": "好きな食べ物:アップルシュトルーデル",
 		"czech": "Oblíbené jídlo: Jablečný štrúdl",
 	},
 	"traitDesc_FavoriteFoodAppleStrudel": {
@@ -576,7 +576,7 @@
 		"korean": "%firstName%#{은} 사과 슈트루델을 다시 먹을 수 있는 날이 오기를 목이 빠지게 기다리고 있습니다.",
 		"italian": "%firstName% non vede l'ora di prendere un'altra porzione di delizioso strudel di mele.",
 		"polish": "%firstName% po prostu nie może się doczekać, żeby dostać kolejną porcję jabłecznika.",
-		"japanese": "%firstName%は、アップルシュトルーデルが大好物です。もう一皿おかわりする日が待ちきれません。",
+		"japanese": "%firstName%はアップルシュトルーデルが大好物です。おかわりする時間が待ちきれないほどです。",
 		"czech": "%firstName% se prostě nemůže dočkat, až si dá další kousek lahodného jablečného štrúdlu.",
 	},
 	"traitTitle_AllergicToApples": {
@@ -612,7 +612,7 @@
 		"korean": "%firstName%#{은} 사과가 들어간 음식을 되도록 안 먹으려고 합니다. 만약 그럴 수 밖에 없는 상황이 된다면, %heShe%는 알레르기 반응을 보일 겁니다.",
 		"italian": "%firstName% eviterà i cibi che contengono mele. Se è costrett%OA% a mangiarle comunque, avrà una reazione allergica.",
 		"polish": "%firstName% będzie unikał%nicA% wszelkich dań zawierających jabłka. Jeśli zje coś co zawiera jabłka to dostanie reakcji alergicznej.",
-		"japanese": "%firstName%は、りんごアレルギーです。そのためリンゴを含む料理を避けます。もしも食べることを余儀なくされた場合、アレルギー反応を起こすでしょう。",
+		"japanese": "%firstName%はりんごアレルギーです。そのためリンゴを含む料理を避けます。極力食べる事が無いようにしてください。",
 		"czech": "%firstName% se vyhne pokrmům, které obsahují jablka. Pokud je z donucení sní, bude mít alergickou reakci.",
 	},
 	"traitTitle_AllergicToPotatoes": {
@@ -649,7 +649,7 @@
 		"korean": "%firstName%#{은} 감자가 들어간 음식을 되도록 안 먹으려고 합니다. 만약 그럴 수 밖에 없는 상황이 된다면, %heShe%는 알레르기 반응을 보일 겁니다.",
 		"italian": "%firstName% eviterà i cibi che contengono patate. Se è costrett%OA% a mangiarle comunque, avrà una reazione allergica.",
 		"polish": "%firstName% będzie unikał%nicA% wszelkich dań zawierających ziemniaki. Jeśli zje coś co zawiera ziemniaki to dostanie reakcji alergicznej.",
-		"japanese": "%firstName%は、じゃがいもアレルギーです。そのためジャガイモを含む料理を避けます。もしも食べることを余儀なくされた場合、アレルギー反応を起こすでしょう。",
+		"japanese": "%firstName%はじゃがいもアレルギーです。そのためジャガイモを含む料理を避けます。極力食べる事が無いようにしてください。",
 		"czech": "%firstName% se vyhne pokrmům, které obsahují bramboty. Pokud je z donucení sní, bude mít alergickou reakci.",
 	},
 	"traitTitle_AllergicToTomatoes": {
@@ -686,7 +686,7 @@
 		"korean": "%firstName%#{은} 토마토가 들어간 음식을 되도록 안 먹으려고 합니다. 만약 그럴 수 밖에 없는 상황이 된다면, %heShe%는 알레르기 반응을 보일 겁니다.",
 		"italian": "%firstName% eviterà i cibi che contengono pomodori. Se è costrett%OA% a mangiarli comunque, avrà una reazione allergica.",
 		"polish": "%firstName% będzie unikał%nicA% wszelkich dań zawierających pomidory. Jeśli zje coś co zawiera pomidory to dostanie reakcji alergicznej.",
-		"japanese": "%firstName%は、トマトアレルギーです。そのためトマトを含む料理を避けます。もしも食べることを余儀なくされた場合、アレルギー反応を起こすでしょう。",
+		"japanese": "%firstName%はトマトアレルギーです。そのためトマトを含む料理を避けます。極力食べる事が無いようにしてください。",
 		"czech": "%firstName% se vyhne pokrmům, které obsahují rajčata. Pokud je z donucení sní, bude mít alergickou reakci.",
 	},
 	"traitTitle_Limping": {
@@ -703,7 +703,7 @@
 		"korean": "절뚝거리는",
 		"italian": "Zopp%OA%",
 		"polish": "Kulaw%yA%",
-		"japanese": "足が不自由",
+		"japanese": "不自由な足",
 		"czech": "Kulhání",
 	},
 	"traitDesc_Limping": {
@@ -720,7 +720,7 @@
 		"korean": "어떤 사고로 인해, %firstName%#{은} 다리가 아프고 절뚝거리며 걷습니다. %heShe%의 걸음은 다른 주민들보다 조금 느립니다.",
 		"italian": "A causa di un incidente, %firstName% ha una gamba malata e zoppica. Cammina un po' più lentamente degli altri coloni.",
 		"polish": "Z powodu przykrego wypadku ze strzałą w kolanie, %firstName% kuleje i chodzi przez to nieco wolniej niż inni koloniści.",
-		"japanese": "%firstName%は、足に怪我をしており、事故により足を引きずっています。%cap-heShe%は、他のコロニストたちよりも少しゆっくり歩きます。",
+		"japanese": "%firstName%は事故により足を怪我して引きずっています。そのため他のコロニストたちよりも少しゆっくり歩きます。",
 		"czech": "Kvůli nehodě má %firstName% špatnou nohu a kulhá. Chodí trochu pomaleji než ostatní kolonisté.",
 	},
 	"traitTitle_Xenophobe": {
@@ -752,7 +752,7 @@
 		"russian":"%firstName% не доверяет незнакомцам. %cap-heShe% не хочет дружить с другими фракциями.",
 		"italian": "%firstName% non si fida molto degli estranei. Non vuole relazionarsi troppo con le altre fazioni e non ha problemi a difendere la colonia dagli altri.",
 		"polish": "%firstName% nie lubi obcych. Nie chce się zaprzyjaźniać z innymi frakcjami i raczej woli z nimi walczyć. Jest za to mocn%yA w gębie.",
-		"japanese": "%firstName%は、見知らぬ人をあまり信頼していません。他の派閥と友好的になりたくないので他の派閥からコロニーを守るのに問題はありません。",
+		"japanese": "%firstName%は見知らぬ人をあまり信頼していません。他の集団と友好的になりたいと思っていないので敵対しても気にしません。",
 		"czech": "%firstName% moc cizím lidem nedůvěřuje. Nechce se příliš kamarádit s jinými frakcemi a nemá problém bránit kolonii před ostatními.",
 	},
 	"traitTitle_Xenophile": {
@@ -784,7 +784,7 @@
 		"russian":"%firstName% обожает все народы. %cap-heShe% быстро входит в доверие с незнакомцам и всегда за мир.",
 		"italian": "%firstName% adora conoscere gente di culture differenti. Si fida dei nuovi arrivati e non %GliLe% piace combattere contro le altre fazioni.",
 		"polish": "%firstName% uwielbia poznawać nowe osoby i bardzo szybko nabiera do nich zaufania. Nie lubi walczyć z innymi frakcjami.",
-		"japanese": "%firstName%は、あらゆる種類の様々な人々と知り合うのが大好きです。よそ者をすぐに信頼してしまいます。他の派閥と戦うのは好きではありません。",
+		"japanese": "%firstName%はあらゆる種類の様々な人々と知り合うのが大好きです。よそ者をすぐに信頼してしまいます。他の集団と派閥と戦うのは好きではありません。",
 		"czech": "%firstName% miluje poznávání nejrůznějších cizích lidí. Rychle důvěřuje nováčkům a má problém s bojem s jinými frakcemi.",
 		
 	},

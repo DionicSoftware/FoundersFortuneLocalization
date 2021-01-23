@@ -178,7 +178,7 @@
 		"korean": "%firstName%#{은} 폭력적인 것에 이상한 관심을 가집니다. 무언가를 죽일 때 긍정적인 생각을 합니다. 평소에는 스스로를 통제할 수 있습니다.",
 		"italian": "%firstName% ha uno strano interesse per la violenza. Quando uccide, emergono pensieri positivi. Di solito è in grado di controllarsi.",
 		"polish": "%firstName% przejawia niepokojące zainteresowanie przemocą. Zabijanie wprawia %goJą% w dobry humor. Na szczęście zazwyczaj jest w stanie się kontrolować.",
-		"japanese": "%firstName%は戦国時代の剣客のように命を惜しみません。命を懸けたその場所にこそ自分の場所があると考えています。",
+		"japanese": "%firstName%は戦国時代の剣客のように自分の命も相手の命も惜しみません。相手の命が失われた時は自身の強さを実感すると共に相手の死に自分を重ねます。",
 		"czech": "%firstName% má zvláštní zájem o násilí. Získává pozitivní myšlenky ze zabíjení, ale umí je ovládnout (občas).",
 	},
 	"traitTitle_GoodHealth": {
@@ -720,7 +720,7 @@
 		"korean": "어떤 사고로 인해, %firstName%#{은} 다리가 아프고 절뚝거리며 걷습니다. %heShe%의 걸음은 다른 주민들보다 조금 느립니다.",
 		"italian": "A causa di un incidente, %firstName% ha una gamba malata e zoppica. Cammina un po' più lentamente degli altri coloni.",
 		"polish": "Z powodu przykrego wypadku ze strzałą w kolanie, %firstName% kuleje i chodzi przez to nieco wolniej niż inni koloniści.",
-		"japanese": "%firstName%は事故により足を怪我して引きずっています。そのため他のコロニストたちよりも少しゆっくり歩きます。",
+		"japanese": "%firstName%は足に怪我があるため、他のコロニストよりも歩く速度が遅いです。",
 		"czech": "Kvůli nehodě má %firstName% špatnou nohu a kulhá. Chodí trochu pomaleji než ostatní kolonisté.",
 	},
 	"traitTitle_Xenophobe": {
@@ -784,7 +784,7 @@
 		"russian":"%firstName% обожает все народы. %cap-heShe% быстро входит в доверие с незнакомцам и всегда за мир.",
 		"italian": "%firstName% adora conoscere gente di culture differenti. Si fida dei nuovi arrivati e non %GliLe% piace combattere contro le altre fazioni.",
 		"polish": "%firstName% uwielbia poznawać nowe osoby i bardzo szybko nabiera do nich zaufania. Nie lubi walczyć z innymi frakcjami.",
-		"japanese": "%firstName%はあらゆる種類の様々な人々と知り合うのが大好きです。よそ者をすぐに信頼してしまいます。他の集団と派閥と戦うのは好きではありません。",
+		"japanese": "%firstName%はあらゆる種類の様々な人々と知り合うのが大好きです。よそ者をすぐに信頼してしまいます。他の集団と戦うのは好きではありません。",
 		"czech": "%firstName% miluje poznávání nejrůznějších cizích lidí. Rychle důvěřuje nováčkům a má problém s bojem s jinými frakcemi.",
 		
 	},
@@ -817,7 +817,7 @@
 		"russian":"Из-за харизматического характера, %firstName% быстро заводит друзей и сглаживает ссоры. Когда %heShe% общается с членами других фракций, существует небольшой шанс расширения дипломатических отношений.",
 		"italian": "A causa della sua natura carismatica, %firstName% fa velocemente amicizia e appiana i problemi legati al passato. Quando socializza con i membri delle altre fazioni, c'è una piccola possibilità di aumentare le relazioni diplomatiche.",
 		"polish": "Ze względu na %jegoJej% charyzmatyczną naturę, %firstName% szybko zaprzyjaźnia się z innymi i potrafi łagodzić wszelkie zatargi. Kiedy socjalizuje się z członkami innej rakcji, istnieje niewielka szansa na poprawę relacji dyplomatycznych.",
-		"japanese": "%firstName%は、カリスマ性が高く、すぐに友達を作り過去の喧嘩もすぐに仲直りさせてしまいます。他の派閥のメンバーと交流する際には外交関係を強化する可能性がわずかにあります。",
+		"japanese": "%firstName%はすぐに友達を作る事もでき、喧嘩もすぐに仲直りさせてしまいます。他の集団の人々と交流した際には関係を強化する可能性がわずかにあります。",
 		"czech": "Má charismatickou povahu, rychle se spřátelí a hádky si pamatuje jen velmi krátce. Když se stýká s členy jiných frakcí, existuje malá šance na navýšení diplomatických vztahů.",
 	},
 	"traitTitle_LovesSummer": {
@@ -849,7 +849,7 @@
 		"portuguese": "Quando o ar está quente e o tempo está ensolarado, %firstName% sente que tudo está bem com o mundo.",
 		"italian": "Quando l'aria è calda e il tempo è soleggiato, a %firstName% sembra che il mondo sia tutto in equilibrio.",
 		"polish": "Kiedy powietrze jest ciepłe a pogoda słoneczna, %firstName% czuje że wszystko na świecie idzie w dobrym kierunku.",
-		"japanese": "%firstName%は、夏が大好きです。夏の日差しで、空気が暖かく、空が晴れ渡るとき世界のすべてが素晴らしいと感じます。",
+		"japanese": "%firstName%は夏が大好きです。夏の日差し、熱い空気、晴れ渡る空等夏の世界すべてが素晴らしいと感じます。",
 		"czech": "Když je vzduch teplý a počasí je slunečné má %firstName% pocit, že je se světem všechno v pořádku.",
 	},
 	"traitTitle_LovesSpring": {
@@ -881,7 +881,7 @@
 		"russian":"%firstName% обожает свежий воздух и различные растения. Поэтому весной %heShe% чувствует себя отлично!",
 		"italian": "%firstName% adora respirare l'aria fresca di primavera e vedere la natura fiorire ancora una volta.",
 		"polish": "%firstName% uwielbia oddychać świeżym powietrzem pachnącym wiosną i delektować się rozkwitającą naturą.",
-		"japanese": "%firstName%は、春が大好きです。春の新鮮な空気を吸うのも、自然が再び蘇り、芽吹いていくのを見るのも大好きです。",
+		"japanese": "%firstName%は春が大好きです。春の新鮮な空気、自然が再び芽吹く姿が大好きです。",
 		"czech": "%firstName% miluje dýchání čerstvého vzduchu jara a o když vidí, jak příroda znovu kvete.",
 	},
 	"traitTitle_HatesWinter": {
@@ -913,7 +913,7 @@
 		"russian":"%firstName% ненавидит холод и ранний приход темноты. Поэтому зимой %heShe% чувствует себя ужасно!",
 		"italian": "Giorni più bui e notti più fredde non costituiscono l'idea di divertimento per %firstName%, per cui l'inverno non è il suo periodo dell'anno preferito.",
 		"polish": "Ciemniejsze dni i zimniejsze noce to nie jest to co %firstName% lubi najbardziej, zima nie jest dla %niegoNiej% najszczęśliwszą porą roku.",
-		"japanese": "%firstName%は、冬が嫌いです。昼は薄暗く陽は少なく、夜は凍える様に寒いからです。また楽しみも少ないためどうしても好きになれない季節です。",
+		"japanese": "%firstName%は冬が大嫌いです。薄暗く陽が少ない昼、寒く凍える夜は凍える様に寒いからです。また楽しみも少ないためどうしても好きになれない季節です。",
 		"czech": "Potemnělé dny a chladnější noci nejsou vůbec libou představou zábavy. Nemá je rá%dA%!",
 	},
 	"traitTitle_HatesFall": {

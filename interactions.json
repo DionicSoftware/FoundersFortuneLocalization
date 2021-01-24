@@ -33,7 +33,7 @@
 		"chinese": "进食中",
 		"italian": "Mangia qualcosa",
 		"polish": "Zjedz coś",
-		"japanese": "何かを食べる",
+		"japanese": "食べる",
 		"czech": "Běž se najíst",
 	},
 	"EatFood": {
@@ -177,7 +177,7 @@
 		"chinese": "移除植物",
 		"italian": "Rimuovi pianta",
 		"polish": "Usuń roślinę",
-		"japanese": "植物を取り除く",
+		"japanese": "作物を取り除く",
 		"czech": "Odstraň rostlinu",
 	},
 	"RemoveInfestedPlants": {
@@ -195,7 +195,7 @@
 		"chinese": "移除所有感染的植物",
 		"italian": "Rimuovi tutte le piante infestate",
 		"polish": "Usuń wszystkie zarażone rośliny",
-		"japanese": "感染した植物を全て取り除きます",
+		"japanese": "感染した作物を全て取り除く",
 		"czech": "Odstraň všechny napadené rostliny",
 	},
 	"RemoveDeadPlants": {
@@ -213,7 +213,7 @@
 		"chinese": "移除所有枯萎的植物",
 		"italian": "Rimuovi tutte le piante morte",
 		"polish": "Usuń wszystkie obumarłe rośliny",
-		"japanese": "枯れた植物をを全て取り除きます",
+		"japanese": "枯れた作物を全て取り除く",
 		"czech": "Odstraň všechny uschlé rostliny",
 	},
 	"WaterPlant": {
@@ -335,7 +335,7 @@
 		"chinese": "建造",
 		"italian": "Costruisci",
 		"polish": "Zbuduj",
-		"japanese":"建築する",
+		"japanese":"建築",
 		"czech": "Postav",
 	},
 	"Deconstruct": { // letting a colonist remove furniture
@@ -371,7 +371,7 @@
 		"chinese": "战斗",
 		"italian": "Lotta",
 		"polish": "Walcz",
-		"japanese":"戦う",
+		"japanese":"戦い",
 		"czech": "Bojuj",
 	},
 	"Kill": {
@@ -407,7 +407,7 @@
 		"chinese": "使用治疗药水",
 		"italian": "Prendi pozione curativa",
 		"polish": "Weź miksturę leczniczą",
-		"japanese":"回復薬を使用する",
+		"japanese":"回復薬を使用",
 		"czech": "Vypij léčivý lektvar",
 	},
 	"DrinkElixirOfYouth": {
@@ -421,7 +421,7 @@
 		"chinese": "青年饮品",
 		"italian": "Bevi l'elisir di giovinezza",
 		"polish": "Wypij eliksir młodości",
-		"japanese":"若さの秘薬を飲む",
+		"japanese":"若返りの秘薬を飲む",
 		"czech": "Vypij elixír mládí",
 	},
 	"LearnFarming": {
@@ -439,7 +439,7 @@
 		"chinese": "学习务农",
 		"italian": "Apprendi di più sulla coltivazione",
 		"polish": "Ucz się o rolnictwie",
-		"japanese":"農業について学ぶ",
+		"japanese":"農業を学ぶ",
 		"czech": "Nauč se Základy farmaření",
 	},
 	"LearnForesting": {
@@ -457,7 +457,7 @@
 		"chinese": "学习林业",
 		"italian": "Apprendi di più sul rimboschimento",
 		"polish": "Ucz się o leśnictwie",
-		"japanese":"木こりについて学ぶ",
+		"japanese":"林業を学ぶ",
 		"czech": "Nauč se Základy Lesnictví",
 	},
 	"LearnMining": {
@@ -475,7 +475,7 @@
 		"chinese": "学习挖掘",
 		"italian": "Apprendi di più sull'estrazione",
 		"polish": "Ucz się o wydobyciu",
-		"japanese":"採掘について学ぶ",
+		"japanese":"採掘を学ぶ",
 		"czech": "Nauč se Základy těžby",
 	},
 	"LearnCrafting": {
@@ -493,7 +493,7 @@
 		"chinese": "学习工艺",
 		"italian": "Apprendi di più sulla fabbricazione",
 		"polish": "Ucz się o wytwarzaniu",
-		"japanese":"職人について学ぶ",
+		"japanese":"クラフトを学ぶ",
 		"czech": "Nauč se Základy řemesel",
 	},
 	"LearnFighting": {
@@ -529,7 +529,7 @@
 		"chinese": "学习医学",
 		"italian": "Impara di più sulla medicina",
 		"polish": "Ucz się o medycynie",
-		"japanese":"医学について学ぶ",
+		"japanese":"医学を学ぶ",
 		"czech": "Nauč se Základy lékařství",
 	},
 	"LearnResearching": {
@@ -547,7 +547,7 @@
 		"chinese": "学习研究",
 		"italian": "Impara di più sulla ricerca",
 		"polish": "Ucz się o wynalazkach",
-		"japanese":"研究について学ぶ",
+		"japanese":"研究を学ぶ",
 		"czech": "Nauč se Výzkum",
 	},
 	"LearnLifeSkills": { // refers to all the things kids need to learn in order to grow up properly
@@ -561,7 +561,7 @@
 		"chinese": "学习生活技能",
 		"italian": "Apprendi le competenze di vita",
 		"polish": "Ucz się o życiu",
-		"japanese":"生活の知恵を学ぶ",
+		"japanese":"スキルを学ぶ",
 		"czech": "Nauč se Životním zkušenostem",
 	},
 	"Sleep": {
@@ -597,7 +597,7 @@
 		"chinese": "睡到完全康复",
 		"italian": "Dormi finché la salute non si rigenera",
 		"polish": "Śpij aż do wyzdrowienia",
-		"japanese":"完全に健康になるまで眠る",
+		"japanese":"完全な健康になるまで眠る",
 		"czech": "Spi dokud se neuzdravíš",
 	},
 	"SleepOnGround": {
@@ -741,7 +741,7 @@
 		"chinese": "包扎伤口",
 		"italian": "Benda ferite",
 		"polish": "Opatrz rany",
-		"japanese":"包帯で傷を保護",
+		"japanese":"包帯で傷を治療",
 		"czech": "Obvaž zranění",
 	},
 	"SplintLeg": {
@@ -759,7 +759,7 @@
 		"chinese": "腿部夹板",
 		"italian": "Applica stecca alla gamba",
 		"polish": "Usztywnij nogę",
-		"japanese":"足に添え木を使用",
+		"japanese":"添え木で脚を治療",
 		"czech": "Dej nohu do dlahy",
 	},
 	"SplintArm": {
@@ -777,7 +777,7 @@
 		"chinese": "手臂夹板",
 		"italian": "Applica stecca al braccio",
 		"polish": "Usztywnij rękę",
-		"japanese":"腕に添え木を使用",
+		"japanese":"添え木で腕を治療",
 		"czech": "Dej ruku do dlahy",
 	},
 	"Destroy": {
@@ -849,7 +849,7 @@
 		"chinese": "产品",
 		"italian": "Produci",
 		"polish": "Produkuj",
-		"japanese":"生産する",
+		"japanese":"生産",
 		"czech": "Vytvoř",
 	},
 	"Equip": {
@@ -867,7 +867,7 @@
 		"chinese": "装备",
 		"italian": "Equipaggia",
 		"polish": "Załóż",
-		"japanese":"装備する",
+		"japanese":"つける",
 		"czech": "Vybav se",
 	},
 	"Unequip": {
@@ -885,7 +885,7 @@
 		"chinese": "卸下",
 		"italian": "Disequipaggia",
 		"polish": "Zdejmij",
-		"japanese":"装備解除",
+		"japanese":"はずす",
 		"czech": "Vrať vybavení",
 	},
 	"RemoveWeapon": {
@@ -921,7 +921,7 @@
 		"chinese": "脱下盔甲",
 		"italian": "Togliti l'armatura",
 		"polish": "Zdejmij zbroję",
-		"japanese":"装備を脱ぐ",
+		"japanese":"防具を脱ぐ",
 		"czech": "Sundej zbroj",
 	},
 	"RemoveEquipment": {
@@ -957,7 +957,7 @@
 		"chinese": "点亮营火",
 		"italian": "Accendi falò",
 		"polish": "Zapal ogień",
-		"japanese":"篝火を点火する",
+		"japanese":"篝火を点灯",
 		"czech": "Zapal signální oheň",
 	},
 	"PutOutBonfire": {
@@ -975,7 +975,7 @@
 		"chinese": "放置营火",
 		"italian": "Spegni falò",
 		"polish": "Zgaś ogień",
-		"japanese":"篝火を消火する",
+		"japanese":"篝火を消火",
 		"czech": "Uhas signální oheň",
 	},
 	"GatherResources": {
@@ -993,7 +993,7 @@
 		"chinese": "收集资源",
 		"italian": "Raccogli risorse",
 		"polish": "Zbieraj surowce",
-		"japanese":"資源を収集する",
+		"japanese":"資源を収集",
 		"czech": "Shromažďuj suroviny",
 	},
 	"Guard": {
@@ -1011,7 +1011,7 @@
 		"chinese": "守卫",
 		"italian": "Proteggi",
 		"polish": "Strzeż",
-		"japanese":"守備する",
+		"japanese":"防衛",
 		"czech": "Chraň",
 	},
 	"GuardTower": {
@@ -1029,7 +1029,7 @@
 		"chinese": "守卫塔",
 		"italian": "Proteggi la torre",
 		"polish": "Chroń wieżę",
-		"japanese":"守備塔",
+		"japanese":"櫓",
 		"czech": "Braň věž",
 	},
 	"ProcessResource": {
@@ -1047,7 +1047,7 @@
 		"chinese": "资源进度",
 		"italian": "Trasforma risorse",
 		"polish": "Przetwórz zasoby",
-		"japanese":"資源過程",
+		"japanese":"資材の過程",
 		"czech": "Zpracuj suroviny",
 	},
 	"ChangeProfession": {
@@ -1083,7 +1083,7 @@
 		"chinese": "安排生产任务",
 		"italian": "Dai ordini di produzione",
 		"polish": "Zleć produkcję",
-		"japanese":"アイテムを製造リクエストする",
+		"japanese":"生産品を決める",
 		"czech": "Zadej výrobní plán",
 	},
 	"FillWateringCan": {
@@ -1137,7 +1137,7 @@
 		"chinese": "砍伐树木",
 		"italian": "Abbatti albero",
 		"polish": "Zbierz: Drewno",
-		"japanese":"伐採する",
+		"japanese":"伐採",
 		"czech": "Kácej stromy",
 	},
 	"interaction_mineStone": {
@@ -1155,7 +1155,7 @@
 		"chinese": "挖掘岩石",
 		"italian": "Estrai pietra",
 		"polish": "Zbierz: Kamień",
-		"japanese":"石を採掘する",
+		"japanese":"石を採掘",
 		"czech": "Vytěž kámen",
 	},
 	"interaction_mineIronOre": {
@@ -1173,7 +1173,7 @@
 		"chinese": "挖掘铁矿",
 		"italian": "Estrai minerale di ferro",
 		"polish": "Zbierz: Żelazo",
-		"japanese":"鉄を採掘する",
+		"japanese":"鉄鉱石を採掘",
 		"czech": "Vytěž železnou rudu",
 	},
 	"GatherResource": {
@@ -1227,7 +1227,7 @@
 		"chinese": "尝试治疗流感",
 		"italian": "Prova il trattamento contro l'influenza",
 		"polish": "Wylecz grypę",
-		"japanese":"インフルエンザ治療を試す",
+		"japanese":"インフルエンザを治療",
 		"czech": "Zkus Léčbu chřipky",
 	},
 	"interaction_analyzeCrystal": {
@@ -1245,7 +1245,7 @@
 		"chinese": "分析水晶",
 		"italian": "Analizza cristallo",
 		"polish": "Badaj kryształy",
-		"japanese":"クリスタルの解析",
+		"japanese":"クリスタルを解析",
 		"czech": "Zkoumej krystaly",
 	},
 	"interaction_analyzeScroll": {
@@ -1281,7 +1281,7 @@
 		"chinese": "烹饪食物",
 		"italian": "Cuoci cibo",
 		"polish": "Gotuj jedzenie",
-		"japanese":"料理をする",
+		"japanese":"料理",
 		"czech": "Uvař jídlo",
 	},
 	"interaction_Forge": {
@@ -1299,7 +1299,7 @@
 		"chinese": "锻造",
 		"italian": "Forgia",
 		"polish": "Wykuwaj broń",
-		"japanese":"鍛造をする",
+		"japanese":"鍛造",
 		"czech": "Ukovej",
 	},
 	"interaction_makeBows": {
@@ -1317,7 +1317,7 @@
 		"chinese": "制造弓箭",
 		"italian": "Fabbrica archi",
 		"polish": "Rób łuki",
-		"japanese":"弓を製造する",
+		"japanese":"弓を製作",
 		"czech": "Vyrob luky",
 	},
 	"interaction_makeTools": {
@@ -1335,7 +1335,7 @@
 		"chinese": "制造工具",
 		"italian": "Fabbrica strumenti",
 		"polish": "Rób narzędzia",
-		"japanese":"道具を製造する",
+		"japanese":"道具を制作",
 		"czech": "Vyrob nástroje",
 	},
 	"interaction_tailorClothes": {
@@ -1385,7 +1385,7 @@
 		"chinese": "生产药水",
 		"italian": "Produci pozioni curative",
 		"polish": "Twórz mikstury lecznicze",
-		"japanese":"回復薬を製造する",
+		"japanese":"回復薬を調合",
 		"czech": "Vyrob léčivé lektvary",
 	},
 	"interaction_produceMedicine": {
@@ -1403,7 +1403,7 @@
 		"chinese": "生产药水",
 		"italian": "Produci medicinale",
 		"polish": "Twórz leki",
-		"japanese":"医薬品を製造する",
+		"japanese":"ワクチンを調合",
 		"czech": "Vytvoř léky",
 	},
 	"interaction_brewBeer": {
@@ -1421,7 +1421,7 @@
 		"chinese": "酿造酒水",
 		"italian": "Prepara birra",
 		"polish": "Warz piwo",
-		"japanese":"ビールを醸造する",
+		"japanese":"ビールを醸造",
 		"czech": "Uvař pivo",
 	},
 	"Talk": {
@@ -1471,7 +1471,7 @@
 		"chinese": "与%name%交流",
 		"italian": "Parlare con %name%",
 		"polish": "Rozmawiaj z %name%",
-		"japanese":"%name%に話しかける",
+		"japanese":"%name%と話す",
 		"czech": "Mluv s %name%",
 	},
 	"TakeOwnership": {
@@ -1579,7 +1579,7 @@
 		"chinese": "卸下衣服",
 		"italian": "Disequipaggia vestiti",
 		"polish": "Zdejmij ubranie",
-		"japanese":"装備している衣服を解除する",
+		"japanese":"装備している衣装を解除する",
 		"czech": "Odevzdej oblečení",
 	},
 	"Trade": {
@@ -1633,7 +1633,7 @@
 		"chinese": "自由移民",
 		"italian": "Libera colono",
 		"polish": "Uwolnij",
-		"japanese":"自由なコロニスト",
+		"japanese":"コロニストを解放する",
 		"czech": "Osvoboď kolonistu",
 	},
 	"FreeColonistFirstName": {
@@ -1651,7 +1651,7 @@
 		"chinese": "自由的%firstName%",
 		"italian": "Libera %firstName%",
 		"polish": "Uwolnij %firstName%",
-		"japanese":"自由なコロニスト%firstName%",
+		"japanese":"%firstName%を解放する",
 		"czech": "Osvoboď %firstName%",
 	},
 	"DrinkBeer": {
@@ -1906,7 +1906,7 @@
 		"chinese": "分手",
 		"italian": "Separati",
 		"polish": "Zerwij",
-		"japanese":"別れるために関係を壊す",
+		"japanese":"関係を壊す",
 		"czech": "Rozveď se",
 	},
 	// used when someone wants to interact with this colonist
@@ -1951,7 +1951,7 @@
 		"chinese": "讲冒险笑话给 %name%听",
 		"italian": "Racconta una barzelletta pericolosa a %name%",
 		"polish": "Opowiedz chmski dowcip dla %name%",
-		"japanese":"%name% に、危険なジョークを言う",
+		"japanese":"%name%に危険なジョークを言う",
 		"czech": "Řekni odvážný vtip %name%",
 		
 	},
@@ -2168,7 +2168,7 @@
 		"italian": "Parla con un membro di \"%faction%\"",
 		"turkish": "\"%faction%\" üyesiyle konuş",
 		"polish": "Porozmawiaj z członkiem grupy \"%faction%\"",
-		"japanese":"\"%faction%\"のメンバーと話す",
+		"japanese":"\"%faction%\"の人々と話す",
 		"czech": "Promluv s členem \"%faction%\"",
 	},
 	"HugFaction": {
@@ -2184,7 +2184,7 @@
 		"italian": "Abbraccia un membro di \"%faction%\"",
 		"turkish": "\"%faction%\" üyesine sarıl",
 		"polish": "Uściskaj członkka grupy \"%faction%\"",
-		"japanese":"\"%faction%\"のメンバーとハグをする",
+		"japanese":"\"%faction%\"の人々とハグをする",
 		"czech": "Obejmi člena \"%faction%\"",
 	},
 	"RiskyJokeFaction": {
@@ -2198,7 +2198,7 @@
 		"italian": "Racconta una barzelletta ad un membro di \"%faction%\"",
 		"chinese": "向 \"%faction%\"的成员讲笑话",
 		"polish": "Opowiedz dowcip członkowi grupy: \"%faction%\"",
-		"japanese":"\"%faction%\"のメンバーに冗談を言う",
+		"japanese":"\"%faction%\"の人々へ冗談を言う",
 		"czech": "Řekni vtip členovi \"%faction%\"",
 	},
 
@@ -2228,7 +2228,7 @@
 		"chinese": "有人正在使用",
 		"italian": "Qualcun altro lo sta usando",
 		"polish": "Ktoś tego używa",
-		"japanese":"他の誰かがそれを使用しています",
+		"japanese":"他の誰かが使用しています",
 		"czech": "Toto už užívá někdo jiný.",
 	},
 	"firstNameIsUsingThat": {
@@ -2246,7 +2246,7 @@
 		"chinese": "%firstName%正在使用",
 		"italian": "%firstName% lo sta usando",
 		"polish": "%firstName% tego używa",
-		"japanese":"%firstName%は、それを使用しています",
+		"japanese":"%firstName%が使用しています",
 		"czech": "%firstName% to již využívá",
 	},
 	"goblinIsUsingThat": {
@@ -2264,7 +2264,7 @@
 		"chinese": "哥布林正在使用",
 		"italian": "Un goblin lo sta usando",
 		"polish": "Goblin tego używa",
-		"japanese":"ティキゴブリンは、それを使用しています",
+		"japanese":"ティキゴブリンが使用しています",
 		"czech": "Goblin to již využívá",
 	},
 	"visitorIsUsingThat": { // visitors like migrants or traders
@@ -2282,7 +2282,7 @@
 		"chinese": "访问者正在使用",
 		"italian": "Un visitatore lo sta usando",
 		"polish": "Gość tego używa",
-		"japanese":"訪問者がそれを使用しています",
+		"japanese":"訪問者が使用しています",
 		"czech": "Návštěvník to již využívá",
 	},
 	"cantWalkBrokenLeg": {
@@ -2300,7 +2300,7 @@
 		"chinese": "因为腿断了不能走路",
 		"italian": "Non può camminare a causa della gamba rotta",
 		"polish": "Nie może chodzić z powodu złamanej nogi",
-		"japanese":"足の骨折で歩けません",
+		"japanese":"脚の骨折で歩けません",
 		"czech": "Nemůže chodit, protože má zlomenou nohu",
 	},
 	"cantWorkBrokenArm": {
@@ -2318,7 +2318,7 @@
 		"chinese": "因为手臂骨折不能工作",
 		"italian": "Non può lavorare a causa del braccio rotto",
 		"polish": "Nie może pracować z powodu złamanej ręki",
-		"japanese":"腕が折れたために働けません",
+		"japanese":"腕の骨折で働けません",
 		"czech": "Nemůže pracovat, protože má zlomenou ruku",
 	},
 	"cantInteractIsLockedUp": {
@@ -2351,7 +2351,7 @@
 		"portuguese": "%resource% estoque está cheio",
 		"chinese": "%resource% 库存已满",
 		"italian": "La riserva di %resource% è piena",
-		"japanese":"%resource%の備蓄でいっぱいです。",
+		"japanese":"%resource%の備蓄はいっぱいです。",
 		"czech": "%resource% už nelze uskladnit. Sklad je plný.",
 	},
 	"noProductionOrders": {
@@ -2369,7 +2369,7 @@
 		"chinese": "没有生产任务",
 		"italian": "Nessun ordine di produzione",
 		"polish": "Brak zleconej produkcji",
-		"japanese":"製造注文なし",
+		"japanese":"生産品の注文なし",
 		"czech": "Žádné výrobní plány",
 	},
 	"notSufficientExperience": {
@@ -2387,7 +2387,7 @@
 		"chinese": "%firstName%没有足够的%profession%经验",
 		"italian": "%firstName% non ha abbastanza esperienza come %profession%",
 		"polish": "%firstName% nie ma doświadczenia w profesji: %profession%",
-		"japanese":"%firstName%は%profession%の経験が十分ではありません",
+		"japanese":"%firstName%の%profession%の経験は十分ではありません",
 		"czech": "%firstName% nemá dostatek zkušeností pro %profession%",
 	},
 	"notUsableInSeason": {
@@ -2405,7 +2405,7 @@
 		"chinese": "在%season%季节不能生长",
 		"italian": "Impossibile in %season%",
 		"polish": "Nie można zasadzić w porze roku: %season%",
-		"japanese":"%season%の季節は、成長できません",
+		"japanese":"%season%の季節は育ちません",
 		"czech": "Toto není možné dělat v %season%",
 	},
 	"noTimeBeforeSeasonChanges": {
@@ -2423,7 +2423,7 @@
 		"chinese": "在季节变更之前没有足够的时间生长成熟",
 		"italian": "Non c'è abbastanza tempo prima del cambio di stagione",
 		"polish": "Zbyt mało czasu przed zmianą pory roku",
-		"japanese":" 季節が変わる前に成長して収穫するまでに十分な時間がありません",
+		"japanese":" 季節が変わる前に収穫するまでの時間がありません",
 		"czech": "Nedostatek času před změnou ročního období",
 	},
 	"nextTryIn": {
@@ -2581,7 +2581,7 @@
 		"chinese": "不属于%firstName%",
 		"italian": "Non è di proprietà di %firstName%",
 		"polish": "Nie posiadane przez %firstName%",
-		"japanese":"%firstName%は、所有していません",
+		"japanese":"%firstName%は所有していません",
 		"czech": "Toto už %firstName% nevlastní",
 	},
 	"cantWearClothesBecauseOfBodyShape": { // For example, goblins can't wear clothes with hats because of their head shape
@@ -2613,7 +2613,7 @@
 		"italian": "%firstName% non può farlo in modalità di combattimento",
 		"turkish": "%firstName% bunu savaş modunda yapamaz",
 		"polish": "%firsname% nie może tego zrobić w trybie walki",
-		"japanese":"%firstName%は、戦闘モードではそれを行うことができません",
+		"japanese":"%firstName%は戦闘モードでそれを行う事はできません",
 		"czech": "%firstName% toto nemůže dělat v boji",
 	},
 	"missingSkill": {

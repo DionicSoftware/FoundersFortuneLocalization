@@ -3359,7 +3359,7 @@
 		"romanian": "Depozit de scule",
 		"bulgarian": "Съхранение на инструменти",
 		"czech": "Skřínka na nástroje",
-		"japanese": "道具保管",
+		"japanese": "道具保管庫",
 	},
 	"ClothesStorage": {
 		"english": "Clothes Storage",
@@ -3379,7 +3379,7 @@
 		"romanian": "Depozit de haine",
 		"bulgarian": "Съхранение на дрехи",
 		"czech": "Věšák na oblečení",
-		"japanese": "衣装保管",
+		"japanese": "衣装かけ",
 	},
 	"WeaponStorage": {
 		"english": "Weapon Storage",
@@ -3399,7 +3399,7 @@
 		"romanian": "Depozit de arme",
 		"bulgarian": "Съхранение на оръжия",
 		"czech": "Držák na zbraně",
-		"japanese": "武器保管",
+		"japanese": "武器保管庫",
 	},
 	"ArmorStorage": {
 		"english": "Armor Storage",
@@ -3419,7 +3419,7 @@
 		"romanian": "Depozit de armuri",
 		"bulgarian": "Съхранение на брони",
 		"czech": "Věšák na brnění",
-		"japanese": "防具保管",
+		"japanese": "防具かけ",
 	},
 	"takeOwnershipOfStorageFurniture": {
 		"english": "Take Ownership of equipment storage furniture to assign equipment",
@@ -3439,7 +3439,7 @@
 		"romanian": "Preluați proprietatea asupra mobilierului de depozitare a echipamentului pentru a atribui echipamentul",
 		"bulgarian": "Вземете собственост на мебели за съхранение на оборудване, за да възложите оборудване",
 		"czech": "Přiřaďte vlastnictví kolonistovi, aby bylo možné přičlenit vybavení",
-		"japanese": "コロニストが使用する道具を保管する家具の所有を割り当てます。",
+		"japanese": "所有している各家具に収納されている装備品です。",
 	},
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",
@@ -3798,7 +3798,7 @@
 		"turkish": "Depoda %amount% %resource% için yeteri kadar boş yer yok.",
 		"polish": "Brak miejsca w magazynach na %amount% %resource%.",
 		"czech": "Sklady nemají dostatečnou kapacitu na uskladění %amount% %resource%.",
-		"japanese": "%amount%の%resource%を備蓄するための十分な空きがありません。",
+		"japanese": "%amount%%resource%を備蓄するための十分な空きがありません。",
 	},
 
 
@@ -3820,7 +3820,7 @@
 		"romanian": "Fie nu ați produs încă niciun echipament,\nsau toate echipamentele dvs. sunt în prezent utilizate de coloniști.",
 		"bulgarian": "Или все още не сте произвели никакво оборудване \n цялото ви оборудване в момента се използва от вашите колонисти.",
 		"czech": "Buď jste zatím nevytvořili žádné vybavení \nnebo je všechno vybavení již používáno vašimi kolonisty.",
-		"japanese": "生産された装備はありません。または全ての装備は家具に収納されています。",
+		"japanese": "製作された装備はありません。または全ての装備は家具に収納されています。",
 	},
 	"sellPrice": {
 		"english": "Selling Price",

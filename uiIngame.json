@@ -3219,7 +3219,7 @@
 		"polish": "Niestety, %firstName% jest głup%iA% i nie zdobędzie doświadczenia z żadnej pracy.",
 		"bulgarian": "За съжаление, %firstName% е тъп и няма да натрупа опит в никоя работа.",
 	    	"czech": "Naneštěstí %firstName% je hloup%yA%, takže nezíská žádné zkušenosti.",
-		"japanese": "残念ながら、%firstName%はお馬鹿のため経験を生かす事ができません。",   
+		"japanese": "残念ながら%firstName%はお馬鹿のため経験を得る事ができません。",   
 	},
 	"importantPossessions": {
 		"english": "Important Possessions",
@@ -3541,7 +3541,7 @@
 		"bulgarian": "Търговия с '%faction%'",
 		"polish": "Handel z '%faction%'",
 		"czech": "Obchodovat s '%faction%'",
-		"japanese": "'%faction%'で取引",
+		"japanese": "'%faction%'貿易取引",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
@@ -3561,7 +3561,7 @@
 		"romanian": "Colonia vinde negustorului",
 		"bulgarian": "Колонията продава на търговеца",
 		"czech": "Kolonie prodává obchodníkovi",
-		"japanese": "商人に売却",
+		"japanese": "売却",
 	},
 	"colonyIsBuying": {
 		"english": "Colony is Buying from the Trader",
@@ -3581,7 +3581,7 @@
 		"romanian": "Colonia cumpără de la negustor",
 		"bulgarian": "Колонията купува от търговеца",
 		"czech": "Kolonie nakupuje od obchodníka",
-		"japanese": "商人から購入",
+		"japanese": "購入",
 	},
 	"amountStorage": { // amount means how much is being traded and in store is the maximum amount the colony or the trader has in store
 		"english": "Amount / In Store",
@@ -3681,7 +3681,7 @@
 		"romanian": "Confirmă schimbul",
 		"bulgarian": "Потвърдете търговията",
 		"czech": "Potvrdit transakci",
-		"japanese": "取引の決定",
+		"japanese": "貿易取引の決定",
 	},
 	"sellItemsOfValue": {
 		"english": "Selling items with a value of %coins% coins",
@@ -3701,7 +3701,7 @@
 		"romanian": "Vânzarea obiectelor cu o valoare de %coins% monede",
 		"bulgarian": "Продажба на предмети със стойност %coins% монети",
 		"czech": "Prodej předmětů v ceně %coins% mincí",
-		"japanese": "%coins%コインで売却",
+		"japanese": "受取り:%coins%コイン",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -3721,7 +3721,7 @@
 		"romanian": "Cumpărarea obiectelor cu o valoare de %coins% monede",
 		"bulgarian": "Купуване на предмети със стойност %coins% монети",
 		"czech": "Nákup předmětů v hodnotě %coins% mincí",
-		"japanese": "%coins%コインで購入",
+		"japanese": "支払い:%coins%コイン",
 	},
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",
@@ -3741,7 +3741,7 @@
 		"romanian": "Colonia câștigă %coins% monede din această tranzacție.",
 		"bulgarian": "Колонията печели %coins% монети от тази сделка.",
 		"czech": "Kolonie získá z této transakce %coins% mincí.",
-		"japanese": "この取引により%coins%コインの受け取り",
+		"japanese": "受取り:%coins%コイン",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
@@ -3761,7 +3761,7 @@
 		"romanian": "Colonia plătește %coins% monede pentru această tranzacție.",
 		"bulgarian": "Колонията плаща %coins% монети за тази сделка.",
 		"czech": "Kolonie zaplatí v rámci této transakce %coins% mincí.",
-		"japanese": "この取引により%coins%コインの支払い",
+		"japanese": "支払い:%coins%コイン",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",

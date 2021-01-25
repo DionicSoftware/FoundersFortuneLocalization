@@ -250,7 +250,7 @@
 		"chinese": "绝望",
 		"italian": "Disperazione",
 		"polish": "Desperacja",
-		"japanese": "絶望",
+		"japanese": "憂鬱",
 		"czech": "Zoufalství",
 	},
 	"notificationTitle_ColonistBadMood": {
@@ -267,7 +267,7 @@
 		"korean": "우울",
 		"chinese": "低落",
 		"italian": "Morale basso",
-		"japanese": "憂鬱",
+		"japanese": "絶望",
 		"czech": "Sklíčenost",
 	},
 	"notificationTitle_Fight": { // when a colonist or colony construction or furniture is attacked
@@ -1300,7 +1300,7 @@
 		"korean": "정착지 근처에서 티키고블린이 목격되었습니다. 그들을 빠르게 움직이고 있지만, 평화를 위해 오는 것 같진 않습니다. 주거지를 방어할 수 있도록 개척자들을 무장시키세요!",
 		"chinese": "我们营地附近目击到了土著哥布林。他们行动快速，来者不善。殖民者武装起来，再次保卫他们的家园!",
 		"italian": "I Tikigoblin sono stati avvistati nei pressi del nostro insediamento. Sono veloci e non sembrano venire in pace. Arma i coloni, in modo che possano difendere le loro case!",
-		"japanese": "ティキゴブリンは私たちのコロニーの近くで目撃されました。彼らは平和的に接触しようと訪問する者ですら拒みます。コロニストを武装させ、彼らからコロニーを守らなければなりません。",
+		"japanese": "ティキゴブリンがコロニーの近くで目撃されました。彼らは平和的に接触しようと訪問する者ですら拒みます。コロニストを武装させ、彼らからコロニーを守らなければなりません。",
 		"czech": "Tikigoblini byli spatřeni poblíž naší osady. Jsou rychlí a nezdá se, že by přicházeli v míru. Vyzbrojte kolonisty, aby mohli znovu bránit svůj domov!",
 		
 	},
@@ -1336,7 +1336,7 @@
 		"korean": "어떤 이주자가 우리의 불꽃 신호를 보았고, 막 작은 배를 타고 이곳에 도달했습니다. 개척자를 보내 그들을 받아들이세요!",
 		"chinese": "一些移民看到了我们的火营信号，刚刚一艘小船登陆了。派一名殖民者去接应他们!",
 		"italian": "Alcuni migranti hanno visto il nostro segnale di fumo e sono appena arrivati su una piccola barca. Manda un colono ad accoglierli!",
-		"japanese": "数人のコロニストが篝火を頼りに小さな船で到着しました。彼らを受け入れるためにコロニストを向かわせてください",
+		"japanese": "新たなコロニストが篝火を頼りに船で到着しました。彼らを受け入れるのであればコロニストを向かわせてください",
 		"czech": "Několik migrantů spatřilo náš signální oheň a právě dorazilo na malé loďce. Pošlete tam kolonistu, aby je přijal!",
 	},
 	"messageTitle_TraderArrived": {
@@ -1371,7 +1371,7 @@
 		"chinese": "一位商人刚刚在海岸登陆。派一名殖民者去商讨价钱！",
 		"italian": "Un mercante è appena approdato sulla costa. Manda un colono per barattare un buon affare!",
 		"polish": "Statek handlarza właśnie dobił do brzegu. Wyślij tam kolonistę, jeśli chcesz pohandlować!",
-		"japanese": "商人が海岸に到着しました。コロニストを向かわせて貿易取引を行ってください",
+		"japanese": "商人が海岸に到着しました。コロニストを向かわせれば貿易取引を行う事ができます。",
 		"czech": "Obchodník právě připlul k našemu pobřeží. Pošlete tam kolonistu, aby se spolu sešli a případně uzavřeli nějaký obchod!",
 	},
 	"messageTitle_TraderRaid": {
@@ -1403,7 +1403,7 @@
 		"turkish": "Genellikle, Lonca barış içinde ticaret yapmayı tercih eder. Yerleşimciler onları bu kadar sinirlendirmek için ne yaptı?",
 		"italian": "Di solito la gilda preferisce commerciare in pace. Cosa hanno fatto i coloni per farli arrabbiare così tanto?",
 		"polish": "Handlarze zazwyczaj mają do wszystkich neutralne lub nawet pokojowe stosunki. Co takiego zrobiłeś, że tak się wkurzyli?",
-		"japanese": "平和に貿易取引をする事をいつも考えていますが、何故商人を怒らせる様な事をしたのですか？",
+		"japanese": "商人は平和に貿易取引をする事をいつも考えて暴力を好みません。ですか、何故そういう人たちを怒らせる様な事をしたのですか？",
 		"czech": "Cech obvykle raději obchoduje v míru. Co naši kolonisté způsobili, že je to tak naštvalo?",
 	},
 	"messageTitle_PirateRaid": {
@@ -1433,7 +1433,7 @@
 		"korean": "사나운 선원들이 무기를 뽑아든 채 배에서 뛰어내립니다. 그들의 얼굴에서 손쉬운 약탈에 대한 높은 기대와 탐욕을 읽을 수 있습니다.",
 		"polish": "Banda piratów wyskakuje zza burty z bronią w ręku! Pilnuj się, na ich twarzy widać rządzę łatwej zdobyczy.",
 		"chinese": "野蛮海盗从船上抽出的武器后跳下船。从他们贪婪的面孔中，您可以看到被抢劫的场景。",
-		"japanese": "海賊が上陸しました。野蛮で貪欲な態度の彼らは略奪がまるで自分の正当な権利だと言わんばかりの態度です。",
+		"japanese": "海賊が上陸しました。野蛮で貪欲な態度の彼らは略奪が当然の権利であり迷惑な行為とは思っていません。",
 		"czech": "Divoká posádka skáče s vytasenou zbraní z lodě. V jejich chamtivých tvářích můžete vidět velké naděje na snadnou kořist.",
 		
 	},
@@ -1469,7 +1469,7 @@
 		"korean": "이 개척자는 최근 끔찍한 기분 속에서 살아왔으며 더 이상은 견디지 못했습니다. %heShe%는 미쳐버렸고, 친구과 적을 구분하지 않고 아무에게나 주먹을 휘두르고 있습니다.",
 		"chinese": "该殖民者一直都很可怕，终于不在忍让了。%heShe%现在发疯地随意殴打他人，朋友或者敌人。",
 		"italian": "Un colono si sentiva uno schifo da un po' di tempo e non ne poteva più. Adesso è impazzito e sta attaccando persone a caso, amiche o nemiche.",
-		"japanese": "%firstName%は恐ろしさに耐え続ける事ができず狂ってしまい、無差別に攻撃し続けています。",
+		"japanese": "%firstName%は恐ろしさに耐え続ける事ができず狂ってしまい無差別に攻撃し続けます。",
 		"czech": "Kolonista se už nějakou dobu cítil hrozně a už to nedokázal vydržet. nyní se zblázni%lA% a mlátí náhodné lidi...přátelé nebo nepřátelé.",
 	},
 	"messageTitle_BreakdownRefusingWork": {
@@ -1505,7 +1505,7 @@
 		"chinese": "该殖民者辛勤劳作太久了。%heShe%现在什么也不管了，%heShe%只想去休息一段时间。",
 		"italian": "Un colono ha lavorato per troppo tempo in condizioni terribili, per cui ha semplicemente deciso che non gli importa più di nulla e che si rilasserà per un po'.",
 		"polish": "Jeden z kolonistów pracował ponad swoje siły od dłuższego czasu. Postanowił, że od tej chwili więcej czasu poświęci na relaks.",
-		"japanese": "%firstName%は酷い状況下で働きすぎました。そのため全てを放棄して、しばらくは何もせず過ごすつもりです。",
+		"japanese": "%firstName%は酷い状況下で働きすぎました。そのため全てを放棄してしばらくは何もせず過ごすつもりです。",
 		"czech": "Kolonista za strašných podmínek pracoval příliš dlouho. Rozhod%lA% se o nic se nestarat a na chvíli si odpočine.",
 	},
 	"messageTitle_BreakdownDestroyFurniture": {
@@ -1629,7 +1629,7 @@
 		"korean": "음식과 허기",
 		"chinese": "饥肠辘辘",
 		"italian": "Cibo e fame",
-		"japanese": "飢え",
+		"japanese": "食事と空腹",
 		"czech": "Jídlo a Hlad",
 	},
 	"messageText_TutorialFood": {
@@ -1646,7 +1646,7 @@
 		"korean": "개척자가 배고파합니다! 그들이 음식을 가져갈 수 있는 무언가를 만드세요. 예를 들면, 음식 바구니 같은거요.",
 		"chinese": "你的殖民者很饿！你需要建造提供食物的东西，例如食物篮子。",
 		"italian": "I tuoi coloni hanno fame! Devi costruire qualcosa da cui possano raccogliere il loro cibo, come ad esempio un cesto di cibo.",
-		"japanese": "コロニストはお腹が空いています。食事ができる様に食材用かご等を設置してください。",
+		"japanese": "コロニストが空腹になった場合は自動的に食事をしますが、食材用かごか料理の棚が設置されてないと食べ物を手に取る事ができません。",
 		"czech": "Vaši kolonisté mají hlad! Musíte postavit něco, z čeho si mohou vzít jídlo, například Koš na jídlo.",
 	},
 	"messageTitle_TutorialHealing": {
@@ -1663,7 +1663,7 @@
 		"korean": "회복",
 		"chinese": "恢复",
 		"italian": "Guarigione",
-		"japanese": "回復",
+		"japanese": "健康の回復",
 		"czech": "Léčení",
 	},
 	"messageText_TutorialHealing": {
@@ -1680,7 +1680,7 @@
 		"korean": "개척자가 부상을 입었습니다! 몸을 쉬게 하고 충분한 잠을 잘 수 있도록 해 주세요. 숙련된 의사는 고도의 약품을 만들어낼 수 있습니다.",
 		"chinese": "殖民者受伤了！确保他们有足够的睡眠来恢复身体。经验丰富的医生可以在药水工坊制造更高级的治疗方法。",
 		"italian": "Un colono è ferito! Assicurati che dorma abbastanza per far riposare il suo corpo. Un medico esperto può creare dei rimedi più avanzati presso il laboratorio di pozioni.",
-		"japanese": "コロニストが負傷しました。健康回復のために十分な睡眠が取れる様にしてください。医師は回復薬調合作業台で健康が回復できる回復薬を作成できます。",
+		"japanese": "コロニストが負傷すると健康が減る場合があります。その場合は睡眠が取り健康を回復してください。すぐに回復させたい場合は回復薬を使用します。回復薬は回復薬調合作業台で調合できます。",
 		"czech": "Kolonista je zraněn! Zajistěte mu dostatek spánku a odpočinku. Zkušený lékař může v laboratoři lektvarů vytvořit pokročilejší léky.",
 	},
 	"messageTitle_TutorialScience": {
@@ -1867,7 +1867,7 @@
 		"korean": "개척자와 사물 선택",
 		"chinese": "选择殖民者或物体",
 		"italian": "Selezionare coloni e oggetti",
-		"japanese": "コロニストまたはオブジェクトの選択",
+		"japanese": "コロニストまたはオブジェクトの確認",
 		"czech": "Výběr kolonistů a Objektů",
 	},
 	"messageText_TutorialLeftClickSelect": {
@@ -1884,7 +1884,7 @@
 		"korean": "사물이나 개척자를 마우스 왼쪽 버튼으로 클릭하면 선택할 수 있습니다. 선택한 개척자나 물건의 상태를 보거나 명령을 내릴 수 있습니다.",
 		"chinese": "单击鼠标左键选择殖民者或物体。这样你就可以看到他们的状态并发出指令。",
 		"italian": "Clicca su un colono o su un oggetto con il tasto sinistro del mouse per selezionarlo. In questo modo potrai vedere il loro stato e impartire dei comandi.",
-		"japanese": "コロニストまたはオブジェクトの選択はマウスの左ボタンクリックで行い、ステータスパネルを確認できます。",
+		"japanese": "コロニストまたはオブジェクトのステータスの詳細はマウスの左ボタンクリックで確認できます。",
 		"czech": "Klikněte levým tlačítkem myši na kolonistu nebo objekt a vyberte je. Tímto způsobem můžete vidět jejich stav a vydávat různé příkazy.",
 	},
 	"messageTitle_TutorialRightClickCommand": {
@@ -1901,7 +1901,7 @@
 		"korean": "작업 할당",
 		"chinese": "分配任务",
 		"italian": "Assegnare degli incarichi",
-		"japanese": "タスクの割り当て",
+		"japanese": "作業の割り当て",
 		"czech": "Zadávání úkolů",
 	},
 	"messageText_TutorialRightClickCommand": {
@@ -1918,7 +1918,7 @@
 		"korean": "개척자를 선택한 뒤에, 사물을 우클릭하면 개척자에게 작업을 할당할 수 있습니다.",
 		"chinese": "选择殖民者后，单击鼠标右键某物体以分配任务。",
 		"italian": "Dopo aver selezionato un colono, usa il tasto destro del mouse per cliccare sugli oggetti ed assegnare degli incarichi.",
-		"japanese": "コロニストを選択したら、マウスの右ボタンを使用してオブジェクトをクリックし、タスクを割り当てます。",
+		"japanese": "コロニストを選択し対象物へマウスの右ボタンクリックをする事で作業を割り当てます。",
 		"czech": "Poté, co vyberete kolonistu, klikněte pravým tlačítkem myši na objekty a přiřaďte úkoly.",
 	},
 	"messageTitle_TutorialHelpMenu": {
@@ -1968,7 +1968,7 @@
 		"korean": "장비를 사용하는 방법",
 		"chinese": "如何使用装备",
 		"italian": "Come usare l'equipaggiamento",
-		"japanese": "装備の使い方",
+		"japanese": "装備の仕方",
 		"czech": "Jak používat Vybavení",
 	},
 	"messageText_TutorialEquipment": {
@@ -1984,7 +1984,7 @@
 		"korean": "장비를 보관할 수 있는 가구를 하나 만드세요. 그리고 가구를 선택해 어떤 장비를 보관할 지 정해주세요. 한 개척자에게 소유권을 주면, 그 사람이 자동으로 장비를 착용할 수 있게 됩니다.",
 		"chinese": "建造可以存放装备的家具，并设置能存放哪些类型的装备。设置殖民者拥有权，以便他能自动装备。",
 		"italian": "Costruisci un mobile in grado di conservare l'equipaggiamento e selezionalo per scegliere cosa inserire all'interno. Lascia che un colono ne prenda la proprietà, in modo da possa equipaggiare automaticamente ciò che vi è all'interno.",
-		"japanese": "装備を収納できる家具を作り、それを選択してどの装備を入れるかを選択します。コロニストに所有権を与えることで自動的に装備が出来るようになります。",
+		"japanese": "装備を収納できる家具が必要です。コロニストを選択してその家具を右クリックする事で装備の脱着を決定できます。コロニストに所有権を与える事で自動的に装備ができる様になります。",
 		"czech": "Postavte kus nábytku, do kterého lze uložit vybavení. Klikněte na něj, abyste vybrali, které vybavení do něj umístíte. Nechte kolonistu převzít jeho vlastnictví, aby jej mohl vybavit vybavením automaticky.",
 	},
 	"messageTitle_TutorialMovingFurniture": {
@@ -2000,7 +2000,7 @@
 		"korean": "물건이나 가구를 옮기는 방법",
 		"chinese": "如何移动家具和其他物体",
 		"italian": "Come spostare i mobili e gli altri oggetti",
-		"japanese": "設置されたオブジェクトの移動方法",
+		"japanese": "設置された家具等の移動方法",
 		"czech": "Jak přesouvat nábytek a jiné předměty",
 	},
 	"messageText_TutorialMovingFurniture": {
@@ -2016,7 +2016,7 @@
 		"korean": "마우스를 사용해 물건을 다른 장소로 드래그하세요. 드래그 도중에 우클릭을 하면 사물을 지워버립니다.",
 		"chinese": "鼠标拖动将物体放置到新的地点。右键点击删除该物体。",
 		"italian": "Trascina l'oggetto con il mouse nella sua nuova posizione. Fai clic con il tasto destro mentre lo stai trascinando per eliminare l'oggetto.",
-		"japanese": "移動させたいオブジェクトをドラッグして移動させたい場所を指定します。ドラッグ中に右クリックする事で移動の取り消しができます。",
+		"japanese": "設置された家具等を移動したい場合はドラッグする事で移動させる事ができます。ドラッグ中に右クリックする事で移動の取り消しができます。",
 		"czech": "Přetáhněte objekt myší do nového umístění. Kliknutím pravým tlačítkem během přetahování odstraníte objekt.",
 	},
 	"messageTitle_TechUnlocked": {
@@ -2116,7 +2116,7 @@
 		"korean": "초보자의 실수입니다. 물론 경험있는 의사도 저지를 수 있는 실수죠: 누군가 %firstName%의 다리를 치료하려고 부목을 대다 망쳐버렸습니다. 더이상 다친 건 아니지만, %heShe%는 이제부터 평생 다리를 절뚝거리며 걷게 되었습니다. 전처럼 빠르게 걷지는 못하겠네요.",
 		"chinese": "初学者常犯的错误，但也可能发生在经验丰富的医生身上：有人用夹板来治疗%firstName%的断腿失败了。虽然不骨折了，但%heShe%将永久瘸腿，并且不能像以前那样快速地走路。",
 		"italian": "È un errore da principianti, ma può accadere anche ai medici esperti: qualcuno ha incasinato le stecche per curare la gamba di %firstName%. Non è più rotta, ma adesso zoppicherà in modo permanente e non può più camminare veloce come faceva un tempo.",
-		"japanese": "%firstName%の骨折に間違った添え木の治療が施されました。そのため治療はうまくいかず未だに足を引きずったまま普通に歩く事が出来ません。",
+		"japanese": "%firstName%の骨折に間違った添え木の治療が施されました。そのため治療はうまくいかず未だに足を引きずったまま普通に歩く事ができません。",
 		"czech": "Je to chyba začátečníka, ale může se to stát i zkušeným lékařům: Někdo zpackal aplikaci dlahy, když léčil %firstName% se zlomenou nohou. Už tu nohu nemá zlomenou, ale teď bude pro změnu permanentně kulhat.",
 	},
 	"messageTitle_SupportDevelopment": {

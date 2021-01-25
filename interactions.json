@@ -371,7 +371,7 @@
 		"chinese": "战斗",
 		"italian": "Lotta",
 		"polish": "Walcz",
-		"japanese":"戦い",
+		"japanese":"戦う",
 		"czech": "Bojuj",
 	},
 	"Kill": {
@@ -407,7 +407,7 @@
 		"chinese": "使用治疗药水",
 		"italian": "Prendi pozione curativa",
 		"polish": "Weź miksturę leczniczą",
-		"japanese":"回復薬を使用",
+		"japanese":"回復薬を使用する",
 		"czech": "Vypij léčivý lektvar",
 	},
 	"DrinkElixirOfYouth": {
@@ -633,7 +633,7 @@
 		"chinese": "坐",
 		"italian": "Siediti",
 		"polish": "Usiądź",
-		"japanese":"座る",
+		"japanese":"ここに座る",
 		"czech": "Sedni si",
 	},
 	"SitOnChair": {
@@ -687,7 +687,7 @@
 		"chinese": "接收移民",
 		"italian": "Accetta migranti",
 		"polish": "Przyjmij migrantów",
-		"japanese":"新しいコロニストを受け入れる",
+		"japanese":"仲間に誘う",
 		"czech": "Přijmi migranty",
 	},
 	"RejectMigrants": {
@@ -705,7 +705,7 @@
 		"chinese": "拒绝移民",
 		"italian": "Respingi migranti",
 		"polish": "Odeślij migrantów",
-		"japanese":"新しいコロニストを断る",
+		"japanese":"仲間を断る",
 		"czech": "Odmítni migranty",
 	},
 	"LeaveIsland": {
@@ -1083,7 +1083,7 @@
 		"chinese": "安排生产任务",
 		"italian": "Dai ordini di produzione",
 		"polish": "Zleć produkcję",
-		"japanese":"生産品を決める",
+		"japanese":"生産品の決定",
 		"czech": "Zadej výrobní plán",
 	},
 	"FillWateringCan": {
@@ -1101,7 +1101,7 @@
 		"chinese": "灌满水壶",
 		"italian": "Riempi innaffiatoio",
 		"polish": "Napełnij konewkę",
-		"japanese":"じょうろに水を汲む",
+		"japanese":"じょうろに給水",
 		"czech": "Naplň konvici na zalévání",
 	},
 	"interaction_gatherFood": {
@@ -1191,7 +1191,7 @@
 		"chinese": "收集%resource%",
 		"italian": "Raccogli %resource%",
 		"polish": "Zbierz: %resource%",
-		"japanese":"%resource%を集める",
+		"japanese":"%resource%を採集",
 		"czech": "Shromaždi %resource%",
 	},
 	"BecomeAProfession": {
@@ -1439,7 +1439,7 @@
 		"chinese": "交流",
 		"italian": "Parla",
 		"polish": "Rozmawiaj",
-		"japanese":"交流する",
+		"japanese":"会話をする",
 		"czech": "Mluv",
 	},
 	"TalkAboutFood": {
@@ -1453,7 +1453,7 @@
 		"chinese": "讨论食物",
 		"italian": "Parla di cibo",
 		"polish": "Rozmawiaj o jedzeniu",
-		"japanese":"食べ物について話す",
+		"japanese":"食べ物の会話をする",
 		"czech": "Mluv o jídle",
 	},
 	"TalkTo": {
@@ -1615,7 +1615,7 @@
 		"chinese": "锁上",
 		"italian": "Rinchiudi",
 		"polish": "Zamknij",
-		"japanese":"閉じ込める",
+		"japanese":"拉致する",
 		"czech": "Zamkni",
 	},
 	"FreeColonist": {
@@ -1633,7 +1633,7 @@
 		"chinese": "自由移民",
 		"italian": "Libera colono",
 		"polish": "Uwolnij",
-		"japanese":"コロニストを解放する",
+		"japanese":"解放する",
 		"czech": "Osvoboď kolonistu",
 	},
 	"FreeColonistFirstName": {
@@ -1850,7 +1850,7 @@
 		"chinese": "道歉",
 		"italian": "Scusati",
 		"polish": "Przeproś",
-		"japanese":"謝罪をする",
+		"japanese":"謝罪する",
 		"czech": "Omluv se",
 	},
 	"MagicSmile": { // only used for debugging
@@ -1937,7 +1937,7 @@
 		"chinese": "冒险笑话",
 		"italian": "Barzelletta pericolosa",
 		"polish": "Chamski dowcip",
-		"japanese":"危険なジョークを言う",
+		"japanese":"冗談を言う",
 		"czech": "Odvážně zavtipkuj",
 	},
 	"TellRiskyJokeTo": {
@@ -1951,7 +1951,7 @@
 		"chinese": "讲冒险笑话给 %name%听",
 		"italian": "Racconta una barzelletta pericolosa a %name%",
 		"polish": "Opowiedz chmski dowcip dla %name%",
-		"japanese":"%name%に危険なジョークを言う",
+		"japanese":"%name%に冗談を言う",
 		"czech": "Řekni odvážný vtip %name%",
 		
 	},
@@ -2597,7 +2597,7 @@
 		"italian": "Non può indossare questo tipo di vestiti",
 		"turkish": "Bu tipte kıyafet giyemez.",
 		"polish": "Nie można tego ubrać",
-		"japanese":"このタイプの服は着られません",
+		"japanese":"この衣装は着る事ができません",
 		"czech": "Nemůže nosit tento typ oblečení",
 	},
 	"cantInteractInCombatMode": {

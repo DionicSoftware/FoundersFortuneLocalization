@@ -1688,7 +1688,7 @@
 		"chinese": "跳舞",
 		"italian": "Balla",
 		"polish": "Tańcz",
-		"japanese":"ダンス",
+		"japanese":"踊る",
 		"czech": "Tancuj",
 	},
 	"Enjoy": {
@@ -1742,7 +1742,7 @@
 		"chinese": "击鼓",
 		"italian": "Suona",
 		"polish": "Werbluj",
-		"japanese":"ドラム",
+		"japanese":"太鼓を叩く",
 		"czech": "Bubnuj",
 	},
 	"Hug": {
@@ -2369,7 +2369,7 @@
 		"chinese": "没有生产任务",
 		"italian": "Nessun ordine di produzione",
 		"polish": "Brak zleconej produkcji",
-		"japanese":"生産品の注文なし",
+		"japanese":"生産品の注文がありません",
 		"czech": "Žádné výrobní plány",
 	},
 	"notSufficientExperience": {
@@ -2405,7 +2405,7 @@
 		"chinese": "在%season%季节不能生长",
 		"italian": "Impossibile in %season%",
 		"polish": "Nie można zasadzić w porze roku: %season%",
-		"japanese":"%season%の季節は育ちません",
+		"japanese":"%season%はこの作物の季節ではありません",
 		"czech": "Toto není možné dělat v %season%",
 	},
 	"noTimeBeforeSeasonChanges": {
@@ -2441,7 +2441,7 @@
 		"chinese": "尝试下一个",
 		"italian": "Prossimo tentativo in",
 		"polish": "Następnie spróbuj",
-		"japanese":"次は",
+		"japanese":"まだ実行できません",
 		"czech": "Zkus další",
 	},
 	"nextInteractionIn": {
@@ -2455,7 +2455,7 @@
 		"italian": "Prossima interazione tra %time%",
 		"chinese": "下次互动在 %time%",
 		"polish": "Następna interakcja za %time%",
-		"japanese":"次の交流まで%time%",
+		"japanese":"次の交流まで%time%です",
 		"czech": "Další činnost za %time%",
 	},
 	"forbiddenBecauseHasTrait": {
@@ -2491,7 +2491,7 @@
 		"chinese": "缺少特性：%trait%",
 		"italian": "Tratto mancante: %trait%",
 		"polish": "Brakująca cecha: %trait%",
-		"japanese":"欠けてる個性:%trait%",
+		"japanese":"個性を持っていません:%trait%",
 		"czech": "Nemá schopnost: %trait%",
 	},
 	"cantGetResourceNearby": {
@@ -2509,7 +2509,7 @@
 		"chinese": "无法获取附近的%resource%",
 		"italian": "Non può ottenere %resource% nelle vicinanze",
 		"polish": "Brakuje w pobliżu: %resource%",
-		"japanese":"近くの%resource%を取得できません",
+		"japanese":"近くに%resource%がありません",
 		"czech": "%resource% již není k nalezení",
 	},
 	"missingEquipmentEffect_WateringPlants": {
@@ -2563,7 +2563,7 @@
 		"chinese": "当前研究不需要分析%resource%",
 		"italian": "Non ha bisogno di analizzare %resource% per la ricerca attuale",
 		"polish": "Nie potrzeba: %resource% do aktualnych badań",
-		"japanese":"現在の研究のために%resource%を解析する必要はありません",
+		"japanese":"研究に必要な%resource%は解析済みです",
 		"czech": "Není už potřeba zkoumat %resource% pro tento výzkum",
 	},
 	"notOwnedBy": {
@@ -2613,7 +2613,7 @@
 		"italian": "%firstName% non può farlo in modalità di combattimento",
 		"turkish": "%firstName% bunu savaş modunda yapamaz",
 		"polish": "%firsname% nie może tego zrobić w trybie walki",
-		"japanese":"%firstName%は戦闘モードでそれを行う事はできません",
+		"japanese":"%firstName%は戦闘モードのため実行できません",
 		"czech": "%firstName% toto nemůže dělat v boji",
 	},
 	"missingSkill": {
@@ -2627,7 +2627,7 @@
 		"italian": "Abilità mancante: %skill%",
 		"chinese": "缺失技能：%skill%",
 		"polish": "Brakująca umiejętność: %skill%",
-		"japanese":"不足しているスキル:%skill%",
+		"japanese":"スキルを持っていません:%skill%",
 		"czech": "Chybí schopnost: %skill%",
 	}
 	

@@ -1906,7 +1906,7 @@
 		"chinese": "分手",
 		"italian": "Separati",
 		"polish": "Zerwij",
-		"japanese":"関係を壊す",
+		"japanese":"別れる",
 		"czech": "Rozveď se",
 	},
 	// used when someone wants to interact with this colonist
@@ -1966,7 +1966,7 @@
 		"chinese": "印象深刻",
 		"italian": "Impressiona",
 		"polish": "Zaimponuj",
-		"japanese":"印象づける",
+		"japanese":"誘惑する",
 		"czech": "Zapůsob",
 		
 	},
@@ -1981,7 +1981,7 @@
 		"chinese": "对 %name%印象深刻",
 		"italian": "Impressiona %name%",
 		"polish": "Zaimponuj dla %name%",
-		"japanese":"%name%へ印象づける",
+		"japanese":"%name%を誘惑する",
 		"czech": "Zapůsob na %name%",
 	},
 	"BuildSnowman": {
@@ -2369,7 +2369,7 @@
 		"chinese": "没有生产任务",
 		"italian": "Nessun ordine di produzione",
 		"polish": "Brak zleconej produkcji",
-		"japanese":"生産品の注文がありません",
+		"japanese":"生産品が設定されていません",
 		"czech": "Žádné výrobní plány",
 	},
 	"notSufficientExperience": {
@@ -2405,7 +2405,7 @@
 		"chinese": "在%season%季节不能生长",
 		"italian": "Impossibile in %season%",
 		"polish": "Nie można zasadzić w porze roku: %season%",
-		"japanese":"%season%はこの作物の季節ではありません",
+		"japanese":"この作物は%season%の季節では育ちません",
 		"czech": "Toto není možné dělat v %season%",
 	},
 	"noTimeBeforeSeasonChanges": {

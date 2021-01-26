@@ -17,7 +17,7 @@
 		"chinese": "资源不足!",
 		"italian": "Non hai abbastanza risorse!",
 		"polish": "Brakuje surowców!",
-		"japanese": "資源が不足しています",
+		"japanese": "資材が不足しています",
 		"czech": "Nedostatek zdrojů!",
 	},
 	"cantBuildThisCloseToWater": {
@@ -267,7 +267,7 @@
 		"korean": "우울",
 		"chinese": "低落",
 		"italian": "Morale basso",
-		"japanese": "%firstName%は憂鬱になっています",
+		"japanese": "%firstName%は憂鬱になりました",
 		"czech": "Sklíčenost",
 	},
 	"notificationTitle_Fight": { // when a colonist or colony construction or furniture is attacked
@@ -285,7 +285,7 @@
 		"chinese": "战斗",
 		"italian": "Combattimento",
 		"polish": "Jesteś atakowany!",
-		"japanese": "戦い",
+		"japanese": "戦いが始まりました",
 		"czech": "Jste pod útokem!",
 	},
 	// TODO-bulgarian: firstName
@@ -453,7 +453,7 @@
 		"chinese": "疾病",
 		"italian": "Malattia",
 		"polish": "Kolonista choruje",
-		"japanese": "病気",
+		"japanese": "%firstName%は病気になりました",
 		"czech": "Nemoc",
 	},
 	"notificationTitle_ColonistJoined": {
@@ -580,7 +580,7 @@
 		"chinese": "虫灾结束了",
 		"italian": "Infestazione di insetti terminata",
 		"polish": "Plaga opanowana",
-		"japanese": "害虫除去の完了",
+		"japanese": "害虫を除去しました",
 		"czech": "Zamoření brouky skončilo",
 		
 	},
@@ -618,7 +618,7 @@
 		"chinese": "需要满足期望",
 		"italian": "Devi soddisfare le aspettative",
 		"polish": "Trzeba spełnić oczekiwania kolonistów",
-		"japanese": "整えられたコロニストの住環境が必要です",
+		"japanese": "整えられた住環境が必要です",
 		"czech": "Je třeba plnit očekávání či přání kolonistů",
 	},
 	"notificationTitle_NeedBookstand": {
@@ -690,7 +690,7 @@
 		"chinese": "在书架上分析水晶",
 		"italian": "Devi analizzare i cristalli sul leggio",
 		"polish": "Zbadaj kryształy na stanowisku do badań",
-		"japanese": "クリスタル解析台でクリスタルを解析する",
+		"japanese": "クリスタル解析台でクリスタルを解析します",
 		"czech": "Zkoumejte krystaly na Stojanu s výzkumnou knihou",
 	},
 	//	"notificationTitle_MissingPossessions": {
@@ -719,7 +719,7 @@
 		"chinese": "%firstName%伤到了%hisHer%的腿",
 		"italian": "%firstName% si è %FeritoFerita% alla gamba",
 		"polish": "%firstName% zranił%nicA% się w nogę",
-		"japanese": "%firstName%は脚に痛みがあります",
+		"japanese": "%firstName%は脚を負傷しました",
 		"czech": "%firstName% si zrani%lA% svou nohu",
 	},
 	"notificationTitle_LegBroken": {
@@ -736,7 +736,7 @@
 		"chinese": "%firstName%的腿骨折了",
 		"italian": "%firstName% si è %RottoRotta% la gamba",
 		"polish": "%firstName% złamał%nicA% nogę",
-		"japanese": "%firstName%は脚を損傷しました",
+		"japanese": "%firstName%は脚を骨折しました",
 		"czech": "%firstName% si zlomi%lA% svou nohu",
 	},
 	"notificationTitle_ArmHurt": {
@@ -753,7 +753,7 @@
 		"chinese": "%firstName%伤到了%hisHer%的手臂",
 		"italian": "%firstName% si è %FeritoFerita% al braccio",
 		"polish": "%firstName% zranił%nicA% się w rękę",
-		"japanese": "%firstName%は腕に痛みがあります",
+		"japanese": "%firstName%は腕を負傷しました",
 		"czech": "%firstName% si zrani%lA% svou ruku",
 	},
 	"notificationTitle_ArmBroken": {
@@ -770,7 +770,7 @@
 		"chinese": "%firstName%的手臂骨折了",
 		"italian": "%firstName% si è %RottoRotta% il braccio",
 		"polish": "firstName% złamał%nicA% rękę",
-		"japanese": "%firstName%は腕を損傷しました",
+		"japanese": "%firstName%は腕を骨折しました",
 		"czech": "%firstName% si zlomi%lA% svou ruku",
 	},
 	"notificationTitle_AutosaveComplete": {
@@ -804,7 +804,7 @@
 		"chinese": "派对!    %timeLeft%",
 		"italian": "Festa!    %timeLeft%",
 		"polish": "Impreza!    %timeLeft%",
-		"japanese": "パーティ（残り%timeLeft%秒）",
+		"japanese": "パーティ！（残り%timeLeft%秒）",
 		"czech": "Párty!    %timeLeft%",
 	},
 	"notificationTitle_StatuePresentAccepted": {
@@ -819,7 +819,7 @@
 		"korean": "우리가 보낸 조각상 선물이 훌륭하게 받아들여졌습니다.",
 		"turkish": "Heykel hediyemiz memnuniyetle kabul edildi",
 		"italian": "La nostra statua regalo è stata accettata con gratitudine",
-		"japanese": "喜んで銅像を受け取ってくれました",
+		"japanese": "'%faction%'は喜んで銅像を受け取ってくれました",
 		"czech": "Naše socha byla vděčně přijata",
 	},
 	"notificationTitle_PiratesArrivingSoon": {
@@ -950,7 +950,7 @@
 		"korean": "소원이 거부됨",
 		"chinese": "愿望拒绝",
 		"italian": "Desiderio negato",
-		"japanese": "願い事を断りました",
+		"japanese": "願い事が断られました",
 		"czech": "Přání odmítnuto",
 	},
 	"diplomaticRelationsImproved": {
@@ -1080,7 +1080,7 @@
 		"chinese": "印象深刻",
 		"italian": "Impressionat%OA%",
 		"turkish": "Etkilendi",
-		"japanese": "感動",
+		"japanese": "%firstName%は感銘しています",
 		"czech": "%firstName% uděla%lA% dojem",
 		
 	},
@@ -1095,7 +1095,7 @@
 		"chinese": "印象淡薄",
 		"italian": "Non impressionat%OA%",
 		"turkish": "Etkilenmedi",
-		"japanese": "無感動",
+		"japanese": "%firstName%は感銘しません",
 		"czech": "%firstName% neuděla%lA% dojem",
 	},
 	"upsetWithSomeone": {
@@ -1109,7 +1109,7 @@
 		"chinese": "对 %firstName%感到不安",
 		"italian": "Arrabbiat%OA% con %firstName%",
 		"turkish": "%firstName%den dolayı üzgün",
-		"japanese": "%firstName%は腹を立てる",
+		"japanese": "%firstName%は腹を立てています",
 		"czech": "Naštvan%yA% na %firstName%",
 	},
 	"someoneIsUpset": {
@@ -1123,7 +1123,7 @@
 		"chinese": "%firstName%很不安",
 		"italian": "%firstName% è arrabbiat%OA%",
 		"turkish": "%firstName% üzgün",
-		"japanese": "%firstName%は動揺している",
+		"japanese": "%firstName%は動揺しています",
 		"czech": "%firstName% je rozrušen%yA%",
 	},
 	"drankElixirOfYouth": {
@@ -1137,7 +1137,7 @@
 		"portuguese": "%firstName% recebe %days% dias extras!",
 		"turkish": "%firstName% fazladan %days% gün kazandı!",
 		"chinese": "%firstName%额外获得%days%天！",
-		"japanese": "%firstName%は%days%日余分に取得します",
+		"japanese": "%firstName%は%days%日間酔っぱらいます",
 		"czech": "%firstName% získává %days% extra dní života navíc!",
 	},
 	"tamingSucceeded": {
@@ -1151,7 +1151,7 @@
 		"portuguese": "Domando com sucesso!",
 		"turkish": "Ehlileştirme başarılı",
 		"chinese": "驯服成功！",
-		"japanese": "手なずけに成功しました",
+		"japanese": "手なずけに成功しました！",
 		"czech": "Ochočování úspěšné!",
 	},
 	"tamingInProgress": {
@@ -2174,7 +2174,7 @@
 		"russian": "%firstName% был несчастен в течение долгого времени. Из-за этого он обрел новую черту: '%trait%'",
 		"portuguese": "%firstName% está infeliz há muito tempo. %cap-seuSua% seu mau estado mental fez com que ele se tornasse um novo traço: '%trait%'",
 		"chinese": "%firstName%很久以来一直很痛苦。%cap-hisHer%的不良心理状态已导致%himHer%获得新的症状：'%trait%'",
-		"japanese": "%firstName%は長い間、悲惨な状況で精神状態が悪かったため、新しい個性を獲得しました。:%trait%",
+		"japanese": "%firstName%は悲惨な状況で精神状態が悪かったため、新しい個性を獲得しました。:%trait%",
 		"czech":  "%firstName% se cítí už dlouho mizerně. Má špatný duševní stav, který způsobil novou trvalou vlastnost : '%trait%'",
 	},
 

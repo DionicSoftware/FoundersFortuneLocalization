@@ -931,7 +931,7 @@ Vojákům se doporučuje trénovat na boj s cvičnou figurínou, protože se uk�
 		"korean": "반란",
 		"chinese": "反抗",
 		"italian": "Ribellione",
-		"japanese": "反抗",
+		"japanese": "プッツン切れる",
 		"czech": "Povstání",
 	},
 	"helpMenuText_mood_rebellion": {
@@ -948,7 +948,7 @@ Vojákům se doporučuje trénovat na boj s cvičnou figurínou, protože se uk�
 		"korean": "개척자들은 최선을 다 할테지만, 누구나 한계점이란 게 있습니다. 혹독한 일은 나쁜 기분을 불러오고, 나쁜 기분은 희망을 사라지게 하고, 사라진 희망은 분노와 무관심, 또는 탈선을 불러옵니다. 개척자들은 당신의 명령으로부터 탈출한 다음, 대신 자신이 하고싶은 일을 하려고 할 수도 있습니다.",
 		"chinese": "你们的殖民者尽了最大努力，但每个人都有自己的极限。困难会导致坏心情，坏心情会导致绝望，绝望会导致愤怒、冷漠或遗弃(不，这不是黑暗面)。你的殖民者可能会脱离你的指挥，选择做他们自己的事情。",
 		"italian": "I tuoi coloni danno il meglio di sé, ma ognuno ha i suoi limiti. Le avversità possono portare al cattivo umore, il cattivo umore può portare alla disperazione e la disperazione può portare alla rabbia, all'apatia o alla diserzione (non al lato oscuro in questo caso). I tuoi coloni possono smettere di eseguire gli ordini e scegliere di fare ciò che vogliono.",
-		"japanese": "コロニストの心情が悪くなった場合、我慢の限界を突破する恐れがあります。そうなった場合のコロニストは貴方の命令を無視した反抗的な態度となり、自分勝手な行動を取ります。",
+		"japanese": "コロニストの心情が悪くなった場合、それが引き金となり様々な行動を引き起こす事があります。命令を無視する以外にも他人に暴力を振るう、周りの物を壊すなど危険な行動もあります。切れた場合は更に大事にさせないためにも会話を通じて落ち着かせる事が大事です。",
 		"czech": "Vaši kolonisté ze sebe sice dávají maximum, ale každý má svůj bod zlomu. Těžkosti mohou vést ke špatné náladě, špatná nálada může vést k beznaději a beznaděj může vést k hněvu, apatii nebo dezerci. Vaši kolonisté se mohou z vašeho velení vymanit a místo toho se rozhodnou udělat si vlastní věc podle sebe.",
 	},
 	"helpMenuTitle_mood_inspiration": {
@@ -965,7 +965,7 @@ Vojákům se doporučuje trénovat na boj s cvičnou figurínou, protože se uk�
 		"korean": "영감",
 		"chinese": "鼓舞",
 		"italian": "Ispirazione",
-		"japanese": "熱狂",
+		"japanese": "やる気が溢れる",
 		"czech": "Inspirace",
 	},
 	"helpMenuText_mood_inspiration": {
@@ -982,7 +982,7 @@ Vojákům se doporučuje trénovat na boj s cvičnou figurínou, protože se uk�
 		"korean": "반면, 개척자들은 자신을 위한 시간을 보낼 수 있습니다. 정말로 행복할 때면, 개척자는 영감의 단계에 진입하게 될 수도 있습니다. 이 단계에서, 그들은 잠도 필요없는 거의 무제한의 에너지를 가진 것처럼 일할 수 있습니다! 드물게 이 상태에 진입한 개척자들에게서는, 미소가 지워지지 않습니다.",
 		"chinese": "另一方面，你的殖民者可能正享受着他们一生中最快乐的时光。如果他们真的很快乐，他们可以进入一种鼓舞的状态，在这种状态下，他们不需要任何睡眠休息就可以无限精力地工作。当他们达到这种罕见的状态时，他们就会忍不住地微笑。",
 		"italian": "D'altra parte, i tuoi coloni potrebbero darsi alla pazza gioia. Se sono davvero felici, possono entrare in uno stato d'ispirazione in cui lavorano con un'energia apparentemente illimitata, senza bisogno di dormire! Quando raggiungono questo raro stato, non riescono a smettere di sorridere.",
-		"japanese": "その一方、コロニストの心情が高い場合、熱狂し、疲れを知らず、睡眠すら必要のない超人的な行動をします。その時、彼の笑顔が止む事がありません。",
+		"japanese": "その一方、コロニストの心情が最高になった場合、やる気があふれ、疲れる事がなく、また睡眠すら必要のない超人的な行動ができる様になります。その間は彼の笑顔が止む事がありません。",
 		"czech": "Na druhou stranu by vaši kolonisté mohli mít čas na svůj život. Pokud jsou opravdu šťastní, mohou vstoupit do stavu inspirace, ve kterém pracují se zdánlivě neomezenou energií, aniž by museli spát! Když dosáhnou tohoto vzácného stavu, prostě se nemohou přestat usmívat.",
 	},
 	
@@ -1302,8 +1302,7 @@ Jeśli masz wielu mieszkańców, którzy chcą poznać nowych przyjaciół, spr�
 ハグは関係を改善しませんが、心情を良くする事ができます。ただし、親しい間柄でしか行えません。
 誘惑が成功すると関係に与える前向きな効果が増大する様になりますが、呆られる場合もあります。侮辱は関係を悪化させます。
 
-一度のたくさんの友達を作りたいと考えるならば、費用がかかりますがパーティがとても有益です。
-パーティを開催したい場合はビヤ樽が必要です。",
+一度のたくさんの友達を作りたいと考えるならば、手間暇がかかりますがパーティがとても有益です。",
 		"czech": "Lidé mohou komunikovat několika různými způsoby:
 
 - Mluvení vede k většinou dobrým konverzacím ale i k některým špatným.

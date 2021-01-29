@@ -3842,6 +3842,13 @@
 		"czech": "Prodejní cena",
 		"japanese": "売却価格",
 	},
+	"hours": {
+		"english": "hours",
+		"german": "Stunden",
+	},
+	"hour_h": { // used for something like "remaining time: 2h".
+		"english": "h",
+	},
 	"minutes": {
 		"english": "minutes",
 		"german": "Minuten",
@@ -3860,6 +3867,11 @@
 		"romanian": "minute",
 		"bulgarian": "минути",
 		"czech": "minut",
+		"japanese": "分",
+	},
+	"minute_min": { // used for something like "remaining time: 5 min".
+		"english": "min",
+		"german": "Min",
 		"japanese": "分",
 	},
 	"seconds": {

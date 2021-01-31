@@ -464,7 +464,7 @@
 		"polish": "Niestety, %firstName% nie jest najmądrzejsz%yA% i ma trudności w rozwijaniu nowych umiejętności. Jednak, zaakceptował%nicA% swój los i się z nim pogodził%nicA%.",
 		"korean": "불행하게도, %firstName%#{은} 수재가 아니고, 새로운 기술을 개발하는 데 어려움을 겪고 있습니다. 그렇지만, %heShe%는 자신의 운명을 받아들였고 지금에 만족합니다.",
 		"italian": "Sfortunatamente, %firstName% non è il più brillante e ha difficoltà a sviluppare nuove competenze. Tuttavia, ha accettato il suo destino e ci convive.",
-		"japanese": "%firstName%はおバカのためスキルを獲得する事はできません。",
+		"japanese": "おバカのためスキルを獲得する事はできません。",
 		"czech": "%firstName% bohužel není nejbystřejší a má potíže s rozvojem nových dovedností. Už se s tím ale vyrovna%lA% a je v pořádku.",
 	},
 	"communitySatisfactionAwesome": {
@@ -602,7 +602,7 @@
 		"polish": "%firstName% to %professionName% poziomu %professionLevel%",
 		"korean": "%firstName%#{은} %professionName% %rofessionLevel%레벨 입니다.",
 		"italian": "%firstName% è %UnUna% %professionName% di livello %professionLevel%",
-		"japanese": "%firstName%の%professionName%はレベル%professionLevel%",
+		"japanese": "%professionName%レベル%professionLevel%",
 		"czech": "%firstName% je na úrovni %professionLevel% %professionName%",
 	},
 	"reachLevelX": {
@@ -621,7 +621,7 @@
 		"polish": "Osiągn%ąłĘła% poziom %requiredProfessionLevel% w zawodzie",
 		"korean": "직업에서 %requiredProfessionLevel%레벨에 도달하기",
 		"italian": "Raggiungere il livello %requiredProfessionLevel% in una professione",
-		"japanese": "%requiredProfessionLevel%レベルの職業",
+		"japanese": "レベル%requiredProfessionLevel%の職業",
 		"czech": "Dosáhni úrovně %requiredProfessionLevel% v profesi",
 	},
 	"colonistNeedsMoreWorkExperience": {
@@ -741,7 +741,7 @@
 		"polish": "%firstName% nie sądził%nicA że %jegoJej% praca będzie warta takich pieniędzy. %cap-heShe% oczekiwał%nicA% co najwyżej %coins% monet na dzień, ta dodatkowa kasa rozjaśnia %jegoJej% dzień!",
 		"korean": "%firstName%#{은} 자신이 그 정도의 대우를 받을만한 사람이라고 생각하진 않습니다. %heShe%는 그저 하루에 %coins% 코인이면 족하다고 생각하지만, 더 많은 돈은 %heShe%의 하루를 즐겁게 합니다!",
 		"italian": "%firstName% non pensava che il suo lavoro valesse così tanti soldi. Le sue aspettative erano di %coins% monete al giorno, ma il denaro extra ha illuminato la sua giornata!",
-		"japanese": "%firstName%には十分な給料が支給されています。\n適正な給料:%coins%コイン",
+		"japanese": "十分な給料が支給されています。\n適正な給料:%coins%コイン",
 		"czech": "%firstName% netušil%lA%, že dostane tolik peněz. Očekáva%lA% jen %coins% mincí za den, ale peníze navíc vykouzlí úsměv na %hisHer% tváři!",
 	},
 	"salarySatisfactionGood_Desc": {
@@ -758,7 +758,7 @@
 		"polish": "%firstName% uważa że %jegoJej% wypłata była wystarczająca. Myśli, że %coins% monety na dzień to wystarczający zarobek",
 		"korean": "%firstName%#{은} 이번 일당이 적절했다고 생각합니다. 하루에 %coins% 코인이면 %heShe%에게는 평범한 수준이죠.",
 		"italian": "%firstName% pensa che il suo ultimo salario è stato adeguato. %coins% monete al giorno è un salario accettabile.",
-		"japanese": "%firstName%には丁度良い給料が支給されています。\n適正な給料:%coins%コイン",
+		"japanese": "丁度良い給料が支給されています。\n適正な給料:%coins%コイン",
 		"czech": "%firstName% si myslí, že %hisHer% poslední plat byl adekvátní. %coins% mincí za den je tak akorát.",
 	},
 	"salarySatisfactionInsufficient_Desc": {
@@ -775,7 +775,7 @@
 		"polish": "%firstName% uważa, że zasługuje na pensję minimalną w wysokości %coins% monet na dzień.",
 		"korean": "%firstName%#{이} 말하기를, %heShe%는 하루에 최소한 %coins% 코인을 받을 자격이 된다고 합니다.",
 		"italian": "Secondo %firstName%, il suo lavoro merita un salario minimo di %coins% monete al giorno.",
-		"japanese": "%firstName%には妥当な給料が支給されていません。\n適正な給料:%coins%コイン",
+		"japanese": "妥当な給料が支給されていません。\n適正な給料:%coins%コイン",
 		"czech": "%firstName% si myslí, že si zaslouží alespoň %coins% mincí za den.",
 	},
 	"salarySatisfactionBad_Desc": {
@@ -792,7 +792,7 @@
 		"polish": "%firstName% jest niezadowolon%yA% ze swoich zarobków, uważa że zasługuje na pensję minimalną w wysokości co najmniej %coins% monet na dzień.",
 		"korean": "%firstName%#{은} 이번 일당 때문에 기분이 나쁩니다 - %heShe%의 의견에 따르면, %heShe%는 하루에 최소한 %coins% 코인을 받을 자격이 된다고 합니다.",
 		"italian": "%firstName% è %ScontentoScontenta% del suo ultimo salario. Secondo la sua opinione, merita un salario minimo di %coins% monete al giorno.",
-		"japanese": "%firstName%には不当な給料が支給されています。\n適正な給料:%coins%コイン",
+		"japanese": "不当な給料が支給されています。\n適正な給料:%coins%コイン",
 		"czech": "%firstName% je nešťastn%yA% kvůli své výplatě - očekává alespoň %coins% mincí za den. ",
 	},
 	"salarySatisfactionNotPaidYet_Desc": {
@@ -809,7 +809,7 @@
 		"polish": "%firstName% chce wypłatę w wysokości %coins% monet na dzień.",
 		"korean": "%firstName%#{은} 최소한 하루에 %coins% 코인쯤 받을 거라고 예상하고 있습니다.",
 		"italian": "%firstName% si aspetta un salario minimo di %coins% monete al giorno.",
-		"japanese": "%firstName%には給料が支給されていません。\n適正な給料:%coins%コイン",
+		"japanese": "給料が支給されていません。\n適正な給料:%coins%コイン",
 		"czech": "%firstName% požaduje alespoň %coins% mincí za den.",
 	},
 	"food": {
@@ -1098,7 +1098,7 @@
 		"polish": "%firstName% nie ma pracy w tym momencie. Przez to czuje się %niezadowolon%yA%.",
 		"korean": "%firstName%#{은} 아직 직업이 없습니다. %heShe%는 성취감을 느끼지 못하고 있습니다.",
 		"italian": "%firstName% non ha un lavoro al momento. Questo %LoLa% fa sentire irrealizzato.",
-		"japanese": "%firstName%を何れかの職業に就かせてください。",
+		"japanese": "何れかの職業に就かせてください。",
 		"czech": "%firstName% teď nemá žádnou práci a kvůli tomu se cítí nenaplněn%yA%.",
 	},
 }

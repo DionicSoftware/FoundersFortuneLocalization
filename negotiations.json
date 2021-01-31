@@ -1032,7 +1032,7 @@
 		"korean": "여! 다시 보니 반갑구려.\n\n우리가 작업을 하다보니 몇 가지 좀 부족한 게 눈에 띄어서 말이네. 부족한 부분을 좀 얻어갈까 하는데, 괜찮소?\n\n우리가 필요한건: %tribute%\n\n이것들을 %days%일 안에 가져다 줄 수 있겠나.",
 		"turkish": "Hey! Sizi tekrar görmek güzel.\n\nFaaliyetlerimize devam edebilmek için birkaç şeye daha ihtiyacımız olduğunu farkettik. Bunları karşılamak sizin için bir sıkıntı oluşturmaz değil mi?\n\n İhtiyacımız %tribute%.\n\n%days% gün içinde göndermeniz gerekiyor.",
 		"chinese": "嘿!很高兴再次见到您。\n\n我们注意到我们还需要一些物资来保持我们正常生活。您不介意为我们提供这些物资，对吧？\n\n我们需要： %tribute%\n\n你有 %days% 天时间交付。",
-		"japanese": "よぉ、兄弟！会えてうれしいよ。\n\n実はな、物が不足してちょっと困っているんだよ。これだけの物を俺たちに融通してくれないかな？\n\n必要な物:%tribute%\n\n日数:%days%日以内",
+		"japanese": "こんにちは。お会いできてうれしいです。\n\n実は物が不足してとても困っています。これだけの物を融通してください。\n\n必要な物:%tribute%\n\n日数:%days%日以内",
 		"czech": "Ahoj! Rád vás znovu vidím.\n\nVšimli jsme si, že k udržení chodu našich operací potřebujeme ještě několik věcí. Nebude vám vadit, když nám je poskytnete, že?\n\nPotřebovali bychom: %tribute% \n\nMáte %days% dní na doručení.",
 	},
 	"timedTributeDemandAccept": {
@@ -1046,7 +1046,7 @@
 		"korean": "물론이오. 이렇게라도 당신네를 도울 수 있다니 좋소.",
 		"turkish": "Tabii ki. Size yardımcı olmaktan mutluluk duyarız.",
 		"chinese": "当然。我们很乐意为您提供帮助。",
-		"japanese": "ああ、それぐらい容易い話さ。",
+		"japanese": "もちろん。さあ、どうぞ。",
 		"czech": "Samozřejmě. Rádi vám s tím pomůžeme.",
 	},
 	"timedTributeDemandRefuse": {
@@ -1060,7 +1060,7 @@
 		"korean": "뭐요? 아니 되오. 꺼지시오.",
 		"turkish": "Ne? Unutun gitsin.",
 		"chinese": "什么？不，算了。",
-		"japanese": "うーん、今の俺にはちょっと無理だな。",
+		"japanese": "いいえ。お断りします。",
 		"czech": "Co? Ne, zapomeňte na to.",
 	},
 	"timedTributeDemandAcceptAnswer": {
@@ -1074,7 +1074,7 @@
 		"korean": "고맙네. 조만간 갚겠네.",
 		"turkish": "Teşekkürler. Kısa süre içinde geri geleceğiz.",
 		"chinese": "谢谢。我们很快就会回来。",
-		"japanese": "おお、ありがとうよ！すぐにそちらへ行くから待っててくれ。",
+		"japanese": "ありがとう。すぐにそちらへ取りに向かいます。",
 		"czech": "Dík. Brzy se vrátíme.",
 	},
 	"timedTributeDemandRefuseAreYouSure": {
@@ -1088,7 +1088,7 @@
 		"korean": "뭐라고 했나? 진심인가? 당신들에게 좋게 끝나지 않을 것이네만...",
 		"turkish": "Ne? Emin misiniz? Bu sizin için iyi sonuçlanmaz...",
 		"chinese": "什么？您确定吗？这对您来说不会很好...",
-		"japanese": "え？まじか？その断りの返事がどの様な形で返ってくるかな...",
+		"japanese": "はい？本当ですか？その返事がどの様な形であなたに返ってくるのか...",
 		"czech": "Co? Jsi si jist%yA%? To pro tebe neskončí dobře ...",
 	},
 	"timedTributeDemandRefuseAreYouSureGiveIn": {
@@ -1102,7 +1102,7 @@
 		"korean": "농이었소. 들어드리지요.",
 		"turkish": "Önemli değil, karşılığını veririz.",
 		"chinese": "没关系，我们会为您提供。",
-		"japanese": "冗談冗談。ちゃんと準備して待ってるよ。",
+		"japanese": "冗談です。それを準備しましょう。",
 		"czech": "Nevadí, uděláme to za vás.",
 	},
 	"timedTributeDemandRefuseAreYouSureRefuse": {
@@ -1116,7 +1116,7 @@
 		"korean": "우리가 줄 수 있는 건 아무것도 없소.",
 		"turkish": "Sizin için hiçbir şey yapmayız.",
 		"chinese": "我们不会为您做任何事情。",
-		"japanese": "聞こえなかったのか？お前にやれる物は何もないよ。",
+		"japanese": "あなたに渡す物は何もありません。",
 		"czech": "Neuděláme pro vás nic.",
 	},
 	"timedTributeCollecting": {
@@ -1130,7 +1130,7 @@
 		"korean": "다시 봐서 반갑소. 우리가 말했던 물건들은 준비되어 있소?",
 		"turkish": "Tekrar merhaba. Sorduğumuz parçalar yanınızda mı?",
 		"chinese": "再次问好。您有我们要的东西吗？",
-		"japanese": "よぉ、兄弟！頼んでいた物をもらいにきたぜ。",
+		"japanese": "こんにちは！頼んでいた物をもらいにきました。",
 		"czech": "Ahoj. Máte věci, o které jsme vás žádali?",
 	},
 	"timedTributeCollectingHereYouGo": {
@@ -1144,7 +1144,7 @@
 		"korean": "물론이오. 여기 있소.",
 		"turkish": "Tabii ki. Buyrun",
 		"chinese": "当然。给你吧。",
-		"japanese": "ほら、これだよ。",
+		"japanese": "はい。どうぞ、こちらです。",
 		"czech": "Samozřejmě. Tady je máte.",
 	},
 	"timedTributeCollectingAlmostMadeIt": {
@@ -1158,7 +1158,7 @@
 		"korean": "미안하네만, 다 만들진 못했소. 여기 있는 것만이라도 가져가시게.",
 		"turkish": "Maalesef, yetiştiremedik. Lütfen elimizdekileri alın.",
 		"chinese": "对不起，我们做不到。请拿走我们的东西吧。",
-		"japanese": "すまんな。ちょっと数が足りないわ。あるだけ持っていってください。",
+		"japanese": "ごめんなさい。すこし数が足りません。あるだけ持っていってください。",
 		"czech": "Omlouváme se, ale nedokázali jsme to. Vezměte prosím, co máme.",
 	},
 	"timedTributeCollectingChangedMind": {
@@ -1172,7 +1172,7 @@
 		"korean": "우리의 마음이 바뀌었소. 아무것도 줄 수 없소!",
 		"turkish": "Fikrimizi değiştirdik. Hiçbir şey vermiyoruz!",
 		"chinese": "我们改变了主意。您什么也不会得到！",
-		"japanese": "考えが変わりました。お帰りください。",
+		"japanese": "考えが変わりました。渡す物はありません。",
 		"czech": "Změnili jsme názor. Nedostanete nic!",
 	},
 	"timedTributePaidFull": {

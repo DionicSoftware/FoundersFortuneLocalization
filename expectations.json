@@ -494,7 +494,7 @@
 		"italian": "%firstName% ha amici più che in abbondanza! Si sente %IlLa% benvenut&OA% e apprezzat%OA% ovunque.",
 		"polish": "%firstName% ma wystarczająco dużo przyjaciół! Czuje, że jest tu osobą docenianą i mile widzianą.",
 		"turkish": "%firstName%in fazlasıyla arkadaşı var! Gittiği her yerde hoş karşılandığını ve takdir edildiğini hissediyor..",
-		"japanese": "%firstName%はたくさんの良い関係のコロニストがいます。",
+		"japanese": "%firstName%は良い関係のコロニストがたくさんいます。\n友達:%friends%人\n知り合い:%buddies%人",
 		"czech": "%firstName% má více než dost přátel! Cítí se vítan%yA% a oceňovan%yA% všude kolem.",
 	},
 	"communitySatisfactionGood": {
@@ -524,7 +524,7 @@
 		"italian": "%firstName% è felice con i buoni amici che ha. La vita sarebbe molto più difficile senza di loro.",
 		"polish": "%firstName% czuje szczęście z powodu posiadania tylu przyjaciół. Życie byłoby bez nich trudniejsze.",
 		"turkish": "%firstName%, sahip olduğu iyi arkadaşlar için mutlu. Hayat onlarsız çok daha zor olurdu.",
-		"japanese": "%firstName%はそれなりの良い関係のコロニストがいます。",
+		"japanese": "%firstName%は良い関係のコロニストがそれなりにいます。\n友達:%friends%人\n知り合い:%buddies%人",
 		"czech": "%firstName% je rá%dA% za dobré přátele, které má. Bez nich by byl život mnohem těžší.",
 	},
 	"communitySatisfactionInsufficient": {
@@ -621,7 +621,7 @@
 		"polish": "Osiągn%ąłĘła% poziom %requiredProfessionLevel% w zawodzie",
 		"korean": "직업에서 %requiredProfessionLevel%레벨에 도달하기",
 		"italian": "Raggiungere il livello %requiredProfessionLevel% in una professione",
-		"japanese": "%requiredProfessionLevel%レベルの職業の経験が必要",
+		"japanese": "%requiredProfessionLevel%レベルの職業",
 		"czech": "Dosáhni úrovně %requiredProfessionLevel% v profesi",
 	},
 	"colonistNeedsMoreWorkExperience": {
@@ -639,7 +639,7 @@
 		"polish": "%firstName% potrzebuje więcej doświadczenia zawodowego lub właściwej edukacji.",
 		"korean": "%firstName%에게는 더 많은 경험 또는 적절한 교육이 필요합니다.",
 		"italian": "%firstName% ha bisogno di più esperienza lavorativa o di una formazione adeguata",
-		"japanese": "%firstName%はより多くの作業または教育による職業の経験が必要",
+		"japanese": "作業または学習を行い職業の経験を積んでください。",
 		"czech": "%firstName% potřebuje více pracovních zkušeností nebo vhodné vzdělání",
 	},
 	"salarySatisfactionAwesome": {
@@ -741,7 +741,7 @@
 		"polish": "%firstName% nie sądził%nicA że %jegoJej% praca będzie warta takich pieniędzy. %cap-heShe% oczekiwał%nicA% co najwyżej %coins% monet na dzień, ta dodatkowa kasa rozjaśnia %jegoJej% dzień!",
 		"korean": "%firstName%#{은} 자신이 그 정도의 대우를 받을만한 사람이라고 생각하진 않습니다. %heShe%는 그저 하루에 %coins% 코인이면 족하다고 생각하지만, 더 많은 돈은 %heShe%의 하루를 즐겁게 합니다!",
 		"italian": "%firstName% non pensava che il suo lavoro valesse così tanti soldi. Le sue aspettative erano di %coins% monete al giorno, ma il denaro extra ha illuminato la sua giornata!",
-		"japanese": "%firstName%には過大な給料が支給されています。\n適正な給料:%coins%コイン",
+		"japanese": "%firstName%には十分な給料が支給されています。\n適正な給料:%coins%コイン",
 		"czech": "%firstName% netušil%lA%, že dostane tolik peněz. Očekáva%lA% jen %coins% mincí za den, ale peníze navíc vykouzlí úsměv na %hisHer% tváři!",
 	},
 	"salarySatisfactionGood_Desc": {
@@ -758,7 +758,7 @@
 		"polish": "%firstName% uważa że %jegoJej% wypłata była wystarczająca. Myśli, że %coins% monety na dzień to wystarczający zarobek",
 		"korean": "%firstName%#{은} 이번 일당이 적절했다고 생각합니다. 하루에 %coins% 코인이면 %heShe%에게는 평범한 수준이죠.",
 		"italian": "%firstName% pensa che il suo ultimo salario è stato adeguato. %coins% monete al giorno è un salario accettabile.",
-		"japanese": "%firstName%には十分な給料が支給されています。\n適正な給料:%coins%コイン",
+		"japanese": "%firstName%には丁度良い給料が支給されています。\n適正な給料:%coins%コイン",
 		"czech": "%firstName% si myslí, že %hisHer% poslední plat byl adekvátní. %coins% mincí za den je tak akorát.",
 	},
 	"salarySatisfactionInsufficient_Desc": {
@@ -845,7 +845,7 @@
 		"polish": "Jedzenie z ogniska",
 		"korean": "모닥불에 구운 음식",
 		"italian": "Cibo da falò",
-		"japanese": "焚火の簡単な料理",
+		"japanese": "焚火による簡単な料理",
 		"czech": "Jídlo z ohniště",
 	},
 	"goodOrBakedMeals": {
@@ -900,7 +900,7 @@
 		"polish": "Kliknij, aby pokazać miejsce do spania",
 		"korean": "잠자리를 보려면 클릭하세요",
 		"italian": "Clicca per vedere il posto letto",
-		"japanese": "寝る場所の表示はアイコンをクリック",
+		"japanese": "寝る場所の表示はこのアイコンをクリック",
 		"czech": "Kliknutím zobrazíte místo na spaní",
 	},
 	"ownsSleepingSpot": {
@@ -990,7 +990,7 @@
 		"polish": "Posiada dom",
 		"korean": "나만의 집 가지기",
 		"italian": "Possedere una casa",
-		"japanese": "自宅を所有",
+		"japanese": "家を所有",
 		"czech": "Mít vlastní dům",
 	},
 	"ownsHouse3Rooms": {
@@ -1008,7 +1008,7 @@
 		"polish": "Posiada dom z trzema dużymi pokojami",
 		"korean": "3개의 큰 방이 있는 집 가지기",
 		"italian": "Possedere una casa con 3 grandi stanze",
-		"japanese": "大きな部屋が3つある自宅を所有",
+		"japanese": "大きな部屋が3つある家を所有",
 		"czech": "Vlastnit dům se 3 velkými pokoji",
 	},
 	"ownsHouse5Rooms": {
@@ -1026,7 +1026,7 @@
 		"polish": "Posiada dom z pięcioma dużymi pokojami",
 		"korean": "5개의 큰 방이 있는 집 가지기",
 		"italian": "Possedere una casa con 5 grandi stanze",
-		"japanese": "大きな部屋が5つある自宅を所有",
+		"japanese": "大きな部屋が5つある家を所有",
 		"czech": "Vlastnit dům s 5 velkými pokoji",
 	},
 	"lifeSatisfactionLevel": {
@@ -1062,7 +1062,7 @@
 		"polish": "Życzenia do spełnienia",
 		"korean": "소원이 이루어져야 합니다",
 		"italian": "Desidera soddisfare i suoi desideri",
-		"japanese": "願い事を叶え満足度を増やしてください",
+		"japanese": "願い事を叶え満足度を増やしてください。",
 		"czech": "Je třeba splnit přání kolonisty",
 	},
 	"wantsJob_Title": {
@@ -1080,7 +1080,7 @@
 		"polish": "Chce pracę",
 		"korean": "직업을 갖고싶어",
 		"italian": "Vuole un lavoro",
-		"japanese": "職業の経験が必要",
+		"japanese": "就職が必要",
 		"czech": "Chce práci",
 	},
 	"wantsJob_Desc": {
@@ -1098,7 +1098,7 @@
 		"polish": "%firstName% nie ma pracy w tym momencie. Przez to czuje się %niezadowolon%yA%.",
 		"korean": "%firstName%#{은} 아직 직업이 없습니다. %heShe%는 성취감을 느끼지 못하고 있습니다.",
 		"italian": "%firstName% non ha un lavoro al momento. Questo %LoLa% fa sentire irrealizzato.",
-		"japanese": "%firstName%に何れかの職業の経験を積ませてください",
+		"japanese": "%firstName%を何れかの職業に就かせてください。",
 		"czech": "%firstName% teď nemá žádnou práci a kvůli tomu se cítí nenaplněn%yA%.",
 	},
 }

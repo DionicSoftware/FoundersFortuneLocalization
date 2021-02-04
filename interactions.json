@@ -159,7 +159,7 @@
 		"chinese": "休息",
 		"italian": "Rilassarsi",
 		"polish": "Odpocznij",
-		"japanese": "休息",
+		"japanese": "休息する",
 		"czech": "Relaxuj",
 	},
 	"RemovePlant": {
@@ -561,7 +561,7 @@
 		"chinese": "学习生活技能",
 		"italian": "Apprendi le competenze di vita",
 		"polish": "Ucz się o życiu",
-		"japanese":"スキルを学ぶ",
+		"japanese":"勉強する",
 		"czech": "Nauč se Životním zkušenostem",
 	},
 	"Sleep": {
@@ -867,7 +867,7 @@
 		"chinese": "装备",
 		"italian": "Equipaggia",
 		"polish": "Załóż",
-		"japanese":"装備する",
+		"japanese":"装備を付ける",
 		"czech": "Vybav se",
 	},
 	"Unequip": {
@@ -1029,7 +1029,7 @@
 		"chinese": "守卫塔",
 		"italian": "Proteggi la torre",
 		"polish": "Chroń wieżę",
-		"japanese":"櫓",
+		"japanese":"櫓で防衛",
 		"czech": "Braň věž",
 	},
 	"ProcessResource": {
@@ -1047,7 +1047,7 @@
 		"chinese": "资源进度",
 		"italian": "Trasforma risorse",
 		"polish": "Przetwórz zasoby",
-		"japanese":"資材の過程",
+		"japanese":"資材を処理",
 		"czech": "Zpracuj suroviny",
 	},
 	"ChangeProfession": {
@@ -1065,7 +1065,7 @@
 		"chinese": "变更",
 		"italian": "Cambia",
 		"polish": "Zmień",
-		"japanese":"変更",
+		"japanese":"職業の変更",
 		"czech": "Změň",
 	},
 	"GiveProductionOrders": {
@@ -1209,7 +1209,7 @@
 		"chinese": "转职为 %profession%",
 		"italian": "Diventa: %profession%",
 		"polish": "Wybierz profesję: %profession%",
-		"japanese":"%profession%になる",
+		"japanese":"%profession%に設定",
 		"czech": "Staň se %profession%",
 	},
 	"TryFluTreatment": {
@@ -1489,7 +1489,7 @@
 		"chinese": "获得拥有权",
 		"italian": "Assumi la proprietà",
 		"polish": "Przejmij na własność",
-		"japanese":"所有権を取得する",
+		"japanese":"所有権を取得",
 		"czech": "Přivlastni si",
 	},
 	"TakeOwnershipFrom": {
@@ -1507,7 +1507,7 @@
 		"chinese": "从%name%那里获得拥有权",
 		"italian": "Assumi la proprietà da %name%",
 		"polish": "Przejmij własność od %name%",
-		"japanese":"%name%から所有権を取得する",
+		"japanese":"%name%から所有権を取得",
 		"czech": "Přivlastni si to od %name%",
 	},
 	"GiveUpOwnership": {
@@ -1525,7 +1525,7 @@
 		"chinese": "放弃拥有权",
 		"italian": "Rinuncia alla proprietà",
 		"polish": "Zrzeknij się własności",
-		"japanese":"所有権を放棄する",
+		"japanese":"所有権を放棄",
 		"czech": "Vzdej se vlastnictví",
 	},
 	"CarryToBed": {
@@ -1561,7 +1561,7 @@
 		"chinese": "卸下工具",
 		"italian": "Disequipaggia strumento",
 		"polish": "Odłóż narzędzie",
-		"japanese":"装備している道具を解除する",
+		"japanese":"装備している道具を解除",
 		"czech": "Odevzdej nástroj",
 	},
 	"PlaceClothes": {
@@ -1579,7 +1579,7 @@
 		"chinese": "卸下衣服",
 		"italian": "Disequipaggia vestiti",
 		"polish": "Zdejmij ubranie",
-		"japanese":"装備している衣装を解除する",
+		"japanese":"装備している衣装を解除",
 		"czech": "Odevzdej oblečení",
 	},
 	"Trade": {

@@ -71,7 +71,7 @@
 		"chinese": "繁衍后代",
 		"turkish": "Çocuklar",
 		"polish": "Dziecko",
-		"japanese": "子供を授かる",
+		"japanese": "子供",
 		"czech": "Dítě",
 		
 		
@@ -88,7 +88,7 @@
 		"chinese": "一旦关系值达到最大并且满足了村庄的期望，这对夫妇就会考虑生孩子。",
 		"turkish": "İlşki seviye göstergesi dolduğunda ve çiftin yerleşimdeki beklentileri karşılandığında, çocuk yapmayı düşünmeye başlarlar.",
 		"polish": "Gdy pasek relacji osiągnie maksimum, a oczekiwania kolonistów zostaną spełnione, para pomyśli o potomstwie.",
-		"japanese": "関係バーが、限界に達してコロニーでの期待が満たされるとカップルたちは子供を持つことを考えます。",
+		"japanese": "関係バーが最大に達し、住環境が整えられると子供を授かります。",
 		"czech": "Jakmile je vztahová lišta maximalizována a očekávání ve vesnici jsou splněna tak zamilovaný pár přemýšlí o tom, že bude mít děti.",
 	},
 
@@ -135,7 +135,7 @@
 		"italian": "Nemesi",
 		"turkish": "Ezeli rakip",
 		"polish": "Nemezys",
-		"japanese": "憎しみ",
+		"japanese": "憎悪",
 		"czech": "Extrémní nenávist",
 	},
 	"relationship_Enemy": {
@@ -150,7 +150,7 @@
 		"italian": "Nemic%OA%",
 		"turkish": "Düşman",
 		"polish": "Wróg",
-		"japanese": "憎しみ",
+		"japanese": "大嫌い",
 		"czech": "Nepřítel",
 	},
 	// I had to use an adjective here. If you can find a fitting noun for your language, like the other titles, use that!
@@ -166,7 +166,7 @@
 		"italian": "Disprezzat%OA%",
 		"turkish": "Sevilmeyen",
 		"polish": "Nie lubian%yA%",
-		"japanese": "嫌悪",
+		"japanese": "嫌い",
 		"czech": "Odpor",
 	},
 	"relationship_Acquaintance": {
@@ -257,7 +257,7 @@
 		"italian": "Amore della sua vita",
 		"turkish": "Hayatının aşkı",
 		"polish": "Miłóść życia",
-		"japanese": "あなたの人生の愛",
+		"japanese": "伴侶",
 		"czech": "Životní láska",
 	},
 	"humanIsRelative": {
@@ -271,7 +271,7 @@
 		"chinese": "%firstName% 是 %firstName2% 的 %relativeStatus%",
 		"italian": "%firstName% è %relativeStatus% di %firstName2%",
 		"turkish": "%firstName%, %firstName2%'in %relativeStatus%",
-		"japanese": "%firstName%は、%firstName2%'の%relativeStatus%です",
+		"japanese": "%firstName%は%firstName2%の%relativeStatus%です",
 		"czech": "%firstName% je %firstName2% %relativeStatus%",
 	},
 	"Child": {
@@ -400,7 +400,7 @@
 		"italian": "Arrabbiat%OA%",
 		"turkish": "Üzgün",
 		"polish": "Zdenerowan%yA%",
-		"japanese": "相手との関係を壊す",
+		"japanese": "ひと悶着",
 		"czech": "Naštvaný",
 	},
 	"relationshipEffect_Upset_Description": {
@@ -414,7 +414,7 @@
 		"chinese": "%affectedName% 因 %partnerName%而感到不安。%heShe% 在一段时间内都不与 %2-himHer% 谈话。\n(还剩%seconds%秒)",
 		"italian": "%affectedName% è arrabbiat%OA% con %partnerName%. Non %GliLe% parlerà per qualche tmepo.\n(%seconds% secondi rimasti)",
 		"turkish": "%affectedName%, %partnerName%den dolayı üzgün. Onunla bir süre konuşmayacak.\n(%seconds% saniye kaldı)",
-		"japanese": "%affectedName%は、%partnerName%に腹を立てています。%cap-heShe%は、しばらくの間%2-himHer%を避けます。\n(残り%seconds%秒)",
+		"japanese": "%affectedName%は%partnerName%に侮辱されました。しばらくの間、口を利きたくありません。\n(残り%seconds%秒)",
 		"czech": "%affectedName% je naštvan%yA% na %partnerName%. %cap-heShe% nebude mluvit s %2-himHer% po tuto dobu.\n(%seconds% seconds left)",
 	},
 	"relationshipEffect_Impressed_Title": {
@@ -429,7 +429,7 @@
 		"italian": "Impressionat%OA%",
 		"turkish": "Etkilenmiş",
 		"polish": "Pod wrażeniem",
-		"japanese": "感銘",
+		"japanese": "誘惑",
 		"czech": "Uděla%lA% dojem",
 	},
 	"relationshipEffect_Impressed_Description": {
@@ -443,7 +443,7 @@
 		"chinese": "%affectedName% 对 %partnerName%印象深刻。任何好的互动都是两倍的效果。\n(还剩%seconds%秒)",
 		"italian": "%affectedName% è impressionat%OA% da %partnerName%. Ogni interazione positiva è due volte più efficace!\n(%seconds% secondi rimasti)",
 		"turkish": "%affectedName% %partnerName% tarafından etkilendi. Herhangi bir olumlu etkileşim iki kat daha etkili!\n(%seconds% saniye kaldı)",
-		"japanese": "%affectedName%は、%partnerName%に感銘しました。関係を上昇させたい場合、積極的なやり取りは2倍効果的です。\n(残り%seconds%秒)",
+		"japanese": "%affectedName%は%partnerName%に誘惑されました。関係が上昇する効果は2倍になります。\n(残り%seconds%秒)",
 		"czech": " %partnerName% uděla%lA% dojem na %affectedName%. Jakákoli pozitivní interakce je dvakrát tak efektivní!\n(%seconds% seconds left)",
 	},
 	"relationshipEffect_NotImpressed_Title": {
@@ -458,7 +458,7 @@
 		"italian": "Non impressionat%OA%",
 		"turkish": "Etkilenmemiş",
 		"polish": "Nie pod wrażeniem",
-		"japanese": "感銘を受けない",
+		"japanese": "呆れる",
 		"czech": "Neuděla%lA% dojem",
 	},
 	"relationshipEffect_NotImpressed_Description": {
@@ -472,7 +472,7 @@
 		"chinese": "%affectedName% 没有对 %partnerName%有深刻的印象。任何坏的影响都是两倍效果。\n(还剩%seconds%秒)",
 		"italian": "%affectedName% non è impressionat%OA% da %partnerName%. Ogni interazione negativa è due volte più dannosa!\n(%seconds% secondi rimasti)",
 		"turkish": "%affectedName% %partnerName% tarafından etkilenmedi. Herhangi bir olumsuz etkileşim iki kat daha zararlı!\n(%seconds% saniye kaldı)",
-		"japanese": "%affectedName%は、%partnerName%に感銘を受けません。それどころか、悪い方向に2倍ほど相互作用してしまいます!関係を低下させたい場合に有効です。\n(残り%seconds%秒)",
+		"japanese": "%affectedName%は%partnerName%に呆れました。関係が落下する効果は相互作用で2倍になります。\n(残り%seconds%秒)",
 		"czech": "%partnerName% neuděla%lA% dojem na %affectedName%. Jakákoli negativní interakce je dvakrát tak škodlivá!\n(%seconds% seconds left)",
 	},
 	"relationshipEffect_LowerLevelLocked_Description": {
@@ -487,7 +487,7 @@
 		"italian": "Livello inferiore bloccato per %seconds% secondi.",
 		"turkish": "Alt seviye, %seconds% saniye boyunca kilitli.",
 		"polish": "Niższy poziom zablokowany na %seconds% sekund.",
-		"japanese": "下位関係レベルは、%seconds%秒間ロックされました。",
+		"japanese": "下位関係レベルは%seconds%秒間固定されます。",
 		"czech": "Nižší úroveň uzamčena na %seconds% sekund.",
 	},
 	"relationshipEffect_HigherLevelLocked_Description": {
@@ -502,7 +502,7 @@
 		"italian": "Livello superiore bloccato per %seconds% secondi.",
 		"turkish": "Üst seviye, %seconds% saniye boyunca kilitli.",
 		"polish": "Wyższy poziom zablokowany na %seconds% sekund.",
-		"japanese": "上位関係レベルは、%seconds%秒間ロックされました。",
+		"japanese": "上位関係レベルは%seconds%秒間固定されます。",
 		"czech": "Vyšší úroveň uzamčena na %seconds% sekund.",
 	},
 }

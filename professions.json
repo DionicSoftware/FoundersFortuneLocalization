@@ -35,7 +35,7 @@
 		"korean": "개척자에게 직업을 정해주고 나면, 알아서 자신의 할 일을 찾아가기 시작합니다.",
 		"polish": "Wybierz zawód dla swojego osadnika, dzięki temu będzie pracować bardziej niezależnie.",
 		"italian": "Seleziona un lavoro per il tuo colono, in modo che possa lavorare in modo più indipendente.",
-		"japanese":"働くことができるようにコロニストの職業を選択してください。",
+		"japanese":"作業する事ができるようにコロニストの職業を選択してください。",
 		"czech": "Vyberte nějakou práci pro své kolonisty, aby mohli pracovat samostatněji.",
 	},
 	"professionName_Farmer": {
@@ -71,7 +71,7 @@
 		"korean": "농부는 식재료를 마련하고 음식을 요리할 책임이 있습니다. 바쁘지 않으면, 목화를 채집하러 나가기도 하죠.",
 		"polish": "Rolnicy są odpowiedzialni za produkcję i przygotowywanie jedzenia. Kiedy nie mają innego zajęcia, będą także zbierać bawełnę.",
 		"italian": "I contadini sono responsabili della produzione e della cottura del cibo. Quando non sono occupati, raccolgono anche il cotone.",
-		"japanese":"農民は、食料生産と食料の調理に責任があります。忙しくないときは、コットンも集めます。",
+		"japanese":"農民は食料生産と調理に責任があります。忙しくない時はコットンも集めます。",
 		"czech": "Farmáři jsou zodpovědní za výrobu potravin a vaření potravin. Když nejsou zaneprázdněni, shromažďují také bavlnu.",
 	},
 	"professionName_Forester": {
@@ -107,7 +107,7 @@
 		"korean": "나무꾼은 나무를 베어 목재를 만들어냅니다. 대자연을 위해, 묘목을 건드리지는 않습니다.",
 		"polish": "Jako drwal, osadnik ścina drzewa na drewno. Dba także o przyrodę poprzez sadzenie nowych drzew.",
 		"italian": "In qualità di guardaboschi, i tuoi coloni abbattono gli alberi per ricavarne legna. Per l'amor di madre natura, si occupano anche del rimboschimento.",
-		"japanese":"木こりは、森林管理者として木を伐採します。母なる自然を守るために、木こりは苗木の世話や植林もします。",
+		"japanese":"木こりは森林管理者として木を伐採します。母なる自然を守るために木こりは苗木の世話や植林もします。",
 		"czech": "Jako lesník váš kolonista kácí stromy na dřevo. Kvůli matce přírodě se lesníci starají také o výsadbu stromků.",
 	},
 	"professionName_Miner": {
@@ -144,7 +144,7 @@
 		"korean": "광부는 돌을 채집하고, 철광석을 캐거나 크리스탈을 수집합니다.",
 		"polish": "Górnicy zbierają kamienie i kryształy oraz wydobywają rudy żelaza.",
 		"italian": "I minatori raccolgono pietre, estraggono ferro e racimolano cristalli.",
-		"japanese":"鉱夫は、石を集め、鉄を採掘し、クリスタルを集めます。",
+		"japanese":"鉱夫は石、鉄、クリスタルを集めます。",
 		"czech": "Horníci shromažďují kameny, těží železo a sbírají krystaly.",
 	},
 	"professionName_Craftsman": {
@@ -180,7 +180,7 @@
 		"korean": "수공업자는 당신이 작업대에 지시해둔 물품들을 생산해냅니다.",
 		"polish": "Będąc rzemieślnikiem, twój kolonista produkuje wszelkiego rodzaju dobra, które można odebrać w jednym z warsztatów.",
 		"italian": "In qualità di fabbri, i tuoi coloni produrranno tutti i beni che ordini nei banchi da lavoro.",
-		"japanese":"職人として、あなたのコロニストは貴方の製作台で注文する全ての商品を生産します。",
+		"japanese":"職人は製作台で注文する全ての商品を生産します。",
 		"czech": "Jako řemeslník vyrábí váš kolonista veškeré zboží, které si objednáte v některé z vašich dílen.",
 	},
 	"professionName_Doctor": {
@@ -216,7 +216,7 @@
 		"korean": "의사는 개척자들이 죽지 않게 하려고 노력합니다. 만약 다친 사람이 있다면, 의사는 그들을 치료해 다시 일할 수 있게 합니다.",
 		"polish": "Lekarz dba o zdrowie twoich kolonistów. Leczy urazy, złamania i choroby... wystawia L4 tak by twoi oadnicy mogli jak naszybciej powrócić do pracy.",
 		"italian": "I medici cercano di mantenere in vita i tuoi coloni. Se qualcuno si ferisce, si occupano della sua guarigione in modo che possa tornare a lavorare.",
-		"japanese":"医者は、あなたのコロニストを生かし続けようと努力します。コロニストが傷ついた場合、働くことが出来る様に治療しようとします。",
+		"japanese":"医者は生存し続けられる様に治療します。傷ついた場合、作業する事ができる様に治療します。",
 		"czech": "Lékař se snaží udržet vaše kolonisty naživu. Pokud jsou zraněni, lékaři s nimi zacházejí tak, aby se mohli brzy vrátit k práci.",
 	},
 	"professionName_Soldier": {
@@ -252,7 +252,7 @@
 		"korean": "군인은 정착지를 안전하게 지킵니다. 그들은 다른 평범한 개척자보다 더 많은 전투를 겪었기 때문에, 더 나은 무기를 사용할 수 있습니다.",
 		"polish": "Żołnierze dbają o bezpieczeństwo twojej osady. Ponieważ mają doświadczenie w wojennym rzemiośle walczą lepiej niż przeciętni osadnicy i mogą używać bardziej zaawansowanego oręża.",
 		"italian": "I soldati tengono al sicuro la tua colonia. Dato che hanno più esperienza nei combattenti rispetto ai coloni medi, possono usare armi avanzate.",
-		"japanese":"兵士は、あなたのコロニーを安全に保ちます。兵士は普通のコロニストよりも戦闘の経験が豊富にあるため、高度な武器を使用することができます。",
+		"japanese":"兵士はコロニーを安全に保ちます。戦闘の経験が豊富にあるため、高度な武器を使用する事ができます。",
 		"czech": "Vojáci udržují vaši kolonii v bezpečí. Jelikož mají více zkušeností s bojem než průměrný kolonista, mohou tak používat lepší zbraně.",
 	},
 	"professionName_Scholar": {
@@ -288,7 +288,7 @@
 		"korean": "학자는 정착지를 발전시키기 위해 새로운 기술을 연구합니다.",
 		"polish": "Będąc uczonym, kolonista odkrywa nowe technologie, niezbędne by osada mogła się rozwijać.",
 		"italian": "In qualità di eruditi, i tuoi coloni ricercano nuove tecnologie per far avanzare la tua colonia.",
-		"japanese":"学者として、あなたのコロニストはコロニーを進歩させるために新しい技術を研究します。",
+		"japanese":"学者はコロニーを進歩させるために新しい研究を獲得します。",
 		"czech": "Jako vědec zkoumá váš kolonista nové technologie, aby posílil vaši kolonii.",
 	},
 	"professionName_Builder": {
@@ -318,7 +318,7 @@
 		"turkish": "İnşaatçılar, yerleşimdeki büyük yapıların ve mobilyaların yapımından, taşınmasından ve kaldırılmasından sorumludur.",
 		"polish": "Budowniczowie są odpowiedzialni za wznoszenie, przenoszenie i usuwanie konstrukcji oraz mebli w twojej wiosce.",
 		"chinese": "建造者在你的村庄负责建造、移动和拆除大型建筑物和家具。",
-		"japanese":"建造者は、あなたのコロニーの大きな構造物を建築したり、家具を作成したり、設置物の移動、撤去などをすることができます。",
+		"japanese":"建造者はコロニーの大きな構造物を建築したり、家具を作成したり、設置物の移動、撤去などをする事ができます。",
 		"czech": "Stavitelé jsou zodpovědní za stavbu, stěhování a odstraňování velkých konstrukcí a nábytku ve vaší vesnici.",
 	},
 
@@ -338,7 +338,7 @@
 		"chinese": "砍伐树木",
 		"turkish": "Ağaç kesme",
 		"polish": "Wycinka drzew",
-		"japanese":"木を切る",
+		"japanese":"伐採",
 		"czech": "Kácení stromů",
 		
 	},
@@ -354,7 +354,7 @@
 		"chinese": "种植树木",
 		"turkish": "Ağaç dikme",
 		"polish": "Sadzenie drzew",
-		"japanese":"木を植える",
+		"japanese":"植林",
 		"czech": "Výsadba stromů",
 	},
 	"professionSpecialization_clearStumps": {
@@ -369,7 +369,7 @@
 		"turkish": "Kütükleri kaldırma",
 		"polish": "Usuwanie pniaków",
 		"chinese": "移除树桩",
-		"japanese":"切り株を撤去する",
+		"japanese":"切り株を撤去",
 		"czech": "Odstraňování pařezů",
 	},
 
@@ -408,7 +408,7 @@
 		"korean": "석공일 하기",
 		"polish": "Kamieniarstwo",
 		"italian": "Muratura",
-		"japanese":"石工職",
+		"japanese":"石工",
 		"czech": "Zednictví",
 	},
 	"professionSpecialization_forging": {
@@ -441,7 +441,7 @@
 		"italian": "Tessitura",
 		"turkish": "Dokuma",
 		"chinese": "纺织",
-		"japanese":"織り物を織る",
+		"japanese":"織り物",
 		"czech": "Tkalcovství",
 	},
 	"professionSpecialization_tailoring": {
@@ -498,7 +498,7 @@
 		"korean": "철광석 캐기",
 		"polish": "Wydobywaj rudę żelaza",
 		"italian": "Estrazione del ferro",
-		"japanese":"鉄を採掘",
+		"japanese":"鉄鉱石を採掘",
 		"czech": "Těžba železné rudy",
 	},
 	"professionSpecialization_mineCrystal": {
@@ -536,7 +536,7 @@
 		"korean": "밭일 하기",
 		"polish": "Dbaj o uprawy",
 		"italian": "Cura dei campi",
-		"japanese":"畑の世話をする",
+		"japanese":"畑の世話",
 		"czech": "Inklinuje k polím",
 	},
 	"professionSpecialization_cook": {
@@ -554,7 +554,7 @@
 		"korean": "음식 요리하기",
 		"polish": "Gotuj jedzenie",
 		"italian": "Cottura del cibo",
-		"japanese":"料理をする",
+		"japanese":"料理",
 		"czech": "Vaří jídlo",
 	},
 	"professionSpecialization_harvestCotton": {
@@ -605,7 +605,7 @@
 		"turkish": "Hayvanlarla ilgilenme",
 		"polish": "Opiekuj się zwierzętami",
 		"chinese": "照料动物",
-		"japanese":"家畜の世話をする",
+		"japanese":"家畜の世話",
 		"czech": "Pečuje o zvířata",
 	},
 
@@ -625,7 +625,7 @@
 		"korean": "치료약 만들기",
 		"polish": "Produkuj leki",
 		"italian": "Produzione di medicinali",
-		"japanese":"医薬品の製造",
+		"japanese":"薬の調合",
 		"czech": "Vyrábí léky",
 	},
 	"professionSpecialization_tendToPatients": {
@@ -643,7 +643,7 @@
 		"korean": "부상자 보살피기",
 		"polish": "Dbaj o zranionych kolonistów",
 		"italian": "Occuparsi dei coloni feriti",
-		"japanese":"負傷者の世話をする",
+		"japanese":"負傷者の治療",
 		"czech": "Pečuje o zraněné kolonisty",
 	},
 	"professionSpecialization_buryDead": {
@@ -661,7 +661,7 @@
 		"korean": "시체 매장하기",
 		"polish": "Chowaj zmarłych",
 		"italian": "Seppellimento dei morti",
-		"japanese":"埋葬する",
+		"japanese":"埋葬",
 		"czech": "Pohřbívá mrtvé",
 	},
 	"professionSpecialization_brewBeer": {
@@ -715,7 +715,7 @@
 		"korean": "연구 수행",
 		"chinese": "进行研究",
 		"polish": "Prowadź badania",
-		"japanese":"研究をする",
+		"japanese":"研究",
 		"czech": "Provádí výzkum",
 	}
 }

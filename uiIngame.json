@@ -155,7 +155,7 @@
 		"bulgarian": "Нищо не е отключено.",
 		"czech": "Nic neodemčeno.",
 		"romanian": "Nimic deblocat.",
-		"japanese": "何も解除されていません。",
+		"japanese": "なし",
 	},
 	"unlockedObjects": {
 		"english": "Unlocked Objects:",
@@ -175,7 +175,7 @@
 		"bulgarian": "Отключени обекти:",
 		"czech": "Odemknuté položky:",
 		"romanian": "Obiecte deblocate:",
-		"japanese": "解除:",
+		"japanese": "追加された物:",
 	},
 
 
@@ -669,6 +669,7 @@
 		"german": "%firstName% wird in %days% Tagen erwachsen werden",
 		"french": "%firstName% va grandir dans %days% jours",
 		"spanish": "%firstName% crecerá en %days% días",
+		"dutch": "%firstName% zal volwassen worden in %days% dagen",
 		"russian": "%firstName% вырастет через %days% дней",
 		"portuguese": "%firstName% crescerá em %days% days",
 		"chinese": "%firstName% 会在 %days% 天之内长大",
@@ -684,7 +685,7 @@
 		"german": "%firstName% wird in %days% Tagen alt werden",
 		"french": "%firstName% va vieillir dans %days% jours",
 		"spanish": "%firstName% envejecerá en %days% días",
-		"dutch": "%firstName% zal opgroeien in %days% dagen",
+		"dutch": "%firstName% zal oud worden in %days% dagen",
 		"russian": "%firstName% постареет через %days% дней",
 		"portuguese": "%firstName% envelhecerá em %days% days",
 		"chinese": "%firstName% 会在 %days% 天之内衰老",
@@ -700,7 +701,7 @@
 		"german": "%firstName% wird in %days% Tagen sterben",
 		"french": "%firstName% décédera dans %days% jours",
 		"spanish": "%firstName% fallecerá en %days% días",
-		"dutch": "%firstName% zal oud gaan worden in %days% dagen",
+		"dutch": "%firstName% zal overlijden in %days% dagen",
 		"russian": "%firstName% умрет через %days% дней",
 		"portuguese": "%firstName% falecerá em %days% days",
 		"chinese": "%firstName% 会在 %days% 天之内逝世",
@@ -1391,7 +1392,7 @@
 		"czech": "Pobýváním v dobré nebo špatné náladě postupně získává pozitivní nebo negativní body štěstí.\nV závislosti na počtu nasbíraných bodů potom získá pozitivní nebo negativní vlastnosti na své narozeniny.",
 		"turkish": "Ruhsal durum yavaşça çocukluk mutluluk puanlarını etkiler.\nToplanan puanlara göre, çocuk büyüdüğünde doğum gününde iyi veya kötü karakter özellikleri kazanır.",
 		"romanian": "Fiind într-o dispoziție bună sau rea câștigă încet puncte de fericire pozitive sau negative.\nÎn funcție de ce puncte sunt colectate, copilul va câștiga trăsături pozitive sau negative de ziua lui.",
-		"japanese": "子供時代の心情により前向き、後ろ向きの満足度ポイントを獲得します。誕生日にその満足度ポイントに応じて前向きまたは後ろ向きな個性を獲得します。",
+		"japanese": "心情の状態により前向き、後ろ向きの満足度ポイントを時間経過と共に獲得します。獲得した満足度ポイントに応じて誕生日に前向きまたは後ろ向きな個性を獲得します。",
 	},
 	"childhoodEducation": {
 		"english": "Education",
@@ -1423,7 +1424,7 @@
 		"czech": "Každé dítě se může učit životní dovednosti pomocí knih v knihovně. Na jejich narozeniny pak můžou použít tyto body a získat tím výborný start v jejich budoucí profesi.\nPokud je vzdělávání přerušeno před tím, než je téma plně pochopeno a je získán bod, postup je pomalu zapomínán.",
 		"turkish": "Çocuklar kitaplıkları kullanarak yaşam becerileri edinebilirler. Doğum günlerinde, hayat puanlarını kullanarak seçecekleri mesleklerde bir adım önde başlayabilirler.\nEğitim, bir konu tamamen öğrenilmeden yarım bırakılırsa, ilerleme yavaşça unutulur.", 
 		"romanian": "Fiecare copil poate învăța abilități de viață la raftul de cărți. De ziua lor de naștere, ei pot folosi aceste puncte pentru a obține un mare avantaj în orice profesie.\nDacă educația este întreruptă înainte ca un subiect să fie înțeles pe deplin și să obțină un punct, progresul va fi uitat încet.",
-		"japanese": "本棚を設置する事で子供に教育をする事ができます。教育を受けた子供はそれに応じた教育ポイントを獲得できます。誕生日に教育ポイントに応じてスキルを獲得できます。教育が途中で停止された場合は教育ポイントは獲得できません。",
+		"japanese": "教育スキルのあるコロニストから教育を受ける、または子供用本棚から勉強をする事で教育の経験を獲得する事ができます。教育の経験は自然と減少していきます。また、最大になると教育ポイントを獲得します。獲得した教育ポイントに応じて誕生日にスキルを獲得できます。",
 	},
 
 	// Birthday Panel (Child born)
@@ -1905,7 +1906,7 @@
 		"romanian": "Produce",
 		"bulgarian": "Производство",
 		"czech": "Vyrobit",
-		"japanese": "生産量を指示",
+		"japanese": "生産",
 	},
 	"productionMode_ProduceInfinite": {
 		"english": "Produce Infinite",
@@ -1945,7 +1946,7 @@
 		"romanian": "Păstrează în stoc",
 		"bulgarian": "Дръжте в склада",
 		"czech": "Skladovat ve skladu",
-		"japanese": "指示された生産量を維持",
+		"japanese": "生産量を維持",
 	},
 	"cost": {
 		"english": "Cost",
@@ -3196,7 +3197,7 @@
 		"romanian": "Toate așteptările coloniștilor dvs. sunt îndeplinite. Următoarea oportunitate pentru sosirea migranților în %time%.",
 		"bulgarian": "Всички очаквания на вашите колонисти са изпълнени. Следващ шанс за мигранти в %time% минути.",
 		"czech": "Všechna přání vašich kolonistů jsou splněna. Další migrant dorazí za %time%.",
-		"japanese": "住環境が整ったコロニーです。%time%後に新たなコロニストが訪問する予定です。",
+		"japanese": "住環境が整ったコロニーです。%time%後に新たなコロニストが訪問します。",
 	},
     "colonistIsDumbNoExperience": {
 		// TODO-ukrainian: make it shorter so it fits better
@@ -3218,7 +3219,7 @@
 		"polish": "Niestety, %firstName% jest głup%iA% i nie zdobędzie doświadczenia z żadnej pracy.",
 		"bulgarian": "За съжаление, %firstName% е тъп и няма да натрупа опит в никоя работа.",
 	    	"czech": "Naneštěstí %firstName% je hloup%yA%, takže nezíská žádné zkušenosti.",
-		"japanese": "残念ながら、%firstName%はお馬鹿のため経験を生かす事ができません。",   
+		"japanese": "残念ながら%firstName%はお馬鹿のため経験を得る事ができません。",   
 	},
 	"importantPossessions": {
 		"english": "Important Possessions",
@@ -3358,7 +3359,7 @@
 		"romanian": "Depozit de scule",
 		"bulgarian": "Съхранение на инструменти",
 		"czech": "Skřínka na nástroje",
-		"japanese": "道具保管",
+		"japanese": "道具保管庫",
 	},
 	"ClothesStorage": {
 		"english": "Clothes Storage",
@@ -3378,7 +3379,7 @@
 		"romanian": "Depozit de haine",
 		"bulgarian": "Съхранение на дрехи",
 		"czech": "Věšák na oblečení",
-		"japanese": "衣装保管",
+		"japanese": "衣装かけ",
 	},
 	"WeaponStorage": {
 		"english": "Weapon Storage",
@@ -3398,7 +3399,7 @@
 		"romanian": "Depozit de arme",
 		"bulgarian": "Съхранение на оръжия",
 		"czech": "Držák na zbraně",
-		"japanese": "武器保管",
+		"japanese": "武器保管庫",
 	},
 	"ArmorStorage": {
 		"english": "Armor Storage",
@@ -3418,7 +3419,7 @@
 		"romanian": "Depozit de armuri",
 		"bulgarian": "Съхранение на брони",
 		"czech": "Věšák na brnění",
-		"japanese": "防具保管",
+		"japanese": "防具かけ",
 	},
 	"takeOwnershipOfStorageFurniture": {
 		"english": "Take Ownership of equipment storage furniture to assign equipment",
@@ -3438,7 +3439,7 @@
 		"romanian": "Preluați proprietatea asupra mobilierului de depozitare a echipamentului pentru a atribui echipamentul",
 		"bulgarian": "Вземете собственост на мебели за съхранение на оборудване, за да възложите оборудване",
 		"czech": "Přiřaďte vlastnictví kolonistovi, aby bylo možné přičlenit vybavení",
-		"japanese": "コロニストが使用する道具を保管する家具の所有を割り当てます。",
+		"japanese": "所有しているこの家具に収納されている装備品です。",
 	},
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",
@@ -3540,7 +3541,7 @@
 		"bulgarian": "Търговия с '%faction%'",
 		"polish": "Handel z '%faction%'",
 		"czech": "Obchodovat s '%faction%'",
-		"japanese": "'%faction%'で取引",
+		"japanese": "'%faction%'貿易取引",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
@@ -3560,7 +3561,7 @@
 		"romanian": "Colonia vinde negustorului",
 		"bulgarian": "Колонията продава на търговеца",
 		"czech": "Kolonie prodává obchodníkovi",
-		"japanese": "商人に売却",
+		"japanese": "売却",
 	},
 	"colonyIsBuying": {
 		"english": "Colony is Buying from the Trader",
@@ -3580,7 +3581,7 @@
 		"romanian": "Colonia cumpără de la negustor",
 		"bulgarian": "Колонията купува от търговеца",
 		"czech": "Kolonie nakupuje od obchodníka",
-		"japanese": "商人から購入",
+		"japanese": "購入",
 	},
 	"amountStorage": { // amount means how much is being traded and in store is the maximum amount the colony or the trader has in store
 		"english": "Amount / In Store",
@@ -3680,7 +3681,7 @@
 		"romanian": "Confirmă schimbul",
 		"bulgarian": "Потвърдете търговията",
 		"czech": "Potvrdit transakci",
-		"japanese": "取引の決定",
+		"japanese": "貿易取引の決定",
 	},
 	"sellItemsOfValue": {
 		"english": "Selling items with a value of %coins% coins",
@@ -3700,7 +3701,7 @@
 		"romanian": "Vânzarea obiectelor cu o valoare de %coins% monede",
 		"bulgarian": "Продажба на предмети със стойност %coins% монети",
 		"czech": "Prodej předmětů v ceně %coins% mincí",
-		"japanese": "%coins%コインで売却",
+		"japanese": "受取り:%coins%コイン",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -3720,7 +3721,7 @@
 		"romanian": "Cumpărarea obiectelor cu o valoare de %coins% monede",
 		"bulgarian": "Купуване на предмети със стойност %coins% монети",
 		"czech": "Nákup předmětů v hodnotě %coins% mincí",
-		"japanese": "%coins%コインで購入",
+		"japanese": "支払い:%coins%コイン",
 	},
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",
@@ -3740,7 +3741,7 @@
 		"romanian": "Colonia câștigă %coins% monede din această tranzacție.",
 		"bulgarian": "Колонията печели %coins% монети от тази сделка.",
 		"czech": "Kolonie získá z této transakce %coins% mincí.",
-		"japanese": "この取引により%coins%コインの受け取り",
+		"japanese": "受取り:%coins%コイン",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
@@ -3760,7 +3761,7 @@
 		"romanian": "Colonia plătește %coins% monede pentru această tranzacție.",
 		"bulgarian": "Колонията плаща %coins% монети за тази сделка.",
 		"czech": "Kolonie zaplatí v rámci této transakce %coins% mincí.",
-		"japanese": "この取引により%coins%コインの支払い",
+		"japanese": "支払い:%coins%コイン",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",
@@ -3797,7 +3798,7 @@
 		"turkish": "Depoda %amount% %resource% için yeteri kadar boş yer yok.",
 		"polish": "Brak miejsca w magazynach na %amount% %resource%.",
 		"czech": "Sklady nemají dostatečnou kapacitu na uskladění %amount% %resource%.",
-		"japanese": "%amount%の%resource%を備蓄するための十分な空きがありません。",
+		"japanese": "%amount%%resource%を備蓄するための十分な空きがありません。",
 	},
 
 
@@ -3819,7 +3820,7 @@
 		"romanian": "Fie nu ați produs încă niciun echipament,\nsau toate echipamentele dvs. sunt în prezent utilizate de coloniști.",
 		"bulgarian": "Или все още не сте произвели никакво оборудване \n цялото ви оборудване в момента се използва от вашите колонисти.",
 		"czech": "Buď jste zatím nevytvořili žádné vybavení \nnebo je všechno vybavení již používáno vašimi kolonisty.",
-		"japanese": "生産された装備はありません。または全ての装備は家具に収納されています。",
+		"japanese": "製作された装備はありません。または全ての装備は家具に収納されています。",
 	},
 	"sellPrice": {
 		"english": "Selling Price",
@@ -3841,6 +3842,29 @@
 		"czech": "Prodejní cena",
 		"japanese": "売却価格",
 	},
+	"quotation_start": {
+		"english": "\"",
+		"japanese": "「",
+	},
+	"quotation_end": {
+		"english": "\"",
+		"japanese": "」",
+	},
+	"enumeration_comma": { // comma used to separate list items, e.g. "apples, oranges"
+		"english": ", ",
+		"chinese": "、",
+		"korean": "·",
+		"japanese": "、",
+	},
+	"hours": {
+		"english": "hours",
+		"german": "Stunden",
+		"japanese": "時間",
+	},
+	"hour_h": { // used for something like "remaining time: 2h".
+		"english": "h",
+		"japanese": "時間",
+	},
 	"minutes": {
 		"english": "minutes",
 		"german": "Minuten",
@@ -3859,6 +3883,11 @@
 		"romanian": "minute",
 		"bulgarian": "минути",
 		"czech": "minut",
+		"japanese": "分",
+	},
+	"minute_min": { // used for something like "remaining time: 5 min".
+		"english": "min",
+		"german": "Min",
 		"japanese": "分",
 	},
 	"seconds": {
@@ -4075,7 +4104,7 @@
 		"romanian": "Cel puțin %beer% beri în stoc",
 		"bulgarian": "Поне %beer% бира в склада",
 		"czech": "Alespoň %beer% piva na skladě",
-		"japanese": "ビールの在庫%beer%",
+		"japanese": "必要なビールの量%beer%",
 	},
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
@@ -4095,7 +4124,7 @@
 		"romanian": "Cel puțin %food% alimente în stoc",
 		"bulgarian": "Поне %food% храна в склада",
 		"czech": "Alespoň %food% jídla na skladě",
-		"japanese": "食べ物の在庫%food%",
+		"japanese": "必要な食べ物の量%food%",
 	},
 	"partyRequirements": {
 		"english": "Party Requirements",
@@ -4380,6 +4409,7 @@
 		"japanese": "作物に世話が必要です。",
 		"chinese": "作物种子需要照料",
 		"czech":  "Rostlina potřebuje péči",
+		"russian":  "Растению нужна забота",
 	},
 	"factionPointsInfo": {
 		"english":  "Relationship points: %points%",
@@ -4521,6 +4551,7 @@
 		"japanese": "外見の変更",
 		"chinese": "变更外观",
 		"czech":  "Změnit vzhled",
+		"russian":  "Изменить внешний вид",
 	},
 	"confirmChanges":  {
 		"english":  "Confirm Changes",
@@ -4533,6 +4564,7 @@
 		"japanese": "変更の確認",
 		"chinese": "变更确认",
 		"czech":  "Potvrďte změny",
+		"russian":  "Подтвердить изменения",
 	},
 	"objects":  {
 		"english":  "Objects",
@@ -4545,6 +4577,7 @@
 		"japanese": "対象",
 		"chinese": "对象",
 		"czech":  "Objekty",
+		"russian":  "Объекты",
 	},
 	"colors":  {
 		"english":  "Colors",
@@ -4557,6 +4590,7 @@
 		"japanese": "色",
 		"chinese": "颜色",
 		"czech":  "Barvy",
+		"russian":  "Цвета",
 	},
 	"hat":  {
 		"english":  "Hat",
@@ -4569,6 +4603,7 @@
 		"japanese": "頭",
 		"chinese": "帽子",
 		"czech":  "Klobouk",
+		"russian":  "Шляпа",
 	},
 	"hair":  {
 		"english":  "Hair",
@@ -4581,6 +4616,7 @@
 		"japanese": "髪",
 		"chinese": "发型",
 		"czech":  "Vlasy",
+		"russian":  "Прическа",
 	},
 	"face":  {
 		"english":  "Face",
@@ -4593,6 +4629,7 @@
 		"japanese": "顔",
 		"chinese": "脸部",
 		"czech":  "Obličej",
+		"russian":  "Лицо",
 	},
 	"torso":  {
 		"english":  "Torso",
@@ -4605,6 +4642,7 @@
 		"japanese": "胴体",
 		"chinese": "身体",
 		"czech":  "Tělo",
+		"russian":  "Торс",
 	},
 	"skin":  {
 		"english":  "Skin",
@@ -4617,6 +4655,7 @@
 		"japanese": "肌",
 		"chinese": "皮肤",
 		"czech":  "Kůže",
+		"russian":  "Кожа",
 	},
 	"randomize":  {
 		"english":  "Randomize",
@@ -4629,6 +4668,7 @@
 		"japanese": "ランダム",
 		"chinese": "随机",
 		"czech":  "Náhodně",
+		"russian":  "Рандомизировать",
 	},
 	"debug": { // doesn't need to be translated
 		"english": "Debugging",
@@ -4640,6 +4680,25 @@
 		"japanese": "デバッグ",
 		"chinese": "调试",
 		"czech": "Debugging",
+		"russian":  "Debugging",
+	},
+	"debuggingAttention": {
+		"english": "Attention!"
+	},
+	"debuggingDisableAchievements": {
+		"english": "This will disable achievements!\nThis cannot be undone!"
+	},
+	"debuggingNotice": {
+		"english": "The debug mode is meant to be used in development. If you enable debug mode, it can corrupt your save so that it's not recoverable. Exit this menu using 'F3' if you don't know exactly what you're doing."
+	},
+	"achievements_off_mods": {
+		"english": "Achievements are disabled due to mods"
+	},
+	"achievements_off_cheats": {
+		"english": "Achievements are disabled due to cheats"
+	},
+	"achievements_enabled_hard": {
+		"english": "Challenger achievement is available"
 	},
 	"animalZones":  {
 		"english":  "Animal Zones",
@@ -4652,6 +4711,7 @@
 		"japanese": "牧場の設定",
 		"chinese": "牧场",
 		"czech":  "Zvířecí zóny",
+		"russian":  "Зоны животных",
 	},
 	"animalZonesTooltip_Desc":  {
 		"english":  "Designate zones to keep all of your animals in a specific place.",
@@ -4664,6 +4724,7 @@
 		"japanese": "家畜を飼育する牧場の範囲を指定します。",
 		"chinese": "指定区域将所有动物都圈养在特定的区域.",
 		"czech":  "Určete zóny, aby všechna vaše zvířata byla na konkrétním místě.",
+		"russian":  "Определите зоны, чтобы держать всех ваших животных в определенном месте.",
 	},
 	"travelPanelTitle":  {
 		"english": "New Horizons",
@@ -4676,6 +4737,7 @@
 		"japanese": "新天地へ",
 		"chinese": "新旅程",
 		"czech": "Nové Obzory",
+		"russian":  "Новые горизонты",
 	},
 	"travelPanelDesc":  {
 		"english": "Are you ready to leave this town?\nYou can select a couple of competent villagers to leave this island and start a new village in a new land.\nYou may want to save this village before you leave.",
@@ -4685,10 +4747,10 @@
 		"spanish": "¿Estás listo para dejar este pueblo?\nPuedes seleccionar un puñado de aldeanos competentes para dejar esta isla y comenzar una colonia en una nueva tierra.\nPuede que quieras guardar esta aldea antes de irte.",
 		"polish": "Czy jesteś gotowy, aby opuścić to miasto? \nMożesz wybrać wyznaczyć kilku kompetentnych kolonistów, aby opuścili tę wyspę i założyli kolonię w nowej krainie. \nMożesz zachować tę kolonię przed wyjazdem.",
 		"portuguese": "Você está pronto para deixar esta cidade? \nVocê pode selecionar alguns aldeões competentes para deixar esta ilha e começar uma nova aldeia em uma nova terra. \nVocê pode querer salvar esta aldeia antes de partir.",
-		"japanese": "新天地に出発する準備ができましたか？\n新たなコロニーを建設するため何人かコロニストを連れていく事ができます。",
+		"japanese": "新天地に新たなコロニーを建設するための準備ができましたか？\n一緒に新天地へ連れていくコロニストを選んでください。",
 		"chinese": "你准备离开这个城镇吗?\n你可以选择几个有能力的村民离开这个岛屿,并在新的土地上建立一个新村庄.\n你可能要在离开之前保存这个村庄.",
 		"czech": "Jste připraveni opustit toto město?\nMůžete si vybrat několik vesničanů, kteří opustí tento ostrov a založí novou vesnici v Nové zemi.",
-		
+		"russian":  "Готовы ли вы покинуть этот город? \nВы можете выбрать пару компетентных жителей, чтобы они покинули этот остров и основали новую деревню на новой земле. \nВозможно, вы захотите сохранить эту деревню перед тем, как уйти.",
 		},
 	"depart":  {
 		"english": "Set the sails!",
@@ -4698,8 +4760,9 @@
 		"dutch": "Hijs de zeilen!",
 		"polish": "Podnieść kotwicę!",
 		"portuguese": "Ajuste as velas!",
-		"japanese": "新天地に出発だ",
+		"japanese": "新天地へ出発だ！",
 		"chinese": "新旅程启程!",
 		"czech": "Rozviňte plachty!",
+		"russian":  "Расправить паруса!",
 	},
 }

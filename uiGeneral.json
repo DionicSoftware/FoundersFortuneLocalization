@@ -169,7 +169,7 @@
 		"italian": "Aggiornamento disponibile!",
 		"czech": "Je dostupná aktualizace!",
 		"romanian": "Actualizare disponibilă!",
-		"japanese": "アップデートが利用可能です!",
+		"japanese": "アップデートが利用可能です！",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -245,7 +245,7 @@
 		"italian": "In costruzione!",
 		"czech": "Ve výstavbě!",
 		"romanian": "În construcție!",
-		"japanese": "開発中!",
+		"japanese": "開発中！",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -341,7 +341,7 @@
 		"turkish": "\"%save%\" kaydını silmek istediğinizden emin misiniz? Bunun geri dönüşümü yok.",
 		"czech": "Opravdu chcete přepsat hru \"%save%\"? Bude navždy ztracena.",
 		"romanian": "Sigur doriți să ștergeți salvarea \"%save%\"? O veți pierde pentru totdeauna.",
-		"japanese": "\"%save%\"を削除します。本当に削除してもよろしいですか?",
+		"japanese": "\"%save%\"を削除します。本当に削除してもよろしいですか？",
 	},
 	// TODO-korean
 	// TODO-polish
@@ -360,7 +360,7 @@
 		"chinese": "此存档与您的游戏版本不兼容。\n您可以在最新公告中找到有关如何继续使用旧游戏版本的教程。",
 		"czech": "Tato uložená pozice není kompatibilní se současnou verzí hry.\nStarší uložené pozice můžete hrát díky Steam funkci 'Beta'",
 		"romanian": "Această salvare nu este compatibilă cu versiunea dvs. de joc.\nPuteți juca versiuni vechi folosind funcția „Betas” din Steam.",
-		"japanese": "このセーブデーターは現在のゲームバージョンと互換性がありません。\nSteamのベーター機能を使用して古いバージョンのゲームをプレイすることができます。",
+		"japanese": "このセーブデーターは現在のゲームバージョンと互換性がありません。\nSteamのベーター機能を使用して古いバージョンのゲームをプレイする事ができます。",
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -529,7 +529,7 @@
 		"italian": "Le mod potrebbero essere incompatibili!\nMod nel salvataggio:",
 		"czech": "Mody mohou být nekompatibilní!\nMody v uložené hře:",
 		"romanian": "Modurile pot fi incompatibile!\nModuri în salvare:",
-		"japanese": "Modは互換性がない可能性があります!\n保存済みのMod:",
+		"japanese": "Modは互換性がない可能性があります！\n保存済みのMod:",
 	},
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
@@ -704,7 +704,7 @@
 		"italian": "Questo contenuto è stato contrassegnato dagli sviluppatori come compatibile.",
 		"czech": "Tento obsah byl vývojáři označen jako kompatibilní.",
 		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind compatibil.",
-		"japanese": "このコンテンツは開発者によって互換性があるとマークされています",
+		"japanese": "このコンテンツは開発者によって互換性があると確認されています",
 	},
 	"modMostlyCompatible_Title": {
 		"english": "Content mostly compatible",
@@ -741,7 +741,7 @@
 		"polish": "Ta zawartość została oznaczona przez twórców jako najbardziej kompatybilna. Może zawierać błędy, ale możesz i tak z niej skorzystać.",
 		"czech": "Tento obsah byl vývojáři označen jako většinově kompatibilní. Může obsahovat chyby, ale přesto jej můžete použít.",
 		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind în mare parte compatibil. Poate conține bug-uri, dar îl poți folosi oricum.",
-		"japanese": "このコンテンツは、開発者によってほとんど互換性があるとマークされています。\nバグが含まれている可能性がありますが使用することはできます",
+		"japanese": "このコンテンツは開発者によってほとんど互換性があると確認されています。\nバグが含まれている可能性がありますが使用する事はできます",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
@@ -779,7 +779,7 @@
 		"polish": "Ta zawartość została oznaczona przez twórców jako niekompatybilna. \nAby ją aktywaować musisz ją najpierw zaktualizwać.",
 		"czech": "Tento obsah byl vývojáři označen jako nekompatibilní.\nPro použití je nutné provést aktualizaci.",
 		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind incompatibil.\nTrebuie să-l actualizați pentru a-l activa.",
-		"japanese": "このコンテンツは開発者によって互換性がないとマークされています。\nアクティブ化するにはコンテンツを更新する必要があります",
+		"japanese": "このコンテンツは開発者によって互換性がないと確認されています。\nアクティブ化するにはコンテンツを更新する必要があります",
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
@@ -820,7 +820,7 @@
 		"polish": "Każda twoja uwaga jest cenna i pomaga nam ulepszyć grę!",
 		"czech": "Jakýkoliv podnět nám pomůže, abychom pro vás mohli hru vylepšit!",
 		"romanian": "Fiecare feedback ne ajută să îmbunătățim jocul pentru tine!",
-		"japanese": "全てのフィードバックは私たちがゲームを改善するのにとても役立ちます!",
+		"japanese": "全てのフィードバックは私たちがゲームを改善するのにとても役立ちます！",
 	},
 	"feedbackType": {
 		"english": "Category",
@@ -953,7 +953,7 @@
 		"polish": "Podaj adres e-mail (opcjonalnie)",
 		"czech": "E-mailová adresa (volitelně!)",
 		"romanian": "Adresa de e-mail (opțional!)",
-		"japanese": "電子メールアドレス (オプション!)",
+		"japanese": "電子メールアドレス (任意)",
 	},
 	"clickToSubmit": {
 		"english": "Click to submit",
@@ -991,7 +991,7 @@
 		"polish": "Dziękujemy!",
 		"czech": "Děkujeme!",
 		"romanian": "Mulțumesc!",
-		"japanese": "ありがとう!",
+		"japanese": "ありがとう！",
 	},
 	"feedbackSubmittedSuccessfully": {
 		"english": "Feedback submitted successfully",
@@ -1010,7 +1010,7 @@
 		"polish": "Feedback został wysłany.",
 		"czech": "Zpětná vazba úspěšně odeslána",
 		"romanian": "Feedbackul a fost trimis cu succes",
-		"japanese": "フィードバックは正常に送信されました!",
+		"japanese": "フィードバックは正常に送信されました！",
 	},
 	"Oops": {
 		"english": "Oops...",
@@ -1047,7 +1047,7 @@
 		"italian": "Sembra esserci un bug nel sistema dei feedback.\nProva di nuovo più tardi o contattaci tramite contact@foundersfortune.com",
 		"czech": "Vypadá to, že je nějaký problém v systému hlášení chyb.\nZkuste to prosím znovu později a nebo nás kontaktujte prostřednictvím emailu contact@foundersfortune.com",
 		"romanian": "Se pare că există o eroare în sistemul de feedback.\nÎncercați din nou mai târziu sau comunicați-ne la contact@foundersfortune.com",
-		"japanese": "フィードバックシステムにバグがあるようです。\n時間を置いて、もう一度試してみるか contact@foundersfortune.com にお知らせください",
+		"japanese": "フィードバックシステムにバグがあるようです。\n時間を置いてもう一度試してみるか、contact@foundersfortune.comにお知らせください",
 	},
 	"feedbackConnectionIssue": {
 		"english": "There seems to be a connection issue\nCould you please check your internet connection?",
@@ -1327,6 +1327,7 @@
 		"japanese": "草の描画クオリティー",
 		"chinese": "更细致的草",
 		"czech": "Detaily trávy",
+		"russian": "Детализация травы",
 	},
 	"on": {
 		"english": "On",
@@ -2717,7 +2718,7 @@
 		"polish": "Koniec gry!",
 		"czech": "Konec hry!",
 		"romanian": "Joc încheiat!",
-		"japanese": "ゲームオーバー!",
+		"japanese": "ゲームオーバー",
 	},
 	"backToMainMenu": {
 		"english": "Back to the Main Menu",
@@ -2755,7 +2756,7 @@
 		"polish": "Twoja kolonia przestała istnieć!",
 		"czech": "Vaše kolonie vymřela!",
 		"romanian": "Colonia ta a pierit!",
-		"japanese": "あなたのコロニーは滅びました!!",
+		"japanese": "あなたのコロニーは滅びました",
 	},
 	"totalPlayTime": {
 		"english": "Total Play Time",
@@ -2774,7 +2775,7 @@
 		"polish": "Czas gry",
 		"czech": "Celkový čas hry",
 		"romanian": "Timp total de joc",
-		"japanese": "トータルプレイタイム",
+		"japanese": "合計プレイ時間",
 	},
 	"averageHappiness": {
 		"english": "Average Happiness",
@@ -2916,7 +2917,7 @@
 		"polish": "Wybierz pierwszych kolonistów",
 		"czech": "Vyberte počáteční kolonisty",
 		"romanian": "Selectați coloniștii inițiali",
-		"japanese": "最初のコロニストを選択してください",
+		"japanese": "最初のコロニストを決定してください",
 	},
 	"randomColonist": {
 		"english": "Random Colonist",
@@ -2935,7 +2936,7 @@
 		"polish": "Losuj",
 		"czech": "Náhodný kolonista",
 		"romanian": "Colonist aleatoriu",
-		"japanese":  "ランダムなコロニスト",
+		"japanese":  "コロニストを変更する",
 	},
 	"selectDifficulty": {
 		"english": "Select Difficulty",
@@ -2973,7 +2974,7 @@
 		"polish": "Niski",
 		"czech": "Poklidný svět",
 		"romanian": "Lume liniștită",
-		"japanese": "平和",
+		"japanese": "平和な世界",
 	},
 	"difficulty_0_Desc": {
 		"english": "A more relaxing experience if you prefer creative base building over combat and survival.\nYour colonists take only half damage from all kinds of injuries.\nThe colony starts with 80 meals, colonists need less food, and can survive on smaller food rations.\nWatered plants yield higher harvests.\nYour colonists will still die if you don't take care of them!",
@@ -2992,7 +2993,7 @@
 		"polish": "Bardziej relaksujący tryb rozgrywki dla graczy któzy preferują kreatywne budowanie i przetrwanie zamiast walki.\nKoloniście są bardziej wytrwali i potrzebują mniejszych racji żywnościowych.\nKolonia rozpoczyna z 80 porcjami jedzenia.\nPodlane grządki dają lepsze plony.\nMimo to nadal musisz opiekować się swoimi kolonistami!",
 		"czech": "Odpočinkový zážitek, pokud máte raději budování základny místo bojů s nepřáteli.\nVaši kolonisté utrpí pouze poloviční poškození.\nKolonie začíná s 80 jídly a kolonisté přežjí s menšími porcemi.\nZalévané rostliny produkují vyšší výnosy.",
 		"romanian": "O experiență mai relaxantă dacă preferați construirea creativă a bazelor decât lupta și supraviețuirea.\nColoniștii dvs. nu suferă decât jumătate din daunele cauzate de toate tipurile de răni.\nColonia începe cu 80 buc. de mâncare, coloniștii au nevoie de mai puțină hrană și pot supraviețui cu rații alimentare mai mici.\nPlantele udate produc recolte mai mari.\nColoniștii dvs. vor muri dacă nu aveți grijă de ei.",
-		"japanese": "戦いやサバイバルよりも、ゆっくり建築をしたりして過ごしたい場合におすすめです。\nコロニストはあらゆる種類の怪我を受けても半分のダメージしか受けません。\nコロニーの食糧は80食から始まり、コロニストに必要な食料は少なくて済みます。\nまた、水を与えられた植物はより多くの収穫物をもたらします。\nしかし植物の世話をしなければ、あなたのコロニストたちは飢えて死んでしまうでしょう!気をつけてください。",
+		"japanese": "ゆっくり建築をしたりして過ごしたい場合におすすめです。\nあらゆる種類の怪我を受けても半分のダメージしか受けません。\n食糧は80食です。\n水を与えられた植物はより多くの収穫をもたらします。",
 	
 	},
 	"difficulty_1_Title": {
@@ -3012,7 +3013,7 @@
 		"polish": "Wyzwanie",
 		"czech": "Vzrušující svět",
 		"romanian": "Lume captivantă",
-		"japanese": "エキサイティング",
+		"japanese": "刺激的な世界",
 		
 	},
 	"difficulty_1_Desc": {
@@ -3032,7 +3033,7 @@
 		"polish": "Typowe doświadczenie które łączy w sobie budowanie, przetrwanie i walkę.\nKolonia rozpoczyna z 40 posiłkami.\nMoże się zdarzyć, że ktoś umrze z błachego powodu.",
 		"czech": "Typický Founders' Fortune zážitek, vyvážené budování základny a boj.\nKolonie začíná se 40 jídly.\nNěkdy mohou kolonisté zemřít ať se budete snažit jakkoliv.",
 		"romanian": "Experiență tipică de Founders' Fortune, o combinație între construirea bazelor și supraviețuire.\nColonia începe cu 40 buc. de mâncare.\nUneori, coloniștii pot muri chiar dacă încercați tot posibilul.",
-		"japanese": "Founders' Fortuneを楽しみたい方にぴったりです。\n基地の建設とサバイバルの組み合わせで難易度が増しています。\nコロニーの食糧は40食から始まり、あなたが最善を尽くしてもコロニストが死ぬことがあります。",
+		"japanese": "Founders' Fortuneを楽しみたい方にぴったりです。\n基地の建設とサバイバルの組み合わせで難易度が増しています。\n食糧は40食です。最善を尽くしてもコロニストが死ぬ事があります。",
 	},
 	"difficulty_2_Title": {
 		"english": "Dangerous World",
@@ -3051,7 +3052,7 @@
 		"polish": "Niebezpieczny świat",
 		"czech": "Nebezpečný svět",
 		"romanian": "Lume periculoasă",
-		"japanese": "とても危険",
+		"japanese": "危険な世界",
 	},
 	"difficulty_2_Desc": {
 		"english": "The world is a harsh place, so good luck trying to survive with fragile little colonists.\nYour colonists take 50% more damage from all kinds of injuries.\nThe colony starts with 10 meals and colonists get hungry more quickly.\nCatastrophes happen more often.\nA challenge for veteran players.",
@@ -3070,7 +3071,7 @@
 		"polish": "Świat to okrutne miejsce, więc życzę powodzenia w utrzymaniu tych biednych kolonistów.\nKoloniści są mniej odporni niż zwykle i szybciej stają się głodni.\nKolonia rozpoczyna z 10 posiłkami.\nKatastrofy zdarzają się częściej.\nTo wyzwanie dla wytrawnych graczy.",
 		"czech": "Svět je drsné místo, takže hodně štěstí při snaze o přežití s vašimi malými křehkými kolonisty.\nVaši kolonisté obdrží o 50% více poškození z jakéhokoliv zranění.\nKolonie začíná s 10 jídly a kolonisté maji častěji hlad.\nKatastrofy se dějí častěji.\nVýzva pro ostřílené hráče.",
 		"romanian": "Lumea este un loc dur, deci mult noroc încercând să supraviețuiți cu mici coloniști fragili.\nColoniștii dvs. suferă cu 50% mai multe daune cauzate de toate tipurile de răni.\nColonia începe cu 10 buc. de mâncare și coloniștii se înfometează mai repede.\nCatastrofele se întâmplă mai des.\nO provocare pentru jucătorii veterani.",
-		"japanese": "とても過酷な世界です。生き残るためにも、柔らかく、ひ弱なコロニストと共に協力して頑張りましょう。\nコロニストは、あらゆる種類の怪我から50%のダメージを受けます。\nコロニーの食糧は10食から始まり、コロニストたちはより早く空腹になります。\n自然災害はしばしば発生します。ベテランプレーヤー向けの難易度です。",
+		"japanese": "ベテランプレイヤー向けです。\n全ての怪我のダメージは150%になります。\n食糧は10食です。\n災害はしばしば発生します。",
 	},
 	"continue": {
 		"english": "Continue",
@@ -3184,7 +3185,7 @@
 		"czech": "Pardon! Hra nemohla přečíst soubor uložené hry.\nZkuste to prosím znovu, pokud problém přetrvává zašlete soubor s uloženou hrou na daniel@foundersfortune.com, abych mohl zjistit kde se stala chyba a mohl jí opravit při příští aktualizaci.\nDěkuji za vaši pomoc!",
 		"romanian": "Jocul nu a putut citi fișierul dvs. de salvare. Ne pare rău!\nÎncercați din nou mai întâi. Dacă se întâmplă în continuare, trimiteți fișierul dvs. de salvare la daniel@foundersfortune.com ca să pot investiga eroarea și să încerc să o remediez în următoarea actualizare.\nMulțumesc pentru ajutor!",
 		"polish": "Gra nie może odczytać zapisanej gry. Wybacz!\nSprubuj jeszcze raz, jeśli to nie pomoże wyślij plik zapisu na adres: daniel@foundersfortune.com. Postaramy się naprawić ewentualny błąd w kolejnej aktualizacji.\nDziękujemy za twa pomoc!",
-		"japanese": "セーブファイルを読み取ることができませんでした。もう一度最初からお試しください。\n引き続き読み取ることができない状態が発生する場合は保存ファイルをdaniel@foundersfortune.comに送信してください。\nエラーを調査して次のアップデートに修正を試みることができるかもしれません。\nご協力いただきありがとうございます!",
+		"japanese": "セーブファイルを読み取る事ができませんでした。もう一度最初からお試しください。\n引き続き読み取る事ができない状態が発生する場合は保存ファイルをdaniel@foundersfortune.comに送信してください。\nエラーを調査して次のアップデートに修正を試みる事ができるかもしれません。\nご協力いただきありがとうございます！",
 	},
 
 
@@ -3199,6 +3200,7 @@
 		"japanese": "ゲーム設定",
 		"chinese": "游戏设置",
 		"czech": "Herní nastavení",
+		"russian": "Настройки игры",
 	},
 	"mapSize": {
 		"english": "Map Size",
@@ -3211,7 +3213,7 @@
 		"japanese": "マップサイズ",
 		"chinese": "地图尺寸",
 		"czech": "Velikost mapy",
-		
+		"russian": "Размер карты",
 	},
 	"mapSizeSmall": {
 		"english": "Small",
@@ -3224,6 +3226,7 @@
 		"japanese": "小さい",
 		"chinese": "小型",
 		"czech": "Malá",
+		"russian": "Маленькая",
 	},
 	"mapSizeMedium": {
 		"english": "Medium",
@@ -3236,6 +3239,7 @@
 		"japanese": "中ぐらい",
 		"chinese": "中型",
 		"czech": "Střední",
+		"russian": "Средняя",
 	},
 	"mapSizeLarge": {
 		"english": "Large",
@@ -3248,6 +3252,7 @@
 		"japanese": "大きい",
 		"chinese": "大型",
 		"czech": "Velká",
+		"russian": "Большая",
 	},
 	"advancedSettings": {
 		"english": "Advanced Settings",
@@ -3260,6 +3265,7 @@
 		"japanese": "高度な設定",
 		"chinese": "高级设置",
 		"czech": "Pokročilé nastavení",
+		"russian": "Дополнительные настройки",
 	},
 	"peacefulPirates": {
 		"english": "Peaceful Pirates",
@@ -3272,6 +3278,7 @@
 		"japanese": "平和な海賊",
 		"chinese": "和平海盗",
 		"czech": "Mírumilovní piráti",
+		"russian": "Мирные пираты",
 	},
 	"peacefulGoblins": {
 		"english": "Peaceful Goblins",
@@ -3284,6 +3291,7 @@
 		"japanese": "平和なティキゴブリン",
 		"chinese": "和平哥布林",
 		"czech": "Mírumilovní goblini",
+		"russian": "Мирные гоблины",
 	},
 	"islandBiomes": {
 		"english": "Island Biomes",
@@ -3293,9 +3301,10 @@
 		"dutch": "Landschap",
 		"polish": "Biomy wysp",
 		"portuguese": "Biomas da Ilha",
-		"japanese": "アイランド",
+		"japanese": "島の地帯",
 		"chinese": "海岛地形",
 		"czech": "Povrch ostrova",
+		"russian": "Биомы островов",
 	},
 	"biomesGrass": {
 		"english": "Mostly Grassland",
@@ -3308,6 +3317,7 @@
 		"japanese": "草原地帯",
 		"chinese": "草原地形",
 		"czech": "Pastviny",
+		"russian": "Равнина",
 	},
 	"biomesMixed": {
 		"english": "Mixed",
@@ -3320,6 +3330,7 @@
 		"japanese": "混合地帯",
 		"chinese": "混合地形",
 		"czech": "Mix",
+		"russian": "Микс",
 	},
 	"biomesForest": {
 		"english": "Mostly Forest",
@@ -3332,6 +3343,7 @@
 		"japanese": "森林地帯",
 		"chinese": "森林地形",
 		"czech": "Lesy",
+		"russian": "Леса",
 	},
 	"goblinVillages": {
 		"english": "Goblin Villages",
@@ -3344,6 +3356,7 @@
 		"japanese": "ティキゴブリンの村",
 		"chinese": "哥布林村庄",
 		"czech": "Vesnice goblinů",
+		"russian": "Деревни гоблинов",
 	},
 	"goblinVillagesNone": {
 		"english": "None",
@@ -3356,6 +3369,7 @@
 		"japanese": "なし",
 		"chinese": "无",
 		"czech": "Žádné",
+		"russian": "Нет",
 	},
 	"goblinVillagesFew": {
 		"english": "Few",
@@ -3368,6 +3382,7 @@
 		"japanese": "少ない",
 		"chinese": "少量",
 		"czech": "Málo",
+		"russian": "Немного",
 	},
 	"goblinVillagesDefault": {
 		"english": "Some",
@@ -3377,9 +3392,10 @@
 		"dutch": "Enkele",
 		"polish": "Nieliczne",
 		"portuguese": "Alguns",
-		"japanese": "いくつか",
+		"japanese": "ふつう",
 		"chinese": "一些",
 		"czech": "Několik",
+		"russian": "Несколько",
 	},
 	"goblinVillagesMany": {
 		"english": "Many",
@@ -3392,6 +3408,7 @@
 		"japanese": "たくさん",
 		"chinese": "很多",
 		"czech": "Mnoho",
+		"russian": "Много",
 	},
 	"aging": {
 		"english": "Aging",
@@ -3404,6 +3421,7 @@
 		"japanese": "老化",
 		"chinese": "老化",
 		"czech": "Stárnutí",
+		"russian": "Старение",
 	},
 	"agingTooltip": {
 		"english": "With slow aging, villagers live twice as long.\nWith fast aging, villagers age 50% quicker.",
@@ -3413,9 +3431,10 @@
 		"dutch": "Bij langzame veroudering leven de dorpelingen twee keer zo lang. \nDoor de snelle vergrijzing verouderen de dorpelingen 50% sneller.",
 		"polish": "Przy wolnym starzeniu się, osadnicy żyją dwa razy dłużej.\nPrzy szybkim starzeniu się, osadnicy żyją o 50% krócej.",
 		"portuguese": "Com o envelhecimento lento, os aldeões vivem duas vezes mais.\nCom o envelhecimento rápido, os aldeões envelhecem 50% mais rápido.",
-		"japanese": "老化が遅いとコロニストは2倍長生きします。\n急速に老化するとコロニストは50%はやく老化してしまいます。",
+		"japanese": "ゆっくりは2倍長生きします。\nはやいは50%早く老化します。",
 		"chinese": "老化速度缓慢，村民的寿命延长到原来的两倍。\n老化速度快速，村民的寿命缩减到原来的50%。",
 		"czech": "S pomalým stárnutím žijí vesničané dvakrát déle.\nS rychlým stárnutím vesničané stárnou o 50% rychleji.",
+		"russian": "При медленном старении жители живут вдвое дольше. \nПри быстром старении жители стареют на 50% быстрее.",
 	},
 	"agingOff": {
 		"english": "Off",
@@ -3428,6 +3447,7 @@
 		"japanese": "OFF",
 		"chinese": "关闭",
 		"czech": "Vypnuto",
+		"russian": "Выключено",
 	},
 	"agingSlow": {
 		"english": "Slow",
@@ -3440,6 +3460,7 @@
 		"japanese": "ゆっくり",
 		"chinese": "缓慢",
 		"czech": "Pomalu",
+		"russian": "Медленное",
 	},
 	"agingDefault": {
 		"english": "Standard",
@@ -3452,6 +3473,7 @@
 		"japanese": "ふつう",
 		"chinese": "标准",
 		"czech": "Standardně",
+		"russian": "Обычное",
 	},
 	"agingFast": {
 		"english": "Fast",
@@ -3461,9 +3483,10 @@
 		"dutch": "Snel",
 		"polish": "Szybkie",
 		"portuguese": "Rápido",
-		"japanese": "速い",
+		"japanese": "はやい",
 		"chinese": "快速",
 		"czech": "Rychle",
+		"russian": "Быстрое",
 	},
 	"newGameSaveName": { // default save game name when settlers have left by boat
 		"english": "Save after boat departed",
@@ -3473,9 +3496,10 @@
 		"dutch": "Opslaan na vertrek van de boot",
 		"polish": "Zapis z początku gry",
 		"portuguese": "Salvar depois de barco partiu",
-		"japanese": "船が出港後保存する",
+		"japanese": "新天地へ出航直前のゲーム",
 		"chinese": "船只出发后保存游戏",
 		"czech": "Uložit poté, co loď vypluje",
+		"russian": "Сохранение после отплытия лодки",
 	},
 	"credits": {
 		"english": "Credits",
@@ -3487,6 +3511,7 @@
 		"japanese": "クレジット",
 		"chinese": "鸣谢",
 		"czech": "Credits",
+		"russian": "Титры",
 	},
 	"saveCorrupted":  {
 		"english": "Unfortunately this save file seems to be corrupted and can not be read.",
@@ -3494,8 +3519,9 @@
 		"french": "Malheureusement, ce fichier de sauvegarde semble être corrompu et ne peut pas être lu.",
 		"dutch": "Helaas lijkt dit bestand beschadigd te zijn en kan het niet worden gelezen.",
 		"portuguese": "Infelizmente, este arquivo salvo parece estar corrompido e não pode ser lido.",
-		"japanese": "残念ながらこのセーブデーターは破損しているようで読み取ることができません。",
+		"japanese": "残念ながらこのセーブデーターは破損している様で読み取る事ができません。",
 		"chinese": "不幸的是，此存档文件似乎已损坏，无法读取。",
 		"czech": "Bohužel se zdá, že tento uložený soubor je poškozený a nelze jej přečíst.",
+		"russian": "К сожалению, этот файл сохранения кажется поврежденным и не может быть прочитан.",
 	}
 }

@@ -16,6 +16,7 @@
 		"Norwegian": "Leksikon",
 		"japanese": "ヘルプメニュー",
 		"czech": "Encyklopedie",
+		"danish": "Encyklopædi",
 	},
 	"helpMenuTitle_basics": {
 		"english": "Basics",
@@ -34,6 +35,7 @@
 		"Norwegian": "Grunnleggende",
 		"japanese": "始めに",
 		"czech": "Základy hry",
+		"danish": "Grundlæggende",
 	},
 	"helpMenuTitle_research": {
 		"english": "Research",
@@ -52,6 +54,7 @@
 		"Norwegian": "undersøke",
 		"japanese": "研究",
 		"czech": "Výzkum",
+		"danish": "Undersøge",
 	},
 	"helpMenuTitle_foodProduction": {
 		"english": "Food Production",
@@ -70,6 +73,7 @@
 		"Norwegian": "mat produksjon",
 		"japanese": "食べ物",
 		"czech": "Produkce jídla",
+		"danish": "Mad produktion",
 	},
 	"helpMenuTitle_health": {
 		"english": "Health",
@@ -88,6 +92,7 @@
 		"Norwegian": "helse",
 		"japanese": "健康",
 		"czech": "Zdraví",
+		"danish": "Helbred",
 	},
 	"helpMenuTitle_immigration": {
 		"english": "Immigration",
@@ -106,6 +111,7 @@
 		"Norwegian": "innvandrer",
 		"japanese": "コロニスト",
 		"czech": "Imigrace",
+		"danish": "invandring",
 	},
 	"helpMenuTitle_professions": {
 		"english": "Professions",
@@ -122,8 +128,9 @@
 		"chinese": "职业",
 		"italian": "Professioni",
 		"Norwegian": "yrke",
-		"japanese": "作業",
+		"japanese": "職業",
 		"czech": "Profese",
+		"danish": "Erhverv",
 	},
 	"helpMenuTitle_mood": {
 		"english": "Mood",
@@ -142,6 +149,7 @@
 		"Norwegian": "humør",
 		"japanese": "心情",
 		"czech": "Nálady",
+		"danish": "Humør",
 	},
 
 	
@@ -271,6 +279,16 @@ A co je nejdůležitější, musíte se ujistit, že ve skladu je vždy dostatek
 Udržujte své kolonisty v bezpečí a zdraví, abyste ve své komunitě udržely dobrou náladu. Agresivní domorodci, oslabující nemoci a drsné počasí jsou jen některé z výzev, které budete muset na své cestě překonat. Pokud své osadníky vystavíte příliš dlouhým útrapám, mohli by přestat dělat vaše příkazy a místo toho dělat, co chtějí.
 
 Hodně štěstí s osidlováním ostrova.",
+		
+		"danish": "Welcome!
+		
+	
+Du skal passe godt på dine kolonister, hvis du vil have din forpost til at vokse.
+Vigtigst er det, at du skal sørge for, at der altid er nok mad i opbevaring, især når vinteren er rundt om hjørnet! Fortæl kolonister, hvad de skal gøre direkte, eller tildel erhverv for at få dem til at arbejde selvstændigt. Landmænd, Håndværkere, soldater og forskere, de gør alle deres del for kolonien. Bed forskere om at undersøge nye teknologier og låse op for mere avancerede bygninger, udstyr og færdigheder.
+		
+Hold dine kolonister sikre og sunde for at opretholde det gode humør i dit team. Aggressive indfødte, svækkende sygdomme og hårdt vejr er blot nogle få af de udfordringer, du bliver nødt til at overvinde på din vej. Hvis du udsætter dine kolonister for vanskeligheder for længe, holder de muligvis op med at arbejde og gør hvad de vil i stedet for.
+
+Held og lykke med at slå dig ned på denne ø!",
 	},
 	"helpMenuText_research": {
 		"english": "Your scholars come up with new technologies by studying the magic crystals scattered all around your settlement. Send out miners to collect some and build a book stand so your scholars may read up on techniques to analyze the crystals. Make sure to select the next technology in the research panel in the top right corner.",
@@ -289,6 +307,7 @@ Hodně štěstí s osidlováním ostrova.",
 		"Norwegian": "din lærer kommer opp med nye teknologier ved å studere magiske krystaller som ligger overalt rundt deg. send ut gruvearbeidere for å samle inn, og bygg en bok stand så læreren kan lese seg opp på teknologier og analysere krystallene. husk å velge neste teknologi i etterforskings panelet i toppen på høyre hjørnet.",
 		"japanese": "研究はいたる所にあるクリスタルを解析する事で獲得する事ができます。右上隅の研究アイコンから研究一覧パネルを開き、獲得したい研究を選択してください。また高度な研究はスクロールの解析も必要となります。決して楽ではありませんが、発展のため手を抜く事はできません。",
 		"czech": "Vaši vědci přicházejí s novými technologiemi studiem magických krystalů rozptýlených po celém ostrově. Rozesílejte horníky, abyste nějaké shromáždili a postavili knihovnu, aby si vaši vědci mohli přečíst o technikách výzkumu krystalů. Nezapomeňte vybrat další technologii v nabídce výzkumu která se nachází v pravém horním rohu.",
+		"danish": "Dine forskere finder på nye teknologier ved at studere de magiske krystaller spredt rundt omkring i din bosættelse. Send minearbejdere ud for at samle nogle og byg en bogstand, så dine forskere kan læse om teknikker til at analysere krystaller. Sørg for at vælge den næste teknologi i forskningspanelet i øverste højre hjørne.",
 	},
 	"helpMenuText_foodProduction": {
 		"english": "Food matters. Good food makes colonists happy, bad food makes colonists sick, little food makes colonists slow, and no food means colonists will die. So, make sure you've got your production chain set up to provide for everyone!",
@@ -307,6 +326,7 @@ Hodně štěstí s osidlováním ostrova.",
 		"Norwegian": "mat er viktig. god mat gjør kolonien glad, dårlig mat gjør kolonien syk, lite mat gjør kolonistene trege, null mat gjør at de vil dø. så vær sikker på at du har satt opp produksjonen for at det er nok til alle!",
 		"japanese": "食べ物はとても重要です。おいしい食べ物はコロニストの心情を良くします。だめな食べ物は病気になる場合もあります。また食べる量が少ないと作業に影響します。最後に食べ物が無くなればコロニストが飢え死にするため、絶対にその様な事態は避けてください。",
 		"czech": "Na jídle záleží. Dobré jídlo dělá kolonistům radost, špatné jídlo dělá kolonistům zle, malo jídla kolonisty zpomaluje a žádné jídlo znamená, že kolonisté zemřou. Ujistěte se tedy, že máte svůj výrobní řetězec nastavený tak, aby poskytoval všem dostatek jídla!",
+		"danish": "Mad betyder noget. God mad gør dine kolonister glade, dårlig mad gør dine kolonister syge, lidt mad gør dine kolonister langsomme, og ingen mad betyder, at dine kolonister vil dø. Så sørg for, at du har din produktionskæde oprettet til at sørge for alle!",
 	},
 	"helpMenuTitle_foodProduction_farming": {
 		"english": "Farming",
@@ -325,6 +345,7 @@ Hodně štěstí s osidlováním ostrova.",
 		"Norwegian": "jordbruk",
 		"japanese": "農業",
 		"czech": "Farmaření",
+		"danish": "landbrug",
 	},
 	"helpMenuText_foodProduction_farming": {
 		"english": "Everything begins in the fields, where industrious farmers spend their days caring for your crops. Depending on the season, they can sow a different selection of plants for food or medicinal purposes. Plants grow no matter how well you care for them, but good farmers use their watering cans to keep them growing optimally and increase their yield significantly.
@@ -370,6 +391,9 @@ Buona coltivazione!",
 		"czech": "Vše začíná na polích, kde pilní farmáři tráví dny péčí o vaše plodiny. V závislosti na ročním období mohou zasít různé druhy rostlin pro potravinářské nebo léčivé účely. Rostliny rostou bez ohledu na to, jak dobře se o ně staráte, ale dobří zemědělci používají své konvice na zalévání, aby jim zajistily optimální růst a výrazně zvýšili jejich výnos.
 Nyní, než začnete sázet jako blázni, poslední slovo jako varování: Všechny rostliny, které nebudou sklizeny před koncem sezóny, zemřou, aniž by přinesly potravu pro vaši kolonii!
 Šťastné farmaření!",
+		"danish": "Alt begynder på markerne, hvor flittige landmænd bruger deres dage på at passe på dine afgrøder. Afhængigt af årstid kan de så et andet udvalg af planter til mad eller medicinske formål. Planter vokser uanset hvor godt du holder af dem, men gode landmænd bruger deres vandkande for at holde dem optimalt voksende og øge deres udbytte markant.
+Nu før du begynder at plante som en skør, et sidste ord med advarsel: Alle planter, der ikke høstes inden slutningen af ​​deres sæson, dør uden at give mad til din koloni!
+Glædeligt landbrug!",
 	},
 	"helpMenuTitle_foodProduction_expectations": {
 		"english": "Food Expectations",
@@ -388,6 +412,7 @@ Nyní, než začnete sázet jako blázni, poslední slovo jako varování: Všec
 		"Norwegian": "mat forventninger",
 		"japanese": "食べ物の影響",
 		"czech": "Očekávání jídla",
+		"danish": "Mad forventninger",
 	},
 	"helpMenuText_foodProduction_expectations": {
 		"english": "Colonists can deal with a lot of hardship, but they are not stupid. When your colony grows in size and numbers, they will start to expect better food than just eating raw plants. Using the campfire or the kitchen you can make meals of higher quality for demanding colonists. If you can run a bakery as well, they will welcome the variety!
@@ -421,6 +446,9 @@ noen kolonister vil ha en favoritt mat og få en humør boost hvis de får det. 
 好きな食べ物があるコロニストはそれを食べる事で心情が良くなります。また、食べ物でアレルギー症状が出るコロニストもいます。アレルギー症状の食べ物しかない場合はその食べ物を口にするため注意してください。",
 		"czech": "Kolonisté se dokážou vypořádat s mnoha útrapami, ale nejsou hloupí. Až vaše kolonie naroste do určité velikosti a počtu, začnou očekávat lepší jídlo než jen konzumaci surových potravin. Pomocí ohniště nebo kuchyně můžete připravit jídla vyšší kvality pro náročné kolonisty. Pokud můžete provozovat také pekárnu, uvítají rádi tuto rozmanitost!
 Někteří kolonisté mají svá oblíbená jídla a dostanou dobrou náladu, pokud je mohou jíst. Jiní jsou na některé druhy potravin alergičtí a vyhnou se jim za každou cenu. Pokud není k dispozici nic jiného, mohou být nuceni to stejně jíst - což má za následek alergickou reakci.",
+		
+		"danish": "Kolonister kan håndtere en masse vanskeligheder, men de er ikke dumme. Når din koloni vokser i størrelse og antal, vil de begynde at forvente bedre mad end bare at spise rå planter. Ved brug af lejrbålet eller køkkenet kan du lav måltider af højere kvalitet til krævende kolonister. Hvis du også kan drive et bageri, vil de byde sorten velkommen!
+Nogle kolonister har yndlingsmåltider og får et humørsving, hvis de kan få det. Andre er allergiske over for nogle typer mad og undgår dem for enhver pris. Hvis der ikke er noget andet tilgængeligt, kan de alligevel blive tvunget til at spise det - hvilket resulterer i en allergisk reaktion. "
 	},
 	"helpMenuTitle_foodProduction_rations": {
 		"english": "Food Rations",
@@ -439,6 +467,7 @@ Někteří kolonisté mají svá oblíbená jídla a dostanou dobrou náladu, po
 		"Norwegian": "matrasjon",
 		"japanese": "食べ物の配分",
 		"czech": "Potravinové dávky",
+		"danish": "Mad rationer",
 	},
 	"helpMenuText_foodProduction_rations": {
 		"english": "Winter is long and even the best colonies sometimes fail to perpare adequate stockpiles. If you worry about the survival of your colony, you can limit the food rations for each colonist. While this preserves more food for later, your colonists will feel weak and are not going to be able to work as quickly. 
@@ -474,6 +503,8 @@ på den andre siden, hvis lageret er fullt og det er mye reserve mat, kan du set
 これにより備蓄は長く保つ事になりますが、コロニストは満足に作業できなくなります。逆に備蓄が十二分にある場合は、配分を多くする事でコロニストの心情を高める事ができます。",
 		"czech": "Zima je dlouhá a dokonce i ty nejlepší kolonie někdy nedokážou připravit dostatečné zásoby. Pokud se obáváte o přežití své kolonie, můžete omezit potravinové dávky pro každého kolonistu zvlášť. I když to šetří více jídla na později, vaši kolonisté se budou cítit slabí a nebudou schopni pracovat tak rychle.
 Na druhou stranu, pokud jsou vaše zásoby plné a rezerv je spousta, můžete zvýšit dávky jídla, abyste získali štěstí!",
+		"danish": "Vinteren er lang, og selv de bedste kolonier fejler i at klargøre tilstrækkelige lagre. Hvis du bekymrer dig om din kolonis overlevelse, kan du begrænse madrationerne for hver kolonist. Mens dette bevarer mere mad til senere, vil dine kolonister føle sig svage og vil ikke være i stand til at arbejde så hurtigt.
+På bagsiden, hvis dine lagre er fulde og reserverne er rigelige, kan du øge madrationer for at få et boost i lykke!",
 	},
 	"helpMenuTitle_foodProduction_bugs": {
 		"english": "Bug Infestations",
@@ -492,6 +523,7 @@ Na druhou stranu, pokud jsou vaše zásoby plné a rezerv je spousta, můžete z
 		"Norwegian": "insekt angrep",
 		"japanese": "害虫",
 		"czech": "Zamoření brouky",
+		"danish": "Insektangreb",
 	},
 	"helpMenuText_foodProduction_bugs": {
 		"english": "Every year, the dreaded bugs pose a serious danger to your harvest. If a bug infestation is detected, your colonists need to be quick and remove all affected plants before the infestation spreads. You could lose all your work in seconds!",
@@ -510,6 +542,7 @@ Na druhou stranu, pokud jsou vaše zásoby plné a rezerv je spousta, můžete z
 		"Norwegian": "hvert år vil det komme en sverm av insekter for å gjøre skade på plantene dine, hvis en insekt angrep er oppdaget må kolonien din være rask på å fjerne de berørte plantene før infeksjonen sprer seg. du kan miste all jobben du har gjort på sekunder!",
 		"japanese": "収穫まで油断はできません。その一つが害虫です。作物に深刻な被害を与えるとても危険な物です。もしも害虫が見つかった場合、早急に取り除かないと全ての収穫を失う事になりかねません。",
 		"czech": "Zamoření brouky představuje vážné nebezpečí pro vaši sklizeň. Pokud je zjištěno napadení hmyzem, musí být vaši kolonisté rychlí a odstranit všechny zasažené rostliny dřív, než se napadení rozšíří. Mohli byste přijít o veškerou svou práci během několika sekund!",
+		"danish": "Hvert år udgør de frygtede insekter en alvorlig fare for din høst. Hvis der opdages en insektangreb, skal dine kolonister være hurtige og fjerne alle berørte planter, før angrebet spreder sig. Du kan miste alt dit arbejde på få sekunder!",
 	},
 
 	"helpMenuText_health": {
@@ -544,6 +577,8 @@ det mest vanlige er å gi folkene litt fritid, som å ligge i en seng som tilbyr
 休息は寝具で取る事ができます。休息をとるとゆっくりと健康が回復します。その効果はハートアイコンからの健康ステータスパネルで確認できます。",
 		"czech": "Tvrdě pracujícím kolonistům se může stát spousta špatných věcí.
 Nejzákladnějším prostředkem je poskytnout jim čas na odpočinek. Ležení v posteli nabízí jejich tělům čas na regeneraci. Podívejte se na stavový panel (ikona srdce) a podívejte se na podrobnosti o jejich zdravotním stavu.",
+		"danish": "Der er mange dårlige ting, der kan ske for hårdtarbejdende kolonister.
+Det mest basale middel er at give de stakkels små fyre lidt tid til at hvile. At ligge i en seng giver deres kroppe noget tid til at regenerere langsomt. Se på statuspanelet (hjerteikon) for at se detaljer om deres helbredstilstand",
 	},
 	"helpMenuTitle_health_alchemy": {
 		"english": "Alchemy",
@@ -562,6 +597,7 @@ Nejzákladnějším prostředkem je poskytnout jim čas na odpočinek. Ležení 
 		"Norwegian": "alkymi",
 		"japanese": "薬の調合",
 		"czech": "Alchymie",
+		"danish": "alkemi",
 	},
 	"helpMenuText_health_alchemy": {
 		"english": "If you have colonists with some experience as a doctor, they can usually handle basic alchemy and produce potions from healing plants. While tasting horrific, these concoctions accelerate the healing process significantly.",
@@ -580,6 +616,7 @@ Nejzákladnějším prostředkem je poskytnout jim čas na odpočinek. Ležení 
 		"Norwegian": "hvis du har kolonier som har erfaringer som lege, kan de vanligvis behandle alkymier og produsere heksedrikk fra helbredende planter. mens det smaker ille, vil disse drikkene forårsake at helbredelsen går mye kjappere.",
 		"japanese": "医者のスキルを持つコロニストがいる場合、ヒーリングハーブから薬であるワクチン、回復薬を調合する事ができます。おぞましい程の味わいですが、薬は治療に絶大な効果を発揮します。",
 		"czech": "Pokud máte kolonisty, kteří mají nějaké zkušenosti lékaře, obvykle zvládnou základní alchymii a vyrábějí lektvary z léčivých rostlin. Zatímco chutnají strašně, tak významně urychlují proces hojení.",
+		"danish": "Hvis du har kolonister med en vis erfaring som læge, kan de normalt håndtere grundlæggende alkemi og producere potions fra helbredende planter. Mens de smager forfærdeligt, fremskynder disse helingsprocessen betydeligt.",
 	},
 	"helpMenuTitle_health_wounds": {
 		"english": "Wounds",
@@ -598,6 +635,7 @@ Nejzákladnějším prostředkem je poskytnout jim čas na odpočinek. Ležení 
 		"Norwegian": "sår",
 		"japanese": "ケガ",
 		"czech": "Zranění",
+		"danish": "Skader",
 	},
 	"helpMenuText_health_wounds": {
 		"english": "Doctors show their true strength when dealing with badly wounded colonists. When push comes to shove and the colony needs to be defended against raiders, injuries are inevitable. Colonists can lose consciousness on the battlefield. While they are losing blood and holding on to dear life, a doctor can rush out, bandage their wounds and administer healing potions to prevent the worst.",
@@ -616,6 +654,7 @@ Nejzákladnějším prostředkem je poskytnout jim čas na odpočinek. Ležení 
 		"Norwegian": " leger viser dem virkelige styrke når de behandler sårede kolonister. når kolonien må forsvare seg mot finender, vil sår være garantert. kolonistene kan miste bevisstheten under kampen. mens de mister blod  og kjemper for livet, en lege kan forte seg, bandasjere sår og gi de heksedrikk for å forhindre det værste.",
 		"japanese": "襲撃が行われた場合は、ほぼ間違いなくコロニストはケガを負います。ケガによる出血は命を落とす最悪の事態があります。それを防ぐには早急なケガの治療が必要であり、それができる医者はとても大事な存在です。",
 		"czech": "Lékaři prokazují svou skutečnou moc při jednání s těžce zraněnými kolonisty. Když se kolonie musí bránit před nájezdníky, zranění jsou nevyhnutelná. Kolonisté mohou na bojišti ztratit vědomí. Zatímco ztrácejí krev a drží se drahocenného života, může lékař vyběhnout, obvazovat jim rány a podat léčivé lektvary, aby zabránil tomu nejhoršímu.",
+		"danish": "Læger viser deres sande styrke, når de beskæftiger sig med hårdt sårede kolonister. Når alt kommer til alt og kolonien skal forsvares mod raiders, er skader uundgåelige. Kolonister kan miste bevidstheden på slagmarken. Mens de mister blod og holder fast i det kære liv, kan en læge skynde sig ud, bandage deres sår og give helbredende drikke for at forhindre det værste.",
 	},
 	"helpMenuTitle_health_illnesses": {
 		"english": "Illnesses",
@@ -634,6 +673,7 @@ Nejzákladnějším prostředkem je poskytnout jim čas na odpočinek. Ležení 
 		"Norwegian": "helse sykdom",
 		"japanese": "病気",
 		"czech": "Nemoci",
+		"danish": "Sygdom",
 	},
 	"helpMenuText_health_illnesses": {
 		"english": "Finally, big colonies are prone to illnesses spreading amongst the colonists. Make sure to keep a good stock of medicine in storage and have a trained doctor attend to them with regular treatments for better chances of recovery.",
@@ -652,6 +692,7 @@ Nejzákladnějším prostředkem je poskytnout jim čas na odpočinek. Ležení 
 		"Norwegian": "endelig, store kolonier er utsatt for sykdommer som sprer seg blandt kolonistene. pass på å ha et bra lager med medisin og ha trente leger som passer på jevnlig for større sjanser for å bli friske.",
 		"japanese": "コロニストが増加するほど病気が広がる恐れが高くなります。病気の治療のために医者と十分な量のワクチンを準備しておく必要があります。",
 		"czech": "A konečně, velké kolonie jsou náchylné k nemocem šířícím se mezi kolonisty. Ujistěte se, že máte na skladě dobrou zásobu léků a nechte je ošetřit vyškoleným lékařem s pravidelnou léčbou, aby se zvýšila šance na uzdravení.",
+		"danish": "Endelig er store kolonier tilbøjelige til sygdomme, der spredes blandt kolonisterne. Sørg for at opbevare et godt lager af medicin og få en uddannet læge til at tage sig af dem med regelmæssige behandlinger for bedre chancer for helbredninger.",
 	},
 	"helpMenuText_immigration": {
 		"english": "Your starting crew may be hardworking or not, but the colony will never reach greatness if it doesn’t grow. To attract immigrants you will need to build a big bonfire on a tower. This light signal, shining far into the distance, is seen by random wanderers and explorers.
@@ -683,6 +724,9 @@ som muligens kommer alene eller med venner for å besøke eller spørre om å bl
 最初のコロニストは少ないですが、時々訪問するコロニストを受け入れる事でコロニストを増やす事ができます。しかし、必ず篝火を建築する必要があります。なぜなら、この篝火はコロニーがここにある事の証だからです。それを目指して一人、または複数で来る時もあり、魅力的なコロニーは進んで参加を希望します。",
 		"czech": "Vaše začínající posádka kolonistů může být pracovitá nebo ne, ale kolonie nikdy nedosáhne velikosti, pokud neroste. Chcete-li přilákat přistěhovalce, budete muset postavit signální oheň. Tento světelný signál, zářící daleko do dálky, vidí náhodní poutníci a průzkumníci.
 Někteří vás mohou navštívit sami nebo s přáteli a požádat vás o připojení se ke kolonii.",
+		"danish": "Din startende besætning kan være hårdtarbejdende eller ej, men kolonien når aldrig storhed, hvis den ikke vokser. For at tiltrække indvandrere skal du bygge et stort bål på et tårn. Dette lyssignal, der skinner langt ud i det fjerne, ses af tilfældige vandrere og opdagelsesrejsende.
+Nogle kan komme alene eller sammen med venner for at besøge dig og bede om at deltage i kolonien.",
+		
 	},
 	"helpMenuTitle_immigration_expectations": {
 		"english": "Expectations",
@@ -701,7 +745,9 @@ Někteří vás mohou navštívit sami nebo s přáteli a požádat vás o přip
 		"Norwegian": "forventninger",
 		"japanese": "住環境",
 		"czech": "Očekávání",
-	},
+		"danish": "forventninger",
+	},	
+
 	"helpMenuText_immigration_expectations": {
 		"english": "Once the colony starts growing and getting more and more wealthy, the colonists want to have a piece of the pie as well. They start expecting good food, a nice looking, comfortable home and a degree of general life statisfaction.
 Not meeting these expectations does not turn the colonists against you, but it does prevent future growth. As migrants are considering your colony, they take the ameneties and benefits of living in your colony into account. If your colonists' expectations are not met, you cannot convince new people to join!",
@@ -734,6 +780,8 @@ Non soddisfare queste aspettative non mette i coloni contro di te, ma impedisce 
 これらの住環境が改善されていなくとも今いるコロニストは貴方に文句を言う事はありませんが、コロニーの発展が妨げられる可能性があります。それは新たなコロニストが移住するための目安がコロニーの住環境の良し悪しであり、悪い住環境ではコロニストは目も向かず移住する事はないからです。",
 		"czech": "Jakmile kolonie začne růst a bohatnout, kolonisté chtějí mít také kousek z tohoto koláče. Začnou očekávat dobré jídlo, pěkně vypadající pohodlný domov a určitou obecnou životní spokojenost.
 Nesplnění těchto očekávání neobrací kolonisty proti vám, ale brání budoucímu růstu. Protože migranti uvažují o vaší kolonii, berou v úvahu výhody a výhody života ve vaší kolonii. Pokud očekávání vašich kolonistů nejsou splněna, nemůžete přesvědčit nové lidi, aby se k vám přidali!",
+		"danish": "Når kolonien begynder at vokse og blive mere og mere velhavende, vil kolonisterne også have et stykke af kagen. De begynder at forvente god mad, et pænt, behageligt hjem og en grad af generel tilfredshed med livet.
+Ikke at imødekomme disse forventninger vender ikke kolonisterne mod dig, men det forhindrer fremtidig vækst. Når migranter overvejer din koloni, tager de hensyn til faciliteterne og fordelene ved at bo i din koloni. Hvis dine kolonisters forventninger ikke er opfyldt, kan du ikke overbevise nye mennesker om at deltage!",
 	},
 	"helpMenuTitle_immigration_overview": {
 		"english": "Immigration Overview",
@@ -751,6 +799,7 @@ Nesplnění těchto očekávání neobrací kolonisty proti vám, ale brání bu
 		"italian": "Panoramica sull'immigrazione",
 		"japanese": "住環境の確認",
 		"czech": "Přehled imigrace",
+		"danish": "indvandringsoversigt",
 	},
 	"helpMenuText_immigration_overview": {
 		"english": "Click on your bonfire to get a detailed overview of the immigration status.
@@ -782,6 +831,8 @@ In questa immagine le aspettative dei coloni non sono soddisfatte, perciò la co
 		"japanese": "篝火をクリックする事で現在のコロニーの住環境を確認できます。住環境が整っているコロニーの場合は新たなコロニストが何時頃訪問するのか確認できます。",
 		"czech": "Kliknutím na svůj signální oheň získáte podrobný přehled o imigračním stavu.
 Pokud na tomto obrázku nejsou splněna očekávání kolonistů, tak kolonie nebude růst.",
+		"danish": "Klik på dit bål for at få en detaljeret oversigt over indvandringsstatus.
+I dette billede er kolonisternes forventninger ikke opfyldt, så kolonien vil ikke vokse.",
 	},
 
 	"helpMenuText_professions": {
@@ -811,9 +862,11 @@ Jednakże każdy w kolonii jest odpowiedzialny za tworzenie podłóg, ścian i m
 然而，在殖民地的每个人都要负责建造地板、墙壁和家具，不管他们的职业任务是什么!",
 		"italian": "Le professioni possono aiutare ad automatizzare le attività ripetitive nella colonia. Usa il pannello del lavoro (icona a forma di martello) nella panoramica dei personaggi per assegnare professioni diverse ai tuoi abitanti. Una volta assegnato un lavoro, eseguiranno automaticamente le attività associate alla professione.
 Ricorda che nella colonia sono tutti responsabili della costruzione di pavimenti, pareti e mobili, indipendentemente dal loro incarico!",
-		"japanese": "ハンマーアイコンからの作業一覧パネルによりコロニストが優先する職業を決める事ができます。コロニストはその優先度に従い様々な作業を実行します。",
+		"japanese": "ハンマーアイコンからの職業一覧パネルによりコロニストが優先する職業を決める事ができます。コロニストはその優先度に従い様々な作業を実行します。",
 		"czech": "Profese mohou pomoci s automatizací opakujících se úkolů v kolonii. Pomocí panelu úloh (ikona kladiva) v přehledu postav můžete svým obyvatelům přiřadit různé profese. Od nynějška budou dělat úkoly spojené s jejich prací automaticky.
 Každý v kolonii je však zodpovědný za stavbu podlah, stěn a nábytku, bez ohledu na jejich profesi či momentální úkol!",
+		"danish": "Erhverv kan hjælpe med at automatisere gentagne opgaver i kolonien. Brug jobpanelet (hammerikon) i tegnoversigten til at tildele forskellige erhverv til dine indbyggere. De vil udføre de opgaver, der er knyttet til deres job automatisk fra nu af.
+Imidlertid er alle i kolonien ansvarlige for at konstruere gulve, vægge og møbler, uanset deres opgave!",
 	},
 	"helpMenuTitle_professions_experience": {
 		"english": "Work experience and promotions",
@@ -831,7 +884,7 @@ Každý v kolonii je však zodpovědný za stavbu podlah, stěn a nábytku, bez 
 		"italian": "Esperienza lavorativa e promozioni",
 		"japanese": "スキルの獲得と経験",
 		"czech": "Pracovní zkušenosti a propagace",
-		
+		"danish": "Arbejdserfaring og forfremmelser",
 	},
 	"helpMenuText_professions_experience": {
 		"english": "The colonist's stage in their profession is shown with the stars in the job panel. With every completed task, your colonists gather experience for their relevant profession.\nYou can see their experience in the job panel and use the promote button to unlock the next level in their career. A higher level usually comes with new skills that allows them to use better tools and craft more advanced items.",
@@ -848,9 +901,10 @@ Die aktuelle Berufsstufe und den aktuellen Erfahrungswert kannst du im Berufefen
 		"korean": "개척자의 직업 수준은 직업 패널에서 별 모양으로 나타납니다. 동작을 끝마칠 때마다, 개척자는 관련된 직업에 대한 경험치를 얻습니다.\n쌓인 경험치는 직업 패널에서 볼 수 있으며, 진급 버튼을 눌러 그들의 경력에 다음 단계를 열어줄 수 있습니다. 레벨을 높이면 대개 더 나은 도구를 사용하거나 더 발전된 물품을 제작할 수 있는 새로운 기술을 얻게 됩니다.",
 		"chinese": "殖民者的职业等级在工作面板上的星星数量表示。每完成一项任务，你的殖民者就会为相关的职业积累经验。你可以在工作面板中看到他们的经历，并点击转职按钮解锁他们职业的下一个等级。更高职业等级通常伴随着新的技能，使他们能够使用更好的工具和制作更高级的物品。",
 		"italian": "Lo stato del colono nella sua professione è mostrato con delle stelle nel pannello di lavoro. Ad ogni incarico completato, i tuoi coloni guadagnano esperienza nella loro professione pertinente.\nPuoi vedere la loro esperienza nel pannello di lavoro e utilizzare il pulsante Promuovi per sbloccare il livello successivo della loro carriera. Un livello superiore, solitamente, viene fornito quando si hanno nuove competenze che consentono loro di utilizzare strumenti migliori e di creare oggetti più avanzati.",
-		"japanese": "ハンマーアイコンからの作業一覧パネルにより職業に対するスキルの取得状況と経験を確認する事ができます。職業の経験は関連した作業を行う事により獲得します。
+		"japanese": "ハンマーアイコンからの職業一覧パネルにより職業に対するスキルの取得状況と経験を確認する事ができます。職業の経験は関連した作業を行う事により獲得します。
 スキルの獲得はそれに応じた経験が必要です。獲得したスキルに上位のスキルがある場合、次からそのスキルは獲得できます。上位のスキルはより優れた道具を生産、使用する事ができます。",
 		"czech": "Fáze kolonisty v jejich profesi je zobrazena hvězdami v pracovním panelu. S každým dokončeným úkolem shromažďují vaši kolonisté zkušenosti pro svou příslušnou profesi.\nJejich zkušenosti můžete vidět na panelu úloh a pomocí tlačítka pro povýšení lze odemknout další úroveň v jejich kariéře. Vyšší úroveň obvykle přichází s novými dovednostmi, které jim umožňují používat lepší nástroje a vytvářet pokročilejší předměty.",
+		"danish": "Kolonistens stadie i deres erhverv vises med stjernerne i jobpanelet. For hver afsluttet opgave indsamler dine kolonister erfaring til deres relevante erhverv.\nDu kan se deres erfaring i jobpanelet og bruge promoveringsknappen til at låse op for det næste niveau i deres karriere. Et højere niveau kommer normalt med nye færdigheder, der giver dem mulighed for at bruge bedre værktøjer og skabe mere avancerede genstande.",
 	},
 	"helpMenuTitle_professions_education": {
 		"english": "Education",
@@ -866,8 +920,9 @@ Die aktuelle Berufsstufe und den aktuellen Erfahrungswert kannst du im Berufefen
 		"korean": "교육",
 		"chinese": "教育",
 		"italian": "Formazione",
-		"japanese": "学習と訓練",
+		"japanese": "勉強と訓練",
 		"czech": "Vzdělání",
+		"danish": "uddanelse",
 	},
 	"helpMenuText_professions_education": {
 		"english": "Sometimes you just can’t wait for learning by doing, and your colonists need to look up how to do more complicated stuff to advance to the next stage in their career more easily. Build a book shelf so they can pick up books about their profession and gather experience much faster.
@@ -896,9 +951,11 @@ Zbuduj regał z książkami, dzięki książkom traktującym o ich zawodach zdob
 士兵们建议使用训练假人训练战斗，因为这种方法比让殖民者同伴作陪练更不容易受伤。",
 		"italian": "A volte per imparare nuove cose bisogna mettersi in gioco. I tuoi coloni devono cercare un modo per fare cose più complicate per avanzare più facilmente alla fase successiva della loro carriera. Costruisci una libreria in modo che possano leggere libri sulla loro professione e guadagnare esperienze molto più velocemente.
 Per quanto riguarda i soldati, è preferibile farli allenare nel combattimento con un manichino d'addestramento, dal momento che in quel modo si è meno inclini a subire delle lesioni a differenza di quando ci si addestra tra coloni stessi.",
-		"japanese": "コロニストは作業を行う以外に学習をする事で経験を積む事ができます。学習する方法は先人達の知恵が詰まった本を読む事であり、経験をより早く積む事ができます。戦いの経験は木人との訓練で積む事ができます。",
+		"japanese": "コロニストは作業を行う以外に勉強をする事で経験を積む事ができます。直接作業させる方法と同様に大きな本棚を右クリックする事で項目の一覧が出ますので決定してください。勉強は経験をより早く積む事ができます。戦いの経験は木人と訓練を行う事で積む事ができます。",
 		"czech": "Někdy prostě nemůžete čekat, až se naučíte praxí to, aby jste snadněji postoupili do další fáze své kariéry. Postavte si poličku na knihy, aby si mohli vyzvednout knihy o své profesi a sbírali tak zkušenosti mnohem rychleji.
 Vojákům se doporučuje trénovat na boj s cvičnou figurínou, protože se ukázalo, že tento způsob je méně náchylný ke zraněním, než řezat mečem do kolegů kolonistů.",
+		"danish": "Nogle gange kan du ikke bare vente på at lære af at gøre, og dine kolonister opsøge, hvordan man gør mere komplicerede ting for lettere at komme videre til næste trin i deres karriere. Byg en boghylde, så de kan hente bøger om deres erhverv og samle erfaringer meget hurtigere.
+Soldater rådes til at træne til kamp med en træningsdummy, da den måde har vist sig at være mindre udsat for skader end at gøre en koloni til deres sparringpartner.",
 	},
 	"helpMenuText_mood": {
 		"english": "While most colonists are not very picky about their circumstances, they do require a certain level of comfort and safety to reach happiness. Exhaustion, pain, and the death of a friend can all be causes for bad mood. Provide good care, food and entertainment to keep the spirits up. Look at the status panel in the character screen to read the minds of your colonists.",
@@ -916,6 +973,7 @@ Vojákům se doporučuje trénovat na boj s cvičnou figurínou, protože se uk�
 		"italian": "Sebbene la gran parte dei coloni non è molto esigente quando si tratta delle loro condizioni, essi richiedono comunque un certo livello di comfort e sicurezza per essere felici. L'esaurimento nervoso, il dolore e la morte di un amico possono essere tutte cause di cattivo umore. Fornisci delle buone cure, del buon cibo e dell'intrattenimento per mantenere alto l'umore. Dai un'occhiata al pannello di stato nella schermata personaggio per leggere le menti dei tuoi coloni.",
 		"japanese": "コロニストは心情が高ければ幸せを、低ければ不幸を感じています。様々な出来事が心情へ影響します。おいしい料理、楽しい娯楽等は心情がプラスになる良い影響を、痛み、友人の死等は心情がマイナスになる悪い影響を及ぼします。フェイスアイコンからの思考パネルによりコロニストの心情の詳細が確認できます。",
 		"czech": "I když většina kolonistů není příliš vybíravá ohledně svých okolností, k dosažení štěstí vyžaduje určitou úroveň pohodlí a bezpečí. Příčina špatné nálady může být vyčerpání, bolest a smrt přítele. Poskytujte dobrou péči, jídlo a zábavu, abyste jim udrželi dobrou náladu. Podívejte se na stavový panel a přečtěte si myšlenky svých kolonistů.",
+		"danish": "Mens de fleste kolonister ikke er meget kræsen om deres forhold, kræver de et vist niveau af komfort og sikkerhed for at nå lykke. Udmattelse, smerte og en vens død kan alle være årsager til dårligt humør. Giv god pleje, mad og underholdning for at holde humøret oppe. Se på statuspanelet på tegnskærmen for at læse dine kolonisters tanker.",
 	},
 	"helpMenuTitle_mood_rebellion": {
 		"english": "Rebellion",
@@ -931,8 +989,9 @@ Vojákům se doporučuje trénovat na boj s cvičnou figurínou, protože se uk�
 		"korean": "반란",
 		"chinese": "反抗",
 		"italian": "Ribellione",
-		"japanese": "反抗",
+		"japanese": "プッツン切れる",
 		"czech": "Povstání",
+		"danish": "oprør",
 	},
 	"helpMenuText_mood_rebellion": {
 		"english": "Your colonists give their best, but everyone has their breaking point. Hardships can lead to bad mood, bad mood can lead to hopelessness and hopelessness can lead to anger, apathy, or desertion (not the dark side in this case). Your colonists may remove themselves from your command and choose to do their own thing instead.",
@@ -948,8 +1007,9 @@ Vojákům se doporučuje trénovat na boj s cvičnou figurínou, protože se uk�
 		"korean": "개척자들은 최선을 다 할테지만, 누구나 한계점이란 게 있습니다. 혹독한 일은 나쁜 기분을 불러오고, 나쁜 기분은 희망을 사라지게 하고, 사라진 희망은 분노와 무관심, 또는 탈선을 불러옵니다. 개척자들은 당신의 명령으로부터 탈출한 다음, 대신 자신이 하고싶은 일을 하려고 할 수도 있습니다.",
 		"chinese": "你们的殖民者尽了最大努力，但每个人都有自己的极限。困难会导致坏心情，坏心情会导致绝望，绝望会导致愤怒、冷漠或遗弃(不，这不是黑暗面)。你的殖民者可能会脱离你的指挥，选择做他们自己的事情。",
 		"italian": "I tuoi coloni danno il meglio di sé, ma ognuno ha i suoi limiti. Le avversità possono portare al cattivo umore, il cattivo umore può portare alla disperazione e la disperazione può portare alla rabbia, all'apatia o alla diserzione (non al lato oscuro in questo caso). I tuoi coloni possono smettere di eseguire gli ordini e scegliere di fare ciò che vogliono.",
-		"japanese": "コロニストの心情が悪くなった場合、我慢の限界を突破する恐れがあります。そうなった場合のコロニストは貴方の命令を無視した反抗的な態度となり、自分勝手な行動を取ります。",
+		"japanese": "コロニストの心情が悪くなった場合、それが引き金となり様々な行動を引き起こす事があります。命令を無視する以外にも他人に暴力を振るう、周りの物を壊すなど危険な行動もあります。大事にさせないためにも休息または会話など落ち着かせる事が大事です。",
 		"czech": "Vaši kolonisté ze sebe sice dávají maximum, ale každý má svůj bod zlomu. Těžkosti mohou vést ke špatné náladě, špatná nálada může vést k beznaději a beznaděj může vést k hněvu, apatii nebo dezerci. Vaši kolonisté se mohou z vašeho velení vymanit a místo toho se rozhodnou udělat si vlastní věc podle sebe.",
+		"danish": "Dine kolonister giver deres bedste, men alle har deres brudpunkt. Modgang kan føre til dårligt humør, dårligt humør kan føre til håbløshed og håbløshed kan føre til vrede, apati eller desertering (ikke den mørke side i dette tilfælde). Dine kolonister kan fjerne sig selv fra din kommando og vælge at gøre deres egne ting i stedet.",
 	},
 	"helpMenuTitle_mood_inspiration": {
 		"english": "Inspiration",
@@ -965,8 +1025,9 @@ Vojákům se doporučuje trénovat na boj s cvičnou figurínou, protože se uk�
 		"korean": "영감",
 		"chinese": "鼓舞",
 		"italian": "Ispirazione",
-		"japanese": "熱狂",
+		"japanese": "やる気が溢れる",
 		"czech": "Inspirace",
+		"danish": "inspiration",
 	},
 	"helpMenuText_mood_inspiration": {
 		"english": "On the other hand, your colonists could be having the time of their lives. If they are really happy, they can enter a state of inspiration in which they work with seeming unlimited energy, without needing any sleep! When they reach this rare state, they just cannot stop smiling.",
@@ -982,8 +1043,9 @@ Vojákům se doporučuje trénovat na boj s cvičnou figurínou, protože se uk�
 		"korean": "반면, 개척자들은 자신을 위한 시간을 보낼 수 있습니다. 정말로 행복할 때면, 개척자는 영감의 단계에 진입하게 될 수도 있습니다. 이 단계에서, 그들은 잠도 필요없는 거의 무제한의 에너지를 가진 것처럼 일할 수 있습니다! 드물게 이 상태에 진입한 개척자들에게서는, 미소가 지워지지 않습니다.",
 		"chinese": "另一方面，你的殖民者可能正享受着他们一生中最快乐的时光。如果他们真的很快乐，他们可以进入一种鼓舞的状态，在这种状态下，他们不需要任何睡眠休息就可以无限精力地工作。当他们达到这种罕见的状态时，他们就会忍不住地微笑。",
 		"italian": "D'altra parte, i tuoi coloni potrebbero darsi alla pazza gioia. Se sono davvero felici, possono entrare in uno stato d'ispirazione in cui lavorano con un'energia apparentemente illimitata, senza bisogno di dormire! Quando raggiungono questo raro stato, non riescono a smettere di sorridere.",
-		"japanese": "その一方、コロニストの心情が高い場合、熱狂し、疲れを知らず、睡眠すら必要のない超人的な行動をします。その時、彼の笑顔が止む事がありません。",
+		"japanese": "その一方、コロニストの心情が最高になった場合、やる気があふれ、疲れる事がなく、また睡眠すら必要のない超人的な行動ができる様になります。その間は彼の笑顔が止む事がありません。",
 		"czech": "Na druhou stranu by vaši kolonisté mohli mít čas na svůj život. Pokud jsou opravdu šťastní, mohou vstoupit do stavu inspirace, ve kterém pracují se zdánlivě neomezenou energií, aniž by museli spát! Když dosáhnou tohoto vzácného stavu, prostě se nemohou přestat usmívat.",
+		"danish": "På den anden side kan dine kolonister muligvis den bedste tid i deres liv. Hvis de er virkelig glade, kan de komme i en tilstand af inspiration, hvor de arbejder med tilsyneladende ubegrænset energi uden at have brug for søvn! Når de når denne sjældne tilstand, kan de bare ikke stoppe med at smile.",
 	},
 	
 	"helpMenuTitle_wishes": {
@@ -1002,6 +1064,7 @@ Vojákům se doporučuje trénovat na boj s cvičnou figurínou, protože se uk�
 		"italian": "Desideri",
 		"japanese": "願い事",
 		"czech": "Přání",
+		"danish": "ønsker",
 	},
 	"helpMenuText_wishes": {
 		"english": "Every inhabitant in the colony is here because of a dream.
@@ -1045,6 +1108,9 @@ Certo, a volte sarà difficile. Ma nel frattempo, i coloni vogliono costruire un
 		"japanese": "コロニストがコロニーの発展を頑張る一つの理由は自分の願い事を叶えるためです。コロニストの願い事は様々であり、簡単な事もあれば難しい事もあります。その願い事はフェイスアイコンからの願い事パネルにより確認できます。",
 		"czech": "Každý obyvatel kolonie je zde kvůli snu. Snu o lepším životě.
 Samozřejmě to někdy bude těžké. Kolonisté si zde chtějí vybudovat domov, který je baví, něco, v čem se cítí dobře. Co to přesně znamená, je zobrazeno na panelu *Přehled přání* každého kolonisty.",
+		"danish": "Hver indbygger i kolonien er her på grund af en drøm.
+En drøm om et bedre liv.
+Selvfølgelig vil det være svært nogle gange. Men i mellemtiden vil kolonisterne bygge et hjem, de nyder noget de føler sig godt tilpas i. Hvad det præcist betyder, vises i panelet Ønskes oversigt for enhver kolonist.",
 	},
 	"helpMenuTitle_wishes_fulfillingDenying": {
 		"english": "Fulfilling and Denying Wishes",
@@ -1062,6 +1128,7 @@ Samozřejmě to někdy bude těžké. Kolonisté si zde chtějí vybudovat domov
 		"italian": "Soddisfare e negare i desideri",
 		"japanese": "願い事を叶える、願い事を断る",
 		"czech": "Plnění a popírání přání",
+		"danish": "Opfyldelse og benægtelse af ønsker",
 	},
 	"helpMenuText_wishes_fulfillingDenying": {
 		"english": "It's your decision whether you make the colonists happy or not. If you fulfill the wish of a colonist, they are going to become a little happier for a while.
@@ -1093,6 +1160,8 @@ Al contrario, puoi anche scegliere di negare i desideri. In questo modo dici ai 
 		"japanese": "コロニストの願い事を叶える事は心情を高め彼らを幸せにします。今の願い事を断り新しい願い事を出してもらう事もできますが、当然、彼らの心情は下がり不満を持ちます。",
 		"czech": "Je na vašem rozhodnutí, zda kolonistům uděláte radost nebo ne. Pokud splníte přání kolonisty, stane se na chvíli trochu šťastnějším.
 Naproti tomu můžete také odmítnout přání. Pokud řeknete kolonistovi, že se jeho přání nestane, tak si vymyslí něco jiného. A bude se díky tomu cítit špatně.",
+		"danish": "Det er din beslutning, om du gør kolonisterne glade eller ej. Hvis du opfylder en kolonists ønske, bliver de lidt lykkeligere et stykke tid.
+I modsætning hertil kan du også vælge at afvise ønsker. Sådan fortæller du kolonisten, at dette ønske ikke vil ske, så de vil tænke på noget andet. Selvom de stadig vil have det dårligt.",
 	},
 	"helpMenuTitle_wishes_satisfaction": {
 		"english": "Life satisfaction",
@@ -1110,6 +1179,7 @@ Naproti tomu můžete také odmítnout přání. Pokud řeknete kolonistovi, že
 		"italian": "Soddisfazione di vita",
 		"japanese": "満足度",
 		"czech": "Spokojenost se životem",
+		"danish": "livstilfredshed",
 	},
 	"helpMenuText_wishes_satisfaction": {
 		"english": "If you fulfill more and more wishes of your colonist, they are going to become ever more satisfied with their life in the colony. This satisfaction is not only necessary for attracting new migrants, but has a long term impact as well. With each satisfaction level, your colonist earns a life satisfaction point. Once the colonist has enough of them, these points can be used to change one of their fundamental traits.
@@ -1140,6 +1210,8 @@ Ad esempio: una persona pessimista potrebbe essere un vero ostacolo per la colon
 		"japanese": "コロニストの様々な願い事にはそれに応じた満足度があります。これらが叶い、そして一定の満足度に達した場合、満足度ポイントを獲得できます。これらの満足度ポイントは、状況の改善、個性の変更に使用できます。",
 		"czech": "Pokud svému kolonistovi budete plnit stále více přání, bude se svým životem v kolonii stále spokojenější. Tato spokojenost je nejen nezbytná pro přilákání nových migrantů, ale má také dlouhodobý dopad. S každou úrovní spokojenosti váš kolonista získá bod spokojenosti se životem. Jakmile jich má kolonista dostatek, lze je použít ke změně jedné z jeho základních vlastností.
 Například: Někdo, kdo trpí pesimismem, může být skutečnou brzdou kolonie. Pokud však kolonista nashromáždí dostatek životních bodů spokojenosti, můžete ho nechat zapomenout na pesimistickou vlastnost a nahradit ji něčím pozitivním.",
+		"danish": "Hvis du opfylder flere og flere ønsker fra din kolonist, bliver de stadig mere tilfredse med deres liv i kolonien. Denne tilfredshed er ikke kun nødvendig for at tiltrække nye invandre, men har også en langsigtet virkning. Med hvert tilfredshedsniveau tjener din kolonist et livstilfredshedspoint. Når kolonisten har fået nok af dem, kan disse punkter bruges til at ændre et af deres grundlæggende træk.
+For eksempel: En person, der lider af pessimisme, kan være en reel træk for kolonien. Men hvis kolonisten akkumulerer nok livstilfredshedspoint, kan du lade dem glemme det pessimistiske træk og erstatte det med noget positivt.",
 	},
 
 
@@ -1156,6 +1228,7 @@ Například: Někdo, kdo trpí pesimismem, může být skutečnou brzdou kolonie
 		"polish": "Relacje",
 		"japanese": "関係",
 		"czech": "Vztahy",
+		"danish": "forhold",
 	},
 	"helpMenuText_relationships": {
 		"english": "No one wants to feel alone in the world and that is especially true for your villagers. Making friends and maintaining old frienships is not only fun, it's a core part of their wellbeing.
@@ -1184,14 +1257,17 @@ Una volta che il villaggio è cresciuto un po', i suoi abitanti vorranno farsi n
 		"polish": "Na świecie nikt nie chce czuć się samotny, a dotyczy to w szczególności twoich kolonistów. Nawiązywanie przyjaźni i utrzymywanie ich to nie tylko dobra rozrywka, ale także podstawa dla dobrego samopoczucia.
 		
 Gdy wioska się nieco rozrośnie, jej mieszkańcy będą chcieli nawiązać nowe przyjaźnie. Pozwól im na interakcje między sobą celem wzmocnienia łączących ich więzi.",
-		"japanese": "コロニストは誰一人孤独になりたいとは思っていません。なぜなら彼らの幸せの一つが友人を作り、友情を育む事であるからです。
-ゆえにコロニーの発展と共に彼らの友人を作る事、友情を育む事も忘れずに行ってください。",
+		"japanese": "コロニストは誰一人孤独になりたいとは思っていません。なぜなら彼らの幸せの一つが友達を作り友情を育む事であるからです。
+ゆえにコロニーの発展と共に彼らの友達を作る事、友情を育む事も忘れずに行ってください。",
 		"czech": "Nikdo se ve světě nechce cítit sám, a to platí zejména pro vaše kolonisty. Vytváření přátel a udržování starých přátelství není jen zábava, ale i základní součást jejich blahobytu.
 
 Jakmile se vesnice trochu rozroste, její obyvatelé si budou chtít najít nové přátele. Nechte je vzájemně komunikovat, aby se posílilo jejich pouto.",
 		"dutch": " Niemand wil zich alleen voelen in de wereld en dat geldt zeker voor uw dorpelingen. Vrienden maken en oude vriendschappen onderhouden is niet alleen leuk, het is ook een essentieel onderdeel van hun welzijn.
 		
 Eens het dorp een beetje gegroeid is, zullen de inwoners nieuwe vrienden willen maken. Laat ze met elkaar omgaan om hun band te versterken.",
+		"danish": "Ingen ønsker at føle sig alene i verden, og det gælder især for dine landsbyboere. At få venner og vedligeholde gamle venner er ikke kun sjovt, det er en kerne del af deres velbefindende.
+
+Når landsbyen er vokset lidt, vil dens indbyggere ønske sig nye venner. Få dem til at interagere med hinanden for at styrke deres bånd.",
 	},
 	"helpMenuTitle_relationships_interactions": {
 		"english": "Social Interactions",
@@ -1206,6 +1282,7 @@ Eens het dorp een beetje gegroeid is, zullen de inwoners nieuwe vrienden willen 
 		"polish": "Interakcje społeczne",
 		"japanese": "コミュニケーションの方法",
 		"czech": "Sociální interakce",
+		"danish": "Sociale interaktioner",
 	},
 	"helpMenuText_relationships_interactions": {
 		"english": "There are a few different ways people can interact:
@@ -1297,14 +1374,12 @@ Se hai un sacco di gente che vuole farsi nuovi amici, prova ad organizzare una f
 - Chociaż przytulanie nie poprawia bezpośrednio relacji, sprawia, że wszyscy czują się lepiej - uściski są jednak dostępne tylko dla kumpli i przyjaciół.
 
 Jeśli masz wielu mieszkańców, którzy chcą poznać nowych przyjaciół, spróbuj zorganizować przyjęcie!",
-		"japanese": "コロニストは主に会話を通じて関係を築きます。ただし、楽しい場合もあれば詰まらない場合もあります。
-ジョークは非常に効果的である反面、非常に危険な物です。
-食べ物の話題は会話の定番ネタですが、空腹を招きます。
+		"japanese": "コロニストは会話を重ねる事で関係を築きます。楽しい会話から心情があがる事もあればつまらない会話から下がる事もあります。
+冗談はとても効果的でありますが、失敗すると非常に危険な物に変わります。食べ物の会話は定番ネタですが、空腹になります。
 ハグは関係を改善しませんが、心情を良くする事ができます。ただし、親しい間柄でしか行えません。
-感銘を受けている場合、関係に与える前向きな効果は増大します。
-侮辱は関係を悪化させます。謝罪は少しだけ埋め合わせるだけです。
+誘惑が成功すると関係に与える前向きな効果が増大する様になりますが、呆られる場合もあります。侮辱は関係を悪化させます。
 
-友人をたくさん作りたいと考えるならば、パーティを開く事も考えてみてください。",
+一度のたくさんの友達を作りたい、パーティがこの悩みを解決します。パーティの楽しい時間が彼らの関係を深めてくれるでしょう。",
 		"czech": "Lidé mohou komunikovat několika různými způsoby:
 
 - Mluvení vede k většinou dobrým konverzacím ale i k některým špatným.
@@ -1325,6 +1400,16 @@ Pokud máte spoustu lidí, kteří chtějí získat nové přátele, zkuste uspo
 - Hoewel knuffelen niet direct een relatie verbetert, zorgt het er wel voor dat iedereen zich beter voelt - hoewel knuffels alleen beschikbaar zijn voor Buddies en Vrienden.
 
 Als je veel mensen hebt die nieuwe vrienden willen maken, probeer dan een feestje te geven!",
+		"danish": "Der er et par forskellige måder, folk kan interagere på:
+
+- At tale fører til for det meste gode samtaler og nogle dårlige.
+- Vittigheder er meget effektive til at opbygge bånd, men en frygtelig vittighed får hver lytter til at krybe og føle sig dårlig.
+- Hvis nogen er imponeret over en anden, vil hver følgende positive interaktion være dobbelt så effektiv.
+- Fornærmelser vil altid mindske forholdet, og undskyldninger kan kun kompensere for det lidt.
+- Alle kan lide at tale om mad, men det vil gøre dem sultne med det samme.
+- Mens kramme ikke forbedrer et forhold direkte, får det alle til at føle sig bedre - selvom knus kun er tilgængelige for venner og venner.
+
+Hvis du har mange mennesker, der ønsker at få nye venner, så prøv at afholde en fest!",
 	},
 	"helpMenuTitle_relationships_kids": {
 		"english": "Having Kids",
@@ -1339,6 +1424,7 @@ Als je veel mensen hebt die nieuwe vrienden willen maken, probeer dan een feestj
 		"polish": "Posiadanie dzieci",
 		"japanese": "子供",
 		"czech": "Mít děti",
+		"danish": "At have børn",
 	},
 	"helpMenuText_relationships_kids": {
 		"english": "Once two adults have reached a great friendship, they can kiss in order to make their relationship a romantic one. Only when they reach the maximum possible romantic relationship level, they will be thinking about having kids.
@@ -1375,6 +1461,9 @@ Aby kolonie mohla přijímat nové členy, bude nutné splnit očekávání vše
 		"dutch": "Als twee volwassenen eenmaal een grote vriendschap hebben bereikt, kunnen ze zoenen om hun relatie romantisch te maken. Pas als ze het maximaal haalbare romantische relatie-niveau hebben bereikt, zullen ze aan het krijgen van kinderen gaan denken.
 
 Opdat het dorp nieuwe leden zou kunnen opnemen, zal aan de verwachtingen van alle inwoners moeten worden voldaan.",
+		"danish": "Når to voksne har nået et godt venskab, kan de kysse for at gøre deres forhold romantisk. Først når de når det maksimalt mulige romantiske forholdsniveau, tænker de på at få børn.
+
+For at landsbyen kan rumme nye medlemmer, skal forventningerne fra alle indbyggere være opfyldt.",
 
 	},
 }

@@ -17,7 +17,7 @@
 		"chinese": "资源不足!",
 		"italian": "Non hai abbastanza risorse!",
 		"polish": "Brakuje surowców!",
-		"japanese": "資源が不足しています!",
+		"japanese": "資材が不足しています",
 		"czech": "Nedostatek zdrojů!",
 	},
 	"cantBuildThisCloseToWater": {
@@ -35,7 +35,7 @@
 		"chinese": "无法在如此靠近水的地方建造!",
 		"italian": "Non puoi costruire a così poca distanza dall'acqua!",
 		"polish": "Nie można zbudować tak blisko wody!",
-		"japanese": "これを水源の近くに建てることは出来ません!",
+		"japanese": "水源の近くに建てる事はできません",
 		"czech": "Toto nelze postavit tak blízko u vody!",
 	},
 	"needsToBePlacedNearWater": {
@@ -46,8 +46,9 @@
 		"dutch": "Moet naast het water worden gebouwd!",
 		"portuguese": "Precisa ser construído junto à água!",
 		"chinese": "需要建在水旁边!",
-		"japanese": "水源の近くに建てる必要があります!",
+		"japanese": "水源の近くに建てる必要があります",
 		"czech": "Toto je potřeba stavět u vody!",
+		"russian": "Необходимо разместить вблизи воды!",
 	},
 	"needsToBeBuiltOnFloor": { // used for furniture building
 		"english": "Needs to be built on floor",
@@ -61,7 +62,7 @@
 		"chinese": "需要在地板上建造",
 		"italian": "Deve essere costruito sul pavimento",
 		"turkish": "Bir zemin üzerine yerleştirilmeli",
-		"japanese": "床に建てる必要があります!",
+		"japanese": "床に建てる必要があります",
 		"czech": "Toto musí být postaveno na podlaze",
 	},
 	"needsToBeBuiltNextToFloor": { // used for wall building
@@ -76,7 +77,7 @@
 		"chinese": "需要在地板边缘建造",
 		"italian": "Deve essere costruito accanto ad un pavimento",
 		"turkish": "Bir döşeme karosunun yayına yerleştirilmeli",
-		"japanese": "床タイルの端に建てる必要があります!",
+		"japanese": "床タイルの端に建てる必要があります",
 		"czech": "Toto musí být postaveno vedle dlaždice",
 	},
 	"needsToBeBuiltAboveRoomOrTerrain": { // used for floor building
@@ -108,7 +109,7 @@
 		"chinese": "这个地方被东西挡住了！",
 		"italian": "Questo posto è bloccato da qualcosa!",
 		"polish": "To miejsce jest zajęte!",
-		"japanese": "この場所は何かによってブロックされています!",
+		"japanese": "この場所は何かによって邪魔されています",
 		"czech": "Toto místo je něčím blokováno!",
 	},
 	"needsToBeBuiltAtWall": {
@@ -126,7 +127,7 @@
 		"chinese": "要建造在墙上!",
 		"italian": "Richiede una parete!",
 		"polish": "Trzeba zbudować na ścianie!",
-		"japanese": "壁に建てる必要があります!",
+		"japanese": "壁に建てる必要があります",
 		"czech": "Toto musí být postaveno u zdi!",
 	},
 	"notEnoughSpecificResource": {
@@ -144,7 +145,7 @@
 		"chinese": "不足 %resource%!",
 		"italian": "Non hai abbastanza %resource%!",
 		"polish": "Brakuje: %resource%!",
-		"japanese": "%resource%が足りません!",
+		"japanese": "%resource%が足りません",
 		"czech": "Nedostatek %resource%!",
 	},
 	"needsToBePlacedInRoom": {
@@ -162,7 +163,7 @@
 		"chinese": "要放在一间完成的房间中!",
 		"italian": "Richiede una stanza completa!",
 		"polish": "Trzeba zbudować w pomieszczeniu!",
-		"japanese": "完成した部屋に配置する必要があります!",
+		"japanese": "完成した部屋に配置する必要があります",
 		"czech": "Lze umístit pouze do hotové místnosti!",
 	},
 
@@ -185,7 +186,7 @@
 		"chinese": "一个殖民者死了!",
 		"italian": "Un colono è appena morto!",
 		"polish": "Kolonista nie żyje!",
-		"japanese": "コロニストが亡くなった!",
+		"japanese": "コロニストが亡くなりました",
 		"czech": "Kolonista právě zemřel!",
 	},
 	"notificationTitle_willGrowUpTomorrow": {
@@ -199,7 +200,7 @@
 		"chinese": "%firstName% 明天将会长大。",
 		"italian": "%firstName% crescerà domani.",
 		"turkish": "%firstName%, yarın büyümüş olacak.",
-		"japanese": "%firstName%は明日大人になります。",
+		"japanese": "%firstName%は明日大人に成長します",
 		"czech": "%firstName% zítra vyroste.",
 	},
 	"notificationTitle_isApproachingEndOfLife": {
@@ -213,7 +214,7 @@
 		"chinese": "%firstName%即将结束%hisHer%的一生。",
 		"italian": "%firstName% sta per giungere alla fine della sua lunga vita.",
 		"turkish": "%firstName%, yaşamının sonuna ermek üzere.",
-		"japanese": "%firstName%の長い長い人生が終わりへと近づいています。",
+		"japanese": "%firstName%の長い長い人生が終わりへと近づきました",
 		"czech": "%firstName% je blízko svému konci. Ži%lA% dlouhý život.",
 	},
 	"itIsNowSeason": {
@@ -231,7 +232,7 @@
 		"chinese": "现在是%season%.",
 		"italian": "È %season%.",
 		"polish": "Obecnie jest %season%.",
-		"japanese": "今は%season%です。",
+		"japanese": "今は%season%です",
 		"czech": "Nyní je %season%.",
 	},
 	"notificationTitle_ColonistTerribleMood": {
@@ -249,7 +250,7 @@
 		"chinese": "绝望",
 		"italian": "Disperazione",
 		"polish": "Desperacja",
-		"japanese": "絶望",
+		"japanese": "%firstName%は絶望しています",
 		"czech": "Zoufalství",
 	},
 	"notificationTitle_ColonistBadMood": {
@@ -266,7 +267,7 @@
 		"korean": "우울",
 		"chinese": "低落",
 		"italian": "Morale basso",
-		"japanese": "憂鬱",
+		"japanese": "%firstName%は憂鬱になりました",
 		"czech": "Sklíčenost",
 	},
 	"notificationTitle_Fight": { // when a colonist or colony construction or furniture is attacked
@@ -284,7 +285,7 @@
 		"chinese": "战斗",
 		"italian": "Combattimento",
 		"polish": "Jesteś atakowany!",
-		"japanese": "戦い",
+		"japanese": "戦いが始まりました",
 		"czech": "Jste pod útokem!",
 	},
 	// TODO-bulgarian: firstName
@@ -325,7 +326,7 @@
 		"chinese": "%firstName%死亡",
 		"italian": "%firstName% è mort%OA%",
 		"polish": "Kolonista zmarł!",
-		"japanese": "%firstName%は死亡しました!",
+		"japanese": "%firstName%は死亡しました",
 		"czech": "%firstName% zemře%lA%",
 	},
 	"notificationTitle_DeathOldAge": {
@@ -351,6 +352,7 @@
 		"chinese": "%firstName% 死了",
 		"japanese": "%fullName%は死にました",
 		"czech": "%fullName% umře%lA%",
+		"russian": "%fullName% умер",
 	},
 	"notificationTitle_AnimalBecameWild": {
 		"english": "%fullName% has become untamed",
@@ -359,8 +361,9 @@
 		"dutch": "%fullName% werd weer wild",
 		"portuguese": "%fullName% tornou-se selvagem",
 		"chinese": "%firstName% 驯服成功了",
-		"japanese": "%fullName%は、飼いならされました",
+		"japanese": "%fullName%は手なずけされました",
 		"czech": "%fullName% přestala být ochočená",
+		"russian": "%fullName% стал диким",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -414,7 +417,7 @@
 		"chinese": "无法找到食物库存",
 		"italian": "Deposito di cibo mancante",
 		"polish": "Brakuje miejsca do składowania jedzenia",
-		"japanese": "食料貯蔵庫がありません",
+		"japanese": "食材貯蔵庫がありません",
 		"czech": "Chybí sklad potravin",
 	},
 	"notificationTitle_NoResearchSelected": { // used not only as notification, but also as tooltip title
@@ -450,7 +453,7 @@
 		"chinese": "疾病",
 		"italian": "Malattia",
 		"polish": "Kolonista choruje",
-		"japanese": "病気",
+		"japanese": "%firstName%は病気になりました",
 		"czech": "Nemoc",
 	},
 	"notificationTitle_ColonistJoined": {
@@ -468,7 +471,7 @@
 		"chinese": "移民加入",
 		"italian": "Un colono si è unito",
 		"polish": "Nowy członek koloni",
-		"japanese": "新しいコロニストが加わった",
+		"japanese": "新しいコロニストが加わりました",
 		"czech": "Kolonista se přidal ke kolonii",
 	},
 	"notificationTitle_MigrantsAreLeaving": {
@@ -486,7 +489,7 @@
 		"chinese": "移民离开了",
 		"italian": "I migranti stanno partendo",
 		"polish": "Imigranci odchodzą",
-		"japanese": "コロニストが去っていきました",
+		"japanese": "コロニストは去っていきました",
 		"czech": "Migranti odcházejí z kolonie",
 	},
 	"notificationTitle_TraderIsLeaving": {
@@ -504,7 +507,7 @@
 		"chinese": "贸易者离开了",
 		"italian": "Il mercante sta partendo",
 		"polish": "Handlarz odchodzi",
-		"japanese": "商人が去っていきました",
+		"japanese": "商人は去っていきました",
 		"czech": "Obchodník odplouvá",
 	},
 	"notificationTitle_SeasonChanged": {
@@ -558,7 +561,7 @@
 		"chinese": "殖民者发生了过敏反应",
 		"italian": "Un colono ha una reazione allergica",
 		"polish": "Kolonista ma alergię",
-		"japanese": "コロニストは、アレルギーです",
+		"japanese": "このコロニストはアレルギーがあります",
 		"czech": "Kolonista má alergickou reakci",
 	},
 	"notificationTitle_BugInfestationOver": { // means that the bug infestation is done, it's finished, it's no longer active
@@ -577,7 +580,7 @@
 		"chinese": "虫灾结束了",
 		"italian": "Infestazione di insetti terminata",
 		"polish": "Plaga opanowana",
-		"japanese": "害虫の大発生",
+		"japanese": "害虫を除去しました",
 		"czech": "Zamoření brouky skončilo",
 		
 	},
@@ -615,7 +618,7 @@
 		"chinese": "需要满足期望",
 		"italian": "Devi soddisfare le aspettative",
 		"polish": "Trzeba spełnić oczekiwania kolonistów",
-		"japanese": "整えられたコロニストの住環境が必要です",
+		"japanese": "整えられた住環境が必要です",
 		"czech": "Je třeba plnit očekávání či přání kolonistů",
 	},
 	"notificationTitle_NeedBookstand": {
@@ -651,7 +654,7 @@
 		"chinese": "需要选择一项研究项目",
 		"italian": "Devi selezionare una ricerca",
 		"polish": "Wybierz kolejne badania",
-		"japanese": "研究を選択する必要があります",
+		"japanese": "研究が選択されていません",
 		"czech": "Je třeba vybrat Výzkum",
 	},
 	"notificationTitle_NeedCrystals": {
@@ -669,7 +672,7 @@
 		"chinese": "需要水晶用于研究",
 		"italian": "Hai bisogno di cristalli per la ricerca",
 		"polish": "Potrzeba kryształów do badań",
-		"japanese": "研究には、クリスタルが必要です",
+		"japanese": "研究にはクリスタルが必要です",
 		"czech": "Potřebujeme krystaly pro výzkum",
 	},
 	"notificationTitle_NeedToAnalyzeCrystals": {
@@ -687,7 +690,7 @@
 		"chinese": "在书架上分析水晶",
 		"italian": "Devi analizzare i cristalli sul leggio",
 		"polish": "Zbadaj kryształy na stanowisku do badań",
-		"japanese": "クリスタル解析台でクリスタルを解析する",
+		"japanese": "クリスタル解析台でクリスタルを解析します",
 		"czech": "Zkoumejte krystaly na Stojanu s výzkumnou knihou",
 	},
 	//	"notificationTitle_MissingPossessions": {
@@ -716,7 +719,7 @@
 		"chinese": "%firstName%伤到了%hisHer%的腿",
 		"italian": "%firstName% si è %FeritoFerita% alla gamba",
 		"polish": "%firstName% zranił%nicA% się w nogę",
-		"japanese": "%firstName%は、脚に痛みがあります",
+		"japanese": "%firstName%は脚を負傷しました",
 		"czech": "%firstName% si zrani%lA% svou nohu",
 	},
 	"notificationTitle_LegBroken": {
@@ -733,7 +736,7 @@
 		"chinese": "%firstName%的腿骨折了",
 		"italian": "%firstName% si è %RottoRotta% la gamba",
 		"polish": "%firstName% złamał%nicA% nogę",
-		"japanese": "%firstName%は、脚を損傷しました",
+		"japanese": "%firstName%は脚を骨折しました",
 		"czech": "%firstName% si zlomi%lA% svou nohu",
 	},
 	"notificationTitle_ArmHurt": {
@@ -750,7 +753,7 @@
 		"chinese": "%firstName%伤到了%hisHer%的手臂",
 		"italian": "%firstName% si è %FeritoFerita% al braccio",
 		"polish": "%firstName% zranił%nicA% się w rękę",
-		"japanese": "%firstName%は、腕に痛みがあります",
+		"japanese": "%firstName%は腕を負傷しました",
 		"czech": "%firstName% si zrani%lA% svou ruku",
 	},
 	"notificationTitle_ArmBroken": {
@@ -767,7 +770,7 @@
 		"chinese": "%firstName%的手臂骨折了",
 		"italian": "%firstName% si è %RottoRotta% il braccio",
 		"polish": "firstName% złamał%nicA% rękę",
-		"japanese": "%firstName% は、腕を損傷しました",
+		"japanese": "%firstName%は腕を骨折しました",
 		"czech": "%firstName% si zlomi%lA% svou ruku",
 	},
 	"notificationTitle_AutosaveComplete": {
@@ -801,7 +804,7 @@
 		"chinese": "派对!    %timeLeft%",
 		"italian": "Festa!    %timeLeft%",
 		"polish": "Impreza!    %timeLeft%",
-		"japanese": "パーティ!%timeLeft%",
+		"japanese": "パーティ！%timeLeft%",
 		"czech": "Párty!    %timeLeft%",
 	},
 	"notificationTitle_StatuePresentAccepted": {
@@ -816,7 +819,7 @@
 		"korean": "우리가 보낸 조각상 선물이 훌륭하게 받아들여졌습니다.",
 		"turkish": "Heykel hediyemiz memnuniyetle kabul edildi",
 		"italian": "La nostra statua regalo è stata accettata con gratitudine",
-		"japanese": "私たちの銅像のプレゼントは、有難く受け取られました",
+		"japanese": "'%faction%'は喜んで銅像を受け取ってくれました",
 		"czech": "Naše socha byla vděčně přijata",
 	},
 	"notificationTitle_PiratesArrivingSoon": {
@@ -831,7 +834,7 @@
 		"korean": "해적이 곧 들이닥칠 것 같습니다...",
 		"chinese": "海盗随时都会来...",
 		"turkish": "Korsanlar her an gelebilir...",
-		"japanese": "海賊たちは、すぐにでも到着します...",
+		"japanese": "海賊はすぐにでも到着します...",
 		"czech": "Piráti dorazí každou chvílí ...",
 	},
 	"notificationTitle_PiratesHaveLanded": {
@@ -846,7 +849,7 @@
 		"korean": "해적이 상륙했습니다!",
 		"chinese": "海盗登陆了！",
 		"turkish": "Korsanlar karaya ayak bastı",
-		"japanese": "海賊が上陸しました!!",
+		"japanese": "海賊が上陸しました",
 		"czech": "Piráti se vylodili!",
 	},
 	"notificationTitle_FactionWillComeForTributeIn": {
@@ -861,7 +864,7 @@
 		"korean": "'%faction%'#{이} %tribute%#{을} 바치기 위해 %days%일 내로 올 겁니다",
 		"chinese": "'%faction%' 将会%days%天内在 %tribute% 出现",
 		"turkish": "'%faction%',  %tribute% için %days% gün içinde gelecek",
-		"japanese": "'%faction%'は、%tribute%のために%days%日あたりに到着します",
+		"japanese": "%faction%は%tribute%のために%days%日あたりに到着します",
 		"czech": "'%faction%' si přijde vyzvednout svou daň %tribute% za %days% dní",
 	},
 	"notificationTitle_NoEmptyGrave": {
@@ -875,7 +878,7 @@
 		"italian": "Non ci sono tombe vuote",
 		"chinese": "没有空余的坟墓",
 		"turkish": "Boş mezar yok",
-		"japanese": "空いている墓は、ありません",
+		"japanese": "空いている墓はありません",
 		"czech": "Nemáme už žádný prázdný hrob",
 	},
 	"notificationTitle_ProfessionLevelUp": {
@@ -947,7 +950,7 @@
 		"korean": "소원이 거부됨",
 		"chinese": "愿望拒绝",
 		"italian": "Desiderio negato",
-		"japanese": "拒否を希望",
+		"japanese": "願い事が断られました",
 		"czech": "Přání odmítnuto",
 	},
 	"diplomaticRelationsImproved": {
@@ -961,7 +964,7 @@
 		"chinese": "外交关系改善",
 		"italian": "Relazioni diplomatiche migliorate",
 		"turkish": "Diplomatik ilişkiler geliştirildi",
-		"japanese": "外交関係の改善",
+		"japanese": "外交関係が改善されました",
 		"czech": "Vylepšeny diplomatické vztahy",
 	},
 	"treatmentSuccessful": {
@@ -978,7 +981,7 @@
 		"chinese": "医治\n成功",
 		"italian": "Trattamento\nriuscito",
 		"polish": "Leczenie\nudane",
-		"japanese": "治療\n成功",
+		"japanese": "治療が成功しました",
 		"czech": "Léčba\nÚspěšná",
 	},
 	"treatmentFailed": {
@@ -995,7 +998,7 @@
 		"chinese": "医治\n失败",
 		"italian": "Trattamento\nfallito",
 		"polish": "Leczenie\nnieudane",
-		"japanese": "治療\n失敗",
+		"japanese": "治療が失敗しました",
 		"czech": "Léčba\nNeúspěšná",
 	},
 	"legSplintSuccessful": {
@@ -1012,7 +1015,7 @@
 		"chinese": "腿部夹板安置\n成功",
 		"italian": "Stecca per gamba\nriuscita",
 		"polish": "Usztywnienie\nudane",
-		"japanese": "脚の添え木\n成功",
+		"japanese": "脚の添え木は成功しました",
 		"czech": "Dlaha na nohu\nÚspěšná",
 	},
 	"legSplintFailed": {
@@ -1029,7 +1032,7 @@
 		"chinese": "腿部夹板安置\n失败",
 		"italian": "Stecca per gamba\nfallita",
 		"polish": "Usztywnienie\nienudane",
-		"japanese": "脚の添え木\n失敗",
+		"japanese": "脚の添え木は失敗しました",
 		"czech": "Dlaha na nohu\nNeúspěšná",
 	},
 	"armSplintSuccessful": {
@@ -1046,7 +1049,7 @@
 		"chinese": "手臂夹板安置\n成功",
 		"italian": "Stecca per braccio\nriuscita",
 		"polish": "Usztywnienie\nudane",
-		"japanese": "腕の添え木\n成功",
+		"japanese": "腕の添え木は成功しました",
 		"czech": "Dlaha na ruku\nÚspěšná",
 	},
 	"armSplintFailed": {
@@ -1063,7 +1066,7 @@
 		"chinese": "手臂夹板安置\n失败",
 		"italian": "Stecca per braccio\nfallita",
 		"polish": "Usztywnienie\nnieudane",
-		"japanese": "腕の添え木\n失敗",
+		"japanese": "腕の添え木は失敗しました",
 		"czech": "Dlaha na ruku\nNeúspěšná",
 	},
 	"impressed": {
@@ -1077,7 +1080,7 @@
 		"chinese": "印象深刻",
 		"italian": "Impressionat%OA%",
 		"turkish": "Etkilendi",
-		"japanese": "感動",
+		"japanese": "%firstName%は誘惑されています",
 		"czech": "%firstName% uděla%lA% dojem",
 		
 	},
@@ -1092,7 +1095,7 @@
 		"chinese": "印象淡薄",
 		"italian": "Non impressionat%OA%",
 		"turkish": "Etkilenmedi",
-		"japanese": "関心しない",
+		"japanese": "%firstName%は呆れています",
 		"czech": "%firstName% neuděla%lA% dojem",
 	},
 	"upsetWithSomeone": {
@@ -1106,7 +1109,7 @@
 		"chinese": "对 %firstName%感到不安",
 		"italian": "Arrabbiat%OA% con %firstName%",
 		"turkish": "%firstName%den dolayı üzgün",
-		"japanese": "%firstName%に腹を立てる",
+		"japanese": "%firstName%と会話をしたくありません",
 		"czech": "Naštvan%yA% na %firstName%",
 	},
 	"someoneIsUpset": {
@@ -1120,7 +1123,7 @@
 		"chinese": "%firstName%很不安",
 		"italian": "%firstName% è arrabbiat%OA%",
 		"turkish": "%firstName% üzgün",
-		"japanese": "%firstName%は動揺している",
+		"japanese": "%firstName%は会話をしたくありません",
 		"czech": "%firstName% je rozrušen%yA%",
 	},
 	"drankElixirOfYouth": {
@@ -1134,7 +1137,7 @@
 		"portuguese": "%firstName% recebe %days% dias extras!",
 		"turkish": "%firstName% fazladan %days% gün kazandı!",
 		"chinese": "%firstName%额外获得%days%天！",
-		"japanese": "%firstName%は%days%日、余分に取得します!",
+		"japanese": "%firstName%は薬の影響で%days%日間安静です",
 		"czech": "%firstName% získává %days% extra dní života navíc!",
 	},
 	"tamingSucceeded": {
@@ -1148,7 +1151,7 @@
 		"portuguese": "Domando com sucesso!",
 		"turkish": "Ehlileştirme başarılı",
 		"chinese": "驯服成功！",
-		"japanese": "手なずける事に成功!",
+		"japanese": "手なずけに成功しました！",
 		"czech": "Ochočování úspěšné!",
 	},
 	"tamingInProgress": {
@@ -1183,7 +1186,7 @@
 		"chinese": "移民： %text%",
 		"italian": "Migrante: %text%",
 		"turkish": "Göçmen: %text%",
-		"japanese": "移民: %text%",
+		"japanese": "コロニスト:%text%",
 		"czech": "Migrant: %text%",
 	},
 	"iHaveTrait": {
@@ -1197,7 +1200,7 @@
 		"italian": "Ho il tratto '%trait%'.",
 		"korean": "나는 '%trait%' 성향이 있어요.",
 		"chinese": "拥有'%trait%'特性.",
-		"japanese": "個性'%trait%'を持っています。",
+		"japanese": "個性'%trait%'を持っています",
 		"czech": "Mám vlastnost: '%trait%'.",
 	},
 	"iHaveExperience": {
@@ -1211,7 +1214,7 @@
 		"italian": "Sono %UnUna% %profession% di livello %level%.",
 		"korean": "나는 %profession% %level%레벨이에요.",
 		"chinese": "我是一名 %level%级的 %profession%。",
-		"japanese": "職業'%profession%'はレベル%level%です。",
+		"japanese": "職業'%profession%'はレベル%level%です",
 		"czech": "Jsem na úrovni %level% %profession%.",
 	},
 	"iHaveNoExperience": {
@@ -1225,7 +1228,7 @@
 		"italian": "Non ho molta esperienza lavorativa.",
 		"korean": "일해본 경험이 많지는 않아요.",
 		"chinese": "我没有很多工作经验。",
-		"japanese": "仕事の経験はあまりありません。",
+		"japanese": "職業の経験はあまりありません",
 		"czech": "Nemám moc pracovních zkušeností.",
 		
 	},
@@ -1240,7 +1243,7 @@
 		"italian": "Non mi piace che mi vengano poste domande del genere.",
 		"korean": "그런 질문을 받고 싶진 않아요.",
 		"chinese": "我不喜欢这样被问到。",
-		"japanese": "私は、そのように質問されるのが好きではありません。",
+		"japanese": "その様な質問は好きではありません",
 		"czech": "Nelíbí se mi být takto vyslýchán.",
 	},
 	"tooMuchQuestioning": {
@@ -1254,7 +1257,7 @@
 		"italian": "Le domande sono state fin troppe. Ciao, ciao.",
 		"korean": "충분히 질문하신 것 같네요. 그럼 이만.",
 		"chinese": "问够了！再见。",
-		"japanese": "十分な質問です!さようなら。",
+		"japanese": "もう質問には答えたくありません",
 		"czech": "Už bylo dost výslechu. Sbohem.",
 	},
 
@@ -1280,7 +1283,7 @@
 		"korean": "티키고블린들이 공격해옵니다!",
 		"chinese": "土著哥布林发起了进攻!",
 		"italian": "I Tikigoblin stanno attaccando!",
-		"japanese": "ティキゴブリンが攻撃している!",
+		"japanese": "ティキゴブリンの襲撃",
 		"czech": "Tikigoblini útočí!",
 	},
 	"messageText_GoblinsAttacking": {
@@ -1297,7 +1300,7 @@
 		"korean": "정착지 근처에서 티키고블린이 목격되었습니다. 그들을 빠르게 움직이고 있지만, 평화를 위해 오는 것 같진 않습니다. 주거지를 방어할 수 있도록 개척자들을 무장시키세요!",
 		"chinese": "我们营地附近目击到了土著哥布林。他们行动快速，来者不善。殖民者武装起来，再次保卫他们的家园!",
 		"italian": "I Tikigoblin sono stati avvistati nei pressi del nostro insediamento. Sono veloci e non sembrano venire in pace. Arma i coloni, in modo che possano difendere le loro case!",
-		"japanese": "ティキゴブリンは、私たちのコロニーの近くで目撃されました。彼らは速く動き、平和的に接触しようと訪問する者ですら拒みます。彼らから自分たちのコロニーを守ることが出来る様にコロニストたちを武装させましょう!",
+		"japanese": "ティキゴブリンがコロニーの近くで目撃されました。彼らは平和的に接触しようと訪問する者ですら拒みます。コロニストを武装させ、彼らからコロニーを守らなければなりません。",
 		"czech": "Tikigoblini byli spatřeni poblíž naší osady. Jsou rychlí a nezdá se, že by přicházeli v míru. Vyzbrojte kolonisty, aby mohli znovu bránit svůj domov!",
 		
 	},
@@ -1316,7 +1319,7 @@
 		"chinese": "移民到了!",
 		"italian": "Migranti arrivati!",
 		"polish": "Przybył statek imigrantów!",
-		"japanese": "新たなコロニストが到着しました!",
+		"japanese": "新たなコロニストの到着",
 		"czech": "Migranti dorazili!",
 	},
 	"messageText_MigrantsArrived": {
@@ -1333,7 +1336,7 @@
 		"korean": "어떤 이주자가 우리의 불꽃 신호를 보았고, 막 작은 배를 타고 이곳에 도달했습니다. 개척자를 보내 그들을 받아들이세요!",
 		"chinese": "一些移民看到了我们的火营信号，刚刚一艘小船登陆了。派一名殖民者去接应他们!",
 		"italian": "Alcuni migranti hanno visto il nostro segnale di fumo e sono appena arrivati su una piccola barca. Manda un colono ad accoglierli!",
-		"japanese": "数人のコロニストが、篝火を頼りに小さな船で到着しました。彼らを受け入れるためにコロニストを向かわせてください!",
+		"japanese": "新たなコロニストが篝火を頼りに船で到着しました。彼らを受け入れるのであればコロニストを向かわせてください",
 		"czech": "Několik migrantů spatřilo náš signální oheň a právě dorazilo na malé loďce. Pošlete tam kolonistu, aby je přijal!",
 	},
 	"messageTitle_TraderArrived": {
@@ -1351,7 +1354,7 @@
 		"chinese": "贸易商人到了!",
 		"italian": "Mercante arrivato!",
 		"polish": "Przybył statek handlarza!",
-		"japanese": "商人が到着しました!",
+		"japanese": "商人の到着",
 		"czech": "Obchodník právě dorazil!",
 	},
 	"messageText_TraderArrived": {
@@ -1368,7 +1371,7 @@
 		"chinese": "一位商人刚刚在海岸登陆。派一名殖民者去商讨价钱！",
 		"italian": "Un mercante è appena approdato sulla costa. Manda un colono per barattare un buon affare!",
 		"polish": "Statek handlarza właśnie dobił do brzegu. Wyślij tam kolonistę, jeśli chcesz pohandlować!",
-		"japanese": "商人が海岸に到着したばかりです。コロニストを向かわせてお得な情報を手に入れたり取引をしましょう!",
+		"japanese": "商人が海岸に到着しました。コロニストを向かわせれば貿易取引を行う事ができます。",
 		"czech": "Obchodník právě připlul k našemu pobřeží. Pošlete tam kolonistu, aby se spolu sešli a případně uzavřeli nějaký obchod!",
 	},
 	"messageTitle_TraderRaid": {
@@ -1384,7 +1387,7 @@
 		"turkish": "Ticaret Loncası köye saldırıyor!",
 		"italian": "La Gilda dei Mercanti sta attaccando il villaggio!",
 		"polish": "Gildia Handlarzy atakuje wioskę!",
-		"japanese": "商人がコロニーを攻撃している!",
+		"japanese": "商人の襲撃",
 		"czech": "Cech obchodníků útočí na vesnici!",
 	},
 	"messageText_TraderRaid": {
@@ -1400,7 +1403,7 @@
 		"turkish": "Genellikle, Lonca barış içinde ticaret yapmayı tercih eder. Yerleşimciler onları bu kadar sinirlendirmek için ne yaptı?",
 		"italian": "Di solito la gilda preferisce commerciare in pace. Cosa hanno fatto i coloni per farli arrabbiare così tanto?",
 		"polish": "Handlarze zazwyczaj mają do wszystkich neutralne lub nawet pokojowe stosunki. Co takiego zrobiłeś, że tak się wkurzyli?",
-		"japanese": "通常、商人ギルドは平和に貿易取引をすることを好みます。コロニストたちは、何故ギルドを怒らせるようなことをするのですか?",
+		"japanese": "商人は平和に貿易取引をする事をいつも考えて暴力を好みません。ですか、何故そういう人たちを怒らせる様な事をしたのですか？",
 		"czech": "Cech obvykle raději obchoduje v míru. Co naši kolonisté způsobili, že je to tak naštvalo?",
 	},
 	"messageTitle_PirateRaid": {
@@ -1415,7 +1418,7 @@
 		"korean": "해적이 해안에 상륙했습니다!",
 		"polish": "Na wyspie pojawili się piraci!",
 		"chinese": "海盗停靠在岸边了！",
-		"japanese": "海賊が海岸に上陸しました!",
+		"japanese": "海賊の上陸",
 		"czech": "Piráti připluli k pobřeží!",
 	},
 	"messageText_PirateRaid": {
@@ -1430,7 +1433,7 @@
 		"korean": "사나운 선원들이 무기를 뽑아든 채 배에서 뛰어내립니다. 그들의 얼굴에서 손쉬운 약탈에 대한 높은 기대와 탐욕을 읽을 수 있습니다.",
 		"polish": "Banda piratów wyskakuje zza burty z bronią w ręku! Pilnuj się, na ich twarzy widać rządzę łatwej zdobyczy.",
 		"chinese": "野蛮海盗从船上抽出的武器后跳下船。从他们贪婪的面孔中，您可以看到被抢劫的场景。",
-		"japanese": "野蛮な乗組員は、船からジャンプして上陸すると貪欲な表情が浮かべ、簡単に戦利品を奪える高い期待と高揚感に満ちているように見えます。",
+		"japanese": "海賊が上陸しました。野蛮で貪欲な態度の彼らは略奪が当然の権利であり迷惑な行為とは思っていません。",
 		"czech": "Divoká posádka skáče s vytasenou zbraní z lodě. V jejich chamtivých tvářích můžete vidět velké naděje na snadnou kořist.",
 		
 	},
@@ -1449,7 +1452,7 @@
 		"chinese": "来势汹汹！",
 		"italian": "Scatto d'ira!",
 		"polish": "Napad agresji!",
-		"japanese": "侵略攻撃!",
+		"japanese": "錯乱",
 		"czech": "Agresivní záchvaty vzteku!",
 	},
 	"messageText_BreakdownAttackFriends": {
@@ -1466,7 +1469,7 @@
 		"korean": "이 개척자는 최근 끔찍한 기분 속에서 살아왔으며 더 이상은 견디지 못했습니다. %heShe%는 미쳐버렸고, 친구과 적을 구분하지 않고 아무에게나 주먹을 휘두르고 있습니다.",
 		"chinese": "该殖民者一直都很可怕，终于不在忍让了。%heShe%现在发疯地随意殴打他人，朋友或者敌人。",
 		"italian": "Un colono si sentiva uno schifo da un po' di tempo e non ne poteva più. Adesso è impazzito e sta attaccando persone a caso, amiche o nemiche.",
-		"japanese": "コロニストは、しばらくの間恐ろしいと感じていて、それに耐え続けることができませんでした。%cap-heShe%は、今狂っており無差別な人々、友人、敵を攻撃し打ち負かしています。",
+		"japanese": "%firstName%は恐ろしさに耐え続ける事ができず狂ってしまい無差別に攻撃し続けます。",
 		"czech": "Kolonista se už nějakou dobu cítil hrozně a už to nedokázal vydržet. nyní se zblázni%lA% a mlátí náhodné lidi...přátelé nebo nepřátelé.",
 	},
 	"messageTitle_BreakdownRefusingWork": {
@@ -1484,7 +1487,7 @@
 		"chinese": "精疲力竭！",
 		"italian": "Esaurimento!",
 		"polish": "Przepracowanie",
-		"japanese": "燃え尽き症候群!",
+		"japanese": "燃え尽き症候群",
 		"czech": "Přepracování!",
 	},
 	"messageText_BreakdownRefusingWork": {
@@ -1502,7 +1505,7 @@
 		"chinese": "该殖民者辛勤劳作太久了。%heShe%现在什么也不管了，%heShe%只想去休息一段时间。",
 		"italian": "Un colono ha lavorato per troppo tempo in condizioni terribili, per cui ha semplicemente deciso che non gli importa più di nulla e che si rilasserà per un po'.",
 		"polish": "Jeden z kolonistów pracował ponad swoje siły od dłuższego czasu. Postanowił, że od tej chwili więcej czasu poświęci na relaks.",
-		"japanese": "コロニストは酷い状況下で働きすぎました。そのためもう何もかもを放棄し気にしないと決めて、しばらくリラックスして過ごすつもりです!",
+		"japanese": "%firstName%は酷い状況下で働きすぎました。そのため全てを放棄してしばらくは何もせず過ごすつもりです。",
 		"czech": "Kolonista za strašných podmínek pracoval příliš dlouho. Rozhod%lA% se o nic se nestarat a na chvíli si odpočine.",
 	},
 	"messageTitle_BreakdownDestroyFurniture": {
@@ -1520,7 +1523,7 @@
 		"chinese": "恶意破坏！",
 		"italian": "Vandalismo!",
 		"polish": "Wandalizm!",
-		"japanese": "破壊行為！",
+		"japanese": "破壊行為",
 		"czech": "Vandalismus!",
 	},
 	"messageText_BreakdownDestroyFurniture": {
@@ -1537,7 +1540,7 @@
 		"korean": "%firstName%의 생활은 최고의 생활이 아니었습니다. %heShe%는 화를 풀기 위해 기물들을 파손하기 시작했습니다.",
 		"chinese": "%firstName%的生活质量非常不好。现在%heShe%想破坏东西已发泄不满。",
 		"italian": "La vita non è stata generosa con %firstName%. Adesso sta compiendo atti di vandalismo per sfogarsi un po'.",
-		"japanese": "人生は%firstName%にとって最高なものではありませんでした。現在、%heShe%はストレスを吹き飛ばすために破壊行為に目を向けています。",
+		"japanese": "%firstName%にとって最悪の人生の鬱憤を晴らすため、破壊行為に勤しみます。",
 		"czech": "Život tady není ten nejlepší pro %firstName%. Teď se %firstName% obráti%lA% k vandalismu, aby odpáli%lA% trochu páry.",
 	},
 	"messageTitle_BreakdownLazyDay": {
@@ -1573,7 +1576,7 @@
 		"chinese": "%firstName%的生活质量非常不好。今天%heShe%只想休息多点时间。",
 		"italian": "La vita non è stata generosa con %firstName%. Oggi se la sta prenendo comoda e seguiranno anche delle lunghe pause.",
 		"polish": "Ostatnie dni nie oszczędzały tego kolonisty. %firstName% postanowił%heShe% że dzisiaj zrobi sobie wolne i odpocznie.",
-		"japanese": "%firstName%の人生は、最高の物ではありませんでした。今日、%heShe%は気持ちを楽にするために長い休憩を沢山取っています。",
+		"japanese": "%firstName%の人生は苦難の連続でした。その現実に一息いれ気持ちを楽にするために長い長い休憩を取るつもりです。",
 		"czech": "Život tady není ten nejlepší pro %firstName%. Dnes se rozhodl, že se bude celý den jen poflakovat.",
 	},
 	"messageTitle_BugInfestation": {
@@ -1591,7 +1594,7 @@
 		"chinese": "虫灾！",
 		"italian": "Infestazione di insetti!",
 		"polish": "Plaga robactwa!",
-		"japanese": "害虫の発生!",
+		"japanese": "害虫の発生",
 		"czech": "Zamoření brouky!",
 	},
 	"messageText_BugInfestation": {
@@ -1609,7 +1612,7 @@
 		"chinese": "一大群虫子落在你的田地上，正在侵害农作物。殖民者需要在虫灾蔓延之前移除受影响的植物。",
 		"italian": "Uno sciame di insetti sta infestando i tuoi campi e sta distruggendo il raccolto. I coloni devono estirpare le piante malate prima che l'infestazione si diffonda.",
 		"polish": "Na twoich polach grasuje szarańcza! Koloniści powinni usunąć zainfekowane rośliny, zanim choroba się rozprzestrzeni.",
-		"japanese": "害虫の群れが、あなたの畑にやってきて畑の作物をダメにしています。虫の被害が広がる前にコロニストは、被害を受けた作物を取り除く必要があります。",
+		"japanese": "害虫の群れが畑の作物をダメにしています。虫の被害が広がる前に害虫の取りついた作物を取り除いてください。",
 		"czech": "Roj brouků sestoupil na vaše pole a ničí vaši úrodu. Kolonisté musí co nejrychleji vytrhat postižené rostliny, než se napadení rozšíří.",
 	},
 	"messageTitle_TutorialFood": {
@@ -1626,7 +1629,7 @@
 		"korean": "음식과 허기",
 		"chinese": "饥肠辘辘",
 		"italian": "Cibo e fame",
-		"japanese": "飢え",
+		"japanese": "食事と空腹",
 		"czech": "Jídlo a Hlad",
 	},
 	"messageText_TutorialFood": {
@@ -1643,7 +1646,7 @@
 		"korean": "개척자가 배고파합니다! 그들이 음식을 가져갈 수 있는 무언가를 만드세요. 예를 들면, 음식 바구니 같은거요.",
 		"chinese": "你的殖民者很饿！你需要建造提供食物的东西，例如食物篮子。",
 		"italian": "I tuoi coloni hanno fame! Devi costruire qualcosa da cui possano raccogliere il loro cibo, come ad esempio un cesto di cibo.",
-		"japanese": "あなたのコロニストはお腹が空いています!あなたは彼らが食べ物をとることが出来る様に、例えば食材用かごを作る必要があります。",
+		"japanese": "コロニストが空腹になった場合は自動的に食事をしますが、食材用かごか料理の棚が設置されてないと食べ物を手に取る事ができません。",
 		"czech": "Vaši kolonisté mají hlad! Musíte postavit něco, z čeho si mohou vzít jídlo, například Koš na jídlo.",
 	},
 	"messageTitle_TutorialHealing": {
@@ -1660,7 +1663,7 @@
 		"korean": "회복",
 		"chinese": "恢复",
 		"italian": "Guarigione",
-		"japanese": "回復",
+		"japanese": "健康の回復",
 		"czech": "Léčení",
 	},
 	"messageText_TutorialHealing": {
@@ -1677,7 +1680,7 @@
 		"korean": "개척자가 부상을 입었습니다! 몸을 쉬게 하고 충분한 잠을 잘 수 있도록 해 주세요. 숙련된 의사는 고도의 약품을 만들어낼 수 있습니다.",
 		"chinese": "殖民者受伤了！确保他们有足够的睡眠来恢复身体。经验丰富的医生可以在药水工坊制造更高级的治疗方法。",
 		"italian": "Un colono è ferito! Assicurati che dorma abbastanza per far riposare il suo corpo. Un medico esperto può creare dei rimedi più avanzati presso il laboratorio di pozioni.",
-		"japanese": "コロニストが負傷しました!彼らが身体を休めるのに十分な睡眠を取ることを確認してください。経験豊富な医師は回復薬調合作業台でより高度な医薬品を作成できます。",
+		"japanese": "コロニストは負傷すると健康も同時に損なう場合があります。時間はかかりますが、睡眠を取る事で健康を回復する事ができます。すぐに回復させたい場合は回復薬を使用します。回復薬は回復薬調合作業台で調合できます。",
 		"czech": "Kolonista je zraněn! Zajistěte mu dostatek spánku a odpočinku. Zkušený lékař může v laboratoři lektvarů vytvořit pokročilejší léky.",
 	},
 	"messageTitle_TutorialScience": {
@@ -1711,7 +1714,7 @@
 		"korean": "정착지를 발전시키려면 연구를 해야 합니다. 크리스탈을 캐고 연구대에서 크리스탈을 분석하면 연구를 할 수 있습니다. 과학 패널은 우측 상단에 있습니다!",
 		"chinese": "为了发展你的殖民地，你需要研究。你可以通过挖掘水晶并放在研究书架上分析。研究科技树位于右上角！",
 		"italian": "Per far avanzare la tua colonia, devi effettuare delle ricerche. Per farlo, estrai i cristalli e analizzali al leggio di ricerca. Il pannello scientifico è in alto a destra!",
-		"japanese": "コロニーを進歩させるためには、研究を進める必要があります。あなたはクリスタルを採掘し、クリスタル解析台で解析することによって研究を進めることが出来ます。研究パネルへのアクセスは右上から出来ます!",
+		"japanese": "コロニーを発展させるためには研究を獲得する必要があります。クリスタルを採掘し、クリスタル解析台で解析する事によって研究を獲得する事ができます。研究一覧パネルは右上の研究アイコンで開きます。",
 		"czech": "Chcete-li rozšířit svou kolonii, musíte provézt výzkum. Můžete to udělat těžbou krystalů a poté jejich výzkumem na Stojanu s výzkumnou knihou. Vědecký panel je vpravo nahoře!",
 	},
 	"messageTitle_TutorialMigrants": {
@@ -1745,7 +1748,7 @@
 		"korean": "정착지를 키우고 싶다면, 새로운 사람을 받아들여야 합니다. 화톳불을 피워 이주민들을 끌어들이세요. 화톳불은 연구를 통해 발견할 수 있습니다.",
 		"chinese": "如果你希望殖民地能够发展起来，你需要增加移民。建立营火以吸引移民。通过研究解锁营火。",
 		"italian": "Se vuoi che la tua colonia cresca, dovrai accettare nuove persone. Costruisci un falò per attirare i migranti. I falò vengono sbloccati tramite ricerca.",
-		"japanese": "コロニーを発展させたい場合は、新たなコロニストを受け入れる必要があります。コロニストを受け入れるには、篝火を作り点火させます。篝火は研究によって解放されます。",
+		"japanese": "コロニーの発展を速めたい場合は新たなコロニストを受け入れ、コロニーの人口を増やす事が一番です。新たなコロニストを受け入れるには篝火と整った住環境が必要です。",
 		"czech": "Pokud chcete, aby vaše kolonie rostla, budete muset přijímat nové lidi. Postavte si signální oheň, abyste přilákali migranty. Ohně se odemykají pomocí průzkumu.",
 	},
 	"messageTitle_TutorialCameraRotation": {
@@ -1779,7 +1782,7 @@
 		"korean": "마우스 가운데 버튼을 누른 채로 마우스를 움직여 화면을 회전시킬 수 있습니다.",
 		"chinese": "您可以按住鼠标中键来旋转视图。",
 		"italian": "Puoi ruotare la visuale tenendo premuto il pulsante centrale del mouse.",
-		"japanese": "マウスの中ボタンを押し続けると、視点を回転できます",
+		"japanese": "マウスのホイールボタンを回転させると視野の範囲の広狭を、押しながらマウスを左右移動させるとそれに合わせて視野の位置を変更できます",
 		"czech": "Pohled můžete otáčet podržením prostředního tlačítka myši.",
 	},
 	"messageTitle_TutorialBuildConstruction": {
@@ -1813,7 +1816,7 @@
 		"korean": "좌측 하단에 보이는 메뉴에서 벽이나 바닥을 선택하세요. 지면에서 클릭하고 드래그하면 됩니다. (우클릭 한 채로 드래그하면 부술 수 있습니다)",
 		"chinese": "在左下角的建造菜单栏，选择要建造的墙壁和地板。然后您将其放置地面上。（右键单击并拖动以删除）",
 		"italian": "Nell'angolo in basso a sinistra è presente un menu per scegliere quali pareti e pavimenti costruire. Dovrai trascinare il cursore sul terreno. (clic destro e trascina per eliminare)",
-		"japanese": "左下には、構築する壁と床を選択するためのメニューがあります。次に、カーソルを地形上にドラッグする必要があります（右クリックのドラッグで削除できます）",
+		"japanese": "家のアイコンに壁と床を選択するメニューがあります。カーソルを地形上にドラッグして建築してください。削除する場合は右クリックのドラッグです。",
 		"czech": "V levém dolním rohu je nabídka pro výběr stěn a podlah, které se mohou stavět. Poté musíte kurzor přetáhnout přes terén. (kliknutím pravým tlačítkem a tažením kurzoru je zase smažete)",
 	},
 	"messageTitle_TutorialProfessions": {
@@ -1847,7 +1850,7 @@
 		"korean": "개척자에게 직업을 할당하면 일의 일부가 자동화됩니다. 예를 들자면, 농부는 밭일을 하겠죠.",
 		"chinese": "为你的殖民者分配职业以自动执行某些任务。例如农民将执行耕种。",
 		"italian": "Dai lavoro ai tuoi coloni per automatizzare alcune attività. Ad esempio, un contadino si occuperà dei campi.",
-		"japanese": "コロニストに職業を与えて、いくつかのタスクを自動化します。たとえば農民は畑の世話をします。",
+		"japanese": "職業の優先度を決定して作業を自動化できます。例えば畑の世話をしたい場合は農民の優先度を上げます。",
 		"czech": "Dejte práci svým kolonistům za účelem automatizace některých úkolů. Například farmář bude mít sklon obdělávat pole.",
 	},
 	"messageTitle_TutorialLeftClickSelect": {
@@ -1864,7 +1867,7 @@
 		"korean": "개척자와 사물 선택",
 		"chinese": "选择殖民者或物体",
 		"italian": "Selezionare coloni e oggetti",
-		"japanese": "コロニストまたはオブジェクトを選択してください",
+		"japanese": "コロニストまたはオブジェクトの確認",
 		"czech": "Výběr kolonistů a Objektů",
 	},
 	"messageText_TutorialLeftClickSelect": {
@@ -1881,7 +1884,7 @@
 		"korean": "사물이나 개척자를 마우스 왼쪽 버튼으로 클릭하면 선택할 수 있습니다. 선택한 개척자나 물건의 상태를 보거나 명령을 내릴 수 있습니다.",
 		"chinese": "单击鼠标左键选择殖民者或物体。这样你就可以看到他们的状态并发出指令。",
 		"italian": "Clicca su un colono o su un oggetto con il tasto sinistro del mouse per selezionarlo. In questo modo potrai vedere il loro stato e impartire dei comandi.",
-		"japanese": "コロニストまたはオブジェクトをマウスの左ボタンでクリックして選択します。そうすることで、コロニストのステータスを確認し、指示を与えることが出来ます。",
+		"japanese": "コロニストまたはオブジェクトのステータスの詳細はマウスの左ボタンクリックで確認できます。",
 		"czech": "Klikněte levým tlačítkem myši na kolonistu nebo objekt a vyberte je. Tímto způsobem můžete vidět jejich stav a vydávat různé příkazy.",
 	},
 	"messageTitle_TutorialRightClickCommand": {
@@ -1898,7 +1901,7 @@
 		"korean": "작업 할당",
 		"chinese": "分配任务",
 		"italian": "Assegnare degli incarichi",
-		"japanese": "タスクの割り当て",
+		"japanese": "作業の割り当て",
 		"czech": "Zadávání úkolů",
 	},
 	"messageText_TutorialRightClickCommand": {
@@ -1915,7 +1918,7 @@
 		"korean": "개척자를 선택한 뒤에, 사물을 우클릭하면 개척자에게 작업을 할당할 수 있습니다.",
 		"chinese": "选择殖民者后，单击鼠标右键某物体以分配任务。",
 		"italian": "Dopo aver selezionato un colono, usa il tasto destro del mouse per cliccare sugli oggetti ed assegnare degli incarichi.",
-		"japanese": "コロニストを選択したら、マウスの右ボタンを使用してオブジェクトをクリックし、タスクを割り当てます。",
+		"japanese": "コロニストを選択し対象物へマウスの右ボタンクリックをする事で作業を割り当てます。",
 		"czech": "Poté, co vyberete kolonistu, klikněte pravým tlačítkem myši na objekty a přiřaďte úkoly.",
 	},
 	"messageTitle_TutorialHelpMenu": {
@@ -1949,7 +1952,7 @@
 		"korean": "더 많은 정보가 궁금하다면 우측 상단 모서리에 있는 버튼을 눌러 도움말 메뉴를 여세요.",
 		"chinese": "如果您需要更多信息，请点击右上角按钮打开帮助菜单。",
 		"italian": "Apri il menu di aiuto premendo il pulsante presente nell'angolo in alto a destra se hai bisogno di ulteriori informazioni.",
-		"japanese": "詳細情報が必要な場合は、右上にあるボタンを使用してヘルプメニューを開いてください。",
+		"japanese": "詳細情報が必要な場合は右上にあるボタンを使用してヘルプメニューを開いてください。",
 		"czech": "Pokud potřebujete další informace, otevřete nabídku nápovědy pomocí tlačítka v pravém horním rohu.",
 	},
 	"messageTitle_TutorialEquipment": {
@@ -1965,7 +1968,7 @@
 		"korean": "장비를 사용하는 방법",
 		"chinese": "如何使用装备",
 		"italian": "Come usare l'equipaggiamento",
-		"japanese": "装備の使い方",
+		"japanese": "装備の仕方",
 		"czech": "Jak používat Vybavení",
 	},
 	"messageText_TutorialEquipment": {
@@ -1981,7 +1984,7 @@
 		"korean": "장비를 보관할 수 있는 가구를 하나 만드세요. 그리고 가구를 선택해 어떤 장비를 보관할 지 정해주세요. 한 개척자에게 소유권을 주면, 그 사람이 자동으로 장비를 착용할 수 있게 됩니다.",
 		"chinese": "建造可以存放装备的家具，并设置能存放哪些类型的装备。设置殖民者拥有权，以便他能自动装备。",
 		"italian": "Costruisci un mobile in grado di conservare l'equipaggiamento e selezionalo per scegliere cosa inserire all'interno. Lascia che un colono ne prenda la proprietà, in modo da possa equipaggiare automaticamente ciò che vi è all'interno.",
-		"japanese": "装備を収納できる家具を作り、それを選択してどの装備を入れるかを選択します。コロニストに所有権を与えることで自動的に装備が出来るようになります。",
+		"japanese": "装備を収納できる家具が必要です。コロニストを選択してその家具を右クリックする事で装備の脱着を決定できます。コロニストに所有権を与える事で自動的に装備ができる様になります。",
 		"czech": "Postavte kus nábytku, do kterého lze uložit vybavení. Klikněte na něj, abyste vybrali, které vybavení do něj umístíte. Nechte kolonistu převzít jeho vlastnictví, aby jej mohl vybavit vybavením automaticky.",
 	},
 	"messageTitle_TutorialMovingFurniture": {
@@ -1997,7 +2000,7 @@
 		"korean": "물건이나 가구를 옮기는 방법",
 		"chinese": "如何移动家具和其他物体",
 		"italian": "Come spostare i mobili e gli altri oggetti",
-		"japanese": "家具の移動方法",
+		"japanese": "設置された家具等の移動方法",
 		"czech": "Jak přesouvat nábytek a jiné předměty",
 	},
 	"messageText_TutorialMovingFurniture": {
@@ -2013,7 +2016,7 @@
 		"korean": "마우스를 사용해 물건을 다른 장소로 드래그하세요. 드래그 도중에 우클릭을 하면 사물을 지워버립니다.",
 		"chinese": "鼠标拖动将物体放置到新的地点。右键点击删除该物体。",
 		"italian": "Trascina l'oggetto con il mouse nella sua nuova posizione. Fai clic con il tasto destro mentre lo stai trascinando per eliminare l'oggetto.",
-		"japanese": "マウスでオブジェクトを置きたい場所にドラッグします。ドラッグ中に右クリックするとオブジェクトが削除されます。",
+		"japanese": "設置された家具等を移動したい場合はドラッグで移動させる事ができます。ドラッグ中に右クリックする事で移動の取り消しができます。",
 		"czech": "Přetáhněte objekt myší do nového umístění. Kliknutím pravým tlačítkem během přetahování odstraníte objekt.",
 	},
 	"messageTitle_TechUnlocked": {
@@ -2030,7 +2033,7 @@
 		"korean": "%techName% 발견!",
 		"chinese": "%techName% 已解锁！",
 		"italian": "Tecnologia sbloccata: %techName%!",
-		"japanese": "%techName%の研究が終了しました!",
+		"japanese": "%techName%の研究の終了",
 		"czech": "%techName% vyzkoumáno!",
 	},
 	"messageText_TechUnlocked": {
@@ -2047,7 +2050,7 @@
 		"korean": "%techName%#{을} 발견했습니다! 이제 새로운 것을 만들 수 있겠어요!\n%unlockedStuff%",
 		"chinese": "你解锁了%techName%科技，现在可以制造\n%unlockedStuff%",
 		"italian": "Sbloccando la tecnologia '%techName%', adesso puoi realizzare nuove cose!\n%unlockedStuff%",
-		"japanese": "%techName%の研究が終了し、下記の新しいことを実行できるようになりました!\n%unlockedStuff%",
+		"japanese": "%techName%の研究が終了し下記の新しい事が実行できるようになりました。\n%unlockedStuff%",
 		"czech": "Právě jsi vyzkoumal %techName% a můžeš teď dělat nové věci!\n%unlockedStuff%",
 	},
 	"messageTitle_JoinForum": {
@@ -2064,7 +2067,7 @@
 		"korean": "포럼을 확인해보세요!",
 		"chinese": "看看论坛！",
 		"italian": "Dai un'occhiata al forum!",
-		"japanese": "フォーラムをチェックしてください!",
+		"japanese": "フォーラムのチェック",
 		"czech": "Podívejte se na fórum!",
 	},
 	"messageText_JoinForum": {
@@ -2081,7 +2084,7 @@
 		"korean": "꽤 오랫동안 게임을 즐겨주셨네요. 재미있으셨길 바랍니다!\n포럼에 방문하셔서 게임이 어땠는지 알려주세요!",
 		"chinese": "你已经体验游戏一段时间了，我们希望你玩得开心！\n在论坛上让我们知道游戏的表现如何！",
 		"italian": "Stai giocando da un po' e speriamo tu ti stia divertendo!\nFacci sapere come sta andando sul nostro forum!",
-		"japanese": "しばらくプレイされているようで嬉しく思います。楽しんでいただければ幸いです!\nフォーラムにアクセスしゲームの様子を教えてください!",
+		"japanese": "しばらくプレイされている様で嬉しく思います。楽しんでいただければ幸いです!\nフォーラムにアクセスしゲームの感想を教えてください。",
 		"czech": "Hrajete už nějakou dobu a doufáme, že se bavíte!\nDejte nám vědět, jak vám to jde na našem fóru!",
 	},
 	"messageTitle_LimpingBecauseOfBadSplintTreatment": {
@@ -2097,7 +2100,7 @@
 		"korean": "치료가 엉망입니다\n%firstName%#{이} 장애를 가지게 되었습니다",
 		"chinese": "治疗失败了\n%firstName%现在残废了",
 		"italian": "Trattamento sbagliato\n%firstName% è %RimastoRimasta% disabile.",
-		"japanese": "治療が失敗しました\n%firstName%への治療の効果はありません",
+		"japanese": "%firstName%の治療の失敗",
 		"czech": "Léčba se pokazila\n%firstName% je nyní zakázáno",
 	},
 	"messageText_LimpingBecauseOfBadSplintTreatment": {
@@ -2113,7 +2116,7 @@
 		"korean": "초보자의 실수입니다. 물론 경험있는 의사도 저지를 수 있는 실수죠: 누군가 %firstName%의 다리를 치료하려고 부목을 대다 망쳐버렸습니다. 더이상 다친 건 아니지만, %heShe%는 이제부터 평생 다리를 절뚝거리며 걷게 되었습니다. 전처럼 빠르게 걷지는 못하겠네요.",
 		"chinese": "初学者常犯的错误，但也可能发生在经验丰富的医生身上：有人用夹板来治疗%firstName%的断腿失败了。虽然不骨折了，但%heShe%将永久瘸腿，并且不能像以前那样快速地走路。",
 		"italian": "È un errore da principianti, ma può accadere anche ai medici esperti: qualcuno ha incasinato le stecche per curare la gamba di %firstName%. Non è più rotta, ma adesso zoppicherà in modo permanente e non può più camminare veloce come faceva un tempo.",
-		"japanese": "これは経験のない治療者の間違いによって起こりますが、経験豊富な医師にも起こりえます。誰かが、添え木の取り扱いを間違ったまま%firstName%の骨折を治しました。そのため治療は中途半端に完了してしまい未だに患者は足を引きずっており、速く歩くことが出来ません。",
+		"japanese": "%firstName%の骨折に間違った添え木の治療が施されました。そのため治療はうまくいかず未だに足を引きずったまま普通に歩く事ができません。",
 		"czech": "Je to chyba začátečníka, ale může se to stát i zkušeným lékařům: Někdo zpackal aplikaci dlahy, když léčil %firstName% se zlomenou nohou. Už tu nohu nemá zlomenou, ale teď bude pro změnu permanentně kulhat.",
 	},
 	"messageTitle_SupportDevelopment": {
@@ -2129,7 +2132,7 @@
 		"korean": "Founders' Fortune의 개발을 후원해주세요!",
 		"chinese": "支持游戏 Founders' Fortune 开发！",
 		"italian": "Supporta lo sviluppo di Founders' Fortune!",
-		"japanese": "Founders' Fortune! の開発をサポート!",
+		"japanese": "Founders' Fortune! の開発をサポート",
 		"czech": "Podpořte rozvoj Founders' Fortune!",
 	},
 	"messageText_SupportDevelopment": {
@@ -2145,7 +2148,7 @@
 		"korean": "이 정착지를 %hours% 시간동안 플레이하셨습니다. Founders' Fortune의 무료 버전을 잘 즐기고 계신 것 같아요. 스토어를 확인하고 저희에게 도움을 주는 걸 고려해보세요!",
 		"chinese": "你已经游玩了这个殖民地%hours%小时了，看起来你正在享受 Founders'Fortune 的试玩版本！可以考虑去商店购买正版支持我们！",
 		"italian": "Hai giocato a questa colonia per %hours% ore e sembra che tu ti stia divertendo con la versione gratuita di Founders' Fortune! Valuta la possibilità di visitare il negozio e di supportarci!",
-		"japanese": "あなたは、このコロニーを%hours%時間プレイしていてFounders' Fortuneの体験版を楽しく遊べているようですね。よろしければ、ぜひストアをチェックして私たちをサポートすることを検討してくれたら嬉しく思います!",
+		"japanese": "Founders' Fortuneの体験版を%hours%時間も楽しく遊んでいただいている様ですね。よろしければストアをチェックして私たちをサポートする事を検討してくれたら嬉しく思います。",
 		"czech": "Hrajete tuto kolonii už %hours% hodin a zdá se, že si užíváte bezplatnou verzi Founders' Fortune! Zvažte prohlédnutí obchodu a podpořit nás tím, že si hru zakoupíte!",
 	},
 	"messageTitle_negativeTraitEvent": {
@@ -2171,7 +2174,7 @@
 		"russian": "%firstName% был несчастен в течение долгого времени. Из-за этого он обрел новую черту: '%trait%'",
 		"portuguese": "%firstName% está infeliz há muito tempo. %cap-seuSua% seu mau estado mental fez com que ele se tornasse um novo traço: '%trait%'",
 		"chinese": "%firstName%很久以来一直很痛苦。%cap-hisHer%的不良心理状态已导致%himHer%获得新的症状：'%trait%'",
-		"japanese": "%firstName%は長い間悲惨な状況でした。%cap-hisHer%の精神状態が悪いため、新しい特性を獲得したようです。:'%trait%'",
+		"japanese": "%firstName%は悲惨な状況で精神状態が悪かったため、新しい個性を獲得しました。:%trait%",
 		"czech":  "%firstName% se cítí už dlouho mizerně. Má špatný duševní stav, který způsobil novou trvalou vlastnost : '%trait%'",
 	},
 

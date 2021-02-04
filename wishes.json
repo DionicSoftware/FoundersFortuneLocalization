@@ -39,7 +39,7 @@
 		"italian": "Scoprire %tech%",
 		"hungarian": "Feltalálni a(z)%tech%",
 		"czech": "Vyzkoumat %tech%",
-		"japanese": "%tech%を得る",
+		"japanese": "%tech%を研究する",
 	},
 	"GetProfession": {
 		"english": "Get a job",
@@ -144,7 +144,7 @@
 		"italian": "Avere nella %location%: %furniture%",
 		"hungarian": "%furniture% a %location%ba",
 		"czech": "Mít %furniture% v %location%",
-		"japanese": "%furniture%を%location%に配置",
+		"japanese": "%furniture%を%location%に配置する",
 	},
 	"getBackFurnitureInLocation": {
 		"english": "Get %furniture% back in %location%",
@@ -312,7 +312,7 @@
 		"italian": "un grande scaffale o armadio",
 		"hungarian": "egy nagy szekrényt vagy wardróbot",
 		"czech": "velkou knihovnu nebo skříň",
-		"japanese": "大きな棚または衣装タンス",
+		"japanese": "棚または衣装タンス",
 	},
 	"furnitureCategory_AChest": {
 		"english": "a Chest",
@@ -491,7 +491,7 @@
 		"polish": "%jegoJej% pokój",
 		"hungarian": "a szobájába",
 		"czech": "vlastní pokoj",
-		"japanese": "%hisHer%部屋",
+		"japanese": "自分の部屋",
 	
 	},
 	"wishLocation_House": {
@@ -515,7 +515,7 @@
 		"polish": "%jegoJej% dom",
 		"hungarian": " a házába",
 		"czech": "vlastní dům",
-		"japanese": "%hisHer%家",
+		"japanese": "自分の家",
 	},
 	"wishLocation_Colony": {
 		"english": "the Colony",
@@ -553,7 +553,7 @@
 		"turkish": "Onun eşyası",
 		"polish": "%jegoJej% własność",
 		"czech": "vlastní majetek",
-		"japanese": "%hisHer%所有物",
+		"japanese": "自分の所有物",
 	},
 	"useSatisfactionRewardPoints": {
 		"english": "Use Satisfaction Reward Points",
@@ -595,7 +595,7 @@
 		"italian": "Sbarazzarsi del tratto: %trait%",
 		"hungarian": "Elhagyni a következő rossz szokást: %trait%",
 		"czech": "Zbavit se vlastnosti: %trait%",
-		"japanese": "個性:%trait%を取り除く",
+		"japanese": "個性:%trait%を削除する",
 	},
 	"getRidOfCondition": {
 		"english": "Get rid of Condition: %condition%",
@@ -616,7 +616,7 @@
 		"italian": "Sbarazzarsi della condizione: %condition%",
 		"hungarian": "Elveszíteni a következő kondíciót: %condition%",
 		"czech": "Zbavit se stavu: %condition%",
-		"japanese": "心情:%condition%を取り除く",
+		"japanese": "思考:%condition%を消去する",
 	},
 	"getBackToFullHealth": {
 		"english": "Get back to full health",
@@ -637,7 +637,7 @@
 		"italian": "Tornare in piena salute",
 		"hungarian": "Teljes életerő elérése",
 		"czech": "Získat plné zdraví",
-		"japanese": "完全な健康状態に戻す",
+		"japanese": "完全な健康状態にする",
 	},
 	"getBigPayday": {
 		"english": "Get a big payday of at least %coins% coins",
@@ -711,7 +711,7 @@
 		"hungarian": "Jobb kapcsolatot létesíteni a  \"%faction%\"%points%ra",
 		"turkish": "\"%faction%\" ile ilişkileri %points% noktasına kadar düzelt",
 		"czech": "Zlepšit vztahy s \"%faction%\" na %points% bodů",
-		"japanese": "\"%faction%\"との関係を改善させて%points%ポイントにする",
+		"japanese": "\"%faction%\"の関係を改善させて%points%ポイントにする",
 	},
 	"worsenRelationsWithFactionToXPoints": {
 		"english": "Worsen relations with \"%faction%\" to %points% points",
@@ -728,7 +728,7 @@
 		"hungarian": "Roszabb kapcsolatot létesíteni a  \"%faction%\"%points%ra",
 		"turkish": "\"%faction%\" ile ilişkileri %points% noktasına kadar düşür",
 		"czech": "Zhoršit vztahy s \"%faction%\" na %points% bodů",
-		"japanese": "\"%faction%\"との関係を悪化させて%points%ポイントにする",
+		"japanese": "\"%faction%\"の関係を悪化させて%points%ポイントにする",
 	},
 	"getChildhoodHappinessPoint": {
 		"english": "Get Childhood Happiness Point",
@@ -743,7 +743,7 @@
 		"polish": "Zdobyć Punkt Szczęścia Dziecka",
 		"czech": "Získat dětský bod štěstí",
 		"turkish": "Çocukluk mutluluk puanı al",
-		"japanese": "子供の満足度ポイントを取得する",
+		"japanese": "子供の満足度ポイントを得る",
 	},
 	"getChildhoodEducationPoint": {
 		"english": "Get Childhood Education Point",
@@ -758,7 +758,7 @@
 		"polish": "Zdobyć Punkt Edukacji Dziecka",
 		"czech": "Získat dětský bod vzdělání",
 		"turkish": "Çocukluk eğitim puanı al",
-		"japanese": "子供の教育ポイントを取得する",
+		"japanese": "子供の教育ポイントを得る",
 	},
 	"haveChild": {
 		"english": "Have Child",
@@ -801,5 +801,6 @@
 		"japanese": "パーティを開く",
 		"chinese": "举办派对",
 		"czech": "Pořádat párty",
+		"russian": "Устроить вечеринку",
 	}
 }

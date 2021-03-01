@@ -823,7 +823,7 @@ Op dit plaatje zijn de verwachtingen van de kolonisten niet vervult, dus zal de 
 		"polish": "Wybierz ognisko sygnalizacyjne, aby uzyskać bardziej szczegółowy przegląd imigrantów.
 Na obrazku poniżej widać że oczekiwania kolonistów nie zostały spełnione, i kolonia nie będzie się rozwijać.",
 		"korean": "화톳불을 클릭하여 이주 상황에 대한 상세한 내용을 확인하세요. 
-이 이미지에서는 개척자들의 기대가 모드 만족되지 않아, 정착지가 성장하지 않을겁니다.",
+이 이미지에서는 개척자들의 기대가 모두 만족되지 않아, 정착지가 성장하지 않을겁니다.",
 		"chinese": "点击您的营火获得详细的移民状况概述。
 在这图中，殖民者的期望没有得到满足，所以殖民地不会继续发展。",
 		"italian": "Clicca sul tuo falò per ottenere una panoramica dettagliata sullo stato dell'immigrazione.
@@ -1229,6 +1229,7 @@ For eksempel: En person, der lider af pessimisme, kan være en reel træk for ko
 		"japanese": "関係",
 		"czech": "Vztahy",
 		"danish": "forhold",
+		"korean": "인간관계",
 	},
 	"helpMenuText_relationships": {
 		"english": "No one wants to feel alone in the world and that is especially true for your villagers. Making friends and maintaining old frienships is not only fun, it's a core part of their wellbeing.
@@ -1268,6 +1269,9 @@ Eens het dorp een beetje gegroeid is, zullen de inwoners nieuwe vrienden willen 
 		"danish": "Ingen ønsker at føle sig alene i verden, og det gælder især for dine landsbyboere. At få venner og vedligeholde gamle venner er ikke kun sjovt, det er en kerne del af deres velbefindende.
 
 Når landsbyen er vokset lidt, vil dens indbyggere ønske sig nye venner. Få dem til at interagere med hinanden for at styrke deres bånd.",
+		"korean": "아무도 외로움을 느끼고 싶어하진 않습니다. 당신의 개척자들은 특히 그렇습니다. 친구를 만들고 오랜 우정을 이어나가는 것은 단순히 재미가 아니라 행복한 삶의 정수입니다.
+		
+정착지가 어느정도 성장하게 되면 주민들은 새 친구를 사귀고 싶어질겁니다. 그들이 서로와 친해지도록 상호작용 시켜주세요.",
 	},
 	"helpMenuTitle_relationships_interactions": {
 		"english": "Social Interactions",
@@ -1283,6 +1287,7 @@ Når landsbyen er vokset lidt, vil dens indbyggere ønske sig nye venner. Få de
 		"japanese": "コミュニケーションの方法",
 		"czech": "Sociální interakce",
 		"danish": "Sociale interaktioner",
+		"korean": "사교활동",
 	},
 	"helpMenuText_relationships_interactions": {
 		"english": "There are a few different ways people can interact:
@@ -1410,6 +1415,16 @@ Als je veel mensen hebt die nieuwe vrienden willen maken, probeer dan een feestj
 - Mens kramme ikke forbedrer et forhold direkte, får det alle til at føle sig bedre - selvom knus kun er tilgængelige for venner og venner.
 
 Hvis du har mange mennesker, der ønsker at få nye venner, så prøv at afholde en fest!",
+		"korean": "사람들이 상호작용 하는 데에는 몇가지 다른 방법들이 있습니다:
+
+- 말걸기는 주로 좋은 대화를 이끌어내고 적은 경우 나쁜 대화로 이어집니다.
+- 농담걸기는 관계를 형성하는데 매우 효과적입니다, 하지만 끔찍한 농담은 모든 듣는 이들을 오글거리게 하고 불쾌한 기분을 느끼게 합니다.
+- 만약 누군가가 다른 사람에 의해 감명 받는다면, 그 후에 이어지는 모든 긍정적인 상호작용이 두배로 효과적일 것입니다.
+- 모욕하기는 반드시 관계를 악화시키고 사과하기는 악화된 수치의 적은 양만 복구합니다.
+- 음식에 대해 말하는 것은 모든 사람들이 좋아하지만 이는 사람들을 즉시 배고프게 만듭니다.
+- 포옹은 직접적으로 관계를 상승시키진 않지만 모두의 기분을 더 좋게 만듭니다. 포옹은 동료나 친구끼리만 할 수 있습니다.
+
+만약 친구를 사귀고 싶어하는 사람이 많다면 파티를 열어보세요!",
 	},
 	"helpMenuTitle_relationships_kids": {
 		"english": "Having Kids",
@@ -1425,6 +1440,7 @@ Hvis du har mange mennesker, der ønsker at få nye venner, så prøv at afholde
 		"japanese": "子供",
 		"czech": "Mít děti",
 		"danish": "At have børn",
+		"korean": "아이 갖기",
 	},
 	"helpMenuText_relationships_kids": {
 		"english": "Once two adults have reached a great friendship, they can kiss in order to make their relationship a romantic one. Only when they reach the maximum possible romantic relationship level, they will be thinking about having kids.
@@ -1464,6 +1480,8 @@ Opdat het dorp nieuwe leden zou kunnen opnemen, zal aan de verwachtingen van all
 		"danish": "Når to voksne har nået et godt venskab, kan de kysse for at gøre deres forhold romantisk. Først når de når det maksimalt mulige romantiske forholdsniveau, tænker de på at få børn.
 
 For at landsbyen kan rumme nye medlemmer, skal forventningerne fra alle indbyggere være opfyldt.",
+		"korean": "두 어른이 절친 단계에 이르게 되면 키스를 통해 그들의 관계를 연인으로 만들 수 있습니다. 연인 단계가 최대치가 되면 그들은 아이 갖는 것에 대해 생각하게 될 것입니다. 
 
+		정착지가 새 개척자를 받아들이기 위해선 모든 주민들의 기대치가 충족되어야 합니다.",
 	},
 }

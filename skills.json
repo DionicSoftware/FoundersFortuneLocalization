@@ -34,6 +34,7 @@
 		"turkish": "Temel ormancılık",
 		"japanese": "林業の基礎",
 		"czech": "Lesnictví",
+		"korean": "벌목의 기초",
 	},
 	"skillDesc_foresterBasics": {
 		"english": "Can chop trees and that's basically it.",
@@ -49,6 +50,7 @@
 		"turkish": "Ağaç kesebilir, ve başka pek de bir şey yok",
 		"japanese": "木を切るための基礎技術です。",
 		"czech": "Dokáže pouze kácet stromy.",
+		"korean": "나무를 자를 수 있고요, 그게 답니다.",
 	},
 	"skillTitle_woodcuttingStoneTools": {
 		"english": "Stone Tools",
@@ -64,6 +66,7 @@
 		"turkish": "Taş Aletleri",
 		"japanese": "石の斧",
 		"czech": "Kamenné nástroje",
+		"korean": "석재 도구",
 	},
 	"skillDesc_woodcuttingStoneTools": {
 		"english": "Can use stone tools to cut trees.",
@@ -79,6 +82,7 @@
 		"turkish": "Taştan aletlerle ağaç kesebilir",
 		"japanese": "石で出来た斧を使って木を切る事ができます。",
 		"czech": "Může používat kamenné nástroje pro kácení stromů.",
+		"korean": "나무를 자르는 데 석재 도구를 사용할 수 있습니다.",
 	},
 	"skillTitle_woodcuttingMetalTools": {
 		"english": "Metal Tools",
@@ -93,6 +97,7 @@
 		"turkish": "Metal aletler",
 		"japanese": "鉄の斧",
 		"czech": "Kovové nástroje",
+		"korean": "철 도구",
 	},
 	"skillDesc_woodcuttingMetalTools": {
 		"english": "Can use metal tools to cut trees.",
@@ -107,6 +112,7 @@
 		"turkish": "Metal aletlerle ağaç kesebilir",
 		"japanese": "鉄の斧を使って木を切る事ができます。",
 		"czech": "Může používat kovové nástroje pro kácení stromů.",
+		"korean": "나무를 자르는데 철 도구를 사용할 수 있습니다.",
 	},
 	"skillTitle_growingTrees": {
 		//TODO-russian: pine trees
@@ -124,6 +130,7 @@
 		"turkish": "Çam ağacı dikebilir",
 		"japanese": "松の木[植林知識を取得]",
 		"czech": "Výsadba borovic",
+		"korean": "소나무 심기",
 	},
 	"skillDesc_growingTrees": {
 		"english": "Can plant and care for new pine trees.",
@@ -139,6 +146,7 @@
 		"turkish": "Çam ağacı dikebilir ve bakımlarını yapabilir",
 		"japanese": "松の苗木を植えて育てる事ができます。",
 		"czech": "Může vysadit borovice a pečovat o ně.",
+		"korean": "새 나무를 심고 기를 수 있습니다.",
 	},
 	"skillTitle_growingAppleTrees": {
 		"english": "Planting Apple Trees",
@@ -154,6 +162,7 @@
 		"turkish": "Elma ağacı dikebilir",
 		"japanese": "リンゴの木[植林知識を取得]",
 		"czech": "Výsadba jabloní",
+		"korean": "사과 나무 심기",
 	},
 	"skillDesc_growingAppleTrees": {
 		"english": "Can plant and care for new apple trees.",
@@ -169,6 +178,7 @@
 		"turkish": "Elma ağacı dikebilir ve bakımlarını yapabilir",
 		"japanese": "リンゴの苗木を植えて育てる事ができます。",
 		"czech": "Dokáže vysadit jabloně a pečovat o ně",
+		"korean": "새 사과 나무를 심고 기를 수 있습니다.", 
 	},
 	"skillTitle_growingCotton": {
 		"english": "Planting Cotton",
@@ -184,6 +194,7 @@
 		"turkish": "Pamuk ekebilir",
 		"japanese": "ワタの木[栽培知識を取得]",
 		"czech": "Výsadba bavlny",
+		"korean": "목화 심기",
 	},
 	"skillDesc_growingCotton": {
 		"english": "Can plant and care for new cotton plants.",
@@ -199,6 +210,7 @@
 		"turkish": "Pamuk ekebilir ve bakımlarını yapabilir",
 		"japanese": "ワタの苗木を植えて育てる事ができます。",
 		"czech": "Dokáže vysadit bavlník a pečovat o něj",
+		"korean": "새 목화 나무를 심고 기를 수 있습니다.",
 	},
 	"skillTitle_foresterMasterOutfit": {
 		"english": "Master Outfit",
@@ -214,6 +226,7 @@
 		"turkish": "Giyim ustası",
 		"japanese": "木こりの達人の服",
 		"czech": "Oblek mistra",
+		"korean": "베테랑 복장",
 	},
 	"skillDesc_foresterMasterOutfit": {
 		"english": "Can wear outfits meant for master foresters.",
@@ -229,6 +242,7 @@
 		"turkish": "Usta oduncuların giyimlerini giyebilir",
 		"japanese": "木こりの達人向けの服を着る事ができます。",
 		"czech": "Může nosit oblečení určené pro lesnické mistry.",
+		"korean": "베테랑 나무꾼을 위한 옷을 입을 수 있습니다.",
 	},
 
 
@@ -247,6 +261,7 @@
 		"turkish": "Temel madencilik",
 		"japanese": "採掘の基礎",
 		"czech": "Hornictví",
+		"korean":"채광의 기초",
 	},
 	"skillDesc_minerBasics": {
 		"english": "Can mine stone and crystals.",
@@ -262,6 +277,7 @@
 		"turkish": "Taş ve kristal çıkarabilir",
 		"japanese": "採掘するための基礎技術です。",
 		"czech": "Dokáže těžit kámen a krystaly",
+		"korean": "돌과 크리스탈을 채굴 할 수 있습니다.",
 	},
 	"skillTitle_miningIron": {
 		"english": "Mining Iron",
@@ -277,6 +293,7 @@
 		"turkish": "Demir çıkarabilir",
 		"japanese": "鉄鉱石を採掘",
 		"czech": "Těžba železa",
+		"korean": "철광석 채광",
 	},
 	"skillDesc_miningIron": {
 		"english": "Can mine iron ore.",
@@ -292,6 +309,7 @@
 		"turkish": "Demir madeninde çalışabilir",
 		"japanese": "鉄鉱石を採掘する事ができます。",
 		"czech": "Dokáže těžit železnou rudu.",
+		"korean": "철광석을 채굴 할 수 있습니다.",
 	},
 	"skillTitle_miningStoneTools": {
 		"english": "Stone Tools",
@@ -307,6 +325,7 @@
 		"turkish": "Taş aletleri",
 		"japanese": "石のツルハシ",
 		"czech": "Kamenné nástroje",
+		"korean": "석재 도구",
 	},
 	"skillDesc_miningStoneTools": {
 		"english": "Can use stone tools to mine.",
@@ -322,6 +341,7 @@
 		"turkish": "Madencilik işlerinde taş aletler kullanabilir",
 		"japanese": "石で出来たツルハシを使って採掘する事ができます。",
 		"czech": "Dokáže používat k těžbě kamenné nástroje.",
+		"korean": "채굴 할 때 석재 도구를 사용 할 수 있습니다.",
 	},
 	"skillTitle_miningMetalTools": {
 		"english": "Metal Tools",
@@ -337,6 +357,7 @@
 		"turkish": "Metal aletleri",
 		"japanese": "鉄のツルハシ",
 		"czech": "Kovové nástoje",
+		"korean": "철제 도구",
 	},
 	"skillDesc_miningMetalTools": {
 		"english": "Can use metal tools to mine.",
@@ -352,6 +373,7 @@
 		"turkish": "Madencilik işlerinde metal aletler kullanabilir",
 		"japanese": "鉄で出来たツルハシを使って採掘する事ができます。",
 		"czech": "Dokáže užívat kovové nástroje k těžbě.",
+		"korean": "채굴 할 때 철제 도구를 사용할 수 있습니다.",
 	},
 	"skillTitle_deepStoneMine": {
 		"english": "Deep Stone Mining",
@@ -367,6 +389,7 @@
 		"turkish": "Derin kaya madencliği",
 		"japanese": "石抗で採掘",
 		"czech": "Těžba v dolech na kámen",
+		"korean": "석재 광산 채",
 	},
 	"skillDesc_deepStoneMine": {
 		"english": "Can go into deep mines to dig for additional stone.",
@@ -382,6 +405,7 @@
 		"turkish": "Derin ocaklarda kaya madenciliği yapabilir",
 		"japanese": "石抗に入りたくさん石を採掘する事ができます。",
 		"czech": "Dokáže v dolech těžit kámen.",
+		"korean": "추가 석재를 캘 수 있는 깊은 광산에 출입 할 수 있습니다.",
 	},
 	"skillTitle_deepIronMine": {
 		"english": "Deep Iron Mining",
@@ -397,6 +421,7 @@
 		"turkish": "Derin ocak madenciliği",
 		"japanese": "鉄鉱石抗で採掘",
 		"czech": "Těžba v dolech na železo.",
+		"korean": "철 광산 채광",
 	},
 	"skillDesc_deepIronMine": {
 		"english": "Can go into deep mines to dig for additional iron ore.",
@@ -411,6 +436,7 @@
 		"polish": "Można wydobywać rudę żelaza w kopalniach.",
 		"japanese": "鉄鉱石抗に入りたくさん鉄鉱石を採掘する事ができます。",
 		"czech": "Dokáže v železných dolech těžit železnou rudu.",
+		"korean": "추가 철광석을 캘 수 있는 깊은 광산에 출입 할 수 있습니다.",
 	},
 	"skillTitle_deepCrystalMine": {
 		"english": "Deep Crystal Mining",
@@ -425,6 +451,7 @@
 		"polish": "Wydobycie kryształów w kopalniach",
 		"japanese": "クリスタル抗で採掘",
 		"czech": "Těžba v dolech na krystaly",
+		"korean": "크리스탈 광산 채광",
 	},
 	"skillDesc_deepCrystalMine": {
 		"english": "Can go into deep mines to dig for additional crystals.",
@@ -439,6 +466,7 @@
 		"polish": "Można wydobywać kryształ w kopalniach.",
 		"japanese": "クリスタル抗に入りたくさんクリスタルを採掘する事ができます。",
 		"czech": "Dokáže těžit krystaly v krystalových dolech.",
+		"korean": "추가 크리스탈을 캘 수 있는 깊은 광산에 출입할 수 있습니다.",
 	},
 	"skillTitle_minerMasterOutfit": {
 		"english": "Master Outfit",
@@ -453,6 +481,7 @@
 		"polish": "Strój Mistrza",
 		"japanese": "採掘の達人の服",
 		"czech": "Oblek mistra",
+		"korean": "베테랑 복장",
 	},
 	"skillDesc_minerMasterOutfit": {
 		"english": "Can wear outfits meant for master miners.",
@@ -467,6 +496,7 @@
 		"polish": "Można nosić strój przeznaczony dla mistrzów górnictwa.",
 		"japanese": "採掘の達人向けの服を着る事ができます。",
 		"czech": "Může nosit oblečení určené pro mistry horníků.",
+		"korean": "베테랑 광부를 위한 복장을 입을 수 있습니다.",
 	},
 
 
@@ -485,6 +515,7 @@
 		"polish": "Podstawy rolnictwa",
 		"japanese": "農業の基礎",
 		"czech": "Farmaření",
+		"korean": "농업의 기초",
 		
 	},
 	"skillDesc_farmerBasics": {
@@ -500,6 +531,7 @@
 		"polish": "Umiejętności pozwalające na należyte dbanie o uprawy.",
 		"japanese": "農業の基礎技術です。",
 		"czech": "Schopnost starat se o rostlinstvo.",
+		"korean": "식물을 말라 죽이지 않을 정도는 압니다.",
 	},
 	"skillTitle_sowStrawberries": {
 		"english": "Sowing Strawberries",
@@ -514,6 +546,7 @@
 		"polish": "Sianie truskawek",
 		"japanese": "イチゴ[栽培知識を取得]",
 		"czech": "Sázení jahod",
+		"korean": "딸기 심기",
 	},
 	"skillDesc_sowStrawberries": {
 		"english": "Can sow strawberries.",
@@ -528,6 +561,7 @@
 		"polish": "Można siać truskawki.",
 		"japanese": "イチゴの栽培をする事ができます。",
 		"czech": "Umí sázet jahody na záhonek.",
+		"korean": "딸기를 심을 수 있습니다.",
 	},
 	"skillTitle_sowWheat": {
 		"english": "Sowing Wheat",
@@ -542,6 +576,7 @@
 		"polish": "Sianie pszenicy",
 		"japanese": "麦[栽培知識を取得]",
 		"czech": "Sázení pšenice",
+		"korean": "밀 심기",
 		
 	},
 	"skillDesc_sowWheat": {
@@ -557,6 +592,7 @@
 		"polish": "Można siać pszenicę.",
 		"japanese": "麦の栽培をする事ができます。",
 		"czech": "Umí vysadit pšenici.",
+		"korean": "밀을 기를 수 있습니다.",
 	},
 	"skillTitle_campfireCooking": {
 		"english": "Cooking at Campfire",
@@ -571,6 +607,7 @@
 		"polish": "Gotowanie na ognisku",
 		"japanese": "焚き火[調理技術を取得]",
 		"czech": "Vaření na ohništi",
+		"korean": "모닥불 요리",
 	},
 	"skillDesc_campfireCooking": {
 		"english": "Can roast some food over the campfire.",
@@ -585,6 +622,7 @@
 		"polish": "Można przyrządzać jedzenie na ognisku.",
 		"japanese": "焚き火で料理を作る事ができます。",
 		"czech": "Umí vařit na ohništi.",
+		"korean": "모닥불로 몇가지 음식을 구울 수 있습니다.",
 	},
 	"skillTitle_kitchenCooking": {
 		"english": "Cooking at Kitchen",
@@ -599,6 +637,7 @@
 		"polish": "Gotowanie w kuchni",
 		"japanese": "台所[調理技術を取得]",
 		"czech": "Vaření v kuchyni.",
+		"korean": "조리대 요리",
 	},
 	"skillDesc_kitchenCooking": {
 		"english": "Can make delicious meals in the kitchen.",
@@ -613,6 +652,7 @@
 		"polish": "Można przyrządzać posiłki w kuchni.",
 		"japanese": "台所で美味しい料理を作る事ができます。",
 		"czech": "Umí vařit chutná jídla v kuchyni.",
+		"korean": "조리대에서 맛있는 식사를 만들 수 있습니다.",
 	},
 	"skillTitle_bakeryCooking": {
 		"english": "Baking at Bakery",
@@ -627,6 +667,7 @@
 		"polish": "Piekarnictwo",
 		"japanese": "石窯[調理技術を取得]",
 		"czech": "Umění pekařství",
+		"korean": "화덕 요리",
 	},
 	"skillDesc_bakeryCooking": {
 		"english": "Can use the bakery to make all kinds of baked goods.",
@@ -641,6 +682,7 @@
 		"polish": "Można tworzyć wypieki w piekarni.",
 		"japanese": "石窯を使って焼き菓子やパンを焼く事ができます。",
 		"czech": "Dokáže uplatnit svou schonost pekaře.",
+		"korean": "화덕을 사용하여 모든 종류의 화덕 요리를 만들 수 있습니다.",
 		
 	},
 	"skillTitle_animalCare": {
@@ -656,6 +698,7 @@
 		"polish": "Hodowla zwierząt",
 		"japanese": "家畜の世話",
 		"czech": "Péče o zvířata",
+		"korean": "동물 다루기",
 	},
 	"skillDesc_animalCare": {
 		"english": "Can tame wild animals and care for them.",
@@ -670,6 +713,7 @@
 		"polish": "Można oswajać dzikie zwierzęta i zajmować się nimi.",
 		"japanese": "野生動物の手なずけて、家畜の世話をする事ができます。",
 		"czech": "Dokáže ochočit a starat se o divokou zvěř.",
+		"korean": "야생동물을 길들이고 기를 수 있습니다.",
 	},
 	"skillTitle_shearingSheep": {
 		"english": "Shearing Sheep",
@@ -684,6 +728,7 @@
 		"polish": "Strzyżenie owiec",
 		"japanese": "羊の毛刈り",
 		"czech": "Stříhání ovcí",
+		"korean": "양털깎기",
 	},
 	"skillDesc_shearingSheep": {
 		"english": "Can shear sheep to get wool.",
@@ -698,6 +743,7 @@
 		"polish": "Można strzyc owce na wełnę.",
 		"japanese": "羊毛を刈りウールを手に入れる事ができます。",
 		"czech": "Dokáže stříhat ovce pro získání vlny.",
+		"korean": "양모를 획득하기 위해 양털을 깎을 수 있습니다.",
 	},
 	"skillTitle_farmerMasterOutfit": {
 		"english": "Master Outfit",
@@ -712,6 +758,7 @@
 		"polish": "Strój Mistrza",
 		"japanese": "農業の達人服",
 		"czech": "Oblek mistra",
+		"korean": "베테랑 복장",
 		
 	},
 	"skillDesc_farmerMasterOutfit": {
@@ -727,6 +774,7 @@
 		"polish": "Można nosić strój przeznaczony dla mistrzów farmerstwa.",
 		"japanese": "農業の達人向けの服を着る事ができます。",
 		"czech": "Může nosit oblečení určené pro mistry farmáře.",
+		"korean": "베테랑 농부를 위한 복장을 입을 수 있습니다.",
 	},
 
 
@@ -744,6 +792,7 @@
 		"polish": "Podstawy rzemieślnictwa",
 		"japanese": "クラフトの基礎",
 		"czech": "Řemeslo",
+		"korean": "수공예의 기초",
 	},
 	"skillDesc_craftsmanBasics": {
 		"english": "Can tell a hammer from a nail.",
@@ -758,6 +807,7 @@
 		"polish": "Pozwala odróżniać młotek od gwoździa.",
 		"japanese": "クラフトの基礎技術です。",
 		"czech": "Dokáže vyrábět předměty na řemeslných strojích.",
+		"korean": "못 사이에서 망치를 골라낼 수 있습니다.",
 		
 	},
 	"skillTitle_forging": {
@@ -773,6 +823,7 @@
 		"polish": "Wykuwanie",
 		"japanese": "鍛造",
 		"czech": "Kovářství",
+		"korean": "단조",
 	},
 	"skillDesc_forging": {
 		"english": "Can use the forge to make tools, weapons, and armor.",
@@ -787,6 +838,7 @@
 		"polish": "Można w kuźni wykuwać narzędzia, bronie i zbroje.",
 		"japanese": "鍛冶場を使って道具、武器、防具を作る事が出来ます。",
 		"czech": "Umí používat kovářskou pec pro výrobu nástrojů, zbraní a zbroje.",
+		"korean": "도구, 무기, 갑옷을 만들기 위해 대장간을 사용할 수 있습니다.", 
 	},
 	"skillTitle_makingBows": {
 		"english": "Making Bows",
@@ -801,6 +853,7 @@
 		"polish": "Łuczarstwo",
 		"japanese": "弓を製作",
 		"czech": "Výroba luků",
+		"korean": "활 제작",
 	},
 	"skillDesc_makingBows": {
 		"english": "Can make bows.",
@@ -815,6 +868,7 @@
 		"polish": "Można wytwarzać łuki.",
 		"japanese": "弓製作台を使って弓を製作する事が出来ます。",
 		"czech": "Umí vyrábet střelecké luky.",
+		"korean": "활을 제작 할 수 있습니다.",
 	},
 	"skillTitle_tailoring": {
 		"english": "Tailoring",
@@ -829,6 +883,7 @@
 		"polish": "Krawiectwo",
 		"japanese": "仕立て",
 		"czech": "Tkalcovství",
+		"korean": "재봉",
 	},
 	"skillDesc_tailoring": {
 		"english": "Can use the tailor's workshop to make clothes and armor.",
@@ -843,7 +898,7 @@
 		"polish": "Można używać warsztatu krawieckiego do szycia ubrań i pancerzy.",
 		"japanese": "仕立て作業台を使って衣装、防具を作る事が出来ます。",
 		"czech": "Umí používat tkalcovský stůl pro výrobu oblečení a zbroje.",
-		
+		"korean": "재봉사의 작업대에서 옷과 갑옷을 만들 수 있습니다.",
 	},
 	"skillTitle_weaving": {
 		"english": "Weaving",
@@ -858,6 +913,7 @@
 		"polish": "Tkactwo",
 		"japanese": "織り物",
 		"czech": "Tkaní",
+		"korean": "",
 		
 	}, // description doesn't exist (yet)
 	"skillTitle_tailoringMaster": {
@@ -873,6 +929,7 @@
 		"polish": "Zaawansowane krawiectwo.",
 		"japanese": "コットン、ウールから布を織る事ができます",
 		"czech": "Umí utkat složitější oblečení a zbroj.",
+		"korean": "고급 옷 재단",
 	},
 	"skillDesc_tailoringMaster": {
 		"english": "Some clothes require additional expertise to make.",
@@ -887,6 +944,7 @@
 		"polish": "Niektóre kroje wymagają precyzyjnych zdolności do ich uszycia.",
 		"japanese": "一部の衣服は作るために追加の専門知識が必要になります。",
 		"czech": "K výrobě oblečení je zapotřebí dodatečná dovednost.",
+		"korean": "어떤 옷들은 만드려면 추가적인 전문 지식이 필요한 법입니다.",
 	},
 	"skillTitle_craftsmanMasterOutfit": {
 		"english": "Master Outfit",

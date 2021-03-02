@@ -389,7 +389,7 @@
 		"turkish": "Derin kaya madencliği",
 		"japanese": "石抗で採掘",
 		"czech": "Těžba v dolech na kámen",
-		"korean": "석재 광산 채",
+		"korean": "석재 광산 채광",
 	},
 	"skillDesc_deepStoneMine": {
 		"english": "Can go into deep mines to dig for additional stone.",
@@ -913,9 +913,9 @@
 		"polish": "Tkactwo",
 		"japanese": "織り物",
 		"czech": "Tkaní",
-		"korean": "",
-		
-	}, // description doesn't exist (yet)
+		"korean": "직조",
+	},
+	 // description doesn't exist (yet)
 	"skillTitle_tailoringMaster": {
 		"english": "Tailoring difficult cloth",
 		"german": "Schwere Stoffe schneidern",
@@ -959,6 +959,7 @@
 		"polish": "Strój Mistrza",
 		"japanese": "職人の達人服",
 		"czech": "Oblek mistra",
+		"korean": "베테랑 복장",
 	},
 	"skillDesc_craftsmanMasterOutfit": {
 		"english": "Can wear outfits meant for master craftsmen.",
@@ -973,6 +974,7 @@
 		"polish": "Można nosić strój przeznaczony dla mistrzów rzemiosła.",
 		"japanese": "職人の達人向けの服を着る事ができます。",
 		"czech": "Může nosit oblečení určené pro mistry řemeslníky.",
+		"korean": "베테랑 수공업자를 나타내는 복장을 입을 수 있습니다.",
 	},
 
 
@@ -991,6 +993,7 @@
 		"polish": "Podstawy medycyny",
 		"japanese": "医学の基礎",
 		"czech": "Lékařství",
+		"korean": "의학의 기초",
 	},
 	"skillDesc_doctorBasics": {
 		"english": "Can tell medicine from poison (most times).",
@@ -1005,6 +1008,7 @@
 		"polish": "Pozwala odróżnić lekarstwo od trucizny... zazwyczaj.",
 		"japanese": "医学の基礎技術です。",
 		"czech": "Umí léčit otravu jedem (většinou).",
+		"korean": "약과 독을 구분할 수 있습니다.(대부분은).",
 	},
 	"skillTitle_fluTreatment": {
 		"english": "Flu Treatment",
@@ -1019,6 +1023,7 @@
 		"polish": "Leczenie grypy",
 		"japanese": "簡易なインフルエンザの治療",
 		"czech": "Léčba chřipky",
+		"korean": "독감 치료",
 	},
 	"skillDesc_fluTreatment": {
 		"english": "Can try simple treatments for the flu.",
@@ -1033,6 +1038,7 @@
 		"polish": "Można wykorzystać tradycyjne kuracje w leczeniu grypy.",
 		"japanese": "ワクチン１個を使った簡易なインフルエンザの治療をする事ができます。",
 		"czech": "Dokáže léčit nemocné chřipkou za pomoci jednoduchých receptů.",
+		"korean": "독감 치료를 위해 간단한 처치를 시도해 볼 수 있습니다.",
 	},
 	"skillTitle_makingMedicalPotions": {
 		"english": "Medical Potions",
@@ -1047,6 +1053,7 @@
 		"polish": "Mikstury lecznicze",
 		"japanese": "回復薬",
 		"czech": "Léčivé lektvary",
+		"korean": "회복약",
 	},
 	"skillDesc_makingMedicalPotions": {
 		"english": "Can make healing potions.",
@@ -1061,6 +1068,7 @@
 		"polish": "Można wytwarzać mikstury lecznicze.",
 		"japanese": "回復薬を作る事ができます。",
 		"czech": "Umí vytvářet léčivé lektvary.",
+		"korean": "체력 포션을 만들 수 있습니다.",
 	},
 	"skillTitle_betterFluTreatments": {
 		"english": "Better Flu Treatment",
@@ -1075,6 +1083,7 @@
 		"polish": "Zaawansowane leczenie grypy",
 		"japanese": "良質なインフルエンザの治療",
 		"czech": "Lepší léčba chřipky",
+		"korean": "강력 독감 치료",
 	},
 	"skillDesc_betterFluTreatments": {
 		"english": "Flu treatments have a higher chance of succeeding.",
@@ -1089,6 +1098,7 @@
 		"polish": "Leczenie grypy ma większe szanse powodzenia.",
 		"japanese": "ワクチン２個を使った簡易より優れた良質なインフルエンザの治療をする事ができます。",
 		"czech": "Léčba chřipky má větší šanci na úspěch.",
+		"korean": "독감 치료를 성공할 가능성이 매우 높아집니다.",
 	},
 	"skillTitle_applySplints": {
 		"english": "Applying Splints",
@@ -1103,6 +1113,7 @@
 		"polish": "Zakładanie łubków",
 		"japanese": "簡易な添え木の治療",
 		"czech": "Aplikace dlahy",
+		"korean": "부목 대기",
 	},
 	"skillDesc_applySplints": {
 		"english": "Can apply splints to heal a hurt or broken limb.",
@@ -1117,6 +1128,7 @@
 		"polish": "Można stosować łubki, do unieruchomienia złamanej kończyny.",
 		"japanese": "添え木を使って簡易な手足の負傷、骨折の治療をする事ができます。",
 		"czech": "Umí aplikovat dlahu na zraněné nebo zlomené končetiny.",
+		"korean": "다치거나 부러진 팔다리에 부목을 댈 수 있습니다.",
 	},
 	"skillTitle_splintMaster": {
 		"english": "Splint Master",
@@ -1131,6 +1143,7 @@
 		"polish": "Mistrz łubków",
 		"japanese": "良質な添え木の治療",
 		"czech": "Mistr dlahy",
+		"korean": "부목 전문가",
 	},
 	"skillDesc_splintMaster": {
 		"english": "Has a lower probability for messing up splints.",
@@ -1145,6 +1158,7 @@
 		"polish": "Prawdopodobieństwo dodatkowego połamania kończyny staje się niższe.",
 		"japanese": "添え木を使って簡易より優れた良質な手足の負傷、骨折の治療をする事ができます。",
 		"czech": "Dokáže aplikovat dlahu s větší úspěšností.",
+		"korean": "부목 대기를 망칠 확룰이 낮아집니다.",
 	},
 	"skillTitle_doctorMasterOutfit": {
 		"english": "Master Outfit",
@@ -1159,6 +1173,7 @@
 		"polish": "Strój Mistrza",
 		"japanese": "医者の達人服",
 		"czech": "Oblek mistra",
+		"korean": "베테랑 복장",
 	},
 	"skillDesc_doctorMasterOutfit": {
 		"english": "Can wear outfits meant for master doctors.",
@@ -1173,6 +1188,7 @@
 		"polish": "Można nosić strój przeznaczony dla mistrzów lekarzy.",
 		"japanese": "医者の達人向けの服を着る事ができます。",
 		"czech": "Může nosit oblečení určené pro mistry lékaře.",
+		"korean": "베테랑 의사를 위한 복장을 입을 수 있습니다.",
 	},
 
 
@@ -1190,6 +1206,7 @@
 		"polish": "Podstawy akademickie",
 		"japanese": "研究の基礎",
 		"czech": "Vědec",
+		"korean":"연구의 근본",
 	},
 	"skillDesc_scholarBasics": {
 		"english": "Has understood the basics of the scientific method.",
@@ -1204,6 +1221,7 @@
 		"polish": "Zrozumienie podstaw metodyki naukowej.",
 		"japanese": "研究するための基礎知識です。",
 		"czech": "Chápe základy přírodních věd.",
+		"korean": "과학적 방법의 기본을 이해할 수 있습니다.", 
 	},
 	"skillTitle_researchScrolls": {
 		"english": "Research Scrolls",
@@ -1218,6 +1236,7 @@
 		"polish": "Badanie zwojów",
 		"japanese": "スクロールを解析",
 		"czech": "Zkoumání svitků",
+		"korean": "스크롤 연구",
 	},
 	"skillDesc_researchScrolls": {
 		"english": "Can read ancient scrolls to gain some knowledge out of them.",
@@ -1232,6 +1251,7 @@
 		"polish": "Można odkrywać wiedzę w starożytnych zwojach.",
 		"japanese": "スクロールを解析する事ができます。",
 		"czech": "Dokáže číst starobylé svitky k získání vědomostí.",
+		"korean": "고대의 스크롤을 읽고 지식을 이끌어낼 수 있습니다.",
 	},
 	"skillTitle_teaching": {
 		"english": "Teaching",
@@ -1246,6 +1266,7 @@
 		"polish": "Nauczanie",
 		"japanese": "教育者",
 		"czech": "Učení",
+		"korean": "교육",
 	},
 	"skillDesc_teaching": {
 		"english": "Can teach children life skills. In person teaching is always quicker then letting children learn from books.",
@@ -1260,6 +1281,7 @@
 		"polish": "Można uczyć dzieci umiejętności przydatnych w życiu. Takie nauczanie jest szybsze niż nauka z książek.",
 		"japanese": "子供に教育する事ができます。子供は勉強するよりも教育の方が早く理解する事ができます。",
 		"czech": "Umí učit děti životním schopnostem tváří v tvář. Je to rychlejší než výuka z knih.",
+		"korean": "아이들에게 생활 기술을 가르칠 수 있습니다. 아이들이 혼자서 책을 읽는 것보다 어른이 직접 가르치는 것이 훨씬 빨리 익힐 수 있어요.", 
 	},
 	"skillTitle_scholarMasterOutfit": {
 		"english": "Master Outfit",
@@ -1274,7 +1296,7 @@
 		"polish": "Strój Mistrza",
 		"japanese": "学問の達人の服",
 		"czech": "Oblek mistra",
-		
+		"korean": "베테랑 복장",
 	},
 	"skillDesc_scholarMasterOutfit": {
 		"english": "Can wear outfits meant for master scholars.",
@@ -1289,6 +1311,7 @@
 		"polish": "Można nosić strój przeznaczony dla uczonych mistrzów.",
 		"japanese": "学問の達人向けの服を着る事ができます。",
 		"czech": "Může nosit oblečení určené pro mistrovské vědce.",
+		"korean": "베테랑 학자를 위한 복장을 입을 수 있습니다.",
 	},
 
 
@@ -1306,6 +1329,7 @@
 		"polish": "Podstawy walki",
 		"japanese": "戦闘の基礎",
 		"czech": "Základy boje",
+		"korean": "전투의 기초",
 		
 	},
 	"skillDesc_soldierBasics": {
@@ -1321,6 +1345,7 @@
 		"polish": "Wiadomym jest, że we wroga należy skierować ten ostry koniec.",
 		"japanese": "戦いの基礎技術です。",
 		"czech": "Dokáže se ubránit klackem.",
+		"korean": "막대기의 날카로운 끝부분을 적에게 가리킬 수 있습니다.",
 	},
 	"skillTitle_fightWoodenSwords": {
 		"english": "Wooden Swords",
@@ -1335,6 +1360,7 @@
 		"polish": "Drewniane miecze",
 		"japanese": "木の剣",
 		"czech": "Dřevěný meč",
+		"korean": "나무칼",
 	},
 	"skillDesc_fightWoodenSwords": {
 		"english": "Can fight with wooden swords.",
@@ -1349,6 +1375,7 @@
 		"polish": "Można walczyć drewnianymi mieczami.",
 		"japanese": "木の剣で戦う事ができます。",
 		"czech": "Umí používat dřevěný meč k boji.",
+		"korean": "나무칼을 사용 할 수 있습니다.",
 	},
 	"skillTitle_fightStoneSwords": {
 		"english": "Stone Swords",
@@ -1363,6 +1390,7 @@
 		"polish": "Kamienne miecze",
 		"japanese": "石の剣",
 		"czech": "Kamenný meč",
+		"korean": "돌칼",
 	},
 	"skillDesc_fightStoneSwords": {
 		"english": "Can fight with stone swords.",
@@ -1377,6 +1405,7 @@
 		"polish": "Można walczyć kamiennymi mieczami.",
 		"japanese": "石の剣で戦う事ができます。",
 		"czech": "Dokáže používat kamenný meč k boji.",
+		"korean": "돌칼을 사용할 수 있습니다.",
 	},
 	"skillTitle_fightMetalSwords": {
 		"english": "Metal Swords",
@@ -1391,6 +1420,7 @@
 		"polish": "Metalowe miecze",
 		"japanese": "鉄の剣",
 		"czech": "Kovový meč",
+		"korean": "철검",
 	},
 	"skillDesc_fightMetalSwords": {
 		"english": "Can fight with metal swords.",
@@ -1405,6 +1435,7 @@
 		"polish": "Można walczyć metalowymi mieczami.",
 		"japanese": "鉄の剣で戦う事ができます。",
 		"czech": "Dokáže používat kovový meč k boji.",
+		"korean": "철검을 사용 할 수 있습니다.",
 	},
 	"skillTitle_fightBow": {
 		"english": "Archery",
@@ -1419,6 +1450,7 @@
 		"polish": "Łucznictwo",
 		"japanese": "弓",
 		"czech": "Lukostřelba",
+		"korean": "활",
 	},
 	"skillDesc_fightBow": {
 		"english": "Can use ranged weapons to hurt the enemy from afar.",
@@ -1433,6 +1465,7 @@
 		"polish": "Można korzystać z broni dystansowej.",
 		"japanese": "弓を使用して遠くの敵を攻撃する事ができます。",
 		"czech": "Umí použít zbraně na dálku ke zranění nepřátel.",
+		"korean": "멀리 있는 적을 공격하기 위한 원거리 무기를 사용할 수 있습니다.",
 	},
 	"skillTitle_martialArts": {
 		"english": "Martial Arts",
@@ -1447,6 +1480,7 @@
 		"polish": "Sztuki walki",
 		"japanese": "格闘",
 		"czech": "Bojová umění",
+		"korean": "무술",
 	},
 	"skillDesc_martialArts": {
 		"english": "Can deal extra damage when unarmed.",
@@ -1461,6 +1495,7 @@
 		"polish": "Można zadawać dodatkowe obrażenia, będąc nieuzbrojonym.",
 		"japanese": "素手で戦った場合は追加のダメージを与える事ができます。",
 		"czech": "Používá bojová umění ke zvýšení zranění protivníka.",
+		"korean": "비무장 상태에서 추가적 피해를 입힐 수 있습니다.",
 	},
 	"skillTitle_sneaking": {
 		"english": "Sneaking",
@@ -1475,6 +1510,7 @@
 		"polish": "Skradanie się",
 		"japanese": "忍び歩き",
 		"czech": "Plížení",
+		"korean": "은신",
 	},
 	"skillDesc_sneaking": {
 		"english": "Can walk around enemy camps without waking anyone.",
@@ -1489,6 +1525,7 @@
 		"polish": "Można bezszelestnie przekradać się wokół wrogich obozów.",
 		"japanese": "忍び歩きにより誰も起こさずに敵の陣営を歩き回る事ができます。",
 		"czech": "Dokáže se plížit nepozorovaně kolem nepřátelských táborů.",
+		"korean": "적군 캠프 근처를 아무도 깨우지 않고 걸어다닐 수 있습니다.",
 	},
 	"skillTitle_mediumArmor": {
 		"english": "Medium Armor",
@@ -1503,6 +1540,7 @@
 		"polish": "Średnia zbroja",
 		"japanese": "中鎧",
 		"czech": "Střední zbroj",
+		"korean": "평갑",
 		
 		
 	},
@@ -1519,6 +1557,7 @@
 		"polish": "Można nosić średnią zbroję.",
 		"japanese": "中鎧を着る事ができます。",
 		"czech": "Může nosit střední zbroj.",
+		"korean": "평갑을 입을 수 있습니다.",
 	},
 	"skillTitle_heavyArmor": {
 		"english": "Heavy Armor",
@@ -1533,6 +1572,7 @@
 		"polish": "Ciężka zbroja",
 		"japanese": "重鎧",
 		"czech": "Těžká zbroj",
+		"korean": "중갑",
 	},
 	"skillDesc_heavyArmor": {
 		"english": "Can wear heavy armor.",
@@ -1547,5 +1587,6 @@
 		"polish": "Można nosić ciężką zbroję.",
 		"japanese": "重鎧を着る事ができます。",
 		"czech": "Může nosit těžkou zbroj.",
+		"korean": "중갑을 입을 수 있습니다.",
 	},
 }

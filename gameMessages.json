@@ -49,6 +49,7 @@
 		"japanese": "水源の近くに建てる必要があります",
 		"czech": "Toto je potřeba stavět u vody!",
 		"russian": "Необходимо разместить вблизи воды!",
+		"korean": "물 옆에 지어야 합니다!",
 	},
 	"needsToBeBuiltOnFloor": { // used for furniture building
 		"english": "Needs to be built on floor",
@@ -64,6 +65,7 @@
 		"turkish": "Bir zemin üzerine yerleştirilmeli",
 		"japanese": "床に建てる必要があります",
 		"czech": "Toto musí být postaveno na podlaze",
+		"korean": "바닥 위에 만들어야 합니다.",
 	},
 	"needsToBeBuiltNextToFloor": { // used for wall building
 		"english": "Needs to be built next to floor tile",
@@ -79,6 +81,7 @@
 		"turkish": "Bir döşeme karosunun yayına yerleştirilmeli",
 		"japanese": "床タイルの端に建てる必要があります",
 		"czech": "Toto musí být postaveno vedle dlaždice",
+		"korean": "바닥 타일 옆에 지어야 합니다.",
 	},
 	"needsToBeBuiltAboveRoomOrTerrain": { // used for floor building
 		"english": "Needs to be built above room or on solid ground",
@@ -93,6 +96,7 @@
 		"turkish": "Bir zemin üzerinde ya da oda üstüne yerleştirilmeli",
 		"japanese": "床または部屋の上に配置する必要があります",
 		"czech": "Musí být postaveno nad místností nebo na pevné zemi",
+		"korean": "방 안이나 단단한 지면 위에 지어야 합니다.",
 	},
 	"placeBlocked": {
 		"english": "This Place is blocked by something!",
@@ -202,6 +206,7 @@
 		"turkish": "%firstName%, yarın büyümüş olacak.",
 		"japanese": "%firstName%は明日大人に成長します",
 		"czech": "%firstName% zítra vyroste.",
+		"korean": "%firstName%#{은} 내일 어른이 됩니다.",
 	},
 	"notificationTitle_isApproachingEndOfLife": {
 		"english": "%firstName% is nearing the end of %hisHer% long life.",
@@ -216,6 +221,7 @@
 		"turkish": "%firstName%, yaşamının sonuna ermek üzere.",
 		"japanese": "%firstName%の長い長い人生が終わりへと近づきました",
 		"czech": "%firstName% je blízko svému konci. Ži%lA% dlouhý život.",
+		"korean": "%firstName%#{은} %hisHer%의 삶의 끝자락에 다다랐습니다.",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -342,6 +348,7 @@
 		"turkish": "%firstName% yaşlılıktan öldü",
 		"japanese": "%firstName%は老齢で亡くなりました",
 		"czech": "%firstName% zemře%lA% na stáří",
+		"korean": "%firstName%#{은} 노환으로 사망했습니다.",
 	},
 	"notificationTitle_AnimalDeath": {
 		"english": "%fullName% died",
@@ -353,6 +360,7 @@
 		"japanese": "%fullName%は死にました",
 		"czech": "%fullName% umře%lA%",
 		"russian": "%fullName% умер",
+		"korean": "%fullName%#{은} 죽었습니다.",
 	},
 	"notificationTitle_AnimalBecameWild": {
 		"english": "%fullName% has become untamed",
@@ -364,6 +372,7 @@
 		"japanese": "%fullName%は手なずけされました",
 		"czech": "%fullName% přestala být ochočená",
 		"russian": "%fullName% стал диким",
+		"korena": "%fullName%#{은} 야생 상태로 돌아갔습니다.",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -880,6 +889,7 @@
 		"turkish": "Boş mezar yok",
 		"japanese": "空いている墓はありません",
 		"czech": "Nemáme už žádný prázdný hrob",
+		"korean": "빈 무덤이 없습니다.",
 	},
 	"notificationTitle_ProfessionLevelUp": {
 		"english": "%firstName% is now a level %level% %profession%",
@@ -893,6 +903,7 @@
 		"chinese": "%firstName%现在是%level%级的%profession%",
 		"japanese": "%firstName%の%profession%はレベル%level%になりました",
 		"czech": "%firstName% je nyní na úrovni %level% %profession%",
+		"korena": "%firstName%#{은} 이제 %level% 레벨 %profession% 입니다.",
 		
 	},
 
@@ -966,6 +977,7 @@
 		"turkish": "Diplomatik ilişkiler geliştirildi",
 		"japanese": "外交関係が改善されました",
 		"czech": "Vylepšeny diplomatické vztahy",
+		"korean": "외교 관계가 향상됨.",
 	},
 	"treatmentSuccessful": {
 		"english": "Treatment\nSuccessful",
@@ -1082,6 +1094,7 @@
 		"turkish": "Etkilendi",
 		"japanese": "%firstName%は誘惑されています",
 		"czech": "%firstName% uděla%lA% dojem",
+		"korean": "감명받음",
 		
 	},
 	"notImpressed": {
@@ -1097,6 +1110,7 @@
 		"turkish": "Etkilenmedi",
 		"japanese": "%firstName%は呆れています",
 		"czech": "%firstName% neuděla%lA% dojem",
+		"korean": "심드렁함",
 	},
 	"upsetWithSomeone": {
 		"english": "Upset with %firstName%",
@@ -1111,6 +1125,7 @@
 		"turkish": "%firstName%den dolayı üzgün",
 		"japanese": "%firstName%と会話をしたくありません",
 		"czech": "Naštvan%yA% na %firstName%",
+		"korean": "%firstName%에게 화가 남",
 	},
 	"someoneIsUpset": {
 		"english": "%firstName% is upset",
@@ -1125,6 +1140,7 @@
 		"turkish": "%firstName% üzgün",
 		"japanese": "%firstName%は会話をしたくありません",
 		"czech": "%firstName% je rozrušen%yA%",
+		"korean": "%firstName%#{은} 화가 남",
 	},
 	"drankElixirOfYouth": {
 		"english": "%firstName% gets %days% extra days!",
@@ -1139,6 +1155,7 @@
 		"chinese": "%firstName%额外获得%days%天！",
 		"japanese": "%firstName%は薬の影響で%days%日間安静です",
 		"czech": "%firstName% získává %days% extra dní života navíc!",
+		"korean": "%firstName%#{은} 수명이 %days%일 늘어났다!",
 	},
 	"tamingSucceeded": {
 		"english": "Taming successful!",
@@ -1153,6 +1170,7 @@
 		"chinese": "驯服成功！",
 		"japanese": "手なずけに成功しました！",
 		"czech": "Ochočování úspěšné!",
+		"korean": "길들이기 성공!",
 	},
 	"tamingInProgress": {
 		"english": "Taming in progress...",
@@ -1167,6 +1185,7 @@
 		"chinese": "正在驯服...",
 		"japanese": "手なずけ中...",
 		"czech": "Probíhá ochočování ...",
+		"korean": "길들이기 진행중 ...",
 	},
 
 
@@ -2163,6 +2182,7 @@
 		"chinese": "心理问题",
 		"japanese": "心理的問題",
 		"czech":  "Psychologické problémy",
+		"korean": "심리적 문제",
 	},
 	"messageText_negativeTraitEvent": {
 		"english":  "%firstName% has been miserable for a long time now. %cap-hisHer% bad mental state has caused %himHer% to gain a new trait: '%trait%'",
@@ -2176,6 +2196,7 @@
 		"chinese": "%firstName%很久以来一直很痛苦。%cap-hisHer%的不良心理状态已导致%himHer%获得新的症状：'%trait%'",
 		"japanese": "%firstName%は悲惨な状況で精神状態が悪かったため、新しい個性を獲得しました。:%trait%",
 		"czech":  "%firstName% se cítí už dlouho mizerně. Má špatný duševní stav, který způsobil novou trvalou vlastnost : '%trait%'",
+		"korean":  "%firstName%#{은} 오랜시간 비참하게 지냈습니다. %cap-hisHer%의 안 좋은 정신상태는 %himHer%#{가} 새 성향을 갖게 만들었습니다: '%trait%'",
 	},
 
 

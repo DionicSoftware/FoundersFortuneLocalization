@@ -16,6 +16,7 @@
 		"czech": "Max:",
 		"romanian": "Max:",
 		"japanese": "最大",
+		"korean": "가득참",
 	},
 	"year_no": {
 		"english": "Year %year%",
@@ -32,6 +33,7 @@
 		"czech": "Rok %year%",
 		"romanian": "Anul %year%",
 		"japanese": "%year%年",
+		"korean": "%year% 년",
 	},
 	"quest_log": {
 		"english": "Quest Log",
@@ -48,6 +50,7 @@
 		"czech": "Seznam úkolů",
 		"romanian": "Jurnalul de misiuni",
 		"japanese": "クエストログ",
+		"korean": "퀘스트로그",
 	},
 	"quest_accept": {
 		"english": "Accept",
@@ -64,6 +67,7 @@
 		"polish": "Akceptuj",
 		"japanese": "受ける",
 		"chinese": "接受",
+		"korean": "수락",
 	},
 	"quest_decline": {
 		"english": "Decline",
@@ -80,6 +84,7 @@
 		"polish": "Odrzuć",
 		"japanese": "断る",
 		"chinese": "拒绝",
+		"korean": "거절",
 	},
 	"quest_item_confirm": {
 		"english": "Confirm",
@@ -96,6 +101,7 @@
 		"polish": "Potwierdź",
 		"japanese": "確認",
 		"chinese": "确认",
+		"korean": "확인",
 	},
 	"research": {
 		"english": "Research",
@@ -394,6 +400,7 @@
 		"czech": "Přepnutí podlaží",
 		"romanian": "Schimbă etajele",
 		"japanese": "階の切替",
+		"korean": "층계 전환",
 	},
 	"switchFloorsDescription": {
 		"english": "Click here to switch to a different floor.\nDefault hotkeys: R/F",
@@ -411,6 +418,7 @@
 		"czech": "Klikněte zde pro přepnutí do jiného podlaží.\nVýchozí klávesy: R/F",
 		"romanian": "Clicați aici pentru a trece la un alt etaj.\nComenzi rapide implicite: R/F",
 		"japanese": "表示される階を切替えます。階の表示が違うので注意してください。",
+		"korean": "다른 층으로 전환하기 위해 이곳을 클릭하세요.\nDefault hotkeys: R/F",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
@@ -428,6 +436,7 @@
 		"czech": "Stavba na podlaží %floor% stojí o %percentage%% více.",
 		"romanian": "Construcția la etajul %floor% costă cu %percentage%% mai mult.",
 		"japanese": "%floor%階は%percentage%%以上の建設費がかかります。階の表示が違うので注意してください。",
+		"korean": "%floor%층 위에 건설은 %percentage%% 더 듭니다.",
 	},
 
 
@@ -647,6 +656,7 @@
 		"polish": "Owajanie",
 		"japanese": "手なづけ",
 		"chinese": "驯服",
+		"korean": "길들임",
 	},
 	"needsDescriptionTameness": {
 		"english": "Once you managed to tame a wild animal, you need to care for it from time to time in order to keep it tame. The white line shows when the animal will become wild again.",
@@ -662,6 +672,7 @@
 		"polish": "Kiedy już udało ci się oswoić dzikie zwierzę, musisz od czasu do czasu o nie zadbać, aby pozostało udomowione. Biały wskaźnik pokazuje, kiedy zwierzę ponownie stanie się dzikie.",
 		"japanese": "野生動物を手なづけて家畜にします。家畜にしても世話を怠ると再び野生化します。",
 		"chinese": "一旦你驯服了野生动物，就需要不时地照料它以保持驯服状态。白线表示何时该动物将再次变得野生。",
+		"korean": "일단 야생동물을 길들이는데 성공하고 나면, 당신은 가축상태를 유지하기 위해 계속 동물을 돌봐야 합니다. 흰색 선은 언제 이 동물이 다시 야생으로 돌아갈 지를 나타냅니다.",
 		"czech": "Jakmile se vám podařilo zkrotit divoké zvíře, musíte se o něj čas od času starat, abyste zůstalo ochočené. Bílá čára ukazuje, kdy bude zvíře opět divoké.",
 	},
 	"humanWillGrowUpInDays": {
@@ -679,6 +690,7 @@
 		"czech": "%firstName% vyroste za %days% dní",
 		"romanian": "%firstName% va crește peste %days% zile",
 		"japanese": "%firstName%は子供です。大人になるまで%days%日です。",
+		"korean": "%firstName%#{은} %days%일 뒤에 나이를 먹습니다.",
 	},
 	"humanWillGetOldInDays": {
 		"english": "%firstName% will get old in %days% days",
@@ -695,6 +707,7 @@
 		"czech": "%firstName% zestárne za %days% dní",
 		"romanian": "%firstName% va îmbătrâni peste %days% zile",
 		"japanese": "%firstName%は大人です。老人になるまで%days%日です。",
+		"korean": "%firstName%#{은} %days%일 뒤에 노인이 됩니다.",
 	},
 	"humanWillPassAwayInDays": {
 		"english": "%firstName% will pass away in %days% days",
@@ -711,6 +724,7 @@
 		"czech": "%firstName% zemře za %days% dní",
 		"romanian": "%firstName% va muri peste %days% zile",
 		"japanese": "%firstName%は老人です。悲しい事に%days%日後に亡くなります。",
+		"korean": "%firstName%#{은} %days%일 뒤에 사망합니다.",
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -847,6 +861,7 @@
 		"czech": "Dovednosti",
 		"romanian": "Abilități",
 		"japanese": "スキル",
+		"korean": "기술",
 	},
 	"noProfessionalSkills": {
 		"english": "No professional skills to speak of.",
@@ -863,6 +878,7 @@
 		"czech": "Žádné profesní dovednosti, které by stály za řeč.",
 		"romanian": "Nu există abilități profesionale de a vorbi.",
 		"japanese": "特になし",
+		"korean": "그럴다할 전공 기술이 없습니다.",
 	},
 	"view": {
 		"english": "View",
@@ -1361,6 +1377,7 @@
 		"czech": "Dětství",
 		"romanian": "Creștere",
 		"japanese": "成長",
+		"korean": "유년기",
 	},
 	"childhoodExperiences": {
 		"english": "Childhood Experiences",
@@ -1377,6 +1394,7 @@
 		"czech": "Zkušenosti z dětství",
 		"romanian": "Experiențele copilăriei",
 		"japanese": "満足度",
+		"korean": "유년 시절 경험",
 	},
 	"childhoodHappinessTooltip_Description": {
 		"english": "Being in a good or bad mood slowly earns positive or negative childhood happiness points.\nDepending on which points are collected, the child will gain positive or negative traits on their birthday.",
@@ -1393,6 +1411,8 @@
 		"turkish": "Ruhsal durum yavaşça çocukluk mutluluk puanlarını etkiler.\nToplanan puanlara göre, çocuk büyüdüğünde doğum gününde iyi veya kötü karakter özellikleri kazanır.",
 		"romanian": "Fiind într-o dispoziție bună sau rea câștigă încet puncte de fericire pozitive sau negative.\nÎn funcție de ce puncte sunt colectate, copilul va câștiga trăsături pozitive sau negative de ziua lui.",
 		"japanese": "満足度は心情の状態により右側のプラスまたは左側のマイナスへ動きます。どちらでも最大になった場合はそれぞれの満足度ポイントを獲得します。獲得した満足度ポイントに応じて誕生日に個性が決まります。",
+		"korean": "아이가 좋거나 나쁜 기분으로 지낼때마다 조금씩 긍정적 혹은 부정적 포인트를 획득합니다. \n어느 포인트를 얻느냐에 따라 아이는 생일날 긍정적이거나 부정적인 성질을 얻게 됩니다.", 
+
 	},
 	"childhoodEducation": {
 		"english": "Education",
@@ -1409,6 +1429,7 @@
 		"czech": "Vzdělávání",
 		"romanian": "Educație",
 		"japanese": "教育",
+		"korean": "교육",
 	},
 	"childhoodEducationTooltip_Description": {
 		"english": "Every Child can learn life skills at the book shelf. On their birthday, they can use these points to get a great head start in any profession.\nIf the education is stopped before a topic is fully understood and a point is earned, the progress will slowly be forgotten.",
@@ -1425,6 +1446,7 @@
 		"turkish": "Çocuklar kitaplıkları kullanarak yaşam becerileri edinebilirler. Doğum günlerinde, hayat puanlarını kullanarak seçecekleri mesleklerde bir adım önde başlayabilirler.\nEğitim, bir konu tamamen öğrenilmeden yarım bırakılırsa, ilerleme yavaşça unutulur.", 
 		"romanian": "Fiecare copil poate învăța abilități de viață la raftul de cărți. De ziua lor de naștere, ei pot folosi aceste puncte pentru a obține un mare avantaj în orice profesie.\nDacă educația este întreruptă înainte ca un subiect să fie înțeles pe deplin și să obțină un punct, progresul va fi uitat încet.",
 		"japanese": "教育スキルのあるコロニストから教育を受ける、または子供用本棚から勉強をする事で教育の経験を獲得する事ができます。教育の経験は自然と減少していきます。また、最大になると教育ポイントを獲得します。獲得した教育ポイントに応じて誕生日にスキルを獲得できます。",
+		"korean": "모든 아이들은 책장의 책으로 부터 생활 기술을 배울 수 있습니다. 아이들은 생일날 포인트를 사용해 전문 기술에 사용할 수 있습니다. \n만약 그 주제를 완전히 익히고 포인트를 얻기 전에 교육을 멈춘다면 아이들은 진행도를 서서히 잃게됩니다.",  
 	},
 
 	// Birthday Panel (Child born)
@@ -1443,6 +1465,7 @@
 		"czech": "Narodilo se dítě!",
 		"romanian": "S-a născut un copil!",
 		"japanese": "子供が生まれました！",
+		"korean": "아이가 태어났습니다!",
 	},
 	"childBornDescription": {
 		"english": "%parent1% and %parent2% have got a %sonDaughter%!\nOverjoyed, they are thinking about a name for the child.\n\nWhat should their %sonDaughter% be called?",
@@ -1459,6 +1482,7 @@
 		"czech": "%parent1% a %parent2% mají %synaDceru%!\nŠťastní rodiče, přemýšlí jaké asi dostane jméno.\n\nJak by se %melA% jejich %synDcera% jmenovat?",
 		"romanian": "%parent1% și %parent2% au %unO% %fiuFiica%!\nFoarte fericiți, ei se gândesc la un nume pentru copil.\n\nCe nume ar trebui să aibă %fiulFiica% lor?",
 		"japanese": "%parent1%と%parent2%は喜びに満ちています。二人の生まれたばかりの大事な%sonDaughter%へ素敵な名前をプレゼントしてください。",
+		"korean": "%parent1% 와 %parent2%#{은} %sonDaughter%#을 갖게 되었습니다!\n몹시 기뻐하며, 그들은 아이에게 지어줄 이름을 생각하고 있습니다.\n\n %sonDaughter%의 이름은 무엇이 좋을까요?",
 	},
 	"welcomeHuman": {
 		"english": "Welcome %firstName%!",
@@ -1475,6 +1499,7 @@
 		"czech": "Vítej %firstName%!",
 		"romanian": "Bine ai venit, %firstName%!",
 		"japanese": "ようこそ、%firstName%！",
+		"korean": "환영한다, %firstName%!",
 	},
 	"unnamed": { // used before player has assigned a name
 		"english": "Unnamed",
@@ -1491,6 +1516,7 @@
 		"czech": "Bezejmenn%yA%",
 		"romanian": "Fără nume",
 		"japanese": "子供の名前",
+		"korean": "무명",
 	},
 
 	// Birthday Panel (becoming Adult)
@@ -1509,6 +1535,7 @@
 		"polish": "%firstName% dor%ósłOsła%!",
 		"czech": "%firstName% vyrost%lA%!",
 		"japanese": "%firstName%は大人になりました。",
+		"korean": "%firstName% 가 어른이 되었다!",
 	},
 	"positiveTraits": {
 		"english": "Positive Traits",
@@ -1525,6 +1552,7 @@
 		"polish": "Cechy pozytywne",
 		"czech": "Pozitivní vlastnosti",
 		"japanese": "前向きな個性",
+		"korean": "긍정적 성향",
 	},
 	"lotsPositiveExperiencesGainedTraits": {
 		"english": "%firstName% had a lot of good experiences in %hisHer% childhood and gained the following traits:",
@@ -1541,6 +1569,8 @@
 		"polish": "%firstName% miał%nicA% wiele dobrych dośwadczeń w swoim dzieciństwie i zyskał%nicA% następujące cechy:",
 		"czech": "%firstName% získa%lA% hodně dobrých zkušeností v dětství a získa%lA% tyto vlastnosti:",
 		"japanese": "%firstName%は多くのプラスの満足度ポイントにより下記の個性を獲得しました。",
+		"korean": "%firstName%#{은} %hisHer%의 유년시절 긍정적인 경험을 많이 했습니다. 이러한 성향을 얻습니다:",
+		
 	},
 	"somePositiveExperiencesGainedTraits": {
 		"english": "%firstName% had some good experiences in %hisHer% childhood and gained the following traits:",

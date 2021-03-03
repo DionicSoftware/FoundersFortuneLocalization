@@ -16,7 +16,7 @@
 		"czech": "Max:",
 		"romanian": "Max:",
 		"japanese": "最大",
-		"korean": "가득참",
+		"korean": "최대",
 	},
 	"year_no": {
 		"english": "Year %year%",
@@ -134,7 +134,7 @@
 		"ukrainian":"Обзор досліджень",
 		"russian":"Обзор исследований",
 		"chinese": "研究概述",
-		"korean": "연구 요약",
+		"korean": "연구 목록",
 		"arabic": "ﺙﺎﺤﺑﻷﺍ ﻰﻠﻋ ﺔﻣﺎﻋ ﺓﺮﻈﻧ",
 		"polish": "Przegląd badań",
 		"italian": "Panoramica ricerche",
@@ -436,7 +436,7 @@
 		"czech": "Stavba na podlaží %floor% stojí o %percentage%% více.",
 		"romanian": "Construcția la etajul %floor% costă cu %percentage%% mai mult.",
 		"japanese": "%floor%階は%percentage%%以上の建設費がかかります。階の表示が違うので注意してください。",
-		"korean": "%floor%층 위에 건설은 %percentage%% 더 듭니다.",
+		"korean": "%floor%층 위의 건설은 %percentage%% 더 듭니다.",
 	},
 
 
@@ -672,7 +672,7 @@
 		"polish": "Kiedy już udało ci się oswoić dzikie zwierzę, musisz od czasu do czasu o nie zadbać, aby pozostało udomowione. Biały wskaźnik pokazuje, kiedy zwierzę ponownie stanie się dzikie.",
 		"japanese": "野生動物を手なづけて家畜にします。家畜にしても世話を怠ると再び野生化します。",
 		"chinese": "一旦你驯服了野生动物，就需要不时地照料它以保持驯服状态。白线表示何时该动物将再次变得野生。",
-		"korean": "일단 야생동물을 길들이는데 성공하고 나면, 당신은 가축상태를 유지하기 위해 계속 동물을 돌봐야 합니다. 흰색 선은 언제 이 동물이 다시 야생으로 돌아갈 지를 나타냅니다.",
+		"korean": "일단 야생동물을 길들이는데 성공하고 나면, 길들여진 상태를 유지할 수 있도록 수시로 동물을 돌봐야 합니다. 흰색 선은 이 동물이 언제 다시 야생으로 돌아갈 지를 나타냅니다.",
 		"czech": "Jakmile se vám podařilo zkrotit divoké zvíře, musíte se o něj čas od času starat, abyste zůstalo ochočené. Bílá čára ukazuje, kdy bude zvíře opět divoké.",
 	},
 	"humanWillGrowUpInDays": {
@@ -2533,6 +2533,7 @@
 		"italian": "Nessun oggetto speciale in deposito.",
 		"romanian": "Nu există obiecte speciale în depozit.",
 		"japanese": "特別な物はありません。",
+		"korean": "특별한 물건이 없습니다.",
 	},
 	"decoration": {
 		"english": "Decoration",
@@ -2688,6 +2689,7 @@
 		"turkish": "Merdivenler",
 		"czech": "Schodiště",
 		"japanese": "階段",
+		"korean": "계단",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -3829,6 +3831,7 @@
 		"polish": "Brak miejsca w magazynach na %amount% %resource%.",
 		"czech": "Sklady nemají dostatečnou kapacitu na uskladění %amount% %resource%.",
 		"japanese": "%amount%%resource%を備蓄するための十分な空きがありません。",
+		"korean": "%amount% %resource%를 보관할 만한 충분한 공간이 없습니다.",
 	},
 
 
@@ -3894,11 +3897,13 @@
 		"german": "Stunden",
 		"japanese": "時間",
 		"czech": "hodin",
+		"korean": "시간",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
 		"japanese": "時間",
 		"czech": "h",
+		"korean": "시간",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -3925,6 +3930,7 @@
 		"german": "Min",
 		"japanese": "分",
 		"czech": "min",
+		"korean": "분",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -4001,6 +4007,7 @@
 		"japanese": "日",
 		"chinese": "天",
 		"czech": "dne",
+		"korean": "일",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -4256,6 +4263,7 @@
 		"polish": "Poziom %level%",
 		"czech": "Úroveň %level%",
 		"japanese": "レベル%level%",
+		"korean": "레벨 %level%",
 	},
 	"professionsTitle": {
 		"english": "Professions - %fullName%",
@@ -4272,6 +4280,7 @@
 		"polish": "Zawody - %fullName%",
 		"czech": "Karta profese - %fullName%",
 		"japanese": "%fullName%の作業一覧",
+		"korean":  "전공직업 - %fullName%",
 	},
 	"progressToNextLevel": {
 		"english": "Progress to next level: %currentPoints% / %totalPoints%",
@@ -4288,6 +4297,7 @@
 		"polish": "Punkty do kolejnego poziomu:  %currentPoints% / %totalPoints%",
 		"czech": "Postup na další úroveň: %currentPoints% / %totalPoints%",
 		"japanese": "次のレベルまで:%currentPoints%/%totalPoints%",
+		"korean":  "다음 레벨까지 진도: %currentPoints% / %totalPoints%",
 	},
 	"xPoints": {
 		"english": "%points% Points",
@@ -4304,6 +4314,7 @@
 		"polish": "%points% Punktów",
 		"czech": "%points% bodů",
 		"japanese": "%points%ポイント",
+		"korean": "%points% 포인트",
 	},
 	"skillPointsAvailable": {
 		"english": "%points% skill points available",
@@ -4320,6 +4331,7 @@
 		"polish": "%points% punktów umiejętności dostępnych",
 		"czech": "%points% dovednostních bodů k dispozici",
 		"japanese": "%points%ポイント利用可能",
+		"korean": "%points%의 스킬 포인트 사용가능",
 	},
 	"willResplenishIn":  {
 		"english": "Will replenish in %days% days",
@@ -4336,6 +4348,7 @@
 		"japanese": "再度収集できるまで%days%日",
 		"chinese": "%days%天后可收获",
 		"czech": "Doplní se za %days% dní",
+		"korean": "재수확까지 %days% 일 남음",
 	},
 	"resourcesLeft":  {
 		"english": "%resource% left",
@@ -4352,6 +4365,7 @@
 		"japanese": "%resource%残り",
 		"chinese": "还剩%resource%",
 		"czech": "%resource% zbývá",
+		"korean": "%resource% 남음",
 	},
 	"gatheringSpeed":  { // use \\% to type %
 		"english": "Gathering speed: %speed% %resource%/minute",
@@ -4368,6 +4382,7 @@
 		"japanese": "採取速度:%speed%/分",
 		"chinese": "收获速度:%speed%%resource%/分",
 		"czech": "Rychlost sběru: %speed% %resource%/minutu",
+		"korean": "수확속도: %speed% %resource%/minute",
 	},
 	"growthProgress":  {
 		"english": "Growth Progress",
@@ -4384,6 +4399,7 @@
 		"japanese": "育生状況",
 		"chinese": "生长情况",
 		"czech": "Pokrok růstu",
+		"korean": "성장속도",
 	},
 	"typicalGrowthTime":  {
 		"english": "Typical time to grow: %minDays% - %maxDays% days",
@@ -4400,6 +4416,7 @@
 		"japanese": "育生時間:%minDays%-%maxDays%日",
 		"chinese": "生长时间:%minDays%-%maxDays%日",
 		"czech": "Čas růstu: %minDays% - %maxDays% dní",
+		"korean": "평균성장시간: %minDays% - %maxDays% 일",  
 	},
 	"possibleYieldWhenGrown":  {
 		"english": "Possible yield: ",
@@ -4416,6 +4433,7 @@
 		"japanese": "予想収量",
 		"chinese": "预期产量:",
 		"czech": "Možný výnos: ",
+		"korean": "예상 수확량: ",
 	},
 	"amountWatered": {
 		"english":  "Amount watered: %watered%/2",
@@ -4432,6 +4450,7 @@
 		"japanese": "給水量:%watered%/2",
 		"chinese": "浇水量:%watered%/2",
 		"czech":  "Zalévané množství: %watered%/2",
+		"korean": "급수량:%watered%/2",
 	},
 	"plantNeedsCare": {
 		"english":  "Plant needs care",
@@ -4446,6 +4465,7 @@
 		"chinese": "作物种子需要照料",
 		"czech":  "Rostlina potřebuje péči",
 		"russian":  "Растению нужна забота",
+		"korean": "농작물을 돌봐줘야 합니다",
 	},
 	"factionPointsInfo": {
 		"english":  "Relationship points: %points%",
@@ -4462,6 +4482,7 @@
 		"japanese": "関係:%points%",
 		"chinese": "友好值:%points%",
 		"czech":  "Vztahové body: %points%",
+		"korean":  "관계 포인트: %points%",
 	},
 	"animalHandling":  {
 		"english": "Animal Handling",
@@ -4478,6 +4499,7 @@
 		"japanese": "解体",
 		"chinese": "屠宰",
 		"czech": "Manipulace se zvířaty",
+		"korean": "도축",
 	},
 	"animalsInVillage":  { // if it doesn't work with your grammer, just say "Animals in Village"
 		"english": "%animalType% in Village",
@@ -4494,6 +4516,8 @@
 		"japanese": "%animalType%の牧場",
 		"chinese": "%animalType% 牧场",
 		"czech": "%animalType% ve vesnici",
+		"korean": "%animalType% 목장",
+		
 	},
 	"breedingLimit":  {
 		"english": "Breeding Limit",
@@ -4510,6 +4534,7 @@
 		"japanese": "最大家畜数",
 		"chinese": "最大家畜数",
 		"czech": "Chovatelský limit",
+		"korean": "최대가축수",
 	},
 	"automaticallyAssignExtrasToButcher":  { // if it's too long, skip "assign"
 		"english": "Automatically assign extra animals to butcher",
@@ -4526,6 +4551,7 @@
 		"japanese": "最大数を超えた家畜を屠殺",
 		"chinese": "自动将多余的家畜分配给屠夫屠宰",
 		"czech": "Automaticky přiřaďte na porážku další zvířata",
+		"korean": "정해진 수를 넘어선 여분의 가축을 자동으로 도축함",
 		
 	},
 	"tamingProgress":  {
@@ -4543,6 +4569,7 @@
 		"japanese": "手なづけ状況:%status%",
 		"chinese": "驯服进度: %status%",
 		"czech": "Pokrok ochočení: %status%",
+		"korean": "길들이기 진행도: %status%",
 	},
 	"tamed":  {
 		"english": "Tamed",
@@ -4559,6 +4586,7 @@
 		"japanese": "手なづけ完了",
 		"chinese": "已驯服",
 		"czech": "Ochočeno",
+		"korean": "길들여짐",
 	},
 	"untamed":  {
 		"english": "Wild",
@@ -4575,6 +4603,7 @@
 		"japanese": "野生",
 		"chinese": "野生",
 		"czech": "Divoký",
+		"korean": "야생",
 	},
 	"ChangeAppearance":  {
 		"english":  "Change Appearance",
@@ -4588,6 +4617,7 @@
 		"chinese": "变更外观",
 		"czech":  "Změnit vzhled",
 		"russian":  "Изменить внешний вид",
+		"korean": "외형 바꾸기",
 	},
 	"confirmChanges":  {
 		"english":  "Confirm Changes",
@@ -4601,6 +4631,7 @@
 		"chinese": "变更确认",
 		"czech":  "Potvrďte změny",
 		"russian":  "Подтвердить изменения",
+		"korean": "변경 확인",
 	},
 	"objects":  {
 		"english":  "Objects",
@@ -4614,6 +4645,7 @@
 		"chinese": "对象",
 		"czech":  "Objekty",
 		"russian":  "Объекты",
+		"korean": "대상",
 	},
 	"colors":  {
 		"english":  "Colors",
@@ -4627,6 +4659,7 @@
 		"chinese": "颜色",
 		"czech":  "Barvy",
 		"russian":  "Цвета",
+		"korean": "색깔",
 	},
 	"hat":  {
 		"english":  "Hat",
@@ -4640,6 +4673,7 @@
 		"chinese": "帽子",
 		"czech":  "Klobouk",
 		"russian":  "Шляпа",
+		"korean": "모자",
 	},
 	"hair":  {
 		"english":  "Hair",
@@ -4653,6 +4687,7 @@
 		"chinese": "发型",
 		"czech":  "Vlasy",
 		"russian":  "Прическа",
+		"korean": "머리카락",
 	},
 	"face":  {
 		"english":  "Face",
@@ -4666,6 +4701,7 @@
 		"chinese": "脸部",
 		"czech":  "Obličej",
 		"russian":  "Лицо",
+		"korean": "얼굴",
 	},
 	"torso":  {
 		"english":  "Torso",
@@ -4679,6 +4715,7 @@
 		"chinese": "身体",
 		"czech":  "Tělo",
 		"russian":  "Торс",
+		"korean": "몸통",
 	},
 	"skin":  {
 		"english":  "Skin",
@@ -4692,6 +4729,7 @@
 		"chinese": "皮肤",
 		"czech":  "Kůže",
 		"russian":  "Кожа",
+		"korean": "피부",
 	},
 	"randomize":  {
 		"english":  "Randomize",
@@ -4705,6 +4743,7 @@
 		"chinese": "随机",
 		"czech":  "Náhodně",
 		"russian":  "Рандомизировать",
+		"korean": "무작위",
 	},
 	"debug": { // doesn't need to be translated
 		"english": "Debugging",
@@ -4717,36 +4756,43 @@
 		"chinese": "调试",
 		"czech": "Debugging",
 		"russian":  "Debugging",
+		"korean": "디버깅",
 	},
 	"debuggingAttention": {
 		"english": "Attention!",
 		"japanese": "注意！",
 		"czech": "Výstraha!",
+		"korean": "주의!",
 	},
 	"debuggingDisableAchievements": {
 		"english": "This will disable achievements!\nThis cannot be undone!",
 		"japanese": "実績が無効になります。\n元には戻せません。",
 		"czech": "Tímto deaktivujete achievementy!\nUž to nepůjde vrátit zpět!",
+		"korean": "도전과제가 비활성화 됩니다!\n복구할 수 없습니다!",
 	},
 	"debuggingNotice": {
 		"english": "The debug mode is meant to be used in development. If you enable debug mode, it can corrupt your save so that it's not recoverable. Exit this menu using 'F3' if you don't know exactly what you're doing.",
 		"japanese": "デバッグモードは開発で使用する事を目的としています。 デバッグモードを有効にすると保存データーが破損して回復できなくなる可能性があります。 何をしているのか正確にわからない場合は「F3」を使用してこのメニューを終了してください。",
 		"czech": "Režim ladění je určen k použití pro vývojáře. Pokud povolíte režim ladění, může dojít k poškození vašich uložených pozic a to tak, že soubor nebude obnovitelný. Pokud nevíte přesně co děláte, opusťte toto menu pomocí klávesy „F3“.",
+		"korean": "디버그 모드는 개발과정에서 사용되도록 되어 있습니다. 만약 디버그 모드를 활성화시키면 세이브파일에 돌이킬 수 없는 손상을 입힐 수 있습니다. 무슨 말인지 모르겠다면 'f3'을 눌러 메뉴를 닫으세요.",
 	},
 	"achievements_off_mods": {
 		"english": "Achievements are disabled due to mods",
 		"japanese": "MODの適用で実績は無効になります。",
 		"czech": "Achievementy jsou deaktivovány při používání módů",
+		"korean": "모드로 인해 도전과제가 비활성화되었습니다.",
 	},
 	"achievements_off_cheats": {
 		"english": "Achievements are disabled due to cheats",
 		"japanese": "チートのため実績は無効になります。",
 		"czech": "Achievementy jsou deaktivovány při používání cheatů",
+		"korean": "치트로 인해 도전과제가 비활성화되었습니다.",
 	},
 	"achievements_enabled_hard": {
 		"english": "Challenger achievement is available",
 		"japanese": "実績「達成」が有効です。",
 		"czech": "Achevement Challenger je k dispozici",
+		"korean": "도전과제 'Challenger' 가 활성화되었습니다",
 	},
 	"animalZones":  {
 		"english":  "Animal Zones",
@@ -4760,6 +4806,7 @@
 		"chinese": "牧场",
 		"czech":  "Zvířecí zóny",
 		"russian":  "Зоны животных",
+		"korean": "동물구역",
 	},
 	"animalZonesTooltip_Desc":  {
 		"english":  "Designate zones to keep all of your animals in a specific place.",
@@ -4773,6 +4820,7 @@
 		"chinese": "指定区域将所有动物都圈养在特定的区域.",
 		"czech":  "Určete zóny, aby všechna vaše zvířata byla na konkrétním místě.",
 		"russian":  "Определите зоны, чтобы держать всех ваших животных в определенном месте.",
+		"korean": "당신의 가축들을 특정한 구역에 둘 수 있도록 범위를 지정하세요."
 	},
 	"travelPanelTitle":  {
 		"english": "New Horizons",
@@ -4786,6 +4834,7 @@
 		"chinese": "新旅程",
 		"czech": "Nové Obzory",
 		"russian":  "Новые горизонты",
+		"korean": "신세계",
 	},
 	"travelPanelDesc":  {
 		"english": "Are you ready to leave this town?\nYou can select a couple of competent villagers to leave this island and start a new village in a new land.\nYou may want to save this village before you leave.",
@@ -4799,6 +4848,7 @@
 		"chinese": "你准备离开这个城镇吗?\n你可以选择几个有能力的村民离开这个岛屿,并在新的土地上建立一个新村庄.\n你可能要在离开之前保存这个村庄.",
 		"czech": "Jste připraveni opustit toto město?\nMůžete si vybrat několik vesničanů, kteří opustí tento ostrov a založí novou vesnici v Nové zemi.",
 		"russian":  "Готовы ли вы покинуть этот город? \nВы можете выбрать пару компетентных жителей, чтобы они покинули этот остров и основали новую деревню на новой земле. \nВозможно, вы захотите сохранить эту деревню перед тем, как уйти.",
+		"korean": "이곳을 떠날 준비가 되었나요? \n마을 주민 둘을 골라 이 섬을 떠나 새 땅에서 새로운 마을을 만들 수 있습니다.\n떠나기 전에 마을을 저장할 수 있습니다.",
 		},
 	"depart":  {
 		"english": "Set the sails!",
@@ -4812,5 +4862,6 @@
 		"chinese": "新旅程启程!",
 		"czech": "Rozviňte plachty!",
 		"russian":  "Расправить паруса!",
+		"korean": "출항하자!",
 	},
 }

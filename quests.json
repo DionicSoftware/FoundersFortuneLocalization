@@ -12,6 +12,7 @@
 		"japanese": "傑作へのひらめき",
 		"chinese": "灵感涌现",
 		"czech": "Inspirace pro Veledílo",
+		"korean": "걸작을 향한 영감",
 	},
 	"quest_inspirationForMasterpieceDescription":  {
 		"english": "Inspiration has struck %firstName% like a bolt of lightning. %cap-heShe% has got an idea for a great masterpiece and can't stop thinking about it.",
@@ -26,6 +27,7 @@
 		"japanese": "%firstName%は突然、コロニーの生活を良くする傑作を思いつきました。この傑作を製作するために行動を開始します。",
 		"chinese": "灵感如同闪电一般击中%firstName%.%cap-heShe%有了一个伟大的想法,思绪不断涌现.",
 		"czech": "Inspirace zasáhla %firstName% tak jako blesk z nebe. %cap-heShe% má nápad na skvělé veledílo a nemůže na něj přestat myslet.",
+		"korean": "마치 번개가 내리치듯 %firstName%에게 영감이 찾아들었습니다. %cap-heShe%은 위대한 걸작에 관한 아이디어가 떠올랐고 그 생각을 멈출 수 없습니다."
 	},
 	"masterpieceCompleted":  {
 		"english": "Masterpiece completed!",
@@ -40,6 +42,7 @@
 		"japanese": "傑作の完成！",
 		"chinese": "杰作完成!",
 		"czech": "Veledílo dokončeno!",
+		"korean": "걸작 완성!",
 	},
 	"masterpieceCompletedDescription":  {
 		"english": "%firstName% has completed %hisHer% masterpiece. Proudly, %heShe% shows the result of %hisHer% labor to the rest of the village.\n%cap-heShe% created: %masterpiece%",
@@ -54,6 +57,7 @@
 		"japanese": "%firstName%は傑作を完成させました。そしてその成果をコロニーのコロニストに誇らしげに示しました。\n作成された傑作:%masterpiece%",
 		"chinese": "%firstName%已经完成了%hisHer%杰作.%heShe%很荣幸地在村里展示了%heShe%的劳动成果.\n%cap-heShe%创建了: %masterpiece%",
 		"czech": "%firstName% dokonči%lA% %hisHer% veledílo. Pyšně, %heShe% ukazuje výsledek %hisHer% práce zbytku vesnice.\n%cap-heShe% vytvoři%lA%: %masterpiece%",
+		"korean": "%firstName%#{은} %hisHer%의 걸작을 완성했습니다. 자랑스럽게도,  %heShe%는 %hisHer%의 작업의 결과를 모든 주민들에게 보여주었습니다.\n%cap-heShe% 창조함: %masterpiece%", 
 	},
 	"masterpieceFailed":  {
 		"english": "Masterpiece Failed!",
@@ -68,6 +72,7 @@
 		"japanese": "傑作が失敗！",
 		"chinese": "杰作失败!",
 		"czech": "Veledílo selhalo!",
+		"korean": "걸작 실패!",
 	},
 	"masterpieceFailedDescription":  {
 		"english": "%firstName% tried so hard, but %heShe% didn't manage to make his masterpiece. At least %heShe% got some experience and leveld up as a %profession%.",
@@ -81,6 +86,7 @@
 		"italian": "%firstName% ce l'ha messa tutta, ma non è riuscit%OA% a realizzare il suo capolavoro. Tuttavia, ha guadagnato un po' di esperienza ed è salit%OA% di livello come %profession%.",
 		"japanese": "%firstName%は一生懸命に努力しましたが、傑作を生みだす事は出来ませんでした。しかし、この失敗は経験として生かされ、%profession%はレベルアップしました。",
 		"chinese": "%firstName%已经尽力了,虽然未能完成%heShe%杰作,但至少%heShe%从中获得不少经验,并升级为%profession%.",
+		"korean": "%firstName%#{은} 열심히 노력했습니다. 하지만 걸작을 만들어내는데 실패했습니다. 적어도 %heShe%#{은} 경험을 얻었고 %profession%의 레벨이 상승하게 되었습니다.", 
 		"czech": "%firstName% se tak moc snaži%lA%, ale %heShe% nedokáza%lA% udělat své veledílo. Alespoň %heShe% získa%lA% nějaké zkušenosti a postup na vyšší úroveň jako %profession%.",
 	},
 	"collectItems": {
@@ -96,6 +102,7 @@
 		"japanese": " %item%を%amount%個収集する",
 		"chinese": "收集%amount%个%item%",
 		"czech": "Sežeň %amount% kusů %item%",
+		"korean": "%amount% 만큼의 %item%를 획득하세요",
 	},
 	"needsFurnitureInRoom": {
 		"english": "%firstName% needs in %hisHer% room: %furniture%",
@@ -110,6 +117,7 @@
 		"japanese": "%firstName%の部屋に%furniture%を設置する",
 		"chinese": "%firstName%%hisHer%房间需要:%furniture%",
 		"czech": "%firstName% potřebuje v %hisHer% pokoji: %furniture%",
+		"korean": "%firstName%#{은} %hisHer%의 방에 필요함 : %furniture%",
 	},
 	"needsFurnitureInHouse": {
 		"english": "%firstName% needs in %hisHer% house: %furniture%",

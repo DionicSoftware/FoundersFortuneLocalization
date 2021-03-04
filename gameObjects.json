@@ -6341,7 +6341,7 @@
 		"italian": "Grandi, forti e durevoli. Queste sono le qualità necessarie quando si vuole depositare tonnellate di tronchi.\n\nQuesta riserva può contenere fino a %capacityWood% unità di legno.",
 		"japanese": "木材を備蓄します。\n\n備蓄量%capacityWood%",
 		"czech": "Velký, silný a odolný sklad na dřevo. To jsou vlastnosti, které potřebujete, když chcete ukládat tuny kulatin.\n\nTento sklad pojme až %capacityWood% dřeva.",
-		"korean": "넓고, 튼튼하고, 오래갑니다. 많은 양의 통나무를 보관하려면 이게 필요하죠. \n\n이 저장고는 %capacityWood% 개의 나무를 저장할 수 있습니다.
+		"korean": "넓고, 튼튼하고, 오래갑니다. 많은 양의 통나무를 보관하려면 이게 필요하죠. \n\n이 저장고는 %capacityWood% 개의 나무를 저장할 수 있습니다.",
 	},
 	"stockpileStone": {
 		"english": "Stone Stockpile",
@@ -9785,5 +9785,37 @@
 		"chinese": "骸骨",
 		"czech": "Kostlivec",
 		"russian":  "Скелет",
+	},
+	"multiToolRack":  {
+		"english":  "Large Tool Rack",
+		"german":  "Großer Werkzeugschrank",
+	},
+	"multiToolRackDescription":  {
+		"english":  "In a small village, sometimes people have to fill multiple roles at once. Use the large tool rack to make all the necessary items available immediately.",
+		"german":  "In einem kleinen Dorf müssen sich die Bewohner manchmal um viele Dinge auf einmal kümmern. Mit dem großen Werkzeugschrank ist die notwendige Ausrüstung immer verfügbar.",
+	},
+	"trapWood":  {
+		"english":  "Wooden Trap",
+		"german":  "Hölzerne Falle",
+	},
+	"trapWoodDescription":  {
+		"english":  "Keep your villagers save and automate your defenses. Once an enemy comes close, the trap snaps close, hurting the invader. Needs to be reset and can be used up to 3 times.",
+		"german":  "Schütze deine Dorfbewohner und automatisiere deine Verteidigung. Sobald ein Feind in die Nähe kommt, schnappt die Falle zu und verletzt den Eindringling. Muss wieder aufgezogen werden und kann bis zu 3 Mal verwendet werden.",
+	},
+	"trapWoodBroken":  {
+		"english":  "Broken Wooden Trap",
+		"german":  "Kaputte hölzerne Falle",
+	},
+	"trap":  {
+		"english":  "Metal Trap",
+		"german":  "Metallfalle",
+	},
+	"trapDescription":  {
+		"english":  "Upgrade your security by having your blacksmiths create a more sturdy and more deadly trap design. Needs to be reset and can be used up to 5 times.",
+		"german":  "Verbessere deine Sicherheit indem du deine Schmiede eine stabiliere und tödlichere Version der Falle herstellen lässt. Muss wieder aufgezogen werden und kann bis zu 5 Mal verwendet werden.",
+	},
+	"trapBroken":  {
+		"english":  "Broken Metal Trap",
+		"german":  "Kaputte Metallfalle",
 	},
 }

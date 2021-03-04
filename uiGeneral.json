@@ -2698,6 +2698,14 @@
 		"romanian": "Caps Lock",
 		"japanese": "Caps Lockキー",
 	},
+	"key_PageUp":  {
+		"english": "Page Up",
+		"german":  "Bild hoch",
+	},
+	"key_PageDown":  {
+		"english": "Page Up",
+		"german":  "Bild runter",
+	},
 
 
 	// GAME OVER
@@ -3523,9 +3531,13 @@
 		"chinese": "不幸的是，此存档文件似乎已损坏，无法读取。",
 		"czech": "Bohužel se zdá, že tento uložený soubor je poškozený a nelze jej přečíst.",
 		"russian": "К сожалению, этот файл сохранения кажется поврежденным и не может быть прочитан.",
-	}
-	"trapUses":  {
-		"english": "Number of times trap can be reset",
-		"german": "Wiederverwendungen übrig",
-	}
+	},
+	"showTutorialMessages":  {
+		"english": "Show Tutorial Messages",
+		"german":  "Zeige Tutorialmeldungen",
+	},
+	"multipleVillagerSelection":  {
+		"english": "Multiple Villager Selection",
+		"german":  "Mehrere Bewohner auswählen",
+	},
 }

@@ -6370,7 +6370,7 @@
 		"italian": "Assicurati che i tuoi abitanti non sbattano le loro dita dei piedi sulle rocce pesanti e che costruiscano una riserva adeguata per le tue pietre.\n\nQuesta riserva può contenere fino a %capacityStone% unità di pietra.",
 		"japanese": "石を備蓄します。\n\n備蓄量%capacityStone%",
 		"czech": "Toto je místo, kam se ukládají zásoby kamene.\n\nTento sklad pojme až %capacityStone% kamene.",
-		"korean": "주민들이 무거운 바위에 발가락을 찧게 하지 말고, 원자재 석재를 위한 적절한 저장고를 만들세요.\n\n이 저장고는 %capacityStone%개의 석재를 보관할 수 있습니다.", 
+		"korean": "주민들이 무거운 바위에 발가락을 찧게 하지 말고, 석재를 보관할 적절한 저장고를 만들세요.\n\n이 저장고는 %capacityStone%개의 석재를 보관할 수 있습니다.", 
 	},
 	"stockpileCrystal": {
 		"english": "Crystal Stockpile",
@@ -6560,6 +6560,7 @@
 		"italian": "Scatola ferro grezzo",
 		"japanese": "鉄鉱石置き場",
 		"czech": "Sklad na železnou rudu",
+		"korean": "철광석 보관함",
 	},
 	"stockpileIronOreDescription": {
 		"english": "Simple, cheap, and effective: This iron ore box does not only do what it's supposed to, it also won last year's design price for it's simple, but functional design.\n\nThis box can hold up to %capacityIronOre% iron ore.",
@@ -6573,6 +6574,7 @@
 		"italian": "Semplice, economica ed efficace: questa scatola per ferro grezzo non solo fa quello per cui è progettata, ma ha anche vinto il premio di progettazione dello scorso anno per il suo design semplice, ma funzionale.\n\nQuesta scatola può contenere fino a %capacityIronOre% unità di ferro grezzo.",
 		"japanese": "鉄鉱石を備蓄します。\n\n備蓄量%capacityIronOre%",
 		"czech": "Jednoduché, levné a efektivní: Tento sklad na železnou rudu nejen dělá to, co má, ale také vyhrál loňskou cenu za design za svůj jednoduchý, ale funkční design.\n\nTento sklad pojme až %capacityIronOre% železné rudy.",
+		"korean": "간단하고 싸고 효과적입니다. 이 철광석 보관함은 제 역할을 잘 할 뿐만 아니라 단순하면서도 실용적인 디자인을 지니고 있습니다. \n\n이 보관함엔 최대 %capacityIronOre%개의 철광석을 보관할 수 있습니다.",
 	},
 	"stockpileRawFood": {
 		"english": "Raw Food Storage",
@@ -6587,6 +6589,7 @@
 		"italian": "Riserva di cibo crudo",
 		"japanese": "食材貯蔵庫",
 		"czech": "Sklad na suroviny",
+		"korean": "날음식 보관함",
 	},
 	"stockpileRawFoodDescription": {
 		"english": "Full bellies make for happy faces. Food is one of the most important basic needs, so make sure your reserves are always stocked up.\n\nThis shelf can hold up to %capacityFoodRaw% raw food.",
@@ -6600,6 +6603,7 @@
 		"italian": "Le pance piene rendono i volti felici. Il cibo è uno dei bisogni di base più importanti, perciò assicurati che le riserve siano sempre rifornite.\n\nQuesto scaffale può contenere fino a %capacityFoodRaw% unità di cibo crudo.",
 		"japanese": "食材を貯蔵します。\n\n貯蔵量%capacityFoodRaw%",
 		"czech": "Plná břicha dělají šťastné tváře. Jídlo je jednou z nejdůležitějších základních potřeb, takže se ujistěte, že máte vždy dost zásob.\n\nTento sklad pojme až %capacityFoodRaw% surovin.",
+		"korean": "배부른 배가 행복한 표정을 만드는 법이죠. 음식은 가장 중요한 기본 욕구 중 하나입니다. 그러니 항상 보관함을 채워넣으세요.",
 	},
 	"stockpileScroll": {
 		"english": "Storage Shelf for Scrolls",
@@ -6614,6 +6618,7 @@
 		"italian": "Scaffale per pergamene",
 		"japanese": "スクロール保管庫",
 		"czech": "Sklad na svitky",
+		"korean": "스크롤 보관 선반",
 	},
 	"stockpileScrollDescription": {
 		"english": "The ancient knowledge inscribed on these fragile scrolls is very valuable. Make sure they are handled and stored with care and build a proper shelf for them.\n\nThis shelf can hold up to %capacityScroll% scrolls.",
@@ -6627,6 +6632,7 @@
 		"italian": "L'antica conoscenza contenuta su queste fragli pergamene è molto preziosa. Assicurati che siano trattate e conservate con cura costruendo uno scaffale adatto ad esse.\n\nQuesto scaffale può contenere fino a%capacityScroll% pergamene.",
 		"japanese": "スクロールを保管します。\n\n保管量%capacityScroll%",
 		"czech": "Starodávné znalosti zapsané na těchto křehkých svitcích jsou velmi cenné. Dbejte na to, aby se s nimi zacházelo opatrně.\n\nTento sklad pojme až %capacityScroll% svitků.",
+		"korean": "이 갸날픈 스크롤에 새겨진 고대의 지식은 매우 큰 값어치를 지니고 있습니다. 그러니 선반을 만들어 스크롤을 제대로 보관하고 관리해주세요.\n\n이 선반은 %capacityScroll%개의 스크롤을 보관할 수 있습니다.",
 	},
 
 
@@ -6885,6 +6891,7 @@
 		"italian": "Letto per bambini",
 		"japanese": "子供用ベット",
 		"czech": "Dětská postel",
+		"korean": "아이 침대",
 	},
 	"bedChildDescription": {
 		"english": "With a small ladder and extra drawers for toys, this bed was designed for kids. Because of the strong supports, it can withstand more than 1.000 jumps on the bed during it's lifetime.",
@@ -6898,6 +6905,7 @@
 		"italian": "Con una piccola scala e dei cassetti aggiuntivi per i giocattoli, questo letto è stato progettato per i bambini. Grazie ai forti sostegni, può sopportare oltre 1.000 salti sul letto durante la sua vita.",
 		"japanese": "ベットの下に引き出しが付いた子供用ベットです。",
 		"czech": "S malým žebříkem a extra zásuvkami na hračky byla tato postel navržena pro děti. Díky silné podpěře vydrží během své životnosti více než 1 000 skoků na posteli.",
+		"korean": "작은 사다리와 서랍이 달려있는 침대는 아이들을 위해 고안되었습니다. 튼튼한 지지대가 있어 천번 이상의 점프를 견뎌낼 수 있습니다.", 
 	},
 	"bedStoneSimple0": {
 		"english": "Simple Stone Bed",
@@ -7694,6 +7702,7 @@
 		"italian": "Scale scadenti",
 		"japanese": "簡素な階段",
 		"czech": "Chatrné schodiště",
+		"korean": "조잡한 계단",
 	},
 	"stairs0Description": {
 		"english": "These stairs were put together quickly and without putting too much thought into it. No guarantees that they can actually hold the weight of a villager after they had some cake.",
@@ -7707,6 +7716,7 @@
 		"italian": "Queste scale sono state messe insieme rapidamente e senza pensarci troppo. Non ci sono garanzie che possano reggere il peso di un abitante dopo che ha mangiato un po' di torta.",
 		"japanese": "あまり考えずに適当に作られた階段です。あまりにも適当なため体重が重いコロニストは使わない方が無難です。",
 		"czech": "Tyto schody byly sestaveny rychle a bez přílišného přemýšlení. Neexistují žádné záruky, že by mohly udržet váhu vesničana poté, co snědl nějaký dort.",
+		"korean": "이 계단은 별 생각 없이 급조해서 건설되었습니다.무거운 물건을 옮기지 않는게 좋을거에요.",
 	},
 	"stairs1": {
 		"english": "Decent Stairs",
@@ -7721,6 +7731,7 @@
 		"italian": "Scale decenti",
 		"japanese": "階段",
 		"czech": "Lepší schody",
+		"korean": "괜찮은 계단",
 	},
 	"stairs1Description": {
 		"english": "Not exactly the peak of craftsmanship, but they do their job. Build these stairs when your villagers deserve something nice, but you actually can't afford something nice.",
@@ -7734,6 +7745,7 @@
 		"italian": "Non proprio il massimo dell'artigianalità, ma fanno il loro lavoro. Costruisci queste scale quando gli abitanti meritano qualcosa di buono, ma in realtà non puoi permettertelo.",
 		"japanese": "きちんと作られた階段です。職人技の基本がしっかりと見受けられる階段です。できる限りこの階段を使いたいものです。",
 		"czech": "Není to přesně vrchol řemeslné práce, ale dělají svou práci. Postavte tyto schody, když si vaši vesničané zaslouží něco hezkého, ale ve skutečnosti si něco pěkného nemůžete dovolit.",
+		"korean": "걸작까진 아니지만 맡겨진 역할은 제대로 합니다. 그럴듯한 계단을 설치하고 싶은데 돈이 없을때 이 계단을 추천합니다.",
 	},
 	"stairs2": {
 		"english": "Powerful Stairs",
@@ -7748,6 +7760,7 @@
 		"italian": "Scale poderose",
 		"japanese": "上質な階段",
 		"czech": "Pevné schody",
+		"korean": "강력한 계단",
 	},
 	"stairs2Description": {
 		"english": "If you took the word \"sturdy\" and made it into stairs, you'd end up with these. The Powerful Stairs are made using high quality wood, precise craftsmanship and a strong design to deliver a great taking-the-stairs-experience.",
@@ -7761,6 +7774,7 @@
 		"italian": "Se tu prendessi la parola \"robusto\" e la trasformassi in scale, finiresti con queste. Le poderose scale sono realizzate con legno di alta qualità, artigianato preciso e un design robusto per offrire una grande esperienza durante la salita.",
 		"japanese": "木材も選別され更にきちんと作られた階段です。職人技がしっかりと見受けられる階段です。",
 		"czech": "Pevné schody jsou vyrobeny z vysoce kvalitního dřeva, precizního řemeslného zpracování a silného designu, aby poskytovaly skvělý zážitek.",
+		"korean": "'견고하다'는 단어로 계단을 만든다면 그것이 바로 이 계단일 것입니다. 이 강력한 계단은 고급 나무와 정밀한 솜씨, 그리고 튼튼한 설계로 만들어졌습니다.", 
 	},
 	"stairs3": {
 		"english": "Royal Stairs",
@@ -7775,6 +7789,7 @@
 		"italian": "Scale reali",
 		"japanese": "高級な階段",
 		"czech": "Královské schody",
+		"korean": "귀족 계단",
 	},
 	"stairs3Description": {
 		"english": "Extravagant and only meant for the feet of the most respectable of villagers - these stairs exude effortless luxury. Impress friend and foe by taking them on a walk up the most expensive stairs they have ever seen.",
@@ -7788,6 +7803,7 @@
 		"italian": "Stravaganti e pensate solo per i piedi dei più rispettabili abitanti, queste scale trasudano semplicemente lusso. Impressiona un amico o un nemico invitandolo ad una passeggiata sulle scale più costose che abbiano mai visto.",
 		"japanese": "信じられない職人技が随所にみられる贅を極めた階段です。芸術品の一つです。",
 		"czech": "Extravagantní schody určené pouze pro nohy nejuznávanějších vesničanů - tyto schody vyzařují bezstarostný luxus. Udělejte dojem na přítele a nepřítele tím, že je vezmete na procházku po nejdražších schodech, jaké kdy viděli.",
+		"korean": "사치스러우며 가장 존경받는 개척자들의 발을 위한 - 이 계단은 형용할 수 없는 화려함을 뽐냅니다. 가장 비싼 계단 위에 올라 친구와 적을 모두 감동시키세요.",
 	},
 
 
@@ -7961,6 +7977,7 @@
 		"polish": "Zamkowe drzwi łukowe",
 		"japanese": "城の扉",
 		"czech": "Kulaté hradební dveře",
+		"korean": "둥근 성문",
 	},
 	"doorStoneRoundDescription": {
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -7997,6 +8014,7 @@
 		"polish": "Brama palisady",
 		"japanese": "丸太の門",
 		"czech": "Malá palisádová brána",
+		"korean": "작은 팰리세이드문"
 	},
 	"palisadeGateSmallDescription": {
 		"english": "Allows your colonists to enter while keeping unwelcome visitors out (most of the time).",
@@ -8027,6 +8045,7 @@
 		"polish": "Brama palisady z zadaszeniem",
 		"japanese": "屋根付きの丸太の門",
 		"czech": "Zastřešená palisádová brána",
+		"korean": "지붕달린 팰리세이드문",
 	},
 	"palisadeGateDescription": {
 		// TODO-spanish: changed translations for most of the doors, but kept old one around until you change it.
@@ -8061,6 +8080,7 @@
 		"polish": "Brama zapory",
 		"japanese": "強固な門",
 		"czech": "Silná dřevěná obranná brána",
+		"korean": "튼튼한 나무 방벽문",
 	},
 	"woodWallDefense0GateDescription": {
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -8094,6 +8114,7 @@
 		"polish": "Brama zamkowa",
 		"japanese": "城門",
 		"czech": "Zámecká brána",
+		"korean": "성문",
 	},
 	"stoneWallDefense0GateDescription": {
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -8127,6 +8148,7 @@
 		"polish": "Brama fortecy",
 		"japanese": "要塞の門",
 		"czech": "Velká pevnostní brána",
+		"korean": "요새 문",
 	},
 	"stoneWallDefense1GateDescription": {
 		// TODO-turkish: changed translations for most of the doors, but kept old one around until you change it.
@@ -9553,6 +9575,7 @@
 		"polish": "Bałwan",
 		"japanese": "雪だるま",
 		"czech": "Sněhulák",
+		"korean": "눈사람",
 	},
 
 	// Area of Effect
@@ -9570,6 +9593,7 @@
 		"japanese": "工具箱",
 		"chinese": "工具箱",
 		"czech": "Truhla na nářadí",	
+		"korean": "공구 상자",
 	},
 	"toolChestDescription": {
 		"english": "When you're busy working, nothing is more annoying than having to look for your screwdriver... again. With this tool chest, all nearby villagers work 50% faster.",
@@ -9583,6 +9607,7 @@
 		"japanese": "整頓された工具は作業を円滑に進めます。近くにいるコロニストは作業速度が速くなります。",
 		"chinese": "当你埋头苦干时不再因为找不到螺丝刀而烦恼...有了这工具箱，所有附近所有的村民的工作速度提高了50%。",
 		"czech": "Když jste zaneprázdněni prací, není nic otravnějšího než neustále hledat svůj šroubovák .... S touto truhlou na nářadí pracují všichni vesničané v okolí o 50% rychleji.",
+		"korean": "일하느라 바쁜 와중에 드라이버가 어딨는지 찾는것 만큼 거슬리는 일이 없을겁니다... 이 공구상자 근처에 있는 주민들의 노동속도가 50% 빨라집니다",
 	},
 	"medicalToolChest": { // "tool" can also be "instruments" or "equipment"
 		"english": "Medical Tool Chest",
@@ -9597,6 +9622,7 @@
 		"japanese": "医療器具箱",
 		"chinese": "医疗工具箱",
 		"czech": "Lékařská truhla",
+		"korean": "의료도구상자",
 	},
 	"medicalToolChestDescription": {
 		"english": "Having all your first-class medical equipment right where you need it can make the difference between life and death. All nearby treatments work twice as well.",
@@ -9611,6 +9637,7 @@
 		"japanese": "一刻でも早く治療を施す事は生死に大きな影響を与えます。近くにいるコロニストの受ける治療効果が倍になります。",
 		"chinese": "将所有一流的医疗工具放置在正确的地方，这可以决定生死。附近所有的治疗效果都发挥两倍作用。",
 		"czech": "Mít všechno své prvotřídní lékařské vybavení přesně tam, kde ho potřebujete, může změnit život i smrt. Všechna ošetření v okolí působí 2x více.",
+		"korean": "신속한 치료에 생사가 달려있는 법입니다. 근처에서 이뤄지는 모든 치료가 두배의 효과를 얻습니다.",
 	},
 	"paintingGoodVibes": {
 		"english": "Painting of Good Vibes",
@@ -9624,6 +9651,7 @@
 		"japanese": "絵画",
 		"chinese": "绘画",
 		"czech": "Malba dobrých vibrací",
+		"korean": "회화",
 	},
 	"paintingGoodVibesDescription": {
 		"english": "Isn't this piece amazing? The colors? The composition? This painting exudes good vibes and happy thoughts.",
@@ -9637,6 +9665,7 @@
 		"japanese": "色構図とても素晴らしい絵画です。鑑賞する事は幸せな気分になります。",
 		"chinese": "这幅画难道不是神作吗？无论颜色或是构图，这幅画都散发着欢乐思想的共鸣。",
 		"czech": "Není tato malba úžasná? Ty barvy? A ta kompozice? Tento obraz vyzařuje dobré vibrace a šťastné myšlenky.",
+		"korean": "이 작품 좋지 않나요? 색은? 구도는? 이 그림은 좋은 기운을 내뿜고 행복한 생각을 하게 해줍니다.",
 	},
 	"scarecrow": {
 		"english": "Scarecrow",
@@ -9651,6 +9680,7 @@
 		"japanese": "かかし",
 		"chinese": "稻草人",
 		"czech": "Strašák",
+		"korean": "허수아비",
 		
 	},
 	"scarecrowDescription": {
@@ -9666,6 +9696,7 @@
 		"japanese": "害獣である鳥を寄せ付けないかかしです。食材の生産量が増加します。",
 		"chinese": "当心鸟类！使用这种简单而有效的稻草人，可以将其拒之门外，并将粮食产量提高50%！",
 		"czech": "Ptáci pozor! Tento jednoduchý ale účinný strašák zabrání nežádoucím návštěvníkům na vašem poli a podpoří produkci potravin o 50%!",
+		"korean": "새들아 두려워하라! 이 단순하면서 효과적인 허수아비를 사용해서 불청객을 내쫓으세요. 농사 생산성이 50% 상승합니다.",
 	},
 	"dreamCatcher": {
 		"english": "Dream Catcher",
@@ -9680,6 +9711,7 @@
 		"japanese": "夢守り",
 		"chinese": "追梦者",
 		"czech": "Lapač snů",
+		"korean": "드림캐처",
 	},
 	"dreamCatcherDescription": {
 		"english": "Mysterious forces work through this artifact to keep bad dreams away. Villagers sleeping near it will have good dreams every single night.",
@@ -9694,6 +9726,7 @@
 		"japanese": "この骨董品は不思議な力を持っています。伝説の動物バグと同様に悪夢を食べ良い夢を与えてくれます。",
 		"chinese": "该人工制品通过神秘力量来阻止噩梦，靠近它睡觉的村民每晚都会有美好的梦乡。",
 		"czech": "Tajemné síly pracují prostřednictvím tohoto artefaktu tak, aby udržovaly špatné sny pryč. Vesničané spící poblíž něj budou mít každou noc dobré sny.",
+		"korean": "신비로운 힘이 이 아티팩트에 깃들어 악몽을 내쫓습니다. 드림캐처 근처에서 자는 주민들은 악몽을 꾸지 않게 됩니다.",
 	},
 	"bedOfTranquility": {
 		"english": "Bed of Tranquility",
@@ -9707,6 +9740,7 @@
 		"japanese": "安眠のベット",
 		"chinese": "宁静之床",
 		"czech": "Klidná postel",
+		"korean": "숙면 침대",
 	},
 	"bedOfTranquilityDescription": {
 		"english": "This has got to be the softest and most comfortable ever made. Its occupants are able to rest 30% quicker!",
@@ -9720,6 +9754,7 @@
 		"japanese": "信じられないぐらいの柔らかなベットでとても快適です。とても早く疲れが取れます。",
 		"chinese": "这必须是有史以来最柔软、最舒适的床。用它睡觉可以加快30%来恢复体力！",
 		"czech": "Tato postel je nejměkčí a nejpohodlnější, jaká kdy byla vyrobena. Její majitelé jsou schopni odpočívat o 30% rychleji!",
+		"korean": "세상에서 가장 부드럽고 편안한 침대입니다. 이 침대의 주인은 30% 더 빨리 휴식합니다.",
 	},
 	"shipYard": {
 		"english": "Shipyard",
@@ -9733,6 +9768,7 @@
 		"chinese": "船坞",
 		"czech": "Loděnice",
 		"russian": "Верфь",
+		"korean": "조선소",
 	},
 	"shipYardDescription": {
 		"english": "Have you ever dreamt about taking off and sailing into the sunset? Starting a new life in a different place? This shipyard can help you achieve your dreams and send your most adventourus villagers on the ultimate journey.",
@@ -9746,6 +9782,7 @@
 		"chinese": "您是否曾经梦想过要乘风起浪驶向日落之处？在新大陆开始新的生活？这个船坞可以帮你实现梦想，并让你的村民踏上终极冒险之旅。",
 		"czech": "Už jste někdy snili o plavbě do západu slunce? Zahájit nový život na jiném místě? Tato loděnice vám může pomoci dosáhnout vašich snů a poslat vaše vesničany z oblasti adventourus na konečnou cestu.",
 		"russian": "Вы когда-нибудь мечтали взять и отправиться навстречу закату? Начать новую жизнь в другом месте? Эта верфь может помочь вам осуществить ваши мечты и отправить ваших самых авантюрных жителей в невероятное путешествие.",
+		"korean": "노을을 향해 이륙하고 항해하는 꿈을 꾸어 본 적이 있나요? 다른 곳에서 새로운 삶을 시작하는건? 이 조선소는 당신의 꿈을 이루고 당신의 가장 모험적인 개척자들을 궁극적인 여정에 보내는데 도와줄 수 있습니다.",
 	},
 	"skeleton1": {
 		"english":  "Skeleton",
@@ -9759,6 +9796,7 @@
 		"chinese": "骸骨",
 		"czech": "Kostlivec",
 		"russian":  "Скелет",
+		"korean": "해골",
 	},
 	"skeleton2": {
 		"english":  "Skeleton",
@@ -9772,6 +9810,7 @@
 		"chinese": "骸骨",
 		"czech": "Kostlivec",
 		"russian":  "Скелет",
+		"korean": "해골",
 	},
 	"skeleton3": {
 		"english":  "Skeleton",
@@ -9785,5 +9824,6 @@
 		"chinese": "骸骨",
 		"czech": "Kostlivec",
 		"russian":  "Скелет",
+		"korean": "해골",
 	},
 }

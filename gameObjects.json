@@ -183,7 +183,7 @@
 		"portuguese": "Sua perna dói? Você está doente? Perdendo sangue? Não importa que tipo de dano tenha caído sobre você, uma poção de cura é sempre uma boa idéia. Mesmo se realmente não curar sua condição, pelo menos entorpece a dor. E essas poções também têm bom gosto. \n\nEsta prateleira pode armazenar até %capacityMedicine% remédios e até %capacityHealingPotion% poções de cura.",
 		"russian": "У вас болит нога? Вы болеете? Потеряли много крови? Независимо от того, какой вред вам нанесен, лечебное зелье всегда будет хорошей идеей. Оно не лечит, однако, оно помогает ослабить боль. А еще, эти зелья такие вкусные!\n\nЭтот шкаф может хранить до %capacityMedicine% лекарст и до %capacityHealingPotion% лечебных зелий.",
 		"ukrainian": "У вас болить нога? Ви хворієте? Втратили багато крові? Незалежно від того, якої шкоди вам завдано, лікувальне зілля завжди буде гарною ідеєю. Воно не лікує, проте воно допомагає послабити біль. А ще ці зілля такі смачні!",
-		"korean": "다리를 다쳤나요? 어디 아픈가요? 피를 을리나요? 어떤 아픔을 겪고 있더라도, 회복약은 언제나 좋은 선택입니다. 진짜로 병을 낫게 하진 않겠지만, 최소한 고통은 줄여줄테니까요. 아, 또 맛도 좋아요.",
+		"korean": "다리를 다쳤나요? 어디 아픈가요? 피를 리나요? 어떤 아픔을 겪고 있더라도, 회복약은 언제나 좋은 선택입니다. 진짜로 병을 낫게 하진 않겠지만, 최소한 고통은 줄여줄테니까요. 아, 또 맛도 좋아요.",
 		"dutch": "Doet je been pijn? Ben je ziek? Bloed verlies? Het maakt niet uit wat voor pijn je hebt, een helend drankje is altijd een goed idee. Ook als het niet echt je conditie verbeterd, het verminderd tenminste de pijn. En deze drankjes smaken ook nog goed.\n\nDeze plankenkast kan tot maximaal %capacityMedicine% aan medicijnen en tot maximaal %capacityHealingPotion% aan helende drankjes bevatten.",
 		"turkish": "Bacağın mı ağrıyor? Hasta mısın? Kan mı kaybediyorsun? Başına bela olan sağlık sorunu ne olursa olsun iyileştirici bir iksir her zaman iyi bir fikirdir. Durumunu iyileştirmese bile, en azından acıyı uyuşturuyor, üstelik bu iksirlerin tadı da güzel.",
 		"chinese": "腿疼了?生病了?流血了?不管你受到什么样的伤害，一瓶治疗药水总是个好办法。即使它不能完全治愈你的病况，至少它能麻痹你的疼痛。这些药水也挺好喝的。\n\n此架子最多可存放 %capacityHealingPotion% 治疗药水。",
@@ -5131,6 +5131,7 @@
 		"japanese": "織機",
 		"chinese": "织布机",
 		"czech": "Tkalcovský stav",
+		"korean": "베틀",
 	},
 	"loomDescription": {
 		"english": "As the foundation of every textile industry, nothing turns raw material into usable cloth faster than this loom.",
@@ -5144,6 +5145,7 @@
 		"japanese": "布を作るにはこの織機しかありません。",
 		"chinese": "作为纺织工业的基础，没有什么比这台织布机更快地将原材料变成可用的布了。",
 		"czech": "Jako základ každého textilního průmyslu nic nezmění surovinu na použitelnou látku rychleji, než tento tkalcovský stav.",
+		"korean": "천을 만들어내는데엔 이만큼 좋은 베틀이 없습니다.",
 	},
 	"tailor": {
 		"english": "Tailor's Workshop",
@@ -5224,6 +5226,7 @@
 		"polish": "Kamieniołom",
 		"japanese": "石坑",
 		"czech": "Důl na kámen",
+		"korean": "석재 광산",
 	},
 	"deepMineStoneDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for stone - but you will be able to get a lot more of it out of the ground.",
@@ -5237,6 +5240,7 @@
 		"chinese": "在矿坑比在地面上挖掘困难得多。珍贵的矿物需要受过良好教育的人员，需要更长的时间才能开采出石材-但是您将能够从地下开采更多的石材。",
 		"japanese": "地表の採掘よりは困難を伴いますが、より多くの石が得られます。",
 		"czech": "Těžba v dolech je mnohem těžší než těžba na povrchu. Do dolů mohou jen ti nejlepší těžaři a jejich těžba kamene bude trvat déle - ale budete toho moci ze země dostat mnohem víc.",
+		"korean": "땅아래에서의 채굴은 땅 위의 것보다 훨씬 힘듭니다. 값비싼 광산은 교육받은 인재가 필요하지요. 하지만 지상에서 얻어낼 수 있는것 보다 훨씬 더 많은 석재를 얻어낼 수 있을겁니다.",
 	},
 	"deepMineIron": {
 		"english": "Deep Iron Ore Mine",
@@ -5251,6 +5255,7 @@
 		"polish": "Kopalnia żelaza",
 		"japanese": "鉄鉱石坑",
 		"czech": "Důl na železnou rudu",
+		"korean": "철광석 광산",
 	},
 	"deepMineIronDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for iron ore - but you will be able to get a lot more of it out of the ground.",
@@ -5264,6 +5269,7 @@
 		"chinese": "在矿坑比在地面上挖掘困难得多。珍贵的矿物需要受过良好教育的人员，需要更长的时间才能开采出铁矿-但是您将能够从地下开采更多的铁矿。",
 		"japanese": "地表の採掘よりは困難を伴いますが、より多くの鉄鉱石が得られます。",
 		"czech": "Těžba v dolech je mnohem těžší než těžba na povrchu. Do dolů mohou jen ti nejlepší těžaři a jejich těžba železa bude trvat déle - ale budete toho moci ze země dostat mnohem víc.",
+		"korean": "땅아래에서의 채굴은 땅 위의 것보다 훨씬 힘듭니다. 값비싼 광산은 교육받은 인재가 필요하지요. 하지만 지상에서 얻어낼 수 있는것 보다 훨씬 더 많은 철을 얻어낼 수 있을겁니다.", 
 	},
 	"deepMineCrystal": {
 		"english": "Deep Crystal Mine",
@@ -5278,6 +5284,7 @@
 		"polish": "Kopalnia kryształu",
 		"japanese": "クリスタル抗",
 		"czech": "Důl na krystaly",
+		"korean": "크리스탈 광산",
 	},
 	"deepMineCrystalDescription": {
 		"english": "Mining in the depths is a lot harder than mining on the surface. Expensive mines need educated personell that will take longer to mine for crystals - but you will be able to get a lot more of it out of the ground.",
@@ -5291,6 +5298,7 @@
 		"chinese": "在矿坑比在地面上挖掘困难得多。珍贵的矿物需要受过良好教育的人员，需要更长的时间才能开采出水晶-但是您将能够从地下开采更多的水晶。",
 		"japanese": "地表の採掘よりは困難を伴いますが、より多くのクリスタルが得られます。",
 		"czech": "Těžba v dolech je mnohem těžší než těžba na povrchu. Do dolů mohou jen ti nejlepší těžaři a jejich těžba krystalů bude trvat déle - ale budete toho moci ze země dostat mnohem víc.",
+		"korean": "땅아래에서의 채굴은 땅 위의 것보다 훨씬 힘듭니다. 값비싼 광산은 교육받은 인재가 필요하지요. 하지만 지상에서 얻어낼 수 있는것 보다 훨씬 더 많은 크리스탈을 얻어낼 수 있을겁니다.", 
 	},
 
 
@@ -5515,6 +5523,7 @@
 		"polish": "Grządka na sadzonki sosny",
 		"japanese": "松の木",
 		"czech": "Půda pro pěstování borovic",
+		"korean": "소나무용 분토",
 	},
 	"growingSpotTreeDescription": {
 		"english": "Bring the forest to your front lawn and plant beautiful pine trees whereever you want!",
@@ -5528,6 +5537,7 @@
 		"chinese": "将树苗种植到面前的草地上，在需要的地方种上美丽的松树！",
 		"japanese": "好きな場所に松の木を植えましょう。",
 		"czech": "Přeneste si kus lesa kamkoli chcete!",
+		"korean": "원하는 곳에 소나무를 마음껏 심으세요!",
 	},
 	"growingSpotCotton": {
 		"english": "Soil for growing Cotton Plants",
@@ -5542,6 +5552,7 @@
 		"polish": "Grządka na krzaki bawełny",
 		"japanese": "ワタの木",
 		"czech": "Půda pro pěstování bavlníku",
+		"korean": "목화나무용 분토",
 	},
 	"growingSpotCottonDescription": {
 		"english": "If you want to mass produce certain types of clothing, cotton farms are certainly going to help.",
@@ -5555,6 +5566,7 @@
 		"chinese": "如果您想大量生产某种的服装，那么棉花农场肯定可以为您提供原料。",
 		"japanese": "コットンを採集できるワタの木です。",
 		"czech": "Pokud chcete hromadně vyrábět určité druhy oděvů, určitě vám pomohou bavlněné farmy.",
+		"korean": "특정한 종류의 천을 대량 생산 하고 싶다면, 목화 농장은 확실히 도움이 될겁니다.",
 	},
 	"growingSpotTreeApple": {
 		"english": "Soil for growing Apple Trees",
@@ -5569,6 +5581,7 @@
 		"polish": "Grządka na sadzonki jabłoni",
 		"japanese": "リンゴの木",
 		"czech": "Půda pro pěstování jabloní",
+		"korean": "사과나무용 분토",
 	},
 	"growingSpotTreeAppleDescription": {
 		"english": "While they take a long time to grow, apple trees pay off over the long run.",
@@ -5582,6 +5595,7 @@
 		"chinese": "虽然它们成长需要很长时间，但从收获来看是值得的。",
 		"japanese": "収穫まで時間がかかりますが、それに見合うだけの価値があります。",
 		"czech": "I když jim růst trvá dlouho, jabloně se z dlouhodobého hlediska vyplatí.",
+		"korean": "완전히 자라나는데까진 오랜 시간이 걸리겠지만, 사과 나무는 그만한 값어치를 할 겁니다.",
 	},
 
 	// Resources
@@ -6078,6 +6092,7 @@
 		"polish": "Dziecięca biblioteczka",
 		"japanese": "子供用本棚",
 		"czech": "Knihovna pro děti",
+		"korean": "아이를 위한 책장",
 	},
 	"bookshelfChildDescription": {
 		"english": "This bookshelf contains some simple books to introduce kids to all kinds of interesting topics. Use this to give them a good education.",
@@ -6091,6 +6106,7 @@
 		"italian": "Questa libreria contiene alcuni semplici libri per introdurre i bambini a diversi tipi di tematiche interessanti. Usala per fornire loro una buona educazione.",
 		"japanese": "子供たちへ良い教育を授けられる様にあらゆる種類の本が揃えられています。",
 		"czech": "Tato knihovna obsahuje několik jednoduchých knih, které dětem představí nejrůznější zajímavá témata. Tímto způsobem získají děti dobré vzdělání.",
+		"korean": "이 책장엔 아이들에게 흥미로운 내용이 담긴 책이 몇가지 있습니다. 좋은 교육을 제공하고 싶다면 이것을 사용하세요.",
 	},
 
 	// Miscellaneous Furniture
@@ -6311,6 +6327,7 @@
 		"polish": "Skład drewna",
 		"japanese": "木材置き場",
 		"czech": "Sklad na dřevo",
+		"korean": "목재저장고",
 	},
 	"stockpileWoodDescription": {
 		"english": "Large, strong, and durable. These are the qualities you need when you want to store tons of logs.\n\nThis stockpile can hold up to %capacityWood% wood.",
@@ -6324,6 +6341,7 @@
 		"italian": "Grandi, forti e durevoli. Queste sono le qualità necessarie quando si vuole depositare tonnellate di tronchi.\n\nQuesta riserva può contenere fino a %capacityWood% unità di legno.",
 		"japanese": "木材を備蓄します。\n\n備蓄量%capacityWood%",
 		"czech": "Velký, silný a odolný sklad na dřevo. To jsou vlastnosti, které potřebujete, když chcete ukládat tuny kulatin.\n\nTento sklad pojme až %capacityWood% dřeva.",
+		"korean": "넓고, 튼튼하고, 오래갑니다. 많은 양의 통나무를 보관하려면 이게 필요하죠. \n\n이 저장고는 %capacityWood% 개의 나무를 저장할 수 있습니다.
 	},
 	"stockpileStone": {
 		"english": "Stone Stockpile",
@@ -6338,6 +6356,7 @@
 		"polish": "Skład kamienia",
 		"japanese": "石置き場",
 		"czech": "Sklad na kámen",
+		"korean": "석재저장고",
 	},
 	"stockpileStoneDescription": {
 		"english": "Make sure your villagers don't stub their toes on heavy rocks and build a proper stockpile for your raw material stones.\n\nThis stockpile can hold up to %capacityStone% stone.",
@@ -6351,6 +6370,7 @@
 		"italian": "Assicurati che i tuoi abitanti non sbattano le loro dita dei piedi sulle rocce pesanti e che costruiscano una riserva adeguata per le tue pietre.\n\nQuesta riserva può contenere fino a %capacityStone% unità di pietra.",
 		"japanese": "石を備蓄します。\n\n備蓄量%capacityStone%",
 		"czech": "Toto je místo, kam se ukládají zásoby kamene.\n\nTento sklad pojme až %capacityStone% kamene.",
+		"korean": "주민들이 무거운 바위에 발가락을 찧게 하지 말고, 원자재 석재를 위한 적절한 저장고를 만들세요.\n\n이 저장고는 %capacityStone%개의 석재를 보관할 수 있습니다.", 
 	},
 	"stockpileCrystal": {
 		"english": "Crystal Stockpile",
@@ -6365,6 +6385,7 @@
 		"polish": "Skład kryształu",
 		"japanese": "クリスタル置き場",
 		"czech": "Sklad na krystaly",
+		"korean": "크리스탈 저장고",
 	},
 	"stockpileCrystalDescription": {
 		"english": "Has your scholar ever run out of crystals in the middle of some important analysis? Make sure research can progress without impediments by building up a stock of crystals.\n\n This stockpile can hold up to %capacityCrystal% crystals.",
@@ -6378,6 +6399,7 @@
 		"italian": "Il tuo studioso ha terminato i cristalli nel bel mezzo di un'importante analisi? Assicurati che la ricerca possa progredire senza ostacoli costruendo una scorta di cristalli.\n\nQuesta riserva può contenere fino a %capacityCrystal% cristalli.",
 		"japanese": "クリスタルを備蓄します。\n\n備蓄量%capacityCrystal%",
 		"czech": "Došly vám někdy krystaly uprostřed nějakého důležitého výzkumu? Vytvořte si zásobu krystalů a zajistěte, aby výzkum mohl pokračovat bez překážek.\n\nTento sklad pojme až %capacityCrystal% krystalů.",
+		"korean": "학자들이 중요한 연구를 하던중에 크리스탈이 똑 떨어진적 있나요? 크리스탈 저장고를 미리 만들어놓고 연구가 중단되는 걸 막으세요!\n\n 이 저장고는 %capacityCrystal%개의 크리스탈을 보관할 수 있습니다.",
 	},
 	"stockpileTextile": {
 		"english": "Textiles Stockpile",
@@ -6392,6 +6414,7 @@
 		"japanese": "布地入れ",
 		"chinese": "纺织品库存",
 		"czech": "Sklad textilu",
+		"korean": "옷감 선반",
 	},
 	"stockpileTextileDescription": {
 		"english": "Winter is a perfect time to do some tailoring, but you can't harvest frozen cotton. Use this shelf to store your cotton summer surplus as well as your wool and cloth.\n\nThis shelf can fit up to %capacityTextiles% textiles.",
@@ -6406,6 +6429,7 @@
 		"portuguese": "O inverno é o momento perfeito para costurar, mas você não pode colher algodão congelado. Use esta prateleira para armazenar seu excedente de verão de algodão, bem como sua lã e tecido.\n\nEsta prateleira pode acomodar até %capacityTextiles% textile.",
 		"japanese": "コットン、ウール、布を備蓄します。\n\n備蓄量%capacityTextiles%",
 		"czech": "Zima je ideální čas na krejčovství, ale v zimě bavlnu nemůžete sklízet. Tento sklad použijte k uložení letního přebytku bavlny, vlny a látky.\n\nTento sklad pojme až %capacityTextiles% textilu.",
+		"korean": "겨울은 재봉일을 하기에 딱 좋은 계절입니다, 하지만 얼어붙은 목화를 수집할 순 없죠. 이 선반에 목화,양털, 천을 미리 보관해두세요.\n\n이 선반은 %capacityTextiles%개의 옷감을 보관할 수 있습니다.",
 	},
 	"stockpileCoinSmall": {
 		"english": "Small Safe for Coins",
@@ -6420,6 +6444,7 @@
 		"italian": "Cassaforte piccola per monete",
 		"japanese": "小型の金庫",
 		"czech": "Malý trezor na mince",
+		"korean": "작은 금고",
 	},
 	"stockpileCoinSmallDescription": {
 		"english": "Did you ever feel like your treasures were not safe? As if a greedy thief could just walk in and take them? Protect your coins by hiding them away in this small but strong metal box!\n\nThis safe can hold up to %capacityCoins% coins.",
@@ -6433,6 +6458,7 @@
 		"italian": "Hai mai avuto la sensazione che i tuoi tesori non siano al sicuro? Come se un ladro avido potesse entrare e rubarli? Proteggi le tue monete nascondendole in questa piccola ma forte cassaforte di metallo!\n\nQuesta cassaforte può contenere fino a %capacityCoins% monete.",
 		"japanese": "小型の金庫です。大事なコインを収納するために必要です。\n\n収納量%capacityCoins%",
 		"czech": "Cítili jste někdy, že vaše poklady nejsou v bezpečí? Jako by chamtivý zloděj mohl jen tak vstoupit a vzít si je? Chraňte své mince jejich ukrytím v tomto trezoru!\n\nTento trezor pojme až %capacityCoins% mincí.",
+		"koren": "당신의 보물이 안전하지 않다고 느껴본적 있나요? 욕심많은 도둑이 그냥 걸어와서 가져갈 수도 있다고? 작지만 튼튼한 금고에 코인을 숨기세요 !\n\n이 금고는 %capacityCoins%개의 코인을 보관할 수 있습니다.",
 	},
 	"stockpileCoinBig": {
 		"english": "Large Safe for Coins",
@@ -6447,6 +6473,7 @@
 		"italian": "Cassaforte grande per monete",
 		"japanese": "大型の金庫",
 		"czech": "Velký trezor na mince",
+		"korean": "거대 금고",
 	},
 	"stockpileCoinBigDescription": {
 		"english": "You have spent years accumulating your wealth so make sure it's locked away properly. This large safebox is made for those who possess treasures that just don't fit in any smaller safe anymore.\n\nThis safe can hold up to %capacityCoins% coins.",
@@ -6460,6 +6487,7 @@
 		"italian": "Hai trascorso anni ad accumulare la tua ricchezza, perciò assicurati che sia al sicuro. Questa cassaforte grande è ideale per coloro che possiedono tesori che semplicemente non si adattano in qualsiasi cassaforte più piccola.\n\nQuesta cassaforte può contenere fino a %capacityCoins% monete.",
 		"japanese": "大型の金庫です。大事なコインを収納するために必要です。\n\n収納量%capacityCoins%",
 		"czech": "Strávili jste roky hromaděním svého bohatství, tak se ujistěte, že je správně uzamčeno. Tento velký trezor je vyroben pro ty, kteří mají poklady, které se už nevejdou do žádného menšího trezoru.\n\nTento trezor pojme až %capacityCoins% mincí.",
+		"korean": "당신이 오랫동안 쌓아온 재산을 안전하게 보관하세요. 이 거대금고는 작은 금고로는 담기지 않는 커다란 보물들을 보관하기 위해 만들어졌습니다.\n\n이 금고는 %capacityCoins%개의 코인을 보관할 수 있습니다.",
 	},
 	"stockpileHealingPlant": {
 		"english": "Herbs Hanging Rack",
@@ -6474,6 +6502,7 @@
 		"italian": "",
 		"japanese": "薬草備蓄箱",
 		"czech": "Závěsný stojan na bylinky",
+		"korean": "약초선반"
 	},
 	"stockpileHealingPlantDescription": {
 		"english": "Bring in the harvest and hang your healing plants on this rack to try. It was specifically designed to fit as much plants as possible on a small space.\n\nThis rack can fit up to %capacityHealingPlant% healing plants.",
@@ -6487,6 +6516,7 @@
 		"italian": "Porta dentro il raccolto e appendi le piante curative su questa rastrelliera. È stata progettata specificamente per adattarsi a più piante possibili in piccoli spazi.\n\nQuestra rastrelliera può contenere fino a %capacityHealingPlant% piante curative.",
 		"japanese": "ヒーリングハーブを備蓄します。\n\n備蓄量%capacityHealingPlant%",
 		"czech": "Přineste bylinky a léčivé rostliny a zavěste je zde.Tento stojan byl navržen tak, aby se na malý prostor vešlo co nejvíce rostlin.\n\nTento stojan pojme až %capacityHealingPlant% léčivých bylin.",
+		"korean": "약초를 거둔 뒤 걸어놓으세요. 작은 공간 안에 최대한 많은 양의 약초를 보관하기 위해 고안된 선반입니다. \n\n이 선반은 최대 %capacityHealingPlant%개의 약초를 보관할 수 있습니다.",
 	},
 	"stockpileBeer": {
 		"english": "Beer Barrel Storage",
@@ -6501,6 +6531,7 @@
 		"italian": "Barile di deposito birra",
 		"japanese": "ビヤ樽貯蔵庫",
 		"czech": "Sklad na pivo",
+		"korean": "맥주통저장고",
 	},
 	"stockpileBeerDescription": {
 		"english": "It's time for party! Make sure the party doesn't run dry by stocking up on beer first!\n\nThis shelf can fit up to %capacityBeer% beer.",
@@ -6514,6 +6545,7 @@
 		"italian": "È tempo di festeggiamenti! Assicurati che la festa non si finisca facendo una bella scorta di birra!\n\nQuesto barile può contenere fino a %capacityBeer% birre.",
 		"japanese": "ビールを貯蔵します。\n\n貯蔵量%capacityBeer%",
 		"czech": "Je čas na párty! Nejprve se zásobte pivem a ujistěte se, že párty nevyschne!\n\nTento sklad pojme až %capacityBeer% piva.",
+		"korean": "축제를 열 시간입니다! 맥주를 채워두세요! \n\n이 저장고는 최대 %capacityBeer%개의 맥주를 보관할 수 있습니다.",
 	},
 	"stockpileIronOre": {
 		"english": "Iron Ore Box",

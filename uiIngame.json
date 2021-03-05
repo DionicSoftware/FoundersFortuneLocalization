@@ -3881,6 +3881,7 @@
 		"japanese": "「",
 		"czech": "\"",
 		"portuguese": "\"",
+		"russian": "\"",
 	},
 	"quotation_end": {
 		"english": "\"",
@@ -3888,6 +3889,7 @@
 		"japanese": "」",
 		"czech": "\"",
 		"portuguese": "\"",
+		"russian": "\"",
 	},
 	"enumeration_comma": { // comma used to separate list items, e.g. "apples, oranges"
 		"english": ", ",
@@ -3897,6 +3899,7 @@
 		"japanese": "、",
 		"czech": ", ",
 		"portuguese": ",",
+		"russian": ", ",
 	},
 	"hours": {
 		"english": "hours",
@@ -3906,6 +3909,7 @@
 		"czech": "hodin",
 		"korean": "시간",
 		"portuguese": "horas",
+		"russian": "часов",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -3915,6 +3919,7 @@
 		"czech": "h",
 		"korean": "시간",
 		"portuguese": "h",
+		"russian": "час.",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -3944,6 +3949,7 @@
 		"czech": "min",
 		"korean": "분",
 		"portuguese": "min",
+		"russian": "мин.",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -4778,6 +4784,7 @@
 		"czech": "Výstraha!",
 		"korean": "주의!",
 		"portuguese": "Atenção!",
+		"russian": "Внимание!",
 	},
 	"debuggingDisableAchievements": {
 		"english": "This will disable achievements!\nThis cannot be undone!",
@@ -4787,6 +4794,7 @@
 		"czech": "Tímto deaktivujete achievementy!\nUž to nepůjde vrátit zpět!",
 		"korean": "도전과제가 비활성화 됩니다!\n복구할 수 없습니다!",
 		"portuguese": "Isso irá desativar Conquistas!\nEste não pode ser desfeita!",
+		"russian": "Это отключит достижения!\nЭто действие необратимо!",
 	},
 	"debuggingNotice": {
 		"english": "The debug mode is meant to be used in development. If you enable debug mode, it can corrupt your save so that it's not recoverable. Exit this menu using 'F3' if you don't know exactly what you're doing.",
@@ -4796,6 +4804,7 @@
 		"czech": "Režim ladění je určen k použití pro vývojáře. Pokud povolíte režim ladění, může dojít k poškození vašich uložených pozic a to tak, že soubor nebude obnovitelný. Pokud nevíte přesně co děláte, opusťte toto menu pomocí klávesy „F3“.",
 		"korean": "디버그 모드는 개발과정에서 사용되도록 되어 있습니다. 만약 디버그 모드를 활성화시키면 세이브파일에 돌이킬 수 없는 손상을 입힐 수 있습니다. 무슨 말인지 모르겠다면 'f3'을 눌러 메뉴를 닫으세요.",
 		"portuguese": "O modo de depuração deve ser usado no desenvolvimento. Se você ativar o modo de depuração, ele pode corromper seu salvamento de forma que não seja recuperável. Saia deste menu usando 'F3' se você não souber exatamente o que está fazendo.",
+		"russian": "Режим отладки предназначен для использования в разработке. Если вы включите режим отладки, это может привести к повреждению вашего сохранения и невозможности его восстановления. Выйдите из этого меню, нажав «F3», если вы точно не знаете, что делаете.",
 	},
 	"achievements_off_mods": {
 		"english":  "Achievements are disabled because you have mods installed.",
@@ -4805,6 +4814,7 @@
 		"czech": "Achievementy jsou deaktivovány při používání módů",
 		"korean": "모드로 인해 도전과제가 비활성화되었습니다.",
 		"portuguese": "As conquistas foram desativadas porque você instalou mods.",
+		"russian": "Достижения отключены, потому что у вас установлены моды.",
 	},
 	"achievements_off_cheats": {
 		"english":  "Achievements are disabled because you have used developer mode.",
@@ -4814,6 +4824,7 @@
 		"czech": "Achievementy jsou deaktivovány při používání cheatů",
 		"korean": "치트로 인해 도전과제가 비활성화되었습니다.",
 		"portuguese": "As conquistas foram desativadas porque você usou o modo de desenvolvedor.",
+		"russian": "Достижения отключены, потому что вы использовали режим разработчика.",
 	},
 	"achievements_enabled_hard": {
 		"english":  "The \"Challenger\" achievement can be unlocked in this game.",
@@ -4823,6 +4834,7 @@
 		"czech": "Achevement Challenger je k dispozici",
 		"korean": "도전과제 'Challenger' 가 활성화되었습니다",
 		"portuguese": "A conquista \"Challenger\" pode ser desbloqueada neste jogo.",
+		"russian": "Достижение \"Претендент\" можно разблокировать в этой игре.",
 	},
 	"animalZones":  {
 		"english":  "Animal Zones",
@@ -4900,5 +4912,6 @@
 		"french": "Nombre de fois que le piège peut être réinitialisé",
 		"japanese": "罠の使用可能回数",
 		"portuguese": "Número de vezes que a armadilha pode ser reiniciada",
+		"russian": "Сколько раз можно использовать ловушку",
 	},
 }

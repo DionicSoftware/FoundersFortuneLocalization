@@ -3879,11 +3879,13 @@
 		"english": "\"",
 		"japanese": "「",
 		"czech": "\"",
+		"portuguese": "\"",
 	},
 	"quotation_end": {
 		"english": "\"",
 		"japanese": "」",
 		"czech": "\"",
+		"portuguese": "\"",
 	},
 	"enumeration_comma": { // comma used to separate list items, e.g. "apples, oranges"
 		"english": ", ",
@@ -3891,6 +3893,7 @@
 		"korean": "·",
 		"japanese": "、",
 		"czech": ", ",
+		"portuguese": ",",
 	},
 	"hours": {
 		"english": "hours",
@@ -3898,6 +3901,7 @@
 		"japanese": "時間",
 		"czech": "hodin",
 		"korean": "시간",
+		"portuguese": "horas",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -3905,6 +3909,7 @@
 		"japanese": "時間",
 		"czech": "h",
 		"korean": "시간",
+		"portuguese": "h",
 	},
 	"minutes": {
 		"english": "minutes",

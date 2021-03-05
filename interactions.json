@@ -265,6 +265,7 @@
 		"polish": "Zasadź",
 		"japanese": "植える",
 		"czech": "Vysaď",
+		“korean”: "묘목심기",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -423,6 +424,7 @@
 		"polish": "Wypij eliksir młodości",
 		"japanese":"若返りの秘薬を飲む",
 		"czech": "Vypij elixír mládí",
+		“korean”: "회춘의 묘약 마시기",
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
@@ -563,6 +565,7 @@
 		"polish": "Ucz się o życiu",
 		"japanese":"勉強する",
 		"czech": "Nauč se Životním zkušenostem",
+		“korean”: "공부하기",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -1369,6 +1372,7 @@
 		"chinese": "纺织",
 		"japanese":"織る",
 		"czech": "Utkej",
+		“korean”: "천 짜기",
 	},
 	"interaction_produceMedicalPotions": {
 		"english": "Produce Healing Potions",
@@ -1455,6 +1459,7 @@
 		"polish": "Rozmawiaj o jedzeniu",
 		"japanese":"食べ物の会話をする",
 		"czech": "Mluv o jídle",
+		“korean”: "음식 얘기하기",
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
@@ -1776,6 +1781,7 @@
 		"polish": "Przytul %name%",
 		"japanese":"%name%とハグをする",
 		"czech": "Obejmi %name%",
+		“korean”: "%name% 껴안기",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1824,6 +1830,7 @@
 		"polish": "Obraź",
 		"japanese":"侮辱する",
 		"czech": "Uraž",
+		“korean”: "모욕하기",
 	},
 	"InsultPerson": {
 		"english": "Insult %name%",
@@ -1838,6 +1845,7 @@
 		"polish": "Obraź %name%",
 		"japanese":"%name%を侮辱する",
 		"czech": "Uraž %name%",
+		“korean”: "%name% 모욕하기",
 	},
 	"Apologize": {
 		"english": "Apologize",
@@ -1852,6 +1860,7 @@
 		"polish": "Przeproś",
 		"japanese":"謝罪する",
 		"czech": "Omluv se",
+		“korean”: "사과하기",
 	},
 	"MagicSmile": { // only used for debugging
 		"english": "Magic Smile",
@@ -1866,6 +1875,7 @@
 		"polish": "Magiczny uśmiech",
 		"japanese":"関係を1段階上昇",
 		"czech": "Kouzelný úsměv",
+		“korean”: "살인 미소",
 	},
 	"Kiss": {
 		"english": "Kiss",
@@ -1880,6 +1890,7 @@
 		"polish": "Pocałuj",
 		"japanese":"キスする",
 		"czech": "Polib",
+		“korean”: "입맞춤",
 	},
 	"KissPerson": {
 		"english": "Kiss %name%",
@@ -1894,6 +1905,7 @@
 		"polish": "Pocałuj %name%",
 		"japanese":"%name%とキスする",
 		"czech": "Polib %name%",
+		“korean”: "%name%에게 입맞추기",
 	},
 	"BreakUp": {
 		"english": "Break up",
@@ -1908,6 +1920,7 @@
 		"polish": "Zerwij",
 		"japanese":"別れる",
 		"czech": "Rozveď se",
+		“korean”: "헤어지기",
 	},
 	// used when someone wants to interact with this colonist
 	// and the colonist is waiting for the action to be performed
@@ -1925,6 +1938,7 @@
 		"polish": "Zaczekaj na kogoś",
 		"japanese":"誰かを待つ",
 		"czech": "Počkej na někoho",
+		“korean”: "누군가를 기다",
 	},
 	"RiskyJoke": {
 		"english": "Risky Joke",
@@ -1939,6 +1953,7 @@
 		"polish": "Chamski dowcip",
 		"japanese":"冗談を言う",
 		"czech": "Odvážně zavtipkuj",
+		“korean”: "위험한 농담",
 	},
 	"TellRiskyJokeTo": {
 		"english": "Tell Risky Joke to %name%",
@@ -1953,6 +1968,7 @@
 		"polish": "Opowiedz chmski dowcip dla %name%",
 		"japanese":"%name%に冗談を言う",
 		"czech": "Řekni odvážný vtip %name%",
+		“korean”: "%name%에게 위험한 농담 걸기",
 		
 	},
 	"Impress": {
@@ -1968,6 +1984,7 @@
 		"polish": "Zaimponuj",
 		"japanese":"誘惑する",
 		"czech": "Zapůsob",
+		“korean”: "깊은 인상주기",
 		
 	},
 	"ImpressPerson": {
@@ -1983,6 +2000,7 @@
 		"polish": "Zaimponuj dla %name%",
 		"japanese":"%name%を誘惑する",
 		"czech": "Zapůsob na %name%",
+		“korean”: "%name%에게 깊은 인상주기",
 	},
 	"BuildSnowman": {
 		"english": "Build Snowman",
@@ -1997,6 +2015,7 @@
 		"polish": "Zbuduj bałwana",
 		"japanese":"雪だるまを作る",
 		"czech": "Postav sněhuláka",
+		“korean”: "눈사람 만들기",
 	},
 	"Care": { // caring for plants, animals, colleagues, ...
 		"english": "Care",
@@ -2011,6 +2030,7 @@
 		"polish": "Dbaj",
 		"japanese":"世話",
 		"czech": "Pečuj",
+		“korean”: "돌보기",
 	},
 	"TeachLifeSkills": {
 		"english": "Educate",
@@ -2025,6 +2045,7 @@
 		"polish": "Edukuj",
 		"japanese":"教育",
 		"czech": "Nauč se",
+		“korean”: "교육",
 	},
 	"WorkOnMasterpiece": {
 		"english": "Work on Masterpiece",
@@ -2039,6 +2060,7 @@
 		"chinese": "创作杰作",
 		"japanese":"傑作に取り組む",
 		"czech": "Pracuj na Veledíle",
+		“korean”: "걸작 제작하기",
 	},
 	"Tame": {
 		"english": "Tame",
@@ -2053,6 +2075,7 @@
 		"chinese": "驯服",
 		"japanese":"手なずける",
 		"czech": "Ochoč",
+		“korean”: "길들이기",
 	},
 	"careForAnimal": {
 		"english": "Care for Animal",
@@ -2067,6 +2090,7 @@
 		"chinese": "照料动物",
 		"japanese":"家畜の世話",
 		"czech": "Pečuj o zvíře",
+		“korean”: "동물 돌보기",
 	},
 	"Shear": {
 		"english": "Shear",
@@ -2081,6 +2105,7 @@
 		"chinese": "剪毛",
 		"japanese":"刈る",
 		"czech": "Ostříhej",
+		“korean”: "양털깎기",
 	},
 	"Butcher": {
 		"english": "Butcher",
@@ -2095,6 +2120,7 @@
 		"chinese": "屠宰",
 		"japanese":"屠殺",
 		"czech": "Poraz zvíře",
+		“korean”: "도축",
 	},
 	"Milk": {
 		"english": "Milk",
@@ -2109,6 +2135,7 @@
 		"chinese": "挤奶",
 		"japanese":"搾乳",
 		"czech": "Podoj mléko",
+		“korean”: "착유",
 	},
 	"interaction_clearStumps": {
 		"english": "Remove Stump",
@@ -2123,6 +2150,7 @@
 		"chinese": "移除树桩",
 		"japanese":"切り株を取り除く",
 		"czech": "Odstraň pažez",
+		“korean”: "그루터기 제거",
 	},
 	"interaction_produceShip":  {
 		"english": "Build Ship",
@@ -2136,36 +2164,43 @@
 		"japanese":"造船",
 		"czech": "Postav loď",
 		"russian": "Построить корабль",
+		“korean”: "선박 제작",
 	},
 	"ResetTrap":  {
 		"english":  "Reset Trap",
 		"german":  "Falle aufbauen",
 		"japanese": "罠を仕掛ける",
+		“korean”: "덫 재설치",
 	},
 	"EquipAxe":  {
 		"english":  "Equip Axe",
 		"german":  "Axt ausrüsten",
 		"japanese": "斧を装備",
+		“korean”: "도끼 장착",
 	},
 	"EquipPickaxe":  {
 		"english":  "Equip Pickaxe",
 		"german":  "Picke ausrüsten",
 		"japanese": "ツルハシを装備",
+		“korean”: "곡괭이 장착",
 	},
 	"EquipWateringCan":  {
 		"english":  "Equip Watering Can",
 		"german":  "Gießkanne ausrüsten",
 		"japanese": "じょうろを装備",
+		“korean”: "물뿌리개 장착",
 	},
 	"EquipOneHanded":  {
 		"english":  "Equip Weapon",
 		"german":  "Waffe ausrüsten",
 		"japanese": "武器を装備",
+		“korean”: "무기 장착",
 	},
 	"EquipBow":  {
 		"english":  "Equip Bow",
 		"german":  "Bogen ausrüsten",
 		"japanese": "弓を装備",
+		“korean”: "활 장착",
 	},
 
 
@@ -2230,6 +2265,7 @@
 		"polish": "Opowiedz dowcip członkowi grupy: \"%faction%\"",
 		"japanese":"\"%faction%\"の人々へ冗談を言う",
 		"czech": "Řekni vtip členovi \"%faction%\"",
+		“korean”: "\"%faction%\"의 일원에게 ",
 	},
 
 
@@ -2383,6 +2419,7 @@
 		"italian": "La riserva di %resource% è piena",
 		"japanese":"%resource%の備蓄はいっぱいです。",
 		"czech": "%resource% už nelze uskladnit. Sklad je plný.",
+		“korean”: "%resource% 창고가 가득참",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -2487,6 +2524,7 @@
 		"polish": "Następna interakcja za %time%",
 		"japanese":"次の世話まで%time%です",
 		"czech": "Další činnost za %time%",
+		"korean": "다음까지 %time%",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",
@@ -2659,6 +2697,7 @@
 		"polish": "Brakująca umiejętność: %skill%",
 		"japanese":"スキルを持っていません:%skill%",
 		"czech": "Chybí schopnost: %skill%",
+		"korean": "다음의 스킬을 가지고 있지 않습니다: %skill%",
 	}
 	
 }

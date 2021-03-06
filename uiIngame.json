@@ -202,7 +202,7 @@
 		"polish": "Dyplomacja",
 		"czech": "Diplomacie",
 		"romanian": "Diplomație",
-		"japanese": "外交",
+		"japanese": "外交一覧",
 	},
 	"showOnMap": {
 		"english": "Show Location",
@@ -220,7 +220,7 @@
 		"polish": "Pokaż na mapie",
 		"czech": "Zobrazit na mapě",
 		"romanian": "Afișează locația",
-		"japanese": "位置",
+		"japanese": "位置を確認する",
 	},
 	"contactFaction": {
 		"english": "Contact",
@@ -238,7 +238,7 @@
 		"polish": "Nawiąż kontakt",
 		"czech": "Kontaktovat",
 		"romanian": "Contactează",
-		"japanese": "交渉",
+		"japanese": "交渉をする",
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
@@ -256,7 +256,7 @@
 		"polish": "Poziom relacji:",
 		"czech": "Body vztahů:",
 		"romanian": "Puncte de relație",
-		"japanese": "関係",
+		"japanese": "関係:",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -310,7 +310,7 @@
 		"polish": "Pokój (%seconds% sek.)",
 		"czech": "Příměří (%seconds% s)",
 		"romanian": "Armistițiu (%seconds% s)",
-		"japanese": "休戦（%seconds%秒）",
+		"japanese": "休戦(%seconds%秒)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
@@ -399,7 +399,7 @@
 		"turkish": "Katları değiştir",
 		"czech": "Přepnutí podlaží",
 		"romanian": "Schimbă etajele",
-		"japanese": "階の切替",
+		"japanese": "現在基準とする階",
 		"korean": "층계 전환",
 	},
 	"switchFloorsDescription": {
@@ -417,7 +417,7 @@
 		"turkish": "Başka bir kata geçmek için buraya tıkla.\nVarsayılan tuşlar: R/F",
 		"czech": "Klikněte zde pro přepnutí do jiného podlaží.\nVýchozí klávesy: R/F",
 		"romanian": "Clicați aici pentru a trece la un alt etaj.\nComenzi rapide implicite: R/F",
-		"japanese": "表示される階を切替えます。階の表示が違うので注意してください。",
+		"japanese": "表示、建築する階を表します。階の表示が違うので注意してください。",
 		"korean": "다른 층으로 전환하기 위해 이곳을 클릭하세요.\nDefault hotkeys: R/F",
 	},
 	"constructionCostsAdditionalOnFloor": {
@@ -435,7 +435,7 @@
 		"turkish": "%floor% katında inşaatın maaliyeti %percentage%% daha fazla.",
 		"czech": "Stavba na podlaží %floor% stojí o %percentage%% více.",
 		"romanian": "Construcția la etajul %floor% costă cu %percentage%% mai mult.",
-		"japanese": "%floor%階は%percentage%%以上の建設費がかかります。階の表示が違うので注意してください。",
+		"japanese": "%floor%階は%percentage%%以上の建設費がかかります。階のレベルの表示が違うので注意してください。",
 		"korean": "%floor%층 위의 건설은 %percentage%% 더 듭니다.",
 	},
 
@@ -559,7 +559,7 @@
 		"bulgarian": "Ако не поддържате доброто настроение на заселниците, те може да пламнат и да спрат да следват вашите команди.",
 		"czech": "Pokud nebudete udržovat své kolonisty šťastné, mohou začít vzdorovat a možná přestanou poslouchat vaše příkazy.",
 		"romanian": "Dacă nu vă mențineți coloniștii fericiți, vor începe să fie sfidători și s-ar putea să nu vă mai urmeze ordinele dvs.",
-		"japanese": "願い事が叶う、対人関係、日々の出来事等で増減します。心情の低下はコロニストの反抗を買い貴方の命令に従わなくなる時があります。",
+		"japanese": "願い事が叶う、対人関係、日々の出来事等で増減します。心情の低下はコロニストの反抗を買い、トラブルを起こす場合があります。",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -599,7 +599,7 @@
 		"bulgarian": "Съберете ябълки или растителни култури, за да се грижите за храната.",
 		"czech": "Pro získání jídla sbírejte jablka nebo pěstujte rostliny.",
 		"romanian": "Culegeți mere sau cultivați plante de cultură pentru a menține proviziile alimentare.",
-		"japanese": "飢えは命に関わります。果物の採集、家畜の飼育等を行い食べ物を確保してください。",
+		"japanese": "満腹が無くなると空腹、飢えを起こします。そうなる前に果物の採集、家畜の屠殺等を行い食べ物を確保してください。",
 	},
 	"needsDescriptionStamina": {
 		"english": "Give your colonist a break every once in a while so they can recover.",
@@ -619,7 +619,7 @@
 		"bulgarian": "Дайте почивка на заселниците всеки път, за да може да се възстановът.",
 		"czech": "Dopřejte svému kolonistovi přestávky, aby si mohl odpočinout.",
 		"romanian": "Oferiți-le coloniștilor o pauză din când în când pentru a se putea odihni.",
-		"japanese": "作業をするために必要です。休憩させる事で回復します。適度に休憩を入れてください。",
+		"japanese": "自然と減少します。睡眠により回復します。持続力が無くなると疲労を起こします。",
 	},
 	"needsDescriptionHealth": {
 		"english": "Let your colonists sleep and or give them healing potions to increase their health.",
@@ -3573,7 +3573,7 @@
 		"bulgarian": "Търговия с '%faction%'",
 		"polish": "Handel z '%faction%'",
 		"czech": "Obchodovat s '%faction%'",
-		"japanese": "'%faction%'貿易取引",
+		"japanese": "%faction%との貿易取引",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
@@ -4298,7 +4298,7 @@
 		"turkish": "Meslekler - %fullName%",
 		"polish": "Zawody - %fullName%",
 		"czech": "Karta profese - %fullName%",
-		"japanese": "%fullName%の作業一覧",
+		"japanese": "%fullName%の職業状況一覧",
 		"korean":  "전공직업 - %fullName%",
 	},
 	"progressToNextLevel": {

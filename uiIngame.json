@@ -3878,6 +3878,7 @@
 	"quotation_start": {
 		"english": "\"",
 		"french": "« ",
+		"dutch": "\"",
 		"japanese": "「",
 		"czech": "\"",
 		"portuguese": "\"",
@@ -3886,6 +3887,7 @@
 	"quotation_end": {
 		"english": "\"",
 		"french": " »",
+		"dutch": "\"",
 		"japanese": "」",
 		"czech": "\"",
 		"portuguese": "\"",
@@ -3894,6 +3896,7 @@
 	"enumeration_comma": { // comma used to separate list items, e.g. "apples, oranges"
 		"english": ", ",
 		"french": ", ",
+		"dutch": ", ",
 		"chinese": "、",
 		"korean": "·",
 		"japanese": "、",
@@ -3905,6 +3908,7 @@
 		"english": "hours",
 		"german": "Stunden",
 		"french": "heures",
+		"dutch": "Uren",
 		"japanese": "時間",
 		"czech": "hodin",
 		"korean": "시간",
@@ -3915,6 +3919,7 @@
 		"english": "h",
 		"german": "h",
 		"french": "h",
+		"dutch": "h",
 		"japanese": "時間",
 		"czech": "h",
 		"korean": "시간",
@@ -3945,6 +3950,7 @@
 		"english": "min",
 		"german": "min",
 		"french": "min",
+		"dutch": "min", 
 		"japanese": "分",
 		"czech": "min",
 		"korean": "분",

@@ -2192,8 +2192,7 @@
 		"french": "Manger auto."
 	},
 	"autoEatTooltip_Desc": {
-		"english": "When enabled, your colonists will decide for themselves to eat if they are hungry. If disabled, you have to choose for your colonists when they should eat.",
-		"french": "Lorsque cette option est activée, vos colons décideront eux-mêmes de manger s'ils ont faim. Si elle est désactivée, vous devez choisir pour vos colons quand ils doivent manger."
+		"english": "When enabled, your colonists will eat when their hunger is below 20% regardless of hour type",
 	},
 	"autoSleep": {
 		"english": "Auto sleep",
@@ -2204,8 +2203,7 @@
 		"french": "Dormir auto."
 	},
 	"autoSleepTooltip_Desc": {
-		"english": "When enabled, your colonists will decide for themselves when to sleep. If disabled, you have to choose for your colonists when they should sleep.",
-		"french": "Lorsque cette option est activée, vos colons décideront eux-mêmes quand dormir. Si elle est désactivée, vous devez choisir pour vos colons quand ils doivent dormir."
+		"english": "When enabled, your colonists will sleep when their energy is below 15% regardless of hour type",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -5119,5 +5117,17 @@
     },
     "largeRationsTooltip_Desc": {
         "english": "Your colonists will eat more food. At least their happy about it"
+    },
+    "issuedByPlayerTooltip_Title": {
+        "english": "Interaction Issued by Player"
+    },
+    "issuedByPlayerTooltip_Desc": {
+        "english": "These interactions won't get aborted by the Schedule"
+    },
+    "issuedByScheduleTooltip_Title": {
+        "english": "Interaction Issued by Schedule"
+    },
+    "issuedByScheduleTooltip_Desc": {
+        "english": "These interactions can get aborted by the Schedule"
     }
 }

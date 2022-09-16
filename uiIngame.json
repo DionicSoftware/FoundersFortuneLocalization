@@ -1417,7 +1417,7 @@
 		"turkish": "Ruhsal durum yavaşça çocukluk mutluluk puanlarını etkiler.\nToplanan puanlara göre, çocuk büyüdüğünde doğum gününde iyi veya kötü karakter özellikleri kazanır.",
 		"romanian": "Fiind într-o dispoziție bună sau rea câștigă încet puncte de fericire pozitive sau negative.\nÎn funcție de ce puncte sunt colectate, copilul va câștiga trăsături pozitive sau negative de ziua lui.",
 		"japanese": "満足度は心情の状態により右側のプラスまたは左側のマイナスへ動きます。どちらでも最大になった場合はそれぞれの満足度ポイントを獲得します。獲得した満足度ポイントに応じて誕生日に個性が決まります。",
-		"korean": "아이가 좋거나 나쁜 기분으로 지낼때마다 조금씩 긍정적 혹은 부정적 포인트를 획득합니다. \n어느 포인트를 얻느냐에 따라 아이는 생일날 긍정적이거나 부정적인 성질을 얻게 됩니다.",
+		"korean": "아이가 좋거나 나쁜 기분으로 지낼때마다 조금씩 긍정적 혹은 부정적 포인트를 획득합니다. \n어느 포인트를 얻느냐에 따라 아이는 생일날 긍정적이거나 부정적인 성질을 얻게 됩니다."
 
 	},
 	"childhoodEducation": {
@@ -1452,7 +1452,7 @@
 		"turkish": "Çocuklar kitaplıkları kullanarak yaşam becerileri edinebilirler. Doğum günlerinde, hayat puanlarını kullanarak seçecekleri mesleklerde bir adım önde başlayabilirler.\nEğitim, bir konu tamamen öğrenilmeden yarım bırakılırsa, ilerleme yavaşça unutulur.",
 		"romanian": "Fiecare copil poate învăța abilități de viață la raftul de cărți. De ziua lor de naștere, ei pot folosi aceste puncte pentru a obține un mare avantaj în orice profesie.\nDacă educația este întreruptă înainte ca un subiect să fie înțeles pe deplin și să obțină un punct, progresul va fi uitat încet.",
 		"japanese": "教育スキルのあるコロニストから教育を受ける、または子供用本棚から勉強をする事で教育の経験を獲得する事ができます。教育の経験は自然と減少していきます。また、最大になると教育ポイントを獲得します。獲得した教育ポイントに応じて誕生日にスキルを獲得できます。",
-		"korean": "모든 아이들은 책장의 책으로 부터 생활 기술을 배울 수 있습니다. 아이들은 생일날 포인트를 사용해 전문 기술에 사용할 수 있습니다. \n만약 그 주제를 완전히 익히고 포인트를 얻기 전에 교육을 멈춘다면 아이들은 진행도를 서서히 잃게됩니다.",
+		"korean": "모든 아이들은 책장의 책으로 부터 생활 기술을 배울 수 있습니다. 아이들은 생일날 포인트를 사용해 전문 기술에 사용할 수 있습니다. \n만약 그 주제를 완전히 익히고 포인트를 얻기 전에 교육을 멈춘다면 아이들은 진행도를 서서히 잃게됩니다."
 	},
 
 	// Birthday Panel (Child born)
@@ -1575,7 +1575,7 @@
 		"polish": "%firstName% miał%nicA% wiele dobrych dośwadczeń w swoim dzieciństwie i zyskał%nicA% następujące cechy:",
 		"czech": "%firstName% získa%lA% hodně dobrých zkušeností v dětství a získa%lA% tyto vlastnosti:",
 		"japanese": "%firstName%は多くのプラスの満足度ポイントにより下記の個性を獲得しました。",
-		"korean": "%firstName%#{은} %hisHer%의 유년시절 긍정적인 경험을 많이 했습니다. 이러한 성향을 얻습니다:",
+		"korean": "%firstName%#{은} %hisHer%의 유년시절 긍정적인 경험을 많이 했습니다. 이러한 성향을 얻습니다:"
 	},
 	"somePositiveExperiencesGainedTraits": {
 		"english": "%firstName% had some good experiences in %hisHer% childhood and gained the following traits:",
@@ -1821,7 +1821,7 @@
 		"romanian": "Satisfacție",
 		"bulgarian": "Удовлетворение",
 		"czech": "Spokojenost",
-		"japanese": "満足度",
+		"japanese": "満足度"
 	},
 	"satisfactionPoints_Desc": {
 		"english": "Fulfill your colonists' wishes and they will be satisfied with life. When the bar is full they gets one lifetime satisfaction point.",
@@ -2192,7 +2192,7 @@
 		"french": "Manger auto."
 	},
 	"autoEatTooltip_Desc": {
-		"english": "When enabled, your colonists will eat when their hunger is below 20% regardless of hour type",
+		"english": "When enabled, your colonists will eat when their hunger is below 20% regardless of hour type"
 	},
 	"autoSleep": {
 		"english": "Auto sleep",
@@ -2203,7 +2203,7 @@
 		"french": "Dormir auto."
 	},
 	"autoSleepTooltip_Desc": {
-		"english": "When enabled, your colonists will sleep when their energy is below 15% regardless of hour type",
+		"english": "When enabled, your colonists will sleep when their energy is below 15% regardless of hour type"
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -4575,7 +4575,7 @@
 		"japanese": "%animalType%の牧場",
 		"chinese": "%animalType% 牧场",
 		"czech": "%animalType% ve vesnici",
-		"korean": "%animalType% 목장",
+		"korean": "%animalType% 목장"
 	},
 	"breedingLimit":  {
 		"english": "Breeding Limit",
@@ -4609,7 +4609,7 @@
 		"japanese": "最大数を超えた家畜を屠殺",
 		"chinese": "自动将多余的家畜分配给屠夫屠宰",
 		"czech": "Automaticky přiřaďte na porážku další zvířata",
-		"korean": "정해진 수를 넘어선 여분의 가축을 자동으로 도축함",
+		"korean": "정해진 수를 넘어선 여분의 가축을 자동으로 도축함"
 	},
 	"tamingProgress":  {
 		"english": "Taming Progress: %status%",
@@ -4990,42 +4990,42 @@
     },
 	"hobbyDesc_Painting": {
 		"english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%",
+		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
 	},
     "hobbyTitle_Gardening": {
         "english": "Gardening"
     },
 	"hobbyDesc_Gardening": {
 		"english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%",
+		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
 	},
     "hobbyTitle_Music": {
         "english": "Music"
     },
 	"hobbyDesc_Music": {
 		"english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%",
+		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
 	},
     "hobbyTitle_Writing": {
         "english": "Writing"
     },
 	"hobbyDesc_Writing": {
 		"english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%",
+		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
 	},
     "hobbyTitle_Woodworking": {
         "english": "Woodworking"
     },
 	"hobbyDesc_Woodworking": {
 		"english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%",
+		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
 	},
     "hobbyTitle_Reading": {
         "english": "Literature"
     },
 	"hobbyDesc_Reading": {
 		"english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%",
+		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
 	},
     "hobbyTitle_Masonry": {
         "english": "Masonry"
@@ -5129,5 +5129,12 @@
     },
     "issuedByScheduleTooltip_Desc": {
         "english": "These interactions can get aborted by the Schedule"
+    },
+    "noItemInStorage": {
+        "english": "You have not stored any furniture yet. You can store furniture by producing them or dropping them in Storage's drop area."
+    },
+    "dragAndDrop": {
+        "english": "Drag any furniture and drop it in this area to store it"
     }
+    
 }

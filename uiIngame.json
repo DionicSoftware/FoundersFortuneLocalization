@@ -542,7 +542,8 @@
 		"japanese": "健康"
 	},
     "fun": {
-        "english": "Fun"
+        "english": "Fun",
+		"french": "Amusement",
     },
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -645,7 +646,8 @@
 		"japanese": "睡眠と回復薬により回復します。健康が無くなるとコロニストは死亡します。"
 	},
     "needsDescriptionFun": {
-        "english": "Give your colonist a chance to have fun every once in a while. Life's not all about work, right?"
+        "english": "Give your colonist a chance to have fun every once in a while. Life's not all about work, right?",
+		"french": "Donnez à votre colon une chance de s'amuser de temps en temps. La vie ne se résume pas au travail, n'est-ce pas ?",
     },
 	"needsTitleTameness": {
 		"english": "Tameness",
@@ -2185,25 +2187,27 @@
 	},
 	"autoEat": {
 		"english": "Auto eat",
-		"french": "Manger auto."
+		"french": "Manger auto.",
 	},
 	"autoEatTooltip_Title": {
 		"english": "Auto Eat",
-		"french": "Manger auto."
+		"french": "Manger auto.",
 	},
 	"autoEatTooltip_Desc": {
-		"english": "When enabled, your colonists will eat when their hunger is below 20% regardless of hour type"
+		"english": "When enabled, your colonists will eat when their hunger is below 20% regardless of hour type",
+		"french": "Lorsque cette option est activée, vos colons mangeront lorsque leur faim sera inférieure à 20%, quel que soit le type d'heure.",
 	},
 	"autoSleep": {
 		"english": "Auto sleep",
-		"french": "Dormir auto."
+		"french": "Dormir auto.",
 	},
 	"autoSleepTooltip_Title": {
 		"english": "Auto Sleep",
-		"french": "Dormir auto."
+		"french": "Dormir auto.",
 	},
 	"autoSleepTooltip_Desc": {
-		"english": "When enabled, your colonists will sleep when their energy is below 15% regardless of hour type"
+		"english": "When enabled, your colonists will sleep when their energy is below 15% regardless of hour type",
+		"french": "Lorsque cette option est activée, vos colons dormiront lorsque leur énergie sera inférieure à 15%, quel que soit le type d'heure.",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -4983,166 +4987,211 @@
 		"russian": "Сколько раз можно использовать ловушку"
 	},
     "hobbies": {
-        "english": "Hobbies"
+        "english": "Hobbies",
+		"french": "Loisirs"
     },
     "hobbyTitle_Painting": {
-        "english": "Painting"
+        "english": "Painting",
+		"french": "Peinture"
     },
 	"hobbyDesc_Painting": {
 		"english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
+		"french": "Intérêt : %interest%\nEst le principal loisir : %isMainHobby%"
 	},
     "hobbyTitle_Gardening": {
-        "english": "Gardening"
+        "english": "Gardening",
+		"french": "Jardinage",
     },
 	"hobbyDesc_Gardening": {
 		"english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
+		"french": "Intérêt : %interest%\nEst le principal loisir : %isMainHobby%"
 	},
     "hobbyTitle_Music": {
-        "english": "Music"
+        "english": "Music",
+		"french": "Musique",
     },
 	"hobbyDesc_Music": {
 		"english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
+		"french": "Intérêt : %interest%\nEst le principal loisir : %isMainHobby%"
 	},
     "hobbyTitle_Writing": {
-        "english": "Writing"
+        "english": "Writing",
+		"french": "Écriture",
     },
 	"hobbyDesc_Writing": {
 		"english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
+		"french": "Intérêt : %interest%\nEst le principal loisir : %isMainHobby%"
 	},
     "hobbyTitle_Woodworking": {
-        "english": "Woodworking"
+        "english": "Woodworking",
+		"french": "Menuiserie",
     },
 	"hobbyDesc_Woodworking": {
 		"english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
+		"french": "Intérêt : %interest%\nEst le principal loisir : %isMainHobby%"
 	},
     "hobbyTitle_Reading": {
-        "english": "Literature"
+        "english": "Literature",
+		"french": "Littérature",
     },
 	"hobbyDesc_Reading": {
 		"english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-		"french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
+		"french": "Intérêt : %interest%\nEst le principal loisir : %isMainHobby%"
 	},
     "hobbyTitle_Masonry": {
-        "english": "Masonry"
+        "english": "Masonry",
+		"french": "Maçonnerie",
     },
 	"hobbyDesc_Masonry": {
         "english": "Interest: %interest%\nIs main hobby: %isMainHobby%",
-        "french": "Intérêt : %interest%\nEst le principal hobby : %isMainHobby%"
+        "french": "Intérêt : %interest%\nEst le principal loisir : %isMainHobby%"
     },
     "hobbyIsDumb": {
-        "english": "Can't level up in hobbies because %firstName% is dumb"
+        "english": "Can't level up in hobbies because %firstName% is dumb",
+		"french": "Ne peut pas améliorer ses loisirs car %firstName% est idiot"
     },
     "colonyWide": {
-        "english": "Colony-wide"
+        "english": "Colony-wide",
+		"french": "À l'échelle de la colonie",
     },
     "workHourType": {
-        "english": "Work"
+        "english": "Work",
+		"french": "Travail",
     },
     "workHourTypeTooltip_Title": {
-        "english": "Work Hour"
+        "english": "Work Hour",
+		"french": "Heure de travail",
     },
     "workHourTypeTooltip_Desc": {
-        "english": "During this hour, your colonists will only do work"
+        "english": "During this hour, your colonists will only do work",
+		"french": "Pendant cette heure, vos colons ne feront que travailler.",
     },
     "freeHourType": {
-        "english": "Free/Socialize"
+        "english": "Free/Socialize",
+		"french": "Libre/Socialisation",
     },
     "freeHourTypeTooltip_Title": {
-        "english": "Free/Socialize Hour"
+        "english": "Free/Socialize Hour",
+		"french": "Heure libre/socialisation",
     },
     "freeHourTypeTooltip_Desc": {
-        "english": "During this hour, your colonists will relax, socialize, and do hobbies (no Work!)"
+        "english": "During this hour, your colonists will relax, socialize, and do hobbies (no Work!)",
+		"french": "Pendant cette heure, vos colons se détendront, socialiseront et s'adonneront à des passe-temps (pas de travail !).",
     },
     "eatHourType": {
-        "english": "Eat"
+        "english": "Eat",
+		"french": "Repas",
     },
     "eatHourTypeTooltip_Title": {
-        "english": "Eating Hour"
+        "english": "Eating Hour",
+		"french": "Heure du repas",
     },
     "eatHourTypeTooltip_Desc": {
-        "english": "During this hour, your colonists will eat when their hunger is below 80%.\nOtherwise, they will continue to do their tasks"
+        "english": "During this hour, your colonists will eat when their hunger is below 80%.\nOtherwise, they will continue to do their tasks",
+		"french": "Pendant cette heure, vos colons mangeront lorsque leur faim sera inférieure à 80%.\nSinon, ils continueront à effectuer leurs tâches.",
     },
     "randomHourType": {
-        "english": "Random"
+        "english": "Random",
+		"french": "Aléatoire",
     },
     "randomHourTypeTooltip_Title": {
-        "english": "Random Hour"
+        "english": "Random Hour",
+		"french": "Heure aléatoire",
     },
     "randomHourTypeTooltip_Desc": {
-        "english": "During this hour, colonists can pick tasks from all the task categories.\nThey will eat when their hunger is below 20% and sleep when their energy is below 15%"
+        "english": "During this hour, colonists can pick tasks from all the task categories.\nThey will eat when their hunger is below 20% and sleep when their energy is below 15%",
+		"french": "Pendant cette heure, les colons peuvent choisir des tâches parmi toutes les catégories de tâches.\nIls mangent lorsque leur faim est inférieure à 20% et dorment lorsque leur énergie est inférieure à 15%.",
     },
     "sleepHourTypeTooltip_Title": {
-        "english": "Sleeping Hour"
+        "english": "Sleeping Hour",
+		"french": "Heure du coucher",
     },
     "sleepHourTypeTooltip_Desc": {
-        "english": "During this hour, your colonists will sleep when their energy is below 80%.\nOtherwise, they will continue to do their tasks"
+        "english": "During this hour, your colonists will sleep when their energy is below 80%.\nOtherwise, they will continue to do their tasks",
+		"french": "Pendant cette heure, vos colons dormiront lorsque leur énergie sera inférieure à 80%.\nSinon, ils continueront à effectuer leurs tâches.",
     },
     "eatOnlyAtHouse": {
-        "english": "Eat Only at House"
+        "english": "Eat Only at House",
+		"french": "Manger uniquement à la maison",
     },
     "eatOnlyAtHouseTooltip_Title": {
-        "english": "Eat Only at Own House"
+        "english": "Eat Only at Own House",
+		"french": "Manger uniquement chez soi",
     },
     "eatOnlyAtHouseTooltip_Desc": {
-        "english": "When enabled, colonists will prioritize eating at their own house"
-    }, 
+        "english": "When enabled, colonists will prioritize eating at their own house",
+		"french": "Lorsqu'il sera activé, les colons donneront la priorité aux repas dans leur propre maison.",
+    },
     "small": {
-        "english": "Small"
+        "english": "Small",
+		"french": "Petit",
     },
     "smallRationsTooltip_Title": {
-        "english": "Small Food Rations"
+        "english": "Small Food Rations",
+		"french": "Petites rations alimentaires",
     },
     "smallRationsTooltip_Desc": {
-        "english": "Tough times huh? Your colonists will eat less food at the cost of being sad"
+        "english": "Tough times huh? Your colonists will eat less food at the cost of being sad",
+		"french": "Les temps sont durs, hein ? Vos colons mangeront moins de nourriture au prix d'être tristes.",
     },
     "medium": {
-        "english": "Medium"
+        "english": "Medium",
+		"french": "Moyen",
     },
     "mediumRationsTooltip_Title": {
-        "english": "Medium Food Rations"
+        "english": "Medium Food Rations",
+		"french": "Rations alimentaires moyennes",
     },
     "mediumRationsTooltip_Desc": {
-        "english": "Your colonists will eat normal amounts of food"
+        "english": "Your colonists will eat normal amounts of food",
+		"french": "Vos colons mangeront des quantités normales de nourriture.",
     },
     "large": {
-        "english": "Large"
+        "english": "Large",
+		"french": "Grand",
     },
     "largeRationsTooltip_Title": {
-        "english": "Large Food Rations"
+        "english": "Large Food Rations",
+		"french": "Grandes rations alimentaires",
     },
     "largeRationsTooltip_Desc": {
-        "english": "Your colonists will eat more food. At least their happy about it"
+        "english": "Your colonists will eat more food. At least their happy about it",
+		"french": "Vos colons mangeront plus de nourriture. Au moins, ils en sont heureux.",
     },
     "issuedByPlayerTooltip_Title": {
-        "english": "Interaction Issued by Player"
+        "english": "Interaction Issued by Player",
+		"french": "Interaction émise par le joueur",
     },
     "issuedByPlayerTooltip_Desc": {
-        "english": "These interactions won't get aborted by the Schedule"
+        "english": "These interactions won't get aborted by the Schedule",
+		"french": "Ces interactions ne seront pas interrompues par le programme.",
     },
     "issuedByScheduleTooltip_Title": {
-        "english": "Interaction Issued by Schedule"
+        "english": "Interaction Issued by Schedule",
+		"french": "Interaction émise par le programme",
     },
     "issuedByScheduleTooltip_Desc": {
-        "english": "These interactions can get aborted by the Schedule"
+        "english": "These interactions can get aborted by the Schedule",
+		"french": "Ces interactions peuvent être interrompues par le programme.",
     },
     "noItemInStorage": {
-        "english": "You have not stored any furniture yet. You can store furniture by producing them or dropping them in Storage's drop area."
+        "english": "You have not stored any furniture yet. You can store furniture by producing them or dropping them in Storage's drop area.",
+		"french": "Vous n'avez pas encore entreposé de meubles. Vous pouvez entreposer des meubles en les produisant ou en les déposant dans la zone de dépôt de la réserve.",
     },
     "dragAndDrop": {
-        "english": "Drag any furniture and drop it in this area to store it"
+        "english": "Drag any furniture and drop it in this area to store it",
+		"french": "Faites glisser n'importe quel meuble et déposez-le dans cette zone pour l'entreposer.",
     },
     "difficultyAdaptation": {
-        "english": "Difficulty Adaptation"
+        "english": "Difficulty Adaptation",
+		"french": "Adaptation de la difficulté",
     },
     "difficultyAdaptationDesc": {
-        "english": "Seems like the game is too difficult, do you want to change the difficulty?"
+        "english": "Seems like the game is too difficult, do you want to change the difficulty?",
+		"french": "Il semble que le jeu soit trop difficile, voulez-vous changer la difficulté ?",
     },
     "difficultyAdaptationAccept": {
-        "english": "Let's Change"
+        "english": "Let's Change",
+		"french": "Changeons-la",
     }
 }

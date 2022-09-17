@@ -649,7 +649,7 @@
 		"czech": "Otevřít adresář s mody",
 		"romanian": "Deschide dosarul modului",
 		"japanese": "Modフォルダーを開く",
-		
+
 	},
 	"openWorkshop": { //steam workshop
 		"english": "Open Workshop",
@@ -723,7 +723,7 @@
 		"czech": "Obsah je většinou kompatibilní",
 		"romanian": "Conținut în mare parte compatibil",
 		"japanese": "ほとんど互換性のあるコンテンツ",
-		
+
 	},
 	"modMostlyCompatible_Text": {
 		"english": "This content has been marked by the developers as mostly compatible. It could contain bugs, but you can use it anyways.",
@@ -1405,7 +1405,7 @@
 		"czech": "Zvuk",
 		"romanian": "Audio",
 		"japanese": "オーディオ",
-		
+
 	},
 	"totalVolume": {
 		"english": "Total Volume",
@@ -2239,7 +2239,7 @@
 		"czech": "Pauza",
 		"romanian": "Pauză",
 		"japanese": "ポーズ",
-		
+
 	},
 	"normalSpeed": {
 		"english": "Normal Speed",
@@ -2354,7 +2354,7 @@
 		"czech": "Přesun nábytku",
 		"romanian": "Manipularea mobilierului",
 		"japanese": "家具の移動",
-		
+
 	},
 	"rotateLeft": {
 		"english": "Rotate Left",
@@ -2602,7 +2602,7 @@
 		"romanian": "Shift (dreapta)",
 		"polish": "Shift (prawy)",
 		"japanese": "右Shiftキー",
-		
+
 	},
 	"key_LeftAlt": {
 		"english": "Alt (left)",
@@ -2714,8 +2714,8 @@
 		"german":  "Bild runter",
 		"french": "Page suivante",
 		"dutch": "Page Down",
-		"japanese": "Page Downキー",	
-		"portuguese": "Page Down",	
+		"japanese": "Page Downキー",
+		"portuguese": "Page Down",
 		"italian": "Pagina Giù",
 		"russian": "Page Down",
 	},
@@ -2816,7 +2816,7 @@
 		"czech": "Průměrná spokojenost",
 		"romanian": "Fericire medie",
 		"japanese": "平均的な幸福",
-		
+
 	},
 	"totalResearchCollected": {
 		"english": "Research collected",
@@ -3015,7 +3015,7 @@
 		"czech": "Odpočinkový zážitek, pokud máte raději budování základny místo bojů s nepřáteli.\nVaši kolonisté utrpí pouze poloviční poškození.\nKolonie začíná s 80 jídly a kolonisté přežjí s menšími porcemi.\nZalévané rostliny produkují vyšší výnosy.",
 		"romanian": "O experiență mai relaxantă dacă preferați construirea creativă a bazelor decât lupta și supraviețuirea.\nColoniștii dvs. nu suferă decât jumătate din daunele cauzate de toate tipurile de răni.\nColonia începe cu 80 buc. de mâncare, coloniștii au nevoie de mai puțină hrană și pot supraviețui cu rații alimentare mai mici.\nPlantele udate produc recolte mai mari.\nColoniștii dvs. vor muri dacă nu aveți grijă de ei.",
 		"japanese": "建設をメインにゆっくり過ごしたい方におすすめです。\nあらゆる種類の怪我を受けても半分のダメージしか受けません。\n食糧は80食です。\n水を与えられた農作物はより多くの収穫をもたらします。",
-	
+
 	},
 	"difficulty_1_Title": {
 		"english": "Exciting World",
@@ -3035,7 +3035,7 @@
 		"czech": "Vzrušující svět",
 		"romanian": "Lume captivantă",
 		"japanese": "刺激的な世界",
-		
+
 	},
 	"difficulty_1_Desc": {
 		"english": "The typical Founders' Fortune experience, mixing base building with survival.\nThe colony starts with 40 meals.\nSometimes colonists may die even though you try your best.",
@@ -3096,9 +3096,11 @@
 	},
     "difficulty_3_Title": {
         "english": "Custom Difficulty",
+		"french": "Difficulté personnalisée",
     },
     "difficulty_3_Desc": {
         "english": "You are able to modify the rules how ever you see fit.",
+		"french": "Vous pouvez modifier les règles comme bon vous semble.",
     },
 	"continue": {
 		"english": "Continue",
@@ -3598,111 +3600,147 @@
 		"russian": "Выбор нескольких жителей",
 	},
     "availableSkills": {
-        "english": "Available Skills"
+        "english": "Available Skills",
+		"french": "Compétences disponibles",
     },
     "customizeColonist": {
-        "english": "Customize Colonist"
+        "english": "Customize Colonist",
+		"french": "Personnaliser le colonisateur",
     },
     "sandboxSettings": {
-        "english": "Sandbox Settings"
+        "english": "Sandbox Settings",
+		"french": "Paramètres du bac à sable",
     },
     "sandboxSettingsChanged": {
-        "english": "Sandbox Settings Changed"
+        "english": "Sandbox Settings Changed",
+		"french": "Paramètres du bac à sable modifiés",
     },
     "sandboxNotice": {
-        "english": "Changing the sandbox settings will disable achievements!\nShould the changes to the sandbox settings be applied?"
+        "english": "Changing the sandbox settings will disable achievements!\nShould the changes to the sandbox settings be applied?",
+		"french": "La modification des paramètres du bac à sable désactivera les succès !\nLes modifications apportées aux paramètres du bac à sable doivent-elles être appliquées ?",
     },
     "damageToColonistsMultiplier": {
-        "english": "Damage to Colonists Multiplier"
+        "english": "Damage to Colonists Multiplier",
+		"french": "Multiplicateur des dégâts causés aux colons",
     },
     "gamePace": {
-        "english": "Game Pacing"
+        "english": "Game Pacing",
+		"french": "Rythme du jeu",
     },
     "everythingUnlocked": {
-        "english": "Everything Unlocked"
+        "english": "Everything Unlocked",
+		"french": "Tout est débloqué",
     },
     "startingResources": {
-        "english": "Starting Resources Amount"
+        "english": "Starting Resources Amount",
+		"french": "Montant des ressources de départ",
     },
     "buildingCosts": {
-        "english": "Building Costs"
+        "english": "Building Costs",
+		"french": "Coûts de construction",
     },
     "badEventsFrequency": {
-        "english": "Bad Events Frequency"
+        "english": "Bad Events Frequency",
+		"french": "Fréquence des mauvais événements",
     },
     "tributesFrequency": {
-        "english": "Tributes Frequency"
+        "english": "Tributes Frequency",
+		"french": "Fréquence des tributs",
     },
     "onlyPositiveThoughts": {
-        "english": "Only Positive Thoughts"
+        "english": "Only Positive Thoughts",
+		"french": "Seulement des pensées positives",
     },
     "colonistBaseMood": {
-        "english": "Colony's Base Mood"
+        "english": "Colony's Base Mood",
+		"french": "Bonheur de base de la colonie",
     },
     "colonistNeeds": {
-        "english": "Colonist Needs"
+        "english": "Colonist Needs",
+		"french": "Besoins des colons",
     },
     "immortalColonists": {
-        "english": "Immortal Colonists"
+        "english": "Immortal Colonists",
+		"french": "Colons immortels",
     },
     "difficultySettings": {
-        "english": "Difficulty Settings"
+        "english": "Difficulty Settings",
+		"french": "Paramètres de difficulté",
     },
     "achievements": {
-        "english": "Achievements"
+        "english": "Achievements",
+		"french": "Succès",
     },
     "normalAchievements": {
-        "english": "Normal Achievements"
+        "english": "Normal Achievements",
+		"french": "Succès normaux",
     },
     "challengerAchievement": {
-        "english": "Challenger Achievement"
+        "english": "Challenger Achievement",
+		"french": "Succès difficiles",
     },
     "available": {
-        "english": "Available"
+        "english": "Available",
+		"french": "Disponible",
     },
     "disabled": {
-        "english": "Disabled"
+        "english": "Disabled",
+		"french": "Désactivé",
     },
     "Reasons": {
-        "english": "Reasons"
+        "english": "Reasons",
+		"french": "Raisons",
     },
     "mods": {
-        "english": "Mods"
+        "english": "Mods",
+		"french": "Mods",
     },
     "cheats": {
-        "english": "Cheats"
+        "english": "Cheats",
+		"french": "Triche",
     },
     "unchanged": {
-        "english": "Unchanged"
+        "english": "Unchanged",
+		"french": "Inchangé",
     },
     "changed": {
-        "english": "Changed"
+        "english": "Changed",
+		"french": "Changé",
     },
     "isNotHard": {
-        "english": "Is not Hard"
+        "english": "Is not Hard",
+		"french": "N'est pas difficile",
     },
     "defaultGamePace": {
-        "english": "Original - Slower"
+        "english": "Original - Slower",
+		"french": "Original - Plus lent",
     },
     "gamePaceTooltip": {
-        "english": "Changes the speed of work interaction, learning and ... which allows you to play through the game more quickly or slowly."
+        "english": "Changes the speed of work interaction, learning and ... which allows you to play through the game more quickly or slowly.",
+		"french": "Modifie la vitesse d'interaction et d'apprentissage ce qui vous permet de jouer plus rapidement ou plus lentement.",
     },
     "fastGamePace": {
-        "english": "Updated - Faster"
+        "english": "Updated - Faster",
+		"french": "Nouveau - Rapide",
     },
     "low": {
-        "english": "Low"
+        "english": "Low",
+		"french": "Faible",
     },
     "moderate": {
-        "english": "Moderate"
+        "english": "Moderate",
+		"french": "Modéré",
     },
     "high": {
-        "english": "High"
+        "english": "High",
+		"french": "Élevé",
     },
     "veryHigh": {
-        "english": "Very High"
+        "english": "Very High",
+		"french": "Très élevé",
     },
     "confinedCursor": {
-        "english": "Confined Cursor"
+        "english": "Confined Cursor",
+		"french": "Curseur restreint",
     }
 }

@@ -2191,7 +2191,7 @@
 	},
 	"autoEatTooltip_Title": {
 		"english": "Auto Eat",
-		"french": "Manger auto.",
+		"french": "Manger automatiquement",
 	},
 	"autoEatTooltip_Desc": {
 		"english": "When enabled, your colonists will eat when their hunger is below 20% regardless of hour type",
@@ -2203,7 +2203,7 @@
 	},
 	"autoSleepTooltip_Title": {
 		"english": "Auto Sleep",
-		"french": "Dormir auto.",
+		"french": "Dormir automatiquement",
 	},
 	"autoSleepTooltip_Desc": {
 		"english": "When enabled, your colonists will sleep when their energy is below 15% regardless of hour type",
@@ -5052,7 +5052,7 @@
     },
     "colonyWide": {
         "english": "Colony-wide",
-		"french": "À l'échelle de la colonie",
+		"french": "Colonie",
     },
     "workHourType": {
         "english": "Work",
@@ -5068,11 +5068,11 @@
     },
     "freeHourType": {
         "english": "Free/Socialize",
-		"french": "Libre/Socialisation",
+		"french": "Libre/Social",
     },
     "freeHourTypeTooltip_Title": {
         "english": "Free/Socialize Hour",
-		"french": "Heure libre/socialisation",
+		"french": "Heure libre/de socialisation",
     },
     "freeHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will relax, socialize, and do hobbies (no Work!)",
@@ -5112,7 +5112,7 @@
     },
     "eatOnlyAtHouse": {
         "english": "Eat Only at House",
-		"french": "Manger uniquement à la maison",
+		"french": "Manger chez soi",
     },
     "eatOnlyAtHouseTooltip_Title": {
         "english": "Eat Only at Own House",
@@ -5120,7 +5120,7 @@
     },
     "eatOnlyAtHouseTooltip_Desc": {
         "english": "When enabled, colonists will prioritize eating at their own house",
-		"french": "Lorsqu'il sera activé, les colons donneront la priorité aux repas dans leur propre maison.",
+		"french": "Lorsque cette option est activée, les colons donneront la priorité aux repas dans leur propre maison.",
     },
     "small": {
         "english": "Small",

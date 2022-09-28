@@ -3096,10 +3096,12 @@
 	},
     "difficulty_3_Title": {
         "english": "Custom Difficulty",
+        "german": "Eigene Schwierigkeit",
 		"french": "Difficulté personnalisée",
     },
     "difficulty_3_Desc": {
         "english": "You are able to modify the rules how ever you see fit.",
+        "german": "Du kannst die Regeln nach Belieben verändern.",
 		"french": "Vous pouvez modifier les règles comme bon vous semble.",
     },
 	"continue": {
@@ -3601,146 +3603,182 @@
 	},
     "availableSkills": {
         "english": "Available Skills",
+        "german": "Verfügbare Fähigkeiten",
 		"french": "Compétences disponibles",
     },
     "customizeColonist": {
         "english": "Customize Colonist",
+        "german": "Kolonist anpassen",
 		"french": "Personnaliser le colon",
     },
     "sandboxSettings": {
         "english": "Sandbox Settings",
+        "german": "Sandbox-Einstellungen",
 		"french": "Paramètres du bac à sable",
     },
     "sandboxSettingsChanged": {
         "english": "Sandbox Settings Changed",
+        "german": "Sandbox-Einstellungen geändert",
 		"french": "Paramètres du bac à sable modifiés",
     },
     "sandboxNotice": {
         "english": "Changing the sandbox settings will disable achievements!\nShould the changes to the sandbox settings be applied?",
+        "german": "Wenn du die Sandbox-Einstellungen änderst, werden Errungenschaften deaktiviert!\nSollen die Änderungen angewandt werden?",
 		"french": "La modification des paramètres du bac à sable désactivera les succès !\nLes modifications apportées aux paramètres du bac à sable doivent-elles être appliquées ?",
     },
     "damageToColonistsMultiplier": {
         "english": "Damage to Colonists Multiplier",
+        "german": "Schadensmultiplikator für Kolonisten",
 		"french": "Multiplicateur des dégâts causés aux colons",
     },
     "gamePace": {
         "english": "Game Pacing",
+        "german": "Spielgeschwindigkeit",
 		"french": "Rythme du jeu",
     },
     "everythingUnlocked": {
         "english": "Everything Unlocked",
+        "german": "Alles freigeschalten",
 		"french": "Tout est débloqué",
     },
     "startingResources": {
         "english": "Starting Resources Amount",
+        "german": "Menge der Anfangsressourcen",
 		"french": "Montant des ressources de départ",
     },
     "buildingCosts": {
         "english": "Building Costs",
+        "german": "Baukosten",
 		"french": "Coûts de construction",
     },
     "badEventsFrequency": {
         "english": "Bad Events Frequency",
+        "german": "Anzahl schlechter Ereignisse",
 		"french": "Fréquence des mauvais événements",
     },
     "tributesFrequency": {
         "english": "Tributes Frequency",
+        "german": "Anzahl der Tributforderungen",
 		"french": "Fréquence des tributs",
     },
     "onlyPositiveThoughts": {
         "english": "Only Positive Thoughts",
+        "german": "Nur positive Gedanken",
 		"french": "Seulement des pensées positives",
     },
     "colonistBaseMood": {
         "english": "Colony's Base Mood",
+        "german": "Grundstimmung in der Kolonie",
 		"french": "Bonheur de base de la colonie",
     },
     "colonistNeeds": {
         "english": "Colonist Needs",
+        "german": "Kolonistenbedürfnisse",
 		"french": "Besoins des colons",
     },
     "immortalColonists": {
         "english": "Immortal Colonists",
+        "german": "Unsterbliche Kolonisten",
 		"french": "Colons immortels",
     },
     "difficultySettings": {
         "english": "Difficulty Settings",
+        "german": "Schwierigkeitseinstellungen",
 		"french": "Paramètres de difficulté",
     },
     "achievements": {
         "english": "Achievements",
+        "german": "Errungenschaften",
 		"french": "Succès",
     },
     "normalAchievements": {
         "english": "Normal Achievements",
+        "german": "Normale Errungenschaften",
 		"french": "Succès normaux",
     },
-    "challengerAchievement": {
+    "challengerAchievement": { // refers to the "challenger" achievement. Check achievements.json
         "english": "Challenger Achievement",
+        "german": "Herausforderer-Errungenschaft",
 		"french": "Succès difficiles",
     },
     "available": {
         "english": "Available",
+        "german": "Verfügbar",
 		"french": "Disponible",
     },
     "disabled": {
         "english": "Disabled",
+        "german": "Deaktiviert",
 		"french": "Désactivé",
     },
     "Reasons": {
         "english": "Reasons",
+        "german": "Gründe",
 		"french": "Raisons",
     },
     "mods": {
         "english": "Mods",
+        "german": "Mods",
 		"french": "Mods",
     },
     "cheats": {
         "english": "Cheats",
+        "german": "Cheats",
 		"french": "Triche",
     },
     "unchanged": {
         "english": "Unchanged",
+        "german": "Unverändert",
 		"french": "Inchangé",
     },
     "changed": {
         "english": "Changed",
+        "german": "Verändert",
 		"french": "Changé",
     },
     "isNotHard": {
-        "english": "Is not Hard",
+        "english": "Difficulty not hard",
+        "german": "Schwierigkeit nicht schwer",
 		"french": "N'est pas difficile",
     },
     "defaultGamePace": {
         "english": "Original - Slower",
+        "german": "Original - Langsamer",
 		"french": "Original - Plus lent",
     },
     "gamePaceTooltip": {
-        "english": "Changes the speed of work interaction, learning and ... which allows you to play through the game more quickly or slowly.",
+        "english": "Changes the speed of working and learning which allows you to play through the game more quickly or slowly.",
+        "german": "Ändert die Geschwindigkeit von Arbeit und Lernen, wodurch du das Spiel schneller oder langsamer spielen kannst.",
 		"french": "Modifie la vitesse d'interaction et d'apprentissage ce qui vous permet de jouer plus rapidement ou plus lentement.",
     },
     "fastGamePace": {
         "english": "Updated - Faster",
+        "german": "Aktualisiert - Schneller",
 		"french": "Nouveau - Rapide",
     },
     "low": {
         "english": "Low",
+        "german": "Niedrig",
 		"french": "Faible",
     },
     "moderate": {
         "english": "Moderate",
+        "german": "Mittel",
 		"french": "Modéré",
     },
     "high": {
         "english": "High",
+        "german": "Hoch",
 		"french": "Élevé",
     },
     "veryHigh": {
         "english": "Very High",
+        "german": "Sehr hoch",
 		"french": "Très élevé",
     },
     "confinedCursor": {
         "english": "Confined Cursor",
+        "german": "Maus begrenzt auf Fenster",
 		"french": "Curseur restreint",
-    }
+    },
 }

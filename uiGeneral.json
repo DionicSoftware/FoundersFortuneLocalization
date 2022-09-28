@@ -3713,6 +3713,7 @@
     },
     "enabled": {
         "english": "Enabled",
+        "german": "Aktiv",
 		"french": "Activé",
     },
     "Reasons": {
@@ -3740,12 +3741,14 @@
         "german": "Verändert",
 		"french": "Changé",
     },
-    "isNotHard": {
+    "isNotHard": { // world settings, explanation for why challenger achievement active or not ("Difficulty: Not Hard")
         "english": "Not Hard",
+        "german": "Nicht schwer",
 		"french": "N'est pas difficile",
     },
     "isHard": {
-        "english": "Is Hard",
+        "english": "Hard",
+        "german": "Schwer",
 		"french": "Est difficile",
     },
     "defaultGamePace": {

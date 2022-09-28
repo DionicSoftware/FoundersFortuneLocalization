@@ -4891,6 +4891,7 @@
 	},
     "achievements_off_sandbox": {
         "english":  "Achievements are disabled because you have changed sandbox settings.",
+		"french": "Les succès sont désactivés parce que vous avez modifié les paramètres du bac à sable.",
     },
 	"achievements_off_cheats": {
 		"english":  "Achievements are disabled because you have used developer mode.",
@@ -5238,7 +5239,8 @@
     },
     "schedule": {
         "english": "Schedules",
-        "german": "Zeitpläne"
+        "german": "Zeitpläne",
+		"french": "Programmes",
     },
     "followColonyWideSchedule_Title": {
         "english": "Follow Colony-wide Schedule",
@@ -5251,10 +5253,12 @@
 		"french": "Lorsque cette option est activée, le programme de la colonie remplacera le programme du colon.",
     },
     "paintingCompleted": {
-        "english": "Painting Completed"
+        "english": "Painting Completed",
+		"french": "Peinture terminée",
     },
     "changeAge": {
-        "english": "Change Age"
+        "english": "Change Age",
+		"french": "Changer l'âge",
     },
-    
+
 }

@@ -1234,28 +1234,36 @@
 		"czech": "Zkus Léčbu chřipky",
 	},
     "RemovePainting": {
-        "english": "Remove Painting"
+        "english": "Remove Painting",
+		"french": "Retirer la peinture",
     },
     "Paint": {
-        "english": "Paint"
+        "english": "Paint",
+		"french": "Peindre",
     },
     "PlayInstrument": {
-        "english": "Play Instrument"
+        "english": "Play Instrument",
+		"french": "Jouer de la musique",
     },
     "CareForPlants": {
-        "english": "Care for Plants"
+        "english": "Care for Plants",
+		"french": "Prendre soin des plantes",
     },
     "ReadBook": {
-        "english": "Read Book"
+        "english": "Read Book",
+		"french": "Lire le livre",
     },
     "WriteBook": {
-        "english": "Write Book"
+        "english": "Write Book",
+		"french": "Écrire un livre",
     },
     "DoMasonry": {
-        "english": "Do Masonry"
+        "english": "Do Masonry",
+		"french": "Faire de la maçonnerie",
     },
     "DoWoodworking": {
-        "english": "Do Woodworking"
+        "english": "Do Woodworking",
+		"french": "Faire de la menuiserie",
     },
 	"interaction_analyzeCrystal": {
 		"english": "Analyze Crystal",
@@ -1564,7 +1572,7 @@
 		"spanish": "Lleva a la cama",
 		"dutch": "Naar bed dragen",
 		"portuguese": "Levar para a cama",
-		"turkish": "Yatağa taşı", 
+		"turkish": "Yatağa taşı",
 		"russian": "Отнести на кровать",
 		"ukrainian":"Перенести на ліжко",
 		"korean": "침대로 운반하기",
@@ -1581,7 +1589,7 @@
 		"french": "Déséquipper l'outil",
 		"spanish": "Desequipa la herramienta",
 		"portuguese": "Desequipar Ferramenta",
-		"turkish": "Aleti bırak", 
+		"turkish": "Aleti bırak",
 		"russian": "Сложить инструмент",
 		"dutch": "Gereedschap Wegleggen",
 		"ukrainian":"Скласти інструмент",
@@ -1600,7 +1608,7 @@
 		"spanish": "Desequipa la vestimenta",
 		"portuguese": "Desequipar Roupas",
 		"dutch": "Kleding Wegleggen",
-		"turkish": "Kıyafetleri çıkar", 
+		"turkish": "Kıyafetleri çıkar",
 		"russian": "Снять одежду",
 		"ukrainian":"Зняти одяг",
 		"korean": "의상 벗기",
@@ -1700,7 +1708,7 @@
 		"polish": "Wypij piwo",
 		"japanese":"ビールを飲む",
 		"czech": "Pij pivo",
-		
+
 	},
 	"Dance": {
 		"english": "Dance",
@@ -1993,7 +2001,7 @@
 		"japanese":"%name%に冗談を言う",
 		"czech": "Řekni odvážný vtip %name%",
 		"korean": "%name%에게 위험한 농담 걸기",
-		
+
 	},
 	"Impress": {
 		"english": "Impress",
@@ -2009,7 +2017,7 @@
 		"japanese":"誘惑する",
 		"czech": "Zapůsob",
 		"korean": "깊은 인상주기",
-		
+
 	},
 	"ImpressPerson": {
 		"english": "Impress %name%",
@@ -2274,7 +2282,7 @@
 
 
 	// INTERACTIONS WITH FACTIONS (currently used for wishes)
-	
+
 	"TalkToFaction": {
 		"english": "Talk to member of \"%faction%\"",
 		"german": "Mit Mitglied der Fraktion \"%faction%\" reden",
@@ -2412,7 +2420,7 @@
 		"french": "Ne peut pas marcher à cause de sa jambe cassée",
 		"spanish": "No puede caminar, debido a una pierna rota",
 		"portuguese": "Não pode andar por causa de perna quebrada",
-		"turkish": "Bacağı kırık, yürüyemiyor", 
+		"turkish": "Bacağı kırık, yürüyemiyor",
 		"dutch": "Kan vanwege gebroken been niet lopen",
 		"russian": "Вы не можете передвигаться со сломанной ногой.",
 		"ukrainian":"Ви не можете пересуватися зі зламаною ногою.",
@@ -2431,7 +2439,7 @@
 		"spanish": "No puede trabajar, debido a un brazo roto",
 		"portuguese": "Não pode andar por causa de braço quebrado",
 		"dutch": "Kan vanwege gebroken arm niet werken",
-		"turkish": "Kolu kırık, çalışamaz", 
+		"turkish": "Kolu kırık, çalışamaz",
 		"russian": "Не может работать из-за сломанной руки",
 		"ukrainian":"Не може працювати через зламану руки",
 		"korean": "팔이 부러져서 일할 수 없습니다",
@@ -2680,7 +2688,7 @@
 		"dutch": "Hoeft geen %resource% te analyzeren voor dit onderzoek",
 		"turkish": "Şimdiki araştırma konusu için %resource% analiz etmeye gerek yok",
 		"russian": "Не нужно анализировать %resource% в текущем исследовании",
-		"ukrainian":"Не потрібно аналізувати %resource% в поточному дослідженні", 
+		"ukrainian":"Не потрібно аналізувати %resource% в поточному дослідженні",
 		"korean": "현재 진행중인 연구에는 %resource%#{가} 필요하지 않습니다",
 		"arabic":"ﻲﻟﺎﺤﻟﺍ ﺚﺤﺒﻠﻟ %resource% ﻞﻴﻠﺤﺘﻟ ﺔﺟﺎﺣ ﻻ",
 		"chinese": "当前研究不需要分析%resource%",
@@ -2696,7 +2704,7 @@
 		"spanish": "No le pertenece a %firstName%",
 		"dutch": "%firstName% is hier niet de eigenaar van",
 		"portuguese": "Não pertence a %firstName%",
-		"turkish": "%firstName% sahipliğinde değil", 
+		"turkish": "%firstName% sahipliğinde değil",
 		"russian": "Не принадлежит %firstName%",
 		"ukrainian":"Не належить %firstName%",
 		"korean": "%firstName%#{이} 소유한 물건이 아닙니다",
@@ -2755,7 +2763,8 @@
 		"korean": "다음의 스킬을 가지고 있지 않습니다: %skill%",
 	},
     "noOneHasWorkedOnPainting": {
-        "english": "No one has worked on painting yet"
+        "english": "No one has worked on painting yet",
+		"french": "Personne n'a encore travaillé sur la peinture",
     }
-	
+
 }

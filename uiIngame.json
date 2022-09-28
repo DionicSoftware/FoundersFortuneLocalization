@@ -4889,6 +4889,9 @@
 		"italian": "Gli obiettivi sono disabilitati perché hai delle mod installate.",
 		"russian": "Достижения отключены, потому что у вас установлены моды."
 	},
+    "achievements_off_sandbox": {
+        "english":  "Achievements are disabled because you have changed sandbox settings.",
+    },
 	"achievements_off_cheats": {
 		"english":  "Achievements are disabled because you have used developer mode.",
 		"german":  "Errungenschaften sind deaktiviert, da du den Entwicklermodus verwendet hast.",
@@ -5233,6 +5236,10 @@
         "german": "Ändern",
 		"french": "Changeons-la",
     },
+    "schedule": {
+        "english": "Schedules",
+        "german": "Zeitpläne"
+    },
     "followColonyWideSchedule_Title": {
         "english": "Follow Colony-wide Schedule",
         "german": "Dem kolonie-weiten Zeitplan folgen",
@@ -5242,5 +5249,12 @@
         "english": "When enabled, the colony-wide schedule will override the colonist's schedule",
         "german": "Wenn aktiv wird der kolonie-weite Zeitplan den Zeitplan des Kolonisten überschreiben.",
 		"french": "Lorsque cette option est activée, le programme de la colonie remplacera le programme du colon.",
-    }
+    },
+    "paintingCompleted": {
+        "english": "Painting Completed"
+    },
+    "changeAge": {
+        "english": "Change Age"
+    },
+    
 }

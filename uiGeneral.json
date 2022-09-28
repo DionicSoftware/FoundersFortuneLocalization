@@ -3711,6 +3711,9 @@
         "german": "Deaktiviert",
 		"french": "Désactivé",
     },
+    "enabled": {
+        "english": "Enabled",
+    },
     "Reasons": {
         "english": "Reasons",
         "german": "Gründe",
@@ -3737,9 +3740,10 @@
 		"french": "Changé",
     },
     "isNotHard": {
-        "english": "Difficulty not hard",
-        "german": "Schwierigkeit nicht schwer",
-		"french": "N'est pas difficile",
+        "english": "Not Hard",
+    },
+    "isHard": {
+        "english": "Is Hard"
     },
     "defaultGamePace": {
         "english": "Original - Slower",

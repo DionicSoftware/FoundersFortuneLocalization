@@ -1233,6 +1233,30 @@
 		"japanese":"インフルエンザを治療",
 		"czech": "Zkus Léčbu chřipky",
 	},
+    "RemovePainting": {
+        "english": "Remove Painting"
+    },
+    "Paint": {
+        "english": "Paint"
+    },
+    "PlayInstrument": {
+        "english": "Play Instrument"
+    },
+    "CareForPlants": {
+        "english": "Care for Plants"
+    },
+    "ReadBook": {
+        "english": "Read Book"
+    },
+    "WriteBook": {
+        "english": "Write Book"
+    },
+    "DoMasonry": {
+        "english": "Do Masonry"
+    },
+    "DoWoodworking": {
+        "english": "Do Woodworking"
+    },
 	"interaction_analyzeCrystal": {
 		"english": "Analyze Crystal",
 		"german": "Kristall analysieren",
@@ -2729,6 +2753,9 @@
 		"japanese":"スキルを持っていません:%skill%",
 		"czech": "Chybí schopnost: %skill%",
 		"korean": "다음의 스킬을 가지고 있지 않습니다: %skill%",
-	}
+	},
+    "noOneHasWorkedOnPainting": {
+        "english": "No one has worked on painting yet"
+    }
 	
 }

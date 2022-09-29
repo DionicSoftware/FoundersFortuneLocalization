@@ -57,7 +57,7 @@
 		"japanese": "%firstName%は傑作を完成させました。そしてその成果をコロニーのコロニストに誇らしげに示しました。\n作成された傑作:%masterpiece%",
 		"chinese": "%firstName%已经完成了%hisHer%杰作.%heShe%很荣幸地在村里展示了%heShe%的劳动成果.\n%cap-heShe%创建了: %masterpiece%",
 		"czech": "%firstName% dokonči%lA% %hisHer% veledílo. Pyšně, %heShe% ukazuje výsledek %hisHer% práce zbytku vesnice.\n%cap-heShe% vytvoři%lA%: %masterpiece%",
-		"korean": "%firstName%#{은} %hisHer%의 걸작을 완성했습니다. 자랑스럽게도,  %heShe%는 %hisHer%의 작업의 결과를 모든 주민들에게 보여주었습니다.\n%cap-heShe% 창조함: %masterpiece%", 
+		"korean": "%firstName%#{은} %hisHer%의 걸작을 완성했습니다. 자랑스럽게도,  %heShe%는 %hisHer%의 작업의 결과를 모든 주민들에게 보여주었습니다.\n%cap-heShe% 창조함: %masterpiece%",
 	},
 	"masterpieceFailed":  {
 		"english": "Masterpiece Failed!",
@@ -86,7 +86,7 @@
 		"italian": "%firstName% ce l'ha messa tutta, ma non è riuscit%OA% a realizzare il suo capolavoro. Tuttavia, ha guadagnato un po' di esperienza ed è salit%OA% di livello come %profession%.",
 		"japanese": "%firstName%は一生懸命に努力しましたが、傑作を生みだす事は出来ませんでした。しかし、この失敗は経験として生かされ、%profession%はレベルアップしました。",
 		"chinese": "%firstName%已经尽力了,虽然未能完成%heShe%杰作,但至少%heShe%从中获得不少经验,并升级为%profession%.",
-		"korean": "%firstName%#{은} 열심히 노력했습니다. 하지만 걸작을 만들어내는데 실패했습니다. 적어도 %heShe%#{은} 경험을 얻었고 %profession%의 레벨이 상승하게 되었습니다.", 
+		"korean": "%firstName%#{은} 열심히 노력했습니다. 하지만 걸작을 만들어내는데 실패했습니다. 적어도 %heShe%#{은} 경험을 얻었고 %profession%의 레벨이 상승하게 되었습니다.",
 		"czech": "%firstName% se tak moc snaži%lA%, ale %heShe% nedokáza%lA% udělat své veledílo. Alespoň %heShe% získa%lA% nějaké zkušenosti a postup na vyšší úroveň jako %profession%.",
 	},
 	"collectItems": {
@@ -167,7 +167,7 @@
 	"haveStorageForItems": {
 		"english": "Have storage for %items%",
 		"german":  "Habe Lagerplatz für %items%",
-		"french": "Avoir un stockage pour %items%",
+		"french": "Avoir une réserve de %items%",
 		"spanish": "Tener almacén para %items%",
 		"dutch": "Hebben opslagruimte voor %items%",
 		"russian": "Иметь хранилище для %items%",
@@ -485,7 +485,7 @@
 		"chinese": "最近%firstName%一直在噩梦中梦到在前不久逝世了的朋友%ghostName%鬼魂.一直重复着相同的梦境,%firstName%迷失在这梦境中.%cap-heShe%想要接受过去,并打算每晚献祭一些物品,以表明%heShe%对已离开的朋友的怀念.",
 		"czech": "Nedávno mě%lA% %firstName% noční můry o svém starém příteli %ghostName%, kter%yA% před nějakou dobou zemře%lA%. Je to stále stejný sen. %firstName% kles%lA% hluboko do jeho myšlenek. %firstName% chce uzavřít mír s minulostí a plánuje každou noc něco obětovat, aby ukáza%lA% svému zesnulému příteli, že to má stále na paměti.",
 		"russian": "В последнее время %firstName% снились кошмары о %hisHer% старом друге %ghostName%, который некоторое время назад умер. Всегда один и тот же сон. %firstName% глубоко погрузился в %hisHer% мысли. %cap-heShe% хочет примириться с прошлым и планирует каждую ночь жертвовать некоторыми предметами, чтобы показать ушедшему другу, что он заботится.",
-		"korean": "요즘 %firstName%#{은} 오래전 사망한 옛 친구 %ghostName%에 대한 악몽을 꾸기 시작했습니다. 항상 똑같은 꿈이죠. 과거를 극복하기로 마음먹은 %firstName%#{은} 매일 밤 특정 물건을 제물로 바칠 계획을 세웁니다. 자신이 친구를 아낀다는 것을 보여줄 수 있도록요.", 
+		"korean": "요즘 %firstName%#{은} 오래전 사망한 옛 친구 %ghostName%에 대한 악몽을 꾸기 시작했습니다. 항상 똑같은 꿈이죠. 과거를 극복하기로 마음먹은 %firstName%#{은} 매일 밤 특정 물건을 제물로 바칠 계획을 세웁니다. 자신이 친구를 아낀다는 것을 보여줄 수 있도록요.",
 
 	},
 	"quest_ghostFriendlyGhostAppearedTitle": {
@@ -654,7 +654,7 @@
 		"japanese": "%firstName%に別れの会話をする",
 		"czech": "Rozluč se s %firstName%",
 		"russian": "Попрощаться с %firstName%",
-		"korean": "%firstName%에게 작별하기", 
+		"korean": "%firstName%에게 작별하기",
 	},
 	"quest_ghostFreeSoul": {
 		"english": "Free %firstName%'s soul",
@@ -752,7 +752,7 @@
 		"japanese": "%days%日の%daytime%まで待つ",
 		"czech": "Počkej do %daytime% %days% dny ode dneška",
 		"russian": "Подождите до %daytime% %days% дней, начиная с сегодняшнего",
-		"korean": "지금부터  %daytime% %days%일 기다리기", 
+		"korean": "지금부터  %daytime% %days%일 기다리기",
 	},
 }
 

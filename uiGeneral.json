@@ -3040,7 +3040,7 @@
 	"difficulty_1_Desc": {
 		"english": "The typical Founders' Fortune experience, mixing base building with survival.\nThe colony starts with 40 meals.\nSometimes colonists may die even though you try your best.",
 		"german": "Die typische Founders' Fortune Mischung aus kreativem Bauen und Überlebenskampf.\nDie Kolonie startet mit 40 Mahlzeiten.\nManchmal könnten Kolonisten sterben, auch wenn du dein Bestes gibst.",
-		"french": "L'expérience classique de Founders' Fortune, un mix entre la construction de bâtiments et la survie.\nLa colonie démarre avec 40 repas.\nParfois les colons pourront mourrir même si vous faites de votre mieux.",
+		"french": "L'expérience classique de Founders' Fortune, un mix entre la construction de bâtiments et la survie.\nLa colonie démarre avec 40 repas.\nLes colons peuvent parfois mourir, même si vous faites de votre mieux.",
 		"spanish": "La experiencia típica de Founders' Fortune, combinando la construcción de bases con la supervivencia. La colonia comienza con 40 de comida. A veces, los colonos pueden morir, incluso si haces tu mejor esfuerzo ",
 		"turkish": "Tipik Founders' Fortune deneyimi, üs kurmayla hayatta kalma karışımı.\nYerleşim 40 yemekle başlar.\nElinizden geleni yapmanıza rağmen yerleşimcileriniz ölebilir.",
 		"portuguese": "A experiência típica dos Founder's Fortune, misturando a base com a sobrevivência.\nA colônia começa com 40 refeições.\nAlgumas vezes os colonos podem morrer mesmo que você tente o seu melhor.",
@@ -3614,12 +3614,12 @@
     "sandboxSettings": {
         "english": "Sandbox Settings",
         "german": "Sandbox-Einstellungen",
-		"french": "Paramètres du bac à sable",
+		"french": "Paramètres de bac à sable",
     },
     "sandboxSettingsChanged": {
         "english": "Sandbox Settings Changed",
         "german": "Sandbox-Einstellungen geändert",
-		"french": "Paramètres du bac à sable modifiés",
+		"french": "Paramètres de bac à sable modifiés",
     },
     "sandboxNotice": {
         "english": "Changing the sandbox settings will disable achievements!\nShould the changes to the sandbox settings be applied?",
@@ -3694,12 +3694,12 @@
     "normalAchievements": {
         "english": "Normal Achievements",
         "german": "Normale Errungenschaften",
-		"french": "Succès normaux",
+		"french": "Succès normaux :",
     },
     "challengerAchievement": { // refers to the "challenger" achievement. Check achievements.json
         "english": "Challenger Achievement",
         "german": "Herausforderer-Errungenschaft",
-		"french": "Succès difficiles",
+		"french": "Succès « Challenger » :",
     },
     "available": {
         "english": "Available",
@@ -3744,7 +3744,7 @@
     "isNotHard": { // world settings, explanation for why challenger achievement active or not ("Difficulty: Not Hard")
         "english": "Not Hard",
         "german": "Nicht schwer",
-		"french": "N'est pas difficile",
+		"french": "Pas difficile",
     },
     "isHard": {
         "english": "Hard",

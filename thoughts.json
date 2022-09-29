@@ -258,7 +258,7 @@
 		"english": "A new beginning! Let's make ourselves at home here!",
 		"german": "Ein neuer Anfang! Lass es uns hier gemütlich machen!",
 		"spanish": "¡Un nuevo comienzo! ¡Pongámonos cómodos aquí!",
-		"french": "Un nouveau départ ! Faisons comme chez nous ici !",
+		"french": "Un nouveau départ ! Faisons comme chez nous !",
 		"turkish": "Yeni bir başlangıç! Burayı kendimize evimiz yapalım!",
 		"portuguese": "Um novo começo! Vamos nos sentir em casa aqui!",
 		"russian": "Новое начало! Давайте жить здесь!",
@@ -2495,10 +2495,12 @@
     "thoughtTitle_BaseMood": { // derives from difficulty setting
         "english": "Base Mood",
         "german": "Grundstimmung",
+		"french": "Humeur de base",
     },
     "thoughtDesc_BaseMood": {
         "english": "It's just something in the air...",
         "german": "Es liegt einfach etwas in der Luft...",
+		"french": "Il y a juste quelque chose dans l'air...",
     },
 
 	// GENERIC MOOD PHRASES

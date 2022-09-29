@@ -2200,7 +2200,7 @@
 	"autoEatTooltip_Desc": {
 		"english": "When enabled, your colonists will eat when their hunger is below 20% regardless of hour type.",
         "german": "Wenn aktiv werden deine Kolonisten automatisch essen sobald ihr Hunger unter 20% ist, egal was im Zeitplan steht.",
-		"french": "Lorsque cette option est activée, vos colons mangeront lorsque leur faim sera inférieure à 20%, quel que soit le type d'heure.",
+		"french": "Lorsque cette option est activée, les colons mangeront lorsque leur faim sera inférieure à 20%, quel que soit le type d'heure.",
 	},
 	"autoSleep": {
 		"english": "Auto sleep",
@@ -2215,7 +2215,7 @@
 	"autoSleepTooltip_Desc": {
 		"english": "When enabled, your colonists will sleep when their energy is below 15% regardless of hour type",
         "german": "Wenn aktiv werden deine Kolonisten automatisch schlafen sobald ihre Energie unter 15% ist, egal was im Zeitplan steht.",
-		"french": "Lorsque cette option est activée, vos colons dormiront lorsque leur énergie sera inférieure à 15%, quel que soit le type d'heure.",
+		"french": "Lorsque cette option est activée, les colons dormiront lorsque leur énergie sera inférieure à 15%, quel que soit le type d'heure.",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -2540,7 +2540,7 @@
 	"storage": {
 		"english": "Storage",
 		"german": "Lager",
-		"french": "Stockage",
+		"french": "Réserve",
 		"spanish": "Almacenamiento",
 		"turkish": "Depolama",
 		"portuguese": "Armazenamento",
@@ -2973,7 +2973,7 @@
 	"activeTraits": {
 		"english": "Active Traits",
 		"german": "Aktive Eigenschaften",
-		"french": "Caractéristiques actives",
+		"french": "Caractères actifs",
 		"spanish": "Atributos activos",
 		"turkish": "Aktif özellikler",
 		"portuguese": "Traços Ativos",
@@ -2993,7 +2993,7 @@
 	"availableTraits": {
 		"english": "Available Traits",
 		"german": "Verfügbare Eigenschaften",
-		"french": "Caractéristiques disponibles",
+		"french": "Caractères disponibles",
 		"spanish": "Atributos disponibles",
 		"turkish": "Kullanılabilir özellikler",
 		"portuguese": "Traços Disponíveis",
@@ -3415,7 +3415,7 @@
 	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
 		"english": "Tool Storage",
 		"german": "Werkzeughalter",
-		"french": "Stockage d'outils",
+		"french": "Réserve d'outils",
 		"dutch": "Gereedschapsrek",
 		"spanish": "Almacén de herramientas",
 		"portuguese": "Armazenamento de Ferramentas",
@@ -3435,7 +3435,7 @@
 	"ClothesStorage": {
 		"english": "Clothes Storage",
 		"german": "Kleidungshalter",
-		"french": "Stockage de vêtements",
+		"french": "Réserve de vêtements",
 		"spanish": "Almacén de ropa",
 		"portuguese": "Armazenamento de Roupas",
 		"dutch": "Kledingrek",
@@ -3455,7 +3455,7 @@
 	"WeaponStorage": {
 		"english": "Weapon Storage",
 		"german": "Waffenhalter",
-		"french": "Stockage d'armes",
+		"french": "Réserve d'armes",
 		"spanish": "Almacén de armas",
 		"portuguese": "Armazenamento de Armas",
 		"turkish": "Silah deposu",
@@ -3475,7 +3475,7 @@
 	"ArmorStorage": {
 		"english": "Armor Storage",
 		"german": "Rüstungshalter",
-		"french": "Stockage d'armures",
+		"french": "Réserve d'armures",
 		"spanish": "Almacén de armaduras",
 		"portuguese": "Armazenamento de Armadura",
 		"turkish": "Zırh deposu",
@@ -3495,7 +3495,7 @@
 	"takeOwnershipOfStorageFurniture": {
 		"english": "Take Ownership of equipment storage furniture to assign equipment",
 		"german": "Nehme Besitz von einem Ausrüstungshalter, um Ausrüstung auswählen zu können",
-		"french": "Prendre possession du mobilier de stockage d'équipement pour attribuer l'équipement",
+		"french": "Prendre possession du mobilier de rangement d'équipement pour attribuer l'équipement",
 		"spanish": "Toma posesión del almacén de equipo para asignarse equipo",
 		"portuguese": "Assumir propriedade de móveis de armazenamento de equipamentos para atribuir equipamentos",
 		"turkish": "Ekipmanı atamak için ekipman depoları sahipliğini al",
@@ -3515,7 +3515,7 @@
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",
 		"german": "Wähle Ausrüstung im Möbelstück",
-		"french": "Sélectionner l'équipement dans le meuble de stockage",
+		"french": "Sélectionner l'équipement dans le meuble de rangement",
 		"spanish": "Selecciona equipo en el mueble de almacén",
 		"portuguese": "Selecione o equipamento no mobiliário de armazenamento",
 		"turkish": "Depodan ekipman seç",
@@ -5146,7 +5146,7 @@
     "eatOnlyAtHouseTooltip_Desc": {
         "english": "When enabled, colonists will prioritize eating at their own house",
         "german": "Wenn aktiv werden deine Kolonisten versuchen in ihrem eigenen Haus zu essen.",
-		"french": "Lorsque cette option est activée, les colons donneront la priorité aux repas dans leur propre maison.",
+		"french": "Lorsque cette option est activée, les colons mangeront en priorité chez eux.",
     },
     "small": {
         "english": "Small",

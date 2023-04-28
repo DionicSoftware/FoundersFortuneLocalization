@@ -16,7 +16,8 @@
 		"czech": "Max:",
 		"romanian": "Max:",
 		"japanese": "最大",
-		"korean": "최대"
+		"korean": "최대",
+		"ukrainian": "Макс.:",
 	},
 	"year_no": {
 		"english": "Year %year%",
@@ -33,7 +34,8 @@
 		"czech": "Rok %year%",
 		"romanian": "Anul %year%",
 		"japanese": "%year%年",
-		"korean": "%year% 년"
+		"korean": "%year% 년",
+		"ukrainian": "%year% рік",
 	},
 	"quest_log": {
 		"english": "Quest Log",
@@ -50,7 +52,8 @@
 		"czech": "Seznam úkolů",
 		"romanian": "Jurnalul de misiuni",
 		"japanese": "クエストログ",
-		"korean": "퀘스트로그"
+		"korean": "퀘스트로그",
+		"ukrainian": "Журнал квестів",
 	},
 	"quest_accept": {
 		"english": "Accept",
@@ -67,7 +70,8 @@
 		"polish": "Akceptuj",
 		"japanese": "受ける",
 		"chinese": "接受",
-		"korean": "수락"
+		"korean": "수락",
+		"ukrainian": "Прийняти",
 	},
 	"quest_decline": {
 		"english": "Decline",
@@ -84,7 +88,8 @@
 		"polish": "Odrzuć",
 		"japanese": "断る",
 		"chinese": "拒绝",
-		"korean": "거절"
+		"korean": "거절",
+		"ukrainian": "Відхилити",
 	},
 	"quest_item_confirm": {
 		"english": "Confirm",
@@ -101,7 +106,8 @@
 		"polish": "Potwierdź",
 		"japanese": "確認",
 		"chinese": "确认",
-		"korean": "확인"
+		"korean": "확인",
+		"ukrainian": "Підтвердити",
 	},
 	"research": {
 		"english": "Research",
@@ -131,7 +137,7 @@
 		"turkish": "Araştırmaya Genel Bakış",
 		"portuguese": "Visão geral da pesquisa",
 		"dutch": "Onderzoek overzicht",
-		"ukrainian":"Обзор досліджень",
+		"ukrainian":"Огляд досліджень",
 		"russian":"Обзор исследований",
 		"chinese": "研究概述",
 		"korean": "연구 목록",
@@ -151,7 +157,7 @@
 		"turkish": "Hepsi kilitli",
 		"portuguese": "Nada desbloqueado.",
 		"dutch": "Niks vrijgespeeld",
-		"ukrainian":"Нічого розблокувати.",
+		"ukrainian":"Нічого не розблоковано.",
 		"russian":"Нечего разблокировать.",
 		"chinese": "没有解锁.",
 		"korean": "아무것도 없습니다.",
@@ -171,7 +177,7 @@
 		"turkish": "Kilitli olmayan nesneler:",
 		"portuguese": "Objetos Desbloqueados:",
 		"dutch": "Vrijgespeelde objecten",
-		"ukrainian":"Буде розблоковано:",
+		"ukrainian":"Розблоковано предмети:",
 		"russian":"Будет разблокировано:",
 		"chinese": "解锁物品:",
 		"korean": "해금된 제작법:",
@@ -202,7 +208,8 @@
 		"polish": "Dyplomacja",
 		"czech": "Diplomacie",
 		"romanian": "Diplomație",
-		"japanese": "外交一覧"
+		"japanese": "外交一覧",
+		"ukrainian":"Дипломатія",
 	},
 	"showOnMap": {
 		"english": "Show Location",
@@ -220,7 +227,8 @@
 		"polish": "Pokaż na mapie",
 		"czech": "Zobrazit na mapě",
 		"romanian": "Afișează locația",
-		"japanese": "位置を確認する"
+		"japanese": "位置を確認する",
+		"ukrainian":"Показати розташування",
 	},
 	"contactFaction": {
 		"english": "Contact",
@@ -238,7 +246,9 @@
 		"polish": "Nawiąż kontakt",
 		"czech": "Kontaktovat",
 		"romanian": "Contactează",
-		"japanese": "交渉をする"
+		"japanese": "交渉をする",
+		"ukrainian":"Зв'язатися",
+		
 	},
 	"relationshipPoints": {
 		"english": "Relationship points:",
@@ -256,7 +266,8 @@
 		"polish": "Poziom relacji:",
 		"czech": "Body vztahů:",
 		"romanian": "Puncte de relație",
-		"japanese": "関係:"
+		"japanese": "関係:",
+		"ukrainian":"Очки відносин",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -274,7 +285,8 @@
 		"polish": "maks.",
 		"czech": "max.",
 		"romanian": "max",
-		"japanese": "最大"
+		"japanese": "最大",
+		"ukrainian":"макс.",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
@@ -292,7 +304,8 @@
 		"polish": "Relacje nautralne",
 		"czech": "Neutrální vztahy",
 		"romanian": "Relații neutre",
-		"japanese": "中立"
+		"japanese": "中立",
+		"ukrainian":"Нейтральні відносини",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
@@ -310,7 +323,8 @@
 		"polish": "Pokój (%seconds% sek.)",
 		"czech": "Příměří (%seconds% s)",
 		"romanian": "Armistițiu (%seconds% s)",
-		"japanese": "休戦(%seconds%秒)"
+		"japanese": "休戦(%seconds%秒)",
+		"ukrainian":"Перемир'я (%seconds% сек.)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
@@ -328,7 +342,8 @@
 		"polish": "zaatakują, gdy tylko zobaczą",
 		"czech": "Zaútočí na potkání",
 		"romanian": "Va ataca la vedere",
-		"japanese": "敵対"
+		"japanese": "敵対",
+		"ukrainian":"Нападуть лишень побачать",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -346,7 +361,8 @@
 		"polish": "Napięte relacje",
 		"czech": "Napjaté vztahy",
 		"romanian": "Relații tensionate",
-		"japanese": "緊張"
+		"japanese": "緊張",
+		"ukrainian":"Напружені відносини",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
@@ -364,7 +380,8 @@
 		"polish": "Przyjazne relacje",
 		"czech": "Přátelské vztahy",
 		"romanian": "Relații de prietenie",
-		"japanese": "親密"
+		"japanese": "親密",
+		"ukrainian":"Дружні відносини",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
@@ -382,7 +399,8 @@
 		"polish": "Przyjaźń, jeśli relacje osiągną poziom %friendlyLimit%. \nJeśli relacje są poniżej poziomu %attackingLimit% zatakują bez wahania.",
 		"czech": "Přátelské, pokud jsou vztahy přes %friendlyLimit%.\nZaútočí na potkání pokud jsou vzahy méně než %attackingLimit%.",
 		"romanian": "Prietenos dacă relațiile depășesc %friendlyLimit%.\nAtacă la vedere dacă relațiile sunt sub %attackingLimit%.",
-		"japanese": "関係が%friendlyLimit%を超えると親密となります。\n%attackingLimit%未満の場合は敵対となり近づくと攻撃されます。"
+		"japanese": "関係が%friendlyLimit%を超えると親密となります。\n%attackingLimit%未満の場合は敵対となり近づくと攻撃されます。",
+		"ukrainian":"Дружні, якщо відносини вище ніж %friendlyLimit%.\nНападуть лишень побачать якщо відносини нижче ніж %attackingLimit%.",
 	},
 	"switchFloors": {
 		"english": "Switch Floors",
@@ -400,7 +418,8 @@
 		"czech": "Přepnutí podlaží",
 		"romanian": "Schimbă etajele",
 		"japanese": "現在基準とする階",
-		"korean": "층계 전환"
+		"korean": "층계 전환",
+		"ukrainian":"Перемкнути поверх",
 	},
 	"switchFloorsDescription": {
 		"english": "Click here to switch to a different floor.\nDefault hotkeys: R/F",
@@ -418,7 +437,8 @@
 		"czech": "Klikněte zde pro přepnutí do jiného podlaží.\nVýchozí klávesy: R/F",
 		"romanian": "Clicați aici pentru a trece la un alt etaj.\nComenzi rapide implicite: R/F",
 		"japanese": "表示、建築する階を表します。階の表示が違うので注意してください。",
-		"korean": "다른 층으로 전환하기 위해 이곳을 클릭하세요.\nDefault hotkeys: R/F"
+		"korean": "다른 층으로 전환하기 위해 이곳을 클릭하세요.\nDefault hotkeys: R/F",
+		"ukrainian":"Клацніть тут щоб перемкнутись на інший поверх.\nКлавіші за замовчуванням: R/F",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
@@ -436,7 +456,8 @@
 		"czech": "Stavba na podlaží %floor% stojí o %percentage%% více.",
 		"romanian": "Construcția la etajul %floor% costă cu %percentage%% mai mult.",
 		"japanese": "%floor%階は%percentage%%以上の建設費がかかります。階の表示が違うので注意してください。",
-		"korean": "%floor%층 위의 건설은 %percentage%% 더 듭니다."
+		"korean": "%floor%층 위의 건설은 %percentage%% 더 듭니다.",
+		"ukrainian":"Будівництво на %floor% поверсі коштує на %percentage%% дорожче.",
 	},
 
 
@@ -459,7 +480,7 @@
 		"bulgarian": "Настроение",
 		"czech": "Nálada",
 		"romanian": "Dispoziție",
-		"japanese": "心情"
+		"japanese": "心情",
 	},
 	"friendships": {
 		"english": "Friendships",
@@ -469,7 +490,7 @@
 		"turkish": "Arkadaşlık",
 		"portuguese": "Amizades",
 		"dutch": "Vriendschappen",
-		"ukrainian":"Дружелюбність",
+		"ukrainian":"Дружба",
 		"russian":"Дружелюбность",
 		"chinese": "友谊",
 		"korean": "친밀도",
@@ -509,7 +530,7 @@
 		"turkish": "Dayanıklılık",
 		"portuguese": "Energia",
 		"dutch": "Energie",
-		"ukrainian":"Виносливість",
+		"ukrainian":"Витривалість",
 		"russian":"Выносливость",
 		"chinese": "耐力",
 		"korean": "체력",
@@ -544,7 +565,8 @@
     "fun": { // meaning free time, entertainment
         "english": "Fun",
         "german": "Freizeit",
-		"french": "Amusement",
+	"french": "Amusement",
+	    "ukrainian":"Втіха",
     },
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -554,7 +576,7 @@
 		"turkish": "Yerleşimcileri mutlu tutmazsan, sorun çıkarmaya başlayacaklar, ve emirlerini dinlemeyecekler",
 		"portuguese": "Se você não mantiver seus colonos felizes, eles começarão a ser desafiadores e poderão parar de seguir seus pedidos.",
 		"dutch": "Als je je kolonisten niet blij houdt, beginnen ze uitdagend te worden en volgen ze jouw orders misschien niet meer",
-		"ukrainian":"Якщо не підтримувати гарний настрій поселенців, вони можуть розізлитись і перестати виконувати ваші накази.",
+		"ukrainian":"Якщо не підтримувати гарний настрій у колоністів, вони можуть розізлитись і припинити виконувати ваші накази.",
 		"russian":"Если не поддерживать хорошее настроение поселенцев, они могут вспылить и перестать выполнять ваши приказы.",
 		"chinese": "如果你的殖民者不保持开心的状态,他们会开始反抗,可能会停止服从你的命令.",
 		"korean": "만약 개척자들을 지속적으로 행복하게 해 주지 못한다면, 당신의 명령에 반항하기 시작하고, 결국 어떤 지시도 따르지 않게 될 겁니다.",
@@ -594,7 +616,7 @@
 		"turkish": "Yemek için ya elma topla ya da sebze ek",
 		"portuguese": "Reúna maçãs ou plante colheitas para cuidar dos alimentos.",
 		"dutch": "Verzamel wat Appels of Gewassen om voor eten te zorgen",
-		"ukrainian":"Збирайте яблука або рослинні культури, щоб підтримувати запаси їжі.",
+		"ukrainian":"Збирайте яблука або городину, щоб підтримувати запаси їжі.",
 		"russian":"Собирайте яблоки или высаживайте растения, чтобы поддерживать запасы пищи.",
 		"chinese": "收集苹果或种植庄稼来提供食物.",
 		"korean": "사과를 따거나 작물을 길러 식량에 신경쓰세요.",
@@ -614,7 +636,7 @@
 		"turkish": "Arada bir yerleşimcileri kendi hallerine bırak ki rahatlayabilsinler.",
 		"portuguese": "Dê ao seu colono uma pausa de vez em quando para que ele possa se recuperar.",
 		"dutch": "Om de zoveel tijd hebben jouw kolonisten een pauze nodig zodat ze bij kunnen komen",
-		"ukrainian":"Дозволяйте іноді відпочивати вашим колоністам, щоб вони змогли відновити сили.",
+		"ukrainian":"Дозволяйте колоністам іноді відпочивати, щоб вони могли відновити сили.",
 		"russian":"Позволяйте иногда отдыхать вашим колонистам, чтобы они смогли восстанавливаться.",
 		"chinese": "每隔一段时间让你的殖民者休息一下,这样他们就可以恢复体力了.",
 		"korean": "개척자들에게도 가끔 한 번씩 쉴 시간을 주세요. 쉬어야 회복됩니다.",
@@ -634,7 +656,7 @@
 		"turkish": "Sağlıklarını geri kazanabilmeleri için yerleşimcileri uykuya gönderebilirsin ya da sağlık iksiri verebilirsin.",
 		"portuguese": "Deixe seus colonos dormirem ou dar-lhes poções de cura para aumentar sua saúde.",
 		"dutch": "Laat je kolonisten slapen en of geef ze genezende drankjes om hun gezondheid omhoog te halen",
-		"ukrainian":"Щоб відновити здоров'я колоністу потрібно поспати або використовувати лікувальні зілля.",
+		"ukrainian":"Щоб відновити здоров'я, колоністам потрібно поспати або використати лікувальне зілля.",
 		"russian":"Чтобы восстановить здоровье колонисту нужно поспать или использовать лечебное зелье.",
 		"chinese": "让你的殖民者睡觉,或者给他们治疗药水来治疗生命值.",
 		"korean": "개척자들을 잠자게 하거나, 회복약을 주면 생명력이 회복됩니다.",
@@ -649,7 +671,8 @@
     "needsDescriptionFun": {
         "english": "Give your colonist a chance to have fun every once in a while. Life's not all about work, right?",
         "german": "Lass deine Kolonisten auch mal etwas Spaß haben! Im Leben geht es doch nicht nur um Arbeit, oder?",
-		"french": "Donnez à votre colon une chance de s'amuser de temps en temps. La vie ne se résume pas au travail, n'est-ce pas ?",
+	"french": "Donnez à votre colon une chance de s'amuser de temps en temps. La vie ne se résume pas au travail, n'est-ce pas ?",
+	    "ukrainian":"Час від часу дайте своєму колоністу можливість порозважатися. Сенс життя полягає не лише в роботі, чи не так?",
     },
 	"needsTitleTameness": {
 		"english": "Tameness",
@@ -666,7 +689,8 @@
 		"polish": "Owajanie",
 		"japanese": "手なづけ",
 		"chinese": "驯服",
-		"korean": "길들임"
+		"korean": "길들임",
+		"ukrainian":"Прирученість",
 	},
 	"needsDescriptionTameness": {
 		"english": "Once you managed to tame a wild animal, you need to care for it from time to time in order to keep it tame. The white line shows when the animal will become wild again.",
@@ -683,7 +707,8 @@
 		"japanese": "野生動物を手なづけて家畜にします。家畜にしても世話を怠ると再び野生化します。",
 		"chinese": "一旦你驯服了野生动物，就需要不时地照料它以保持驯服状态。白线表示何时该动物将再次变得野生。",
 		"korean": "일단 야생동물을 길들이는데 성공하고 나면, 길들여진 상태를 유지할 수 있도록 수시로 동물을 돌봐야 합니다. 흰색 선은 이 동물이 언제 다시 야생으로 돌아갈 지를 나타냅니다.",
-		"czech": "Jakmile se vám podařilo zkrotit divoké zvíře, musíte se o něj čas od času starat, abyste zůstalo ochočené. Bílá čára ukazuje, kdy bude zvíře opět divoké."
+		"czech": "Jakmile se vám podařilo zkrotit divoké zvíře, musíte se o něj čas od času starat, abyste zůstalo ochočené. Bílá čára ukazuje, kdy bude zvíře opět divoké.",
+		"ukrainian":"Як тільки вам вдалося приручити дику тварину, потрібно час від часу доглядати за нею, щоб вона залишалась ручною. Біла лінія вказує коли тварина знову стане дикою.",
 	},
 	"humanWillGrowUpInDays": {
 		"english": "%firstName% will grow up in %days% days",
@@ -700,7 +725,8 @@
 		"czech": "%firstName% vyroste za %days% dní",
 		"romanian": "%firstName% va crește peste %days% zile",
 		"japanese": "%firstName%は子供です。大人になるまで%days%日です。",
-		"korean": "%firstName%#{은} %days%일 뒤에 나이를 먹습니다."
+		"korean": "%firstName%#{은} %days%일 뒤에 나이를 먹습니다.",
+		"ukrainian":"%firstName% виросте через %days% днів",
 	},
 	"humanWillGetOldInDays": {
 		"english": "%firstName% will get old in %days% days",
@@ -717,7 +743,8 @@
 		"czech": "%firstName% zestárne za %days% dní",
 		"romanian": "%firstName% va îmbătrâni peste %days% zile",
 		"japanese": "%firstName%は大人です。老人になるまで%days%日です。",
-		"korean": "%firstName%#{은} %days%일 뒤에 노인이 됩니다."
+		"korean": "%firstName%#{은} %days%일 뒤에 노인이 됩니다.",
+		"ukrainian":"%firstName% постаріє через %days% днів",
 	},
 	"humanWillPassAwayInDays": {
 		"english": "%firstName% will pass away in %days% days",
@@ -734,7 +761,8 @@
 		"czech": "%firstName% zemře za %days% dní",
 		"romanian": "%firstName% va muri peste %days% zile",
 		"japanese": "%firstName%は老人です。悲しい事に%days%日後に亡くなります。",
-		"korean": "%firstName%#{은} %days%일 뒤에 사망합니다."
+		"korean": "%firstName%#{은} %days%일 뒤에 사망합니다.",
+		"ukrainian":"%firstName% помре через %days% днів",
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -744,7 +772,7 @@
 		"turkish": "Gıda Rasyonları",
 		"portuguese": "Rações Alimentares",
 		"dutch": "Voedsel Rantsoenen",
-		"ukrainian":"Харчові раціони",
+		"ukrainian":"Порції їжі",
 		"russian":"Порции пищи",
 		"chinese": "食物分配",
 		"korean": "식량 분배",
@@ -754,7 +782,7 @@
 		"bulgarian": "Хранителни дажби",
 		"czech": "Příděly jídla",
 		"romanian": "Rațiile alimentare",
-		"japanese": "食べ物の配分"
+		"japanese": "食べ物の配分",
 	},
 	"thoughts": {
 		"english": "Thoughts",
@@ -774,7 +802,7 @@
 		"bulgarian": "Мисли",
 		"czech": "Myšlenky",
 		"romanian": "Gânduri",
-		"japanese": "思考"
+		"japanese": "思考",
 	},
 	"personality": {
 		"english": "Personality",
@@ -794,7 +822,7 @@
 		"bulgarian": "Индивидуалност",
 		"czech": "Osobnost",
 		"romanian": "Personalitate",
-		"japanese": "個性"
+		"japanese": "個性",
 	},
 	"saveChanges": {
 		"english": "Save Changes",
@@ -814,7 +842,7 @@
 		"bulgarian": "Запазите промените",
 		"czech": "Uložit změny",
 		"romanian": "Salvează modificările",
-		"japanese": "名前の保存"
+		"japanese": "名前の保存",
 	},
 	"name": {
 		"english": "Name",
@@ -834,7 +862,7 @@
 		"bulgarian": "Име",
 		"czech": "Jméno",
 		"romanian": "Nume",
-		"japanese": "名前"
+		"japanese": "名前",
 	},
 	"experience": {
 		"english": "Experience",
@@ -844,7 +872,7 @@
 		"turkish": "Tecrübe",
 		"portuguese": "Experiência",
 		"dutch": "Ervaring",
-		"ukrainian":"Навички",
+		"ukrainian":"Досвід",
 		"russian":"Навыки",
 		"chinese": "经验",
 		"korean": "경험치",
@@ -854,7 +882,7 @@
 		"bulgarian": "Опит",
 		"czech": "Zkušenosti",
 		"romanian": "Experiență",
-		"japanese": "経験"
+		"japanese": "経験",
 	},
 	"skills": {
 		"english": "Skills",
@@ -871,7 +899,8 @@
 		"czech": "Dovednosti",
 		"romanian": "Abilități",
 		"japanese": "スキル",
-		"korean": "기술"
+		"korean": "기술",
+		"ukrainian":"Навички",
 	},
 	"noProfessionalSkills": {
 		"english": "No professional skills to speak of.",
@@ -888,7 +917,8 @@
 		"czech": "Žádné profesní dovednosti, které by stály za řeč.",
 		"romanian": "Nu există abilități profesionale de a vorbi.",
 		"japanese": "特になし",
-		"korean": "전공기술 없음."
+		"korean": "전공기술 없음.",
+		"ukrainian":"Жодних професійних навичок, вартих згадки.",
 	},
 	"view": {
 		"english": "View",
@@ -908,7 +938,7 @@
 		"bulgarian": "Изглед",
 		"czech": "Ukázat",
 		"romanian": "Vezi",
-		"japanese": "表示"
+		"japanese": "表示",
 	},
 	"info": {
 		"english": "Info",
@@ -928,7 +958,7 @@
 		"bulgarian": "Информация",
 		"czech": "Info",
 		"romanian": "Info",
-		"japanese": "詳細"
+		"japanese": "詳細",
 	},
 	"openWebsiteShort": {
 		"english": "Open",
@@ -948,7 +978,7 @@
 		"bulgarian": "Отворен",
 		"czech": "Otevřít",
 		"romanian": "Deschide",
-		"japanese": "開く"
+		"japanese": "開く",
 	},
 	"dismiss": {
 		"english": "Ok",
@@ -958,7 +988,7 @@
 		"turkish": "Tamam",
 		"portuguese": "Ok",
 		"dutch": "Oké",
-		"ukrainian":"ОК",
+		"ukrainian":"Оk",
 		"russian":"ОК",
 		"chinese": "确定",
 		"korean": "확인",
@@ -968,7 +998,7 @@
 		"bulgarian": "Добре",
 		"czech": "Ok",
 		"romanian": "Ok",
-		"japanese": "閉じる"
+		"japanese": "閉じる",
 	},
 	"chooseNewJob": {
 		"english": "Choose New Job",
@@ -988,7 +1018,7 @@
 		"bulgarian": "Изберете нова работа",
 		"czech": "Vybrat novou profesi",
 		"romanian": "Alegeți un nou loc de muncă",
-		"japanese": "職業を選択"
+		"japanese": "職業を選択",
 	},
 	"specialization": {
 		"english": "Specialization",
@@ -998,7 +1028,7 @@
 		"turkish": "Uzmanlık",
 		"portuguese": "Especialização",
 		"dutch": "Specializering",
-		"ukrainian":"Обов'язки",
+		"ukrainian":"Спеціалізація",
 		"russian":"Обязанности",
 		"chinese": "特长",
 		"korean": "임무",
@@ -1008,7 +1038,7 @@
 		"bulgarian": "Специализация",
 		"czech": "Specializace",
 		"romanian": "Specializare",
-		"japanese": "作業の選択"
+		"japanese": "作業の選択",
 	},
 	"nextLevel": {
 		"english": "Next Level",
@@ -1028,7 +1058,7 @@
 		"bulgarian": "Следващо ниво",
 		"czech": "Další úroveň",
 		"romanian": "Nivelul următor",
-		"japanese": "次のレベルまで"
+		"japanese": "次のレベルまで",
 	},
 	"experienceAcroynom": {
 		"english": "Exp",
@@ -1048,7 +1078,7 @@
 		"bulgarian": "Exp",
 		"czech": "Exp.",
 		"romanian": "Exp",
-		"japanese": "経験"
+		"japanese": "経験",
 	},
 	"changeProfession": {
 		"english": "Change",
@@ -1068,7 +1098,7 @@
 		"bulgarian": "Промяна",
 		"czech": "Změnit",
 		"romanian": "Schimbă",
-		"japanese": "変更"
+		"japanese": "変更",
 	},
 	"promote": {
 		"english": "Promote",
@@ -1078,7 +1108,7 @@
 		"turkish": "Terfi et",
 		"portuguese": "Promover",
 		"dutch": "Promoveren",
-		"ukrainian":"Підвищення",
+		"ukrainian":"Підвищити",
 		"russian":"Повышение",
 		"chinese": "转职",
 		"korean": "진급",
@@ -1088,7 +1118,7 @@
 		"bulgarian": "Повишение",
 		"czech": "Povýšit",
 		"romanian": "Promovează",
-		"japanese": "取得"
+		"japanese": "取得",
 	},
 	"promototions_Title": {
 		"english": "Promotions",

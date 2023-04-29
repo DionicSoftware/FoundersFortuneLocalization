@@ -3560,7 +3560,7 @@
 		"portuguese": "Assumir propriedade de móveis de armazenamento de equipamentos para atribuir equipamentos",
 		"turkish": "Ekipmanı atamak için ekipman depoları sahipliğini al",
 		"dutch": "Word eigenaar van een uitrustingsrek meubel om uitrusting toe te wijzen",
-		"ukrainian":"Передайте права на меблі для поселенця, щоб він зміг одягатись автоматично.",
+		"ukrainian":"Передайте сховище спорядження у власність колоністу, щоб він зміг споряджатись автоматично.",
 		"russian":"Передайте мебель во владение поселенцу, чтобы он смог экипироваться автоматически.",
 		"chinese": "设置存储家具的所有权来分配装备",
 		"korean": "장비 보관함을 소유하면, 그 안에 담긴 장비를 가질 수 있습니다",
@@ -3579,7 +3579,7 @@
 		"spanish": "Selecciona equipo en el mueble de almacén",
 		"portuguese": "Selecione o equipamento no mobiliário de armazenamento",
 		"turkish": "Depodan ekipman seç",
-		"ukrainian":"Виберіть спорядження в сховище",
+		"ukrainian":"Виберіть спорядження в сховищі",
 		"dutch": "Selecteer uitrusting in het opslag meubel",
 		"russian":"Выберите снаряжение в хранилище",
 		"chinese": "选择存放的装备",
@@ -3620,7 +3620,7 @@
 		"portuguese": "Nenhum proprietário",
 		"dutch": "Geen Eigenaar",
 		"turkish": "Sahipsiz",
-		"ukrainian":"Немає Власника",
+		"ukrainian":"Немає власника",
 		"russian":"Нет владельца",
 		"chinese": "无人认领",
 		"korean": "주인 없음",
@@ -3672,7 +3672,8 @@
 		"bulgarian": "Търговия с '%faction%'",
 		"polish": "Handel z '%faction%'",
 		"czech": "Obchodovat s '%faction%'",
-		"japanese": "%faction%との貿易取引"
+		"japanese": "%faction%との貿易取引",
+		"ukrainian":"Торгівля з '%faction%'",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
@@ -3722,7 +3723,7 @@
 		"portuguese": "Quantidade / Na loja",
 		"turkish": "Satış miktarı / Depo miktarı",
 		"dutch": "Aantal / In Voorraad",
-		"ukrainian":"Доступно в торговця",
+		"ukrainian":"Кількість / Доступно",
 		"russian":"Доступно",
 		"chinese": "数量/库存",
 		"korean": "구매 / 재고",
@@ -3821,7 +3822,7 @@
 		"spanish": "Vendiendo items con un valor de %coins% monedas",
 		"portuguese": "Comprando itens com um valor de %coins% moedas",
 		"turkish": "%coins% para değerinde malzeme satılıyor",
-		"ukrainian":"Купівля предметів за ціною %coins% монет",
+		"ukrainian":"Продаж предметів вартістю %coins% монет",
 		"russian":"Продажа предметов за %coins% монет",
 		"dutch": "Verkoopt dingen met een waarde van %coins% munten",
 		"chinese": "出售的物品价值 %coins%硬币",
@@ -3841,7 +3842,7 @@
 		"spanish": "Comprando items con un valor de %coins% monedas",
 		"portuguese": "Comprando itens com um valor de %coins% moedas",
 		"turkish": "%coins% para değerinde malzeme satın alınıyor",
-		"ukrainian":"Купівля предметів за ціною %coins% монет",
+		"ukrainian":"Купівля предметів вартістю %coins% монет",
 		"dutch": "Koopt dingen met een waarde van %coins% munten",
 		"russian":"Покупка предметов по цене %coins% монет",
 		"chinese": "购买的物品价值 %coins%硬币",
@@ -3862,7 +3863,7 @@
 		"portuguese": "A colônia está ganhando %coins% moedas deste acordo.",
 		"dutch": "De kolonie verdient %coins% munten van deze ruil.",
 		"turkish": "Yerleşiminiz bu alışverişten %coins% para kazanacak",
-		"ukrainian":"Колонія отримає %coins% монет з цієї угоди.",
+		"ukrainian":"Колонія отримає %coins% монет із цієї угоди.",
 		"russian":"Колония получит %coins% монет с этой сделки.",
 		"chinese": "本次交易获得 %coins%硬币",
 		"korean": "정착지는 이 거래로 %coins% 코인을 받습니다.",
@@ -3901,7 +3902,7 @@
 		"spanish": "La colonia no tiene %coins% monedas para pagar esta transacción",
 		"portuguese": "A colônia não tem %coins% moedas para pagar por essa transação.",
 		"turkish": "Yerleşiminiz bu alışverişi yapmak için %coins% paraya ihtiyacı var",
-		"ukrainian":"У колонії немає %coins% монет для укладення угоди",
+		"ukrainian":"У колонії не вистачає %coins% монет для укладення цієї угоди",
 		"dutch": "De kolonie heeft niet %coins% munten om te betalen voor deze ruil.",
 		"russian":"У колонии нет %coins% монет для заключения сделки.",
 		"chinese": "本次交易还欠缺 %coins%硬币",
@@ -3930,7 +3931,8 @@
 		"polish": "Brak miejsca w magazynach na %amount% %resource%.",
 		"czech": "Sklady nemají dostatečnou kapacitu na uskladění %amount% %resource%.",
 		"japanese": "%amount%%resource%を備蓄するための十分な空きがありません。",
-		"korean": "%amount% %resource%를 보관할 만한 충분한 공간이 없습니다."
+		"korean": "%amount% %resource%를 보관할 만한 충분한 공간이 없습니다.",
+		"ukrainian":"У сховищах не вистачає місця для %amount% %resource%.",
 	},
 
 
@@ -3940,7 +3942,7 @@
 		"portuguese": "Ou você não produziram qualquer equipamento ainda\nou todo o seu equipamento é usado atualmente por seus colonos.",
 		"french": "Soit vous n'avez pas encore produit d'équipement,\nsoit tout votre équipement est actuellement utilisé par vos colons.",
 		"spanish": "O no has producido ningún equipo aún,\no todo tu equipo ya está siendo usado por tus colonos.",
-		"ukrainian":"Або ви ще не виробляли жодного спорядження,\n або все ваше спорядження в даний час використовується вашими колоністами.",
+		"ukrainian":"Або ви ще не виготовили жодного спорядження,\nабо все ваше спорядження зараз використовується вашими колоністами.",
 		"russian":"Либо вы еще не производили никакого снаряжения,\n либо все ваше снаряжение в настоящее время используется вашими колонистами.",
 		"chinese": "要么没有生产任何装备,要么所有装备目前都被你的殖民者使用.",
 		"dutch": "Of je hebt nog geen uitrusting geproduceerd\nof al je uitrusting wordt momenteel gebruikt door kolonisten.",
@@ -3962,7 +3964,7 @@
 		"portuguese": "Preço de venda",
 		"turkish": "Satış Fiyatı",
 		"dutch": "Verkoopprijs",
-		"ukrainian":"Ціна продажу",
+		"ukrainian":"Відпускна ціна",
 		"russian":"Цена продажи",
 		"chinese": "售价",
 		"korean": "판매 가격",
@@ -3976,25 +3978,27 @@
 	},
 	"quotation_start": {
 		"english": "\"",
-        "german": "\"",
+		"german": "\"",
 		"french": "« ",
 		"dutch": "\"",
 		"japanese": "「",
 		"czech": "\"",
 		"portuguese": "\"",
 		"italian": "\"",
-		"russian": "\""
+		"russian": "\"",
+		"ukrainian":"\"",
 	},
 	"quotation_end": {
 		"english": "\"",
-        "german": "\"",
+		"german": "\"",
 		"french": " »",
 		"dutch": "\"",
 		"japanese": "」",
 		"czech": "\"",
 		"portuguese": "\"",
 		"italian": "\"",
-		"russian": "\""
+		"russian": "\"",
+		"ukrainian": "\"",
 	},
 	"enumeration_comma": { // comma used to separate list items, e.g. "apples, oranges"
 		"english": ", ",
@@ -4007,7 +4011,8 @@
 		"czech": ", ",
 		"portuguese": ",",
 		"italian": ", ",
-		"russian": ", "
+		"russian": ", ",
+		"ukrainian": ", ",
 	},
 	"hours": {
 		"english": "hours",
@@ -4019,7 +4024,8 @@
 		"korean": "시간",
 		"portuguese": "horas",
 		"italian": "ore",
-		"russian": "часов"
+		"russian": "часов",
+		"ukrainian": "годин",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -4031,7 +4037,8 @@
 		"korean": "시간",
 		"portuguese": "h",
 		"italian": "h",
-		"russian": "час."
+		"russian": "час.",
+		"ukrainian": "год.",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -4063,7 +4070,8 @@
 		"korean": "분",
 		"portuguese": "min",
 		"italian": "min",
-		"russian": "мин."
+		"russian": "мин.",
+		"ukrainian":"хв.",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -4112,7 +4120,7 @@
 		"spanish": "seg",
 		"russian": "сек",
 		"portuguese": "s",
-		"ukrainian":"сек",
+		"ukrainian":"сек.",
 		"chinese": "秒",
 		"turkish": "sn",
 		"dutch": "sec",
@@ -4140,7 +4148,8 @@
 		"japanese": "日",
 		"chinese": "天",
 		"czech": "dne",
-		"korean": "일"
+		"korean": "일",
+		"ukrainian":"дні",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -4148,7 +4157,7 @@
 		"french": "Fêtes",
 		"portuguese": "Festas",
 		"spanish": "Fiestas",
-		"ukrainian":"Вечірка",
+		"ukrainian":"Вечірки",
 		"dutch": "Feesten",
 		"russian": "Вечеринка",
 		"chinese": "聚会",
@@ -4167,7 +4176,7 @@
 		"german": "Feiern geben deine Kolonisten eine Gelegenheit zur Erholung. Je mehr Zeit deine Kolonisten mit Tanzen, Essen und Trinken verbringen, desto besser ihre Stimmung.",
 		"french": "Les fêtes permettent à vos colons de se détendre et de socialiser. Plus vos colons passent du temps à danser, manger et boire, plus leur humeur va s'élever.",
 		"spanish": "Las fiestas le dan a tus colonos una oportunidad de relajarse y socializar. Mientras más tiempo pasen bailando, comiendo y bebiendo, más se incrementará su estado de ánimo.",
-		"ukrainian":"Вечірки дають вашим колоністам можливість розслабитися та поспілкуватися. Чим більше часу ваші колоністи проводять в танцях, їжі та випивці, тим більше їх настрій буде рости.",
+		"ukrainian":"Вечірки дають вашим колоністам можливість розслабитися та поспілкуватися. Чим більше часу ваші колоністи проводять за танцями, їжею та випивкою, тим більше покращуватиметься їх настрій.",
 		"russian": "Вечеринки дают вашим колонистам возможность расслабиться. Большую часть времени колонисты будут танцевать, есть и пить, и их настроение будет повышаться.",
 		"portuguese": "As festas dão aos colonos a chance de relaxar e socializar. Quanto mais tempo seus colonos passarem dançando, comendo e bebendo, maior será o humor deles.",
 		"chinese": "聚会给你的殖民者一个放松和社交的机会.你的殖民者花在跳舞、吃饭和喝酒上的时间越多,他们的情绪就会越高涨.",
@@ -4187,7 +4196,7 @@
 		"german": "Feier starten",
 		"french": "Commencer une fête",
 		"spanish": "Comenzar Fiesta",
-		"ukrainian":"Розпочати Вечірку",
+		"ukrainian":"Розпочати вечірку",
 		"russian": "Начать вечеринку!",
 		"dutch": "Start Feest",
 		"portuguese": "Iniciar uma festa",
@@ -4207,7 +4216,7 @@
 		"german": "Kann Feier nicht während einem Überfall starten",
 		"french": "Impossible de lancer une fête pendant une attaque",
 		"spanish": "No se puede empezar una fiesta durante un ataque",
-		"ukrainian":"Неможливо розпочати вечірку під час нападу Тікігоблінів",
+		"ukrainian":"Неможливо розпочати вечірку під час нападу",
 		"russian": "Нельзя начать вечеринку во время набега",
 		"portuguese": "Não consigo iniciar a festa durante o ataque",
 		"chinese": "不要在袭击期间开始聚会",
@@ -4227,7 +4236,7 @@
 		"german": "Kann Feier nicht starten, weil schon eine Feier läuft",
 		"french": "Impossible de commencer une fête lorsque les colons célèbrent déjà",
 		"spanish": "No se puede empezar una fiesta mientras los colonos ya están celebrando",
-		"ukrainian":"Неможливо розпочати вечірку коли вона вже почалась",
+		"ukrainian":"Неможливо розпочати вечірку коли колоністи вже святкують",
 		"russian": "Нельзя начать вечеринку во время другой вечеринки",
 		"portuguese": "Não pode começar a festa enquanto os colonos já estão comemorando",
 		"chinese": "不能在殖民者庆祝时开始聚会",
@@ -4247,7 +4256,7 @@
 		"german": "%coins% Münzen um Feier zu starten",
 		"french": "%coins% pièces pour commencer une fête",
 		"spanish": "%coins% monedas para empezar una fiesta",
-		"ukrainian":"Потрібно %coins% монет",
+		"ukrainian":"Потрібно %coins% монет щоб розпочати вечірку",
 		"russian": "%coins% монет",
 		"portuguese": "%coins% Moedas para começar a festa",
 		"chinese": "花费 %coins%硬币开始聚会",
@@ -4267,7 +4276,7 @@
 		"german": "Mindestens %beer% Bier im Lager",
 		"french": "Au moins %beer% bières en stock",
 		"spanish": "Al menos %beer% cervezas en existencia",
-		"ukrainian":"Потрібно %beer% пива на складі",
+		"ukrainian":"Потрібно мати хоча б %beer% пива",
 		"russian": "Хотя бы %beer% пива",
 		"dutch": "Tenminsten %beer% op voorraad",
 		"portuguese": "Pelo menos %beer% cerveja em estoque",
@@ -4288,7 +4297,7 @@
 		"french": "Au moins %food% aliments en stock",
 		"dutch": "Tenminsten %food% maaltijden op voorraad",
 		"spanish": "Al menos %food% de comida en existencia",
-		"ukrainian":"Потрібно %food% їжі на складі",
+		"ukrainian":"Потрібно мати хоча б %food% їжі",
 		"russian": "Хотя бы %food% еды",
 		"portuguese": "Pelo menos %food% comida em estoque",
 		"chinese": "库存至少要有 %food%食物",
@@ -4307,7 +4316,7 @@
 		"german": "Feier Voraussetzungen",
 		"french": "Exigences de la fête",
 		"spanish": "Requisitos de Fiesta",
-		"ukrainian":"Щоб розпочати вечірку",
+		"ukrainian":"Вимоги для вечірки",
 		"dutch": "Feest Benodigdheden",
 		"russian": "Требования:",
 		"portuguese": "Requisitos para festas",
@@ -4339,7 +4348,8 @@
 		"romanian": "Cameră liberă",
 		"bulgarian": "Персонализирана камера",
 		"czech": "Volná kamera",
-		"japanese": "カメラ"
+		"japanese": "カメラ",
+		"ukrainian":"Вільно літаюча камера",
 	},
 	"customCameraHotkeys": {
 		"english": "Open/close info panel: T\nToggle wall movement: Z\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
@@ -4347,7 +4357,7 @@
 		"french": "Ouvrir/fermer le panneau d'information : T\nActiver/désactiver le mouvement des murs : Z\nMode cinématique : C\nChanger la vitesse de la caméra : molette de la souris\nHaut et bas : MAJ gauche et CTRL gauche",
 		"spanish": "Abrir/cerrar panel de información: T\nAlternar movimiento de muros: Z\nModo Cinemática: C\nCambiar velocidad de cámara: Rueda del ratón\nArriba y abajo: Shift izquierdo y Control izquierdo",
 		"russian": "Открыть/Закрыть меню информации: T\nПереключить движение стены: Z\nКинематографический режим: C\nИзменить скорость камеры: Колесико мыши\nВверх, вниз: Левый Shift и левый Ctrl",
-		"ukrainian":"Відкрити/Закрити меню інформації: T\nПереключити рух стіни: Z\nКінематографічний режим: С\nЗмінити швидкість камери: Колесико миші\nВверх, вниз: Лівий Shift та Лівий Ctrl",
+		"ukrainian":"Відкрити/Закрити інформаційну панель: T\nПеремкнути рух стіни: Z\nКінематографічний режим: С\nЗмінити швидкість камери: Колесо миші\nВгору, вниз: Лівий Shift та Лівий Ctrl",
 		"portuguese": "Abra / feche o painel de informações: T\nAlternar movimento da parede:  Z\nModo cinematográfico: C\nAlterar a velocidade da câmera: roda do mouse\nPara cima e para baixo: SHIFT esquerdo e CTRL esquerdo",
 		"chinese": "打开/关闭 信息面板:T\n切换墙壁移动:Z\n电影模式:C\n镜头速度:鼠标滚轮\n上和下:左shift和右ctrl",
 		"dutch": "Open/sluit info paneel: T\nSchakel muur bewegingen: Z\nFilmische modus: C\nVerander camera snelheid: Muiswiel\nOmhoog en naar beneden: Linker shift en linker control",
@@ -4396,7 +4406,8 @@
 		"polish": "Poziom %level%",
 		"czech": "Úroveň %level%",
 		"japanese": "レベル%level%",
-		"korean": "레벨 %level%"
+		"korean": "레벨 %level%",
+		"ukrainian": "Рівень %level%",
 	},
 	"professionsTitle": {
 		"english": "Professions - %fullName%",
@@ -4413,7 +4424,8 @@
 		"polish": "Zawody - %fullName%",
 		"czech": "Karta profese - %fullName%",
 		"japanese": "%fullName%の職業状況一覧",
-		"korean":  "전공직업 - %fullName%"
+		"korean":  "전공직업 - %fullName%",
+		"ukrainian": "Професії - %fullName%",
 	},
 	"progressToNextLevel": {
 		"english": "Progress to next level: %currentPoints% / %totalPoints%",
@@ -4430,7 +4442,8 @@
 		"polish": "Punkty do kolejnego poziomu:  %currentPoints% / %totalPoints%",
 		"czech": "Postup na další úroveň: %currentPoints% / %totalPoints%",
 		"japanese": "次のレベルまで:%currentPoints%/%totalPoints%",
-		"korean":  "다음 레벨까지 진도: %currentPoints% / %totalPoints%"
+		"korean":  "다음 레벨까지 진도: %currentPoints% / %totalPoints%",
+		"ukrainian": "Прогрес до наступного рівня: %currentPoints% / %totalPoints%",
 	},
 	"xPoints": {
 		"english": "%points% Points",
@@ -4447,7 +4460,8 @@
 		"polish": "%points% Punktów",
 		"czech": "%points% bodů",
 		"japanese": "%points%ポイント",
-		"korean": "%points% 포인트"
+		"korean": "%points% 포인트",
+		"ukrainian": "%points% очок",
 	},
 	"skillPointsAvailable": {
 		"english": "%points% skill points available",
@@ -4464,7 +4478,8 @@
 		"polish": "%points% punktów umiejętności dostępnych",
 		"czech": "%points% dovednostních bodů k dispozici",
 		"japanese": "%points%ポイント利用可能",
-		"korean": "%points%의 스킬 포인트 사용가능"
+		"korean": "%points%의 스킬 포인트 사용가능",
+		"ukrainian": "%points% - доступні очки навичок"
 	},
 	"willResplenishIn":  {
 		"english": "Will replenish in %days% days",
@@ -4481,7 +4496,8 @@
 		"japanese": "再度収集できるまで%days%日",
 		"chinese": "%days%天后可收获",
 		"czech": "Doplní se za %days% dní",
-		"korean": "재수확까지 %days% 일 남음"
+		"korean": "재수확까지 %days% 일 남음",
+		"ukrainian": "Поповниться через %days% днів",
 	},
 	"resourcesLeft":  {
 		"english": "%resource% left",
@@ -4498,7 +4514,8 @@
 		"japanese": "%resource%残り",
 		"chinese": "还剩%resource%",
 		"czech": "%resource% zbývá",
-		"korean": "%resource% 남음"
+		"korean": "%resource% 남음",
+		"ukrainian": "%resource% залишилось",
 	},
 	"gatheringSpeed":  { // use \\% to type %
 		"english": "Gathering speed: %speed% %resource%/minute",
@@ -4515,7 +4532,8 @@
 		"japanese": "採取速度:%speed%/分",
 		"chinese": "收获速度:%speed%%resource%/分",
 		"czech": "Rychlost sběru: %speed% %resource%/minutu",
-		"korean": "수확속도: %speed% %resource%/minute"
+		"korean": "수확속도: %speed% %resource%/minute",
+		"ukrainian": "Швидкість видобування: %speed% %resource%/хв."
 	},
 	"growthProgress":  {
 		"english": "Growth Progress",
@@ -4532,7 +4550,8 @@
 		"japanese": "育生状況",
 		"chinese": "生长情况",
 		"czech": "Pokrok růstu",
-		"korean": "성장속도"
+		"korean": "성장속도",
+		"ukrainian": "Прогрес зростання",
 	},
 	"typicalGrowthTime":  {
 		"english": "Typical time to grow: %minDays% - %maxDays% days",
@@ -4549,7 +4568,8 @@
 		"japanese": "育生時間:%minDays%-%maxDays%日",
 		"chinese": "生长时间:%minDays%-%maxDays%日",
 		"czech": "Čas růstu: %minDays% - %maxDays% dní",
-		"korean": "평균성장시간: %minDays% - %maxDays% 일"
+		"korean": "평균성장시간: %minDays% - %maxDays% 일",
+		"ukrainian": "Типовий час вирощування: %minDays% - %maxDays% днів",
 	},
 	"possibleYieldWhenGrown":  {
 		"english": "Possible yield: ",
@@ -4566,7 +4586,8 @@
 		"japanese": "予想収量",
 		"chinese": "预期产量:",
 		"czech": "Možný výnos: ",
-		"korean": "예상 수확량: "
+		"korean": "예상 수확량: ",
+		"ukrainian": "Можлива врожайність: ",
 	},
 	"amountWatered": {
 		"english":  "Amount watered: %watered%/2",
@@ -4583,7 +4604,8 @@
 		"japanese": "給水量:%watered%/2",
 		"chinese": "浇水量:%watered%/2",
 		"czech":  "Zalévané množství: %watered%/2",
-		"korean": "급수량:%watered%/2"
+		"korean": "급수량:%watered%/2",
+		"ukrainian": "Кількість поливу: %watered%/2",
 	},
 	"plantNeedsCare": {
 		"english":  "Plant needs care",
@@ -4599,7 +4621,8 @@
 		"chinese": "作物种子需要照料",
 		"czech":  "Rostlina potřebuje péči",
 		"russian":  "Растению нужна забота",
-		"korean": "농작물을 돌봐줘야 합니다"
+		"korean": "농작물을 돌봐줘야 합니다",
+		"ukrainian": "Рослина потребує догляду",
 	},
 	"factionPointsInfo": {
 		"english":  "Relationship points: %points%",
@@ -4616,7 +4639,8 @@
 		"japanese": "関係:%points%",
 		"chinese": "友好值:%points%",
 		"czech":  "Vztahové body: %points%",
-		"korean":  "관계 포인트: %points%"
+		"korean":  "관계 포인트: %points%",
+		"ukrainian": "Очки відносин: %points%",
 	},
 	"animalHandling":  {
 		"english": "Animal Handling",
@@ -4633,7 +4657,8 @@
 		"japanese": "解体",
 		"chinese": "屠宰",
 		"czech": "Manipulace se zvířaty",
-		"korean": "도축"
+		"korean": "도축",
+		"ukrainian": "Догляд за тваринами",
 	},
 	"animalsInVillage":  { // if it doesn't work with your grammer, just say "Animals in Village"
 		"english": "%animalType% in Village",
@@ -4650,7 +4675,8 @@
 		"japanese": "%animalType%の牧場",
 		"chinese": "%animalType% 牧场",
 		"czech": "%animalType% ve vesnici",
-		"korean": "%animalType% 목장"
+		"korean": "%animalType% 목장",
+		"ukrainian": "%animalType% в колонії",
 	},
 	"breedingLimit":  {
 		"english": "Breeding Limit",
@@ -4667,7 +4693,8 @@
 		"japanese": "最大家畜数",
 		"chinese": "最大家畜数",
 		"czech": "Chovatelský limit",
-		"korean": "최대가축수"
+		"korean": "최대가축수",
+		"ukrainian": "Ліміт розмноження",
 	},
 	"automaticallyAssignExtrasToButcher":  { // if it's too long, skip "assign"
 		"english": "Automatically assign extra animals to butcher",
@@ -4684,7 +4711,8 @@
 		"japanese": "最大数を超えた家畜を屠殺",
 		"chinese": "自动将多余的家畜分配给屠夫屠宰",
 		"czech": "Automaticky přiřaďte na porážku další zvířata",
-		"korean": "정해진 수를 넘어선 여분의 가축을 자동으로 도축함"
+		"korean": "정해진 수를 넘어선 여분의 가축을 자동으로 도축함",
+		"ukrainian": "Автоматично відправляти надлишкових тварин до м'ясника",
 	},
 	"tamingProgress":  {
 		"english": "Taming Progress: %status%",
@@ -4701,7 +4729,8 @@
 		"japanese": "手なづけ状況:%status%",
 		"chinese": "驯服进度: %status%",
 		"czech": "Pokrok ochočení: %status%",
-		"korean": "길들이기 진행도: %status%"
+		"korean": "길들이기 진행도: %status%",
+		"ukrainian": "Прогрес приручення: %status%",
 	},
 	"tamed":  {
 		"english": "Tamed",
@@ -4718,7 +4747,8 @@
 		"japanese": "手なづけ完了",
 		"chinese": "已驯服",
 		"czech": "Ochočeno",
-		"korean": "길들여짐"
+		"korean": "길들여짐",
+		"ukrainian": "Тварина приручена",
 	},
 	"untamed":  {
 		"english": "Wild",
@@ -4735,7 +4765,8 @@
 		"japanese": "野生",
 		"chinese": "野生",
 		"czech": "Divoký",
-		"korean": "야생"
+		"korean": "야생",
+		"ukrainian": "Тварина дика",
 	},
 	"ChangeAppearance":  {
 		"english":  "Change Appearance",
@@ -4750,7 +4781,8 @@
 		"chinese": "变更外观",
 		"czech":  "Změnit vzhled",
 		"russian":  "Изменить внешний вид",
-		"korean": "외형 바꾸기"
+		"korean": "외형 바꾸기",
+		"ukrainian": "Змінити зовнішній вигляд",
 	},
 	"confirmChanges":  {
 		"english":  "Confirm Changes",
@@ -4765,7 +4797,8 @@
 		"chinese": "变更确认",
 		"czech":  "Potvrďte změny",
 		"russian":  "Подтвердить изменения",
-		"korean": "변경 확인"
+		"korean": "변경 확인",
+		"ukrainian": "Підтвердити зміни",
 	},
 	"objects":  {
 		"english":  "Objects",
@@ -4780,7 +4813,8 @@
 		"chinese": "对象",
 		"czech":  "Objekty",
 		"russian":  "Объекты",
-		"korean": "대상"
+		"korean": "대상",
+		"ukrainian": "Об'єкти",
 	},
 	"colors":  {
 		"english":  "Colors",
@@ -4795,7 +4829,8 @@
 		"chinese": "颜色",
 		"czech":  "Barvy",
 		"russian":  "Цвета",
-		"korean": "색깔"
+		"korean": "색깔",
+		"ukrainian": "Кольори",
 	},
 	"hat":  {
 		"english":  "Hat",
@@ -4810,7 +4845,8 @@
 		"chinese": "帽子",
 		"czech":  "Klobouk",
 		"russian":  "Шляпа",
-		"korean": "모자"
+		"korean": "모자",
+		"ukrainian": "Капелюх",
 	},
 	"hair":  {
 		"english":  "Hair",
@@ -4825,7 +4861,8 @@
 		"chinese": "发型",
 		"czech":  "Vlasy",
 		"russian":  "Прическа",
-		"korean": "머리카락"
+		"korean": "머리카락",
+		"ukrainian": "Зачіска",
 	},
 	"face":  {
 		"english":  "Face",
@@ -4840,7 +4877,8 @@
 		"chinese": "脸部",
 		"czech":  "Obličej",
 		"russian":  "Лицо",
-		"korean": "얼굴"
+		"korean": "얼굴",
+		"ukrainian": "Обличчя",
 	},
 	"torso":  {
 		"english":  "Torso",
@@ -4855,7 +4893,8 @@
 		"chinese": "身体",
 		"czech":  "Tělo",
 		"russian":  "Торс",
-		"korean": "몸통"
+		"korean": "몸통",
+		"ukrainian": "Тулуб",
 	},
 	"skin":  {
 		"english":  "Skin",
@@ -4870,7 +4909,8 @@
 		"chinese": "皮肤",
 		"czech":  "Kůže",
 		"russian":  "Кожа",
-		"korean": "피부"
+		"korean": "피부",
+		"ukrainian": "Шкіра",
 	},
 	"randomize":  {
 		"english":  "Randomize",
@@ -4885,7 +4925,8 @@
 		"chinese": "随机",
 		"czech":  "Náhodně",
 		"russian":  "Рандомизировать",
-		"korean": "무작위"
+		"korean": "무작위",
+		"ukrainian": "Рандомізувати",
 	},
 	"debug": { // doesn't need to be translated
 		"english": "Debugging",
@@ -4899,7 +4940,8 @@
 		"chinese": "调试",
 		"czech": "Debugging",
 		"russian":  "Debugging",
-		"korean": "디버깅"
+		"korean": "디버깅",
+		"ukrainian": "Налагодження",
 	},
 	"debuggingAttention": {
 		"english": "Attention!",
@@ -4911,7 +4953,8 @@
 		"korean": "주의!",
 		"portuguese": "Atenção!",
 		"italian": "Attenzione!",
-		"russian": "Внимание!"
+		"russian": "Внимание!",
+		"ukrainian": "Увага!",
 	},
 	"debuggingDisableAchievements": {
 		"english": "This will disable achievements!\nThis cannot be undone!",
@@ -4923,7 +4966,8 @@
 		"korean": "도전과제가 비활성화 됩니다!\n복구할 수 없습니다!",
 		"portuguese": "Isso irá desativar Conquistas!\nEste não pode ser desfeita!",
 		"italian": "Questo disabiliterà gli obiettivi! Quest'azione non può essere annullata!",
-		"russian": "Это отключит достижения!\nЭто действие необратимо!"
+		"russian": "Это отключит достижения!\nЭто действие необратимо!",
+		"ukrainian": "Це вимкне досягнення!\nЦю дію неможливо скасувати!",
 	},
 	"debuggingNotice": {
 		"english": "The debug mode is meant to be used in development. If you enable debug mode, it can corrupt your save so that it's not recoverable. Exit this menu using 'F3' if you don't know exactly what you're doing.",
@@ -4935,7 +4979,8 @@
 		"korean": "디버그 모드는 개발과정에서 사용되도록 되어 있습니다. 만약 디버그 모드를 활성화시키면 세이브파일에 돌이킬 수 없는 손상을 입힐 수 있습니다. 무슨 말인지 모르겠다면 'f3'을 눌러 메뉴를 닫으세요.",
 		"portuguese": "O modo de depuração deve ser usado no desenvolvimento. Se você ativar o modo de depuração, ele pode corromper seu salvamento de forma que não seja recuperável. Saia deste menu usando 'F3' se você não souber exatamente o que está fazendo.",
 		"italian": "La modalità di debug è pensata per essere utilizzata nello sviluppo. Se abiliti la modalità di debug, puoi danneggiare il tuo salvataggio in modo permanente. Esci da questo menu usando \"F3\" se non sai esattamente cosa stai facendo.",
-		"russian": "Режим отладки предназначен для использования в разработке. Если вы включите режим отладки, это может привести к повреждению вашего сохранения и невозможности его восстановления. Выйдите из этого меню, нажав «F3», если вы точно не знаете, что делаете."
+		"russian": "Режим отладки предназначен для использования в разработке. Если вы включите режим отладки, это может привести к повреждению вашего сохранения и невозможности его восстановления. Выйдите из этого меню, нажав «F3», если вы точно не знаете, что делаете.",
+		"ukrainian": "Режим налагодження призначений для використання під час розробки. Якщо ви ввімкнете режим налагодження, це може пошкодити ваше збереження, і його неможливо буде відновити. Вийдіть із цього меню за допомогою «F3», якщо ви не знаєте точно, що робите.",
 	},
 	"achievements_off_mods": {
 		"english":  "Achievements are disabled because you have mods installed.",
@@ -4947,12 +4992,14 @@
 		"korean": "모드로 인해 도전과제가 비활성화되었습니다.",
 		"portuguese": "As conquistas foram desativadas porque você instalou mods.",
 		"italian": "Gli obiettivi sono disabilitati perché hai delle mod installate.",
-		"russian": "Достижения отключены, потому что у вас установлены моды."
+		"russian": "Достижения отключены, потому что у вас установлены моды.",
+		"ukrainian": "Досягнення вимкнено, оскільки у вас встановлені моди.",
 	},
     "achievements_off_sandbox": {
         "english":  "Achievements are disabled because you have changed sandbox settings.",
         "german": "Errungenschaften sind deaktiviert, weil du die Sandbox-Einstellungen geändert hast.",
-		"french": "Les succès sont désactivés parce que vous avez modifié les paramètres du bac à sable.",
+	"french": "Les succès sont désactivés parce que vous avez modifié les paramètres du bac à sable.",
+	    "ukrainian": "Досягнення вимкнено, оскільки ви змінили налаштування пісочниці.",
     },
 	"achievements_off_cheats": {
 		"english":  "Achievements are disabled because you have used developer mode.",
@@ -4964,7 +5011,8 @@
 		"korean": "치트로 인해 도전과제가 비활성화되었습니다.",
 		"portuguese": "As conquistas foram desativadas porque você usou o modo de desenvolvedor.",
 		"italian": "Gli obiettivi sono disabilitati perché hai utilizzato la modalità sviluppatore.",
-		"russian": "Достижения отключены, потому что вы использовали режим разработчика."
+		"russian": "Достижения отключены, потому что вы использовали режим разработчика.",
+		"ukrainian": "Досягнення вимкнено, оскільки ви використовували режим розробника.",
 	},
 	"achievements_enabled_hard": {
 		"english":  "The \"Challenger\" achievement can be unlocked in this game.",
@@ -4976,7 +5024,8 @@
 		"korean": "도전과제 'Challenger' 가 활성화되었습니다",
 		"portuguese": "A conquista \"Challenger\" pode ser desbloqueada neste jogo.",
 		"italian": "L'obiettivo \"Challenger\" può essere sbloccato in questo gioco.",
-		"russian": "Достижение \"Претендент\" можно разблокировать в этой игре."
+		"russian": "Достижение \"Претендент\" можно разблокировать в этой игре.",
+		"ukrainian": "Досягнення Challenger можна здобути в цій грі",
 	},
 	"animalZones":  {
 		"english":  "Animal Zones",
@@ -4991,7 +5040,8 @@
 		"chinese": "牧场",
 		"czech":  "Zvířecí zóny",
 		"russian":  "Зоны животных",
-		"korean": "동물구역"
+		"korean": "동물구역",
+		"ukrainian": "Місця для тварин",
 	},
 	"animalZonesTooltip_Desc":  {
 		"english":  "Designate zones to keep all of your animals in a specific place.",
@@ -5006,7 +5056,8 @@
 		"chinese": "指定区域将所有动物都圈养在特定的区域.",
 		"czech":  "Určete zóny, aby všechna vaše zvířata byla na konkrétním místě.",
 		"russian":  "Определите зоны, чтобы держать всех ваших животных в определенном месте.",
-		"korean": "당신의 가축들을 특정한 구역에 둘 수 있도록 범위를 지정하세요."
+		"korean": "당신의 가축들을 특정한 구역에 둘 수 있도록 범위를 지정하세요.",
+		"ukrainian": "Позначте зони для утримання всіх ваших тварин у певному місці.",
 	},
 	"travelPanelTitle":  {
 		"english": "New Horizons",
@@ -5021,7 +5072,8 @@
 		"chinese": "新旅程",
 		"czech": "Nové Obzory",
 		"russian":  "Новые горизонты",
-		"korean": "신세계"
+		"korean": "신세계",
+		"ukrainian": "Нові горизонти",
 	},
 	"travelPanelDesc":  {
 		"english": "Are you ready to leave this town?\nYou can select a couple of competent villagers to leave this island and start a new village in a new land.\nYou may want to save this village before you leave.",
@@ -5036,6 +5088,7 @@
 		"chinese": "你准备离开这个城镇吗?\n你可以选择几个有能力的村民离开这个岛屿,并在新的土地上建立一个新村庄.\n你可能要在离开之前保存这个村庄.",
 		"czech": "Jste připraveni opustit toto město?\nMůžete si vybrat několik vesničanů, kteří opustí tento ostrov a založí novou vesnici v Nové zemi.",
 		"russian":  "Готовы ли вы покинуть этот город? \nВы можете выбрать пару компетентных жителей, чтобы они покинули этот остров и основали новую деревню на новой земле. \nВозможно, вы захотите сохранить эту деревню перед тем, как уйти.",
+		"ukrainian": "Ви готові залишити це місце? \nВи можете обрати пару компетентних колоністів, щоб залишити цей острів і заснувати нову колонію на новій землі. \nВи можете зберегти гру, перш ніж піти.",
 		"korean": "이곳을 떠날 준비가 되었나요? \n마을 주민 둘을 골라 이 섬을 떠나 새 땅에서 새로운 마을을 만들 수 있습니다.\n떠나기 전에 마을을 저장할 수 있습니다."
 		},
 	"depart":  {
@@ -5052,6 +5105,7 @@
 		"czech": "Rozviňte plachty!",
 		"russian":  "Расправить паруса!",
 		"korean": "출항하자!",
+		"ukrainian": "Розправляйте вітрила!",
 	},
 	"trapUses":  {
 		"english": "Number of times trap can be reset",
@@ -5062,266 +5116,323 @@
 		"portuguese": "Número de vezes que a armadilha pode ser reiniciada",
 		"italian": "Numero di volte in cui è possibile ripristinare la trappola",
 		"russian": "Сколько раз можно использовать ловушку",
+		"ukrainian": "Скільки разів можна використати пастку",
 	},
     "hobbies": {
         "english": "Hobbies",
         "german": "Hobbies",
-		"french": "Loisirs",
+	"french": "Loisirs",
+	"ukrainian": "Хобі",
     },
     "hobbyTitle_Painting": {
         "english": "Painting",
         "german": "Malerei",
-		"french": "Peinture",
+	"french": "Peinture",
+	"ukrainian": "Малювання",
     },
 	"hobbyDesc": {
-		"english": "Interest: %interest%",
+	"english": "Interest: %interest%",
         "german": "Interesse: %interest%",
-		"french": "Intérêt : %interest%",
+	"french": "Intérêt : %interest%",
+	"ukrainian": "Зацікавленість: %interest%",
 	},
     "hobbyDesc_IsMainHobby": {
         "english": "Is main hobby.",
         "german": "Ist primäres Hobby.",
         "french": "Est le principal loisir.",
+	"ukrainian": "Основне хобі.",
     },
     "hobbyTitle_Gardening": {
         "english": "Gardening",
         "german": "Gärtnern",
-		"french": "Jardinage",
+	"french": "Jardinage",
+	"ukrainian": "Садівництво",
     },
     "hobbyTitle_Music": {
         "english": "Music",
         "german": "Musik",
-		"french": "Musique",
+	"french": "Musique",
+	"ukrainian": "Музика",
     },
     "hobbyTitle_Writing": {
         "english": "Writing",
         "german": "Schreiben",
-		"french": "Écriture",
+	"french": "Écriture",
+	"ukrainian": "Письменництво",
     },
     "hobbyTitle_Woodworking": {
         "english": "Woodworking",
         "german": "Holzbearbeitung",
-		"french": "Menuiserie",
+	"french": "Menuiserie",
+	"ukrainian": "Деревообробка",
     },
     "hobbyTitle_Reading": { // reading or literature
         "english": "Reading",
         "german": "Lesen",
-		"french": "Littérature",
+	"french": "Littérature",
+	"ukrainian": "Читання",
     },
     "hobbyTitle_Masonry": {
         "english": "Masonry",
         "german": "Steinmetzkunst",
-		"french": "Maçonnerie",
+	"french": "Maçonnerie",
+	"ukrainian": "Каменярство",
     },
     "hobbyIsDumb": {
         "english": "Can't level up in hobbies because %firstName% is dumb",
         "german": "Kann in Hobbies nicht aufsteigen weil %firstName% dumm ist",
-		"french": "Ne peut pas améliorer ses loisirs car %firstName% est idiot",
+	"french": "Ne peut pas améliorer ses loisirs car %firstName% est idiot",
+	"ukrainian": "%firstName% не може розвивати хобі, тому що %heShe% туп%heshe_IY_A%",
     },
     "colonyWide": { // "global" is a good alternative
         "english": "Colony-wide",
         "german": "Kolonie-weit",
-		"french": "Colonie",
+	"french": "Colonie",
+	"ukrainian": "На всю колонію",
+	    
     },
     "workHourType": {
         "english": "Work",
         "german": "Arbeit",
-		"french": "Travail",
+	"french": "Travail",
+	"ukrainian": "Робота",
     },
     "workHourTypeTooltip_Title": {
         "english": "Work Hour",
         "german": "Arbeitsstunde",
-		"french": "Heure de travail",
+	"french": "Heure de travail",
+	"ukrainian": "Робоча година",
     },
     "workHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will only do work.",
         "german": "Während dieser Stunde werden deine Kolonisten nur arbeiten.",
-		"french": "Pendant cette heure, vos colons ne feront que travailler.",
+	"french": "Pendant cette heure, vos colons ne feront que travailler.",
+	"ukrainian": "Протягом цієї години ваші колоністи лише працюватимуть.",
     },
     "freeHourType": {
         "english": "Free/Socialize",
         "german": "Freizeit/Soziales",
-		"french": "Libre/Social",
+	"french": "Libre/Social",
+	"ukrainian": "Відпочинок/Спілкування",
     },
     "freeHourTypeTooltip_Title": {
         "english": "Free/Socialize Hour",
         "german": "Freizeitstunde",
-		"french": "Heure libre/de socialisation",
+	"french": "Heure libre/de socialisation",
+	"ukrainian": "Година відпочинку/спілкування",
+	    
     },
     "freeHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will relax, socialize, and do hobbies.",
         "german": "Während dieser Stunde werden deine Kolonisten sich entspannen, mit Freunden reden und sich um ihre Hobbies kümmern.",
-		"french": "Pendant cette heure, vos colons se détendront, socialiseront et s'adonneront à des passe-temps.",
+	"french": "Pendant cette heure, vos colons se détendront, socialiseront et s'adonneront à des passe-temps.",
+	"ukrainian": "Протягом цієї години ваші колоністи відпочиватимуть, спілкуватимуться та займатимуться хобі.",
     },
     "eatHourType": {
         "english": "Eat",
         "german": "Essen",
-		"french": "Repas",
+	"french": "Repas",
+	"ukrainian": "Прийом їжі",    
     },
     "eatHourTypeTooltip_Title": {
         "english": "Eating Hour",
         "german": "Mahlzeitstunde",
-		"french": "Heure du repas",
+	"french": "Heure du repas",
+	"ukrainian": "Година прийому їжі",
+	    
     },
     "eatHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will eat when their hunger is below 80%.\nOtherwise, they will continue to do their tasks",
         "german": "Während dieser Stunde werden deine Kolonisten essen falls ihr Hunger unter 80% ist\nAnsonsten werden sie mit ihren Aufgaben weitermachen.",
-		"french": "Pendant cette heure, vos colons mangeront lorsque leur faim sera inférieure à 80%.\nSinon, ils continueront à effectuer leurs tâches.",
+	"french": "Pendant cette heure, vos colons mangeront lorsque leur faim sera inférieure à 80%.\nSinon, ils continueront à effectuer leurs tâches.",
+	"ukrainian": "Протягом цієї години ваші колоністи харчуватимуться, якщо їня шкала голоду опуститься нижче 80%. \nВ іншому випадку вони продовжать виконувати свої завдання",
     },
     "randomHourType": {
         "english": "Random",
         "german": "Zufällig",
-		"french": "Aléatoire",
+	"french": "Aléatoire",
+	"ukrainian": "Випадково",
     },
     "randomHourTypeTooltip_Title": {
         "english": "Random Hour",
         "german": "Zufällige Stunde",
-		"french": "Heure aléatoire",
+	"french": "Heure aléatoire",
+	"ukrainian": "Година випадкових занять",
     },
     "randomHourTypeTooltip_Desc": {
         "english": "During this hour, colonists can pick tasks from all the task categories.\nThey will eat when their hunger is below 20% and sleep when their energy is below 15%.",
         "german": "Während dieser Stunde können sich deine Kolonisten Aufagben aus allen Kategorien wählen.\nSie werden Essen wenn ihr Hunger unter 20% ist und schlafen wenn ihre Energie unter 15% ist.",
-		"french": "Pendant cette heure, les colons peuvent choisir des tâches parmi toutes les catégories de tâches.\nIls mangent lorsque leur faim est inférieure à 20% et dorment lorsque leur énergie est inférieure à 15%.",
+	"french": "Pendant cette heure, les colons peuvent choisir des tâches parmi toutes les catégories de tâches.\nIls mangent lorsque leur faim est inférieure à 20% et dorment lorsque leur énergie est inférieure à 15%.",
+	"ukrainian": "Протягом цієї години колоністи зможуть обрати собі будь-яке заняття. Вони харчуватимуться, якщо їхня шкала голоду опуститься нижче 20%, та спатимуть, якщо шкала витривалості нижче 15%.",
     },
     "sleepHourTypeTooltip_Title": {
         "english": "Sleeping Hour",
         "german": "Zapfenstreich",
-		"french": "Heure du coucher",
+	"french": "Heure du coucher",
+	"ukrainian": "Година сну",
     },
     "sleepHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will sleep when their energy is below 80%.\nOtherwise, they will continue to do their tasks",
         "german": "Während dieser Stunde werden deine Kolonisten schlafen gehen wenn ihre Energie unter 80% ist.\nAnsonsten werden sie mit ihren Aufgaben weitermachen.",
-		"french": "Pendant cette heure, vos colons dormiront lorsque leur énergie sera inférieure à 80%.\nSinon, ils continueront à effectuer leurs tâches.",
+	"french": "Pendant cette heure, vos colons dormiront lorsque leur énergie sera inférieure à 80%.\nSinon, ils continueront à effectuer leurs tâches.",
+	"ukrainian": "Протягом цієї години ваші колоністи спатимуть, якщо їня шкала витривалості опуститься нижче 80%. \nВ іншому випадку вони продовжать виконувати свої завдання",
     },
     "eatOnlyAtHouse": {
         "english": "Eat only at house",
         "german": "Nur im Haus essen",
-		"french": "Manger chez soi",
+	"french": "Manger chez soi",
+	"ukrainian": "Їсти лише вдома",
+	    
     },
     "eatOnlyAtHouseTooltip_Title": {
         "english": "Eat only at own house",
         "german": "Nur im eigenen Haus essen",
-		"french": "Manger uniquement chez soi",
+	"french": "Manger uniquement chez soi",
+	"ukrainian": "Їсти лише у власному будинку",
     },
     "eatOnlyAtHouseTooltip_Desc": {
         "english": "When enabled, colonists will prioritize eating at their own house",
         "german": "Wenn aktiv werden deine Kolonisten versuchen in ihrem eigenen Haus zu essen.",
-		"french": "Lorsque cette option est activée, les colons mangeront en priorité chez eux.",
+	"french": "Lorsque cette option est activée, les colons mangeront en priorité chez eux.",
+	"ukrainian": "Якщо ввімкнути, колоністи віддаватимуть перевагу харчуванню у власному будинку.",
     },
     "small": {
         "english": "Small",
         "german": "Klein",
-		"french": "Petit",
+	"french": "Petit",
+	"ukrainian": "Маленькі",
     },
     "smallRationsTooltip_Title": {
         "english": "Small Food Rations",
         "german": "Kleine Essensrationen",
-		"french": "Petites rations alimentaires",
+	"french": "Petites rations alimentaires",
+	"ukrainian": "Маленькі порції їжі",
     },
     "smallRationsTooltip_Desc": {
         "english": "Tough times huh? Your colonists will eat less food at the cost of being sad.",
         "german": "Harte Zeiten? Deine Kolonisten werden weniger essen - aber toll finden werden sie das nicht.",
-		"french": "Les temps sont durs, hein ? Vos colons mangeront moins de nourriture au prix d'être tristes.",
+	"french": "Les temps sont durs, hein ? Vos colons mangeront moins de nourriture au prix d'être tristes.",
+	"ukrainian": "Настав той самий чорний день? Ваші колоністи їстимуть менше, але будуть засмучені через це.",
     },
     "medium": {
         "english": "Medium",
         "german": "Mittel",
-		"french": "Moyen",
+	"french": "Moyen",
+	"ukrainian": "Звичайні",
     },
     "mediumRationsTooltip_Title": {
         "english": "Medium Food Rations",
         "german": "Mittlere Essensration",
-		"french": "Rations alimentaires moyennes",
+	"french": "Rations alimentaires moyennes",
+	"ukrainian": "Звичайні порції їжі",
     },
     "mediumRationsTooltip_Desc": {
         "english": "Your colonists will eat normal amounts of food.",
         "german": "Deine Kolonisten werden normale Mengen essen.",
-		"french": "Vos colons mangeront des quantités normales de nourriture.",
+	"french": "Vos colons mangeront des quantités normales de nourriture.",
+	"ukrainian": "Ваші колоністи споживатимуть звичайну кількість їжі.",
     },
     "large": {
         "english": "Large",
         "german": "Groß",
-		"french": "Grand",
+	"french": "Grand",
+	"ukrainian": "Великі",
     },
     "largeRationsTooltip_Title": {
         "english": "Large Food Rations",
         "german": "Große Essensrationen",
-		"french": "Grandes rations alimentaires",
+	"french": "Grandes rations alimentaires",
+	"ukrainian": "Великі порції їжі",
     },
     "largeRationsTooltip_Desc": {
         "english": "Your colonists will eat more food. At least their happy about it",
         "german": "Deine Kolonisten werden mehr essen - und das Leben lieben!",
-		"french": "Vos colons mangeront plus de nourriture. Au moins, ils en sont heureux.",
+	"french": "Vos colons mangeront plus de nourriture. Au moins, ils en sont heureux.",
+	"ukrainian": "Ваші колоністи споживатимуть більше їжі й будуть дуже задоволені.",
     },
     "issuedByPlayerTooltip_Title": {
         "english": "Task issued by Player",
         "german": "Aufgabe vom Spieler bekommen",
-		"french": "Interaction émise par le joueur",
+	"french": "Interaction émise par le joueur",
+	"ukrainian": "Завдання, видане гравцем",
     },
     "issuedByPlayerTooltip_Desc": {
         "english": "These tasks won't get aborted by the schedule.",
         "german": "Diese Aufagben werden nicht vom Zeitplan abgebrochen.",
-		"french": "Ces interactions ne seront pas interrompues par le programme.",
+	"french": "Ces interactions ne seront pas interrompues par le programme.",
+	"ukrainian": "Ці завдання не будуть перервані розпорядком.",
     },
     "issuedByScheduleTooltip_Title": {
         "english": "Interaction issued by schedule / colonist",
         "german": "Aufgabe vom Zeitplan oder Kolonisten ausgewählt",
-		"french": "Interaction émise par le programme",
+	"french": "Interaction émise par le programme",
+	"ukrainian": "Завдання, видане розпорядком/колоністом",
     },
     "issuedByScheduleTooltip_Desc": {
         "english": "These interactions can get aborted by the Schedule.",
         "german": "Diese Aufgaben können vom Zeitplan abgebrochen werden.",
-		"french": "Ces interactions peuvent être interrompues par le programme.",
+	"french": "Ces interactions peuvent être interrompues par le programme.",
+	"ukrainian": "Ці завдання можуть бути перервані розпорядком.",
     },
     "noItemInStorage": {
         "english": "You have not stored any furniture yet. You can store furniture by dropping them in storage's drop area.",
         "german": "Du hast noch keine Möbel im Lager. Du kannst Möbel lagern indem du sie hierher ziehst.",
-		"french": "Vous n'avez pas encore entreposé de meubles. Vous pouvez entreposer des meubles en les produisant ou en les déposant dans la zone de dépôt de la réserve.",
+	"french": "Vous n'avez pas encore entreposé de meubles. Vous pouvez entreposer des meubles en les produisant ou en les déposant dans la zone de dépôt de la réserve.",
+	"ukrainian": "У вас немає меблів на зберіганні. Ви можете зберігати меблі у цьому сховищі, перетягнувши їх у зону для скидання."
     },
     "dragAndDrop": {
         "english": "Drag any furniture and drop it in this area to store it",
         "german": "Ziehe Möbel in diesen Bereich um sie einzulagern",
-		"french": "Faites glisser n'importe quel meuble et déposez-le dans cette zone pour l'entreposer.",
+	"french": "Faites glisser n'importe quel meuble et déposez-le dans cette zone pour l'entreposer.",
+	"ukrainian": "Перетягніть та скиньте меблі сюди, щоб зберігати їх у сховищі.",
     },
     "difficultyAdaptation": {
         "english": "Difficulty Adaptation",
         "german": "Schwierigkeit anpassen",
-		"french": "Adaptation de la difficulté",
+	"french": "Adaptation de la difficulté",
+	"ukrainian": "Регулювання складності",
     },
     "difficultyAdaptationDesc": {
         "english": "Sometimes Founders' Fortune can be hard. Do you want to change the difficulty?",
         "german": "Manchmal kann Founders' Fortune schwer sein. Willst du die Schwierigkeitsstufe ändern?",
-		"french": "Il semble que le jeu soit trop difficile, voulez-vous changer la difficulté ?",
+	"french": "Il semble que le jeu soit trop difficile, voulez-vous changer la difficulté ?",
+	"ukrainian": "Іноді грати у Founders' Fortune буває складно. Хочете змінити складність?",
     },
     "difficultyAdaptationAccept": {
         "english": "Let's Change",
         "german": "Ändern",
-		"french": "Changeons-la",
+	"french": "Changeons-la",
+	"ukrainian": "Давайте змінимо",
     },
     "schedule": {
         "english": "Schedules",
         "german": "Zeitpläne",
-		"french": "Programmes",
+	"french": "Programmes",
+	"ukrainian": "Розпорядки дня",
     },
     "followColonyWideSchedule_Title": {
         "english": "Follow Colony-wide Schedule",
         "german": "Dem kolonie-weiten Zeitplan folgen",
-		"french": "Suivre le programme de la colonie",
+	"french": "Suivre le programme de la colonie",
+	"ukrainian": "Дотримуватися розпорядку для всієї колонії",
     },
     "followColonyWideSchedule_Desc": {
         "english": "When enabled, the colony-wide schedule will override the colonist's schedule",
         "german": "Wenn aktiv wird der kolonie-weite Zeitplan den Zeitplan des Kolonisten überschreiben.",
-		"french": "Lorsque cette option est activée, le programme de la colonie remplacera le programme du colon.",
+	"french": "Lorsque cette option est activée, le programme de la colonie remplacera le programme du colon.",
+	"ukrainian": "Якщо ввімкнено, розпорядок дня для всієї колонії замінить розпорядок дня колоніста",
     },
     "paintingCompleted": {
         "english": "Painting Completed",
         "german": "Gemälde fertiggestellt",
-		"french": "Peinture terminée",
+	"french": "Peinture terminée",
+	"ukrainian": "Картину завершено",
     },
     "changeAge": {
         "english": "Change Age",
         "german": "Alter ändern",
-		"french": "Changer l'âge",
+	"french": "Changer l'âge",
+	"ukrainian": "Змінити вік",
     },
 
 }

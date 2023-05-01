@@ -14,6 +14,7 @@
 		"polish": "Witaj! Co cię do nas sprowadza?",
 		"japanese": "こんにちは。ご用件はなんですか？",
 		"czech": "Vítejte. Co vás k nám přivádí?",
+		"ukrainian": "Вітання! Що привело вас до нас?",
 	},
 	"seeYouLater": { // default goodbye. Kind of nice, but still neutral
 		"english": "See you later.",
@@ -30,6 +31,7 @@
 		"polish": "Do zobaczenia.",
 		"japanese": "では、また！",
 		"czech": "Uvidíme se později.",
+		"ukrainian": "До зустрічі!",
 	},
 	"goodbye": { // goodbye to be used when relations are not nice anymore
 		"english": "Goodbye.",
@@ -46,6 +48,7 @@
 		"polish": "Bywajcie.",
 		"japanese": "さようなら。",
 		"czech": "Sbohem.",
+		"ukrainian": "Прощавайте!",
 	},
 	"weAreSorry": {
 		"english": "We're sorry.",
@@ -62,6 +65,7 @@
 		"chinese": "我们很抱歉。",
 		"japanese": "ごめんなさい。",
 		"czech": "Omlouváme se.",
+		//"ukrainian": "
 	},
 	"thanks": {
 		"english": "Thanks.",
@@ -78,6 +82,7 @@
 		"polish": "Dziękujemy.",
 		"japanese": "ありがとう。",
 		"czech": "Díky.",
+		"ukrainian": "Дякуємо!",
 	},
 	"thanksALot": {
 		"english": "Thanks a lot!",
@@ -94,6 +99,7 @@
 		"polish": "Bardzo dziękujemy!",
 		"japanese": "どうも、ありがとう！",
 		"czech": "Díky moc!",
+		"ukrainian": "Ми дуже вдячні!",
 	},
 	"youreWelcome": { // said when colony did something another faction likes (giving presents, defending from pirates, etc.)
 		"english": "You're welcome.",
@@ -110,6 +116,7 @@
 		"polish": "Nie ma za co.",
 		"japanese": "どういたしまして。",
 		"czech": "Není zač.",
+		"ukrainian": "Будь ласка!",
 	},
 	"weUnderstand": {
 		"english": "We understand.",
@@ -126,6 +133,7 @@
 		"polish": "Rozumiemy.",
 		"japanese": "分かりました。",
 		"czech": "Rozumíme.",
+		"ukrainian": "Розуміємо.",
 	},
 	"nothingValuableSelected": {
 		"english": "Present not valuable enough.",
@@ -142,6 +150,7 @@
 		"polish": "To nie nadaje się na podarek.",
 		"japanese": "その程度の贈り物ではそれほど価値がありません。",
 		"czech": "Dar není dostatečně cenný.",
+		"ukrainian": "Подарунок недостатньо цінний.",
 	},
 	"negotiateFreedomOfKidnappedColonist": {
 		"english": "I'd like to negotiate about freeing %firstName%.",
@@ -157,7 +166,7 @@
 		"italian": "Vorrei negoziare la liberazione di %firstName%.",
 		"japanese": "%firstName%の解放について交渉したいです。",
 		"czech": "Rá%dA% bych jedna%lA% o osvobození %firstName%.",
-		
+		"ukrainian": "%firstName% у вас у полоні, ми хотіли б обговорити %hisHer% звільнення."
 	},
 	"kidnappedFreeingText": {
 		"english": "We're ready to release %firstName% if you make it worth our while.\n\nWe require you to give us %tribute% in exchange.",
@@ -173,6 +182,7 @@
 		"italian": "Siamo pronti a rilasciare %firstName% se ne varrà la pena.\n\nTi chiediamo di darci %tribute% in cambio.",
 		"japanese": "%firstName%を解放してほしいのであれば、次の物を準備してください。\n\n%tribute%",
 		"czech": "Jsme připraveni vydat %firstName% pokud se o to zasloužíte.\n\nVýměnou žádáme %tribute%.",
+		"ukrainian": "Ми готові піти вам на зустріч. %firstName% вийде на волю якщо ви заплатите викуп. \n\nМи вимагаємо %tribute%!",
 	},
 	"kidnappedFreeingAcceptButton": {
 		"english": "Fine, we'll pay.",
@@ -189,7 +199,7 @@
 		"polish": "Zgoda, zapłacimy.",
 		"japanese": "分かりました。支払いましょう。",
 		"czech": "Dobře, zaplatíme.",
-		
+		"ukrainian": "Добре, ми заплатимо.",
 	},
 	"kidnappedFreeingDenyButton": {
 		"english": "Actually, we can't afford it.",
@@ -205,6 +215,7 @@
 		"italian": "In realtà, non possiamo permettercelo.",
 		"japanese": "それだけの物はまだ準備できていません。",
 		"czech": "Vlastně si to nemůžeme dovolit.",
+		"ukrainian": "На жаль, це нам не по кишені.",
 	},
 	"kidnappedFreeingAcceptedText": {
 		"english": "It's a deal. We freed %firstName% and will guarantee to not attack you for half a day, so you can come and get %himHer%.",
@@ -220,6 +231,7 @@
 		"italian": "Affare fatto. Liberiamo %firstName% e ti garantiamo che non attaccheremo per metà giornata, così potrai venire a %PrenderloPrenderla%.",
 		"japanese": "交渉が成立しました。%firstName%を解放します。また半日攻撃しない事を保証します。",
 		"czech": "Je to dohoda. Osvobodili jsme %firstName% a zaručíme, že na vás nebudeme útočit půl dne, takže si vězně můžete vyzvednout.",
+		"ukrainian": "Домовились! %firstName% буде звільнен%heshe_IY_A% і ми обіцяємо не нападати на вас півдня, щоб ви могли прийти й забрати %hisHer%.",
 	},
 	"kidnappedFreeingAcceptedAnswer": {
 		"english": "Thanks.",
@@ -236,6 +248,7 @@
 		"polish": "Dzięki.",
 		"japanese": "ありがとう。",
 		"czech": "Díky.",
+		"ukrainian": "Дякуємо!",
 	},
 	"whenIsTraderNextPlanningToCome": {
 		"english": "When are you next planning to come by?",
@@ -252,6 +265,7 @@
 		"polish": "Kiedy znowu się zobaczymy?",
 		"japanese": "次はいつくる予定ですか？",
 		"czech": "Kdy plánujete přijít?",
+		"ukrainian": "Коли ви плануєте завітати до нас?",
 	},
 	"traderArrivalAnyMoment": {
 		"english": "We're actually arriving any moment now!",
@@ -267,6 +281,7 @@
 		"italian": "In realtà arriveremo da un momento all'altro!",
 		"japanese": "もうすぐ到着します！",
 		"czech": "Vlastně dorazíme každou chvílí!",
+		"ukrainian": "Насправді, ми прибудемо з хвилини на хвилину!",
 	},
 	"traderArrivalInDays": {
 		"english": "We're planning to visit your village in %days1% to %days2% days.",
@@ -282,6 +297,7 @@
 		"italian": "Abbiamo intenzione di visitare il vostro villaggio tra %days1% o %days2% giorni.",
 		"japanese": "%days1%-%days2%日で到着する予定です。",
 		"czech": "Plánujeme navštívit vaši vesnici za %days1% až %days2% dny.",
+		"ukrainian": "Ми плануємо завітати до вас через %days1%-%days2% дн.",
 	},
 	"traderArrivalAskForFastArrival": {
 		"english": "Would you mind sailing here immediately?",
@@ -298,6 +314,7 @@
 		"polish": "Czy mógłbyś natychmiast przypłynąć?",
 		"japanese": "すぐにここへ来てくれませんか？",
 		"czech": "Vadilo by vám okamžitě se sem připlavit?",
+		"ukrainian": "Чи не проти ви припливти до нас негайно?",
 	},
 	"traderArrivalThanksForInfo": {
 		"english": "Thanks for the info.",
@@ -314,6 +331,7 @@
 		"polish": "Dziękuję za informację.",
 		"japanese": "ありがとう！",
 		"czech": "Děkuji za informaci.",
+		"ukrainian": "Дякуємо за інформацію.",
 	},
 	"traderArrivalFastAccepted": {
 		"english": "We will have to take a detour...\nIt really messes with our trading plans, but we'll make an exception for you.",
@@ -329,6 +347,7 @@
 		"italian": "Dovremo fare una deviazione...\nIncasina un po' i nostri piani mercantili, ma faremo un'eccezione per te.",
 		"japanese": "すぐですか...\nわかりました。すぐにお伺いしましょう。あなたたちには返しきれない恩がありますから。",
 		"czech": "Budeme to muset vzít oklikou...\nKazí to naše obchodní plány, ale uděláme pro tebe výjimku",
+		"ukrainian": "Нам доведеться зійти з маршруту... \nЦе трохи поруйнує наші торгівельні плани, але ми зробимо для вас виняток.",
 	},
 	"traderArrivalFastDenied": {
 		"english": "Sorry, we can't afford to take a detour for you.",
@@ -344,6 +363,7 @@
 		"italian": "Mi spiace, non possiamo permetterci di fare una deviazione per voi.",
 		"japanese": "すみません。すぐにはそちらへ行く事はできません。",
 		"czech": "Promiň, ale nemůžeme si dovolit to vzít oklikou",
+		"ukrainian": "Вибачте, але ми не будемо сходити із запланованого маршруту заради цього.",
 	},
 	"askAboutTradingDiscount": {
 		"english": "Are you going to give us a trading discount?",
@@ -360,6 +380,7 @@
 		"polish": "Czy dostaniemy jakąś zniżkę handlową?",
 		"japanese": "貿易取引の割引はできますか？",
 		"czech": "Poskytnete nám obchodní slevu?",
+		"ukrainian": "Ви не хочете зробити нам знижку?",
 	},
 	"tradingDiscountAcceptedText": {
 		"english": "We see you as a good friend of our people so we're trying to give you a %percent% percent discount.",
@@ -375,6 +396,7 @@
 		"italian": "La nostra gente ha grande stima di te, perciò ti concederemo un %percent% % di sconto.",
 		"japanese": "あなたは良い友人です。%percent%%の割引をしましょう。",
 		"czech": "Vidíme vás jako dobré přátelé našich lidí, takže vám poskytneme slevu %procent% procent.",
+		"ukrainian": "Ми вважаємо вас добрими друзями, тому згодні надати вам знижку %percent% відсотків.",
 	},
 	"tradingDiscountDeniedText": {
 		"english": "Sorry, but you're not really a good friend of our people. We can't afford to give out discounts to everyone.",
@@ -390,6 +412,7 @@
 		"italian": "Mi spiace, ma non siete in sintonia con la nostra gente. Non possiamo permetterci di offrire sconti a tutti.",
 		"japanese": "申し訳ありません。あなたは良い友人ではありませんので、割引する事はできません。",
 		"czech": "Omlouváme se, ale nejste opravdu dobrý přítel našich lidí. Nemůžeme si dovolit rozdávat slevy všem.",
+		"ukrainian": "Вибачте, але ми з вами не друзі. Ми не можемо дозволити собі робити знижки всім підряд.",
 	},
 
 
@@ -408,6 +431,7 @@
 		"polish": "Mamy dla was podarek.",
 		"japanese": "贈り物を差し上げます。",
 		"czech": "Rádi bychom vám nabídli dárek.",
+		"ukrainian": "Ми хочемо запропонувати вам подарунок.",
 	},
 	"offerPresentText": {
 		"english": "A happy surprise! What is it?",
@@ -424,6 +448,7 @@
 		"polish": "Jak miło! Co to takiego?",
 		"japanese": "嬉しいです！どの様な贈り物をいただけますか？",
 		"czech": "Překvapení!!! Co je to?",
+		"ukrainian": "Яка чудова несподіванка! Що це буде?",
 	},
 	"offerPresentButton": {
 		"english": "Please take this as a gift.",
@@ -440,7 +465,7 @@
 		"polish": "Proszę, przyjmijcie to jako prezent.",
 		"japanese": "この贈り物を受け取ってください。",
 		"czech": "Berte to prosím jako dárek.",
-		
+		"ukrainian": "Будь ласка, прийміть це як подарунок.",
 	},
 	"presentOpinion": {
 		"english": "This is a %present%.",
@@ -457,6 +482,7 @@
 		"polish": "To jest %present%.",
 		"japanese": "この贈り物は%present%です。",
 		"czech": "Toto je %present%.",
+		"ukrainian": "Це %present%.",
 	},
 	"smallPresent": {
 		"english": "small present",
@@ -473,6 +499,7 @@
 		"polish": "mały prezent",
 		"japanese": "少し嬉しい",
 		"czech": "malý dárek",
+		"ukrainian": "невеличкий подарунок",
 	},
 	"mediumPresent": {
 		"english": "medium present",
@@ -489,6 +516,7 @@
 		"polish": "średni prezent",
 		"japanese": "嬉しい",
 		"czech": "střední dárek",
+		"ukrainian": "середній подарунок",
 	},
 	"largePresent": {
 		"english": "large present",
@@ -505,6 +533,7 @@
 		"polish": "duży prezent",
 		"japanese": "とても嬉しい",
 		"czech": "velký dárek",
+		"ukrainian": "великий подарунок",
 	},
 	"offerPresentCancel": {
 		"english": "Actually, we can't afford it.",
@@ -520,6 +549,7 @@
 		"italian": "In realtà, non possiamo permettercelo.",
 		"japanese": "それだけの贈り物を揃える余裕はありません。",
 		"czech": "Vlastně si to nemůžeme dovolit.",
+		"ukrainian": "Насправді, ми не можемо цього собі дозволити.",
 	},
 	"acceptPresentsBadRelations": {
 		"english": "Fine, we'll take it.",
@@ -536,6 +566,7 @@
 		"polish": "Zgoda, przyjmiemy to jako podarek.",
 		"japanese": "贈り物をありがとう。",
 		"czech": "Dobře, vezmeme to.",
+		"ukrainian": "Добре, ми це візьмемо.",
 	},
 	"acceptPresentsNeutralRelations": {
 		"english": "Thank you. We accept your thoughtful present.",
@@ -552,6 +583,7 @@
 		"polish": "Dziękujemy! Z przyjemnością przyjmiemy ten podarek.",
 		"japanese": "ありがとう！思いやりにあふれた贈り物はうれしいです。",
 		"czech": "Děkuji. Přijímáme váš dárek.",
+		"ukrainian": "Дякуємо! Ми приймаємо цей чудовий подарунок.",
 	},
 	"acceptPresentsGoodRelations": {
 		"english": "Thanks! You're a good friend of our people.",
@@ -567,6 +599,7 @@
 		"italian": "Grazie! La nostra gente ha grande stima di voi.",
 		"japanese": "ありがとう！あなたはとっても良い友人です。",
 		"czech": "Díky! Jste dobrým přítelem našich lidí.",
+		"ukrainian": "Дякуємо! Ви добрі друзі нашого народу.",
 	},
 	"demandTribute": {
 		"english": "We demand a tribute from you.",
@@ -583,6 +616,7 @@
 		"polish": "Żądamy daniny.",
 		"japanese": "貢物を要求します。",
 		"czech": "Požadujeme od vás daň.",
+		"ukrainian": "Ми вимагаємо від вас данину!",
 	},
 	"tributeSelectionText": {
 		"english": "Really...?",
@@ -599,6 +633,7 @@
 		"polish": "Doprawdy?",
 		"japanese": "本当に...?",
 		"czech": "Vážně...?",
+		"ukrainian": "Хм... Серйозно?",
 	},
 	"tributeSelectionDemand": {
 		"english": "Please give use these items.",
@@ -615,6 +650,7 @@
 		"polish": "Tego żądamy!",
 		"japanese": "これだけの物をください。",
 		"czech": "Dejte nám tyto věci.",
+		"ukrainian": "Будь ласка, дайте нам ці предмети.",
 	},
 	"tributeSelectionJustKidding": {
 		"english": "Just Kidding.",
@@ -631,6 +667,7 @@
 		"polish": "To był żart.",
 		"japanese": "冗談です。",
 		"czech": "To byl jen vtip.",
+		"ukrainian": "Ми просто пожартували.",
 	},
 	"tributeSelectionAcceptanceProbability": {
 		"english": "Probability of them accepting the tribute: %probability% percent.",

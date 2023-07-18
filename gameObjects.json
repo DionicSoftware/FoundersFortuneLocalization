@@ -20,7 +20,6 @@
 		"japanese": "食材用かご",
 	},
 	//TODO-turkish: additional sentence at the end
-	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
 	//TODO-polish: additional sentence at the end
 	"appleBasketDescription": {
@@ -31,7 +30,7 @@
 		"portuguese": "Use esta cesta para fornecer alimentos crus aos seus colonos. Sempre que tiver fome, eles vão ao cesto para comer algo - desde que você tenha comida suficiente na loja.\n\nEsta cesta pode armazenar até %capacityFoodRaw% de alimentos crus.",
 		"turkish": "Bu sepeti kolonilerinize çiğ yiyecek sağlamak için kullanın. Acıklarında yiyecek bir şeyler almak için sepete gelirler - yeterince yiyecek bulunduğunuz sürece.",
 		"russian": "Эта корзина хранит сырую пищу. Каждый раз, когда колонисты проголодаются, они будут подходить к ней и брать что-нибудь поесть до тех пор, пока еда не закончится.\n\nЭта корзина может хранить до %capacityFoodRaw% сырой пищи.",
-		"ukrainian": "Цей кошик зберігає сиру їжу. Кожен раз, коли колоністи проголодаются, вони будуть підходити до неї і брати що-небудь поїсти до тих пір, поки їжа не закінчиться.",
+		"ukrainian": "Використовуйте цей кошик, щоб забезпечити своїх колоністів сирою їжею. Щоразу, коли зголодніють, вони підійдуть до кошика, щоб поїсти, якщо у вас достатньо їжі в запасі.\n\nЦей кошик може зберігати до %capacityFoodRaw% од. сирої їжі.",
 		"korean": "이 바구니에 과일과 채소를 담아 개척자들에게 제공하세요. 배가 고파지면, 바구니에서 먹을 것을 꺼내어 먹을겁니다 - 충분한 음식이 저장되어있다면, 말이죠.",
 		"dutch": "Gebruik deze mand om te zorgen dat je kolonisten rauw voedsel kunnen eten. Als ze honger hebben, komen ze naar de mand om wat te eten - zolang je genoeg voedsel in voorraad hebt.\n\nDeze mand kan tot maximaal %capacityFoodRaw% stuks aan rauw voedsel bevatten.",
 		"chinese": "用这个篮子给你的殖民者提供生的食物。当他们饿了的时候，只要你有足够的食物，他们就会到篮子里来找吃的。\n\n此架子最多存放 %capacityFoodRaw% 生鲜食材。",
@@ -58,7 +57,6 @@
 		"czech": "Regál na vařené jídlo z ohniště",
 	},
 	//TODO-turkish: additional sentence at the end
-	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
 	//TODO-polish: additional sentence at the end
 	"foodShelfCampfireDescription": {
@@ -69,7 +67,7 @@
 		"portuguese": "Essa mistura de prateleira e cesto é o local ideal para armazenar alimentos cozidos em uma fogueira!\n\nEsta prateleira pode armazenar até %capacityFoodCooked% de alimentos cozidos.",
 		"turkish": "Bu raf ve sepet karışımı, kamp ateşinde pişirilmiş yiyecekleri saklamak için ideal!",
 		"russian": "Это объединение полки и корзины - идеальное место для хранения продуктов, приготовленных на костре.\n\nЭта корзина может хранить до %capacityFoodCooked% приготовленной пищи.",
-		"ukrainian": "Це об'єднання полиці і корзини - ідеальне місце для зберігання продуктів, приготованих на вогнищі.",
+		"ukrainian": "Ця суміш із полиці та кошика є ідеальним місцем для зберігання їжі, приготовленої на багатті!\n\nНа цій полиці можна зберігати до %capacityFoodCooked% од. приготовленої їжі.",
 		"korean": "선반 위에 바구니가 잔뜩 놓여있습니다 - 모닥불에 구운 음식들을 저장하기에 최적의 장소죠!",
 		"dutch": "Deze mix van een plankenkast en een mand is de ideale plaats om eten op te slaan dat gekookt is boven een kampvuur!\n\nDeze plakenkast kan tot maximaal %capacityFoodCooked% stuks bereid voedsel bevatten.",
 		"chinese": "架子与篮子的结合体是储存在烤制食物的理想办法!\n\n此架子最多存放 %capacityFoodCooked% 烤制食物。",
@@ -87,7 +85,7 @@
 		"turkish": "Mutfakta hazırlanmış yemekler için raf",
 		"russian": "Полка для еды из кухни",
 		"dutch": "Plankenkast voor voedsel uit de keuken",
-		"ukrainian": "Полиця для їжі з кухні",
+		"ukrainian": "Полиця для страв із кухні",
 		"korean": "조리된 음식 보관용 선반",
 		"chinese": "烹饪食物架子",
 		"italian": "Scaffale per cibo da cucina",
@@ -96,7 +94,6 @@
 		"czech": "Regál na vařené jídlo z kuchyně",
 	},
 	//TODO-turkish: additional sentence at the end
-	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
 	//TODO-polish: additional sentence at the end
 	"foodShelfKitchenDescription": {
@@ -108,7 +105,7 @@
 		"turkish": "Mutfak Yemeklerini saklamak için bu muhteşem raftan daha iyi bir yer var mı?",
 		"russian": "Разве есть место лучше для хранения еды, приготовленной на кухне?!\n\nЭта полка может хранить до %capacityFoodCooked% приготовленной еды.",
 		"dutch": "Welke plaats is beter om eten uit de keuken op te slaan dan deze wonderbaarlijke plankenkast?\n\nDeze plankenkast kan tot maximaal %capacityFoodCooked% stuks bereid voedsel bevatten.",
-		"ukrainian": "Хіба є краще місце щоб зберігати їжу приготовлену на кухні?",
+		"ukrainian": "Чи є краще місце для зберігання ваших страв, ніж ця чудова полиця?\n\nНа цій полиці можна зберігати до %capacityFoodCooked% од. приготовленої їжі.",
 		"korean": "조리된 음식을 보관하기에 이 멋진 선반보다 나은 곳이 있을까요?",
 		"chinese": "还有什么地方比这个华丽的架子更适合存放烹饪食物呢?\n\n此架子最多存放 %capacityFoodCooked% 烹饪食物。",
 		"italian": "Quale posto migliore per conservare il tuo cibo da cucina se non su questo splendido scaffale!\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
@@ -125,7 +122,7 @@
 		"turkish": "Pişmiş Yemek Rafı",
 		"russian": "Полка для выпечки",
 		"dutch": "Plankenkast voor gebakken voedsel",
-		"ukrainian": "Полиця для випеченої їжі",
+		"ukrainian": "Полиця для випічки",
 		"korean": "화덕에 구운 음식 보관용 선반",
 		"chinese": "烤制食物架",
 		"italian": "Scaffale per cibi da forno",
@@ -134,7 +131,6 @@
 		"czech": "Regál na pečené jídlo",
 	},
 	//TODO-turkish: additional sentence at the end
-	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
 	//TODO-polish: additional sentence at the end
 	"foodShelfBakeryDescription": {
@@ -146,7 +142,7 @@
 		"turkish": "Bu raf fırında pişirilen yiyecekler için ilk tercihiniz olacak.",
 		"russian": "Эта полка идеально подойдет для хранения выпечки.\n\nЭта полка может хранить до %capacityFoodCooked% приготовленной еды.",
 		"dutch": "Deze plankenkast is je eerste keus voor eten dat gebakken is in een bakkerij.\n\nDeze plankenkast kan tot maximaal %capacityFoodCooked% stuks bereid voedsel bevatten.",
-		"ukrainian": "Ця полиця ідеально підійде для зберігання випічки.",
+		"ukrainian": "Ця полиця - найкращий вибір для зберігання випічки.\n\nНа цій полиці можна зберігати до %capacityFoodCooked% од. приготовленої їжі.",
 		"korean": "화덕에 구운 음식을 둘 곳을 찾고 있다면, 이 선반이 최고의 선택입니다.",
 		"chinese": "这个架子是你在面包工坊烘焙食物的首选。\n\n此架子最多存放 %capacityFoodCooked% 烹饪食物。",
 		"italian": "Questa scaffale è la tua prima scelta per i cibi che sono stati cotti al forno.\n\nQuesto scaffale può conservare fino a %capacityFoodCooked% cibi cotti.",
@@ -161,7 +157,7 @@
 		"spanish": "Gabinete de Pociones Curativas",
 		"portuguese": "Gabinete de Poção de Cura",
 		"russian": "Шкаф с лечебными зельями",
-		"ukrainian": "Шафа з лікувальним зіллям",
+		"ukrainian": "Шафа із цілющим зіллям",
 		"korean": "회복약 보관장",
 		"dutch": "Helende Drankjes Kast",
 		"turkish": "Şifa İksirleri Dolabı",
@@ -172,7 +168,6 @@
 		"czech": "Skříň na léčivé lektvary",
 	},
 	//TODO-turkish: additional sentence at the end
-	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
 	//TODO-polish: additional sentence at the end
 	"potionMedicineStorageDescription": {
@@ -182,7 +177,7 @@
 		"spanish": "¿Te duele la pierna? ¿Estás enfermo? ¿Perdiendo sangre? Sin importar el tipo de daño que ha caído sobre ti, una poción curativa es siempre una buena idea. Incluso si realmente no cura tu condición, al menos alivia el dolor. Y además, saben bien.\n\nEste estante puede guardar hasta %capacityMedicine% de medicina y %capacityHealingPotion% pociones curativas.",
 		"portuguese": "Sua perna dói? Você está doente? Perdendo sangue? Não importa que tipo de dano tenha caído sobre você, uma poção de cura é sempre uma boa idéia. Mesmo se realmente não curar sua condição, pelo menos entorpece a dor. E essas poções também têm bom gosto. \n\nEsta prateleira pode armazenar até %capacityMedicine% remédios e até %capacityHealingPotion% poções de cura.",
 		"russian": "У вас болит нога? Вы болеете? Потеряли много крови? Независимо от того, какой вред вам нанесен, лечебное зелье всегда будет хорошей идеей. Оно не лечит, однако, оно помогает ослабить боль. А еще, эти зелья такие вкусные!\n\nЭтот шкаф может хранить до %capacityMedicine% лекарст и до %capacityHealingPotion% лечебных зелий.",
-		"ukrainian": "У вас болить нога? Ви хворієте? Втратили багато крові? Незалежно від того, якої шкоди вам завдано, лікувальне зілля завжди буде гарною ідеєю. Воно не лікує, проте воно допомагає послабити біль. А ще ці зілля такі смачні!",
+		"ukrainian": "У вас болить нога? Ви хворієте? Втратили багато крові? Незалежно від того, яка шкода вас спіткала, цілюще зілля - це завжди гарна ідея. Навіть якщо воно насправді вас не вилікує, то принаймні приглушить біль. А також ці зілля чудово смакують!\n\nУ цій шафі можна зберігати до %capacityMedicine% од. ліків та до %capacityHealingPotion% од. цілющого зілля.",
 		"korean": "다리를 다쳤나요? 어디 아픈가요? 피를 리나요? 어떤 아픔을 겪고 있더라도, 회복약은 언제나 좋은 선택입니다. 진짜로 병을 낫게 하진 않겠지만, 최소한 고통은 줄여줄테니까요. 아, 또 맛도 좋아요.",
 		"dutch": "Doet je been pijn? Ben je ziek? Bloed verlies? Het maakt niet uit wat voor pijn je hebt, een helend drankje is altijd een goed idee. Ook als het niet echt je conditie verbeterd, het verminderd tenminste de pijn. En deze drankjes smaken ook nog goed.\n\nDeze plankenkast kan tot maximaal %capacityMedicine% aan medicijnen en tot maximaal %capacityHealingPotion% aan helende drankjes bevatten.",
 		"turkish": "Bacağın mı ağrıyor? Hasta mısın? Kan mı kaybediyorsun? Başına bela olan sağlık sorunu ne olursa olsun iyileştirici bir iksir her zaman iyi bir fikirdir. Durumunu iyileştirmese bile, en azından acıyı uyuşturuyor, üstelik bu iksirlerin tadı da güzel.",
@@ -199,7 +194,7 @@
 		"french": "Baril de bière",
 		"russian": "Пивная бочка",
 		"portuguese": "Barril de cerveja",
-		"ukrainian": "Бочка з Пивом ",
+		"ukrainian": "Пивна діжка",
 		"korean": "맥주통",
 		"turkish": "Bira Fıçısı",
 		"dutch": "Bier Ton",
@@ -211,7 +206,6 @@
 		"czech": "Pivní sud",
 	},
 	//TODO-turkish: additional sentence at the end
-	//TODO-ukrainian: additional sentence at the end
 	//TODO-korean: additional sentence at the end
 	//TODO-polish: additional sentence at the end
 	"beerRefillBarrelDescription": {
@@ -220,7 +214,7 @@
 		"french": "En tant que moyen de réserve et origine de la bière fraîche, le baril de bière revêt une grande importance pour toutes les colonies (tant qu’il en reste dedans...). Vous verrez à quel point vos colons seront heureux lorsque vous leur permettrez de remplir leur chope. À votre santé !\n\nCe baril peut contenir jusqu'à %capacityBeer% bières.",
 		"russian": "Пивная бочка отлично подойдет для хранения пива. Она очень востребованна колонистами (Ну, пока она не опустошится...). Вы сразу увидите, как настроение ваших колонистов поднимется после употребления этого пшеничного напитка. Ура!\n\nЭта бочка может хранит до %capacityBeer% пива.",
 		"portuguese": "Como meio de armazenamento e a origem da cerveja fresca, um barril de cerveja é de grande importância para todas as colônias por aí (bem, desde que ainda restem algumas lá ...). Você verá como seus colonos ficam felizes quando você permite que eles encham suas canecas. Saúde! \n\nEste barril pode conter até %capacityBeer% cerveja.",
-		"ukrainian": "Пивна бочка відмінно підійде для зберігання пива. Вона дуже потрібна колоністами (Ну, поки вона не спустошиться ...). Ви відразу побачите, як настрій ваших колоністів підніметься після вживання цього пшеничного напою. Ура!",
+		"ukrainian": "Як засіб зберігання та джерело свіжого пива, пивна діжка має величезне значення для всіх колоній без виключення (Ну, допоки вона не спорожніє...). Ви побачите, якими щасливими стануть ваші колоністи, коли ви дозволите їм наповнити свої кухлі. Будьмо, гей!\n\nЦя діжка вміщає до %capacityBeer% од. пива.",
 		"korean": "맥주를 신선하게 보관하다가 따라낼 수 있는 수단인 맥주통은 모든 개척자들에게 가장 중요한 물건입니다 (뭐, 남은 맥주가 있을 때의 이야기지만요...). 개척자들이 맥주잔을 채울 수 있게 해 준다면, 그들이 얼마나 기뻐하는지 보게 될 겁니다. 건배!",
 		"dutch": "Een manier van opslag en de origine van vers bier, bier tonnen zijn zeer belangrijk voor alle kolonieën (Nou, zolang er nog bier in zit...). Je zult zien hoe blij je kolonisten worden als je ze toestaat om hun bekers te vullen. Proost!\n\nDit vat kan tot maximaal %capacityBeer% bier bevatten.",
 		"turkish": "Saklama aracı ve taze biranın kaynağı olarak, bira fıçısı tüm yerleşimler için büyük önem taşıyor (En azından içinde biraz kaldığı sürece ...). Yerleşimcilerinizin bardaklarını doldurmalarına izin verildiğinde ne kadar mutlu olduklarını göreceksiniz. Şerefe!",
@@ -245,7 +239,7 @@
 		"turkish": "Basit Ahşap Şifoniyer",
 		"dutch": "Simpele Houten Ladekast",
 		"russian": "Простой Деревянный Комод",
-		"ukrainian": "Дерев'яний Комод",
+		"ukrainian": "Простий дерев'яний комод",
 		"korean": "단순한 목제 서랍장",
 		"chinese": "简易木制梳妆台",
 		"italian": "Comodino di legno semplice",
@@ -262,7 +256,7 @@
 		"turkish": "Sert ahşap plakalardan yapılmış bir şifoniyer.",
 		"dutch": "Een ladekast gemaakt van ruwe houten planken.",
 		"russian": "Комод из грубых деревянных досок.",
-		"ukrainian": "Комод з грубих дерев'яних дощок.",
+		"ukrainian": "Комод із грубих дерев'яних дощок.",
 		"korean": "거친 나무 판자로 만들어진 서랍장.",
 		"chinese": "用粗糙的木板做成的梳妆台。",
 		"italian": "Un comodino realizzato con assi di legno grezzo.",
@@ -279,7 +273,7 @@
 		"turkish": "Basit Ahşap Şifoniyer",
 		"dutch": "Simpele Houten Ladekast",
 		"russian": "Простой Деревянный Комод",
-		"ukrainian": "Широкий Дерев'яний Комод",
+		"ukrainian": "Широкий дерев'яний комод",
 		"korean": "단순한 목제 서랍장",
 		"chinese": "简易木制梳妆台",
 		"italian": "Comodino di legno semplice",
@@ -296,7 +290,7 @@
 		"turkish": "Sert ahşap plakalardan yapılmış geniş bir şifoniyer.",
 		"dutch": "Een brede ladekast gemaakt van ruwe houten planken.",
 		"russian": "Широкий комод из грубых деревянных досок.",
-		"ukrainian": "Комод з грубих дерев'яних дощок.",
+		"ukrainian": "Широкий комод із грубих дерев'яних дощок.",
 		"korean": "거친 나무 판자로 만들어진 넓은 서랍장.",
 		"chinese": "用粗糙的木板做成的宽梳妆台。",
 		"italian": "Un ampio comodino realizzato con assi di legno grezzo.",
@@ -313,7 +307,7 @@
 		"turkish": "Basit Ahşap Şifoniyer",
 		"dutch": "Simpele Houten Ladekast",
 		"russian": "Простой Деревянный Комод",
-		"ukrainian": "Високий Дерев'яний Комод",
+		"ukrainian": "Високий дерев'яний комод",
 		"korean": "단순한 목제 서랍장",
 		"chinese": "简易木制梳妆台",
 		"italian": "Comodino di legno semplice",
@@ -330,7 +324,7 @@
 		"turkish": "Sert ahşap tahtalardan yapılmış uzun bir şifoniyer.",
 		"dutch": "Een hoge ladekast gemaakt van ruwe houten planken",
 		"russian": "Высокий комод из грубых деревянных досок.",
-		"ukrainian": "Високий комод з грубих дерев'яних дощок.",
+		"ukrainian": "Високий комод із грубих дерев'яних дощок.",
 		"korean": "거친 나무 판자로 만들어진 높은 서랍장.",
 		"chinese": "用粗糙的木板做成的高梳妆台。",
 		"italian": "Un comodino alto realizzato con assi di legno grezzo.",
@@ -347,7 +341,7 @@
 		"turkish": "Doğal Ahşap Şifoniyer",
 		"dutch": "Natuurlijke Houten Ladekast",
 		"russian": "Живой Деревянный Комод",
-		"ukrainian": "Комод з натурального дерева.",
+		"ukrainian": "Комод з натурального дерева",
 		"korean": "나무결이 살아있는 서랍장",
 		"chinese": "天然木制梳妆台",
 		"italian": "Comodino di legno naturale",
@@ -364,7 +358,7 @@
 		"dutch": "Een ladekast gemaakt van hout dat er natuurlijk uit ziet.",
 		"turkish": "Doğal görünümlü ahşaptan yapılmış bir şifoniyer.",
 		"russian": "Комод из живого дерева.",
-		"ukrainian": "Комод з натурального дерева.",
+		"ukrainian": "Комод, виготовлений із натурального дерева.",
 		"korean": "결이 살아있는 나무로 만들어진 서랍장.",
 		"chinese": "天然木材做成的梳妆台。",
 		"italian": "Un comodino in legno dall'aspetto naturale.",
@@ -381,7 +375,7 @@
 		"turkish": "Doğal Ahşap Şifoniyer",
 		"dutch": "Natuurlijke Houten Ladekast",
 		"russian": "Природный Деревянный Комод",
-		"ukrainian": "Широкий Комод з натурального дерева.",
+		"ukrainian": "Широкий комод з натурального дерева",
 		"korean": "나무결이 살아있는 서랍장",
 		"chinese": "天然木制梳妆台",
 		"italian": "Comodino di legno naturale",
@@ -398,7 +392,7 @@
 		"dutch": "Een brede ladekast gemaakt van hout dat er natuurlijk uitziet.",
 		"turkish": "Doğal görünümlü ahşaptan yapılmış geniş bir şifoniyer.",
 		"russian": "Комод из натурального дерева.",
-		"ukrainian": "Комод з натурального дерева.",
+		"ukrainian": "Широкий комод, виготовлений із натурального дерева.",
 		"korean": "결이 살아있는 나무로 만들어진 넓은 서랍장.",
 		"chinese": "宽大的梳妆台，用看上去是天然木头做的。",
 		"italian": "Un ampio comodino in legno dall'aspetto naturale.",
@@ -415,7 +409,7 @@
 		"turkish": "Doğal Ahşap Şifoniyer",
 		"dutch": "Natuurlijke Houten Ladekast",
 		"russian": "Природный Деревянный Комод",
-		"ukrainian": "Високий Комод з натурального дерева.",
+		"ukrainian": "Високий комод з натурального дерева",
 		"korean": "나무결이 살아있는 서랍장",
 		"chinese": "天然木制梳妆台",
 		"italian": "Comodino di legno naturale",
@@ -432,7 +426,7 @@
 		"dutch": "Een hoge ladekast gemaakt van hout dat er natuurlijk uitziet.",
 		"turkish": "Doğal görünümlü ahşaptan yapılmış uzun bir şifoniyer.",
 		"russian": "Комод из натурального дерева.",
-		"ukrainian": "Комод з натурального дерева.",
+		"ukrainian": "Високий комод, виготовлений із натурального дерева.",
 		"korean": "결이 살아있는 나무로 만들어진 높은 서랍장.",
 		"chinese": "高高的梳妆台，用看上去是天然木头做的。",
 		"italian": "Un comodino alto in legno dall'aspetto naturale.",
@@ -449,7 +443,7 @@
 		"dutch": "Simpele Stenen Ladekast",
 		"portuguese": "Cômoda de Pedra Simples",
 		"russian": "Простой Каменный Комод",
-		"ukrainian": "Кам'яний Комод",
+		"ukrainian": "Простий кам'яний комод",
 		"korean": "단순한 석제 서랍장",
 		"chinese": "简易石制梳妆台",
 		"italian": "Comodino di pietra semplice",
@@ -466,7 +460,7 @@
 		"dutch": "Een ladekast gebeiteld uit een stenen blok.",
 		"portuguese": "Uma cômoda esculpida em um bloco de pedra.",
 		"russian": "Комод, выточенный из каменного блока.",
-		"ukrainian": "Комод виточений з кам'яного блоку.",
+		"ukrainian": "Комод, висічений з кам'яної брили.",
 		"korean": "돌을 깎아내 만든 서랍장.",
 		"chinese": "用石块雕刻的梳妆台。",
 		"italian": "Un comodino ricavato da un blocco di pietra.",
@@ -483,7 +477,7 @@
 		"portuguese": "Cômoda de Pedra Simples",
 		"dutch": "Simpele Stenen Ladekast",
 		"russian": "Простой Каменный Комод",
-		"ukrainian": "Широкий Кам'яний Комод",
+		"ukrainian": "Широкий кам'яний комод",
 		"korean": "단순한 석제 서랍장",
 		"chinese": "简易石制梳妆台",
 		"italian": "Comodino di pietra semplice",
@@ -500,7 +494,7 @@
 		"dutch": "Een brede ladekast gebeiteld uit een stenen blok.",
 		"portuguese": "Uma cômoda larga esculpida em um bloco de pedra.",
 		"russian": "Комод, выточенный из каменного блока.",
-		"ukrainian": "Комод виточений з кам'яного блоку.",
+		"ukrainian": "Широкий комод, висічений з кам'яної брили.",
 		"korean": "돌을 깎아내 만든 넓은 서랍장.",
 		"chinese": "用石块雕成的宽梳妆台。",
 		"italian": "Un ampio comodino ricavato da un blocco di pietra.",
@@ -517,7 +511,7 @@
 		"portuguese": "Cômoda de Pedra Simples",
 		"dutch": "Simpele Stenen Ladekast",
 		"russian": "Простой Каменный Комод",
-		"ukrainian": "Високий Кам'яний Комод",
+		"ukrainian": "Високий кам'яний комод",
 		"korean": "단순한 석제 서랍장",
 		"chinese": "简易石制梳妆台",
 		"italian": "Comodino di pietra semplice",
@@ -534,7 +528,7 @@
 		"dutch": "Een hoge ladekast gebeiteld uit een stenen block.",
 		"portuguese": "Uma cômoda alta esculpida em um bloco de pedra.",
 		"russian": "Комод, выточенный из каменного блока.",
-		"ukrainian": "Комод виточений з кам'яного блоку.",
+		"ukrainian": "Високий комод, висічений з кам'яної брили.",
 		"korean": "돌을 깎아내 만든 높은 서랍장.",
 		"chinese": "用石块雕成的高梳妆台。",
 		"italian": "Un comodino alto ricavato da un blocco di pietra.",
@@ -568,7 +562,7 @@
 		"dutch": "Een ladekast gemaakt van alleen de beste houten planken.",
 		"portuguese": "Uma cômoda feita apenas das melhores tábuas de madeira.",
 		"russian": "Этот комод сделан только из лучших деревянных досок.",
-		"ukrainian": "Цей комод зроблений тільки з кращих дерев'яних дощок.",
+		"ukrainian": "Цей комод зроблений лише з кращих дерев'яних дощок.",
 		"korean": "최상의 목재로만 만들어진 서랍장.",
 		"chinese": "梳妆台采用最好的木板制作。",
 		"italian": "Un comodino realizzato solo con le migliori assi di legno.",
@@ -585,7 +579,7 @@
 		"dutch": "Geavanceerde Houten Ladekast",
 		"portuguese": "Cômoda de madeira avançada",
 		"russian": "Улучшенный деревянный комод.",
-		"ukrainian": "Широкий Покращений дерев'яний комод",
+		"ukrainian": "Широкий покращений дерев'яний комод",
 		"korean": "고급 목제 서랍장",
 		"chinese": "高级木制梳妆台",
 		"italian": "Comodino di legno rifinito",
@@ -602,7 +596,7 @@
 		"dutch": "Een brede ladekast gemaakt van alleen de beste houten planken.",
 		"portuguese": "Uma penteadeira larga feita apenas das melhores pranchas de madeira.",
 		"russian": "Этот комод сделан только из лучших деревянных досок.",
-		"ukrainian": "Цей комод зроблений тільки з кращих дерев'яних дощок.",
+		"ukrainian": "Широкий комод, зроблений лише з кращих дерев'яних дощок.",
 		"korean": "최상의 목재로만 만들어진 넓은 서랍장.",
 		"chinese": "宽梳妆台采用最好的木板制作。",
 		"italian": "Un ampio comodino realizzato solo con le migliori assi di legno.",
@@ -619,7 +613,7 @@
 		"dutch": "Geavanceerde Houten Ladekast",
 		"portuguese": "Cômoda de madeira avançada",
 		"russian": "Улучшенный деревянный комод.",
-		"ukrainian": "Високий Покращений дерев'яний комод",
+		"ukrainian": "Високий покращений дерев'яний комод",
 		"korean": "고급 목제 서랍장",
 		"chinese": "高级木制梳妆台",
 		"italian": "Comodino di legno rifinito",
@@ -636,7 +630,7 @@
 		"dutch": "Een hoge ladekast gemaakt van alleen de beste houten planken.",
 		"portuguese": "Uma cômoda alta feita apenas das melhores tábuas de madeira.",
 		"russian": "Этот комод сделан только из лучших деревянных досок.",
-		"ukrainian": "Цей комод зроблений тільки з кращих дерев'яних дощок.",
+		"ukrainian": "Високий комод, зроблений лише з кращих дерев'яних дощок.",
 		"korean": "최상의 목재로만 만들어진 높은 서랍장.",
 		"chinese": "高梳妆台采用最好的木板制作。",
 		"italian": "Un comodino alto realizzato solo con le migliori assi di legno.",

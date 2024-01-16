@@ -18,6 +18,7 @@
 		"Norwegian": "Bløende sår",
 		"japanese": "出血",
 		"danish": "Blødende sår",
+		"hungarian": "Vérző sebek",
 	},
 	"effectDesc_Bleeding": {
 		"english": "%firstName% bleeding! Make sure that %hisHer% wounds are bandaged properly. Otherwise, %firstName% could die of blood loss.",
@@ -39,6 +40,7 @@
 		"Norwegian": "%firstName% blør! vær sikker på at %han/hun% sår er bandasjert ordentlig, hvis ikke kan %firstName% dø av blodtap.",
 		"japanese": "%firstName%は出血しています。失血によって死亡するかもしれません。早急に治療が必要です。",
 		"danish": "%firstName% Bløder! Sikrer at %hanHun% sår er rigtig forbundet. Ellers, %firstName% kan dø af blodmangel,",
+		"hungarian": "%firstName% vérzik! Gondoskodj a sebei ellátásáról. Máskülönben %firstName% elvérezhet.",
 	},
 	"effectTitle_Unconscious": {
 		"english": "Unconscious",
@@ -59,6 +61,7 @@
 		"Norwegian": "Bevisstløs",
 		"japanese": "意識不明",
 		"danish": "bevidstløs",
+		"hungarian": "Elájult",
 	},
 	"effectDesc_Unconscious": {
 		"english": "It's going to take a while before %firstName% wakes up.",
@@ -79,6 +82,7 @@
 		"Norwegian": "det vil ta en stund før %firstName% vokner opp.", 
 		"japanese": "%firstName%は意識不明です。意識は自然と戻りますが時間がかかります。治療する場合は回復薬が必要です。",
 		"danish": "Det kommer til at tage lidt tid, før %firstName% vågner.",
+		"hungarian": "Eltart még egy darabig, mire %firstName% felébred.",
 	},
 	"effectTitle_Bandage": {
 		"english": "Bandage",
@@ -99,6 +103,7 @@
 		"Norwegian": "bandasje",
 		"japanese": "包帯による治療",
 		"danish": "Bandage",
+		"hungarian": "Kötszer",
 	},
 	"effectDesc_Bandage": {
 		"english": "The bandage is stopping the blood loss.",
@@ -119,6 +124,7 @@
 		"Norwegian": "bandasjen stopper blodtapet.",
 		"japanese": "包帯による出血の治療を行いました。時間が経てば治ります。",
 		"danish": "Bandaget stopper blodtabet",
+		"hungarian": "A kötszer elállítja a vérzést.",
 	},
 	"effectTitle_Healthy": {
 		"english": "No Effects",
@@ -139,6 +145,7 @@
 		"Norwegian": "ingen effekt",
 		"japanese": "異常なし",
 		"danish": "Ingen effekt",
+		"hungarian": "Nincs semilyen hatás",
 	},
 	"effectDesc_Healthy": {
 		"english": "%firstName% is healthy!",
@@ -159,6 +166,7 @@
 		"Norwegian": "%firstName% er frisk!",
 		"japanese": "%firstName%の健康は良好です。",
 		"danish": "%firstName% er frisk",
+		"hungarian": "%firstName% egészséges!",
 	},
 	"effectTitle_Starving": {
 		"english": "Starving",
@@ -179,6 +187,7 @@
 		"Norwegian": "sulter",
 		"japanese": "飢え",
 		"danish": "sulter",
+		"hungarian": "Éhezik",
 	},
 	"effectDesc_Starving": {
 		"english": "%firstName% hasn't eaten in a long time. %cap-heShe% needs to find something to eat soon in order to survive.",
@@ -200,6 +209,7 @@
 		"Norwegian": "%firstName% har ikke spist på en god stund. %cap-hanhun% trenger å finne noe å spise snart, for å overleve.",
 		"japanese": "%firstName%は長い間食べ物を口にしていないため、飢えになりました。このままでは飢え死にします。早急に食べ物が必要です。",
 		"danish": "%firstName% har ikke spist i lang tid. %cap-hanHun% har snart brug for noget at spise, hvis han skal overleve!",
+		"hungarian": "%firstName% már régóta nem evett. Gyorsan ételt kell találnia, hogy túlélje.",
 	},
 	"effectTitle_HealingPotion": {
 		"english": "Healing Potion",
@@ -220,6 +230,7 @@
 		"Norwegian": "helbredende trylledrikk",
 		"japanese": "回復薬",
 		"danish": "Helbredende trylledrik",
+		"hungarian": "Gyógyital",
 	},
 	"effectDesc_HealingPotion": {
 		"english": "The healing potion %firstName% drank is doing its work and restoring some health.",
@@ -240,6 +251,7 @@
 		"Norwegian": "den helbredende trylledrikken %firstName% drakk, gjør jobben sin og får nå mer liv.",
 		"japanese": "回復薬の効果で%firstName%の健康が回復しています。",
 		"danish": "Den helbredende trylledrik, %firstName% drak gør som den skal, og giver noget liv.",
+		"hungarian": "%firstName% által ivott gyógyital elkezdte kifejteni hatását, és helyreállítani az életerejét.",
 	},
 	"effectTitle_Flu": {
 		"english": "Flu",
@@ -260,6 +272,7 @@
 		"Norwegian": "influensa",
 		"japanese": "インフルエンザ",
 		"danish": "Influenza",
+		"hungarian": "Megfázás",
 	},
 	"effectDesc_Flu": {
 		"english": "%firstName% has caught the Flu. Make sure %heShe% stays in bed in the coming days and is treated with medicine by a doctor. Do not underestimate the illness!",
@@ -280,6 +293,7 @@
 		"Norwegian": "%firstName% har blitt forkjølet. sørg for at %hanhun% blir i sengen de neste dagene og blir behandlet med medisin av en doktor. ikke undervurder sykdommen!",
 		"japanese": "%firstName%はインフルエンザにかかりました。ワクチンによる治療と安静が必要です。",
 		"danish": "%firstName% har fået en forkøelse. Vær sikker på at %hanHun% bliver i sengen de komende dage, og er får medicine fra en doktor. Ikke undervuder sygdommen!",
+		"hungarian": "%firstName% megfázott. Gondoskodj arról, hogy ágyban maradjon a következő napokban, és ellássa egy doktor. Ne becsüld alá a betegséget!",
 	},
 	"effectTitle_SleepingInBed": {
 		"english": "Resting in Bed",
@@ -300,6 +314,7 @@
 		"Norwegian": "sover i sengen",
 		"japanese": "休息",
 		"danish": "Slapper af i sengen",
+		"hungarian": "Ágyban pihen",
 	},
 	"effectDesc_SleepingInBed": {
 		"english": "%firstName% is resting and slowly re-gaining health.",
@@ -320,6 +335,7 @@
 		"Norwegian": "%firstName% slapper av og får sakte tilbake liv.",
 		"japanese": "%firstName%は寝具で休息しています。ゆっくりと健康と持続力が回復しています。",
 		"danish": "%firstName% slapper af og langsomt regenerere liv",
+		"hungarian": "%firstName% pihen, és lassan regenerálódik.",
 	},
 	"effectTitle_AllergicReaction": {
 		"english": "Allergic Reaction",
@@ -340,6 +356,7 @@
 		"Norwegian": "allergisk reaksjon",
 		"japanese": "アレルギー反応",
 		"danish": "alergisk reaktion",
+		"hungarian": "Allergiás reakció",
 	},
 	"effectDesc_AllergicReaction": {
 		"english": "%firstName% was forced to eat food %heShe% is allergic to. Now %hisHer% body is having an allergic reaction.",
@@ -360,6 +377,7 @@
 		"japanese": "%firstName%はアレルギー症状の出る食べ物を食べたため、アレルギーを起こしました。",
 		"czech": "%firstName% jed%lA% z donucení jídlo na které je alergick%yA%!. Má teď díky tomu alergickou reakci.",
 		"danish": "%firstName% blev tvunget til at spise mad %HanHun% er allergisk overfor. Nu har %hansHendes% krop en allergisk reaktion.",
+		"hungarian": "Olyan étel evésére lett kényszerítve %firstName%, amelyre allergiás. Most allergiás reakciói vannak.",
 	},
 	"effectStage": {
 		"english": "Stage",
@@ -380,6 +398,7 @@
 		"japanese": "状態",
 		"czech": "Etapa",
 		"danish": "Scene",
+		"hungarian": "Szint",
 	},
 	"effectTitle_SmallFoodRationsSlowness": {
 		"english": "Works slowly",
@@ -400,6 +419,7 @@
 		"japanese": "作業速度の低下",
 		"czech": "Pracuje pomalu",
 		"danish": "Arbejder langsomt",
+		"hungarian": "Lassan dolgozik",
 	},
 	"effectDesc_SmallFoodRationsSlowness": {
 		"english": "%firstName% receives only small food rations, so %heShe% just lacks the energy to work properly and takes longer to complete tasks.",
@@ -420,6 +440,7 @@
 		"japanese": "%firstName%は普段より少ない量の食べ物のため、力が沸かず作業の速度が低下します。",
 		"czech": "%firstName% dostává jen malé dávky jídla a díky tomu má nedostatek energie. Dokončení úkolů tedy trvá déle.",
 		"danish": "%firstName% har kun fået en lille madration, så %hanHun% mangler energi til at arbejde ordenligt og det tager længere tid at færdigegøre opgaver",
+		"hungarian": "%firstName% kevés adag ételt kapott, így ereje híjján nem képes rendesen dolgozni, és sok időbe telik, mire végez.",
 	},
 	"effectTitle_LegHurt": {
 		"english": "Hurt leg: Walks slowly",
@@ -439,6 +460,7 @@
 		"japanese": "足を負傷:移動速度減少",
 		"czech": "Zraněná noha: Chodí pomalu",
 		"danish": "Skadet ben: går langsomt",
+		"hungarian": "Sérült láb: Lassan jár",
 	},
 	"effectDesc_LegHurt": {
 		"english": "%firstName% has hurt %hisHer% leg. Splints will help it heal more quickly.",
@@ -458,6 +480,7 @@
 		"japanese": "%firstName%は足を負傷しました。添え木による治療を行えば早く完治します。",
 		"czech": "%firstName% má zraněnou nohu. Dlaha od lékaře určitě urychlí proces hojení.",
 		"danish": "%firstName% har skadet %hansHendes% ben. En skinne ville hjælpe den til at hele hurtigere.",
+		"hungarian": "%firstName% lába megsérült. Ha sínbe teszed, segíthet mihamarabb felépülni.",
 	},
 	"effectTitle_LegBroken": {
 		"english": "Broken leg: Can't walk",
@@ -477,6 +500,7 @@
 		"japanese": "足を骨折:移動不可",
 		"czech": "Zlomená noha: Nemůže chodit",
 		"danish": "Brækket ben: Kan ikke gå",
+		"hungarian": "Törött láb: Nem tud járni",
 	},
 	"effectDesc_LegBroken": {
 		"english": "%firstName% has broken %hisHer% leg and cannot walk anymore. You need to apply splints, or %firstName% may be permanently disabled!",
@@ -496,6 +520,7 @@
 		"japanese": "%firstName%は足を骨折しました。完治するには非常に時間がかかります。早急に添え木による治療を行ってください。",
 		"czech": "%firstName% si zlomi%lA% nohu a nemůže chodit. Musíte použít dlahu, jinak se může stát, že už nikdy nebude chodit!",
 		"danish": "%firstName% har brækket %hansHendes% ben og kan ikke længere gå. Du skal bruge en skinne, ellers vil %firstName% måske blive permanent skadet",
+		"hungarian": "%firstName% eltörte a lábát és nem tud járni. Tedd a lábát sínbe, vagy %firstName% lerokkanhat örökre!",
 	},
 	"effectTitle_ArmHurt": {
 		"english": "Hurt arm: Works slowly",
@@ -515,6 +540,7 @@
 		"japanese": "腕を負傷:作業速度減少",
 		"czech": "Zraněná ruka: Pracuje pomalu",
 		"danish": "Skadet arm: Arbejder langsomt",
+		"hungarian": "Sérült kéz: Lassan dolgozik",
 	},
 	"effectDesc_ArmHurt": {
 		"english": "%firstName% has hurt %hisHer% arm. Splints will help it heal more quickly.",
@@ -534,6 +560,7 @@
 		"japanese": "%firstName%は腕を負傷しました。添え木による治療を行えば早く完治します。",
 		"czech": "%firstName% má zraněnou ruku. Dlaha od lékaře jistě uleví od bolesti.",
 		"danish": "%firstName% har skadet %hansHendes% arm. En skinne vil hjælpe det hele hurtigere.",
+		"hungarian": "%firstName% keze megsérült. Ha sínbe teszed, segíthet mihamarabb felépülni.",
 	},
 	"effectTitle_ArmBroken": {
 		"english": "Broken arm: Can't work",
@@ -553,6 +580,7 @@
 		"japanese": "腕を骨折:作業不可",
 		"czech": "Zlomená ruka: Nemůže pracovat",
 		"danish": "Brækket arm: kan ikke arbejde",
+		"hungarian": "Törött kéz: Nem tud dolgozni",
 	},
 	"effectDesc_ArmBroken": {
 		"english": "%firstName% has broken %hisHer% arm and cannot work anymore. Splints will help it heal more quickly.",
@@ -572,6 +600,7 @@
 		"japanese": "%firstName%は腕を骨折しました。完治するには非常に時間がかかります。早急に添え木による治療を行ってください。",
 		"czech": "%firstName% si zlomi%lA% ruku a nemůže pracovat. Musíte použít dlahu k rychlejšímu uzdravení.",
 		"danish": "%firstName% har brækket %hansHendes% arm, og kan ikke arbejde længere. Skinner kan hjælpe det hele hurtigere.",
+		"hungarian": "%firstName% keze eltört, és nem tud tovább dolgozni. Ha sínbe teszed, segíthet mihamarabb felépülni.",
 	},
 	"effectTitle_LegSplint": {
 		"english": "Leg splints",
@@ -591,6 +620,7 @@
 		"japanese": "添え木による治療",
 		"czech": "Dlaha na nohu",
 		"danish": "Ben skinne",
+		"hungarian": "Sínbe tett láb",
 	},
 	"effectDesc_LegSplint": {
 		"english": "The leg is stabilized now. It will heal in a short while.",
@@ -610,6 +640,7 @@
 		"japanese": "添え木の治療を行いました。時間が経てば治ります。",
 		"czech": "Noha je nyní stabilizována. Za chvíli se to zahojí.",
 		"danish": "Benet er stabiliseret nu. Det vil hele om kort tid",
+		"hungarian": "A láb stabilizálva van. Nemsokára felépül.",
 	},
 	"effectTitle_ArmSplint": {
 		"english": "Arm splints",
@@ -629,6 +660,7 @@
 		"japanese": "添え木による治療",
 		"czech": "Dlaha na ruku",
 		"danish": "Arm skinne",
+		"hungarian": "Sínbe tett kéz",
 	},
 	"effectDesc_ArmSplint": {
 		"english": "The arm is stabilized now. It will heal in a short while.",
@@ -648,6 +680,7 @@
 		"japanese": "添え木の治療を行いました。時間が経てば治ります。",
 		"czech": "Ruka je nyní stabilizována. Za chvíli se to zahojí.",
 		"danish": "Armen er stabiliseret nu. Det vil hele om kort tid",
+		"hungarian": "A kéz stabilizálva van. Nemsokára felépül.",
 	},
 	"effectTitle_LuckierHeal": {
 		"english": "Improved Healing Skills",
@@ -667,6 +700,7 @@
 		"danish": "Forbedret helbredelse evne",
 		"korean": "향상된 치료 기술",
 		"ukrainian": "Вдосконалені навички лікування",
+		"hungarian": "Fejlett gyógyító képességek",
 	},
 	"effectDesc_LuckierHeal": {
 		"english": "Treatments will succeed with a higher probability.",
@@ -686,6 +720,7 @@
 		"danish": "Behandlingen vil lykkes med større sandsynelighed",
 		"korean": "치료가 성공할 가능성이 높습니다.",
 		"ukrainian": "Лікування буде успішним з більшою ймовірністю.",
+		"hungarian": "A kezelések nagyobb mértékben lesznek sikeresek.",
 	},
 	"effectTitle_FasterWork": {
 		"english": "Faster Work Speed",
@@ -705,6 +740,7 @@
 		"danish": "Højere arbejds hastighed",
 		"korean": "재빠른 작업 속도",
 		"ukrainian": "Вища швидкість роботи",
+		"hungarian": "Hatékonyabb munkatempó",
 	},
 	"effectDesc_FasterWork": {
 		"english": "%firstName% works faster.",
@@ -724,6 +760,7 @@
 		"danish": "%firstName% arbejder hurtigere",
 		"korean": "%firstName%#{은} 더 빨리 일합니다.",
 		"ukrainian": "%firstName% працює швидше.",
+		"hungarian": "%firstName% gyorsabban dolgozik.",
 	},
 	"effectTitle_NoNightmare": {
 		"english": "Nightmare protection",
@@ -743,6 +780,7 @@
 		"danish": "mareridt beskyttelse",
 		"korean": "악몽면역",
 		"ukrainian": "Захист від кошмарів",
+		"hungarian": "Rémálom elleni védelem",
 	},
 	"effectDesc_NoNightmare": {
 		"english": "%firstName% will not get any nightmares.",
@@ -762,6 +800,7 @@
 		"danish": "%firstName% vil ikke få mareridt",
 		"korean": "%firstName%#{은} 악몽을 꾸지 않습니다.",
 		"ukrainian": "%firstName% не бачитиме жахіття уві сні.",
+		"hungarian": "%firstName% többé nem fog rosszakat álmodni.",
 	},
 }
 

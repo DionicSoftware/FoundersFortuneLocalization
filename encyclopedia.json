@@ -17,6 +17,7 @@
 		"japanese": "ヘルプメニュー",
 		"czech": "Encyklopedie",
 		"danish": "Encyklopædi",
+		"hungarian": "Tudástár",
 	},
 	"helpMenuTitle_basics": {
 		"english": "Basics",
@@ -36,6 +37,7 @@
 		"japanese": "始めに",
 		"czech": "Základy hry",
 		"danish": "Grundlæggende",
+		"hungarian": "Alapok",
 	},
 	"helpMenuTitle_research": {
 		"english": "Research",
@@ -55,6 +57,7 @@
 		"japanese": "研究",
 		"czech": "Výzkum",
 		"danish": "Undersøge",
+		"hungarian": "Kutatás",
 	},
 	"helpMenuTitle_foodProduction": {
 		"english": "Food Production",
@@ -74,6 +77,7 @@
 		"japanese": "食べ物",
 		"czech": "Produkce jídla",
 		"danish": "Mad produktion",
+		"hungarian": "Ételgyártás",
 	},
 	"helpMenuTitle_health": {
 		"english": "Health",
@@ -93,6 +97,7 @@
 		"japanese": "健康",
 		"czech": "Zdraví",
 		"danish": "Helbred",
+		"hungarian": "Egészség",
 	},
 	"helpMenuTitle_immigration": {
 		"english": "Immigration",
@@ -112,6 +117,7 @@
 		"japanese": "コロニスト",
 		"czech": "Imigrace",
 		"danish": "invandring",
+		"hungarian": "Bevándorlás",
 	},
 	"helpMenuTitle_professions": {
 		"english": "Professions",
@@ -131,6 +137,7 @@
 		"japanese": "職業",
 		"czech": "Profese",
 		"danish": "Erhverv",
+		"hungarian": "Szakmák",
 	},
 	"helpMenuTitle_mood": {
 		"english": "Mood",
@@ -150,6 +157,7 @@
 		"japanese": "心情",
 		"czech": "Nálady",
 		"danish": "Humør",
+		"hungarian": "Hangulat",
 	},
 
 	
@@ -289,6 +297,15 @@ Vigtigst er det, at du skal sørge for, at der altid er nok mad i opbevaring, is
 Hold dine kolonister sikre og sunde for at opretholde det gode humør i dit team. Aggressive indfødte, svækkende sygdomme og hårdt vejr er blot nogle få af de udfordringer, du bliver nødt til at overvinde på din vej. Hvis du udsætter dine kolonister for vanskeligheder for længe, holder de muligvis op med at arbejde og gør hvad de vil i stedet for.
 
 Held og lykke med at slå dig ned på denne ø!",
+
+		"hungarian": "Üdv!
+
+Vigyáznod kell a telepeseidre, ha azt akarod, hogy a kis közösséged gyarapodjon.
+Elsősorban törekedj arra, hogy mindig legyen elég ennivalójuk, főképp a tél beköszöntével! Adj közvetlen utasításokat a telepeseidnek, vagy rendelj hozzájuk szakmákat, hogy autómatikusan dolgozzanak. Gazdák és kézművesek, katonák és tudósok, mindannyian kiveszik a részüket a kolónia felemelkedéséért. Kutassd ki a fejlettebb épületeket, eszközöket és képességeket a tudósaiddal.
+
+Tards a telepeseidet egészségben és biztonságban, hogy boldogok legyenek. Az agresszív őslakosok, a betegségek általi legyengülés és a zord időjárás csak egy pár dolog azok közül, amikkel utazásod során szembe kell nézned. Ha sokáig teszed ki a telepeseidet a nehézségeknek, előfordulhat, hogy nem fognak rád hallgatni, és azt tesznek, amit akarnak.								
+
+Sok sikert a sziget meghódításához!",
 	},
 	"helpMenuText_research": {
 		"english": "Your scholars come up with new technologies by studying the magic crystals scattered all around your settlement. Send out miners to collect some and build a book stand so your scholars may read up on techniques to analyze the crystals. Make sure to select the next technology in the research panel in the top right corner.",
@@ -308,6 +325,7 @@ Held og lykke med at slå dig ned på denne ø!",
 		"japanese": "研究はいたる所にあるクリスタルを解析する事で獲得する事ができます。右上隅の研究アイコンから研究一覧パネルを開き、獲得したい研究を選択してください。また高度な研究はスクロールの解析も必要となります。決して楽ではありませんが、発展のため手を抜く事はできません。",
 		"czech": "Vaši vědci přicházejí s novými technologiemi studiem magických krystalů rozptýlených po celém ostrově. Rozesílejte horníky, abyste nějaké shromáždili a postavili knihovnu, aby si vaši vědci mohli přečíst o technikách výzkumu krystalů. Nezapomeňte vybrat další technologii v nabídce výzkumu která se nachází v pravém horním rohu.",
 		"danish": "Dine forskere finder på nye teknologier ved at studere de magiske krystaller spredt rundt omkring i din bosættelse. Send minearbejdere ud for at samle nogle og byg en bogstand, så dine forskere kan læse om teknikker til at analysere krystaller. Sørg for at vælge den næste teknologi i forskningspanelet i øverste højre hjørne.",
+		"hungarian": "A tudósaid új technológiákat fedeznek fel az által, hogy a településük körüli mágikus kristályokat tanulmányozzák. Küld bányászokat a beszerzésükre, és építs egy könyvállványt, hogy a tudósaid tanulmányozhassák a kristálykutatás technikáit. Ügyelj arra, hogy mindig be legyen állítva egy új technológia a jobb felső kutató panelen.",
 	},
 	"helpMenuText_foodProduction": {
 		"english": "Food matters. Good food makes colonists happy, bad food makes colonists sick, little food makes colonists slow, and no food means colonists will die. So, make sure you've got your production chain set up to provide for everyone!",
@@ -327,6 +345,7 @@ Held og lykke med at slå dig ned på denne ø!",
 		"japanese": "食べ物はとても重要です。おいしい食べ物はコロニストの心情を良くします。だめな食べ物は病気になる場合もあります。また食べる量が少ないと作業に影響します。最後に食べ物が無くなればコロニストが飢え死にするため、絶対にその様な事態は避けてください。",
 		"czech": "Na jídle záleží. Dobré jídlo dělá kolonistům radost, špatné jídlo dělá kolonistům zle, malo jídla kolonisty zpomaluje a žádné jídlo znamená, že kolonisté zemřou. Ujistěte se tedy, že máte svůj výrobní řetězec nastavený tak, aby poskytoval všem dostatek jídla!",
 		"danish": "Mad betyder noget. God mad gør dine kolonister glade, dårlig mad gør dine kolonister syge, lidt mad gør dine kolonister langsomme, og ingen mad betyder, at dine kolonister vil dø. Så sørg for, at du har din produktionskæde oprettet til at sørge for alle!",
+		"hungarian": "Ételre mindig szükség van. A jobb minőségű ételek boldogsággal töltik el a telepeseket, a rosszaktól megbetegedhetnek, a kevés ételtől lassabak, és ha elfogy az étel, a telepesek meghalnak. Szóval érdemes odafigyelni, hogy meglegyen a megfelelő ellátás mindegyiküknek!",
 	},
 	"helpMenuTitle_foodProduction_farming": {
 		"english": "Farming",
@@ -346,6 +365,7 @@ Held og lykke med at slå dig ned på denne ø!",
 		"japanese": "農業",
 		"czech": "Farmaření",
 		"danish": "landbrug",
+		"hungarian": "Gazdálkodás",
 	},
 	"helpMenuText_foodProduction_farming": {
 		"english": "Everything begins in the fields, where industrious farmers spend their days caring for your crops. Depending on the season, they can sow a different selection of plants for food or medicinal purposes. Plants grow no matter how well you care for them, but good farmers use their watering cans to keep them growing optimally and increase their yield significantly.
@@ -394,6 +414,9 @@ Nyní, než začnete sázet jako blázni, poslední slovo jako varování: Všec
 		"danish": "Alt begynder på markerne, hvor flittige landmænd bruger deres dage på at passe på dine afgrøder. Afhængigt af årstid kan de så et andet udvalg af planter til mad eller medicinske formål. Planter vokser uanset hvor godt du holder af dem, men gode landmænd bruger deres vandkande for at holde dem optimalt voksende og øge deres udbytte markant.
 Nu før du begynder at plante som en skør, et sidste ord med advarsel: Alle planter, der ikke høstes inden slutningen af ​​deres sæson, dør uden at give mad til din koloni!
 Glædeligt landbrug!",
+		"hungarian": "Minden a földeken kezdődik, ahol a szorgalmas gazdák gondozgatják a terméseket nap, mint nap. Az évszakoknak megfelelően különböző növényeket ültethetnek étel vagy gyógyszer gyanánt. A nyövények mindenképp megnőnek, mindegy mennyire vannak gondozva, de a jó gazdák öntözőkannáikat használva elérik az optimális növekedést, és jelentősen növelik a terméshozamukat.
+De még mielőtt őrült módjára ültetni kezdenél, egy utolsó jótanács: Minden növény, melyet nem takarítanak be évszakváltás előtt, elpusztul, a nélkül, hogy ételt biztosíthatna a kolóniának!
+Jó gazdálkodást!",
 	},
 	"helpMenuTitle_foodProduction_expectations": {
 		"english": "Food Expectations",
@@ -413,6 +436,7 @@ Glædeligt landbrug!",
 		"japanese": "食べ物の影響",
 		"czech": "Očekávání jídla",
 		"danish": "Mad forventninger",
+		"hungarian": "Élelmiszer szükséglet",
 	},
 	"helpMenuText_foodProduction_expectations": {
 		"english": "Colonists can deal with a lot of hardship, but they are not stupid. When your colony grows in size and numbers, they will start to expect better food than just eating raw plants. Using the campfire or the kitchen you can make meals of higher quality for demanding colonists. If you can run a bakery as well, they will welcome the variety!
@@ -448,7 +472,9 @@ noen kolonister vil ha en favoritt mat og få en humør boost hvis de får det. 
 Někteří kolonisté mají svá oblíbená jídla a dostanou dobrou náladu, pokud je mohou jíst. Jiní jsou na některé druhy potravin alergičtí a vyhnou se jim za každou cenu. Pokud není k dispozici nic jiného, mohou být nuceni to stejně jíst - což má za následek alergickou reakci.",
 		
 		"danish": "Kolonister kan håndtere en masse vanskeligheder, men de er ikke dumme. Når din koloni vokser i størrelse og antal, vil de begynde at forvente bedre mad end bare at spise rå planter. Ved brug af lejrbålet eller køkkenet kan du lav måltider af højere kvalitet til krævende kolonister. Hvis du også kan drive et bageri, vil de byde sorten velkommen!
-Nogle kolonister har yndlingsmåltider og får et humørsving, hvis de kan få det. Andre er allergiske over for nogle typer mad og undgår dem for enhver pris. Hvis der ikke er noget andet tilgængeligt, kan de alligevel blive tvunget til at spise det - hvilket resulterer i en allergisk reaktion. "
+Nogle kolonister har yndlingsmåltider og får et humørsving, hvis de kan få det. Andre er allergiske over for nogle typer mad og undgår dem for enhver pris. Hvis der ikke er noget andet tilgængeligt, kan de alligevel blive tvunget til at spise det - hvilket resulterer i en allergisk reaktion. ",
+		"hungarian": "A telepesek elég sokmindent képesek túlélni, de nem hülyék. Mikor a település már elér egy bizonyos méretet és számot, már jobb minőségű ételt várnak el, mint a nyers ételek. A tábortűzben, vagy a konyhában jobb minőségű ételek készíthetőek a telepeseid számára. Ha még pékséget is üzemeltetsz, örömmel fogadják majd a változatosságot!
+Néhány telepesnek van kedvenc étele, amit ha megkap, feljavítja a hangulatukat. Mások allergiásak különböző ételekre, ezeket mindenáron el kell kerülni. Ha nincs más, rákényszerülnek, hogy ezeket egyék - ami allergiás reakciókat okoz.",
 	},
 	"helpMenuTitle_foodProduction_rations": {
 		"english": "Food Rations",
@@ -468,6 +494,7 @@ Nogle kolonister har yndlingsmåltider og får et humørsving, hvis de kan få d
 		"japanese": "食べ物の配分",
 		"czech": "Potravinové dávky",
 		"danish": "Mad rationer",
+		"hungarian": "Étel adagok",
 	},
 	"helpMenuText_foodProduction_rations": {
 		"english": "Winter is long and even the best colonies sometimes fail to perpare adequate stockpiles. If you worry about the survival of your colony, you can limit the food rations for each colonist. While this preserves more food for later, your colonists will feel weak and are not going to be able to work as quickly. 
@@ -505,6 +532,8 @@ på den andre siden, hvis lageret er fullt og det er mye reserve mat, kan du set
 Na druhou stranu, pokud jsou vaše zásoby plné a rezerv je spousta, můžete zvýšit dávky jídla, abyste získali štěstí!",
 		"danish": "Vinteren er lang, og selv de bedste kolonier fejler i at klargøre tilstrækkelige lagre. Hvis du bekymrer dig om din kolonis overlevelse, kan du begrænse madrationerne for hver kolonist. Mens dette bevarer mere mad til senere, vil dine kolonister føle sig svage og vil ikke være i stand til at arbejde så hurtigt.
 På bagsiden, hvis dine lagre er fulde og reserverne er rigelige, kan du øge madrationer for at få et boost i lykke!",
+		"hungarian": "A telek hosszúak, és még néha a legkiválóbb telepeseknek sem sikerül eleggé felkészülniük rá. Ha aggódsz a kolóniád túléléséért, minden egyes telepesed ételadagját le tudod szabályozni. Míg ez segíthet az étel spórolásán a későbbiekben, addig a telepesek gyengének érezhetik magukat e miatt, és nem lesznek képesek gyorsan ellátni a feladatukat. 
+Másrészt, ha a raktár tele van, és vannak tartalékaid, megnövelheted a fejadagokat, hogy egy kicsit feljavítsd a hangulatukat!",
 	},
 	"helpMenuTitle_foodProduction_bugs": {
 		"english": "Bug Infestations",
@@ -524,6 +553,7 @@ På bagsiden, hvis dine lagre er fulde og reserverne er rigelige, kan du øge ma
 		"japanese": "害虫",
 		"czech": "Zamoření brouky",
 		"danish": "Insektangreb",
+		"hungarian": "Bogárinvázió",
 	},
 	"helpMenuText_foodProduction_bugs": {
 		"english": "Every year, the dreaded bugs pose a serious danger to your harvest. If a bug infestation is detected, your colonists need to be quick and remove all affected plants before the infestation spreads. You could lose all your work in seconds!",
@@ -543,6 +573,7 @@ På bagsiden, hvis dine lagre er fulde og reserverne er rigelige, kan du øge ma
 		"japanese": "収穫まで油断はできません。その理由は害虫です。作物に深刻な被害を与えるとても危険な物です。もしも害虫が見つかった場合、早急に取り除かないと全ての収穫を失う事になりかねません。",
 		"czech": "Zamoření brouky představuje vážné nebezpečí pro vaši sklizeň. Pokud je zjištěno napadení hmyzem, musí být vaši kolonisté rychlí a odstranit všechny zasažené rostliny dřív, než se napadení rozšíří. Mohli byste přijít o veškerou svou práci během několika sekund!",
 		"danish": "Hvert år udgør de frygtede insekter en alvorlig fare for din høst. Hvis der opdages en insektangreb, skal dine kolonister være hurtige og fjerne alle berørte planter, før angrebet spreder sig. Du kan miste alt dit arbejde på få sekunder!",
+		"hungarian": "Minden évben az aljas bogarak hatalmas fenyegetést jelentenek a betakarítandó növényekre. Ha bogárinvázió ütötte fel a fejét, a telepeseidnek gyorsan kell cselekedniük, és minden fertőzött növényt ki kell gyomlálniuk, mielőtt tovább fertőzhetne. Az egész munkád kárba mehet pár másodperc alatt.",
 	},
 
 	"helpMenuText_health": {
@@ -579,6 +610,8 @@ det mest vanlige er å gi folkene litt fritid, som å ligge i en seng som tilbyr
 Nejzákladnějším prostředkem je poskytnout jim čas na odpočinek. Ležení v posteli nabízí jejich tělům čas na regeneraci. Podívejte se na stavový panel (ikona srdce) a podívejte se na podrobnosti o jejich zdravotním stavu.",
 		"danish": "Der er mange dårlige ting, der kan ske for hårdtarbejdende kolonister.
 Det mest basale middel er at give de stakkels små fyre lidt tid til at hvile. At ligge i en seng giver deres kroppe noget tid til at regenerere langsomt. Se på statuspanelet (hjerteikon) for at se detaljer om deres helbredstilstand",
+		"hungarian": "Sok rossz dolog történhet a keményen dolgozó telepesekkel.
+A legalapvetőbb megváltás nekik a pihenés. Az ágyban való pihenés lassacskán feltölti kimerült testüket. Vess egy pillantást az állapot panelre (szív ikon), hogy többet tudj meg az egészségi állapotukról.",
 	},
 	"helpMenuTitle_health_alchemy": {
 		"english": "Alchemy",
@@ -598,6 +631,7 @@ Det mest basale middel er at give de stakkels små fyre lidt tid til at hvile. A
 		"japanese": "薬の調合",
 		"czech": "Alchymie",
 		"danish": "alkemi",
+		"hungarian": "Vegytan",
 	},
 	"helpMenuText_health_alchemy": {
 		"english": "If you have colonists with some experience as a doctor, they can usually handle basic alchemy and produce potions from healing plants. While tasting horrific, these concoctions accelerate the healing process significantly.",
@@ -617,6 +651,7 @@ Det mest basale middel er at give de stakkels små fyre lidt tid til at hvile. A
 		"japanese": "ヒーリングハーブから薬であるワクチン、回復薬を調合する事ができます。ただし、健康に絶大な効果のある回復薬を調合するには医者の回復薬スキルを持つコロニストが必要です。",
 		"czech": "Pokud máte kolonisty, kteří mají nějaké zkušenosti lékaře, obvykle zvládnou základní alchymii a vyrábějí lektvary z léčivých rostlin. Zatímco chutnají strašně, tak významně urychlují proces hojení.",
 		"danish": "Hvis du har kolonister med en vis erfaring som læge, kan de normalt håndtere grundlæggende alkemi og producere potions fra helbredende planter. Mens de smager forfærdeligt, fremskynder disse helingsprocessen betydeligt.",
+		"hungarian": "Ha van olyan telepesed, amely jártas az orvostudományokban, az általában elboldogul az alap vegytannal is, és képes gyógyitalokat gyártani gyógynövényekből. Míg az íze szörnyű, ezek a főzetek jelentősen felgyorsítják a gyógyulást.",
 	},
 	"helpMenuTitle_health_wounds": {
 		"english": "Wounds",
@@ -636,6 +671,7 @@ Det mest basale middel er at give de stakkels små fyre lidt tid til at hvile. A
 		"japanese": "ケガ",
 		"czech": "Zranění",
 		"danish": "Skader",
+		"hungarian": "Sebek",
 	},
 	"helpMenuText_health_wounds": {
 		"english": "Doctors show their true strength when dealing with badly wounded colonists. When push comes to shove and the colony needs to be defended against raiders, injuries are inevitable. Colonists can lose consciousness on the battlefield. While they are losing blood and holding on to dear life, a doctor can rush out, bandage their wounds and administer healing potions to prevent the worst.",
@@ -655,6 +691,7 @@ Det mest basale middel er at give de stakkels små fyre lidt tid til at hvile. A
 		"japanese": "襲撃が行われた場合、ほぼ間違いなくコロニストはケガを負い健康を損ないます。また、ケガにより出血する場合があります。出血は時間が経てば止まりますが、その間は健康を損ない続けるため死亡する恐れがあります。それを防ぐには早急な治療が必要であり、回復薬を投与する事も重要です。",
 		"czech": "Lékaři prokazují svou skutečnou moc při jednání s těžce zraněnými kolonisty. Když se kolonie musí bránit před nájezdníky, zranění jsou nevyhnutelná. Kolonisté mohou na bojišti ztratit vědomí. Zatímco ztrácejí krev a drží se drahocenného života, může lékař vyběhnout, obvazovat jim rány a podat léčivé lektvary, aby zabránil tomu nejhoršímu.",
 		"danish": "Læger viser deres sande styrke, når de beskæftiger sig med hårdt sårede kolonister. Når alt kommer til alt og kolonien skal forsvares mod raiders, er skader uundgåelige. Kolonister kan miste bevidstheden på slagmarken. Mens de mister blod og holder fast i det kære liv, kan en læge skynde sig ud, bandage deres sår og give helbredende drikke for at forhindre det værste.",
+		"hungarian": "Az orvosok akkor villantják meg igazán az erősségüket, mikor sérült telepeseket ápolnak. Amikor a nyomás már átlép egy határt, és a telepeseidnek meg kell védeniük magukat a fosztogatóktól, akkor a sérülések elkerülhetetlenek. A telepesek elveszíthetik az eszméletüket a csatatéren. Míg vért vesztenek, miközben az életükért küzdenek, egy doktor a segítségükre sietve bekötözheti a sebeiket, és gyógyitalokkal segítheti át őket a legrosszab időkben.",
 	},
 	"helpMenuTitle_health_illnesses": {
 		"english": "Illnesses",
@@ -674,6 +711,7 @@ Det mest basale middel er at give de stakkels små fyre lidt tid til at hvile. A
 		"japanese": "病気",
 		"czech": "Nemoci",
 		"danish": "Sygdom",
+		"hungarian": "Betegségek",
 	},
 	"helpMenuText_health_illnesses": {
 		"english": "Finally, big colonies are prone to illnesses spreading amongst the colonists. Make sure to keep a good stock of medicine in storage and have a trained doctor attend to them with regular treatments for better chances of recovery.",
@@ -693,6 +731,7 @@ Det mest basale middel er at give de stakkels små fyre lidt tid til at hvile. A
 		"japanese": "コロニストが増加するほど病気が広がる恐れは高くなります。病気の治療のために医者のスキルを持つコロニストと十分な量のワクチンを準備しておく必要があります。",
 		"czech": "A konečně, velké kolonie jsou náchylné k nemocem šířícím se mezi kolonisty. Ujistěte se, že máte na skladě dobrou zásobu léků a nechte je ošetřit vyškoleným lékařem s pravidelnou léčbou, aby se zvýšila šance na uzdravení.",
 		"danish": "Endelig er store kolonier tilbøjelige til sygdomme, der spredes blandt kolonisterne. Sørg for at opbevare et godt lager af medicin og få en uddannet læge til at tage sig af dem med regelmæssige behandlinger for bedre chancer for helbredninger.",
+		"hungarian": "Végül, de nem utolsó sorban, a nagyobb kolóniákban könnyebben felüti a fejét egy betegség. Ügyelj rá, hogy mindig legyen elegendő mennyiségű gyógyszered raktáron, és egy tanult orvosod, hogy könnyebben átvészelhessék ezeket, és hamar felépülhessenek.",
 	},
 	"helpMenuText_immigration": {
 		"english": "Your starting crew may be hardworking or not, but the colony will never reach greatness if it doesn’t grow. To attract immigrants you will need to build a big bonfire on a tower. This light signal, shining far into the distance, is seen by random wanderers and explorers.
@@ -726,7 +765,8 @@ som muligens kommer alene eller med venner for å besøke eller spørre om å bl
 Někteří vás mohou navštívit sami nebo s přáteli a požádat vás o připojení se ke kolonii.",
 		"danish": "Din startende besætning kan være hårdtarbejdende eller ej, men kolonien når aldrig storhed, hvis den ikke vokser. For at tiltrække indvandrere skal du bygge et stort bål på et tårn. Dette lyssignal, der skinner langt ud i det fjerne, ses af tilfældige vandrere og opdagelsesrejsende.
 Nogle kan komme alene eller sammen med venner for at besøge dig og bede om at deltage i kolonien.",
-		
+		"hungarian": "Lehetnek a kezdeti telepesek kemény dolgozók, vagy akár trógerek, de a kolónia csak akkor virágzik, ha növekedni is tud. Hogy felkeltsd más jövevények figyelmét, építs egy hatalmas jelzőtüzet. Ez a fényforrás messze bevilágítja a tájat, így könnyen észlelhető a vándorok és felfedezők számára.
+Néhényan egyedül érkezhetnek, mások a barátaikkal karöltve, hogy csatlakozhassanak a kolóniádhoz.",	
 	},
 	"helpMenuTitle_immigration_expectations": {
 		"english": "Expectations",
@@ -746,6 +786,7 @@ Nogle kan komme alene eller sammen med venner for at besøge dig og bede om at d
 		"japanese": "住環境",
 		"czech": "Očekávání",
 		"danish": "forventninger",
+		"hungarian": "Elvárások",
 	},	
 
 	"helpMenuText_immigration_expectations": {
@@ -782,6 +823,8 @@ Non soddisfare queste aspettative non mette i coloni contro di te, ma impedisce 
 Nesplnění těchto očekávání neobrací kolonisty proti vám, ale brání budoucímu růstu. Protože migranti uvažují o vaší kolonii, berou v úvahu výhody a výhody života ve vaší kolonii. Pokud očekávání vašich kolonistů nejsou splněna, nemůžete přesvědčit nové lidi, aby se k vám přidali!",
 		"danish": "Når kolonien begynder at vokse og blive mere og mere velhavende, vil kolonisterne også have et stykke af kagen. De begynder at forvente god mad, et pænt, behageligt hjem og en grad af generel tilfredshed med livet.
 Ikke at imødekomme disse forventninger vender ikke kolonisterne mod dig, men det forhindrer fremtidig vækst. Når migranter overvejer din koloni, tager de hensyn til faciliteterne og fordelene ved at bo i din koloni. Hvis dine kolonisters forventninger ikke er opfyldt, kan du ikke overbevise nye mennesker om at deltage!",
+		"hungarian": "Mihelyst a kolónia elkezd növekedni és vagyonosodni, a telepeseid is szeretnének kapni majd egy szeletet a tortából. Elvárják majd a jobb ételeket, szebb ruhákat, kényelmesebb otthon, és egy alapvetőbb jobblétet.
+Ha nem adod meg ezeket nekik, a telepesek ugyan nem fognak ellened fordulni, de megakadájozza a továbbfejlődést. A jövevények mielőtt csatlakoznának, figyelembe veszik a kolóniád kényelmét és előnyeit. Ha a telepeseid igényei nem lesznek kiszolgálva, nem fogsz tudni új embereket meggyőzni, hogy csatlakozzanak!",
 	},
 	"helpMenuTitle_immigration_overview": {
 		"english": "Immigration Overview",
@@ -800,6 +843,7 @@ Ikke at imødekomme disse forventninger vender ikke kolonisterne mod dig, men de
 		"japanese": "住環境の確認",
 		"czech": "Přehled imigrace",
 		"danish": "indvandringsoversigt",
+		"hungarian": "Bevándorlási áttekintő",
 	},
 	"helpMenuText_immigration_overview": {
 		"english": "Click on your bonfire to get a detailed overview of the immigration status.
@@ -833,6 +877,8 @@ In questa immagine le aspettative dei coloni non sono soddisfatte, perciò la co
 Pokud na tomto obrázku nejsou splněna očekávání kolonistů, tak kolonie nebude růst.",
 		"danish": "Klik på dit bål for at få en detaljeret oversigt over indvandringsstatus.
 I dette billede er kolonisternes forventninger ikke opfyldt, så kolonien vil ikke vokse.",
+		"hungarian": "Kattints a jelzőfényedre, hogy megtekinthess egy részletesebb leírást a bevándorlás állapotáról.
+Ezen a képen a telepesek elvárásai nincsenek kiszolgálva, így a kolónia nem fog növekedni.",
 	},
 
 	"helpMenuText_professions": {
@@ -867,6 +913,8 @@ Ricorda che nella colonia sono tutti responsabili della costruzione di pavimenti
 Každý v kolonii je však zodpovědný za stavbu podlah, stěn a nábytku, bez ohledu na jejich profesi či momentální úkol!",
 		"danish": "Erhverv kan hjælpe med at automatisere gentagne opgaver i kolonien. Brug jobpanelet (hammerikon) i tegnoversigten til at tildele forskellige erhverv til dine indbyggere. De vil udføre de opgaver, der er knyttet til deres job automatisk fra nu af.
 Imidlertid er alle i kolonien ansvarlige for at konstruere gulve, vægge og møbler, uanset deres opgave!",
+		"hungarian": "A szakmák segíthetnek autómatizálni a monoton munkafolyamatokat a kolóniában. Használd a munkapanelt (kalapács ikon) a karakterlapon, hogy különböző szakmákat állíts be a lakosaidnak. Így autómatikusan ellátják a munkakörükhöz tartozó feladataikat.
+Mindenesetre az összes telepes felelős a különböző dolgok felépítéséért, mint padlók, falak, és bútorok, a rájuk bízott feladataik mellett!",
 	},
 	"helpMenuTitle_professions_experience": {
 		"english": "Work experience and promotions",
@@ -885,6 +933,7 @@ Imidlertid er alle i kolonien ansvarlige for at konstruere gulve, vægge og møb
 		"japanese": "スキルの獲得と経験",
 		"czech": "Pracovní zkušenosti a propagace",
 		"danish": "Arbejdserfaring og forfremmelser",
+		"hungarian": "Munkatapasztalat és előléptetések",
 	},
 	"helpMenuText_professions_experience": {
 		"english": "The colonist's stage in their profession is shown with the stars in the job panel. With every completed task, your colonists gather experience for their relevant profession.\nYou can see their experience in the job panel and use the promote button to unlock the next level in their career. A higher level usually comes with new skills that allows them to use better tools and craft more advanced items.",
@@ -905,6 +954,7 @@ Die aktuelle Berufsstufe und den aktuellen Erfahrungswert kannst du im Berufefen
 スキルの獲得はそれに応じた経験が必要です。獲得したスキルに上位のスキルがある場合、次からそのスキルは獲得できます。上位のスキルはより優れた道具を生産、使用する事ができます。",
 		"czech": "Fáze kolonisty v jejich profesi je zobrazena hvězdami v pracovním panelu. S každým dokončeným úkolem shromažďují vaši kolonisté zkušenosti pro svou příslušnou profesi.\nJejich zkušenosti můžete vidět na panelu úloh a pomocí tlačítka pro povýšení lze odemknout další úroveň v jejich kariéře. Vyšší úroveň obvykle přichází s novými dovednostmi, které jim umožňují používat lepší nástroje a vytvářet pokročilejší předměty.",
 		"danish": "Kolonistens stadie i deres erhverv vises med stjernerne i jobpanelet. For hver afsluttet opgave indsamler dine kolonister erfaring til deres relevante erhverv.\nDu kan se deres erfaring i jobpanelet og bruge promoveringsknappen til at låse op for det næste niveau i deres karriere. Et højere niveau kommer normalt med nye færdigheder, der giver dem mulighed for at bruge bedre værktøjer og skabe mere avancerede genstande.",
+		"hungarian": "A telepesek szakmai szintjét a csillagok jelzik a munkapanelen. Minden elvégzett munka után a telepeseid tapasztalatot gyűjtenek a feladathoz fűződő szakmában.\nA tapasztalati szintjüket láthatod a munkapanelen, ahol elő is tudod léptetni őket az előléptetés gombbal. A nagyobb szintekhez új képességek is járnak, amivel jobb eszközöket használhatnak, és minőségibb dolgokat gyárthatnak.",
 	},
 	"helpMenuTitle_professions_education": {
 		"english": "Education",
@@ -923,6 +973,7 @@ Die aktuelle Berufsstufe und den aktuellen Erfahrungswert kannst du im Berufefen
 		"japanese": "勉強と訓練",
 		"czech": "Vzdělání",
 		"danish": "uddanelse",
+		"hungarian": "Oktatás",
 	},
 	"helpMenuText_professions_education": {
 		"english": "Sometimes you just can’t wait for learning by doing, and your colonists need to look up how to do more complicated stuff to advance to the next stage in their career more easily. Build a book shelf so they can pick up books about their profession and gather experience much faster.
@@ -956,6 +1007,8 @@ Per quanto riguarda i soldati, è preferibile farli allenare nel combattimento c
 Vojákům se doporučuje trénovat na boj s cvičnou figurínou, protože se ukázalo, že tento způsob je méně náchylný ke zraněním, než řezat mečem do kolegů kolonistů.",
 		"danish": "Nogle gange kan du ikke bare vente på at lære af at gøre, og dine kolonister opsøge, hvordan man gør mere komplicerede ting for lettere at komme videre til næste trin i deres karriere. Byg en boghylde, så de kan hente bøger om deres erhverv og samle erfaringer meget hurtigere.
 Soldater rådes til at træne til kamp med en træningsdummy, da den måde har vist sig at være mindre udsat for skader end at gøre en koloni til deres sparringpartner.",
+		"hungarian": "Néha kicsit hosszas lehet a várakozás, hogy új dolgokat tanulhass, és a telepeseidnek meg kell tanulniuk bonyolultabb dolgokat készíteni, hogy előrébb léphessenek a szakmájukban. Építs nekik egy könyvespolcot, hogy utána tudjanak olvasni a dolgoknak, és még több tapasztalatot gyűjtsenek.
+A katonáknak ajánlott gyakorló bábun gyakorolni a küzdelmet az egymással való küzdelem helyett, mivel így könyebben elkerülhetik a sérüléseket.",
 	},
 	"helpMenuText_mood": {
 		"english": "While most colonists are not very picky about their circumstances, they do require a certain level of comfort and safety to reach happiness. Exhaustion, pain, and the death of a friend can all be causes for bad mood. Provide good care, food and entertainment to keep the spirits up. Look at the status panel in the character screen to read the minds of your colonists.",
@@ -974,6 +1027,7 @@ Soldater rådes til at træne til kamp med en træningsdummy, da den måde har v
 		"japanese": "コロニストは心情が高ければ幸せを、低ければ不幸を感じています。様々な出来事が心情へ影響します。おいしい料理、楽しい娯楽等は心情がプラスになる良い影響を、痛み、友人の死等は心情がマイナスになる悪い影響を及ぼします。フェイスアイコンからの思考パネルによりコロニストの心情の詳細が確認できます。",
 		"czech": "I když většina kolonistů není příliš vybíravá ohledně svých okolností, k dosažení štěstí vyžaduje určitou úroveň pohodlí a bezpečí. Příčina špatné nálady může být vyčerpání, bolest a smrt přítele. Poskytujte dobrou péči, jídlo a zábavu, abyste jim udrželi dobrou náladu. Podívejte se na stavový panel a přečtěte si myšlenky svých kolonistů.",
 		"danish": "Mens de fleste kolonister ikke er meget kræsen om deres forhold, kræver de et vist niveau af komfort og sikkerhed for at nå lykke. Udmattelse, smerte og en vens død kan alle være årsager til dårligt humør. Giv god pleje, mad og underholdning for at holde humøret oppe. Se på statuspanelet på tegnskærmen for at læse dine kolonisters tanker.",
+		"hungarian": "Míg a legtöbb telepes nem túl válogatós, attól még egy bizonyos szintű kényelemre és biztonságra szükségük van, hogy boldogok legyenek. Kimerültség, fájdalom, és a barátaik halála okozhat rossz hangulatot. Törődj velük, adj nekik ételt és szórakozást, hogy fenn tarthasd a lelkesedésüket. Nézz az állapot panelre a karakter ablakban, hogy bele láss a telepeseid gondolataiba.",
 	},
 	"helpMenuTitle_mood_rebellion": {
 		"english": "Rebellion",
@@ -992,6 +1046,7 @@ Soldater rådes til at træne til kamp med en træningsdummy, da den måde har v
 		"japanese": "プッツン切れる",
 		"czech": "Povstání",
 		"danish": "oprør",
+		"hungarian": "Zendülés",
 	},
 	"helpMenuText_mood_rebellion": {
 		"english": "Your colonists give their best, but everyone has their breaking point. Hardships can lead to bad mood, bad mood can lead to hopelessness and hopelessness can lead to anger, apathy, or desertion (not the dark side in this case). Your colonists may remove themselves from your command and choose to do their own thing instead.",
@@ -1010,6 +1065,7 @@ Soldater rådes til at træne til kamp med en træningsdummy, da den måde har v
 		"japanese": "コロニストの心情が悪くなった場合、それが引き金となり様々な行動を引き起こす事があります。命令を無視する以外にも他人に暴力を振るう、周りの物を壊すなど危険な行動もあります。大事にさせないためにも休息または会話など落ち着かせる事が大事です。",
 		"czech": "Vaši kolonisté ze sebe sice dávají maximum, ale každý má svůj bod zlomu. Těžkosti mohou vést ke špatné náladě, špatná nálada může vést k beznaději a beznaděj může vést k hněvu, apatii nebo dezerci. Vaši kolonisté se mohou z vašeho velení vymanit a místo toho se rozhodnou udělat si vlastní věc podle sebe.",
 		"danish": "Dine kolonister giver deres bedste, men alle har deres brudpunkt. Modgang kan føre til dårligt humør, dårligt humør kan føre til håbløshed og håbløshed kan føre til vrede, apati eller desertering (ikke den mørke side i dette tilfælde). Dine kolonister kan fjerne sig selv fra din kommando og vælge at gøre deres egne ting i stedet.",
+		"hungarian": "A telepeseid beleadnak mindent, de mindenkinek van egy határa. A nehézségek rossz hangulathoz vezethetnek, a rossz hagnulat reményvesztéshez, az elvesztett remény pedig haraghoz, kedvetlenséghez, vagy távozáshoz vezethet (nem a sötét értelemben). A telepeseid felmentik magukat a parancsaid alól, és a saját fejük után mennek.",
 	},
 	"helpMenuTitle_mood_inspiration": {
 		"english": "Inspiration",
@@ -1028,6 +1084,7 @@ Soldater rådes til at træne til kamp med en træningsdummy, da den måde har v
 		"japanese": "やる気が溢れる",
 		"czech": "Inspirace",
 		"danish": "inspiration",
+		"hungarian": "Motiváció",
 	},
 	"helpMenuText_mood_inspiration": {
 		"english": "On the other hand, your colonists could be having the time of their lives. If they are really happy, they can enter a state of inspiration in which they work with seeming unlimited energy, without needing any sleep! When they reach this rare state, they just cannot stop smiling.",
@@ -1046,6 +1103,7 @@ Soldater rådes til at træne til kamp med en træningsdummy, da den måde har v
 		"japanese": "その一方、コロニストの心情が最高になった場合、やる気があふれ、疲れる事がなく、また睡眠すら必要のない超人的な行動ができる様になります。その間は彼の笑顔が止む事がありません。",
 		"czech": "Na druhou stranu by vaši kolonisté mohli mít čas na svůj život. Pokud jsou opravdu šťastní, mohou vstoupit do stavu inspirace, ve kterém pracují se zdánlivě neomezenou energií, aniž by museli spát! Když dosáhnou tohoto vzácného stavu, prostě se nemohou přestat usmívat.",
 		"danish": "På den anden side kan dine kolonister muligvis den bedste tid i deres liv. Hvis de er virkelig glade, kan de komme i en tilstand af inspiration, hvor de arbejder med tilsyneladende ubegrænset energi uden at have brug for søvn! Når de når denne sjældne tilstand, kan de bare ikke stoppe med at smile.",
+		"hungarian": "Másrészről a telepeseid is lehetnek boldogok. Ha nagyon boldogok, annyira motiváltak lesznek, hogy úgy dolgoznak, mintha végtelen energiájuk lenne bármiféle alvás nélkül! Ha elérik ezt a ritka állapotot, folyamatosan vigyorognak.",
 	},
 	
 	"helpMenuTitle_wishes": {
@@ -1065,6 +1123,7 @@ Soldater rådes til at træne til kamp med en træningsdummy, da den måde har v
 		"japanese": "願い事",
 		"czech": "Přání",
 		"danish": "ønsker",
+		"hungarian": "Kívánságok",
 	},
 	"helpMenuText_wishes": {
 		"english": "Every inhabitant in the colony is here because of a dream.
@@ -1111,6 +1170,9 @@ Samozřejmě to někdy bude těžké. Kolonisté si zde chtějí vybudovat domov
 		"danish": "Hver indbygger i kolonien er her på grund af en drøm.
 En drøm om et bedre liv.
 Selvfølgelig vil det være svært nogle gange. Men i mellemtiden vil kolonisterne bygge et hjem, de nyder noget de føler sig godt tilpas i. Hvad det præcist betyder, vises i panelet Ønskes oversigt for enhver kolonist.",
+		"hungarian": "Minden lakó a kolóniában az álmait szeretné valóra váltani.
+Álom egy jobb életről.
+Persze, ez sokszor nehéz. De közben a telepesek szeretnének egy otthont, amiben élvezhetik a kényelmet. Hogy ez pontosan mit is jelent számukra, azt a Kívánságok áttekintése panelnél találod minden telepesnél.",
 	},
 	"helpMenuTitle_wishes_fulfillingDenying": {
 		"english": "Fulfilling and Denying Wishes",
@@ -1129,6 +1191,7 @@ Selvfølgelig vil det være svært nogle gange. Men i mellemtiden vil kolonister
 		"japanese": "願い事を叶える、願い事を断る",
 		"czech": "Plnění a popírání přání",
 		"danish": "Opfyldelse og benægtelse af ønsker",
+		"hungarian": "Kívánságok beteljesítése és visszautasítása",
 	},
 	"helpMenuText_wishes_fulfillingDenying": {
 		"english": "It's your decision whether you make the colonists happy or not. If you fulfill the wish of a colonist, they are going to become a little happier for a while.
@@ -1162,6 +1225,8 @@ Al contrario, puoi anche scegliere di negare i desideri. In questo modo dici ai 
 Naproti tomu můžete také odmítnout přání. Pokud řeknete kolonistovi, že se jeho přání nestane, tak si vymyslí něco jiného. A bude se díky tomu cítit špatně.",
 		"danish": "Det er din beslutning, om du gør kolonisterne glade eller ej. Hvis du opfylder en kolonists ønske, bliver de lidt lykkeligere et stykke tid.
 I modsætning hertil kan du også vælge at afvise ønsker. Sådan fortæller du kolonisten, at dette ønske ikke vil ske, så de vil tænke på noget andet. Selvom de stadig vil have det dårligt.",
+		"hungarian": "A te döntésed, hogy a telepesek boldogok legyenek, vagy sem. Ha beteljesítesz egy telepes kívánságát, az egy idejig boldogabb lesz.
+Ezzel ellentétben el is tudod utasítani a kívánságokat. Ezzel adod a telepes tudatára, hogy a kívánsága nem fog teljesülni, helyette gondolhat valami másra. Bár így is szomorú lesz miatta.",
 	},
 	"helpMenuTitle_wishes_satisfaction": {
 		"english": "Life satisfaction",
@@ -1180,6 +1245,7 @@ I modsætning hertil kan du også vælge at afvise ønsker. Sådan fortæller du
 		"japanese": "満足度",
 		"czech": "Spokojenost se životem",
 		"danish": "livstilfredshed",
+		"hungarian": "Elégedettség az élettel",
 	},
 	"helpMenuText_wishes_satisfaction": {
 		"english": "If you fulfill more and more wishes of your colonist, they are going to become ever more satisfied with their life in the colony. This satisfaction is not only necessary for attracting new migrants, but has a long term impact as well. With each satisfaction level, your colonist earns a life satisfaction point. Once the colonist has enough of them, these points can be used to change one of their fundamental traits.
@@ -1212,6 +1278,8 @@ Ad esempio: una persona pessimista potrebbe essere un vero ostacolo per la colon
 Například: Někdo, kdo trpí pesimismem, může být skutečnou brzdou kolonie. Pokud však kolonista nashromáždí dostatek životních bodů spokojenosti, můžete ho nechat zapomenout na pesimistickou vlastnost a nahradit ji něčím pozitivním.",
 		"danish": "Hvis du opfylder flere og flere ønsker fra din kolonist, bliver de stadig mere tilfredse med deres liv i kolonien. Denne tilfredshed er ikke kun nødvendig for at tiltrække nye invandre, men har også en langsigtet virkning. Med hvert tilfredshedsniveau tjener din kolonist et livstilfredshedspoint. Når kolonisten har fået nok af dem, kan disse punkter bruges til at ændre et af deres grundlæggende træk.
 For eksempel: En person, der lider af pessimisme, kan være en reel træk for kolonien. Men hvis kolonisten akkumulerer nok livstilfredshedspoint, kan du lade dem glemme det pessimistiske træk og erstatte det med noget positivt.",
+		"hungarian": "Minél több kívánságot teljesítesz a telepeseidnek, annál elégedettebbek lesznek a kolóniában töltött életükkel. Ez az elégedettség nem csak azért fontos, hogy bevonza a jövevényeket, de hosszútávú hatása is van. Minden elért elégedettségi szinttel a telepes egy elégedettségi pontot szerez. Ha eleget összegyűjtött a telepes, ezekkel a pontokkal megváltoztatható egy alapvető tulajdonsága.
+Például: Valaki, aki pesszimizmustól szenved, eléggé lehúzhatja a kolóniát. De ha a telepes elég elégedettségi ponttal rendelkezik, elfelejtetheted vele a pesszimista tulajdonságát, és kicserélheted azt valami pozitívabbra.",
 	},
 
 
@@ -1230,6 +1298,7 @@ For eksempel: En person, der lider af pessimisme, kan være en reel træk for ko
 		"czech": "Vztahy",
 		"danish": "forhold",
 		"korean": "인간관계",
+		"hungarian": "Kapcsolatok",
 	},
 	"helpMenuText_relationships": {
 		"english": "No one wants to feel alone in the world and that is especially true for your villagers. Making friends and maintaining old frienships is not only fun, it's a core part of their wellbeing.
@@ -1272,6 +1341,9 @@ Når landsbyen er vokset lidt, vil dens indbyggere ønske sig nye venner. Få de
 		"korean": "아무도 외로움을 느끼고 싶어하진 않습니다. 당신의 개척자들은 특히 그렇습니다. 친구를 만들고 오랜 우정을 이어나가는 것은 단순히 재미가 아니라 행복한 삶의 정수입니다.
 		
 정착지가 어느정도 성장하게 되면 주민들은 새 친구를 사귀고 싶어질겁니다. 그들이 서로와 친해지도록 상호작용 시켜주세요.",
+		"hungarian": "Senki sem szereti magát egyedül érezni magát a világban, és ez határozottan igaz a telepeseidre. Barátokat szerezni, és fenntartani régi barátságokat nem csak szórakoztató, de ez az alapja a jóllétüknek is.
+		
+Mikor a falu megnövekedet kissé, a benne lakók új barátságokat szeretnének kötni. Hagyd őket egymással foglalkozni, hogy erősödjön a köztük kialakult kapcsolat.",
 	},
 	"helpMenuTitle_relationships_interactions": {
 		"english": "Social Interactions",
@@ -1288,6 +1360,7 @@ Når landsbyen er vokset lidt, vil dens indbyggere ønske sig nye venner. Få de
 		"czech": "Sociální interakce",
 		"danish": "Sociale interaktioner",
 		"korean": "사교활동",
+		"hungarian": "Közösségi kapcsolatok",
 	},
 	"helpMenuText_relationships_interactions": {
 		"english": "There are a few different ways people can interact:
@@ -1425,6 +1498,16 @@ Hvis du har mange mennesker, der ønsker at få nye venner, så prøv at afholde
 - 포옹은 직접적으로 관계를 상승시키진 않지만 모두의 기분을 더 좋게 만듭니다. 포옹은 동료나 친구끼리만 할 수 있습니다.
 
 만약 친구를 사귀고 싶어하는 사람이 많다면 파티를 열어보세요!",
+		"hungarian": "Többféle lehetőség létezik, amivel az emberek kapcsolatot létesíthetnek egymást közt:
+
+- A beszélgetés főképp jó társalgást szül, de néha nem jól sül el.
+- Viccet mesélni hatásos a kötelékek kialakításában, de a rossz vicceket egyik hallgató sem szereti, kínosan és rosszul fogja magát érezni.
+- Ha valaki lenyűgözi a másikat, minden utána lévő pozitív interakció kétszeres hatást vált ki.
+- A sértések minden esetben rontják a kapcsolatot, és a bocsánatkérés is csak enyhíteni tud rajta.
+- Mindenki szeret az ételekről beszélni, de rögtön éhesek is lesznek utána.
+- Míg az ölelés nem közvetlen javítja a kapcsolatot, mindenki jobban érzi magát tőle - de ez csak haveroknak és barátoknak elérhető.
+
+Ha sok ember szeretne új barátokat szerezni, csak dobj össze nekik egy partit!",
 	},
 	"helpMenuTitle_relationships_kids": {
 		"english": "Having Kids",
@@ -1441,6 +1524,7 @@ Hvis du har mange mennesker, der ønsker at få nye venner, så prøv at afholde
 		"czech": "Mít děti",
 		"danish": "At have børn",
 		"korean": "아이 갖기",
+		"hungarian": "Utód nemzés",
 	},
 	"helpMenuText_relationships_kids": {
 		"english": "Once two adults have reached a great friendship, they can kiss in order to make their relationship a romantic one. Only when they reach the maximum possible romantic relationship level, they will be thinking about having kids.
@@ -1483,5 +1567,8 @@ For at landsbyen kan rumme nye medlemmer, skal forventningerne fra alle indbygge
 		"korean": "두 어른이 절친 단계에 이르게 되면 키스를 통해 그들의 관계를 연인으로 만들 수 있습니다. 연인 단계가 최대치가 되면 그들은 아이 갖는 것에 대해 생각하게 될 것입니다. 
 
 		정착지가 새 개척자를 받아들이기 위해선 모든 주민들의 기대치가 충족되어야 합니다.",
+		"hungarian": "Mikor két felnőtt között nagyon jó baráti viszony alakul ki, megcsókolhatják egymást, hogy romantikus kapcsolatba kerülhessenek. Csak akkor gondolkozhatnak gyerekvállaláson, ha már elérték a romantikus kapcsolat legfelső fokát.
+
+Ahhoz, hogy a falu új embereket tudjon befogadni, minden lakos elvárását teljesíteni kell",
 	},
 }

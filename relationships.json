@@ -1,4 +1,4 @@
-﻿{
+{
 	"relationships": {
 		"english": "Relationships",
 		"german": "Beziehungen",
@@ -15,6 +15,7 @@
 		"czech": "Vztahy",
 		"korean": "관계",
 		"ukrainian": "Стосунки",
+		"hungarian": "Kapcsolatok",
 	},
 	"relationshipStatus": {
 		"english": "Relationship: %status%",
@@ -32,6 +33,7 @@
 		"czech": "Vztah: %status%",
 		"korean": "관계: %status%",
 		"ukrainian": "Стосунки: %status%",
+		"hungarian": "Kapcsolat: %status%",
 	},
 	"naturalRelationshipTendencyPositive": {
 		"english": "Natural tendency positive",
@@ -49,6 +51,7 @@
 		"czech": "Přirozená pozitivní tendence",
 		"korean": "천성적 긍정적 경향",
 		"ukrainian": "Звичайна тенденція: позитивна",
+		"hungarian": "Natúr pozitív irány",
 	},
 	"naturalRelationshipTendencyNegative": {
 		"english": "Natural tendency negative",
@@ -66,6 +69,7 @@
 		"czech": "Přirozená negativní tendence",
 		"korean": "천적 부정적 경향",
 		"ukrainian": "Звичайна тенденція: негативна",
+		"hungarian": "Natúr negatív irány",
 	},
 	"tooltipGettingChildren_Title": {
 		"english": "Children",
@@ -83,6 +87,7 @@
 		"czech": "Dítě",
 		"korean": "아이",
 		"ukrainian": "Діти",
+		"hungarian": "Gyermek",
 		
 	},
 	"tooltipGettingChildren_Desc": {
@@ -101,6 +106,7 @@
 		"czech": "Jakmile je vztahová lišta maximalizována a očekávání ve vesnici jsou splněna tak zamilovaný pár přemýšlí o tom, že bude mít děti.",
 		"korean": "관계 수치가 최대가 되고 모든 거주민들의 기대치가 충족되면, 연인들은 아이 갖는 것에 대해 생각할 것입니다.",
 		"ukrainian": "Коли шкалу стосунків буде заповнено, а колоністи будуть задоволені життям у колонії, пара подумає про народження дітей.",
+		"hungarian": "Mikor teljesen betöltődött a kapcsolati sáv, és a falu szükségletei ki lettek elégítve, a pár elgondolkodhat hogy szeretnének-e gyermeket.",
 	},
 
 	"nextLowerLevel": {
@@ -119,6 +125,7 @@
 		"czech": "Další nižší úroveň: %level%",
 		"korean": "다음 아래 단계: %level%",
 		"ukrainian": "Наступний нижчий рівень: %level%",
+		"hungarian": "A előző szint: %level%",
 	},
 	"nextHigherLevel": {
 		"english": "Next Higher Level: %level%",
@@ -136,6 +143,7 @@
 		"czech": "Další vyšší úroveň: %level%",
 		"korean": "다음 높은 단계: %level%",
 		"ukrainian": "Наступний вищий рівень: %level%",
+		"hungarian": "A következő szint: %level%",
 	},
 
 	"relationship_Nemesis": {
@@ -154,6 +162,7 @@
 		"czech": "Extrémní nenávist",
 		"korean": "숙적",
 		"ukrainian": "Супоста%heShe_T_TKA%",	
+		"hungarian": "Sors",
 	},
 	"relationship_Enemy": {
 		"english": "Enemy",
@@ -171,6 +180,7 @@
 		"czech": "Nepřítel",
 		"korean": "적",
 		"ukrainian": "Ворог%fem2%",
+		"hungarian": "Ellenség",
 	},
 	// I had to use an adjective here. If you can find a fitting noun for your language, like the other titles, use that!
 	"relationship_Disliked": {
@@ -189,6 +199,7 @@
 		"czech": "Odpor",
 		"korean": "싫어함",
 		"ukrainian": "Неприятель%fem1%",
+		"hungarian": "Nem kedvelt",
 	},
 	"relationship_Acquaintance": {
 		"english": "Acquaintance",
@@ -206,6 +217,7 @@
 		"czech": "Známost",
 		"korean": "지인.",
 		"ukrainian": "Знайом%heshe_IY_A%",
+		"hungarian": "Ismerős",
 	},
 	"relationship_Buddy": {
 		"english": "Buddy",
@@ -223,6 +235,7 @@
 		"czech": "Kamarád",
 		"korean": "동료",
 		"ukrainian": "Приятель%fem1%",
+		"hungarian": "Haver",
 	},
 	"relationship_Friend": {
 		"english": "Friend",
@@ -240,6 +253,7 @@
 		"czech": "Přítel",
 		"korean": "친구",
 		"ukrainian": "%cap-friendGender%",
+		"hungarian": "Barát",
 	},
 	"relationship_GreatFriend": {
 		"english": "Great Friend",
@@ -257,6 +271,7 @@
 		"czech": "Skvělý přítel",
 		"korean": "절친",
 		"ukrainian": "Найкращ%heshe_IY_A% %friendGender%",
+		"hungarian": "Legjobb barát",
 	},
 	"relationship_Lover": {
 		"english": "Lover",
@@ -274,6 +289,7 @@
 		"czech": "Milenec",
 		"korean": "연인",
 		"ukrainian": "Коха%heshe_NETS_NKA%",
+		"hungarian": "Szerető",
 	},
 	// if Wilhelm loves Tina, %hisHer% will be "her" (Tina) and %2-hisHer% will be "his" (Wilhelm)
 	"relationship_LoveOfTheirLife": {
@@ -292,6 +308,7 @@
 		"czech": "Životní láska",
 		"korean": "인생의 동반자",
 		"ukrainian": "Кохання всього життя",
+		"hungarian": "Élete szerelme",
 	},
 	"humanIsRelative": {
 		"english": "%firstName% is %firstName2%'s %relativeStatus%",
@@ -308,6 +325,7 @@
 		"czech": "%firstName% je %firstName2% %relativeStatus%",
 		"korean": "%firstName%#{은} %firstName2%의 %relativeStatus%",
 		"ukrainian": "%firstName% та %firstName2% родичі, %firstName% - %relativeStatus%",
+		"hungarian": "%firstName% a(z) %relativeStatus% neki: %firstName2%",
 	},
 	"Child": {
 		"english": "%sonDaughter%",
@@ -324,6 +342,7 @@
 		"czech": "%sonDaughter%",
 		"korean": "%sonDaughter%",
 		"ukrainian": "%sonDaughter%",
+		"hungarian": "%sonDaughter%",
 	},
 	"Parent": {
 		"english": "%fatherMother%",
@@ -340,6 +359,7 @@
 		"czech": "%fatherMother%",
 		"korean": "%fatherMother%",
 		"ukrainian": "%fatherMother%",
+		"hungarian": "%fatherMother%",
 	},
 	"Sibling": {
 		"english": "%brotherSister%",
@@ -356,6 +376,7 @@
 		"czech": "%brotherSister%",
 		"korean": "%brotherSister%",
 		"ukrainian": "%brotherSister%",
+		"hungarian": "%brotherSister%",
 	},
 	"Grandparent": {
 		"english": "%grandpaGrandma%",
@@ -372,6 +393,7 @@
 		"czech": "%grandpaGrandma%",
 		"korean": "%grandpaGrandma%",
 		"ukrainian": "%grandpaGrandma%",
+		"hungarian": "%grandpaGrandma%",
 	},
 	"Grandchild": {
 		"english": "%grandsonGranddaughter%",
@@ -388,6 +410,7 @@
 		"czech": "%grandsonGranddaughter%",
 		"korean": "%grandsonGranddaughter%",
 		"ukrainian": "онук%surnameA%",
+		"hungarian": "%grandsonGranddaughter%",
 	},
 	"UncleAunt": {
 		"english": "%uncleAunt%",
@@ -404,6 +427,7 @@
 		"czech": "%uncleAunt%",
 		"korean": "%uncleAunt%",
 		"ukrainian": "%uncleAunt%",
+		"hungarian": "%uncleAunt%",
 	},
 	"NephewNiece": {
 		"english": "%nephewNiece%",
@@ -421,6 +445,7 @@
 		"czech": "%nephewNiece%",
 		"korean": "%nephewNiece%",
 		"ukrainian": "племінни%heSheCA_K%",
+		"hungarian": "%nephewNiece%",
 	},
 	"Cousin": {
 		"english": "cousin",
@@ -438,6 +463,7 @@
 		"czech": "cousin",
 		"korean": "사촌",
 		"ukrainian": "двоюрідн%heshe_IY_A% %brotherSister%",
+		"hungarian": "rokon",
 	},
 	"relationshipEffect_Upset_Title": {
 		"english": "Upset",
@@ -455,6 +481,7 @@
 		"czech": "Naštvaný",
 		"korean": "화가 남",
 		"ukrainian": "Ображен%heshe_IY_A%",
+		"hungarian": "Dühös",
 	},
 	"relationshipEffect_Upset_Description": {
 		"english": "%affectedName% is upset with %partnerName%. %cap-heShe% will not talk to %2-himHer% for some time.\n(%seconds% seconds left)",
@@ -471,6 +498,7 @@
 		"czech": "%affectedName% je naštvan%yA% na %partnerName%. %cap-heShe% nebude mluvit s %2-himHer% po tuto dobu.\n(%seconds% seconds left)",
 		"korean": "%affectedName%#{은} %partnerName%에게 화가 났습니다. %cap-heShe%#{은} %2-himHer%에게 당분간 말 걸지 않을 겁니다.\n(%seconds% 초 남음)",
 		"ukrainian": "%affectedName% ображен%heshe_IY_A% на %partnerName%. %cap-heShe% не розмовлятиме із %2-himHer% певний час. \n(Ще протягом %seconds% сек.)",
+		"hungarian": "%affectedName% dühös rá: %partnerName%. Nem beszél vele egy darabig.\n(%seconds% másodperc van hátra)",
 	},
 	"relationshipEffect_Impressed_Title": {
 		"english": "Impressed",
@@ -488,6 +516,7 @@
 		"czech": "Uděla%lA% dojem",
 		"korean": "감명받음",
 		"ukrainian": "Вражен%heshe_IY_A%",
+		"hungarian": "Lenyűgözött",
 	},
 	"relationshipEffect_Impressed_Description": {
 		"english": "%affectedName% is impressed by %partnerName%. Any positive interaction is twice as effective!\n(%seconds% seconds left)",
@@ -504,6 +533,7 @@
 		"czech": " %partnerName% uděla%lA% dojem na %affectedName%. Jakákoli pozitivní interakce je dvakrát tak efektivní!\n(%seconds% seconds left)",
 		"korean": "%affectedName% 는  %partnerName%에게 감명 받았습니다. 긍정적인 상호작용이 두배의 효과를 받게 됩니다!\n(%seconds% 초 남음)",
 		"ukrainian": "%partnerName% вміє справити враження, %affectedName% просто зачарован%heshe_IY_A%! Будь-які позитивні взаємодії вдвічі ефективніші.\n(Ще протягом %seconds% сек.)",
+		"hungarian": "%partnerName% lenyűgözte őt: %affectedName%. Minden pozitív hatás kétszeresére nőtt!\n(%seconds% másodperc van hátra)",
 	},
 	"relationshipEffect_NotImpressed_Title": {
 		"english": "Not Impressed",
@@ -521,6 +551,7 @@
 		"czech": "Neuděla%lA% dojem",
 		"korean": "감명받지 않음",
 		"ukrainian": "Не вражен%heshe_IY_A%",
+		"hungarian": "Nincs lenyűgözve",
 	},
 	"relationshipEffect_NotImpressed_Description": {
 		"english": "%affectedName% is not impressed by %partnerName%. Any negative interaction is twice as detrimental!\n(%seconds% seconds left)",
@@ -537,6 +568,7 @@
 		"czech": "%partnerName% neuděla%lA% dojem na %affectedName%. Jakákoli negativní interakce je dvakrát tak škodlivá!\n(%seconds% seconds left)",
 		"korean": "%affectedName%#{은} %partnerName%에게 감명받지 않았습니다. 부정적인 상호작용이 두배로 해롭게 작용합니다!\n(%seconds% 초 남음)",
 		"ukrainian": "%partnerName% меле якусь дичину, %affectedName% роздратован%heshe_IY_A%! Будь-які негативні взаємодії шкодять стосункам удвічі сильніше.\n(Ще протягом %seconds% сек.)",
+		"hungarian": "%partnerName% nem igazán nyűgözte le őt: %affectedName%. Minden negatív hatás kétszeresére nőtt!\n(%seconds% másodperc van hátra)",
 	},
 	"relationshipEffect_LowerLevelLocked_Description": {
 		"english": "Lower Level locked for %seconds% seconds.",
@@ -554,6 +586,7 @@
 		"czech": "Nižší úroveň uzamčena na %seconds% sekund.",
 		"korean": "하위 단계는 %seconds% 초 동안 잠겨 있습니다.",
 		"ukrainian": "Нижчий рівень недоступний протягом %seconds% сек.",
+		"hungarian": "Az előző szint nem elérhető még %seconds% másodpercig",
 	},
 	"relationshipEffect_HigherLevelLocked_Description": {
 		"english": "Higher Level locked for %seconds% seconds.",
@@ -571,5 +604,6 @@
 		"czech": "Vyšší úroveň uzamčena na %seconds% sekund.",
 		"korean": "상위단계는 %seconds%초 동안 잠겨 있습니다.",
 		"ukrainian": "Вищий рівень недоступний протягом %seconds% сек.",
+		"hungarian": "A következő szint nem elérhető még %seconds% másodpercig",
 	},
 }

@@ -1,4 +1,4 @@
-﻿{
+{
 	// used in resource panel on top, needs to be super short
 	"stockpileLimit": {
 		"english": "Max:",
@@ -18,6 +18,7 @@
 		"japanese": "最大",
 		"korean": "최대",
 		"ukrainian": "Макс.:",
+		"hungarian": "Max.:",
 	},
 	"year_no": {
 		"english": "Year %year%",
@@ -36,6 +37,7 @@
 		"japanese": "%year%年",
 		"korean": "%year% 년",
 		"ukrainian": "Рік %year%",
+		"hungarian": "%year%. év",
 	},
 	"quest_log": {
 		"english": "Quest Log",
@@ -54,6 +56,7 @@
 		"japanese": "クエストログ",
 		"korean": "퀘스트로그",
 		"ukrainian": "Журнал квестів",
+		"hungarian": "Küldetés napló",
 	},
 	"quest_accept": {
 		"english": "Accept",
@@ -72,6 +75,7 @@
 		"chinese": "接受",
 		"korean": "수락",
 		"ukrainian": "Прийняти",
+		"hungarian": "Elfogad",
 	},
 	"quest_decline": {
 		"english": "Decline",
@@ -90,6 +94,7 @@
 		"chinese": "拒绝",
 		"korean": "거절",
 		"ukrainian": "Відхилити",
+		"hungarian": "Elutasít",
 	},
 	"quest_item_confirm": {
 		"english": "Confirm",
@@ -108,6 +113,7 @@
 		"chinese": "确认",
 		"korean": "확인",
 		"ukrainian": "Підтвердити",
+		"hungarian": "Rendben",
 	},
 	"research": {
 		"english": "Research",
@@ -127,7 +133,8 @@
 		"bulgarian": "Изследване",
 		"czech": "Výzkum",
 		"romanian": "Cercetare",
-		"japanese": "研究"
+		"japanese": "研究",
+		"hungarian": "Kutatás",
 	},
 	"researchOverview": {
 		"english": "Research Overview",
@@ -147,7 +154,8 @@
 		"bulgarian": "Преглед на изследванията",
 		"czech": "Přehled výzkumu",
 		"romanian": "Prezentare generală a cercetărilor",
-		"japanese": "研究一覧"
+		"japanese": "研究一覧",
+		"hungarian": "Kutatás áttekintő",
 	},
 	"nothingUnlocked": {
 		"english": "Nothing unlocked.",
@@ -167,7 +175,8 @@
 		"bulgarian": "Нищо не е отключено.",
 		"czech": "Nic neodemčeno.",
 		"romanian": "Nimic deblocat.",
-		"japanese": "なし"
+		"japanese": "なし",
+		"hungarian": "Semmi nincs felnyitva",
 	},
 	"unlockedObjects": {
 		"english": "Unlocked Objects:",
@@ -187,7 +196,8 @@
 		"bulgarian": "Отключени обекти:",
 		"czech": "Odemknuté položky:",
 		"romanian": "Obiecte deblocate:",
-		"japanese": "追加される物:"
+		"japanese": "追加される物:",
+		"hungarian": "Felynitott tárgyak:",
 	},
 
 
@@ -210,6 +220,7 @@
 		"romanian": "Diplomație",
 		"japanese": "外交一覧",
 		"ukrainian":"Дипломатія",
+		"hungarian": "Diplomácia",
 	},
 	"showOnMap": {
 		"english": "Show Location",
@@ -229,6 +240,7 @@
 		"romanian": "Afișează locația",
 		"japanese": "位置を確認する",
 		"ukrainian":"Показати розташування",
+		"hungarian": "Helyszín megjelenítése",
 	},
 	"contactFaction": {
 		"english": "Contact",
@@ -248,6 +260,7 @@
 		"romanian": "Contactează",
 		"japanese": "交渉をする",
 		"ukrainian":"Зв'язатися",
+		"hungarian": "Kapcsolat",
 		
 	},
 	"relationshipPoints": {
@@ -268,6 +281,7 @@
 		"romanian": "Puncte de relație",
 		"japanese": "関係:",
 		"ukrainian":"Очки відносин",
+		"hungarian": "Kapcsolati pontok:",
 	},
 	"pointsMaximumAcronym": {
 		"english": "max",
@@ -287,6 +301,7 @@
 		"romanian": "max",
 		"japanese": "最大",
 		"ukrainian":"макс.",
+		"hungarian": "max.",
 	},
 	"neutralRelations": {
 		"english": "Neutral relations",
@@ -306,6 +321,7 @@
 		"romanian": "Relații neutre",
 		"japanese": "中立",
 		"ukrainian":"Нейтральні відносини",
+		"hungarian": "Semleges kapcsolatok",
 	},
 	"truceWithTime": {
 		"english": "Truce (%seconds% s)",
@@ -325,6 +341,7 @@
 		"romanian": "Armistițiu (%seconds% s)",
 		"japanese": "休戦(%seconds%秒)",
 		"ukrainian":"Перемир'я (%seconds% сек.)",
+		"hungarian": "Fegyverszünet (%seconds% másodperc)",
 	},
 	"willAttackOnSight": {
 		"english": "Will attack on sight",
@@ -344,6 +361,7 @@
 		"romanian": "Va ataca la vedere",
 		"japanese": "敵対",
 		"ukrainian":"Нападуть лишень побачать",
+		"hungarian": "Támadnak, ha meglátnak",
 	},
 	"strainedRelations": {
 		"english": "Strained relations",
@@ -363,6 +381,7 @@
 		"romanian": "Relații tensionate",
 		"japanese": "緊張",
 		"ukrainian":"Напружені відносини",
+		"hungarian": "Feszült kapcsolatok",
 	},
 	"friendlyRelations": {
 		"english": "Friendly relations",
@@ -382,6 +401,7 @@
 		"romanian": "Relații de prietenie",
 		"japanese": "親密",
 		"ukrainian":"Дружні відносини",
+		"hungarian": "Baráti kapcsolatok",
 	},
 	"relationshipTutorialDescription": { // needs to be short engouh to fit in 3 lines in tooltip
 		"english": "Friendly if relations over %friendlyLimit%.\nAttacks on sight if relations below %attackingLimit%.",
@@ -401,6 +421,7 @@
 		"romanian": "Prietenos dacă relațiile depășesc %friendlyLimit%.\nAtacă la vedere dacă relațiile sunt sub %attackingLimit%.",
 		"japanese": "関係が%friendlyLimit%を超えると親密となります。\n%attackingLimit%未満の場合は敵対となり近づくと攻撃されます。",
 		"ukrainian":"Дружні, якщо відносини вище ніж %friendlyLimit%.\nНападуть лишень побачать якщо відносини нижче ніж %attackingLimit%.",
+		"hungarian": "Barátságos, ha a kapcsolat nagyobb, mint %friendlyLimit%.\nTámadnak, ha a kapcsolat kevesebb, mint %attackingLimit%.",
 	},
 	"switchFloors": {
 		"english": "Switch Floors",
@@ -420,6 +441,7 @@
 		"japanese": "現在基準とする階",
 		"korean": "층계 전환",
 		"ukrainian":"Перемкнути поверх",
+		"hungarian": "Emelet váltás",
 	},
 	"switchFloorsDescription": {
 		"english": "Click here to switch to a different floor.\nDefault hotkeys: R/F",
@@ -439,6 +461,7 @@
 		"japanese": "表示、建築する階を表します。階の表示が違うので注意してください。",
 		"korean": "다른 층으로 전환하기 위해 이곳을 클릭하세요.\nDefault hotkeys: R/F",
 		"ukrainian":"Клацніть тут щоб перемкнутись на інший поверх.\nКлавіші за замовчуванням: R/F",
+		"hungarian": "Kattints ide, hogy emeletet válts.\nAlapértelmezett gomb: R/F",
 	},
 	"constructionCostsAdditionalOnFloor": {
 		"english": "Construction on floor %floor% costs %percentage%% more.",
@@ -458,6 +481,7 @@
 		"japanese": "%floor%階は%percentage%%以上の建設費がかかります。階の表示が違うので注意してください。",
 		"korean": "%floor%층 위의 건설은 %percentage%% 더 듭니다.",
 		"ukrainian":"Будівництво на %floor% поверсі коштує на %percentage%% дорожче.",
+		"hungarian": "A %floor% emeleten való éítés %percentage%%-al többe kerül.",
 	},
 
 
@@ -481,6 +505,7 @@
 		"czech": "Nálada",
 		"romanian": "Dispoziție",
 		"japanese": "心情",
+		"hungarian": "Hangulat",
 	},
 	"friendships": {
 		"english": "Friendships",
@@ -500,7 +525,8 @@
 		"bulgarian": "Приятелства",
 		"czech": "Vztahy",
 		"romanian": "Prietenie",
-		"japanese": "友情"
+		"japanese": "友情",
+		"hungarian": "Barátság",
 	},
 	"hunger": {
 		"english": "Hunger",
@@ -520,7 +546,8 @@
 		"bulgarian": "Глад",
 		"czech": "Hlad",
 		"romanian": "Foame",
-		"japanese": "満腹"
+		"japanese": "満腹",
+		"hungarian": "Éhség",
 	},
 	"stamina": {
 		"english": "Stamina",
@@ -540,7 +567,8 @@
 		"bulgarian": "Енергия",
 		"czech": "Energie",
 		"romanian": "Energie",
-		"japanese": "持続力"
+		"japanese": "持続力",
+		"hungarian": "Fáradtság",
 	},
 	"health": {
 		"english": "Health",
@@ -560,14 +588,16 @@
 		"bulgarian": "Здраве",
 		"czech": "Zdraví",
 		"romanian": "Sănătate",
-		"japanese": "健康"
+		"japanese": "健康",
+		"hungarian": "Életerő",
 	},
     "fun": { // meaning free time, entertainment
         "english": "Fun",
         "german": "Freizeit",
 	"french": "Amusement",
 	    "ukrainian":"Втіха",
-		"russian": "Досуг"
+		"russian": "Досуг",
+		"hungarian": "Jókedv",
     },
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -587,7 +617,8 @@
 		"bulgarian": "Ако не поддържате доброто настроение на заселниците, те може да пламнат и да спрат да следват вашите команди.",
 		"czech": "Pokud nebudete udržovat své kolonisty šťastné, mohou začít vzdorovat a možná přestanou poslouchat vaše příkazy.",
 		"romanian": "Dacă nu vă mențineți coloniștii fericiți, vor începe să fie sfidători și s-ar putea să nu vă mai urmeze ordinele dvs.",
-		"japanese": "願い事が叶う、対人関係、日々の出来事等で増減します。心情の低下はコロニストがトラブルを起こす原因となります。"
+		"japanese": "願い事が叶う、対人関係、日々の出来事等で増減します。心情の低下はコロニストがトラブルを起こす原因となります。",
+		"hungarian": "Ha nem boldogok a telepeseid, dacolni fognak veled, és nem követik majd az utasításaidat.",
 	},
 	"needsDescriptionFriendships": {
 		"english": "This need hasn't been fully included into the game yet.",
@@ -607,7 +638,8 @@
 		"bulgarian": "Тази нужда все още не е напълно включена в играта.",
 		"czech": "Tato potřeba zatím nebyla do hry plně implementována.",
 		"romanian": "Această nevoie nu a fost încă pe deplin inclusă în joc.",
-		"japanese": "現在実装されていません。"
+		"japanese": "現在実装されていません。",
+		"hungarian": "Ez a szükséglet még nincs teljesen kidolgozva a játékban.",
 	},
 	"needsDescriptionHunger": {
 		"english": "Gather apples or plant crops to take care of food.",
@@ -627,7 +659,8 @@
 		"bulgarian": "Съберете ябълки или растителни култури, за да се грижите за храната.",
 		"czech": "Pro získání jídla sbírejte jablka nebo pěstujte rostliny.",
 		"romanian": "Culegeți mere sau cultivați plante de cultură pentru a menține proviziile alimentare.",
-		"japanese": "満腹が無くなると空腹、飢えを起こします。そうなる前に果物の採集、家畜の屠殺等を行い食べ物を確保してください。"
+		"japanese": "満腹が無くなると空腹、飢えを起こします。そうなる前に果物の採集、家畜の屠殺等を行い食べ物を確保してください。",
+		"hungarian": "Szedj almákat, vagy ültess növényeket, hogy legyen ételed.",
 	},
 	"needsDescriptionStamina": {
 		"english": "Give your colonist a break every once in a while so they can recover.",
@@ -647,7 +680,8 @@
 		"bulgarian": "Дайте почивка на заселниците всеки път, за да може да се възстановът.",
 		"czech": "Dopřejte svému kolonistovi přestávky, aby si mohl odpočinout.",
 		"romanian": "Oferiți-le coloniștilor o pauză din când în când pentru a se putea odihni.",
-		"japanese": "自然と減少します。睡眠により回復します。持続力が無くなると疲労を起こします。"
+		"japanese": "自然と減少します。睡眠により回復します。持続力が無くなると疲労を起こします。",
+		"hungarian": "Hagyj egy kis pihenőt a telepeseidnek néha napján, hogy feltöltődjenek.",
 	},
 	"needsDescriptionHealth": {
 		"english": "Let your colonists sleep and or give them healing potions to increase their health.",
@@ -667,14 +701,16 @@
 		"bulgarian": "Оставете вашите колонисти да спят или им дайте лечебни отвари, за да повишат здравето си.",
 		"czech": "Pro zvýšení zdraví nechte své kolonisty spát nebo jim dejte léčivé lektvary.",
 		"romanian": "Lăsați-vă coloniștii să doarmă sau dați-le poțiuni vindecătoare pentru a-și îmbunătăți sănătatea.",
-		"japanese": "睡眠と回復薬により回復します。健康が無くなるとコロニストは死亡します。"
+		"japanese": "睡眠と回復薬により回復します。健康が無くなるとコロニストは死亡します。",
+		"hungarian": "Hagyd aludni a telepeseidet, vagy adj nekik gyógyitalokat, hogy növeld életerejüket.",
 	},
     "needsDescriptionFun": {
         "english": "Give your colonist a chance to have fun every once in a while. Life's not all about work, right?",
         "german": "Lass deine Kolonisten auch mal etwas Spaß haben! Im Leben geht es doch nicht nur um Arbeit, oder?",
 	"french": "Donnez à votre colon une chance de s'amuser de temps en temps. La vie ne se résume pas au travail, n'est-ce pas ?",
 	    "ukrainian":"Час від часу дайте своєму колоністу можливість порозважатися. Сенс життя полягає не лише в роботі, чи не так?",
-		"russian": "Пусть ваши колонисты тоже повеселятся! Жизнь - это не только работа, не так ли?"
+		"russian": "Пусть ваши колонисты тоже повеселятся! Жизнь - это не только работа, не так ли?",
+		"hungarian": "Hagyd, hogy a telepeseid szórakozzanak néha. Az élet nem csak a munkáról szól, igaz?",
     },
 	"needsTitleTameness": {
 		"english": "Tameness",
@@ -693,6 +729,7 @@
 		"chinese": "驯服",
 		"korean": "길들임",
 		"ukrainian":"Прирученість",
+		"hungarian": "Szelídség",
 	},
 	"needsDescriptionTameness": {
 		"english": "Once you managed to tame a wild animal, you need to care for it from time to time in order to keep it tame. The white line shows when the animal will become wild again.",
@@ -711,6 +748,7 @@
 		"korean": "일단 야생동물을 길들이는데 성공하고 나면, 길들여진 상태를 유지할 수 있도록 수시로 동물을 돌봐야 합니다. 흰색 선은 이 동물이 언제 다시 야생으로 돌아갈 지를 나타냅니다.",
 		"czech": "Jakmile se vám podařilo zkrotit divoké zvíře, musíte se o něj čas od času starat, abyste zůstalo ochočené. Bílá čára ukazuje, kdy bude zvíře opět divoké.",
 		"ukrainian":"Як тільки вам вдалося приручити дику тварину, потрібно час від часу доглядати за нею, щоб вона залишалась ручною. Біла лінія вказує коли тварина знову стане дикою.",
+		"hungarian": "Ha megszelidítesz egy állatot, törődnöd is kell vele időről időre, hogy szelíd maradjon. A fehér csík azt mutatja, hogy mikor válik ismét vaddá.",
 	},
 	"humanWillGrowUpInDays": {
 		"english": "%firstName% will grow up in %days% days",
@@ -729,6 +767,7 @@
 		"japanese": "%firstName%は子供です。大人になるまで%days%日です。",
 		"korean": "%firstName%#{은} %days%일 뒤에 나이를 먹습니다.",
 		"ukrainian":"%firstName% виросте через %days% днів",
+		"hungarian": "%firstName% felnő %days% napon belül",
 	},
 	"humanWillGetOldInDays": {
 		"english": "%firstName% will get old in %days% days",
@@ -747,6 +786,7 @@
 		"japanese": "%firstName%は大人です。老人になるまで%days%日です。",
 		"korean": "%firstName%#{은} %days%일 뒤에 노인이 됩니다.",
 		"ukrainian":"%firstName% постаріє через %days% днів",
+		"hungarian": "%firstName% megöregszik %days% napon belül",
 	},
 	"humanWillPassAwayInDays": {
 		"english": "%firstName% will pass away in %days% days",
@@ -765,6 +805,7 @@
 		"japanese": "%firstName%は老人です。悲しい事に%days%日後に亡くなります。",
 		"korean": "%firstName%#{은} %days%일 뒤에 사망합니다.",
 		"ukrainian":"%firstName% помре через %days% днів",
+		"hungarian": "%firstName% meg fog halni %days% napon belül",
 	},
 	"foodRations": {
 		"english": "Food Rations",
@@ -785,6 +826,7 @@
 		"czech": "Příděly jídla",
 		"romanian": "Rațiile alimentare",
 		"japanese": "食べ物の配分",
+		"hungarian": "Fejadagok",
 	},
 	"thoughts": {
 		"english": "Thoughts",
@@ -805,6 +847,7 @@
 		"czech": "Myšlenky",
 		"romanian": "Gânduri",
 		"japanese": "思考",
+		"hungarian": "Gondolatok",
 	},
 	"personality": {
 		"english": "Personality",
@@ -825,6 +868,7 @@
 		"czech": "Osobnost",
 		"romanian": "Personalitate",
 		"japanese": "個性",
+		"hungarian": "Személyiség",
 	},
 	"saveChanges": {
 		"english": "Save Changes",
@@ -845,6 +889,7 @@
 		"czech": "Uložit změny",
 		"romanian": "Salvează modificările",
 		"japanese": "名前の保存",
+		"hungarian": "Változások mentése",
 	},
 	"name": {
 		"english": "Name",
@@ -865,6 +910,7 @@
 		"czech": "Jméno",
 		"romanian": "Nume",
 		"japanese": "名前",
+		"hungarian": "Név",
 	},
 	"experience": {
 		"english": "Experience",
@@ -885,6 +931,7 @@
 		"czech": "Zkušenosti",
 		"romanian": "Experiență",
 		"japanese": "経験",
+		"hungarian": "Tapasztalat",
 	},
 	"skills": {
 		"english": "Skills",
@@ -903,6 +950,7 @@
 		"japanese": "スキル",
 		"korean": "기술",
 		"ukrainian":"Навички",
+		"hungarian": "Képességek",
 	},
 	"noProfessionalSkills": {
 		"english": "No professional skills to speak of.",
@@ -921,6 +969,7 @@
 		"japanese": "特になし",
 		"korean": "전공기술 없음.",
 		"ukrainian":"Жодних професійних навичок, вартих згадки.",
+		"hungarian": "Nincs említésre méltó szakmai képesség.",
 	},
 	"view": {
 		"english": "View",
@@ -941,6 +990,7 @@
 		"czech": "Ukázat",
 		"romanian": "Vezi",
 		"japanese": "表示",
+		"hungarian": "Mutat",
 	},
 	"info": {
 		"english": "Info",
@@ -961,6 +1011,7 @@
 		"czech": "Info",
 		"romanian": "Info",
 		"japanese": "詳細",
+		"hungarian": "Infó",
 	},
 	"openWebsiteShort": {
 		"english": "Open",
@@ -981,6 +1032,7 @@
 		"czech": "Otevřít",
 		"romanian": "Deschide",
 		"japanese": "開く",
+		"hungarian": "Nyit",
 	},
 	"dismiss": {
 		"english": "Ok",
@@ -1001,6 +1053,7 @@
 		"czech": "Ok",
 		"romanian": "Ok",
 		"japanese": "閉じる",
+		"hungarian": "Oké",
 	},
 	"chooseNewJob": {
 		"english": "Choose New Job",
@@ -1021,6 +1074,7 @@
 		"czech": "Vybrat novou profesi",
 		"romanian": "Alegeți un nou loc de muncă",
 		"japanese": "職業を選択",
+		"hungarian": "Válassz új munkát",
 	},
 	"specialization": {
 		"english": "Specialization",
@@ -1041,6 +1095,7 @@
 		"czech": "Specializace",
 		"romanian": "Specializare",
 		"japanese": "作業の選択",
+		"hungarian": "Szakosodás",
 	},
 	"nextLevel": {
 		"english": "Next Level",
@@ -1061,6 +1116,7 @@
 		"czech": "Další úroveň",
 		"romanian": "Nivelul următor",
 		"japanese": "次のレベルまで",
+		"hungarian": "Következő szint",
 	},
 	"experienceAcroynom": {
 		"english": "Exp",
@@ -1081,6 +1137,7 @@
 		"czech": "Exp.",
 		"romanian": "Exp",
 		"japanese": "経験",
+		"hungarian": "Tap",
 	},
 	"changeProfession": {
 		"english": "Change",
@@ -1101,6 +1158,7 @@
 		"czech": "Změnit",
 		"romanian": "Schimbă",
 		"japanese": "変更",
+		"hungarian": "Átvált",
 	},
 	"promote": {
 		"english": "Promote",
@@ -1121,6 +1179,7 @@
 		"czech": "Povýšit",
 		"romanian": "Promovează",
 		"japanese": "取得",
+		"hungarian": "Előléptet",
 	},
 	"promototions_Title": {
 		"english": "Promotions",
@@ -1140,7 +1199,8 @@
 		"bulgarian": "Повишения",
 		"czech": "Povýšení",
 		"romanian": "Promoții",
-		"japanese": "取得"
+		"japanese": "取得",
+		"hungarian": "Előléptetések",
 	},
 	"promototions_Desc": {
 		"english": "Once your colonists gather enough experience in their profession, you can promote them to unlock new skills",
@@ -1160,7 +1220,8 @@
 		"bulgarian": "След като вашите колонисти съберат достатъчно опит в професията си, можете да ги повишите, за да отключите нови умения",
 		"czech": "Jakmile vaši kolonisté získají dostatek zkušeností ve svých profesích, můžete je povýšit a odemknout jim nové dovednosti.",
 		"romanian": "Odată ce coloniștii dvs. au câștigat suficientă experiență în profesia lor, îi puteți promova pentru a debloca noi abilități.",
-		"japanese": "コロニストは職業の経験を十分に積んだ場合、その職業に関する新たなスキルを取得できます。"
+		"japanese": "コロニストは職業の経験を十分に積んだ場合、その職業に関する新たなスキルを取得できます。",
+		"hungarian": "Mihelyst elég tapasztalatot gyűjt a telepesed a szakmájában, előléptetheted, hogy új képességet szerezzen",
 	},
 	"combat": {
 		"english": "Combat",
@@ -1180,7 +1241,8 @@
 		"bulgarian": "Битка",
 		"czech": "Boj",
 		"romanian": "Luptă",
-		"japanese": "戦い"
+		"japanese": "戦い",
+		"hungarian": "Harc",
 	},
 	"equipment": {
 		"english": "Equipment",
@@ -1200,7 +1262,8 @@
 		"bulgarian": "Оборудване",
 		"czech": "Vybavení",
 		"romanian": "Echipament",
-		"japanese": "装備"
+		"japanese": "装備",
+		"hungarian": "Felszerelés",
 	},
 	"tool": {
 		"english": "Tool",
@@ -1220,7 +1283,8 @@
 		"bulgarian": "Инструмент",
 		"czech": "Nástroj",
 		"romanian": "Instrument",
-		"japanese": "武器道具"
+		"japanese": "武器道具",
+		"hungarian": "Eszköz",
 	},
 	"clothing": {
 		"english": "Clothing",
@@ -1240,7 +1304,8 @@
 		"bulgarian": "Oблекло",
 		"czech": "Oblečení",
 		"romanian": "Îmbrăcăminte",
-		"japanese": "防具衣装"
+		"japanese": "防具衣装",
+		"hungarian": "Ruha",
 	},
 	"damage": {
 		"english": "Damage",
@@ -1260,7 +1325,8 @@
 		"bulgarian": "Щета",
 		"czech": "Poškození",
 		"romanian": "Daună",
-		"japanese": "ダメージ"
+		"japanese": "ダメージ",
+		"hungarian": "Sebzés",
 	},
 	"protection": {
 		"english": "Protection",
@@ -1280,7 +1346,8 @@
 		"bulgarian": "Защита",
 		"czech": "Ochrana",
 		"romanian": "Protecție",
-		"japanese": "防御力"
+		"japanese": "防御力",
+		"hungarian": "Védelem",
 	},
 	"Spring": {
 		"english": "Spring",
@@ -1300,7 +1367,8 @@
 		"bulgarian": "Пролет",
 		"czech": "Jaro",
 		"romanian": "Primăvară",
-		"japanese": "春"
+		"japanese": "春",
+		"hungarian": "Tavasz",
 	},
 	"Summer": {
 		"english": "Summer",
@@ -1320,7 +1388,8 @@
 		"bulgarian": "Лято",
 		"czech": "Léto",
 		"romanian": "Vară",
-		"japanese": "夏"
+		"japanese": "夏",
+		"hungarian": "Nyár",
 	},
 	"Fall": {
 		"english": "Fall",
@@ -1340,7 +1409,8 @@
 		"bulgarian": "Есен",
 		"czech": "Podzim",
 		"romanian": "Toamnă",
-		"japanese": "秋"
+		"japanese": "秋",
+		"hungarian": "Ősz",
 	},
 	"Winter": {
 		"english": "Winter",
@@ -1360,7 +1430,8 @@
 		"bulgarian": "Зима",
 		"czech": "Zima",
 		"romanian": "Iarnă",
-		"japanese": "冬"
+		"japanese": "冬",
+		"hungarian": "Tél",
 	},
 	"seasons": {
 		"english": "Seasons",
@@ -1380,7 +1451,8 @@
 		"bulgarian": "Сезони",
 		"czech": "Roční období",
 		"romanian": "Anotimpuri",
-		"japanese": "季節"
+		"japanese": "季節",
+		"hungarian": "Évszak",
 	},
 	"seasonsDescription": {
 		"english": "This bar shows how much time is left until the seasons change.",
@@ -1400,7 +1472,8 @@
 		"bulgarian": "Тази лента показва колко време остава до промяна на сезоните.",
 		"czech": "Tento sloupec ukazuje, kolik času zbývá do změny ročního období.",
 		"romanian": "Această bară arată cât timp mai rămâne până când se schimbă anotimpurile.",
-		"japanese": "今の季節の時間経過を表します。最大になると次の季節へ替わります。"
+		"japanese": "今の季節の時間経過を表します。最大になると次の季節へ替わります。",
+		"hungarian": "Ez a sáv azt mutatja, mennyi időd maradt évszakváltásig.",
 	},
 
 	// Growing Up Panel
@@ -1421,6 +1494,7 @@
 		"japanese": "成長",
 		"korean": "유년기",
 		"ukrainian":"Дорослішання",
+		"hungarian": "Felnő",
 	},
 	"childhoodExperiences": {
 		"english": "Childhood Experiences",
@@ -1439,6 +1513,7 @@
 		"japanese": "満足度",
 		"korean": "유년 시절 경험",
 		"ukrainian":"Досвід дитинства",
+		"hungarian": "Gyerekkori tapasztalatok",
 	},
 	"childhoodHappinessTooltip_Description": {
 		"english": "Being in a good or bad mood slowly earns positive or negative childhood happiness points.\nDepending on which points are collected, the child will gain positive or negative traits on their birthday.",
@@ -1457,7 +1532,7 @@
 		"japanese": "満足度は心情の状態により右側のプラスまたは左側のマイナスへ動きます。どちらでも最大になった場合はそれぞれの満足度ポイントを獲得します。獲得した満足度ポイントに応じて誕生日に個性が決まります。",
 		"korean": "아이가 좋거나 나쁜 기분으로 지낼때마다 조금씩 긍정적 혹은 부정적 포인트를 획득합니다. \n어느 포인트를 얻느냐에 따라 아이는 생일날 긍정적이거나 부정적인 성질을 얻게 됩니다.",
 		"ukrainian":"Перебування в хорошому або поганому настрої поволі приносить позитивні або негативні бали дитячого щастя. \nВ залежності від набраних балів, дитина здобуде позитивну або негативну рису характеру на свій день народження.",
-
+		"hungarian": "A jó, vagy rossz hangulat pozitív, vagy negatív boldogságpontokat jelentek a gyermeknek.\nAttól függően, milyen pontokat szerzett a gyermek, pozitív, vagy negatív jellemvonásokat szerez a születésnapján.",
 	},
 	"childhoodEducation": {
 		"english": "Education",
@@ -1476,6 +1551,7 @@
 		"japanese": "教育",
 		"korean": "교육",
 		"ukrainian":"Освіта",
+		"hungarian": "Oktatás",
 	},
 	"childhoodEducationTooltip_Description": {
 		"english": "Every Child can learn life skills at the book shelf. On their birthday, they can use these points to get a great head start in any profession.\nIf the education is stopped before a topic is fully understood and a point is earned, the progress will slowly be forgotten.",
@@ -1494,6 +1570,7 @@
 		"japanese": "教育スキルのあるコロニストから教育を受ける、または子供用本棚から勉強をする事で教育の経験を獲得する事ができます。教育の経験は自然と減少していきます。また、最大になると教育ポイントを獲得します。獲得した教育ポイントに応じて誕生日にスキルを獲得できます。",
 		"korean": "모든 아이들은 책장의 책으로 부터 생활 기술을 배울 수 있습니다. 아이들은 생일날 포인트를 사용해 전문 기술에 사용할 수 있습니다. \n만약 그 주제를 완전히 익히고 포인트를 얻기 전에 교육을 멈춘다면 아이들은 진행도를 서서히 잃게됩니다.",
 		"ukrainian":"Кожна дитина може опановувати життєві навички за допомогою книжкової полиці. В день народження, можна використати набрані бали, щоб отримати хороший старт у будь-якій професії. \nЯкщо навчання припиняється перш ніж тему буде повністю опановано і зароблено бал, прогрес повільно забуватиметься.",
+		"hungarian": "Minden gyermek tanulhat hasznos képzettségeket az élethez a könyvekből. A szülinapjukon ezeket a pontokat felhasználhatják, hogy szakmai előnyhöz jussanak.\nHa hamarabb végetér az oktatás, mintsem teljességgel megtanulná azt, annak folyamata lassan feledésbe vész.",
 	},
 
 	// Birthday Panel (Child born)
@@ -1514,6 +1591,7 @@
 		"japanese": "子供が生まれました！",
 		"korean": "아이가 태어났습니다!",
 		"ukrainian":"Народилася дитина!",
+		"hungarian": "Egy gyermek született!",
 	},
 	"childBornDescription": {
 		"english": "%parent1% and %parent2% have got a %sonDaughter%!\nOverjoyed, they are thinking about a name for the child.\n\nWhat should their %sonDaughter% be called?",
@@ -1532,6 +1610,7 @@
 		"japanese": "%parent1%と%parent2%は喜びに満ちています。二人の生まれたばかりの大事な%sonDaughter%へ素敵な名前をプレゼントしてください。",
 		"korean": "%parent1% 와 %parent2%#{은} %sonDaughter%#을 갖게 되었습니다!\n몹시 기뻐하며, 그들은 아이에게 지어줄 이름을 생각하고 있습니다.\n\n %sonDaughter%의 이름은 무엇이 좋을까요?",
 		"ukrainian":"%parent1% та %parent2% стали батьками, у них %sonDaughter%! \nПереповнені щастям, вони обирають ім'я для дитини. \n\nЯк їм слід назвати немовля?",
+		"hungarian": "%parent1% és %parent2% sikeresen világrahozott egy %sonDaughter%-t\nÖrömükben a gyermek nevén törik a fejüket.\n\nHogy nevezzék el a %sonDaughter%-t?",
 	},
 	"welcomeHuman": {
 		"english": "Welcome %firstName%!",
@@ -1550,6 +1629,7 @@
 		"japanese": "ようこそ、%firstName%！",
 		"korean": "환영한다, %firstName%!",
 		"ukrainian":"Ласкаво просимо, %firstName%!",
+		"hungarian": "Üdv %firstName%!",
 	},
 	"unnamed": { // used before player has assigned a name
 		"english": "Unnamed",
@@ -1568,6 +1648,7 @@
 		"japanese": "子供の名前",
 		"korean": "무명",
 		"ukrainian":"Безіменн%heshe_IY_A%",
+		"hungarian": "Névtelen",
 	},
 
 	// Birthday Panel (becoming Adult)
@@ -1588,6 +1669,7 @@
 		"japanese": "%firstName%は大人になりました。",
 		"korean": "%firstName% 가 어른이 되었다!",
 		"ukrainian":"%firstName% подоросліша%hesheEnd%!",
+		"hungarian": "%firstName% felnőtt!",
 	},
 	"positiveTraits": {
 		"english": "Positive Traits",
@@ -1606,6 +1688,7 @@
 		"japanese": "前向きな個性",
 		"korean": "긍정적 성향",
 		"ukrainian":"Позитивні риси",
+		"hungarian": "Jó tulajdonságok",
 	},
 	"lotsPositiveExperiencesGainedTraits": {
 		"english": "%firstName% had a lot of good experiences in %hisHer% childhood and gained the following traits:",
@@ -1624,6 +1707,7 @@
 		"japanese": "%firstName%は多くのプラスの満足度ポイントにより下記の個性を獲得しました。",
 		"korean": "%firstName%#{은} %hisHer%의 유년시절 긍정적인 경험을 많이 했습니다. 이러한 성향을 얻습니다:",
 		"ukrainian":"%firstName% ма%hesheEnd% чудове безтурботне дитинство та здобу%hesheEnd% такі риси:",
+		"hungarian": "%firstName% sok jó tapasztalatot gyűjtött gyerekkorában, így a következő tulajdonságai lesznek:",
 	},
 	"somePositiveExperiencesGainedTraits": {
 		"english": "%firstName% had some good experiences in %hisHer% childhood and gained the following traits:",
@@ -1641,6 +1725,7 @@
 		"czech": "%firstName% získa%lA% pár dobrých zkušeností v dětství a získa%lA% tyto vlastnosti:",
 		"japanese": "%firstName%はプラスの満足度ポイントにより下記の個性を獲得しました。",
 		"ukrainian":"%firstName% ма%hesheEnd% доволі непогане дитинство та здобу%hesheEnd% такі риси:",
+		"hungarian": "%firstName% szerzett néhány jó tapasztalatot gyerekkorában, így a következő tulajdonságai lesznek:",
 	},
 	"negativeTraits": {
 		"english": "Negative Traits",
@@ -1658,6 +1743,7 @@
 		"czech": "Negativní vlastnosti",
 		"japanese": "後ろ向きな個性",
 		"ukrainian":"Негативні риси",
+		"hungarian": "Rossz tulajdonságok",
 	},
 	"lotsNegativeExperiencesGainedTraits": {
 		"english": "%firstName% had a lot of bad experiences in %hisHer% childhood and gained the following traits:",
@@ -1675,6 +1761,7 @@
 		"czech": "%firstName% získa%lA% hodně špatných zkušeností v dětství a získa%lA% tyto vlastnosti:",
 		"japanese": "%firstName%は多くのマイナスの満足度ポイントにより下記の個性を獲得しました。",
 		"ukrainian":"%firstName% ма%hesheEnd% жахливе травмуюче дитинство та здобу%hesheEnd% такі риси:",
+		"hungarian": "%firstName% sok rossz tapasztalatot gyűjtött gyerekkorában, így a következő tulajdonságai lesznek:",
 	},
 	"someNegativeExperiencesGainedTraits": {
 		"english": "%firstName% had some bad experiences in %hisHer% childhood and gained the following traits:",
@@ -1692,6 +1779,7 @@
 		"czech": "%firstName% získa%lA% pár špatných zkušeností v dětství a získa%lA% tyto vlastnosti:",
 		"japanese": "%firstName%はマイナスの満足度ポイントにより下記の個性を獲得しました。",
 		"ukrainian":"%firstName% ма%hesheEnd% доволі неспокійне дитинство та здобу%hesheEnd% такі риси:",
+		"hungarian": "%firstName% szerzett néhány rossz tapasztalatot gyerekkorában, így a következő tulajdonságai lesznek:",
 	},
 	"education": {
 		"english": "Education",
@@ -1709,6 +1797,7 @@
 		"czech": "Vzdělávání",
 		"japanese": "教育",
 		"ukrainian":"Освіта",
+		"hungarian": "Műveltség",
 	},
 	"educationPointsCollected": {
 		"english": "%firstName% has collected %points% Education points that %heShe% can now spend on Profession Levels:",
@@ -1726,6 +1815,7 @@
 		"czech": "%firstName% získa%lA% %points% vzdělávacích bodů, které může použít ve svém profesním rozhraní",
 		"japanese": "%firstName%は%points%教育ポイントを獲得しています。獲得したいスキルを選んでください。",
 		"ukrainian":"%firstName% набра%hesheEnd% %points% балів освіти, які %heShe% тепер може витратити на рівні професій.",
+		"hungarian": "%firstName% %points% műveltségi pontot szerzett, amit eloszthat szakmai szintekre:",
 	},
 	"pointCost": {
 		"english": "Point Cost",
@@ -1743,6 +1833,7 @@
 		"czech": "Cena bodů",
 		"japanese": "消費ポイント",
 		"ukrainian":"Вартість у балах",
+		"hungarian": "Pont követelmény",
 	},
 	"pointsLeft": {
 		"english": "%points% Points Left",
@@ -1760,6 +1851,7 @@
 		"czech": "%points% bodů zbývá",
 		"japanese": "残り%points%ポイント",
 		"ukrainian":"%points% балів залишилось",
+		"hungarian": "%points% pont maradt",
 	},
 	"happyBirthday": {
 		"english": "Happy Birthday!",
@@ -1777,6 +1869,7 @@
 		"czech": "Všechno nejlepší!",
 		"japanese": "誕生日おめでとう！",
 		"ukrainian":"З днем народження!",
+		"hungarian": "Boldog szülinapot!",
 	},
 
 	// wish panel
@@ -1798,7 +1891,8 @@
 		"romanian": "Puncte de satisfacție",
 		"bulgarian": "Точки на удовлетворение",
 		"czech": "Body spokojenosti",
-		"japanese": "満足度"
+		"japanese": "満足度",
+		"hungarian": "Elégedettségi pontok",
 	},
 	"wishPointsTip_Desc": {
 		"english": "Every fulfilled wish makes your colonist more satisfied with life.",
@@ -1818,7 +1912,8 @@
 		"romanian": "Fiecare dorință împlinită îl face pe colonistul tău mai satisfăcut de viață.",
 		"bulgarian": "Всяко изпълнено желание прави вашия колонист по-доволен от живота.",
 		"czech": "Každé splněné přání učiní kolonistu více spokojenějším.",
-		"japanese": "願い事を叶える事で獲得できる満足度です。"
+		"japanese": "願い事を叶える事で獲得できる満足度です。",
+		"hungarian": "Minden beteljesített kívánság jobb életet teremt a telepeseid számára.",
 	},
 	"wishDenyTip_Title": {
 		"english": "Deny Wish",
@@ -1838,7 +1933,8 @@
 		"romanian": "Refuză dorința",
 		"bulgarian": "Откажи желание",
 		"czech": "Odmítnout přání",
-		"japanese": "願い事を断る"
+		"japanese": "願い事を断る",
+		"hungarian": "Kívánság elutasítása",
 	},
 	"wishDenyTip_Desc": {
 		"english": "You can tell your colonists that you're not going to fulfill this wish. They'll be annoyed, but they will choose a different one.",
@@ -1858,7 +1954,8 @@
 		"romanian": "Puteți spune coloniștilor dvs. că nu veți îndeplini această dorință. Se vor enerva, dar vor alege una diferită.",
 		"bulgarian": "Можете да кажете на колонистите, че няма да изпълните това желание. Ще се дразнят, но ще изберат друго.",
 		"czech": "Můžete svému kolonistovi říct, že mu toto přání nesplníte. Bude sice naštvaný, ale vybere si jiné přání.",
-		"japanese": "願い事を断り、新たな願い事が出してもらいます。ただし、心情が下がりますので注意してください。"
+		"japanese": "願い事を断り、新たな願い事が出してもらいます。ただし、心情が下がりますので注意してください。",
+		"hungarian": "Elmondhatod a telepesednek, hogy nem fogod teljesíteni a kívánságát. Kicsit csalódott lesz, de választani fog másikat.",
 	},
 	"satisfactionPoints_Title": {
 		"english": "Satisfaction",
@@ -1878,7 +1975,8 @@
 		"romanian": "Satisfacție",
 		"bulgarian": "Удовлетворение",
 		"czech": "Spokojenost",
-		"japanese": "満足度"
+		"japanese": "満足度",
+		"hungarian": "Elégedettség",
 	},
 	"satisfactionPoints_Desc": {
 		"english": "Fulfill your colonists' wishes and they will be satisfied with life. When the bar is full they gets one lifetime satisfaction point.",
@@ -1898,7 +1996,8 @@
 		"romanian": "Îndeplinește dorințele coloniștilor tăi și ei vor fi mulțumiți de viață. Când bara este plină, ei obțin un punct de satisfacție a vieții.",
 		"bulgarian": "Изпълнете желанията на вашите колонисти и те ще бъдат доволни от живота. Когато лентата е пълна, те получават една точка за удовлетвореност от живота.",
 		"czech": "Plňte přání kolonistů, aby byli spokojení se svým životem. Když se sloupec naplní získají bod životní spokojenosti.",
-		"japanese": "コロニストの願い事を叶えると満たされます。すべて満たされると満足度ポイントを獲得します。"
+		"japanese": "コロニストの願い事を叶えると満たされます。すべて満たされると満足度ポイントを獲得します。",
+		"hungarian": "Teljesítsd a telepeseid kívánságát, és jobb életük lesz tőle. Mikor a sáv betelik, kapnak 1 elégedettségi pontot.",
 	},
 	"satisfactionLevel_Title": {
 		"english": "Satisfaction Level",
@@ -1918,7 +2017,8 @@
 		"romanian": "Nivelul de satisfacție",
 		"bulgarian": "Ниво на удовлетвореност",
 		"czech": "Úroveň spokojenosti",
-		"japanese": "満足度レベル"
+		"japanese": "満足度レベル",
+		"hungarian": "Elégedettségi szint",
 	},
 	"satisfactionLevel_Desc": {
 		"english": "Represents the total lifetime satisfaction of your colonist.",
@@ -1938,7 +2038,8 @@
 		"romanian": "Reprezintă satisfacția totală a vieții colonistului dvs.",
 		"bulgarian": "Представлява общото удовлетворение от живота на вашия колонист.",
 		"czech": "Reprezentuje celkovou životní spokojenost vašeho kolonisty.",
-		"japanese": "享受した満足度を表します。"
+		"japanese": "享受した満足度を表します。",
+		"hungarian": "A telepesed összes eddig elért elégedettségi pontját jelképezi.",
 	},
 	"promotions_Title": {
 		"english": "Promotions",
@@ -1958,7 +2059,8 @@
 		"romanian": "Promoții",
 		"bulgarian": "Повишения",
 		"czech": "Povýšení",
-		"japanese": "取得"
+		"japanese": "取得",
+		"hungarian": "Előléptetések",
 	},
 	"promotions_Desc": {
 		"english": "Once your colonists have gathered enough Experience, you can promote them to unlock new skills.",
@@ -1978,7 +2080,8 @@
 		"romanian": "Odată ce coloniștii dvs. au câștigat suficientă experiență, îi puteți promova pentru a debloca noi abilități.",
 		"bulgarian": "След като вашите колонисти са събрали достатъчно опит, можете да ги повишите, за да отключите нови умения.",
 		"czech": "Jakmile vaši kolonisté získají dostatek zkušeností, můžete je povýšit a odemknout tím nové dovednosti.",
-		"japanese": "コロニストは職業の経験を十分に積んだ場合、その職業に関する新たなスキルを取得できます。"
+		"japanese": "コロニストは職業の経験を十分に積んだ場合、その職業に関する新たなスキルを取得できます。",
+		"hungarian": "Amikor a telepeseid elég tapasztalatot szereznek, akkor előléptetheted őket, hogy új képességre tehessenek szert.",
 	},
 	"productionMode_Produce": {
 		"english": "Produce",
@@ -1998,7 +2101,8 @@
 		"romanian": "Produce",
 		"bulgarian": "Производство",
 		"czech": "Vyrobit",
-		"japanese": "生産"
+		"japanese": "生産",
+		"hungarian": "Gyártás",
 	},
 	"productionMode_ProduceInfinite": {
 		"english": "Produce Infinite",
@@ -2018,7 +2122,8 @@
 		"romanian": "Produce la infinit",
 		"bulgarian": "Безкрайно производство",
 		"czech": "Vyrábět nekonečně",
-		"japanese": "連続で生産"
+		"japanese": "連続で生産",
+		"hungarian": "Végtelenített gyártás",
 	},
 	"productionMode_KeepInStock": {
 		"english": "Keep in Stock",
@@ -2038,7 +2143,8 @@
 		"romanian": "Păstrează în stoc",
 		"bulgarian": "Дръжте в склада",
 		"czech": "Skladovat ve skladu",
-		"japanese": "生産量を維持"
+		"japanese": "生産量を維持",
+		"hungarian": "Szinten tartani",
 	},
 	"cost": {
 		"english": "Cost",
@@ -2058,7 +2164,8 @@
 		"romanian": "Cost",
 		"bulgarian": "Цена",
 		"czech": "Cena",
-		"japanese": "消費"
+		"japanese": "消費",
+		"hungarian": "Ár",
 	},
 	"totalCost": {
 		"english": "Total Cost",
@@ -2078,7 +2185,8 @@
 		"romanian": "Cost total",
 		"bulgarian": "Крайна цена",
 		"czech": "Celková cena",
-		"japanese": "消費合計"
+		"japanese": "消費合計",
+		"hungarian": "Teljes ár",
 	},
 	"costPerItem": {
 		"english": "Cost per Item",
@@ -2098,7 +2206,8 @@
 		"romanian": "Cost pe obiect",
 		"bulgarian": "Цена за брой",
 		"czech": "Cena za položku",
-		"japanese": "一つ当たりの消費"
+		"japanese": "一つ当たりの消費",
+		"hungarian": "Tételenkénti ár",
 	},
 	"colonySettings": {
 		"english": "Colony Settings",
@@ -2118,7 +2227,8 @@
 		"romanian": "Setările coloniei",
 		"bulgarian": "Настройки на колонията",
 		"czech": "Nastavení kolonie",
-		"japanese": "資材収集の優先範囲の実行"
+		"japanese": "資材収集の優先範囲の実行",
+		"hungarian": "Kolónia beállítások",
 	},
 	"onlyCutDesignatedTrees": {
 		"english": "Only cut designated trees",
@@ -2138,7 +2248,8 @@
 		"romanian": "Taie doar copacii marcați",
 		"bulgarian": "Изрежете само определени дървета",
 		"czech": "Kácet pouze označené stromy",
-		"japanese": "伐採の優先範囲を実行"
+		"japanese": "伐採の優先範囲を実行",
+		"hungarian": "Csak a kijelölt fák kivágása",
 	},
 	"onlyMineDesignatedRocksOres": {
 		"english": "Only mine designated rocks/ores",
@@ -2158,7 +2269,8 @@
 		"romanian": "Extrage doar rocile/mineralele marcate",
 		"bulgarian": "Копайте само определени скали/руди",
 		"czech": "Těžit pouze označené kameny/rudy",
-		"japanese": "採掘の優先範囲を実行"
+		"japanese": "採掘の優先範囲を実行",
+		"hungarian": "Csak a kijelölt kövek/ércek bányászása",
 	},
 	"onlyGatherDesignatedPlants": {
 		"english": "Only gather designated plants",
@@ -2178,7 +2290,8 @@
 		"romanian": "Recoltează doar plantele marcate",
 		"bulgarian": "Събирайте само определени растения",
 		"czech": "Sbírat pouze označené rostliny",
-		"japanese": "採集の優先範囲を実行"
+		"japanese": "採集の優先範囲を実行",
+		"hungarian": "Csak a kijelölt növények begyűjtése",
 	},
 	"designations": {
 		"english": "Designations",
@@ -2198,7 +2311,8 @@
 		"romanian": "Marcaje",
 		"bulgarian": "Предназначение",
 		"czech": "Označení",
-		"japanese": "優先範囲の設定"
+		"japanese": "優先範囲の設定",
+		"hungarian": "Kijelölések",
 	},
 	"designationTooltip_Title": {
 		"english": "Select specific resources to gather",
@@ -2218,7 +2332,8 @@
 		"romanian": "Selectează resurse specifice de colectat",
 		"bulgarian": "Изберете конкретни ресурси за събиране",
 		"czech": "Označte pouze vybrané zdroje pro sběr",
-		"japanese": "資材を選択してください。"
+		"japanese": "資材を選択してください。",
+		"hungarian": "Válassz ki specifikus nyersanyagokat a begyüjtésükhöz",
 	},
 	"designationTooltip_Desc": {
 		"english": "With the designation tool you can restrict resource gathering to the objects you have marked with the tool. The colonists are only going to work on designated objects automatically.",
@@ -2238,7 +2353,8 @@
 		"romanian": "Cu instrumentul de marcare puteți limita colectarea de resurse la obiectele pe care le-ați marcat cu instrumentul. Coloniștii vor lucra automat numai la obiectele marcate.",
 		"bulgarian": "С инструмента за обозначаване можете да ограничите събирането на ресурси до обектите, които сте маркирали с инструмента. Колонистите ще работят само по определени обекти автоматично.",
 		"czech": "S nástrojem na označování můžete omezit oblast pro sběr na pouze označené suroviny. Kolonisté budou automaticky pracovat pouze v těchto označených oblastech.",
-		"japanese": "優先的に収集したい範囲を設定して優先を実行した場合は指定された範囲を優先的に収集します。"
+		"japanese": "優先的に収集したい範囲を設定して優先を実行した場合は指定された範囲を優先的に収集します。",
+		"hungarian": "A megfelelő eszközzel le tudod korlátozni a begyüjtését azon anyagoknak, amelyekett azzal kijelölsz. A telepesek csak azokon fognak dolgozni, amit kijelöltél.",
 	},
 	"autoEat": {
 		"english": "Auto eat",
@@ -2246,6 +2362,7 @@
 		"french": "Manger auto.",
 		"ukrainian":"Їсти автоматично",
 		"russian":"Автоматическое питание",
+		"hungarian": "Atómatikus evés",
 	},
 	"autoEatTooltip_Title": {
 		"english": "Auto Eat",
@@ -2253,6 +2370,7 @@
 		"french": "Manger automatiquement",
 		"ukrainian":"Їсти автоматично",
 		"russian":"Автоматическое питание",
+		"hungarian": "Magától eszik",
 	},
 	"autoEatTooltip_Desc": {
 		"english": "When enabled, your colonists will eat when their hunger is below 20% regardless of hour type.",
@@ -2260,6 +2378,7 @@
 		"french": "Lorsque cette option est activée, les colons mangeront lorsque leur faim sera inférieure à 20%, quel que soit le type d'heure.",
 		"ukrainian":"Якщо ввімкнено, ваші колоністи їстимуть автоматично лишень їх шкала голоду опуститься нижче 20%, незалежно від часу доби",
 		"russian": "Когда эта функция активна, ваши колонисты будут автоматически есть, как только их голод станет ниже 20%, независимо от расписания.",
+		"hungarian": "Ha engedélyezed, a telepesek akkor esznek, ha 20% alá csökken az éhségi szintjuk, függetlenül attól, mennyi az idő.",
 	},
 	"autoSleep": {
 		"english": "Auto sleep",
@@ -2267,6 +2386,7 @@
 		"french": "Dormir auto.",
 		"ukrainian":"Спати автоматично",
 		"russian":"Автоматический сон",
+		"hungarian": "Magától alszik",
 	},
 	"autoSleepTooltip_Title": {
 		"english": "Auto Sleep",
@@ -2274,6 +2394,7 @@
 		"french": "Dormir automatiquement",
 		"ukrainian":"Спати автоматично",
 		"russian":"Автоматический сон",
+		"hungarian": "Magától alszik",
 	},
 	"autoSleepTooltip_Desc": {
 		"english": "When enabled, your colonists will sleep when their energy is below 15% regardless of hour type",
@@ -2281,6 +2402,7 @@
 		"french": "Lorsque cette option est activée, les colons dormiront lorsque leur énergie sera inférieure à 15%, quel que soit le type d'heure.",
 		"ukrainian":"Якщо ввімкнено, ваші колоністи спатимуть автоматично лишень їх шкала витривалості опуститься нижче 15%, незалежно від часу доби",
 		"russian":"Когда колонисты активны, они будут автоматически засыпать, как только их энергия опустится ниже 15%, независимо от расписания.",
+		"hungarian": "Ha engedélyezed, a telepeseid akkor alszanak, ha a fáradtságuk 15% alá csökken, függetlenül attól, mennyi az idő.",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -2300,7 +2422,8 @@
 		"romanian": "Modul de luptă",
 		"bulgarian": "Режим на борба",
 		"czech": "Režim boje",
-		"japanese": "戦闘態勢"
+		"japanese": "戦闘態勢",
+		"hungarian": "Harci mód",
 	},
 	"combatModeTooltip_Desc": {
 		"english": "In combat mode, your colonists will put on their combat equipment and stop working on their jobs, relaxing, or talking with others. This allows you to control them more easily in battle.",
@@ -2320,7 +2443,8 @@
 		"romanian": "În modul de luptă coloniștii dvs. își vor pune echipamentul de luptă și vor înceta să lucreze, să se relaxeze sau să vorbească cu ceilalți. Acest lucru vă permite să le controlați mai ușor în luptă.",
 		"bulgarian": "В боен режим вашите колонисти ще облекат бойната си екипировка и ще спрат да работят върху работата си, да се отпускат или да разговарят с други. Това ви позволява да ги контролирате по-лесно в битка.",
 		"czech": "V bojovém režimu si vaši kolonisté obléknou bojové vybavení a přestanou pracovat, odpočívat nebo mluvit s ostatními. Toto vám umožní snadnější kontrolu kolonistů v boji.",
-		"japanese": "戦闘の装備を身に着けると共に、仕事、休息等全ての行動を取らずその場で待機します。コロニストの詳細画面で指定した場合はそのコロニストだけが対象になります。"
+		"japanese": "戦闘の装備を身に着けると共に、仕事、休息等全ての行動を取らずその場で待機します。コロニストの詳細画面で指定した場合はそのコロニストだけが対象になります。",
+		"hungarian": "Harci módban a telepeseid előveszik a fegyvereiket, és abbahagyják a munkájukat, a pihenést, vagy a beszélgetést. Így sokkal könnyebb őket irányítani a harcban.",
 	},
 	"gameInfoAndStats": {
 		"english": "Game Info and Stats",
@@ -2340,7 +2464,8 @@
 		"romanian": "Informații despre joc și statistici",
 		"bulgarian": "Информация за играта и статистика",
 		"czech": "Informace o hře a statistiky",
-		"japanese": "コロニー情報"
+		"japanese": "コロニー情報",
+		"hungarian": "Játék állapotok és információk",
 	},
 	"difficulty": {
 		"english": "Difficulty",
@@ -2360,7 +2485,8 @@
 		"romanian": "Dificultate",
 		"bulgarian": "Трудност",
 		"czech": "Obtížnost",
-		"japanese": "難易度"
+		"japanese": "難易度",
+		"hungarian": "Nehézség",
 	},
 	"colonyWealth": {
 		"english": "Colony Wealth",
@@ -2380,7 +2506,8 @@
 		"romanian": "Bogăția coloniei",
 		"bulgarian": "Богатство на колонията",
 		"czech": "Bohatství kolonie",
-		"japanese": "発展度"
+		"japanese": "発展度",
+		"hungarian": "Kolónia jólléte",
 	},
 	"colonistHappiness": {
 		"english": "Colonist Happiness",
@@ -2400,7 +2527,8 @@
 		"romanian": "Fericirea coloniei",
 		"bulgarian": "Щастие на колонията",
 		"czech": "Spokojenost kolonistů",
-		"japanese": "平均心情"
+		"japanese": "平均心情",
+		"hungarian": "Telepesek boldogsága",
 	},
 	"worldId": { // You can just translate it to "world". It needs to be short enough
 		"english": "World ID",
@@ -2420,7 +2548,8 @@
 		"romanian": "ID lume",
 		"bulgarian": "ID на Света",
 		"czech": "ID světa",
-		"japanese": "ワールドID"
+		"japanese": "ワールドID",
+		"hungarian": "Világ ID",
 	},
 	"beauty": {
 		"english": "Beauty",
@@ -2440,7 +2569,8 @@
 		"romanian": "Frumusețe",
 		"bulgarian": "Красота",
 		"czech": "Krása",
-		"japanese": "美しさ"
+		"japanese": "美しさ",
+		"hungarian": "Szépség",
 	},
 	"objectStrength": { // to describe how difficult it is to destruct an object, like a wall, in a fight
 		"english": "Strength",
@@ -2460,7 +2590,8 @@
 		"chinese": "力量",
 		"bulgarian": "Сила",
 		"czech": "Odolnost",
-		"japanese": "耐久力"
+		"japanese": "耐久力",
+		"hungarian": "Erőd",
 	},
 	"work": {
 		"english": "Work",
@@ -2480,7 +2611,8 @@
 		"romanian": "Muncă",
 		"bulgarian": "Работа",
 		"czech": "Práce",
-		"japanese": "作業"
+		"japanese": "作業",
+		"hungarian": "Munka",
 	},
 	"farming": {
 		"english": "Farming",
@@ -2500,7 +2632,8 @@
 		"romanian": "Agricultură",
 		"bulgarian": "Земеделие",
 		"czech": "Farmaření",
-		"japanese": "農業"
+		"japanese": "農業",
+		"hungarian": "Gazdaság",
 	},
 	"life": {
 		"english": "Life",
@@ -2520,7 +2653,8 @@
 		"romanian": "Viață",
 		"bulgarian": "Живот",
 		"czech": "Život",
-		"japanese": "生活"
+		"japanese": "生活",
+		"hungarian": "Élet",
 	},
 	"military": {
 		"english": "Military",
@@ -2540,7 +2674,8 @@
 		"romanian": "Militărie",
 		"bulgarian": "Армия",
 		"czech": "Boj",
-		"japanese": "軍事"
+		"japanese": "軍事",
+		"hungarian": "Harcászat",
 	},
 	"lights": {
 		"english": "Lights",
@@ -2560,7 +2695,8 @@
 		"romanian": "Lumini",
 		"bulgarian": "Светлини",
 		"czech": "Osvětlení",
-		"japanese": "照明"
+		"japanese": "照明",
+		"hungarian": "Lámpák",
 	},
 	"seating": {
 		"english": "Seating",
@@ -2580,7 +2716,8 @@
 		"romanian": "Scaune",
 		"bulgarian": "Седалки",
 		"czech": "Posezení",
-		"japanese": "椅子"
+		"japanese": "椅子",
+		"hungarian": "Székek",
 	},
 	"tables": {
 		"english": "Tables",
@@ -2600,7 +2737,8 @@
 		"romanian": "Mese",
 		"bulgarian": "Маси",
 		"czech": "Stoly",
-		"japanese": "卓"
+		"japanese": "卓",
+		"hungarian": "Asztalok",
 	},
 	"storage": {
 		"english": "Storage",
@@ -2620,7 +2758,8 @@
 		"romanian": "Depozitare",
 		"bulgarian": "Склад",
 		"czech": "Skladování",
-		"japanese": "貯蔵"
+		"japanese": "貯蔵",
+		"hungarian": "Tárolók",
 	},
 	"noSpecialItemsInStore": {
 		"english": "No special items in store.",
@@ -2639,6 +2778,7 @@
 		"japanese": "特別なアイテムはありません。",
 		"korean": "특별한 물건이 없습니다.",
 		"ukrainian":"Немає предметів на зберіганні",
+		"hungarian": "Nincs különleges tárgy a raktáron.",
 	},
 	"decoration": {
 		"english": "Decoration",
@@ -2658,7 +2798,8 @@
 		"romanian": "Decorație",
 		"bulgarian": "Декорация",
 		"czech": "Dekorace",
-		"japanese": "装飾"
+		"japanese": "装飾",
+		"hungarian": "Dekorációk",
 	},
 	"rugs": {
 		"english": "Rugs",
@@ -2678,6 +2819,7 @@
 		"czech": "Koberce",
 		"japanese": "絨毯",
 		"ukrainian":"Килими",
+		"hungarian": "Szőnyegek",
 	},
 	"floors": {
 		"english": "Floors",
@@ -2697,7 +2839,8 @@
 		"romanian": "Podele",
 		"bulgarian": "Под",
 		"czech": "Podlahy",
-		"japanese": "床"
+		"japanese": "床",
+		"hungarian": "Padlók",
 	},
 	"walls": {
 		"english": "Walls",
@@ -2717,7 +2860,8 @@
 		"romanian": "Pereți",
 		"bulgarian": "Стени",
 		"czech": "Zdi",
-		"japanese": "壁"
+		"japanese": "壁",
+		"hungarian": "Falak",
 	},
 	"fortifications": {
 		"english": "Fortifications",
@@ -2737,7 +2881,8 @@
 		"romanian": "Fortificații",
 		"bulgarian": "Укрепления",
 		"czech": "Opevnění",
-		"japanese": "防衛"
+		"japanese": "防衛",
+		"hungarian": "Védő elemek",
 	},
 	"doors": {
 		"english": "Doors",
@@ -2757,7 +2902,8 @@
 		"romanian": "Uși",
 		"bulgarian": "Врати",
 		"czech": "Dveře",
-		"japanese": "扉"
+		"japanese": "扉",
+		"hungarian": "Ajtók",
 	},
 	"windows": {
 		"english": "Windows",
@@ -2777,7 +2923,8 @@
 		"romanian": "Ferestre",
 		"bulgarian": "Прозорци",
 		"czech": "Okna",
-		"japanese": "窓"
+		"japanese": "窓",
+		"hungarian": "Ablakok",
 	},
 	"stairs": {
 		"english": "Stairs",
@@ -2797,6 +2944,7 @@
 		"japanese": "階段",
 		"korean": "계단",
 		"ukrainian":"Сходи",
+		"hungarian": "Lépcsők",
 	},
 	"pillars": {
 		"english": "Pillars",
@@ -2816,7 +2964,8 @@
 		"romanian": "Piloni",
 		"bulgarian": "Стълбове",
 		"czech": "Sloupy",
-		"japanese": "支柱"
+		"japanese": "支柱",
+		"hungarian": "Pillérek",
 	},
 	"requiredTech": {
 		"english": "Required Technology",
@@ -2836,7 +2985,8 @@
 		"romanian": "Tehnologia necesară",
 		"bulgarian": "Необходими технологии",
 		"czech": "Požadovaná technologie",
-		"japanese": "必要研究"
+		"japanese": "必要研究",
+		"hungarian": "Szükséges technológia",
 	},
 	"interactionChainIconDesc": {
 		"english": "Click to Cancel.\nClick %keyBinding% to Chain Commands.",
@@ -2856,7 +3006,8 @@
 		"romanian": "Clicați pentru a renunța.\nApăsați %keyBinding% pentru a conecta în lanț comenzi.",
 		"bulgarian": "Кликнете за Отказ. \nКликнете %keyBinding% към верижните команди.",
 		"czech": "Klikněte pro zrušení.\nStiskněte %keyBinding% pro zřetězení příkazů.",
-		"japanese": "このアイコンをクリックすると作業を中止します。"
+		"japanese": "このアイコンをクリックすると作業を中止します。",
+		"hungarian": "Kattints egyet, ha nem szeretnéd.\nHa több parancsot akarsz kiadni egyszerre, nyomd meg: %keyBinding%.",
 	},
 	"satisfaction": {
 		"english": "Satisfaction",
@@ -2876,7 +3027,8 @@
 		"romanian": "Satisfacție",
 		"bulgarian": "Удовлетворение",
 		"czech": "Spokojenost",
-		"japanese": "満足度"
+		"japanese": "満足度",
+		"hungarian": "Elégedettség",
 	},
 	"rewards": {
 		"english": "Rewards",
@@ -2896,7 +3048,8 @@
 		"romanian": "Recompense",
 		"bulgarian": "Награди",
 		"czech": "Odměny",
-		"japanese": "満足度ポイント"
+		"japanese": "満足度ポイント",
+		"hungarian": "Jutalmak",
 	},
 	"point": {
 		"english": "Point",
@@ -2916,7 +3069,8 @@
 		"romanian": "Punct",
 		"bulgarian": "Точка",
 		"czech": "Bod",
-		"japanese": "ポイント"
+		"japanese": "ポイント",
+		"hungarian": "Pont",
 	},
 	"points": {
 		"english": "Points",
@@ -2936,7 +3090,8 @@
 		"romanian": "Puncte",
 		"bulgarian": "Точки",
 		"czech": "Body",
-		"japanese": "ポイント"
+		"japanese": "ポイント",
+		"hungarian": "Pont",
 	},
 	"satisfactionRewards": {
 		"english": "Satisfaction Rewards",
@@ -2956,7 +3111,8 @@
 		"romanian": "Recompense de satisfacție",
 		"bulgarian": "Награди за удовлетворение",
 		"czech": "Odměny za spokojenost",
-		"japanese": "満足度報酬"
+		"japanese": "満足度報酬",
+		"hungarian": "Elégedettségi jutalmak",
 	},
 	"instantMaxHealth": {
 		"english": "Instant Max Health",
@@ -2976,7 +3132,8 @@
 		"romanian": "Sănătate maximă instantanee",
 		"bulgarian": "Незабавно възстановяване на здравето",
 		"czech": "Okamžité doplnění zdraví",
-		"japanese": "健康の回復"
+		"japanese": "健康の回復",
+		"hungarian": "Azonnali teljes élet",
 	},
 	"cureIllness": {
 		"english": "Cure Illness",
@@ -2996,7 +3153,8 @@
 		"romanian": "Vindecă boala",
 		"bulgarian": "Заздравяване на болести",
 		"czech": "Vyléčení nemoci",
-		"japanese": "病気の治療"
+		"japanese": "病気の治療",
+		"hungarian": "Betegség meggyógyítása",
 	},
 	"motivationBoost": {
 		"english": "Motivation Boost",
@@ -3016,7 +3174,8 @@
 		"romanian": "Creștere de motivație",
 		"bulgarian": "Повишение на Мотивацията",
 		"czech": "Motivační boost",
-		"japanese": "心情の増加"
+		"japanese": "心情の増加",
+		"hungarian": "Ösztönzés fokozó",
 	},
 	"forgetAllBadThoughts": {
 		"english": "Forget negative Thoughts",
@@ -3036,7 +3195,8 @@
 		"romanian": "Uită de gândurile negative",
 		"bulgarian": "Забравете отрицателните мисли",
 		"czech": "Zapomenout všechny negativní myšlenky",
-		"japanese": "マイナス思考の消去"
+		"japanese": "マイナス思考の消去",
+		"hungarian": "Rossz gondolatok elfelejtése",
 	},
 	"activeTraits": {
 		"english": "Active Traits",
@@ -3056,7 +3216,8 @@
 		"romanian": "Trăsături active",
 		"bulgarian": "Активни черти",
 		"czech": "Aktivní vlastnosti",
-		"japanese": "現在の個性"
+		"japanese": "現在の個性",
+		"hungarian": "Aktív jellemek",
 	},
 	"availableTraits": {
 		"english": "Available Traits",
@@ -3076,7 +3237,8 @@
 		"romanian": "Trăsături disponibile",
 		"bulgarian": "Налични черти",
 		"czech": "Dostupné vlastnosti",
-		"japanese": "獲得可能な個性"
+		"japanese": "獲得可能な個性",
+		"hungarian": "Elérhető jellemek",
 	},
 	"sleepingSpot": {
 		"english": "Sleeping Spot",
@@ -3096,7 +3258,8 @@
 		"romanian": "Loc de dormit",
 		"bulgarian": "Място за сън",
 		"czech": "Místo na spaní",
-		"japanese": "詳細"
+		"japanese": "詳細",
+		"hungarian": "Alvóhely",
 	},
 	"isInRoom": {
 		"english": "Is in room",
@@ -3116,7 +3279,8 @@
 		"romanian": "Este în cameră",
 		"bulgarian": "В стаята е",
 		"czech": "Je v pokoji",
-		"japanese": "寝具は部屋の中？"
+		"japanese": "寝具は部屋の中？",
+		"hungarian": "A szobában van",
 	},
 	"yes": {
 		"english": "Yes",
@@ -3136,7 +3300,8 @@
 		"romanian": "Da",
 		"bulgarian": "Да",
 		"czech": "Ano",
-		"japanese": "はい"
+		"japanese": "はい",
+		"hungarian": "Igen",
 	},
 	"no": {
 		"english": "No",
@@ -3156,7 +3321,8 @@
 		"romanian": "Nu",
 		"bulgarian": "Не",
 		"czech": "Ne",
-		"japanese": "いいえ"
+		"japanese": "いいえ",
+		"hungarian": "Nem",
 	},
 	"bedroomBeauty": {
 		"english": "Bedroom beauty",
@@ -3176,7 +3342,8 @@
 		"romanian": "Frumusețea dormitorului",
 		"bulgarian": "Красотата на спалнята",
 		"czech": "Krása ložnice",
-		"japanese": "寝室の美しさ"
+		"japanese": "寝室の美しさ",
+		"hungarian": "Hálószoba szépsége",
 	},
 	"houseBeauty": {
 		"english": "House beauty",
@@ -3196,7 +3363,8 @@
 		"romanian": "Frumusețea casei",
 		"bulgarian": "Красотата на къщата",
 		"czech": "Krása domu",
-		"japanese": "家の美しさ"
+		"japanese": "家の美しさ",
+		"hungarian": "Ház szépsége",
 	},
 	"owner": {
 		"english": "Owner",
@@ -3216,7 +3384,8 @@
 		"romanian": "Proprietar",
 		"bulgarian": "Собственик",
 		"czech": "Vlastník",
-		"japanese": "所有者"
+		"japanese": "所有者",
+		"hungarian": "Tulajdonos:",
 	},
 	"nobody": {
 		"english": "Nobody",
@@ -3236,7 +3405,8 @@
 		"romanian": "Nimeni",
 		"bulgarian": "Никой",
 		"czech": "Nikdo",
-		"japanese": "なし"
+		"japanese": "なし",
+		"hungarian": "Senki",
 	},
 	"immigration": {
 		"english": "Immigration",
@@ -3256,7 +3426,8 @@
 		"romanian": "Imigrație",
 		"bulgarian": "Имиграция",
 		"czech": "Imigrace",
-		"japanese": "コロニスト"
+		"japanese": "コロニスト",
+		"hungarian": "Bevándorló",
 	},
 	"immigration_status_maxColonists": {
 		"english": "Your colony has reached its maximum size. Congratulations! Be sure to post a picture in the forums!",
@@ -3276,7 +3447,8 @@
 		"romanian": "Colonia dvs. a atins dimensiunea sa maximă. Felicitări! Asigurați-vă că postați o imagine pe forum!",
 		"bulgarian": "Колонията ви е достигнала максималния си размер. Честито! Не забравяйте да публикувате снимка във форумите!",
 		"czech": "Vaše kolonie dosáhla maximální velikosti. Gratulujeme! Nezapomeňte nasdílet obrázky na fóra!",
-		"japanese": "コロニストは最大人数に達しました。おめでとうございます！フォーラムに写真を投稿してください！"
+		"japanese": "コロニストは最大人数に達しました。おめでとうございます！フォーラムに写真を投稿してください！",
+		"hungarian": "A kolóniát elérte a maximum számát. Gratulálok! Oszd meg ezt a képet a fórumon is!",
 	},
 	"immigration_status_noBonfire": {
 		"english": "No Bonfire is burning. Migrants are not able to find the colony.",
@@ -3296,7 +3468,8 @@
 		"romanian": "Niciun foc mare nu arde. Migranții nu vă vor găsi colonia.",
 		"bulgarian": "Никой огън не гори. Мигрантите не успяват да намерят колонията.",
 		"czech": "Nehoří žádný signální oheň. Migranti nemohou kolonii najít.",
-		"japanese": "篝火が消えているため、新たなコロニストはコロニーを訪問する事ができません。"
+		"japanese": "篝火が消えているため、新たなコロニストはコロニーを訪問する事ができません。",
+		"hungarian": "Nem ég a jelzőfény. A jövevények nem tudják megtalálni a kolóniád.",
 	},
 	"immigration_status_expectationsNotMet": {
 		"english": "Your colonists' expectations are not met. No migrants are going to join this colony.",
@@ -3316,7 +3489,8 @@
 		"romanian": "Așteptările coloniștilor dvs. nu sunt îndeplinite. Niciun migrant nu se va alătura acestei colonii.",
 		"bulgarian": "Очакванията на вашите колонисти не са изпълнени. Никакви мигранти няма да се присъединят към тази колония.",
 		"czech": "Přání vašich kolonistů nejsou splněna. Žádní další migranti se ke kolonii nepřipojí.",
-		"japanese": "住環境が整っていないコロニーのため、新たなコロニストが訪問する事はありません。"
+		"japanese": "住環境が整っていないコロニーのため、新たなコロニストが訪問する事はありません。",
+		"hungarian": "A telepeseid elvárásai nincsenek teljesítve. A jövevények nem fognak csatlakozni a kolóniádhoz.",
 	},
 	"immigration_status_ok": {
 		"english": "All your colonists' expectations are met. Next chance for migrants in %time%.",
@@ -3336,7 +3510,8 @@
 		"romanian": "Toate așteptările coloniștilor dvs. sunt îndeplinite. Următoarea oportunitate pentru sosirea migranților în %time%.",
 		"bulgarian": "Всички очаквания на вашите колонисти са изпълнени. Следващ шанс за мигранти в %time% минути.",
 		"czech": "Všechna přání vašich kolonistů jsou splněna. Další migrant dorazí za %time%.",
-		"japanese": "住環境が整ったコロニーです。%time%後に新たなコロニストが訪問します。"
+		"japanese": "住環境が整ったコロニーです。%time%後に新たなコロニストが訪問します。",
+		"hungarian": "Minden telepes elvárása teljesítve van. A következő jövevények várhatóan ekkor érnek ide: %time%.",
 	},
     "colonistIsDumbNoExperience": {
 		// TODO-ukrainian: make it shorter so it fits better
@@ -3358,7 +3533,8 @@
 		"polish": "Niestety, %firstName% jest głup%iA% i nie zdobędzie doświadczenia z żadnej pracy.",
 		"bulgarian": "За съжаление, %firstName% е тъп и няма да натрупа опит в никоя работа.",
         "czech": "Naneštěstí %firstName% je hloup%yA%, takže nezíská žádné zkušenosti.",
-		"japanese": "残念ながら%firstName%はお馬鹿のため経験を得る事ができません。"
+		"japanese": "残念ながら%firstName%はお馬鹿のため経験を得る事ができません。",
+		"hungarian": "Sajnos %firstName% nem igazán okos, így nem fog tapasztalatot gyűjteni.",
 	},
 	"importantPossessions": {
 		"english": "Important Possessions",
@@ -3378,7 +3554,8 @@
 		"romanian": "Posesii importante",
 		"bulgarian": "Важни притежания",
 		"czech": "Důležité vlastnictví",
-		"japanese": "大事な所有物"
+		"japanese": "大事な所有物",
+		"hungarian": "Fontos tulajdonok",
 	},
 	"importantPossession": {
 		"english": "Important Possession",
@@ -3398,7 +3575,8 @@
 		"romanian": "Posesie importantă",
 		"bulgarian": "Важно притежание",
 		"czech": "Důležité vlastnictví",
-		"japanese": "大事な所有物"
+		"japanese": "大事な所有物",
+		"hungarian": "Fontos tulajdonok",
 	},
 	"importantPossession_Desc": {
 		"english": "%name% likes this thing a lot and does not want to give it up.\n\nYou can not use it to fulfill anyone else's wishes.",
@@ -3418,7 +3596,8 @@
 		"romanian": "%name% iubește mult acest lucru și nu vrea să renunțe la el.\n\nNu îl puteți folosi pentru a îndeplini dorințele altcuiva.",
 		"bulgarian": "%name% харесва това нещо много и не иска да се откаже от него.\n\nНе можете да го използвате, за да изпълните желанията на някой друг.",
 		"czech": "%name% má tuto věc velmi rá%dA% a nechce se jí vzdát.\n\nNemůžete ji tedy použít na splnění přání někoho jiného.",
-		"japanese": "%name%はこれをとても気に入り手放す気がないため、他のコロニストの願い事のために使う事はできません。"
+		"japanese": "%name%はこれをとても気に入り手放す気がないため、他のコロニストの願い事のために使う事はできません。",
+		"hungarian": "%name% túlságosan ragaszkodik hozzá, és nem hajlandó lemondani róla.\n\nNem használhatod más kívánságának teljesítésére.",
 	},
 	"paymentInCoinsPerDay": {
 		"english": "Payment in coins per day",
@@ -3438,7 +3617,8 @@
 		"romanian": "Plata în monede pe zi",
 		"bulgarian": "Плащане в монети на ден",
 		"czech": "Výplata v mincích za den",
-		"japanese": "1日当たりの支払うコイン"
+		"japanese": "1日当たりの支払うコイン",
+		"hungarian": "Napi bér érmékben",
 	},
 	"civilianEquipment": {
 		"english": "Civilian Equipment",
@@ -3458,7 +3638,8 @@
 		"romanian": "Echipament civil",
 		"bulgarian": "Гражданска техника",
 		"czech": "Civilní vybavení",
-		"japanese": "平常装備"
+		"japanese": "平常装備",
+		"hungarian": "Civil felszerelés",
 	},
 	"combatEquipment": {
 		"english": "Combat Equipment",
@@ -3478,7 +3659,8 @@
 		"romanian": "Echipament de luptă",
 		"bulgarian": "Бойна екипировка",
 		"czech": "Bojové vybavení",
-		"japanese": "戦闘装備"
+		"japanese": "戦闘装備",
+		"hungarian": "Harci felszerelés",
 	},
 	"ToolStorage": { // these "x storage" texts describe a piece of furniture where you can put your personal sword/axe/armor to equip it later
 		"english": "Tool Storage",
@@ -3498,7 +3680,8 @@
 		"romanian": "Depozit de scule",
 		"bulgarian": "Съхранение на инструменти",
 		"czech": "Skřínka na nástroje",
-		"japanese": "道具保管庫"
+		"japanese": "道具保管庫",
+		"hungarian": "Eszköztár",
 	},
 	"ClothesStorage": {
 		"english": "Clothes Storage",
@@ -3518,7 +3701,8 @@
 		"romanian": "Depozit de haine",
 		"bulgarian": "Съхранение на дрехи",
 		"czech": "Věšák na oblečení",
-		"japanese": "衣装かけ"
+		"japanese": "衣装かけ",
+		"hungarian": "Ruhatár",
 	},
 	"WeaponStorage": {
 		"english": "Weapon Storage",
@@ -3538,7 +3722,8 @@
 		"romanian": "Depozit de arme",
 		"bulgarian": "Съхранение на оръжия",
 		"czech": "Držák na zbraně",
-		"japanese": "武器保管庫"
+		"japanese": "武器保管庫",
+		"hungarian": "Fegyvertár",
 	},
 	"ArmorStorage": {
 		"english": "Armor Storage",
@@ -3558,7 +3743,8 @@
 		"romanian": "Depozit de armuri",
 		"bulgarian": "Съхранение на брони",
 		"czech": "Věšák na brnění",
-		"japanese": "防具かけ"
+		"japanese": "防具かけ",
+		"hungarian": "Páncél tárhely",
 	},
 	"takeOwnershipOfStorageFurniture": {
 		"english": "Take Ownership of equipment storage furniture to assign equipment",
@@ -3578,7 +3764,8 @@
 		"romanian": "Preluați proprietatea asupra mobilierului de depozitare a echipamentului pentru a atribui echipamentul",
 		"bulgarian": "Вземете собственост на мебели за съхранение на оборудване, за да възложите оборудване",
 		"czech": "Přiřaďte vlastnictví kolonistovi, aby bylo možné přičlenit vybavení",
-		"japanese": "所有しているこの家具に収納されている装備品です。"
+		"japanese": "所有しているこの家具に収納されている装備品です。",
+		"hungarian": "A tulajdonában kell lennie egy eszköz tárolónak, hogy hozzárendelhess egy eszközt.",
 	},
 	"selectEquipmentInStorageFurniture": {
 		"english": "Select equipment in the storage furniture",
@@ -3598,7 +3785,8 @@
 		"romanian": "Selectați echipamentul în mobilierul de depozitare",
 		"bulgarian": "Изберете оборудване в мебелите за съхранение",
 		"czech": "Vyberte vybavení, které bude uloženo",
-		"japanese": "保管する道具の選択"
+		"japanese": "保管する道具の選択",
+		"hungarian": "Válassz ki egy felszerelést a tárolóban",
 	},
 	"selectProduction": {
 		"english": "Select Production",
@@ -3618,7 +3806,8 @@
 		"romanian": "Selectați producția",
 		"bulgarian": "Изберете производство",
 		"czech": "Vyberte produkci",
-		"japanese": "生産品の選択"
+		"japanese": "生産品の選択",
+		"hungarian": "Válasszd ki, mit szeretnél gyártani",
 	},
 	"noOwner": { // when a piece of furniture is not owned by any colonist
 		"english": "No Owner",
@@ -3638,7 +3827,8 @@
 		"romanian": "Niciun proprietar",
 		"bulgarian": "Без собственик",
 		"czech": "Bez vlastníka",
-		"japanese": "所有者なし"
+		"japanese": "所有者なし",
+		"hungarian": "Nincs tulajdonosa",
 	},
 
 
@@ -3662,7 +3852,8 @@
 		"romanian": "Negustor",
 		"bulgarian": "Tърговец",
 		"czech": "Obchodník",
-		"japanese": "商人"
+		"japanese": "商人",
+		"hungarian": "Kereskedő",
 	},
 	"tradingWithFaction": {
 		"english": "Trading with '%faction%'",
@@ -3682,6 +3873,7 @@
 		"czech": "Obchodovat s '%faction%'",
 		"japanese": "%faction%との貿易取引",
 		"ukrainian":"Торгівля з '%faction%'",
+		"hungarian": "Kereskedés velük: '%faction%'",
 	},
 	"colonyIsSelling": {
 		"english": "Colony is Selling to the Trader",
@@ -3701,7 +3893,8 @@
 		"romanian": "Colonia vinde negustorului",
 		"bulgarian": "Колонията продава на търговеца",
 		"czech": "Kolonie prodává obchodníkovi",
-		"japanese": "売却"
+		"japanese": "売却",
+		"hungarian": "A kolónia épp elad valamit a kereskedőnek",
 	},
 	"colonyIsBuying": {
 		"english": "Colony is Buying from the Trader",
@@ -3721,7 +3914,8 @@
 		"romanian": "Colonia cumpără de la negustor",
 		"bulgarian": "Колонията купува от търговеца",
 		"czech": "Kolonie nakupuje od obchodníka",
-		"japanese": "購入"
+		"japanese": "購入",
+		"hungarian": "A kolóni épp vesz valamit a kereskedőtől.",
 	},
 	"amountStorage": { // amount means how much is being traded and in store is the maximum amount the colony or the trader has in store
 		"english": "Amount / In Store",
@@ -3741,7 +3935,8 @@
 		"romanian": "Cantitate / În stoc",
 		"bulgarian": "Количество / В Склада",
 		"czech": "Množství / Na skladě",
-		"japanese": "取引/所持"
+		"japanese": "取引/所持",
+		"hungarian": "Tétel / Raktáron",
 	},
 	"tradingGoodName": {
 		"english": "Name",
@@ -3761,7 +3956,8 @@
 		"romanian": "Nume",
 		"bulgarian": "Име",
 		"czech": "Název",
-		"japanese": "品名"
+		"japanese": "品名",
+		"hungarian": "Megnevezés",
 	},
 	"price": {
 		"english": "Price",
@@ -3781,7 +3977,8 @@
 		"romanian": "Preț",
 		"bulgarian": "Цена",
 		"czech": "Cena",
-		"japanese": "値段"
+		"japanese": "値段",
+		"hungarian": "Ár",
 	},
 	"totalPrice": {
 		"english": "Total",
@@ -3801,7 +3998,8 @@
 		"romanian": "Total",
 		"bulgarian": "Общо",
 		"czech": "Celkem",
-		"japanese": "合計"
+		"japanese": "合計",
+		"hungarian": "Összesen",
 	},
 	"confirmTrade": {
 		"english": "Confirm Trade",
@@ -3821,7 +4019,8 @@
 		"romanian": "Confirmă schimbul",
 		"bulgarian": "Потвърдете търговията",
 		"czech": "Potvrdit transakci",
-		"japanese": "貿易取引の決定"
+		"japanese": "貿易取引の決定",
+		"hungarian": "Elfogad",
 	},
 	"sellItemsOfValue": {
 		"english": "Selling items with a value of %coins% coins",
@@ -3841,7 +4040,8 @@
 		"romanian": "Vânzarea obiectelor cu o valoare de %coins% monede",
 		"bulgarian": "Продажба на предмети със стойност %coins% монети",
 		"czech": "Prodej předmětů v ceně %coins% mincí",
-		"japanese": "受取り:%coins%コイン"
+		"japanese": "受取り:%coins%コイン",
+		"hungarian": "Elad %coins% érméért",
 	},
 	"buyItemsOfValue": {
 		"english": "Buying items with a value of %coins% coins",
@@ -3861,7 +4061,8 @@
 		"romanian": "Cumpărarea obiectelor cu o valoare de %coins% monede",
 		"bulgarian": "Купуване на предмети със стойност %coins% монети",
 		"czech": "Nákup předmětů v hodnotě %coins% mincí",
-		"japanese": "支払い:%coins%コイン"
+		"japanese": "支払い:%coins%コイン",
+		"hungarian": "Megvesz %coins% érméért",
 	},
 	"colonyIsGainingCoins": {
 		"english": "The colony is gaining %coins% coins from this deal.",
@@ -3881,7 +4082,8 @@
 		"romanian": "Colonia câștigă %coins% monede din această tranzacție.",
 		"bulgarian": "Колонията печели %coins% монети от тази сделка.",
 		"czech": "Kolonie získá z této transakce %coins% mincí.",
-		"japanese": "受取り:%coins%コイン"
+		"japanese": "受取り:%coins%コイン",
+		"hungarian": "A kolónia %coins% érmét keres ezzel az üzlettel.",
 	},
 	"colonyIsPayingCoins": {
 		"english": "The colony is paying %coins% coins for this deal.",
@@ -3901,7 +4103,8 @@
 		"romanian": "Colonia plătește %coins% monede pentru această tranzacție.",
 		"bulgarian": "Колонията плаща %coins% монети за тази сделка.",
 		"czech": "Kolonie zaplatí v rámci této transakce %coins% mincí.",
-		"japanese": "支払い:%coins%コイン"
+		"japanese": "支払い:%coins%コイン",
+		"hungarian": "A kolónia %coins% érmét fizet ezért az üzletért.",
 	},
 	"colonyDoesNotHaveCoins": {
 		"english": "The colony does not have %coins% coins to pay for this deal.",
@@ -3921,7 +4124,8 @@
 		"romanian": "Colonia nu are %coins% monede să plătească pentru această tranzacție.",
 		"bulgarian": "Колонията няма %coins% монети, за да плати тази сделка.",
 		"czech": "Kononie nemá na zaplacení této transakce %coins% mincí.",
-		"japanese": "取引の支払いに必要な%coins%コインがありません。"
+		"japanese": "取引の支払いに必要な%coins%コインがありません。",
+		"hungarian": "A kolóniának nincs %coins% érméje erre az üzletre.",
 	},
 	"stockpilesOutOfSpaceForAmount": {
 		"english": "Stockpiles don't have enough space for %amount% %resource%.",
@@ -3941,6 +4145,7 @@
 		"japanese": "%amount%%resource%を備蓄するための十分な空きがありません。",
 		"korean": "%amount% %resource%를 보관할 만한 충분한 공간이 없습니다.",
 		"ukrainian":"У сховищах не вистачає місця для %amount% %resource%.",
+		"hungarian": "A raktárban nincs elég hely %amount% %resource% tárolására.",
 	},
 
 
@@ -3962,7 +4167,8 @@
 		"romanian": "Fie nu ați produs încă niciun echipament,\nsau toate echipamentele dvs. sunt în prezent utilizate de coloniști.",
 		"bulgarian": "Или все още не сте произвели никакво оборудване \n цялото ви оборудване в момента се използва от вашите колонисти.",
 		"czech": "Buď jste zatím nevytvořili žádné vybavení \nnebo je všechno vybavení již používáno vašimi kolonisty.",
-		"japanese": "取得した装備はありません。または全ての装備は家具に収納されています。"
+		"japanese": "取得した装備はありません。または全ての装備は家具に収納されています。",
+		"hungarian": "Vagy nem gyártottál még le elegendő felszerelést\nvagy az összes felszerelés használatban van.",
 	},
 	"sellPrice": {
 		"english": "Selling Price",
@@ -3982,7 +4188,8 @@
 		"romanian": "Prețul de vânzare",
 		"bulgarian": "Продажна цена",
 		"czech": "Prodejní cena",
-		"japanese": "売却価格"
+		"japanese": "売却価格",
+		"hungarian": "Eladási ár",
 	},
 	"quotation_start": {
 		"english": "\"",
@@ -3995,6 +4202,7 @@
 		"italian": "\"",
 		"russian": "\"",
 		"ukrainian":"\"",
+		"hungarian": "\"",
 	},
 	"quotation_end": {
 		"english": "\"",
@@ -4007,6 +4215,7 @@
 		"italian": "\"",
 		"russian": "\"",
 		"ukrainian": "\"",
+		"hungarian": "\"",
 	},
 	"enumeration_comma": { // comma used to separate list items, e.g. "apples, oranges"
 		"english": ", ",
@@ -4021,6 +4230,7 @@
 		"italian": ", ",
 		"russian": ", ",
 		"ukrainian": ", ",
+		"hungarian": ", ",
 	},
 	"hours": {
 		"english": "hours",
@@ -4034,6 +4244,7 @@
 		"italian": "ore",
 		"russian": "часов",
 		"ukrainian": "годин",
+		"hungarian": "óra",
 	},
 	"hour_h": { // used for something like "remaining time: 2h".
 		"english": "h",
@@ -4047,6 +4258,7 @@
 		"italian": "h",
 		"russian": "час.",
 		"ukrainian": "год.",
+		"hungarian": "ó",
 	},
 	"minutes": {
 		"english": "minutes",
@@ -4066,7 +4278,8 @@
 		"romanian": "minute",
 		"bulgarian": "минути",
 		"czech": "minut",
-		"japanese": "分"
+		"japanese": "分",
+		"hungarian": "perc",
 	},
 	"minute_min": { // used for something like "remaining time: 5 min".
 		"english": "min",
@@ -4080,6 +4293,7 @@
 		"italian": "min",
 		"russian": "мин.",
 		"ukrainian":"хв.",
+		"hungarian": "perc",
 	},
 	"seconds": {
 		"english": "seconds",
@@ -4099,7 +4313,8 @@
 		"romanian": "secunde",
 		"bulgarian": "секунди",
 		"czech": "sekund",
-		"japanese": "秒"
+		"japanese": "秒",
+		"hungarian": "másodperc",
 	},
 	"second_S": { // used for something like "remaining time: 154s". Should really be only one letter if at all possible
 		"english": "s",
@@ -4119,7 +4334,8 @@
 		"romanian": "s",
 		"bulgarian": "с",
 		"czech": "s",
-		"japanese": "秒"
+		"japanese": "秒",
+		"hungarian": "mp",
 	},
 	"second_Sec": { // optional longer abbreviation for seconds
 		"english": "sec",
@@ -4139,7 +4355,8 @@
 		"romanian": "sec",
 		"bulgarian": "сек",
 		"czech": "sek",
-		"japanese": "秒"
+		"japanese": "秒",
+		"hungarian": "mp",
 	},
 	"days": { // used like "0.4 days"
 		"english": "days",
@@ -4158,6 +4375,7 @@
 		"czech": "dne",
 		"korean": "일",
 		"ukrainian":"дні",
+		"hungarian": "napok",
 	},
 	"partiesTitle": {
 		"english": "Parties",
@@ -4177,7 +4395,8 @@
 		"romanian": "Petreceri",
 		"bulgarian": "Партита",
 		"czech": "Párty",
-		"japanese": "パーティ"
+		"japanese": "パーティ",
+		"hungarian": "Partik",
 	},
 	"partiesDesc": {
 		"english": "Parties give your colonists a chance to relax and socialize. The more time your colonists spend dancing, eating, and drinking, the higher their mood is going to rise.",
@@ -4197,7 +4416,8 @@
 		"romanian": "Petrecerile oferă coloniștilor dvs. șansa de a se relaxa și de a se socializa. Cu cât coloniștii dvs. petrec mai mult timp dansând, mâncând și bând, cu atât dispoziția lor va crește.",
 		"bulgarian": "Партитата дават шанс на вашите колонисти да се отпуснат и да си общуват. Колкото повече време колонистите ви прекарват танци, ядене и пиене, толкова по-високо настроението им ще се повиши.",
 		"czech": "Párty dávají vašim kolonistům příležitost se odreagovat a socializovat se. Čím více času stráví vaši kolonisté tancem, popíjením a pojídáním jídla, tím více se jim zlepší nálada.",
-		"japanese": "パーティはコロニストの社交場です。ダンス、食事を楽しむパーティは開催時間が長いほど心情が増加します。"
+		"japanese": "パーティはコロニストの社交場です。ダンス、食事を楽しむパーティは開催時間が長いほど心情が増加します。",
+		"hungarian": "A partik segítenek a telepeseknek kikapcsolódni és szocializálódni. Minél többet táncolnak, esznek, és isznak a telepeseid, annál jobb lesz a hangulatuk.",
 	},
 	"startPartyButton": {
 		"english": "Start Party",
@@ -4217,7 +4437,8 @@
 		"romanian": "Începe petrecerea",
 		"bulgarian": "Стартирай парти",
 		"czech": "Zahájit párty",
-		"japanese": "パーティの開始"
+		"japanese": "パーティの開始",
+		"hungarian": "Parti szervezése",
 	},
 	"cantStartPartyDuringReady": {
 		"english": "Can't start party during raid",
@@ -4237,7 +4458,8 @@
 		"romanian": "Nu se poate începe o petrecere în timpul unui atac",
 		"bulgarian": "Не може да стартирате парти по време на нападение",
 		"czech": "Není možné zahájit párty v průběhu nájezdu",
-		"japanese": "襲撃中はパーティを開始できません。"
+		"japanese": "襲撃中はパーティを開始できません。",
+		"hungarian": "Nem tudsz partit szervezni, amíg tart a fosztogatás",
 	},
 	"cantStartPartyBecauseAlreadyPartying": {
 		"english": "Can't start party while colonists are already celebrating",
@@ -4257,7 +4479,8 @@
 		"romanian": "Nu se poate începe o petrecere în timp ce coloniștii deja sărbătoresc",
 		"bulgarian": "Не може да стартирате парти, докато колонистите вече празнуват",
 		"czech": "Není možné zahájit párty, když již kolonisté slaví",
-		"japanese": "他の祝い事が行われている間はパーティを開始できません。"
+		"japanese": "他の祝い事が行われている間はパーティを開始できません。",
+		"hungarian": "Nem tudsz partit szervezni, amíg még ünnepelnek",
 	},
 	"coinsToStartParty": {
 		"english": "%coins% Coins to start party",
@@ -4277,7 +4500,8 @@
 		"romanian": "%coins% monede pentru a începe petrecerea",
 		"bulgarian": "%coins% монети за да стартирате парти",
 		"czech": "%coins% mincí pro zahájení párty",
-		"japanese": "パーティ費用%coins%コイン"
+		"japanese": "パーティ費用%coins%コイン",
+		"hungarian": "%coins% érme szükséges a parti szervezéséhez",
 	},
 	"atLeastBeerInStock": {
 		"english": "At least %beer% beer in stock",
@@ -4297,7 +4521,8 @@
 		"romanian": "Cel puțin %beer% beri în stoc",
 		"bulgarian": "Поне %beer% бира в склада",
 		"czech": "Alespoň %beer% piva na skladě",
-		"japanese": "必要なビールの量%beer%"
+		"japanese": "必要なビールの量%beer%",
+		"hungarian": "Legalább %beer% sör a raktáron",
 	},
 	"atLeastFoodInStock": {
 		"english": "At least %food% food in stock",
@@ -4317,7 +4542,8 @@
 		"romanian": "Cel puțin %food% alimente în stoc",
 		"bulgarian": "Поне %food% храна в склада",
 		"czech": "Alespoň %food% jídla na skladě",
-		"japanese": "必要な食べ物の量%food%"
+		"japanese": "必要な食べ物の量%food%",
+		"hungarian": "Legalább %food% étel a raktáron",
 	},
 	"partyRequirements": {
 		"english": "Party Requirements",
@@ -4337,7 +4563,8 @@
 		"romanian": "Cerințele petrecerii",
 		"bulgarian": "Изисквания към партитата",
 		"czech": "Požadavky na párty",
-		"japanese": "パーティの要件"
+		"japanese": "パーティの要件",
+		"hungarian": "Parti előfeltételek",
 	},
 	"customCamera": { // activated with F4
 		"english": "Custom Camera", // or free-flying camera
@@ -4358,6 +4585,7 @@
 		"czech": "Volná kamera",
 		"japanese": "カメラ",
 		"ukrainian":"Вільно літаюча камера",
+		"hungarian": "Egyéni kameraállás",
 	},
 	"customCameraHotkeys": {
 		"english": "Open/close info panel: T\nToggle wall movement: Z\nCinematic mode: C\nChange camera speed: Mouse wheel\nUp and down: Left shift and left control",
@@ -4377,7 +4605,8 @@
 		"romanian": "Deschide/închide panoul de informații: T\nActivează/dezactivează mișcarea pereților: Z\nMod cinematografic: C\nSchimbă viteza camerei: Rotița mausului\nSus și jos: Shift stânga și Ctrl stânga",
 		"bulgarian": "Отваряне/затваряне на информационен панел: T\nЗаключване на движението на стената: Z\nКъм режим на кино: C\nПромяна на скоростта на камерата: Колело на мишката\nНагоре и надолу: Ляв Shift и Ляв CTRL ",
 		"czech": "Otevírá/zavírá info panel: T\nPřepínání posunu stěn: Z\nKino režim: C\nZměnit rychlost kamery: kolečko myši\nNahoru a dolů: Levý shift a levý control",
-		"japanese": "カメラ情報パネルの有無:T\n壁の有無:Z\nシネマ風画像の切替:C\nカメラ速度の変更:マウスホイール\n上下移動:左Shift左Ctrl"
+		"japanese": "カメラ情報パネルの有無:T\n壁の有無:Z\nシネマ風画像の切替:C\nカメラ速度の変更:マウスホイール\n上下移動:左Shift左Ctrl",
+		"hungarian": "Információs panel megnyitása/bezárása: T\nFalak mutatása: Z\nMozi mód: C\nKamera sebesség váltása: Egérgörgő\nFel és le: Bal shift és bal CTRL",
 	},
 	"camSpeed": {
 		"english": "Cam speed",
@@ -4397,7 +4626,8 @@
 		"romanian": "Viteza camerei",
 		"bulgarian": "Скорост на камерата",
 		"czech": "Rychlost kamery",
-		"japanese": "カメラ速度"
+		"japanese": "カメラ速度",
+		"hungarian": "Kamera sebesség",
 	},
 	"skillLevel": {
 		"english": "Level %level%",
@@ -4416,6 +4646,7 @@
 		"japanese": "レベル%level%",
 		"korean": "레벨 %level%",
 		"ukrainian": "Рівень %level%",
+		"hungarian": "Szint %level%",
 	},
 	"professionsTitle": {
 		"english": "Professions - %fullName%",
@@ -4434,6 +4665,7 @@
 		"japanese": "%fullName%の職業状況一覧",
 		"korean":  "전공직업 - %fullName%",
 		"ukrainian": "Професії - %fullName%",
+		"hungarian": "Szakmák - %fullName%",
 	},
 	"progressToNextLevel": {
 		"english": "Progress to next level: %currentPoints% / %totalPoints%",
@@ -4452,6 +4684,7 @@
 		"japanese": "次のレベルまで:%currentPoints%/%totalPoints%",
 		"korean":  "다음 레벨까지 진도: %currentPoints% / %totalPoints%",
 		"ukrainian": "Прогрес до наступного рівня: %currentPoints% / %totalPoints%",
+		"hungarian": "A következő szinthez szükséges tapasztalat: %currentPoints% / %totalPoints%",
 	},
 	"xPoints": {
 		"english": "%points% Points",
@@ -4470,6 +4703,7 @@
 		"japanese": "%points%ポイント",
 		"korean": "%points% 포인트",
 		"ukrainian": "%points% очок",
+		"hungarian": "%points% Pont",
 	},
 	"skillPointsAvailable": {
 		"english": "%points% skill points available",
@@ -4487,7 +4721,8 @@
 		"czech": "%points% dovednostních bodů k dispozici",
 		"japanese": "%points%ポイント利用可能",
 		"korean": "%points%의 스킬 포인트 사용가능",
-		"ukrainian": "%points% - доступні очки навичок"
+		"ukrainian": "%points% - доступні очки навичок",
+		"hungarian": "%points% készségpont elérhető",
 	},
 	"willResplenishIn":  {
 		"english": "Will replenish in %days% days",
@@ -4506,6 +4741,7 @@
 		"czech": "Doplní se za %days% dní",
 		"korean": "재수확까지 %days% 일 남음",
 		"ukrainian": "Поповниться через %days% днів",
+		"hungarian": "%days% nap múlva újra elérhető",
 	},
 	"resourcesLeft":  {
 		"english": "%resource% left",
@@ -4524,6 +4760,7 @@
 		"czech": "%resource% zbývá",
 		"korean": "%resource% 남음",
 		"ukrainian": "%resource% залишилось",
+		"hungarian": "%resource% maradt",
 	},
 	"gatheringSpeed":  { // use \\% to type %
 		"english": "Gathering speed: %speed% %resource%/minute",
@@ -4541,7 +4778,8 @@
 		"chinese": "收获速度:%speed%%resource%/分",
 		"czech": "Rychlost sběru: %speed% %resource%/minutu",
 		"korean": "수확속도: %speed% %resource%/minute",
-		"ukrainian": "Швидкість видобування: %speed% %resource%/хв."
+		"ukrainian": "Швидкість видобування: %speed% %resource%/хв.",
+		"hungarian": "Gyűjtögetési sebesség: %speed% %resource%/perc",
 	},
 	"growthProgress":  {
 		"english": "Growth Progress",
@@ -4560,6 +4798,7 @@
 		"czech": "Pokrok růstu",
 		"korean": "성장속도",
 		"ukrainian": "Прогрес зростання",
+		"hungarian": "Növekedési mutató",
 	},
 	"typicalGrowthTime":  {
 		"english": "Typical time to grow: %minDays% - %maxDays% days",
@@ -4578,6 +4817,7 @@
 		"czech": "Čas růstu: %minDays% - %maxDays% dní",
 		"korean": "평균성장시간: %minDays% - %maxDays% 일",
 		"ukrainian": "Типовий час вирощування: %minDays% - %maxDays% днів",
+		"hungarian": "Átlagos növekedési idő: %minDays% - %maxDays% nap",
 	},
 	"possibleYieldWhenGrown":  {
 		"english": "Possible yield: ",
@@ -4596,6 +4836,7 @@
 		"czech": "Možný výnos: ",
 		"korean": "예상 수확량: ",
 		"ukrainian": "Можлива врожайність: ",
+		"hungarian": "Várható termés:",
 	},
 	"amountWatered": {
 		"english":  "Amount watered: %watered%/2",
@@ -4614,6 +4855,7 @@
 		"czech":  "Zalévané množství: %watered%/2",
 		"korean": "급수량:%watered%/2",
 		"ukrainian": "Кількість поливу: %watered%/2",
+		"hungarian": "Öntözött érték: %watered%/2",
 	},
 	"plantNeedsCare": {
 		"english":  "Plant needs care",
@@ -4631,6 +4873,7 @@
 		"russian":  "Растению нужна забота",
 		"korean": "농작물을 돌봐줘야 합니다",
 		"ukrainian": "Рослина потребує догляду",
+		"hungarian": "A növényeknek szükségük van törődésre",
 	},
 	"factionPointsInfo": {
 		"english":  "Relationship points: %points%",
@@ -4649,6 +4892,7 @@
 		"czech":  "Vztahové body: %points%",
 		"korean":  "관계 포인트: %points%",
 		"ukrainian": "Очки відносин: %points%",
+		"hungarian": "Kapcsolati pontok: %points%",
 	},
 	"animalHandling":  {
 		"english": "Animal Handling",
@@ -4667,6 +4911,7 @@
 		"czech": "Manipulace se zvířaty",
 		"korean": "도축",
 		"ukrainian": "Догляд за тваринами",
+		"hungarian": "Állattartás",
 	},
 	"animalsInVillage":  { // if it doesn't work with your grammer, just say "Animals in Village"
 		"english": "%animalType% in Village",
@@ -4685,6 +4930,7 @@
 		"czech": "%animalType% ve vesnici",
 		"korean": "%animalType% 목장",
 		"ukrainian": "%animalType% в колонії",
+		"hungarian": "%animalType% a faluban",
 	},
 	"breedingLimit":  {
 		"english": "Breeding Limit",
@@ -4703,6 +4949,7 @@
 		"czech": "Chovatelský limit",
 		"korean": "최대가축수",
 		"ukrainian": "Ліміт розмноження",
+		"hungarian": "Szaporítási korlát",
 	},
 	"automaticallyAssignExtrasToButcher":  { // if it's too long, skip "assign"
 		"english": "Automatically assign extra animals to butcher",
@@ -4721,6 +4968,7 @@
 		"czech": "Automaticky přiřaďte na porážku další zvířata",
 		"korean": "정해진 수를 넘어선 여분의 가축을 자동으로 도축함",
 		"ukrainian": "Автоматично відправляти надлишкових тварин до м'ясника",
+		"hungarian": "Extra állatok autómatikusan henteshez rendelése",
 	},
 	"tamingProgress":  {
 		"english": "Taming Progress: %status%",
@@ -4739,6 +4987,7 @@
 		"czech": "Pokrok ochočení: %status%",
 		"korean": "길들이기 진행도: %status%",
 		"ukrainian": "Прогрес приручення: %status%",
+		"hungarian": "Szelídség állapota: %status%",
 	},
 	"tamed":  {
 		"english": "Tamed",
@@ -4757,6 +5006,7 @@
 		"czech": "Ochočeno",
 		"korean": "길들여짐",
 		"ukrainian": "Тварина приручена",
+		"hungarian": "Megszelidített",
 	},
 	"untamed":  {
 		"english": "Wild",
@@ -4775,6 +5025,7 @@
 		"czech": "Divoký",
 		"korean": "야생",
 		"ukrainian": "Тварина дика",
+		"hungarian": "Vad",
 	},
 	"ChangeAppearance":  {
 		"english":  "Change Appearance",
@@ -4791,6 +5042,7 @@
 		"russian":  "Изменить внешний вид",
 		"korean": "외형 바꾸기",
 		"ukrainian": "Змінити зовнішній вигляд",
+		"hungarian": "Kinézet módosítása",
 	},
 	"confirmChanges":  {
 		"english":  "Confirm Changes",
@@ -4807,6 +5059,7 @@
 		"russian":  "Подтвердить изменения",
 		"korean": "변경 확인",
 		"ukrainian": "Підтвердити зміни",
+		"hungarian": "Változtatásokat elfogad",
 	},
 	"objects":  {
 		"english":  "Objects",
@@ -4823,6 +5076,7 @@
 		"russian":  "Объекты",
 		"korean": "대상",
 		"ukrainian": "Об'єкти",
+		"hungarian": "Tárgyak",
 	},
 	"colors":  {
 		"english":  "Colors",
@@ -4839,6 +5093,7 @@
 		"russian":  "Цвета",
 		"korean": "색깔",
 		"ukrainian": "Кольори",
+		"hungarian": "Színek",
 	},
 	"hat":  {
 		"english":  "Hat",
@@ -4855,6 +5110,7 @@
 		"russian":  "Шляпа",
 		"korean": "모자",
 		"ukrainian": "Капелюх",
+		"hungarian": "Sapka",
 	},
 	"hair":  {
 		"english":  "Hair",
@@ -4871,6 +5127,7 @@
 		"russian":  "Прическа",
 		"korean": "머리카락",
 		"ukrainian": "Зачіска",
+		"hungarian": "Haj",
 	},
 	"face":  {
 		"english":  "Face",
@@ -4887,6 +5144,7 @@
 		"russian":  "Лицо",
 		"korean": "얼굴",
 		"ukrainian": "Обличчя",
+		"hungarian": "Arc",
 	},
 	"torso":  {
 		"english":  "Torso",
@@ -4903,6 +5161,7 @@
 		"russian":  "Торс",
 		"korean": "몸통",
 		"ukrainian": "Тулуб",
+		"hungarian": "Felsőtest",
 	},
 	"skin":  {
 		"english":  "Skin",
@@ -4919,6 +5178,7 @@
 		"russian":  "Кожа",
 		"korean": "피부",
 		"ukrainian": "Шкіра",
+		"hungarian": "Bőr",
 	},
 	"randomize":  {
 		"english":  "Randomize",
@@ -4935,6 +5195,7 @@
 		"russian":  "Рандомизировать",
 		"korean": "무작위",
 		"ukrainian": "Рандомізувати",
+		"hungarian": "Véletlenszerű",
 	},
 	"debug": { // doesn't need to be translated
 		"english": "Debugging",
@@ -4950,6 +5211,7 @@
 		"russian":  "Debugging",
 		"korean": "디버깅",
 		"ukrainian": "Налагодження",
+		"hungarian": "Hibakeresés",
 	},
 	"debuggingAttention": {
 		"english": "Attention!",
@@ -4963,6 +5225,7 @@
 		"italian": "Attenzione!",
 		"russian": "Внимание!",
 		"ukrainian": "Увага!",
+		"hungarian": "Figyelem!",
 	},
 	"debuggingDisableAchievements": {
 		"english": "This will disable achievements!\nThis cannot be undone!",
@@ -4976,6 +5239,7 @@
 		"italian": "Questo disabiliterà gli obiettivi! Quest'azione non può essere annullata!",
 		"russian": "Это отключит достижения!\nЭто действие необратимо!",
 		"ukrainian": "Це вимкне досягнення!\nЦю дію неможливо скасувати!",
+		"hungarian": "Blokkolja a teljesítmények elérését!\nNem vonható vissza!",
 	},
 	"debuggingNotice": {
 		"english": "The debug mode is meant to be used in development. If you enable debug mode, it can corrupt your save so that it's not recoverable. Exit this menu using 'F3' if you don't know exactly what you're doing.",
@@ -4989,6 +5253,7 @@
 		"italian": "La modalità di debug è pensata per essere utilizzata nello sviluppo. Se abiliti la modalità di debug, puoi danneggiare il tuo salvataggio in modo permanente. Esci da questo menu usando \"F3\" se non sai esattamente cosa stai facendo.",
 		"russian": "Режим отладки предназначен для использования в разработке. Если вы включите режим отладки, это может привести к повреждению вашего сохранения и невозможности его восстановления. Выйдите из этого меню, нажав «F3», если вы точно не знаете, что делаете.",
 		"ukrainian": "Режим налагодження призначений для використання під час розробки. Якщо ви ввімкнете режим налагодження, це може пошкодити ваше збереження, і його неможливо буде відновити. Вийдіть із цього меню за допомогою «F3», якщо ви не знаєте точно, що робите.",
+		"hungarian": "A hibakeresó mód a fejlesztés során használatos. Ha engedélyezed, megsérülhet a mentésed, és nem lehet visszaállítani azt. Lépj ki ebből a menüből F3-al, ha nem vagy tisztába, pontosan mire jó ez.",
 	},
 	"achievements_off_mods": {
 		"english":  "Achievements are disabled because you have mods installed.",
@@ -5002,13 +5267,15 @@
 		"italian": "Gli obiettivi sono disabilitati perché hai delle mod installate.",
 		"russian": "Достижения отключены, поскольку у вас установлены моды.",
 		"ukrainian": "Досягнення вимкнено, оскільки у вас встановлені моди.",
+		"hungarian": "Teljesítmények elérése kikapcsolva a telepített modok miatt.",
 	},
     "achievements_off_sandbox": {
         "english":  "Achievements are disabled because you have changed sandbox settings.",
         "german": "Errungenschaften sind deaktiviert, weil du die Sandbox-Einstellungen geändert hast.",
 	"french": "Les succès sont désactivés parce que vous avez modifié les paramètres du bac à sable.",
 	    "ukrainian": "Досягнення вимкнено, оскільки ви змінили налаштування пісочниці.",
-		"russian": "Достижения отключены, поскольку вы изменили настройки песочницы."
+		"russian": "Достижения отключены, поскольку вы изменили настройки песочницы.",
+		"hungarian": "Teljesítmények elérése kikapcsolva, mert megváltoztattad a homokozó beállításokat.",
     },
 	"achievements_off_cheats": {
 		"english":  "Achievements are disabled because you have used developer mode.",
@@ -5022,6 +5289,7 @@
 		"italian": "Gli obiettivi sono disabilitati perché hai utilizzato la modalità sviluppatore.",
 		"russian": "Достижения отключены, поскольку вы использовали режим разработчика.",
 		"ukrainian": "Досягнення вимкнено, оскільки ви використовували режим розробника.",
+		"hungarian": "Teljesítmények elérése kikapcsolva, mert fejlesztői módban vagy.",
 	},
 	"achievements_enabled_hard": {
 		"english":  "The \"Challenger\" achievement can be unlocked in this game.",
@@ -5035,6 +5303,7 @@
 		"italian": "L'obiettivo \"Challenger\" può essere sbloccato in questo gioco.",
 		"russian": "Достижение \"Претендент\" можно разблокировать в этой игре.",
 		"ukrainian": "Досягнення Challenger можна здобути в цій грі",
+		"hungarian": "A \"Challenger\" teljesítmény elérhető ebben a játékmódban.",
 	},
 	"animalZones":  {
 		"english":  "Animal Zones",
@@ -5051,6 +5320,7 @@
 		"russian":  "Зоны животных",
 		"korean": "동물구역",
 		"ukrainian": "Місця для тварин",
+		"hungarian": "Állat zónák",
 	},
 	"animalZonesTooltip_Desc":  {
 		"english":  "Designate zones to keep all of your animals in a specific place.",
@@ -5067,6 +5337,7 @@
 		"russian":  "Определите зоны, чтобы держать всех ваших животных в определенном месте.",
 		"korean": "당신의 가축들을 특정한 구역에 둘 수 있도록 범위를 지정하세요.",
 		"ukrainian": "Позначте зони для утримання всіх ваших тварин у певному місці.",
+		"hungarian": "Jelölj ki zónákat, ha egy bizonyos helyen akarod tudni az állataidat.",
 	},
 	"travelPanelTitle":  {
 		"english": "New Horizons",
@@ -5083,6 +5354,7 @@
 		"russian":  "Новые горизонты",
 		"korean": "신세계",
 		"ukrainian": "Нові горизонти",
+		"hungarian": "Új látóhatár",
 	},
 	"travelPanelDesc":  {
 		"english": "Are you ready to leave this town?\nYou can select a couple of competent villagers to leave this island and start a new village in a new land.\nYou may want to save this village before you leave.",
@@ -5098,7 +5370,8 @@
 		"czech": "Jste připraveni opustit toto město?\nMůžete si vybrat několik vesničanů, kteří opustí tento ostrov a založí novou vesnici v Nové zemi.",
 		"russian":  "Готовы ли вы покинуть этот город? \nВы можете выбрать пару компетентных жителей, чтобы они покинули этот остров и основали новую деревню на новой земле. \nВозможно, вы захотите сохранить эту деревню перед тем, как уйти.",
 		"ukrainian": "Ви готові залишити це місце? \nВи можете обрати пару компетентних колоністів, щоб залишити цей острів і заснувати нову колонію на новій землі. \nВи можете зберегти гру, перш ніж піти.",
-		"korean": "이곳을 떠날 준비가 되었나요? \n마을 주민 둘을 골라 이 섬을 떠나 새 땅에서 새로운 마을을 만들 수 있습니다.\n떠나기 전에 마을을 저장할 수 있습니다."
+		"korean": "이곳을 떠날 준비가 되었나요? \n마을 주민 둘을 골라 이 섬을 떠나 새 땅에서 새로운 마을을 만들 수 있습니다.\n떠나기 전에 마을을 저장할 수 있습니다.",
+		"hungarian": "El akarod hagyni a falut?\nKiválaszthatsz arra alkalmas telepeseket, hogy új falut létesítsenek egy új szigeten.\nAjánlott a mostani kolóni elmentése, mielőtt elhagyod azt.",
 		},
 	"depart":  {
 		"english": "Set the sails!",
@@ -5115,6 +5388,7 @@
 		"russian":  "Расправить паруса!",
 		"korean": "출항하자!",
 		"ukrainian": "Розправляйте вітрила!",
+		"hungarian": "Vitorlát fel!",
 	},
 	"trapUses":  {
 		"english": "Number of times trap can be reset",
@@ -5126,6 +5400,7 @@
 		"italian": "Numero di volte in cui è possibile ripristinare la trappola",
 		"russian": "Сколько раз можно использовать ловушку",
 		"ukrainian": "Скільки разів можна використати пастку",
+		"hungarian": "A csapdákat többször is élesítheted",
 	},
     "hobbies": {
         "english": "Hobbies",
@@ -5133,6 +5408,7 @@
 	"french": "Loisirs",
 	"ukrainian": "Хобі",
 		"russian": "Хобби",
+		"hungarian": "Hobbik",
     },
     "hobbyTitle_Painting": {
         "english": "Painting",
@@ -5140,6 +5416,7 @@
 	"french": "Peinture",
 	"ukrainian": "Малювання",
 		"russian": "Живопись",
+		"hungarian": "Festés",
     },
 	"hobbyDesc": {
 	"english": "Interest: %interest%",
@@ -5147,6 +5424,7 @@
 	"french": "Intérêt : %interest%",
 	"ukrainian": "Зацікавленість: %interest%",
 		"russian": "Заинтересованность: %interest%",
+		"hungarian": "Érdeklődési kör: %interest%",
 	},
     "hobbyDesc_IsMainHobby": {
         "english": "Is main hobby.",
@@ -5154,6 +5432,7 @@
         "french": "Est le principal loisir.",
 		"ukrainian": "Основне хобі.",
 		"russian": "Основное хобби.",
+		"hungarian": "Fő hobbi",
     },
     "hobbyTitle_Gardening": {
         "english": "Gardening",
@@ -5161,6 +5440,7 @@
 	"french": "Jardinage",
 	"ukrainian": "Садівництво",
 		"russian": "Садоводство",
+		"hungarian": "Kertészkedés",
     },
     "hobbyTitle_Music": {
         "english": "Music",
@@ -5168,6 +5448,7 @@
 	"french": "Musique",
 	"ukrainian": "Музика",
 		"russian": "Музыка",
+		"hungarian": "Zene",
     },
     "hobbyTitle_Writing": {
         "english": "Writing",
@@ -5175,6 +5456,7 @@
 	"french": "Écriture",
 	"ukrainian": "Письменництво",
 		"russian": "Письмо",
+		"hungarian": "Írás",
     },
     "hobbyTitle_Woodworking": {
         "english": "Woodworking",
@@ -5182,6 +5464,7 @@
 	"french": "Menuiserie",
 	"ukrainian": "Деревообробка",
 		"russian": "Деревообработка",
+		"hungarian": "Fa megmunkálás",
     },
     "hobbyTitle_Reading": { // reading or literature
         "english": "Reading",
@@ -5189,6 +5472,7 @@
 	"french": "Littérature",
 	"ukrainian": "Читання",
 		"russian": "Чтение",
+		"hungarian": "Olvasás",
     },
     "hobbyTitle_Masonry": {
         "english": "Masonry",
@@ -5196,6 +5480,7 @@
 	"french": "Maçonnerie",
 	"ukrainian": "Каменярство",
 		"russian": "Каменщик",
+		"hungarian": "Kőművesség",
     },
     "hobbyIsDumb": {
         "english": "Can't level up in hobbies because %firstName% is dumb",
@@ -5203,6 +5488,7 @@
 	"french": "Ne peut pas améliorer ses loisirs car %firstName% est idiot",
 	"ukrainian": "%firstName% не може розвивати хобі, тому що %heShe% туп%heshe_IY_A%",
 		"russian": "%firstName% не может повысить хобби, поскольку %heShe% туп%hesheEnd2%",
+		"hungarian": "Nem tud fejlődni a hobbiában, mert %firstName% nem túl okos",
     },
     "colonyWide": { // "global" is a good alternative
         "english": "Colony-wide",
@@ -5210,6 +5496,7 @@
 	"french": "Colonie",
 	"ukrainian": "На всю колонію",
 		"russian": "На всю колонию",
+		"hungarian": "Kolónia-méretű",
     },
     "workHourType": {
         "english": "Work",
@@ -5217,6 +5504,7 @@
 	"french": "Travail",
 	"ukrainian": "Робота",
 		"russian": "Работа",
+		"hungarian": "Munka",
     },
     "workHourTypeTooltip_Title": {
         "english": "Work Hour",
@@ -5224,6 +5512,7 @@
 	"french": "Heure de travail",
 	"ukrainian": "Робоча година",
 		"russian": "Рабочие часы",
+		"hungarian": "Munkaóra",
     },
     "workHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will only do work.",
@@ -5231,6 +5520,7 @@
 	"french": "Pendant cette heure, vos colons ne feront que travailler.",
 	"ukrainian": "Протягом цієї години ваші колоністи лише працюватимуть.",
 		"russian": "В течение этого часа ваши колонисты будут только работать",
+		"hungarian": "Ezekben az órákban csakis dolgozni fognak a telepeseid.",
     },
     "freeHourType": {
         "english": "Free/Socialize",
@@ -5238,6 +5528,7 @@
 	"french": "Libre/Social",
 	"ukrainian": "Відпочинок/Спілкування",
 		"russian": "Досуг/Общение",
+		"hungarian": "Szabadidő / Kapcsolatok",
     },
     "freeHourTypeTooltip_Title": {
         "english": "Free/Socialize Hour",
@@ -5245,6 +5536,7 @@
 	"french": "Heure libre/de socialisation",
 	"ukrainian": "Година відпочинку/спілкування",
 		"russian": "Час досуга/общения",
+		"hungarian": "Szabadidő / Kapcsolatok idő",
     },
     "freeHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will relax, socialize, and do hobbies.",
@@ -5252,6 +5544,7 @@
 	"french": "Pendant cette heure, vos colons se détendront, socialiseront et s'adonneront à des passe-temps.",
 	"ukrainian": "Протягом цієї години ваші колоністи відпочиватимуть, спілкуватимуться та займатимуться хобі.",
 		"russian": "В течение этого часа ваши колонисты будут отдыхать, общаться с друзьями и заниматься своими увлечениями",
+		"hungarian": "Ezekben az órákban a telepeseid pihennek, kapcsolatokat építenek, és a hobbiukkal foglalkoznak.",
     },
     "eatHourType": {
         "english": "Eat",
@@ -5259,6 +5552,7 @@
 	"french": "Repas",
 	"ukrainian": "Прийом їжі",
 		"russian": "Питание",
+		"hungarian": "Evés",
     },
     "eatHourTypeTooltip_Title": {
         "english": "Eating Hour",
@@ -5266,13 +5560,15 @@
 	"french": "Heure du repas",
 	"ukrainian": "Година прийому їжі",
 		"russian": "Час приема пищи",
+		"hungarian": "Evés idő",
     },
-    "eatHourTypeTooltip_Desc": {
+    " 	HourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will eat when their hunger is below 80%.\nOtherwise, they will continue to do their tasks",
         "german": "Während dieser Stunde werden deine Kolonisten essen falls ihr Hunger unter 80% ist\nAnsonsten werden sie mit ihren Aufgaben weitermachen.",
 	"french": "Pendant cette heure, vos colons mangeront lorsque leur faim sera inférieure à 80%.\nSinon, ils continueront à effectuer leurs tâches.",
 	"ukrainian": "Протягом цієї години ваші колоністи харчуватимуться, якщо їня шкала голоду опуститься нижче 80%. \nВ іншому випадку вони продовжать виконувати свої завдання",
 		"russian": "В течение этого часа ваши колонисты будут есть, если их голод ниже 80%.\nВ противном случае они будут продолжать выполнять свои задания.",
+		"hungarian": "Ezekben az órákban a telepesek esznek, ha 80% alatt van az éhségük.\nMáskülönben végzik a feladataikat.",
     },
     "randomHourType": {
         "english": "Random",
@@ -5280,6 +5576,7 @@
 	"french": "Aléatoire",
 	"ukrainian": "Випадково",
 		"russian": "Случайно",
+		"hungarian": "Mindegy",
     },
     "randomHourTypeTooltip_Title": {
         "english": "Random Hour",
@@ -5287,6 +5584,7 @@
 	"french": "Heure aléatoire",
 	"ukrainian": "Година випадкових занять",
 		"russian": "Час случайных занятий",
+		"hungarian": "Mindegy idő",
     },
     "randomHourTypeTooltip_Desc": {
         "english": "During this hour, colonists can pick tasks from all the task categories.\nThey will eat when their hunger is below 20% and sleep when their energy is below 15%.",
@@ -5294,6 +5592,7 @@
 	"french": "Pendant cette heure, les colons peuvent choisir des tâches parmi toutes les catégories de tâches.\nIls mangent lorsque leur faim est inférieure à 20% et dorment lorsque leur énergie est inférieure à 15%.",
 	"ukrainian": "Протягом цієї години колоністи зможуть обрати собі будь-яке заняття. Вони харчуватимуться, якщо їхня шкала голоду опуститься нижче 20%, та спатимуть, якщо шкала витривалості нижче 15%.",
 		"russian": "В течение этого часа ваши колонисты могут выбирать задания из всех категорий.\nОни будут есть, если их голод ниже 20%, и спать, если их энергия ниже 15%.",
+		"hungarian": "Ezekben az órákban a telepesek mindenféle feladatot csinálhatnak.\nAkkor esznek, amikor 20% alatt van az éhségük, és akkor alszanak, ha 15% alatt van a fáradtságuk.",
     },
     "sleepHourTypeTooltip_Title": {
         "english": "Sleeping Hour",
@@ -5301,6 +5600,7 @@
 	"french": "Heure du coucher",
 	"ukrainian": "Година сну",
 		"russian": "Час сна",
+		"hungarian": "Alvási idő",
     },
     "sleepHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will sleep when their energy is below 80%.\nOtherwise, they will continue to do their tasks",
@@ -5308,6 +5608,7 @@
 	"french": "Pendant cette heure, vos colons dormiront lorsque leur énergie sera inférieure à 80%.\nSinon, ils continueront à effectuer leurs tâches.",
 	"ukrainian": "Протягом цієї години ваші колоністи спатимуть, якщо їня шкала витривалості опуститься нижче 80%. \nВ іншому випадку вони продовжать виконувати свої завдання",
 		"russian": "В течение этого часа ваши колонисты будут спать, если их энергия ниже 80%.\nВ противном случае они будут продолжать выполнять свои задачи.",
+		"hungarian": "Ezekben az órákban a telepeseid alszanak, ha a fáradtságuk 80% alá csökken.\nMáskülönben csinálják tovább a feladataikat.",
     },
     "eatOnlyAtHouse": {
         "english": "Eat only at house",
@@ -5315,6 +5616,7 @@
 	"french": "Manger chez soi",
 	"ukrainian": "Їсти лише вдома",
 		"russian": "Питание только дома",
+		"hungarian": "Csak otthon évés",
 	    
     },
     "eatOnlyAtHouseTooltip_Title": {
@@ -5323,6 +5625,7 @@
 	"french": "Manger uniquement chez soi",
 	"ukrainian": "Їсти лише у власному будинку",
 		"russian": "Питание только у себя дома",
+		"hungarian": "Csak a saját otthonukban esznek",
     },
     "eatOnlyAtHouseTooltip_Desc": {
         "english": "When enabled, colonists will prioritize eating at their own house",
@@ -5330,6 +5633,7 @@
 	"french": "Lorsque cette option est activée, les colons mangeront en priorité chez eux.",
 	"ukrainian": "Якщо ввімкнути, колоністи віддаватимуть перевагу харчуванню у власному будинку.",
 		"russian": "При включении колонисты будут стараться есть в собственном доме.",
+		"hungarian": "Mikor be van kapcsolva a telepesek az otthon étkezést részesítik előnyben.",
     },
     "small": {
         "english": "Small",
@@ -5337,6 +5641,7 @@
 	"french": "Petit",
 	"ukrainian": "Маленькі",
 		"russian": "Маленький",
+		"hungarian": "Kicsi",
     },
     "smallRationsTooltip_Title": {
         "english": "Small Food Rations",
@@ -5344,6 +5649,7 @@
 	"french": "Petites rations alimentaires",
 	"ukrainian": "Маленькі порції їжі",
 		"russian": "Маленькие порции еды",
+		"hungarian": "Kis adag étel",
     },
     "smallRationsTooltip_Desc": {
         "english": "Tough times huh? Your colonists will eat less food at the cost of being sad.",
@@ -5351,6 +5657,7 @@
 	"french": "Les temps sont durs, hein ? Vos colons mangeront moins de nourriture au prix d'être tristes.",
 	"ukrainian": "Настав той самий чорний день? Ваші колоністи їстимуть менше, але будуть засмучені через це.",
 		"russian": "Тяжелые времена? Ваши колонисты будут есть меньше - но им это не понравится.",
+		"hungarian": "Nehéz idők, mi? A telepesek kevesebbet esznek, rosszabb hangulatért cserébe.",
     },
     "medium": {
         "english": "Medium",
@@ -5358,6 +5665,7 @@
 	"french": "Moyen",
 	"ukrainian": "Звичайні",
 		"russian": "Средний",
+		"hungarian": "Közepes",
     },
     "mediumRationsTooltip_Title": {
         "english": "Medium Food Rations",
@@ -5365,6 +5673,7 @@
 	"french": "Rations alimentaires moyennes",
 	"ukrainian": "Звичайні порції їжі",
 		"russian": "Средние порции еды",
+		"hungarian": "Közepes adag étel",
     },
     "mediumRationsTooltip_Desc": {
         "english": "Your colonists will eat normal amounts of food.",
@@ -5372,6 +5681,7 @@
 	"french": "Vos colons mangeront des quantités normales de nourriture.",
 	"ukrainian": "Ваші колоністи споживатимуть звичайну кількість їжі.",
 		"russian": "Ваши колонисты будут есть обычное количество пищи.",
+		"hungarian": "Normál adag ételt esznek a telepesek.",
     },
     "large": {
         "english": "Large",
@@ -5379,6 +5689,7 @@
 	"french": "Grand",
 	"ukrainian": "Великі",
 		"russian": "Большой",
+		"hungarian": "Nagy",
     },
     "largeRationsTooltip_Title": {
         "english": "Large Food Rations",
@@ -5386,6 +5697,7 @@
 	"french": "Grandes rations alimentaires",
 	"ukrainian": "Великі порції їжі",
 		"russian": "Большие порции еды",
+		"hungarian": "Nagy adag étel",
     },
     "largeRationsTooltip_Desc": {
         "english": "Your colonists will eat more food. At least their happy about it",
@@ -5393,6 +5705,7 @@
 	"french": "Vos colons mangeront plus de nourriture. Au moins, ils en sont heureux.",
 	"ukrainian": "Ваші колоністи споживатимуть більше їжі й будуть дуже задоволені.",
 		"russian": "Ваши колонисты будут есть больше еды. Это улучшит их настроение.",
+		"hungarian": "A telepeseid többet esznek. Legalább boldogok miatta.",
     },
     "issuedByPlayerTooltip_Title": {
         "english": "Task issued by Player",
@@ -5400,6 +5713,7 @@
 	"french": "Interaction émise par le joueur",
 	"ukrainian": "Завдання, видане гравцем",
 		"russian": "Задача, выданная игроком",
+		"hungarian": "Játékos által kiadott feladatok",
     },
     "issuedByPlayerTooltip_Desc": {
         "english": "These tasks won't get aborted by the schedule.",
@@ -5407,6 +5721,7 @@
 	"french": "Ces interactions ne seront pas interrompues par le programme.",
 	"ukrainian": "Ці завдання не будуть перервані розпорядком.",
 		"russian": "Эти задачи не отменяются расписанием.",
+		"hungarian": "Ezek a feladatok nem lesznek megszakítva a napirend által.",
     },
     "issuedByScheduleTooltip_Title": {
         "english": "Interaction issued by schedule / colonist",
@@ -5414,6 +5729,7 @@
 	"french": "Interaction émise par le programme",
 	"ukrainian": "Завдання, видане розпорядком/колоністом",
 		"russian": "Задание, выданное расписанием / колонистом",
+		"hungarian": "Napirend / telepes általi interakciók",
     },
     "issuedByScheduleTooltip_Desc": {
         "english": "These interactions can get aborted by the Schedule.",
@@ -5421,6 +5737,7 @@
 	"french": "Ces interactions peuvent être interrompues par le programme.",
 	"ukrainian": "Ці завдання можуть бути перервані розпорядком.",
 		"russian": "Эти взаимодействия могут быть прерваны расписанием.",
+		"hungarian": "Ezeket az interakciókat megszakíthatja a napirend.",
     },
     "noItemInStorage": {
         "english": "You have not stored any furniture yet. You can store furniture by dropping them in storage's drop area.",
@@ -5428,6 +5745,7 @@
 	"french": "Vous n'avez pas encore entreposé de meubles. Vous pouvez entreposer des meubles en les produisant ou en les déposant dans la zone de dépôt de la réserve.",
 	"ukrainian": "У вас немає меблів на зберіганні. Ви можете зберігати меблі у цьому сховищі, перетягнувши їх у зону для скидання.",
 		"russian": "У вас еще нет мебели на складе. Вы можете хранить мебель, переместив ее в зону хранения.",
+		"hungarian": "Jelenleg nem tárolsz semmilyen bútort. Eltárolhatsz bármilyen bútort, ha a tároló ablakba húzod őket.",
     },
     "dragAndDrop": {
         "english": "Drag any furniture and drop it in this area to store it",
@@ -5435,6 +5753,7 @@
 	"french": "Faites glisser n'importe quel meuble et déposez-le dans cette zone pour l'entreposer.",
 	"ukrainian": "Перетягніть та скиньте меблі сюди, щоб зберігати їх у сховищі.",
 		"russian": "Для хранения, перетащите любую мебель и бросьте ее в эту область",
+		"hungarian": "Ide húzd a tárolni kívánt bútorokat",
     },
     "difficultyAdaptation": {
         "english": "Difficulty Adaptation",
@@ -5442,6 +5761,7 @@
 	"french": "Adaptation de la difficulté",
 	"ukrainian": "Регулювання складності",
 		"russian": "Настройка сложности",
+		"hungarian": "Nehéz alkalmazkodás",
     },
     "difficultyAdaptationDesc": {
         "english": "Sometimes Founders' Fortune can be hard. Do you want to change the difficulty?",
@@ -5449,6 +5769,7 @@
 	"french": "Il semble que le jeu soit trop difficile, voulez-vous changer la difficulté ?",
 	"ukrainian": "Іноді грати у Founders' Fortune буває складно. Хочете змінити складність?",
 		"russian": "Иногда играть в Founders' Fortune может быть сложно. Хотите изменить уровень сложности?",
+		"hungarian": "Néha a Founders' Fortune nehéznek tűnhet. Nem akarod átállítani a nehézséget?",
     },
     "difficultyAdaptationAccept": {
         "english": "Let's Change",
@@ -5456,6 +5777,7 @@
 	"french": "Changeons-la",
 	"ukrainian": "Давайте змінимо",
 		"russian": "Изменить",
+		"hungarian": "Állítsd át",
     },
     "schedule": {
         "english": "Schedules",
@@ -5463,6 +5785,7 @@
 	"french": "Programmes",
 	"ukrainian": "Розпорядки дня",
 		"russian": "Расписание",
+		"hungarian": "Napirend",
     },
     "followColonyWideSchedule_Title": {
         "english": "Follow Colony-wide Schedule",
@@ -5470,6 +5793,7 @@
 	"french": "Suivre le programme de la colonie",
 	"ukrainian": "Дотримуватися розпорядку для всієї колонії",
 		"russian": "Следовать расписанию колонии",
+		"hungarian": "Kövessd a kolónia-méretű napirendet",
     },
     "followColonyWideSchedule_Desc": {
         "english": "When enabled, the colony-wide schedule will override the colonist's schedule",
@@ -5477,6 +5801,7 @@
 	"french": "Lorsque cette option est activée, le programme de la colonie remplacera le programme du colon.",
 	"ukrainian": "Якщо ввімкнено, розпорядок дня для всієї колонії замінить розпорядок дня колоніста",
 		"russian": "Если включено, расписание всей колонии будет преобладать над расписанием колониста",
+		"hungarian": "Ha be van kapcsolva, a kolonisták napirendje felülíródik a kolónia-méretű napirenddel.",
     },
     "paintingCompleted": {
         "english": "Painting Completed",
@@ -5484,6 +5809,7 @@
 	"french": "Peinture terminée",
 	"ukrainian": "Картину завершено",
 		"russian": "Картина завершена",
+		"hungarian": "Kész festmény",
     },
     "changeAge": {
         "english": "Change Age",
@@ -5491,6 +5817,7 @@
 	"french": "Changer l'âge",
 	"ukrainian": "Змінити вік",
 		"russian": "Изменить возраст",
+		"hungarian": "Kor megváltoztatása",
     },
 
 }

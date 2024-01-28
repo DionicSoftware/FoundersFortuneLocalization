@@ -1,4 +1,4 @@
-﻿{
+{
 	"traitTitle_Pacifist": {
 		"english": "Pacifist",
 		"german": "Pazifist",
@@ -16,6 +16,7 @@
 		"polish": "Pacyfist%aKa%",
 		"japanese": "平和主義者",
 		"czech": "Pacifista",
+		"hungarian": "Békepárti",
 	},
 	"traitDesc_Pacifist": {
 		"english": "%firstName% believes in the good in the world - maybe a little too much. Refuses to fight anyone unless %heShe% is already heavily wounded.",
@@ -35,6 +36,7 @@
 		"polish": "%firstName% wierzy w dobro w świecie - może trochę zbyt bardzo. Odmawia walki z kimkolwiek, chyba że zostanie silnie pobit%yA%",
  		"japanese": "%firstName%は平和主義者です。誰かが酷く殴られない限り誰とも戦おうとはしません。",
 		"czech": "%firstName% věří v dobro ve světě - možná až trochu moc. Odmítá bojovat s kýmkoli, dokud není již těžce zraněn%yA%.",
+		"hungarian": "%firstName% hiszi, hogy a világ egy jó hely - talán túlságosan is. Nem hajlandó harcolni, hacsak %heShe% súlyosan meg nem sérült.",
 	},
 	"traitTitle_BattleHardened": {
 		"english": "Experienced in Battle",
@@ -53,6 +55,7 @@
 		"polish": "Doświadczon%yA% w walce",
 		"japanese": "戦闘経験あり",
 		"czech": "Zkušen%yA% v bitvě",
+		"hungarian": "Csatában edzett",
 	},
 	"traitDesc_BattleHardened": {
 		"english": "Already has much experience on the battlefield and is not scared off easily. Does not receive mood penalties for pain and death around %himHer%.",
@@ -72,6 +75,7 @@
 		"polish": "%firstName% ma już dużo bojowego doświadczenia i nie daje się łatwo wystraszyć. Nie otrzymuje kar do humoru z powodu bólu i śmierci dookoła siebie.",
 		"japanese": "%firstName%はすでに多くの戦いを経験しているため簡単に怖がる事はありません。戦いにおける痛みや仲間の死による心情の影響も受けません。",
 		"czech": "Má mnoho zkušeností na bojišti a nedá se snadno vystrašit. Není penalizován za okolní bolest a smrt na bojišti.",
+		"hungarian": "Rengeteg tapasztalata van a harcmezőkön, nem retten meg egykönnyen. Nem lesz negatív hangulata, ha fájdalom és halál veszi körbe %himHer%-t.",
 	},
 	"traitTitle_Optimist": {
 		"english": "Optimist",
@@ -90,6 +94,7 @@
 		"polish": "Optymist%aKa%",
 		"japanese": "楽観主義者",
 		"czech": "Optimista",
+		"hungarian": "Derülátó",
 	},
 	"traitDesc_Optimist": {
 		"english": "Glass-half-full kind of %guyGirl%. Receives a permanent mood boost.",
@@ -108,6 +113,7 @@
 		"polish": "%firstName% to typ osoby, która uważa, że szklanka jest do połowy pełna. Otrzymuje stały bonus do humoru.",
 		"japanese": "%firstName%はグラスの水が半分の場合、まだ半分も入っていると考えるプラス思考を持っています。この思考は永続的に心情へ影響を与えます。",
 		"czech": "Dostává trvalý boost dobré nálady.",
+		"hungarian": "Ez a %guyGirl% a 'félig teli a pohár' ideológiát követi. Alapvetőleg jobb a hangulata.",
 	},
 	"traitTitle_Pessimist": {
 		"english": "Pessimist",
@@ -126,6 +132,7 @@
 		"polish": "Pesymist%aKa%",
 		"japanese": "悲観論者",
 		"czech": "Pesimista",
+		"hungarian": "Borúlátó",
 	},
 	"traitDesc_Pessimist": {
 		"english": "Glass-half-empty kind of %guyGirl%. Receives a permanent mood penalty.",
@@ -144,6 +151,7 @@
 		"polish": "%firstName% to typ osoby, dla której szklanka jest do połowy pusta. Otrzymuję permanentną karę do nastroju.",
 		"japanese": "%firstName%はグラスの水が半分の場合、もう半分しかないと考えるマイナス思考を持っています。この思考は永続的に心情へ影響を与えます。",
 		"czech": "Dostává pravidelný boost špatné nálady.",
+		"hungarian": "Ez a %guyGirl% a 'félig üres a pohár' ideológiát követi. Alapvetőleg rossz a hangulata.",
 	},
 	"traitTitle_Killer": {
 		"english": "Killer",
@@ -162,6 +170,7 @@
 		"polish": "Zabójca",
 		"japanese": "剣客",
 		"czech": "Zabiják",
+		"hungarian": "Gyilkos",
 	},
 	"traitDesc_Killer": {
 		"english": "%firstName% has a strange interest in violence. Gets positive thoughts from killing. Usually able to control %himselfHerself%.",
@@ -180,6 +189,7 @@
 		"polish": "%firstName% przejawia niepokojące zainteresowanie przemocą. Zabijanie wprawia %goJą% w dobry humor. Na szczęście zazwyczaj jest w stanie się kontrolować.",
 		"japanese": "%firstName%は戦国時代の剣客のように自分の命も相手の命も惜しみません。相手の命が失われた時は自身の強さを実感すると共に相手の死に自分を重ねます。",
 		"czech": "%firstName% má zvláštní zájem o násilí. Získává pozitivní myšlenky ze zabíjení, ale umí je ovládnout (občas).",
+		"hungarian": "%firstName% fura vonzalmat érez az erőszak iránt. Pozitív gondolata lesznek, ha megöl valakit, vagy valamit. Általában tudja kontrolálni %himselfHerself%.",
 	},
 	"traitTitle_GoodHealth": {
 		"english": "Good Health",
@@ -198,6 +208,7 @@
 		"polish": "Krzep%kiKa%",
 		"japanese": "健康",
 		"czech": "Dobré zdraví",
+		"hungarian": "Jó egészség",
 	},
 	"traitDesc_GoodHealth": {
 		"english": "A lifetime of exercise and healthy foods has provided %firstName% with a very robust health. Treatments are 20% more likely to succeed.",
@@ -216,6 +227,7 @@
 		"polish": "Życie wypełnione ćwiczeniami i zdrowe odżywianie zapewniło %muJej% bardzo dobre zdrowie. Leczenie jest o 20% bardziej skuteczne.",
 		"japanese": "%firstName%は適度な運動と適正な食事により健康です。治療の成功率は20%高くなります。",
 		"czech": "Léčba má o 20% větší pravděpodobnost úspěchu.",
+		"hungarian": "A jobb élet és az egészséges ételek megnövelték %firstName% életerejét. A kezelések 20%-al sikeresebbek lehetnek.",
 	},
 	"traitTitle_BadHealth": {
 		"english": "Bad Health",
@@ -234,6 +246,7 @@
 		"polish": "Cherlaw%yA%",
 		"japanese": "病弱",
 		"czech": "Špatné zdraví",
+		"hungarian": "Rossz egészség",
 	},
 	"traitDesc_BadHealth": {
 		"english": "For no specific reason, %firstName%'s immune system is not as good as others. Treatments are 20% more likely to fail.",
@@ -252,6 +265,7 @@
 		"polish": "Bez żadnego konkretnego powodu, %firstName% ma gorszy system odpornościowy od innych. Leczenie ma 20% mniej szans na powodzenie.",
 		"japanese": "%firstName%は病弱のため免疫力がありません。治療の失敗する可能性が20%高くなります。",
 		"czech": "Pravděpodobnost u léčby je 20% selhání.",
+		"hungarian": "Valamiért %firstName% immunrendszere rosszabb az átlagnál. A kezelések 20%-al sikertelenebbek lehetnek.",
 	},
 	"traitTitle_Overeater": {
 		"english": "Overeater",
@@ -270,6 +284,7 @@
 		"polish": "Łakomczuch",
 		"japanese": "食いしん坊",
 		"czech": "Přejídač",
+		"hungarian": "Kényszeresen étkező",
 	},
 	"traitDesc_Overeater": {
 		"english": "%firstName% loves food and isn't always able to control %himselfHerself%. Sometimes %heShe% will just continue eating even though %heShe% is already full.",
@@ -288,6 +303,7 @@
 		"polish": "%firstName% kocha jedzenie i nie zawsze jest w stanie się kontrolować. Czasami będzie po prostu jeść bez opamiętania, nawet jeśli będzie już najedzon%yA%.",
 		"japanese": "%firstName%は食べることが大好きで食欲を自制する事が難しいです。お腹がいっぱいになっていても衝動的に食べてしまう事があります。",
 		"czech": "Milovník jídla, který se jen těžko ovládá. Někdy jí i přes to, že už je syt%yA%",
+		"hungarian": "%firstName% imádja az ételt, és épp ezért nem is tudja kordában tartani %himselfHerself%. Néha %heShe% akkor is tovább étkezik, ha már tele ette magát.",
 	},
 	"traitTitle_Survivor": {
 		"english": "Survivalist",
@@ -306,6 +322,7 @@
 		"polish": "Surwiwalist%aKa%",
 		"japanese": "サバイバリスト",
 		"czech": "Přeživší",
+		"hungarian": "Túlélő",
 	},
 	"traitDesc_Survivor": {
 		"english": "%firstName% has survived quite a few sticky situations and knows what it takes. When others would die, %heShe% gets a 25% health boost and gains consciousness. (Only once in 24 hours)",
@@ -324,6 +341,7 @@
 		"polish": "%firstName% przetrwał%nicA% kilka nieciekawych sytuacji i wie co trzeba w takich chwilach robić. Kiedy inni umierają, %onOna% otrzymuje 25% dodatkowego bonusu do zdrowia i odzyskuje świadomość (raz na 24 godziny)",
 		"japanese": "%firstName%は生き残るための知識を持ち、かなり厳しい状況でも生き残ります。ふつうの人ならば死ぬほどの状況でも25%の確率で意識不明の状態に陥るだけで済みます。(24時間に1回)",
 		"czech": "I když ostatní zemřou, získá 25% zdraví a nabyde vědomí. (pouze jednou za 24 hodin)",
+		"hungarian": "%firstName% már sokmindent átélt, és tudja mire van szüksége hozzá. Amibe más már belehalna, %heShe% 25%-al több életerővel rendelkezik, és nem dől ki egyhamar. (24 úránként egyszer)",
 
 	},
 	"traitTitle_Insomnia": {
@@ -343,6 +361,7 @@
 		"polish": "Nocny marek",
 		"japanese": "不眠症",
 		"czech": "Insomniak",
+		"hungarian": "Álmatlanság",
 	},
 	"traitDesc_Insomnia": {
 		"english": "%firstName% has trouble sleeping and doesn't rest as well as others. Takes double the time to fully rest compared to others..",
@@ -361,6 +380,7 @@
 		"polish": "%firstName% ma problemy z zasypianiem i nie wysypia się tak dobrze jak inni. Potrzebuje dwa razy więcej czasu na odpoczynek.",
 		"japanese": "%firstName%は不眠症です。眠りにつくのが難しく他の人と同じように眠る事ができません。通常の人の2倍の時間が必要です。",
 		"czech": "%firstName% má problémy se spánkem a neodpočívá tak dobře jako ostatní. Plný odpočinek zabere 2x tolik času, ve srovnání s ostatními ..",
+		"hungarian": "%firstName% nem igazán alszik jól, így nem piheni ki magát annyira, mint a többiek. Kétszer annyi pihenésre van szüksége, mint a többieknek..",
 	},
 	"traitTitle_Tireless": {
 		"english": "Tireless",
@@ -379,6 +399,7 @@
 		"polish": "Niezmordowan%yA%",
 		"japanese": "疲れ知らず",
 		"czech": "Neúnavn%yA%",
+		"hungarian": "Élénk",
 	},
 	"traitDesc_Tireless": {
 		"english": "%firstName% doesn't need much sleep. Only rests half as long as others before %heShe%'s completely fit again.",
@@ -397,6 +418,7 @@
 		"polish": "%firstName% nie potrzebuje wiele snu. Wystarczy %muJej% go o połowę mniej niż innym by powrócić do pełni sił.",
 		"japanese": "%firstName%はあまり睡眠を必要としません。普通の人の半分の時間で十分な休息をとる事ができます。",
 		"czech": "%firstName% nepotřebuje moc spánku. Odpočívá jen 1/2 času co ostatní.",
+		"hungarian": "%firstName% nem igényel sok alvást. Fele annyi időbe telik kipihenni magát, mint a többieknek.",
 	},
 	"traitTitle_Smart": {
 		"english": "Fast Learner",
@@ -415,6 +437,7 @@
 		"polish": "Bystr%yA%",
 		"japanese": "物覚えが良い",
 		"czech": "Učenliv%yA%",
+		"hungarian": "Éles eszű",
 	},
 	"traitDesc_Smart": {
 		"english": "%firstName% is a bright %guyGirl% and %heShe% knows it. %cap-heShe% can learn new skills in half the time.",
@@ -433,6 +456,7 @@
 		"polish": "%firstName% to bystry umysł i %onOna% dobrze o tym wie. Może się nauczyć nowych umiejętności dwa razy szybciej.",
 		"japanese": "%firstName%は物覚えが良く早分かりです。そのため普通の人の半分の時間で新しいスキルを学ぶ事ができます。",
 		"czech": "Učí se novým dovednostem za 1/2 času co ostatní kolonisté.",
+		"hungarian": "%firstName% okos, és ezzel tisztában van. Könnyedén tanul meg új jártasságokat, fele annyi idő allat, mint más.",
 	},
 	"traitTitle_Dumb": {
 		"english": "Dumb",
@@ -451,6 +475,7 @@
 		"polish": "Głupi%nicA%",
 		"japanese": "お馬鹿",
 		"czech": "Hloup%yA%",
+		"hungarian": "Ostoba",
 	},
 	"traitDesc_Dumb": {
 		"english": "Unfortunately, thinking has never been %hisHer% strong suit. %cap-heShe% will not gain experience and not level up in any job ever.",
@@ -469,6 +494,7 @@
 		"polish": "Niestety, myślenie to nie jest %jegoJej% mocna strona. %firstName% nigdy nie będzie otrzymywał%nicA% doświadczenia ani awansował%nicA% w jakimkolwiek zawodzie.",
 		"japanese": "残念な事に%firstName%は覚える事が苦手です。どの仕事をさせてもレベルアップする事はありません。",
 		"czech": "Naneštěstí myšlení nikdy nebylo %jehoJeji% silnou stránkou. Nezíská nikdy zkušenosti a nezvýší ani svou úroveň v žádné práci.",
+		"hungarian": "Sajnos a gondolkodás sosem volt az erőssége. Sosem fog fejlődni semmilyen munkában, és tapasztalatot sem képes gyűjteni.",
 	},
 	"traitTitle_FavoriteFoodPumpkinStew": {
 		"english": "Favorite Food: Pumpkin Stew",
@@ -487,6 +513,7 @@
 		"polish": "Uwielbia krem z dyni",
 		"japanese": "好きな食べ物:かぼちゃのシチュー",
 		"czech": "Oblíbené jídlo: Dýňový guláš",
+		"hungarian": "Kedvenc étele a tökfőzelék",
 
 	},
 	"traitDesc_FavoriteFoodPumpkinStew": {
@@ -506,6 +533,7 @@
 		"polish": "%firstName% po prostu nie może się doczekać, żeby dostać kolejną porcję pysznego kremu z dyni.",
 		"japanese": "%firstName%はかぼちゃのシチューが大好物です。おかわりする時間が待ちきれないほどです。",
 		"czech": "%firstName% se prostě nemůže dočkat, až si dá další misku lahodného dýňového guláše.",
+		"hungarian": "%firstName% szinte megőrül még egy tál tökfőzelékért.",
 	},
 	"traitTitle_FavoriteFoodFruitSalad": {
 		"english": "Favorite Food: Fruit Salad",
@@ -524,6 +552,7 @@
 		"polish": "Uwielbia sałatkę owocową",
 		"japanese": "好きな食べ物:フルーツサラダ",
 		"czech": "Oblíbené jídlo: Ovocný salát",
+		"hungarian": "Kedvenc étele a gyümölcssaláta",
 	},
 	"traitDesc_FavoriteFoodFruitSalad": {
 		"english": "%firstName% just can't wait to get another bowl of delicious fruit salad.",
@@ -542,6 +571,7 @@
 		"polish": "%firstName% po prostu nie może się doczekać, żeby dostać kolejną porcję sałatki owocowej.",
 		"japanese": "%firstName%はフルーツサラダが大好物です。おかわりする時間が待ちきれないほどです。",
 		"czech": "%firstName% se prostě nemůže dočkat, až si dá další misku lahodného ovocného salátu.",
+		"hungarian": "%firstName% szinte megőrül még egy tál gyülömcssalátáért.",
 	},
 	"traitTitle_FavoriteFoodAppleStrudel": {
 		"english": "Favorite Food: Apple Strudel",
@@ -560,6 +590,7 @@
 		"polish": "Uwielbia jabłecznik",
 		"japanese": "好きな食べ物:アップルシュトルーデル",
 		"czech": "Oblíbené jídlo: Jablečný štrúdl",
+		"hungarian": "Kedvenc étele az almás rétes",
 	},
 	"traitDesc_FavoriteFoodAppleStrudel": {
 		"english": "%firstName% just can't wait to get another piece of delicious apple strudel.",
@@ -578,6 +609,7 @@
 		"polish": "%firstName% po prostu nie może się doczekać, żeby dostać kolejną porcję jabłecznika.",
 		"japanese": "%firstName%はアップルシュトルーデルが大好物です。おかわりする時間が待ちきれないほどです。",
 		"czech": "%firstName% se prostě nemůže dočkat, až si dá další kousek lahodného jablečného štrúdlu.",
+		"hungarian": "%firstName% szinte megőrül még egy almás rétesért.",
 	},
 	"traitTitle_AllergicToApples": {
 		"english": "Allergic to Apples",
@@ -596,6 +628,7 @@
 		"polish": "Alergia na jabłka",
 		"japanese": "りんごアレルギー",
 		"czech": "Alergick%yA% na jablka",
+		"hungarian": "Allergiás az almára",
 	},
 	"traitDesc_AllergicToApples": {
 		"english": "%firstName% will avoid dishes that contain apples. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -614,6 +647,7 @@
 		"polish": "%firstName% będzie unikał%nicA% wszelkich dań zawierających jabłka. Jeśli zje coś co zawiera jabłka to dostanie reakcji alergicznej.",
 		"japanese": "%firstName%はりんごアレルギーです。そのためリンゴを含む料理を避けます。極力食べる事が無いようにしてください。",
 		"czech": "%firstName% se vyhne pokrmům, které obsahují jablka. Pokud je z donucení sní, bude mít alergickou reakci.",
+		"hungarian": "%firstName% kerül mindent, ami almás. Ha kényszerítik, hogy almás dolgot egyen, akkor allergiás reakciói lesznek.",
 	},
 	"traitTitle_AllergicToPotatoes": {
 		"english": "Allergic to Potatoes",
@@ -632,6 +666,7 @@
 		"polish": "Alergia na ziemniaki",
 		"japanese": "じゃがいもアレルギー",
 		"czech": "Alergick%yA% na brambory",
+		"hungarian": "Allergiás a krumplira",
 	},
 	"traitDesc_AllergicToPotatoes": {
 		"english": "%firstName% will avoid dishes that contain potatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -651,6 +686,7 @@
 		"polish": "%firstName% będzie unikał%nicA% wszelkich dań zawierających ziemniaki. Jeśli zje coś co zawiera ziemniaki to dostanie reakcji alergicznej.",
 		"japanese": "%firstName%はじゃがいもアレルギーです。そのためジャガイモを含む料理を避けます。極力食べる事が無いようにしてください。",
 		"czech": "%firstName% se vyhne pokrmům, které obsahují bramboty. Pokud je z donucení sní, bude mít alergickou reakci.",
+		"hungarian": "%firstName% kerül mindent, ami krumplis. Ha kényszerítik, hogy krumplis dolgot egyen, akkor allergiás reakciói lesznek.",
 	},
 	"traitTitle_AllergicToTomatoes": {
 		"english": "Allergic to Tomatoes",
@@ -669,6 +705,7 @@
 		"polish": "Alergia na pomidory",
 		"japanese": "トマトアレルギー",
 		"czech": "Alergick%yA% na rajčata",
+		"hungarian": "Allergiás a paradicsomra",
 	},
 	"traitDesc_AllergicToTomatoes": {
 		"english": "%firstName% will avoid dishes that contain tomatoes. If %heShe% is forced to eat it anyways, %heShe% is going to have an allergic reaction.",
@@ -688,6 +725,7 @@
 		"polish": "%firstName% będzie unikał%nicA% wszelkich dań zawierających pomidory. Jeśli zje coś co zawiera pomidory to dostanie reakcji alergicznej.",
 		"japanese": "%firstName%はトマトアレルギーです。そのためトマトを含む料理を避けます。極力食べる事が無いようにしてください。",
 		"czech": "%firstName% se vyhne pokrmům, které obsahují rajčata. Pokud je z donucení sní, bude mít alergickou reakci.",
+		"hungarian": "%firstName% kerül mindent, ami paradicsomos. Ha kényszerítik, hogy paradicsomos dolgot egyen, akkor allergiás reakciói lesznek.",
 	},
 	"traitTitle_Limping": {
 		"english": "Limping",
@@ -705,6 +743,7 @@
 		"polish": "Kulaw%yA%",
 		"japanese": "不自由な足",
 		"czech": "Kulhání",
+		"hungarian": "Sánta",
 	},
 	"traitDesc_Limping": {
 		"english": "Because of an accident, %firstName% has a bad leg and is limping. %cap-heShe% walks a little slower than other colonists.",
@@ -722,6 +761,7 @@
 		"polish": "Z powodu przykrego wypadku ze strzałą w kolanie, %firstName% kuleje i chodzi przez to nieco wolniej niż inni koloniści.",
 		"japanese": "%firstName%は足に怪我があるため、他のコロニストよりも歩く速度が遅いです。",
 		"czech": "Kvůli nehodě má %firstName% špatnou nohu a kulhá. Chodí trochu pomaleji než ostatní kolonisté.",
+		"hungarian": "Egy baleset következtébe %firstName% lába megsérült, és emiatt biceg. %cap-heShe% egy kicsit lassabban jár, mint a többi telepes.",
 	},
 	"traitTitle_Xenophobe": {
 		"english": "Xenophobe",
@@ -739,6 +779,7 @@
 		"polish": "Ksenofob",
 		"japanese": "よそ者恐怖症",
 		"czech": "Xenofob",
+		"hungarian": "Távolságtartó",
 	},
 	"traitDesc_Xenophobe": {
 		"english": "%firstName% doesn't trust strangers very much. %cap-heShe% doesn't want to get too friendly with other factions and has no problem defending the colony from others.",
@@ -756,6 +797,7 @@
 		"polish": "%firstName% nie lubi obcych. Nie chce się zaprzyjaźniać z innymi frakcjami i raczej woli z nimi walczyć. Jest za to mocn%yA w gębie.",
 		"japanese": "%firstName%は見知らぬ人をあまり信頼していません。他の集団と友好的になりたいと思っていないので敵対しても気にしません。",
 		"czech": "%firstName% moc cizím lidem nedůvěřuje. Nechce se příliš kamarádit s jinými frakcemi a nemá problém bránit kolonii před ostatními.",
+		"hungarian": "%firstName% nem igazán kedveli az idegeneket. %cap-heShe% nem barátkozik más csoportokkal, de cserében nem rest megvédeni a kolódiát.",
 	},
 	"traitTitle_Xenophile": {
 		"english": "Xenophile",
@@ -773,6 +815,7 @@
 		"polish": "Ksenofil",
 		"japanese": "よそ者好き",
 		"czech": "Xenofil",
+		"hungarian": "Közvetlen",
 	},
 	"traitDesc_Xenophile": {
 		"english": "%firstName% loves to get to know all kinds of different people. %cap-heShe% is quick to trust newcomers and doesn't like fighting other factions.",
@@ -790,6 +833,7 @@
 		"polish": "%firstName% uwielbia poznawać nowe osoby i bardzo szybko nabiera do nich zaufania. Nie lubi walczyć z innymi frakcjami.",
 		"japanese": "%firstName%はあらゆる種類の様々な人々と知り合うのが大好きです。よそ者をすぐに信頼してしまいます。他の集団と戦うのは好きではありません。",
 		"czech": "%firstName% miluje poznávání nejrůznějších cizích lidí. Rychle důvěřuje nováčkům a má problém s bojem s jinými frakcemi.",
+		"hungarian": "%firstName% mindenféle szerzettel szeret ismerkedni. %cap-heShe% könnyedén barátkozik az új jövevényekkel, és nem igazán száll harcba másokkal.",
 
 	},
 	"traitTitle_Diplomat": {
@@ -808,6 +852,7 @@
 		"polish": "Dyplomat%aKa%",
 		"japanese": "外交官",
 		"czech": "Diplomat",
+		"hungarian": "Nagykövet",
 	},
 	"traitDesc_Diplomat": {
 		"english": "Because of %hisHer% charismatic nature, %firstName% is quick to make friends and smooth over past quarrels. When %heShe% socializes with members of other factions, there is a small chance to increase diplomatic relationships.",
@@ -825,6 +870,7 @@
 		"polish": "Ze względu na %jegoJej% charyzmatyczną naturę, %firstName% szybko zaprzyjaźnia się z innymi i potrafi łagodzić wszelkie zatargi. Kiedy socjalizuje się z członkami innej rakcji, istnieje niewielka szansa na poprawę relacji dyplomatycznych.",
 		"japanese": "%firstName%はすぐに友達を作る事もでき、喧嘩もすぐに仲直りさせてしまいます。他の集団の人々と交流した際には関係を強化する可能性がわずかにあります。",
 		"czech": "Má charismatickou povahu, rychle se spřátelí a hádky si pamatuje jen velmi krátce. Když se stýká s členy jiných frakcí, existuje malá šance na navýšení diplomatických vztahů.",
+		"hungarian": "A magával ragadó természete miatt %firstName% gyorsan képes barátokat szerezni, és gyorsan túl teszi magát a veszekedéseken. Mikor más csoportbeliekkel beszélget, kicsivel több esélye van a diplomáciai kapcsolat növelésére.",
 	},
 	"traitTitle_LovesSummer": {
 		"english": "Loves Summer",
@@ -842,6 +888,7 @@
 		"polish": "Kocha lato",
 		"japanese": "夏が大好き",
 		"czech": "Miluje léto",
+		"hungarian": "Nyár kedvelő",
 	},
 	"traitDesc_LovesSummer": {
 		"english": "When the air is warm and the weather is sunny, %firstName% feels like everything is right with the world.",
@@ -859,6 +906,7 @@
 		"polish": "Kiedy powietrze jest ciepłe a pogoda słoneczna, %firstName% czuje że wszystko na świecie idzie w dobrym kierunku.",
 		"japanese": "%firstName%は夏が大好きです。夏の日差し、熱い空気、晴れ渡る空等夏の世界すべてが素晴らしいと感じます。",
 		"czech": "Když je vzduch teplý a počasí je slunečné má %firstName% pocit, že je se světem všechno v pořádku.",
+		"hungarian": "Mikor meleg van, és süt a nap, %firstName% úgy érzi, ennél szebb már nem is lehet a világ.",
 	},
 	"traitTitle_LovesSpring": {
 		"english": "Loves Spring",
@@ -876,6 +924,7 @@
 		"polish": "Kocha wiosnę",
 		"japanese": "春が大好き",
 		"czech": "Miluje jaro",
+		"hungarian": "Tavasz kedvelő",
 	},
 	"traitDesc_LovesSpring": {
 		"english": "%firstName% loves breathing the fresh air of spring and see nature bloom once again.",
@@ -893,6 +942,7 @@
 		"polish": "%firstName% uwielbia oddychać świeżym powietrzem pachnącym wiosną i delektować się rozkwitającą naturą.",
 		"japanese": "%firstName%は春が大好きです。春の新鮮な空気、自然が再び芽吹く姿が大好きです。",
 		"czech": "%firstName% miluje dýchání čerstvého vzduchu jara a o když vidí, jak příroda znovu kvete.",
+		"hungarian": "%firstName% imádja a friss tavaszi szellő illatát, és a természet újbóli virágba borulását.",
 	},
 	"traitTitle_HatesWinter": {
 		"english": "Hates Winter",
@@ -910,6 +960,7 @@
 		"polish": "Nienawidzi zimy",
 		"japanese": "冬が嫌い",
 		"czech": "Nesnáší zimu",
+		"hungarian": "Utálja a telet",
 	},
 	"traitDesc_HatesWinter": {
 		"english": "Darker days and colder nights are not %firstName%'s idea of fun, so winter is not %hisHer% favorite time of the year.",
@@ -927,6 +978,7 @@
 		"polish": "Ciemniejsze dni i zimniejsze noce to nie jest to co %firstName% lubi najbardziej, zima nie jest dla %niegoNiej% najszczęśliwszą porą roku.",
 		"japanese": "%firstName%は冬が嫌いです。薄暗く陽が少ない昼、寒く凍える夜、また楽しみも少ないためどうしても好きになれません。",
 		"czech": "Potemnělé dny a chladnější noci nejsou vůbec libou představou zábavy. Nemá je rá%dA%!",
+		"hungarian": "A sötét és hideg esték nem épp %firstName% kedvencei, így a telet sem kedveli.",
 	},
 	"traitTitle_HatesFall": {
 		"english": "Hates Fall",
@@ -944,6 +996,7 @@
 		"polish": "Nienawidzi jesieni",
 		"japanese": "秋が嫌い",
 		"czech": "Nenávidí podzim",
+		"hungarian": "Utálja az őszt",
 	},
 	"traitDesc_HatesFall": {
 		"english": "%firstName% doesn't really care for the colorful leaves in fall and instead spends %hisHer% time complaining about the muddy paths and the windy days.",
@@ -961,6 +1014,7 @@
 		"polish": "%firstName% niekoniecznie zachwyca się kolorowymi liśćmi sypiącymi się na jesień z drzew, woli wiecznie narzkać na zabłocone ścieżki i wilgotne, wietrzne dni.",
 		"japanese": "%firstName%は秋が嫌いです。色とりどりの葉にも興味がなく、風の強い木枯らしに不満ばかり口に出るからです。",
 		"czech": "%firstName% se opravdu nestará o barevné listí na podzim a místo toho tráví celý svůj čas stěžováním si na blátivé cesty a větrné dny.",
+		"hungarian": "%firstName% nincs oda a fáról hulló színes levelekért, helyette inkább arra szánja idejét, hogy a zord időről, és a saras utakról panaszkodjon.",
 	},
 	"traitTitle_LactoseIntolerant":  {
 		"english":  "Lactose Intolerant",
@@ -976,6 +1030,7 @@
 		"japanese": "乳糖不耐症",
 		"chinese": "乳糖不耐症",
 		"czech":  "Alergick%yA% na mléko",
+		"hungarian": "Laktózérzékeny",
 	},
 	"traitDesc_LactoseIntolerant":  {
 		"english":  "Not all people can consume dairy products safely - and unfortunately %firstName% is one of them.",
@@ -991,6 +1046,7 @@
 		"japanese": "%firstName%は乳糖を分解できない体質いわゆる乳糖不耐症のため乳製品を取ると胃腸の調子が悪くなります。",
 		"chinese": "并非所有人都能安全地食用乳制品-不幸的是%firstName%是其中之一。",
 		"czech":  "Ne všichni lidé mohou bezpečně konzumovat mléčné výrobky - a bohužel %firstName% je jedním z nich.",
+		"hungarian": "Nem mindenki képes tejtermékeket fogyasztani - sajnos %firstName% is közéjük tartozik.",
 	},
 	"traitTitle_Vegetarian":  {
 		"english":  "Vegetarian",
@@ -1006,6 +1062,7 @@
 		"japanese": "菜食主義者",
 		"chinese": "素食主义者",
 		"czech":  "Vegetarián",
+		"hungarian": "Vegetáriánus",
 	},
 	"traitDesc_Vegetarian":  {
 		"english":  "%firstName% doesn't want to eat meat for a variety of reasons. Don't force %himHer% to.",
@@ -1021,6 +1078,7 @@
 		"japanese": "%firstName%は様々な理由で肉を食べたくありません。無理に肉を食べさせないようにしてください。",
 		"chinese": "%firstName%出于多种原因不想吃肉。不要强迫%himHer%。",
 		"czech":  "%firstName% nechce jíst maso z různých důvodů.",
+		"hungarian": "%firstName% nem hajlandó húst enni, többféle indokból. Ne kényszerítsd rá.",
 	},
 	"traitTitle_AnimalLover":  {
 		"english":  "Animal Lover",
@@ -1036,6 +1094,7 @@
 		"japanese": "動物好き",
 		"chinese": "动物爱好者",
 		"czech":  "Miluje zvířata",
+		"hungarian": "Állatbarát",
 	},
 	"traitDesc_AnimalLover":  {
 		"english":  "%firstName% loves animals. Just playing with them for a bit will get %hisHer% mood up instantly.",
@@ -1051,34 +1110,39 @@
 		"japanese": "%firstName%は動物が大好きです。動物たちと遊ぶ事で気分が上がります。",
 		"chinese": "%firstName%非常喜欢动物。仅是和它们一起玩耍，心情就会立刻变好。",
 		"czech":  "%firstName% miluje zvířata. Když si s nimi hraje, dostává dobrou náladu.",
+		"hungarian": "%firstName% imádja az állatokat. Már, ha csak egy kicsit játszik is velük, fellendíti a hangulatát.",
 	},
     "traitTitle_PreferPhysicalHobbies":  {
         "english":  "Prefers Physical Hobbies",
         "german": "Mag physische Hobbies",
-	"french": "Préfère les loisirs physiques",
+		"french": "Préfère les loisirs physiques",
 	    "ukrainian":"Віддає перевагу фізичним хобі",
-		"russian": "Предпочитает физические увлечения"
+		"russian": "Предпочитает физические увлечения",
+		"hungarian": "Fizikai hobbikat kedvelő",
     },
     "traitDesc_PreferPhysicalHobbies":  {
         "english":  "%firstName% loves physical hobbies. %hisHer% fun increases faster while doing these types of hobbies.",
         "german": "%fistName% liebt physische Hobbies. %erSie% entspannt sich schneller damit.",
-	"french": "%firstName% adore les loisirs physiques. Son amusement augmente plus rapidement en pratiquant ce type de loisirs.",
+		"french": "%firstName% adore les loisirs physiques. Son amusement augmente plus rapidement en pratiquant ce type de loisirs.",
 		"ukrainian":"%firstName% любить створювати щось власними руками. %heShe% втішається швидше коли займається цим типом хобі.",
-		"russian": "%firstName% любит физические увлечения. При занятиях этими видами хобби удовольствие возрастает быстрее."
+		"russian": "%firstName% любит физические увлечения. При занятиях этими видами хобби удовольствие возрастает быстрее.",
+		"hungarian": "%firstName% imád aktívan kikapcsolódni. Ha ilyesmit csinál, hamar boldoggá válik.",
     },
     "traitTitle_PreferMentalHobbies":  {
         "english":  "Prefers Mental Hobbies",
         "german": "Mag mentale Hobbies",
-	"french": "Préfère les loisirs intellectuels",
+		"french": "Préfère les loisirs intellectuels",
 		"ukrainian":"Віддає перевагу інтелектуальним хобі",
-		"russian": "Предпочитает умственные увлечения"
+		"russian": "Предпочитает умственные увлечения",
+		"hungarian": "Kreatív hobbikat kedvelő",
     },
     "traitDesc_PreferMentalHobbies":  {
         "english":  "%firstName% loves mental hobbies. %hisHer% fun increases faster while doing these types of hobbies.",
         "german": "%fistName% liebt mentale Hobbies. %erSie% entspannt sich schneller damit.",
-	"french": "%firstName% adore les loisirs intellectuels. Son amusement augmente plus rapidement en pratiquant ce type de loisirs.",
+		"french": "%firstName% adore les loisirs intellectuels. Son amusement augmente plus rapidement en pratiquant ce type de loisirs.",
 		"ukrainian":"%firstName% насолоджується вільним польотом уяви. %heShe% втішається швидше коли займається цим типом хобі.",
-		"russian": "%firstName% любит умственные увлечения. При занятиях этими видами хобби удовольствие возрастает быстрее."
+		"russian": "%firstName% любит умственные увлечения. При занятиях этими видами хобби удовольствие возрастает быстрее.",
+		"hungarian": "%firstName% imád kreatívan kikapcsolódni. Ha ilyesmit csinál, hamar boldoggá válik!",
 	}
 }
 

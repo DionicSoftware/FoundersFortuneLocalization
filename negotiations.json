@@ -1,4 +1,4 @@
-﻿{
+{
 	"greetings": {
 		"english": "Greetings. What brings you to us?",
 		"german": "Guten Tag! Was führt dich zu uns?",
@@ -15,6 +15,7 @@
 		"japanese": "こんにちは。ご用件はなんですか？",
 		"czech": "Vítejte. Co vás k nám přivádí?",
 		"ukrainian": "Вітання! Що привело вас до нас?",
+		"hungarian": "Üdvözlet. Mi szél hozott?",
 	},
 	"seeYouLater": { // default goodbye. Kind of nice, but still neutral
 		"english": "See you later.",
@@ -32,6 +33,7 @@
 		"japanese": "では、また！",
 		"czech": "Uvidíme se později.",
 		"ukrainian": "До зустрічі!",
+		"hungarian": "Viszlát később.",
 	},
 	"goodbye": { // goodbye to be used when relations are not nice anymore
 		"english": "Goodbye.",
@@ -49,6 +51,7 @@
 		"japanese": "さようなら。",
 		"czech": "Sbohem.",
 		"ukrainian": "Прощавайте!",
+		"hungarian": "Viszlát!",
 	},
 	"weAreSorry": {
 		"english": "We're sorry.",
@@ -65,6 +68,7 @@
 		"chinese": "我们很抱歉。",
 		"japanese": "ごめんなさい。",
 		"czech": "Omlouváme se.",
+		"hungarian": "Elnézést!",
 		//"ukrainian": "
 	},
 	"thanks": {
@@ -83,6 +87,7 @@
 		"japanese": "ありがとう。",
 		"czech": "Díky.",
 		"ukrainian": "Дякуємо!",
+		"hungarian": "Kösz!",
 	},
 	"thanksALot": {
 		"english": "Thanks a lot!",
@@ -100,6 +105,7 @@
 		"japanese": "どうも、ありがとう！",
 		"czech": "Díky moc!",
 		"ukrainian": "Ми дуже вдячні!",
+		"hungarian": "Köszönöm!",
 	},
 	"youreWelcome": { // said when colony did something another faction likes (giving presents, defending from pirates, etc.)
 		"english": "You're welcome.",
@@ -117,6 +123,7 @@
 		"japanese": "どういたしまして。",
 		"czech": "Není zač.",
 		"ukrainian": "Будь ласка!",
+		"hungarian": "Szívesen.",
 	},
 	"weUnderstand": {
 		"english": "We understand.",
@@ -134,6 +141,7 @@
 		"japanese": "分かりました。",
 		"czech": "Rozumíme.",
 		"ukrainian": "Розуміємо.",
+		"hungarian": "Megértjük.",
 	},
 	"nothingValuableSelected": {
 		"english": "Present not valuable enough.",
@@ -151,6 +159,7 @@
 		"japanese": "その程度の贈り物ではそれほど価値がありません。",
 		"czech": "Dar není dostatečně cenný.",
 		"ukrainian": "Подарунок недостатньо цінний.",
+		"hungarian": "Nem elég drága az ajándék.",
 	},
 	"negotiateFreedomOfKidnappedColonist": {
 		"english": "I'd like to negotiate about freeing %firstName%.",
@@ -166,7 +175,8 @@
 		"italian": "Vorrei negoziare la liberazione di %firstName%.",
 		"japanese": "%firstName%の解放について交渉したいです。",
 		"czech": "Rá%dA% bych jedna%lA% o osvobození %firstName%.",
-		"ukrainian": "%firstName% у вас у полоні, ми хотіли б обговорити %hisHer% звільнення."
+		"ukrainian": "%firstName% у вас у полоні, ми хотіли б обговорити %hisHer% звільнення.",
+		"hungarian": "Szeretnék %firstName% szabadulásának feltételeiről tárgyalni.",
 	},
 	"kidnappedFreeingText": {
 		"english": "We're ready to release %firstName% if you make it worth our while.\n\nWe require you to give us %tribute% in exchange.",
@@ -183,6 +193,7 @@
 		"japanese": "%firstName%を解放してほしいのであれば、次の物を準備してください。\n\n%tribute%",
 		"czech": "Jsme připraveni vydat %firstName% pokud se o to zasloužíte.\n\nVýměnou žádáme %tribute%.",
 		"ukrainian": "Ми готові піти вам на зустріч. %firstName% вийде на волю якщо ви заплатите викуп. \n\nМи вимагаємо %tribute%!",
+		"hungarian": "Elengedjük %firstName%-t, ha meg tudsz minket győzni.\n\nAjánljuk, hogy %tribute%-t adj cserébe.",
 	},
 	"kidnappedFreeingAcceptButton": {
 		"english": "Fine, we'll pay.",
@@ -200,6 +211,7 @@
 		"japanese": "分かりました。支払いましょう。",
 		"czech": "Dobře, zaplatíme.",
 		"ukrainian": "Добре, ми заплатимо.",
+		"hungarian": "Rendben, kifizetjük.",
 	},
 	"kidnappedFreeingDenyButton": {
 		"english": "Actually, we can't afford it.",
@@ -216,6 +228,7 @@
 		"japanese": "それだけの物はまだ準備できていません。",
 		"czech": "Vlastně si to nemůžeme dovolit.",
 		"ukrainian": "На жаль, це нам не по кишені.",
+		"hungarian": "Ami azt illeti, most nincs annyink.",
 	},
 	"kidnappedFreeingAcceptedText": {
 		"english": "It's a deal. We freed %firstName% and will guarantee to not attack you for half a day, so you can come and get %himHer%.",
@@ -232,6 +245,7 @@
 		"japanese": "交渉が成立しました。%firstName%を解放します。また半日攻撃しない事を保証します。",
 		"czech": "Je to dohoda. Osvobodili jsme %firstName% a zaručíme, že na vás nebudeme útočit půl dne, takže si vězně můžete vyzvednout.",
 		"ukrainian": "Домовились! %firstName% буде звільнен%heshe_IY_A% і ми обіцяємо не нападати на вас півдня, щоб ви могли прийти й забрати %hisHer%.",
+		"hungarian": "Megegyeztünk. Elengedjűk %firstName%-t, és garantáljuk, hogy egy fél napig nem támadunk meg, hogy el tudjátok vinni %himHer%-t.",
 	},
 	"kidnappedFreeingAcceptedAnswer": {
 		"english": "Thanks.",
@@ -249,6 +263,7 @@
 		"japanese": "ありがとう。",
 		"czech": "Díky.",
 		"ukrainian": "Дякуємо!",
+		"hungarian": "Köszönjük!",
 	},
 	"whenIsTraderNextPlanningToCome": {
 		"english": "When are you next planning to come by?",
@@ -266,6 +281,7 @@
 		"japanese": "次はいつくる予定ですか？",
 		"czech": "Kdy plánujete přijít?",
 		"ukrainian": "Коли ви плануєте завітати до нас?",
+		"hungarian": "Mikorra tervezed a következő látogatást?",
 	},
 	"traderArrivalAnyMoment": {
 		"english": "We're actually arriving any moment now!",
@@ -282,6 +298,7 @@
 		"japanese": "もうすぐ到着します！",
 		"czech": "Vlastně dorazíme každou chvílí!",
 		"ukrainian": "Насправді, ми прибудемо з хвилини на хвилину!",
+		"hungarian": "Nemsokár érkezünk!",
 	},
 	"traderArrivalInDays": {
 		"english": "We're planning to visit your village in %days1% to %days2% days.",
@@ -298,6 +315,7 @@
 		"japanese": "%days1%-%days2%日で到着する予定です。",
 		"czech": "Plánujeme navštívit vaši vesnici za %days1% až %days2% dny.",
 		"ukrainian": "Ми плануємо завітати до вас через %days1%-%days2% дн.",
+		"hungarian": "%days1%-%days2% napon belül meglátogatjuk a faludat.",
 	},
 	"traderArrivalAskForFastArrival": {
 		"english": "Would you mind sailing here immediately?",
@@ -315,6 +333,7 @@
 		"japanese": "すぐにここへ来てくれませんか？",
 		"czech": "Vadilo by vám okamžitě se sem připlavit?",
 		"ukrainian": "Чи не проти ви припливти до нас негайно?",
+		"hungarian": "Nem bánod, ha most azonnal ide hajózunk?",
 	},
 	"traderArrivalThanksForInfo": {
 		"english": "Thanks for the info.",
@@ -332,6 +351,7 @@
 		"japanese": "ありがとう！",
 		"czech": "Děkuji za informaci.",
 		"ukrainian": "Дякуємо за інформацію.",
+		"hungarian": "Köszi az infót.",
 	},
 	"traderArrivalFastAccepted": {
 		"english": "We will have to take a detour...\nIt really messes with our trading plans, but we'll make an exception for you.",
@@ -348,6 +368,7 @@
 		"japanese": "すぐですか...\nわかりました。すぐにお伺いしましょう。あなたたちには返しきれない恩がありますから。",
 		"czech": "Budeme to muset vzít oklikou...\nKazí to naše obchodní plány, ale uděláme pro tebe výjimku",
 		"ukrainian": "Нам доведеться зійти з маршруту... \nЦе трохи поруйнує наші торгівельні плани, але ми зробимо для вас виняток.",
+		"hungarian": "Kerülőt kellett tennünk...\nTeljesen felborította a terveinket, de veled kivételt teszünk.",
 	},
 	"traderArrivalFastDenied": {
 		"english": "Sorry, we can't afford to take a detour for you.",
@@ -364,6 +385,7 @@
 		"japanese": "すみません。すぐにはそちらへ行く事はできません。",
 		"czech": "Promiň, ale nemůžeme si dovolit to vzít oklikou",
 		"ukrainian": "Вибачте, але ми не будемо сходити із запланованого маршруту заради цього.",
+		"hungarian": "Elnézést, de nem tudunk kitérőt tenni felétek.",
 	},
 	"askAboutTradingDiscount": {
 		"english": "Are you going to give us a trading discount?",
@@ -381,6 +403,7 @@
 		"japanese": "貿易取引の割引はできますか？",
 		"czech": "Poskytnete nám obchodní slevu?",
 		"ukrainian": "Ви не хочете зробити нам знижку?",
+		"hungarian": "Kapunk tőletek kedvezményt?",
 	},
 	"tradingDiscountAcceptedText": {
 		"english": "We see you as a good friend of our people so we're trying to give you a %percent% percent discount.",
@@ -397,6 +420,7 @@
 		"japanese": "あなたは良い友人です。%percent%%の割引をしましょう。",
 		"czech": "Vidíme vás jako dobré přátelé našich lidí, takže vám poskytneme slevu %procent% procent.",
 		"ukrainian": "Ми вважаємо вас добрими друзями, тому згодні надати вам знижку %percent% відсотків.",
+		"hungarian": "Mivel úgy véljük, a barátságunk szilárd alapokon nyugszik, adunk neked %percent% százalék árengedményt.",
 	},
 	"tradingDiscountDeniedText": {
 		"english": "Sorry, but you're not really a good friend of our people. We can't afford to give out discounts to everyone.",
@@ -413,6 +437,7 @@
 		"japanese": "申し訳ありません。あなたは良い友人ではありませんので、割引する事はできません。",
 		"czech": "Omlouváme se, ale nejste opravdu dobrý přítel našich lidí. Nemůžeme si dovolit rozdávat slevy všem.",
 		"ukrainian": "Вибачте, але ми з вами не друзі. Ми не можемо дозволити собі робити знижки всім підряд.",
+		"hungarian": "Ne haragudj, de nem vagyunk annyira jóban. Nem adhatunk mindenkinek kedvezményt.",
 	},
 
 
@@ -432,6 +457,7 @@
 		"japanese": "贈り物を差し上げます。",
 		"czech": "Rádi bychom vám nabídli dárek.",
 		"ukrainian": "Ми хочемо запропонувати вам подарунок.",
+		"hungarian": "Szeretnénk megajándékozni.",
 	},
 	"offerPresentText": {
 		"english": "A happy surprise! What is it?",
@@ -449,6 +475,7 @@
 		"japanese": "嬉しいです！どの様な贈り物をいただけますか？",
 		"czech": "Překvapení!!! Co je to?",
 		"ukrainian": "Яка чудова несподіванка! Що це буде?",
+		"hungarian": "Micsoda kellemes meglepetés! Mi az?",
 	},
 	"offerPresentButton": {
 		"english": "Please take this as a gift.",
@@ -466,6 +493,7 @@
 		"japanese": "この贈り物を受け取ってください。",
 		"czech": "Berte to prosím jako dárek.",
 		"ukrainian": "Будь ласка, прийміть це як подарунок.",
+		"hungarian": "Kérlek fogadd el ezt az ajándékot.",
 	},
 	"presentOpinion": {
 		"english": "This is a %present%.",
@@ -483,6 +511,7 @@
 		"japanese": "この贈り物は%present%です。",
 		"czech": "Toto je %present%.",
 		"ukrainian": "Це %present%.",
+		"hungarian": "Ez egy %present%.",
 	},
 	"smallPresent": {
 		"english": "small present",
@@ -500,6 +529,7 @@
 		"japanese": "少し嬉しい",
 		"czech": "malý dárek",
 		"ukrainian": "невеличкий подарунок",
+		"hungarian": "kis ajándék",
 	},
 	"mediumPresent": {
 		"english": "medium present",
@@ -517,6 +547,7 @@
 		"japanese": "嬉しい",
 		"czech": "střední dárek",
 		"ukrainian": "середній подарунок",
+		"hungarian": "közepes ajándék",
 	},
 	"largePresent": {
 		"english": "large present",
@@ -534,6 +565,7 @@
 		"japanese": "とても嬉しい",
 		"czech": "velký dárek",
 		"ukrainian": "великий подарунок",
+		"hungarian": "nagy ajándék",
 	},
 	"offerPresentCancel": {
 		"english": "Actually, we can't afford it.",
@@ -550,6 +582,7 @@
 		"japanese": "それだけの贈り物を揃える余裕はありません。",
 		"czech": "Vlastně si to nemůžeme dovolit.",
 		"ukrainian": "Насправді, ми не можемо цього собі дозволити.",
+		"hungarian": "Ami azt illeti, most nincs annyink.",
 	},
 	"acceptPresentsBadRelations": {
 		"english": "Fine, we'll take it.",
@@ -567,6 +600,7 @@
 		"japanese": "贈り物をありがとう。",
 		"czech": "Dobře, vezmeme to.",
 		"ukrainian": "Добре, ми це візьмемо.",
+		"hungarian": "Rendben, elfogadjuk.",
 	},
 	"acceptPresentsNeutralRelations": {
 		"english": "Thank you. We accept your thoughtful present.",
@@ -584,6 +618,7 @@
 		"japanese": "ありがとう！思いやりにあふれた贈り物はうれしいです。",
 		"czech": "Děkuji. Přijímáme váš dárek.",
 		"ukrainian": "Дякуємо! Ми приймаємо цей чудовий подарунок.",
+		"hungarian": "Köszönjük. Elfogadjuk a jól megfontolt ajándékod.",
 	},
 	"acceptPresentsGoodRelations": {
 		"english": "Thanks! You're a good friend of our people.",
@@ -600,6 +635,7 @@
 		"japanese": "ありがとう！あなたはとっても良い友人です。",
 		"czech": "Díky! Jste dobrým přítelem našich lidí.",
 		"ukrainian": "Дякуємо! Ви добрі друзі нашого народу.",
+		"hungarian": "Kösz! Tényleg jó barátunk vagy.",
 	},
 	"demandTribute": {
 		"english": "We demand a tribute from you.",
@@ -617,6 +653,7 @@
 		"japanese": "貢物を要求します。",
 		"czech": "Požadujeme od vás daň.",
 		"ukrainian": "Ми вимагаємо від вас данину!",
+		"hungarian": "Követeljuk a sarcunkat.",
 	},
 	"tributeSelectionText": {
 		"english": "Really...?",
@@ -634,6 +671,7 @@
 		"japanese": "本当に...?",
 		"czech": "Vážně...?",
 		"ukrainian": "Хм... Серйозно?",
+		"hungarian": "Tényleg...?",
 	},
 	"tributeSelectionDemand": {
 		"english": "Please give use these items.",
@@ -651,6 +689,7 @@
 		"japanese": "これだけの物をください。",
 		"czech": "Dejte nám tyto věci.",
 		"ukrainian": "Будь ласка, дайте нам ці предмети.",
+		"hungarian": "Kérlek használd ezeket.",
 	},
 	"tributeSelectionJustKidding": {
 		"english": "Just Kidding.",
@@ -668,6 +707,7 @@
 		"japanese": "冗談です。",
 		"czech": "To byl jen vtip.",
 		"ukrainian": "Ми просто пожартували.",
+		"hungarian": "Csak viccelek.",
 	},
 	"tributeSelectionAcceptanceProbability": {
 		"english": "Probability of them accepting the tribute: %probability% percent.",
@@ -683,6 +723,7 @@
 		"italian": "Probabilità che accettino il tributo: %probability% %.",
 		"japanese": "貢物の要求が成功する確率:%probability%%",
 		"czech": "Pravděpodobnost, že přijmou daň: %probability% procent.",
+		"hungarian": "Annak az esélye, hogy elfogadják a sarcot: %probability% százalék.",
 	},
 	"tributeAcceptedBecauseFriendship": {
 		"english": "We decided to make an exception and give you our wares because we see you as a friend. We can offer these things to help you out:",
@@ -698,6 +739,7 @@
 		"italian": "Abbiamo deciso di fare un'eccezione e di darvi le nostre merci, dal momento che vi stimiamo. Possiamo offrirvi queste cose per aiutarvi:",
 		"japanese": "あなたは良い友人です。今ままでの事を考えれば、これぐらいの貢ぎ物は当然です。この貢ぎ物があなたに役立つ事を願っています。",
 		"czech": "Rozhodli jsme se udělat výjimku a dát vám naše zboží, protože vás vidíme jako přítele. Abychom vám pomohli, můžeme vám nabídnout tyto věci:",
+		"hungarian": "Úgy döntöttünk, hogy kivételt teszünk, és odaadjuk neked az árut, mivel barátként tekintünk rád. Ezeket tudjuk neked felajánlani:",
 	},
 	"tributeAcceptedBecauseScared": {
 		"english": "It's despicable that you bully others to get your way, but we don't have a choice. This is what we can offer you:",
@@ -713,6 +755,7 @@
 		"italian": "È spregevole intimidire gli altri per ottenere ciò che volete... ma non abbiamo scelta. Questo è ciò che possiamo offrirvi:",
 		"japanese": "あなたは他人をいじめる事が好きなのですか？私たちはいいえの選択の余地がありません。これがあなたの要求された貢ぎ物です。",
 		"czech": "Je opovrženíhodné, že šikanujete ostatní, ale nemáme na výběr. Toto vám můžeme nabídnout:",
+		"hungarian": "Elég aljas, hogy zaklatlatsz másokat, hogy érvényesülj, de nekünk nincs választásunk. Ezekt tudjuk neked felajánlani:",
 	},
 	"tributeAcceptedBecauseTinyTribute": {
 		"english": "What? We thought you wanted something valuable. We can help you out a little:",
@@ -728,6 +771,7 @@
 		"italian": "Cosa? Pensavamo voleste qualcosa di prezioso. Possiamo aiutarti un po':",
 		"japanese": "もっと価値のある物が欲しいのではないかと思いましたが、これだけで良いのですか？私たちはもう少しだけ助ける事ができますよ。",
 		"czech": "Co? Mysleli jsme, že chceš něco cenného. Můžeme vám trochu pomoci:",
+		"hungarian": "Micsoda? Azt hittük valami értékeset szeretnél. Ki tudunk segíteni egy kicsit:",
 	},
 	"tributeAcceptedThanksForCooperation": {
 		"english": "Thanks for your cooperation.",
@@ -743,6 +787,7 @@
 		"italian": "Grazie per la cooperazione.",
 		"japanese": "貢物に感謝します。",
 		"czech": "Děkujeme za vaši spolupráci.",
+		"hungarian": "Köszönjük az együttműködést.",
 	},
 	"tributeDeniedText": {
 		"english": "It's pathetic how you think you can just demand something like that.\n\nYou are not our friend and you can't scare us into submission with such a small village.\n\nThis conversation is over.",
@@ -758,6 +803,7 @@
 		"italian": "È patetico il modo in cui pensate di poter pretendere qualcosa del genere.\n\nNon avete buone relazioni con noi e non potete minacciare di sottometterci con un villaggio così piccolo.\n\nLa conversazione termina qui.",
 		"japanese": "そのような要求してくるとは残念です。\n\nあなたは私たちを友人ではなく、奴隷として扱うのですね。その要求には断固拒否します。私たちはあなたの力を恐れません。\n\nこの話は終わりです。",
 		"czech": "Je úbohé, jak si myslíte, že můžete něco takového požadovat.\n\nNejste náš přítel a nevyděsíte nás možným podrobením se s tak malou vesnicí.\n\nTato konverzace skončila.",
+		"hungarian": "Hihetetlen, hogy ilyet mersz kérni.\n\nNem vagyunk barátok, és a kis falud nem ijeszt meg minket.\n\nA beszélgetésünknek immáron vége.",
 	},
 	"goblinTributeTextBadRelations": {
 		"english": "It might be in your best interest to give us the following things:",
@@ -774,6 +820,7 @@
 		"polish": "W dobrym interesie będzie, jeśli dostarczycie nam następujące rzeczy:",
 		"japanese": "あなたからこれだけの助けをいただけるなら、しばらくは友好を結ぶ事ができるでしょう。",
 		"czech": "Je vee vašem nejlepším zájmu nám poskytnout následující věci:",
+		"hungarian": "A te érdekedben add nekünk a következőket:",
 	},
 	"goblinTributeTextNeutralRelations": {
 		"english": "We need some materials and as a decent neighbor you should help us out here:",
@@ -790,6 +837,7 @@
 		"polish": "Jako nasz najbliższy sąsiad, liczymy na wsparcie następującymi surowcami:",
 		"japanese": "近しい隣人としてあなたの助けが必要です。これだけの物をいただく事はできますか？",
 		"czech": "Potřebujeme nějaké materiály a jako slušný soused byste nám měli pomoci tímto:",
+		"hungarian": "Néhány alapanyagra lenne szükségünk, és mint jó szomszédok, segíthetnél nekünk:",
 	},
 	"goblinTributeTextGoodRelations": {
 		"english": "Dear friends, we're in need of some materials. Would you mind helping us out?",
@@ -806,6 +854,7 @@
 		"polish": "Przyjaciele, potrzebujemy kilku surowców. Pomożecie?",
 		"japanese": "良き友人よ。これだけの物が私たちには必要です。あなただけが頼りです。助けてくれませんか？",
 		"czech": "Drazí přátelé, potřebujeme nějaké materiály. Nevadilo by vám pomoci nám pomoci?",
+		"hungarian": "Drága barátaim, szükségünk lenne pár alapanyagra. Ki tudnál segíteni?",
 	},
 	"goblinTributeAcceptButton": {
 		"english": "Of course, there you go.",
@@ -822,6 +871,7 @@
 		"polish": "Oczywiście, proszę bardzo.",
 		"japanese": "もちろん。さあ、どうぞ。",
 		"czech": "Samozřejmě, tady to máte.",
+		"hungarian": "Természetesen! Tessék.",
 	},
 	"goblinTributeDenyButton": {
 		"english": "We're not going to pay your tribute!",
@@ -838,6 +888,7 @@
 		"polish": "Nic wam nie wyślemy!",
 		"japanese": "お断りします。助けるつもりはありません。",
 		"czech": "Nebudeme vám platit daň!",
+		"hungarian": "Nem vagyunk hajlandóak ezt megadni.",
 	},
 	"goblinTributeAcceptedBadRelations": {
 		"english": "You know what's good for you.",
@@ -854,6 +905,7 @@
 		"polish": "Widzę że się rozuzmiemy.",
 		"japanese": "お互いにとって良い選択を決断してくれました。ありがとう。",
 		"czech": "Víš, co je pro tebe dobré.",
+		"hungarian": "Tudod te, hol a helyed.",
 	},
 	"goblinTributeAcceptedNeutralRelations": {
 		"english": "Thanks for your help.",
@@ -870,6 +922,7 @@
 		"polish": "Dziękujemy za pomoc.",
 		"japanese": "助かりました。本当にありがとう。",
 		"czech": "Díky za vaši pomoc.",
+		"hungarian": "Köszönjük a segítséget!",
 	},
 	"goblinTributeAcceptedGoodRelations": {
 		"english": "Thanks! We're happy we can call you our friend.",
@@ -886,6 +939,7 @@
 		"polish": "Dziękujemy! Z dumą nazywamy was przyjaciółmi.",
 		"japanese": "ありがとう！あなたは私たちの友人です。とてもうれしいです。",
 		"czech": "Díky! Jsme rádi, že vám můžeme říkat naši přátelé.",
+		"hungarian": "Köszi! Örülünk, hogy barátként tekinthetünk rád.",
 	},
 	"goblinTributeDeniedBadRelations": {
 		"english": "You are going to regret this.",
@@ -902,6 +956,7 @@
 		"polish": "Pożałujecie tej decyzji!",
 		"japanese": "わかりました。この決断を後悔しても遅いでしょう。",
 		"czech": "Budeš toho litovat.",
+		"hungarian": "Ezt megbánod!",
 	},
 	"tributeDeniedRegretThisWeWillSee": {
 		"english": "We'll see about that.",
@@ -918,6 +973,7 @@
 		"chinese": "我们会看到的。",
 		"japanese": "あなたとの関係を考えないといけません。",
 		"czech": "Uvidíme.",
+		"hungarian": "Majd meglátjuk.",
 	},
 	"goblinTributeDeniedNeutralRelations": {
 		"english": "We will remember your attitude.",
@@ -933,6 +989,7 @@
 		"italian": "Lo ricorderemo.",
 		"japanese": "その様な返事だとは。あなたの下した決断を一生忘れません。",
 		"czech": "Budeme si pamatovat váš postoj.",
+		"hungarian": "Emlékezni fogunk a hozzáállásodra!",
 	},
 	"goblinTributeDeniedGoodRelations": {
 		"english": "That's a bummer. Friends should stick together.",
@@ -948,6 +1005,7 @@
 		"italian": "È proprio un peccato. Gli amici dovrebbero restare uniti.",
 		"japanese": "とても残念です。友人とは苦楽を共にするべきだと思います。",
 		"czech": "To je blbost. Přátelé by měli držet spolu.",
+		"hungarian": "Ez baromság! A barátoknak össze kellene tartaniuk.",
 	},
 
 
@@ -967,6 +1025,7 @@
 		"chinese": "救命！\n\n海盗正在追赶着我们！你能帮助我们吗？\n\n让我们一起击退这些凶徒！",
 		"japanese": "助けてください！\n\n海賊が私たちを狙って追跡してきています！\n\n一緒に撃退してくれませんか？",
 		"czech": "Pomoc!\n\nPiráti pronásledují naši loď a dohánějí ji! Mohl byste nám prosím pomoci?\n\nPojďme s těmito zločinci zatočit společně!",
+		"hungarian": "Segítség!\n\nA kalózok üldözik a hajónkat, és már majdnem utólértek! Tudnál segíteni?\n\nBánjunk el velük együtt!",
 	},
 	"pirateChaseHelpAccept": {
 		"english": "Of course! Land next to our village and we'll defend you!",
@@ -982,6 +1041,7 @@
 		"chinese": "当然！在我们的领地旁边我们会保护好你的！",
 		"japanese": "もちろんです！共に戦います！",
 		"czech": "Samozřejmě! Připlujte blíž k naší vesnci a my vás budeme bránit!",
+		"hungarian": "Természetesen! Kössetek ki mellettünk, és megvédünk titeket!",
 	},
 	"pirateChaseHelpRefuse": {
 		"english": "Sorry... we can't really afford any conflict at the moment.",
@@ -997,6 +1057,7 @@
 		"chinese": "对不起... 我们无法承受任何冲突战斗。",
 		"japanese": "ごめんなさい･･･とても余裕がなく助ける事はできません。",
 		"czech": "Promiň ... momentálně si nemůžeme dovolit žádný konflikt.",
+		"hungarian": "Bocsánat... de jelenleg nem kockáztathatjuk meg a konfliktust.",
 	},
 	"pirateChaseHelpAcceptedAnswer": {
 		"english": "Thank you so much! We will head directly for your island. Get ready for a fight, friend.",
@@ -1012,6 +1073,7 @@
 		"chinese": "太感谢你了！我们将直接前往你的所在的岛屿。为战斗做好准备，朋友。",
 		"japanese": "本当にありがとう！私たちは島に直接向かいます。すぐに戦いができる準備をしてください。",
 		"czech": "Děkuji mnohokrát! Vydáme se přímo na váš ostrov. Připravte se na boj, příteli.",
+		"hungarian": "Nagyon szépen köszönjük! Egyenesen felétek vesszük az irányt. Harcra fel, barátom!",
 	},
 	"pirateChaseHelpRefusedAnswer": {
 		"english": "We're disappointed by your cowardice in our time of need.\n\nMaybe we shouldn't be surprised...",
@@ -1027,6 +1089,7 @@
 		"chinese": "在我们需要帮助的时候你缺胆怯了，我对你很失望。\n\n也许我们不该有什么指望...",
 		"japanese": "あなたからの助けがない事に非常に失望しています。\n\n私たちの希望はあなただったのに...",
 		"czech": "Jsme zklamáni vaší zbabělostí.\n\nMožná bychom neměli být překvapeni...",
+		"hungarian": "Csalódáskeltő a gyávaságod a szükség idején.\n\nDe nem meglepő...",
 		
 	},
 	"pirateChaseHelpSuccess": {
@@ -1043,6 +1106,7 @@
 		"chinese": "太好了！我们把他们赶走了！让他们得到教训！\n\n非常感谢你的帮助。",
 		"japanese": "やった！ならず者たちを追い払いました。彼らにはいい教訓になった事でしょう。\n\n助けてくれてありがとう。",
 		"czech": "Ano! Zahnali jsme je! Nechť je to pro ně bude ponaučením.\n\nDěkuji vám za vaši pomoc.",
+		"hungarian": "Igen! Sikerült elűznünk őket! Legyen ez egy jó lecke nekik.\n\nNagyon szépen köszönjük a segítségedet.",
 	},
 	"pirateChaseHelpFailure": {
 		"english": "Oh no. No no no.\n\nThey were too strong. We have some terrible losses to mourn.",
@@ -1058,6 +1122,7 @@
 		"chinese": "哦，不，不，不。\n\n它们太强了。我们恐怕要损失一些东西了。",
 		"japanese": "あぁ、最悪だ･･･まさか、こんな事になるなんて。\n\n相手が強すぎる。損失が多すぎて悲しみが追い付かない。",
 		"czech": "Ach ne. Nééé.\n\nByli příliš silní. Máme strašné ztráty.",
+		"hungarian": "Ó ne. Nem, nem, nem.\n\nTúl erősek. Gyászoljuk szörnyű veszteségeinket..",
 	},
 	// timed tributes
 	"timedTributeDemand": {
@@ -1074,6 +1139,7 @@
 		"chinese": "嘿!很高兴再次见到您。\n\n我们注意到我们还需要一些物资来保持我们正常生活。您不介意为我们提供这些物资，对吧？\n\n我们需要： %tribute%\n\n你有 %days% 天时间交付。",
 		"japanese": "こんにちは。お会いできてうれしいです。\n\n実は物が不足してとても困っています。これだけの物を融通してください。\n\n必要な物:%tribute%\n\n日数:%days%日以内",
 		"czech": "Ahoj! Rád vás znovu vidím.\n\nVšimli jsme si, že k udržení chodu našich operací potřebujeme ještě několik věcí. Nebude vám vadit, když nám je poskytnete, že?\n\nPotřebovali bychom: %tribute% \n\nMáte %days% dní na doručení.",
+		"hungarian": "Hé! Jó újra látni.\n\nMost vettük észre, hogy kicsivel több dologra lenne szükségünk, hogy tovább üzemeljünk. Nem gond, ugye?\n\nA következőkre lenne szükségünk: %tribute%\n\n%days% napod van a leszállításra.",
 	},
 	"timedTributeDemandAccept": {
 		"english": "Of course. We'd be happy to help you out with that.",
@@ -1089,6 +1155,7 @@
 		"chinese": "当然。我们很乐意为您提供帮助。",
 		"japanese": "もちろん。さあ、どうぞ。",
 		"czech": "Samozřejmě. Rádi vám s tím pomůžeme.",
+		"hungarian": "Természetesen. Örülünk, hogy segíthettünk.",
 	},
 	"timedTributeDemandRefuse": {
 		"english": "What? No, forget it.",
@@ -1104,6 +1171,7 @@
 		"chinese": "什么？不，算了。",
 		"japanese": "いいえ。お断りします。",
 		"czech": "Co? Ne, zapomeňte na to.",
+		"hungarian": "Mi? Nem! Felejtsd el!",
 	},
 	"timedTributeDemandAcceptAnswer": {
 		"english": "Thanks. We're going to be back shortly.",
@@ -1119,6 +1187,7 @@
 		"chinese": "谢谢。我们很快就会回来。",
 		"japanese": "ありがとう。すぐにそちらへ取りに向かいます。",
 		"czech": "Dík. Brzy se vrátíme.",
+		"hungarian": "Köszi. Nemsokára visszatérünk.",
 	},
 	"timedTributeDemandRefuseAreYouSure": {
 		"english": "What? Are you sure? This is not going to end well for you...",
@@ -1134,6 +1203,7 @@
 		"chinese": "什么？您确定吗？这对您来说不会很好...",
 		"japanese": "はい？本当ですか？その返事がどの様な形であなたに返ってくるのか...",
 		"czech": "Co? Jsi si jist%yA%? To pro tebe neskončí dobře ...",
+		"hungarian": "Micsoda? Ez biztos? Számodra nem lesz ennek jó vége...",
 	},
 	"timedTributeDemandRefuseAreYouSureGiveIn": {
 		"english": "Nevermind, we'll make it for you.",
@@ -1149,6 +1219,7 @@
 		"chinese": "没关系，我们会为您提供。",
 		"japanese": "冗談です。それを準備しましょう。",
 		"czech": "Nevadí, uděláme to za vás.",
+		"hungarian": "FNem fontos, megtesszük.",
 	},
 	"timedTributeDemandRefuseAreYouSureRefuse": {
 		"english": "We will not do anything for you.",
@@ -1164,6 +1235,7 @@
 		"chinese": "我们不会为您做任何事情。",
 		"japanese": "あなたに渡す物は何もありません。",
 		"czech": "Neuděláme pro vás nic.",
+		"hungarian": "Nem teszünk nektek semmit!",
 	},
 	"timedTributeCollecting": {
 		"english": "Hello again. Do you have the items we asked for?",
@@ -1179,6 +1251,7 @@
 		"chinese": "再次问好。您有我们要的东西吗？",
 		"japanese": "こんにちは！頼んでいた物をもらいにきました。",
 		"czech": "Ahoj. Máte věci, o které jsme vás žádali?",
+		"hungarian": "Szia, megint. Meg vannak, amiket kértünk?",
 	},
 	"timedTributeCollectingHereYouGo": {
 		"english": "Of course. Here you go",
@@ -1194,6 +1267,7 @@
 		"chinese": "当然。给你吧。",
 		"japanese": "はい。どうぞ、こちらです。",
 		"czech": "Samozřejmě. Tady je máte.",
+		"hungarian": "Persze! Tessék.",
 	},
 	"timedTributeCollectingAlmostMadeIt": {
 		"english": "Sorry, we couldn't make it. Please take what we have.",
@@ -1209,6 +1283,7 @@
 		"chinese": "对不起，我们做不到。请拿走我们的东西吧。",
 		"japanese": "ごめんなさい。すこし数が足りません。あるだけ持っていってください。",
 		"czech": "Omlouváme se, ale nedokázali jsme to. Vezměte prosím, co máme.",
+		"hungarian": "Ne haragudj, de nem sikerült összeszedni. Vigyétek, amink van.",
 	},
 	"timedTributeCollectingChangedMind": {
 		"english": "We changed our mind. You're getting nothing!",
@@ -1224,6 +1299,7 @@
 		"chinese": "我们改变了主意。您什么也不会得到！",
 		"japanese": "考えが変わりました。渡す物はありません。",
 		"czech": "Změnili jsme názor. Nedostanete nic!",
+		"hungarian": "Meggondoltuk magunkat. Nem kaptok semmit!",
 	},
 	"timedTributePaidFull": {
 		"english": "Thanks! It's always nice doing business with you.",
@@ -1239,6 +1315,7 @@
 		"chinese": "谢谢！与您做生意总是很高兴。",
 		"japanese": "ありがとう！あなたとの取引は本当に素晴らしい事です！",
 		"czech": "Dík! Je vždy příjemné s vámi obchodovat.",
+		"hungarian": "Köszönjük! Mindig jó veled üzletelni.",
 	},
 	"timedTributePaidEnough": {
 		"english": "Arggh...\n\nAlright. We're letting you get away with it this time.",
@@ -1254,6 +1331,7 @@
 		"chinese": "啊...\n\n好。我们这次帮您摆脱它。",
 		"japanese": "ああ...\n\nまあ良いでしょう。それだけあればどうにかしのげます。",
 		"czech": "Arggh...\n\nDobře. Tentokrát vám to projde.",
+		"hungarian": "Ahhh...\n\nRendben. Egyenlőre békén hagyunk.",
 	},
 	"timedTributePaidNotEnough": {
 		"english": "No, that's not going to be enough for us. You are going to have to pay in other ways now.",
@@ -1269,6 +1347,7 @@
 		"chinese": "不，对我们来说这些还不够。您现在必须以其他方式支付。",
 		"japanese": "うーん、これだけではとても足りません。他の物で代用させてください。",
 		"czech": "Ne, to nám nebude stačit. Nyní budete muset platit jinými způsoby.",
+		"hungarian": "Nem, ez nem elegendő. Ebben az esetben máshogy kell ezt kifizetned.",
 	},
 	"requestDefense": {
 		"english": "Please come and help defend our village!",
@@ -1282,6 +1361,7 @@
 		"japanese": "一緒にコロニーを守ってください！",
 		"czech": "Přijďte prosím pomoci bránit naši vesnici!",
 		"russian": "Пожалуйста, помогите нам защитить нашу деревню!",
+		"hungarian": "Kérlek segíts megvédeni a falunkat!",
 	},
 	"helpShipDefense": {
 		"english": "Hold the line, my friend! We currently have peaceful vistors on your island. We will send a ship with trained fighters as soon as possible!",
@@ -1295,6 +1375,7 @@
 		"japanese": "これは一大事です。私たちは島の平和を願っている者として、兵士をできるだけ早くそちらへ送ります。",
 		"czech": "Vydržte, příteli! V současné době máme na vašem ostrově jen klidné návštěvníky. Co nejdříve pošleme loď s trénovanými bojovníky!",
 		"russian": "Держись, мой друг! В настоящее время на вашем острове есть мирные посетители. Мы отправим корабль с обученными бойцами в кратчайшие сроки!",
+		"hungarian": "Tarts ki, barátom! Jelenleg épp vendégünk van. Küldünk egy hajónyi harcost, amilyen gyorsan csak tudunk!",
 	},
 	"helpDefense": {
 		"english": "Hold the line, my friend! We will come to your aid as soon as possible!",
@@ -1308,6 +1389,7 @@
 		"japanese": "友人よ。よくぞ声をかけてくれました。あなたを助けるために馳せ参じます。",
 		"czech": "Vydržte, příteli! Přijedeme vám co nejdříve na pomoc!",
 		"russian": "Держись, мой друг! Мы придем к вам на помощь в ближайшее время!",
+		"hungarian": "Tarts ki, barátom! Megyünk, ahogy tudunk!",
 	},
 	"cantHelpNowDefense": {
 		"english": "I'm sorry. We'd love to help you, but right now we can't afford to lose anyone.",
@@ -1321,6 +1403,7 @@
 		"japanese": "ごめんなさい。あなたの助けに応えたいのですが、私たちにはそれだけの力がありません。",
 		"czech": "Omlouvám se. Rádi bychom vám pomohli, ale právě teď si nemůžeme dovolit nikoho ztratit.",
 		"russian": "Мне жаль. Мы бы с удовольствием вам помогли, но мы не можем себе позволить потерять кого-нибудь сейчас.",
+		"hungarian": "Ne haragudj. Szeretnénk segíteni, de jelenleg nem áll módunkban.",
 	},
 	"helpedRecentlyDefense": {
 		"english": "I'm sorry, we just helped you out recently. We need some time to heal and take care of ourselves.",
@@ -1334,6 +1417,7 @@
 		"japanese": "前回のあなたへの助けの傷がまだ癒えていません。あなたの助けに応えるにはもう少し時間が必要です。",
 		"czech": "Omlouvám se, právě jsme vám nedávno pomohli. Potřebujeme nějaký čas, abychom se uzdravili a postarali se sami o sebe.",
 		"russian": "Извините, мы недавно помогли вам. Нам нужно время, чтобы вылечиться и позаботиться о себе!",
+		"hungarian": "Ne haragudj, de nemrég segítettünk nektek. Kell egy kis idő, hogy összeszedjük magunkat.",
 	},
 	"wontHelpDefense": {
 		"english": "What? We don't know or like you that well. You can take care of it yourself.",
@@ -1347,5 +1431,6 @@
 		"japanese": "え？私たちはあなたの事を良い友人だと思っていません。自分の問題は自分で解決してください。",
 		"czech": "Co? Tak dobře vás neznáme ani vás nemáme rádi. Postarejte se o to sami!.",
 		"russian": "Что? Мы не особо с вами знакомы или ладим. Вы можете сами о себе позаботиться.",
+		"hungarian": "Micsoda? Nem is ismerünk titeket annyira. Oldjátok meg magatok.",
 	},
 }

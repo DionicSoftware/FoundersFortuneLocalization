@@ -1,4 +1,4 @@
-﻿{
+{
 	// MAIN MENU
 	"newGame": {
 		"english": "New Game",
@@ -18,6 +18,7 @@
 		"czech": "Nová hra",
 		"romanian": "Joc nou",
 		"japanese": "ゲームを始める",
+		"hungarian": "Új játék",
 	},
 	"saveGame": {
 		"english": "Save Game",
@@ -37,6 +38,7 @@
 		"czech": "Uložit hru",
 		"romanian": "Salvează jocul",
 		"japanese": "ゲームを保存する",
+		"hungarian": "Mentés",
 	},
 	"loadGame": {
 		"english": "Load Game",
@@ -56,6 +58,7 @@
 		"czech": "Načíst hru",
 		"romanian": "Încarcă jocul",
 		"japanese": "ゲームを読み込みする",
+		"hungarian": "Betöltés",
 	},
 	"settings": {
 		"english": "Settings",
@@ -75,6 +78,7 @@
 		"czech": "Nastavení",
 		"romanian": "Setări",
 		"japanese": "設定",
+		"hungarian": "Beállítások",
 	},
 	"quit": {
 		"english": "Quit",
@@ -94,6 +98,7 @@
 		"czech": "Odejít",
 		"romanian": "Ieși",
 		"japanese": "ゲームを終了する",
+		"hungarian": "Kilépés",
 	},
 	"website": {
 		"english": "Website",
@@ -113,6 +118,7 @@
 		"czech": "Webstránka",
 		"romanian": "Sait web",
 		"japanese": "Website",
+		"hungarian": "Honlap",
 	},
 	"forum": {
 		"english": "Forum",
@@ -132,6 +138,7 @@
 		"czech": "Fórum",
 		"romanian": "Forum",
 		"japanese": "Forum",
+		"hungarian": "Fórum",
 	},
 	"supportDevelopment": {
 		"english": "Support Development",
@@ -151,6 +158,7 @@
 		"czech": "Podpořit vývoj",
 		"romanian": "Susține dezvoltarea",
 		"japanese": "Support Development",
+		"hungarian": "Fejlesztők támogatása",
 	},
 	"updateAvailable": {
 		"english": "Update Available!",
@@ -170,6 +178,7 @@
 		"czech": "Je dostupná aktualizace!",
 		"romanian": "Actualizare disponibilă!",
 		"japanese": "アップデートが利用可能です！",
+		"hungarian": "Elérhető egy új frissítés!",
 	},
 	"getNewestVersion": {
 		"english": "Get newest Version",
@@ -189,6 +198,7 @@
 		"czech": "Získat nejnovější verzi",
 		"romanian": "Obține cea mai nouă versiune",
 		"japanese": "最新パージョンをダウンロードする",
+		"hungarian": "Új verzió beszerzése",
 	},
 	"yourVersion": {
 		"english": "Your Version",
@@ -208,6 +218,7 @@
 		"czech": "Vaše verze",
 		"romanian": "Versiunea dvs.",
 		"japanese": "あなたのインストールされたバージョン",
+		"hungarian": "A te verziód",
 	},
 	"currentVersion": {
 		"english": "Current Version",
@@ -227,6 +238,7 @@
 		"czech": "Aktuální verze",
 		"romanian": "Versiunea curentă",
 		"japanese": "現在のバージョン",
+		"hungarian": "Jelenlegi verzió",
 	},
 	"underConstruction": {
 		"english": "Under Construction!",
@@ -246,6 +258,7 @@
 		"czech": "Ve výstavbě!",
 		"romanian": "În construcție!",
 		"japanese": "開発中！",
+		"hungarian": "Fejlesztés alatt",
 	},
 	"mainMenu": {
 		"english": "Main Menu",
@@ -265,6 +278,7 @@
 		"czech": "Hlavní menu",
 		"romanian": "Meniul principal",
 		"japanese": "メインメニュー",
+		"hungarian": "Főmenü",
 	},
 	"giveFeedback": {
 		"english": "Give Feedback",
@@ -284,6 +298,7 @@
 		"czech": "Zpětná vazba",
 		"romanian": "Trimite feedback",
 		"japanese": "フィードバックを送る",
+		"hungarian": "Visszajelzés küldése",
 	},
 
 
@@ -306,6 +321,7 @@
 		"czech": "Načíst",
 		"romanian": "Încarcă",
 		"japanese": "読み込み",
+		"hungarian": "Betöltés",
 	},
 	"overwriteSave": { // needs to be short
 		"english": "Overwrite",
@@ -325,6 +341,7 @@
 		"czech": "Přepsat",
 		"romanian": "Suprascrie",
 		"japanese": "上書き保存",
+		"hungarian": "Felülír",
 	},
 	"reallyDeleteSave": {
 		"english": "Are you sure you want to delete the save \"%save%\"? It will be gone forever.",
@@ -343,6 +360,7 @@
 		"czech": "Opravdu chcete přepsat hru \"%save%\"? Bude navždy ztracena.",
 		"romanian": "Sigur doriți să ștergeți salvarea \"%save%\"? O veți pierde pentru totdeauna.",
 		"japanese": "\"%save%\"を削除します。本当に削除してもよろしいですか？",
+		"hungarian": "Biztos vagy benne, hogy törlöd ezt a mentést \"%save%\"? Örökre törlődni fog.",
 	},
 	// TODO-korean
 	// TODO-polish
@@ -363,6 +381,7 @@
 		"czech": "Tato uložená pozice není kompatibilní se současnou verzí hry.\nStarší uložené pozice můžete hrát díky Steam funkci 'Beta'",
 		"romanian": "Această salvare nu este compatibilă cu versiunea dvs. de joc.\nPuteți juca versiuni vechi folosind funcția „Betas” din Steam.",
 		"japanese": "このセーブデーターは現在のゲームバージョンと互換性がありません。\nSteamのベーター機能を使用して古いバージョンのゲームをプレイする事ができます。",
+		"hungarian": "A mentett játék nem compatibilis a játék verziójával. \nA régebbi verzió elérhető a 'Béták' fül alatt a Steamben.",
 	},
 	"reallyQuitGame": {
 		"english": "The game hasn't been saved for %minutes% minutes. Are you sure you want to go back to the main menu without saving?",
@@ -381,6 +400,7 @@
 		"czech": "Hra nebyla uložena posledních %minutes% minut. Opravdu se chcete vrátit do hlavní nabídky bez uložení?",
 		"romanian": "Jocul nu a fost salvat timp de %minutes% minute. Sigur doriți să vă întoarceți la meniul principal fără să salvați?",
 		"japanese": "このゲームは%minutes%分間保存されていません。保存せずにメインメニュー画面に戻ってもよろしいですか？",
+		"hungarian": "A játék nem volt elmentve az utóbbi %minutes% percben. Biztos, hogy ki akarsz lépni a főmenübe mentés nélkül?",
 	},
 	"newSave": {
 		"english": "New Save",
@@ -400,6 +420,7 @@
 		"czech": "Nová pozice",
 		"romanian": "Salvare nouă",
 		"japanese": "新規保存",
+		"hungarian": "Új mentés",
 	},
 	"savegameName": { // background when player enters an empty save game name
 		"english": "Savegame Name",
@@ -419,6 +440,7 @@
 		"czech": "Název uložené hry",
 		"romanian": "Numele jocului salvat",
 		"japanese": "ファイル名が未入力",
+		"hungarian": "Mentett játék neve",
 	},
 	"mostAwesomeColony": { // default name for new colony
 		"english": "Most Awesome Colony",
@@ -438,6 +460,7 @@
 		"czech": "Nejúžasnější kolonie",
 		"romanian": "Cea mai impresionantă colonie",
 		"japanese": "世界で最も素晴らしいコロニー",
+		"hungarian": "A Legkiválóbb Kolónia",
 	},
 	"invalidFileNameCharacters": {
 		"english": "Forbidden characters in file name",
@@ -457,6 +480,7 @@
 		"czech": "Zakázané znaky v názvu souboru",
 		"romanian": "Caractere interzise în numele fișierului",
 		"japanese": "ファイル名に使用できない禁止文字が含まれています",
+		"hungarian": "Érvénytelen karakter a fájlnévben",
 	},
 	"fileNameTooLong": {
 		"english": "File name too long",
@@ -476,6 +500,7 @@
 		"czech": "Název souboru je příliš dlouhý",
 		"romanian": "Numele fișierului este prea lung",
 		"japanese": "ファイル名が長すぎます",
+		"hungarian": "Túl hosszú a fájlnév",
 	},
 	"fileNameTooShort": {
 		"english": "File name too short",
@@ -495,6 +520,7 @@
 		"czech": "Název souboru je příliš krátký",
 		"romanian": "Numele fișierului este prea scurt",
 		"japanese": "ファイル名が短すぎます",
+		"hungarian": "Túl rövid a fájlnév",
 	},
 	"fileNameAlreadyUsed": {
 		"english": "File name already used",
@@ -514,6 +540,7 @@
 		"czech": "Název souboru je již použit",
 		"romanian": "Numele fișierului este folosit deja",
 		"japanese": "すでに使用されているファイル名です",
+		"hungarian": "A fájlnév már használatban van",
 	},
 	"modsMayBeIncompatible": {
 		"english": "Mods may be incompatible!\nMods in save:",
@@ -533,6 +560,7 @@
 		"czech": "Mody mohou být nekompatibilní!\nMody v uložené hře:",
 		"romanian": "Modurile pot fi incompatibile!\nModuri în salvare:",
 		"japanese": "Modは互換性がない可能性があります！\n保存済みのMod:",
+		"hungarian": "Az alábbi modok lehet nem működnek!\nMods a mentett játékban:",
 	},
 	"noMods": { // comes after "Mods in save:"
 		"english": "None",
@@ -552,6 +580,7 @@
 		"czech": "Žádné",
 		"romanian": "Niciunul",
 		"japanese": "なし",
+		"hungarian": "Nincs",
 	},
 
 
@@ -576,6 +605,7 @@
 		"czech": "Mody a dodatečný obsah",
 		"romanian": "Moduri și conținut suplimentar",
 		"japanese": "Modと追加コンテンツ",
+		"hungarian": "Modok és Extra tartalmak",
 	},
 	"author": {
 		"english": "Author",
@@ -595,6 +625,7 @@
 		"czech": "Autor",
 		"romanian": "Autor",
 		"japanese": "著者",
+		"hungarian": "Készítő",
 	},
 	"active": {
 		"english": "Active",
@@ -614,6 +645,7 @@
 		"czech": "Aktivní",
 		"romanian": "Activ",
 		"japanese": "適用",
+		"hungarian": "Aktív",
 	},
 	"noModsInstalled": {
 		"english": "You don't have any mods or extra content installed.",
@@ -633,6 +665,7 @@
 		"czech": "Nemáte nainstalovány žádné mody ani dodatečný obsah.",
 		"romanian": "Nu aveți niciun mod sau conținut suplimentar instalat.",
 		"japanese": "Modや追加のコンテンツはインストールされていません",
+		"hungarian": "Nincs feltelepítve Mod vagy Extra tartalom.",
 	},
 	"openModFolder": {
 		"english": "Open Mod Folder",
@@ -652,6 +685,7 @@
 		"czech": "Otevřít adresář s mody",
 		"romanian": "Deschide dosarul modului",
 		"japanese": "Modフォルダーを開く",
+		"hungarian": "Mod mappa megnyitása",
 
 	},
 	"openWorkshop": { //steam workshop
@@ -671,6 +705,7 @@
 		"czech": "Otevřít Workshop",
 		"romanian": "Deschide Atelierul",
 		"japanese": "ワークショップを開く",
+		"hungarian": "Műhely megnyitása",
 	},
 	"modCompatible_Title": {
 		"english": "Content compatible",
@@ -690,6 +725,7 @@
 		"czech": "Kompatibilní s obsahem",
 		"romanian": "Conținut compatibil",
 		"japanese": "互換性のあるコンテンツ",
+		"hungarian": "Tartalom kompatibilitása",
 	},
 	"modCompatible_Text": {
 		"english": "This content has been marked by the developers as compatible.",
@@ -709,6 +745,7 @@
 		"czech": "Tento obsah byl vývojáři označen jako kompatibilní.",
 		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind compatibil.",
 		"japanese": "このコンテンツは開発者によって互換性があると確認されています",
+		"hungarian": "Ez a tartalom a készítők által kompatibilisnek lett jelölve",
 	},
 	"modMostlyCompatible_Title": {
 		"english": "Content mostly compatible",
@@ -727,6 +764,7 @@
 		"czech": "Obsah je většinou kompatibilní",
 		"romanian": "Conținut în mare parte compatibil",
 		"japanese": "ほとんど互換性のあるコンテンツ",
+		"hungarian": "A tartalom valószínűleg kompatibilis",
 
 	},
 	"modMostlyCompatible_Text": {
@@ -746,6 +784,7 @@
 		"czech": "Tento obsah byl vývojáři označen jako většinově kompatibilní. Může obsahovat chyby, ale přesto jej můžete použít.",
 		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind în mare parte compatibil. Poate conține bug-uri, dar îl poți folosi oricum.",
 		"japanese": "このコンテンツは開発者によってほとんど互換性があると確認されています。\nバグが含まれている可能性がありますが使用する事はできます",
+		"hungarian": "Ez a tartalom a készítők által valószínűsíthetőleg kompatibilisnek lett jelölve. Tartalmazhat hibákat, de egyébként használható.",
 	},
 	"modIncompatible_Title": {
 		"english": "Content incompatible",
@@ -765,6 +804,7 @@
 		"czech": "Nekompatibilní obsah",
 		"romanian": "Conținut incompatibil",
 		"japanese": "このコンテンツには互換性がありません",
+		"hungarian": "A tartalom nem kompatibilis",
 	},
 	"modIncompatible_Text": {
 		"english": "This content has been marked by the developers as incompatible.\nYou need to update it in order to activate it.",
@@ -784,6 +824,7 @@
 		"czech": "Tento obsah byl vývojáři označen jako nekompatibilní.\nPro použití je nutné provést aktualizaci.",
 		"romanian": "Acest conținut a fost marcat de dezvoltatori ca fiind incompatibil.\nTrebuie să-l actualizați pentru a-l activa.",
 		"japanese": "このコンテンツは開発者によって互換性がないと確認されています。\nアクティブ化するにはコンテンツを更新する必要があります",
+		"hungarian": "Ez a tartalom a készítők által NEM kompatibilisnek lett jelölve. \nFrissítened kell, hogy aktiválhasd.",
 	},
 	"applyAndRestart": {
 		"english": "Apply and Restart",
@@ -803,6 +844,7 @@
 		"czech": "Použít a restartovat",
 		"romanian": "Aplică și repornește",
 		"japanese": "適用して再起動する",
+		"hungarian": "Alkalmaz és Újraindít",
 	},
 
 
@@ -825,6 +867,7 @@
 		"czech": "Jakýkoliv podnět nám pomůže, abychom pro vás mohli hru vylepšit!",
 		"romanian": "Fiecare feedback ne ajută să îmbunătățim jocul pentru tine!",
 		"japanese": "全てのフィードバックは私たちがゲームを改善するのにとても役立ちます！",
+		"hungarian": "Minden visszajelzés segíthet, hogy tovább fejleszthessük a játékot számodra!",
 	},
 	"feedbackType": {
 		"english": "Category",
@@ -844,6 +887,7 @@
 		"czech": "Kategorie",
 		"romanian": "Categorie",
 		"japanese": "カテゴリー",
+		"hungarian": "Kategória",
 	},
 	"general": {
 		"english": "General",
@@ -863,6 +907,7 @@
 		"czech": "Obecné",
 		"romanian": "General",
 		"japanese": "一般",
+		"hungarian": "Általános",
 	},
 	"bugReport": {
 		"english": "Bug Report",
@@ -882,6 +927,7 @@
 		"czech": "Hlášení chyb",
 		"romanian": "Raportează o eroare",
 		"japanese": "バグを報告する",
+		"hungarian": "Hibabejelentő",
 	},
 	"framerate": {
 		"english": "Framerate",
@@ -901,6 +947,7 @@
 		"czech": "FPS",
 		"romanian": "FPS",
 		"japanese": "フレームレート[FPS]",
+		"hungarian": "FPS",
 	},
 	"feedback": {
 		"english": "Feedback",
@@ -920,6 +967,7 @@
 		"czech": "Zpětná vazba",
 		"romanian": "Feedback",
 		"japanese": "フィードバック",
+		"hungarian": "Visszajelzés",
 	},
 	"enterFeedback": {
 		"english": "Enter Feedback...",
@@ -939,6 +987,7 @@
 		"czech": "Vložte zpětnou vazbu...",
 		"romanian": "Introduceți feedbackul...",
 		"japanese": "フィードバックを入力してください",
+		"hungarian": "Írd ide az észrevételed...",
 	},
 	"emailAddressOptional": {
 		"english": "Email Address (optional!)",
@@ -958,6 +1007,7 @@
 		"czech": "E-mailová adresa (volitelně!)",
 		"romanian": "Adresa de e-mail (opțional!)",
 		"japanese": "電子メールアドレス (任意)",
+		"hungarian": "E-mail cím (opcionális!)",
 	},
 	"clickToSubmit": {
 		"english": "Click to submit",
@@ -977,6 +1027,7 @@
 		"czech": "Klikněte pro odeslání",
 		"romanian": "Clicați pentru a trimite",
 		"japanese": "クリックして送信",
+		"hungarian": "Kattints ide a küldéshez",
 	},
 	"thankYou": {
 		"english": "Thank you!",
@@ -996,6 +1047,7 @@
 		"czech": "Děkujeme!",
 		"romanian": "Mulțumesc!",
 		"japanese": "ありがとう！",
+		"hungarian": "Köszönjük!",
 	},
 	"feedbackSubmittedSuccessfully": {
 		"english": "Feedback submitted successfully",
@@ -1015,6 +1067,7 @@
 		"czech": "Zpětná vazba úspěšně odeslána",
 		"romanian": "Feedbackul a fost trimis cu succes",
 		"japanese": "フィードバックは正常に送信されました！",
+		"hungarian": "A visszajelzés sikeresen elküldve",
 	},
 	"Oops": {
 		"english": "Oops...",
@@ -1034,6 +1087,7 @@
 		"czech": "Ups...",
 		"romanian": "Hopa...",
 		"japanese": "おっと･･･",
+		"hungarian": "Hopika...",
 	},
 	"feedbackSystemBug": {
 		"english": "There seems to be a bug in the feedback system.\nPlease try again later or let us know via contact@foundersfortune.com",
@@ -1052,6 +1106,7 @@
 		"czech": "Vypadá to, že je nějaký problém v systému hlášení chyb.\nZkuste to prosím znovu později a nebo nás kontaktujte prostřednictvím emailu contact@foundersfortune.com",
 		"romanian": "Se pare că există o eroare în sistemul de feedback.\nÎncercați din nou mai târziu sau comunicați-ne la contact@foundersfortune.com",
 		"japanese": "フィードバックシステムにバグがあるようです。\n時間を置いてもう一度試してみるか、contact@foundersfortune.comにお知らせください",
+		"hungarian": "Úgy látszik hiba van a visszajelző rendszerben. \nKérlek próbáld meg később, vagy küld el visszajelzésed a contact@foundersfortune.com e-mail címre",
 	},
 	"feedbackConnectionIssue": {
 		"english": "There seems to be a connection issue\nCould you please check your internet connection?",
@@ -1071,6 +1126,7 @@
 		"czech": "Zdá se, že nastal problém s připojením.\nZkontrolujte prosím vaše internetové připojení.",
 		"romanian": "Se pare că există o problemă de conexiune.\nAți putea să vă verificați conexiunea la internet?",
 		"japanese": "接続に問題があるようです。\nインターネット接続を確認してみてください",
+		"hungarian": "Úgy látszik kapcsolati hiba lépett fel\nEllenőriznéd az internet kapcsolatodat kérlek?",
 	},
 	"youreWelcome": {
 		"english": "You're Welcome",
@@ -1090,6 +1146,7 @@
 		"czech": "Není zač",
 		"romanian": "Cu plăcere",
 		"japanese": "どういたしまして",
+		"hungarian": "Szívesen",
 	},
 	"retry": {
 		"english": "retry",
@@ -1109,6 +1166,7 @@
 		"czech": "zkusit znovu",
 		"romanian": "reîncearcă",
 		"japanese": "リトライする",
+		"hungarian": "Újra",
 	},
 
 
@@ -1131,6 +1189,7 @@
 		"czech": "Video",
 		"romanian": "Video",
 		"japanese": "ビデオ",
+		"hungarian": "Videó",
 	},
 	"graphicsQuality": {
 		"english": "Graphics Quality",
@@ -1150,6 +1209,7 @@
 		"czech": "Kvalita grafiky",
 		"romanian": "Calitate grafică",
 		"japanese": "グラフィッククオリティー",
+		"hungarian": "Grafika Minősége",
 	},
 	"graphicsQualityLow": {
 		"english": "Low",
@@ -1169,6 +1229,7 @@
 		"czech": "Nízká",
 		"romanian": "Redusă",
 		"japanese": "低",
+		"hungarian": "Alacsony",
 	},
 	"graphicsQualityMedium": {
 		"english": "Medium",
@@ -1188,6 +1249,7 @@
 		"czech": "Střední",
 		"romanian": "Medie",
 		"japanese": "中",
+		"hungarian": "Közepes",
 	},
 	"graphicsQualityHigh": {
 		"english": "High",
@@ -1207,6 +1269,7 @@
 		"czech": "Vysoká",
 		"romanian": "Ridicată",
 		"japanese": "高",
+		"hungarian": "Magas",
 	},
 	"resolution": {
 		"english": "Resolution",
@@ -1226,6 +1289,7 @@
 		"czech": "Rozlišení",
 		"romanian": "Rezoluție",
 		"japanese": "解像度",
+		"hungarian": "Felbontás",
 	},
 	"displayMode": {
 		"english": "Display Mode",
@@ -1245,6 +1309,7 @@
 		"czech": "Mód zobrazení",
 		"romanian": "Modul de afișare",
 		"japanese": "ディスプレイモード",
+		"hungarian": "Futtatási mód",
 	},
 	"windowed": {
 		"english": "Windowed",
@@ -1264,6 +1329,7 @@
 		"czech": "V okně",
 		"romanian": "În fereastră",
 		"japanese": "ウィンドウ",
+		"hungarian": "Ablakos",
 	},
 	"fullscreen": {
 		"english": "Fullscreen",
@@ -1283,6 +1349,7 @@
 		"czech": "Fullscreen",
 		"romanian": "Ecran complet",
 		"japanese": "フルスクリーン",
+		"hungarian": "Teljes képernyő",
 	},
 	"vsync": {
 		"english": "Vsync",
@@ -1302,6 +1369,7 @@
 		"czech": "Vsync",
 		"romanian": "Vsync",
 		"japanese": "Vsync",
+		"hungarian": "Vsync",
 	},
 	"slowVsync": {
 		"english": "Slow",
@@ -1320,6 +1388,7 @@
 		"czech": "Pomalý",
 		"romanian": "Lent",
 		"japanese": "Slow",
+		"hungarian": "Lassú",
 	},
 	"detailedGrass": {
 		"english": "Detailed Grass",
@@ -1335,6 +1404,7 @@
 		"czech": "Detaily trávy",
 		"russian": "Детализация травы",
 		"ukrainian": "Деталізована трава",
+		"hungarian": "Részletes fű",
 	},
 	"on": {
 		"english": "On",
@@ -1354,6 +1424,7 @@
 		"czech": "Zapnuto",
 		"romanian": "Activat",
 		"japanese": "On",
+		"hungarian": "Be",
 	},
 	"off": {
 		"english": "Off",
@@ -1373,6 +1444,7 @@
 		"czech": "Vypnuto",
 		"romanian": "Dezactivat",
 		"japanese": "Off",
+		"hungarian": "Ki",
 	},
 	"brightness": {
 		"english": "Brightness",
@@ -1392,6 +1464,7 @@
 		"czech": "Jas",
 		"romanian": "Luminozitate",
 		"japanese": "輝度",
+		"hungarian": "Fényerő",
 	},
 	"audio": {
 		"english": "Audio",
@@ -1411,6 +1484,7 @@
 		"czech": "Zvuk",
 		"romanian": "Audio",
 		"japanese": "オーディオ",
+		"hungarian": "Hang",
 
 	},
 	"totalVolume": {
@@ -1431,6 +1505,7 @@
 		"czech": "Celková hlasitost",
 		"romanian": "Volum global",
 		"japanese": "トータルボリューム",
+		"hungarian": "Teljes hangerő",
 	},
 	"soundEffects": {
 		"english": "Sound Effects",
@@ -1450,6 +1525,7 @@
 		"czech": "Zvukové efekty",
 		"romanian": "Efecte sonore",
 		"japanese": "サウンドエフェクト",
+		"hungarian": "Hang effektek",
 	},
 	"music": {
 		"english": "Music",
@@ -1469,6 +1545,7 @@
 		"czech": "Hudba",
 		"romanian": "Muzică",
 		"japanese": "BGM",
+		"hungarian": "Zene",
 	},
 	"other": {
 		"english": "Other",
@@ -1488,6 +1565,7 @@
 		"czech": "Ostatní",
 		"romanian": "Alte",
 		"japanese": "その他",
+		"hungarian": "Egyéb",
 	},
 	"language": {
 		"english": "Language",
@@ -1507,6 +1585,7 @@
 		"czech": "Jazyk",
 		"romanian": "Limbă",
 		"japanese": "言語",
+		"hungarian": "Nyelv",
 	},
 
 
@@ -1529,6 +1608,7 @@
 		"czech": "English",
 		"romanian": "English",
 		"japanese": "English",
+		"hungarian": "English",
 	},
 	"German": {
 		"english": "Deutsch",
@@ -1548,6 +1628,7 @@
 		"czech": "Deutsch",
 		"romanian": "Deutsch",
 		"japanese": "Deutsch",
+		"hungarian": "Deutsch",
 	},
 	"French": {
 		"english": "Français",
@@ -1567,6 +1648,7 @@
 		"czech": "Français",
 		"romanian": "Français",
 		"japanese": "Français",
+		"hungarian": "Français",
 	},
 	"Spanish": {
 		"english": "Español",
@@ -1586,6 +1668,7 @@
 		"czech": "Español",
 		"romanian": "Español",
 		"japanese": "Español",
+		"hungarian": "Español",
 	},
 	"Portuguese": {
 		"english": "Portuges",
@@ -1605,6 +1688,7 @@
 		"czech": "Portuges",
 		"romanian": "Portuges",
 		"japanese": "Portuges",
+		"hungarian": "Portuges",
 	},
 	"Turkish": {
 		"english": "Türkçe",
@@ -1624,6 +1708,7 @@
 		"czech": "Türkçe",
 		"romanian": "Türkçe",
 		"japanese": "Türkçe",
+		"hungarian": "Türkçe",
 	},
 	"Dutch": {
 		"english": "Nederlands",
@@ -1643,6 +1728,7 @@
 		"czech": "Nederlands",
 		"romanian": "Nederlands",
 		"japanese": "Nederlands",
+		"hungarian": "Nederlands",
 	},
 	"Ukrainian": {
 		"english": "Українська",
@@ -1662,6 +1748,7 @@
 		"czech": "Українська",
 		"romanian": "Українська",
 		"japanese": "Українська",
+		"hungarian": "Українська",
 	},
 	"Russian": {
 		"english": "Русский",
@@ -1681,6 +1768,7 @@
 		"czech": "Русский",
 		"romanian": "Русский",
 		"japanese": "Русский",
+		"hungarian": "Русский",
 	},
 	"Chinese": {
 		"english": "简体中文",
@@ -1700,6 +1788,7 @@
 		"czech": "简体中文",
 		"romanian": "简体中文",
 		"japanese": "简体中文",
+		"hungarian": "简体中文",
 	},
 	"Korean": {
 		"english": "한국어",
@@ -1719,6 +1808,7 @@
 		"czech": "한국어",
 		"romanian": "한국어",
 		"japanese": "한국어",
+		"hungarian": "한국어",
 	},
 	"Arabic": {
 		"english": "ﺔﻴﺑﺮﻌﻟﺍ",
@@ -1738,6 +1828,7 @@
 		"czech": "ﺔﻴﺑﺮﻌﻟﺍ",
 		"romanian": "ﺔﻴﺑﺮﻌﻟﺍ",
 		"japanese": "ﺔﻴﺑﺮﻌﻟﺍ",
+		"hungarian": "ﺔﻴﺑﺮﻌﻟﺍ",
 	},
 	"Italian": {
 		"english": "Italiano",
@@ -1757,6 +1848,7 @@
 		"czech": "Italiano",
 		"romanian": "Italiano",
 		"japanese": "Italiano",
+		"hungarian": "Italiano",
 	},
 	"Czech": {
 		"english": "Čeština",
@@ -1776,6 +1868,7 @@
 		"czech": "Čeština",
 		"romanian": "Čeština",
 		"japanese": "Čeština",
+		"hungarian": "Čeština",
 	},
 	"Romanian": {
 		"english": "Română",
@@ -1795,6 +1888,7 @@
 		"czech": "Română",
 		"romanian": "Română",
 		"japanese": "Română",
+		"hungarian": "Română",
 	},
 	"Japanese": {
 		"english": "日本語",
@@ -1814,6 +1908,27 @@
 		"czech": "日本語",
 		"romanian": "日本語",
 		"japanese": "日本語",
+		"hungarian": "日本語",
+	},
+	"Hungarian": {
+		"english": "Magyar",
+		"german": "Magyar",
+		"french": "Magyar",
+		"spanish": "Magyar",
+		"turkish": "Magyar",
+		"portuguese": "Magyar",
+		"dutch": "Magyar",
+		"ukrainian": "Magyar",
+		"russian": "Magyar",
+		"chinese": "Magyar",
+		"korean": "Magyar",
+		"arabic": "Magyar",
+		"italian": "Magyar",
+		"polish": "Magyar",
+		"czech": "Magyar",
+		"romanian": "Magyar",
+		"japanese": "Magyar",
+		"hungarian": "Magyar",
 	},
 	"mouseEdgeScrolling": {
 		"english": "Mouse Edge Scrolling",
@@ -1833,6 +1948,7 @@
 		"czech": "Posouvání myší na okrajích",
 		"romanian": "Derularea cu mausul la marginea ecranului",
 		"japanese": "マウスによるカメラコントロール",
+		"hungarian": "Képernyő görgetése egérrel",
 
 	},
 	"developerMode": {
@@ -1852,7 +1968,7 @@
 		"czech": "Vývojářský režim",
 		"romanian": "Modul pentru dezvoltatori",
 		"japanese": "開発者モード",
-
+		"hungarian": "Fejlesztői Mód",
 	},
 	"runningInBackground": {
 		"english": "Game active in Background",
@@ -1872,6 +1988,7 @@
 		"czech": "Hra aktivní na pozadí",
 		"romanian": "Jocul activ în fundal",
 		"japanese": "ゲームをバックグラウンドで実行",
+		"hungarian": "A játék háttérben futtatása",
 	},
 	"cameraSpeed": {
 		"english": "Camera Speed",
@@ -1890,6 +2007,7 @@
 		"czech": "Rychlost kamery",
 		"romanian": "Viteza camerei",
 		"japanese": "カメラスピード",
+		"hungarian": "Kamera sebessége",
 	},
 
 
@@ -1912,6 +2030,7 @@
 		"czech": "Načítání světa...",
 		"romanian": "Încărcarea lumii...",
 		"japanese": "世界を読み込んでいます...",
+		"hungarian": "Világ betöltése...",
 	},
 	"reset": {
 		"english": "Reset",
@@ -1931,6 +2050,7 @@
 		"czech": "Reset",
 		"romanian": "Resetează",
 		"japanese": "リセット",
+		"hungarian": "Visszaállít",
 	},
 	"ok": {
 		"english": "Ok",
@@ -1948,6 +2068,7 @@
 		"czech": "OK",
 		"romanian": "Ok",
 		"japanese": "OK",
+		"hungarian": "Oké",
 	},
 	"confirm": {
 		"english": "Confirm",
@@ -1967,6 +2088,7 @@
 		"czech": "Potvrdit",
 		"romanian": "Confirmă",
 		"japanese": "確認",
+		"hungarian": "Elfogad",
 	},
 	"cancel": {
 		"english": "Cancel",
@@ -1986,6 +2108,7 @@
 		"czech": "Zrušit",
 		"romanian": "Renunță",
 		"japanese": "キャンセル",
+		"hungarian": "Mégse",
 	},
 	"apply": {
 		"english": "Apply",
@@ -2005,6 +2128,7 @@
 		"czech": "Použít",
 		"romanian": "Aplică",
 		"japanese": "適用",
+		"hungarian": "Almkalmaz",
 	},
 
 
@@ -2027,6 +2151,7 @@
 		"czech": "Ovládání kamery",
 		"romanian": "Controlul camerei",
 		"japanese": "カメラコントロール",
+		"hungarian": "Kamera kezelés",
 	},
 	"keyBindings": {
 		"english": "Key Bindings",
@@ -2046,6 +2171,7 @@
 		"czech": "Změna přiřazení kláves",
 		"romanian": "Configurarea tastaturii",
 		"japanese": "キー割り当て",
+		"hungarian": "Billentyű kiosztás",
 	},
 	"cameraGoForward": {
 		"english": "Forward",
@@ -2065,6 +2191,7 @@
 		"czech": "Dopředu",
 		"romanian": "Înainte",
 		"japanese": "前",
+		"hungarian": "Előre",
 	},
 	"cameraGoBack": {
 		"english": "Back",
@@ -2084,6 +2211,7 @@
 		"czech": "Dozadu",
 		"romanian": "Înapoi",
 		"japanese": "後ろ",
+		"hungarian": "Hátra",
 	},
 	"cameraGoLeft": {
 		"english": "Left",
@@ -2103,6 +2231,7 @@
 		"czech": "Doleva",
 		"romanian": "Stânga",
 		"japanese": "左",
+		"hungarian": "Balra",
 	},
 	"cameraGoRight": {
 		"english": "Right",
@@ -2122,6 +2251,7 @@
 		"czech": "Doprava",
 		"romanian": "Dreapta",
 		"japanese": "右",
+		"hungarian": "Jobbra",
 	},
 	"rotate": {
 		"english": "Rotate",
@@ -2141,6 +2271,7 @@
 		"czech": "Otočit",
 		"romanian": "Rotește",
 		"japanese": "回転",
+		"hungarian": "Forgatás",
 	},
 	"zoomIn": {
 		"english": "Zoom In",
@@ -2159,6 +2290,7 @@
 		"czech": "Přiblížit",
 		"romanian": "Mărește",
 		"japanese": "ズームイン",
+		"hungarian": "Nagyítás",
 	},
 	"zoomOut": {
 		"english": "Zoom Out",
@@ -2177,6 +2309,7 @@
 		"czech": "Oddálit",
 		"romanian": "Micșorează",
 		"japanese": "ズームアウト",
+		"hungarian": "Távolítás",
 	},
 	"floorUp": {
 		"english": "Floor up",
@@ -2194,6 +2327,7 @@
 		"czech": "Podlaží nahoru",
 		"romanian": "Etajul superior",
 		"japanese": "フロアアップ",
+		"hungarian": "Padló fel",
 	},
 	"floorDown": {
 		"english": "Floor down",
@@ -2211,6 +2345,7 @@
 		"czech": "Podlaží dolů",
 		"romanian": "Etajul inferior",
 		"japanese": "フロアダウン",
+		"hungarian": "Padló le",
 	},
 	"timeControl": {
 		"english": "Time Control",
@@ -2230,6 +2365,7 @@
 		"czech": "Ovládání času",
 		"romanian": "Controlul timpului",
 		"japanese": "時間管理",
+		"hungarian": "Idő kezelés",
 	},
 	"pause": {
 		"english": "Pause",
@@ -2249,6 +2385,7 @@
 		"czech": "Pauza",
 		"romanian": "Pauză",
 		"japanese": "ポーズ",
+		"hungarian": "Megállítás",
 
 	},
 	"normalSpeed": {
@@ -2269,6 +2406,7 @@
 		"czech": "Normální rychlost",
 		"romanian": "Viteză normală",
 		"japanese": "通常速度",
+		"hungarian": "Normál sebesség",
 	},
 	"2xSpeed": {
 		"english": "2x Speed",
@@ -2288,6 +2426,7 @@
 		"czech": "Rychlost x2",
 		"romanian": "Viteză 2x",
 		"japanese": "2倍速",
+		"hungarian": "2x-es sebesség",
 	},
 	"4xSpeed": {
 		"english": "4x Speed",
@@ -2307,6 +2446,7 @@
 		"czech": "Rychlost x4",
 		"romanian": "Viteză 4x",
 		"japanese": "4倍速",
+		"hungarian": "4x-es sebesség",
 	},
 	"colonistInteraction": {
 		"english": "Colonist Interaction",
@@ -2326,6 +2466,7 @@
 		"czech": "Interakce s kolonistou",
 		"romanian": "Controlul coloniștilor",
 		"japanese": "入植者の交流",
+		"hungarian": "Telepes interakció",
 	},
 	"multipleOrders": {
 		"english": "Multiple Orders",
@@ -2345,6 +2486,7 @@
 		"czech": "Vícečetný úkol",
 		"romanian": "Comenzi multiple",
 		"japanese": "マルチオーダー",
+		"hungarian": "Egyszerre több utasítás",
 	},
 	"furnitureHandling": {
 		"english": "Furniture Handling",
@@ -2364,6 +2506,7 @@
 		"czech": "Přesun nábytku",
 		"romanian": "Manipularea mobilierului",
 		"japanese": "家具の移動",
+		"hungarian": "Bútor mozgatás",
 
 	},
 	"rotateLeft": {
@@ -2384,6 +2527,7 @@
 		"czech": "Otočit doleva",
 		"romanian": "Rotește spre stânga",
 		"japanese": "左に回転",
+		"hungarian": "Balra forgat",
 	},
 	"rotateRight": {
 		"english": "Rotate Right",
@@ -2403,6 +2547,7 @@
 		"czech": "Otočit doprava",
 		"romanian": "Rotește spre dreapta",
 		"japanese": "右に回転",
+		"hungarian": "Jobbra forgat",
 	},
 	"precisionPlacement": {
 		"english": "Precision Placement",
@@ -2422,6 +2567,7 @@
 		"czech": "Přesné umístění",
 		"romanian": "Poziționare precisă",
 		"japanese": "右に回転",
+		"hungarian": "Precíz elhelyezés",
 	},
 	"miscellaneous": {
 		"english": "Miscellaneous",
@@ -2441,6 +2587,7 @@
 		"czech": "Ostatní",
 		"romanian": "Diverse",
 		"japanese": "その他",
+		"hungarian": "Egyéb",
 	},
 	"screenshot": {
 		"english": "Screenshot",
@@ -2460,6 +2607,7 @@
 		"czech": "Snímek obrazovky",
 		"romanian": "Captură de ecran",
 		"japanese": "スクリーンショット",
+		"hungarian": "Képernyő fotó",
 	},
 	"openScreenshotsFolder": {
 		"english": "Open Screenshots Folder",
@@ -2479,6 +2627,7 @@
 		"czech": "Otevřít adresář snímků",
 		"romanian": "Deschide dosarul cu capturile de ecran",
 		"japanese": "スクリーンショットフォルダを開く",
+		"hungarian": "Képek mappájának megnyitása",
 	},
 	"showfps": {
 		"english": "Show Frames per Second",
@@ -2498,6 +2647,7 @@
 		"czech": "Zobrazit FPS",
 		"romanian": "Afișează FPS",
 		"japanese": "1秒あたりのフレーム数を表示",
+		"hungarian": "FPS kijelzése",
 	},
 	"key_Mouse0": {
 		"english": "Left Mouse Button",
@@ -2517,6 +2667,7 @@
 		"czech": "Levé tlačítko myši",
 		"romanian": "Butonul din stânga al mausului",
 		"japanese": "左マウスボタン",
+		"hungarian": "Bal egérgomb",
 	},
 	"key_Mouse1": {
 		"english": "Right Mouse Button",
@@ -2536,6 +2687,7 @@
 		"czech": "Pravé tlačítko myši",
 		"romanian": "Butonul din dreapta al mausului",
 		"japanese": "右マウスボタン",
+		"hungarian": "Jobb egérgomb",
 	},
 	"key_Mouse2": {
 		"english": "Middle Mouse Button",
@@ -2555,6 +2707,7 @@
 		"czech": "Prostřední tlačítko myši",
 		"romanian": "Butonul din mijloc al mausului",
 		"japanese": "ミドルマウスボタン[ホイールボタン]",
+		"hungarian": "Középső egérgomb",
 	},
 	"key_Space": {
 		"english": "Space",
@@ -2574,6 +2727,7 @@
 		"czech": "Mezerník",
 		"romanian": "Spațiu",
 		"japanese": "Spaceキー",
+		"hungarian": "Space",
 	},
 	"key_LeftShift": {
 		"english": "Shift (left)",
@@ -2593,6 +2747,7 @@
 		"romanian": "Shift (stânga)",
 		"polish": "Shift (lewy)",
 		"japanese": "左Shiftキー",
+		"hungarian": "Shift (bal)",
 	},
 	"key_RightShift": {
 		"english": "Shift (right)",
@@ -2612,6 +2767,7 @@
 		"romanian": "Shift (dreapta)",
 		"polish": "Shift (prawy)",
 		"japanese": "右Shiftキー",
+		"hungarian": "Shift (jobb)",
 
 	},
 	"key_LeftAlt": {
@@ -2632,6 +2788,7 @@
 		"romanian": "Alt (stânga)",
 		"polish": "Alt (lewy)",
 		"japanese": "左Altキー",
+		"hungarian": "Alt (bal)",
 	},
 	"key_RightAlt": {
 		"english": "Alt (right)",
@@ -2651,6 +2808,7 @@
 		"romanian": "Alt (dreapta)",
 		"polish": "Alt (prawy)",
 		"japanese": "右Altキー",
+		"hungarian": "Alt (jobb)",
 	},
 	"key_LeftControl": {
 		"english": "Control (left)",
@@ -2670,6 +2828,7 @@
 		"romanian": "Ctrl (stânga)",
 		"polish": "CTRL (lewy)",
 		"japanese": "左Ctrlキー",
+		"hungarian": "Ctrl (bal)",
 	},
 	"key_RightControl": {
 		"english": "Control (right)",
@@ -2689,6 +2848,7 @@
 		"romanian": "Ctrl (dreapta)",
 		"polish": "CTRL (prawy)",
 		"japanese": "右Ctrlキー",
+		"hungarian": "Ctrl (jobb)",
 	},
 	"key_CapsLock": {
 		"english": "Caps Lock",
@@ -2708,6 +2868,7 @@
 		"czech": "Capslock",
 		"romanian": "Caps Lock",
 		"japanese": "Caps Lockキー",
+		"hungarian": "Caps Lock",
 	},
 	"key_PageUp":  {
 		"english": "Page Up",
@@ -2719,6 +2880,7 @@
 		"italian": "Pagina Su",
 		"russian": "Page Up",
 		"ukrainian": "Page Up",
+		"hungarian": "Page Up",
 	},
 	"key_PageDown":  {
 		"english": "Page Down",
@@ -2730,6 +2892,7 @@
 		"italian": "Pagina Giù",
 		"russian": "Page Down",
 		"ukrainian": "Page Down",
+		"hungarian": "Page Down",
 	},
 
 
@@ -2752,6 +2915,7 @@
 		"czech": "Konec hry!",
 		"romanian": "Joc încheiat!",
 		"japanese": "ゲームオーバー",
+		"hungarian": "Vége a játéknak!",
 	},
 	"backToMainMenu": {
 		"english": "Back to the Main Menu",
@@ -2771,6 +2935,7 @@
 		"czech": "Vrátit se do hlavního menu",
 		"romanian": "Înapoi la meniul principal",
 		"japanese": "メインメニューに戻る",
+		"hungarian": "Vissza a főmenübe",
 	},
 	"yourColonyHasPerished": {
 		"english": "Your Colony has perished!",
@@ -2790,6 +2955,7 @@
 		"czech": "Vaše kolonie vymřela!",
 		"romanian": "Colonia ta a pierit!",
 		"japanese": "あなたのコロニーは滅びました",
+		"hungarian": "A kolóniád kihalt!",
 	},
 	"totalPlayTime": {
 		"english": "Total Play Time",
@@ -2809,6 +2975,7 @@
 		"czech": "Celkový čas hry",
 		"romanian": "Timp total de joc",
 		"japanese": "合計プレイ時間",
+		"hungarian": "Teljes játékidő",
 	},
 	"averageHappiness": {
 		"english": "Average Happiness",
@@ -2828,6 +2995,7 @@
 		"czech": "Průměrná spokojenost",
 		"romanian": "Fericire medie",
 		"japanese": "平均的な幸福",
+		"hungarian": "Átlagos boldogság érték",
 
 	},
 	"totalResearchCollected": {
@@ -2848,6 +3016,7 @@
 		"czech": "Získaná vylepšení",
 		"romanian": "Cercetări acumulate",
 		"japanese": "獲得した研究",
+		"hungarian": "Összegyűjtött kutatások száma",
 	},
 	//TODO-ukrainian: Tikigoblins -> Enemies
 	//TODO-russian: Tikigoblins -> Enemies
@@ -2872,6 +3041,7 @@
 		"czech": "Zabitých nepřátel",
 		"romanian": "Dușmani uciși",
 		"japanese": "倒された敵",
+		"hungarian": "Összes megölt ellenség",
 	},
 	"maxNumberOfColonists": {
 		"english": "Max. Number of Colonists",
@@ -2891,6 +3061,7 @@
 		"czech": "Maximální počet kolonistů",
 		"romanian": "Numărul maxim de coloniști",
 		"japanese": "コロニストの最大数",
+		"hungarian": "Összes telepes száma",
 	},
 	"uiStepBack": {
 		"english": "Back",
@@ -2910,6 +3081,7 @@
 		"czech": "Zpět",
 		"romanian": "Înapoi",
 		"japanese": "戻る",
+		"hungarian": "Vissza",
 	},
 
 
@@ -2932,6 +3104,7 @@
 		"czech": "Začít hru",
 		"romanian": "Începe jocul",
 		"japanese":  "ゲーム開始",
+		"hungarian": "Játék indítása",
 	},
 	"selectStartingColonists": {
 		"english": "Select Starting Colonists",
@@ -2951,6 +3124,7 @@
 		"czech": "Vyberte počáteční kolonisty",
 		"romanian": "Selectați coloniștii inițiali",
 		"japanese": "最初のコロニストを決定してください",
+		"hungarian": "Válaszd ki a kezdő telepesedet",
 	},
 	"randomColonist": {
 		"english": "Random Colonist",
@@ -2970,6 +3144,7 @@
 		"czech": "Náhodný kolonista",
 		"romanian": "Colonist aleatoriu",
 		"japanese":  "コロニストを変更する",
+		"hungarian": "Véletlenszerű telepes",
 	},
 	"selectDifficulty": {
 		"english": "Select Difficulty",
@@ -2989,6 +3164,7 @@
 		"czech": "Vyberte obtížnost",
 		"romanian": "Selectați dificultatea",
 		"japanese": "難易度を選択してください",
+		"hungarian": "Válassz nehézségi szintet",
 	},
 	"difficulty_0_Title": {
 		"english": "Calm World",
@@ -3008,6 +3184,7 @@
 		"czech": "Poklidný svět",
 		"romanian": "Lume liniștită",
 		"japanese": "平和な世界",
+		"hungarian": "Nyugodt világ",
 	},
 	"difficulty_0_Desc": {
 		"english": "A more relaxing experience if you prefer creative base building over combat and survival.\nYour colonists take only half damage from all kinds of injuries.\nThe colony starts with 80 meals, colonists need less food, and can survive on smaller food rations.\nWatered plants yield higher harvests.\nYour colonists will still die if you don't take care of them!",
@@ -3027,6 +3204,7 @@
 		"czech": "Odpočinkový zážitek, pokud máte raději budování základny místo bojů s nepřáteli.\nVaši kolonisté utrpí pouze poloviční poškození.\nKolonie začíná s 80 jídly a kolonisté přežjí s menšími porcemi.\nZalévané rostliny produkují vyšší výnosy.",
 		"romanian": "O experiență mai relaxantă dacă preferați construirea creativă a bazelor decât lupta și supraviețuirea.\nColoniștii dvs. nu suferă decât jumătate din daunele cauzate de toate tipurile de răni.\nColonia începe cu 80 buc. de mâncare, coloniștii au nevoie de mai puțină hrană și pot supraviețui cu rații alimentare mai mici.\nPlantele udate produc recolte mai mari.\nColoniștii dvs. vor muri dacă nu aveți grijă de ei.",
 		"japanese": "建設をメインにゆっくり過ごしたい方におすすめです。\nあらゆる種類の怪我を受けても半分のダメージしか受けません。\n食糧は80食です。\n水を与えられた農作物はより多くの収穫をもたらします。",
+		"hungarian": "Egy nyugodtabb játékélmény, ha jobban szereted a kreatív bázisépítést, mint a harcot, vagy a túlélést.\nA telepeseid fele annyi sebzést szenvednek el bármi féle sérüléstől.\nA kolóniád 80 adag élelemmel kezd és a telepeseidnek kevesebb élelemre van szükségük (kisebb adagokkal is beérik).\nAz öntözött növények több termést hoznak.\nA telepeseid itt is meghalhatnak, ha nem törődsz velük!",
 
 	},
 	"difficulty_1_Title": {
@@ -3047,6 +3225,7 @@
 		"czech": "Vzrušující svět",
 		"romanian": "Lume captivantă",
 		"japanese": "刺激的な世界",
+		"hungarian": "Izgalmas világ",
 
 	},
 	"difficulty_1_Desc": {
@@ -3067,6 +3246,7 @@
 		"czech": "Typický Founders' Fortune zážitek, vyvážené budování základny a boj.\nKolonie začíná se 40 jídly.\nNěkdy mohou kolonisté zemřít ať se budete snažit jakkoliv.",
 		"romanian": "Experiență tipică de Founders' Fortune, o combinație între construirea bazelor și supraviețuire.\nColonia începe cu 40 buc. de mâncare.\nUneori, coloniștii pot muri chiar dacă încercați tot posibilul.",
 		"japanese": "Founders' Fortuneを楽しみたい方にぴったりです。\n基地の建設とサバイバルの組み合わせで難易度が増しています。\n食糧は40食です。最善を尽くしてもコロニストは死ぬ事があります。",
+		"hungarian": "A tipikus Founders' Fortune élmény, melyben keveredik az építkezés és a túlélés.\nA kolónia 40 adag élelemmel kezd.\nNéha a telepesek meghalnak annak ellenére is, hogy kihozod magadból a legtöbbet.",
 	},
 	"difficulty_2_Title": {
 		"english": "Dangerous World",
@@ -3086,6 +3266,8 @@
 		"czech": "Nebezpečný svět",
 		"romanian": "Lume periculoasă",
 		"japanese": "危険な世界",
+		"hungarian": "Veszélyes világ",
+		
 	},
 	"difficulty_2_Desc": {
 		"english": "The world is a harsh place, so good luck trying to survive with fragile little colonists.\nYour colonists take 50% more damage from all kinds of injuries.\nThe colony starts with 10 meals and colonists get hungry more quickly.\nCatastrophes happen more often.\nA challenge for veteran players.",
@@ -3105,20 +3287,23 @@
 		"czech": "Svět je drsné místo, takže hodně štěstí při snaze o přežití s vašimi malými křehkými kolonisty.\nVaši kolonisté obdrží o 50% více poškození z jakéhokoliv zranění.\nKolonie začíná s 10 jídly a kolonisté maji častěji hlad.\nKatastrofy se dějí častěji.\nVýzva pro ostřílené hráče.",
 		"romanian": "Lumea este un loc dur, deci mult noroc încercând să supraviețuiți cu mici coloniști fragili.\nColoniștii dvs. suferă cu 50% mai multe daune cauzate de toate tipurile de răni.\nColonia începe cu 10 buc. de mâncare și coloniștii se înfometează mai repede.\nCatastrofele se întâmplă mai des.\nO provocare pentru jucătorii veterani.",
 		"japanese": "ベテランプレイヤー向けです。\n全ての怪我のダメージは150%になります。\n食糧は10食です。\n災害はしばしば発生します。",
+		"hungarian": "A világ kegyetlen, sok sikert a túléléshez a törékeny kis telepeseiddel.\nA telepesk 50%-al több sebzést szenvednek el bármi féle sérüléstől.\nA kolónia 10 adag élelemmel kezd és a telepesek gyorsabban éheznek.\nSokkal több katasztrófa következik be.\nKihívás a veteránok számára.",
 	},
     "difficulty_3_Title": {
         "english": "Custom Difficulty",
         "german": "Eigene Schwierigkeit",
 	"french": "Difficulté personnalisée",
 	    "ukrainian": "Індивідуальна складність",
-		"russian": "Пользовательская сложность"
+		"russian": "Пользовательская сложность",
+		"hungarian": "Egyéni nehézség",
     },
     "difficulty_3_Desc": {
         "english": "You are able to modify the rules how ever you see fit.",
         "german": "Du kannst die Regeln nach Belieben verändern.",
 	"french": "Vous pouvez modifier les règles comme bon vous semble.",
 		"ukrainian": "Ви можете налаштувати складність як вам до вподоби.",
-		"russian": "Вы можете изменять правила по своему усмотрению."
+		"russian": "Вы можете изменять правила по своему усмотрению.",
+		"hungarian": "Úgy alakíthatod a szabályokat, ahogy az neked tetszik",
     },
 	"continue": {
 		"english": "Continue",
@@ -3138,6 +3323,7 @@
 		"czech": "Pokračovat",
 		"romanian": "Continuă",
 		"japanese": "進む",
+		"hungarian": "Tovább",
 	},
 	"add": {
 		"english": "Add",
@@ -3157,6 +3343,7 @@
 		"czech": "Přidat",
 		"romanian": "Adaugă",
 		"japanese": "追加",
+		"hungarian": "Hozzáad",
 	},
 	"remove": {
 		"english": "Remove",
@@ -3176,6 +3363,7 @@
 		"czech": "Odstranit",
 		"romanian": "Elimină",
 		"japanese": "削除",
+		"hungarian": "Elfelejt",
 	},
 	"select": {
 		"english": "Select",
@@ -3195,6 +3383,7 @@
 		"czech": "Vybrat",
 		"romanian": "Selectează",
 		"japanese": "選択",
+		"hungarian": "Kiválaszt",
 	},
 	"unableToLoadSaveFile": {
 		"english": "Unable to load save file",
@@ -3214,6 +3403,7 @@
 		"czech": "Nepodařilo se načíst uloženou hru",
 		"romanian": "Imposibil de încărcat fișierul salvat",
 		"japanese": "保存ファイルを読み込めません",
+		"hungarian": "A betöltés sikertelen",
 	},
 	"unableToLoadSaveFileText": {
 		"english": "The game could not read your save file. Sorry!\nPlease try again first. If it keeps happening, send your save file to daniel@foundersfortune.com so I can investigate the error and try to get a fix into the next update.\nThanks for your help!",
@@ -3233,6 +3423,7 @@
 		"romanian": "Jocul nu a putut citi fișierul dvs. de salvare. Ne pare rău!\nÎncercați din nou mai întâi. Dacă se întâmplă în continuare, trimiteți fișierul dvs. de salvare la daniel@foundersfortune.com ca să pot investiga eroarea și să încerc să o remediez în următoarea actualizare.\nMulțumesc pentru ajutor!",
 		"polish": "Gra nie może odczytać zapisanej gry. Wybacz!\nSprubuj jeszcze raz, jeśli to nie pomoże wyślij plik zapisu na adres: daniel@foundersfortune.com. Postaramy się naprawić ewentualny błąd w kolejnej aktualizacji.\nDziękujemy za twa pomoc!",
 		"japanese": "セーブファイルを読み取る事ができませんでした。もう一度最初からお試しください。\n引き続き読み取る事ができない状態が発生する場合は保存ファイルをdaniel@foundersfortune.comに送信してください。\nエラーを調査して次のアップデートに修正を試みる事ができるかもしれません。\nご協力いただきありがとうございます！",
+		"hungarian": "A játék nem tudja beolvasni a mentett fájlt. Elnézés!\nKérlek előbb próbáld meg mégegyszer. Ha továbbra sem működik, küld el a mentéseded a daniel@foudersfortune.com e-mail címre, hogy kivizsgálhassuk a hibát, és javítsuk azt a következő frissítésben.\nKöszönjük a segítséget!",
 	},
 
 
@@ -3250,6 +3441,7 @@
 		"czech": "Herní nastavení",
 		"russian": "Настройки игры",
 		"ukrainian": "Налаштування гри",
+		"hungarian": "Játék beállítások",
 	},
 	"mapSize": {
 		"english": "Map Size",
@@ -3265,6 +3457,7 @@
 		"czech": "Velikost mapy",
 		"russian": "Размер карты",
 		"ukrainian": "Розмір карти",
+		"hungarian": "Térkép méret",
 	},
 	"mapSizeSmall": {
 		"english": "Small",
@@ -3280,6 +3473,7 @@
 		"czech": "Malá",
 		"russian": "Маленькая",
 		"ukrainian": "Маленький",
+		"hungarian": "Kicsi",
 	},
 	"mapSizeMedium": {
 		"english": "Medium",
@@ -3295,6 +3489,7 @@
 		"czech": "Střední",
 		"russian": "Средняя",
 		"ukrainian": "Середній",
+		"hungarian": "Közepes",
 	},
 	"mapSizeLarge": {
 		"english": "Large",
@@ -3310,6 +3505,7 @@
 		"czech": "Velká",
 		"russian": "Большая",
 		"ukrainian": "Великий",
+		"hungarian": "Nagy",
 	},
 	"advancedSettings": {
 		"english": "Advanced Settings",
@@ -3325,6 +3521,7 @@
 		"czech": "Pokročilé nastavení",
 		"russian": "Дополнительные настройки",
 		"ukrainian": "Розширені налаштування",
+		"hungarian": "Haladó beállítások",
 	},
 	"peacefulPirates": {
 		"english": "Peaceful Pirates",
@@ -3340,6 +3537,7 @@
 		"czech": "Mírumilovní piráti",
 		"russian": "Мирные пираты",
 		"ukrainian": "Мирні пірати",
+		"hungarian": "Barátságos Kalózok",
 	},
 	"peacefulGoblins": {
 		"english": "Peaceful Goblins",
@@ -3355,6 +3553,7 @@
 		"czech": "Mírumilovní goblini",
 		"russian": "Мирные гоблины",
 		"ukrainian": "Мирні гобліни",
+		"hungarian": "Barátságos Goblinok",
 	},
 	"islandBiomes": {
 		"english": "Island Biomes",
@@ -3370,6 +3569,7 @@
 		"czech": "Povrch ostrova",
 		"russian": "Биомы островов",
 		"ukrainian": "Біоми острова",
+		"hungarian": "Sziget biom",
 	},
 	"biomesGrass": {
 		"english": "Mostly Grassland",
@@ -3385,6 +3585,7 @@
 		"czech": "Pastviny",
 		"russian": "Равнина",
 		"ukrainian": "Переважно рівнини",
+		"hungarian": "Többnyire füves",
 	},
 	"biomesMixed": {
 		"english": "Mixed",
@@ -3400,6 +3601,7 @@
 		"czech": "Mix",
 		"russian": "Микс",
 		"ukrainian": "Змішані",
+		"hungarian": "Kevert",
 	},
 	"biomesForest": {
 		"english": "Mostly Forest",
@@ -3415,6 +3617,7 @@
 		"czech": "Lesy",
 		"russian": "Леса",
 		"ukrainian": "Переважно ліси",
+		"hungarian": "Többnyire erdős",
 	},
 	"goblinVillages": {
 		"english": "Goblin Villages",
@@ -3430,6 +3633,7 @@
 		"czech": "Vesnice goblinů",
 		"russian": "Деревни гоблинов",
 		"ukrainian": "Селища гоблінів",
+		"hungarian": "Goblin falvak",
 	},
 	"goblinVillagesNone": {
 		"english": "None",
@@ -3445,6 +3649,7 @@
 		"czech": "Žádné",
 		"russian": "Нет",
 		"ukrainian": "Відсутні",
+		"hungarian": "Nincs",
 	},
 	"goblinVillagesFew": {
 		"english": "Few",
@@ -3460,6 +3665,7 @@
 		"czech": "Málo",
 		"russian": "Немного",
 		"ukrainian": "Небагато",
+		"hungarian": "Kevés",
 	},
 	"goblinVillagesDefault": {
 		"english": "Some",
@@ -3475,6 +3681,7 @@
 		"czech": "Několik",
 		"russian": "Несколько",
 		"ukrainian": "Помірно",
+		"hungarian": "Néhány",
 	},
 	"goblinVillagesMany": {
 		"english": "Many",
@@ -3490,6 +3697,7 @@
 		"czech": "Mnoho",
 		"russian": "Много",
 		"ukrainian": "Багато",
+		"hungarian": "Sok",
 	},
 	"aging": {
 		"english": "Aging",
@@ -3505,6 +3713,7 @@
 		"czech": "Stárnutí",
 		"russian": "Старение",
 		"ukrainian": "Старіння",
+		"hungarian": "Öregedés",
 	},
 	"agingTooltip": {
 		"english": "With slow aging, villagers live twice as long.\nWith fast aging, villagers age 50% quicker.",
@@ -3520,6 +3729,7 @@
 		"czech": "S pomalým stárnutím žijí vesničané dvakrát déle.\nS rychlým stárnutím vesničané stárnou o 50% rychleji.",
 		"russian": "При медленном старении жители живут вдвое дольше. \nПри быстром старении жители стареют на 50% быстрее.",
 		"ukrainian": "При повільному старінні, колоністи живуть удвічі довше. \nПри швидкому старінні, колоністи старіють на 50% швидше.",
+		"hungarian": "Lassú öregedéssel a falusiak dupla addig élnek.\nGyors öregedéssel a falusiak 50%-al gyorsabban öregednek.",
 	},
 	"agingOff": {
 		"english": "Off",
@@ -3535,6 +3745,7 @@
 		"czech": "Vypnuto",
 		"russian": "Выключено",
 		"ukrainian": "Вимкнено",
+		"hungarian": "Ki",
 	},
 	"agingSlow": {
 		"english": "Slow",
@@ -3550,6 +3761,7 @@
 		"czech": "Pomalu",
 		"russian": "Медленное",
 		"ukrainian": "Повільне",
+		"hungarian": "Lassú",
 	},
 	"agingDefault": {
 		"english": "Standard",
@@ -3565,6 +3777,7 @@
 		"czech": "Standardně",
 		"russian": "Обычное",
 		"ukrainian": "Звичайне",
+		"hungarian": "Alap",
 	},
 	"agingFast": {
 		"english": "Fast",
@@ -3580,6 +3793,7 @@
 		"czech": "Rychle",
 		"russian": "Быстрое",
 		"ukrainian": "Швидке",
+		"hungarian": "Gyors",
 	},
 	"newGameSaveName": { // default save game name when settlers have left by boat
 		"english": "Save after boat departed",
@@ -3595,6 +3809,7 @@
 		"czech": "Uložit poté, co loď vypluje",
 		"russian": "Сохранение после отплытия лодки",
 		"ukrainian": "Збереження після відправки човна",
+		"hungarian": "Mentés a hajó indulása után",
 	},
 	"credits": {
 		"english": "Credits",
@@ -3609,6 +3824,7 @@
 		"czech": "Credits",
 		"russian": "Титры",
 		"ukrainian": "Титри",
+		"hungarian": "Készítők",
 	},
 	"saveCorrupted":  {
 		"english": "Unfortunately this save file seems to be corrupted and can not be read.",
@@ -3621,7 +3837,8 @@
 		"chinese": "不幸的是，此存档文件似乎已损坏，无法读取。",
 		"czech": "Bohužel se zdá, že tento uložený soubor je poškozený a nelze jej přečíst.",
 		"russian": "К сожалению, этот файл сохранения кажется поврежденным и не может быть прочитан.",
-		"ukrainian": "На жаль, це збереження пошкоджене й не може бути завантажене."
+		"ukrainian": "На жаль, це збереження пошкоджене й не може бути завантажене.",
+		"hungarian": "Sajnálatos módon ez a mentés corrupt, ezért nem tölthető be.",
 	},
 	"showTutorialMessages":  {
 		"english": "Show Tutorial Messages",
@@ -3633,6 +3850,7 @@
 		"italian": "Mostrare i messaggi del Tutorial",
 		"russian": "Показывать обучающие сообщения",
 		"ukrainian": "Показувати навчальні повідомлення",
+		"hungarian": "Oktató üzenetek mutatása",
 	},
 	"multipleVillagerSelection":  {
 		"english": "Multiple Villager Selection",
@@ -3644,6 +3862,7 @@
 		"italian": "Selezione Multipla Coloni",
 		"russian": "Выбор нескольких жителей",
 		"ukrainian": "Вибір кількох колоністів",
+		"hungarian": "Egyszerre több falusi kijelölése",
 	},
     "availableSkills": {
         "english": "Available Skills",
@@ -3651,6 +3870,7 @@
 	"french": "Compétences disponibles",
 		"ukrainian": "Доступні навички",
 		"russian": "Доступные навыки",
+		"hungarian": "Elérhető képességek",
     },
     "customizeColonist": {
         "english": "Customize Colonist",
@@ -3658,6 +3878,7 @@
 	"french": "Personnaliser le colon",
 		"ukrainian": "Персоналізувати колоніста",
 		"russian": "Персонализация колониста",
+		"hungarian": "Telepes módosítása",
     },
     "sandboxSettings": {
         "english": "Sandbox Settings",
@@ -3665,6 +3886,7 @@
 	"french": "Paramètres de bac à sable",
 		"ukrainian": "Налаштування пісочниці",
 		"russian": "Настройки песочницы",
+		"hungarian": "Homokozó beállítása",
     },
     "sandboxSettingsChanged": {
         "english": "Sandbox Settings Changed",
@@ -3672,6 +3894,7 @@
 	"french": "Paramètres de bac à sable modifiés",
 		"ukrainian": "Налаштування пісочниці змінено",
 		"russian": "Настройки песочницы изменены",
+		"hungarian": "A homokozó beállításai megváltoztak",
     },
     "sandboxNotice": {
         "english": "Changing the sandbox settings will disable achievements!\nShould the changes to the sandbox settings be applied?",
@@ -3679,6 +3902,7 @@
 	"french": "La modification des paramètres du bac à sable désactivera les succès !\nLes modifications apportées aux paramètres du bac à sable doivent-elles être appliquées ?",
 		"ukrainian": "Якщо ви зміните налаштування пісочниці, досягнення буде відключено! \nЗастосувати зміни в налаштуваннях пісочниці?",
 		"russian": "Изменение настроек песочницы отключит достижения!\nПрименить изменения в настройках песочницы?",
+		"hungarian": "A homokozó beállításainak megváltoztatása kikapcsolja a teljesítményeket!\nBiztosan ezeket a homokozó beállításokat akarod használni?",
     },
     "damageToColonistsMultiplier": {
         "english": "Damage to Colonists Multiplier",
@@ -3686,6 +3910,7 @@
 	"french": "Multiplicateur des dégâts causés aux colons",
 		"ukrainian": "Множник шкоди колоністам",
 		"russian": "Множитель урона для колонистов",
+		"hungarian": "Telepes sérülés szorzó",
     },
 	"gamePace": {
         "english": "Game Pacing",
@@ -3693,6 +3918,7 @@
 	"french": "Rythme du jeu",
 		"ukrainian": "Темп гри",
 		"russian": "Темп игры",
+		"hungarian": "Játék gyorsasága",
     },
     "everythingUnlocked": {
         "english": "Everything Unlocked",
@@ -3700,6 +3926,7 @@
 	"french": "Tout est débloqué",
 		"ukrainian": "Все розблоковано",
 		"russian": "Все разблокировано",
+		"hungarian": "Minden felnyitása",
     },
     "startingResources": {
         "english": "Starting Resources Amount",
@@ -3707,6 +3934,7 @@
 	"french": "Montant des ressources de départ",
 		"ukrainian": "Стартовий обсяг ресурсів",
 		"russian": "Стартовый объем ресурсов",
+		"hungarian": "Kezdő nyersanyag mértéke",
     },
     "buildingCosts": {
         "english": "Building Costs",
@@ -3714,6 +3942,7 @@
 	"french": "Coûts de construction",
 		"ukrainian": "Вартість будівництва",
 		"russian": "Стоимость строительства",
+		"hungarian": "Építési költségek",
     },
     "badEventsFrequency": {
         "english": "Bad Events Frequency",
@@ -3721,6 +3950,7 @@
 	"french": "Fréquence des mauvais événements",
 		"ukrainian": "Частота поганих подій",
 		"russian": "Частота плохих событий",
+		"hungarian": "Kellemetlen események gyakorisága",
     },
     "tributesFrequency": {
         "english": "Tributes Frequency",
@@ -3728,6 +3958,7 @@
 	"french": "Fréquence des tributs",
 		"ukrainian": "Частота данини",
 		"russian": "Частота требований о выплате дани",
+		"hungarian": "Tisztelet adás gyakorisága",
     },
     "onlyPositiveThoughts": {
         "english": "Only Positive Thoughts",
@@ -3735,6 +3966,7 @@
 	"french": "Seulement des pensées positives",
 		"ukrainian": "Лише хороші думки",
 		"russian": "Только позитивные мысли",
+		"hungarian": "Kizárólag pozitív gondolatok",
     },
     "colonistBaseMood": {
         "english": "Colony's Base Mood",
@@ -3742,6 +3974,7 @@
 	"french": "Bonheur de base de la colonie",
 		"ukrainian": "Базовий настрій колоністів",
 		"russian": "Базовое настроение колонии",
+		"hungarian": "Kolónia alap hangulata",
     },
     "colonistNeeds": {
         "english": "Colonist Needs",
@@ -3749,6 +3982,7 @@
 	"french": "Besoins des colons",
 		"ukrainian": "Потреби колоністів",
 		"russian": "Нужды колонистов",
+		"hungarian": "Telepesek szükségletei",
     },
     "immortalColonists": {
         "english": "Immortal Colonists",
@@ -3756,6 +3990,7 @@
 	"french": "Colons immortels",
 		"ukrainian": "Безсмертні колоністи",
 		"russian": "Бессмертные колонисты",
+		"hungarian": "Halhatatlan telepesek",
     },
     "difficultySettings": {
         "english": "Difficulty Settings",
@@ -3763,6 +3998,7 @@
 	"french": "Paramètres de difficulté",
 		"ukrainian": "Налаштування складності",
 		"russian": "Настройки сложности",
+		"hungarian": "Nehézségi beállítások",
     },
     "achievements": {
         "english": "Achievements",
@@ -3770,6 +4006,7 @@
 	"french": "Succès",
 		"ukrainian": "Досягнення",
 		"russian": "Достижения",
+		"hungarian": "Teljesítmények",
     },
     "normalAchievements": {
         "english": "Normal Achievements",
@@ -3777,6 +4014,7 @@
 	"french": "Succès normaux :",
 		"ukrainian": "Звичайні досягнення",
 		"russian": "Обычные достижения",
+		"hungarian": "Normál teljesítmények:",
     },
     "challengerAchievement": { // refers to the "challenger" achievement. Check achievements.json
         "english": "Challenger Achievement",
@@ -3784,6 +4022,7 @@
 	"french": "Succès « Challenger » :",
 		"ukrainian": "Досягнення Challenger",
 		"russian": "Достижение «Испытатель»",
+		"hungarian": "Kihívásos teljesítmény:",
     },
     "available": {
         "english": "Available",
@@ -3791,6 +4030,7 @@
 	"french": "Disponible",
 		"ukrainian": "Доступно",
 		"russian": "Доступно",
+		"hungarian": "Elérhető",
     },
     "disabled": {
         "english": "Disabled",
@@ -3798,6 +4038,7 @@
 	"french": "Désactivé",
 		"ukrainian": "Вимкнено",
 		"russian": "Отключено",
+		"hungarian": "Kikapcsolva",
     },
     "enabled": {
         "english": "Enabled",
@@ -3805,6 +4046,7 @@
 	"french": "Activé",
 		"ukrainian": "Увімкнено",
 		"russian": "Включено",
+		"hungarian": "Bekapcsolva",
     },
     "Reasons": {
         "english": "Reasons",
@@ -3812,6 +4054,7 @@
 	"french": "Raisons",
 		"ukrainian": "Причини",
 		"russian": "Причины",
+		"hungarian": "Okok",
     },
     "mods": {
         "english": "Mods",
@@ -3819,6 +4062,7 @@
 	"french": "Mods",
 		"ukrainian": "Моди",
 		"russian": "Моды",
+		"hungarian": "Modok",
     },
     "cheats": {
         "english": "Cheats",
@@ -3826,6 +4070,7 @@
 	"french": "Triche",
 		"ukrainian": "Чіти",
 		"russian": "Читы",
+		"hungarian": "Csalások",
     },
     "unchanged": {
         "english": "Unchanged",
@@ -3833,6 +4078,7 @@
 	"french": "Inchangé",
 		"ukrainian": "Без змін",
 		"russian": "Без изменения",
+		"hungarian": "Változatlan",
     },
     "changed": {
         "english": "Changed",
@@ -3840,6 +4086,7 @@
 	"french": "Changé",
 		"ukrainian": "Змінено",
 		"russian": "Изменено",
+		"hungarian": "Megváltozott",
     },
     "isNotHard": { // world settings, explanation for why challenger achievement active or not ("Difficulty: Not Hard")
         "english": "Not Hard",
@@ -3847,6 +4094,7 @@
 	"french": "Pas difficile",
 		"ukrainian": "Не Висока",
 		"russian": "Не сложно",
+		"hungarian": "Nem nehéz",
     },
     "isHard": {
         "english": "Hard",
@@ -3854,6 +4102,7 @@
 	"french": "Est difficile",
 		"ukrainian": "Висока",
 		"russian": "Сложно",
+		"hungarian": "Nehéz",
     },
     "defaultGamePace": {
         "english": "Original - Slower",
@@ -3861,6 +4110,7 @@
 	"french": "Original - Plus lent",
 		"ukrainian": "Оригінальний - повільніший",
 		"russian": "Медленный",
+		"hungarian": "Alap - Lassú",
     },
     "gamePaceTooltip": {
         "english": "Changes the speed of working and learning which allows you to play through the game more quickly or slowly.",
@@ -3868,6 +4118,7 @@
 	"french": "Modifie la vitesse d'interaction et d'apprentissage ce qui vous permet de jouer plus rapidement ou plus lentement.",
 		"ukrainian": "Змінює швидкість роботи та навчання, що дає вам можливість проходити гру швидше чи повільніше.",
 		"russian": "Изменяет скорость работы и обучения, что позволяет проходить игру быстрее или медленнее.",
+		"hungarian": "A dolgozás és tanulás sebességének beállítása lehetővé teszi a gyorsabb, vagy épp lassabb játékmenetet.",
     },
     "fastGamePace": {
         "english": "Updated - Faster",
@@ -3875,6 +4126,7 @@
 	"french": "Nouveau - Rapide",
 		"ukrainian": "Оновлений - швидший",
 		"russian": "Быстрый",
+		"hungarian": "Frissített - Gyors",
     },
     "low": {
         "english": "Low",
@@ -3882,6 +4134,7 @@
 	"french": "Faible",
 		"ukrainian": "Низько",
 		"russian": "Низко",
+		"hungarian": "Alacsony",
     },
     "moderate": {
         "english": "Moderate",
@@ -3889,6 +4142,7 @@
 	"french": "Modéré",
 		"ukrainian": "Помірно",
 		"russian": "Средне",
+		"hungarian": "Mérsékelt",
     },
     "high": {
         "english": "High",
@@ -3896,6 +4150,7 @@
 	"french": "Élevé",
 		"ukrainian": "Високо",
 		"russian": "Высоко",
+		"hungarian": "Magas",
     },
     "veryHigh": {
         "english": "Very High",
@@ -3903,6 +4158,7 @@
 	"french": "Très élevé",
 		"ukrainian": "Дуже високо",
 		"russian": "Очень высоко",
+		"hungarian": "Nagyon magas",
     },
     "confinedCursor": {
         "english": "Confined Cursor",
@@ -3910,5 +4166,6 @@
 	"french": "Curseur restreint",
 		"ukrainian": "Обмежений курсор",
 		"russian": "Ограничение мыши окном",
+		"hungarian": "Korlátozott kurzor",
     },
 }

@@ -16,6 +16,7 @@
 		"polish": "%firstName% jest szczęśliw%yA%",
 		"japanese": "%firstName%は幸せです。",
 		"czech": "%firstName% je šťastn%yA%!",
+		"hungarian": "%firstName% boldog",
 	},
 	"moodDesc_Bad": {
 		"english": "%firstName% is not having a good time",
@@ -33,6 +34,7 @@
 		"polish": "%firstName% nie spędza zbyt miło czasu",
 		"japanese": "%firstName%は楽しくありません。",
 		"czech": "%firstName% není šťastn%yA%!",
+		"hungarian": "%firstName% nem érzi jól magát",
 		
 	},
 	"moodDesc_Terrible": {
@@ -51,6 +53,7 @@
 		"polish": "%firstName% czuje się podle. Istnieje ryzyko załamania nerwowego",
 		"japanese": "%firstName%は酷い気分です。おかしな行動をする危険があります。",
 		"czech": "%firstName% se cítí strašně a možná se zhroutí!",
+		"hungarian": "%firstName% pocsékul érzi magát. Hamarosan le fog robbanni.",
 	},
 	"moodDesc_Breakdown": {
 		"english": "%firstName% is having a breakdown. Nothing can console %himHer% now.",
@@ -68,6 +71,7 @@
 		"polish": "%firstName% ma załamanie nerwowe i nic %jegoJej% nie pocieszy w tej chwili.",
 		"japanese":  "%firstName%の心は衰弱しています。心を落ち着かせる必要があります。",
 		"czech": "%firstName% je zhroucen%yA% a neovladateln%yA%! Nelze mu zadat žádný úkol.",
+		"hungarian": "%firstName% lerobbant. Semmi sem vigasztalhatja meg.",
 	},
 	"moodDesc_LockedUp": {
 		"english": "%firstName% is locked up and is only concerned with freedom.",
@@ -85,6 +89,7 @@
 		"polish": "%firstName% jest uwięziony i myśli tylko o wolności.",
 		"japanese":  "%firstName%は閉じ込められて自由になる事だけを考えています。",
 		"czech": "%firstName% je stísněn%yA%. Zajímá se o to, jak být více svobodn%yA%.",
+		"hungarian": "%firstName% elkapták, és csak a szabadságára tud gondolni.",
 	},
 	"expectationDesc_Good": {
 		"english": "%firstName% is content with %hisHer% life in the colony.",
@@ -102,6 +107,7 @@
 		"polish": "%firstName% jest jest zadowolon%yA% ze swojego życia w osadzie.",
 		"japanese":  "%firstName%の住環境は十分に整っています。",
 		"czech": "%firstName% je spokojen%yA% s životem v kolinii.",
+		"hungarian": "%firstName% elégedett az életével a kolónián.",
 		
 	},
 	"expectationDesc_Neutral": {
@@ -120,6 +126,7 @@
 		"polish": "%firstName% oczekuje trochę więcej od tej osady. Migranci przybędą dopiero wtedy, gdy spełnią się oczekiwania kolonistów.",
 		"japanese":  "%firstName%の住環境はあと少しで整います。新たなコロニストの訪問が必要ならば住環境を整えてください。",
 		"czech": "%firstName% očekává od kolonie mnohem více. Další migranti se objeví až po naplnění očekávání zdejších kolonistů.",
+		"hungarian": "%firstName% egy picit többet várt a kolóniától. Csak akkor jönnek új bevándorlók, ha a telepesek elvárásai teljesítve vannak.",
 	},
 	"expectationDesc_Bad": {
 		"english": "%firstName% expects a lot more of this colony. Migrants will only come when the expectations of your colonists are fulfilled.",
@@ -137,6 +144,7 @@
 		"polish": "%firstName% oczekuje o wiele więcej od tej osady. Migranci przybędą dopiero wtedy, gdy spełnią się oczekiwania kolonistów.",
 		"japanese":  "%firstName%の住環境は全然整っていません。新たなコロニストの訪問が必要ならば住環境を整えてください",
 		"czech": "%firstName% očekává od kolonie něco málo navíc. Další migranti se objeví až po naplnění očekávání zdejších kolonistů.",
+		"hungarian": "%firstName% sokkal többet várt a kolóniától. Csak akkor jönnek új bevándorlók, ha a telepesek elvárásai teljesítve vannak.",
 	},
 	"expectationDesc_LockedUp": {
 		"english": "%firstName% is locked up by the goblins and doesn't count as part of the colony at the moment.",
@@ -154,6 +162,7 @@
 		"polish": "%firstName% jest uwięziony przez Gobliny i obecnie nie liczy się jako część osady.",
 		"japanese":  "%firstName%はティキゴブリンによって閉じ込められています。そのためコロニーの人口としてカウントされていません。",
 		"czech": "%firstName% je v zajetí goblinů a není tudíž k dispozici.",
+		"hungarian": "%firstName%-t elkapták a goblinok, így jelenleg nem képezi a kolóniád tagját.",
 	},
 	"colonistMoodDesc_destroyFurniture": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% is destroying the furniture of other colonists!",
@@ -171,6 +180,7 @@
 		"polish": "%firstName% ma załamanie nerwowe i w furii niszczy meble należące do innych kolonistów!",
 		"japanese":  "%firstName%の精神は崩壊しました。家具等の破壊を行います。",
 		"czech": "%firstName% se duševně zhroutil%lA% a ničí nábytek ostatních kolonistů!",
+		"hungarian": "%firstName% úgy érzi elege van! Most más telepesek bútorait teszi tönkre!",
 	},
 	"colonistMoodDesc_crazy": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% is hitting other colonists!",
@@ -188,6 +198,7 @@
 		"polish": "%firstName% ma załamanie nerwowe i w szale atakuje innych kolonistów!",
 		"japanese":  "%firstName%が錯乱しました。他のコロニストを襲います。",
 		"czech": "%firstName% se duševně zhroutil%lA% a mlátí ostatní kolonisty!",
+		"hungarian": "%firstName% úgy érzi elege van! Most más telepeseket bántalmaz!",
 	},
 	"colonistMoodDesc_lazyDay": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% decided to have a lazy day and take a lot of breaks.",
@@ -205,6 +216,7 @@
 		"polish": "%firstName% ma załamanie nerwowe i z tego powodu ma zamiar cały dzień się obijać.",
 		"japanese":  "%firstName%はやる気をなくしました。しばらくの間、休息します。",
 		"czech": "%firstName% se duševně zhroutil%lA% a má líný den. Bere si v tento den čas na odpočinek.",
+		"hungarian": "%firstName% úgy érzi elege van! Úgy döntött, hogy ma lustálkodik, és rengeteg szünetet tart.",
 	},
 	"colonistMoodDesc_notWorking": {
 		"english": "%firstName% is having a breakdown! %cap-heShe% refuses to work or follow any orders!",
@@ -222,5 +234,6 @@
 		"polish": "%firstName% ma załamanie nerwowe i odmawia wykonywania poleceń oraz słuchania innych",
 		"japanese":  "%firstName%の心は不信感で一杯になりました。しばらくの間、指示に従う事を拒否します",
 		"czech": "%firstName% se duševně zhroutil%lA% a odmítá pracovat nebo plnit jakékoli příkazy.",
+		"hungarian": "%firstName% úgy érzi elege van! Nem hajlandó dolgozni, vagy követni semmilyen utasítást!",
 	},
 }

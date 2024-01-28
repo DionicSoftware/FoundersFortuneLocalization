@@ -1,4 +1,4 @@
-﻿{
+{
 	"skillTitle_Undefined": {
 		"english": "Unknown Skill",
 		"dutch": "Onbekend bekwaamheid",
@@ -16,6 +16,7 @@
 		"polish": "Umiejętność nieznana",
 		"japanese": "未知のスキル",
 		"czech": "Neznámá schopnost",
+		"hungarian": "Ismeretlen készség",
 	},
 
 
@@ -36,6 +37,7 @@
 		"czech": "Lesnictví",
 		"korean": "벌목의 기초",
 		"ukrainian": "Основи лісництва",
+		"hungarian": "Erdészet alpajai",
 	},
 	"skillDesc_foresterBasics": {
 		"english": "Can chop trees and that's basically it.",
@@ -53,6 +55,7 @@
 		"czech": "Dokáže pouze kácet stromy.",
 		"korean": "나무를 자를 수 있고요, 그게 답니다.",
 		"ukrainian": "Може зрубувати дерева, та й на цьому все.",
+		"hungarian": "Ki tud vágni fákat, és... nagyjából ennyi.",
 	},
 	"skillTitle_woodcuttingStoneTools": {
 		"english": "Stone Tools",
@@ -70,6 +73,7 @@
 		"czech": "Kamenné nástroje",
 		"korean": "석재 도구",
 		"ukrainian": "Кам'яні інструменти",
+		"hungarian": "Kőszerszámok",
 	},
 	"skillDesc_woodcuttingStoneTools": {
 		"english": "Can use stone tools to cut trees.",
@@ -87,6 +91,7 @@
 		"czech": "Může používat kamenné nástroje pro kácení stromů.",
 		"korean": "나무를 자르는 데 석재 도구를 사용할 수 있습니다.",
 		"ukrainian": "Може використовувати кам'яні інструменти щоб зрубувати дерева.",
+		"hungarian": "Tud használni kőszerszámokat favágáshoz.",
 	},
 	"skillTitle_woodcuttingMetalTools": {
 		"english": "Metal Tools",
@@ -103,6 +108,7 @@
 		"czech": "Kovové nástroje",
 		"korean": "철 도구",
 		"ukrainian": "Металеві інструменти",
+		"hungarian": "Fémszerszámok",
 	},
 	"skillDesc_woodcuttingMetalTools": {
 		"english": "Can use metal tools to cut trees.",
@@ -119,6 +125,7 @@
 		"czech": "Může používat kovové nástroje pro kácení stromů.",
 		"korean": "나무를 자르는데 철 도구를 사용할 수 있습니다.",
 		"ukrainian": "Може використовувати металеві інструменти щоб зрубувати дерева.",
+		"hungarian": "Tud használni fémszerszámokat favágáshoz.",
 	},
 	"skillTitle_growingTrees": {
 		//TODO-russian: pine trees
@@ -138,6 +145,7 @@
 		"czech": "Výsadba borovic",
 		"korean": "소나무 심기",
 		"ukrainian": "Посадка сосен",
+		"hungarian": "Fenyőfa ültetése",
 	},
 	"skillDesc_growingTrees": {
 		"english": "Can plant and care for new pine trees.",
@@ -155,6 +163,7 @@
 		"czech": "Může vysadit borovice a pečovat o ně.",
 		"korean": "소나무를 심고 기를 수 있습니다.",
 		"ukrainian": "Може садити та доглядати за соснами",
+		"hungarian": "Tud ültetni és gondozni új fenyőfákat.",
 	},
 	"skillTitle_growingAppleTrees": {
 		"english": "Planting Apple Trees",
@@ -172,6 +181,7 @@
 		"czech": "Výsadba jabloní",
 		"korean": "사과 나무 심기",
 		"ukrainian": "Посадка яблунь",
+		"hungarian": "Almafa ültetése",
 	},
 	"skillDesc_growingAppleTrees": {
 		"english": "Can plant and care for new apple trees.",
@@ -189,6 +199,7 @@
 		"czech": "Dokáže vysadit jabloně a pečovat o ně",
 		"korean": "사과 나무를 심고 기를 수 있습니다.", 
 		"ukrainian": "Може садити та доглядати за яблунями",
+		"hungarian": "Tud ültetni és gondozni új almafákat.",
 	},
 	"skillTitle_growingCotton": {
 		"english": "Planting Cotton",
@@ -206,6 +217,7 @@
 		"czech": "Výsadba bavlny",
 		"korean": "목화 심기",
 		"ukrainian": "Посадка бавовни",
+		"hungarian": "Gyapot ültetése",
 	},
 	"skillDesc_growingCotton": {
 		"english": "Can plant and care for new cotton plants.",
@@ -223,6 +235,7 @@
 		"czech": "Dokáže vysadit bavlník a pečovat o něj",
 		"korean": "목화 나무를 심고 기를 수 있습니다.",
 		"ukrainian": "Може садити та доглядати за бавовною",
+		"hungarian": "Tud ültetni és gondozni új gyapot cserjéket.",
 	},
 	"skillTitle_foresterMasterOutfit": {
 		"english": "Master Outfit",
@@ -240,6 +253,7 @@
 		"czech": "Oblek mistra",
 		"korean": "베테랑 복장",
 		"ukrainian": "Вбрання Майстра",
+		"hungarian": "Mester ruházat",
 	},
 	"skillDesc_foresterMasterOutfit": {
 		"english": "Can wear outfits meant for master foresters.",
@@ -257,6 +271,7 @@
 		"czech": "Může nosit oblečení určené pro lesnické mistry.",
 		"korean": "베테랑 나무꾼을 위한 옷을 입을 수 있습니다.",
 		"ukrainian": "Може носити вбрання, призначене для лісників-майстрів",
+		"hungarian": "Tudja viselni az Erdész Mester ruhákat.",
 	},
 
 
@@ -277,6 +292,7 @@
 		"czech": "Hornictví",
 		"korean":"채광의 기초",
 		"ukrainian": "Основи гірничої справи",
+		"hungarian": "Bányászat alapjai",
 	},
 	"skillDesc_minerBasics": {
 		"english": "Can mine stone and crystals.",
@@ -294,6 +310,7 @@
 		"czech": "Dokáže těžit kámen a krystaly",
 		"korean": "돌과 크리스탈을 채굴 할 수 있습니다.",
 		"ukrainian": "Може видобувати камінь і кристали",
+		"hungarian": "Tud követ és kristályokat fejteni.",
 	},
 	"skillTitle_miningIron": {
 		"english": "Mining Iron",
@@ -311,6 +328,7 @@
 		"czech": "Těžba železa",
 		"korean": "철광석 채광",
 		"ukrainian": "Видобуток заліза",
+		"hungarian": "Vas bányászás",
 	},
 	"skillDesc_miningIron": {
 		"english": "Can mine iron ore.",
@@ -328,6 +346,7 @@
 		"czech": "Dokáže těžit železnou rudu.",
 		"korean": "철광석을 채굴 할 수 있습니다.",
 		"ukrainian": "Може видобувати залізну руду",
+		"hungarian": "Tud bányászni vasércet.",
 	},
 	"skillTitle_miningStoneTools": {
 		"english": "Stone Tools",
@@ -345,6 +364,7 @@
 		"czech": "Kamenné nástroje",
 		"korean": "석재 도구",
 		"ukrainian": "Кам'яні інструменти",
+		"hungarian": "Kőszerszámok",
 	},
 	"skillDesc_miningStoneTools": {
 		"english": "Can use stone tools to mine.",
@@ -362,6 +382,7 @@
 		"czech": "Dokáže používat k těžbě kamenné nástroje.",
 		"korean": "채굴 할 때 석재 도구를 사용 할 수 있습니다.",
 		"ukrainian": "Може використовувати кам'яні інструменти для видобутку.",
+		"hungarian": "Tud használni kőszerszámokat a bányászáshoz.",
 	},
 	"skillTitle_miningMetalTools": {
 		"english": "Metal Tools",
@@ -379,6 +400,7 @@
 		"czech": "Kovové nástoje",
 		"korean": "철제 도구",
 		"ukrainian": "Металеві інструменти",
+		"hungarian": "Fémszerszámok",
 	},
 	"skillDesc_miningMetalTools": {
 		"english": "Can use metal tools to mine.",
@@ -396,6 +418,7 @@
 		"czech": "Dokáže užívat kovové nástroje k těžbě.",
 		"korean": "채굴 할 때 철제 도구를 사용할 수 있습니다.",
 		"ukrainian": "Може використовувати металеві інструменти для видобутку.",
+		"hungarian": "Tud használni fémszerszámokat a bányászáshoz.",
 	},
 	"skillTitle_deepStoneMine": {
 		"english": "Deep Stone Mining",
@@ -413,6 +436,7 @@
 		"czech": "Těžba v dolech na kámen",
 		"korean": "석재 광산 채광",
 		"ukrainian": "Глибинний видобуток каменю",
+		"hungarian": "Mélységi kőfejtés",
 	},
 	"skillDesc_deepStoneMine": {
 		"english": "Can go into deep mines to dig for additional stone.",
@@ -430,6 +454,7 @@
 		"czech": "Dokáže v dolech těžit kámen.",
 		"korean": "추가 석재를 캘 수 있는 깊은 광산에 출입 할 수 있습니다.",
 		"ukrainian": "Може спускатись у глибокі шахти, щоб видобути більше каменю.",
+		"hungarian": "Le tud menni a mélységi bányákba követ fejteni.",
 	},
 	"skillTitle_deepIronMine": {
 		"english": "Deep Iron Mining",
@@ -447,6 +472,7 @@
 		"czech": "Těžba v dolech na železo.",
 		"korean": "철 광산 채광",
 		"ukrainian": "Глибинний видобуток заліза",
+		"hungarian": "Mélységi vasbányászat",
 	},
 	"skillDesc_deepIronMine": {
 		"english": "Can go into deep mines to dig for additional iron ore.",
@@ -463,6 +489,7 @@
 		"czech": "Dokáže v železných dolech těžit železnou rudu.",
 		"korean": "추가 철광석을 캘 수 있는 깊은 광산에 출입 할 수 있습니다.",
 		"ukrainian": "Може спускатись у глибокі шахти, щоб видобути більше залізної руди.",
+		"hungarian": "Le tud menni a mélységi bányákba vasat bányászni.",
 	},
 	"skillTitle_deepCrystalMine": {
 		"english": "Deep Crystal Mining",
@@ -479,6 +506,7 @@
 		"czech": "Těžba v dolech na krystaly",
 		"korean": "크리스탈 광산 채광",
 		"ukrainian": "Глибинний видобуток кристалів",
+		"hungarian": "Mélységi kristály bányászat",
 	},
 	"skillDesc_deepCrystalMine": {
 		"english": "Can go into deep mines to dig for additional crystals.",
@@ -495,6 +523,7 @@
 		"czech": "Dokáže těžit krystaly v krystalových dolech.",
 		"korean": "추가 크리스탈을 캘 수 있는 깊은 광산에 출입할 수 있습니다.",
 		"ukrainian": "Може спускатись у глибокі шахти, щоб видобути більше кристалів.",
+		"hungarian": "Le tud menni a mélységi bányákba kristályt bányászni.",
 	},
 	"skillTitle_minerMasterOutfit": {
 		"english": "Master Outfit",
@@ -511,6 +540,7 @@
 		"czech": "Oblek mistra",
 		"korean": "베테랑 복장",
 		"ukrainian": "Вбрання Майстра",
+		"hungarian": "Mester ruházat",
 	},
 	"skillDesc_minerMasterOutfit": {
 		"english": "Can wear outfits meant for master miners.",
@@ -527,6 +557,7 @@
 		"czech": "Může nosit oblečení určené pro mistry horníků.",
 		"korean": "베테랑 광부를 위한 복장을 입을 수 있습니다.",
 		"ukrainian": "Може носити вбрання, призначене для гірників-майстрів",
+		"hungarian": "Tudja viselni a Bányász Mester ruhákat.",
 	},
 
 
@@ -547,6 +578,7 @@
 		"czech": "Farmaření",
 		"korean": "농업의 기초",
 		"ukrainian": "Основи фермерства",
+		"hungarian": "Gazdálkodás alapjai",
 	},
 	"skillDesc_farmerBasics": {
 		"english": "Knows enough how to stop plants from dying.",
@@ -563,6 +595,7 @@
 		"czech": "Schopnost starat se o rostlinstvo.",
 		"korean": "식물을 말라 죽이지 않을 정도는 압니다.",
 		"ukrainian": "Знає достатньо, щоб %hisHer% городина не гинула відразу ж.",
+		"hungarian": "Eleget tud ahhoz, hogy ne engedj meghalni a növényeket.",
 	},
 	"skillTitle_sowStrawberries": {
 		"english": "Sowing Strawberries",
@@ -579,6 +612,7 @@
 		"czech": "Sázení jahod",
 		"korean": "딸기 심기",
 		"ukrainian": "Посів полуниці",
+		"hungarian": "Eper ültetés",
 	},
 	"skillDesc_sowStrawberries": {
 		"english": "Can sow strawberries.",
@@ -595,6 +629,7 @@
 		"czech": "Umí sázet jahody na záhonek.",
 		"korean": "딸기를 심을 수 있습니다.",
 		"ukrainian": "Може посіяти полуницю.",
+		"hungarian": "Tud epret ültetni.",
 	},
 	"skillTitle_sowWheat": {
 		"english": "Sowing Wheat",
@@ -611,6 +646,7 @@
 		"czech": "Sázení pšenice",
 		"korean": "밀 심기",
 		"ukrainian": "Посів пшениці",
+		"hungarian": "Búza ültetés",
 	},
 	"skillDesc_sowWheat": {
 		"english": "Can sow wheat.",
@@ -627,6 +663,7 @@
 		"czech": "Umí vysadit pšenici.",
 		"korean": "밀을 기를 수 있습니다.",
 		"ukrainian": "Може посіяти пшеницю.",
+		"hungarian": "Tud búzát ültetni.",
 	},
 	"skillTitle_campfireCooking": {
 		"english": "Cooking at Campfire",
@@ -643,6 +680,7 @@
 		"czech": "Vaření na ohništi",
 		"korean": "모닥불 요리",
 		"ukrainian": "Приготування їжі на багатті",
+		"hungarian": "Sütés a tábortűzben",
 	},
 	"skillDesc_campfireCooking": {
 		"english": "Can roast some food over the campfire.",
@@ -659,6 +697,7 @@
 		"czech": "Umí vařit na ohništi.",
 		"korean": "모닥불로 몇가지 음식을 구울 수 있습니다.",
 		"ukrainian": "Може підсмажити трохи їжі на багатті",
+		"hungarian": "Tud ételt sütni a tábortűzben.",
 	},
 	"skillTitle_kitchenCooking": {
 		"english": "Cooking at Kitchen",
@@ -675,6 +714,7 @@
 		"czech": "Vaření v kuchyni.",
 		"korean": "조리대 요리",
 		"ukrainian": "Приготування їжі на кухні",
+		"hungarian": "Főzés a konyhán",
 	},
 	"skillDesc_kitchenCooking": {
 		"english": "Can make delicious meals in the kitchen.",
@@ -691,6 +731,7 @@
 		"czech": "Umí vařit chutná jídla v kuchyni.",
 		"korean": "조리대에서 맛있는 식사를 만들 수 있습니다.",
 		"ukrainian": "Може готувати смачнющі страви на кухні",
+		"hungarian": "Tud finom ételeket főzni a konyhán.",
 	},
 	"skillTitle_bakeryCooking": {
 		"english": "Baking at Bakery",
@@ -707,6 +748,7 @@
 		"czech": "Umění pekařství",
 		"korean": "화덕 요리",
 		"ukrainian": "Випікання в пекарні",
+		"hungarian": "Sütés a sütőben",
 	},
 	"skillDesc_bakeryCooking": {
 		"english": "Can use the bakery to make all kinds of baked goods.",
@@ -723,6 +765,7 @@
 		"czech": "Dokáže uplatnit svou schonost pekaře.",
 		"korean": "화덕을 사용하여 모든 종류의 화덕 요리를 만들 수 있습니다.",
 		"ukrainian": "Може використовувати пекарню для приготування різноманітної випічки.",
+		"hungarian": "Tudja használni a sütőt, mindenféle pékáru elkészítéséhez.",
 	},
 	"skillTitle_animalCare": {
 		"english": "Animal Care",
@@ -739,6 +782,7 @@
 		"czech": "Péče o zvířata",
 		"korean": "동물 다루기",
 		"ukrainian": "Догляд за тваринами",
+		"hungarian": "Állattartás",
 	},
 	"skillDesc_animalCare": {
 		"english": "Can tame wild animals and care for them.",
@@ -755,6 +799,7 @@
 		"czech": "Dokáže ochočit a starat se o divokou zvěř.",
 		"korean": "야생동물을 길들이고 기를 수 있습니다.",
 		"ukrainian": "Може приручати диких тварин та доглядати за ними.",
+		"hungarian": "Be tud szelidíteni vadon éllő állatokat, és el tudja látni azokat.",
 	},
 	"skillTitle_shearingSheep": {
 		"english": "Shearing Sheep",
@@ -771,6 +816,7 @@
 		"czech": "Stříhání ovcí",
 		"korean": "양털깎기",
 		"ukrainian": "Стрижка овець",
+		"hungarian": "Birkanyírás",
 	},
 	"skillDesc_shearingSheep": {
 		"english": "Can shear sheep to get wool.",
@@ -787,6 +833,7 @@
 		"czech": "Dokáže stříhat ovce pro získání vlny.",
 		"korean": "양모를 획득하기 위해 양털을 깎을 수 있습니다.",
 		"ukrainian": "Може стригти овець, щоб отримати вовну.",
+		"hungarian": "Tudja hogy kell megnyírni a birkákat, hogy gyapjat kapjon.",
 	},
 	"skillTitle_farmerMasterOutfit": {
 		"english": "Master Outfit",
@@ -803,6 +850,7 @@
 		"czech": "Oblek mistra",
 		"korean": "베테랑 복장",
 		"ukrainian": "Вбрання Майстра",
+		"hungarian": "Mester ruházat",
 	},
 	"skillDesc_farmerMasterOutfit": {
 		"english": "Can wear outfits meant for master farmers.",
@@ -819,6 +867,7 @@
 		"czech": "Může nosit oblečení určené pro mistry farmáře.",
 		"korean": "베테랑 농부를 위한 복장을 입을 수 있습니다.",
 		"ukrainian": "Може носити вбрання, призначене для фермерів-майстрів",
+		"hungarian": "Tudja viselni a Gazda Mester ruhákat.",
 	},
 
 
@@ -838,6 +887,7 @@
 		"czech": "Řemeslo",
 		"korean": "수공예의 기초",
 		"ukrainian": "Основи ремесла",
+		"hungarian": "Kézművesség alapjai",
 	},
 	"skillDesc_craftsmanBasics": {
 		"english": "Can tell a hammer from a nail.",
@@ -854,6 +904,7 @@
 		"czech": "Dokáže vyrábět předměty na řemeslných strojích.",
 		"korean": "못 사이에서 망치를 골라낼 수 있습니다.",
 		"ukrainian": "Може відрізнити молоток від цвяха.",
+		"hungarian": "Meg tudja különböztetni a kalapácsot a szögtől.",
 	},
 	"skillTitle_forging": {
 		"english": "Forging",
@@ -870,6 +921,7 @@
 		"czech": "Kovářství",
 		"korean": "단조",
 		"ukrainian": "Ковальство",
+		"hungarian": "Kovácsolás",
 	},
 	"skillDesc_forging": {
 		"english": "Can use the forge to make tools, weapons, and armor.",
@@ -886,6 +938,7 @@
 		"czech": "Umí používat kovářskou pec pro výrobu nástrojů, zbraní a zbroje.",
 		"korean": "도구, 무기, 갑옷을 만들기 위해 대장간을 사용할 수 있습니다.", 
 		"ukrainian": "Може використовувати кузню для виготовлення інструментів, зброї та броні.",
+		"hungarian": "Tudja használni a kohót szerszámok, fegyverek. és páncélok készítéséhez.",
 	},
 	"skillTitle_makingBows": {
 		"english": "Making Bows",
@@ -902,6 +955,7 @@
 		"czech": "Výroba luků",
 		"korean": "활 제작",
 		"ukrainian": "Виготовлення луків.",
+		"hungarian": "Íjkészítés",
 	},
 	"skillDesc_makingBows": {
 		"english": "Can make bows.",
@@ -918,6 +972,7 @@
 		"czech": "Umí vyrábet střelecké luky.",
 		"korean": "활을 제작 할 수 있습니다.",
 		"ukrainian": "Може виготовляти луки.",
+		"hungarian": "Tud íjakat készíteni.",
 	},
 	"skillTitle_tailoring": {
 		"english": "Tailoring",
@@ -934,6 +989,7 @@
 		"czech": "Tkalcovství",
 		"korean": "재봉",
 		"ukrainian": "Кравецтво",
+		"hungarian": "Szabás",
 	},
 	"skillDesc_tailoring": {
 		"english": "Can use the tailor's workshop to make clothes and armor.",
@@ -950,6 +1006,7 @@
 		"czech": "Umí používat tkalcovský stůl pro výrobu oblečení a zbroje.",
 		"korean": "재봉사의 작업대에서 옷과 갑옷을 만들 수 있습니다.",
 		"ukrainian": "Може використовувати кравецьку майстерню для пошиття одягу та обладунків.",
+		"hungarian": "Tudja használni a Szabóműhelyt ruhák, és páncélok készítéséhez.",
 	},
 	"skillTitle_weaving": {
 		"english": "Weaving",
@@ -966,6 +1023,7 @@
 		"czech": "Tkaní",
 		"korean": "직조",
 		"ukrainian": "Ткацтво",
+		"hungarian": "Szövés",
 	},
 	 // description doesn't exist (yet)
 	"skillTitle_tailoringMaster": {
@@ -983,6 +1041,7 @@
 		"czech": "Umí utkat složitější oblečení a zbroj.",
 		"korean": "고급 옷 재단",
 		"ukrainian": "Робота зі складними тканинами.",
+		"hungarian": "Nehéz szöveteket sző.",
 	},
 	"skillDesc_tailoringMaster": {
 		"english": "Some clothes require additional expertise to make.",
@@ -999,6 +1058,7 @@
 		"czech": "K výrobě oblečení je zapotřebí dodatečná dovednost.",
 		"korean": "어떤 옷들은 만드려면 추가적인 전문 지식이 필요한 법입니다.",
 		"ukrainian": "Деякий одяг вимагає додаткових навичок для виготовлення.",
+		"hungarian": "Néhány ruha több tapasztalatot igényel az elkészítéséhez.",
 	},
 	"skillTitle_craftsmanMasterOutfit": {
 		"english": "Master Outfit",
@@ -1015,6 +1075,7 @@
 		"czech": "Oblek mistra",
 		"korean": "베테랑 복장",
 		"ukrainian": "Вбрання Майстра",
+		"hungarian": "Mester ruházat",
 	},
 	"skillDesc_craftsmanMasterOutfit": {
 		"english": "Can wear outfits meant for master craftsmen.",
@@ -1031,6 +1092,7 @@
 		"czech": "Může nosit oblečení určené pro mistry řemeslníky.",
 		"korean": "베테랑 수공업자를 나타내는 복장을 입을 수 있습니다.",
 		"ukrainian": "Може носити вбрання, призначене для ремісників-майстрів",
+		"hungarian": "Tudja viselni a Kézműves Mester ruhákat.",
 	},
 
 
@@ -1051,6 +1113,7 @@
 		"czech": "Lékařství",
 		"korean": "의학의 기초",
 		"ukrainian": "Основи медицини",
+		"hungarian": "Orvoslás alapjai",
 	},
 	"skillDesc_doctorBasics": {
 		"english": "Can tell medicine from poison (most times).",
@@ -1067,6 +1130,7 @@
 		"czech": "Umí léčit otravu jedem (většinou).",
 		"korean": "약과 독을 구분할 수 있습니다.(대부분은).",
 		"ukrainian": "Може відрізнити ліки від отрути (в більшості випадків).",
+		"hungarian": "Meg tudja különböztetni a gyógyszereket a mérgektől (többnyire).",
 	},
 	"skillTitle_fluTreatment": {
 		"english": "Flu Treatment",
@@ -1083,6 +1147,7 @@
 		"czech": "Léčba chřipky",
 		"korean": "독감 치료",
 		"ukrainian": "Лікування грипу",
+		"hungarian": "Infulenza kezelés",
 	},
 	"skillDesc_fluTreatment": {
 		"english": "Can try simple treatments for the flu.",
@@ -1099,6 +1164,7 @@
 		"czech": "Dokáže léčit nemocné chřipkou za pomoci jednoduchých receptů.",
 		"korean": "독감 치료를 위해 간단한 처치를 시도해 볼 수 있습니다.",
 		"ukrainian": "Може спробувати прості методи лікування грипу.",
+		"hungarian": "Tud alap kezeléseket használni az infulenza ellen.",
 	},
 	"skillTitle_makingMedicalPotions": {
 		"english": "Medical Potions",
@@ -1115,6 +1181,7 @@
 		"czech": "Léčivé lektvary",
 		"korean": "회복약",
 		"ukrainian": "Цілющі зілля",
+		"hungarian": "Gyógyitalok",
 	},
 	"skillDesc_makingMedicalPotions": {
 		"english": "Can make healing potions.",
@@ -1131,6 +1198,7 @@
 		"czech": "Umí vytvářet léčivé lektvary.",
 		"korean": "체력 포션을 만들 수 있습니다.",
 		"ukrainian": "Може виготовляти цілющі зілля.",
+		"hungarian": "Tud gyógyitalokat készíteni.",
 	},
 	"skillTitle_betterFluTreatments": {
 		"english": "Better Flu Treatment",
@@ -1147,6 +1215,7 @@
 		"czech": "Lepší léčba chřipky",
 		"korean": "강력 독감 치료",
 		"ukrainian": "Краще лікування грипу",
+		"hungarian": "Fejlettebb infulenza kezelés",
 	},
 	"skillDesc_betterFluTreatments": {
 		"english": "Flu treatments have a higher chance of succeeding.",
@@ -1163,6 +1232,7 @@
 		"czech": "Léčba chřipky má větší šanci na úspěch.",
 		"korean": "독감 치료를 성공할 가능성이 매우 높아집니다.",
 		"ukrainian": "Лікування грипу має вищі шанси на успіх.",
+		"hungarian": "Az infulenza ellen nagyobb sikerrel végzi a kezeléseket.",
 	},
 	"skillTitle_applySplints": {
 		"english": "Applying Splints",
@@ -1179,6 +1249,7 @@
 		"czech": "Aplikace dlahy",
 		"korean": "부목 대기",
 		"ukrainian": "Накладення шин",
+		"hungarian": "Sínek használata",
 	},
 	"skillDesc_applySplints": {
 		"english": "Can apply splints to heal a hurt or broken limb.",
@@ -1195,6 +1266,7 @@
 		"czech": "Umí aplikovat dlahu na zraněné nebo zlomené končetiny.",
 		"korean": "다치거나 부러진 팔다리에 부목을 댈 수 있습니다.",
 		"ukrainian": "Може накласти шину, щоб вилікувати пошкоджену або зламану кінцівку.",
+		"hungarian": "Sínbe tudja tenni a sérült, vagy eltört végtagokat.",
 	},
 	"skillTitle_splintMaster": {
 		"english": "Splint Master",
@@ -1211,6 +1283,7 @@
 		"czech": "Mistr dlahy",
 		"korean": "부목 전문가",
 		"ukrainian": "Маестро шин",
+		"hungarian": "Sín szakértő",
 	},
 	"skillDesc_splintMaster": {
 		"english": "Has a lower probability for messing up splints.",
@@ -1226,7 +1299,8 @@
 		"japanese": "添え木を使って簡易より優れた良質な手足の負傷、骨折の治療をする事ができます。",
 		"czech": "Dokáže aplikovat dlahu s větší úspěšností.",
 		"korean": "부목 대기를 망칠 확룰이 낮아집니다.",
-		"ukrainian": "Має меншу вірогідність облажатися накладаючи шину."
+		"ukrainian": "Має меншу вірогідність облажатися накладаючи шину.",
+		"hungarian": "Kevesebb eséllyel bénázza el a sínek feltételét.",
 	},
 	"skillTitle_doctorMasterOutfit": {
 		"english": "Master Outfit",
@@ -1243,6 +1317,7 @@
 		"czech": "Oblek mistra",
 		"korean": "베테랑 복장",
 		"ukrainian": "Вбрання Майстра",
+		"hungarian": "Mester ruházat",
 	},
 	"skillDesc_doctorMasterOutfit": {
 		"english": "Can wear outfits meant for master doctors.",
@@ -1259,6 +1334,7 @@
 		"czech": "Může nosit oblečení určené pro mistry lékaře.",
 		"korean": "베테랑 의사를 위한 복장을 입을 수 있습니다.",
 		"ukrainian": "Може носити вбрання, призначене для лікарів-майстрів",
+		"hungarian": "Tudja viselni a Orvos Mester ruhákat.",
 	},
 
 
@@ -1278,6 +1354,7 @@
 		"czech": "Vědec",
 		"korean":"연구의 근본",
 		"ukrainian": "Академічні основи",
+		"hungarian": "Alapvető tudományok",
 	},
 	"skillDesc_scholarBasics": {
 		"english": "Has understood the basics of the scientific method.",
@@ -1294,6 +1371,7 @@
 		"czech": "Chápe základy přírodních věd.",
 		"korean": "과학적 방법의 기본을 이해할 수 있습니다.", 
 		"ukrainian": "Осягну%hesheEnd% основи наукової методології.",
+		"hungarian": "Megérti az alap tudományos módszereket.",
 	},
 	"skillTitle_researchScrolls": {
 		"english": "Research Scrolls",
@@ -1310,6 +1388,7 @@
 		"czech": "Zkoumání svitků",
 		"korean": "스크롤 연구",
 		"ukrainian": "Дослідження сувоїв",
+		"hungarian": "Kutató tekercsek",
 	},
 	"skillDesc_researchScrolls": {
 		"english": "Can read ancient scrolls to gain some knowledge out of them.",
@@ -1326,6 +1405,7 @@
 		"czech": "Dokáže číst starobylé svitky k získání vědomostí.",
 		"korean": "고대의 스크롤을 읽고 지식을 이끌어낼 수 있습니다.",
 		"ukrainian": "Може читати стародавні сувої, щоб отримати з них трохи знань.",
+		"hungarian": "El tudja olvasni az ősi tekercseket, ez által növelni a tudását.",
 	},
 	"skillTitle_teaching": {
 		"english": "Teaching",
@@ -1342,6 +1422,7 @@
 		"czech": "Učení",
 		"korean": "교육",
 		"ukrainian": "Вчителювання",
+		"hungarian": "Tanítás",
 	},
 	"skillDesc_teaching": {
 		"english": "Can teach children life skills. In person teaching is always quicker then letting children learn from books.",
@@ -1358,6 +1439,7 @@
 		"czech": "Umí učit děti životním schopnostem tváří v tvář. Je to rychlejší než výuka z knih.",
 		"korean": "아이들에게 생활 기술을 가르칠 수 있습니다. 아이들이 혼자서 책을 읽는 것보다 어른이 직접 가르치는 것이 훨씬 빨리 익힐 수 있어요.", 
 		"ukrainian": "Може навчати дітей життєвих навичок. Навчати особисто завжди швидше, ніж змушувати дітей вчитися по книжках.",
+		"hungarian": "Át tudja adni a gyermekeknek az élet tapasztalatát. Egy tanár gyorsabban tanítja a gyerekeket, mint a könyvek.",
 	},
 	"skillTitle_scholarMasterOutfit": {
 		"english": "Master Outfit",
@@ -1374,6 +1456,7 @@
 		"czech": "Oblek mistra",
 		"korean": "베테랑 복장",
 		"ukrainian": "Вбрання Майстра",
+		"hungarian": "Mester ruházat",
 	},
 	"skillDesc_scholarMasterOutfit": {
 		"english": "Can wear outfits meant for master scholars.",
@@ -1390,6 +1473,7 @@
 		"czech": "Může nosit oblečení určené pro mistrovské vědce.",
 		"korean": "베테랑 학자를 위한 복장을 입을 수 있습니다.",
 		"ukrainian": "Може носити вбрання, призначене для вчених-майстрів",
+		"hungarian": "Tudja viselni a Tudós Mester ruhákat.",
 	},
 
 
@@ -1409,6 +1493,7 @@
 		"czech": "Základy boje",
 		"korean": "전투의 기초",
 		"ukrainian": "Основи бою",
+		"hungarian": "A harc alapjai",
 	},
 	"skillDesc_soldierBasics": {
 		"english": "Knows to aim the pointy end of the stick at the enemy.",
@@ -1425,6 +1510,7 @@
 		"czech": "Dokáže se ubránit klackem.",
 		"korean": "막대기의 날카로운 끝부분을 적에게 가리킬 수 있습니다.",
 		"ukrainian": "Знає, що загостреним кінцем палиці потрібно цілитись у ворога.",
+		"hungarian": "Tudja, hogy a bot hegyes végét kell az ellenfél felé tartani.",
 	},
 	"skillTitle_fightWoodenSwords": {
 		"english": "Wooden Swords",
@@ -1441,6 +1527,7 @@
 		"czech": "Dřevěný meč",
 		"korean": "나무칼",
 		"ukrainian": "Дерев'яні мечі",
+		"hungarian": "Fa kardok",
 	},
 	"skillDesc_fightWoodenSwords": {
 		"english": "Can fight with wooden swords.",
@@ -1457,6 +1544,7 @@
 		"czech": "Umí používat dřevěný meč k boji.",
 		"korean": "나무칼을 사용 할 수 있습니다.",
 		"ukrainian": "Може використовувати дерев'яний меч у бою.",
+		"hungarian": "Tud fa kardokkal küzdeni.",
 	},
 	"skillTitle_fightStoneSwords": {
 		"english": "Stone Swords",
@@ -1473,6 +1561,7 @@
 		"czech": "Kamenný meč",
 		"korean": "돌칼",
 		"ukrainian": "Кам'яні мечі",
+		"hungarian": "Kőkardok",
 	},
 	"skillDesc_fightStoneSwords": {
 		"english": "Can fight with stone swords.",
@@ -1489,6 +1578,7 @@
 		"czech": "Dokáže používat kamenný meč k boji.",
 		"korean": "돌칼을 사용할 수 있습니다.",
 		"ukrainian": "Може використовувати кам'яний меч у бою.",
+		"hungarian": "Tud kőkardokkal küzdeni.",
 	},
 	"skillTitle_fightMetalSwords": {
 		"english": "Metal Swords",
@@ -1505,6 +1595,7 @@
 		"czech": "Kovový meč",
 		"korean": "철검",
 		"ukrainian": "Металеві мечі",
+		"hungarian": "Fém kardok",
 	},
 	"skillDesc_fightMetalSwords": {
 		"english": "Can fight with metal swords.",
@@ -1521,6 +1612,7 @@
 		"czech": "Dokáže používat kovový meč k boji.",
 		"korean": "철검을 사용 할 수 있습니다.",
 		"ukrainian": "Може використовувати металевий меч у бою.",
+		"hungarian": "Tud fém kardokkal küzdeni.",
 	},
 	"skillTitle_fightBow": {
 		"english": "Archery",
@@ -1537,6 +1629,7 @@
 		"czech": "Lukostřelba",
 		"korean": "활",
 		"ukrainian": "Стрільба з лука",
+		"hungarian": "Íjászat",
 	},
 	"skillDesc_fightBow": {
 		"english": "Can use ranged weapons to hurt the enemy from afar.",
@@ -1553,6 +1646,7 @@
 		"czech": "Umí použít zbraně na dálku ke zranění nepřátel.",
 		"korean": "멀리 있는 적을 공격하기 위한 원거리 무기를 사용할 수 있습니다.",
 		"ukrainian": "Може використовувати дальнобійну зброю, щоб завдати шкоди ворогу здалеку.",
+		"hungarian": "Távolsági fegyvereket is képes használni, hogy távolról is sebezhesse az ellenfeleket.",
 	},
 	"skillTitle_martialArts": {
 		"english": "Martial Arts",
@@ -1569,6 +1663,7 @@
 		"czech": "Bojová umění",
 		"korean": "무술",
 		"ukrainian": "Бойові мистецтва",
+		"hungarian": "Harcművészetek",
 	},
 	"skillDesc_martialArts": {
 		"english": "Can deal extra damage when unarmed.",
@@ -1585,6 +1680,7 @@
 		"czech": "Používá bojová umění ke zvýšení zranění protivníka.",
 		"korean": "비무장 상태에서 추가적 피해를 입힐 수 있습니다.",
 		"ukrainian": "Може завдати додаткової шкоди, коли не озброєн%heshe_IY_A%.",
+		"hungarian": "Nagyobb sebzést ér el puszta kézzel.",
 	},
 	"skillTitle_sneaking": {
 		"english": "Sneaking",
@@ -1601,6 +1697,7 @@
 		"czech": "Plížení",
 		"korean": "은신",
 		"ukrainian": "Ніндзюцу",
+		"hungarian": "Lopakodás",
 	},
 	"skillDesc_sneaking": {
 		"english": "Can walk around enemy camps without waking anyone.",
@@ -1617,6 +1714,7 @@
 		"czech": "Dokáže se plížit nepozorovaně kolem nepřátelských táborů.",
 		"korean": "적군 캠프 근처를 아무도 깨우지 않고 걸어다닐 수 있습니다.",
 		"ukrainian": "Може ходити поблизу ворожих таборів не привертаючи уваги.",
+		"hungarian": "Úgy tud végigsétálni a tábor körül, hogy ne keltsen fel senkit.",
 	},
 	"skillTitle_mediumArmor": {
 		"english": "Medium Armor",
@@ -1633,6 +1731,7 @@
 		"czech": "Střední zbroj",
 		"korean": "평갑",
 		"ukrainian": "Середня броня",
+		"hungarian": "Közepes páncél",
 		
 	},
 	"skillDesc_mediumArmor": {
@@ -1650,6 +1749,7 @@
 		"czech": "Může nosit střední zbroj.",
 		"korean": "평갑을 입을 수 있습니다.",
 		"ukrainian": "Може носити середню броню.",
+		"hungarian": "Tud viselni közepes páncélokat.",
 	},
 	"skillTitle_heavyArmor": {
 		"english": "Heavy Armor",
@@ -1666,6 +1766,7 @@
 		"czech": "Těžká zbroj",
 		"korean": "중갑",
 		"ukrainian": "Важка броня",
+		"hungarian": "Nehéz páncél",
 	},
 	"skillDesc_heavyArmor": {
 		"english": "Can wear heavy armor.",
@@ -1682,5 +1783,6 @@
 		"czech": "Může nosit těžkou zbroj.",
 		"korean": "중갑을 입을 수 있습니다.",
 		"ukrainian": "Може носити важку броню.",
+		"hungarian": "Tud viselni nehéz páncélokat.",
 	},
 }

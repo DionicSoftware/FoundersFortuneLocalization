@@ -1,4 +1,4 @@
-﻿{
+{
 	"expectations": {
 		"english": "Expectations",
 		"dutch":  "Verwachtingen",
@@ -17,6 +17,7 @@
 		"japanese": "住環境",
 		"czech": "Očekávání",
 		"danish": "Forventninger",
+		"hungarian": "Elvárások",
 	},
 	"notUnlockedYet": {
 		"english": "Not unlocked yet",
@@ -36,6 +37,7 @@
 		"japanese": "対策は不要",
 		"czech": "Ještě to není odemčeno",
 		"danish": "Ikke låst op endnu",
+		"hungarian": "Még nincs feloldva",
 	},
 	"notRelevantYet_Title": {
 		"english": "Not relevant yet",
@@ -55,6 +57,7 @@
 		"japanese": "対策は不要",
 		"czech": "Zatím to není relevantní",
 		"danish": "Ikke relevant endnu",
+		"hungarian": "Még nem lényeges",
 	},
 	"notRelevantYet_Desc_home": {
 		"english": "%firstName% doesn't care about %hisHer% home at the moment.",
@@ -73,6 +76,7 @@
 		"dutch":  "%firstName% geeft niets om een huis nu dit ogenblik.",
 		"japanese": "%firstName%の家を気にする必要はありません。",
 		"czech": "%firstName% se v tuto chvíli nestará o svůj domov.",
+		"hungarian": "%firstName%-t egyenlőre nem érdekli %hisHer% otthona.",
 		//"danish": "",
 	},
 	"notRelevantYet_Desc_lifeSatisfaction": {
@@ -92,6 +96,7 @@
 		"italian": "%firstName% non ha alcun interesse per la sua soddisfazione di vita al momento.",
 		"japanese": "%firstName%の満足度を気にする必要はありません。",
 		"czech": "%firstName% se v tuto chvíli nestará o životní spokojenost.",
+		"hungarian": "%firstName%-t egyenlőre nem érdekli az elégedettsége.",
 		//"danish": "",
 	},
 	"notRelevantYet_Desc_promotions": {
@@ -111,6 +116,7 @@
 		"italian": "%firstName% non ha alcun interesse per le promozioni al momento.",
 		"japanese": "%firstName%の職業を気にする必要はありません。",
 		"czech": "%firstName% se v tuto chvíli nestará o povýšení.",
+		"hungarian": "%firstName%-t egyenlőre nem érdeklik az előléptetések.",
 		//"danish": "",
 	},
 	"notRelevantYet_Desc_salary": {
@@ -130,6 +136,7 @@
 		"italian": "%firstName% non ha alcun interesse per il salario al momento.",
 		"japanese": "%firstName%の給料を気にする必要はありません。",
 		"czech": "%firstName% se v tuto chvíli nestará o plat.",
+		"hungarian": "%firstName%-t egyenlőre nem érdekli a fizetés.",
 		//"danish": "",
 	},
 	"notRelevantYet_Desc_community": {
@@ -149,6 +156,7 @@
 		"italian": "%firstName% non ha alcun interesse per la comunità al momento.",
 		"japanese": "%firstName%の関係を気にする必要はありません。",
 		"czech": "%firstName% se v tuto chvíli nestará o místní komunitu.",
+		"hungarian": "%firstName%-t egyenlőre nem érdekli a közösség.",
 		//"danish": "",
 	},
 	"foodSatisfactionAwesome": {
@@ -168,6 +176,7 @@
 		"italian": "Cibo squisito",
 		"japanese": "素晴らしい食べ物",
 		"czech": "Skvělé jídlo",
+		"hungarian": "Kiválló minőségű étel",
 		//"danish": "",
 	},
 	"foodSatisfactionGood": {
@@ -187,6 +196,7 @@
 		"italian": "Buon cibo",
 		"japanese": "妥当な食べ物",
 		"czech": "Dobré jídlo",
+		"hungarian": "Jó minőségű étel",
 		//"danish": "",
 	},
 	"foodSatisfactionInsufficient": {
@@ -206,6 +216,7 @@
 		"italian": "Si aspetta del cibo migliore",
 		"japanese": "もう少し良い食べ物が必要",
 		"czech": "Očekává lepší jídlo",
+		"hungarian": "Jobb ételre vágyik",
 		//"danish": "",
 	},
 	"foodSatisfactionBad": {
@@ -225,6 +236,7 @@
 		"italian": "Si aspetta del buon cibo",
 		"japanese": "もっと良い食べ物が必要",
 		"czech": "Očekává mnohem lepší jídlo",
+		"hungarian": "Sokkal jobb ételre vágyik",
 		//"danish": "",
 	},
 	"homeSatisfactionAwesome": {
@@ -244,6 +256,7 @@
 		"italian": "Vive in una casa meravigliosa",
 		"japanese": "素晴らしい家",
 		"czech": "Žije v úžasném domově",
+		"hungarian": "Lenyűgöző otthonban él",
 		//"danish": "",
 	},
 	"homeSatisfactionGood": {
@@ -263,6 +276,7 @@
 		"italian": "Vive in una buona casa",
 		"japanese": "標準的な家",
 		"czech": "Žije v dobrém domově",
+		"hungarian": "Elég jó otthonban él",
 		//"danish": "",
 	},
 	"homeSatisfactionInsufficient": {
@@ -282,6 +296,7 @@
 		"italian": "Si aspetta una casa migliore",
 		"japanese": "もう少し良い家が必要",
 		"czech": "Očekává lepší domov",
+		"hungarian": "Jobb otthonra vágyik",
 		//"danish": "",
 	},
 	"homeSatisfactionBad": {
@@ -301,6 +316,7 @@
 		"italian": "Si aspetta una casa molto migliore",
 		"japanese": "もっと良い家が必要",
 		"czech": "Očekává mnohem lepší domov",
+		"hungarian": "Sokkal jobb otthonra vágyik",
 		//"danish": "",
 	},
 	"lifeSatisfactionAwesome": {
@@ -320,6 +336,7 @@
 		"italian": "Molto felice della sua vita",
 		"japanese": "とても十分な満足度",
 		"czech": "Velmi spokojen%yA% se životem",
+		"hungarian": "Teljesen elégedett az élettel",
 		//"danish": "",
 	},
 	"lifeSatisfactionGood": {
@@ -339,6 +356,7 @@
 		"italian": "%cap-SoddisfattoSoddisfatta% della sua vita",
 		"japanese": "適切な満足度",
 		"czech": "Spokojenost se životem",
+		"hungarian": "Elégedett az élettel",
 		//"danish": "",
 	},
 	"lifeSatisfactionInsufficient": {
@@ -358,6 +376,7 @@
 		"italian": "Vuole più soddisfazione dalla sua vita",
 		"japanese": "もう少し満足度が必要",
 		"czech": "Chce více životní spokojenosti",
+		"hungarian": "Jobb életre vágyik",
 		//"danish": "",
 	},
 	"lifeSatisfactionBad": {
@@ -377,6 +396,7 @@
 		"italian": "Non è %SoddisfattoSoddisfatta% della sua vita",
 		"japanese": "たくさんの満足度が必要",
 		"czech": "Není spokojen%yA% se životem",
+		"hungarian": "Elégedetlen az élettel",
 		//"danish": "",
 	},
 	"promotionsSatisfactionAwesome": {
@@ -396,6 +416,7 @@
 		"italian": "%cap-PadronePadrona% della sua professione",
 		"japanese": "十分な職業の経験",
 		"czech": "Zvýši%lA% svou profesi",
+		"hungarian": "Elsajátította a szakmáját",
 		//"danish": "",
 	},
 	"promotionsSatisfactionGood": {
@@ -415,6 +436,7 @@
 		"italian": "%cap-FiduciosoFiduciosa% delle sue abilità",
 		"japanese": "順当な職業の経験",
 		"czech": "Jist%yA% ve své dovednosti",
+		"hungarian": "Magabiztos a képességeiben",
 		//"danish": "",
 	},
 	"promotionsSatisfactionInsufficient": {
@@ -434,6 +456,7 @@
 		"italian": "%cap-InsicuroInsicura% delle sue abilità",
 		"japanese": "もう少し職業の経験が必要",
 		"czech": "Nejist%yA% ve své dovednosti",
+		"hungarian": "Bizonytalan a képességeiben",
 		//"danish": "",
 	},
 	"promotionsSatisfactionBad": {
@@ -453,6 +476,7 @@
 		"italian": "%cap-ScontentoScontenta% delle sue abilità",
 		"japanese": "もっとたくさんの職業の経験が必要",
 		"czech": "Nešťastn%yA% ze své dovednosti",
+		"hungarian": "Nem elégedett a képességeivel",
 		//"danish": "",
 	},
 	"promotionsSatisfactionOk": {
@@ -472,6 +496,7 @@
 		"italian": "%cap-SoddisfattoSoddisfatta% delle sue abilità",
 		"japanese": "スキルに満足",
 		"czech": "Spokojen%yA% se svou dovedností",
+		"hungarian": "Elégedett a képességeivel",
 		//"danish": "",
 	},
 	"promotionsSatisfactionOkDumb_Desc": {
@@ -491,6 +516,7 @@
 		"italian": "Sfortunatamente, %firstName% non è il più brillante e ha difficoltà a sviluppare nuove competenze. Tuttavia, ha accettato il suo destino e ci convive.",
 		"japanese": "おバカのためスキルを獲得する事はできません。",
 		"czech": "%firstName% bohužel není nejbystřejší a má potíže s rozvojem nových dovedností. Už se s tím ale vyrovna%lA% a je v pořádku.",
+		"hungarian": "%firstName% sajnos nem a legokosabb, és nehezen sajátít el új képességeket. Ugyanakkor elfogadta a sorsát, és beletörődött.",
 		//"danish": "",
 	},
 	"communitySatisfactionAwesome": {
@@ -508,6 +534,7 @@
 		"japanese": "たくさんの良い関係",
 		"czech": "Spousta přátel",
 		"ukrainian": "Багато друзів",
+		"hungarian": "Sok a barátja van",
 		//"danish": "",
 	},
 	"communitySatisfactionAwesome_Desc": {
@@ -525,6 +552,7 @@
 		"japanese": "%firstName%は良い関係のコロニストがたくさんいます。",
 		"czech": "%firstName% má více než dost přátel! Cítí se vítan%yA% a oceňovan%yA% všude kolem.",
 		"ukrainian": "%firstName% має більш ніж достатньо друзів. %cap-heShe% відчуває, що %hisHer% вітають і цінують усюди.",
+		"hungarian": "Rengeteg barátja van ennek a személynek: %firstName%! Úgy érzi, szívesen látják mindenütt.",
 		//"danish": "",
 	},
 	"communitySatisfactionGood": {
@@ -542,6 +570,7 @@
 		"japanese": "それなりに良い関係",
 		"czech": "Dost přátel",
 		"ukrainian": "Достатньо друзів",
+		"hungarian": "Elegendő a barátja van",
 		//"danish": "",
 	},
 	"communitySatisfactionGood_Desc": {
@@ -559,6 +588,7 @@
 		"japanese": "%firstName%は良い関係のコロニストがそれなりにいます。",
 		"czech": "%firstName% je rá%dA% za dobré přátele, které má. Bez nich by byl život mnohem těžší.",
 		"ukrainian": "%firstName% рад%heshe_IY_A% хорошим друзям, яких має. Без них життя було б набагато важчим.",
+		"hungarian": "%firstName% boldog, hogy jó barátai vannak. Az élet nélkülük sokkal nehezebb lenne.",
 		//"danish": "",
 	},
 	"communitySatisfactionInsufficient": {
@@ -576,6 +606,7 @@
 		"japanese": "寂しい関係",
 		"czech": "Trochu osaměl%yA%",
 		"ukrainian": "Трішки самотньо",
+		"hungarian": "Kissé magányos",
 		//"danish": "",
 	},
 	"communitySatisfactionInsufficient_Desc": {
@@ -593,6 +624,7 @@
 		"japanese": "%firstName%は良い関係のコロニストが少ししかいません。\n必要な関係:友達%friends%人と相棒%buddies%人",
 		"czech": "%firstName% se někdy cítí trochu osaměle. Přeje si, aby %melA% alespoň %friends% přátel a %buddies% kamarádů.",
 		"ukrainian": "%firstName% іноді почувається трішки самотньо. %cap-heShe% хоче мати хоча б %friends% друзів та %buddies% приятелів.",
+		"hungarian": "%firstName% néha kicsit egyedül érzi magát. Reméli, hogy hamarosan lesznek %friends% barátai és %buddies% haverjai.",
 		//"danish": "",
 	},
 	"communitySatisfactionBad": {
@@ -610,6 +642,7 @@
 		"japanese": "孤独な関係",
 		"czech": "Velmi osaměl%yA%",
 		"ukrainian": "Дуже самотньо",
+		"hungarian": "Nagyon magányos",
 		//"danish": "",
 	},
 	"communitySatisfactionBad_Desc": {
@@ -627,6 +660,7 @@
 		"japanese": "%firstName%は良い関係のコロニストがとても少ないです。\n必要な関係:友達%friends%人と相棒%buddies%人",
 		"czech": "Někdy má %firstName% pocit, že osamnělost je nesnesitelná. Přeje si, aby %melA% alespoň %friends% přátel a %buddies% kamarádů.",
 		"ukrainian": "Іноді %firstName% відчуває, що самотність нестерпна. %cap-heShe% хоче мати хоча б %friends% друзів та %buddies% приятелів.",
+		"hungarian": "%firstName% néha úgy érzi, a magány már elviselhetetlen. Reméli, legalább %friends% barátai és %buddies% haverjai lesznek.",
 		//"danish": "",
 	},
 	"colonistIsALevelXProfessionGuy": {
@@ -646,6 +680,7 @@
 		"italian": "%firstName% è %UnUna% %professionName% di livello %professionLevel%",
 		"japanese": "%professionName%レベル%professionLevel%",
 		"czech": "%firstName% je na úrovni %professionLevel% %professionName%",
+		"hungarian": "%firstName% %professionName% szakmában már %professionLevel% szintű",
 		//"danish": "",
 	},
 	"reachLevelX": {
@@ -666,6 +701,7 @@
 		"italian": "Raggiungere il livello %requiredProfessionLevel% in una professione",
 		"japanese": "レベル%requiredProfessionLevel%の職業",
 		"czech": "Dosáhni úrovně %requiredProfessionLevel% v profesi",
+		"hungarian": "Elérte a %requiredProfessionLevel% szintet egy szakmában",
 		//"danish": "",
 	},
 	"colonistNeedsMoreWorkExperience": {
@@ -685,6 +721,7 @@
 		"italian": "%firstName% ha bisogno di più esperienza lavorativa o di una formazione adeguata",
 		"japanese": "作業または学習を行い職業の経験を積んでください。",
 		"czech": "%firstName% potřebuje více pracovních zkušeností nebo vhodné vzdělání",
+		"hungarian": "%firstName% fejlődéséhez több tapasztalatra, vagy rendes oktatásra van szüksége",
 		//"danish": "",
 	},
 	"salarySatisfactionAwesome": {
@@ -703,6 +740,7 @@
 		"italian": "Felice del suo salario",
 		"japanese": "十分な給料",
 		"czech": "Spojojen%yA% se svým platem",
+		"hungarian": "Elégedett a bérével",
 		//"danish": "",
 	},
 	"salarySatisfactionGood": {
@@ -721,6 +759,7 @@
 		"italian": "%cap-SoddisfattoSoddisfatta% del suo salario",
 		"japanese": "丁度よい給料",
 		"czech": "Plat je dobrý",
+		"hungarian": "Rendben van a bére",
 		//"danish": "",
 	},
 	"salarySatisfactionInsufficient": {
@@ -739,6 +778,7 @@
 		"italian": "Non ha ricevuto abbastanza salario",
 		"japanese": "少し足りない給料",
 		"czech": "Nedosta%lA% dostatečný plat",
+		"hungarian": "Nem kap elég fizetséget",
 		//"danish": "",
 	},
 	"salarySatisfactionBad": {
@@ -757,6 +797,7 @@
 		"italian": "Ha ricevuto un salario misero",
 		"japanese": "余りにも少ない給料",
 		"czech": "Dosta%lA% moc malý plat",
+		"hungarian": "Túl kevés fizetséget kap",
 		//"danish": "",
 	},
 	"salarySatisfactionNotPaidYet": {
@@ -775,6 +816,7 @@
 		"italian": "Non ha ancora ricevuto un salario",
 		"japanese": "給料なし",
 		"czech": "Dosud nedosta%lA% plat",
+		"hungarian": "Még nem kapott fizetést",
 		//"danish": "",
 	},
 	"salarySatisfactionAwesome_Desc": {
@@ -793,6 +835,7 @@
 		"italian": "%firstName% non pensava che il suo lavoro valesse così tanti soldi. Le sue aspettative erano di %coins% monete al giorno, ma il denaro extra ha illuminato la sua giornata!",
 		"japanese": "十分な給料が支給されています。\n適正な給料:%coins%コイン",
 		"czech": "%firstName% netušil%lA%, že dostane tolik peněz. Očekáva%lA% jen %coins% mincí za den, ale peníze navíc vykouzlí úsměv na %hisHer% tváři!",
+		"hungarian": "%firstName% nem gondolja úgy, hogy ennyi bért érdemelne. Csak %coins% érmét remél egy nap, de a plusz pénz feldobta a napját!",
 		//"danish": "",
 	},
 	"salarySatisfactionGood_Desc": {
@@ -811,6 +854,7 @@
 		"italian": "%firstName% pensa che il suo ultimo salario è stato adeguato. %coins% monete al giorno è un salario accettabile.",
 		"japanese": "丁度良い給料が支給されています。\n適正な給料:%coins%コイン",
 		"czech": "%firstName% si myslí, že %hisHer% poslední plat byl adekvátní. %coins% mincí za den je tak akorát.",
+		"hungarian": "%firstName% úgy gondolja, hogy az %hisHer% legutóbbi bére megfelelő volt. Szerinte %coins% érme naponta a normális bér.",
 		//"danish": "",
 	},
 	"salarySatisfactionInsufficient_Desc": {
@@ -829,6 +873,7 @@
 		"italian": "Secondo %firstName%, il suo lavoro merita un salario minimo di %coins% monete al giorno.",
 		"japanese": "妥当な給料が支給されていません。\n適正な給料:%coins%コイン",
 		"czech": "%firstName% si myslí, že si zaslouží alespoň %coins% mincí za den.",
+		"hungarian": "%firstName% szerint %heShe% legalább a minimum %coins% érme bért érdemelne naponta.",
 		//"danish": "",
 	},
 	"salarySatisfactionBad_Desc": {
@@ -847,6 +892,7 @@
 		"italian": "%firstName% è %ScontentoScontenta% del suo ultimo salario. Secondo la sua opinione, merita un salario minimo di %coins% monete al giorno.",
 		"japanese": "不当な給料が支給されています。\n適正な給料:%coins%コイン",
 		"czech": "%firstName% je nešťastn%yA% kvůli své výplatě - očekává alespoň %coins% mincí za den. ",
+		"hungarian": "%firstName% elégedetlen a bérével - szerinte minimum %coins% érmét érdemelne naponta.",
 		//"danish": "",
 	},
 	"salarySatisfactionNotPaidYet_Desc": {
@@ -865,6 +911,7 @@
 		"italian": "%firstName% si aspetta un salario minimo di %coins% monete al giorno.",
 		"japanese": "給料が支給されていません。\n適正な給料:%coins%コイン",
 		"czech": "%firstName% požaduje alespoň %coins% mincí za den.",
+		"hungarian": "%firstName% minimum %coins% érmét szeretne naponta.",
 		//"danish": "",
 	},
 	"food": {
@@ -884,6 +931,7 @@
 		"italian": "Cibo",
 		"japanese": "食材",
 		"czech": "Jídlo",
+		"hungarian": "Étel",
 		//"danish": "",
 	},
 	"simpleMeals": {
@@ -903,6 +951,7 @@
 		"italian": "Cibo da falò",
 		"japanese": "焚火による簡単な料理",
 		"czech": "Jídlo z ohniště",
+		"hungarian": "Tábortűzben sült étel",
 		//"danish": "",
 	},
 	"goodOrBakedMeals": {
@@ -922,6 +971,7 @@
 		"italian": "Cibo da cucina o da forno",
 		"japanese": "料理と焼き菓子",
 		"czech": "Kuchyňské jídlo nebo pečené jídlo",
+		"hungarian": "Konyhában főtt, vagy pékáruk",
 		//"danish": "",
 	},
 	"goodAndBakedMeals": {
@@ -942,6 +992,7 @@
 		"dutch":  "Verscheidenheid van keuken voedsel en gebakken goederen",
 		"japanese": "贅沢な料理と贅沢な焼き菓子",
 		"czech": "Různé kuchyňské jídlo a pečené jídlo",
+		"hungarian": "Különféle konyha ételek és pékáruk",
 		//"danish": "",
 	},
 	"clickToShowSleepingSpot": {
@@ -961,6 +1012,7 @@
 		"italian": "Clicca per vedere il posto letto",
 		"japanese": "寝る場所の表示はこのアイコンをクリック",
 		"czech": "Kliknutím zobrazíte místo na spaní",
+		"hungarian": "Kattints az alvóhely megjelenítéséhez",
 		//"danish": "",
 	},
 	"ownsSleepingSpot": {
@@ -980,6 +1032,7 @@
 		"italian": "Possedere un posto letto",
 		"japanese": "寝具を所有",
 		"czech": "Vlastní místo na spaní",
+		"hungarian": "Rendelkezik alvóhellyel",
 		//"danish": "",
 	},
 	"sleepsInside": {
@@ -999,6 +1052,7 @@
 		"italian": "Dormire al coperto",
 		"japanese": "室内での睡眠",
 		"czech": "Spát uvnitř domu",
+		"hungarian": "Bent alszik",
 		//"danish": "",
 	},
 	"ownsBed": {
@@ -1018,6 +1072,7 @@
 		"italian": "Possedere un letto adeguato",
 		"japanese": "ベッドを所有",
 		"czech": "Vlastnit pořádnou postel",
+		"hungarian": "Rendelkezik rendes ággyal",
 		//"danish": "",
 	},
 	"ownsBedroom": {
@@ -1037,6 +1092,7 @@
 		"italian": "Possedere una stanza da letto",
 		"japanese": "寝室を所有",
 		"czech": "Mít vlastní ložnici",
+		"hungarian": "Rendelkezik hálószobával",
 		//"danish": "",
 	},
 	"ownsHouse": {
@@ -1056,6 +1112,7 @@
 		"italian": "Possedere una casa",
 		"japanese": "家を所有",
 		"czech": "Mít vlastní dům",
+		"hungarian": "Rendelkezik saját házzal",
 		//"danish": "",
 	},
 	"ownsHouse3Rooms": {
@@ -1075,6 +1132,7 @@
 		"italian": "Possedere una casa con 3 grandi stanze",
 		"japanese": "大きな部屋が3つある家を所有",
 		"czech": "Vlastnit dům se 3 velkými pokoji",
+		"hungarian": "Rendelkezik egy 3 nagy szobás házzal",
 		//"danish": "",
 	},
 	"ownsHouse5Rooms": {
@@ -1094,6 +1152,7 @@
 		"italian": "Possedere una casa con 5 grandi stanze",
 		"japanese": "大きな部屋が5つある家を所有",
 		"czech": "Vlastnit dům s 5 velkými pokoji",
+		"hungarian": "Rendelkezik egy 5 nagy szobás házzal",
 	},
 	"lifeSatisfactionLevel": {
 		"english": "Life Satisfaction Level %number%",
@@ -1112,6 +1171,7 @@
 		"italian": "Soddisfazione di vita livello %number%",
 		"japanese": "満足度レベル%number%",
 		"czech": "Úroveň životní spokojenosti: %number%",
+		"hungarian": "Az élettel való elégedettségi szintje %number%",
 	},
 	"needToFulfillWishes": {
 		"english": "Wishes need to be fulfilled",
@@ -1130,6 +1190,7 @@
 		"italian": "Desidera soddisfare i suoi desideri",
 		"japanese": "願い事を叶え満足度を増やしてください。",
 		"czech": "Je třeba splnit přání kolonisty",
+		"hungarian": "Be kell teljesíteni a kívánságát",
 	},
 	"wantsJob_Title": {
 		"english": "Wants a job",
@@ -1148,6 +1209,7 @@
 		"italian": "Vuole un lavoro",
 		"japanese": "就職が必要",
 		"czech": "Chce práci",
+		"hungarian": "Munkát szeretne",
 	},
 	"wantsJob_Desc": {
 		"english": "%firstName% has no job at the moment. It's making %himHer% feel unfulfilled.",
@@ -1166,5 +1228,6 @@
 		"italian": "%firstName% non ha un lavoro al momento. Questo %LoLa% fa sentire irrealizzato.",
 		"japanese": "何れかの職業に就かせてください。",
 		"czech": "%firstName% teď nemá žádnou práci a kvůli tomu se cítí nenaplněn%yA%.",
+		"hungarian": "%firstName% jelenleg munkanélküli. Ettől úgy érzi, hogy nem teljes.",
 	},
 }

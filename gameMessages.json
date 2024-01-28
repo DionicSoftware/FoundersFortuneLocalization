@@ -1,4 +1,4 @@
-﻿{
+{
 
 	// SMALL FEEDBACK TO PLAYER ACTIONS
 	// ********************************
@@ -19,6 +19,7 @@
 		"polish": "Brakuje surowców!",
 		"japanese": "資材が不足しています",
 		"czech": "Nedostatek zdrojů!",
+		"hungarian": "Nincs elég alapanyag!",
 	},
 	"cantBuildThisCloseToWater": {
 		"english": "Can't build this close to water!",
@@ -37,6 +38,7 @@
 		"polish": "Nie można zbudować tak blisko wody!",
 		"japanese": "水源の近くに建てる事はできません",
 		"czech": "Toto nelze postavit tak blízko u vody!",
+		"hungarian": "Nem építhetsz ennyire közel a vízhez!",
 	},
 	"needsToBePlacedNearWater": {
 		"english": "Needs to be built next to water!",
@@ -52,6 +54,7 @@
 		"russian": "Необходимо разместить вблизи воды!",
 		"korean": "물 옆에 지어야 합니다!",
 		"ukrainian": "Це потрібно будувати поблизу води!",
+		"hungarian": "Csak víz mellé építhető!",
 	},
 	"needsToBeBuiltOnFloor": { // used for furniture building
 		"english": "Needs to be built on floor",
@@ -69,6 +72,7 @@
 		"czech": "Toto musí být postaveno na podlaze",
 		"korean": "바닥 위에 만들어야 합니다.",
 		"ukrainian": "Це потрібно розмістити на підлозі",
+		"hungarian": "Csak padlóra helyezhető",
 	},
 	"needsToBeBuiltNextToFloor": { // used for wall building
 		"english": "Needs to be built next to floor tile",
@@ -86,6 +90,7 @@
 		"czech": "Toto musí být postaveno vedle dlaždice",
 		"korean": "바닥 타일 옆에 지어야 합니다.",
 		"ukrainian": "Необхідно будувати поруч із підлогою",
+		"hungarian": "Csak padló mellé építhető",
 	},
 	"needsToBeBuiltAboveRoomOrTerrain": { // used for floor building
 		"english": "Needs to be built above room or on solid ground",
@@ -102,6 +107,7 @@
 		"czech": "Musí být postaveno nad místností nebo na pevné zemi",
 		"korean": "방 안이나 단단한 지면 위에 지어야 합니다.",
 		"ukrainian": "Необхідно будувати над кімнатою або на землі",
+		"hungarian": "Csak szoba felé, vagy szilárd talajra építhető",
 	},
 	"placeBlocked": {
 		"english": "This Place is blocked by something!",
@@ -120,6 +126,7 @@
 		"polish": "To miejsce jest zajęte!",
 		"japanese": "この場所は何かによって邪魔されています",
 		"czech": "Toto místo je něčím blokováno!",
+		"hungarian": "Ezt a helyet valami gátolja!",
 	},
 	"needsToBeBuiltAtWall": {
 		"english": "Needs to be built at a wall!",
@@ -138,6 +145,7 @@
 		"polish": "Trzeba zbudować na ścianie!",
 		"japanese": "壁に建てる必要があります",
 		"czech": "Toto musí být postaveno u zdi!",
+		"hungarian": "Csak falra helyezhető!",
 	},
 	"notEnoughSpecificResource": {
 		"english": "Not enough %resource%!",
@@ -156,6 +164,7 @@
 		"polish": "Brakuje: %resource%!",
 		"japanese": "%resource%が足りません",
 		"czech": "Nedostatek %resource%!",
+		"hungarian": "Nincs elegendő %resource%!",
 	},
 	"needsToBePlacedInRoom": {
 		"english": "Needs to be placed in a finished room!",
@@ -174,6 +183,7 @@
 		"polish": "Trzeba zbudować w pomieszczeniu!",
 		"japanese": "完成した部屋に配置する必要があります",
 		"czech": "Lze umístit pouze do hotové místnosti!",
+		"hungarian": "Csak befejezett szobába helyezhető el!",
 	},
 
 
@@ -197,6 +207,7 @@
 		"polish": "Kolonista nie żyje!",
 		"japanese": "コロニストが亡くなりました",
 		"czech": "Kolonista právě zemřel!",
+		"hungarian": "Egy telepesed meghalt!",
 	},
 	"notificationTitle_willGrowUpTomorrow": {
 		"english": "%firstName% will grow up tomorrow.",
@@ -213,6 +224,7 @@
 		"czech": "%firstName% zítra vyroste.",
 		"korean": "%firstName%#{은} 내일 어른이 됩니다.",
 		"ukrainian": "%firstName% завтра подорослішає.",
+		"hungarian": "%firstName% holnapra felnő.",
 	},
 	"notificationTitle_isApproachingEndOfLife": {
 		"english": "%firstName% is nearing the end of %hisHer% long life.",
@@ -229,6 +241,7 @@
 		"czech": "%firstName% je blízko svému konci. Ži%lA% dlouhý život.",
 		"korean": "%firstName%#{은} %hisHer%의 삶의 끝자락에 다다랐습니다.",
 		"ukrainian": "%firstName% доживає останні дні %hisHer% довгого життя.",
+		"hungarian": "%firstName% lassan eléri élete végét.",
 	},
 	"itIsNowSeason": {
 		"english": "It is now %season%.",
@@ -247,6 +260,7 @@
 		"polish": "Obecnie jest %season%.",
 		"japanese": "今は%season%です",
 		"czech": "Nyní je %season%.",
+		"hungarian": "%season% van.",
 	},
 	"notificationTitle_ColonistTerribleMood": {
 		"english": "Desperation",
@@ -265,6 +279,7 @@
 		"polish": "Desperacja",
 		"japanese": "%firstName%は絶望しています",
 		"czech": "Zoufalství",
+		"hungarian": "Elkeseredettség",
 	},
 	"notificationTitle_ColonistBadMood": {
 		"english": "Low Spirits",
@@ -282,6 +297,7 @@
 		"italian": "Morale basso",
 		"japanese": "%firstName%は憂鬱になりました",
 		"czech": "Sklíčenost",
+		"hungarian": "Alacsony spiritusz",
 	},
 	"notificationTitle_Fight": { // when a colonist or colony construction or furniture is attacked
 		"english": "Fighting",
@@ -300,6 +316,7 @@
 		"polish": "Jesteś atakowany!",
 		"japanese": "戦いが始まりました",
 		"czech": "Jste pod útokem!",
+		"hungarian": "Verekedés",
 	},
 	// TODO-bulgarian: firstName
 	// TODO-korean: firstName
@@ -319,6 +336,7 @@
 		"italian": "%firstName% ha perso conoscenza",
 		"japanese": "%firstName%は意識を失いました",
 		"czech": "%firstName% ztrati%lA% vědomí",
+		"hungarian": "%firstName% kidőlt",
 	},
 	// TODO-bulgarian: firstName
 	// TODO-korean: firstName
@@ -339,6 +357,7 @@
 		"polish": "Kolonista zmarł!",
 		"japanese": "%firstName%は死亡しました",
 		"czech": "%firstName% zemře%lA%",
+		"hungarian": "%firstName% meghalt",
 	},
 	"notificationTitle_DeathOldAge": {
 		"english": "%firstName% died of old age",
@@ -355,6 +374,7 @@
 		"czech": "%firstName% zemře%lA% na stáří",
 		"korean": "%firstName%#{은} 노환으로 사망했습니다.",
 		"ukrainian": "%firstName% помер%sheLAx% від старості",
+		"hungarian": "%firstName% öregségében elhunyt",
 	},
 	"notificationTitle_AnimalDeath": {
 		"english": "%fullName% died",
@@ -369,6 +389,7 @@
 		"russian": "%fullName% умер",
 		"korean": "%fullName%#{은} 죽었습니다.",
 		"ukrainian": "%fullName% помер%sheLAx%",
+		"hungarian": "%fullName% elhunyt",
 	},
 	"notificationTitle_AnimalBecameWild": {
 		"english": "%fullName% has become untamed",
@@ -383,6 +404,7 @@
 		"russian": "%fullName% стал диким",
 		"korean": "%fullName%#{은} 야생 상태로 돌아갔습니다.",
 		"ukrainian": "%fullName% здичаві%hesheEnd%",
+		"hungarian": "%fullName% újra vad lett",
 	},
 	"notificationTitle_LowFood": {
 		"english": "Running out of Food",
@@ -401,6 +423,7 @@
 		"polish": "Kończy się jedzenie",
 		"japanese": "食べ物が不足しています",
 		"czech": "Dochází jídlo",
+		"hungarian": "Az étel kezd elfogyni",
 	},
 	"notificationTitle_NoFood": {
 		"english": "No Food left",
@@ -419,6 +442,7 @@
 		"polish": "Jedzenie się skończyło!",
 		"japanese": "食べ物が残っていません",
 		"czech": "Žádné jídlo nezbylo",
+		"hungarian": "Nincs több étel",
 
 	},
 	"notificationTitle_HungryNoFoodContainer": {
@@ -438,6 +462,7 @@
 		"polish": "Brakuje miejsca do składowania jedzenia",
 		"japanese": "食材貯蔵庫がありません",
 		"czech": "Chybí sklad potravin",
+		"hungarian": "Nincs étel tároló",
 	},
 	"notificationTitle_NoResearchSelected": { // used not only as notification, but also as tooltip title
 		"english": "No Research selected",
@@ -456,6 +481,7 @@
 		"polish": "Nie wybrano kolejnych badań",
 		"japanese": "研究が選択されていません",
 		"czech": "Není vybrán žádný výzkum",
+		"hungarian": "Nincs kiválasztva semmilyen kutatás",
 	},
 	"notificationTitle_Illness": {
 		"english": "Illness",
@@ -474,6 +500,7 @@
 		"polish": "Kolonista choruje",
 		"japanese": "%firstName%は病気になりました",
 		"czech": "Nemoc",
+		"hungarian": "Betegség",
 	},
 	"notificationTitle_ColonistJoined": {
 		"english": "Colonist joined",
@@ -492,6 +519,7 @@
 		"polish": "Nowy członek koloni",
 		"japanese": "新しいコロニストが加わりました",
 		"czech": "Kolonista se přidal ke kolonii",
+		"hungarian": "Telepes csatlakozott",
 	},
 	"notificationTitle_MigrantsAreLeaving": {
 		"english": "Migrants are leaving",
@@ -510,6 +538,7 @@
 		"polish": "Imigranci odchodzą",
 		"japanese": "コロニストは去っていきました",
 		"czech": "Migranti odcházejí z kolonie",
+		"hungarian": "A jövevények távoznak",
 	},
 	"notificationTitle_TraderIsLeaving": {
 		"english": "Trader is leaving",
@@ -528,6 +557,7 @@
 		"polish": "Handlarz odchodzi",
 		"japanese": "商人は去っていきました",
 		"czech": "Obchodník odplouvá",
+		"hungarian": "A kereskedő távozik",
 	},
 	"notificationTitle_SeasonChanged": {
 		"english": "It is now %season%",
@@ -546,6 +576,7 @@
 		"polish": "Obecnie jest %season%",
 		"japanese": "今は%season%です",
 		"czech": "Začalo roční období: %season%",
+		"hungarian": "%season% van",
 	},
 	"notificationTitle_LastDayOfSeason": {
 		"english": "It is the last day of %season%.",
@@ -564,6 +595,7 @@
 		"polish": "Dziś ostatni dzień tej pory roku",
 		"japanese": "%season%の最終日です",
 		"czech": "%season% dneškem končí.",
+		"hungarian": "A(z) %season% utolsó napja van",
 	},
 	"notificationTitle_AllergicReaction": {
 		"english": "Colonist has an allergic reaction",
@@ -582,6 +614,7 @@
 		"polish": "Kolonista ma alergię",
 		"japanese": "このコロニストはアレルギーがあります",
 		"czech": "Kolonista má alergickou reakci",
+		"hungarian": "A telepesnek allergiás reakciója van",
 	},
 	"notificationTitle_BugInfestationOver": { // means that the bug infestation is done, it's finished, it's no longer active
 		"english": "Bug infestation over",
@@ -601,6 +634,7 @@
 		"polish": "Plaga opanowana",
 		"japanese": "害虫を除去しました",
 		"czech": "Zamoření brouky skončilo",
+		"hungarian": "Véga a bogárinváziónak",
 
 	},
 	"notificationTitle_NeedToBuildBonfire": {
@@ -620,6 +654,7 @@
 		"polish": "Potrzeba ogniska sygnalizacyjnego",
 		"japanese": "新たなコロニストが訪問するために篝火が必要です",
 		"czech": "Potřebujete postavit signální oheň, aby se k nám přidali migranti",
+		"hungarian": "Jelzőfényre van szükséged, hogy jövevények érkezhessenek",
 
 	},
 	"notificationTitle_UnfulfilledExpectations": {
@@ -639,6 +674,7 @@
 		"polish": "Trzeba spełnić oczekiwania kolonistów",
 		"japanese": "整えられた住環境が必要です",
 		"czech": "Je třeba plnit očekávání či přání kolonistů",
+		"hungarian": "Teljesítened kell az elvárásokat",
 	},
 	"notificationTitle_NeedBookstand": {
 		"english": "Need a Research Book Stand",
@@ -657,6 +693,7 @@
 		"polish": "Zbuduj stanowisko do badań",
 		"japanese": "クリスタル解析台が必要です",
 		"czech": "Potřebujete vybudovat Stojan s výzkumnou knihou",
+		"hungarian": "Szükséged van egy könyvállványra",
 	},
 	"notificationTitle_NeedToSelectResearch": {
 		"english": "Need to select Research",
@@ -675,6 +712,7 @@
 		"polish": "Wybierz kolejne badania",
 		"japanese": "研究が選択されていません",
 		"czech": "Je třeba vybrat Výzkum",
+		"hungarian": "Válassz ki új kutatnivaló dolgot",
 	},
 	"notificationTitle_NeedCrystals": {
 		"english": "Need Crystals for Research",
@@ -693,6 +731,7 @@
 		"polish": "Potrzeba kryształów do badań",
 		"japanese": "研究にはクリスタルが必要です",
 		"czech": "Potřebujeme krystaly pro výzkum",
+		"hungarian": "Kristályok kellenek a kutatáshoz",
 	},
 	"notificationTitle_NeedToAnalyzeCrystals": {
 		"english": "Analyze Crystals on the Bookstand",
@@ -711,6 +750,7 @@
 		"polish": "Zbadaj kryształy na stanowisku do badań",
 		"japanese": "クリスタル解析台でクリスタルを解析します",
 		"czech": "Zkoumejte krystaly na Stojanu s výzkumnou knihou",
+		"hungarian": "Kristályok elemzése a könyvállványnál",
 	},
 	//	"notificationTitle_MissingPossessions": {
 	//		"english": "Colonist is missing %hisHer% Possessions",
@@ -740,6 +780,7 @@
 		"polish": "%firstName% zranił%nicA% się w nogę",
 		"japanese": "%firstName%は脚を負傷しました",
 		"czech": "%firstName% si zrani%lA% svou nohu",
+		"hungarian": "%firstName% lába megsérült",
 	},
 	"notificationTitle_LegBroken": {
 		"english": "%firstName% broke %hisHer% Leg",
@@ -757,6 +798,7 @@
 		"polish": "%firstName% złamał%nicA% nogę",
 		"japanese": "%firstName%は脚を骨折しました",
 		"czech": "%firstName% si zlomi%lA% svou nohu",
+		"hungarian": "%firstName% eltörte a lábát.",
 	},
 	"notificationTitle_ArmHurt": {
 		"english": "%firstName% hurt %hisHer% Arm",
@@ -774,6 +816,7 @@
 		"polish": "%firstName% zranił%nicA% się w rękę",
 		"japanese": "%firstName%は腕を負傷しました",
 		"czech": "%firstName% si zrani%lA% svou ruku",
+		"hungarian": "%firstName% keze megsérült",
 	},
 	"notificationTitle_ArmBroken": {
 		"english": "%firstName% broke %hisHer% Arm",
@@ -791,6 +834,7 @@
 		"polish": "firstName% złamał%nicA% rękę",
 		"japanese": "%firstName%は腕を骨折しました",
 		"czech": "%firstName% si zlomi%lA% svou ruku",
+		"hungarian": "%firstName% eltörte a kezét",
 	},
 	"notificationTitle_AutosaveComplete": {
 		"english": "Autosave complete",
@@ -808,6 +852,7 @@
 		"polish": "Autozapis",
 		"japanese": "自動保存完了",
 		"czech": "Automatické ukládání dokončeno",
+		"hungarian": "Atómentés kész",
 	},
 	"notificationTitle_Party": {
 		"english": "Party!    %timeLeft%",
@@ -825,6 +870,7 @@
 		"polish": "Impreza!    %timeLeft%",
 		"japanese": "パーティ！%timeLeft%",
 		"czech": "Párty!    %timeLeft%",
+		"hungarian": "Parti!    %timeLeft%",
 	},
 	"notificationTitle_StatuePresentAccepted": {
 		"english": "Our statue present was gratefully accepted",
@@ -841,6 +887,7 @@
 		"japanese": "'%faction%'は喜んで銅像を受け取ってくれました",
 		"czech": "Naše socha byla vděčně přijata",
 		"ukrainian": "Нашу подарункову статую прийняли з вдячністю",
+		"hungarian": "Az ajándékba adott szobrot készséggel elfogadták",
 	},
 	"notificationTitle_PiratesArrivingSoon": {
 		"english": "Pirates are arriving any moment now...",
@@ -857,6 +904,7 @@
 		"japanese": "海賊はすぐにでも到着します...",
 		"czech": "Piráti dorazí každou chvílí ...",
 		"ukrainian": "Пірати прибудуть у будь-який момент...",
+		"hungarian": "A kalózok bármelyik percben megérkezhetnek...",
 	},
 	"notificationTitle_PiratesHaveLanded": {
 		"english": "Pirates have landed!",
@@ -873,6 +921,7 @@
 		"japanese": "海賊が上陸しました",
 		"czech": "Piráti se vylodili!",
 		"ukrainian": "Пірати прибули!",
+		"hungarian": "Itt vannak a kalózok!",
 	},
 	"notificationTitle_FactionWillComeForTributeIn": {
 		"english": "'%faction%' will come for %tribute% in %days% days",
@@ -889,6 +938,7 @@
 		"japanese": "%faction%は%tribute%のために%days%日あたりに到着します",
 		"czech": "'%faction%' si přijde vyzvednout svou daň %tribute% za %days% dní",
 		"ukrainian": "'%faction%' прийдуть по %tribute% через %days%д.",
+		"hungarian": "A '%faction%' %days% nap múlva érkeznek, hogy átvegyék a %tribute%-t",
 	},
 	"notificationTitle_NoEmptyGrave": {
 		"english": "There is no empty grave",
@@ -905,6 +955,7 @@
 		"czech": "Nemáme už žádný prázdný hrob",
 		"korean": "빈 무덤이 없습니다.",
 		"ukrainian": "Немає порожньої могили",
+		"hungarian": "Nincs több üres sírhely",
 	},
 	"notificationTitle_ProfessionLevelUp": {
 		"english": "%firstName% is now a level %level% %profession%",
@@ -920,14 +971,16 @@
 		"czech": "%firstName% je nyní na úrovni %level% %profession%",
 		"korean": "%firstName%#{은} 이제 %level% 레벨 %profession% 입니다.",
 		"ukrainian": "%firstName% тепер %profession% %level% рівня",
+		"hungarian": "%firstName% a %profession% szakmába elérte a(z) %level%. szintet",
 
 	},
     "notificationTitle_HobbyLevelUp": {
         "english": "%firstName% is now level %level% in %hobby%",
         "german": "%firstName% hat jetzt Level %level% in %hobby%",
-	"french": "%firstName% est désormais niveau %level% en %hobby%",
-	"ukrainian": "%firstName% досягну%hesheEnd% рівня %level% в хобі %hobby%",
-		"russian": "%firstName% достиг%sheLA% уровня %level% в хобби %hobby%"
+		"french": "%firstName% est désormais niveau %level% en %hobby%",
+		"ukrainian": "%firstName% досягну%hesheEnd% рівня %level% в хобі %hobby%",
+		"russian": "%firstName% достиг%sheLA% уровня %level% в хобби %hobby%",
+		"hungarian": "%firstName% elérte a(z) %level%. szintet a(z) %hobby% hobbijában",
     },
 
 
@@ -951,6 +1004,7 @@
 		"polish": "Spełniono oczekiwania",
 		"japanese": "住環境が改善されました",
 		"czech": "Očekávání splněno",
+		"hungarian": "Elvárás teljesítve",
 	},
 	"wishFulfilled": {
 		"english": "Wish fulfilled",
@@ -969,6 +1023,7 @@
 		"polish": "Spełniono życzenia",
 		"japanese": "願い事が叶えられました",
 		"czech": "Přání splněno",
+		"hungarian": "Kívánság teljesítve",
 	},
 	"wishDenied": {
 		"english": "Wish denied",
@@ -986,6 +1041,7 @@
 		"italian": "Desiderio negato",
 		"japanese": "願い事が断られました",
 		"czech": "Přání odmítnuto",
+		"hungarian": "Kívánság elutasítva",
 	},
 	"diplomaticRelationsImproved": {
 		"english": "Diplomatic Relations Improved",
@@ -1002,6 +1058,7 @@
 		"czech": "Vylepšeny diplomatické vztahy",
 		"korean": "외교 관계가 향상됨.",
 		"ukrainian": "Дипломатичні відносини покращено",
+		"hungarian": "A diplomáciai kapcsolat fejlődött",
 	},
 	"treatmentSuccessful": {
 		"english": "Treatment\nSuccessful",
@@ -1019,6 +1076,7 @@
 		"polish": "Leczenie\nudane",
 		"japanese": "治療が成功しました",
 		"czech": "Léčba\nÚspěšná",
+		"hungarian": "Az ellátás\nSuccessful",
 	},
 	"treatmentFailed": {
 		"english": "Treatment\nFailed",
@@ -1036,6 +1094,7 @@
 		"polish": "Leczenie\nnieudane",
 		"japanese": "治療が失敗しました",
 		"czech": "Léčba\nNeúspěšná",
+		"hungarian": "Az ellátás\nFailed",
 	},
 	"legSplintSuccessful": {
 		"english": "Leg Splint\nSuccessful",
@@ -1053,6 +1112,7 @@
 		"polish": "Usztywnienie\nudane",
 		"japanese": "脚の添え木は成功しました",
 		"czech": "Dlaha na nohu\nÚspěšná",
+		"hungarian": "Láb sínbe rakása\nSuccessful",
 	},
 	"legSplintFailed": {
 		"english": "Leg Splint\nFailed",
@@ -1070,6 +1130,7 @@
 		"polish": "Usztywnienie\nienudane",
 		"japanese": "脚の添え木は失敗しました",
 		"czech": "Dlaha na nohu\nNeúspěšná",
+		"hungarian": "Láb sínbe rakása\nFailed",
 	},
 	"armSplintSuccessful": {
 		"english": "Arm Splint\nSuccessful",
@@ -1087,6 +1148,7 @@
 		"polish": "Usztywnienie\nudane",
 		"japanese": "腕の添え木は成功しました",
 		"czech": "Dlaha na ruku\nÚspěšná",
+		"hungarian": "Kéz sínbe rakása\nSuccessful",
 	},
 	"armSplintFailed": {
 		"english": "Arm Splint\nFailed",
@@ -1104,6 +1166,7 @@
 		"polish": "Usztywnienie\nnieudane",
 		"japanese": "腕の添え木は失敗しました",
 		"czech": "Dlaha na ruku\nNeúspěšná",
+		"hungarian": "Kéz sínbe rakása\nFailed",
 	},
 	"impressed": {
 		"english": "Impressed",
@@ -1120,6 +1183,7 @@
 		"czech": "%firstName% uděla%lA% dojem",
 		"korean": "감명받음",
 		"ukrainian": "%firstName% вражен%heshe_IY_A%",
+		"hungarian": "Lenyűgözve",
 	},
 	"notImpressed": {
 		"english": "Not Impressed",
@@ -1136,6 +1200,7 @@
 		"czech": "%firstName% neuděla%lA% dojem",
 		"korean": "심드렁함",
 		"ukrainian": "%firstName% не вражен%heshe_IY_A%",
+		"hungarian": "Nincs lenyűgözve",
 	},
 	"upsetWithSomeone": {
 		"english": "Upset with %firstName%",
@@ -1152,6 +1217,7 @@
 		"czech": "Naštvan%yA% na %firstName%",
 		"korean": "%firstName%에게 화가 남",
 		"ukrainian": "Засмучен%heshe_IY_A% через %firstName%",
+		"hungarian": "%firstName% felzaklatta",
 	},
 	"someoneIsUpset": {
 		"english": "%firstName% is upset",
@@ -1168,6 +1234,7 @@
 		"czech": "%firstName% je rozrušen%yA%",
 		"korean": "%firstName%#{은} 화가 남",
 		"ukrainian": "%firstName% засмучен%heshe_IY_A%",
+		"hungarian": "%firstName% zaklatott",
 	},
 	"drankElixirOfYouth": {
 		"english": "%firstName% gets %days% extra days!",
@@ -1184,6 +1251,7 @@
 		"czech": "%firstName% získává %days% extra dní života navíc!",
 		"korean": "%firstName%#{은} 수명이 %days%일 늘어났다!",
 		"ukrainian": "%firstName% проживе на %days%д. довше!",
+		"hungarian": "%firstName% plusz %days% napot kapott!",
 	},
 	"tamingSucceeded": {
 		"english": "Taming successful!",
@@ -1200,6 +1268,7 @@
 		"czech": "Ochočování úspěšné!",
 		"korean": "길들이기 성공!",
 		"ukrainian": "Приручення вдалось!",
+		"hungarian": "Szelidítés sikeres!",
 	},
 	"tamingInProgress": {
 		"english": "Taming in progress...",
@@ -1216,6 +1285,7 @@
 		"czech": "Probíhá ochočování ...",
 		"korean": "길들이기 진행중 ...",
 		"ukrainian": "Триває приручення...",
+		"hungarian": "Szelidítés folyamatban...",
 	},
 
 
@@ -1238,6 +1308,7 @@
 		"japanese": "コロニスト:%text%",
 		"czech": "Migrant: %text%",
 		"ukrainian": "Мігрант: %text%",
+		"hungarian": "Jövevény: %text%",
 	},
 	"iHaveTrait": {
 		"english": "I have the trait '%trait%'.",
@@ -1253,6 +1324,7 @@
 		"japanese": "個性'%trait%'を持っています",
 		"czech": "Mám vlastnost: '%trait%'.",
 		"ukrainian": "Я маю таку рису характеру, як '%trait%'.",
+		"hungarian": "'%trait%' vagyok.",
 	},
 	"iHaveExperience": {
 		"english": "I am a level %level% %profession%.",
@@ -1268,6 +1340,7 @@
 		"japanese": "職業'%profession%'はレベル%level%です",
 		"czech": "Jsem na úrovni %level% %profession%.",
 		"ukrainian": "Я %profession% %level% рівня.",
+		"hungarian": "%level% szintű %profession% vagyok.",
 	},
 	"iHaveNoExperience": {
 		"english": "I don't have a lot of work experience.",
@@ -1283,6 +1356,7 @@
 		"japanese": "職業の経験はあまりありません",
 		"czech": "Nemám moc pracovních zkušeností.",
 		"ukrainian": "У мене немає значного досвіду роботи.",
+		"hungarian": "Nincs túl sok tapasztalatom munka terén.",
 	},
 	"iDontLikeQuestioning": {
 		"english": "I don't like to be questioned like that.",
@@ -1298,6 +1372,7 @@
 		"japanese": "その様な質問は好きではありません",
 		"czech": "Nelíbí se mi být takto vyslýchán.",
 		"ukrainian": "Мені не до вподоби, коли мене так допитують.",
+		"hungarian": "Nem szeretem, ha így kérdezgetnek.",
 	},
 	"tooMuchQuestioning": {
 		"english": "That's enough questioning. Bye bye.",
@@ -1313,6 +1388,7 @@
 		"japanese": "もう質問には答えたくありません",
 		"czech": "Už bylo dost výslechu. Sbohem.",
 		"ukrainian": "З мене досить запитань. До побачення!",
+		"hungarian": "Elég lesz a kérdésekből. Viszlát.",
 	},
 
 
@@ -1339,6 +1415,7 @@
 		"italian": "I Tikigoblin stanno attaccando!",
 		"japanese": "ティキゴブリンの襲撃",
 		"czech": "Tikigoblini útočí!",
+		"hungarian": "A Tikigoblinok támadnak!",
 	},
 	"messageText_GoblinsAttacking": {
 		"english": "Tikigoblins have been sighted near our settlement. They are fast and do not seem to come in peace. Arm the colonists, so they may defend their home once again!",
@@ -1356,6 +1433,7 @@
 		"italian": "I Tikigoblin sono stati avvistati nei pressi del nostro insediamento. Sono veloci e non sembrano venire in pace. Arma i coloni, in modo che possano difendere le loro case!",
 		"japanese": "ティキゴブリンがコロニーの近くで目撃されました。彼らは平和的に接触しようと訪問する者ですら拒みます。コロニストを武装させ、彼らからコロニーを守らなければなりません。",
 		"czech": "Tikigoblini byli spatřeni poblíž naší osady. Jsou rychlí a nezdá se, že by přicházeli v míru. Vyzbrojte kolonisty, aby mohli znovu bránit svůj domov!",
+		"hungarian": "Tikigoblinokat láttak a közösségünk közelében. Gyorsak, és nem épp barátkozni szeretnének. Fegyverezd fel a telepeseidet, hogy meg tudják védeni az otthonaikat!",
 
 	},
 	"messageTitle_MigrantsArrived": {
@@ -1375,6 +1453,7 @@
 		"polish": "Przybył statek imigrantów!",
 		"japanese": "新たなコロニストの到着",
 		"czech": "Migranti dorazili!",
+		"hungarian": "Jövevények érkeztek!",
 	},
 	"messageText_MigrantsArrived": {
 		"english": "A few migrants have seen our fire signal and just arrived in a small boat. Send a colonist to accept them!",
@@ -1392,6 +1471,7 @@
 		"italian": "Alcuni migranti hanno visto il nostro segnale di fumo e sono appena arrivati su una piccola barca. Manda un colono ad accoglierli!",
 		"japanese": "新たなコロニストが篝火を頼りに船で到着しました。彼らを受け入れるのであればコロニストを向かわせてください",
 		"czech": "Několik migrantů spatřilo náš signální oheň a právě dorazilo na malé loďce. Pošlete tam kolonistu, aby je přijal!",
+		"hungarian": "Pár vándor látta a tüzünket, és épp most érkeztek meg egy kicsiny csónakban. Küldj egy telepest a fogadásukra!",
 	},
 	"messageTitle_TraderArrived": {
 		"english": "Trader arrived!",
@@ -1410,6 +1490,7 @@
 		"polish": "Przybył statek handlarza!",
 		"japanese": "商人の到着",
 		"czech": "Obchodník právě dorazil!",
+		"hungarian": "A kereskedő megérkezett!",
 	},
 	"messageText_TraderArrived": {
 		"english": "A trader just made landfall on the coast. Send a colonist to haggle for some good deals!",
@@ -1427,6 +1508,7 @@
 		"polish": "Statek handlarza właśnie dobił do brzegu. Wyślij tam kolonistę, jeśli chcesz pohandlować!",
 		"japanese": "商人が海岸に到着しました。コロニストを向かわせれば貿易取引を行う事ができます。",
 		"czech": "Obchodník právě připlul k našemu pobřeží. Pošlete tam kolonistu, aby se spolu sešli a případně uzavřeli nějaký obchod!",
+		"hungarian": "A kereskedő most ért partot. Küldj egy telepest, hogy nyélbe üthessen pár jó üzletet!",
 	},
 	"messageTitle_TraderRaid": {
 		"english": "The Traders' Guild is attacking the village!",
@@ -1443,7 +1525,8 @@
 		"polish": "Gildia Handlarzy atakuje wioskę!",
 		"japanese": "商人の襲撃",
 		"czech": "Cech obchodníků útočí na vesnici!",
-		"ukrainian": "Гільдія Торговців нападає на вашу колонію!"
+		"ukrainian": "Гільдія Торговців нападає на вашу колонію!",
+		"hungarian": "A Kereskedők Céhe megtámadta a faludat!",
 	},
 	"messageText_TraderRaid": {
 		"english": "Usually, the Guild prefers to trade in peace. What did the colonists do to piss them off so badly?",
@@ -1461,6 +1544,7 @@
 		"japanese": "商人は平和に貿易取引をする事をいつも考えて暴力を好みません。ですか、何故そういう人たちを怒らせる様な事をしたのですか？",
 		"czech": "Cech obvykle raději obchoduje v míru. Co naši kolonisté způsobili, že je to tak naštvalo?",
 		"ukrainian": "Зазвичай Гільдія віддає перевагу мирній торгівлі. Що такого зробили колоністи, що настільки їх розлютило?",
+		"hungarian": "Általában a Céh inkább békésen kereskedik. Mit tettek a telepeseid, hogy ennyire felhúzták őket?",
 	},
 	"messageTitle_PirateRaid": {
 		"english": "Pirates have landed on the coast!",
@@ -1477,6 +1561,7 @@
 		"japanese": "海賊の上陸",
 		"czech": "Piráti připluli k pobřeží!",
 		"ukrainian": "Пірати висадилися на узбережжі!",
+		"hungarian": "A kalózok partot értek!",
 	},
 	"messageText_PirateRaid": {
 		"english": "The wild crew jumps from their ship weapons drawn. In their greedy faces you can see high hopes for easy loot.",
@@ -1493,6 +1578,7 @@
 		"japanese": "海賊が上陸しました。野蛮で貪欲な態度の彼らは略奪が当然の権利であり迷惑な行為とは思っていません。",
 		"czech": "Divoká posádka skáče s vytasenou zbraní z lodě. V jejich chamtivých tvářích můžete vidět velké naděje na snadnou kořist.",
 		"ukrainian": "Навіжена команда вистрибує зі свого корабля розмахуючи зброєю. Їх жадібні пики сяють очікуванням легкої здобичі.",
+		"hungarian": "A nyers legénység már kardot rántva ugrottak ki a hajójukból. Látod a kapzsi tekintetükből, hogy könnyű zsákmányra számítanak.",
 
 	},
 	"messageTitle_BreakdownAttackFriends": {
@@ -1512,6 +1598,7 @@
 		"polish": "Napad agresji!",
 		"japanese": "錯乱",
 		"czech": "Agresivní záchvaty vzteku!",
+		"hungarian": "Aggresszív dühroham!",
 	},
 	"messageText_BreakdownAttackFriends": {
 		"english": "A colonist has been feeling horrible for a while now and just couldn't take it anymore. %cap-heShe% has gone crazy now and is beating up random people, friend or foe.",
@@ -1529,6 +1616,7 @@
 		"italian": "Un colono si sentiva uno schifo da un po' di tempo e non ne poteva più. Adesso è impazzito e sta attaccando persone a caso, amiche o nemiche.",
 		"japanese": "%firstName%は恐ろしさに耐え続ける事ができず狂ってしまい無差別に攻撃し続けます。",
 		"czech": "Kolonista se už nějakou dobu cítil hrozně a už to nedokázal vydržet. nyní se zblázni%lA% a mlátí náhodné lidi...přátelé nebo nepřátelé.",
+		"hungarian": "A telepesed már régóta borzasztóan érzi magát, és mostmár elege lett. %cap-heShe% megőrült, és találomra veri meg aki szembe jön vele, az mindegy neki, hogy barát vagy ellenség.",
 	},
 	"messageTitle_BreakdownRefusingWork": {
 		"english": "Burnout!",
@@ -1547,6 +1635,7 @@
 		"polish": "Przepracowanie",
 		"japanese": "燃え尽き症候群",
 		"czech": "Přepracování!",
+		"hungarian": "Kiégett!",
 	},
 	"messageText_BreakdownRefusingWork": {
 		"english": "A colonist has worked too much under terrible conditions. %cap-heShe% has decided %heShe% just doesn't care anymore and is going to relax for a while.",
@@ -1565,6 +1654,7 @@
 		"polish": "Jeden z kolonistów pracował ponad swoje siły od dłuższego czasu. Postanowił, że od tej chwili więcej czasu poświęci na relaks.",
 		"japanese": "%firstName%は酷い状況下で働きすぎました。そのため全てを放棄してしばらくは何もせず過ごすつもりです。",
 		"czech": "Kolonista za strašných podmínek pracoval příliš dlouho. Rozhod%lA% se o nic se nestarat a na chvíli si odpočine.",
+		"hungarian": "A telepes túl sokat dolgozott igencsak cudar körülmények között. %cap-heShe% úgy döntött, hogy már nem érdekli semmi, csak lazítani akar egy darabig.",
 	},
 	"messageTitle_BreakdownDestroyFurniture": {
 		"english": "Vandalism!",
@@ -1583,6 +1673,7 @@
 		"polish": "Wandalizm!",
 		"japanese": "破壊行為",
 		"czech": "Vandalismus!",
+		"hungarian": "Rongálás!",
 	},
 	"messageText_BreakdownDestroyFurniture": {
 		"english": "Life hasn't been the greatest for %firstName%. Now %heShe% has turned to vandalism to blow off some steam.",
@@ -1600,6 +1691,7 @@
 		"italian": "La vita non è stata generosa con %firstName%. Adesso sta compiendo atti di vandalismo per sfogarsi un po'.",
 		"japanese": "%firstName%にとって最悪の人生の鬱憤を晴らすため、破壊行為に勤しみます。",
 		"czech": "Život tady není ten nejlepší pro %firstName%. Teď se %firstName% obráti%lA% k vandalismu, aby odpáli%lA% trochu páry.",
+		"hungarian": "Az élet nem volt túl kegyes %firstName% számára. Most csak rongálni akar, hogy kieressze a gőzt.",
 	},
 	"messageTitle_BreakdownLazyDay": {
 		"english": "Lazy Day",
@@ -1618,6 +1710,7 @@
 		"polish": "Dzień wolnego",
 		"japanese": "怠惰な一日",
 		"czech": "Líný den!",
+		"hungarian": "Lusta nap",
 	},
 	"messageText_BreakdownLazyDay": {
 		"english": "Life hasn't been the greatest for %firstName%. Today %heShe% is taking it easy and will be taking a lot of long breaks.",
@@ -1636,6 +1729,7 @@
 		"polish": "Ostatnie dni nie oszczędzały tego kolonisty. %firstName% postanowił%heShe% że dzisiaj zrobi sobie wolne i odpocznie.",
 		"japanese": "%firstName%の人生は苦難の連続でした。その現実に一息いれ気持ちを楽にするために長い長い休憩を取るつもりです。",
 		"czech": "Život tady není ten nejlepší pro %firstName%. Dnes se rozhodl, že se bude celý den jen poflakovat.",
+		"hungarian": "Az élet nem volt túl kegyes %firstName% számára. A mai napot %heShe% lazábbra veszi, és rengeteg szünetet tart.",
 	},
 	"messageTitle_BugInfestation": {
 		"english": "Bug Infestation!",
@@ -1654,6 +1748,7 @@
 		"polish": "Plaga robactwa!",
 		"japanese": "害虫の発生",
 		"czech": "Zamoření brouky!",
+		"hungarian": "Bogárinvázió!",
 	},
 	"messageText_BugInfestation": {
 		"english": "A swarm of bugs has come down on your fields and is destroying the harvest. The colonists need to cut affected plants before the infestation spreads.",
@@ -1672,6 +1767,7 @@
 		"polish": "Na twoich polach grasuje szarańcza! Koloniści powinni usunąć zainfekowane rośliny, zanim choroba się rozprzestrzeni.",
 		"japanese": "害虫の群れが畑の作物をダメにしています。虫の被害が広がる前に害虫の取りついた作物を取り除いてください。",
 		"czech": "Roj brouků sestoupil na vaše pole a ničí vaši úrodu. Kolonisté musí co nejrychleji vytrhat postižené rostliny, než se napadení rozšíří.",
+		"hungarian": "Egy raj bogár ellepte a földed, és tönkre teszik a termést. A telepeseknek ki kell gyomlálniuk a növényeket, mielőtt elterjed a fertőzés.",
 	},
 	"messageTitle_TutorialFood": {
 		"english": "Food and Hunger",
@@ -1689,6 +1785,7 @@
 		"italian": "Cibo e fame",
 		"japanese": "食事と空腹",
 		"czech": "Jídlo a Hlad",
+		"hungarian": "Étel és éhezés",
 	},
 	"messageText_TutorialFood": {
 		"english": "Your colonists are hungry! You need to build something from which they can take their food, for example a food basket.",
@@ -1706,6 +1803,7 @@
 		"italian": "I tuoi coloni hanno fame! Devi costruire qualcosa da cui possano raccogliere il loro cibo, come ad esempio un cesto di cibo.",
 		"japanese": "コロニストが空腹になった場合は自動的に食事をしますが、食材用かごか料理の棚が設置されてないと食べ物を手に取る事ができません。",
 		"czech": "Vaši kolonisté mají hlad! Musíte postavit něco, z čeho si mohou vzít jídlo, například Koš na jídlo.",
+		"hungarian": "A telepeseid éheznek! Építened kell valamit, ahonnan ételhez juthatnak, például egy ételes kosarat.",
 	},
 	"messageTitle_TutorialHealing": {
 		"english": "Healing",
@@ -1723,6 +1821,7 @@
 		"italian": "Guarigione",
 		"japanese": "健康の回復",
 		"czech": "Léčení",
+		"hungarian": "Gyógyulás",
 	},
 	"messageText_TutorialHealing": {
 		"english": "A colonist is wounded! Make sure they get enough sleep to rest their body. An experienced doctor can create more advanced remedies at the potion lab.",
@@ -1740,6 +1839,7 @@
 		"italian": "Un colono è ferito! Assicurati che dorma abbastanza per far riposare il suo corpo. Un medico esperto può creare dei rimedi più avanzati presso il laboratorio di pozioni.",
 		"japanese": "コロニストは負傷すると健康も同時に損なう場合があります。時間はかかりますが、睡眠を取る事で健康を回復する事ができます。すぐに回復させたい場合は回復薬を使用します。回復薬は回復薬調合作業台で調合できます。",
 		"czech": "Kolonista je zraněn! Zajistěte mu dostatek spánku a odpočinku. Zkušený lékař může v laboratoři lektvarů vytvořit pokročilejší léky.",
+		"hungarian": "Az egyik telepes megsérült! Gondoskodj róla, hogy eleget aludjon, hogy visszatérjen az ereje. Egy tanult orvos készíthet fejlett orvosságot a főzet készítő laborban.",
 	},
 	"messageTitle_TutorialScience": {
 		"english": "Science",
@@ -1757,6 +1857,7 @@
 		"italian": "Scienza",
 		"japanese": "研究",
 		"czech": "Výzkum",
+		"hungarian": "Tudomány",
 	},
 	"messageText_TutorialScience": {
 		"english": "In order to advance your colony, you need to gather research. You can do that by mining crystals and analyzing them on the research book stand. The science panel is at the top right!",
@@ -1774,6 +1875,7 @@
 		"italian": "Per far avanzare la tua colonia, devi effettuare delle ricerche. Per farlo, estrai i cristalli e analizzali al leggio di ricerca. Il pannello scientifico è in alto a destra!",
 		"japanese": "コロニーを発展させるためには研究を獲得する必要があります。クリスタルを採掘し、クリスタル解析台で解析する事によって研究を獲得する事ができます。研究一覧パネルは右上の研究アイコンで開きます。",
 		"czech": "Chcete-li rozšířit svou kolonii, musíte provézt výzkum. Můžete to udělat těžbou krystalů a poté jejich výzkumem na Stojanu s výzkumnou knihou. Vědecký panel je vpravo nahoře!",
+		"hungarian": "Ahhoz, hogy fejlődjön a kolónia, szükség van kutatásokra. Ezt úgy tudod megtenni, hogy kristályokat bányászol, és kutatod őket a könyvállványon. A kutató panel jobbra fent található!",
 	},
 	"messageTitle_TutorialMigrants": {
 		"english": "Migrants",
@@ -1791,6 +1893,7 @@
 		"italian": "Migranti",
 		"japanese": "新たなコロニスト",
 		"czech": "Migranti",
+		"hungarian": "Jövevények",
 	},
 	"messageText_TutorialMigrants": {
 		"english": "If you want your colony to grow, you'll need to accept new people. Build a bonfire in order to attract migrants. Bonfires are unlocked via research.",
@@ -1808,6 +1911,7 @@
 		"italian": "Se vuoi che la tua colonia cresca, dovrai accettare nuove persone. Costruisci un falò per attirare i migranti. I falò vengono sbloccati tramite ricerca.",
 		"japanese": "コロニーの発展を速めたい場合は新たなコロニストを受け入れ、コロニーの人口を増やす事が一番です。新たなコロニストを受け入れるには篝火と整った住環境が必要です。",
 		"czech": "Pokud chcete, aby vaše kolonie rostla, budete muset přijímat nové lidi. Postavte si signální oheň, abyste přilákali migranty. Ohně se odemykají pomocí průzkumu.",
+		"hungarian": "Ahhoz, hogy fejlődjön a kolónia, be kell fogadnod új embereket. Építs egy jelzőfényt, hogy ide csalhassd a jövevényeket. A jelzőfényt kutatásokkal tudod feloldani.",
 	},
 	"messageTitle_TutorialCameraRotation": {
 		"english": "Rotating the View",
@@ -1825,6 +1929,7 @@
 		"italian": "Ruotare la visuale",
 		"japanese": "視点を回転させる",
 		"czech": "Otočení pohledu",
+		"hungarian": "Nézet forgatása",
 	},
 	"messageText_TutorialCameraRotation": {
 		"english": "You can rotate the view by holding the middle mouse button.",
@@ -1842,6 +1947,7 @@
 		"italian": "Puoi ruotare la visuale tenendo premuto il pulsante centrale del mouse.",
 		"japanese": "マウスのホイールボタンを回転させると視野の範囲の広狭を、押しながらマウスを左右移動させるとそれに合わせて視野の位置を変更できます",
 		"czech": "Pohled můžete otáčet podržením prostředního tlačítka myši.",
+		"hungarian": "A nézetedet az egered középső gombjának lenyomásával tudod forgatni.",
 	},
 	"messageTitle_TutorialBuildConstruction": {
 		"english": "How to build walls and floors",
@@ -1859,6 +1965,7 @@
 		"italian": "Come costruire pareti e pavimenti",
 		"japanese": "壁や床の作り方",
 		"czech": "Jak stavět zdi a podlahy",
+		"hungarian": "Hogyan építs falakat és padlókat",
 	},
 	"messageText_TutorialBuildConstruction": {
 		"english": "In the bottom left corner is a menu to select walls and floors to build. You then need to drag the cursor over the terrain. (right click & drag cursors to delete)",
@@ -1876,6 +1983,7 @@
 		"italian": "Nell'angolo in basso a sinistra è presente un menu per scegliere quali pareti e pavimenti costruire. Dovrai trascinare il cursore sul terreno. (clic destro e trascina per eliminare)",
 		"japanese": "家のアイコンに壁と床を選択するメニューがあります。カーソルを地形上にドラッグして建築してください。削除する場合は右クリックのドラッグです。",
 		"czech": "V levém dolním rohu je nabídka pro výběr stěn a podlah, které se mohou stavět. Poté musíte kurzor přetáhnout přes terén. (kliknutím pravým tlačítkem a tažením kurzoru je zase smažete)",
+		"hungarian": "A bal alsó sarokban vannak azok a fülek, ahol kiválaszthatod az építésre szánt falakat és padlókat. Ezeket a talajra való mozgatással tudod megépíteni. (Jobb gomb és és egérmozgatás a törléshez)",
 	},
 	"messageTitle_TutorialProfessions": {
 		"english": "Professions",
@@ -1893,6 +2001,7 @@
 		"italian": "Professioni",
 		"japanese": "職業",
 		"czech": "Profese",
+		"hungarian": "Szakmák",
 	},
 	"messageText_TutorialProfessions": {
 		"english": "Give jobs to your colonists to automate some tasks. For example, a farmer will tend to the fields.",
@@ -1910,6 +2019,7 @@
 		"italian": "Dai lavoro ai tuoi coloni per automatizzare alcune attività. Ad esempio, un contadino si occuperà dei campi.",
 		"japanese": "職業の優先度を決定して作業を自動化できます。例えば畑の世話をしたい場合は農民の優先度を上げます。",
 		"czech": "Dejte práci svým kolonistům za účelem automatizace některých úkolů. Například farmář bude mít sklon obdělávat pole.",
+		"hungarian": "Adj munkát a telepeseidnek, hogy maguktól csinálják a dolgukat. Példának okáért egy gazda a földeket gondozza.",
 	},
 	"messageTitle_TutorialLeftClickSelect": {
 		"english": "Selecting Colonists and Objects",
@@ -1927,6 +2037,7 @@
 		"italian": "Selezionare coloni e oggetti",
 		"japanese": "コロニストまたはオブジェクトの確認",
 		"czech": "Výběr kolonistů a Objektů",
+		"hungarian": "Tárgyak és telepesek kijelölése",
 	},
 	"messageText_TutorialLeftClickSelect": {
 		"english": "Click on a colonist or an object with your left mouse button to select them. That way you can see their status and give commands.",
@@ -1944,6 +2055,7 @@
 		"italian": "Clicca su un colono o su un oggetto con il tasto sinistro del mouse per selezionarlo. In questo modo potrai vedere il loro stato e impartire dei comandi.",
 		"japanese": "コロニストまたはオブジェクトのステータスの詳細はマウスの左ボタンクリックで確認できます。",
 		"czech": "Klikněte levým tlačítkem myši na kolonistu nebo objekt a vyberte je. Tímto způsobem můžete vidět jejich stav a vydávat různé příkazy.",
+		"hungarian": "A bal egérgombbal ki tudsz jelölni tárgyakat, és telepeseket. Így láthatod az állapotaikat vagy akár adhatsz nekik parancsokat is.",
 	},
 	"messageTitle_TutorialRightClickCommand": {
 		"english": "Assigning tasks",
@@ -1961,6 +2073,7 @@
 		"italian": "Assegnare degli incarichi",
 		"japanese": "作業の割り当て",
 		"czech": "Zadávání úkolů",
+		"hungarian": "Feladatok kiosztása",
 	},
 	"messageText_TutorialRightClickCommand": {
 		"english": "After you select a colonist, use the right mouse button to click on objects to assign tasks.",
@@ -1978,6 +2091,7 @@
 		"italian": "Dopo aver selezionato un colono, usa il tasto destro del mouse per cliccare sugli oggetti ed assegnare degli incarichi.",
 		"japanese": "コロニストを選択し対象物へマウスの右ボタンクリックをする事で作業を割り当てます。",
 		"czech": "Poté, co vyberete kolonistu, klikněte pravým tlačítkem myši na objekty a přiřaďte úkoly.",
+		"hungarian": "Miután kijelöltél egy telepest, használd a jobb egérgombot egy tárgyon, hogy feladatot adhass számára.",
 	},
 	"messageTitle_TutorialHelpMenu": {
 		"english": "Help menu",
@@ -1995,6 +2109,7 @@
 		"italian": "Menu di aiuto",
 		"japanese": "ヘルプメニュー",
 		"czech": "Nabídka nápovědy",
+		"hungarian": "Súgó",
 	},
 	"messageText_TutorialHelpMenu": {
 		"english": "Open the help menu with the button in the top right corner if you need more information.",
@@ -2012,6 +2127,7 @@
 		"italian": "Apri il menu di aiuto premendo il pulsante presente nell'angolo in alto a destra se hai bisogno di ulteriori informazioni.",
 		"japanese": "詳細情報が必要な場合は右上にあるボタンを使用してヘルプメニューを開いてください。",
 		"czech": "Pokud potřebujete další informace, otevřete nabídku nápovědy pomocí tlačítka v pravém horním rohu.",
+		"hungarian": "A jobb felső sarokban lévő gombbal tudod előhozni a súgót, ha több segítségre lenne szükséged.",
 	},
 	"messageTitle_TutorialEquipment": {
 		"english": "How to use Equipment",
@@ -2028,6 +2144,7 @@
 		"italian": "Come usare l'equipaggiamento",
 		"japanese": "装備の仕方",
 		"czech": "Jak používat Vybavení",
+		"hungarian": "Hogyan használd a felszereléseket",
 	},
 	"messageText_TutorialEquipment": {
 		"english": "Build a piece of furniture that can store equipment and select it to choose which equipment to put in it. Let a colonist take ownership of it so that he can equip it automatically.",
@@ -2044,6 +2161,7 @@
 		"italian": "Costruisci un mobile in grado di conservare l'equipaggiamento e selezionalo per scegliere cosa inserire all'interno. Lascia che un colono ne prenda la proprietà, in modo da possa equipaggiare automaticamente ciò che vi è all'interno.",
 		"japanese": "装備を収納できる家具が必要です。コロニストを選択してその家具を右クリックする事で装備の脱着を決定できます。コロニストに所有権を与える事で自動的に装備ができる様になります。",
 		"czech": "Postavte kus nábytku, do kterého lze uložit vybavení. Klikněte na něj, abyste vybrali, které vybavení do něj umístíte. Nechte kolonistu převzít jeho vlastnictví, aby jej mohl vybavit vybavením automaticky.",
+		"hungarian": "Építs egy bútort a felszerelések tárolásához, majd válaszd ki, hogy mit szeretnél bele tenni. Rendeld hozzá az egyik telepeshez, hogy magától használja azokat.",
 	},
 	"messageTitle_TutorialMovingFurniture": {
 		"english": "How to move furniture and other objects",
@@ -2060,6 +2178,7 @@
 		"italian": "Come spostare i mobili e gli altri oggetti",
 		"japanese": "設置された家具等の移動方法",
 		"czech": "Jak přesouvat nábytek a jiné předměty",
+		"hungarian": "Hogyan mozgass bútorokat és más tárgyakat",
 	},
 	"messageText_TutorialMovingFurniture": {
 		"english": "Drag the object with your mouse to its new location. Right clicking during dragging will delete the object.",
@@ -2076,20 +2195,23 @@
 		"italian": "Trascina l'oggetto con il mouse nella sua nuova posizione. Fai clic con il tasto destro mentre lo stai trascinando per eliminare l'oggetto.",
 		"japanese": "設置された家具等を移動したい場合はドラッグで移動させる事ができます。ドラッグ中に右クリックする事で移動の取り消しができます。",
 		"czech": "Přetáhněte objekt myší do nového umístění. Kliknutím pravým tlačítkem během přetahování odstraníte objekt.",
+		"hungarian": "Fogd meg és mozgasd át egy új helyre a tárgyat az egérrel. Ha a jobb egérgombot nyomod le, azzal kitörölheted a tárgyat.",
 	},
     "messageTitle_TutorialStorage": {
         "english": "Storage",
         "german": "Lager",
-	"french": "Réserve",
-	"ukrainian": "Сховище",
-		"russian": "Хранилище"
+		"french": "Réserve",
+		"ukrainian": "Сховище",
+		"russian": "Хранилище",
+		"hungarian": "Tárolás",
     },
     "messageText_TutorialStorage": {
         "english": "Furniture can be stored in storage. You can drag furniture with your mouse to storage to store them. You can also take furniture from storage and place it in the world.",
         "german": "Möbel können im Lager aufbewahrt werden. Du kanst Möbel mit deiner Maus in das Lager ziehen und auch wieder herausnehmen.",
-	"french": "Les meubles peuvent être entreposés dans une réserve. Vous pouvez faire glisser les meubles avec votre souris vers la réserve pour les entreposer. Vous pouvez également placer des meubles à partir de la réserve.",
-	"ukrainian": "Меблі можна зберігати у спеціальному сховищі, вгорі ліворуч. Перетягніть меблі мишкою у сховище, щоб зберігати їх там. Також ви можете взяти меблі зі сховща й розмістити їх у колонії.",
-		"russian": "Мебель можно хранить в хранилище. Вы можете перетащить мебель с помощью мыши в хранилище, чтобы поместить ее на хранение. Вы также можете взять мебель из хранилища и разместить ее в мире."
+		"french": "Les meubles peuvent être entreposés dans une réserve. Vous pouvez faire glisser les meubles avec votre souris vers la réserve pour les entreposer. Vous pouvez également placer des meubles à partir de la réserve.",
+		"ukrainian": "Меблі можна зберігати у спеціальному сховищі, вгорі ліворуч. Перетягніть меблі мишкою у сховище, щоб зберігати їх там. Також ви можете взяти меблі зі сховща й розмістити їх у колонії.",
+		"russian": "Мебель можно хранить в хранилище. Вы можете перетащить мебель с помощью мыши в хранилище, чтобы поместить ее на хранение. Вы также можете взять мебель из хранилища и разместить ее в мире.",
+		"hungarian": "A bútorokat el is tárolhatod. Fogd meg és mozgasd a bútort az egérrel a tárolóba, hogy eltárold azt. Ki is veheted a tárolóból a bútorokat, hogy a világba helyezhesd azokat.",
     },
 	"messageTitle_TechUnlocked": {
 		"english": "%techName% unlocked!",
@@ -2107,6 +2229,7 @@
 		"italian": "Tecnologia sbloccata: %techName%!",
 		"japanese": "%techName%の研究の終了",
 		"czech": "%techName% vyzkoumáno!",
+		"hungarian": "%techName% feloldva!",
 	},
 	"messageText_TechUnlocked": {
 		"english": "You unlocked %techName% and can now do new stuff!\n%unlockedStuff%",
@@ -2124,6 +2247,7 @@
 		"italian": "Sbloccando la tecnologia '%techName%', adesso puoi realizzare nuove cose!\n%unlockedStuff%",
 		"japanese": "%techName%の研究が終了し下記の新しい事が実行できるようになりました。\n%unlockedStuff%",
 		"czech": "Právě jsi vyzkoumal %techName% a můžeš teď dělat nové věci!\n%unlockedStuff%",
+		"hungarian": "%techName% sikeresen feloldva! Mostmár új dolgokat is csinálhatsz!\n%unlockedStuff%",
 	},
 	"messageTitle_JoinForum": {
 		"english": "Check out the forum!",
@@ -2141,6 +2265,7 @@
 		"italian": "Dai un'occhiata al forum!",
 		"japanese": "フォーラムのチェック",
 		"czech": "Podívejte se na fórum!",
+		"hungarian": "Nézd meg a fórumot!",
 	},
 	"messageText_JoinForum": {
 		"english": "You've been playing for a while and we hope you're having fun!\nLet us know how it's going on the forum!",
@@ -2158,6 +2283,7 @@
 		"italian": "Stai giocando da un po' e speriamo tu ti stia divertendo!\nFacci sapere come sta andando sul nostro forum!",
 		"japanese": "しばらくプレイされている様で嬉しく思います。楽しんでいただければ幸いです!\nフォーラムにアクセスしゲームの感想を教えてください。",
 		"czech": "Hrajete už nějakou dobu a doufáme, že se bavíte!\nDejte nám vědět, jak vám to jde na našem fóru!",
+		"hungarian": "Már egy jóideje játszol, és reméljük élvezed!\nTudasd ezt velünk is a fórumunkon!",
 	},
 	"messageTitle_LimpingBecauseOfBadSplintTreatment": {
 		"english": "Treatment messed up\n%firstName% now disabled",
@@ -2174,6 +2300,7 @@
 		"italian": "Trattamento sbagliato\n%firstName% è %RimastoRimasta% disabile.",
 		"japanese": "%firstName%の治療の失敗",
 		"czech": "Léčba se pokazila\n%firstName% je nyní zakázáno",
+		"hungarian": "Az ellátás félrement\n%firstName% mostmár mozgássérült",
 	},
 	"messageText_LimpingBecauseOfBadSplintTreatment": {
 		"english": "It's a beginner's mistake, but can also happen to experienced doctors: Someone messed up the splints to cure %firstName%'s broken leg. It's no longer broken, but now %heShe%'s limping permanently and can't walk as fast as %heShe% used to.",
@@ -2190,6 +2317,7 @@
 		"italian": "È un errore da principianti, ma può accadere anche ai medici esperti: qualcuno ha incasinato le stecche per curare la gamba di %firstName%. Non è più rotta, ma adesso zoppicherà in modo permanente e non può più camminare veloce come faceva un tempo.",
 		"japanese": "%firstName%の骨折に間違った添え木の治療が施されました。そのため治療はうまくいかず未だに足を引きずったまま普通に歩く事ができません。",
 		"czech": "Je to chyba začátečníka, ale může se to stát i zkušeným lékařům: Někdo zpackal aplikaci dlahy, když léčil %firstName% se zlomenou nohou. Už tu nohu nemá zlomenou, ale teď bude pro změnu permanentně kulhat.",
+		"hungarian": "A kezdők botladozása, de akár egy tanult orvossal is megtörténhet: Valaki elrontotta %firstName% törött lábának sínbe tételét. A jó hír, hogy már nem törött, de cserébe %heShe% véglegesen bicegni fog, és nem tud olyan gyorsan járni, mint eddig.",
 	},
 	"messageTitle_SupportDevelopment": {
 		"english": "Support the Development of Founders' Fortune!",
@@ -2206,6 +2334,7 @@
 		"italian": "Supporta lo sviluppo di Founders' Fortune!",
 		"japanese": "Founders' Fortune! の開発をサポート",
 		"czech": "Podpořte rozvoj Founders' Fortune!",
+		"hungarian": "Támogassd a Founders' Fortune készítőit!",
 	},
 	"messageText_SupportDevelopment": {
 		"english": "You've been playing this colony for %hours% hours and it seems like you're enjoying the free version of Founders' Fortune! Consider checking out the store and supporting us!",
@@ -2222,6 +2351,7 @@
 		"italian": "Hai giocato a questa colonia per %hours% ore e sembra che tu ti stia divertendo con la versione gratuita di Founders' Fortune! Valuta la possibilità di visitare il negozio e di supportarci!",
 		"japanese": "Founders' Fortuneの体験版を%hours%時間も楽しく遊んでいただいている様ですね。よろしければストアをチェックして私たちをサポートする事を検討してくれたら嬉しく思います。",
 		"czech": "Hrajete tuto kolonii už %hours% hodin a zdá se, že si užíváte bezplatnou verzi Founders' Fortune! Zvažte prohlédnutí obchodu a podpořit nás tím, že si hru zakoupíte!",
+		"hungarian": "Immáron %hours% órája játszol a kolóniáddal, és úgy látszik tetszik neked az ingyenes verziója a Founders' Fortune-nek! Kérlek keressd fel a boltot, hogy támogatni tudj minket!",
 	},
 	"messageTitle_negativeTraitEvent": {
 		"english":  "Psychological Problems",
@@ -2237,6 +2367,7 @@
 		"czech":  "Psychologické problémy",
 		"korean": "심리적 문제",
 		"ukrainian": "Психологічні проблеми",
+		"hungarian": "Pszichés gondok",
 	},
 	"messageText_negativeTraitEvent": {
 		"english":  "%firstName% has been miserable for a long time now. %cap-hisHer% bad mental state has caused %himHer% to gain a new trait: '%trait%'",
@@ -2252,6 +2383,7 @@
 		"czech":  "%firstName% se cítí už dlouho mizerně. Má špatný duševní stav, který způsobil novou trvalou vlastnost : '%trait%'",
 		"korean":  "%firstName%#{은} 오랜시간 비참하게 지냈습니다. %cap-hisHer%의 안 좋은 정신상태는 %himHer%#{가} 새 성향을 갖게 만들었습니다: '%trait%'",
 		"ukrainian": "%firstName% почувається нещасн%heshe_UM_OY% уже тривалий час. Через %hisHer% поганий стан, у %jj_heShe% з'явилася нова риса: '%trait%'",
+		"hungarian": "%firstName% már régóta lerobbant. %cap-hisHer% rossz mentális állapota új tulajdonságot hozott számára: '%trait%'",
 	},
 
 

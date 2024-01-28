@@ -1,4 +1,4 @@
-﻿{
+{
 	// INTERACTIONS
 	"NoInteraction": {
 		"english": "Do Nothing",
@@ -17,6 +17,7 @@
 		"polish": "Nic nie rób",
 		"japanese": "何もしない",
 		"czech": "Nic nedělej",
+		"hungarian": "Semmit sem csinál",
 	},
 	"Eat": {
 		"english": "Eat Something",
@@ -35,6 +36,7 @@
 		"polish": "Zjedz coś",
 		"japanese": "食べる",
 		"czech": "Běž se najíst",
+		"hungarian": "Eszik",
 	},
 	"EatFood": {
 		"english": "Eat %food%",
@@ -53,6 +55,7 @@
 		"polish": "Zjedz: %food%",
 		"japanese": "%food%を食べる",
 		"czech": "Sněz %food%",
+		"hungarian": "%food%-t eszik",
 	},
 	"GiveFood": {
 		"english": "Give Food",
@@ -71,6 +74,7 @@
 		"polish": "Daj jedzenie",
 		"japanese": "食べ物を与える",
 		"czech": "Dej jídlo",
+		"hungarian": "Ételt ad",
 	},
 	"GiveHealingPotion": {
 		"english": "Give Healing Potion",
@@ -89,6 +93,7 @@
 		"polish": "Daj miksturę leczniczą",
 		"japanese": "回復薬を与える",
 		"czech": "Dej léčivý lektvar",
+		"hungarian": "Gyógyitalt ad",
 	},
 	"Repair": {
 		"english": "Repair",
@@ -107,6 +112,7 @@
 		"polish": "Napraw",
 		"japanese": "修理",
 		"czech": "Oprav to",
+		"hungarian": "Megjavít",
 	},
 	"GoHere": {
 		"english": "Go Here",
@@ -125,6 +131,7 @@
 		"polish": "Idź tutaj",
 		"japanese": "ここに行く",
 		"czech": "Běž sem",
+		"hungarian": "Menj ide",
 	},
 	"WaitHere": {
 		"english": "Wait Here",
@@ -143,6 +150,7 @@
 		"polish": "Czekaj tutaj",
 		"japanese": "ここで待つ",
 		"czech": "Počkej tu",
+		"hungarian": "Itt várj",
 	},
 	"Relax": {
 		"english": "Relax",
@@ -161,6 +169,7 @@
 		"polish": "Odpocznij",
 		"japanese": "休息する",
 		"czech": "Relaxuj",
+		"hungarian": "Pihen",
 	},
 	"RemovePlant": {
 		"english": "Remove Plant",
@@ -179,6 +188,7 @@
 		"polish": "Usuń roślinę",
 		"japanese": "作物を取り除く",
 		"czech": "Odstraň rostlinu",
+		"hungarian": "Gyomláld ki",
 	},
 	"RemoveInfestedPlants": {
 		"english": "Remove all Infested Plants",
@@ -197,6 +207,7 @@
 		"polish": "Usuń wszystkie zarażone rośliny",
 		"japanese": "感染した作物を全て取り除く",
 		"czech": "Odstraň všechny napadené rostliny",
+		"hungarian": "Gyomláld ki az összes fertőzött növényt",
 	},
 	"RemoveDeadPlants": {
 		"english": "Remove all Dead Plants",
@@ -215,6 +226,7 @@
 		"polish": "Usuń wszystkie obumarłe rośliny",
 		"japanese": "枯れた作物を全て取り除く",
 		"czech": "Odstraň všechny uschlé rostliny",
+		"hungarian": "Gyomláld ki az elhalt növényeket",
 	},
 	"WaterPlant": {
 		"english": "Water Plant",
@@ -233,6 +245,7 @@
 		"polish": "Podlej",
 		"japanese": "水をまく",
 		"czech": "Zalij rostliny",
+		"hungarian": "Öntözd a növényeket",
 	},
 	"Sow": {
 		"english": "Sow",
@@ -251,6 +264,7 @@
 		"polish": "Zasadź",
 		"japanese": "種をまく",
 		"czech": "Zasaď",
+		"hungarian": "Vessd be",
 	},
 	"interaction_Plant": { // for example when planting a tree. Game mechanics are similar/same as sow
 		"english": "Plant",
@@ -266,6 +280,7 @@
 		"japanese": "植える",
 		"czech": "Vysaď",
 		"korean": "묘목심기",
+		"hungarian": "Ültessd el",
 	},
 	"Harvest": {
 		"english": "Harvest",
@@ -284,6 +299,7 @@
 		"polish": "Zbierz",
 		"japanese": "収穫する",
 		"czech": "Skliď",
+		"hungarian": "Szüreteld le",
 	},
 	"SowObject": {
 		"english": "Sow %object%",
@@ -302,6 +318,7 @@
 		"polish": "Posadź: %object%",
 		"japanese": "種をまく:%object%",
 		"czech": "Zasaď %object%",
+		"hungarian": "Vess %object%-t",
 	},
 	"HarvestObject": {
 		"english": "Harvest %object%",
@@ -320,6 +337,7 @@
 		"polish": "Zbierz: %object%",
 		"japanese":"収穫する:%object%",
 		"czech": "Skliď %object%",
+		"hungarian": "Szüretelj %object%-t",
 	},
 	"Construct": {
 		"english": "Construct",
@@ -338,6 +356,7 @@
 		"polish": "Zbuduj",
 		"japanese":"建築",
 		"czech": "Postav",
+		"hungarian": "Épít",
 	},
 	"Deconstruct": { // letting a colonist remove furniture
 		"english": "Remove",
@@ -356,6 +375,7 @@
 		"polish": "Usuń",
 		"japanese":"削除",
 		"czech": "Odstraň",
+		"hungarian": "Eltávolít",
 	},
 	"Fight": {
 		"english": "Fight",
@@ -374,6 +394,7 @@
 		"polish": "Walcz",
 		"japanese":"戦う",
 		"czech": "Bojuj",
+		"hungarian": "Megver",
 	},
 	"Kill": {
 		"english": "Kill",
@@ -392,6 +413,7 @@
 		"polish": "Zabij",
 		"japanese":"殺す",
 		"czech": "Zabij",
+		"hungarian": "Megöl",
 	},
 	"TakeHealingPotion": {
 		"english": "Take Healing Potion",
@@ -410,6 +432,7 @@
 		"polish": "Weź miksturę leczniczą",
 		"japanese":"回復薬を使用する",
 		"czech": "Vypij léčivý lektvar",
+		"hungarian": "Vegyél el egy gyógyitalt",
 	},
 	"DrinkElixirOfYouth": {
 		"english": "Drink Elixir of Youth",
@@ -425,6 +448,7 @@
 		"japanese":"若返りの秘薬を飲む",
 		"czech": "Vypij elixír mládí",
 		"korean": "회춘의 묘약 마시기",
+		"hungarian": "Idd meg a fiatalság elixírét",
 	},
 	"LearnFarming": {
 		"english": "Learn about Farming",
@@ -443,6 +467,7 @@
 		"polish": "Ucz się o rolnictwie",
 		"japanese":"農業を学ぶ",
 		"czech": "Nauč se Základy farmaření",
+		"hungarian": "Gazdálkodást tanulni",
 	},
 	"LearnForesting": {
 		"english": "Learn about Foresting",
@@ -461,6 +486,7 @@
 		"polish": "Ucz się o leśnictwie",
 		"japanese":"林業を学ぶ",
 		"czech": "Nauč se Základy Lesnictví",
+		"hungarian": "Erdészetet tanulni",
 	},
 	"LearnMining": {
 		"english": "Learn about Mining",
@@ -479,6 +505,7 @@
 		"polish": "Ucz się o wydobyciu",
 		"japanese":"採掘を学ぶ",
 		"czech": "Nauč se Základy těžby",
+		"hungarian": "Bányászatot tanulni",
 	},
 	"LearnCrafting": {
 		"english": "Learn about Crafting",
@@ -497,6 +524,7 @@
 		"polish": "Ucz się o wytwarzaniu",
 		"japanese":"クラフトを学ぶ",
 		"czech": "Nauč se Základy řemesel",
+		"hungarian": "Tanulni az alkotásról",
 	},
 	"LearnFighting": {
 		"english": "Train for Combat",
@@ -515,6 +543,7 @@
 		"polish": "Ćwicz walkę",
 		"japanese":"戦闘の訓練をする",
 		"czech": "Nauč se bojovat",
+		"hungarian": "Gyakorolni a harcot",
 	},
 	"LearnMedicine": {
 		"english": "Learn about Medicine",
@@ -533,6 +562,7 @@
 		"polish": "Ucz się o medycynie",
 		"japanese":"医学を学ぶ",
 		"czech": "Nauč se Základy lékařství",
+		"hungarian": "Gyógyítást tanulni",
 	},
 	"LearnResearching": {
 		"english": "Learn about Researching",
@@ -551,6 +581,7 @@
 		"polish": "Ucz się o wynalazkach",
 		"japanese":"研究を学ぶ",
 		"czech": "Nauč se Výzkum",
+		"hungarian": "Tanulni a kutatásról",
 	},
 	"LearnLifeSkills": { // refers to all the things kids need to learn in order to grow up properly
 		"english": "Learn Life Skills",
@@ -566,6 +597,7 @@
 		"japanese":"勉強する",
 		"czech": "Nauč se Životním zkušenostem",
 		"korean": "공부하기",
+		"hungarian": "Alapvető készségeket tanulni",
 	},
 	"Sleep": {
 		"english": "Sleep",
@@ -584,6 +616,7 @@
 		"polish": "Śpij",
 		"japanese":"寝る",
 		"czech": "Jdi spát",
+		"hungarian": "Alvás",
 	},
 	"SleepUntilHealthy": {
 		"english": "Sleep until completely healthy",
@@ -602,6 +635,7 @@
 		"polish": "Śpij aż do wyzdrowienia",
 		"japanese":"完全な健康になるまで眠る",
 		"czech": "Spi dokud se neuzdravíš",
+		"hungarian": "Aludni, míg teljesen fel nem épül",
 	},
 	"SleepOnGround": {
 		"english": "Sleep on the Ground",
@@ -620,6 +654,7 @@
 		"polish": "Śpij na podłodze",
 		"japanese":"地面で寝る",
 		"czech": "Jdi spát na zem",
+		"hungarian": "Földön aludni",
 	},
 	"Sit": {
 		"english": "Sit",
@@ -638,6 +673,7 @@
 		"polish": "Usiądź",
 		"japanese":"ここに座る",
 		"czech": "Sedni si",
+		"hungarian": "Leül",
 	},
 	"SitOnChair": {
 		"english": "Sit on Chair",
@@ -656,6 +692,7 @@
 		"polish": "Usiądź na krześle",
 		"japanese":"椅子に座る",
 		"czech": "Sedni si na židli",
+		"hungarian": "Ülj a székre",
 	},
 	"Bury": {
 		"english": "Bury",
@@ -674,6 +711,7 @@
 		"polish": "Pochowaj",
 		"japanese":"埋葬する",
 		"czech": "Jdi pohřbít",
+		"hungarian": "Eltemet",
 	},
 	"AcceptMigrants": {
 		"english": "Accept Migrants",
@@ -692,6 +730,7 @@
 		"polish": "Przyjmij migrantów",
 		"japanese":"仲間に誘う",
 		"czech": "Přijmi migranty",
+		"hungarian": "Befogadni a jövevényt",
 	},
 	"RejectMigrants": {
 		"english": "Reject Migrants",
@@ -710,6 +749,7 @@
 		"polish": "Odeślij migrantów",
 		"japanese":"仲間を断る",
 		"czech": "Odmítni migranty",
+		"hungarian": "Elutasítani a jövevényt",
 	},
 	"LeaveIsland": {
 		"english": "Leave Island",
@@ -728,6 +768,7 @@
 		"polish": "Opuść wyspę",
 		"japanese":"島を離れる",
 		"czech": "Opusť ostrov",
+		"hungarian": "Elhagyni a szigetet",
 	},
 	"BandageWounds": {
 		"english": "Bandage Wounds",
@@ -746,6 +787,7 @@
 		"polish": "Opatrz rany",
 		"japanese":"包帯で傷を治療",
 		"czech": "Obvaž zranění",
+		"hungarian": "Bekötözni a sebeket",
 	},
 	"SplintLeg": {
 		"english": "Splint Leg",
@@ -764,6 +806,7 @@
 		"polish": "Usztywnij nogę",
 		"japanese":"添え木で脚を治療",
 		"czech": "Dej nohu do dlahy",
+		"hungarian": "Sínbe rakja a lábát",
 	},
 	"SplintArm": {
 		"english": "Splint Arm",
@@ -782,6 +825,7 @@
 		"polish": "Usztywnij rękę",
 		"japanese":"添え木で腕を治療",
 		"czech": "Dej ruku do dlahy",
+		"hungarian": "Sínbe rakja a kezét",
 	},
 	"Destroy": {
 		"english": "Destroy",
@@ -800,6 +844,7 @@
 		"polish": "Zniszcz",
 		"japanese":"破壊",
 		"czech": "Znič",
+		"hungarian": "Megsemmisít",
 	},
 	"Remove": {
 		"english": "Remove",
@@ -818,6 +863,7 @@
 		"polish": "Usuń",
 		"japanese":"削除",
 		"czech": "Odstraň",
+		"hungarian": "Eltávolít",
 	},
 	"Add": {
 		"english": "Add",
@@ -836,6 +882,7 @@
 		"polish": "Dodaj",
 		"japanese":"追加",
 		"czech": "Přidej",
+		"hungarian": "Hozzáad",
 	},
 	"Produce": {
 		"english": "Produce",
@@ -854,6 +901,7 @@
 		"polish": "Produkuj",
 		"japanese":"生産",
 		"czech": "Vytvoř",
+		"hungarian": "Készít",
 	},
 	"Equip": {
 		"english": "Equip",
@@ -872,6 +920,7 @@
 		"polish": "Załóż",
 		"japanese":"装備を付ける",
 		"czech": "Vybav se",
+		"hungarian": "Felszerel",
 	},
 	"Unequip": {
 		"english": "Unequip",
@@ -890,6 +939,7 @@
 		"polish": "Zdejmij",
 		"japanese":"装備をはずす",
 		"czech": "Vrať vybavení",
+		"hungarian": "Leszerel",
 	},
 	"RemoveWeapon": {
 		"english": "Lay down Weapon",
@@ -908,6 +958,7 @@
 		"polish": "Odłóż broń",
 		"japanese":"武器を置く",
 		"czech": "Odlož zbraň",
+		"hungarian": "Fegyvert letesz",
 	},
 	"RemoveArmor": {
 		"english": "Take off Armor",
@@ -926,6 +977,7 @@
 		"polish": "Zdejmij zbroję",
 		"japanese":"防具を脱ぐ",
 		"czech": "Sundej zbroj",
+		"hungarian": "Páncélt levesz",
 	},
 	"RemoveEquipment": {
 		"english": "Remove Equipment",
@@ -944,6 +996,7 @@
 		"polish": "Usuń wyposażenie",
 		"japanese":"装備を取り除く",
 		"czech": "Odstraň vybavení",
+		"hungarian": "Leveszi a felszerelést",
 	},
 	"LightBonfire": {
 		"english": "Light Bonfire",
@@ -962,6 +1015,7 @@
 		"polish": "Zapal ogień",
 		"japanese":"篝火を点灯",
 		"czech": "Zapal signální oheň",
+		"hungarian": "Jelzőfény meggyújtása",
 	},
 	"PutOutBonfire": {
 		"english": "Put out Bonfire",
@@ -980,6 +1034,7 @@
 		"polish": "Zgaś ogień",
 		"japanese":"篝火を消火",
 		"czech": "Uhas signální oheň",
+		"hungarian": "Jelzőfény kioltása",
 	},
 	"GatherResources": {
 		"english": "Gather Resources",
@@ -998,6 +1053,7 @@
 		"polish": "Zbieraj surowce",
 		"japanese":"資材を収集",
 		"czech": "Shromažďuj suroviny",
+		"hungarian": "Nyersanyagot gyűjt",
 	},
 	"Guard": {
 		"english": "Guard",
@@ -1016,6 +1072,7 @@
 		"polish": "Strzeż",
 		"japanese":"防衛",
 		"czech": "Chraň",
+		"hungarian": "Őrt áll",
 	},
 	"GuardTower": {
 		"english": "Guard Tower",
@@ -1034,6 +1091,7 @@
 		"polish": "Chroń wieżę",
 		"japanese":"櫓で防衛",
 		"czech": "Braň věž",
+		"hungarian": "Őrtorony",
 	},
 	"ProcessResource": {
 		"english": "Process Resource",
@@ -1052,6 +1110,7 @@
 		"polish": "Przetwórz zasoby",
 		"japanese":"資材を処理",
 		"czech": "Zpracuj suroviny",
+		"hungarian": "Nyersanyag feldolgozása",
 	},
 	"ChangeProfession": {
 		"english": "Change",
@@ -1070,6 +1129,7 @@
 		"polish": "Zmień",
 		"japanese":"職業の変更",
 		"czech": "Změň",
+		"hungarian": "Cserél",
 	},
 	"GiveProductionOrders": {
 		"english": "Give Production Orders",
@@ -1088,6 +1148,7 @@
 		"polish": "Zleć produkcję",
 		"japanese":"生産品を設定",
 		"czech": "Zadej výrobní plán",
+		"hungarian": "Gyártási listát módosít",
 	},
 	"FillWateringCan": {
 		"english": "Fill Watering Can",
@@ -1106,6 +1167,7 @@
 		"polish": "Napełnij konewkę",
 		"japanese":"じょうろに給水",
 		"czech": "Naplň konvici na zalévání",
+		"hungarian": "Öntöző kannát feltölt",
 	},
 	"interaction_gatherFood": {
 		"english": "Gather Food",
@@ -1124,6 +1186,7 @@
 		"polish": "Zbierz: Jedzenie",
 		"japanese":"食べ物を集める",
 		"czech": "Shromaždi jídlo",
+		"hungarian": "Ételt gyűjt",
 	},
 	"interaction_cutTree": {
 		"english": "Cut Tree",
@@ -1142,6 +1205,7 @@
 		"polish": "Zbierz: Drewno",
 		"japanese":"伐採",
 		"czech": "Kácej stromy",
+		"hungarian": "Favágás",
 	},
 	"interaction_mineStone": {
 		"english": "Mine Stone",
@@ -1160,6 +1224,7 @@
 		"polish": "Zbierz: Kamień",
 		"japanese":"石を採掘",
 		"czech": "Vytěž kámen",
+		"hungarian": "Követ bányász",
 	},
 	"interaction_mineIronOre": {
 		"english": "Mine Iron Ore",
@@ -1178,6 +1243,7 @@
 		"polish": "Zbierz: Żelazo",
 		"japanese":"鉄鉱石を採掘",
 		"czech": "Vytěž železnou rudu",
+		"hungarian": "Vasat bányász",
 	},
 	"GatherResource": {
 		"english": "Gather %resource%",
@@ -1196,6 +1262,7 @@
 		"polish": "Zbierz: %resource%",
 		"japanese":"%resource%を採集",
 		"czech": "Shromaždi %resource%",
+		"hungarian": "%resource% gyűjtése",
 	},
 	"BecomeAProfession": {
 		"english": "Become a %profession%",
@@ -1214,6 +1281,7 @@
 		"polish": "Wybierz profesję: %profession%",
 		"japanese":"%profession%に設定",
 		"czech": "Staň se %profession%",
+		"hungarian": "%profession% elsajátítása",
 	},
 	"TryFluTreatment": {
 		"english": "Try Flu Treatment",
@@ -1232,54 +1300,63 @@
 		"polish": "Wylecz grypę",
 		"japanese":"インフルエンザを治療",
 		"czech": "Zkus Léčbu chřipky",
+		"hungarian": "Próbálja meggyógyítani a náthát",
 	},
     "RemovePainting": {
         "english": "Remove Painting",
         "german": "Gemälde entfernen",
 		"french": "Retirer la peinture",
 		"russian": "Удалить картину",
+		"hungarian": "Festmény eltávolítása",
     },
     "Paint": {
         "english": "Paint",
         "german": "Malen",
 		"french": "Peindre",
 		"russian": "Рисовать",
+		"hungarian": "Fest",
     },
     "PlayInstrument": {
         "english": "Play Instrument",
         "german": "Instrument spielen",
 		"french": "Jouer de la musique",
 		"russian": "Играть на инструменте",
+		"hungarian": "Hangszeren játszik",
     },
     "CareForPlants": {
         "english": "Care for Plants",
         "german": "Um Pflanzen kümmern",
 		"french": "Prendre soin des plantes",
 		"russian": "Ухаживать за растениями",
+		"hungarian": "Növény gondozás",
     },
     "ReadBook": {
         "english": "Read Book",
         "german": "Buch lesen",
 		"french": "Lire le livre",
 		"russian": "Читать книгу",
+		"hungarian": "Könyvet olvas",
     },
     "WriteBook": {
         "english": "Write Book",
         "german": "Buch schreiben",
 		"french": "Écrire un livre",
 		"russian": "Писать книгу",
+		"hungarian": "Könyvet ír",
     },
     "DoMasonry": {
         "english": "Do Masonry",
         "german": "Statue meißeln",
 		"french": "Faire de la maçonnerie",
 		"russian": "Заниматься каменным делом",
+		"hungarian": "Követ megmunkál",
     },
     "DoWoodworking": {
         "english": "Do Woodworking",
         "german": "Schreinern",
 		"french": "Faire de la menuiserie",
 		"russian": "Заниматься деревообработкой",
+		"hungarian": "Fát megmunkál",
     },
 	"interaction_analyzeCrystal": {
 		"english": "Analyze Crystal",
@@ -1298,6 +1375,7 @@
 		"polish": "Badaj kryształy",
 		"japanese":"クリスタルを解析",
 		"czech": "Zkoumej krystaly",
+		"hungarian": "Kristályt analizál",
 	},
 	"interaction_analyzeScroll": {
 		"english": "Analyze Scroll",
@@ -1316,6 +1394,7 @@
 		"polish": "Czytaj zwoje",
 		"japanese":"スクロールを解析",
 		"czech": "Zkoumej svitky",
+		"hungarian": "Tekercset analizál",
 	},
 	"interaction_cook": {
 		"english": "Cook Food",
@@ -1334,6 +1413,7 @@
 		"polish": "Gotuj jedzenie",
 		"japanese":"料理",
 		"czech": "Uvař jídlo",
+		"hungarian": "Főz",
 	},
 	"interaction_Forge": {
 		"english": "Forge",
@@ -1352,6 +1432,7 @@
 		"polish": "Wykuwaj broń",
 		"japanese":"鍛造",
 		"czech": "Ukovej",
+		"hungarian": "Kovácsol",
 	},
 	"interaction_makeBows": {
 		"english": "Make Bows",
@@ -1370,6 +1451,7 @@
 		"polish": "Rób łuki",
 		"japanese":"弓を製作",
 		"czech": "Vyrob luky",
+		"hungarian": "Íjat készít",
 	},
 	"interaction_makeTools": {
 		"english": "Make Tools",
@@ -1388,6 +1470,7 @@
 		"polish": "Rób narzędzia",
 		"japanese":"道具を製作",
 		"czech": "Vyrob nástroje",
+		"hungarian": "Eszközöket készít",
 	},
 	"interaction_tailorClothes": {
 		"english": "Tailor Clothes",
@@ -1406,6 +1489,7 @@
 		"polish": "Szyj ubrania",
 		"japanese":"仕立てる",
 		"czech": "Ušij oblečení",
+		"hungarian": "Ruhát készít",
 	},
 	"interaction_weave": {
 		"english": "Weave",
@@ -1421,6 +1505,7 @@
 		"japanese":"織る",
 		"czech": "Utkej",
 		"korean": "천 짜기",
+		"hungarian": "Sző",
 	},
 	"interaction_produceMedicalPotions": {
 		"english": "Produce Healing Potions",
@@ -1439,6 +1524,7 @@
 		"polish": "Twórz mikstury lecznicze",
 		"japanese":"回復薬を調合",
 		"czech": "Vyrob léčivé lektvary",
+		"hungarian": "Gyógyitalt készít",
 	},
 	"interaction_produceMedicine": {
 		"english": "Produce Medicine",
@@ -1457,6 +1543,7 @@
 		"polish": "Twórz leki",
 		"japanese":"ワクチンを調合",
 		"czech": "Vytvoř léky",
+		"hungarian": "Gyógyszert készít",
 	},
 	"interaction_brewBeer": {
 		"english": "Brew Beer",
@@ -1475,6 +1562,7 @@
 		"polish": "Warz piwo",
 		"japanese":"ビールを醸造",
 		"czech": "Uvař pivo",
+		"hungarian": "Sört főz",
 	},
 	"Talk": {
 		"english": "Talk",
@@ -1493,6 +1581,7 @@
 		"polish": "Rozmawiaj",
 		"japanese":"会話をする",
 		"czech": "Mluv",
+		"hungarian": "Beszélget",
 	},
 	"TalkAboutFood": {
 		"english": "Talk about Food",
@@ -1508,6 +1597,7 @@
 		"japanese":"食べ物の会話をする",
 		"czech": "Mluv o jídle",
 		"korean": "음식 얘기하기",
+		"hungarian": "Beszélnek az ételekről",
 	},
 	"TalkTo": {
 		"english": "Talk to %name%",
@@ -1526,6 +1616,7 @@
 		"polish": "Rozmawiaj z %name%",
 		"japanese":"%name%と話す",
 		"czech": "Mluv s %name%",
+		"hungarian": "Beszélj vele: %name%",
 	},
 	"TakeOwnership": {
 		"english": "Take Ownership",
@@ -1544,6 +1635,7 @@
 		"polish": "Przejmij na własność",
 		"japanese":"所有権を取得",
 		"czech": "Přivlastni si",
+		"hungarian": "Birtokba vesz",
 	},
 	"TakeOwnershipFrom": {
 		"english": "Take Ownership from %name%",
@@ -1562,6 +1654,7 @@
 		"polish": "Przejmij własność od %name%",
 		"japanese":"%name%から所有権を取得",
 		"czech": "Přivlastni si to od %name%",
+		"hungarian": "Vedd át %name% tulajdonát",
 	},
 	"GiveUpOwnership": {
 		"english": "Give up Ownership",
@@ -1580,6 +1673,7 @@
 		"polish": "Zrzeknij się własności",
 		"japanese":"所有権を放棄",
 		"czech": "Vzdej se vlastnictví",
+		"hungarian": "Add át a birtoklás jogát",
 	},
 	"CarryToBed": {
 		"english": "Carry to Bed",
@@ -1598,6 +1692,7 @@
 		"polish": "Zaprowadź do łóżka",
 		"japanese":"ベッドに運ぶ",
 		"czech": "Odnes do postele",
+		"hungarian": "Vidd az ágyba",
 	},
 	"PlaceTool": {
 		"english": "Unequip Tool",
@@ -1616,6 +1711,7 @@
 		"polish": "Odłóż narzędzie",
 		"japanese":"装備している道具を解除",
 		"czech": "Odevzdej nástroj",
+		"hungarian": "Eszközt letesz",
 	},
 	"PlaceClothes": {
 		"english": "Unequip Clothes",
@@ -1634,6 +1730,7 @@
 		"polish": "Zdejmij ubranie",
 		"japanese":"装備している衣装を解除",
 		"czech": "Odevzdej oblečení",
+		"hungarian": "Ruhát levesz",
 	},
 	"Trade": {
 		"english": "Trade",
@@ -1652,6 +1749,7 @@
 		"polish": "Handluj",
 		"japanese":"貿易取引",
 		"czech": "Obchoduj",
+		"hungarian": "Kereskedés",
 	},
 	"LockUp": {
 		"english": "Lock Up",
@@ -1670,6 +1768,7 @@
 		"polish": "Zamknij",
 		"japanese":"拉致する",
 		"czech": "Zamkni",
+		"hungarian": "Bezárni",
 	},
 	"FreeColonist": {
 		"english": "Free colonist",
@@ -1688,6 +1787,7 @@
 		"polish": "Uwolnij",
 		"japanese":"解放する",
 		"czech": "Osvoboď kolonistu",
+		"hungarian": "Kiszabadítani a telepest",
 	},
 	"FreeColonistFirstName": {
 		"english": "Free %firstName%",
@@ -1706,6 +1806,7 @@
 		"polish": "Uwolnij %firstName%",
 		"japanese":"%firstName%を解放する",
 		"czech": "Osvoboď %firstName%",
+		"hungarian": "Szabadítsd ki: %firsname%",
 	},
 	"DrinkBeer": {
 		"english": "Drink Beer",
@@ -1724,6 +1825,7 @@
 		"polish": "Wypij piwo",
 		"japanese":"ビールを飲む",
 		"czech": "Pij pivo",
+		"hungarian": "Sörivás",
 
 	},
 	"Dance": {
@@ -1743,6 +1845,7 @@
 		"polish": "Tańcz",
 		"japanese":"踊る",
 		"czech": "Tancuj",
+		"hungarian": "Táncolj",
 	},
 	"Enjoy": {
 		"english": "Enjoy",
@@ -1761,6 +1864,7 @@
 		"polish": "Ciesz się",
 		"japanese":"楽しむ",
 		"czech": "Užívej",
+		"hungarian": "Élvezd",
 	},
 	"EnjoyFire": {
 		"english": "Enjoy Fire",
@@ -1779,6 +1883,7 @@
 		"polish": "Odpocznij przy ogniu",
 		"japanese":"火を楽しむ",
 		"czech": "Užívej si ohně",
+		"hungarian": "Élvezze a tűz melegét",
 	},
 	"Drum": {
 		"english": "Drum",
@@ -1797,6 +1902,7 @@
 		"polish": "Werbluj",
 		"japanese":"太鼓を叩く",
 		"czech": "Bubnuj",
+		"hungarian": "Dobolj",
 	},
 	"Hug": {
 		"english": "Hug",
@@ -1815,6 +1921,7 @@
 		"polish": "Przytul",
 		"japanese":"ハグをする",
 		"czech": "Obejmi",
+		"hungarian": "Ölelés",
 	},
 	"HugPerson": {
 		"english": "Hug %name%",
@@ -1830,6 +1937,7 @@
 		"japanese":"%name%とハグをする",
 		"czech": "Obejmi %name%",
 		"korean": "%name% 껴안기",
+		"hungarian": "Öleld meg: %name%",
 	},
 	"Cheer": {
 		"english": "Cheer",
@@ -1848,6 +1956,7 @@
 		"polish": "Ciesz się",
 		"japanese":"応援する",
 		"czech": "Připij",
+		"hungarian": "Vidítsd fel",
 	},
 	"AskAboutTraits": {
 		"english": "Ask about traits",
@@ -1864,6 +1973,7 @@
 		"chinese": "询问特性",
 		"japanese":"個性について尋ねる",
 		"czech": "Zeptej se na vlastnosti migranta",
+		"hungarian": "Kérdezze a jelleméről",
 	},
 	"Insult": {
 		"english": "Insult",
@@ -1879,6 +1989,7 @@
 		"japanese":"侮辱する",
 		"czech": "Uraž",
 		"korean": "모욕하기",
+		"hungarian": "Sértegetés",
 	},
 	"InsultPerson": {
 		"english": "Insult %name%",
@@ -1894,6 +2005,7 @@
 		"japanese":"%name%を侮辱する",
 		"czech": "Uraž %name%",
 		"korean": "%name% 모욕하기",
+		"hungarian": "Sértegessd: %name%",
 	},
 	"Apologize": {
 		"english": "Apologize",
@@ -1909,6 +2021,7 @@
 		"japanese":"謝罪する",
 		"czech": "Omluv se",
 		"korean": "사과하기",
+		"hungarian": "Kérj bocsánatot",
 	},
 	"MagicSmile": { // only used for debugging
 		"english": "Magic Smile",
@@ -1924,6 +2037,7 @@
 		"japanese":"関係を1段階上昇",
 		"czech": "Kouzelný úsměv",
 		"korean": "살인 미소",
+		"hungarian": "Mágikus mosoly",
 	},
 	"Kiss": {
 		"english": "Kiss",
@@ -1939,6 +2053,7 @@
 		"japanese":"キスする",
 		"czech": "Polib",
 		"korean": "입맞춤",
+		"hungarian": "Csók",
 	},
 	"KissPerson": {
 		"english": "Kiss %name%",
@@ -1954,6 +2069,7 @@
 		"japanese":"%name%とキスする",
 		"czech": "Polib %name%",
 		"korean": "%name%에게 입맞추기",
+		"hungarian": "Csókold meg: %name%",
 	},
 	"BreakUp": {
 		"english": "Break up",
@@ -1969,6 +2085,7 @@
 		"japanese":"別れる",
 		"czech": "Rozveď se",
 		"korean": "헤어지기",
+		"hungarian": "Szakíts vele",
 	},
 	// used when someone wants to interact with this colonist
 	// and the colonist is waiting for the action to be performed
@@ -1987,6 +2104,7 @@
 		"japanese":"誰かを待つ",
 		"czech": "Počkej na někoho",
 		"korean": "누군가를 기다",
+		"hungarian": "Vár valakire",
 	},
 	"RiskyJoke": {
 		"english": "Risky Joke",
@@ -2002,6 +2120,7 @@
 		"japanese":"冗談を言う",
 		"czech": "Odvážně zavtipkuj",
 		"korean": "위험한 농담",
+		"hungarian": "Kockázatos vicc",
 	},
 	"TellRiskyJokeTo": {
 		"english": "Tell Risky Joke to %name%",
@@ -2017,6 +2136,7 @@
 		"japanese":"%name%に冗談を言う",
 		"czech": "Řekni odvážný vtip %name%",
 		"korean": "%name%에게 위험한 농담 걸기",
+		"hungarian": "Mondj egy kockázatos viccet neki: %name%",
 
 	},
 	"Impress": {
@@ -2033,6 +2153,7 @@
 		"japanese":"誘惑する",
 		"czech": "Zapůsob",
 		"korean": "깊은 인상주기",
+		"hungarian": "Lenyűgöz",
 
 	},
 	"ImpressPerson": {
@@ -2049,6 +2170,7 @@
 		"japanese":"%name%を誘惑する",
 		"czech": "Zapůsob na %name%",
 		"korean": "%name%에게 깊은 인상주기",
+		"hungarian": "Nyűgözzd le: %name%",
 	},
 	"BuildSnowman": {
 		"english": "Build Snowman",
@@ -2064,6 +2186,7 @@
 		"japanese":"雪だるまを作る",
 		"czech": "Postav sněhuláka",
 		"korean": "눈사람 만들기",
+		"hungarian": "Építs hóembert",
 	},
 	"Care": { // caring for plants, animals, colleagues, ...
 		"english": "Care",
@@ -2079,6 +2202,7 @@
 		"japanese":"世話",
 		"czech": "Pečuj",
 		"korean": "돌보기",
+		"hungarian": "Gondozás",
 	},
 	"TeachLifeSkills": {
 		"english": "Educate",
@@ -2094,6 +2218,7 @@
 		"japanese":"教育",
 		"czech": "Nauč se",
 		"korean": "교육",
+		"hungarian": "Tanítsd",
 	},
 	"WorkOnMasterpiece": {
 		"english": "Work on Masterpiece",
@@ -2109,6 +2234,7 @@
 		"japanese":"傑作に取り組む",
 		"czech": "Pracuj na Veledíle",
 		"korean": "걸작 제작하기",
+		"hungarian": "Dolgozz a mesterművön",
 	},
 	"Tame": {
 		"english": "Tame",
@@ -2124,6 +2250,7 @@
 		"japanese":"手なずける",
 		"czech": "Ochoč",
 		"korean": "길들이기",
+		"hungarian": "Megszelidítés",
 	},
 	"careForAnimal": {
 		"english": "Care for Animal",
@@ -2139,6 +2266,7 @@
 		"japanese":"家畜の世話",
 		"czech": "Pečuj o zvíře",
 		"korean": "동물 돌보기",
+		"hungarian": "Állat gondozás",
 	},
 	"Shear": {
 		"english": "Shear",
@@ -2154,6 +2282,7 @@
 		"japanese":"刈る",
 		"czech": "Ostříhej",
 		"korean": "양털깎기",
+		"hungarian": "Megnyír",
 	},
 	"Butcher": {
 		"english": "Butcher",
@@ -2169,6 +2298,7 @@
 		"japanese":"屠殺",
 		"czech": "Poraz zvíře",
 		"korean": "도축",
+		"hungarian": "Feldolgoz",
 	},
 	"Milk": {
 		"english": "Milk",
@@ -2184,6 +2314,7 @@
 		"japanese":"搾乳",
 		"czech": "Podoj mléko",
 		"korean": "착유",
+		"hungarian": "Megfej",
 	},
 	"interaction_clearStumps": {
 		"english": "Remove Stump",
@@ -2199,6 +2330,7 @@
 		"japanese":"切り株を取り除く",
 		"czech": "Odstraň pažez",
 		"korean": "그루터기 제거",
+		"hungarian": "Tönköt eltávolít",
 	},
 	"interaction_produceShip":  {
 		"english": "Build Ship",
@@ -2214,6 +2346,7 @@
 		"czech": "Postav loď",
 		"russian": "Построить корабль",
 		"korean": "선박 제작",
+		"hungarian": "Építs hajót",
 	},
 	"ResetTrap":  {
 		"english":  "Reset Trap",
@@ -2225,6 +2358,7 @@
 		"portuguese": "Reiniciar armadilha",
 		"italian": "Rigenera Trappola",
 		"russian":  "Перезапустить ловушку",
+		"hungarian": "Csapdát élesít",
 	},
 	"EquipAxe":  {
 		"english":  "Equip Axe",
@@ -2236,6 +2370,7 @@
 		"portuguese": "Equipar picado",
 		"italian": "Equipaggia Ascia",
 		"russian":  "Снарядить топором",
+		"hungarian": "Fejsze felvétele",
 	},
 	"EquipPickaxe":  {
 		"english":  "Equip Pickaxe",
@@ -2247,6 +2382,7 @@
 		"portuguese": "Equipar picareta",
 		"italian": "Equipaggia Piccone",
 		"russian":  "Снарядить киркой",
+		"hungarian": "Csákány felvétele",
 	},
 	"EquipWateringCan":  {
 		"english":  "Equip Watering Can",
@@ -2258,6 +2394,7 @@
 		"portuguese": "Equipar regador",
 		"italian": "Equipaggia Innaffiatoio",
 		"russian":  "Снарядить лейкой",
+		"hungarian": "Öntözőkanna felvétele",
 	},
 	"EquipOneHanded":  {
 		"english":  "Equip Weapon",
@@ -2269,6 +2406,7 @@
 		"portuguese": "Equipar arma",
 		"italian": "Equipaggia Arma",
 		"russian":  "Снарядить оружием",
+		"hungarian": "Fegyver felvétele",
 	},
 	"EquipBow":  {
 		"english":  "Equip Bow",
@@ -2280,6 +2418,7 @@
 		"portuguese": "Equipar arco",
 		"italian": "Equipaggia Arco",
 		"russian":  "Снарядить луком",
+		"hungarian": "Íj felvétele",
 	},
 
 
@@ -2314,6 +2453,7 @@
 		"polish": "Porozmawiaj z członkiem grupy \"%faction%\"",
 		"japanese":"\"%faction%\"の人々と話す",
 		"czech": "Promluv s členem \"%faction%\"",
+		"hungarian": "Beszélj a(z) \"%faction\" csoport tagjával",
 	},
 	"HugFaction": {
 		"english": "Hug member of \"%faction%\"",
@@ -2330,6 +2470,7 @@
 		"polish": "Uściskaj członkka grupy \"%faction%\"",
 		"japanese":"\"%faction%\"の人々とハグをする",
 		"czech": "Obejmi člena \"%faction%\"",
+		"hungarian": "Öleld meg a(z) \"%faction\" csoport tagját",
 	},
 	"RiskyJokeFaction": {
 		"english": "Tell joke to member of \"%faction%\"",
@@ -2345,6 +2486,7 @@
 		"japanese":"\"%faction%\"の人々へ冗談を言う",
 		"czech": "Řekni vtip členovi \"%faction%\"",
 		"korean": "\"%faction%\"의 일원에게 ",
+		"hungarian": "Mondj egy vicce a(z) \"%faction\" csoport tagjának",
 	},
 
 
@@ -2375,6 +2517,7 @@
 		"polish": "Ktoś tego używa",
 		"japanese":"他の誰かが使用しています",
 		"czech": "Toto už užívá někdo jiný.",
+		"hungarian": "Valaki más használja",
 	},
 	"firstNameIsUsingThat": {
 		"english": "%firstName% is using that",
@@ -2393,6 +2536,7 @@
 		"polish": "%firstName% tego używa",
 		"japanese":"%firstName%が使用しています",
 		"czech": "%firstName% to již využívá",
+		"hungarian": "%firstName% épp használja",
 	},
 	"goblinIsUsingThat": {
 		"english": "Goblin is using that",
@@ -2411,6 +2555,7 @@
 		"polish": "Goblin tego używa",
 		"japanese":"ティキゴブリンが使用しています",
 		"czech": "Goblin to již využívá",
+		"hungarian": "Egy Goblin épp használja",
 	},
 	"visitorIsUsingThat": { // visitors like migrants or traders
 		"english": "A visitor is using that",
@@ -2429,6 +2574,7 @@
 		"polish": "Gość tego używa",
 		"japanese":"訪問者が使用しています",
 		"czech": "Návštěvník to již využívá",
+		"hungarian": "Egy látogató épp használja",
 	},
 	"cantWalkBrokenLeg": {
 		"english": "Can't walk because of broken leg",
@@ -2447,6 +2593,7 @@
 		"polish": "Nie może chodzić z powodu złamanej nogi",
 		"japanese":"脚の骨折で歩けません",
 		"czech": "Nemůže chodit, protože má zlomenou nohu",
+		"hungarian": "Nem tud járni a törött lába miatt",
 	},
 	"cantWorkBrokenArm": {
 		"english": "Can't work because of broken arm",
@@ -2465,6 +2612,7 @@
 		"polish": "Nie może pracować z powodu złamanej ręki",
 		"japanese":"腕の骨折で働けません",
 		"czech": "Nemůže pracovat, protože má zlomenou ruku",
+		"hungarian": "Nem tud dolgozni a törött keze miatt",
 	},
 	"cantInteractIsLockedUp": {
 		"english": "Colonist is locked up",
@@ -2483,6 +2631,7 @@
 		"polish": "Kolonista jest uwięziony",
 		"japanese":"閉じ込められています",
 		"czech": "Kolonista je uzamčen",
+		"hungarian": "A telepest bezárták",
 	},
 	"stockpileIsFull": {
 		"english": "%resource% stockpile is full",
@@ -2499,6 +2648,7 @@
 		"japanese":"%resource%の備蓄はいっぱいです。",
 		"czech": "%resource% už nelze uskladnit. Sklad je plný.",
 		"korean": "%resource% 창고가 가득참",
+		"hungarian": "Tele a(z) %resource% raktára",
 	},
 	"noProductionOrders": {
 		"english": "No production orders",
@@ -2517,6 +2667,7 @@
 		"polish": "Brak zleconej produkcji",
 		"japanese":"生産品が設定されていません",
 		"czech": "Žádné výrobní plány",
+		"hungarian": "Nincs gyártási lista beállítva",
 	},
 	"notSufficientExperience": {
 		"english": "%firstName% doesn't have enough experience as %profession%",
@@ -2535,6 +2686,7 @@
 		"polish": "%firstName% nie ma doświadczenia w profesji: %profession%",
 		"japanese":"%firstName%の%profession%の経験は十分ではありません",
 		"czech": "%firstName% nemá dostatek zkušeností pro %profession%",
+		"hungarian": "%firstName% híjján van a(z) %profession% tapasztalatának",
 	},
 	"notUsableInSeason": {
 		"english": "Not possible in %season%",
@@ -2553,6 +2705,7 @@
 		"polish": "Nie można zasadzić w porze roku: %season%",
 		"japanese":"この作物は%season%の季節では育ちません",
 		"czech": "Toto není možné dělat v %season%",
+		"hungarian": "Nem lehetséges %season%",
 	},
 	"noTimeBeforeSeasonChanges": {
 		"english": "Not enough time before season changes",
@@ -2571,6 +2724,7 @@
 		"polish": "Zbyt mało czasu przed zmianą pory roku",
 		"japanese":" 季節が変わる前に収穫するまでの時間がありません",
 		"czech": "Nedostatek času před změnou ročního období",
+		"hungarian": "Nincs elég idő a szezonváltás előtt",
 	},
 	"nextTryIn": {
 		"english": "Next try in",
@@ -2589,6 +2743,7 @@
 		"polish": "Następnie spróbuj",
 		"japanese":"まだ実行できません",
 		"czech": "Zkus další",
+		"hungarian": "A következő próbálkozás",
 	},
 	"nextInteractionIn": {
 		"english": "Next interaction in %time%",
@@ -2604,6 +2759,7 @@
 		"japanese":"次の世話まで%time%です",
 		"czech": "Další činnost za %time%",
 		"korean": "다음까지 %time%",
+		"hungarian": "Következő interakció %time% múlva",
 	},
 	"forbiddenBecauseHasTrait": {
 		"english": "Can't because of trait: %trait%",
@@ -2622,6 +2778,7 @@
 		"polish": "Nie można ze względu na cechę: %trait%",
 		"japanese":"個性のためできません:%trait%",
 		"czech": "Nemůže, protože nemá schopnost: %trait%",
+		"hungarian": "Lehetetlen a következő miatt: %trait%",
 	},
 	"forbiddenBecauseNotHasTrait": {
 		"english": "Missing trait: %trait%",
@@ -2640,6 +2797,7 @@
 		"polish": "Brakująca cecha: %trait%",
 		"japanese":"個性を持っていません:%trait%",
 		"czech": "Nemá schopnost: %trait%",
+		"hungarian": "Hiányzó tulajdonság: %trait%",
 	},
 	"cantGetResourceNearby": {
 		"english": "Can't get %resource% nearby",
@@ -2658,6 +2816,7 @@
 		"polish": "Brakuje w pobliżu: %resource%",
 		"japanese":"近くに%resource%がありません",
 		"czech": "%resource% již není k nalezení",
+		"hungarian": "Nem található %resource% a közelben",
 	},
 	"missingEquipmentEffect_WateringPlants": {
 		"english": "Needs a watering can",
@@ -2676,6 +2835,7 @@
 		"polish": "Potrzebna konewka",
 		"japanese":"じょうろが必要です",
 		"czech": "Potřebuje konev na zalévání",
+		"hungarian": "Szükség van egy öntözőkannára",
 	},
 	"noResearchSelected": {
 		"english": "No Research selected",
@@ -2694,6 +2854,7 @@
 		"polish": "Nie wybrano badań",
 		"japanese":"研究が選択されていません",
 		"czech": "Výzkum není vybrán",
+		"hungarian": "Nincs kiválasztva a kutatás",
 	},
 	"resourceNotNecessaryForResearch": {
 		"english": "Doesn't need to analyze %resource% for current research",
@@ -2712,6 +2873,7 @@
 		"polish": "Nie potrzeba: %resource% do aktualnych badań",
 		"japanese":"研究に必要な%resource%は解析済みです",
 		"czech": "Není už potřeba zkoumat %resource% pro tento výzkum",
+		"hungarian": "Nem kell megvizsgálni a(z) %resource% a mostani kutatáshoz",
 	},
 	"notOwnedBy": {
 		"english": "Not owned by %firstName%",
@@ -2730,6 +2892,7 @@
 		"polish": "Nie posiadane przez %firstName%",
 		"japanese":"%firstName%は所有していません",
 		"czech": "Toto už %firstName% nevlastní",
+		"hungarian": "Nincs %firstName% tulajdonában",
 	},
 	"cantWearClothesBecauseOfBodyShape": { // For example, goblins can't wear clothes with hats because of their head shape
 		"english": "Can't wear this type of clothing",
@@ -2746,6 +2909,7 @@
 		"polish": "Nie można tego ubrać",
 		"japanese":"この衣装は着る事ができません",
 		"czech": "Nemůže nosit tento typ oblečení",
+		"hungarian": "Nem tudja ezt a fajta ruhát viselni",
 	},
 	"cantInteractInCombatMode": {
 		"english": "%firstName% can't do that in combat mode",
@@ -2762,6 +2926,7 @@
 		"polish": "%firsname% nie może tego zrobić w trybie walki",
 		"japanese":"%firstName%は戦闘態勢のため実行できません",
 		"czech": "%firstName% toto nemůže dělat v boji",
+		"hungarian": "%firstName% nem teheti ezt harci módban",
 	},
 	"missingSkill": {
 		"english": "Missing skill: %skill%",
@@ -2777,12 +2942,14 @@
 		"japanese":"スキルを持っていません:%skill%",
 		"czech": "Chybí schopnost: %skill%",
 		"korean": "다음의 스킬을 가지고 있지 않습니다: %skill%",
+		"hungarian": "Hiányzó készség: %skill%",
 	},
     "noOneHasWorkedOnPainting": {
         "english": "No painting here",
         "german": "Kein Gemälde hier",
 		"french": "Pas de peinture ici",
 		"russian": "Здесь нет картины",
+		"hungarian": "Nem festhetsz itt",
     }
 
 }

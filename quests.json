@@ -1,4 +1,4 @@
-﻿{
+{
 	"quest_inspirationForMasterpiece":  {
 		"english": "Inspiration for Masterpiece",
 		"german":  "Inspiration für ein Meisterwerk",
@@ -13,6 +13,7 @@
 		"chinese": "灵感涌现",
 		"czech": "Inspirace pro Veledílo",
 		"korean": "걸작을 향한 영감",
+		"hungarian": "Ihletet kapott egy mestermű elkészítésre",
 	},
 	"quest_inspirationForMasterpieceDescription":  {
 		"english": "Inspiration has struck %firstName% like a bolt of lightning. %cap-heShe% has got an idea for a great masterpiece and can't stop thinking about it.",
@@ -27,7 +28,8 @@
 		"japanese": "%firstName%は突然、コロニーの生活を良くする傑作を思いつきました。この傑作を製作するために行動を開始します。",
 		"chinese": "灵感如同闪电一般击中%firstName%.%cap-heShe%有了一个伟大的想法,思绪不断涌现.",
 		"czech": "Inspirace zasáhla %firstName% tak jako blesk z nebe. %cap-heShe% má nápad na skvělé veledílo a nemůže na něj přestat myslet.",
-		"korean": "마치 번개가 내리치듯 %firstName%에게 영감이 찾아왔습니다. %cap-heShe%은 위대한 걸작에 관한 아이디어가 떠올랐고 그 생각을 멈출 수 없습니다."
+		"korean": "마치 번개가 내리치듯 %firstName%에게 영감이 찾아왔습니다. %cap-heShe%은 위대한 걸작에 관한 아이디어가 떠올랐고 그 생각을 멈출 수 없습니다.",
+		"hungarian": "Villámként súlytott le az ihlet %firstName% fejére. Egy mestermű ötlete jutott az eszébe, és nem tud nem arra gondolni.",
 	},
 	"masterpieceCompleted":  {
 		"english": "Masterpiece completed!",
@@ -43,6 +45,7 @@
 		"chinese": "杰作完成!",
 		"czech": "Veledílo dokončeno!",
 		"korean": "걸작 완성!",
+		"hungarian": "Mestermű kész!",
 	},
 	"masterpieceCompletedDescription":  {
 		"english": "%firstName% has completed %hisHer% masterpiece. Proudly, %heShe% shows the result of %hisHer% labor to the rest of the village.\n%cap-heShe% created: %masterpiece%",
@@ -58,6 +61,7 @@
 		"chinese": "%firstName%已经完成了%hisHer%杰作.%heShe%很荣幸地在村里展示了%heShe%的劳动成果.\n%cap-heShe%创建了: %masterpiece%",
 		"czech": "%firstName% dokonči%lA% %hisHer% veledílo. Pyšně, %heShe% ukazuje výsledek %hisHer% práce zbytku vesnice.\n%cap-heShe% vytvoři%lA%: %masterpiece%",
 		"korean": "%firstName%#{은} %hisHer%의 걸작을 완성했습니다. 자랑스럽게도,  %heShe%는 %hisHer%의 작업의 결과를 모든 주민들에게 보여주었습니다.\n%cap-heShe% 창조함: %masterpiece%",
+		"hungarian": "%firstName% megcsinálta a mesterművét. Büszkén mutogatja a falu többi lakosának az alkotását.\n%cap-heShe% megalkotta: %masterpiece%",
 	},
 	"masterpieceFailed":  {
 		"english": "Masterpiece Failed!",
@@ -73,6 +77,7 @@
 		"chinese": "杰作失败!",
 		"czech": "Veledílo selhalo!",
 		"korean": "걸작 실패!",
+		"hungarian": "A mestermű elbukott!",
 	},
 	"masterpieceFailedDescription":  {
 		"english": "%firstName% tried so hard, but %heShe% didn't manage to make his masterpiece. At least %heShe% got some experience and leveld up as a %profession%.",
@@ -88,6 +93,7 @@
 		"chinese": "%firstName%已经尽力了,虽然未能完成%heShe%杰作,但至少%heShe%从中获得不少经验,并升级为%profession%.",
 		"korean": "%firstName%#{은} 열심히 노력했습니다. 하지만 걸작을 만들어내는데 실패했습니다. 적어도 %heShe%#{은} 경험을 얻었고 %profession%의 레벨이 상승하게 되었습니다.",
 		"czech": "%firstName% se tak moc snaži%lA%, ale %heShe% nedokáza%lA% udělat své veledílo. Alespoň %heShe% získa%lA% nějaké zkušenosti a postup na vyšší úroveň jako %profession%.",
+		"hungarian": "%firstName% keményen próbálkozott, de nem sikerült elkészítenie a mesterművét. Legalább szezett egy kis tapasztalatot, és szintet lépett a következő szakmában: %profession%.",
 	},
 	"collectItems": {
 		"english": "Collect %amount% pieces of %item%",
@@ -103,6 +109,7 @@
 		"chinese": "收集%amount%个%item%",
 		"czech": "Sežeň %amount% kusů %item%",
 		"korean": "%amount% 만큼의 %item%를 획득하세요",
+		"hungarian": "Gyűjts %amount% %item%-t",
 	},
 	"needsFurnitureInRoom": {
 		"english": "%firstName% needs in %hisHer% room: %furniture%",
@@ -118,6 +125,7 @@
 		"chinese": "%firstName%%hisHer%房间需要:%furniture%",
 		"czech": "%firstName% potřebuje v %hisHer% pokoji: %furniture%",
 		"korean": "%firstName%#의 방 안에 %furniture%#{을} 설치 해야합니다.",
+		"hungarian": "%firstName% szeretné a szobájába a következőt: %furniture%",
 	},
 	"needsFurnitureInHouse": {
 		"english": "%firstName% needs in %hisHer% house: %furniture%",
@@ -133,6 +141,7 @@
 		"chinese": "%firstName%%hisHer%房屋需要:%furniture%",
 		"czech": "%firstName% potřebuje v %hisHer% domě: %furniture%",
 		"korean": "%firstName%#의 집 안에 %furniture%#{을} 설치 해야합니다.",
+		"hungarian": "%firstName% szeretné a házába a következőt: %furniture%",
 	},
 	"needsToDoAction": {
 		"english": "%firstName% needs to %interaction%",
@@ -148,6 +157,7 @@
 		"chinese": "%firstName%需要%interaction%",
 		"czech": "%firstName% potřebuje %interaction%",
 		"korean": "%firstName%#{은} %interaction% 해야 합니다.",
+		"hungarian": "%firstName% szeretné a következőt tenni: %interaction%",
 	},
 	"needsToDoActionOnFurniture": { // grammer can be difficult here. You can use () or : to express the idea
 		"english": "%firstName% needs to %interaction% on %furniture%",
@@ -163,6 +173,7 @@
 		"chinese": "%firstName%需要到%furniture%进行%interaction%(交互)",
 		"czech": "%firstName% potřebuje %interaction% (%furniture%)",
 		"korean": "%firstName%#{은} %furniture%에 %interaction% 해야 합니다.",
+		"hungarian": "%firstName% szeretné a következőt: %interaction% a következő eszközzel: %furniture%",
 	},
 	"haveStorageForItems": {
 		"english": "Have storage for %items%",
@@ -178,6 +189,7 @@
 		"chinese": "存放%items%",
 		"czech": "Mít úložiště pro %items%",
 		"korean": "%items% 보관할 공간이 필요함",
+		"hungarian": "Készíts tárolót ennek: %items%",
 	},
 	"quest_treasureStorage": {
 		"english": "Hiding the Treasure",
@@ -193,6 +205,7 @@
 		"chinese": "藏匿宝藏",
 		"czech": "Ukrýt poklad",
 		"korean": "보물 숨기기",
+		"hungarian": "Kincs elrejtése",
 	},
 	"quest_treasureStorageDescription": {
 		"english": "%faction% want to store their treasure with you until it's safe for them to come back and get it. They promised you a cut of the profits.",
@@ -208,6 +221,7 @@
 		"chinese": "%faction%希望你藏匿好他们的宝藏,直到他们可以安全地回来并取回为止.他们向你许诺了部分宝藏作为回报.",
 		"czech": "%faction% chce ukrýt svůj poklad u tebe v kolonii, dokud se pro něj nebudou moci bezpečně vrátit. Slíbili vám podíl na zisku.",
 		"korean": "%faction%은 자신들의 보물을 잠시 당신에게 맡기길 원합니다. 안전해지면 돌아와서 다시 가져가겠다고요. 그때 보물의 일정량을 나눠줄거라고 맹세합니다.",
+		"hungarian": "A %faction% szeretnék, ha eltárolnád a zsákmányukat, amíg biztonságosan vissza nem tudnak térni. Azt ígérték, hogy a profit egy részét megkapod.",
 	},
 	"quest_treasureStorageIntro": {
 		"english": "Ahoy. One of our ships is being chased and has a ton of coins on board. Can we hide the treasure in the storage on your island for a while? You'll get a cut of the money when we come back.",
@@ -223,6 +237,7 @@
 		"chinese": "哎呀!我们有一艘船正在被追捕,船上有一吨货币,我们能否在你岛上的仓库藏匿宝藏?等我们回来后你会得到一笔钱.",
 		"czech": "Ahoj. Jedna z našich lodí je pronásledována a má na palubě hromadu mincí. Můžeme na chvíli skrýt poklad v úložišti na vašem ostrově? Až se vrátíme, dostanete za to nějaké mince.",
 		"korean": "요호! 보물이 잔뜩 들은 우리 선박이 적에게 쫓기고 있다네. 잠시 당신들의 섬에 우리 보물을 좀 맡겨도 되겠나? 우리가 다시 돌아올때 일정 몫을 나눠주겠네.",
+		"hungarian": "Ahoy! Az egyik hajónkat, ami tele van érmékkel, épp üldözik. Itt hagyhatnánk nálatok egy ideig a zsákmányt? Kaptok belőle, amint visszajöttünk.",
 	},
 	"quest_treasureStorageIntroDeclined": {
 		"english": "I knew it. We will remember that you make a terrible business partner.",
@@ -238,6 +253,7 @@
 		"chinese": "我就知道!你并不值得成为合作伙伴.我们会记住的.",
 		"czech": "Věděl jsem to! Budeme si pamatovat, že jste strašný obchodní partner.",
 		"korean": "이럴 줄 알았지. 우리는 이 일을 두고두고 기억할거요.",
+		"hungarian": "Tudtam! Nem felejtjük el, hogy nem bízhatunk meg bennetek.",
 	},
 	"quest_treasureStorageIntroAccepted": { // %items% can be something like "40 Tomatoes, 300 Coins"
 		"english": "Thanks. We are storing %items% with you. Please make sure you have enough space in your stockpiles. We will be back once it's safe.",
@@ -253,6 +269,7 @@
 		"chinese": "感谢,我们现在将%items%存放在你仓库里,请确保你的仓库有足够的空间.等安全了,我们会回来的.",
 		"czech": "Dík. Uložíme zde %items%. Ujistěte se, že máte ve svých skladištích dostatek místa. Jakmile to bude bezpečné, vrátíme se.",
 		"korean": "고맙소. %items%를 맡기겠네. 창고에 충분한 공간이 있길 바라네. 안전해지면 다시 돌아오겠소.",
+		"hungarian": "Köszönjük. Itt hagyjuk akkor nektek a következőt: %items%. Gondoskodjatok, hogy van elég tárhelyetek. Amint biztonságos, visszajövünk.",
 	},
 	"quest_treasureStorageReturn": {
 		"english": "Ahoy, mate. We're back for that treasure we left with you. Have you kept it save?",
@@ -268,6 +285,7 @@
 		"chinese": "嗨伙计,我们回来了.我们存放在你的那批宝藏,你有保管好吗?",
 		"czech": "Ahoj, kámo. Jsme zpět pro ten poklad, který jsme u tebe nechali. Ochránil si ho?",
 		"korean": "요호! 친구들, 우리가 맡긴 보물을 가지러 돌아왔네. 안전하게 보관해뒀겠지?",
+		"hungarian": "Ahoy, cimbora! Visszajöttünk az itt hagyot zsákmányért. Megvan még?",
 	},
 	"hereYouGo": {
 		"english": "Sure, here you go.",
@@ -283,6 +301,7 @@
 		"chinese": "当然,这就给回你.",
 		"czech": "Jistě, tady ho máš.",
 		"korean": "물론이지, 가져가시오.",
+		"hungarian": "Persze, tessék.",
 	},
 	"weDontHaveItAnymore": {
 		"english": "We don't have it anymore...",
@@ -298,6 +317,7 @@
 		"chinese": "我们一点都没剩下...",
 		"czech": "Už ho nemáme ...",
 		"korean": "그게... 없는데...",
+		"hungarian": "Már nincs meg...",
 	},
 	"weAreKeepingIt": {
 		"english": "Actually, we decided we're keeping it.",
@@ -313,6 +333,7 @@
 		"chinese": "实际上,我们决定留下它.",
 		"czech": "Vlastně jsme se rozhodli, že si ho necháme.",
 		"korean": "그거 말이지, 그냥 우리가 갖기로 했어.",
+		"hungarian": "Igazából úgy gondoltuk, inkább megtartjuk.",
 	},
 	"quest_treasureStorageReturnWillBeBack": {
 		"english": "I can't believe that! The incompetence! Tell you what, we're going to be back in a couple of days and you better have retrieved it. I don't care how you do it!",
@@ -328,6 +349,7 @@
 		"chinese": "我简直不敢相信!没用的东西!告诉你,我们将在几天后回来,你最好找回它.我不在乎你怎么去弄回来!",
 		"czech": "Nemůžu tomu uvěřit! Taková neschopnost! Něco ti řeknu, za pár dní se vrátíme a ty tady měj vše, co jsme ti tu nechali. Nezajímá mě, jak to děláš!",
 		"korean": "그게 말이나 되는 일이냐? 이 무능한놈들! 명심해, 며칠 후에 다시 돌아올테니 그때까지 어떻게든 다시 준비해놓는게 좋을거야. 무슨 짓을 해서라도!",
+		"hungarian": "Nem hiszem el! Ez a bénázás! Elmondom mi lesz, pár nap múlva visszajövünk, és addigra szerezzétek vissza. Nem érdekel hogyan!",
 	},
 	"youreGoingToRegretThis": {
 		"english": "You are going to regret this.",
@@ -344,6 +366,7 @@
 		"polish": "Pożałujecie tej decyzji!",
 		"japanese": "本気で言っているのか？いいだろう、自分のしでかした事はどういう事が思い知るが良い。",
 		"czech": "Budeš toho litovat.",
+		"hungarian": "Ezt még megbánjátok.",
 	},
 	"quest_treasureStorageSuccess": {
 		"english": "Thanks, good doing business with you, mate! Here is your cut: %items%.\n\nSee you on the seven seas!",
@@ -359,6 +382,7 @@
 		"chinese": "谢谢你,和你做生意很不错!这是你的报酬: %items%.\n\n日后七海上再见.",
 		"czech": "Díky, dobře se s tebou obchoduje, kámo! Tady je tvůj podíl: %items%.\n\nUvidíme se na sedmi mořích!",
 		"korean": "고맙소, 친구. 여기 약속한 몫이요.: %items%.\n\n다음에 뵙지!",
+		"hungarian": "Köszi, öröm veletek üzletelni cimbora! Itt a részetek: %items%\n\nViszlát a Hét Tengeren!",
 	},
 	"quest_treasureStorageWait": {
 		"english": "Wait for '%faction%' to get back",
@@ -374,6 +398,7 @@
 		"chinese": "等待'%faction%'回来.",
 		"czech": "Čekej na'%faction%' vrátí se ",
 		"korean": "'%faction%'이 돌아오길 기다리세요",
+		"hungarian": "Várj, amíg visszatér(nek) a(z) '%faction%'",
 	},
 	"quest_treasureStorageRetrieveBefore": {
 		"english": "Retrieve %items% before '%faction%' get back",
@@ -389,6 +414,7 @@
 		"chinese": "在'%faction%'回来之前检查一下%items%.",
 		"czech": "Získej zpět %items% před návratem '%faction%'",
 		"korean": "'%faction%'#{이} 돌아오기 전에 %items% 채워넣기.",
+		"hungarian": "Szerezzd vissza a következőt: %items%, mielőtt visszatér(nek) a(z) '%faction%'",
 	},
 	"quest_treasureStorageAttack": {
 		"english": "'%faction%' are coming to attack you any moment",
@@ -404,6 +430,7 @@
 		"chinese": "'%faction%'随时会来攻击你.",
 		"czech": "'%faction%' na vás každou chvíli zaútočí",
 		"korean": "'%faction%'#{이} 곧 공격하러 옵니다.",
+		"hungarian": "Nemsokára ideérnek, hogy megtámadjanak: %faction%",
 	},
 	"quest_treasureStorageHereIsTreasure": {
 		"english": "Alright, here is our treasure: %items%\n\nKeep it safe and don't spend it! We'll be back.",
@@ -419,6 +446,7 @@
 		"chinese": "好了,这是我们的宝藏:%items%\n\n请保管好,不要偷用!我们会回来的.",
 		"czech": "Dobře, tady je náš poklad: %items%\n\nUdržujte ho v bezpečí a neutrácejte ho! Vrátíme se.",
 		"korean": "좋아, 여기 우리 보물이야: %items%\n\n잘 보관하고 어디다 쓰지 마라고! 돌아올테니까.",
+		"hungarian": "Rendben, itt van a zsákmány: %items%\n\nVigyázzatok rá, és nehogy elköltsétek! Visszatérünk!",
 	},
 	"quest_treasureStorageGiveBack": {
 		"english": "Give treasure back",
@@ -430,6 +458,7 @@
 		"portuguese": "Devolva o tesouro",
 		"italian": "Restituisci il tesoro",
 		"russian": "Вернуть сокровище",
+		"hungarian": "Add vissza a zsákmányt",
 	},
 	"quest_ghostTitle": {
 		"english": "Digging up the Past",
@@ -444,6 +473,7 @@
 		"czech": "Šťourání se v minulosti",
 		"russian": "Ворошение прошлого",
 		"korean": "과거 파헤치기",
+		"hungarian": "Múlt felhánytorgatása",
 	},
 	"quest_ghostDesc": {
 		"english": "Recurring nightmares about %hisHer% fallen friend %ghostName% have driven %firstName% to make sacrifices to try and make peace with the past",
@@ -458,6 +488,7 @@
 		"czech": "Opakující se noční můry nad ztraceným přítelem %ghostName% vedly %firstName% k oběti ve snaze uzavřít mír s minulostí",
 		"russian": "Повторяющиеся кошмары о %hisHer% умершем друге %ghostName% заставили %firstName% принести жертвы, чтобы попытаться примириться с прошлым",
 		"korean": "%hisHer%의 떠나간 친구 %ghostName%에 대한 악몽은 %firstName%#{이} 과거를 극복하기 위해 제물을 바치기로 결심하게 만들었습니다.",
+		"hungarian": "Visszatérő rémálmok gyötrik az eleset barátjáról (%ghostName%), aki arra kényszeríti %firstName%-t, hogy áldozatokat szedjen, és békéljen meg a múltjával.",
 	},
 	"quest_ghostIntroTitle": {
 		"english": "Digging up the Past",
@@ -472,6 +503,7 @@
 		"czech": "Šťourání se v minulosti",
 		"russian": "Ворошение прошлого",
 		"korean": "과거 파헤치기",
+		"hungarian": "Múlt gelhánytorgatása",
 	},
 	"quest_ghostIntroDesc": {
 		"english": "Lately, %firstName% has been getting nightmares about %hisHer% old friend %ghostName%, who died some time ago. It's always the same dream. %firstName% has sunk deep into %hisHer% thoughts. %cap-heShe% wants to make peace with the past, and plans to sacrifice some items each night to show %hisHer% departed friend that %heShe% cares.",
@@ -486,7 +518,7 @@
 		"czech": "Nedávno mě%lA% %firstName% noční můry o svém starém příteli %ghostName%, kter%yA% před nějakou dobou zemře%lA%. Je to stále stejný sen. %firstName% kles%lA% hluboko do jeho myšlenek. %firstName% chce uzavřít mír s minulostí a plánuje každou noc něco obětovat, aby ukáza%lA% svému zesnulému příteli, že to má stále na paměti.",
 		"russian": "В последнее время %firstName% снились кошмары о %hisHer% старом друге %ghostName%, который некоторое время назад умер. Всегда один и тот же сон. %firstName% глубоко погрузился в %hisHer% мысли. %cap-heShe% хочет примириться с прошлым и планирует каждую ночь жертвовать некоторыми предметами, чтобы показать ушедшему другу, что он заботится.",
 		"korean": "요즘 %firstName%#{은} 오래전 사망한 옛 친구 %ghostName%에 대한 악몽을 꾸기 시작했습니다. 항상 똑같은 꿈이죠. 과거를 극복하기로 마음먹은 %firstName%#{은} 매일 밤 특정 물건을 제물로 바칠 계획을 세웁니다. 자신이 친구를 아낀다는 것을 보여줄 수 있도록요.",
-
+		"hungarian": "Nemrég, %firstName% rosszakat kezdett álmodni a régi barátjáról (%ghostName%), aki nemrég meghalt. Mindig ugyanazt álmodja. %firstName% elmerült a gondolataiba. Szeretne megbékélni a múlttal, és azt tervezi, hogy feláldoz pár dolgot minden este, hogy kifejezze, mennyire törődik a elhunyt barátjával.",
 	},
 	"quest_ghostFriendlyGhostAppearedTitle": {
 		"english": "Ghost Appeared",
@@ -501,6 +533,7 @@
 		"czech": "Objevil se duch",
 		"russian": "Появление призрака",
 		"korean": "유령 등장",
+		"hungarian": "Megjelent egy szellem",
 	},
 	"quest_ghostFriendlyGhostAppearedDesc": {
 		"english": "When %firstName% made %hisHer% sacrifice for this night, suddenly a ghostly figure appeared out of thin air. %cap-heShe% was given a chance to make peace with %hisHer% friend %ghostName%, so go and talk to them before they have to leave this world!",
@@ -515,6 +548,7 @@
 		"czech": "Když %firstName% proved%lA% noční oběť, z ničeho nic se najednou objevila strašidelná postava. %cap-heShe% má nyní příležitost uzavřít mír se svým přítelem %ghostName%. Rychle s duchem promluvte, než bude muset opustit tento svět nadobro!",
 		"russian": "Когда %firstName% принес жертву %hisHer% в эту ночь, внезапно из воздуха появилась призрачная фигура. %cap-heShe% был дан шанс помириться с %hisHer% другом %ghostName%, так что пойдите и поговорите с ним, прежде чем ему придется покинуть этот мир!",
 		"korean": "%firstName% 오늘 밤의 제물을 바치려고 하던 그 순간, 갑자기 유령처럼 보이는 무언가가 어디선가 나타났습니다. %cap-heShe%에게 친구인 %ghostName%와 화해할 기회가 주어진 것입니다. 그러니 이 세상을 떠나기 전에 어서 말을 걸어보세요!",
+		"hungarian": "Mikor %firstName% áldozott az éjszaka, hirtelen egy szellem alakja rajzolódott ki a levegőben. A szellem felajánlotta, hogy megbékéljen a barátjával (%ghostName%), úgyhogy menj és beszélj vele, mielőtt elhagyja ezt a világot!",
 	},
 	"quest_ghostMadePeaceTitle": {
 		"english": "Finally at peace",
@@ -529,6 +563,7 @@
 		"czech": "Konečně v míru",
 		"russian": "Наконец в покое",
 		"korean": "마침내 평화",
+		"hungarian": "Végre békére lelt",
 	},
 	"quest_ghostMadePeaceDesc": {
 		"english": "%firstName% has had chance to reunite with %hisHer% friend %ghostName% and has accepted their past. %cap-heShe% has become a wiser person and got a permanent mood boost.",
@@ -543,6 +578,7 @@
 		"czech": "%firstName% mě%lA% to štěstí, že objevi%lA% svého přítele %ghostName% a vyrovnali se spolu se svou minulostí. %cap-heShe% se teď sta%lA% moudřejším člověkem a má trvale zvednutou náladu.",
 		"russian": "%firstName% выпал шанс воссоединиться с %hisHer% другом %ghostName% и принять ее прошлое. %cap-heShe% стал%surnameA% мудрее и получил%surnameA% постоянный подъем настроения.",
 		"korean": "%firstName%에게 오랜 친구와 재회할 기회가 주어졌고 화해가 이루어졌습니다. %cap-heShe%#{은} 더 현명한 사람이 되었고 영구적인 기분 보너스를 얻게 되었습니다.",
+		"hungarian": "%firstName% végre lehetőséget kapott, hogy újra találkozzon a barátjával (%ghostName%) és elfogadja sorsát. Mostmár sokkal bölcsebb ember lett, és kapott egy állandó hangulat löketet.",
 	},
 	"quest_ghostColonyJoinedTitle": {
 		"english": "Ghost joined the village!",
@@ -557,6 +593,7 @@
 		"czech": "Duch se připojil k vesnici!",
 		"russian": "Призрак присоединился к деревне!",
 		"korean": "유령이 정착지에 합류하다!",
+		"hungarian": "A szellem csatlakozott a faluhoz",
 	},
 	"quest_ghostColonyJoinedDesc": {
 		"english": "%firstName% came down to reunite with %hisHer% friend %humanName%, but has decided that the time to leave has not come yet. %cap-heShe% decided to stay on earth for now and has joined the village. %humanName% is overjoyed.",
@@ -571,6 +608,7 @@
 		"czech": "%firstName% sestoupi%lA% , aby objevi%lA% svého přítele %humanName%, ale rozhod%lA% se, že ještě není čas odejít. %cap-heShe% se zatím rozhod%lA% zůstat na Zemi a připoji%lA% se ke kolonii. %humanName% má radost.",
 		"russian": "%firstName% решил воссоединиться с %hisHer% другом %humanName%, но решил, что время уходить еще не пришло. %cap-heShe% решила%surnameA% пока остаться в живих и присоединил%wordEnd% к деревне. %humanName% в восторге.",
 		"korean" : "%firstName%#{은} 친구인 %humanName%와 재회했습니다. 하지만 아직 떠나기엔 이르다고 여겼죠. %cap-heShe%#{은} 당분간 지상에 머물기로 결정했고 정착지에 합류했습니다. %humanName%#{은} 기뻐합니다.",
+		"hungarian": "%firstName% eljött, hogy újra együtt lehessen a barátjával (%humanName%), de az úgy döntött, hogy az ő ideje még nem jött el. Úgy döntött, hogy egyenlőre marad a Földön, és csatlakozik a faluhoz. %humanName% el van ragadtatva.",
 	},
 	"quest_ghostAngryGhostAppearedTitle": {
 		"english": "Nightmares Becoming Reality!",
@@ -585,6 +623,7 @@
 		"czech": "Noční můry se stávají realitou!",
 		"russian": "Кошмары становятся реальностью!",
 		"korean" : "악몽이 현실이 되다!",
+		"hungarian": "A rémálmok valóra váltak!",
 	},
 	"quest_ghostAngryGhostAppearedDesc": {
 		"english": "%firstName% has made %hisHer% sacrifice to make peace, but %hisHer% fallen friend %ghostName% doesn't want to forgive. They have materialized as a ghost and are looking for revenge. Defend the village!",
@@ -599,6 +638,7 @@
 		"czech": "%firstName% se obětova%lA%, aby dosáh%lA% míru, ale jeho zesnulý přítel %ghostName% nechce už dál nikomu nic odpouštět. Zhmotnil se jako duch a hledá pomstu. Braňte kolonii!",
 		"russian": "%firstName% принес жертву, чтобы помириться, но %hisHer% падший друг %ghostName% не хочет прощать. Они материализовались в призраков и жаждут мести. Защищай деревню!",
 		"korean": "%firstName%#{은} 화해를 맺기 위해 제물을 바쳤지만 %hisHer% 죽은 친구 %ghostName%#{은} 용서하지 않았습니다. 유령이 실체화되었고 복수를 하려 합니다. 정착지를 보호하세요!",
+		"hungarian": "%firstName% áldozatot hozott, hogy békét hozzon, de az elesett barátja, %ghostName% nem akar felejteni. Szellem alakot öltve bosszúra szomjazik. Védd meg a falvad!",
 	},
 	"quest_ghostAngyGhostDoneTitle": {
 		"english": "Ghost has been banished",
@@ -613,6 +653,7 @@
 		"czech": "Duch byl vykázán",
 		"russian": "Призрак был изгнан",
 		"korean": "유령이 사라지다.",
+		"hungarian": "A szellemet száműzték",
 	},
 	"quest_ghostAngryGhostDoneDesc": {
 		"english": "The bitter soul of %firstName% has been freed and sent back to the realm of the dead. %humanName% feels a deep relief to have finished this chapter of their life.",
@@ -627,6 +668,7 @@
 		"czech": "Krutá duše %firstName% byla osvobozena a vrácena zpět do říše mrtvých. %humanName% cítí hlubokou úlevu nad dokončením této životní kapitoly.",
 		"russian": "Горькая душа %firstName% была освобождена и отправлена обратно в царство мертвых. %humanName% чувствует глубокое облегчение, завершив эту главу своей жизни.",
 		"korean": "%firstName%의 영혼이 해방되고 죽음의 영역으로 넘어갔습니다. %humanName%#{은} 자신의 인생의 장을 마칠 수 있어 깊은 안도를 느낍니다. ",
+		"hungarian": "%firstName% megkeseredett lelke felszabadult, és visszatért a holtak birodalmába. %humanName% végre megkönnyebbült, hogy lezárhatja élete ezen szakaszát.",
 	},
 	"quest_ghostMakePeace":  {
 		"english": "Talk to %firstName% and make peace",
@@ -641,6 +683,7 @@
 		"czech": "Promluv s %firstName% a uzavři mír",
 		"russian": "Поговорить с %firstName% и помириться",
 		"korean": "%firstName%에게 말을 걸어 화해하기",
+		"hungarian": "Beszélj és békélj meg vele: %firstName%",
 	},
 	"quest_ghostSayGoodbye":  {
 		"english": "Say goodbye to %firstName%",
@@ -655,6 +698,7 @@
 		"czech": "Rozluč se s %firstName%",
 		"russian": "Попрощаться с %firstName%",
 		"korean": "%firstName%에게 작별하기",
+		"hungarian": "Köszönj el tőle: %firstName%",
 	},
 	"quest_ghostFreeSoul": {
 		"english": "Free %firstName%'s soul",
@@ -669,6 +713,7 @@
 		"czech": "Svobodn%yA% duše %firstName%",
 		"russian": "Освободить душу %firstName%",
 		"korean": "%firstName%의 영혼을 해방하다",
+		"hungarian": "Szabadítsd fel %firstName% lelkét",
 	},
 	"Dawn": {
 		"english": "Dawn",
@@ -683,6 +728,7 @@
 		"czech": "svítání",
 		"russian": "Рассвет",
 		"korean": "새벽",
+		"hungarian": "Napkelte",
 	},
 	"Midday": {
 		"english": "Midday",
@@ -697,6 +743,7 @@
 		"czech": "poledne",
 		"russian": "Полдень",
 		"korean": "정오",
+		"hungarian": "Dél",
 	},
 	"Dusk": {
 		"english": "Dusk",
@@ -711,6 +758,7 @@
 		"czech": "soumrak",
 		"russian": "Сумерки",
 		"korean": "저녁",
+		"hungarian": "Naplemente",
 	},
 	"Night": {
 		"english": "Night",
@@ -725,6 +773,7 @@
 		"czech": "noc",
 		"russian": "Ночь",
 		"korean": "밤",
+		"hungarian": "Éjszaka",
 	},
 	"quest_waitUntilDaytime": {
 		"english": "Wait until %daytime%",
@@ -739,6 +788,7 @@
 		"czech": "Počkej dokud nebude %daytime%",
 		"russian": "Подождите до %daytime%",
 		"korean": "%daytime%이 오기까지 기다리기",
+		"hungarian": "Várj %daytime%-ig",
 	},
 	"quest_waitUntilDaytimeXDaysFromNow": {
 		"english": "Wait until %daytime% %days% days from now",
@@ -753,6 +803,7 @@
 		"czech": "Počkej do %daytime% %days% dny ode dneška",
 		"russian": "Подождите до %daytime% %days% дней, начиная с сегодняшнего",
 		"korean": "지금부터  %daytime% %days%일 기다리기",
+		"hungarian": "Várj az innentől számított %days%. nap %daytime%-ig",
 	},
 }
 

@@ -84,6 +84,10 @@ Zamij się zbieraniem zasobów, rolnictwem, produkcją, narzędziami, bronią, z
 Fantasy kolonie se zaměřením na kreativní budování, psychologii kolonistů a obranu základny.
 Převezměte kontrolu nad zdroji, zemědělstvím, výrobou, nástroji, brněním, obchodováním a výzkumem, stejně jako s přáními, očekáváními, a také majetkem každého kolonisty.
 
+### Hungarian
+Egy fantázia kolóniaszimulátor, amelyben a kreatív építkezésen, a telepesek gondozásán és a bázis védelmén van a hangsúly.
+Gondoskodjon ellátmányokról, termelésről, felszerelésről, kereskedelemről, védelemről és kutatásról úgy, mint a telepeseid kívánságairól, elvárásairól, gondolatairól és szakmáiról.
+
 
 
 
@@ -133,6 +137,10 @@ Substitute "..." with your language
 
 ### Czech
 ( Český překlad byl vytvořen komunitou )
+
+### Hungarian
+(A Magyar fordítás a közösség által készült.)
+
 
 
 
@@ -253,6 +261,14 @@ Když dorazí vaši kolonisté, nemají na sobě nic jiného než oblečení. P�
 Nejste omezeni na předdefinované budovy! Navrhněte si své vlastní domy a upravte je podle svých představ. Existují desítky konstrukčních a nábytkových prvků, které můžete použít k vytvoření osady, o které jste vždy snili!
 
 
+### Hungarian
+Építs Saját Kolóniát
+
+Mikor a telepeseid megérkeznek, még másuk sincs, csak ruhájuk. Neked kell átvenned az irányításukat, és megmondanod nekik, hogy gyűjtsenek alapanyagokat, és építsenek falakat, padlókat és bútorokat.
+
+Nincsenek előre meghatározott épületek! Készíts saját házakat a saját stílusodnak megfelelően. Több tucat építő- és bútorelem áll rendelkezésedre, mely mind arra szolgál, hogy álmaid települését hozzhasd létre!
+
+
 
 
 # Long Description - Colonist Section
@@ -362,6 +378,21 @@ Pečuj o své kolonisty
 Kolonisté jsou vaší nejvyšší prioritou. Nejprve jim musíte poskytnout jídlo a přístřeší. Ale svět je plný nebezpečí! Infekce se může stát nejsilnějšímu válečníkovi smrtelnou a mor může vyhladit celou vaši kolonii.
 
 Každý kolonista reaguje na události, veselé i smutné, a odráží to ve svém chování. Šťastní kolonisté dostanou boost produktivity - nešťastní kolonisté se mohou rozčílit.
+
+### Dutch
+Zorg voor je kolonisten
+
+De kolonisten zijn je hoogste prioriteit. In het begin moet je ze gewoon van voedsel en onderdak voorzien. Maar de wereld is vol gevaren! Een infectie kan fataal zijn voor de sterkste krijger en de plaag kan je hele kolonie teniet doen.
+
+Elke kolonist reageert op gebeurtenissen, blij of verdrietig, en weerspiegelt dat in hun gedrag. Gelukkige kolonisten krijgen een boost voor hun productiviteit - Ongelukkige kolonisten kunnen een driftbui krijgen.
+
+### Hungarian
+Gondoskodj a telepeseidről
+
+A telepesek a legfontosabbak. Először csak élelmet és menedéket kell adnod nekik. De a világ tele van veszélyekkel! Egy fertőzés leterítheti a legerősebb harcosaidat is, és egy járvány, akár a kolóniát pusztulásához is vezethet.
+
+Minden egyes telepes reagál az eseményekre boldogan, vagy szomorúan, mely befolyásolja a viselkedésüket. A boldog telepesek lendületet kapnak termelékenységükben - A boldogtalanok dühönghetnek.
+
 
 
 
@@ -498,6 +529,16 @@ V ideálním životě se všechna vaše přání splní, alespoň to si myslí T
 Pokud příliš dlouho ignorujete potřeby a přání svých kolonistů, jeden z nich by se mohl rozčílit a pak třeba i zhroutit.
 
 
+### Hungarian
+Dührohamok kezelése
+
+Egy ideális életben minden kívánságod teljesül, legalábbis ezt véli Toni. A beteljesített kívánságok jobb hangulatot szülnek, míg az éhség, sérülések, unalmas beszélgetések, vagy a rémálmok feszültséget teremtenek a lakóid körében.
+
+Ha sokáig elhanyagolod a telepeseid szükségleteit és kívánságait, egyikük lehet elveszti a fejét, és dührohamot kap.
+
+Ilyenkor már minden hiába…
+
+
 
 # Long Description - Farm Section
 *********************************
@@ -607,6 +648,14 @@ Založte si farmu
 Na jídle záleží. Dobré jídlo dělá kolonisty šťastnými, naopak špatné jídlo dělá kolonisty nemocnými, málo jídla kolonisty zpomaluje a bez jídla kolonisti umírají.
 
 Pěstujte různé sezónní plodiny a připravte si kuchyň, která vám připraví lahodná jídla. Nezapomeňte jednat rychle a zásobit jídlem se před krutou zimou, Když na vaše pole sestoupí roj hladových brouků!
+
+
+### Hungarian
+Készíts farmokat
+
+Ételre mindig szükség van. A jobb minőségű ételek boldogsággal töltik el a telepeseket, a rosszaktól megbetegedhetnek, a kevés ételtől lassabak, és ha elfogy az étel, a telepesek meghalnak.
+
+Ültess különböző növényeket az évszakoknak megfelelően, és rendezz be egy konyhát, hogy finom ételeket készíthess belőlük. Készülj fel mire beüt a tél, és a bogárinváziókra a földeiden!
 
 
 
@@ -721,6 +770,14 @@ Využijte čas, který máte a ujistěte se, že máte uloženo dostatek jídla,
 Když zásoby potravin ubývají a mrazivý studený vítr vane venku, tak je snadné ztratit naději ...
 
 
+### Hungarian
+Éld túl a telet
+
+Használd fel az idődet arra, hogy elegendő ételt tárolj el a tél bekövetkeztéig. Reménykedj, hogy nem kell az ételadagokat a felére csökkentened - mert ez legyengíti a telepeseidet.
+
+Mikor lecsökken az ellátmány mértéke, és kint szörnyű hideg tombol, könnyű elveszteni a reményt...
+
+
 
 
 # Long Description - Trading Section
@@ -830,6 +887,15 @@ Obchodujte se zbožím a zbohatněte
 Koluje zpráva, že vaše kolonie začala vyrábět zboží. Přívítejte obchodníky a zjistěte, zda můžete získat dobrou nabídku na některé starodávné svitky nebo koupit další jídlo k přípravě na zimu.
 
 Snažte se udržovat produkci, abyste měli vždy co prodávat. Zralá kolonie musí platit dobré platy, aby byli všichni šťastní. Pokud je morálka nízká, mince mohou dokonce koupit trochu štěstí!
+
+
+
+### Hungarian
+Kereskedj és gazdagodj meg
+
+Felröppent a hír, hogy a kolóniád árutermelésbe kezdett. Üdvözöld az utazó kereskedőket, és nézzd meg, hátha nyélbe üthetsz egy jó üzletet az ősi tekercsekkel, vagy végy több ételt télre.er.
+
+Tartsd fenn a termelést, hogy mindig legyen mit eladnod. Egy érett kolóniában jó fizetés kell ahhoz, hogy mindenki boldog lehessen. Ha a morál lecsökken, egy kis pénzért még a boldogság is megvehető!
 
 
 
@@ -944,6 +1010,13 @@ Stavba vašeho domu je dlouhý proces a zdroje a pracovní síla nejsou jediné 
 Pečlivě vybírejte vědce - pokud jejich osobnost nesedí pro tento typ práce, nebudou dělat velký pokrok.
 
 
+### Hungarian
+Kutass technológiákat
+
+Az otthonod felépítése hosszas művelet, és nem elég csak az alapanyad és az emberi erő hozzá. Az okos telepesek sok időt ölnek abba, hogy új technológiákat fedezzenek fel, ezzel jobb szerszámokat, új bútorokat és építőelemeket kísérletezzenek ki.
+
+Válogassd meg a kutatóidat - ha a jellemük nem megfelelő a munkára, nem fognak tudni előrébb vinni téged.
+
 
 
 # Long Description - Defense Section
@@ -1057,6 +1130,13 @@ Nejste sami v této nové zemi, které říkáte domov. Tikigoblini, kteří tam
 Vycvičte své kolonisty ve válečném umění a vybavte je nejlepšími zbraněmi a brněním, které máte. Postavte zdi a věže, abyste zajistili bezpečnost své kolonie - tak se vaši nepřátelé budou jen těžko snažit se s vámi potýkat!
 
 
+### Hungarian
+Védd meg a teleped
+
+Nem vagy egyedül ezen az új helyen, amit ‘otthonodnak’ hívhatsz. A Tikigoblinok nem örülnek annyira a letelepedési erőfeszítéseidnek, mint te, és néha megpróbálnak majd megállítani.
+
+Tanítsd meg a harc alapjaira a telepeseidet, és szereld fel őket a legjobb fegyverekkel és páncélokkal. Építs falakat és tornyokat, hogy megvédd a kolóniád - így az ellenségeid nehezebben tudják megnehezíteni az életedet!
+
 
 
 # Early Access - Why Early Access?
@@ -1112,6 +1192,7 @@ Abbiamo condotto un'Alpha pubblica dal nostro sito web per un po' e stiamo conti
 
 ### Czech
 Již nějakou dobu provozujeme veřejnou Alpha verzi z našeho webu a v tomto projektu pokračujeme ve službě Steam. Zpětnou vazbu jsme použili jako vodítko k určení, které funkce mají být implementovány, jakou kvalitu vylepšení v reálném čase je třeba provést a které chyby je třeba opravit jako první. Tohle všechno společně vytváříme pro ten nejlepší možný zážitek!
+
 
 
 

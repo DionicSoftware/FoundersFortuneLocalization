@@ -10433,6 +10433,7 @@
 		"italian": "Grande portautensili",
 		"russian":  "Большая стойка для инструментов",
 		"hungarian": "Nagy eszköz tároló",
+		"czech": "Velký stojan na nářadí",
 	},
 	"multiToolRackDescription":  {
 		"english":  "In a small village, sometimes people have to fill multiple roles at once. Use the large tool rack to make all the necessary items available immediately.",
@@ -10444,6 +10445,7 @@
 		"italian": "In un piccolo villaggio, a volte le persone devono ricoprire più ruoli contemporaneamente. Usa il grande portautensili per mettere immediatamente a disposizione tutti gli articoli necessari.",
 		"russian":  "В небольшой деревне иногда людям приходится выполнять сразу несколько задач. Используйте большую стойку для инструментов, чтобы иметь возможность сделать все необходимое сразу.",
 		"hungarian": "Egy kis településen sokszor egy embernek több feladatot is el kell látnia. Használd ezt a nagy tárolót, hogy minden eszköz rendelkezésére álljon egy helyen.",
+		"czech": "V malé vesnici musí lidé někdy zastávat více rolí najednou. Použijte velký stojan na nářadí, abyste měli všechny potřebné věci okamžitě k dispozici.",
 	},
 	"trapWood":  {
 		"english":  "Wooden Trap",
@@ -10455,6 +10457,7 @@
 		"italian": "Trappola di legno",
 		"russian":  "Деревянная ловушка",
 		"hungarian": "Fából készült csapda",
+		"czech": "Dřevěná past",
 	},
 	"trapWoodDescription":  {
 		"english":  "Keep your villagers save and automate your defenses. Once an enemy comes close, the trap snaps close, hurting the invader. Needs to be reset and can be used up to 3 times.",
@@ -10466,6 +10469,7 @@
 		"italian": "Tieni i tuoi abitanti al sicuro e automatizza le tue difese. Quando un nemico si avvicina, la trappola si attiva, ferendo l'invasore. Deve essere ripristinata e può essere utilizzata fino a 3 volte.",
 		"russian":  "Держите жителей в безопасности и автоматизируйте свою оборону. Как только враг приближается, ловушка закрывается, ранив захватчика. Требует сброса и может использоваться до 3 раз.",
 		"hungarian": "Tudd biztonságban az embereidet egy autómata védelmi rendszerrel. Mihelyst az ellenség rálép, a csapda összecsukódik, és megséríti az ellenfelet. 3x újraaktiválható.",
+		"czech": "Udržujte své vesničany v bezpečí a automatizujte svou obranu. Jakmile se nepřítel přiblíží, past se přiblíží a zraní vetřelce. Je třeba resetovat a lze ji použít až třikrát.",
 	},
 	"trapWoodBroken":  {
 		"english":  "Broken Wooden Trap",
@@ -10477,6 +10481,7 @@
 		"italian": "Trappola di legno rotta",
 		"russian":  "Сломанная деревянная ловушка",
 		"hungarian": "Elhasznált fából készült csapda",
+		"czech": "Rozbitá dřevěná past",
 	},
 	"trap":  {
 		"english":  "Metal Trap",
@@ -10488,6 +10493,7 @@
 		"italian": "Trappola di pietra",
 		"russian":  "Металлическая ловушка",
 		"hungarian": "Fémből készült csapda",
+		"czech": "Kovová past",
 	},
 	"trapDescription":  {
 		"english":  "Upgrade your security by having your blacksmiths create a more sturdy and more deadly trap design. Needs to be reset and can be used up to 5 times.",
@@ -10499,6 +10505,7 @@
 		"italian": "Migliora la tua sicurezza chiedendo ai tuoi fabbri di creare una trappola più robusta e mortale. Deve essere ripristinata e può essere utilizzata fino a 5 volte.",
 		"russian":  "Повысьте уровень безопасности, попросив кузнецов создать более прочную и смертоносную ловушку. Требует сброса и может использоваться до 5 раз.",
 		"hungarian": "A kovács képes felfejleszteni a biztonsági rendszered azzal, hogy még erősebbé és halálosabbá teszi a csapdád. 5x újraaktiválható.",
+		"czech": "Vylepšete své zabezpečení tím, že necháte své kováře vytvořit robustnější a smrtelnější pasti. Je třeba resetovat a lze je použít až 5krát.",
 	},
 	"trapBroken":  {
 		"english":  "Broken Metal Trap",
@@ -10510,13 +10517,15 @@
 		"italian": "Trappola di pietra rotta",
 		"russian":  "Сломанная металлическая ловушка",
 		"hungarian": "Elhasznált fémből készült csapda",
+		"czech": "Rozbitá kovová past",
 	},
     "bearStatue": {
         "english": "Bear Statue",
         "german": "Bärenstatue",
-		"french": "Statue d'ours",
-		"russian":  "Статуя медведя",
-		"hungarian": "Medve szobor",
+	"french": "Statue d'ours",
+	"russian":  "Статуя медведя",
+	"hungarian": "Medve szobor",
+	"czech": "Socha medvěda",
     },
     "boatStatue": {
         "english": "Boat Statue",
@@ -10524,6 +10533,7 @@
 		"french": "Statue de bateau",
 		"russian":  "Статуя лодки",
 		"hungarian": "Hajó szobor",
+	    "czech": "Lodní socha",
     },
     "rabbitStatue": {
         "english": "Rabbit Statue",
@@ -10531,6 +10541,7 @@
 		"french": "Statue de lapin",
 		"russian":  "Статуя кролика",
 		"hungarian": "Nyúl szobor",
+	    "czech": "Socha králíka",
     },
     "treeStatue": {
         "english": "Tree Statue",
@@ -10538,6 +10549,7 @@
 		"french": "Statue d'arbre",
 		"russian":  "Статуя дерева",
 		"hungarian": "Fa szobor",
+	    "czech": "Socha stromu",
     },
     "wheelStatue": {
         "english": "Wheel Statue",
@@ -10545,6 +10557,7 @@
 		"french": "Statue de roue",
 		"russian":  "Статуя колеса",
 		"hungarian": "Kerék szobor",
+	    "czech": "Socha kola",
     },
     "owlStatue": {
         "english": "Owl Statue",
@@ -10552,6 +10565,7 @@
 		"french": "Statue de hibou",
 		"russian":  "Статуя совы",
 		"hungarian": "Bagoly szobor",
+	    "czech": "Socha sovy",
     },
     "pigStatue": {
         "english": "Pig Statue",
@@ -10566,6 +10580,7 @@
 		"french": "Statue de mouton",
 		"russian":  "Статуя овцы",
 		"hungarian": "Bárány szobor",
+	    "czech": "Socha prasete",
     },
     "turtleStatue": {
         "english": "Turtle Statue",
@@ -10573,6 +10588,7 @@
 		"french": "Statue de tortue",
 		"russian":  "Статуя черепахи",
 		"hungarian": "Teknős szobor",
+	    "czech": "Socha želvy",
     },
     "craftsmanStatueWood": {
         "english": "Wooden Statue of a Craftsman",
@@ -10580,6 +10596,7 @@
 		"french": "Statue en bois d'un artisan",
 		"russian":  "",
 		"hungarian": "Egy kézműves szobra fából",
+	    "czech": "Dřevěná socha řemeslníka",
     },
     "doctorStatueWood": {
         "english": "Wooden Statue of a Doctor",
@@ -10587,6 +10604,7 @@
 		"french": "Statue en bois d'un médecin",
 		"russian":  "Деревянная статуя ремесленника",
 		"hungarian": "Egy doktor szobra fából",
+	    "czech": "Dřevěná socha lékaře",
     },
     "farmerStatueWood": {
         "english": "Wooden Statue of a Farmer",
@@ -10594,6 +10612,7 @@
 		"french": "Statue en bois d'un fermier",
 		"russian":  "Деревянная статуя фермера",
 		"hungarian": "Egy gazda szobra fából",
+	    "czech": "Dřevěná socha farmáře",
     },
     "foresterStatueWood": {
         "english": "Wooden Statue of a Forester",
@@ -10601,6 +10620,7 @@
 		"french": "Statue en bois d'un forestier",
 		"russian":  "Деревянная статуя лесника",
 		"hungarian": "Egy erdész szobra fából",
+	    "czech": "Dřevěná socha lesníka",
     },
     "minerStatueWood": {
         "english": "Wooden Statue of a Miner",
@@ -10608,6 +10628,7 @@
 		"french": "Statue en bois d'un mineur",
 		"russian":  "Деревянная статуя шахтера",
 		"hungarian": "Egy bányász szobra fából",
+	    "czech": "Dřevěná socha horníka",
     },
     "scholarStatueWood": {
         "english": "Wooden Statue of a Scholar",
@@ -10615,6 +10636,7 @@
 		"french": "Statue en bois d'un érudit",
 		"russian":  "Деревянная статуя ученого",
 		"hungarian": "Egy tudós szobra fából",
+	    "czech": "Dřevěná socha učence",
     },
     "soldierStatueWood": {
         "english": "Wooden Statue of a Soldier",
@@ -10622,6 +10644,7 @@
 		"french": "Statue en bois d'un soldat",
 		"russian":  "Деревянная статуя солдата",
 		"hungarian": "Egy harcos szobra fából",
+	    "czech": "Dřevěná socha vojáka",
     },
     "craftsmanStatueStone": {
         "english": "Marble Statue of a Craftsman",
@@ -10629,6 +10652,7 @@
 		"french": "Statue en marbre d'un artisan",
 		"russian":  "Мраморная статуя ремесленника",
 		"hungarian": "Egy kézműves szobra márványból",
+	    "czech": "Mramorová socha řemeslníka",
     },
     "doctorStatueStone": {
         "english": "Marble Statue of a Doctor",
@@ -10636,6 +10660,7 @@
 		"french": "Statue en marbre d'un médecin",
 		"russian":  "Мраморная статуя врача",
 		"hungarian": "Egy doktor szobra márványból",
+	    "czech": "Mramorová socha lékaře",
     },
     "farmerStatueStone": {
         "english": "Marble Statue of a Farmer",
@@ -10643,6 +10668,7 @@
 		"french": "Statue en marbre d'un fermier",
 		"russian":  "Мраморная статуя фермера",
 		"hungarian": "Egy gazda szobra márványból",
+	    "czech": "Mramorová socha farmáře",
     },
     "foresterStatueStone": {
         "english": "Marble Statue of a Forester",
@@ -10657,6 +10683,7 @@
 		"french": "Statue en marbre d'un mineur",
 		"russian":  "Мраморная статуя шахтера",
 		"hungarian": "Egy bányász szobra márványból",
+	    "czech": "Mramorová socha lesníka",
     },
     "scholarStatueStone": {
         "english": "Marble Statue of a Scholar",
@@ -10664,6 +10691,7 @@
 		"french": "Statue en marbre d'un érudit",
 		"russian":  "Мраморная статуя ученого",
 		"hungarian": "Egy tudós szobra márványból",
+	    "czech": "Mramorová socha učence",
     },
     "soldierStatueStone": {
         "english": "Marble Statue of a Soldier",
@@ -10671,6 +10699,7 @@
 		"french": "Statue en marbre d'un soldat",
 		"russian":  "Мраморная статуя солдата",
 		"hungarian": "Egy harcos szobra márványból",
+	    "czech": "Mramorová socha vojáka",
     },
     "fireStatue": {
         "english": "Sculpture of Fire",
@@ -10678,6 +10707,7 @@
 		"french": "Sculpture du feu",
 		"russian":  "Скульптура огня",
 		"hungarian": "A tűz szobra",
+	    "czech": "Socha ohně",
     },
     "skullStatue": {
         "english": "Sculpture of Death",
@@ -10685,6 +10715,13 @@
 		"french": "Sculpture de la mort",
 		"russian":  "Скульптура смерти",
 		"hungarian": "A halál szobra",
+	    "czech": "Socha smrti",
+	    
+	    
+Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+Editing FoundersFortuneLocalization/gameObjects.json at master · DionicSoftware/FoundersFortuneLocalization
+
+
     },
     "stoneStatue": {
         "english": "Sculpture of Earth",
@@ -10692,6 +10729,7 @@
 		"french": "Sculpture de la terre",
 		"russian": "Скульптура Земли",
 		"hungarian": "A Föld szobra",
+	    "czech": "Socha Země",
     },
     "waterStatue": {
         "english": "Sculpture of Water",
@@ -10699,6 +10737,7 @@
 		"french": "Sculpture de l'eau",
 		"russian": "Скульптура воды",
 		"hungarian": "A víz szobra",
+	    "czech": "Socha vody",
     },
     "windStatue": {
         "english": "Sculpture of Wind",
@@ -10706,6 +10745,7 @@
 		"french": "Sculpture du vent",
 		"russian": "Скульптура ветра",
 		"hungarian": "A szél szobra",
+	    "czech": "Socha větru",
     },
     "axeHandStatue": {
         "english": "Monument of Chopping",
@@ -10713,6 +10753,7 @@
 		"french": "Monument du bûcheron",
 		"russian": "Памятник рубки",
 		"hungarian": "A favágás emlékműve",
+	    "czech": "Památník sekání",
     },
     "canHandStatue": {
         "english": "Monument of Care",
@@ -10720,6 +10761,7 @@
 		"french": "Monument de la santé",
 		"russian": "Памятник заботы",
 		"hungarian": "A törődés emlékműve",
+	    "czech": "Památník péče",
     },
     "femaleGnomeStatue": {
         "english": "Female Gnome",
@@ -10728,6 +10770,7 @@
 		"russian": "Гном женщина",
 		"ukrainian": "Гном жінка",
 		"hungarian": "Gnóm nő",
+	    "czech": "Ženský skřítek",
     },
     "hammerHandStatue": {
         "english": "Monument of Construction",
@@ -10736,6 +10779,7 @@
 		"russian": "Монумент строительства",
 		"ukrainian": "Монумент будівницства",
 		"hungarian": "Az építés emlékműve",
+	    "czech": "Památník stavby",
     },
     "maleGnomeStatue": {
         "english": "Male Gnome",
@@ -10744,6 +10788,7 @@
 		"russian": "Гном мужчина",
 		"ukrainian": "Гном чоловік",
 		"hungarian": "Gnóm férfi",
+	    "czech": "Mužský skřítek",
     },
     "pickaxeHandStatue": {
         "english": "Monument of Mining",
@@ -10752,6 +10797,7 @@
 		"russian": "Монумент шахтерства",
 		"ukrainian": "Монумент гірничої справи",
 		"hungarian": "A bányászás emlékműve",
+	    "czech": "Památník hornictví",
     },
     "paintingCastle": {
         "english": "\"My dream castle!\"",
@@ -10759,6 +10805,7 @@
 		"french": "« Le château de mes rêves ! »",
 		"russian": "\"Замок моей мечты!\"",
 		"hungarian": "\"Álmaim kastélya!\"",
+	    "czech": "\"Můj vysněný hrad!\"",
     },
     "paintingChurch": {
         "english": "\"Starry Night\"",
@@ -10766,6 +10813,7 @@
 		"french": "« Nuit étoilée »",
 		"russian": "\"Звездная ночь\"",
 		"hungarian": "\"Csillagos éj\"",
+	    "czech": "\"Hvězdná noc\"",
     },
     "paintingColony": {
         "english": "\"Home\"",
@@ -10773,6 +10821,7 @@
 		"french": "« Maison »",
 		"russian": "\"Дом\"",
 		"hungarian": "\"Otthon\"",
+	    "czech": "\"Domů\"",
     },
     "paintingCrab": {
         "english": "\"Summer Sunset\"",
@@ -10780,6 +10829,7 @@
 		"french": "« Coucher de soleil »",
 		"russian": "\"Летний закат\"",
 		"hungarian": "\"Nyári naplemente\"",
+	    "czech": "\"Letní západ slunce\"",
     },
     "paintingFlower": {
         "english": "\"Positivity\"",
@@ -10787,6 +10837,7 @@
 		"french": "« Positivité »",
 		"russian": "\"Позитив\"",
 		"hungarian": "\"Pozitivitás\"",
+	    "czech": "\"Pozitivnost\"",
     },
     "paintingFox": {
         "english": "\"Guardian of the Forest\"",
@@ -10794,6 +10845,7 @@
 		"french": "« Gardien de la forêt »",
 		"russian": "\"Хранитель леса\"",
 		"hungarian": "\"Az erdő őre\"",
+	    "czech": "\"Strážce lesa\"",
     },
     "paintingHorse": { // just keep bullseye
         "english": "\"Bullseye\"",
@@ -10801,6 +10853,7 @@
 		"french": "« Bullseye »",
 		"russian": "\"Bullseye\"",
 		"hungarian": "\"Bullseye\"",
+	    "czech": "\"Bullseye\"",
     },
     "paintingHouse": {
         "english": "\"Sunny Valley\"",
@@ -10809,6 +10862,7 @@
 		"russian": "\"Солнечная долина\"",
 		"ukrainian": "\"Сонячна Долина\"",
 		"hungarian": "\"Napos völgy\"",
+	    "czech": "\"Slunečné údolí\"",
     },
     "paintingInterior": {
         "english": "\"Dining Room\"",
@@ -10817,6 +10871,7 @@
 		"russian": "\"Столовая\"",
 		"ukrainian": "\"Їдальня\"",
 		"hungarian": "\"Étkező\"",
+	    "czech": "\"Jídelna\"",
     },
     "paintingLake": {
         "english": "\"Reflection\"",
@@ -10825,6 +10880,7 @@
 		"russian": "\"Отражение\"",
 		"ukrainian": "\"Відбиття\"",
 		"hungarian": "\"Tükröződés\"",
+	    "czech": "\"Reflekce\"",
     },
     "paintingNaturamorta": {
         "english": "\"Natura Morta\"",
@@ -10833,6 +10889,7 @@
 		"russian": "\"Натюрморт\"",
 		"ukrainian": "\"Натюрморт\"",
 		"hungarian": "\"Natura Morta\"",
+	    "czech": "\"Zátiší\"",
     },
     "paintingNeve": {
         "english": "\"Winter Wonderland\"",
@@ -10841,6 +10898,7 @@
 		"russian": "\"Страна зимних чудес\"",
 		"ukrainian": "\"Країна зимових чудес\"",
 		"hungarian": "\"Táli csodaország\"",
+	    "czech": "\"Zimní říše divů\"",
     },
     "paintingPanorama": {
         "english": "\"Everything the light touches\"",
@@ -10849,6 +10907,7 @@
 		"russian": "\"Все, чего касается свет\"",
 		"ukrainian": "\"Все, чого торкається світло\"",
 		"hungarian": "\"Minden, amit elborít a fény\"",
+	    "czech": "\"Všeho, čeho se světlo dotkne\"",
     },
     "paintingPortrait": {
         "english": "\"Beauty\"",
@@ -10857,6 +10916,7 @@
 		"russian": "\"Красота\"",
 		"ukrainian": "\"Краса\"",
 		"hungarian": "\"Szépség\"",
+	    "czech": "\"Krása\"",
     },
     "paintingTeddy": {
         "english": "\"Friends\"",
@@ -10865,6 +10925,7 @@
 		"russian": "\"Друзья\"",
 		"ukrainian": "\"Друзі\"",
 		"hungarian": "\"Barátok\"",
+	    "czech": "\"Přátelé\"",
     },
     "paintingTree": {
         "english": "\"Big Tree\"",
@@ -10873,6 +10934,7 @@
 		"russian": "\"Большое дерево\"",
 		"ukrainian": "\"Велике дерево\"",
 		"hungarian": "\"Hatalmas fa\"",
+	    "czech": "\"Velký strom\"",
     },
     "gardenSoil": {
         "english": "Soil for Flowers",
@@ -10881,6 +10943,7 @@
 		"russian": "Почва для цветов",
 		"ukrainian": "Ґрунт для квітів",
 		"hungarian": "Termőföld a virágoknak",
+	    "czech": "Půda pro květiny",
     },
     "gardenSoilDescription": {
         "english": "Aren't flowers great? They'll make the village look so pretty only if you care for them. If not taken care of, they will die!",
@@ -10889,6 +10952,7 @@
 		"russian": "Разве цветы не прекрасны? Если вы будете заботиться о них, ваша деревня будет выглядеть великолепно!",
 		"ukrainian": "Хіба квіти не чудові? Вони зроблять село таким гарним, лише якщо ви про них дбаєте. Якщо про них не подбати, вони помруть!",
 		"hungarian": "Talán nem szépek a virágok? De csak akkor dobják fel a falud kinézetét, ha gondozod is őket. Ha nem gondozod, elszáradnak!",
+	    "czech": "Nejsou květiny skvělé? Díky nim bude vesnice vypadat tak krásně, jen když se o ně budete starat. Pokud se o ně nebudete starat, zemřou!",
     },
     "easel": {
         "english": "Easel",
@@ -10897,6 +10961,7 @@
 		"russian":  "Мольберт",
 		"ukrainian": "Мольберт",
 		"hungarian": "Festőállvány",
+	    "czech": "Stojan",
     },
     "easelDescription": {
         "english": "This easel can help you become Pablo Picasso!",
@@ -10905,6 +10970,7 @@
 		"russian":  "Этот мольберт поможет вам стать Пабло Пикассо!",
 		"ukrainian": "Цей мольберт допоможе вам стати Пабло Пікассо!",
 		"hungarian": "Ez a festőállvány segít, hogy te legyél a következő Pablo Picasso!",
+	    "czech": "Tento stojan vám může pomoci stát se Pablem Picassem!",
     },
     "writingTable": {
         "english": "Writing Table",
@@ -10913,6 +10979,7 @@
 		"russian":  "Письменный стол",
 		"ukrainian": "Письмовий стіл",
 		"hungarian": "Íróasztal",
+	    "czech": "Psací stůl",
     },
     "writingTableDescription": {
         "english": "A perfect table for the perfect writer. With this table you can write books and sell them!",
@@ -10921,6 +10988,7 @@
 		"russian":  "Идеальный стол для писателя. С этим столом вы сможете писать книги и продавать их!",
 		"ukrainian": "Ідеальний стіл для ідеального письменника. За допомогою цього столу ви можете писати книги і продавати їх!",
 		"hungarian": "Tökélétes asztal, a tökéletes írónak. Itt tudsz könyveket írni, melyeket el is tudsz adni!",
+	    "czech": "Perfektní stůl pro dokonalého spisovatele. S tímto stolem můžete psát knihy a prodávat je!",
     },
     "piano": {
         "english": "Piano",
@@ -10929,6 +10997,7 @@
 		"russian":  "Фортепиано",
 		"ukrainian": "Фортепіано",
 		"hungarian": "Zongora",
+	    "czech": "Piano",
     },
     "pianoDescription": {
         "english": "The most expensive, most beautiful piano ever!",
@@ -10937,5 +11006,6 @@
 		"russian":  "Самое дорогое и фортепиано!",
 		"ukrainian": "Найдорожче, найгарніше фортепіано!",
 		"hungarian": "A legdrágább, és legszebb zongora, amit láttál!",
+	    "czech": "Nejdražší a nejkrásnější piano všech dob!",
     }
 }

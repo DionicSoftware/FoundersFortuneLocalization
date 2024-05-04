@@ -5473,6 +5473,7 @@
 	"ukrainian": "Читання",
 		"russian": "Чтение",
 		"hungarian": "Olvasás",
+	    "czech": "Četba",
     },
     "hobbyTitle_Masonry": {
         "english": "Masonry",
@@ -5481,6 +5482,7 @@
 	"ukrainian": "Каменярство",
 		"russian": "Каменщик",
 		"hungarian": "Kőművesség",
+	    "czech": "Zednictví",
     },
     "hobbyIsDumb": {
         "english": "Can't level up in hobbies because %firstName% is dumb",
@@ -5489,14 +5491,16 @@
 	"ukrainian": "%firstName% не може розвивати хобі, тому що %heShe% туп%heshe_IY_A%",
 		"russian": "%firstName% не может повысить хобби, поскольку %heShe% туп%hesheEnd2%",
 		"hungarian": "Nem tud fejlődni a hobbiában, mert %firstName% nem túl okos",
+	    "czech": "Nemohu dosáhnout vyšší úrovně v koníčkách, protože %firstName% je hloupý",
     },
-    "colonyWide": { // "global" is a good alternative
+  "colonyWide": { 
         "english": "Colony-wide",
         "german": "Kolonie-weit",
 	"french": "Colonie",
 	"ukrainian": "На всю колонію",
 		"russian": "На всю колонию",
 		"hungarian": "Kolónia-méretű",
+	  "czech": "V celé kolonii",
     },
     "workHourType": {
         "english": "Work",
@@ -5505,6 +5509,7 @@
 	"ukrainian": "Робота",
 		"russian": "Работа",
 		"hungarian": "Munka",
+	    "czech": "Práce",
     },
     "workHourTypeTooltip_Title": {
         "english": "Work Hour",
@@ -5513,6 +5518,7 @@
 	"ukrainian": "Робоча година",
 		"russian": "Рабочие часы",
 		"hungarian": "Munkaóra",
+	    "czech": "Pracovní doba",
     },
     "workHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will only do work.",
@@ -5521,6 +5527,7 @@
 	"ukrainian": "Протягом цієї години ваші колоністи лише працюватимуть.",
 		"russian": "В течение этого часа ваши колонисты будут только работать",
 		"hungarian": "Ezekben az órákban csakis dolgozni fognak a telepeseid.",
+	    "czech": "Během této hodiny budou vaši kolonisté pouze pracovat.",
     },
     "freeHourType": {
         "english": "Free/Socialize",
@@ -5529,6 +5536,7 @@
 	"ukrainian": "Відпочинок/Спілкування",
 		"russian": "Досуг/Общение",
 		"hungarian": "Szabadidő / Kapcsolatok",
+	    "czech": "Svoboda/Socializace",
     },
     "freeHourTypeTooltip_Title": {
         "english": "Free/Socialize Hour",
@@ -5537,6 +5545,7 @@
 	"ukrainian": "Година відпочинку/спілкування",
 		"russian": "Час досуга/общения",
 		"hungarian": "Szabadidő / Kapcsolatok idő",
+	    "czech": "Hodina svobody/socializace",
     },
     "freeHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will relax, socialize, and do hobbies.",
@@ -5545,6 +5554,7 @@
 	"ukrainian": "Протягом цієї години ваші колоністи відпочиватимуть, спілкуватимуться та займатимуться хобі.",
 		"russian": "В течение этого часа ваши колонисты будут отдыхать, общаться с друзьями и заниматься своими увлечениями",
 		"hungarian": "Ezekben az órákban a telepeseid pihennek, kapcsolatokat építenek, és a hobbiukkal foglalkoznak.",
+	    "czech": "Během této hodiny budou vaši kolonisté odpočívat, stýkat se spolu a věnovat se svým koníčkům.",
     },
     "eatHourType": {
         "english": "Eat",
@@ -5553,6 +5563,7 @@
 	"ukrainian": "Прийом їжі",
 		"russian": "Питание",
 		"hungarian": "Evés",
+	    "czech": "Jezte",
     },
     "eatHourTypeTooltip_Title": {
         "english": "Eating Hour",
@@ -5561,6 +5572,7 @@
 	"ukrainian": "Година прийому їжі",
 		"russian": "Час приема пищи",
 		"hungarian": "Evés idő",
+	    "czech": "Hodina jídla",
     },
     " 	HourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will eat when their hunger is below 80%.\nOtherwise, they will continue to do their tasks",
@@ -5569,6 +5581,7 @@
 	"ukrainian": "Протягом цієї години ваші колоністи харчуватимуться, якщо їня шкала голоду опуститься нижче 80%. \nВ іншому випадку вони продовжать виконувати свої завдання",
 		"russian": "В течение этого часа ваши колонисты будут есть, если их голод ниже 80%.\nВ противном случае они будут продолжать выполнять свои задания.",
 		"hungarian": "Ezekben az órákban a telepesek esznek, ha 80% alatt van az éhségük.\nMáskülönben végzik a feladataikat.",
+	"czech": "Během této hodiny budou vaši kolonisté jíst, když jejich hlad klesne pod 80%.\nJinak budou pokračovat v plnění svých úkolů",
     },
     "randomHourType": {
         "english": "Random",
@@ -5577,6 +5590,7 @@
 	"ukrainian": "Випадково",
 		"russian": "Случайно",
 		"hungarian": "Mindegy",
+	    "czech": "Náhodné",
     },
     "randomHourTypeTooltip_Title": {
         "english": "Random Hour",
@@ -5585,6 +5599,7 @@
 	"ukrainian": "Година випадкових занять",
 		"russian": "Час случайных занятий",
 		"hungarian": "Mindegy idő",
+	    "czech": "Náhodná hodina",
     },
     "randomHourTypeTooltip_Desc": {
         "english": "During this hour, colonists can pick tasks from all the task categories.\nThey will eat when their hunger is below 20% and sleep when their energy is below 15%.",
@@ -5593,6 +5608,7 @@
 	"ukrainian": "Протягом цієї години колоністи зможуть обрати собі будь-яке заняття. Вони харчуватимуться, якщо їхня шкала голоду опуститься нижче 20%, та спатимуть, якщо шкала витривалості нижче 15%.",
 		"russian": "В течение этого часа ваши колонисты могут выбирать задания из всех категорий.\nОни будут есть, если их голод ниже 20%, и спать, если их энергия ниже 15%.",
 		"hungarian": "Ezekben az órákban a telepesek mindenféle feladatot csinálhatnak.\nAkkor esznek, amikor 20% alatt van az éhségük, és akkor alszanak, ha 15% alatt van a fáradtságuk.",
+	    "czech": "Během této hodiny si mohou kolonisté vybrat úkoly ze všech kategorií úkolů.\nBudou jíst, když jejich hlad klesne pod 20 % a spát, když jejich energie klesne pod 15 %.",
     },
     "sleepHourTypeTooltip_Title": {
         "english": "Sleeping Hour",
@@ -5601,6 +5617,7 @@
 	"ukrainian": "Година сну",
 		"russian": "Час сна",
 		"hungarian": "Alvási idő",
+	    "czech": "Hodina spánku",
     },
     "sleepHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will sleep when their energy is below 80%.\nOtherwise, they will continue to do their tasks",
@@ -5609,6 +5626,7 @@
 	"ukrainian": "Протягом цієї години ваші колоністи спатимуть, якщо їня шкала витривалості опуститься нижче 80%. \nВ іншому випадку вони продовжать виконувати свої завдання",
 		"russian": "В течение этого часа ваши колонисты будут спать, если их энергия ниже 80%.\nВ противном случае они будут продолжать выполнять свои задачи.",
 		"hungarian": "Ezekben az órákban a telepeseid alszanak, ha a fáradtságuk 80% alá csökken.\nMáskülönben csinálják tovább a feladataikat.",
+	    "czech": "Během této hodiny budou vaši kolonisté spát, když jejich energie klesne pod 80%.\nJinak budou pokračovat v plnění svých úkolů",
     },
     "eatOnlyAtHouse": {
         "english": "Eat only at house",
@@ -5617,6 +5635,7 @@
 	"ukrainian": "Їсти лише вдома",
 		"russian": "Питание только дома",
 		"hungarian": "Csak otthon évés",
+	    "czech": "Jezte pouze doma",
 	    
     },
     "eatOnlyAtHouseTooltip_Title": {
@@ -5626,6 +5645,7 @@
 	"ukrainian": "Їсти лише у власному будинку",
 		"russian": "Питание только у себя дома",
 		"hungarian": "Csak a saját otthonukban esznek",
+	    "czech": "Jezte pouze ve vlastním domě",
     },
     "eatOnlyAtHouseTooltip_Desc": {
         "english": "When enabled, colonists will prioritize eating at their own house",
@@ -5634,6 +5654,7 @@
 	"ukrainian": "Якщо ввімкнути, колоністи віддаватимуть перевагу харчуванню у власному будинку.",
 		"russian": "При включении колонисты будут стараться есть в собственном доме.",
 		"hungarian": "Mikor be van kapcsolva a telepesek az otthon étkezést részesítik előnyben.",
+	    "czech": "Pokud je povoleno, kolonisté budou upřednostňovat stravování ve svém vlastním domě",
     },
     "small": {
         "english": "Small",
@@ -5642,6 +5663,7 @@
 	"ukrainian": "Маленькі",
 		"russian": "Маленький",
 		"hungarian": "Kicsi",
+	    "czech": "Malé",
     },
     "smallRationsTooltip_Title": {
         "english": "Small Food Rations",
@@ -5650,6 +5672,7 @@
 	"ukrainian": "Маленькі порції їжі",
 		"russian": "Маленькие порции еды",
 		"hungarian": "Kis adag étel",
+	    "czech": "Malé příděly jídla",
     },
     "smallRationsTooltip_Desc": {
         "english": "Tough times huh? Your colonists will eat less food at the cost of being sad.",
@@ -5658,6 +5681,7 @@
 	"ukrainian": "Настав той самий чорний день? Ваші колоністи їстимуть менше, але будуть засмучені через це.",
 		"russian": "Тяжелые времена? Ваши колонисты будут есть меньше - но им это не понравится.",
 		"hungarian": "Nehéz idők, mi? A telepesek kevesebbet esznek, rosszabb hangulatért cserébe.",
+	    "czech": "Těžké časy, co? Vaši kolonisté budou jíst méně jídla za cenu toho, že budou smutní.",
     },
     "medium": {
         "english": "Medium",
@@ -5666,6 +5690,7 @@
 	"ukrainian": "Звичайні",
 		"russian": "Средний",
 		"hungarian": "Közepes",
+	    "czech": "Střední",
     },
     "mediumRationsTooltip_Title": {
         "english": "Medium Food Rations",
@@ -5674,6 +5699,7 @@
 	"ukrainian": "Звичайні порції їжі",
 		"russian": "Средние порции еды",
 		"hungarian": "Közepes adag étel",
+	    "czech": "Střední příděly potravin",
     },
     "mediumRationsTooltip_Desc": {
         "english": "Your colonists will eat normal amounts of food.",
@@ -5682,6 +5708,7 @@
 	"ukrainian": "Ваші колоністи споживатимуть звичайну кількість їжі.",
 		"russian": "Ваши колонисты будут есть обычное количество пищи.",
 		"hungarian": "Normál adag ételt esznek a telepesek.",
+	    "czech": "Vaši kolonisté budou jíst normální množství jídla.",
     },
     "large": {
         "english": "Large",
@@ -5690,6 +5717,7 @@
 	"ukrainian": "Великі",
 		"russian": "Большой",
 		"hungarian": "Nagy",
+	    "czech": "Velký",
     },
     "largeRationsTooltip_Title": {
         "english": "Large Food Rations",
@@ -5698,6 +5726,7 @@
 	"ukrainian": "Великі порції їжі",
 		"russian": "Большие порции еды",
 		"hungarian": "Nagy adag étel",
+	    "czech": "Velké příděly jídla",
     },
     "largeRationsTooltip_Desc": {
         "english": "Your colonists will eat more food. At least their happy about it",
@@ -5706,6 +5735,7 @@
 	"ukrainian": "Ваші колоністи споживатимуть більше їжі й будуть дуже задоволені.",
 		"russian": "Ваши колонисты будут есть больше еды. Это улучшит их настроение.",
 		"hungarian": "A telepeseid többet esznek. Legalább boldogok miatta.",
+	    "czech": "Vaši kolonisté budou jíst více jídla. Alespoň z toho budou mít radost",
     },
     "issuedByPlayerTooltip_Title": {
         "english": "Task issued by Player",
@@ -5714,6 +5744,7 @@
 	"ukrainian": "Завдання, видане гравцем",
 		"russian": "Задача, выданная игроком",
 		"hungarian": "Játékos által kiadott feladatok",
+	    "czech": "Úkol zadaný hráčem",
     },
     "issuedByPlayerTooltip_Desc": {
         "english": "These tasks won't get aborted by the schedule.",
@@ -5722,6 +5753,7 @@
 	"ukrainian": "Ці завдання не будуть перервані розпорядком.",
 		"russian": "Эти задачи не отменяются расписанием.",
 		"hungarian": "Ezek a feladatok nem lesznek megszakítva a napirend által.",
+	    "czech": "Tyto úkoly nebudou podle plánu přerušeny.",
     },
     "issuedByScheduleTooltip_Title": {
         "english": "Interaction issued by schedule / colonist",
@@ -5730,6 +5762,7 @@
 	"ukrainian": "Завдання, видане розпорядком/колоністом",
 		"russian": "Задание, выданное расписанием / колонистом",
 		"hungarian": "Napirend / telepes általi interakciók",
+	    "czech": "Interakce vydaná plánovačem / kolonisty",
     },
     "issuedByScheduleTooltip_Desc": {
         "english": "These interactions can get aborted by the Schedule.",
@@ -5738,6 +5771,7 @@
 	"ukrainian": "Ці завдання можуть бути перервані розпорядком.",
 		"russian": "Эти взаимодействия могут быть прерваны расписанием.",
 		"hungarian": "Ezeket az interakciókat megszakíthatja a napirend.",
+	    "czech": "Tyto interakce mohou být přerušeny plánem.",
     },
     "noItemInStorage": {
         "english": "You have not stored any furniture yet. You can store furniture by dropping them in storage's drop area.",
@@ -5746,6 +5780,7 @@
 	"ukrainian": "У вас немає меблів на зберіганні. Ви можете зберігати меблі у цьому сховищі, перетягнувши їх у зону для скидання.",
 		"russian": "У вас еще нет мебели на складе. Вы можете хранить мебель, переместив ее в зону хранения.",
 		"hungarian": "Jelenleg nem tárolsz semmilyen bútort. Eltárolhatsz bármilyen bútort, ha a tároló ablakba húzod őket.",
+	    "czech": "Ještě jste neuložili žádný nábytek. Nábytek můžete uložit tak, že jej položíte do úložného prostoru.",
     },
     "dragAndDrop": {
         "english": "Drag any furniture and drop it in this area to store it",
@@ -5754,6 +5789,7 @@
 	"ukrainian": "Перетягніть та скиньте меблі сюди, щоб зберігати їх у сховищі.",
 		"russian": "Для хранения, перетащите любую мебель и бросьте ее в эту область",
 		"hungarian": "Ide húzd a tárolni kívánt bútorokat",
+	    "czech": "Přetáhněte jakýkoli nábytek a pusťte jej do této oblasti, abyste jej uložili",
     },
     "difficultyAdaptation": {
         "english": "Difficulty Adaptation",
@@ -5762,6 +5798,7 @@
 	"ukrainian": "Регулювання складності",
 		"russian": "Настройка сложности",
 		"hungarian": "Nehéz alkalmazkodás",
+	    "czech": "Adaptace na obtížnost",
     },
     "difficultyAdaptationDesc": {
         "english": "Sometimes Founders' Fortune can be hard. Do you want to change the difficulty?",
@@ -5770,6 +5807,7 @@
 	"ukrainian": "Іноді грати у Founders' Fortune буває складно. Хочете змінити складність?",
 		"russian": "Иногда играть в Founders' Fortune может быть сложно. Хотите изменить уровень сложности?",
 		"hungarian": "Néha a Founders' Fortune nehéznek tűnhet. Nem akarod átállítani a nehézséget?",
+	    "czech": "Někdy může být Founders' Fortune těžké. Chcete změnit obtížnost?",
     },
     "difficultyAdaptationAccept": {
         "english": "Let's Change",
@@ -5778,6 +5816,7 @@
 	"ukrainian": "Давайте змінимо",
 		"russian": "Изменить",
 		"hungarian": "Állítsd át",
+	    "czech": "Pojďme se změnit",
     },
     "schedule": {
         "english": "Schedules",
@@ -5786,6 +5825,7 @@
 	"ukrainian": "Розпорядки дня",
 		"russian": "Расписание",
 		"hungarian": "Napirend",
+	    "czech": "Plány",
     },
     "followColonyWideSchedule_Title": {
         "english": "Follow Colony-wide Schedule",
@@ -5794,6 +5834,7 @@
 	"ukrainian": "Дотримуватися розпорядку для всієї колонії",
 		"russian": "Следовать расписанию колонии",
 		"hungarian": "Kövessd a kolónia-méretű napirendet",
+	    "czech": "Postupujte podle plánu pro celou kolonii",
     },
     "followColonyWideSchedule_Desc": {
         "english": "When enabled, the colony-wide schedule will override the colonist's schedule",
@@ -5802,6 +5843,7 @@
 	"ukrainian": "Якщо ввімкнено, розпорядок дня для всієї колонії замінить розпорядок дня колоніста",
 		"russian": "Если включено, расписание всей колонии будет преобладать над расписанием колониста",
 		"hungarian": "Ha be van kapcsolva, a kolonisták napirendje felülíródik a kolónia-méretű napirenddel.",
+	    "czech": "Pokud je toto povoleno, plán pro celou kolonii přepíše plán kolonisty",
     },
     "paintingCompleted": {
         "english": "Painting Completed",
@@ -5810,6 +5852,7 @@
 	"ukrainian": "Картину завершено",
 		"russian": "Картина завершена",
 		"hungarian": "Kész festmény",
+	    "czech": "Malba dokončena",
     },
     "changeAge": {
         "english": "Change Age",
@@ -5818,6 +5861,7 @@
 	"ukrainian": "Змінити вік",
 		"russian": "Изменить возраст",
 		"hungarian": "Kor megváltoztatása",
+	    "czech": "Změnit věk",
     },
 
 }

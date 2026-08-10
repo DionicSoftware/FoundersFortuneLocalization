@@ -379,13 +379,6 @@ Kolonisté jsou vaší nejvyšší prioritou. Nejprve jim musíte poskytnout jí
 
 Každý kolonista reaguje na události, veselé i smutné, a odráží to ve svém chování. Šťastní kolonisté dostanou boost produktivity - nešťastní kolonisté se mohou rozčílit.
 
-### Dutch
-Zorg voor je kolonisten
-
-De kolonisten zijn je hoogste prioriteit. In het begin moet je ze gewoon van voedsel en onderdak voorzien. Maar de wereld is vol gevaren! Een infectie kan fataal zijn voor de sterkste krijger en de plaag kan je hele kolonie teniet doen.
-
-Elke kolonist reageert op gebeurtenissen, blij of verdrietig, en weerspiegelt dat in hun gedrag. Gelukkige kolonisten krijgen een boost voor hun productiviteit - Ongelukkige kolonisten kunnen een driftbui krijgen.
-
 ### Hungarian
 Gondoskodj a telepeseidről
 
@@ -1443,10 +1436,10 @@ Major updates in Early Access will usually break save game compatibility. We kee
 ### Dutch
 In het verleden hebben we via onze website verschillende alfa versies beschikbaar gemaakt voor spelers. Op het moment van schrijven hebben we elke dag 100-300 spelers die vaak meer dan 18 uur spenderen om alle onderzoeken te ontgrendelen en nog meer tijd om de bevolkingslimiet te bereiken.
 
-Alle functies in de trailer, screenshots en in het gedeelte 'Over deze game' zijn geïmplementeerd en speelbaar
+Alle functies in de trailer, screenshots en in het gedeelte 'Over deze game' zijn geïmplementeerd en speelbaar.
 
-//TODO-dutch
-// change your language to "dev" when you're done so I remember to update it!
+Grote updates tijdens Early Access maken opgeslagen spellen meestal onbruikbaar. We houden de oudere versie voor je beschikbaar zodat je verder kunt spelen, maar je kunt bijvoorbeeld geen Alpha 9-savegames spelen met Alpha 10. Dit geldt alleen zolang we in Early Access zitten.
+//TODO-Devs
 
 ### German
 Bisher hatten wir die Alpha von Founders' Fortune auf unserer Website kostenlos zur Verfügung gestellt. Zum Zeitpunkt der Erstellung dieser Beschreibung haben wir ca. 100-300 aktive Spieler pro Tag. Für das Erforschen aller Technologien und das Erreichen der maximalen Kolonistenanzahl sind sie gerne mal 18 Stunden beschäftigt.
@@ -1557,7 +1550,7 @@ Hlavní aktualizace v rámci Early Access obvykle narušují kompatibilitu her. 
 We plan to raise the price for Founders' Fortune as we add more features to the game. The exact amount depends on how much content we can add.
 
 
-## Dutch
+### Dutch
 We zijn van plan de prijs voor Founders 'Fortune te verhogen naarmate we meer functies aan het spel toevoegen. Het exacte bedrag hangt af van hoeveel inhoud we kunnen toevoegen.
 
 

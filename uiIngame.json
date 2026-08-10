@@ -602,6 +602,7 @@
 		"czech": "Zábava",
 		"japanese": "娯楽",
 		"italian": "Svago",
+		"dutch": "Plezier",
     },
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -719,6 +720,7 @@
 		"czech": "Dopřejte svým kolonistům čas od času trochu zábavy. Život přece není jen o práci, ne?",
 		"japanese": "自然と減少します。趣味や休息を楽しむ事で回復します。仕事ばかりでは心情が悪化してしまいます。",
 		"italian": "Concedi ai tuoi coloni la possibilità di divertirsi ogni tanto. La vita non è fatta solo di lavoro, no?",
+		"dutch": "Gun je kolonisten af en toe wat plezier. Het leven draait toch niet alleen om werk?",
     },
 	"needsTitleTameness": {
 		"english": "Tameness",
@@ -2375,6 +2377,7 @@
 		"czech": "Automaticky jíst",
 		"japanese": "自動で食事",
 		"italian": "Mangia auto.",
+		"dutch": "Automatisch eten",
 	},
 	"autoEatTooltip_Title": {
 		"english": "Auto Eat",
@@ -2387,6 +2390,7 @@
 		"czech": "Automaticky jíst",
 		"japanese": "自動で食事",
 		"italian": "Mangiare automaticamente",
+		"dutch": "Automatisch eten",
 	},
 	"autoEatTooltip_Desc": {
 		"english": "When enabled, your colonists will eat when their hunger is below 20% regardless of hour type.",
@@ -2399,6 +2403,7 @@
 		"czech": "Pokud je toto povoleno, kolonisté se najedí vždy, když jejich hlad klesne pod 20%, bez ohledu na plán.",
 		"japanese": "有効にすると、時間帯の設定に関わらず満腹が20%を下回った時に食事をします。",
 		"italian": "Se attivo, i tuoi coloni mangeranno quando la loro fame scende sotto il 20%, a prescindere dal tipo di ora.",
+		"dutch": "Als dit aanstaat, eten je kolonisten zodra hun honger onder de 20% zakt, ongeacht wat er in het rooster staat.",
 	},
 	"autoSleep": {
 		"english": "Auto sleep",
@@ -2411,6 +2416,7 @@
 		"czech": "Automaticky spát",
 		"japanese": "自動で睡眠",
 		"italian": "Dormi auto.",
+		"dutch": "Automatisch slapen",
 	},
 	"autoSleepTooltip_Title": {
 		"english": "Auto Sleep",
@@ -2423,6 +2429,7 @@
 		"czech": "Automaticky spát",
 		"japanese": "自動で睡眠",
 		"italian": "Dormire automaticamente",
+		"dutch": "Automatisch slapen",
 	},
 	"autoSleepTooltip_Desc": {
 		"english": "When enabled, your colonists will sleep when their energy is below 15% regardless of hour type",
@@ -2435,6 +2442,7 @@
 		"czech": "Pokud je toto povoleno, kolonisté půjdou spát vždy, když jejich energie klesne pod 15%, bez ohledu na plán.",
 		"japanese": "有効にすると、時間帯の設定に関わらず持続力が15%を下回った時に睡眠を取ります。",
 		"italian": "Se attivo, i tuoi coloni dormiranno quando la loro energia scende sotto il 15%, a prescindere dal tipo di ora.",
+		"dutch": "Als dit aanstaat, gaan je kolonisten slapen zodra hun energie onder de 15% zakt, ongeacht wat er in het rooster staat.",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -5312,6 +5320,7 @@
 		"czech": "Úspěchy jsou vypnuté, protože jste změnili nastavení Sandboxu.",
 		"japanese": "サンドボックス設定の変更で実績は無効になります。",
 		"italian": "Gli obiettivi sono disabilitati perché hai modificato le impostazioni sandbox.",
+		"dutch": "Prestaties zijn uitgeschakeld omdat je de sandbox-instellingen hebt gewijzigd.",
     },
 	"achievements_off_cheats": {
 		"english":  "Achievements are disabled because you have used developer mode.",
@@ -5450,6 +5459,7 @@
 		"czech": "Koníčky",
 		"japanese": "趣味",
 		"italian": "Hobby",
+		"dutch": "Hobby's",
     },
     "hobbyTitle_Painting": {
         "english": "Painting",
@@ -5462,6 +5472,7 @@
 		"czech": "Malování",
 		"japanese": "絵画",
 		"italian": "Pittura",
+		"dutch": "Schilderen",
     },
 	"hobbyDesc": {
 	"english": "Interest: %interest%",
@@ -5474,6 +5485,7 @@
 		"czech": "Zájem: %interest%",
 		"japanese": "興味: %interest%",
 		"italian": "Interesse: %interest%",
+		"dutch": "Interesse: %interest%",
 	},
     "hobbyDesc_IsMainHobby": {
         "english": "Is main hobby.",
@@ -5486,6 +5498,7 @@
 		"czech": "Hlavní koníček.",
 		"japanese": "一番の趣味です。",
 		"italian": "È l'hobby principale.",
+		"dutch": "Is hoofdhobby.",
     },
     "hobbyTitle_Gardening": {
         "english": "Gardening",
@@ -5498,6 +5511,7 @@
 		"czech": "Zahradničení",
 		"japanese": "園芸",
 		"italian": "Giardinaggio",
+		"dutch": "Tuinieren",
     },
     "hobbyTitle_Music": {
         "english": "Music",
@@ -5510,6 +5524,7 @@
 		"czech": "Hudba",
 		"japanese": "音楽",
 		"italian": "Musica",
+		"dutch": "Muziek",
     },
     "hobbyTitle_Writing": {
         "english": "Writing",
@@ -5522,6 +5537,7 @@
 		"czech": "Psaní",
 		"japanese": "執筆",
 		"italian": "Scrittura",
+		"dutch": "Schrijven",
     },
     "hobbyTitle_Woodworking": {
         "english": "Woodworking",
@@ -5534,6 +5550,7 @@
 		"czech": "Řezbářství",
 		"japanese": "木彫り",
 		"italian": "Intaglio del legno",
+		"dutch": "Houtsnijden",
     },
     "hobbyTitle_Reading": { // reading or literature
         "english": "Reading",
@@ -5546,6 +5563,7 @@
 	    "czech": "Četba",
 	    "japanese": "読書",
 	    "italian": "Lettura",
+	    "dutch": "Lezen",
     },
     "hobbyTitle_Masonry": {
         "english": "Masonry",
@@ -5558,6 +5576,7 @@
 	    "czech": "Kamenictví",
 	    "japanese": "石彫り",
 	    "italian": "Scultura",
+	    "dutch": "Beeldhouwen",
     },
     "hobbyIsDumb": {
         "english": "Can't level up in hobbies because %firstName% is dumb",
@@ -5570,6 +5589,7 @@
 	    "czech": "Nemohu dosáhnout vyšší úrovně v koníčkách, protože %firstName% je hloupý",
 	    "japanese": "%firstName%はお馬鹿なため、趣味のレベルを上げる事ができません",
 	    "italian": "Non può migliorare negli hobby perché %firstName% è ottus%OA%",
+	    "dutch": "Kan niet stijgen in hobby's omdat %firstName% dom is",
     },
   "colonyWide": { 
         "english": "Colony-wide",
@@ -5582,6 +5602,7 @@
 	  "czech": "V celé kolonii",
 	  "japanese": "コロニー全体",
 	  "italian": "Tutta la colonia",
+	  "dutch": "Hele kolonie",
     },
     "workHourType": {
         "english": "Work",
@@ -5594,6 +5615,7 @@
 	    "czech": "Práce",
 	    "japanese": "仕事",
 	    "italian": "Lavoro",
+	    "dutch": "Werk",
     },
     "workHourTypeTooltip_Title": {
         "english": "Work Hour",
@@ -5606,6 +5628,7 @@
 	    "czech": "Pracovní doba",
 	    "japanese": "仕事の時間",
 	    "italian": "Ora di lavoro",
+	    "dutch": "Werkuur",
     },
     "workHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will only do work.",
@@ -5618,6 +5641,7 @@
 	    "czech": "Během této hodiny budou vaši kolonisté pouze pracovat.",
 	    "japanese": "この時間帯、コロニストは仕事だけを行います。",
 	    "italian": "Durante quest'ora, i tuoi coloni si dedicheranno soltanto al lavoro.",
+	    "dutch": "Tijdens dit uur doen je kolonisten alleen werk.",
     },
     "freeHourType": {
         "english": "Free/Socialize",
@@ -5630,6 +5654,7 @@
 	    "czech": "Svoboda/Socializace",
 	    "japanese": "自由/交流",
 	    "italian": "Libera/Sociale",
+	    "dutch": "Vrij/Sociaal",
     },
     "freeHourTypeTooltip_Title": {
         "english": "Free/Socialize Hour",
@@ -5642,6 +5667,7 @@
 	    "czech": "Hodina svobody/socializace",
 	    "japanese": "自由/交流の時間",
 	    "italian": "Ora libera/di socializzazione",
+	    "dutch": "Vrij/sociaal uur",
     },
     "freeHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will relax, socialize, and do hobbies.",
@@ -5654,6 +5680,7 @@
 	    "czech": "Během této hodiny budou vaši kolonisté odpočívat, stýkat se spolu a věnovat se svým koníčkům.",
 	    "japanese": "この時間帯、コロニストは休息し、仲間と交流し、趣味を楽しみます。",
 	    "italian": "Durante quest'ora, i tuoi coloni si rilasseranno, socializzeranno e si dedicheranno ai loro hobby.",
+	    "dutch": "Tijdens dit uur ontspannen je kolonisten, praten ze met elkaar en werken ze aan hun hobby's.",
     },
     "eatHourType": {
         "english": "Eat",
@@ -5666,6 +5693,7 @@
 	    "czech": "Jezte",
 	    "japanese": "食事",
 	    "italian": "Pasto",
+	    "dutch": "Eten",
     },
     "eatHourTypeTooltip_Title": {
         "english": "Eating Hour",
@@ -5678,6 +5706,7 @@
 	    "czech": "Hodina jídla",
 	    "japanese": "食事の時間",
 	    "italian": "Ora del pasto",
+	    "dutch": "Eetuur",
     },
     "eatHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will eat when their hunger is below 80%.\nOtherwise, they will continue to do their tasks",
@@ -5690,6 +5719,7 @@
 	"czech": "Během této hodiny budou vaši kolonisté jíst, když jejich hlad klesne pod 80%.\nJinak budou pokračovat v plnění svých úkolů",
 	"japanese": "この時間帯、コロニストは満腹が80%を下回っている場合に食事をします。\nそうでない場合は作業を続けます。",
 	"italian": "Durante quest'ora, i tuoi coloni mangeranno se la loro fame è sotto l'80%.\nAltrimenti continueranno a svolgere i loro compiti.",
+	"dutch": "Tijdens dit uur eten je kolonisten als hun honger onder de 80% zit.\nAnders gaan ze verder met hun taken",
     },
     "randomHourType": {
         "english": "Random",
@@ -5702,6 +5732,7 @@
 	    "czech": "Náhodné",
 	    "japanese": "ランダム",
 	    "italian": "Casuale",
+	    "dutch": "Willekeurig",
     },
     "randomHourTypeTooltip_Title": {
         "english": "Random Hour",
@@ -5714,6 +5745,7 @@
 	    "czech": "Náhodná hodina",
 	    "japanese": "ランダムの時間",
 	    "italian": "Ora casuale",
+	    "dutch": "Willekeurig uur",
     },
     "randomHourTypeTooltip_Desc": {
         "english": "During this hour, colonists can pick tasks from all the task categories.\nThey will eat when their hunger is below 20% and sleep when their energy is below 15%.",
@@ -5726,6 +5758,7 @@
 	    "czech": "Během této hodiny si mohou kolonisté vybrat úkoly ze všech kategorií úkolů.\nBudou jíst, když jejich hlad klesne pod 20 % a spát, když jejich energie klesne pod 15 %.",
 	    "japanese": "この時間帯、コロニストは全ての種類の作業から自由に選びます。\n満腹が20%を下回ると食事をし、持続力が15%を下回ると睡眠を取ります。",
 	    "italian": "Durante quest'ora, i coloni possono scegliere compiti da tutte le categorie.\nMangeranno quando la loro fame è sotto il 20% e dormiranno quando la loro energia è sotto il 15%.",
+	    "dutch": "Tijdens dit uur kunnen kolonisten taken uit alle categorieën kiezen.\nZe eten als hun honger onder de 20% zit en slapen als hun energie onder de 15% zit.",
     },
     "sleepHourTypeTooltip_Title": {
         "english": "Sleeping Hour",
@@ -5738,6 +5771,7 @@
 	    "czech": "Hodina spánku",
 	    "japanese": "睡眠の時間",
 	    "italian": "Ora del riposo",
+	    "dutch": "Slaapuur",
     },
     "sleepHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will sleep when their energy is below 80%.\nOtherwise, they will continue to do their tasks",
@@ -5750,6 +5784,7 @@
 	    "czech": "Během této hodiny budou vaši kolonisté spát, když jejich energie klesne pod 80%.\nJinak budou pokračovat v plnění svých úkolů",
 	    "japanese": "この時間帯、コロニストは持続力が80%を下回っている場合に睡眠を取ります。\nそうでない場合は作業を続けます。",
 	    "italian": "Durante quest'ora, i tuoi coloni dormiranno se la loro energia è sotto l'80%.\nAltrimenti continueranno a svolgere i loro compiti.",
+	    "dutch": "Tijdens dit uur gaan je kolonisten slapen als hun energie onder de 80% zit.\nAnders gaan ze verder met hun taken",
     },
     "eatOnlyAtHouse": {
         "english": "Eat only at house",
@@ -5763,6 +5798,7 @@
 	    "japanese": "自宅でのみ食事",
 	    "italian": "Mangia solo a casa",
 	    
+	    "dutch": "Alleen thuis eten",
     },
     "eatOnlyAtHouseTooltip_Title": {
         "english": "Eat only at own house",
@@ -5775,6 +5811,7 @@
 	    "czech": "Jezte pouze ve vlastním domě",
 	    "japanese": "自宅でのみ食事をする",
 	    "italian": "Mangiare solo a casa propria",
+	    "dutch": "Alleen in eigen huis eten",
     },
     "eatOnlyAtHouseTooltip_Desc": {
         "english": "When enabled, colonists will prioritize eating at their own house",
@@ -5787,6 +5824,7 @@
 	    "czech": "Pokud je povoleno, kolonisté budou upřednostňovat stravování ve svém vlastním domě",
 	    "japanese": "有効にすると、コロニストは自分の家で食事をする事を優先します。",
 	    "italian": "Se attivo, i coloni daranno la priorità a mangiare a casa propria.",
+	    "dutch": "Als dit aanstaat, proberen kolonisten bij voorkeur in hun eigen huis te eten",
     },
     "small": {
         "english": "Small",
@@ -5799,6 +5837,7 @@
 	    "czech": "Malé",
 	    "japanese": "少なめ",
 	    "italian": "Piccole",
+	    "dutch": "Klein",
     },
     "smallRationsTooltip_Title": {
         "english": "Small Food Rations",
@@ -5811,6 +5850,7 @@
 	    "czech": "Malé příděly jídla",
 	    "japanese": "少なめの食事量",
 	    "italian": "Razioni di cibo piccole",
+	    "dutch": "Kleine rantsoenen",
     },
     "smallRationsTooltip_Desc": {
         "english": "Tough times huh? Your colonists will eat less food at the cost of being sad.",
@@ -5823,6 +5863,7 @@
 	    "czech": "Těžké časy, co? Vaši kolonisté budou jíst méně jídla za cenu toho, že budou smutní.",
 	    "japanese": "厳しい時期ですね。コロニストの食事量は減りますが、その分心情が悪化します。",
 	    "italian": "Tempi duri, eh? I tuoi coloni mangeranno di meno, ma non ne saranno affatto felici.",
+	    "dutch": "Zware tijden, hè? Je kolonisten eten minder, maar vrolijk worden ze er niet van.",
     },
     "medium": {
         "english": "Medium",
@@ -5835,6 +5876,7 @@
 	    "czech": "Střední",
 	    "japanese": "普通",
 	    "italian": "Medie",
+	    "dutch": "Middel",
     },
     "mediumRationsTooltip_Title": {
         "english": "Medium Food Rations",
@@ -5847,6 +5889,7 @@
 	    "czech": "Střední příděly potravin",
 	    "japanese": "普通の食事量",
 	    "italian": "Razioni di cibo medie",
+	    "dutch": "Normale rantsoenen",
     },
     "mediumRationsTooltip_Desc": {
         "english": "Your colonists will eat normal amounts of food.",
@@ -5859,6 +5902,7 @@
 	    "czech": "Vaši kolonisté budou jíst normální množství jídla.",
 	    "japanese": "コロニストは通常の量の食事をとります。",
 	    "italian": "I tuoi coloni mangeranno quantità normali di cibo.",
+	    "dutch": "Je kolonisten eten normale hoeveelheden voedsel.",
     },
     "large": {
         "english": "Large",
@@ -5871,6 +5915,7 @@
 	    "czech": "Velký",
 	    "japanese": "多め",
 	    "italian": "Grandi",
+	    "dutch": "Groot",
     },
     "largeRationsTooltip_Title": {
         "english": "Large Food Rations",
@@ -5883,6 +5928,7 @@
 	    "czech": "Velké příděly jídla",
 	    "japanese": "多めの食事量",
 	    "italian": "Razioni di cibo grandi",
+	    "dutch": "Grote rantsoenen",
     },
     "largeRationsTooltip_Desc": {
         "english": "Your colonists will eat more food. At least their happy about it",
@@ -5895,6 +5941,7 @@
 	    "czech": "Vaši kolonisté budou jíst více jídla. Alespoň z toho budou mít radost",
 	    "japanese": "コロニストの食事量は増えます。その分、心情は良くなります。",
 	    "italian": "I tuoi coloni mangeranno più cibo. Almeno ne saranno felici!",
+	    "dutch": "Je kolonisten eten meer voedsel. Daar worden ze in elk geval blij van",
     },
     "issuedByPlayerTooltip_Title": {
         "english": "Task issued by Player",
@@ -5907,6 +5954,7 @@
 	    "czech": "Úkol zadaný hráčem",
 	    "japanese": "プレイヤーが指示した作業",
 	    "italian": "Compito assegnato dal giocatore",
+	    "dutch": "Taak gegeven door de speler",
     },
     "issuedByPlayerTooltip_Desc": {
         "english": "These tasks won't get aborted by the schedule.",
@@ -5919,6 +5967,7 @@
 	    "czech": "Tyto úkoly nebudou podle plánu přerušeny.",
 	    "japanese": "これらの作業はスケジュールによって中断されません。",
 	    "italian": "Questi compiti non verranno interrotti dall'orario.",
+	    "dutch": "Deze taken worden niet door het rooster afgebroken.",
     },
     "issuedByScheduleTooltip_Title": {
         "english": "Interaction issued by schedule / colonist",
@@ -5931,6 +5980,7 @@
 	    "czech": "Interakce vydaná plánovačem / kolonisty",
 	    "japanese": "スケジュール/コロニストが選んだ作業",
 	    "italian": "Interazione assegnata dall'orario o dal colono",
+	    "dutch": "Taak gekozen door het rooster of de kolonist",
     },
     "issuedByScheduleTooltip_Desc": {
         "english": "These interactions can get aborted by the Schedule.",
@@ -5943,6 +5993,7 @@
 	    "czech": "Tyto interakce mohou být přerušeny plánem.",
 	    "japanese": "これらの作業はスケジュールによって中断される事があります。",
 	    "italian": "Queste interazioni possono essere interrotte dall'orario.",
+	    "dutch": "Deze taken kunnen door het rooster worden afgebroken.",
     },
     "noItemInStorage": {
         "english": "You have not stored any furniture yet. You can store furniture by dropping them in storage's drop area.",
@@ -5955,6 +6006,7 @@
 	    "czech": "Ještě jste neuložili žádný nábytek. Nábytek můžete uložit tak, že jej položíte do úložného prostoru.",
 	    "japanese": "まだ家具を収納していません。収納エリアに家具をドロップすると収納する事ができます。",
 	    "italian": "Non hai ancora riposto nessun mobile. Puoi conservare i mobili trascinandoli nell'area di deposito del magazzino.",
+	    "dutch": "Je hebt nog geen meubels opgeslagen. Sleep meubels naar het opslagvak om ze op te bergen.",
     },
     "dragAndDrop": {
         "english": "Drag any furniture and drop it in this area to store it",
@@ -5967,6 +6019,7 @@
 	    "czech": "Přetáhněte jakýkoli nábytek a pusťte jej do této oblasti, abyste jej uložili",
 	    "japanese": "家具をこのエリアにドラッグ＆ドロップすると収納されます",
 	    "italian": "Trascina un mobile in quest'area per riporlo in magazzino",
+	    "dutch": "Sleep een meubelstuk naar dit vak om het op te bergen",
     },
     "difficultyAdaptation": {
         "english": "Difficulty Adaptation",
@@ -5979,6 +6032,7 @@
 	    "czech": "Adaptace na obtížnost",
 	    "japanese": "難易度の調整",
 	    "italian": "Adattamento della difficoltà",
+	    "dutch": "Moeilijkheid aanpassen",
     },
     "difficultyAdaptationDesc": {
         "english": "Sometimes Founders' Fortune can be hard. Do you want to change the difficulty?",
@@ -5991,6 +6045,7 @@
 	    "czech": "Někdy může být Founders' Fortune těžké. Chcete změnit obtížnost?",
 	    "japanese": "Founders' Fortuneは時に厳しい事があります。難易度を変更しますか？",
 	    "italian": "A volte Founders' Fortune può essere difficile. Vuoi cambiare la difficoltà?",
+	    "dutch": "Founders' Fortune kan soms lastig zijn. Wil je de moeilijkheid aanpassen?",
     },
     "difficultyAdaptationAccept": {
         "english": "Let's Change",
@@ -6003,6 +6058,7 @@
 	    "czech": "Pojďme se změnit",
 	    "japanese": "変更する",
 	    "italian": "Cambiamola",
+	    "dutch": "Aanpassen",
     },
     "schedule": {
         "english": "Schedules",
@@ -6015,6 +6071,7 @@
 	    "czech": "Plány",
 	    "japanese": "スケジュール",
 	    "italian": "Orari",
+	    "dutch": "Roosters",
     },
     "followColonyWideSchedule_Title": {
         "english": "Follow Colony-wide Schedule",
@@ -6027,6 +6084,7 @@
 	    "czech": "Postupujte podle plánu pro celou kolonii",
 	    "japanese": "コロニー全体のスケジュールに従う",
 	    "italian": "Segui l'orario della colonia",
+	    "dutch": "Rooster van de kolonie volgen",
     },
     "followColonyWideSchedule_Desc": {
         "english": "When enabled, the colony-wide schedule will override the colonist's schedule",
@@ -6039,6 +6097,7 @@
 	    "czech": "Pokud je toto povoleno, plán pro celou kolonii přepíše plán kolonisty",
 	    "japanese": "有効にすると、コロニー全体のスケジュールがこのコロニストのスケジュールより優先されます。",
 	    "italian": "Se attivo, l'orario della colonia avrà la priorità sull'orario del colono.",
+	    "dutch": "Als dit aanstaat, overschrijft het rooster van de hele kolonie het rooster van deze kolonist",
     },
     "paintingCompleted": {
         "english": "Painting Completed",
@@ -6051,6 +6110,7 @@
 	    "czech": "Malba dokončena",
 	    "japanese": "絵画が完成しました",
 	    "italian": "Dipinto completato",
+	    "dutch": "Schilderij voltooid",
     },
     "changeAge": {
         "english": "Change Age",
@@ -6063,6 +6123,7 @@
 	    "czech": "Změnit věk",
 	    "japanese": "年齢の変更",
 	    "italian": "Cambia età",
+	    "dutch": "Leeftijd wijzigen",
     },
 
 }

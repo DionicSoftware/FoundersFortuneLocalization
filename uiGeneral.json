@@ -2917,6 +2917,7 @@
 		"russian": "Page Up",
 		"ukrainian": "Page Up",
 		"hungarian": "Page Up",
+		"czech": "Page Up",
 	},
 	"key_PageDown":  {
 		"english": "Page Down",
@@ -2929,6 +2930,7 @@
 		"russian": "Page Down",
 		"ukrainian": "Page Down",
 		"hungarian": "Page Down",
+		"czech": "Page Down",
 	},
 
 
@@ -3332,6 +3334,7 @@
 	    "ukrainian": "Індивідуальна складність",
 		"russian": "Пользовательская сложность",
 		"hungarian": "Egyéni nehézség",
+		"czech": "Vlastní obtížnost",
     },
     "difficulty_3_Desc": {
         "english": "You are able to modify the rules how ever you see fit.",
@@ -3340,6 +3343,7 @@
 		"ukrainian": "Ви можете налаштувати складність як вам до вподоби.",
 		"russian": "Вы можете изменять правила по своему усмотрению.",
 		"hungarian": "Úgy alakíthatod a szabályokat, ahogy az neked tetszik",
+		"czech": "Pravidla si můžete upravit přesně podle svých představ.",
     },
 	"continue": {
 		"english": "Continue",
@@ -3900,6 +3904,7 @@
 		"russian": "Выбор нескольких жителей",
 		"ukrainian": "Вибір кількох колоністів",
 		"hungarian": "Egyszerre több falusi kijelölése",
+		"czech": "Výběr více kolonistů",
 	},
     "availableSkills": {
         "english": "Available Skills",
@@ -4034,6 +4039,7 @@
 		"ukrainian": "Потреби колоністів",
 		"russian": "Нужды колонистов",
 		"hungarian": "Telepesek szükségletei",
+		"czech": "Potřeby kolonistů",
     },
     "immortalColonists": {
         "english": "Immortal Colonists",
@@ -4042,6 +4048,7 @@
 		"ukrainian": "Безсмертні колоністи",
 		"russian": "Бессмертные колонисты",
 		"hungarian": "Halhatatlan telepesek",
+		"czech": "Nesmrtelní kolonisté",
     },
     "difficultySettings": {
         "english": "Difficulty Settings",
@@ -4050,6 +4057,7 @@
 		"ukrainian": "Налаштування складності",
 		"russian": "Настройки сложности",
 		"hungarian": "Nehézségi beállítások",
+		"czech": "Nastavení obtížnosti",
     },
     "achievements": {
         "english": "Achievements",
@@ -4058,6 +4066,7 @@
 		"ukrainian": "Досягнення",
 		"russian": "Достижения",
 		"hungarian": "Teljesítmények",
+		"czech": "Úspěchy",
     },
     "normalAchievements": {
         "english": "Normal Achievements",
@@ -4066,6 +4075,7 @@
 		"ukrainian": "Звичайні досягнення",
 		"russian": "Обычные достижения",
 		"hungarian": "Normál teljesítmények:",
+		"czech": "Normální úspěchy",
     },
     "challengerAchievement": { // refers to the "challenger" achievement. Check achievements.json
         "english": "Challenger Achievement",
@@ -4074,6 +4084,7 @@
 		"ukrainian": "Досягнення Challenger",
 		"russian": "Достижение «Испытатель»",
 		"hungarian": "Kihívásos teljesítmény:",
+		"czech": "Úspěch „Challenger“",
     },
     "available": {
         "english": "Available",
@@ -4082,6 +4093,7 @@
 		"ukrainian": "Доступно",
 		"russian": "Доступно",
 		"hungarian": "Elérhető",
+		"czech": "Dostupné",
     },
     "disabled": {
         "english": "Disabled",
@@ -4090,6 +4102,7 @@
 		"ukrainian": "Вимкнено",
 		"russian": "Отключено",
 		"hungarian": "Kikapcsolva",
+		"czech": "Vypnuto",
     },
     "enabled": {
         "english": "Enabled",
@@ -4098,6 +4111,7 @@
 		"ukrainian": "Увімкнено",
 		"russian": "Включено",
 		"hungarian": "Bekapcsolva",
+		"czech": "Zapnuto",
     },
     "Reasons": {
         "english": "Reasons",
@@ -4106,6 +4120,7 @@
 		"ukrainian": "Причини",
 		"russian": "Причины",
 		"hungarian": "Okok",
+		"czech": "Důvody",
     },
     "mods": {
         "english": "Mods",
@@ -4114,6 +4129,7 @@
 		"ukrainian": "Моди",
 		"russian": "Моды",
 		"hungarian": "Modok",
+		"czech": "Mody",
     },
     "cheats": {
         "english": "Cheats",
@@ -4122,6 +4138,7 @@
 		"ukrainian": "Чіти",
 		"russian": "Читы",
 		"hungarian": "Csalások",
+		"czech": "Cheaty",
     },
     "unchanged": {
         "english": "Unchanged",
@@ -4130,6 +4147,7 @@
 		"ukrainian": "Без змін",
 		"russian": "Без изменения",
 		"hungarian": "Változatlan",
+		"czech": "Beze změn",
     },
     "changed": {
         "english": "Changed",
@@ -4138,6 +4156,7 @@
 		"ukrainian": "Змінено",
 		"russian": "Изменено",
 		"hungarian": "Megváltozott",
+		"czech": "Změněno",
     },
     "isNotHard": { // world settings, explanation for why challenger achievement active or not ("Difficulty: Not Hard")
         "english": "Not Hard",
@@ -4146,6 +4165,7 @@
 		"ukrainian": "Не Висока",
 		"russian": "Не сложно",
 		"hungarian": "Nem nehéz",
+		"czech": "Nedostatečná",
     },
     "isHard": {
         "english": "Hard",
@@ -4154,6 +4174,7 @@
 		"ukrainian": "Висока",
 		"russian": "Сложно",
 		"hungarian": "Nehéz",
+		"czech": "Dostatečná",
     },
     "defaultGamePace": {
         "english": "Original - Slower",
@@ -4162,6 +4183,7 @@
 		"ukrainian": "Оригінальний - повільніший",
 		"russian": "Медленный",
 		"hungarian": "Alap - Lassú",
+		"czech": "Původní – pomalejší",
     },
     "gamePaceTooltip": {
         "english": "Changes the speed of working and learning which allows you to play through the game more quickly or slowly.",
@@ -4170,6 +4192,7 @@
 		"ukrainian": "Змінює швидкість роботи та навчання, що дає вам можливість проходити гру швидше чи повільніше.",
 		"russian": "Изменяет скорость работы и обучения, что позволяет проходить игру быстрее или медленнее.",
 		"hungarian": "A dolgozás és tanulás sebességének beállítása lehetővé teszi a gyorsabb, vagy épp lassabb játékmenetet.",
+		"czech": "Mění rychlost práce a učení, takže hru můžete projít rychleji nebo pomaleji.",
     },
     "fastGamePace": {
         "english": "Updated - Faster",
@@ -4178,6 +4201,7 @@
 		"ukrainian": "Оновлений - швидший",
 		"russian": "Быстрый",
 		"hungarian": "Frissített - Gyors",
+		"czech": "Aktualizovaná – rychlejší",
     },
     "low": {
         "english": "Low",
@@ -4186,6 +4210,7 @@
 		"ukrainian": "Низько",
 		"russian": "Низко",
 		"hungarian": "Alacsony",
+		"czech": "Nízká",
     },
     "moderate": {
         "english": "Moderate",
@@ -4194,6 +4219,7 @@
 		"ukrainian": "Помірно",
 		"russian": "Средне",
 		"hungarian": "Mérsékelt",
+		"czech": "Střední",
     },
     "high": {
         "english": "High",
@@ -4202,6 +4228,7 @@
 		"ukrainian": "Високо",
 		"russian": "Высоко",
 		"hungarian": "Magas",
+		"czech": "Vysoká",
     },
     "veryHigh": {
         "english": "Very High",
@@ -4210,6 +4237,7 @@
 		"ukrainian": "Дуже високо",
 		"russian": "Очень высоко",
 		"hungarian": "Nagyon magas",
+		"czech": "Velmi vysoká",
     },
     "confinedCursor": {
         "english": "Confined Cursor",
@@ -4218,5 +4246,6 @@
 		"ukrainian": "Обмежений курсор",
 		"russian": "Ограничение мыши окном",
 		"hungarian": "Korlátozott kurzor",
+		"czech": "Kurzor omezen na okno",
     },
 }

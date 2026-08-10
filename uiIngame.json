@@ -598,6 +598,7 @@
 	    "ukrainian":"Втіха",
 		"russian": "Досуг",
 		"hungarian": "Jókedv",
+		"czech": "Zábava",
     },
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -711,6 +712,7 @@
 	    "ukrainian":"Час від часу дайте своєму колоністу можливість порозважатися. Сенс життя полягає не лише в роботі, чи не так?",
 		"russian": "Пусть ваши колонисты тоже повеселятся! Жизнь - это не только работа, не так ли?",
 		"hungarian": "Hagyd, hogy a telepeseid szórakozzanak néha. Az élet nem csak a munkáról szól, igaz?",
+		"czech": "Dopřejte svým kolonistům čas od času trochu zábavy. Život přece není jen o práci, ne?",
     },
 	"needsTitleTameness": {
 		"english": "Tameness",
@@ -2363,6 +2365,7 @@
 		"ukrainian":"Їсти автоматично",
 		"russian":"Автоматическое питание",
 		"hungarian": "Atómatikus evés",
+		"czech": "Automaticky jíst",
 	},
 	"autoEatTooltip_Title": {
 		"english": "Auto Eat",
@@ -2371,6 +2374,7 @@
 		"ukrainian":"Їсти автоматично",
 		"russian":"Автоматическое питание",
 		"hungarian": "Magától eszik",
+		"czech": "Automaticky jíst",
 	},
 	"autoEatTooltip_Desc": {
 		"english": "When enabled, your colonists will eat when their hunger is below 20% regardless of hour type.",
@@ -2379,6 +2383,7 @@
 		"ukrainian":"Якщо ввімкнено, ваші колоністи їстимуть автоматично лишень їх шкала голоду опуститься нижче 20%, незалежно від часу доби",
 		"russian": "Когда эта функция активна, ваши колонисты будут автоматически есть, как только их голод станет ниже 20%, независимо от расписания.",
 		"hungarian": "Ha engedélyezed, a telepesek akkor esznek, ha 20% alá csökken az éhségi szintjuk, függetlenül attól, mennyi az idő.",
+		"czech": "Pokud je toto povoleno, kolonisté se najedí vždy, když jejich hlad klesne pod 20%, bez ohledu na plán.",
 	},
 	"autoSleep": {
 		"english": "Auto sleep",
@@ -2387,6 +2392,7 @@
 		"ukrainian":"Спати автоматично",
 		"russian":"Автоматический сон",
 		"hungarian": "Magától alszik",
+		"czech": "Automaticky spát",
 	},
 	"autoSleepTooltip_Title": {
 		"english": "Auto Sleep",
@@ -2395,6 +2401,7 @@
 		"ukrainian":"Спати автоматично",
 		"russian":"Автоматический сон",
 		"hungarian": "Magától alszik",
+		"czech": "Automaticky spát",
 	},
 	"autoSleepTooltip_Desc": {
 		"english": "When enabled, your colonists will sleep when their energy is below 15% regardless of hour type",
@@ -2403,6 +2410,7 @@
 		"ukrainian":"Якщо ввімкнено, ваші колоністи спатимуть автоматично лишень їх шкала витривалості опуститься нижче 15%, незалежно від часу доби",
 		"russian":"Когда колонисты активны, они будут автоматически засыпать, как только их энергия опустится ниже 15%, независимо от расписания.",
 		"hungarian": "Ha engedélyezed, a telepeseid akkor alszanak, ha a fáradtságuk 15% alá csökken, függetlenül attól, mennyi az idő.",
+		"czech": "Pokud je toto povoleno, kolonisté půjdou spát vždy, když jejich energie klesne pod 15%, bez ohledu na plán.",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -5276,6 +5284,7 @@
 	    "ukrainian": "Досягнення вимкнено, оскільки ви змінили налаштування пісочниці.",
 		"russian": "Достижения отключены, поскольку вы изменили настройки песочницы.",
 		"hungarian": "Teljesítmények elérése kikapcsolva, mert megváltoztattad a homokozó beállításokat.",
+		"czech": "Úspěchy jsou vypnuté, protože jste změnili nastavení Sandboxu.",
     },
 	"achievements_off_cheats": {
 		"english":  "Achievements are disabled because you have used developer mode.",
@@ -5297,7 +5306,7 @@
 		"french":  "Le succès « Challenger » peut être débloqué dans cette partie.",
 		"dutch": "De \"Uitdager\" prestatie kan worden vrijgespeeld in dit spel.",
 		"japanese": "実績「達成」が有効です。",
-		"czech": "Achevement Challenger je k dispozici",
+		"czech": "V této hře lze získat úspěch „Challenger“.",
 		"korean": "도전과제 'Challenger' 가 활성화되었습니다",
 		"portuguese": "A conquista \"Challenger\" pode ser desbloqueada neste jogo.",
 		"italian": "L'obiettivo \"Challenger\" può essere sbloccato in questo gioco.",
@@ -5401,6 +5410,7 @@
 		"russian": "Сколько раз можно использовать ловушку",
 		"ukrainian": "Скільки разів можна використати пастку",
 		"hungarian": "A csapdákat többször is élesítheted",
+		"czech": "Zbývající použití pasti",
 	},
     "hobbies": {
         "english": "Hobbies",
@@ -5409,6 +5419,7 @@
 	"ukrainian": "Хобі",
 		"russian": "Хобби",
 		"hungarian": "Hobbik",
+		"czech": "Koníčky",
     },
     "hobbyTitle_Painting": {
         "english": "Painting",
@@ -5417,6 +5428,7 @@
 	"ukrainian": "Малювання",
 		"russian": "Живопись",
 		"hungarian": "Festés",
+		"czech": "Malování",
     },
 	"hobbyDesc": {
 	"english": "Interest: %interest%",
@@ -5425,6 +5437,7 @@
 	"ukrainian": "Зацікавленість: %interest%",
 		"russian": "Заинтересованность: %interest%",
 		"hungarian": "Érdeklődési kör: %interest%",
+		"czech": "Zájem: %interest%",
 	},
     "hobbyDesc_IsMainHobby": {
         "english": "Is main hobby.",
@@ -5433,6 +5446,7 @@
 		"ukrainian": "Основне хобі.",
 		"russian": "Основное хобби.",
 		"hungarian": "Fő hobbi",
+		"czech": "Hlavní koníček.",
     },
     "hobbyTitle_Gardening": {
         "english": "Gardening",
@@ -5441,6 +5455,7 @@
 	"ukrainian": "Садівництво",
 		"russian": "Садоводство",
 		"hungarian": "Kertészkedés",
+		"czech": "Zahradničení",
     },
     "hobbyTitle_Music": {
         "english": "Music",
@@ -5449,6 +5464,7 @@
 	"ukrainian": "Музика",
 		"russian": "Музыка",
 		"hungarian": "Zene",
+		"czech": "Hudba",
     },
     "hobbyTitle_Writing": {
         "english": "Writing",
@@ -5457,6 +5473,7 @@
 	"ukrainian": "Письменництво",
 		"russian": "Письмо",
 		"hungarian": "Írás",
+		"czech": "Psaní",
     },
     "hobbyTitle_Woodworking": {
         "english": "Woodworking",
@@ -5465,6 +5482,7 @@
 	"ukrainian": "Деревообробка",
 		"russian": "Деревообработка",
 		"hungarian": "Fa megmunkálás",
+		"czech": "Řezbářství",
     },
     "hobbyTitle_Reading": { // reading or literature
         "english": "Reading",
@@ -5482,7 +5500,7 @@
 	"ukrainian": "Каменярство",
 		"russian": "Каменщик",
 		"hungarian": "Kőművesség",
-	    "czech": "Zednictví",
+	    "czech": "Kamenictví",
     },
     "hobbyIsDumb": {
         "english": "Can't level up in hobbies because %firstName% is dumb",

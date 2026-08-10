@@ -1,4 +1,4 @@
-{
+﻿{
 	// INTERACTIONS
 	"NoInteraction": {
 		"english": "Do Nothing",
@@ -795,7 +795,7 @@
 		"french": "Poser une attelle sur la jambe",
 		"spanish": "Entablilla la pierna",
 		"portuguese": "Coloque uma tala na perna",
-		"turkish": "Bacak desteği",
+		"turkish": "Bacağa atel tak",
 		"dutch": "Spalk Been",
 		"russian": "Наложить шину на ногу",
 		"ukrainian":"Накласти шину на ногу",
@@ -815,7 +815,7 @@
 		"spanish": "Entablilla el brazo",
 		"portuguese": "Coloque uma tala no braço",
 		"dutch": "Spalk Arm",
-		"turkish": "Kol desteği",
+		"turkish": "Kola atel tak",
 		"russian": "Наложить шину на руку",
 		"ukrainian":"Накласти шину на руку",
 		"korean": "팔에 부목대기",
@@ -1806,7 +1806,7 @@
 		"polish": "Uwolnij %firstName%",
 		"japanese":"%firstName%を解放する",
 		"czech": "Osvoboď %firstName%",
-		"hungarian": "Szabadítsd ki: %firsname%",
+		"hungarian": "Szabadítsd ki: %firstName%",
 	},
 	"DrinkBeer": {
 		"english": "Drink Beer",
@@ -2453,7 +2453,7 @@
 		"polish": "Porozmawiaj z członkiem grupy \"%faction%\"",
 		"japanese":"\"%faction%\"の人々と話す",
 		"czech": "Promluv s členem \"%faction%\"",
-		"hungarian": "Beszélj a(z) \"%faction\" csoport tagjával",
+		"hungarian": "Beszélj a(z) \"%faction%\" csoport tagjával",
 	},
 	"HugFaction": {
 		"english": "Hug member of \"%faction%\"",
@@ -2470,7 +2470,7 @@
 		"polish": "Uściskaj członkka grupy \"%faction%\"",
 		"japanese":"\"%faction%\"の人々とハグをする",
 		"czech": "Obejmi člena \"%faction%\"",
-		"hungarian": "Öleld meg a(z) \"%faction\" csoport tagját",
+		"hungarian": "Öleld meg a(z) \"%faction%\" csoport tagját",
 	},
 	"RiskyJokeFaction": {
 		"english": "Tell joke to member of \"%faction%\"",
@@ -2486,7 +2486,7 @@
 		"japanese":"\"%faction%\"の人々へ冗談を言う",
 		"czech": "Řekni vtip členovi \"%faction%\"",
 		"korean": "\"%faction%\"의 일원에게 ",
-		"hungarian": "Mondj egy vicce a(z) \"%faction\" csoport tagjának",
+		"hungarian": "Mondj egy vicce a(z) \"%faction%\" csoport tagjának",
 	},
 
 
@@ -2923,7 +2923,7 @@
 		"chinese": "%firstName%在战斗模式下不能这样做",
 		"italian": "%firstName% non può farlo in modalità di combattimento",
 		"turkish": "%firstName% bunu savaş modunda yapamaz",
-		"polish": "%firsname% nie może tego zrobić w trybie walki",
+		"polish": "%firstName% nie może tego zrobić w trybie walki",
 		"japanese":"%firstName%は戦闘態勢のため実行できません",
 		"czech": "%firstName% toto nemůže dělat v boji",
 		"hungarian": "%firstName% nem teheti ezt harci módban",

@@ -1,4 +1,4 @@
-{
+﻿{
 	"thoughtTitle_DebugGood": {
 		"english": "Good Feeling",
 		"german": "Gutes Gefühl",
@@ -425,7 +425,7 @@
 		"polish": "%firstName% miał%nicA% długie życie, ale prędzej czy później wszyscy umieramy. Powinniśmy być szczęśliwi, że %onOna% jest w pobliżu.",
 		"japanese": "親しかった%firstName%は老衰で亡くなりました。共に時間を過ごせた事を心から嬉しく思っています。安らかにお眠りください。",
 		"czech": "%firstName% ži%lA% dlouhý život, ale všichni dříve nebo později zemřeme. Vzpomínáme!",
-		"ukrainian": "%firstName% прожи%hesheEnd% довге життя, та всі рано чи пізно помирають. Нам усім пощастило, що ми були з %himHer% знайомі.",
+		"ukrainian": "%firstName% прожи%hesheEnd% довге життя, та всі рано чи пізно помирають. Нам усім пощастило, що ми були з %нимНею% знайомі.",
 		"hungarian": "%firstName% elég hosszú életet élt, de előbb-utóbb mind meghalunk. Büszkék lehetünk rá.",
 	},
 	"thoughtTitle_FightWon": {
@@ -527,7 +527,7 @@
 		"dutch": "Ik heb net een van ons gedood. Hoe kon ik dat doen?!",
 		"portuguese": "Acabei de matar um dos nossos. Como eu pude fazer isso ?!",
 		"russian": "Я только что убил%surnameA% одного из наших. Как я мог%sheLA% это сделать?!",
-		"ukrainian":"Я щойно вби%hesheEnd% одного з наших. Як же я м%heShe_IG_OGLA% так вчинити?!",
+		"ukrainian":"Я щойно вби%hesheEnd% одного з наших. Як же я м%heShe_IG_GLA% так вчинити?!",
 		"korean": "방금 우리 중의 한 명을 죽였어요. 어떻게 내가 그럴 수 있죠?!",
 		"chinese": "我刚刚杀了我们的殖民同伴。我为什么这么做?!",
 		"italian": "Ho appena ucciso uno dei nostri. Come ho potuto?!",
@@ -922,15 +922,15 @@
 		"turkish": "%firstName% kibir dolu. Onu dinlemeye dayanamadım.",
 		"portuguese": "Esse cara é tão cheio de si mesmo. Eu não suportava ouvir %eleEla%.",
 		"dutch": "%firstName% is zo vol van zichzelf. Ik kan het niet aan om te luisteren naar %hemHaar%",
-		"russian": "%firstName% так%hesheEnd2% ЧСВ! Я не могу продолжать %hisHer% слушать!",
-		"ukrainian":"%firstName% так%heshe_IY_A% зарозуміл%heshe_IY_A%! Я просто не можу більше %hisHer% слухати.",
-		"korean": "%firstName%#{은} 자기 중심적이야. %heShe%가 말하는걸 참고 들을 수가 없어.",
-		"chinese": "%firstName%如此的充满自己%himselfHerself%。我无法忍受听他说话。",
+		"russian": "%firstName% так%hesheEnd2% ЧСВ! Я не могу продолжать %егоЕе% слушать!",
+		"ukrainian":"%firstName% так%heshe_IY_A% зарозуміл%heshe_IY_A%! Я просто не можу більше %йогоЇї% слухати.",
+		"korean": "%firstName%#{은} 자기 중심적이야. %그그녀%가 말하는걸 참고 들을 수가 없어.",
+		"chinese": "%firstName%如此的充满自己%他自己她自己%。我无法忍受听他说话。",
 		"italian": "%firstName% si da così tante arie. Non potevo sopportare i suoi discorsi.",
 		"polish": "%firstName% jest niesamowicie zarozumiał%yA%. Nie mogę już znieść %jegoJej% gadania.",
 		"japanese": "%firstName%との会話は興味がなく面白くもありませんでした。無駄な時間を過ごしてしまいました。",
 		"czech": "%firstName% je tak egoistický. Nemoh%lA% jsem to dál vydržet poslouchat.",
-		"hungarian": "%firstName% annyira %himselfHerself%. Nem hallgatom tovább.",
+		"hungarian": "%firstName% annyira önmaga. Nem hallgatom tovább.",
 	},
 	"thoughtTitle_GoodDream": {
 		"english": "Good Dream",
@@ -2306,7 +2306,7 @@
 		"polish": "O boziu, to było tak tandetne, że mi uszy zwiędły.",
 		"japanese": "%firstName%のジョークはとても笑える物ではありません。気分はとても悪いです。",
 		"czech": "Pane bože, slyše%lA% jsem vtip od %firstName%. Bylo to tak trapné a otřesné!",
-		"ukrainian": "О господи, %firstName% жахливо жартує! Мені тепер потрібно помити вуха святою водою піся %hisHer% приколів.",
+		"ukrainian": "О господи, %firstName% жахливо жартує! Мені тепер потрібно помити вуха святою водою піся %йогоЇї% приколів.",
 		"hungarian": "Uramisten, hallottad %firstName% viccét? Annyira rossz volt, hogy még az életkedvem is elment.",
 	},
 	"thoughtTitle_PutSomeoneElseDown": {
@@ -2371,7 +2371,7 @@
 		"japanese": "%firstName%からひどく侮辱を受けました。そんな事は望んでいないのに！",
 		"czech": "%firstName% mě vážně urazi%lA%!",
 		"ukrainian": "%firstName% сильно мене образи%hesheEnd%. Це було незаслужено.",
-		"hungarian": "%fistName% csak simán beszólt. Nem kérte senki!",
+		"hungarian": "%firstName% csak simán beszólt. Nem kérte senki!",
 	},
 	"thoughtTitle_Parenthood": {
 		"english": "Parenthood",
@@ -2639,10 +2639,10 @@
 		"portuguese": "%firstName% teve a chance de falar com seu amigo falecido e aceitar seu passado. %cap-eleEla% agora está um pouco mais sábio e feliz.",
 		"italian": "%firstName% ha avuto la possibilità di parlare con %IlLa% su%OA% amic%OA% defunt%OA% e di accettare il proprio passato. %firstName% ora è un po' più saggi%OA% e un po' più felice.",
 		"japanese": "亡くなった友人に過去の自分の過ちを謝罪する事ができました。少しだけ心のつっかえ棒が無くなりました。",
-		"chinese": "%firstName%有机会与已故的朋友交谈并接受他们的过去。%cap-heShe%现在变得更加明智以及更加幸福。",
-		"czech": "%firstName% mě%lA% možnost promluvit si se svým zesnulým přítelem a smířit se s jeho odchodem. %cap-heShe% je nyní trochu moudřejší a i trochu šťastnější.",
-		"russian": "%firstName% поговорил%surnameA% со своим умершим другом и принял%surnameA% прошлое. %cap-heShe% теперь немного мудрее и счастливее.",
-		"ukrainian": "%firstName% отрима%hesheEnd% нагоду поговорити із померлим другом та прийняти їхнє минуле. %cap-heShe% тепер трішки мудріш%heshe_IY_A% та трішки щасливіш%heshe_IY_A%.",
+		"chinese": "%firstName%有机会与已故的朋友交谈并接受他们的过去。%cap-他她%现在变得更加明智以及更加幸福。",
+		"czech": "%firstName% mě%lA% možnost promluvit si se svým zesnulým přítelem a smířit se s jeho odchodem. %cap-onOna% je nyní trochu moudřejší a i trochu šťastnější.",
+		"russian": "%firstName% поговорил%surnameA% со своим умершим другом и принял%surnameA% прошлое. %cap-онОна% теперь немного мудрее и счастливее.",
+		"ukrainian": "%firstName% отрима%hesheEnd% нагоду поговорити із померлим другом та прийняти їхнє минуле. %cap-вінВона% тепер трішки мудріш%heshe_IY_A% та трішки щасливіш%heshe_IY_A%.",
 		"hungarian": "%firstName% végre tudott beszélgetni az elhunyt barátjával, és elfogadta sorsát. Mostmár kicsit boldogabb, és bölcsebb lett.",
 	},
 	"thoughtTitle_FreedGhostSoul":  {

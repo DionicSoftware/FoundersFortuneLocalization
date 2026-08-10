@@ -3335,6 +3335,7 @@
 		"russian": "Пользовательская сложность",
 		"hungarian": "Egyéni nehézség",
 		"czech": "Vlastní obtížnost",
+		"japanese": "カスタム難易度",
     },
     "difficulty_3_Desc": {
         "english": "You are able to modify the rules how ever you see fit.",
@@ -3344,6 +3345,7 @@
 		"russian": "Вы можете изменять правила по своему усмотрению.",
 		"hungarian": "Úgy alakíthatod a szabályokat, ahogy az neked tetszik",
 		"czech": "Pravidla si můžete upravit přesně podle svých představ.",
+		"japanese": "ルールを自由に変更して遊ぶ事ができます。",
     },
 	"continue": {
 		"english": "Continue",
@@ -3914,6 +3916,7 @@
 		"russian": "Доступные навыки",
 		"hungarian": "Elérhető képességek",
 	    "czech": "Dostupné dovednosti",
+	    "japanese": "選択可能なスキル",
     },
     "customizeColonist": {
         "english": "Customize Colonist",
@@ -3923,6 +3926,7 @@
 		"russian": "Персонализация колониста",
 		"hungarian": "Telepes módosítása",
 	    "czech": "Přizpůsobit kolonistu",
+	    "japanese": "コロニストのカスタマイズ",
     },
     "sandboxSettings": {
         "english": "Sandbox Settings",
@@ -3932,6 +3936,7 @@
 		"russian": "Настройки песочницы",
 		"hungarian": "Homokozó beállítása",
 	    "czech": "Nastavení Sandboxu",
+	    "japanese": "サンドボックス設定",
     },
     "sandboxSettingsChanged": {
         "english": "Sandbox Settings Changed",
@@ -3941,6 +3946,7 @@
 		"russian": "Настройки песочницы изменены",
 		"hungarian": "A homokozó beállításai megváltoztak",
 	    "czech": "Nastavení Sandboxu změněno",
+	    "japanese": "サンドボックス設定を変更しました",
     },
     "sandboxNotice": {
         "english": "Changing the sandbox settings will disable achievements!\nShould the changes to the sandbox settings be applied?",
@@ -3950,6 +3956,7 @@
 		"russian": "Изменение настроек песочницы отключит достижения!\nПрименить изменения в настройках песочницы?",
 		"hungarian": "A homokozó beállításainak megváltoztatása kikapcsolja a teljesítményeket!\nBiztosan ezeket a homokozó beállításokat akarod használni?",
 	    "czech": "Změna nastavení karantény deaktivuje úspěchy!\nMají se změny nastavení karantény použít?",
+	    "japanese": "サンドボックス設定を変更すると実績は無効になります。\nサンドボックス設定の変更を適用しますか？",
     },
     "damageToColonistsMultiplier": {
         "english": "Damage to Colonists Multiplier",
@@ -3959,6 +3966,7 @@
 		"russian": "Множитель урона для колонистов",
 		"hungarian": "Telepes sérülés szorzó",
 	    "czech": "Násobitel poškození kolonistů",
+	    "japanese": "コロニストへのダメージ倍率",
     },
 	"gamePace": {
         "english": "Game Pacing",
@@ -3968,6 +3976,7 @@
 		"russian": "Темп игры",
 		"hungarian": "Játék gyorsasága",
 		"czech": "Rychlost hry",
+		"japanese": "ゲームの進行速度",
     },
     "everythingUnlocked": {
         "english": "Everything Unlocked",
@@ -3977,6 +3986,7 @@
 		"russian": "Все разблокировано",
 		"hungarian": "Minden felnyitása",
 	    "czech": "Vše odemčeno",
+	    "japanese": "全て解放済み",
     },
     "startingResources": {
         "english": "Starting Resources Amount",
@@ -3986,6 +3996,7 @@
 		"russian": "Стартовый объем ресурсов",
 		"hungarian": "Kezdő nyersanyag mértéke",
 	    "czech": "Počáteční počet zdrojů",
+	    "japanese": "開始時の資材量",
     },
     "buildingCosts": {
         "english": "Building Costs",
@@ -3995,6 +4006,7 @@
 		"russian": "Стоимость строительства",
 		"hungarian": "Építési költségek",
 	    "czech": "Stavební náklady",
+	    "japanese": "建築コスト",
     },
     "badEventsFrequency": {
         "english": "Bad Events Frequency",
@@ -4004,6 +4016,7 @@
 		"russian": "Частота плохих событий",
 		"hungarian": "Kellemetlen események gyakorisága",
 	    "czech": "Frekvence špatných událostí",
+	    "japanese": "悪い出来事の頻度",
     },
     "tributesFrequency": {
         "english": "Tributes Frequency",
@@ -4013,6 +4026,7 @@
 		"russian": "Частота требований о выплате дани",
 		"hungarian": "Tisztelet adás gyakorisága",
 	    "czech": "Frekvence poct",
+	    "japanese": "貢物の要求頻度",
     },
     "onlyPositiveThoughts": {
         "english": "Only Positive Thoughts",
@@ -4022,6 +4036,7 @@
 		"russian": "Только позитивные мысли",
 		"hungarian": "Kizárólag pozitív gondolatok",
 	    "czech": "Pouze pozitivní myšlenky",
+	    "japanese": "良い思考のみ",
     },
     "colonistBaseMood": {
         "english": "Colony's Base Mood",
@@ -4031,6 +4046,7 @@
 		"russian": "Базовое настроение колонии",
 		"hungarian": "Kolónia alap hangulata",
 	    "czech": "Základní nálada kolonie",
+	    "japanese": "コロニーの基本の心情",
     },
     "colonistNeeds": {
         "english": "Colonist Needs",
@@ -4040,6 +4056,7 @@
 		"russian": "Нужды колонистов",
 		"hungarian": "Telepesek szükségletei",
 		"czech": "Potřeby kolonistů",
+		"japanese": "コロニストの欲求",
     },
     "immortalColonists": {
         "english": "Immortal Colonists",
@@ -4049,6 +4066,7 @@
 		"russian": "Бессмертные колонисты",
 		"hungarian": "Halhatatlan telepesek",
 		"czech": "Nesmrtelní kolonisté",
+		"japanese": "不死のコロニスト",
     },
     "difficultySettings": {
         "english": "Difficulty Settings",
@@ -4058,6 +4076,7 @@
 		"russian": "Настройки сложности",
 		"hungarian": "Nehézségi beállítások",
 		"czech": "Nastavení obtížnosti",
+		"japanese": "難易度設定",
     },
     "achievements": {
         "english": "Achievements",
@@ -4067,6 +4086,7 @@
 		"russian": "Достижения",
 		"hungarian": "Teljesítmények",
 		"czech": "Úspěchy",
+		"japanese": "実績",
     },
     "normalAchievements": {
         "english": "Normal Achievements",
@@ -4076,6 +4096,7 @@
 		"russian": "Обычные достижения",
 		"hungarian": "Normál teljesítmények:",
 		"czech": "Normální úspěchy",
+		"japanese": "通常の実績",
     },
     "challengerAchievement": { // refers to the "challenger" achievement. Check achievements.json
         "english": "Challenger Achievement",
@@ -4085,6 +4106,7 @@
 		"russian": "Достижение «Испытатель»",
 		"hungarian": "Kihívásos teljesítmény:",
 		"czech": "Úspěch „Challenger“",
+		"japanese": "実績「達成」",
     },
     "available": {
         "english": "Available",
@@ -4094,6 +4116,7 @@
 		"russian": "Доступно",
 		"hungarian": "Elérhető",
 		"czech": "Dostupné",
+		"japanese": "獲得可能",
     },
     "disabled": {
         "english": "Disabled",
@@ -4103,6 +4126,7 @@
 		"russian": "Отключено",
 		"hungarian": "Kikapcsolva",
 		"czech": "Vypnuto",
+		"japanese": "無効",
     },
     "enabled": {
         "english": "Enabled",
@@ -4112,6 +4136,7 @@
 		"russian": "Включено",
 		"hungarian": "Bekapcsolva",
 		"czech": "Zapnuto",
+		"japanese": "有効",
     },
     "Reasons": {
         "english": "Reasons",
@@ -4121,6 +4146,7 @@
 		"russian": "Причины",
 		"hungarian": "Okok",
 		"czech": "Důvody",
+		"japanese": "理由",
     },
     "mods": {
         "english": "Mods",
@@ -4130,6 +4156,7 @@
 		"russian": "Моды",
 		"hungarian": "Modok",
 		"czech": "Mody",
+		"japanese": "MOD",
     },
     "cheats": {
         "english": "Cheats",
@@ -4139,6 +4166,7 @@
 		"russian": "Читы",
 		"hungarian": "Csalások",
 		"czech": "Cheaty",
+		"japanese": "チート",
     },
     "unchanged": {
         "english": "Unchanged",
@@ -4148,6 +4176,7 @@
 		"russian": "Без изменения",
 		"hungarian": "Változatlan",
 		"czech": "Beze změn",
+		"japanese": "変更なし",
     },
     "changed": {
         "english": "Changed",
@@ -4157,6 +4186,7 @@
 		"russian": "Изменено",
 		"hungarian": "Megváltozott",
 		"czech": "Změněno",
+		"japanese": "変更あり",
     },
     "isNotHard": { // world settings, explanation for why challenger achievement active or not ("Difficulty: Not Hard")
         "english": "Not Hard",
@@ -4166,6 +4196,7 @@
 		"russian": "Не сложно",
 		"hungarian": "Nem nehéz",
 		"czech": "Nedostatečná",
+		"japanese": "難しくない",
     },
     "isHard": {
         "english": "Hard",
@@ -4175,6 +4206,7 @@
 		"russian": "Сложно",
 		"hungarian": "Nehéz",
 		"czech": "Dostatečná",
+		"japanese": "難しい",
     },
     "defaultGamePace": {
         "english": "Original - Slower",
@@ -4184,6 +4216,7 @@
 		"russian": "Медленный",
 		"hungarian": "Alap - Lassú",
 		"czech": "Původní – pomalejší",
+		"japanese": "従来通り - ゆっくり",
     },
     "gamePaceTooltip": {
         "english": "Changes the speed of working and learning which allows you to play through the game more quickly or slowly.",
@@ -4193,6 +4226,7 @@
 		"russian": "Изменяет скорость работы и обучения, что позволяет проходить игру быстрее или медленнее.",
 		"hungarian": "A dolgozás és tanulás sebességének beállítása lehetővé teszi a gyorsabb, vagy épp lassabb játékmenetet.",
 		"czech": "Mění rychlost práce a učení, takže hru můžete projít rychleji nebo pomaleji.",
+		"japanese": "作業と学習の速度を変更します。ゲーム全体をより速く、またはよりゆっくり進める事ができます。",
     },
     "fastGamePace": {
         "english": "Updated - Faster",
@@ -4202,6 +4236,7 @@
 		"russian": "Быстрый",
 		"hungarian": "Frissített - Gyors",
 		"czech": "Aktualizovaná – rychlejší",
+		"japanese": "変更後 - 速い",
     },
     "low": {
         "english": "Low",
@@ -4211,6 +4246,7 @@
 		"russian": "Низко",
 		"hungarian": "Alacsony",
 		"czech": "Nízká",
+		"japanese": "低い",
     },
     "moderate": {
         "english": "Moderate",
@@ -4220,6 +4256,7 @@
 		"russian": "Средне",
 		"hungarian": "Mérsékelt",
 		"czech": "Střední",
+		"japanese": "普通",
     },
     "high": {
         "english": "High",
@@ -4229,6 +4266,7 @@
 		"russian": "Высоко",
 		"hungarian": "Magas",
 		"czech": "Vysoká",
+		"japanese": "高い",
     },
     "veryHigh": {
         "english": "Very High",
@@ -4238,6 +4276,7 @@
 		"russian": "Очень высоко",
 		"hungarian": "Nagyon magas",
 		"czech": "Velmi vysoká",
+		"japanese": "非常に高い",
     },
     "confinedCursor": {
         "english": "Confined Cursor",
@@ -4247,5 +4286,6 @@
 		"russian": "Ограничение мыши окном",
 		"hungarian": "Korlátozott kurzor",
 		"czech": "Kurzor omezen na okno",
+		"japanese": "カーソルをウィンドウ内に固定",
     },
 }

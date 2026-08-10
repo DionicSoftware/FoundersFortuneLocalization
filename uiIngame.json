@@ -600,6 +600,7 @@
 		"hungarian": "Jókedv",
 		"czech": "Zábava",
 		"japanese": "娯楽",
+		"italian": "Svago",
     },
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -715,6 +716,7 @@
 		"hungarian": "Hagyd, hogy a telepeseid szórakozzanak néha. Az élet nem csak a munkáról szól, igaz?",
 		"czech": "Dopřejte svým kolonistům čas od času trochu zábavy. Život přece není jen o práci, ne?",
 		"japanese": "自然と減少します。趣味や休息を楽しむ事で回復します。仕事ばかりでは心情が悪化してしまいます。",
+		"italian": "Concedi ai tuoi coloni la possibilità di divertirsi ogni tanto. La vita non è fatta solo di lavoro, no?",
     },
 	"needsTitleTameness": {
 		"english": "Tameness",
@@ -2369,6 +2371,7 @@
 		"hungarian": "Atómatikus evés",
 		"czech": "Automaticky jíst",
 		"japanese": "自動で食事",
+		"italian": "Mangia auto.",
 	},
 	"autoEatTooltip_Title": {
 		"english": "Auto Eat",
@@ -2379,6 +2382,7 @@
 		"hungarian": "Magától eszik",
 		"czech": "Automaticky jíst",
 		"japanese": "自動で食事",
+		"italian": "Mangiare automaticamente",
 	},
 	"autoEatTooltip_Desc": {
 		"english": "When enabled, your colonists will eat when their hunger is below 20% regardless of hour type.",
@@ -2389,6 +2393,7 @@
 		"hungarian": "Ha engedélyezed, a telepesek akkor esznek, ha 20% alá csökken az éhségi szintjuk, függetlenül attól, mennyi az idő.",
 		"czech": "Pokud je toto povoleno, kolonisté se najedí vždy, když jejich hlad klesne pod 20%, bez ohledu na plán.",
 		"japanese": "有効にすると、時間帯の設定に関わらず満腹が20%を下回った時に食事をします。",
+		"italian": "Se attivo, i tuoi coloni mangeranno quando la loro fame scende sotto il 20%, a prescindere dal tipo di ora.",
 	},
 	"autoSleep": {
 		"english": "Auto sleep",
@@ -2399,6 +2404,7 @@
 		"hungarian": "Magától alszik",
 		"czech": "Automaticky spát",
 		"japanese": "自動で睡眠",
+		"italian": "Dormi auto.",
 	},
 	"autoSleepTooltip_Title": {
 		"english": "Auto Sleep",
@@ -2409,6 +2415,7 @@
 		"hungarian": "Magától alszik",
 		"czech": "Automaticky spát",
 		"japanese": "自動で睡眠",
+		"italian": "Dormire automaticamente",
 	},
 	"autoSleepTooltip_Desc": {
 		"english": "When enabled, your colonists will sleep when their energy is below 15% regardless of hour type",
@@ -2419,6 +2426,7 @@
 		"hungarian": "Ha engedélyezed, a telepeseid akkor alszanak, ha a fáradtságuk 15% alá csökken, függetlenül attól, mennyi az idő.",
 		"czech": "Pokud je toto povoleno, kolonisté půjdou spát vždy, když jejich energie klesne pod 15%, bez ohledu na plán.",
 		"japanese": "有効にすると、時間帯の設定に関わらず持続力が15%を下回った時に睡眠を取ります。",
+		"italian": "Se attivo, i tuoi coloni dormiranno quando la loro energia scende sotto il 15%, a prescindere dal tipo di ora.",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -5294,6 +5302,7 @@
 		"hungarian": "Teljesítmények elérése kikapcsolva, mert megváltoztattad a homokozó beállításokat.",
 		"czech": "Úspěchy jsou vypnuté, protože jste změnili nastavení Sandboxu.",
 		"japanese": "サンドボックス設定の変更で実績は無効になります。",
+		"italian": "Gli obiettivi sono disabilitati perché hai modificato le impostazioni sandbox.",
     },
 	"achievements_off_cheats": {
 		"english":  "Achievements are disabled because you have used developer mode.",
@@ -5430,6 +5439,7 @@
 		"hungarian": "Hobbik",
 		"czech": "Koníčky",
 		"japanese": "趣味",
+		"italian": "Hobby",
     },
     "hobbyTitle_Painting": {
         "english": "Painting",
@@ -5440,6 +5450,7 @@
 		"hungarian": "Festés",
 		"czech": "Malování",
 		"japanese": "絵画",
+		"italian": "Pittura",
     },
 	"hobbyDesc": {
 	"english": "Interest: %interest%",
@@ -5450,6 +5461,7 @@
 		"hungarian": "Érdeklődési kör: %interest%",
 		"czech": "Zájem: %interest%",
 		"japanese": "興味: %interest%",
+		"italian": "Interesse: %interest%",
 	},
     "hobbyDesc_IsMainHobby": {
         "english": "Is main hobby.",
@@ -5460,6 +5472,7 @@
 		"hungarian": "Fő hobbi",
 		"czech": "Hlavní koníček.",
 		"japanese": "一番の趣味です。",
+		"italian": "È l'hobby principale.",
     },
     "hobbyTitle_Gardening": {
         "english": "Gardening",
@@ -5470,6 +5483,7 @@
 		"hungarian": "Kertészkedés",
 		"czech": "Zahradničení",
 		"japanese": "園芸",
+		"italian": "Giardinaggio",
     },
     "hobbyTitle_Music": {
         "english": "Music",
@@ -5480,6 +5494,7 @@
 		"hungarian": "Zene",
 		"czech": "Hudba",
 		"japanese": "音楽",
+		"italian": "Musica",
     },
     "hobbyTitle_Writing": {
         "english": "Writing",
@@ -5490,6 +5505,7 @@
 		"hungarian": "Írás",
 		"czech": "Psaní",
 		"japanese": "執筆",
+		"italian": "Scrittura",
     },
     "hobbyTitle_Woodworking": {
         "english": "Woodworking",
@@ -5500,6 +5516,7 @@
 		"hungarian": "Fa megmunkálás",
 		"czech": "Řezbářství",
 		"japanese": "木彫り",
+		"italian": "Intaglio del legno",
     },
     "hobbyTitle_Reading": { // reading or literature
         "english": "Reading",
@@ -5510,6 +5527,7 @@
 		"hungarian": "Olvasás",
 	    "czech": "Četba",
 	    "japanese": "読書",
+	    "italian": "Lettura",
     },
     "hobbyTitle_Masonry": {
         "english": "Masonry",
@@ -5520,6 +5538,7 @@
 		"hungarian": "Kőművesség",
 	    "czech": "Kamenictví",
 	    "japanese": "石彫り",
+	    "italian": "Scultura",
     },
     "hobbyIsDumb": {
         "english": "Can't level up in hobbies because %firstName% is dumb",
@@ -5530,6 +5549,7 @@
 		"hungarian": "Nem tud fejlődni a hobbiában, mert %firstName% nem túl okos",
 	    "czech": "Nemohu dosáhnout vyšší úrovně v koníčkách, protože %firstName% je hloupý",
 	    "japanese": "%firstName%はお馬鹿なため、趣味のレベルを上げる事ができません",
+	    "italian": "Non può migliorare negli hobby perché %firstName% è ottus%OA%",
     },
   "colonyWide": { 
         "english": "Colony-wide",
@@ -5540,6 +5560,7 @@
 		"hungarian": "Kolónia-méretű",
 	  "czech": "V celé kolonii",
 	  "japanese": "コロニー全体",
+	  "italian": "Tutta la colonia",
     },
     "workHourType": {
         "english": "Work",
@@ -5550,6 +5571,7 @@
 		"hungarian": "Munka",
 	    "czech": "Práce",
 	    "japanese": "仕事",
+	    "italian": "Lavoro",
     },
     "workHourTypeTooltip_Title": {
         "english": "Work Hour",
@@ -5560,6 +5582,7 @@
 		"hungarian": "Munkaóra",
 	    "czech": "Pracovní doba",
 	    "japanese": "仕事の時間",
+	    "italian": "Ora di lavoro",
     },
     "workHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will only do work.",
@@ -5570,6 +5593,7 @@
 		"hungarian": "Ezekben az órákban csakis dolgozni fognak a telepeseid.",
 	    "czech": "Během této hodiny budou vaši kolonisté pouze pracovat.",
 	    "japanese": "この時間帯、コロニストは仕事だけを行います。",
+	    "italian": "Durante quest'ora, i tuoi coloni si dedicheranno soltanto al lavoro.",
     },
     "freeHourType": {
         "english": "Free/Socialize",
@@ -5580,6 +5604,7 @@
 		"hungarian": "Szabadidő / Kapcsolatok",
 	    "czech": "Svoboda/Socializace",
 	    "japanese": "自由/交流",
+	    "italian": "Libera/Sociale",
     },
     "freeHourTypeTooltip_Title": {
         "english": "Free/Socialize Hour",
@@ -5590,6 +5615,7 @@
 		"hungarian": "Szabadidő / Kapcsolatok idő",
 	    "czech": "Hodina svobody/socializace",
 	    "japanese": "自由/交流の時間",
+	    "italian": "Ora libera/di socializzazione",
     },
     "freeHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will relax, socialize, and do hobbies.",
@@ -5600,6 +5626,7 @@
 		"hungarian": "Ezekben az órákban a telepeseid pihennek, kapcsolatokat építenek, és a hobbiukkal foglalkoznak.",
 	    "czech": "Během této hodiny budou vaši kolonisté odpočívat, stýkat se spolu a věnovat se svým koníčkům.",
 	    "japanese": "この時間帯、コロニストは休息し、仲間と交流し、趣味を楽しみます。",
+	    "italian": "Durante quest'ora, i tuoi coloni si rilasseranno, socializzeranno e si dedicheranno ai loro hobby.",
     },
     "eatHourType": {
         "english": "Eat",
@@ -5610,6 +5637,7 @@
 		"hungarian": "Evés",
 	    "czech": "Jezte",
 	    "japanese": "食事",
+	    "italian": "Pasto",
     },
     "eatHourTypeTooltip_Title": {
         "english": "Eating Hour",
@@ -5620,6 +5648,7 @@
 		"hungarian": "Evés idő",
 	    "czech": "Hodina jídla",
 	    "japanese": "食事の時間",
+	    "italian": "Ora del pasto",
     },
     " 	HourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will eat when their hunger is below 80%.\nOtherwise, they will continue to do their tasks",
@@ -5630,6 +5659,7 @@
 		"hungarian": "Ezekben az órákban a telepesek esznek, ha 80% alatt van az éhségük.\nMáskülönben végzik a feladataikat.",
 	"czech": "Během této hodiny budou vaši kolonisté jíst, když jejich hlad klesne pod 80%.\nJinak budou pokračovat v plnění svých úkolů",
 	"japanese": "この時間帯、コロニストは満腹が80%を下回っている場合に食事をします。\nそうでない場合は作業を続けます。",
+	"italian": "Durante quest'ora, i tuoi coloni mangeranno se la loro fame è sotto l'80%.\nAltrimenti continueranno a svolgere i loro compiti.",
     },
     "randomHourType": {
         "english": "Random",
@@ -5640,6 +5670,7 @@
 		"hungarian": "Mindegy",
 	    "czech": "Náhodné",
 	    "japanese": "ランダム",
+	    "italian": "Casuale",
     },
     "randomHourTypeTooltip_Title": {
         "english": "Random Hour",
@@ -5650,6 +5681,7 @@
 		"hungarian": "Mindegy idő",
 	    "czech": "Náhodná hodina",
 	    "japanese": "ランダムの時間",
+	    "italian": "Ora casuale",
     },
     "randomHourTypeTooltip_Desc": {
         "english": "During this hour, colonists can pick tasks from all the task categories.\nThey will eat when their hunger is below 20% and sleep when their energy is below 15%.",
@@ -5660,6 +5692,7 @@
 		"hungarian": "Ezekben az órákban a telepesek mindenféle feladatot csinálhatnak.\nAkkor esznek, amikor 20% alatt van az éhségük, és akkor alszanak, ha 15% alatt van a fáradtságuk.",
 	    "czech": "Během této hodiny si mohou kolonisté vybrat úkoly ze všech kategorií úkolů.\nBudou jíst, když jejich hlad klesne pod 20 % a spát, když jejich energie klesne pod 15 %.",
 	    "japanese": "この時間帯、コロニストは全ての種類の作業から自由に選びます。\n満腹が20%を下回ると食事をし、持続力が15%を下回ると睡眠を取ります。",
+	    "italian": "Durante quest'ora, i coloni possono scegliere compiti da tutte le categorie.\nMangeranno quando la loro fame è sotto il 20% e dormiranno quando la loro energia è sotto il 15%.",
     },
     "sleepHourTypeTooltip_Title": {
         "english": "Sleeping Hour",
@@ -5670,6 +5703,7 @@
 		"hungarian": "Alvási idő",
 	    "czech": "Hodina spánku",
 	    "japanese": "睡眠の時間",
+	    "italian": "Ora del riposo",
     },
     "sleepHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will sleep when their energy is below 80%.\nOtherwise, they will continue to do their tasks",
@@ -5680,6 +5714,7 @@
 		"hungarian": "Ezekben az órákban a telepeseid alszanak, ha a fáradtságuk 80% alá csökken.\nMáskülönben csinálják tovább a feladataikat.",
 	    "czech": "Během této hodiny budou vaši kolonisté spát, když jejich energie klesne pod 80%.\nJinak budou pokračovat v plnění svých úkolů",
 	    "japanese": "この時間帯、コロニストは持続力が80%を下回っている場合に睡眠を取ります。\nそうでない場合は作業を続けます。",
+	    "italian": "Durante quest'ora, i tuoi coloni dormiranno se la loro energia è sotto l'80%.\nAltrimenti continueranno a svolgere i loro compiti.",
     },
     "eatOnlyAtHouse": {
         "english": "Eat only at house",
@@ -5690,6 +5725,7 @@
 		"hungarian": "Csak otthon évés",
 	    "czech": "Jezte pouze doma",
 	    "japanese": "自宅でのみ食事",
+	    "italian": "Mangia solo a casa",
 	    
     },
     "eatOnlyAtHouseTooltip_Title": {
@@ -5701,6 +5737,7 @@
 		"hungarian": "Csak a saját otthonukban esznek",
 	    "czech": "Jezte pouze ve vlastním domě",
 	    "japanese": "自宅でのみ食事をする",
+	    "italian": "Mangiare solo a casa propria",
     },
     "eatOnlyAtHouseTooltip_Desc": {
         "english": "When enabled, colonists will prioritize eating at their own house",
@@ -5711,6 +5748,7 @@
 		"hungarian": "Mikor be van kapcsolva a telepesek az otthon étkezést részesítik előnyben.",
 	    "czech": "Pokud je povoleno, kolonisté budou upřednostňovat stravování ve svém vlastním domě",
 	    "japanese": "有効にすると、コロニストは自分の家で食事をする事を優先します。",
+	    "italian": "Se attivo, i coloni daranno la priorità a mangiare a casa propria.",
     },
     "small": {
         "english": "Small",
@@ -5721,6 +5759,7 @@
 		"hungarian": "Kicsi",
 	    "czech": "Malé",
 	    "japanese": "少なめ",
+	    "italian": "Piccole",
     },
     "smallRationsTooltip_Title": {
         "english": "Small Food Rations",
@@ -5731,6 +5770,7 @@
 		"hungarian": "Kis adag étel",
 	    "czech": "Malé příděly jídla",
 	    "japanese": "少なめの食事量",
+	    "italian": "Razioni di cibo piccole",
     },
     "smallRationsTooltip_Desc": {
         "english": "Tough times huh? Your colonists will eat less food at the cost of being sad.",
@@ -5741,6 +5781,7 @@
 		"hungarian": "Nehéz idők, mi? A telepesek kevesebbet esznek, rosszabb hangulatért cserébe.",
 	    "czech": "Těžké časy, co? Vaši kolonisté budou jíst méně jídla za cenu toho, že budou smutní.",
 	    "japanese": "厳しい時期ですね。コロニストの食事量は減りますが、その分心情が悪化します。",
+	    "italian": "Tempi duri, eh? I tuoi coloni mangeranno di meno, ma non ne saranno affatto felici.",
     },
     "medium": {
         "english": "Medium",
@@ -5751,6 +5792,7 @@
 		"hungarian": "Közepes",
 	    "czech": "Střední",
 	    "japanese": "普通",
+	    "italian": "Medie",
     },
     "mediumRationsTooltip_Title": {
         "english": "Medium Food Rations",
@@ -5761,6 +5803,7 @@
 		"hungarian": "Közepes adag étel",
 	    "czech": "Střední příděly potravin",
 	    "japanese": "普通の食事量",
+	    "italian": "Razioni di cibo medie",
     },
     "mediumRationsTooltip_Desc": {
         "english": "Your colonists will eat normal amounts of food.",
@@ -5771,6 +5814,7 @@
 		"hungarian": "Normál adag ételt esznek a telepesek.",
 	    "czech": "Vaši kolonisté budou jíst normální množství jídla.",
 	    "japanese": "コロニストは通常の量の食事をとります。",
+	    "italian": "I tuoi coloni mangeranno quantità normali di cibo.",
     },
     "large": {
         "english": "Large",
@@ -5781,6 +5825,7 @@
 		"hungarian": "Nagy",
 	    "czech": "Velký",
 	    "japanese": "多め",
+	    "italian": "Grandi",
     },
     "largeRationsTooltip_Title": {
         "english": "Large Food Rations",
@@ -5791,6 +5836,7 @@
 		"hungarian": "Nagy adag étel",
 	    "czech": "Velké příděly jídla",
 	    "japanese": "多めの食事量",
+	    "italian": "Razioni di cibo grandi",
     },
     "largeRationsTooltip_Desc": {
         "english": "Your colonists will eat more food. At least their happy about it",
@@ -5801,6 +5847,7 @@
 		"hungarian": "A telepeseid többet esznek. Legalább boldogok miatta.",
 	    "czech": "Vaši kolonisté budou jíst více jídla. Alespoň z toho budou mít radost",
 	    "japanese": "コロニストの食事量は増えます。その分、心情は良くなります。",
+	    "italian": "I tuoi coloni mangeranno più cibo. Almeno ne saranno felici!",
     },
     "issuedByPlayerTooltip_Title": {
         "english": "Task issued by Player",
@@ -5811,6 +5858,7 @@
 		"hungarian": "Játékos által kiadott feladatok",
 	    "czech": "Úkol zadaný hráčem",
 	    "japanese": "プレイヤーが指示した作業",
+	    "italian": "Compito assegnato dal giocatore",
     },
     "issuedByPlayerTooltip_Desc": {
         "english": "These tasks won't get aborted by the schedule.",
@@ -5821,6 +5869,7 @@
 		"hungarian": "Ezek a feladatok nem lesznek megszakítva a napirend által.",
 	    "czech": "Tyto úkoly nebudou podle plánu přerušeny.",
 	    "japanese": "これらの作業はスケジュールによって中断されません。",
+	    "italian": "Questi compiti non verranno interrotti dall'orario.",
     },
     "issuedByScheduleTooltip_Title": {
         "english": "Interaction issued by schedule / colonist",
@@ -5831,6 +5880,7 @@
 		"hungarian": "Napirend / telepes általi interakciók",
 	    "czech": "Interakce vydaná plánovačem / kolonisty",
 	    "japanese": "スケジュール/コロニストが選んだ作業",
+	    "italian": "Interazione assegnata dall'orario o dal colono",
     },
     "issuedByScheduleTooltip_Desc": {
         "english": "These interactions can get aborted by the Schedule.",
@@ -5841,6 +5891,7 @@
 		"hungarian": "Ezeket az interakciókat megszakíthatja a napirend.",
 	    "czech": "Tyto interakce mohou být přerušeny plánem.",
 	    "japanese": "これらの作業はスケジュールによって中断される事があります。",
+	    "italian": "Queste interazioni possono essere interrotte dall'orario.",
     },
     "noItemInStorage": {
         "english": "You have not stored any furniture yet. You can store furniture by dropping them in storage's drop area.",
@@ -5851,6 +5902,7 @@
 		"hungarian": "Jelenleg nem tárolsz semmilyen bútort. Eltárolhatsz bármilyen bútort, ha a tároló ablakba húzod őket.",
 	    "czech": "Ještě jste neuložili žádný nábytek. Nábytek můžete uložit tak, že jej položíte do úložného prostoru.",
 	    "japanese": "まだ家具を収納していません。収納エリアに家具をドロップすると収納する事ができます。",
+	    "italian": "Non hai ancora riposto nessun mobile. Puoi conservare i mobili trascinandoli nell'area di deposito del magazzino.",
     },
     "dragAndDrop": {
         "english": "Drag any furniture and drop it in this area to store it",
@@ -5861,6 +5913,7 @@
 		"hungarian": "Ide húzd a tárolni kívánt bútorokat",
 	    "czech": "Přetáhněte jakýkoli nábytek a pusťte jej do této oblasti, abyste jej uložili",
 	    "japanese": "家具をこのエリアにドラッグ＆ドロップすると収納されます",
+	    "italian": "Trascina un mobile in quest'area per riporlo in magazzino",
     },
     "difficultyAdaptation": {
         "english": "Difficulty Adaptation",
@@ -5871,6 +5924,7 @@
 		"hungarian": "Nehéz alkalmazkodás",
 	    "czech": "Adaptace na obtížnost",
 	    "japanese": "難易度の調整",
+	    "italian": "Adattamento della difficoltà",
     },
     "difficultyAdaptationDesc": {
         "english": "Sometimes Founders' Fortune can be hard. Do you want to change the difficulty?",
@@ -5881,6 +5935,7 @@
 		"hungarian": "Néha a Founders' Fortune nehéznek tűnhet. Nem akarod átállítani a nehézséget?",
 	    "czech": "Někdy může být Founders' Fortune těžké. Chcete změnit obtížnost?",
 	    "japanese": "Founders' Fortuneは時に厳しい事があります。難易度を変更しますか？",
+	    "italian": "A volte Founders' Fortune può essere difficile. Vuoi cambiare la difficoltà?",
     },
     "difficultyAdaptationAccept": {
         "english": "Let's Change",
@@ -5891,6 +5946,7 @@
 		"hungarian": "Állítsd át",
 	    "czech": "Pojďme se změnit",
 	    "japanese": "変更する",
+	    "italian": "Cambiamola",
     },
     "schedule": {
         "english": "Schedules",
@@ -5901,6 +5957,7 @@
 		"hungarian": "Napirend",
 	    "czech": "Plány",
 	    "japanese": "スケジュール",
+	    "italian": "Orari",
     },
     "followColonyWideSchedule_Title": {
         "english": "Follow Colony-wide Schedule",
@@ -5911,6 +5968,7 @@
 		"hungarian": "Kövessd a kolónia-méretű napirendet",
 	    "czech": "Postupujte podle plánu pro celou kolonii",
 	    "japanese": "コロニー全体のスケジュールに従う",
+	    "italian": "Segui l'orario della colonia",
     },
     "followColonyWideSchedule_Desc": {
         "english": "When enabled, the colony-wide schedule will override the colonist's schedule",
@@ -5921,6 +5979,7 @@
 		"hungarian": "Ha be van kapcsolva, a kolonisták napirendje felülíródik a kolónia-méretű napirenddel.",
 	    "czech": "Pokud je toto povoleno, plán pro celou kolonii přepíše plán kolonisty",
 	    "japanese": "有効にすると、コロニー全体のスケジュールがこのコロニストのスケジュールより優先されます。",
+	    "italian": "Se attivo, l'orario della colonia avrà la priorità sull'orario del colono.",
     },
     "paintingCompleted": {
         "english": "Painting Completed",
@@ -5931,6 +5990,7 @@
 		"hungarian": "Kész festmény",
 	    "czech": "Malba dokončena",
 	    "japanese": "絵画が完成しました",
+	    "italian": "Dipinto completato",
     },
     "changeAge": {
         "english": "Change Age",
@@ -5941,6 +6001,7 @@
 		"hungarian": "Kor megváltoztatása",
 	    "czech": "Změnit věk",
 	    "japanese": "年齢の変更",
+	    "italian": "Cambia età",
     },
 
 }

@@ -78,6 +78,10 @@ This is korean glossary for korean translator.
 - Lazy day: 느긋한 하루. 명령을 받긴 하지만 멋대로 휴식을 취하러 쌩하고 가버리는 하루.
 - Bug Infestations: 병충해 발생
 - unlock: 획득하다.
+- Skill vs Tech: 서로 다른 시스템이므로 용어를 구분한다.
+  - Skill(직업 포인트로 해금하는 직업별 특전) → **스킬**. `skills`, `availableSkills`, `missingSkill`.
+  - Tech(크리스탈+두루마리로 연구하는 정착지 전체 기술) → **기술**. `requiredTech`, `tech_*`.
+  - 예전에는 둘 다 기술이었고 스킬은 `missingSkill`에서만 쓰였다. 2026-08 검수에서 스킬로 통일함.
 
 ## 문장 구성
 - %heShe%: 그/그녀. %himHer% 같은 경우도 모두 이것으로 대체하고 "%heShe%의" 로 쓰기.

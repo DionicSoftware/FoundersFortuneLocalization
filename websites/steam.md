@@ -1267,7 +1267,7 @@ De grote items op onze roadmap zijn onder meer
 [*]Relaties
 [*]Meerdere eilanden
 [*]Andere stammen
-[lijst]
+[/list]
 
 Dit zijn dingen die we graag zouden willen doen en het uiteindelijke resultaat hangt af van de hoeveelheid steun die Founders 'Fortune krijgt. Als we helemaal geen ondersteuning krijgen, schakelen we over op polijsten en maken we de huidige ervaring zo soepel mogelijk.
 

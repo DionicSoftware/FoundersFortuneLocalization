@@ -2918,6 +2918,7 @@
 		"ukrainian": "Page Up",
 		"hungarian": "Page Up",
 		"czech": "Page Up",
+		"chinese": "向上翻页键",
 	},
 	"key_PageDown":  {
 		"english": "Page Down",
@@ -2931,6 +2932,7 @@
 		"ukrainian": "Page Down",
 		"hungarian": "Page Down",
 		"czech": "Page Down",
+		"chinese": "向下翻页键",
 	},
 
 
@@ -3339,6 +3341,7 @@
 		"japanese": "カスタム難易度",
 		"italian": "Difficoltà personalizzata",
 		"dutch": "Eigen Moeilijkheid",
+		"chinese": "自定义难度",
     },
     "difficulty_3_Desc": {
         "english": "You are able to modify the rules how ever you see fit.",
@@ -3352,6 +3355,7 @@
 		"japanese": "ルールを自由に変更して遊ぶ事ができます。",
 		"italian": "Puoi modificare le regole come più ti aggrada.",
 		"dutch": "Je kunt de regels naar eigen inzicht aanpassen.",
+		"chinese": "你可以按照自己的喜好修改各项规则.",
     },
 	"continue": {
 		"english": "Continue",
@@ -3900,6 +3904,7 @@
 		"ukrainian": "Показувати навчальні повідомлення",
 		"hungarian": "Oktató üzenetek mutatása",
 		"czech": "Zobrazit výukové zprávy",
+		"chinese": "显示教程提示",
 	},
 	"multipleVillagerSelection":  {
 		"english": "Multiple Villager Selection",
@@ -3913,6 +3918,7 @@
 		"ukrainian": "Вибір кількох колоністів",
 		"hungarian": "Egyszerre több falusi kijelölése",
 		"czech": "Výběr více kolonistů",
+		"chinese": "多选殖民者",
 	},
     "availableSkills": {
         "english": "Available Skills",
@@ -3926,6 +3932,7 @@
 	    "japanese": "選択可能なスキル",
 	    "italian": "Abilità disponibili",
 	    "dutch": "Beschikbare vaardigheden",
+	    "chinese": "可用技能",
     },
     "customizeColonist": {
         "english": "Customize Colonist",
@@ -3939,6 +3946,7 @@
 	    "japanese": "コロニストのカスタマイズ",
 	    "italian": "Personalizza colono",
 	    "dutch": "Kolonist aanpassen",
+	    "chinese": "自定义殖民者",
     },
     "sandboxSettings": {
         "english": "Sandbox Settings",
@@ -3952,6 +3960,7 @@
 	    "japanese": "サンドボックス設定",
 	    "italian": "Impostazioni sandbox",
 	    "dutch": "Sandbox-instellingen",
+	    "chinese": "沙盒设置",
     },
     "sandboxSettingsChanged": {
         "english": "Sandbox Settings Changed",
@@ -3965,6 +3974,7 @@
 	    "japanese": "サンドボックス設定を変更しました",
 	    "italian": "Impostazioni sandbox modificate",
 	    "dutch": "Sandbox-instellingen gewijzigd",
+	    "chinese": "沙盒设置已更改",
     },
     "sandboxNotice": {
         "english": "Changing the sandbox settings will disable achievements!\nShould the changes to the sandbox settings be applied?",
@@ -3978,6 +3988,7 @@
 	    "japanese": "サンドボックス設定を変更すると実績は無効になります。\nサンドボックス設定の変更を適用しますか？",
 	    "italian": "Modificare le impostazioni sandbox disattiverà gli obiettivi!\nVuoi applicare le modifiche alle impostazioni sandbox?",
 	    "dutch": "Als je de sandbox-instellingen wijzigt, worden prestaties uitgeschakeld!\nWil je de wijzigingen toepassen?",
+	    "chinese": "更改沙盒设置将会禁用成就！\n是否应用对沙盒设置的更改？",
     },
     "damageToColonistsMultiplier": {
         "english": "Damage to Colonists Multiplier",
@@ -3991,6 +4002,7 @@
 	    "japanese": "コロニストへのダメージ倍率",
 	    "italian": "Moltiplicatore dei danni ai coloni",
 	    "dutch": "Schadevermenigvuldiger voor kolonisten",
+	    "chinese": "殖民者受伤害倍率",
     },
 	"gamePace": {
         "english": "Game Pacing",
@@ -4004,6 +4016,7 @@
 		"japanese": "ゲームの進行速度",
 		"italian": "Ritmo di gioco",
 		"dutch": "Speltempo",
+		"chinese": "游戏节奏",
     },
     "everythingUnlocked": {
         "english": "Everything Unlocked",
@@ -4017,6 +4030,7 @@
 	    "japanese": "全て解放済み",
 	    "italian": "Tutto sbloccato",
 	    "dutch": "Alles ontgrendeld",
+	    "chinese": "解锁全部内容",
     },
     "startingResources": {
         "english": "Starting Resources Amount",
@@ -4030,6 +4044,7 @@
 	    "japanese": "開始時の資材量",
 	    "italian": "Quantità di risorse iniziali",
 	    "dutch": "Hoeveelheid startgrondstoffen",
+	    "chinese": "初始资源数量",
     },
     "buildingCosts": {
         "english": "Building Costs",
@@ -4043,6 +4058,7 @@
 	    "japanese": "建築コスト",
 	    "italian": "Costi di costruzione",
 	    "dutch": "Bouwkosten",
+	    "chinese": "建造消耗",
     },
     "badEventsFrequency": {
         "english": "Bad Events Frequency",
@@ -4056,6 +4072,7 @@
 	    "japanese": "悪い出来事の頻度",
 	    "italian": "Frequenza degli eventi negativi",
 	    "dutch": "Frequentie van slechte gebeurtenissen",
+	    "chinese": "负面事件频率",
     },
     "tributesFrequency": {
         "english": "Tributes Frequency",
@@ -4069,6 +4086,7 @@
 	    "japanese": "貢物の要求頻度",
 	    "italian": "Frequenza dei tributi",
 	    "dutch": "Frequentie van eerbetonen",
+	    "chinese": "贡品要求频率",
     },
     "onlyPositiveThoughts": {
         "english": "Only Positive Thoughts",
@@ -4082,6 +4100,7 @@
 	    "japanese": "良い思考のみ",
 	    "italian": "Solo pensieri positivi",
 	    "dutch": "Alleen positieve gedachten",
+	    "chinese": "仅有正面想法",
     },
     "colonistBaseMood": {
         "english": "Colony's Base Mood",
@@ -4095,6 +4114,7 @@
 	    "japanese": "コロニーの基本の心情",
 	    "italian": "Umore di base della colonia",
 	    "dutch": "Basisstemming van de kolonie",
+	    "chinese": "殖民地基础心情",
     },
     "colonistNeeds": {
         "english": "Colonist Needs",
@@ -4108,6 +4128,7 @@
 		"japanese": "コロニストの欲求",
 		"italian": "Bisogni dei coloni",
 		"dutch": "Behoeften van kolonisten",
+		"chinese": "殖民者需求",
     },
     "immortalColonists": {
         "english": "Immortal Colonists",
@@ -4121,6 +4142,7 @@
 		"japanese": "不死のコロニスト",
 		"italian": "Coloni immortali",
 		"dutch": "Onsterfelijke kolonisten",
+		"chinese": "殖民者不死",
     },
     "difficultySettings": {
         "english": "Difficulty Settings",
@@ -4134,6 +4156,7 @@
 		"japanese": "難易度設定",
 		"italian": "Impostazioni di difficoltà",
 		"dutch": "Moeilijkheidsinstellingen",
+		"chinese": "难度设置",
     },
     "achievements": {
         "english": "Achievements",
@@ -4147,6 +4170,7 @@
 		"japanese": "実績",
 		"italian": "Obiettivi",
 		"dutch": "Prestaties",
+		"chinese": "成就",
     },
     "normalAchievements": {
         "english": "Normal Achievements",
@@ -4160,6 +4184,7 @@
 		"japanese": "通常の実績",
 		"italian": "Obiettivi normali",
 		"dutch": "Normale prestaties",
+		"chinese": "普通成就",
     },
     "challengerAchievement": { // refers to the "challenger" achievement. Check achievements.json
         "english": "Challenger Achievement",
@@ -4173,6 +4198,7 @@
 		"japanese": "実績「達成」",
 		"italian": "Obiettivo Sfidante",
 		"dutch": "\"Uitdager\"-prestatie",
+		"chinese": "挑战者成就",
     },
     "available": {
         "english": "Available",
@@ -4186,6 +4212,7 @@
 		"japanese": "獲得可能",
 		"italian": "Disponibile",
 		"dutch": "Beschikbaar",
+		"chinese": "可获得",
     },
     "disabled": {
         "english": "Disabled",
@@ -4199,6 +4226,7 @@
 		"japanese": "無効",
 		"italian": "Disattivato",
 		"dutch": "Uitgeschakeld",
+		"chinese": "已禁用",
     },
     "enabled": {
         "english": "Enabled",
@@ -4212,6 +4240,7 @@
 		"japanese": "有効",
 		"italian": "Attivato",
 		"dutch": "Ingeschakeld",
+		"chinese": "已启用",
     },
     "Reasons": {
         "english": "Reasons",
@@ -4225,6 +4254,7 @@
 		"japanese": "理由",
 		"italian": "Motivi",
 		"dutch": "Redenen",
+		"chinese": "原因",
     },
     "mods": {
         "english": "Mods",
@@ -4238,6 +4268,7 @@
 		"japanese": "MOD",
 		"italian": "Mod",
 		"dutch": "Mods",
+		"chinese": "模组",
     },
     "cheats": {
         "english": "Cheats",
@@ -4251,6 +4282,7 @@
 		"japanese": "チート",
 		"italian": "Trucchi",
 		"dutch": "Cheats",
+		"chinese": "作弊",
     },
     "unchanged": {
         "english": "Unchanged",
@@ -4264,6 +4296,7 @@
 		"japanese": "変更なし",
 		"italian": "Invariato",
 		"dutch": "Ongewijzigd",
+		"chinese": "未更改",
     },
     "changed": {
         "english": "Changed",
@@ -4277,6 +4310,7 @@
 		"japanese": "変更あり",
 		"italian": "Modificato",
 		"dutch": "Gewijzigd",
+		"chinese": "已更改",
     },
     "isNotHard": { // world settings, explanation for why challenger achievement active or not ("Difficulty: Not Hard")
         "english": "Not Hard",
@@ -4290,6 +4324,7 @@
 		"japanese": "難しくない",
 		"italian": "Non difficile",
 		"dutch": "Niet moeilijk",
+		"chinese": "不够难",
     },
     "isHard": {
         "english": "Hard",
@@ -4303,6 +4338,7 @@
 		"japanese": "難しい",
 		"italian": "Difficile",
 		"dutch": "Moeilijk",
+		"chinese": "足够难",
     },
     "defaultGamePace": {
         "english": "Original - Slower",
@@ -4316,6 +4352,7 @@
 		"japanese": "従来通り - ゆっくり",
 		"italian": "Originale - Più lento",
 		"dutch": "Origineel - langzamer",
+		"chinese": "原版 - 较慢",
     },
     "gamePaceTooltip": {
         "english": "Changes the speed of working and learning which allows you to play through the game more quickly or slowly.",
@@ -4329,6 +4366,7 @@
 		"japanese": "作業と学習の速度を変更します。ゲーム全体をより速く、またはよりゆっくり進める事ができます。",
 		"italian": "Modifica la velocità con cui si lavora e si impara, permettendoti di giocare in modo più rapido o più lento.",
 		"dutch": "Verandert de snelheid van werken en leren, waardoor je het spel sneller of langzamer kunt doorlopen.",
+		"chinese": "改变工作与学习的速度，让你可以更快或更慢地体验游戏流程。",
     },
     "fastGamePace": {
         "english": "Updated - Faster",
@@ -4342,6 +4380,7 @@
 		"japanese": "変更後 - 速い",
 		"italian": "Aggiornato - Più veloce",
 		"dutch": "Bijgewerkt - sneller",
+		"chinese": "新版 - 较快",
     },
     "low": {
         "english": "Low",
@@ -4355,6 +4394,7 @@
 		"japanese": "低い",
 		"italian": "Basso",
 		"dutch": "Laag",
+		"chinese": "低",
     },
     "moderate": {
         "english": "Moderate",
@@ -4368,6 +4408,7 @@
 		"japanese": "普通",
 		"italian": "Moderato",
 		"dutch": "Gemiddeld",
+		"chinese": "中等",
     },
     "high": {
         "english": "High",
@@ -4381,6 +4422,7 @@
 		"japanese": "高い",
 		"italian": "Alto",
 		"dutch": "Hoog",
+		"chinese": "高",
     },
     "veryHigh": {
         "english": "Very High",
@@ -4394,6 +4436,7 @@
 		"japanese": "非常に高い",
 		"italian": "Molto alto",
 		"dutch": "Zeer hoog",
+		"chinese": "很高",
     },
     "confinedCursor": {
         "english": "Confined Cursor",
@@ -4407,5 +4450,6 @@
 		"japanese": "カーソルをウィンドウ内に固定",
 		"italian": "Cursore limitato alla finestra",
 		"dutch": "Muis beperkt tot venster",
+		"chinese": "将鼠标限制在窗口内",
     },
 }

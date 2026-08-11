@@ -1029,6 +1029,7 @@
 		"polish":  "Nie toleruje laktozy",
 		"japanese": "乳糖不耐症",
 		"chinese": "乳糖不耐症",
+		"korean": "유당불내증",
 		"czech":  "Alergick%yA% na mléko",
 		"hungarian": "Laktózérzékeny",
 	},
@@ -1045,6 +1046,7 @@
 		"polish":  "Niektóre osoby nie mogą spożywać nabiału ze względu na nietolerancję laktozy. Niestety %firstName% jest jedną z nich.",
 		"japanese": "%firstName%は乳糖を分解できない体質いわゆる乳糖不耐症のため乳製品を取ると胃腸の調子が悪くなります。",
 		"chinese": "并非所有人都能安全地食用乳制品-不幸的是%firstName%是其中之一。",
+		"korean": "모든 사람이 유제품을 탈 없이 먹을 수 있는 건 아닙니다. 안타깝게도 %firstName%#{이} 그런 사람 중 하나입니다.",
 		"czech":  "Ne všichni lidé mohou bezpečně konzumovat mléčné výrobky - a bohužel %firstName% je jedním z nich.",
 		"hungarian": "Nem mindenki képes tejtermékeket fogyasztani - sajnos %firstName% is közéjük tartozik.",
 	},
@@ -1061,6 +1063,7 @@
 		"polish":  "Wegetarian%inKa%",
 		"japanese": "菜食主義者",
 		"chinese": "素食主义者",
+		"korean": "채식주의자",
 		"czech":  "Vegetarián",
 		"hungarian": "Vegetáriánus",
 	},
@@ -1077,6 +1080,7 @@
 		"polish":  "%firstName% ma swoje powody aby nie jeść mięsa. Nie zmuszaj %goJej% do tego.",
 		"japanese": "%firstName%は様々な理由で肉を食べたくありません。無理に肉を食べさせないようにしてください。",
 		"chinese": "%firstName%出于多种原因不想吃肉。不要强迫%他她%。",
+		"korean": "%firstName%#{은} 여러 가지 이유로 고기를 먹고 싶어하지 않습니다. %그그녀%에게 억지로 먹이지 마세요.",
 		"czech":  "%firstName% nechce jíst maso z různých důvodů.",
 		"hungarian": "%firstName% nem hajlandó húst enni, többféle indokból. Ne kényszerítsd rá.",
 	},
@@ -1093,6 +1097,7 @@
 		"polish":  "Miłośnik zwierząt",
 		"japanese": "動物好き",
 		"chinese": "动物爱好者",
+		"korean": "동물 애호가",
 		"czech":  "Miluje zvířata",
 		"hungarian": "Állatbarát",
 	},
@@ -1109,6 +1114,7 @@
 		"polish":  "%firstName% kocha zwierzęta. Wystarczy że spędzi z nimi trochę czasu i od razu czuje się lepiej.",
 		"japanese": "%firstName%は動物が大好きです。動物たちと遊ぶ事で気分が上がります。",
 		"chinese": "%firstName%非常喜欢动物。仅是和它们一起玩耍，心情就会立刻变好。",
+		"korean": "%firstName%#{은} 동물을 무척 좋아합니다. 잠깐 놀아주기만 해도 %그그녀%의 기분이 바로 좋아집니다.",
 		"czech":  "%firstName% miluje zvířata. Když si s nimi hraje, dostává dobrou náladu.",
 		"hungarian": "%firstName% imádja az állatokat. Már, ha csak egy kicsit játszik is velük, fellendíti a hangulatát.",
 	},
@@ -1126,6 +1132,7 @@
 		"italian": "Preferisce gli hobby fisici",
 		"dutch": "Houdt van fysieke hobby's",
 		"chinese": "偏爱体力类爱好",
+		"korean": "몸을 쓰는 취미를 좋아함",
     },
     "traitDesc_PreferPhysicalHobbies":  {
         "english":  "%firstName% loves physical hobbies. %hisHer% fun increases faster while doing these types of hobbies.",
@@ -1141,6 +1148,7 @@
 		"italian": "%firstName% adora gli hobby fisici. Il suo svago aumenta più in fretta mentre pratica questo tipo di hobby.",
 		"dutch": "%firstName% houdt van fysieke hobby's. %zijnHaar% plezier stijgt sneller bij dit soort hobby's.",
 		"chinese": "%firstName%热爱体力类爱好。进行这类爱好时，%他的她的%娱乐值提升得更快。",
+		"korean": "%firstName%#{은} 몸을 쓰는 취미를 아주 좋아합니다. 이런 취미를 즐기는 동안에는 %그그녀%의 여가가 더 빨리 채워집니다.",
     },
     "traitTitle_PreferMentalHobbies":  {
         "english":  "Prefers Mental Hobbies",
@@ -1156,6 +1164,7 @@
 		"italian": "Preferisce gli hobby mentali",
 		"dutch": "Houdt van mentale hobby's",
 		"chinese": "偏爱脑力类爱好",
+		"korean": "머리를 쓰는 취미를 좋아함",
     },
     "traitDesc_PreferMentalHobbies":  {
         "english":  "%firstName% loves mental hobbies. %hisHer% fun increases faster while doing these types of hobbies.",
@@ -1171,6 +1180,7 @@
 		"italian": "%firstName% adora gli hobby mentali. Il suo svago aumenta più in fretta mentre pratica questo tipo di hobby.",
 		"dutch": "%firstName% houdt van mentale hobby's. %zijnHaar% plezier stijgt sneller bij dit soort hobby's.",
 		"chinese": "%firstName%热爱脑力类爱好。进行这类爱好时，%他的她的%娱乐值提升得更快。",
+		"korean": "%firstName%#{은} 머리를 쓰는 취미를 아주 좋아합니다. 이런 취미를 즐기는 동안에는 %그그녀%의 여가가 더 빨리 채워집니다.",
 	}
 }
 

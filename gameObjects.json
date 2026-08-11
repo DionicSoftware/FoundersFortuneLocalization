@@ -6838,6 +6838,7 @@
 		"russian": "Вы когда-нибудь чувствовали, что ваши сокровища вне безопасности? Что какой-то вор сможет их беспрепятственно забрать? С данным маленьким сейфом это больше не проблема!\n\nЭтот сейф может хранить до %capacityCoins% монет.",
 		"portuguese": "Você já sentiu que seus tesouros não eram seguros? Como se um ladrão ganancioso pudesse entrar e pegá-los? Proteja suas moedas escondendo-as nesta pequena mas forte caixa de metal! \n\nEste cofre pode acomodar até %capacityCoins% moedas.",
 		"chinese": "你是否曾经觉得你的财产不够安全？好像轻易就能被小偷光顾？把硬币存放在这个坚固的保险箱里可以保护你的财产！\n\n该保险箱能够存储 %capacityCoins% 硬币。",
+		"korean": "당신의 보물이 안전하지 않다고 느낀 적 있나요? 욕심 많은 도둑이 그냥 걸어 들어와 가져가 버릴 것 같지 않나요? 작지만 튼튼한 이 철제 상자에 코인을 숨겨 지키세요!\n\n이 금고는 %capacityCoins%개의 코인을 보관할 수 있습니다.",
 		"italian": "Hai mai avuto la sensazione che i tuoi tesori non siano al sicuro? Come se un ladro avido potesse entrare e rubarli? Proteggi le tue monete nascondendole in questa piccola ma forte cassaforte di metallo!\n\nQuesta cassaforte può contenere fino a %capacityCoins% monete.",
 		"japanese": "小型の金庫です。大事なコインを収納するために必要です。\n\n収納量%capacityCoins%",
 		"czech": "Cítili jste někdy, že vaše poklady nejsou v bezpečí? Jako by chamtivý zloděj mohl jen tak vstoupit a vzít si je? Chraňte své mince jejich ukrytím v tomto trezoru!\n\nTento trezor pojme až %capacityCoins% mincí.",
@@ -10436,6 +10437,7 @@
 		"hungarian": "Nagy eszköz tároló",
 		"czech": "Velký stojan na nářadí",
 		"chinese": "大型工具架",
+		"korean": "대형 도구 보관함",
 	},
 	"multiToolRackDescription":  {
 		"english":  "In a small village, sometimes people have to fill multiple roles at once. Use the large tool rack to make all the necessary items available immediately.",
@@ -10450,6 +10452,7 @@
 		"hungarian": "Egy kis településen sokszor egy embernek több feladatot is el kell látnia. Használd ezt a nagy tárolót, hogy minden eszköz rendelkezésére álljon egy helyen.",
 		"czech": "V malé vesnici musí lidé někdy zastávat více rolí najednou. Použijte velký stojan na nářadí, abyste měli všechny potřebné věci okamžitě k dispozici.",
 		"chinese": "在小村庄里，人们有时得身兼数职。有了大型工具架，所需的工具都能随时取用。",
+		"korean": "작은 마을에서는 한 사람이 여러 가지 역할을 맡아야 할 때가 있습니다. 대형 도구 보관함을 쓰면 필요한 도구를 모두 바로 꺼내 쓸 수 있습니다.",
 	},
 	"trapWood":  {
 		"english":  "Wooden Trap",
@@ -10464,6 +10467,7 @@
 		"hungarian": "Fából készült csapda",
 		"czech": "Dřevěná past",
 		"chinese": "木制陷阱",
+		"korean": "목제 덫",
 	},
 	"trapWoodDescription":  {
 		"english":  "Keep your villagers save and automate your defenses. Once an enemy comes close, the trap snaps close, hurting the invader. Needs to be reset and can be used up to 3 times.",
@@ -10478,6 +10482,7 @@
 		"hungarian": "Tudd biztonságban az embereidet egy autómata védelmi rendszerrel. Mihelyst az ellenség rálép, a csapda összecsukódik, és megséríti az ellenfelet. 3x újraaktiválható.",
 		"czech": "Udržujte své vesničany v bezpečí a automatizujte svou obranu. Jakmile se nepřítel přiblíží, past se přiblíží a zraní vetřelce. Je třeba resetovat a lze ji použít až třikrát.",
 		"chinese": "保护你的殖民者，让防御自动运作。敌人一旦靠近，陷阱就会合拢，对入侵者造成伤害。需要重新布置，最多可使用3次。",
+		"korean": "주민들을 지키고 방어를 자동화하세요. 적이 가까이 다가오면 덫이 탁 하고 닫히면서 침입자에게 상처를 입힙니다. 사용한 뒤에는 다시 설치해야 하며, 최대 3번까지 쓸 수 있습니다.",
 	},
 	"trapWoodBroken":  {
 		"english":  "Broken Wooden Trap",
@@ -10492,6 +10497,7 @@
 		"hungarian": "Elhasznált fából készült csapda",
 		"czech": "Rozbitá dřevěná past",
 		"chinese": "损坏的木制陷阱",
+		"korean": "부서진 목제 덫",
 	},
 	"trap":  {
 		"english":  "Metal Trap",
@@ -10506,6 +10512,7 @@
 		"hungarian": "Fémből készült csapda",
 		"czech": "Kovová past",
 		"chinese": "金属陷阱",
+		"korean": "철제 덫",
 	},
 	"trapDescription":  {
 		"english":  "Upgrade your security by having your blacksmiths create a more sturdy and more deadly trap design. Needs to be reset and can be used up to 5 times.",
@@ -10520,6 +10527,7 @@
 		"hungarian": "A kovács képes felfejleszteni a biztonsági rendszered azzal, hogy még erősebbé és halálosabbá teszi a csapdád. 5x újraaktiválható.",
 		"czech": "Vylepšete své zabezpečení tím, že necháte své kováře vytvořit robustnější a smrtelnější pasti. Je třeba resetovat a lze je použít až 5krát.",
 		"chinese": "让铁匠打造更坚固、更致命的陷阱，提升殖民地的安全。需要重新布置，最多可使用5次。",
+		"korean": "대장장이에게 더 튼튼하고 더 치명적인 덫을 만들게 해서 방어를 강화하세요. 사용한 뒤에는 다시 설치해야 하며, 최대 5번까지 쓸 수 있습니다.",
 	},
 	"trapBroken":  {
 		"english":  "Broken Metal Trap",
@@ -10534,6 +10542,7 @@
 		"hungarian": "Elhasznált fémből készült csapda",
 		"czech": "Rozbitá kovová past",
 		"chinese": "损坏的金属陷阱",
+		"korean": "부서진 철제 덫",
 	},
     "bearStatue": {
         "english": "Bear Statue",
@@ -10548,6 +10557,7 @@
 	"italian": "Statua dell'orso",
 	"dutch": "Berenstandbeeld",
 	"chinese": "熊雕像",
+	"korean": "곰 조각상",
     },
     "boatStatue": {
         "english": "Boat Statue",
@@ -10562,6 +10572,7 @@
 	    "italian": "Statua della barca",
 	    "dutch": "Bootsculptuur",
 	    "chinese": "船雕像",
+	    "korean": "배 조각상",
     },
     "rabbitStatue": {
         "english": "Rabbit Statue",
@@ -10576,6 +10587,7 @@
 	    "italian": "Statua del coniglio",
 	    "dutch": "Konijnenstandbeeld",
 	    "chinese": "兔子雕像",
+	    "korean": "토끼 조각상",
     },
     "treeStatue": {
         "english": "Tree Statue",
@@ -10590,6 +10602,7 @@
 	    "italian": "Statua dell'albero",
 	    "dutch": "Boomsculptuur",
 	    "chinese": "树木雕像",
+	    "korean": "나무 조각상",
     },
     "wheelStatue": {
         "english": "Wheel Statue",
@@ -10604,6 +10617,7 @@
 	    "italian": "Statua della ruota",
 	    "dutch": "Wielsculptuur",
 	    "chinese": "车轮雕像",
+	    "korean": "수레바퀴 조각상",
     },
     "owlStatue": {
         "english": "Owl Statue",
@@ -10618,6 +10632,7 @@
 	    "italian": "Statua del gufo",
 	    "dutch": "Uilenstandbeeld",
 	    "chinese": "猫头鹰雕像",
+	    "korean": "부엉이 조각상",
     },
     "pigStatue": {
         "english": "Pig Statue",
@@ -10632,6 +10647,7 @@
 		"italian": "Statua del maiale",
 		"dutch": "Varkensstandbeeld",
 		"chinese": "猪雕像",
+		"korean": "돼지 조각상",
     },
     "sheepStatue": {
         "english": "Sheep Statue",
@@ -10646,6 +10662,7 @@
 	    "italian": "Statua della pecora",
 	    "dutch": "Schapenstandbeeld",
 	    "chinese": "绵羊雕像",
+	    "korean": "양 조각상",
     },
     "turtleStatue": {
         "english": "Turtle Statue",
@@ -10660,6 +10677,7 @@
 	    "italian": "Statua della tartaruga",
 	    "dutch": "Schildpadstandbeeld",
 	    "chinese": "乌龟雕像",
+	    "korean": "거북이 조각상",
     },
     "craftsmanStatueWood": {
         "english": "Wooden Statue of a Craftsman",
@@ -10674,6 +10692,7 @@
 	    "italian": "Statua in legno di un fabbro",
 	    "dutch": "Houten standbeeld van een ambachtsman",
 	    "chinese": "工匠木雕像",
+	    "korean": "수공업자 목조상",
     },
     "doctorStatueWood": {
         "english": "Wooden Statue of a Doctor",
@@ -10688,6 +10707,7 @@
 	    "italian": "Statua in legno di un medico",
 	    "dutch": "Houten standbeeld van een dokter",
 	    "chinese": "医生木雕像",
+	    "korean": "의사 목조상",
     },
     "farmerStatueWood": {
         "english": "Wooden Statue of a Farmer",
@@ -10702,6 +10722,7 @@
 	    "italian": "Statua in legno di un contadino",
 	    "dutch": "Houten standbeeld van een boer",
 	    "chinese": "农民木雕像",
+	    "korean": "농부 목조상",
     },
     "foresterStatueWood": {
         "english": "Wooden Statue of a Forester",
@@ -10716,6 +10737,7 @@
 	    "italian": "Statua in legno di un guardaboschi",
 	    "dutch": "Houten standbeeld van een houthakker",
 	    "chinese": "伐木工木雕像",
+	    "korean": "나무꾼 목조상",
     },
     "minerStatueWood": {
         "english": "Wooden Statue of a Miner",
@@ -10730,6 +10752,7 @@
 	    "italian": "Statua in legno di un minatore",
 	    "dutch": "Houten standbeeld van een mijnwerker",
 	    "chinese": "矿工木雕像",
+	    "korean": "광부 목조상",
     },
     "scholarStatueWood": {
         "english": "Wooden Statue of a Scholar",
@@ -10744,6 +10767,7 @@
 	    "italian": "Statua in legno di un erudito",
 	    "dutch": "Houten standbeeld van een geleerde",
 	    "chinese": "学者木雕像",
+	    "korean": "학자 목조상",
     },
     "soldierStatueWood": {
         "english": "Wooden Statue of a Soldier",
@@ -10758,6 +10782,7 @@
 	    "italian": "Statua in legno di un soldato",
 	    "dutch": "Houten standbeeld van een soldaat",
 	    "chinese": "战士木雕像",
+	    "korean": "군인 목조상",
     },
     "craftsmanStatueStone": {
         "english": "Marble Statue of a Craftsman",
@@ -10772,6 +10797,7 @@
 	    "italian": "Statua in marmo di un fabbro",
 	    "dutch": "Marmeren standbeeld van een ambachtsman",
 	    "chinese": "工匠大理石雕像",
+	    "korean": "수공업자 대리석상",
     },
     "doctorStatueStone": {
         "english": "Marble Statue of a Doctor",
@@ -10786,6 +10812,7 @@
 	    "italian": "Statua in marmo di un medico",
 	    "dutch": "Marmeren standbeeld van een dokter",
 	    "chinese": "医生大理石雕像",
+	    "korean": "의사 대리석상",
     },
     "farmerStatueStone": {
         "english": "Marble Statue of a Farmer",
@@ -10800,6 +10827,7 @@
 	    "italian": "Statua in marmo di un contadino",
 	    "dutch": "Marmeren standbeeld van een boer",
 	    "chinese": "农民大理石雕像",
+	    "korean": "농부 대리석상",
     },
     "foresterStatueStone": {
         "english": "Marble Statue of a Forester",
@@ -10814,6 +10842,7 @@
 		"italian": "Statua in marmo di un guardaboschi",
 		"dutch": "Marmeren standbeeld van een houthakker",
 		"chinese": "伐木工大理石雕像",
+		"korean": "나무꾼 대리석상",
     },
     "minerStatueStone": {
         "english": "Marble Statue of a Miner",
@@ -10828,6 +10857,7 @@
 	    "italian": "Statua in marmo di un minatore",
 	    "dutch": "Marmeren standbeeld van een mijnwerker",
 	    "chinese": "矿工大理石雕像",
+	    "korean": "광부 대리석상",
     },
     "scholarStatueStone": {
         "english": "Marble Statue of a Scholar",
@@ -10842,6 +10872,7 @@
 	    "italian": "Statua in marmo di un erudito",
 	    "dutch": "Marmeren standbeeld van een geleerde",
 	    "chinese": "学者大理石雕像",
+	    "korean": "학자 대리석상",
     },
     "soldierStatueStone": {
         "english": "Marble Statue of a Soldier",
@@ -10856,6 +10887,7 @@
 	    "italian": "Statua in marmo di un soldato",
 	    "dutch": "Marmeren standbeeld van een soldaat",
 	    "chinese": "战士大理石雕像",
+	    "korean": "군인 대리석상",
     },
     "fireStatue": {
         "english": "Sculpture of Fire",
@@ -10870,6 +10902,7 @@
 	    "italian": "Scultura del fuoco",
 	    "dutch": "Sculptuur van het vuur",
 	    "chinese": "火之雕塑",
+	    "korean": "불의 조각상",
     },
     "skullStatue": {
         "english": "Sculpture of Death",
@@ -10885,6 +10918,7 @@
 	    
 	    "dutch": "Sculptuur van de dood",
 	    "chinese": "死亡之雕塑",
+	    "korean": "죽음의 조각상",
     },
     "stoneStatue": {
         "english": "Sculpture of Earth",
@@ -10899,6 +10933,7 @@
 	    "italian": "Scultura della terra",
 	    "dutch": "Sculptuur van de aarde",
 	    "chinese": "大地之雕塑",
+	    "korean": "대지의 조각상",
     },
     "waterStatue": {
         "english": "Sculpture of Water",
@@ -10913,6 +10948,7 @@
 	    "italian": "Scultura dell'acqua",
 	    "dutch": "Sculptuur van het water",
 	    "chinese": "水之雕塑",
+	    "korean": "물의 조각상",
     },
     "windStatue": {
         "english": "Sculpture of Wind",
@@ -10927,6 +10963,7 @@
 	    "italian": "Scultura del vento",
 	    "dutch": "Sculptuur van de wind",
 	    "chinese": "风之雕塑",
+	    "korean": "바람의 조각상",
     },
     "axeHandStatue": {
         "english": "Monument of Chopping",
@@ -10941,6 +10978,7 @@
 	    "italian": "Monumento all'abbattimento degli alberi",
 	    "dutch": "Monument van de houtkap",
 	    "chinese": "伐木纪念碑",
+	    "korean": "벌목 기념비",
     },
     "canHandStatue": {
         "english": "Monument of Care",
@@ -10955,6 +10993,7 @@
 	    "italian": "Monumento alla cura",
 	    "dutch": "Monument van de zorg",
 	    "chinese": "照料纪念碑",
+	    "korean": "경작 기념비",
     },
     "femaleGnomeStatue": {
         "english": "Female Gnome",
@@ -10970,6 +11009,7 @@
 	    "italian": "Nana da giardino",
 	    "dutch": "Vrouwelijke kabouter",
 	    "chinese": "女花园地精",
+	    "korean": "정원 난쟁이 (여)",
     },
     "hammerHandStatue": {
         "english": "Monument of Construction",
@@ -10985,6 +11025,7 @@
 	    "italian": "Monumento alla costruzione",
 	    "dutch": "Monument van de bouwkunst",
 	    "chinese": "建造纪念碑",
+	    "korean": "건설 기념비",
     },
     "maleGnomeStatue": {
         "english": "Male Gnome",
@@ -11000,6 +11041,7 @@
 	    "italian": "Nano da giardino",
 	    "dutch": "Mannelijke kabouter",
 	    "chinese": "男花园地精",
+	    "korean": "정원 난쟁이 (남)",
     },
     "pickaxeHandStatue": {
         "english": "Monument of Mining",
@@ -11015,6 +11057,7 @@
 	    "italian": "Monumento all'estrazione mineraria",
 	    "dutch": "Monument van de mijnbouw",
 	    "chinese": "采矿纪念碑",
+	    "korean": "채굴 기념비",
     },
     "paintingCastle": {
         "english": "\"My dream castle!\"",
@@ -11029,6 +11072,7 @@
 	    "italian": "\"Il castello dei miei sogni!\"",
 	    "dutch": "\"Mijn droomkasteel!\"",
 	    "chinese": "《我梦想中的城堡！》",
+	    "korean": "〈내 꿈의 성!〉",
     },
     "paintingChurch": {
         "english": "\"Starry Night\"",
@@ -11043,6 +11087,7 @@
 	    "italian": "\"Notte stellata\"",
 	    "dutch": "\"De sterrennacht\"",
 	    "chinese": "《星夜》",
+	    "korean": "〈별이 빛나는 밤〉",
     },
     "paintingColony": {
         "english": "\"Home\"",
@@ -11057,6 +11102,7 @@
 	    "italian": "\"Casa\"",
 	    "dutch": "\"Thuis\"",
 	    "chinese": "《家》",
+	    "korean": "〈집〉",
     },
     "paintingCrab": {
         "english": "\"Summer Sunset\"",
@@ -11071,6 +11117,7 @@
 	    "italian": "\"Tramonto d'estate\"",
 	    "dutch": "\"Zomerse zonsondergang\"",
 	    "chinese": "《夏日夕阳》",
+	    "korean": "〈여름의 노을〉",
     },
     "paintingFlower": {
         "english": "\"Positivity\"",
@@ -11085,6 +11132,7 @@
 	    "italian": "\"Positività\"",
 	    "dutch": "\"Positiviteit\"",
 	    "chinese": "《正能量》",
+	    "korean": "〈긍정〉",
     },
     "paintingFox": {
         "english": "\"Guardian of the Forest\"",
@@ -11099,6 +11147,7 @@
 	    "italian": "\"Il guardiano della foresta\"",
 	    "dutch": "\"Hoeder van het bos\"",
 	    "chinese": "《森林守护者》",
+	    "korean": "〈숲의 수호자〉",
     },
     "paintingHorse": { // just keep bullseye
         "english": "\"Bullseye\"",
@@ -11113,6 +11162,7 @@
 	    "italian": "\"Pile\"",
 	    "dutch": "\"Bullseye\"",
 	    "chinese": "《红心》",
+	    "korean": "〈불스아이〉",
     },
     "paintingHouse": {
         "english": "\"Sunny Valley\"",
@@ -11128,6 +11178,7 @@
 	    "italian": "\"Valle soleggiata\"",
 	    "dutch": "\"Zonnig dal\"",
 	    "chinese": "《阳光山谷》",
+	    "korean": "〈햇살 가득한 골짜기〉",
     },
     "paintingInterior": {
         "english": "\"Dining Room\"",
@@ -11143,6 +11194,7 @@
 	    "italian": "\"Sala da pranzo\"",
 	    "dutch": "\"Eetkamer\"",
 	    "chinese": "《餐厅》",
+	    "korean": "〈식당〉",
     },
     "paintingLake": {
         "english": "\"Reflection\"",
@@ -11158,6 +11210,7 @@
 	    "italian": "\"Riflesso\"",
 	    "dutch": "\"Weerspiegeling\"",
 	    "chinese": "《倒影》",
+	    "korean": "〈물그림자〉",
     },
     "paintingNaturamorta": {
         "english": "\"Natura Morta\"",
@@ -11173,6 +11226,7 @@
 	    "italian": "\"Natura morta\"",
 	    "dutch": "\"Stilleven\"",
 	    "chinese": "《静物》",
+	    "korean": "〈정물〉",
     },
     "paintingNeve": {
         "english": "\"Winter Wonderland\"",
@@ -11188,6 +11242,7 @@
 	    "italian": "\"Incanto d'inverno\"",
 	    "dutch": "\"Winterwonderland\"",
 	    "chinese": "《冬日仙境》",
+	    "korean": "〈겨울 나라〉",
     },
     "paintingPanorama": {
         "english": "\"Everything the light touches\"",
@@ -11203,6 +11258,7 @@
 	    "italian": "\"Tutto ciò che la luce sfiora\"",
 	    "dutch": "\"Alles wat het licht aanraakt\"",
 	    "chinese": "《光芒所及之处》",
+	    "korean": "〈빛이 닿는 모든 곳〉",
     },
     "paintingPortrait": {
         "english": "\"Beauty\"",
@@ -11218,6 +11274,7 @@
 	    "italian": "\"Bellezza\"",
 	    "dutch": "\"Schoonheid\"",
 	    "chinese": "《美》",
+	    "korean": "〈아름다움〉",
     },
     "paintingTeddy": {
         "english": "\"Friends\"",
@@ -11233,6 +11290,7 @@
 	    "italian": "\"Amici\"",
 	    "dutch": "\"Vrienden\"",
 	    "chinese": "《朋友》",
+	    "korean": "〈친구〉",
     },
     "paintingTree": {
         "english": "\"Big Tree\"",
@@ -11248,6 +11306,7 @@
 	    "italian": "\"Il grande albero\"",
 	    "dutch": "\"Grote boom\"",
 	    "chinese": "《大树》",
+	    "korean": "〈커다란 나무〉",
     },
     "gardenSoil": {
         "english": "Soil for Flowers",
@@ -11263,6 +11322,7 @@
 	    "italian": "Terreno per fiori",
 	    "dutch": "Bodem voor Bloemen",
 	    "chinese": "花卉种植土",
+	    "korean": "꽃밭 흙",
     },
     "gardenSoilDescription": {
         "english": "Aren't flowers great? They'll make the village look so pretty only if you care for them. If not taken care of, they will die!",
@@ -11278,6 +11338,7 @@
 	    "italian": "I fiori non sono meravigliosi? Renderanno il villaggio molto più bello, ma solo se te ne prendi cura. Se trascurati, appassiranno!",
 	    "dutch": "Zijn bloemen niet geweldig? Ze maken je dorp prachtig - maar alleen als je ze verzorgt. Krijgen ze geen aandacht, dan gaan ze dood!",
 	    "chinese": "花儿多美啊！只要用心照料，村庄就会变得赏心悦目。要是没人打理，它们可是会枯死的！",
+	    "korean": "꽃은 정말 멋지지 않나요? 잘 돌봐주기만 하면 마을이 아주 예뻐질 겁니다. 하지만 돌보지 않으면 시들어 죽어버려요!",
     },
     "easel": {
         "english": "Easel",
@@ -11293,6 +11354,7 @@
 	    "italian": "Cavalletto",
 	    "dutch": "Schildersezel",
 	    "chinese": "画架",
+	    "korean": "이젤",
     },
     "easelDescription": {
         "english": "This easel can help you become Pablo Picasso!",
@@ -11308,6 +11370,7 @@
 	    "italian": "Con questo cavalletto potresti diventare il nuovo Pablo Picasso!",
 	    "dutch": "Met deze schildersezel word jij de nieuwe Pablo Picasso!",
 	    "chinese": "有了这个画架，你也能成为毕加索！",
+	    "korean": "이 이젤만 있으면 당신도 파블로 피카소가 될 수 있습니다!",
     },
     "writingTable": {
         "english": "Writing Table",
@@ -11323,6 +11386,7 @@
 	    "italian": "Scrittoio",
 	    "dutch": "Schrijftafel",
 	    "chinese": "写字台",
+	    "korean": "집필용 책상",
     },
     "writingTableDescription": {
         "english": "A perfect table for the perfect writer. With this table you can write books and sell them!",
@@ -11338,6 +11402,7 @@
 	    "italian": "Lo scrittoio perfetto per lo scrittore perfetto. Con questo tavolo puoi scrivere libri e poi venderli!",
 	    "dutch": "De perfecte tafel voor de perfecte schrijver. Aan deze tafel kun je boeken schrijven en ze daarna verkopen!",
 	    "chinese": "完美的作家配上完美的书桌。在这张桌子上你可以写书，还能把书卖出去！",
+	    "korean": "완벽한 작가를 위한 완벽한 책상. 이 책상에서 책을 쓰고, 팔 수도 있습니다!",
     },
     "piano": {
         "english": "Piano",
@@ -11353,6 +11418,7 @@
 	    "italian": "Pianoforte",
 	    "dutch": "Piano",
 	    "chinese": "钢琴",
+	    "korean": "피아노",
     },
     "pianoDescription": {
         "english": "The most expensive, most beautiful piano ever!",
@@ -11368,5 +11434,6 @@
 	    "italian": "Il pianoforte più costoso e più bello di sempre!",
 	    "dutch": "De duurste en mooiste piano ooit!",
 	    "chinese": "史上最昂贵、最漂亮的钢琴！",
+	    "korean": "세상에서 가장 비싸고, 가장 아름다운 피아노!",
     }
 }

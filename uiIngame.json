@@ -605,6 +605,7 @@
 		"italian": "Svago",
 		"dutch": "Plezier",
 		"chinese": "娱乐",
+		"korean": "여가",
     },
 	"needsDescriptionMood": {
 		"english": "If you don't keep your colonists happy, they'll start being defiant and might stop following your orders.",
@@ -725,6 +726,7 @@
 		"italian": "Concedi ai tuoi coloni la possibilità di divertirsi ogni tanto. La vita non è fatta solo di lavoro, no?",
 		"dutch": "Gun je kolonisten af en toe wat plezier. Het leven draait toch niet alleen om werk?",
 		"chinese": "偶尔让你的殖民者放松娱乐一下.生活不只有工作,对吧?",
+		"korean": "개척자들에게도 가끔 즐길 시간을 주세요. 삶이 일로만 채워질 순 없잖아요?",
     },
 	"needsTitleTameness": {
 		"english": "Tameness",
@@ -1719,7 +1721,7 @@
 		"polish": "%firstName% miał%nicA% wiele dobrych dośwadczeń w swoim dzieciństwie i zyskał%nicA% następujące cechy:",
 		"czech": "%firstName% získa%lA% hodně dobrých zkušeností v dětství a získa%lA% tyto vlastnosti:",
 		"japanese": "%firstName%は多くのプラスの満足度ポイントにより下記の個性を獲得しました。",
-		"korean": "%firstName%#{은} %그의그녀의%의 유년시절 긍정적인 경험을 많이 했습니다. 이러한 성향을 얻습니다:",
+		"korean": "%firstName%#{은} 유년시절 긍정적인 경험을 많이 했습니다. 이러한 성향을 얻습니다:",
 		"ukrainian":"%firstName% ма%hesheEnd% чудове безтурботне дитинство та здобу%hesheEnd% такі риси:",
 		"hungarian": "%firstName% sok jó tapasztalatot gyűjtött gyerekkorában, így a következő tulajdonságai lesznek:",
 	},
@@ -1732,6 +1734,7 @@
 		"russian": "%firstName% приобрел%surnameA% несколько положительного опыта в своем детстве, из-за чего получил%surnameA% следующие черты:",
 		"portuguese": "%firstName% teve boas experiências na infância de %eleEla% e ganhou as seguintes características:",
 		"chinese": "%firstName% 拥有一些好的童年经历，%他的她的% 的特性如下:",
+		"korean": "%firstName%#{은} 유년시절 긍정적인 경험을 조금 했습니다. 이러한 성향을 얻습니다:",
 		"italian": "%firstName% ha vissuto alcune esperienze positive nella sua infanzia e ha ottenuto i seguenti tratti:",
 		"romanian": "%firstName% a avut câteva experiențe pozitive în copilărie și a obținut următoarele trăsături:",
 		"turkish": "%firstName% çocukluğunda bazı iyi deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
@@ -1750,6 +1753,7 @@
 		"russian": "Негативные черты",
 		"portuguese": "Traços negativos",
 		"chinese": "积极特性",
+		"korean": "부정적 성향",
 		"italian": "Tratti negativi",
 		"romanian": "Trăsături negative",
 		"turkish": "Olumsuz özellikler",
@@ -1768,6 +1772,7 @@
 		"russian": "%firstName% приобрел%surnameA% много негативного опыта в своем детстве, из-за чего получил%surnameA% следующие черты:",
 		"portuguese": "%firstName% teve muitas experiências ruins em %eleEla% infância e ganhou as seguintes características:",
 		"chinese": "%firstName% 拥有很多不好的童年经历，%他的她的% 的特性如下:",
+		"korean": "%firstName%#{은} 유년시절 부정적인 경험을 많이 했습니다. 이러한 성향을 얻습니다:",
 		"italian": "%firstName% ha vissuto molte esperienze negative nella sua infanzia e ha ottenuto i seguenti tratti:",
 		"romanian": "%firstName% a avut multe experiențe negative în copilărie și a obținut următoarele trăsături:",
 		"turkish": "%firstName% çocukluğunda çok kötü deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
@@ -1786,6 +1791,7 @@
 		"russian": "%firstName% приобрел%surnameA% несколько негативного опыта в своем детстве, из-за чего получил%surnameA% следующие черты:",
 		"portuguese": "%firstName% teve algumas experiências ruins na infância de %eleEla% e ganhou as seguintes características:",
 		"chinese": "%firstName% 拥有一些不好的童年经历，%他的她的% 的特性如下:",
+		"korean": "%firstName%#{은} 유년시절 부정적인 경험을 조금 했습니다. 이러한 성향을 얻습니다:",
 		"italian": "%firstName% ha vissuto alcune esperienze negative nella sua infanzia e ha ottenuto i seguenti tratti:",
 		"romanian": "%firstName% a avut câteva experiențe negative în copilărie și a obținut următoarele trăsături:",
 		"turkish": "%firstName% çocukluğunda bazı kötü deneyimler yaşadı ve sonucunda şu özelliklere sahip oldu:",
@@ -1804,6 +1810,7 @@
 		"russian": "Образование",
 		"portuguese": "Educação",
 		"chinese": "教育",
+		"korean": "교육",
 		"italian": "Educazione",
 		"romanian": "Educație",
 		"turkish": "Eğitim",
@@ -1822,6 +1829,7 @@
 		"russian": "%firstName% набрал%surnameA% %points% очков образования, теперь %онОна% может потратить их на уровни профессий:",
 		"portuguese": "%firstName% reuniu %points% pontos de educação que %eleEla% agora podem gastar nos níveis de profissão:",
 		"chinese": "%firstName% 拥有教育 %points% 点数，%他她% 可以在以下的专业选择升级:",
+		"korean": "%firstName%#{은} 교육 포인트 %points%점을 모았습니다. 이제 직업 레벨에 사용할 수 있습니다:",
 		"italian": "%firstName% ha accumulato %points% punti Educazione che ora può spendere nei Livelli di Professione:",
 		"romanian": "%firstName% a acumulat %points% puncte de educație pe care acum le poate cheltui la nivelurile de profesie:",
 		"turkish": "%firstName%, %points% eğtim puanı kazandı. Bu puanlarla meslek seviyesini arttırabilir",
@@ -1840,6 +1848,7 @@
 		"russian": "Стоимость пункта",
 		"portuguese": "Custo ponto",
 		"chinese": "消耗点数",
+		"korean": "필요 포인트",
 		"italian": "Costo in punti",
 		"romanian": "Cost în puncte",
 		"turkish": "Puan maliyeti",
@@ -1858,6 +1867,7 @@
 		"russian": "%points% очков осталось",
 		"portuguese": "%points% Pontos restantes",
 		"chinese": "剩余%points%点数",
+		"korean": "%points% 포인트 남음",
 		"italian": "%points% Punti rimanenti",
 		"romanian": "%points% puncte rămase",
 		"turkish": "%points% puan kaldı",
@@ -1876,6 +1886,7 @@
 		"russian": "С днем рождения!",
 		"portuguese": "Feliz Aniversário!",
 		"chinese": "生日快乐！",
+		"korean": "생일 축하합니다!",
 		"italian": "Buon compleanno!",
 		"romanian": "La mulți ani!",
 		"turkish": "Mutlu yıllar!",
@@ -2384,6 +2395,7 @@
 		"italian": "Mangia auto.",
 		"dutch": "Automatisch eten",
 		"chinese": "自动进食",
+		"korean": "자동으로 식사",
 	},
 	"autoEatTooltip_Title": {
 		"english": "Auto Eat",
@@ -2399,6 +2411,7 @@
 		"italian": "Mangiare automaticamente",
 		"dutch": "Automatisch eten",
 		"chinese": "自动进食",
+		"korean": "자동으로 식사",
 	},
 	"autoEatTooltip_Desc": {
 		"english": "When enabled, your colonists will eat when their hunger is below 20% regardless of hour type.",
@@ -2414,6 +2427,7 @@
 		"italian": "Se attivo, i tuoi coloni mangeranno quando la loro fame scende sotto il 20%, a prescindere dal tipo di ora.",
 		"dutch": "Als dit aanstaat, eten je kolonisten zodra hun honger onder de 20% zakt, ongeacht wat er in het rooster staat.",
 		"chinese": "启用后，无论时段类型为何，殖民者的饥饿低于20%时都会去吃东西。",
+		"korean": "켜면 시간대 설정과 상관없이 배고픔이 20% 아래로 떨어질 때 개척자들이 식사를 합니다.",
 	},
 	"autoSleep": {
 		"english": "Auto sleep",
@@ -2429,6 +2443,7 @@
 		"italian": "Dormi auto.",
 		"dutch": "Automatisch slapen",
 		"chinese": "自动睡觉",
+		"korean": "자동으로 취침",
 	},
 	"autoSleepTooltip_Title": {
 		"english": "Auto Sleep",
@@ -2444,6 +2459,7 @@
 		"italian": "Dormire automaticamente",
 		"dutch": "Automatisch slapen",
 		"chinese": "自动睡觉",
+		"korean": "자동으로 취침",
 	},
 	"autoSleepTooltip_Desc": {
 		"english": "When enabled, your colonists will sleep when their energy is below 15% regardless of hour type",
@@ -2459,6 +2475,7 @@
 		"italian": "Se attivo, i tuoi coloni dormiranno quando la loro energia scende sotto il 15%, a prescindere dal tipo di ora.",
 		"dutch": "Als dit aanstaat, gaan je kolonisten slapen zodra hun energie onder de 15% zakt, ongeacht wat er in het rooster staat.",
 		"chinese": "启用后，无论时段类型为何，殖民者的精力低于15%时都会去睡觉。",
+		"korean": "켜면 시간대 설정과 상관없이 체력이 15% 아래로 떨어질 때 개척자들이 잠을 잡니다.",
 	},
 	"combatModeTooltip_Title": {
 		"english": "Combat Mode",
@@ -4261,6 +4278,7 @@
 		"ukrainian":"\"",
 		"hungarian": "\"",
 		"chinese": "“",
+		"korean": "“",
 	},
 	"quotation_end": {
 		"english": "\"",
@@ -4276,6 +4294,7 @@
 		"ukrainian": "\"",
 		"hungarian": "\"",
 		"chinese": "”",
+		"korean": "”",
 	},
 	"enumeration_comma": { // comma used to separate list items, e.g. "apples, oranges"
 		"english": ", ",
@@ -5359,6 +5378,7 @@
 		"italian": "Gli obiettivi sono disabilitati perché hai modificato le impostazioni sandbox.",
 		"dutch": "Prestaties zijn uitgeschakeld omdat je de sandbox-instellingen hebt gewijzigd.",
 		"chinese": "成就已被禁用，因为你修改了沙盒设置。",
+		"korean": "샌드박스 설정을 변경했기 때문에 도전 과제가 비활성화되었습니다.",
     },
 	"achievements_off_cheats": {
 		"english":  "Achievements are disabled because you have used developer mode.",
@@ -5491,6 +5511,7 @@
 		"hungarian": "A csapdákat többször is élesítheted",
 		"czech": "Zbývající použití pasti",
 		"chinese": "剩余可重置次数",
+		"korean": "덫을 다시 설치할 수 있는 횟수",
 	},
     "hobbies": {
         "english": "Hobbies",
@@ -5506,6 +5527,7 @@
 		"italian": "Hobby",
 		"dutch": "Hobby's",
 		"chinese": "爱好",
+		"korean": "취미",
     },
     "hobbyTitle_Painting": {
         "english": "Painting",
@@ -5521,6 +5543,7 @@
 		"italian": "Pittura",
 		"dutch": "Schilderen",
 		"chinese": "绘画",
+		"korean": "그림 그리기",
     },
 	"hobbyDesc": {
 	"english": "Interest: %interest%",
@@ -5536,6 +5559,7 @@
 		"italian": "Interesse: %interest%",
 		"dutch": "Interesse: %interest%",
 		"chinese": "兴趣：%interest%",
+		"korean": "관심도: %interest%",
 	},
     "hobbyDesc_IsMainHobby": {
         "english": "Is main hobby.",
@@ -5551,6 +5575,7 @@
 		"italian": "È l'hobby principale.",
 		"dutch": "Is hoofdhobby.",
 		"chinese": "这是主要爱好。",
+		"korean": "가장 좋아하는 취미입니다.",
     },
     "hobbyTitle_Gardening": {
         "english": "Gardening",
@@ -5566,6 +5591,7 @@
 		"italian": "Giardinaggio",
 		"dutch": "Tuinieren",
 		"chinese": "园艺",
+		"korean": "원예",
     },
     "hobbyTitle_Music": {
         "english": "Music",
@@ -5581,6 +5607,7 @@
 		"italian": "Musica",
 		"dutch": "Muziek",
 		"chinese": "音乐",
+		"korean": "음악",
     },
     "hobbyTitle_Writing": {
         "english": "Writing",
@@ -5596,6 +5623,7 @@
 		"italian": "Scrittura",
 		"dutch": "Schrijven",
 		"chinese": "写作",
+		"korean": "글쓰기",
     },
     "hobbyTitle_Woodworking": {
         "english": "Woodworking",
@@ -5611,6 +5639,7 @@
 		"italian": "Intaglio del legno",
 		"dutch": "Houtsnijden",
 		"chinese": "木工",
+		"korean": "목공예",
     },
     "hobbyTitle_Reading": { // reading or literature
         "english": "Reading",
@@ -5626,6 +5655,7 @@
 	    "italian": "Lettura",
 	    "dutch": "Lezen",
 	    "chinese": "阅读",
+	    "korean": "독서",
     },
     "hobbyTitle_Masonry": {
         "english": "Masonry",
@@ -5641,6 +5671,7 @@
 	    "italian": "Scultura",
 	    "dutch": "Beeldhouwen",
 	    "chinese": "石雕",
+	    "korean": "석공예",
     },
     "hobbyIsDumb": {
         "english": "Can't level up in hobbies because %firstName% is dumb",
@@ -5656,6 +5687,7 @@
 	    "italian": "Non può migliorare negli hobby perché %firstName% è ottus%OA%",
 	    "dutch": "Kan niet stijgen in hobby's omdat %firstName% dom is",
 	    "chinese": "%firstName%太笨了，爱好无法提升等级",
+	    "korean": "%firstName%#{은} 멍청해서 취미 레벨을 올릴 수 없습니다",
     },
   "colonyWide": { 
         "english": "Colony-wide",
@@ -5671,6 +5703,7 @@
 	  "italian": "Tutta la colonia",
 	  "dutch": "Hele kolonie",
 	  "chinese": "全殖民地",
+	  "korean": "정착지 전체",
     },
     "workHourType": {
         "english": "Work",
@@ -5686,6 +5719,7 @@
 	    "italian": "Lavoro",
 	    "dutch": "Werk",
 	    "chinese": "工作",
+	    "korean": "근무",
     },
     "workHourTypeTooltip_Title": {
         "english": "Work Hour",
@@ -5701,6 +5735,7 @@
 	    "italian": "Ora di lavoro",
 	    "dutch": "Werkuur",
 	    "chinese": "工作时段",
+	    "korean": "근무 시간",
     },
     "workHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will only do work.",
@@ -5716,6 +5751,7 @@
 	    "italian": "Durante quest'ora, i tuoi coloni si dedicheranno soltanto al lavoro.",
 	    "dutch": "Tijdens dit uur doen je kolonisten alleen werk.",
 	    "chinese": "在这个时段，你的殖民者只会工作。",
+	    "korean": "이 시간대에는 개척자들이 일만 합니다.",
     },
     "freeHourType": {
         "english": "Free/Socialize",
@@ -5731,6 +5767,7 @@
 	    "italian": "Libera/Sociale",
 	    "dutch": "Vrij/Sociaal",
 	    "chinese": "休闲/社交",
+	    "korean": "여가/사교",
     },
     "freeHourTypeTooltip_Title": {
         "english": "Free/Socialize Hour",
@@ -5746,6 +5783,7 @@
 	    "italian": "Ora libera/di socializzazione",
 	    "dutch": "Vrij/sociaal uur",
 	    "chinese": "休闲/社交时段",
+	    "korean": "여가/사교 시간",
     },
     "freeHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will relax, socialize, and do hobbies.",
@@ -5761,6 +5799,7 @@
 	    "italian": "Durante quest'ora, i tuoi coloni si rilasseranno, socializzeranno e si dedicheranno ai loro hobby.",
 	    "dutch": "Tijdens dit uur ontspannen je kolonisten, praten ze met elkaar en werken ze aan hun hobby's.",
 	    "chinese": "在这个时段，你的殖民者会休息、社交，以及从事自己的爱好。",
+	    "korean": "이 시간대에는 개척자들이 휴식하고, 사람들과 어울리고, 취미를 즐깁니다.",
     },
     "eatHourType": {
         "english": "Eat",
@@ -5776,6 +5815,7 @@
 	    "italian": "Pasto",
 	    "dutch": "Eten",
 	    "chinese": "用餐",
+	    "korean": "식사",
     },
     "eatHourTypeTooltip_Title": {
         "english": "Eating Hour",
@@ -5791,6 +5831,7 @@
 	    "italian": "Ora del pasto",
 	    "dutch": "Eetuur",
 	    "chinese": "用餐时段",
+	    "korean": "식사 시간",
     },
     "eatHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will eat when their hunger is below 80%.\nOtherwise, they will continue to do their tasks",
@@ -5806,6 +5847,7 @@
 	"italian": "Durante quest'ora, i tuoi coloni mangeranno se la loro fame è sotto l'80%.\nAltrimenti continueranno a svolgere i loro compiti.",
 	"dutch": "Tijdens dit uur eten je kolonisten als hun honger onder de 80% zit.\nAnders gaan ze verder met hun taken",
 	"chinese": "在这个时段，饥饿低于80%时你的殖民者会去吃东西。\n否则他们会继续手头的任务。",
+	"korean": "이 시간대에는 배고픔이 80% 아래일 때 개척자들이 식사를 합니다.\n그렇지 않으면 하던 일을 계속합니다.",
     },
     "randomHourType": {
         "english": "Random",
@@ -5821,6 +5863,7 @@
 	    "italian": "Casuale",
 	    "dutch": "Willekeurig",
 	    "chinese": "随机",
+	    "korean": "무작위",
     },
     "randomHourTypeTooltip_Title": {
         "english": "Random Hour",
@@ -5836,6 +5879,7 @@
 	    "italian": "Ora casuale",
 	    "dutch": "Willekeurig uur",
 	    "chinese": "随机时段",
+	    "korean": "무작위 시간",
     },
     "randomHourTypeTooltip_Desc": {
         "english": "During this hour, colonists can pick tasks from all the task categories.\nThey will eat when their hunger is below 20% and sleep when their energy is below 15%.",
@@ -5851,6 +5895,7 @@
 	    "italian": "Durante quest'ora, i coloni possono scegliere compiti da tutte le categorie.\nMangeranno quando la loro fame è sotto il 20% e dormiranno quando la loro energia è sotto il 15%.",
 	    "dutch": "Tijdens dit uur kunnen kolonisten taken uit alle categorieën kiezen.\nZe eten als hun honger onder de 20% zit en slapen als hun energie onder de 15% zit.",
 	    "chinese": "在这个时段，殖民者可以从所有任务类别中挑选任务。\n饥饿低于20%时他们会去吃东西，精力低于15%时会去睡觉。",
+	    "korean": "이 시간대에는 개척자들이 모든 종류의 일 중에서 자유롭게 골라 합니다.\n배고픔이 20% 아래로 떨어지면 식사를 하고, 체력이 15% 아래로 떨어지면 잠을 잡니다.",
     },
     "sleepHourTypeTooltip_Title": {
         "english": "Sleeping Hour",
@@ -5866,6 +5911,7 @@
 	    "italian": "Ora del riposo",
 	    "dutch": "Slaapuur",
 	    "chinese": "睡眠时段",
+	    "korean": "취침 시간",
     },
     "sleepHourTypeTooltip_Desc": {
         "english": "During this hour, your colonists will sleep when their energy is below 80%.\nOtherwise, they will continue to do their tasks",
@@ -5881,6 +5927,7 @@
 	    "italian": "Durante quest'ora, i tuoi coloni dormiranno se la loro energia è sotto l'80%.\nAltrimenti continueranno a svolgere i loro compiti.",
 	    "dutch": "Tijdens dit uur gaan je kolonisten slapen als hun energie onder de 80% zit.\nAnders gaan ze verder met hun taken",
 	    "chinese": "在这个时段，精力低于80%时你的殖民者会去睡觉。\n否则他们会继续手头的任务。",
+	    "korean": "이 시간대에는 체력이 80% 아래일 때 개척자들이 잠을 잡니다.\n그렇지 않으면 하던 일을 계속합니다.",
     },
     "eatOnlyAtHouse": {
         "english": "Eat only at house",
@@ -5897,6 +5944,7 @@
 	    
 	    "dutch": "Alleen thuis eten",
 	    "chinese": "只在家中进食",
+	    "korean": "집에서만 식사",
     },
     "eatOnlyAtHouseTooltip_Title": {
         "english": "Eat only at own house",
@@ -5912,6 +5960,7 @@
 	    "italian": "Mangiare solo a casa propria",
 	    "dutch": "Alleen in eigen huis eten",
 	    "chinese": "只在自己家中进食",
+	    "korean": "자기 집에서만 식사",
     },
     "eatOnlyAtHouseTooltip_Desc": {
         "english": "When enabled, colonists will prioritize eating at their own house",
@@ -5927,6 +5976,7 @@
 	    "italian": "Se attivo, i coloni daranno la priorità a mangiare a casa propria.",
 	    "dutch": "Als dit aanstaat, proberen kolonisten bij voorkeur in hun eigen huis te eten",
 	    "chinese": "启用后，殖民者会优先回自己家里吃饭",
+	    "korean": "켜면 개척자들이 자기 집에서 식사하는 것을 우선합니다",
     },
     "small": {
         "english": "Small",
@@ -5942,6 +5992,7 @@
 	    "italian": "Piccole",
 	    "dutch": "Klein",
 	    "chinese": "少量",
+	    "korean": "적음",
     },
     "smallRationsTooltip_Title": {
         "english": "Small Food Rations",
@@ -5957,6 +6008,7 @@
 	    "italian": "Razioni di cibo piccole",
 	    "dutch": "Kleine rantsoenen",
 	    "chinese": "少量食物配给",
+	    "korean": "적은 배급량",
     },
     "smallRationsTooltip_Desc": {
         "english": "Tough times huh? Your colonists will eat less food at the cost of being sad.",
@@ -5972,6 +6024,7 @@
 	    "italian": "Tempi duri, eh? I tuoi coloni mangeranno di meno, ma non ne saranno affatto felici.",
 	    "dutch": "Zware tijden, hè? Je kolonisten eten minder, maar vrolijk worden ze er niet van.",
 	    "chinese": "日子不好过吧？你的殖民者会少吃一些，代价是心情低落。",
+	    "korean": "힘든 시기인가요? 개척자들이 음식을 덜 먹는 대신 기분이 나빠집니다.",
     },
     "medium": {
         "english": "Medium",
@@ -5987,6 +6040,7 @@
 	    "italian": "Medie",
 	    "dutch": "Middel",
 	    "chinese": "适量",
+	    "korean": "보통",
     },
     "mediumRationsTooltip_Title": {
         "english": "Medium Food Rations",
@@ -6002,6 +6056,7 @@
 	    "italian": "Razioni di cibo medie",
 	    "dutch": "Normale rantsoenen",
 	    "chinese": "中等食物配给",
+	    "korean": "보통 배급량",
     },
     "mediumRationsTooltip_Desc": {
         "english": "Your colonists will eat normal amounts of food.",
@@ -6017,6 +6072,7 @@
 	    "italian": "I tuoi coloni mangeranno quantità normali di cibo.",
 	    "dutch": "Je kolonisten eten normale hoeveelheden voedsel.",
 	    "chinese": "你的殖民者会吃正常份量的食物。",
+	    "korean": "개척자들이 평소만큼 음식을 먹습니다.",
     },
     "large": {
         "english": "Large",
@@ -6032,6 +6088,7 @@
 	    "italian": "Grandi",
 	    "dutch": "Groot",
 	    "chinese": "大量",
+	    "korean": "많음",
     },
     "largeRationsTooltip_Title": {
         "english": "Large Food Rations",
@@ -6047,6 +6104,7 @@
 	    "italian": "Razioni di cibo grandi",
 	    "dutch": "Grote rantsoenen",
 	    "chinese": "大量食物配给",
+	    "korean": "많은 배급량",
     },
     "largeRationsTooltip_Desc": {
         "english": "Your colonists will eat more food. At least their happy about it",
@@ -6062,6 +6120,7 @@
 	    "italian": "I tuoi coloni mangeranno più cibo. Almeno ne saranno felici!",
 	    "dutch": "Je kolonisten eten meer voedsel. Daar worden ze in elk geval blij van",
 	    "chinese": "你的殖民者会吃得更多。至少他们对此很满意",
+	    "korean": "개척자들이 음식을 더 많이 먹습니다. 적어도 기분은 좋아지겠죠",
     },
     "issuedByPlayerTooltip_Title": {
         "english": "Task issued by Player",
@@ -6077,6 +6136,7 @@
 	    "italian": "Compito assegnato dal giocatore",
 	    "dutch": "Taak gegeven door de speler",
 	    "chinese": "玩家下达的任务",
+	    "korean": "플레이어가 지시한 일",
     },
     "issuedByPlayerTooltip_Desc": {
         "english": "These tasks won't get aborted by the schedule.",
@@ -6092,6 +6152,7 @@
 	    "italian": "Questi compiti non verranno interrotti dall'orario.",
 	    "dutch": "Deze taken worden niet door het rooster afgebroken.",
 	    "chinese": "这些任务不会被时间安排打断。",
+	    "korean": "이 일들은 일과표 때문에 중단되지 않습니다.",
     },
     "issuedByScheduleTooltip_Title": {
         "english": "Interaction issued by schedule / colonist",
@@ -6107,6 +6168,7 @@
 	    "italian": "Interazione assegnata dall'orario o dal colono",
 	    "dutch": "Taak gekozen door het rooster of de kolonist",
 	    "chinese": "时间安排/殖民者选择的交互",
+	    "korean": "일과표/개척자가 고른 행동",
     },
     "issuedByScheduleTooltip_Desc": {
         "english": "These interactions can get aborted by the Schedule.",
@@ -6122,6 +6184,7 @@
 	    "italian": "Queste interazioni possono essere interrotte dall'orario.",
 	    "dutch": "Deze taken kunnen door het rooster worden afgebroken.",
 	    "chinese": "这些交互可能会被时间安排打断。",
+	    "korean": "이 행동들은 일과표 때문에 중단될 수 있습니다.",
     },
     "noItemInStorage": {
         "english": "You have not stored any furniture yet. You can store furniture by dropping them in storage's drop area.",
@@ -6137,6 +6200,7 @@
 	    "italian": "Non hai ancora riposto nessun mobile. Puoi conservare i mobili trascinandoli nell'area di deposito del magazzino.",
 	    "dutch": "Je hebt nog geen meubels opgeslagen. Sleep meubels naar het opslagvak om ze op te bergen.",
 	    "chinese": "你还没有存放任何家具。把家具拖到仓库的放置区域即可存放。",
+	    "korean": "아직 보관해 둔 가구가 없습니다. 가구를 보관 영역에 끌어다 놓으면 보관할 수 있습니다.",
     },
     "dragAndDrop": {
         "english": "Drag any furniture and drop it in this area to store it",
@@ -6152,6 +6216,7 @@
 	    "italian": "Trascina un mobile in quest'area per riporlo in magazzino",
 	    "dutch": "Sleep een meubelstuk naar dit vak om het op te bergen",
 	    "chinese": "把家具拖放到这个区域即可存放",
+	    "korean": "가구를 이 영역에 끌어다 놓으면 보관됩니다",
     },
     "difficultyAdaptation": {
         "english": "Difficulty Adaptation",
@@ -6167,6 +6232,7 @@
 	    "italian": "Adattamento della difficoltà",
 	    "dutch": "Moeilijkheid aanpassen",
 	    "chinese": "难度调整",
+	    "korean": "난이도 조정",
     },
     "difficultyAdaptationDesc": {
         "english": "Sometimes Founders' Fortune can be hard. Do you want to change the difficulty?",
@@ -6182,6 +6248,7 @@
 	    "italian": "A volte Founders' Fortune può essere difficile. Vuoi cambiare la difficoltà?",
 	    "dutch": "Founders' Fortune kan soms lastig zijn. Wil je de moeilijkheid aanpassen?",
 	    "chinese": "有时候 Founders' Fortune 可能会很难。你想调整难度吗？",
+	    "korean": "Founders' Fortune이 어렵게 느껴질 때가 있습니다. 난이도를 바꾸시겠습니까?",
     },
     "difficultyAdaptationAccept": {
         "english": "Let's Change",
@@ -6197,6 +6264,7 @@
 	    "italian": "Cambiamola",
 	    "dutch": "Aanpassen",
 	    "chinese": "去调整",
+	    "korean": "바꾸기",
     },
     "schedule": {
         "english": "Schedules",
@@ -6212,6 +6280,7 @@
 	    "italian": "Orari",
 	    "dutch": "Roosters",
 	    "chinese": "时间安排",
+	    "korean": "일과표",
     },
     "followColonyWideSchedule_Title": {
         "english": "Follow Colony-wide Schedule",
@@ -6227,6 +6296,7 @@
 	    "italian": "Segui l'orario della colonia",
 	    "dutch": "Rooster van de kolonie volgen",
 	    "chinese": "遵循全殖民地时间安排",
+	    "korean": "정착지 전체 일과표 따르기",
     },
     "followColonyWideSchedule_Desc": {
         "english": "When enabled, the colony-wide schedule will override the colonist's schedule",
@@ -6242,6 +6312,7 @@
 	    "italian": "Se attivo, l'orario della colonia avrà la priorità sull'orario del colono.",
 	    "dutch": "Als dit aanstaat, overschrijft het rooster van de hele kolonie het rooster van deze kolonist",
 	    "chinese": "启用后，全殖民地时间安排将覆盖该殖民者自己的时间安排",
+	    "korean": "켜면 정착지 전체 일과표가 이 개척자의 일과표보다 우선합니다",
     },
     "paintingCompleted": {
         "english": "Painting Completed",
@@ -6257,6 +6328,7 @@
 	    "italian": "Dipinto completato",
 	    "dutch": "Schilderij voltooid",
 	    "chinese": "画作完成",
+	    "korean": "그림 완성",
     },
     "changeAge": {
         "english": "Change Age",
@@ -6272,6 +6344,7 @@
 	    "italian": "Cambia età",
 	    "dutch": "Leeftijd wijzigen",
 	    "chinese": "更改年龄",
+	    "korean": "나이 변경",
     },
 
 }
